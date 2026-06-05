@@ -135,7 +135,8 @@ a { color: inherit; text-decoration: none; }
   color: var(--ink);
 }
 
-@view-transition { navigation: auto; }
+/* @view-transition was here. Removed: Safari iOS treats the cross-document
+   View Transitions opt-in as a redirect chain in some cases. */
 
 :focus-visible {
   outline: 2px solid var(--accent);

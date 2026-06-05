@@ -1,5 +1,7 @@
 ---
-import { ViewTransitions } from "astro:transitions";
+// View Transitions intentionally disabled — Safari iOS misreports them as
+// a redirect chain and aborts with "Load cannot follow more than 20
+// redirections". Normal full-page loads instead.
 import { type Lang, ui } from "../i18n/ui";
 import Header from "../components/Header.astro";
 import { url } from "../lib/topics";
@@ -42,7 +44,6 @@ const desc = description ?? t.siteTagline;
         } catch (_) {}
       })();
     </script>
-    <ViewTransitions />
   </head>
   <body>
     <a href="#main" class="skip-link">Skip to main content</a>

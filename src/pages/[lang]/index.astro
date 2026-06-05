@@ -60,47 +60,34 @@ const contentsLede = lang === "bg"
       <p class="section-lede">{contentsLede}</p>
     </div>
 
-    <div id="ortho" class="toc-group reveal">
-      <div class="toc-group-label">{t.sectionOrtho}</div>
-      <ol class="toc-list">
-        {ortho.map((e) => (
-          <li>
-            <a href={topicPath(lang, e)}>
-              <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
-              <span class="toc-title">{e.data.title}</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-    </div>
-
-    <div id="trauma" class="toc-group reveal">
-      <div class="toc-group-label">{t.sectionTrauma}</div>
-      <ol class="toc-list">
-        {trauma.map((e) => (
-          <li>
-            <a href={topicPath(lang, e)}>
-              <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
-              <span class="toc-title">{e.data.title}</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-    </div>
-
-    <div id="anatomy" class="toc-group reveal">
-      <div class="toc-group-label">{t.sectionAnatomy}</div>
-      <ol class="toc-list">
-        {anatomy.map((e) => (
-          <li>
-            <a href={topicPath(lang, e)}>
-              <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
-              <span class="toc-title">{e.data.title}</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-    </div>
+    {([
+      { id: "ortho",   label: t.sectionOrtho,   topics: ortho },
+      { id: "trauma",  label: t.sectionTrauma,  topics: trauma },
+      { id: "anatomy", label: t.sectionAnatomy, topics: anatomy },
+    ] as const).map((group) => {
+      const half = Math.ceil(group.topics.length / 2);
+      const left = group.topics.slice(0, half);
+      const right = group.topics.slice(half);
+      return (
+        <div id={group.id} class="toc-group reveal">
+          <div class="toc-group-label">{group.label}</div>
+          <div class="toc-cols">
+            {[left, right].map((col, i) => (
+              <ol class="toc-list" start={i === 0 ? 1 : half + 1}>
+                {col.map((e) => (
+                  <li>
+                    <a href={topicPath(lang, e)}>
+                      <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
+                      <span class="toc-title">{e.data.title}</span>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            ))}
+          </div>
+        </div>
+      );
+    })}
   </section>
 </BaseLayout>
 
@@ -135,29 +122,27 @@ const contentsLede = lang === "bg"
     color: var(--accent);
     margin-bottom: var(--s-4);
   }
+  /* Two halves rendered as siblings so split is guaranteed
+     (15+15 Ortho, 16+16 Trauma, 6+6 Anatomy) — top→bottom each side. */
+  .toc-cols {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  @media (min-width: 760px) {
+    .toc-cols {
+      grid-template-columns: 1fr 1fr;
+      column-gap: var(--s-7);
+    }
+  }
   .toc-list {
     list-style: none;
     margin: 0;
     padding: 0;
     border-top: 1px solid var(--rule);
-    /* Mobile: single column, items flow top-to-bottom. */
-    column-count: 1;
-  }
-  @media (min-width: 760px) {
-    .toc-list {
-      /* Desktop: column-major — fill left column top→bottom, then right.
-         For an even count balance distributes 15+15 / 16+16 / 6+6. */
-      column-count: 2;
-      column-gap: var(--s-7);
-      column-fill: balance;
-    }
   }
   .toc-list li {
     border-bottom: 1px solid var(--rule);
-    /* Prevent items from being split across columns. */
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
   }
   .toc-list a {
     display: grid;

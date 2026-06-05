@@ -59,19 +59,30 @@ const desc = description ?? t.siteTagline;
     </footer>
 
     <script is:inline>
-      // Subtle scroll-reveal.
+      // Subtle scroll-reveal — opt-in by JS marking elements 'pending',
+      // then unmarking when visible. Default state is visible.
       (function () {
         if (!("IntersectionObserver" in window)) return;
+        if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
         const io = new IntersectionObserver((entries) => {
           for (const e of entries) {
             if (e.isIntersecting) {
+              e.target.setAttribute("data-pending", "false");
               e.target.classList.add("is-visible");
               io.unobserve(e.target);
             }
           }
-        }, { threshold: 0.08, rootMargin: "0px 0px -8% 0px" });
+        }, { threshold: 0.08, rootMargin: "0px 0px -6% 0px" });
         const wire = () => {
-          document.querySelectorAll(".reveal:not(.is-visible)").forEach((el) => io.observe(el));
+          document.querySelectorAll(".reveal:not(.is-visible)").forEach((el) => {
+            el.setAttribute("data-pending", "true");
+            io.observe(el);
+            // Failsafe: if not visible within 1.2s, force reveal.
+            setTimeout(() => {
+              el.setAttribute("data-pending", "false");
+              el.classList.add("is-visible");
+            }, 1200);
+          });
         };
         wire();
         document.addEventListener("astro:after-swap", wire);

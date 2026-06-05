@@ -463,8 +463,10 @@ html[data-theme="dark"] .btn-primary { color: #0F0F12; }
    Scroll reveal — subtle fade-in on enter
    ─────────────────────────────────────────────────────────────────────── */
 
+/* Scroll-reveal — only hides if JS marks the element 'pending'.
+   Default state is visible, so the page is readable even with JS off. */
 @media (prefers-reduced-motion: no-preference) {
-  .reveal {
+  .reveal[data-pending="true"] {
     opacity: 0;
     transform: translateY(8px);
     transition: opacity 600ms var(--ease), transform 600ms var(--ease);

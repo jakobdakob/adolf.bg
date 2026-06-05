@@ -1,20 +1,7 @@
 ---
-const base = import.meta.env.BASE_URL || "/";
-const a = base.endsWith("/") ? base.slice(0, -1) : base;
+// Root URL → BG landing rendered directly (no redirect).
+// Avoids the Safari iOS "Load cannot follow more than 20 redirections" loop
+// that the previous meta-refresh page produced.
+import Landing from "../components/Landing.astro";
 ---
-<!doctype html>
-<html lang="bg">
-  <head>
-    <meta charset="utf-8" />
-    <title>adolf.bg</title>
-    <meta http-equiv="refresh" content={`0; url=${a}/bg/`} />
-    <link rel="canonical" href={`${a}/bg/`} />
-    <meta name="robots" content="noindex" />
-  </head>
-  <body>
-    <p style="font-family:system-ui;padding:2rem">
-      <a href={`${a}/bg/`}>Към адолф.bg (български) →</a><br />
-      <a href={`${a}/en/`}>Go to adolf.bg (English) →</a>
-    </p>
-  </body>
-</html>
+<Landing lang="bg" />

@@ -102,7 +102,10 @@ const startHref = topicPath(lang, ortho[0]);
   .hero {
     max-width: var(--shell-width);
     margin: 0 auto;
-    padding: clamp(var(--s-8), 10vw, var(--s-10)) var(--s-5) var(--s-9);
+    padding-left: var(--page-pad);
+    padding-right: var(--page-pad);
+    padding-top: clamp(var(--s-8), 10vw, var(--s-10));
+    padding-bottom: var(--s-9);
   }
   .hero-inner { max-width: 1000px; }
   .hero-cta {
@@ -114,7 +117,10 @@ const startHref = topicPath(lang, ortho[0]);
   .contents {
     max-width: var(--shell-width);
     margin: 0 auto;
-    padding: var(--s-9) var(--s-5) var(--s-10);
+    padding-left: var(--page-pad);
+    padding-right: var(--page-pad);
+    padding-top: var(--s-9);
+    padding-bottom: var(--s-10);
   }
   .contents-head { margin-bottom: var(--s-8); max-width: 720px; }
   .contents-group { margin-bottom: var(--s-8); }
@@ -148,13 +154,14 @@ const startHref = topicPath(lang, ortho[0]);
     display: grid;
     grid-template-columns: 3.2rem 1fr;
     gap: var(--s-3);
-    padding: 0.95rem 0.25rem;
+    /* No horizontal inset — items align flush with section title above. */
+    padding: 0.95rem 0;
     color: var(--ink);
-    transition: color 160ms var(--ease), padding-left 220ms var(--ease);
+    transition: color 160ms var(--ease), transform 220ms var(--ease);
   }
   .contents-list a:hover {
     color: var(--accent);
-    padding-left: var(--s-3);
+    transform: translateX(var(--s-2));
   }
   .contents-num {
     font-variant-numeric: tabular-nums;

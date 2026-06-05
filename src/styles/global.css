@@ -53,8 +53,28 @@
   --reading-width: 65ch;
   --shell-width: 1200px;
 
+  /* Single horizontal page gutter — used by every top-level block.
+     Mobile = 20px, narrow tablet = 28px, desktop = 40px. */
+  --page-pad: 20px;
+
   /* Motion */
   --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+@media (min-width: 600px) {
+  :root { --page-pad: 28px; }
+}
+@media (min-width: 900px) {
+  :root { --page-pad: 40px; }
+}
+
+/* Universal page container — every top-level block uses this so
+   horizontal alignment is consistent across the page. */
+.container {
+  max-width: var(--shell-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--page-pad);
+  padding-right: var(--page-pad);
 }
 
 html[data-theme="dark"] {
@@ -300,7 +320,8 @@ html[data-theme="dark"] .btn-primary { color: #0F0F12; }
 .site-header-inner {
   max-width: var(--shell-width);
   margin: 0 auto;
-  padding: 0 var(--s-5);
+  padding-left: var(--page-pad);
+  padding-right: var(--page-pad);
   height: 56px;
   display: flex;
   align-items: center;
@@ -488,7 +509,10 @@ html[data-theme="dark"] .btn-primary { color: #0F0F12; }
 .site-footer-inner {
   max-width: var(--shell-width);
   margin: 0 auto;
-  padding: var(--s-6) var(--s-5);
+  padding-left: var(--page-pad);
+  padding-right: var(--page-pad);
+  padding-top: var(--s-6);
+  padding-bottom: var(--s-6);
   display: flex;
   flex-wrap: wrap;
   gap: var(--s-4);

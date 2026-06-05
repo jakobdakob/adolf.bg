@@ -10,19 +10,12 @@ interface Props {
 const { lang, active, drawer = false } = Astro.props;
 const t = ui[lang];
 const all = await getTopicsByLang(lang);
-const { preface, ortho, trauma } = groupTopics(all);
+const { ortho, trauma, anatomy } = groupTopics(all);
 
 function isActive(e: TopicEntry) { return e.slug === active; }
 ---
 <aside class={drawer ? "drawer-panel" : "sidebar hidden lg:block"}>
   <nav aria-label={t.contents}>
-    {preface && (
-      <a href={topicPath(lang, preface)} class:list={["sidebar-link", isActive(preface) && "is-active"]}>
-        <span class="num">·</span>
-        {preface.data.title}
-      </a>
-    )}
-
     <div class="sidebar-section-label">{t.sectionOrtho}</div>
     {ortho.map((e) => (
       <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
@@ -33,6 +26,14 @@ function isActive(e: TopicEntry) { return e.slug === active; }
 
     <div class="sidebar-section-label">{t.sectionTrauma}</div>
     {trauma.map((e) => (
+      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
+        <span class="num">{e.data.topicNumber}</span>
+        <span>{e.data.title}</span>
+      </a>
+    ))}
+
+    <div class="sidebar-section-label">{t.sectionAnatomy}</div>
+    {anatomy.map((e) => (
       <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
         <span class="num">{e.data.topicNumber}</span>
         <span>{e.data.title}</span>

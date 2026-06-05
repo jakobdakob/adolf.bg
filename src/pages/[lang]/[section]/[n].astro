@@ -15,7 +15,7 @@ export async function getStaticPaths() {
   return out;
 }
 
-const { lang, section, n } = Astro.params as { lang: Lang; section: "ortho" | "trauma"; n: string };
+const { lang, section, n } = Astro.params as { lang: Lang; section: "ortho" | "trauma" | "anatomy"; n: string };
 const all = await getTopicsByLang(lang);
 const entry = all.find(
   (e) => e.data.kind === "topic" && e.data.section === section && e.data.topicNumber === Number(n)

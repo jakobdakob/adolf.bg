@@ -8,6 +8,7 @@ type UIStrings = {
   siteTagline: string;
   sectionOrtho: string;
   sectionTrauma: string;
+  sectionAnatomy: string;
   preface: string;
   topic: string;
   search: string;
@@ -31,6 +32,7 @@ export const ui: Record<Lang, UIStrings> = {
     siteTagline: "Ортопедия и травматология — компендиум за държавния изпит",
     sectionOrtho: "Ортопедия",
     sectionTrauma: "Травматология",
+    sectionAnatomy: "Анатомия",
     preface: "Предговор",
     topic: "Тема",
     search: "Търсене",
@@ -52,6 +54,7 @@ export const ui: Record<Lang, UIStrings> = {
     siteTagline: "Orthopedics & Traumatology — State Board Exam Compendium",
     sectionOrtho: "Orthopedics",
     sectionTrauma: "Traumatology",
+    sectionAnatomy: "Anatomy",
     preface: "Preface",
     topic: "Topic",
     search: "Search",

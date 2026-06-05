@@ -52,5 +52,6 @@ export function groupTopics(entries: TopicEntry[]) {
   const preface = entries.find((e) => e.data.kind === "preface");
   const ortho = entries.filter((e) => e.data.section === "ortho");
   const trauma = entries.filter((e) => e.data.section === "trauma");
-  return { preface, ortho, trauma };
+  const anatomy = entries.filter((e) => e.data.section === "anatomy");
+  return { preface, ortho, trauma, anatomy };
 }

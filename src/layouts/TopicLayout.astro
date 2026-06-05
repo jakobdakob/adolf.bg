@@ -13,19 +13,28 @@ interface Props {
 const { lang, entry, otherPath } = Astro.props;
 const t = ui[lang];
 
-const all = await getTopicsByLang(lang);
+const allEntries = await getTopicsByLang(lang);
+// Exclude preface from prev/next navigation — it is hidden from the site.
+const all = allEntries.filter((e) => e.data.kind === "topic");
 const idx = all.findIndex((e) => e.slug === entry.slug);
 const prev = idx > 0 ? all[idx - 1] : undefined;
 const next = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined;
 
 const section =
   entry.data.kind === "preface" ? "preface" :
-  entry.data.section === "ortho" ? "ortho" : "trauma";
+  entry.data.section ?? "ortho";
+
+function sectionLabel(s?: string): string {
+  if (s === "ortho") return t.sectionOrtho;
+  if (s === "trauma") return t.sectionTrauma;
+  if (s === "anatomy") return t.sectionAnatomy;
+  return t.preface;
+}
 
 const eyebrow =
   entry.data.kind === "preface"
     ? t.preface
-    : `${entry.data.section === "ortho" ? t.sectionOrtho : t.sectionTrauma} · ${t.topicNumberLabel(entry.data.topicNumber!)}`;
+    : `${sectionLabel(entry.data.section)} · ${t.topicNumberLabel(entry.data.topicNumber!)}`;
 ---
 <BaseLayout
   lang={lang}

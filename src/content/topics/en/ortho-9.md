@@ -167,7 +167,7 @@ bearing (ceramic-on-ceramic or ceramic-on-highly-cross-linked-polyethylene); the
 underlying cause may affect bone quality (long-term corticosteroid therapy produces
 osteopenia); and the contralateral hip may already be involved or at high risk. Modern THA
 in this population produces excellent functional outcomes with 10-15 year survivorship of
->95% in many series. Bipolar hemiarthroplasty has been used in selected younger patients
+\>95% in many series. Bipolar hemiarthroplasty has been used in selected younger patients
 but has largely been supplanted by THA.
 
 ## 4. Spontaneous Osteonecrosis of the Knee (SONK)

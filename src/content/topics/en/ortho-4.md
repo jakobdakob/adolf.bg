@@ -226,7 +226,7 @@ one, 40% with two, 93% with three, and 99% with four. CRP >2 mg/dL has been adde
 subsequent refinements as a single additional powerful predictor. Aspiration of the joint
 under appropriate analgesia and sterile conditions — under ultrasound guidance in the hip
 — is the diagnostic gold standard: synovial fluid examination of cell count (typically
->50,000 WBC/mm³ with >75% neutrophils), Gram stain, culture, and PCR for Kingella in
+\>50,000 WBC/mm³ with >75% neutrophils), Gram stain, culture, and PCR for Kingella in
 the relevant age group establishes the diagnosis.
 Treatment is urgent surgical drainage — open, arthroscopic, or, in selected cases of
 accessible joints with prompt presentation, repeated aspiration — combined with

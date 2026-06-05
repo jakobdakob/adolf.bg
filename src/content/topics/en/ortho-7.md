@@ -135,7 +135,7 @@ Type I: Normal mature hip. Alpha angle ≥60°.
 Type II: Immature or dysplastic hip. Alpha angle 43-59°. Subtypes IIa (physiologically
 immature, <3 months, with no treatment if resolution by 6 weeks), IIb (delayed maturation,
 
->3 months, requiring treatment), IIc (critical zone, alpha 43-49°, beta <77°, requiring
+\>3 months, requiring treatment), IIc (critical zone, alpha 43-49°, beta <77°, requiring
 treatment), and IId (decentered, beta >77°).
 Type III: Dislocated hip with eccentric femoral head. The labrum is everted but not
 deformed.

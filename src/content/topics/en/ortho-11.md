@@ -79,7 +79,7 @@ rotation, and forefoot adduction — each from 0 (no deformity) to 4 (severe def
 with additional points for posterior crease, medial crease, cavus, and poor muscle
 condition. The total score is 0-20, divided into four grades: Grade I (mild, score <5), Grade
 II (moderate, score 5-10), Grade III (severe, score 10-15), and Grade IV (very severe, score
->15). The classification is reproducible and correlates with treatment response.
+\>15). The classification is reproducible and correlates with treatment response.
 Pirani Score
 The Pirani score, simpler and more widely used in Ponseti-method practice, scores six
 features: three midfoot signs (curved lateral border, medial crease, lateral head of talus

@@ -26,7 +26,7 @@ birth, with an incidence of approximately 1-3 per 1,000 live births. The princip
 is shoulder dystocia during vaginal delivery, in which the anterior shoulder becomes
 impacted behind the maternal pubic symphysis and traction on the head produces traction
 on the contralateral neck and plexus. Other risk factors include macrosomia (birth weight
->4 kg), prolonged second stage of labor, instrumental delivery (forceps, vacuum), maternal
+\>4 kg), prolonged second stage of labor, instrumental delivery (forceps, vacuum), maternal
 diabetes, breech presentation (typically producing a different injury pattern with the upper
 plexus), and previous OBPP in a sibling.
 

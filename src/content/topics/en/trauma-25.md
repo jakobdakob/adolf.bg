@@ -93,7 +93,9 @@ acute injury.
 
 ## Treatment of Patella Fractures
 
-Non-Operative Management
+
+## Non-Operative Management
+
 Non-operative management is appropriate for non-displaced or minimally displaced
 fractures with intact extensor mechanism (intact retinacula, preserved active extension).
 The principal threshold is:
@@ -104,7 +106,9 @@ These patients are treated in a knee immobilizer or cylinder cast in extension f
 weeks, with early progressive range of motion exercises beginning as the fracture
 stabilizes. Weight bearing is permitted as tolerated with the knee in extension. Outcomes
 are generally excellent.
-Operative Management
+
+## Operative Management
+
 Operative management is indicated for displaced fractures with disrupted extensor
 mechanism, articular step-off greater than 2 mm, comminuted fractures with
 significant displacement, open fractures, and osteochondral fractures requiring
@@ -232,7 +236,9 @@ IV through VI patterns.
 
 ## Treatment of Tibial Plateau Fractures
 
-Non-Operative Management
+
+## Non-Operative Management
+
 Non-operative management is appropriate for non-displaced or minimally displaced
 fractures with articular step-off less than 2 to 5 mm (depending on the source and patient
 factors), maintained mechanical axis of the limb, and intact ligaments. Treatment is
@@ -241,7 +247,9 @@ cylinder cast) for 4 to 6 weeks with non-weight bearing or toe-touch weight bear
 followed by progressive weight bearing and range of motion. Outcomes are generally good
 for appropriate fracture patterns.
 
-Operative Management
+
+## Operative Management
+
 Operative indications include articular step-off greater than 2 to 5 mm (with the threshold
 debated; many surgeons use 3 mm), depression of the articular surface, condylar widening,
 mechanical axis malalignment, open fracture, and associated ligamentous or meniscal
@@ -263,7 +271,9 @@ requires support to prevent re-collapse. Autogenous bone graft (from iliac crest
 allograft, calcium phosphate cement, or other bone graft substitutes are used to fill the
 void. The calcium phosphate cement has the advantage of rapid mechanical strength gain
 (within hours), making it particularly attractive for the early weight-bearing patient.
-Specific Patterns
+
+## Specific Patterns
+
 Schatzker I: Open reduction and lag screw fixation, often with a buttress plate. Anatomical
 reduction of the split is the goal.
 Schatzker II (most common): Open reduction through a lateral approach. The depression
@@ -284,7 +294,9 @@ medial and lateral plates. The monolateral fixator with delayed conversion has b
 used for severe injuries with extensive soft-tissue compromise — initial spanning external
 fixation across the knee with delayed conversion to internal fixation when the soft-tissue
 envelope permits.
-Knee Spanning External Fixation
+
+## Knee Spanning External Fixation
+
 For the high-energy Schatzker V or VI with severe soft-tissue compromise (open fracture,
 severe contusion, blistering), the damage control approach with knee spanning external
 fixation is appropriate. The fixator is applied across the knee from femur to tibia,

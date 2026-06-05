@@ -84,7 +84,9 @@ quadriceps tendon. Encountered in anterior hip and pelvis approaches.
 
 The pelvic surgery anatomy is dominated by the dense neurovascular structures:
 
-Iliac Vessels
+
+## Iliac Vessels
+
 The common iliac arteries branch from the abdominal aorta at approximately the level of
 L4 and divide into the internal iliac (hypogastric) and external iliac arteries at
 approximately the SI joint. The external iliac artery continues across the pelvic brim to
@@ -101,7 +103,9 @@ the superior pubic ramus. The corona mortis is present in 30 to 80 percent of in
 and is at substantial risk during ilioinguinal and anterior intrapelvic approaches; injury
 produces significant bleeding that may be difficult to control because the vessel retracts
 into the obturator foramen.
-Lumbosacral Plexus
+
+## Lumbosacral Plexus
+
 The lumbosacral plexus is formed from the anterior rami of L4 through S4. The principal
 nerves include:
 Femoral nerve (L2-L4): Descends through the iliac fossa anterior to the iliacus muscle,
@@ -126,7 +130,9 @@ Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle 
 passes beneath the inguinal ligament approximately 1 to 2 cm medial to the ASIS. Provides
 sensation to the lateral thigh. Frequently encountered (and at risk) in anterior pelvic
 approaches; injury produces meralgia paresthetica.
-Lumbar Plexus Within the Psoas
+
+## Lumbar Plexus Within the Psoas
+
 The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in
 lateral transpsoas approaches to the lumbar spine (XLIF/LLIF — see Topic Anatomy-1).
 The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
@@ -140,15 +146,21 @@ pubis. The approach is used for acetabular fracture fixation (anterior column, a
 wall, anterior column with posterior hemitransverse, both-column patterns), iliac
 wing fracture fixation, pelvic ring fracture fixation (combined with other
 approaches), tumor resection, and selected revision pelvic procedures.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine on a radiolucent table. The bladder is catheterized. The legs are
 draped to permit hip flexion as needed during the procedure.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The principal landmarks are the iliac crest, ASIS, inguinal ligament, and the midline of
 the pubic symphysis. The skin incision follows the iliac crest from approximately 2 cm
 posterior to the iliac crest highpoint, curves around the ASIS, and continues medially along
 the inguinal ligament to the midline at the symphysis.
-Approach — The Three Windows
+
+## Approach — The Three Windows
+
 The classical Letournel approach uses three “windows” through the abdominal wall, with
 the inguinal canal traversed in the process:
 The lateral (first) window: Between the ASIS and the iliopsoas. The lateral femoral
@@ -163,7 +175,9 @@ the quadrilateral surface.
 The medial (third) window: Between the external iliac vessels laterally and the spermatic
 cord (or round ligament in females) and the rectus abdominis medially. The window
 provides access to the superior pubic ramus and the symphysis.
-Critical Structures
+
+## Critical Structures
+
 The structures crossing the operative field that must be identified and protected
 include:
 The lateral femoral cutaneous nerve beneath the inguinal ligament near the ASIS.
@@ -174,7 +188,9 @@ The corona mortis vascular anastomosis crossing the superior pubic ramus.
 The inferior epigastric vessels ascending behind the rectus abdominis.
 The spermatic cord (or round ligament) traversing the inguinal canal.
 
-Closure and Complications
+
+## Closure and Complications
+
 The closure includes meticulous repair of the inguinal canal floor and the inguinal ligament
 to prevent inguinal hernia (a recognized complication). Other complications include
 inguinal hernia (3 to 8 percent), lateral femoral cutaneous nerve injury with meralgia
@@ -188,12 +204,18 @@ The anterior intrapelvic (modified Stoppa) approach was developed by Hirvensalo 
 Cole (1993) as a modification of the original Stoppa hernia approach, providing access to
 the pelvic brim, the quadrilateral surface, and the posterior column of the acetabulum from
 anterior, without the morbidity of the three-window ilioinguinal approach.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine on a radiolucent table, with the bladder catheterized.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 A Pfannenstiel-type transverse incision is made approximately 2 cm above the pubic
 symphysis, or a midline vertical incision can be used for extended exposure.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The rectus abdominis is divided in the
 midline (with the linea alba being the avascular plane). The transversalis fascia and
 
@@ -210,7 +232,9 @@ The modified Stoppa is increasingly preferred over the classical ilioinguinal fo
 acetabular fracture patterns because of better visualization of the quadrilateral surface and
 the medial wall, with reduced overall morbidity compared with the three-window
 approach.
-Complications
+
+## Complications
+
 The complications include vascular injury (corona mortis, iliac vessels), bladder injury
 (if the bladder is not adequately drained), obturator nerve injury, and inguinal/femoral
 hernia (less common than with the ilioinguinal approach).
@@ -223,16 +247,22 @@ region. The approach is used for posterior wall and posterior column acetabular
 fracture fixation, transverse and T-shaped fracture fixation (when the posterior
 column is dominant), open reduction of posterior hip dislocations, and tumor
 resection of the posterior pelvis.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is prone or lateral decubitus with the affected side up. The lateral decubitus
 position is more commonly used because it allows easier sciatic nerve monitoring and
 easier conversion to anterior or extended approaches if needed.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The greater trochanter, the PSIS, and the midline of the gluteus maximus mark the line
 of the incision. The skin incision begins at the PSIS, curves down and laterally over the
 greater trochanter, and extends distally for approximately 5 to 8 cm into the proximal
 thigh.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The fascia lata and gluteal aponeurosis are
 opened in line with the skin incision. The gluteus maximus is split in line with its fibers;
 
@@ -248,7 +278,9 @@ The short external rotators are then incised at their trochanteric insertions an
 medially. The posterior hip capsule is exposed. Trochanteric osteotomy or
 trochanteric flip osteotomy (Ganz) can be performed to extend the exposure proximally
 to the supra-acetabular region and to permit safe surgical hip dislocation.
-Complications
+
+## Complications
+
 The complications of the Kocher-Langenbeck approach include sciatic nerve injury (the
 principal concern — 10 to 30 percent of patients have some degree of postoperative sciatic
 nerve dysfunction, predominantly peroneal-division injury; many recover but residual
@@ -266,7 +298,9 @@ infection) has caused this approach to be largely abandoned in favor of combined
 approaches (Kocher-Langenbeck plus ilioinguinal in stages) for the most complex
 acetabular fractures.
 
-Approach
+
+## Approach
+
 The patient is in lateral decubitus. The skin incision combines a posterior portion (along
 the iliac crest from the PSIS) with an anterior portion (curving down to the greater
 trochanter). The gluteus maximus is reflected posteriorly, and the gluteus medius and
@@ -281,12 +315,16 @@ other approaches are inadequate.
 The Pfannenstiel approach provides direct access to the pubic symphysis for
 symphyseal disruption fixation, anterior pelvic ring stabilization, and selected
 exposures of the inferior pubic region.
-Approach
+
+## Approach
+
 The skin incision is transverse approximately 2 cm above the pubic symphysis, similar to
 the obstetric Pfannenstiel incision but typically smaller. The rectus abdominis is split or
 divided in the midline (with care for the bladder). The anterior aspect of the symphysis
 is exposed and the symphyseal plate is applied.
-Complications
+
+## Complications
+
 The complications include bladder injury (with inadequate decompression or aggressive
 retraction), infection, and wound complications.
 

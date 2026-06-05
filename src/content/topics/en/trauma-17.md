@@ -174,7 +174,9 @@ anatomical fixation remains the standard.
 
 ## Operative Techniques
 
-Volar Plating
+
+## Volar Plating
+
 Volar locking plate fixation has been the dominant operative technique since the early
 2000s, following the introduction of distal radius-specific locking plates by Orbay and
 others. The advantages over earlier dorsal plating include lower hardware prominence
@@ -200,14 +202,18 @@ the plate or screws being too distal — the EPL rupture is the dorsal equivalen
 tendon irritation (from prominent screw tips), median nerve injury (during the volar
 approach), CRPS (in 2 to 8 percent — see Topic Trauma-8), and hardware-related
 symptoms that occasionally require plate removal.
-Dorsal Plating
+
+## Dorsal Plating
+
 Dorsal plate fixation is reserved for specific indications — primarily the dorsal Barton
 fracture where the dorsal fragment requires buttressing, and selected fractures with
 dorsal die-punch fragments. The approach is between the third (EPL) and fourth
 (extensor digitorum communis) extensor compartments, with the EPL routed dorsal to its
 sheath at closure. Specialized low-profile dorsal plates have reduced the tendon-related
 complications that limited the older generation of dorsal plates.
-K-Wire Fixation
+
+## K-Wire Fixation
+
 Closed reduction with K-wire fixation — the Kapandji intrafocal pinning technique or
 the simpler transverse K-wire fixation — is a useful alternative for selected fractures,
 particularly the young patient with simple extra-articular or minimally articular patterns.
@@ -219,7 +225,9 @@ hardware removal. The DRAFFT trial (Costa et al., 2014, 2020) compared K-wire fi
 with volar plate fixation for extra-articular fractures in patients over 50 and found broadly
 similar functional outcomes at one and five years, with K-wire fixation being substantially
 less expensive and equally effective in this population.
-External Fixation
+
+## External Fixation
+
 External fixation with bridging fixator (pins in the radial shaft and the second metacarpal)
 was the standard operative technique in the 1980s and 1990s before locking plate
 technology and has been largely supplanted. It retains a role in the severely comminuted
@@ -230,7 +238,9 @@ requiring damage-control fracture management. Non-bridging external fixation (wi
 distal pins in the distal radius rather than spanning to the metacarpal) is a more modern
 variant.
 
-Arthroscopic-Assisted Reduction
+
+## Arthroscopic-Assisted Reduction
+
 Wrist arthroscopy allows direct visualization of the articular surface during reduction and
 has shown utility in selected intra-articular fractures, particularly those with depressed
 lunate facet fragments. Outcomes are reportedly improved in carefully selected cases, but

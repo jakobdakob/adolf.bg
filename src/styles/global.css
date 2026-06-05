@@ -308,6 +308,15 @@ html[data-theme="dark"] .btn-viber:hover {
   color: var(--ink);
   max-width: var(--reading-width);
   letter-spacing: -0.003em;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+.prose h2,
+.prose h3 {
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 .prose p { margin: 1.2em 0; }

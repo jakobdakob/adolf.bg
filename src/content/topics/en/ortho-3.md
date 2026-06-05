@@ -71,7 +71,9 @@ imaging.
 
 ## Osteosarcoma
 
-Epidemiology and Subtypes
+
+## Epidemiology and Subtypes
+
 Osteosarcoma is the commonest primary malignancy of bone in children and young adults,
 with a bimodal age distribution: a major peak in the second decade corresponding to the
 adolescent growth spurt, and a smaller peak in older adults corresponding to secondary
@@ -95,7 +97,9 @@ Fraumeni syndrome predisposes to osteosarcoma), retinoblastoma gene RB1 (bilater
 
 retinoblastoma carries a high risk of secondary osteosarcoma), and complex genomic
 instability with frequent chromothripsis and chromoplexy events.
-Clinical Features
+
+## Clinical Features
+
 Presentation is typically with pain and swelling at the site of the lesion, most commonly the
 distal femur, proximal tibia, and proximal humerus — the metaphyses of the bones around
 the knee and shoulder. Pain is initially intermittent, becomes constant, and progresses over
@@ -109,7 +113,9 @@ pathological fracture cases provided that adequate oncological margins can still
 achieved. Serum alkaline phosphatase and lactate dehydrogenase are commonly elevated
 and serve as prognostic markers — high LDH at presentation is an adverse prognostic
 factor.
-Imaging and Staging
+
+## Imaging and Staging
+
 Plain radiographs show a destructive lesion with a wide zone of transition, often with
 mixed lytic and sclerotic areas reflecting tumor osteoid production. Periosteal reaction is
 characteristic and may take several forms: the Codman triangle (a focus of periosteal new
@@ -125,7 +131,9 @@ limb-salvage versus amputation decision. CT chest is the staging investigation o
 pulmonary metastases, which are the dominant site of distant disease. Bone scan, or
 increasingly PET-CT, is used to detect skip metastases and additional sites of bone
 involvement.
-Treatment
+
+## Treatment
+
 The modern multidisciplinary treatment of osteosarcoma — neoadjuvant chemotherapy,
 wide local resection with limb salvage when feasible, adjuvant chemotherapy — has
 transformed survival from approximately 20% in the era of amputation alone to 60-70%
@@ -154,7 +162,9 @@ metastatic high-grade osteosarcoma is now 60-70%; for metastatic disease at pres
 
 ## Ewing Sarcoma
 
-Pathology and Molecular Biology
+
+## Pathology and Molecular Biology
+
 Ewing sarcoma is a small round blue cell tumor classified within the Ewing family of
 tumors, which includes peripheral primitive neuroectodermal tumor (PNET) and Askin
 tumor of the chest wall. The molecular signature is the t(11;22)(q24;q12) translocation,
@@ -166,7 +176,9 @@ characteristic membranous CD99 (MIC2) staining; the differential diagnosis inclu
 small round blue cell tumors of childhood — lymphoma, neuroblastoma,
 rhabdomyosarcoma, small cell osteosarcoma — for which immunohistochemistry and
 molecular studies are essential.
-Clinical Features and Imaging
+
+## Clinical Features and Imaging
+
 Ewing sarcoma typically affects the second decade, with a slight male predominance and a
 striking predilection for children of European ancestry; it is rare in African and East Asian
 populations. The lesion arises in the diaphysis of long bones — femur, tibia, humerus,
@@ -180,7 +192,9 @@ abnormality. MRI is essential for assessment of soft-tissue extent and skip meta
 chest and bone marrow biopsy are essential staging investigations, since pulmonary and
 bone-marrow metastases are common.
 
-Treatment
+
+## Treatment
+
 The treatment of Ewing sarcoma is intensive multimodality combination chemotherapy
 plus local control (surgery, radiotherapy, or both). The standard chemotherapy regimen in
 North America is VDC/IE — vincristine, doxorubicin, cyclophosphamide alternating with
@@ -302,12 +316,16 @@ appearance is of a destructive lytic lesion with poorly defined margins, typical
 matrix mineralization. Treatment principles parallel those of osteosarcoma: neoadjuvant
 chemotherapy, wide resection, adjuvant chemotherapy. The five-year survival is
 approximately 40-50%, modestly worse than osteosarcoma.
-Fibrosarcoma of Bone
+
+## Fibrosarcoma of Bone
+
 Fibrosarcoma of bone is a rare malignancy of fibroblastic origin, with a characteristic
 “herringbone” pattern of long bundles of spindle cells. It occurs in adults aged 30-60 years,
 with predilection for the femur and tibia. Treatment is wide surgical resection; the role of
 chemotherapy is less clearly defined than for osteosarcoma.
-Angiosarcoma of Bone
+
+## Angiosarcoma of Bone
+
 Angiosarcoma of bone is a rare, high-grade vascular sarcoma. It can be solitary or
 multifocal; the multifocal form is curiously regional, with multiple lesions typically
 confined to a single anatomical region. Treatment is multimodal, with wide surgical
@@ -316,7 +334,9 @@ recurrent disease.
 
 ## Metastatic Bone Disease
 
-Epidemiology and Pathophysiology
+
+## Epidemiology and Pathophysiology
+
 Metastatic disease is by far the commonest malignant lesion of bone in adults, accounting
 for the vast majority of malignant bone tumors over the age of 40. The five primary cancers
 responsible for approximately 80% of bone metastases — accessible by the time-honored
@@ -332,7 +352,9 @@ metastasis can be predominantly osteolytic (most carcinomas, particularly renal 
 predominantly osteoblastic (prostate, occasionally breast), or mixed. Multiple myeloma —
 although a hematological rather than truly metastatic disease — shares many features of
 the surgical management of metastatic carcinoma and is included in this section.
-Clinical Evaluation
+
+## Clinical Evaluation
+
 The classical presentation is of a patient with known cancer presenting with bone pain or
 pathological fracture. However, in a significant minority of patients, the bone metastasis is
 the presenting feature of an undiagnosed primary cancer — a situation in which thorough
@@ -359,7 +381,9 @@ higher predicts a high probability of fracture within months and supports prophy
 
 fixation. Although Mirels’ system is the most validated risk-stratification tool, clinical
 judgment — particularly the assessment of pain and functional loading — remains crucial.
-Surgical Principles
+
+## Surgical Principles
+
 The surgical approach to metastatic bone disease is fundamentally palliative: the goals are
 pain relief, restoration of function, and maintenance of independent ambulation for the
 patient’s remaining life expectancy. Several principles distinguish the surgery of
@@ -375,7 +399,9 @@ particularly femoral head and neck lesions, where the implant will not depend on
 pathological bone. Fifth, preoperative selective arterial embolization is essential for renal
 cell, thyroid, and other vascular metastases, where blood loss can otherwise be
 catastrophic.
-Spine Metastases and the SINS Score
+
+## Spine Metastases and the SINS Score
+
 Spinal metastases require special consideration because of the proximity of the spinal cord
 and the high frequency of involvement. The Spinal Instability Neoplastic Score (SINS),
 developed by the Spine Oncology Study Group, assesses six features — spinal level, type of

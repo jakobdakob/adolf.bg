@@ -106,13 +106,17 @@ patterns being considered for atypical fixation.
 
 ## Treatment Principles
 
-Non-Operative Management
+
+## Non-Operative Management
+
 Non-operative management of the pertrochanteric fracture is reserved for the non-
 ambulatory or terminally ill patient in whom operative intervention is contraindicated.
 The pain control allows bed-to-chair transfers and nursing care; the fracture heals in some
 position. Mortality in this group is very high because of the cascade of immobilization
 complications (pneumonia, decubitus ulcers, VTE).
-Operative Management — The General Principle
+
+## Operative Management — The General Principle
+
 Operative management is indicated in virtually all medically appropriate patients. The
 principles of operative fixation are: anatomical or near-anatomical reduction (with
 restoration of the neck-shaft angle and rotation), stable internal fixation with implant
@@ -122,7 +126,9 @@ from multiple studies, including the NICE guidelines).
 
 ## Sliding Hip Screw (Dynamic Hip Screw, DHS)
 
-Principle and Construct
+
+## Principle and Construct
+
 The sliding hip screw (SHS, dynamic hip screw, DHS) is the historical workhorse
 construct for stable pertrochanteric fractures. The construct consists of a lag screw placed
 centrally in the femoral neck, engaging the femoral head, connected to a side plate along
@@ -133,7 +139,9 @@ depends on intact medial buttress to oppose the medializing force on the screw; 
 patterns with medial comminution, excessive sliding can occur with consequent shortening
 and medialization of the distal fragment.
 
-Technical Considerations — The Tip-Apex Distance
+
+## Technical Considerations — The Tip-Apex Distance
+
 The most important technical consideration in SHS fixation is lag screw position,
 quantified by the tip-apex distance (TAD) described by Baumgaertner (1995). The TAD
 is the sum, measured in millimeters and corrected for radiographic magnification, of the
@@ -145,7 +153,9 @@ the tip approximately 5 to 10 mm from the subchondral surface.
 The calcar tip-apex distance (CalTAD) has been proposed as an alternative, measuring
 from the tip of the screw to the apex along a line through the inferior calcar; this measure
 may better predict cut-out in some patterns.
-Outcomes and Failure Modes
+
+## Outcomes and Failure Modes
+
 SHS fixation produces reliable union in stable pertrochanteric fractures with appropriately
 positioned hardware. The principal failure modes include:
 Cut-out of the lag screw through the superior cortex of the femoral head — the most
@@ -161,7 +171,9 @@ indication for SHS fixation, with cost-effectiveness and reliable outcomes.
 
 ## Cephalomedullary Nailing
 
-Principle and Construct
+
+## Principle and Construct
+
 The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary
 hip screw) combines an intramedullary nail in the proximal femur with a lag screw (or
 helical blade) that engages the femoral head through the nail. Multiple designs exist
@@ -174,7 +186,9 @@ than requiring intact medial bone — which makes the CMN superior in unstable f
 
 patterns and reverse oblique (31-A3) patterns where lateral plate fixation is
 biomechanically inadequate.
-Technical Considerations
+
+## Technical Considerations
+
 The technique requires careful entry point selection (typically tip of greater trochanter or
 just medial, depending on nail design), appropriate reaming, anatomical reduction of the
 fracture before nail insertion (with attention to rotation, which can be more difficult to
@@ -185,7 +199,9 @@ The PFNA helical blade was designed to provide rotational stability and improved
 in osteoporotic bone, with compaction of cancellous bone around the blade providing the
 holding force. Cut-out remains the principal failure mode, with the same predictors (TAD,
 malreduction).
-Short Versus Long Nails
+
+## Short Versus Long Nails
+
 The choice between short (typically 240 mm or less, ending in the proximal femur above
 the diaphyseal isthmus) and long (typically 340 mm or longer, extending to the distal
 metaphysis) nails is a practical consideration. Short nails are easier to insert and produce
@@ -222,7 +238,9 @@ favored this transition.
 
 ## Specific Considerations
 
-Subtrochanteric Fractures
+
+## Subtrochanteric Fractures
+
 The subtrochanteric fracture, traditionally defined as fracture in the region from the
 lesser trochanter to 5 cm distal, is biomechanically distinct because of the high stresses in
 this region. The fracture is exposed to compression on the medial cortex (the strongest
@@ -233,7 +251,9 @@ reduction (often requiring open or percutaneous reduction techniques, the use of
 clamps, cerclage cables, or “poke” techniques to achieve the medial cortical reduction that
 is essential for stability). The iliopsoas pull on the proximal fragment tends to produce
 flexion and external rotation that must be neutralized during reduction.
-Atypical Femoral Fractures
+
+## Atypical Femoral Fractures
+
 Patients on long-term bisphosphonate therapy (or, less commonly, denosumab) are at
 risk for atypical femoral fractures — transverse subtrochanteric or femoral shaft
 fractures with characteristic radiographic features (lateral cortical thickening, transverse
@@ -245,11 +265,15 @@ stabilized). Treatment is prophylactic intramedullary nailing of the incomplete 
 fracture, or standard CMN for the complete atypical fracture. Management of the
 underlying osteoporosis (drug holiday or transition to anabolic agents such as teriparatide)
 is part of the overall approach.
-Bilateral Pertrochanteric Fractures
+
+## Bilateral Pertrochanteric Fractures
+
 Bilateral pertrochanteric fractures, like bilateral femoral neck fractures, are uncommon but
 occur in osteoporotic or seizure-prone patients. Bilateral fixation in one operation is
 performed if the patient’s physiology permits.
-Pertrochanteric Fractures in Younger Patients
+
+## Pertrochanteric Fractures in Younger Patients
+
 Pertrochanteric fractures in younger patients (under 50) are uncommon and typically
 follow high-energy mechanism. The principles are similar to those in the elderly —
 anatomical reduction and rigid internal fixation — but with the additional consideration of

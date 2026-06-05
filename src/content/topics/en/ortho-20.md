@@ -31,7 +31,9 @@ dislocation.
 
 Three principal morphological subtypes of FAI are described, each with distinct mechanical
 features and clinical implications.
-Cam Impingement
+
+## Cam Impingement
+
 Cam impingement arises from a non-spherical, often “pistol-grip” deformity of the femoral
 head-neck junction, in which the head-neck offset is reduced and a bony prominence at the
 anterolateral femoral head-neck junction enters the acetabulum during hip flexion and
@@ -51,7 +53,9 @@ athletes engaged in pivoting sports (football, hockey, soccer), suggesting that 
 
 morphology may be acquired in response to the mechanical demands during the period of
 physeal maturation.
-Pincer Impingement
+
+## Pincer Impingement
+
 Pincer impingement arises from excessive bony coverage of the femoral head by the
 acetabulum, producing a mechanical block to hip flexion as the femoral neck contacts the
 over-prominent acetabular rim. The labrum is the principal structure injured, with
@@ -67,7 +71,9 @@ overcoverage from os acetabuli or other rim anomalies.
 Pincer impingement is more common in women than men, often in middle-aged women,
 and is often associated with relative inactivity rather than the athletic profile of cam
 impingement.
-Combined (Mixed) Impingement
+
+## Combined (Mixed) Impingement
+
 Combined impingement — features of both cam and pincer — is the commonest pattern in
 clinical practice, with most patients showing some degree of both abnormal femoral head-
 neck offset and abnormal acetabular coverage. The treatment must address both
@@ -115,7 +121,9 @@ exclude other sources of pain.
 
 ## Imaging
 
-Plain Radiographs
+
+## Plain Radiographs
+
 The standard imaging assessment begins with two views: a well-centered AP pelvis
 radiograph (with attention to standardized positioning, since rotation of the pelvis
 substantially alters the apparent morphology) and a lateral view of the hip (Dunn 45° or
@@ -139,7 +147,9 @@ anterolateral or anterior femoral head-neck junction.
 The lateral view (typically Dunn 45° lateral) provides better assessment of the femoral
 head-neck offset and the anterior cam morphology, with quantification by the alpha angle
 (>50-55° abnormal).
-Magnetic Resonance Arthrography
+
+## Magnetic Resonance Arthrography
+
 MR arthrography with intra-articular gadolinium has become the standard imaging study
 for definitive diagnosis. It provides high-resolution assessment of the labrum (with intra-
 articular contrast highlighting tears as contrast extending into the labral substance or
@@ -156,7 +166,9 @@ morphology and for assessment of acetabular version and femoral version.
 
 ## Treatment
 
-Non-Operative Management
+
+## Non-Operative Management
+
 Initial management of FAI is conservative in most patients. The components include:
 activity modification (avoidance of provoking positions and activities, with continuation of
 low-impact alternatives); physical therapy directed at hip range of motion, posterior chain
@@ -166,7 +178,9 @@ success of non-operative management is variable, with some patients achieving lo
 symptom control and others progressing to surgical management. Recent randomized
 trials have provided more definitive guidance on the timing of surgical intervention.
 
-Hip Arthroscopy
+
+## Hip Arthroscopy
+
 Hip arthroscopy has become the principal surgical approach for FAI management since the
 early 2000s. The procedure is performed with the patient supine on a traction table (or
 lateral with traction) under general anesthesia. Standard arthroscopy portals
@@ -194,7 +208,9 @@ prevent post-operative instability.
 Treatment of associated pathology: Loose bodies, articular cartilage defects (managed
 by debridement, microfracture, or in some cases autologous chondrocyte implantation),
 ligamentum teres tears, and synovial pathology are addressed at the same operation.
-Surgical Hip Dislocation (Ganz Approach)
+
+## Surgical Hip Dislocation (Ganz Approach)
+
 The surgical hip dislocation, developed by Ganz and colleagues in the 1990s, provides open
 access to the entire hip joint with preservation of the femoral head vascular supply. The
 procedure involves: a posterior-based trochanteric flip osteotomy that preserves the
@@ -206,14 +222,18 @@ severe deformity that cannot be adequately addressed arthroscopically, and is th
 standard for surgical training in hip preservation. The disadvantages include the morbidity
 of the open approach, the prolonged rehabilitation, and the small risk of trochanteric
 osteotomy complications.
-Periacetabular Osteotomy
+
+## Periacetabular Osteotomy
+
 The Bernese periacetabular osteotomy (PAO, Ganz osteotomy) is the procedure of choice
 for symptomatic acetabular dysplasia in the young adult, as discussed in the chapter on
 developmental dysplasia of the hip. In selected cases of FAI with dysplastic features, PAO is
 performed alone or in combination with arthroscopic treatment of the femoral cam to
 address both the under-coverage and the impingement.
 
-Choice Between Arthroscopy and Open Surgery
+
+## Choice Between Arthroscopy and Open Surgery
+
 The choice between arthroscopic and open surgical approaches for FAI depends on
 multiple factors: the morphology of the deformity (severe global pincer impingement and
 complex multidirectional cam deformity may be better addressed by open surgery); the
@@ -247,7 +267,9 @@ modifying effect awaits longer follow-up and the maturation of ongoing randomize
 
 ## Special Considerations
 
-FAI in Specific Populations
+
+## FAI in Specific Populations
+
 Athletes: FAI is particularly common in athletes engaged in pivoting sports, with return to
 sport rates after surgery of 80-90% in many series. The timing of return is typically 4-6
 months for non-contact sports and 6-9 months for contact sports.
@@ -264,14 +286,18 @@ Post-Perthes patients: Healed Perthes disease produces a variable combination of
 (from the deformed femoral head), pincer (from the dysplastic acetabulum), and dysplasia.
 Treatment is individualized and may combine arthroscopic osteochondroplasty with PAO
 or femoral osteotomy.
-Borderline Acetabular Dysplasia
+
+## Borderline Acetabular Dysplasia
+
 The patient with borderline acetabular dysplasia (center-edge angle 20-25°) presents a
 particularly challenging clinical situation, with features of both dysplasia and FAI.
 Aggressive labral debridement or rim trimming in this population can produce iatrogenic
 instability with disastrous outcomes. Modern management favors gentle labral repair
 without rim trimming, combined with capsular plication; PAO is considered for patients
 with predominantly dysplastic features.
-Hip Microinstability
+
+## Hip Microinstability
+
 Hip microinstability — a syndrome of subtle multidirectional hip instability without frank
 dislocation — is increasingly recognized as a cause of hip pain that overlaps with FAI.
 Treatment combines physical therapy, capsular plication, and avoidance of capsular release

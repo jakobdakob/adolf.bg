@@ -68,7 +68,9 @@ the supinator crest. Reinforces the LUCL.
 
 ## Neurovascular Structures
 
-Ulnar Nerve
+
+## Ulnar Nerve
+
 The ulnar nerve descends through the posterior medial intermuscular septum and enters
 the cubital tunnel between the medial epicondyle and the olecranon. The tunnel is
 bounded medially by the Osborne ligament (the arcuate ligament between the two heads
@@ -85,7 +87,9 @@ covering).
 The ulnar nerve is at risk in any medial elbow approach and is routinely identified and
 protected during distal humerus surgery.
 
-Median Nerve and Brachial Artery
+
+## Median Nerve and Brachial Artery
+
 The median nerve and brachial artery pass through the cubital fossa, with the artery
 typically lateral to the nerve at the elbow. The artery and nerve are deep to the bicipital
 aponeurosis (lacertus fibrosus), a fibrous expansion of the biceps tendon that crosses
@@ -94,7 +98,9 @@ near the level of the radial neck.
 The median nerve continues distally between the two heads of the pronator teres (where
 it is occasionally compressed in pronator syndrome), then passes deep to the flexor
 digitorum superficialis arch and enters the forearm.
-Radial Nerve
+
+## Radial Nerve
+
 The radial nerve approaches the elbow anteriorly (after piercing the lateral intermuscular
 septum in the distal arm) and passes through the cubital fossa lateral to the biceps tendon,
 between the brachialis (medial) and the brachioradialis (lateral). At the level of the radial
@@ -109,7 +115,9 @@ particularly during pronation of the forearm (which moves the nerve closer to th
 operative field; the forearm should be supinated during surgery to displace the nerve
 laterally). The PIN is also at risk in radial head dislocation and in surgical manipulation of
 the radial head.
-Cubital Vessels
+
+## Cubital Vessels
+
 The cubital fossa contains the median nerve, brachial artery, and brachial veins, with the
 bicipital aponeurosis crossing the artery superficially. The superficial veins (median
 cubital vein, cephalic vein, basilic vein) traverse the cubital fossa subcutaneously.
@@ -119,18 +127,24 @@ cubital vein, cephalic vein, basilic vein) traverse the cubital fossa subcutaneo
 The Kocher approach is the classical lateral approach to the elbow joint, providing access
 to the radial head, capitellum, coronoid process (from the lateral side), lateral
 collateral ligament complex, and posterolateral elbow capsule.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table or arm board, or lateral
 decubitus with the arm supported in front of the body. The elbow is positioned to expose
 the lateral aspect.
 
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The lateral epicondyle is the principal landmark. The skin incision extends from
 approximately 4 to 6 cm proximal to the lateral epicondyle distally over the radial head to
 approximately 4 to 6 cm distal to the radial head. The total length is approximately 8 to 12
 cm.
 
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The fascia is opened in line with the skin
 incision. The Kocher interval between the anconeus (posterior, supplied by the radial
 nerve) and the extensor carpi ulnaris (ECU) (anterior, supplied by the PIN) is identified
@@ -145,13 +159,17 @@ extensor origin from the lateral epicondyle.
 For more distal exposure (proximal radius, supinator), the dissection extends distally with
 forearm supination to protect the PIN (which moves laterally away from the operative
 field with supination).
-Complications
+
+## Complications
+
 The complications of the Kocher approach include PIN injury (the principal concern;
 minimized by forearm supination during dissection and avoidance of vigorous lateral
 retraction of the supinator), damage to the lateral collateral ligament complex (with
 iatrogenic posterolateral rotatory instability), and stiffness of the elbow if the approach is
 extensive.
-Modifications
+
+## Modifications
+
 The extensor digitorum communis (EDC) split approach uses the muscle-splitting plane
 within the EDC rather than the Kocher interval, providing more direct access to the
 anterior aspect of the radial head. The PIN considerations are similar.
@@ -180,15 +198,21 @@ involvement), the triceps-splitting or paratricipital approach may suffice.
 
 The medial approach provides access to the medial epicondyle, medial collateral
 ligament, ulnar nerve, and medial coronoid process.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table, or the arm positioned across
 the chest for medial access.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The medial epicondyle is the principal landmark. The skin incision extends from
 approximately 5 cm proximal to the medial epicondyle distally for approximately 8 to 10
 cm, centered over the medial epicondyle.
 
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised, with attention to the medial antebrachial
 cutaneous nerve (branches typically cross the operative field and should be preserved).
 The medial intermuscular septum is identified proximally, and the ulnar nerve is
@@ -206,7 +230,9 @@ O’Driscoll discussed in Topic Trauma-15), the medial approach with medial Hotc
 For ulnar nerve transposition, the nerve is mobilized from the cubital tunnel and
 transposed anteriorly (subcutaneously or submuscularly) anterior to the medial
 epicondyle.
-Complications
+
+## Complications
+
 The complications of the medial approach include ulnar nerve injury (the principal
 concern; the nerve must be identified and protected throughout), medial antebrachial
 cutaneous nerve injury (with painful neuroma formation), and flexor mass disruption
@@ -216,12 +242,18 @@ cutaneous nerve injury (with painful neuroma formation), and flexor mass disrupt
 
 The anterior approach is used for vascular injury repair (brachial artery), distal
 biceps tendon repair, and selected exposures of the anterior elbow.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table, forearm supinated.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The incision is a lazy S or lazy J that crosses the cubital crease at an angle to avoid scar
 contracture across the flexion crease.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The lacertus fibrosus (bicipital
 aponeurosis) is identified and incised, providing access to the cubital fossa. The brachial
 artery and median nerve are identified and protected.
@@ -233,7 +265,9 @@ approach with a separate posterior incision for the radial tuberosity.
 For vascular injury repair, the brachial artery is directly exposed and repaired.
 For anterior capsulectomy (in stiff elbow surgery), the anterior approach provides access
 to the anterior capsule and the coronoid fossa.
-Complications
+
+## Complications
+
 The complications of the anterior approach include median nerve injury, brachial artery
 injury, lateral antebrachial cutaneous nerve injury, and PIN injury (particularly during
 distal biceps tendon repair from the anterior approach).

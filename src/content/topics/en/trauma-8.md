@@ -239,7 +239,9 @@ replacement. They constitute one of the fastest-growing categories of orthopedic
 reflecting the aging arthroplasty population and the cumulative number of implants in
 service. Their management requires simultaneous attention to fracture healing and to the
 stability and integrity of the underlying implant.
-Periprosthetic Hip Fractures — The Vancouver Classification
+
+## Periprosthetic Hip Fractures — The Vancouver Classification
+
 For total hip arthroplasty, the Vancouver classification (Duncan and Masri, 1995) is
 universally used and structures management. The classification considers three variables:
 location, implant stability, and bone stock.
@@ -260,7 +262,9 @@ intraoperative assessment of stem fixation — preoperative imaging is often mis
 Type C fractures are distal to the implant tip and are treated as ordinary distal femur
 fractures, with the prosthesis ignored fixation-wise but with attention to plate length and
 the principle of avoiding stress risers between plate and implant tip.
-Periprosthetic Knee Fractures
+
+## Periprosthetic Knee Fractures
+
 The Su classification is the most widely used for periprosthetic supracondylar femur
 fractures around a total knee arthroplasty. Type 1 is proximal to the femoral component;
 type 2 is at the level of the femoral component, extending proximally; type 3 is distal to the
@@ -270,14 +274,18 @@ stock receives locked plating or retrograde nailing (provided the femoral compon
 “nail-compatible” with an open box); loose component or fracture extending through the
 component requires revision arthroplasty.
 
-Periprosthetic Tibia Fractures
+
+## Periprosthetic Tibia Fractures
+
 Felix classification divides periprosthetic tibial fractures by location (type I plateau, type
 II adjacent to stem, type III distal to stem, type IV around the tibial tubercle) and timing
 (intraoperative versus postoperative) and stability (well-fixed versus loose). Treatment
 principles again parallel Vancouver — type II loose components require revision, type II
 well-fixed accept plating, and types I, III, and IV are treated by location-appropriate
 techniques.
-Principles Common to All Periprosthetic Fractures
+
+## Principles Common to All Periprosthetic Fractures
+
 Several principles span all periprosthetic fractures. Plate length should extend at least two
 to three cortical diameters proximal to the implant tip to avoid creating a stress riser; the
 use of locking plates with cerclage cables for proximal fixation around the implant has

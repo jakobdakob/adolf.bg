@@ -1,5 +1,5 @@
 ---
-title: "Политравма. Damage control. Травматичен шок"
+title: "Политравма. Демидж контрол. Травматичен шок."
 lang: "bg"
 kind: "topic"
 section: "trauma"

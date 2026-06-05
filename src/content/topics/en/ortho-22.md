@@ -116,7 +116,9 @@ affected knee by 20-40%.
 
 ## Joint-Preserving Surgery
 
-High Tibial Osteotomy
+
+## High Tibial Osteotomy
+
 High tibial osteotomy (HTO) is the classical joint-preserving operation for medial
 compartment knee osteoarthritis with varus deformity in the younger active patient. The
 principle is to realign the mechanical axis of the lower limb so that the load is transferred
@@ -146,7 +148,9 @@ mechanical axis (3-5° valgus), which transfers load to the lateral compartment 
 the medial compartment. The procedure provides good symptom relief in 80-90% of well-
 selected patients at 5 years, dropping to 60-70% at 10 years, with progressive failure
 typically requiring conversion to TKA in the subsequent decade.
-Distal Femoral Osteotomy
+
+## Distal Femoral Osteotomy
+
 Distal femoral osteotomy is the analogous procedure for lateral compartment
 osteoarthritis with valgus deformity. The principle is to realign the mechanical axis to
 transfer load from the worn lateral compartment to the relatively preserved medial
@@ -154,7 +158,9 @@ compartment. The procedure is less commonly performed than HTO because lateral
 compartment disease is less common and because valgus deformities can also be
 addressed by HTO with appropriate correction. The technique typically involves a lateral
 closing-wedge or medial opening-wedge distal femoral osteotomy.
-Cartilage Restoration Procedures
+
+## Cartilage Restoration Procedures
+
 For focal full-thickness cartilage defects in the otherwise preserved knee, several cartilage
 restoration procedures are used: debridement (smoothing of damaged cartilage surfaces,
 of limited durable benefit); microfracture (penetration of subchondral bone to stimulate
@@ -192,14 +198,18 @@ of 90% or higher in centers with appropriate volume and patient selection.
 
 ## Total Knee Arthroplasty (TKA)
 
-Indications
+
+## Indications
+
 TKA is indicated for end-stage tri-compartmental or bi-compartmental knee osteoarthritis
 producing symptoms unresponsive to non-operative management, in patients with
 appropriate functional demands, comorbidities, and life expectancy. The procedure is also
 performed for advanced rheumatoid arthritis, post-traumatic arthritis, and the rare cases
 of post-infectious arthritis after appropriate decontamination.
 
-Implant Design
+
+## Implant Design
+
 Modern TKA implants comprise four principal components: a femoral component (cobalt-
 chromium, with various designs); a tibial component (typically titanium baseplate with
 modular polyethylene insert); a polyethylene insert (with options including conventional,
@@ -221,7 +231,9 @@ Patellar resurfacing: Most authors advocate routine patellar resurfacing in mode
 with the patella replaced with a polyethylene button. Selective resurfacing (resurfacing
 only when the patellar cartilage is severely damaged) is favored by some surgeons.
 
-Surgical Technique
+
+## Surgical Technique
+
 The principles of modern TKA include: appropriate preoperative templating; the medial
 parapatellar arthrotomy (the most common approach) or subvastus or midvastus
 approach (more anatomically sparing alternatives); careful bone cuts using either
@@ -238,7 +250,9 @@ Robotic-assisted TKA, computer navigation, and patient-specific instrumentation 
 grown in popularity, with several large series demonstrating improved precision of
 component placement; whether this precision translates to better long-term clinical
 outcomes is the subject of ongoing investigation.
-Outcomes of TKA
+
+## Outcomes of TKA
+
 Modern TKA produces excellent outcomes for the great majority of patients, with 10-year
 survivorship of approximately 95% and 20-year survivorship of approximately 80-85% in
 large registry data. Patient-reported outcomes show substantial improvement in pain and
@@ -246,7 +260,9 @@ function, although 15-20% of patients report some degree of persistent dissatisf
 even after technically successful surgery — the so-called “20% dissatisfaction rate” that has
 driven much research into preoperative selection, expectation management, and surgical
 technique refinements.
-Complications of TKA
+
+## Complications of TKA
+
 The principal complications of TKA include:
 Infection (PJI): Rate of 1-2% for primary TKA; management is similar to that for hip PJI as
 discussed in the chapter on bone and joint infections.
@@ -271,13 +287,17 @@ deformity); popliteal artery injury (rare but catastrophic).
 
 ## Special Considerations
 
-Younger Patients
+
+## Younger Patients
+
 Knee arthroplasty in younger patients (<60 years) has higher revision rates than in older
 patients, reflecting the higher activity demands and the cumulative effects of bearing wear.
 For younger active patients with appropriate disease patterns, joint-preserving surgery
 (HTO, UKA) may offer durable function with delay of the eventual TKA.
 
-Inflammatory Arthritis
+
+## Inflammatory Arthritis
+
 TKA in rheumatoid arthritis and other inflammatory arthropathies follows the principles of
 OA TKA with attention to systemic medical management, perioperative coordination with
 the rheumatologist, careful management of biological therapy timing perioperatively
@@ -285,14 +305,18 @@ the rheumatologist, careful management of biological therapy timing perioperativ
 and management of associated soft-tissue deformities (severe valgus, flexion contracture,
 etc.).
 
-Post-Traumatic Arthritis
+
+## Post-Traumatic Arthritis
+
 Post-traumatic knee arthritis after intra-articular fracture or ligament injury often presents
 in younger patients than primary OA. The technical demands are increased by prior
 surgical incisions, hardware, deformity, and ligament insufficiency. Specific challenges
 include the management of leg-length discrepancy from prior physeal injury, the
 management of hardware (often requiring removal in a staged procedure), and the use of
 revision components in cases with substantial bone or ligament deficiency.
-Revision TKA
+
+## Revision TKA
+
 Revision TKA addresses failed primary TKA from infection, loosening, stiffness, instability,
 periprosthetic fracture, or polyethylene wear and osteolysis. The technical demands are
 substantially greater, with management of bone defects (Anderson Orthopaedic Research

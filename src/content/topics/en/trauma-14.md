@@ -186,7 +186,9 @@ favor primary functional bracing as the default.
 
 ## Operative Techniques
 
-Plate Fixation
+
+## Plate Fixation
+
 Open reduction and internal fixation with a plate is the most common operative
 technique. The approach is typically the anterolateral approach (developing the interval
 between brachialis and brachioradialis, with identification and protection of the radial
@@ -206,7 +208,9 @@ the nerve must be identified and protected throughout the procedure), infection 
 percent), nonunion (2 to 8 percent), and hardware-related symptoms. Removal of
 hardware is sometimes required for symptomatic prominence but should be deferred for
 at least 18 to 24 months and accompanied by patient counseling regarding refracture risk.
-Intramedullary Nailing
+
+## Intramedullary Nailing
+
 Intramedullary nailing of the humerus, using antegrade or retrograde nails, has its
 proponents and offers the theoretical advantages of indirect reduction, smaller exposures,
 and load-sharing fixation. The historical results have been somewhat variable, with
@@ -222,7 +226,9 @@ with poor soft-tissue conditions for plating. The MIRTH trial (2014) and the Sin
 meta-analysis (2010) suggest broadly comparable outcomes between nailing and plating
 in selected cohorts, but plating remains the predominant technique in most centers.
 
-External Fixation
+
+## External Fixation
+
 External fixation has a limited role in humeral shaft fracture, primarily as temporary
 stabilization in damage-control settings, open fractures with extensive soft-tissue
 compromise, and severely contaminated open fractures with bone loss. Definitive
@@ -232,7 +238,9 @@ and the long duration of treatment required.
 
 ## Special Considerations
 
-Pathological Fractures
+
+## Pathological Fractures
+
 The humerus is the second most common site (after the femur) of metastatic disease and is
 a frequent site of pathological fracture in cancer patients. The Mirels scoring system for
 impending pathological fracture (covered in Topic Orth-3) applies; prophylactic
@@ -241,7 +249,9 @@ the principles include rigid stabilization to allow immediate pain-free use of t
 fixation of the entire length of the bone (typically by intramedullary nailing) to prevent
 subsequent fracture distal to the construct, and adjuvant local treatment (radiation,
 cementation) as indicated by the underlying pathology.
-Pediatric Humeral Shaft Fractures
+
+## Pediatric Humeral Shaft Fractures
+
 Pediatric humeral shaft fractures heal reliably with non-operative management because of
 the periosteum integrity and the considerable remodeling potential of the growing
 skeleton. Acceptable alignment limits are even more permissive than in adults. Birth-
@@ -250,13 +260,17 @@ delivery and brachial plexus injury) heal reliably with simple immobilization to
 with a soft binder. Older children with humeral shaft fractures are treated by sling or
 brace; the rare indication for operative management is the open fracture or the older
 adolescent with severely displaced segmental fractures.
-Floating Elbow
+
+## Floating Elbow
+
 The combination of humeral and forearm fractures in the same limb (the “floating elbow”)
 creates a biomechanical situation in which closed treatment is difficult because adjacent
 joint motion translates directly to motion at both fracture sites. Operative fixation of at
 least one component (typically the more severe) is the standard approach, with the second
 component often managed by closed means after stabilization of the first.
-Nonunion and Delayed Union
+
+## Nonunion and Delayed Union
+
 Despite the favorable healing characteristics, humeral shaft nonunion is a recognized
 problem and is more common than was historically appreciated. Risk factors include
 transverse fracture patterns (which are biomechanically less favorable), distraction at the

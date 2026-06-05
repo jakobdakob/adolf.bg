@@ -87,7 +87,9 @@ better functional outcome and lower revision risk of TEA against the lifelong re
 
 ## Treatment of Distal Humerus Fractures
 
-ORIF with Dual Plating
+
+## ORIF with Dual Plating
+
 For the operative distal humerus fracture in the patient with reasonable bone quality, dual
 plate fixation has become the standard. The fundamental principle, articulated by
 O’Driscoll, is that each column must be supported by a plate, and the two plates should be
@@ -112,7 +114,9 @@ surgeons routinely transpose the ulnar nerve anteriorly during distal humerus OR
 remove it from the operative field; others perform in situ neurolysis without transposition.
 Outcome differences are debated, with the principal concern being delayed-onset ulnar
 neuropathy after transposition or stiffness with kinking of the nerve over hardware.
-Total Elbow Arthroplasty
+
+## Total Elbow Arthroplasty
+
 Total elbow arthroplasty (TEA) has emerged as a reliable alternative to ORIF in the
 elderly patient with severely comminuted distal humerus fracture and poor bone stock.
 The McKee and the Mayo Clinic trials of the 2000s and 2010s demonstrated superior
@@ -124,7 +128,9 @@ lifting and impact loading that protects the implant; the elderly low-demand pat
 typically accepts these restrictions easily. Total elbow hemiarthroplasty is an alternative
 for fractures involving the articular surface with preservation of the proximal ulna and
 radial head, with limited but encouraging long-term evidence.
-Non-Operative Management
+
+## Non-Operative Management
+
 Non-operative management is reserved for non-displaced or minimally displaced fractures,
 and for the very elderly low-demand patient in whom the morbidity of surgery cannot be
 justified. The “bag of bones” technique, with brief immobilization followed by early motion
@@ -139,7 +145,9 @@ displaced but stable (IIA non-comminuted, IIB comminuted), requiring operative f
 
 Type III is unstable (associated with fracture-dislocation), requiring operative fixation
 with attention to the associated injury.
-Operative Techniques for Olecranon Fracture
+
+## Operative Techniques for Olecranon Fracture
+
 Tension-band wiring (Weber technique) is the classical operative technique for
 transverse non-comminuted olecranon fractures. The principle, established by Pauwels
 and applied by Weber to the olecranon, is the conversion of tensile forces on the dorsal
@@ -176,7 +184,9 @@ dislocation. The Hotchkiss modification redefined types around operative implica
 type I non-operative; type II amenable to ORIF; type III not amenable to ORIF and requiring
 excision or arthroplasty.
 
-Treatment of Radial Head Fractures
+
+## Treatment of Radial Head Fractures
+
 Type I is managed non-operatively, with a brief sling immobilization (3 to 5 days) followed
 by early active motion. The clinical aspiration test — joint aspiration with intra-articular
 

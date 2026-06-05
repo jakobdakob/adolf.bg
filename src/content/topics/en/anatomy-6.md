@@ -93,7 +93,9 @@ and decompression through specific incisions.
 
 ## Tendinous Anatomy
 
-Flexor Tendons
+
+## Flexor Tendons
+
 The flexor tendons pass through the carpal tunnel and into the digits through the flexor
 sheaths. The flexor digitorum superficialis (FDS) tendons insert on the middle
 phalanges; the flexor digitorum profundus (FDP) tendons pass through the FDS chiasm
@@ -115,7 +117,9 @@ been disappointing but have improved with early protected motion protocols.
 Zone III: Between the carpal tunnel and the A1 pulley. Lumbrical region.
 Zone IV: Carpal tunnel.
 Zone V: Proximal to the carpal tunnel (distal forearm).
-Extensor Tendons
+
+## Extensor Tendons
+
 The extensor tendons pass through the six dorsal extensor compartments at the wrist
 (from radial to ulnar):
 Compartment 1: Abductor pollicis longus (APL) and extensor pollicis brevis (EPB). Site of
@@ -144,7 +148,9 @@ Zone VIII: Distal forearm.
 
 ## Intrinsic Hand Muscles
 
-Thenar Muscles
+
+## Thenar Muscles
+
 Abductor pollicis brevis (APB): Abducts the thumb. Innervated by the median nerve.
 The classical test for median nerve function.
 Opponens pollicis: Opposes the thumb. Innervated by the median nerve.
@@ -152,27 +158,35 @@ Flexor pollicis brevis (FPB): Flexes the thumb MCP. Has dual innervation (median
 for the superficial head, ulnar nerve for the deep head).
 Adductor pollicis: Adducts the thumb. Innervated by the ulnar nerve. The classical test for
 ulnar nerve function (Froment sign).
-Hypothenar Muscles
+
+## Hypothenar Muscles
+
 Abductor digiti minimi (ADM): Abducts the small finger. Innervated by the ulnar nerve.
 
 Opponens digiti minimi: Opposes the small finger.
 Flexor digiti minimi brevis: Flexes the small finger MCP.
 
-Lumbricals
+
+## Lumbricals
+
 The lumbricals (4 muscles) originate from the FDP tendons in the palm and insert into the
 radial side of the extensor expansion of each finger. Function: flex the MCP and extend the
 IP joints. Innervation: the radial two lumbricals (to the index and middle fingers) are
 innervated by the median nerve; the ulnar two lumbricals (to the ring and small fingers)
 are innervated by the ulnar nerve.
 
-Interossei
+
+## Interossei
+
 The dorsal interossei (4 muscles) abduct the fingers from the midline of the hand. The
 palmar interossei (3 muscles) adduct the fingers toward the midline. All interossei are
 innervated by the ulnar nerve. Loss produces clawing and intrinsic minus posture.
 
 ## Neurovascular Anatomy
 
-Digital Nerves and Arteries
+
+## Digital Nerves and Arteries
+
 The digital nerves and arteries run along the lateral and medial aspects of each digit, with
 the artery typically dorsal and the nerve typically volar in the proximal aspect of the digit,
 then the relationship reverses with the nerve volar and the artery slightly dorsal in the
@@ -184,7 +198,9 @@ Ulnar nerve supplies the digital nerves to the ulnar one and a half digits (smal
 and ulnar half of ring finger).
 Radial nerve (superficial branch) supplies sensation to the dorsum of the radial three
 and a half digits proximal to the DIP joints.
-Arteries
+
+## Arteries
+
 The deep palmar arch (formed by the radial artery with contribution from the ulnar
 artery) and the superficial palmar arch (formed by the ulnar artery with contribution
 from the radial artery) supply the digital arteries. The arches anastomose at the level of the
@@ -220,7 +236,9 @@ The Z-plasty is a fundamental hand surgery technique used to lengthen contracted
 across flexion creases or contractures. The principle is to transpose two triangular flaps
 to redirect tension along a different axis, with consequent elongation along the original axis
 of contracture.
-Technique
+
+## Technique
+
 The classical 60-degree Z-plasty uses two triangular flaps with 60-degree angles,
 producing a 75 percent gain in length along the central axis of the original contracture.
 Variations include 45-degree Z-plasty (50 percent gain) and 90-degree Z-plasty (more
@@ -233,7 +251,9 @@ was lateral is brought across to occupy the medial position, and vice versa). Th
 limb of the Z then runs perpendicular to its original orientation, producing elongation along
 the original contracture axis.
 
-Applications
+
+## Applications
+
 The Z-plasty is used for:
 
 Burn scar contracture release: Across flexion creases.
@@ -246,7 +266,9 @@ plasty, and Y-V advancements are variations used for specific situations.
 
 ## Surgical Approaches to Specific Hand Pathologies
 
-Carpal Tunnel Release
+
+## Carpal Tunnel Release
+
 The carpal tunnel release is the most commonly performed hand procedure. The
 approach uses a longitudinal incision in the palm parallel to the thenar crease,
 approximately 2 to 3 cm distal to the distal wrist crease. The incision is in line with the
@@ -259,12 +281,16 @@ proximally and distally until the ligament is completely divided.
 The procedure can also be performed endoscopically through a small proximal incision
 and an endoscopic blade, with reduced post-operative pain but similar long-term
 outcomes.
-Trigger Finger Release
+
+## Trigger Finger Release
+
 The A1 pulley release is performed through a small transverse or oblique incision at
 the distal palmar crease, over the affected finger’s MCP joint. The neurovascular bundle
 (radial and ulnar) is identified and protected. The A1 pulley is identified and divided
 longitudinally, with care to preserve the A2 pulley (which begins immediately distal to A1).
-Mallet Finger Repair
+
+## Mallet Finger Repair
+
 Operative repair of mallet finger uses a dorsal incision over the DIP joint, with options
 for K-wire fixation, suture anchor repair, or tension-band wiring depending on the fracture
 pattern.
@@ -273,7 +299,9 @@ Reconstruction of boutonnière deformity uses a midline dorsal incision over the
 joint, with various techniques to reconstruct the central slip and reposition the lateral
 bands (Curtis, Matev, or other techniques).
 
-Jersey Finger Repair
+
+## Jersey Finger Repair
+
 The Jersey finger (FDP avulsion from the distal phalanx) is approached through a Bruner
 zig-zag incision along the volar finger and palm, with retrieval of the retracted tendon and
 reinsertion to the distal phalanx with suture anchor or transosseous suture.
@@ -284,7 +312,9 @@ the radial nerve (which crosses the operative field and is at risk of injury and
 formation), the adductor aponeurosis, and the ulnar collateral ligament. The Stener lesion
 (displacement of the avulsed ligament superficial to the adductor aponeurosis) is identified
 and the ligament is repaired or reattached to bone.
-Tendon Repair
+
+## Tendon Repair
+
 Flexor tendon repair uses a Bruner zig-zag incision to expose the tendon sheath, with
 windowing of the sheath at the level of the laceration. The modified Kessler technique (4-
 strand core suture with epitendinous repair) or stronger 6-strand or 8-strand techniques
@@ -296,7 +326,9 @@ sheath.
 The chapter has addressed the principal hand anatomical and surgical considerations. The
 summary returns to the central themes.
 
-Summary and Take-Home Points
+
+## Summary and Take-Home Points
+
 The hand is the most anatomically intricate orthopedic region, with 27 bones, complex
 tendon and pulley systems, intrinsic muscles, and dense neurovascular anatomy. The
 principles of hand surgical anatomy include the flexor tendon zones (with zone II “no

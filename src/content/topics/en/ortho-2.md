@@ -37,7 +37,9 @@ treatment, complications — to permit direct comparison.
 
 ## Osteoid Osteoma
 
-Epidemiology and Pathology
+
+## Epidemiology and Pathology
+
 Osteoid osteoma is a small, benign, bone-forming tumor characterized by a central vascular
 nidus of osteoid and woven bone surrounded by a halo of reactive sclerosis. It accounts for
 approximately 10-12% of benign bone tumors. The peak incidence is in the second decade,
@@ -49,7 +51,9 @@ are by definition osteoblastomas. Recent molecular work has demonstrated FOS
 rearrangements in both osteoid osteoma and osteoblastoma, supporting their classification
 as a single neoplastic spectrum.
 
-Clinical Features
+
+## Clinical Features
+
 The cardinal symptom is pain — characteristically nocturnal, progressively severe, and
 dramatically relieved by aspirin or other non-steroidal anti-inflammatory drugs. This
 response to NSAIDs is so consistent that it has been considered virtually diagnostic, and it
@@ -63,7 +67,9 @@ the scoliotic curve is concave on the side of the lesion, the tumor sits at or n
 and the curve is at least partially reversible if the lesion is treated before structural changes
 occur. Intra-articular osteoid osteomas, particularly in the hip and elbow, can produce
 synovitis with painful effusion and a clinical picture mimicking inflammatory arthritis.
-Imaging
+
+## Imaging
+
 Plain radiographs may demonstrate the classic appearance of a small radiolucent nidus
 surrounded by a zone of dense reactive sclerosis, often within or adjacent to the cortex of a
 long bone. In cortical lesions, the sclerotic reaction can be intense and the nidus difficult to
@@ -75,7 +81,9 @@ shows extensive bone-marrow and soft-tissue edema disproportionate to the size o
 nidus, which can be misleading and has historically led to misdiagnosis as a malignant or
 infectious lesion when the diagnostic CT is omitted. The bone scan is universally hot and is
 useful in localizing a suspected lesion when initial imaging is non-diagnostic.
-Treatment
+
+## Treatment
+
 Although natural-history studies of untreated osteoid osteoma show that the lesion
 eventually burns out over several years, the severity of the pain and the duration required
 for spontaneous resolution make conservative management with chronic NSAID therapy
@@ -116,7 +124,9 @@ useful in reducing intraoperative blood loss for large spinal or pelvic lesions.
 
 ## Osteochondroma
 
-Solitary Osteochondroma (Exostosis)
+
+## Solitary Osteochondroma (Exostosis)
+
 The solitary osteochondroma — also called osteocartilaginous exostosis — is the
 commonest benign tumor of bone, accounting for perhaps 35-50% of all benign bone
 tumors and arising in approximately 1-2% of the general population. It is best understood
@@ -167,7 +177,9 @@ monitoring for the development of pain or growth in a previously stable lesion.
 
 ## Enchondroma and the Enchondromatoses
 
-Solitary Enchondroma
+
+## Solitary Enchondroma
+
 Enchondroma is a benign cartilaginous tumor arising within the medullary cavity of bone,
 accounting for approximately 10% of benign bone tumors. The pathogenesis is thought to
 involve a focus of cartilage that fails to undergo normal enchondral ossification during
@@ -195,7 +207,9 @@ Symptomatic lesions, pathological fractures, and lesions where the diagnosis can
 confidently distinguished from low-grade chondrosarcoma require curettage with bone
 grafting; in the hand, curettage with or without bone grafting achieves consistently good
 results.
-Ollier Disease and Maffucci Syndrome
+
+## Ollier Disease and Maffucci Syndrome
+
 Multiple enchondromatosis — Ollier disease — is a non-hereditary developmental disorder
 characterized by multiple enchondromas, often with marked asymmetry of distribution.
 Presentation in childhood is with multiple palpable bony swellings, limb-length
@@ -210,7 +224,9 @@ adulthood.
 
 ## Chondroblastoma and Chondromyxoid Fibroma
 
-Chondroblastoma
+
+## Chondroblastoma
+
 Chondroblastoma — historically called Codman tumor for its predilection for the proximal
 humerus — is a benign cartilaginous tumor with a strong predilection for the epiphyses of
 long bones in the immature skeleton. It accounts for approximately 1% of benign bone
@@ -229,7 +245,9 @@ curettage with high-speed burring and either bone grafting or polymethylmethacry
 cementation; recurrence rates are 10-25%. Pulmonary metastases — rare and indolent —
 have been described, particularly after intralesional surgery, and remain a topic of
 speculation regarding the true biological nature of this otherwise benign lesion.
-Chondromyxoid Fibroma
+
+## Chondromyxoid Fibroma
+
 Chondromyxoid fibroma is a rare benign tumor, the rarest of the chondrogenic tumors,
 accounting for less than 1% of benign bone tumors. The lesion has a predilection for the
 metaphyses of long bones in the second and third decades, particularly the proximal tibia,
@@ -243,7 +261,9 @@ recurrence rates approach 15-25%.
 
 ## Giant Cell Tumor of Bone
 
-Epidemiology and Pathology
+
+## Epidemiology and Pathology
+
 Giant cell tumor of bone (GCT) is a benign but locally aggressive tumor, classified in the
 WHO scheme as an intermediate (rarely metastasizing) lesion. It accounts for
 approximately 5% of primary bone neoplasms. The age distribution is unusual: GCT arises
@@ -255,7 +275,9 @@ cells; the giant cells are reactive and the stromal cells carry an activating H3
 G34V mutation. The discovery that the stromal cells overexpress RANKL has been clinically
 transformative, since it has provided the basis for denosumab therapy.
 
-Clinical Features and Radiographic Findings
+
+## Clinical Features and Radiographic Findings
+
 The most common locations are the distal femur, proximal tibia, distal radius, and proximal
 humerus — the so-called “ends of the long bones around the knee, wrist, and shoulder” —
 with the sacrum and vertebral bodies as further sites. Presentation is with pain, swelling,
@@ -268,7 +290,9 @@ that helps distinguish GCT from other tumors. The Campanacci radiographic gradin
 reflects increasing extent of cortical destruction and is correlated with treatment
 recommendations.
 
-Treatment
+
+## Treatment
+
 Extended intralesional curettage with high-speed burring and adjuvant therapy (phenol,
 hydrogen peroxide, cryotherapy, or polymethylmethacrylate cement, which provides both
 mechanical stabilization and a local cytotoxic effect from the heat of polymerization) is the
@@ -304,14 +328,18 @@ obliterates the vascular spaces and provides mechanical reinforcement), emboliza
 
 ## Other Benign Lesions
 
-Intraosseous Lipoma
+
+## Intraosseous Lipoma
+
 Intraosseous lipoma is a rare benign tumor of fat within bone. The commonest locations
 are the calcaneus and the intertrochanteric region of the proximal femur. The lesion is
 usually asymptomatic. Radiographically the lesion is a well-defined lytic area, sometimes
 with a central calcification; MRI is diagnostic by demonstrating fat signal. Treatment is
 observation; symptomatic lesions can be curetted and grafted.
 
-Adamantinoma
+
+## Adamantinoma
+
 Adamantinoma is a rare, locally aggressive, low-grade malignant epithelial tumor of bone
 with a strong predilection for the anterior diaphyseal cortex of the tibia. Although low-
 grade and slow-growing, it has metastatic potential and is therefore not strictly a benign
@@ -320,7 +348,9 @@ with osteofibrous dysplasia and fibrous dysplasia. The radiograph shows a multif
 lobulated, lytic lesion with sclerosis and cortical expansion of the anterior tibial cortex.
 Wide en-bloc resection with reconstruction is the standard treatment because of the
 malignant potential and the high recurrence rate after intralesional surgery.
-Neurilemmoma (Schwannoma) of Bone
+
+## Neurilemmoma (Schwannoma) of Bone
+
 Primary intraosseous neurilemmoma is rare and occurs most commonly in the mandible,
 sacrum, and vertebral bodies. The lesion is typically a well-defined, expansile, lytic lesion;
 histologically the picture is that of a soft-tissue schwannoma with Antoni A and B areas.

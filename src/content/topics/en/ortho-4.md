@@ -27,7 +27,9 @@ principles of antibiotic therapy and surgical debridement.
 
 ## Acute Hematogenous Osteomyelitis
 
-Epidemiology and Pathogenesis
+
+## Epidemiology and Pathogenesis
+
 Acute hematogenous osteomyelitis is predominantly a disease of children, with the peak
 incidence in the first decade and a male predominance of approximately 2:1. The
 metaphysis of the long bones — particularly the distal femur, proximal tibia, distal tibia,
@@ -56,7 +58,9 @@ cloacae, communicate the inner cavity with the skin, permitting drainage of pus 
 bony fragments. Without effective treatment, the disease becomes chronic, with persistent
 infection within the dead bone of the sequestrum that no systemic antibiotic can reach.
 
-Microbiology
+
+## Microbiology
+
 Staphylococcus aureus is the causative organism in approximately 70-90% of pediatric
 acute hematogenous osteomyelitis, with methicillin-resistant strains (MRSA) increasingly
 prominent in the developed world over the past two decades. In neonates, group B
@@ -72,7 +76,9 @@ in pediatric orthopedics. Atypical organisms — Bartonella henselae, Borrelia b
 mycobacteria, fungi — should be considered in immunocompromised children, in those
 with relevant exposure histories, and in indolent infections that fail to respond to empirical
 antibiotic therapy.
-Clinical Features
+
+## Clinical Features
+
 The classical presentation is of a young child with fever, irritability, and reluctance to move
 or bear weight on the affected limb. Older children describe localized pain. Examination
 reveals tenderness over the affected metaphysis, often with overlying warmth and
@@ -82,7 +88,9 @@ sympathetic effusion and concurrent septic arthritis is critical. Systemic featu
 raised heart rate, malaise — are usual. The infant may be relatively well-appearing,
 however, particularly when subacute organisms such as Kingella kingae are responsible; a
 high index of suspicion is essential in this age group.
-Investigations
+
+## Investigations
+
 Laboratory investigation reveals leukocytosis with neutrophilia, elevated ESR (typically
 peaking at 3-5 days), and elevated CRP (peaking earlier, at 1-2 days, and falling more
 rapidly with successful treatment). CRP is the most useful single marker for assessing
@@ -96,7 +104,9 @@ extent of bone involvement, identifies adjacent soft-tissue abscess, and disting
 osteomyelitis from cellulitis. Bone scan is sensitive but less specific than MRI. Aspiration of
 any subperiosteal pus or adjacent joint effusion, performed under ultrasound guidance
 where appropriate, is essential both for diagnosis and for definitive microbiology.
-Treatment
+
+## Treatment
+
 The cornerstone of treatment is prompt antibiotic therapy guided by the most likely
 organisms, modified according to culture results. Empirical regimens vary by age and local
 resistance patterns: in regions of low MRSA prevalence, an intravenous β-lactamase-
@@ -135,7 +145,9 @@ weeks. Healing is usually uneventful, but recurrence has been described.
 
 ## Chronic Osteomyelitis and the Cierny-Mader Classification
 
-Pathogenesis
+
+## Pathogenesis
+
 Chronic osteomyelitis is the persistent or recurrent infection of bone in which dead bone
 (sequestrum) maintains a focus of bacterial colonization that is largely inaccessible to
 systemic antibiotics and that periodically produces clinical flares of pain, drainage, or
@@ -146,7 +158,9 @@ osteomyelitis is largely a complication of open fractures, internal fixation har
 other trauma rather than a primary hematogenous condition. Implant-related infection —
 discussed separately under “implant-related infection” below — represents the most
 common contemporary form of chronic bone infection in the orthopedic clinic.
-The Cierny-Mader Classification
+
+## The Cierny-Mader Classification
+
 The Cierny-Mader system, developed in the 1980s, classifies chronic osteomyelitis
 according to two axes: the anatomical type of bone involvement and the physiological
 status of the host. The four anatomical types are: Type 1, medullary osteomyelitis
@@ -164,7 +178,9 @@ The combination of anatomical type and host class — for example, Type 4-B(L) �
 treatment decisions: simple medullary infection in a healthy host responds well to limited
 debridement and antibiotics, while diffuse infection in a compromised host may require
 staged limb reconstruction or amputation.
-Treatment
+
+## Treatment
+
 The fundamental principle is that chronic osteomyelitis cannot be cured by antibiotics
 alone; surgical debridement is necessary to remove the dead bone that harbors the
 persistent infection. The standard sequence is: thorough surgical debridement to excise all
@@ -205,7 +221,9 @@ treatable organism), and chronic suppressive antibiotic therapy.
 
 ## Septic Arthritis
 
-Acute Septic Arthritis in Children
+
+## Acute Septic Arthritis in Children
+
 Septic arthritis is a surgical emergency. Cartilage destruction begins within 8 hours of
 bacterial colonization of the joint, driven by bacterial proteases and the host inflammatory
 cascade including matrix metalloproteinases and cathepsins; delay in treatment is the
@@ -233,7 +251,9 @@ accessible joints with prompt presentation, repeated aspiration — combined wit
 empirical antibiotic therapy adjusted by culture results. The total duration of antibiotic
 therapy is typically 3-4 weeks, with intravenous administration for the first 5-10 days
 followed by oral therapy once clinical response is established and CRP is falling.
-Adult Septic Arthritis
+
+## Adult Septic Arthritis
+
 In adults, septic arthritis arises by hematogenous spread, direct inoculation (intra-articular
 injection, surgery), or extension from adjacent infection. The classical organisms are
 Staphylococcus aureus (50-60% of cases overall, including MRSA in increasing proportion)
@@ -262,7 +282,9 @@ modestly elevated inflammatory markers. PCR of synovial fluid and oropharyngeal 
 has substantially improved diagnostic detection. The organism is intrinsically susceptible
 to β-lactam antibiotics and the prognosis is excellent with appropriate therapy.
 
-Salmonella
+
+## Salmonella
+
 Salmonella is the characteristic pathogen of bone and joint infection in patients with sickle
 cell disease, alongside Staphylococcus aureus, and produces a particularly aggressive
 osteomyelitis that may be multifocal and is notoriously prone to relapse. Empirical
@@ -273,7 +295,9 @@ Pseudomonas is the classical organism of puncture wounds of the foot through rub
 soled shoes, producing a characteristic osteochondritis of the metatarsal heads and tarsal
 bones; piperacillin-tazobactam, ceftazidime, and ciprofloxacin (in older patients) are
 standard agents.
-Anaerobic Infection
+
+## Anaerobic Infection
+
 Anaerobic osteomyelitis is uncommon but should be considered in chronic, foul-smelling,
 polymicrobial infections — particularly diabetic foot infections and infections of the pelvis
 after open pelvic trauma. Anaerobic culture techniques and prolonged incubation are
@@ -282,7 +306,9 @@ clindamycin in addition to the agents targeting any concurrent aerobic organisms
 
 ## Tuberculosis of Bones and Joints
 
-Epidemiology and Pathogenesis
+
+## Epidemiology and Pathogenesis
+
 Bone and joint tuberculosis accounts for approximately 10-15% of extra-pulmonary
 tuberculosis. The disease is endemic in much of Africa, Asia, and parts of Eastern Europe,
 and has resurged in the developed world with HIV/AIDS, increased immigration, and the
@@ -328,7 +354,9 @@ anterior strut grafting, and combined posterior instrumentation — has been the
 cornerstone of surgical management for advanced thoracolumbar disease, and more
 recently global pathology has shifted toward earlier MRI diagnosis with primary medical
 management and surgery reserved for specific indications.
-Tuberculosis of the Hip
+
+## Tuberculosis of the Hip
+
 Tuberculosis of the hip accounts for approximately 15% of osteoarticular tuberculosis. The
 infection may begin in the acetabulum, the femoral head, or the synovium; without
 treatment, progressive destruction of the joint surfaces with bony fusion or fibrous
@@ -343,7 +371,9 @@ controlled and the joint is destroyed; reactivation of disease around a total hi
 has been described and is mitigated by continuation of chemotherapy throughout the
 perioperative period.
 
-Tuberculosis of the Knee
+
+## Tuberculosis of the Knee
+
 Tuberculosis of the knee accounts for approximately 10% of osteoarticular tuberculosis
 and presents with progressive monoarticular pain, swelling, restricted motion, and often a
 
@@ -351,7 +381,9 @@ positional flexion deformity. Radiographs show the classical Phemister triad of 
 articular osteopenia, peripheral osseous erosions, and gradual narrowing of the joint space.
 Treatment combines antituberculous chemotherapy and synovectomy in active disease;
 arthrodesis or arthroplasty addresses end-stage joint destruction.
-Peripheral Tuberculous Arthritis and Tenosynovitis
+
+## Peripheral Tuberculous Arthritis and Tenosynovitis
+
 Tuberculous involvement of the wrist (carpal bones, tendons), ankle, elbow, and shoulder
 is less common but well described. The classical “compound palmar ganglion” —
 tuberculous tenosynovitis of the wrist flexors with a dumbbell-shaped swelling on either

@@ -120,21 +120,29 @@ led to the substantial preference for the sinus tarsi approach.
 
 ## Approaches to the Foot
 
-Dorsal Foot Approaches
+
+## Dorsal Foot Approaches
+
 Dorsal foot incisions are used for forefoot procedures (bunion surgery, lesser toe
 deformity correction, foot fracture fixation). The incisions are placed to avoid the dorsal
 sensory nerves (branches of the superficial peroneal nerve) and the dorsalis pedis artery
 and deep peroneal nerve (which runs in the first dorsal interspace).
-Medial Foot Approach
+
+## Medial Foot Approach
+
 A medial foot incision along the medial border of the foot provides access to the medial
 column (navicular, medial cuneiform, first metatarsal base). The approach is used for
 medial column fractures, hallux valgus surgery, and medial column arthrodesis.
-Lateral Foot Approach
+
+## Lateral Foot Approach
+
 A lateral foot incision along the lateral border provides access to the cuboid, the fourth
 and fifth metatarsals, and the lateral column. The approach is used for cuboid fracture
 fixation, lateral column lengthening, and lateral column reconstructive procedures.
 
-Plantar Approaches
+
+## Plantar Approaches
+
 Plantar incisions are generally avoided because of the thick plantar fat and the risk of
 painful scars on the weight-bearing surface. When necessary (for plantar fascia release,
 deep plantar abscess), incisions are placed along the medial or lateral plantar non-weight-

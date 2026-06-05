@@ -117,7 +117,9 @@ PNF is the procedure of choice for moderate disease with MCP joint contracture
 predominantly and a palpable discrete cord; it is less suitable for established PIP joint
 contracture or for complex multi-ray disease.
 
-Collagenase Injection (Clostridial Collagenase)
+
+## Collagenase Injection (Clostridial Collagenase)
+
 Collagenase clostridium histolyticum injection (Xiaflex, Xiapex) is an enzymatic treatment
 introduced in 2010. The procedure involves intra-cord injection of the bacterial
 collagenase enzyme, which selectively digests the collagen of the cord. After 24-48 hours,
@@ -128,7 +130,9 @@ rates of contracture correction and recurrence. Disadvantages include the cost o
 enzyme, the requirement for two visits, and the small but real risk of tendon rupture (the
 enzyme also affects collagen in normal tendons if accidentally injected outside the cord)
 and other complications.
-Surgical Fasciectomy
+
+## Surgical Fasciectomy
+
 Surgical fasciectomy — the open removal of pathological palmar and digital fascia — has
 been the historical mainstay of Dupuytren’s treatment and remains the procedure of choice
 for severe disease, recurrent disease, and disease with established PIP joint contracture.
@@ -162,7 +166,9 @@ fasciectomy and 10-20% for dermofasciectomy. Complication rates include hematoma
 10%), wound healing problems (5-10%), nerve injury (1-3%), arterial injury (1-2%),
 infection (1-2%), CRPS (1-5%), and recurrence.
 
-Salvage Procedures
+
+## Salvage Procedures
+
 For severe recurrent or unsalvageable disease, several salvage procedures are described:
 PIP joint arthrodesis (in fixed severe PIP contracture not amenable to other treatment);
 amputation of the affected digit (rarely required, generally for severe little finger or ring
@@ -170,7 +176,9 @@ finger contracture with neurovascular compromise); and various combined procedur
 
 ## Special Considerations
 
-Recurrence
+
+## Recurrence
+
 Recurrence of disease — typically defined as new cord formation or worsening of
 contracture in the treated area — is common in Dupuytren’s disease and is one of the
 principal long-term concerns. The risk of recurrence is substantially higher in patients with
@@ -178,7 +186,9 @@ the Dupuytren diathesis. Management of recurrence depends on the severity and th
 previous treatment: needle aponeurotomy can be repeated easily, while surgical revision
 becomes progressively more difficult with each previous procedure.
 
-Ectopic Disease
+
+## Ectopic Disease
+
 Ledderhose disease (plantar fibromatosis) is the analog of Dupuytren’s contracture on
 the plantar fascia. The condition produces nodules in the plantar fascia of the foot, often
 bilaterally, with progressive thickening and sometimes contracture. Unlike Dupuytren’s

@@ -49,7 +49,9 @@ intermuscular septum.
 
 ## Neurovascular Structures
 
-Radial Nerve in the Arm
+
+## Radial Nerve in the Arm
+
 The radial nerve is the principal neurological structure at risk in approaches to the
 humerus. It branches from the posterior cord of the brachial plexus, descends posterior to
 the brachial artery, and enters the spiral groove of the posterior humerus, where it passes
@@ -66,7 +68,9 @@ the radial nerve divides into the superficial sensory branch and the deep motor 
 (posterior interosseous nerve) — the PIN passing through the arcade of Frohse at the
 proximal margin of the supinator and into the forearm.
 
-Musculocutaneous Nerve
+
+## Musculocutaneous Nerve
+
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus and
 pierces the coracobrachialis muscle (typically 5 to 8 cm distal to the coracoid). It then runs
 between the biceps and brachialis muscles in the anterior compartment, supplying both
@@ -78,7 +82,9 @@ the medial intermuscular septum, accompanied by the median nerve (which runs lat
 to the artery proximally and crosses to the medial side at the elbow). The ulnar nerve is in
 the posterior compartment for most of the arm but is more medial than the radial nerve
 and is generally not at risk in standard humeral approaches.
-Lateral and Medial Intermuscular Septa
+
+## Lateral and Medial Intermuscular Septa
+
 The lateral intermuscular septum separates the anterior and posterior compartments
 laterally and runs from the deltoid tuberosity to the lateral epicondyle. The medial
 intermuscular septum is the medial counterpart from the coracobrachialis insertion to
@@ -91,16 +97,22 @@ identifying the nerve during surgical approaches.
 The anterolateral approach provides access to the proximal and middle thirds of the
 humeral shaft for plate fixation of fractures, tumor resection, infection drainage, and
 biopsy. The approach uses the natural plane between the biceps and brachialis muscles.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm draped freely, often supported on an arm
 board or hand table. The shoulder is positioned in slight abduction.
 
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The deltopectoral groove marks the proximal limit of the approach; the lateral margin of
 the biceps marks the line of the incision distally. The skin incision extends from just below
 the deltoid insertion (deltoid tuberosity) distally along the lateral border of the biceps for
 the desired length.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The fascia of the arm is opened in line with
 the skin incision. The biceps muscle is identified and retracted medially. The brachialis
 muscle is now visualized; the muscle is split longitudinally in line with its fibers at the
@@ -111,11 +123,15 @@ Beneath the brachialis split, the humerus is exposed subperiosteally. The radial
 must be specifically identified and protected if the dissection is to extend into the distal
 third of the humeral shaft — the nerve pierces the lateral intermuscular septum at this
 level and enters the brachialis from the radial side.
-Extension Distally
+
+## Extension Distally
+
 The anterolateral approach can be extended distally to expose the elbow joint by curving
 the incision laterally over the lateral epicondyle, developing the interval between brachialis
 (medial) and brachioradialis (lateral), with the radial nerve protected in this interval.
-Complications
+
+## Complications
+
 The complications of the anterolateral approach include musculocutaneous nerve injury
 (rare; preserved within the muscle split), radial nerve injury (the principal concern when
 the approach is extended into the distal third), and stiffness of the elbow if the approach is
@@ -129,15 +145,21 @@ fracture fixation, triceps tendon procedures, and tumor or infection access. The
 
 approach uses the natural plane between the lateral and medial heads of the triceps, or the
 triceps-splitting approach, depending on the desired exposure.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is positioned in lateral decubitus with the affected side up and the arm draped
 over a padded support, or prone with the arm on a small platform. The arm is positioned
 with the elbow flexed approximately 90 degrees.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The olecranon distally and the midline of the posterior arm proximally mark the line of
 the incision. The skin incision extends along the midline of the posterior arm from
 approximately 10 to 15 cm proximal to the olecranon distally to the olecranon.
-Approach — Triceps-Splitting Technique
+
+## Approach — Triceps-Splitting Technique
+
 The skin and subcutaneous tissue are incised. The triceps fascia is opened in the midline.
 The triceps muscle is split longitudinally in the midline between the lateral and medial
 heads (or, alternatively, the long head can be split centrally). The radial nerve must be
@@ -147,19 +169,25 @@ nerve, which lies in the deep groove against the periosteum.
 The split is carried down to the periosteum, and subperiosteal dissection exposes the
 humerus. The profunda brachii artery accompanies the radial nerve and must be
 protected.
-Approach — Paratricipital Technique (Bryan-Morrey)
+
+## Approach — Paratricipital Technique (Bryan-Morrey)
+
 The paratricipital (Bryan-Morrey) approach retracts the triceps medially or laterally
 rather than splitting it. The lateral version develops the interval between the triceps and
 the lateral intermuscular septum, retracting the triceps medially. The medial version
 develops the interval between the triceps and the ulnar nerve / medial intermuscular
 septum, retracting the triceps laterally. The approach preserves triceps function but
 provides less direct access to the distal humerus.
-Approach — Triceps-Reflecting Technique (Bryan-Morrey)
+
+## Approach — Triceps-Reflecting Technique (Bryan-Morrey)
+
 The triceps-reflecting (Bryan-Morrey) approach detaches the triceps insertion from the
 olecranon and reflects it proximally. The approach provides extensive exposure of the
 distal humerus but creates a triceps insertion that must be repaired at closure;
 postoperative triceps weakness is a concern.
-Approach — Olecranon Osteotomy
+
+## Approach — Olecranon Osteotomy
+
 For the most extensive exposure of the distal humeral articular surface, the olecranon
 osteotomy (chevron-shaped osteotomy of the olecranon) is performed. The olecranon is
 osteotomized at its narrowest point, and the proximal fragment with the attached triceps is
@@ -168,7 +196,9 @@ reflected proximally. The osteotomy is fixed at closure with tension-band wiring
 The approach provides excellent visualization of the distal humeral articular surface for
 complex intra-articular fractures and is the standard approach for distal humerus ORIF
 (Topic Trauma-15).
-Complications
+
+## Complications
+
 The complications of the posterior approach include radial nerve injury (the principal
 concern; the nerve is identified and protected in the spiral groove), profunda brachii
 artery injury, triceps weakness (with the reflecting and olecranon osteotomy
@@ -181,7 +211,9 @@ olecranon osteotomy (with the olecranon osteotomy approach).
 The anterior approach to the distal humerus is used for selected procedures involving
 the distal humerus, the elbow joint, or the brachial artery. The approach is less commonly
 used than the anterolateral or posterior approaches but has specific indications.
-Approach
+
+## Approach
+
 A longitudinal incision is made over the anterior aspect of the distal arm in the line of the
 brachial artery. The brachialis is identified and retracted laterally; the biceps is retracted
 medially. The brachial artery and median nerve are identified and retracted as needed.
@@ -219,11 +251,15 @@ Direct surgical exposure of the radial nerve in the arm is required for nerve ex
 after humeral shaft fracture (particularly for failure of recovery or for secondary palsy
 after manipulation), traumatic laceration repair, and neurolysis or transfer
 procedures.
-Posterior Approach to the Radial Nerve
+
+## Posterior Approach to the Radial Nerve
+
 The radial nerve in the spiral groove is approached through the posterior triceps-
 splitting approach as described above, with specific identification of the nerve at the
 lateral aspect of the proximal third of the humerus.
-Anterolateral Approach to the Radial Nerve
+
+## Anterolateral Approach to the Radial Nerve
+
 The radial nerve in the distal third of the humerus (where it pierces the lateral
 intermuscular septum) is approached through an anterolateral incision along the lateral
 border of the biceps, with development of the interval between brachialis (medial) and

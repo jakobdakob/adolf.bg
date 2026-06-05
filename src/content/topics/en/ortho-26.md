@@ -20,7 +20,9 @@ attention to recognition, natural history, and management.
 
 ## Obstetric Brachial Plexus Palsy (OBPP)
 
-Epidemiology and Risk Factors
+
+## Epidemiology and Risk Factors
+
 Obstetric brachial plexus palsy is a stretch or rupture injury to the brachial plexus during
 birth, with an incidence of approximately 1-3 per 1,000 live births. The principal risk factor
 is shoulder dystocia during vaginal delivery, in which the anterior shoulder becomes
@@ -30,7 +32,9 @@ on the contralateral neck and plexus. Other risk factors include macrosomia (bir
 diabetes, breech presentation (typically producing a different injury pattern with the upper
 plexus), and previous OBPP in a sibling.
 
-Classification by Level of Injury
+
+## Classification by Level of Injury
+
 The brachial plexus arises from C5, C6, C7, C8, and T1 nerve roots. OBPP is classified by
 which roots are involved:
 Erb’s palsy (upper plexus, C5-C6, sometimes including C7): The commonest pattern,
@@ -47,7 +51,9 @@ Total plexus injury (C5-T1): The most severe pattern, with complete flaccid para
 the affected arm. Associated Horner’s syndrome and phrenic nerve injury (with
 hemidiaphragm paralysis) are markers of pre-ganglionic injury and worse prognosis.
 
-Classification by Pathological Severity
+
+## Classification by Pathological Severity
+
 The Sunderland classification of nerve injury applies to the brachial plexus injuries:
 •   Neuropraxia (Sunderland I): Demyelinating injury without axonal disruption. Full
     recovery is expected.
@@ -63,7 +69,9 @@ A particularly important distinction is between pre-ganglionic injuries (root av
 the spinal cord, with no possibility of spontaneous recovery and limited surgical
 reconstruction options) and post-ganglionic injuries (injury distal to the dorsal root
 ganglion, with potential for spontaneous recovery and good results from surgical grafting).
-Clinical Features and Natural History
+
+## Clinical Features and Natural History
+
 Diagnosis is at birth or in the first days of life by observation of asymmetric arm movement,
 with the affected arm held in the characteristic position and showing reduced spontaneous
 movement. The Moro reflex on the affected side is asymmetric or absent. The differential
@@ -79,14 +87,18 @@ suggesting pre-ganglionic injury); presence of phrenic nerve palsy (poor prognos
 recovery (failure to recover biceps function by 3 months is a poor prognostic sign and is
 the classical indication for surgical exploration); and the specific neurological examination
 at 3-6 months.
-Investigations
+
+## Investigations
+
 Electrophysiological studies (EMG, nerve conduction) have a limited role in early
 management because the nerve injury is too recent to demonstrate denervation. MRI of the
 cervical spine with attention to the brachial plexus can demonstrate pseudomeningoceles
 (suggesting root avulsion and pre-ganglionic injury), nerve root continuity, and neuroma
 formation.
 
-Treatment
+
+## Treatment
+
 The initial management combines: parental education and reassurance about the favorable
 prognosis of most cases; physical therapy directed at maintaining shoulder, elbow,
 forearm, wrist, and finger range of motion to prevent contractures; close follow-up to
@@ -113,7 +125,9 @@ compared with the unaffected arm.
 
 ## Congenital Muscular Torticollis
 
-Definition and Etiology
+
+## Definition and Etiology
+
 Congenital muscular torticollis (CMT) is a postural deformity of the head and neck arising
 from fibrosis and shortening of the sternocleidomastoid (SCM) muscle. The condition has
 an incidence of approximately 0.4-2% of live births and is the commonest cause of fixed
@@ -125,7 +139,9 @@ supporting at least some mechanical contribution. Associated conditions include
 developmental dysplasia of the hip (in 5-20% of cases — hip screening is mandatory in any
 infant with CMT), metatarsus adductus, plagiocephaly (skull deformity from prolonged
 positional preference), and facial asymmetry.
-Clinical Features
+
+## Clinical Features
+
 Three principal presentations are recognized:
 
 Sternomastoid tumor of infancy (the “olive”): A palpable mass within the SCM, typically
@@ -143,7 +159,9 @@ passive rotation of the head toward the affected side; limited passive lateral f
 the unaffected side; facial asymmetry (with the affected side often becoming smaller from
 prolonged positional pressure); plagiocephaly; and the absence of cervical spine bony
 abnormalities (which would suggest an alternative diagnosis).
-Differential Diagnosis
+
+## Differential Diagnosis
+
 The differential diagnosis includes: congenital cervical spine abnormalities (Klippel-Feil
 syndrome, hemivertebrae, atlantoaxial subluxation); ocular causes (visual disturbance with
 compensatory head tilt); central nervous system causes (posterior fossa tumor,
@@ -155,7 +173,9 @@ A child presenting with new torticollis beyond the neonatal period requires care
 evaluation for these alternative diagnoses, with imaging (cervical spine radiographs,
 sometimes MRI) and assessment for systemic features.
 
-Treatment
+
+## Treatment
+
 The principal treatment of CMT is passive stretching of the SCM, taught to parents and
 performed multiple times daily. The technique involves gently stretching the head into the
 directions of restricted motion — lateral flexion to the contralateral side and rotation to the

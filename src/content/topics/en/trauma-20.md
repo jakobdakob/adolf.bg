@@ -130,7 +130,9 @@ anatomical fixation; type III fractures combine the femoral head fracture with t
 neck fracture, with substantial AVN risk; type IV fractures combine femoral head and
 acetabular fractures and require a coordinated reduction of both components.
 
-Treatment of Femoral Head Fractures
+
+## Treatment of Femoral Head Fractures
+
 The treatment of Pipkin fractures is individualized:
 Pipkin I with a small inferior fragment: closed reduction of the dislocation typically
 reduces the fragment as well. Small displaced fragments below the weight-bearing surface
@@ -159,7 +161,9 @@ fractures organizes injuries into five elementary patterns and five associated p
 (combinations of elementary patterns). The understanding of column anatomy makes the
 system intuitive: the acetabulum has anterior and posterior columns plus the roof, and
 fractures involve various combinations.
-Elementary Patterns
+
+## Elementary Patterns
+
 Posterior wall fracture: The most common elementary pattern (over 25 percent of
 acetabular fractures). The mechanism is typically the dashboard injury with the hip flexed.
 The injury involves the posterior wall of the acetabulum, often with associated posterior
@@ -176,7 +180,9 @@ intermediate, low).
 Transverse fracture: A horizontal fracture line separating the iliac roof and ischial body
 components, crossing both columns. Subdivided by location of the fracture line (infratectal
 below the roof, juxtatectal at the roof, transtectal through the roof).
-Associated Patterns
+
+## Associated Patterns
+
 T-shaped fracture: A transverse fracture with an additional inferior vertical extension
 through the ischium and pubis — a transverse plus inferior split.
 Posterior column with posterior wall: Posterior column fracture combined with
@@ -202,7 +208,9 @@ the X-ray beam) demonstrates the posterior column, the anterior wall, and the il
 CT scan with 3D reconstruction is now the standard for definitive characterization,
 surgical planning, and the identification of marginal impaction (depressed articular surface
 fragments that may require elevation and grafting during reduction).
-Surgical Approaches
+
+## Surgical Approaches
+
 The choice of approach depends on the fracture pattern:
 The Kocher-Langenbeck (posterior) approach is used for posterior wall and posterior
 column fractures, transverse fractures, and posterior-dominant associated patterns.
@@ -220,7 +228,9 @@ reserved for fractures requiring access to both columns.
 The extended iliofemoral approach (Letournel) provides comprehensive access to the
 entire acetabulum but is associated with substantial morbidity (heterotopic ossification,
 abductor weakness, infection) and is now rarely used.
-Surgical Reduction and Fixation
+
+## Surgical Reduction and Fixation
+
 The principles of acetabular fracture surgery are anatomical reduction of the articular
 surface and rigid fixation to permit early motion. Reduction is achieved with reduction
 clamps, ball-spike pushers, and bone hooks, with intraoperative fluoroscopy confirming
@@ -260,7 +270,9 @@ encountered in the ilioinguinal approach).
 
 ## Special Considerations
 
-Elderly Acetabular Fractures
+
+## Elderly Acetabular Fractures
+
 Acetabular fractures in the elderly population have substantially different characteristics
 from those in younger patients — typically lower energy mechanism, more commonly
 anterior column or anterior column with posterior hemitransverse patterns, often with
@@ -271,7 +283,9 @@ been given to primary total hip arthroplasty (with cage or revision components t
 the acetabular defect) as an alternative to ORIF in selected elderly patients. The choice
 depends on patient age, functional demands, fracture pattern, and bone quality.
 
-Pediatric Acetabular Fractures
+
+## Pediatric Acetabular Fractures
+
 Pediatric acetabular fractures are uncommon and have a substantially different appearance
 because of the open triradiate cartilage. Injuries to the triradiate cartilage (Salter-Harris-
 like injuries of the acetabulum) may produce growth arrest and progressive acetabular
@@ -279,7 +293,9 @@ dysplasia, with long-term consequences for hip development. Management is genera
 conservative, with operative intervention reserved for displaced patterns. The orthopedic
 surgeon must consider the growth implications when planning any operative intervention
 near the triradiate cartilage.
-Postoperative Management
+
+## Postoperative Management
+
 Postoperative management includes VTE prophylaxis (high risk in this population — see
 Topic Trauma-7), early hip range of motion to prevent stiffness (typically beginning the
 day after surgery), protected weight bearing for 8 to 12 weeks (typically toe-touch or

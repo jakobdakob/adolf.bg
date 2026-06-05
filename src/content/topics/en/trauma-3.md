@@ -42,7 +42,9 @@ comply with postoperative protocol.
 
 Closed reduction — the restoration of fracture fragments to acceptable position without
 surgical exposure — is the foundation of non-operative fracture treatment.
-Goals of Reduction
+
+## Goals of Reduction
+
 The goal of reduction varies with the specific fracture. The four principal parameters are:
 
 Length: Restoration of normal bone length. Substantial shortening produces functional
@@ -60,7 +62,9 @@ The phrase “acceptable reduction” implies that not every fracture requires a
 reduction. Articular fractures generally require anatomical reduction (gaps and steps of
 more than 1-2 mm typically demanding surgical management); diaphyseal fractures
 tolerate more imperfect reduction with adequate functional outcomes.
-Techniques of Reduction
+
+## Techniques of Reduction
+
 Closed reduction techniques include:
 Direct manipulation: The classical approach. The bone is palpated, the displacement is
 assessed, and direct manual pressure is applied to restore alignment. Adequate analgesia
@@ -84,19 +88,25 @@ condition, and the available facilities.
 
 ## Materials of Immobilization
 
-Plaster of Paris
+
+## Plaster of Paris
+
 Plaster of Paris (calcium sulfate hemihydrate) is the classical material for cast
 immobilization. The plaster sets through an exothermic chemical reaction when mixed
 with water. Advantages include low cost, ease of moulding to the limb contour, and reliable
 hardening. Disadvantages include weight, fragility when wet, slow setting, and the small
 risk of thermal injury during setting (particularly with hot water or multiple layers).
-Fiberglass
+
+## Fiberglass
+
 Fiberglass casting materials, introduced in the 1980s, have largely replaced plaster of Paris
 in modern practice for many applications. Advantages include lighter weight, greater
 strength, water resistance, and faster setting. Disadvantages include higher cost, less plastic
 moulding ability, and the difficulty of removal in some emergencies (though specialized
 cast saws address this).
-Other Materials
+
+## Other Materials
+
 Aluminium and other malleable splints: Used for finger and toe splints.
 Pre-formed orthoses: Functional braces for various fractures (the Sarmiento functional
 brace for humeral shaft and tibial fractures is the classical example), with the brace
@@ -131,7 +141,9 @@ not so long as to immobilize unnecessary joints.
 Univalving or bivalving for swelling: In the acute fracture, the cast is typically univalved
 (cut longitudinally on one side) or bivalved (cut on both sides) to permit expansion as the
 limb swells. The cast is reapplied or replaced after swelling has resolved.
-Specific Cast Types
+
+## Specific Cast Types
+
 Below-knee cast: Ankle and foot fractures.
 Above-knee cast: Tibial and fibular fractures, with the knee at variable flexion depending
 on the fracture.
@@ -174,20 +186,26 @@ replacement or reapplication may be required.
 
 Traction is the application of pulling force along the long axis of a limb to restore length
 and alignment.
-Skin Traction
+
+## Skin Traction
+
 Skin traction applies traction through adhesive strapping or specialized boots attached to
 the skin. The amount of traction is limited (typically less than 5 kg in adults) and is
 therefore suitable principally for temporary stabilization, for paediatric applications, and
 for selected definitive treatment in certain situations. Russell’s traction and the various
 paediatric traction systems are examples.
-Skeletal Traction
+
+## Skeletal Traction
+
 Skeletal traction applies traction through pins inserted into bone, allowing much greater
 forces (up to 10-15% of body weight) and more reliable maintenance of reduction. The
 principal pin sites include the distal femur (for hip and proximal femoral fractures, and for
 femoral fractures requiring traction), the proximal tibia (for distal femoral and tibial
 plateau fractures), and the calcaneus (for tibial fractures). Risks include pin-tract infection,
 pin loosening, and neurovascular injury during pin insertion.
-Indications for Traction
+
+## Indications for Traction
+
 In modern practice, traction is principally used as a temporizing measure before definitive
 surgical fixation, particularly for: femoral neck and intertrochanteric fractures awaiting
 surgery; femoral shaft fractures awaiting surgery; tibial plateau and pilon fractures

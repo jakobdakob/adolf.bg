@@ -115,7 +115,9 @@ on plain radiographs as the disease progresses.
 Multiple classification systems address two distinct questions in LCPD: the extent of
 femoral head involvement (which predicts prognosis), and the morphological outcome at
 skeletal maturity (which determines long-term arthritis risk).
-Catterall Classification
+
+## Catterall Classification
+
 The Catterall classification, described in 1971, divides cases by the extent of femoral head
 involvement on plain radiographs taken in the fragmentation stage. Group I involves the
 anterior portion only; Group II involves a larger anterior portion with a clear demarcation;
@@ -126,14 +128,18 @@ subluxation, calcification lateral to the epiphysis, metaphyseal cyst, horizonta
 which were used to identify the more severe cases requiring containment treatment. The
 Catterall system is now used less often because of poor inter-observer reliability and the
 difficulty of accurate classification in early disease.
-Salter-Thompson Classification
+
+## Salter-Thompson Classification
+
 The Salter-Thompson classification (1984) divides cases by whether the subchondral
 fracture line (the Caffey crescent sign) extends through less than half of the femoral head
 (Group A, better prognosis) or more than half (Group B, worse prognosis). The
 classification has the advantage of early predictive value but the disadvantage of requiring
 the presence of a visible crescent sign for classification.
 
-Herring Lateral Pillar Classification
+
+## Herring Lateral Pillar Classification
+
 The Herring classification, described in 1992 and validated in multiple large series, is the
 most widely used modern classification. It divides cases by the height of the lateral pillar of
 the femoral head — the lateral 15-30% of the head as seen on the AP radiograph — at the
@@ -145,7 +151,9 @@ Catterall system and correlates strongly with the final outcome: Group A hips ha
 universally good outcomes regardless of treatment; Group B hips have good outcomes if
 treated by containment in children over 8 years; Group C hips have poor outcomes
 regardless of treatment.
-Stulberg Classification
+
+## Stulberg Classification
+
 The Stulberg classification (1981) describes the morphological outcome at skeletal
 maturity. Type I: completely normal hip. Type II: spherical femoral head but with
 abnormalities of the femoral neck or acetabulum. Type III: ovoid (non-spherical but
@@ -168,14 +176,18 @@ Catterall principle); abduction bracing; containment surgery (femoral varus or p
 osteotomy); and, in modern practice, more selective use of any of these approaches based
 on age at presentation and Herring classification.
 
-Observation and Symptom Control
+
+## Observation and Symptom Control
+
 For younger children (less than 6 years) and for older children with Herring Group A
 disease, observation and symptom control are appropriate. Activity modification, restricted
 weight-bearing as needed, non-steroidal anti-inflammatory drugs for pain, physiotherapy
 to maintain hip range of motion (particularly internal rotation and abduction), and serial
 radiographic follow-up at 3-6 month intervals are the standard.
 
-Non-Operative Containment
+
+## Non-Operative Containment
+
 In the older child (6-8 years) with Group B disease and substantial hip involvement, non-
 operative containment with an abduction brace (the Atlanta or Scottish-Rite brace are
 historical examples) attempts to hold the femoral head in abduction so that the spherical
@@ -186,7 +198,9 @@ showing modest benefit and others showing no improvement over no treatment; mode
 practice has largely moved away from prolonged bracing in favor of operative containment
 or observation.
 
-Operative Containment
+
+## Operative Containment
+
 In children over 8 years of age with Herring Group B or B/C border disease, and in selected
 children with Group A disease and significant subluxation, operative containment provides
 the most reliable means of maintaining the femoral head within the acetabulum during the
@@ -215,7 +229,9 @@ pelvic osteotomy) produced significantly better outcomes than non-operative trea
 Group C disease, no treatment improved outcomes, but operative treatment did not worsen
 them either.
 
-Salvage Procedures
+
+## Salvage Procedures
+
 Once the femoral head has healed in a deformed shape (Stulberg III, IV, or V) and adjacent
 symptoms develop in the older child or adolescent, salvage procedures address the
 resulting impingement, instability, or arthritis. Valgus-extension proximal femoral

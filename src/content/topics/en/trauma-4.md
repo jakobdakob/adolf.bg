@@ -63,7 +63,9 @@ response to degradation products in some cases.
 The screw is the most fundamental implant in fracture surgery. The principal types and
 applications include:
 
-Screw Types
+
+## Screw Types
+
 Cortical screws: Designed for purchase in cortical bone. Typically 3.5 mm diameter for
 adult use (with smaller sizes for hand, foot, and pediatric applications), with fine threads
 providing purchase along the cortex of long bones.
@@ -85,7 +87,9 @@ Bioabsorbable screws: Made of degradable polymers. Useful in selected applicatio
 including malleolar fixation, syndesmosis fixation in some cases, and fragment fixation in
 the wrist.
 
-Functions of Screws
+
+## Functions of Screws
+
 Screws perform three principal mechanical functions:
 
 Compression: The classic “lag screw” technique uses a screw to compress two fragments
@@ -127,7 +131,9 @@ Reconstruction plates: Highly malleable plates that can be contoured to complex 
 (pelvic, acetabular, scapular reconstruction).
 Mini-fragment plates: Small plates for hand, foot, and selected pediatric applications.
 
-Functions of Plates
+
+## Functions of Plates
+
 The mechanical function of a plate depends on the technique of application:
 Compression plate: Applied with eccentric drilling to produce interfragmentary
 compression at the fracture site as the screws are tightened. Used for absolute stability
@@ -147,7 +153,9 @@ physiological loading produces compression at the fracture site through the plat
 resistance. Classical application is the lateral femoral plate, where axial loading produces
 compression at the medial cortex through the tension band effect of the lateral plate.
 
-Minimally Invasive Plate Osteosynthesis (MIPO)
+
+## Minimally Invasive Plate Osteosynthesis (MIPO)
+
 The MIPO technique, developed in the 1990s, applies plates through small incisions at
 either end of the fracture without direct exposure of the comminuted fracture zone. The
 plate is inserted in a submuscular tunnel and secured with percutaneous screws under
@@ -162,7 +170,9 @@ The intramedullary nail is a long implant inserted into the medullary canal of a
 providing internal splinting of the fracture. The principal applications are diaphyseal
 fractures of the femur, tibia, and humerus, with selected applications in metaphyseal
 fractures of these bones.
-Types of Intramedullary Nails
+
+## Types of Intramedullary Nails
+
 Conventional (non-locked) nails: The historical type. Provides bending stability but
 limited rotational and axial stability. Largely replaced by locked nails in modern practice.
 
@@ -185,14 +195,18 @@ subtrochanteric, and segmental femoral fractures.
 Retrograde nails: Inserted from the distal end of the bone (commonly used at the femur
 for distal femoral and certain shaft fractures, where antegrade insertion through the
 piriformis fossa or trochanter is difficult).
-Biomechanical Principles
+
+## Biomechanical Principles
+
 Intramedullary nails function as load-sharing devices when the fracture pattern permits
 cortical contact between fragments, and as load-bearing devices when comminution
 prevents cortical contact. The mechanical strength of the nail-bone construct depends on
 the nail diameter (which determines bending stiffness), the working length (the distance
 between the most proximal and distal fixation points), and the type and number of
 interlocking screws.
-Advantages and Disadvantages
+
+## Advantages and Disadvantages
+
 The advantages of intramedullary nailing include: preservation of the periosteal blood
 supply (the nail is inserted along the endosteum, which has lower vascular contribution
 than the periosteum for diaphyseal bone); biological fixation with healing by callus; the

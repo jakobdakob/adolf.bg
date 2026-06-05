@@ -27,7 +27,9 @@ Concise Orthopaedic Anatomy.
 
 ## Proximal Focal Femoral Deficiency (PFFD, Congenital Femoral Deficiency)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Proximal focal femoral deficiency, also called congenital femoral deficiency, is a sporadic
 congenital disorder characterized by a spectrum of severity ranging from mild femoral
 shortening with a partially formed hip to complete absence of the proximal femur, the
@@ -39,7 +41,9 @@ been implicated; the great majority of cases, however, occur without identifiabl
 exposure. Associated anomalies are common: fibular hemimelia coexists in 60-80% of
 cases, contralateral hip dysplasia or coxa vara, and absent or short cruciate ligaments; the
 proximal tibial and femoral epiphyses may be hypoplastic.
-Aitken Classification
+
+## Aitken Classification
+
 The Aitken classification, the most widely used scheme, divides PFFD into four classes (A
 through D) based on the presence and morphology of the femoral head and the
 acetabulum.
@@ -59,7 +63,9 @@ that better describe the more subtle minor forms of femoral hypoplasia. Modern p
 often uses both classifications in combination with the Paley classification, which
 emphasizes the functional considerations of hip stability and the potential for
 reconstruction.
-Clinical Features
+
+## Clinical Features
+
 The presentation is at birth or in infancy with a striking limb-length discrepancy, the limb-
 length discrepancy often being concealed initially by the contralateral hip’s apparent
 prominence as the child stands. Examination reveals a short thigh, an externally rotated
@@ -71,7 +77,9 @@ Stability of the hip joint depends on the Aitken class: Class A and B hips, with
 head in an adequate acetabulum, can be made stable by reconstruction, while Class C and D
 hips, with absent femoral head or acetabulum, cannot be made stable by reconstructive
 surgery alone.
-Investigations and Imaging
+
+## Investigations and Imaging
+
 Plain radiographs at birth may underestimate the severity of the deficiency because the
 femoral head is unossified; nonetheless they show the general extent of femoral
 shortening, the presence or absence of trochanteric ossification, and the morphology of the
@@ -81,7 +89,9 @@ for definitive Aitken classification, identification of pseudarthrosis at the su
 level, and characterization of the cruciate ligaments and other associated knee anomalies.
 Repeat imaging through childhood is required to assess ossification of the femoral head
 and to identify the eventual class of deficiency.
-Treatment
+
+## Treatment
+
 The fundamental treatment decision in PFFD rests on the predicted final limb-length
 discrepancy and the functional potential of the affected limb. A discrepancy of less than
 20% (≤7-8 cm at maturity) is typically managed with limb-lengthening procedures
@@ -117,7 +127,9 @@ osteotomy for varus correction, fusion of the pseudarthrosis when present, and p
 osteotomy in Class A and B when the acetabulum requires improvement. In Class C and D,
 hip stability cannot be achieved by reconstruction and the patient depends on the
 prosthesis to provide hip stability.
-Outcomes
+
+## Outcomes
+
 Modern multidisciplinary management of PFFD produces good functional outcomes for
 most children. The Van Nes rotationplasty in particular has been the subject of long-term
 follow-up studies showing excellent functional outcomes, high participation in athletic and
@@ -128,7 +140,9 @@ and significant complication rates.
 
 ## Fibular Hemimelia (Postaxial Longitudinal Deficiency of the Fibula)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Fibular hemimelia is the commonest long-bone deficiency in children, with an incidence of
 approximately 1 in 50,000 to 1 in 100,000 live births. The condition is characterized by
 partial or complete absence of the fibula, with associated deformities of the tibia, the foot,
@@ -141,7 +155,9 @@ present but shortened; Type IB, with a partial fibula and a fibrous tether to th
 Type II, with complete absence of the fibula. The Achterman-Kalamchi Type II — complete
 fibular absence — is the most severe and is associated with the greatest degree of tibial
 bowing, foot deformity, and PFFD.
-Clinical Features
+
+## Clinical Features
+
 Presentation is at birth with the constellation of anteromedial bowing of the tibia, a skin
 dimple over the apex of the bowing, foot deformity ranging from mild valgus to severe
 equinovalgus, and absence of the lateral foot rays (most commonly the fifth and fourth
@@ -152,7 +168,9 @@ cruciate, with consequent knee instability that becomes clinically important as 
 grows. The hip is often associated with PFFD or simple femoral shortening. Limb-length
 discrepancy at maturity ranges from a few centimeters in the mildest cases to 20 cm or
 more in the most severe.
-Treatment
+
+## Treatment
+
 Management decisions in fibular hemimelia are based on the predicted limb-length
 discrepancy, the foot deformity, and the function of the foot. The classical teaching,
 formulated by Birch and others, emphasized the function of the foot rather than its
@@ -182,7 +200,9 @@ and the unpredictability of complex limb reconstruction.
 
 ## Tibial Hemimelia (Preaxial Longitudinal Deficiency of the Tibia)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Tibial hemimelia, the partial or complete absence of the tibia with a preserved fibula, is
 substantially less common than fibular hemimelia, with an incidence of approximately 1 in
 1,000,000 live births. Unlike fibular hemimelia, tibial hemimelia is frequently familial, with
@@ -190,7 +210,9 @@ autosomal dominant inheritance described in many series, and is often associated
 hand anomalies and other syndromic features (Werner syndrome, tibial aplasia-
 ectrodactyly).
 
-Jones Classification
+
+## Jones Classification
+
 The Jones classification, the standard scheme, divides tibial hemimelia into four types
 based on the radiographic appearance of the tibia. Type I, the most severe, comprises Type
 IA (complete absence of the tibia, hypoplastic distal femur) and Type IB (complete absence
@@ -199,7 +221,9 @@ preserved proximal tibia and a functional knee. Type III is partial absence of t
 tibia with a preserved distal tibia and a functional ankle. Type IV is the diastasis variant, in
 which both the tibia and fibula are present but the distal tibiofibular relationship is
 markedly abnormal with the foot displaced into varus.
-Clinical Features and Treatment
+
+## Clinical Features and Treatment
+
 Presentation at birth shows the characteristic short limb with the foot in varus, the absent
 or hypoplastic tibia palpable as a short bony stump or no tibia at all, the fibula prominent
 on the lateral side, and associated hand anomalies in many cases. The knee functions only
@@ -234,7 +258,9 @@ Type III: Anterolateral bowing with a cystic lesion of the tibial diaphysis.
 Type IV: Established pseudarthrosis with frank discontinuity of the tibia.
 The Boyd classification, an earlier scheme, uses descriptive categories from “constricted”
 (Type I) through “non-progressive” (Type V) and remains in occasional use.
-Clinical Features
+
+## Clinical Features
+
 Presentation is in infancy with an anterolateral bowing of the tibia, often noted in the first
 6-12 months of life as the child begins to bear weight. The bowing progresses, the affected
 leg shortens, and a spontaneous fracture may occur without significant trauma, typically
@@ -243,7 +269,9 @@ heal with standard fracture management — closed reduction, casting, or even
 intramedullary fixation — and progressive shortening, deformity, and recurrent failed
 surgical attempts are the natural history. Café-au-lait spots, axillary or inguinal freckling,
 neurofibromas, Lisch nodules, and other features of NF1 should be sought.
-Treatment
+
+## Treatment
+
 CPT is one of the most difficult problems in pediatric orthopedics. The natural history of
 untreated disease is progressive deformity, shortening, and disability; the surgical
 management requires balancing the goal of achieving union with the realities of multiple
@@ -266,7 +294,9 @@ patients with extensive failure and disability.
 
 ## Other Congenital Anomalies of the Lower Leg
 
-Posteromedial Bowing of the Tibia
+
+## Posteromedial Bowing of the Tibia
+
 Posteromedial bowing of the tibia is a congenital deformity of the tibial diaphysis with the
 apex pointing posteromedially. In contrast to anterolateral bowing (which is associated
 with CPT), posteromedial bowing is benign and typically resolves spontaneously over the
@@ -278,17 +308,23 @@ millimeters to several centimeters at skeletal maturity; epiphysiodesis of the c
 distal femur or proximal tibia, planned by careful prediction of remaining growth,
 addresses the discrepancy.
 
-Anterolateral Bowing of the Tibia
+
+## Anterolateral Bowing of the Tibia
+
 Anterolateral bowing — the precursor of CPT and almost always associated with NF1 — is
 discussed in the preceding section. The critical clinical importance is the prevention of
 fracture by bracing during infancy and early childhood.
 
-Congenital Pseudarthrosis of the Fibula
+
+## Congenital Pseudarthrosis of the Fibula
+
 Congenital pseudarthrosis of the fibula is much less common than the tibial form and
 typically requires no specific treatment, since the fibula contributes only a small fraction of
 lower-limb load-bearing. Symptomatic cases can be treated by partial fibulectomy or
 pseudarthrosis revision.
-Congenital Pseudarthrosis of the Clavicle
+
+## Congenital Pseudarthrosis of the Clavicle
+
 Congenital pseudarthrosis of the clavicle is included here for completeness, though it is an
 upper-limb condition. It is almost always right-sided (the rare left-sided cases are typically
 associated with dextrocardia), produces a painless or mildly painful prominence at the

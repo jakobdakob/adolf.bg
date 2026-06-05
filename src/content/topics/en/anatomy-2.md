@@ -51,7 +51,9 @@ Topic Trauma-11.
 
 ## Muscular Anatomy
 
-Rotator Cuff
+
+## Rotator Cuff
+
 The rotator cuff comprises four muscles forming a cuff around the humeral head:
 Supraspinatus: Originates from the supraspinous fossa of the scapula, passes under the
 acromion, and inserts on the superior facet of the greater tuberosity. Function: initial 30
@@ -67,7 +69,9 @@ of the shoulder.
 The rotator cuff muscles function principally to compress the humeral head into the
 glenoid, providing dynamic stability, while permitting the deltoid to generate the principal
 abduction force.
-Deltoid
+
+## Deltoid
+
 The deltoid is the principal motor of shoulder abduction beyond the initial range provided
 by the supraspinatus. It has three heads:
 Anterior (clavicular) deltoid: From the lateral third of the clavicle, producing flexion and
@@ -81,7 +85,9 @@ innervates the deltoid (and teres minor) and runs through the quadrilateral spac
 and humeral shaft laterally) — passing approximately 5 to 7 cm distal to the acromion
 along the deltoid undersurface, the critical anatomical relationship that limits the size of
 safe deltoid-splitting incisions.
-Periscapular Muscles
+
+## Periscapular Muscles
+
 The periscapular muscles stabilize the scapula on the chest wall:
 Trapezius: From the occiput and spinous processes, inserting on the scapular spine,
 acromion, and clavicle. Provides scapular elevation, retraction, and upward rotation.
@@ -96,7 +102,9 @@ scapula. Elevates the scapula.
 
 ## Neurovascular Structures
 
-Axillary Nerve (C5-C6)
+
+## Axillary Nerve (C5-C6)
+
 The axillary nerve is the principal neurological structure at risk in shoulder surgery. It
 branches from the posterior cord of the brachial plexus, passes posteriorly through the
 quadrilateral space, and then winds around the surgical neck of the humerus deep to the
@@ -108,24 +116,32 @@ critical surgical anatomical fact that limits the extent of deltoid-splitting in
 axillary nerve is injured in approximately 10 to 20 percent of anterior shoulder
 dislocations and in many proximal humerus fractures (Topic Trauma-13).
 
-Musculocutaneous Nerve (C5-C7)
+
+## Musculocutaneous Nerve (C5-C7)
+
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus,
 pierces the coracobrachialis muscle (typically about 5 to 8 cm distal to the coracoid — the
 “safe zone” for retraction during anterior shoulder surgery is approximately 5 cm distal to
 the coracoid), and supplies the biceps brachii, brachialis, and coracobrachialis. It then
 continues as the lateral antebrachial cutaneous nerve.
-Brachial Plexus and Axillary Vessels
+
+## Brachial Plexus and Axillary Vessels
+
 The brachial plexus lies medial to the coracoid and posterior to the pectoralis minor. The
 axillary artery and vein travel with the plexus. These structures are at risk in deeper
 dissection medial to the coracoid and in high-energy shoulder dislocations.
-Suprascapular Nerve (C5-C6)
+
+## Suprascapular Nerve (C5-C6)
+
 The suprascapular nerve passes through the suprascapular notch (deep to the
 transverse scapular ligament) and supplies the supraspinatus, then continues around the
 spinoglenoid notch to supply the infraspinatus. Compression or traction at these notches
 produces suprascapular neuropathy with weakness of the supraspinatus and/or
 infraspinatus.
 
-Long Thoracic Nerve (C5-C7)
+
+## Long Thoracic Nerve (C5-C7)
+
 The long thoracic nerve runs along the lateral chest wall on the surface of serratus
 anterior, supplying the muscle. Injury produces scapular winging with prominence of the
 medial border of the scapula on forward elevation of the arm.
@@ -137,16 +153,22 @@ shoulder, providing access for anterior open reduction of dislocations, open red
 and internal fixation of proximal humerus fractures, anterior glenoid procedures
 (Bankart, Latarjet, bone block), shoulder arthroplasty (anatomic and reverse), and
 tumor resections.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is positioned in beach chair (45 to 60 degrees of trunk elevation) with the
 head supported in a specialized head holder; the affected arm is draped freely to permit
 movement during the procedure. Alternatively, the lateral decubitus position can be used
 for shoulder arthroscopy with the affected side up and traction applied to the arm.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The incision is along the deltopectoral groove, beginning just inferior to the coracoid
 process and extending distally toward the deltoid insertion for approximately 10 to 15
 cm. The anterior axillary fold marks the lower extent of the deltoid.
-Approach
+
+## Approach
+
 The deltopectoral interval between the deltoid (axillary nerve) and the pectoralis major
 (medial and lateral pectoral nerves) is identified — the classical landmark is the cephalic
 vein running in the interval. The vein is typically taken either medially (with the
@@ -162,13 +184,17 @@ subscapularis is then incised (with various techniques — vertical incision, le
 osteotomy, peel from the lesser tuberosity for shoulder arthroplasty) to expose the
 underlying capsule and joint.
 
-Variations
+
+## Variations
+
 The extended deltopectoral approach carries the incision more proximally and distally
 for extended exposure (e.g., for tumors or revision procedures).
 The minimally invasive deltopectoral approach uses a smaller skin incision and limited
 dissection for percutaneous and arthroscopically-assisted procedures.
 
-Complications
+
+## Complications
+
 The complications of the deltopectoral approach include musculocutaneous nerve injury
 (rare, prevented by gentle retraction of the conjoint tendon and avoidance of vigorous
 retraction more than 5 cm distal to the coracoid), axillary nerve injury (rare in this
@@ -183,14 +209,20 @@ The posterior approach provides access for posterior glenoid procedures (posteri
 Bankart, posterior bone block), posterior shoulder instability surgery, posterior
 reduction of locked posterior dislocations, scapular body fixation, and tumor
 resection of the posterior scapula.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is positioned in lateral decubitus with the affected side up, or prone. The arm
 is draped freely.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The scapular spine and the acromion are the principal landmarks. The incision extends
 from the posterolateral corner of the acromion distally over the lateral border of the
 deltoid for 6 to 10 cm. An alternative incision parallels the scapular spine.
-Approach
+
+## Approach
+
 The deltoid is split in line with its fibers between the middle and posterior heads, with the
 split limited to approximately 5 cm distal to the acromion to protect the axillary nerve
 (which runs around the surgical neck of the humerus). The posterior deltoid is reflected
@@ -204,7 +236,9 @@ with preservation of the muscle but with potential for some loss of function), a
 
 detachment of infraspinatus from the greater tuberosity (with later repair, providing the
 most extensive exposure but with concern for repair healing).
-Complications
+
+## Complications
+
 The complications of the posterior approach include axillary nerve injury (the principal
 concern, prevented by limiting the deltoid split to 5 cm distal to the acromion),
 suprascapular nerve injury (in the spinoglenoid notch, at risk with deep dissection), and
@@ -216,11 +250,15 @@ The anterior axillary approach uses a more inferior anterior incision that avoid
 visible anterior shoulder scar and provides access for anterior shoulder procedures with
 cosmetic priority (selected female patients, athletes), as well as access to certain
 pathologies of the anterior shoulder.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The incision is in the anterior axillary skin fold, beginning approximately 1 to 2 cm distal
 to the coracoid and extending downward into the axilla. The incision is cosmetic when
 healed.
-Approach
+
+## Approach
+
 The dissection proceeds upward to the deltopectoral groove and proceeds in the
 standard deltopectoral approach. The advantage is the smaller, less visible scar; the
 disadvantage is the more limited proximal exposure and the somewhat more demanding
@@ -232,10 +270,14 @@ The superior approach (also called the saber-cut approach or the superior
 arthroscopic-assisted approach) provides access to the superior aspect of the shoulder
 for distal clavicle excision, AC joint procedures, superior rotator cuff repair (open),
 and proximal humerus fracture access in selected cases.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 A small superior incision is made over the AC joint or over the greater tuberosity,
 depending on the desired exposure. The incision is typically 4 to 6 cm in length.
-Approach
+
+## Approach
+
 The deltoid is split in line with its fibers (the deltoid-splitting approach) for a maximum
 of approximately 5 cm distal to the acromion to protect the axillary nerve. The
 supraspinatus tendon and its insertion on the greater tuberosity are exposed. For AC joint

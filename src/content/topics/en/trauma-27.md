@@ -100,7 +100,9 @@ patterns; it is essential for pilon fractures.
 
 ## Treatment of Tibial Shaft Fractures
 
-Non-Operative Management
+
+## Non-Operative Management
+
 Non-operative management with long-leg cast or Sarmiento patellar tendon-bearing
 cast was the historical standard for the majority of closed tibial shaft fractures. The
 technique involves closed reduction under appropriate anesthesia, application of a long-leg
@@ -116,7 +118,9 @@ Within these limits, non-operative management produces acceptable outcomes, with
 rates of 90 to 95 percent and reasonable functional results. Outside these limits, secondary
 displacement, malunion, or nonunion become substantially more common, and operative
 management is preferred.
-Operative Management — Intramedullary Nailing
+
+## Operative Management — Intramedullary Nailing
+
 Intramedullary nailing is the standard operative treatment for displaced tibial shaft
 fractures, including most closed fractures and the great majority of open fractures up
 through Gustilo-Anderson type IIIA (and selected IIIB after soft-tissue coverage). The
@@ -151,7 +155,9 @@ The SPRINT trial (Bhandari et al., 2008) — a large multicenter trial of reamed
 unreamed nailing in tibial shaft fractures — provided substantial evidence supporting
 reamed nailing as the standard in closed and selected open tibial shaft fractures, with
 reduced reoperation rates in the reamed cohort.
-Other Operative Techniques
+
+## Other Operative Techniques
+
 Plate fixation of the tibial shaft is reserved for specific indications: pediatric or skeletally
 immature patients (to avoid physeal injury), severely contaminated open fractures where
 intramedullary nailing risks deep infection, fractures with extensive comminution and
@@ -198,7 +204,9 @@ the talus to form the ankle joint. The pilon fracture is the intra-articular fra
 region, typically produced by high-energy axial load through the talus into the distal tibia
 (fall from height, motor vehicle dashboard injury), in contrast to the rotational mechanism
 of typical ankle fractures.
-Classification
+
+## Classification
+
 The Rüedi-Allgöwer classification (1969) is the historical standard:
 Type I: Non-displaced cleavage fracture without articular impaction.
 Type II: Displaced articular fracture with no comminution but with rotational and
@@ -209,13 +217,17 @@ The AO/OTA classification (region 43) provides more detail: 43-A is extra-articu
 tibia, 43-B is partial articular, 43-C is complete articular pilon. The pilon proper
 corresponds to AO 43-C patterns.
 
-Mechanism and Soft-Tissue Considerations
+
+## Mechanism and Soft-Tissue Considerations
+
 The high-energy axial mechanism produces both bony comminution and substantial soft-
 tissue injury, with blister formation within 24 to 48 hours of injury being characteristic.
 The blisters (and the underlying skin compromise) prevent immediate definitive operative
 fixation; the two-stage approach is now the standard for the great majority of pilon
 fractures.
-Two-Stage Management
+
+## Two-Stage Management
+
 The two-stage management consists of:
 Stage 1 (within 24 to 48 hours): Spanning external fixation across the ankle, with
 restoration of length and rough alignment of the fracture; open reduction of the fibula if
@@ -232,11 +244,15 @@ reduction tools and direct visualization, with structural autograft or allograft
 defects. Fixation is by medial buttress plate and/or anterolateral plate, with the choice
 depending on the pattern. The dual plating (medial and anterolateral) of severely
 comminuted pilon fractures has become increasingly common.
-Single-Stage Management
+
+## Single-Stage Management
+
 Single-stage definitive fixation is reserved for low-energy pilon fractures with minimal
 soft-tissue injury, where definitive ORIF can be performed acutely without significant skin
 compromise.
-Outcomes
+
+## Outcomes
+
 The functional outcomes of pilon fractures are notoriously disappointing — even with
 optimal management, post-traumatic arthritis develops in 30 to 60 percent of patients
 within 5 years, and many require ankle arthrodesis or total ankle arthroplasty in the

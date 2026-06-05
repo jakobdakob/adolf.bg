@@ -84,7 +84,9 @@ provide coronal-plane stability.
 
 ## Knee Approaches
 
-Medial Parapatellar Approach
+
+## Medial Parapatellar Approach
+
 The medial parapatellar approach is the classical and most commonly used approach for
 total knee arthroplasty, knee arthrotomy, and many open knee procedures. The approach
 uses a longitudinal anterior midline skin incision, with the deep arthrotomy beginning at
@@ -97,19 +99,25 @@ medialis insertion on the patella, with consequent quadriceps weakness in the sh
 and contribution to extensor mechanism imbalance. The medial patellofemoral ligament
 (MPFL) is partially disturbed, and may contribute to lateral subluxation if not properly
 reconstructed.
-Midvastus Approach
+
+## Midvastus Approach
+
 The midvastus approach preserves a larger portion of the vastus medialis by splitting the
 muscle in line with its fibers rather than detaching its insertion on the patella. The
 approach develops a muscle-splitting plane through the vastus medialis obliquus (VMO)
 from the medial border of the patella for approximately 4 to 5 cm proximally. The approach
 provides similar exposure to the medial parapatellar with theoretical preservation of
 extensor mechanism integrity.
-Subvastus Approach
+
+## Subvastus Approach
+
 The subvastus approach preserves the entire vastus medialis by elevating the muscle
 from the medial femur (rather than splitting it) and reflecting it laterally. The approach
 provides the greatest preservation of extensor mechanism but requires significant
 elevation of the muscle and has more limited exposure of the lateral compartment.
-Lateral Parapatellar Approach
+
+## Lateral Parapatellar Approach
+
 The lateral parapatellar approach is the mirror image of the medial parapatellar but is
 less commonly used. It is reserved for specific indications (severe valgus deformity where
 the medial structures must be approached from outside-in, lateral patellar instability

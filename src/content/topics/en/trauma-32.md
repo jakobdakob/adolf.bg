@@ -74,7 +74,9 @@ intervention:
 •   Audible bruit or palpable thrill: Indicates turbulent flow at the injury site.
 The presence of hard signs is an indication for immediate operative exploration without
 further imaging delays.
-Soft Signs
+
+## Soft Signs
+
 Soft signs indicate the possibility of vascular injury and require further evaluation:
 •   History of significant hemorrhage at the scene.
 •   Diminished but present pulses: May reflect vasospasm, partial injury, or
@@ -87,7 +89,9 @@ Soft signs indicate the possibility of vascular injury and require further evalu
 
 The presence of soft signs without hard signs warrants further evaluation with imaging or
 measurements.
-The Ankle-Brachial Index (ABI) and Injured Extremity Index
+
+## The Ankle-Brachial Index (ABI) and Injured Extremity Index
+
 The ankle-brachial index (ABI) in lower extremity injury, or the injured extremity
 index (IEI) (the ratio of pressure at the injured side to pressure at the contralateral
 uninjured side), is a validated screening tool. An ABI or IEI less than 0.9 has been shown
@@ -95,7 +99,9 @@ to be highly sensitive (>95 percent) for arterial injury requiring intervention.
 measurement is performed with a Doppler probe; the systolic pressure at the most distal
 palpable or audible pulse is divided by the brachial systolic pressure (for ABI) or the
 contralateral side (for IEI).
-Imaging
+
+## Imaging
+
 For patients with hard signs or with abnormal ABI:
 CT angiography (CTA) is the imaging modality of choice in most centers because of its
 widespread availability, rapid acquisition, and ability to image both bony and vascular
@@ -109,7 +115,9 @@ operator-dependent and less practical for many orthopedic settings.
 
 ## Management of Vascular Injuries
 
-Immediate Stabilization
+
+## Immediate Stabilization
+
 Hemorrhage control is the first priority. For external hemorrhage, direct pressure is the
 principal initial intervention. Tourniquets have regained acceptance for life-threatening
 extremity hemorrhage, with the lessons learned from military experience and the
@@ -122,7 +130,9 @@ crystalloid as initial fluid, conversion to blood products with massive transfus
 in significant hemorrhage, tranexamic acid within 3 hours of injury, and damage control
 resuscitation principles.
 
-Operative Management of Vascular Injury
+
+## Operative Management of Vascular Injury
+
 The principles of vascular repair in the orthopedic context:
 
 Sequencing with orthopedic fixation: The classical sequence is temporary vascular
@@ -140,7 +150,9 @@ larger vessels and contaminated wounds where vein graft is inferior).
 Fasciotomy is routinely performed for vascular injuries with prolonged ischemia time
 (typically more than 4 to 6 hours) because of the substantial risk of reperfusion-induced
 compartment syndrome.
-Adjuncts
+
+## Adjuncts
+
 Anticoagulation is given selectively, balancing the risk of thrombosis at the repair site
 against the bleeding concerns in the polytrauma patient. Typical protocols use heparin
 during the operative procedure with conversion to oral anticoagulation or antiplatelet
@@ -200,7 +212,9 @@ emergency with limited tolerance for delay — irreversible muscle necrosis and 
 damage develop after approximately 6 to 8 hours of unrelieved compartment syndrome,
 with permanent consequences (Volkmann’s ischemic contracture, persistent neurological
 deficit, chronic pain).
-Pathophysiology
+
+## Pathophysiology
+
 The pathophysiology follows a self-perpetuating cycle:
 Initial insult (fracture, crush injury, hemorrhage, prolonged ischemia with reperfusion)
 produces accumulation of fluid, blood, or edema within the closed fascial compartment.
@@ -219,7 +233,9 @@ The critical concept is that compartment syndrome can occur without occlusion of
 arterial inflow — distal pulses may be preserved while the microcirculation is
 compromised. Reliance on the presence of pulses to exclude compartment syndrome is a
 classical pitfall.
-Specific Risk Factors
+
+## Specific Risk Factors
+
 The principal risk factors for compartment syndrome include:
 Fractures: Tibial shaft fracture is the most common precipitant (Topic Trauma-27); other
 high-risk fractures include forearm fractures (with Volkmann’s contracture as the classical
@@ -254,7 +270,9 @@ exceeds systolic arterial pressure — by that time, irreversible tissue damage 
 established. The presence of pulses does not exclude compartment syndrome.
 Paralysis is similarly a late finding indicating advanced nerve injury.
 Pallor is variable and not always present.
-The Reliable Early Signs
+
+## The Reliable Early Signs
+
 The early reliable signs of compartment syndrome are:
 Pain out of proportion to the apparent injury: The most sensitive and early sign. The
 patient typically complains of severe pain unresponsive to typical doses of analgesics, with
@@ -270,7 +288,9 @@ features. The challenge is the obtunded, intubated, or unconscious patient who c
 report symptoms — in this population, compartment pressure measurement and a low
 threshold for fasciotomy are essential.
 
-Compartment Pressure Measurement
+
+## Compartment Pressure Measurement
+
 When clinical signs are equivocal or the patient cannot be reliably examined, direct
 measurement of intracompartmental pressure provides objective information. Methods
 include:
@@ -309,7 +329,9 @@ Skin closure should not be attempted at the time of fasciotomy: The compartment
 must be left open with appropriate dressings; delayed closure or skin grafting is performed
 when the swelling resolves (typically 5 to 10 days after fasciotomy).
 
-Specific Compartment Anatomy and Approach
+
+## Specific Compartment Anatomy and Approach
+
 Leg compartments (4): - Anterior compartment: Tibialis anterior, EHL, EDL, peroneus
 tertius; anterior tibial artery and deep peroneal nerve. - Lateral compartment: Peroneus
 longus and brevis; superficial peroneal nerve. - Superficial posterior compartment:
@@ -344,7 +366,9 @@ fourth metatarsals) with a medial incision if needed.
 Buttock compartments: Rare site of compartment syndrome but occurs in prolonged
 immobility with severe pressure injury, hyperflexion injuries, or vascular injury.
 Decompression requires posterior incisions through the gluteal fascia.
-Post-Fasciotomy Management
+
+## Post-Fasciotomy Management
+
 Wound management after fasciotomy follows the principles of open wound care:
 Initial dressing with sterile dressings (saline gauze, foam dressings, or vacuum-assisted
 closure (VAC) systems). VAC systems are increasingly used because they help draw down
@@ -362,7 +386,9 @@ intravenous fluid resuscitation with attention to urine output and electrolyte b
 
 ## Specific Considerations
 
-Crush Syndrome
+
+## Crush Syndrome
+
 Crush syndrome is the systemic response to prolonged muscle compression,
 characterized by hyperkalemia, hypocalcemia, rhabdomyolysis with myoglobinuria, and
 acute kidney injury. The condition was historically described in earthquake victims and
@@ -373,17 +399,23 @@ or more) begun before extrication to dilute the released potassium and prevent a
 kidney injury, alkalinization of the urine (to reduce myoglobin precipitation in renal
 tubules), and dialysis when needed for renal failure or severe hyperkalemia.
 
-Tourniquet-Related Compartment Syndrome
+
+## Tourniquet-Related Compartment Syndrome
+
 Prolonged use of a surgical tourniquet (typically over 2 hours) can produce reperfusion-
 related compartment syndrome of the affected limb. Prevention includes appropriate
 tourniquet time limits, periodic deflation in prolonged cases, and awareness of the risk.
 
-Compartment Syndrome in the Obtunded Patient
+
+## Compartment Syndrome in the Obtunded Patient
+
 The obtunded patient (head injury, intubated and sedated, intoxicated) is at particular risk
 for missed compartment syndrome because the early sign of pain is not available.
 Compartment pressure monitoring, high index of suspicion, and low threshold for
 fasciotomy are essential in this population.
-Chronic Exertional Compartment Syndrome
+
+## Chronic Exertional Compartment Syndrome
+
 Chronic exertional compartment syndrome (CECS) is a distinct entity from acute
 compartment syndrome. The condition affects athletes performing repetitive activity and
 produces predictable elevation of compartment pressures with exercise, producing pain

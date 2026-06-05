@@ -28,7 +28,9 @@ Orthopaedic Examination.
 
 ## Peripheral Nerve Anatomy and Pathophysiology
 
-Nerve Structure
+
+## Nerve Structure
+
 Peripheral nerves are complex anatomical structures with multiple connective tissue layers
 and a precisely organized internal architecture:
 The axon is the conducting element, transmitting impulses from the cell body (in the dorsal
@@ -48,7 +50,9 @@ implication for surgical repair is that simple end-to-end alignment of the cut n
 does not necessarily produce alignment of the corresponding fascicles, with consequent
 suboptimal functional recovery even in well-performed repairs.
 
-Mechanisms of Nerve Injury
+
+## Mechanisms of Nerve Injury
+
 The principal mechanisms of nerve injury include:
 Stretch (traction) injury: Elongation of the nerve beyond its elastic limit, producing
 varying degrees of intraneural damage. The classical orthopedic settings are the brachial
@@ -105,7 +109,9 @@ Grade V: Complete transection (corresponds to Seddon’s neurotmesis).
 The Mackinnon classification adds a Grade VI for mixed injuries with different grades in
 different fascicles within the same nerve.
 
-Clinical Implications of the Classification
+
+## Clinical Implications of the Classification
+
 The classification is critical because it predicts recovery and guides treatment:
 Grades I-II (neurapraxia and axonotmesis with intact endoneurium) recover
 spontaneously without surgical intervention.
@@ -140,7 +146,9 @@ Autonomic findings: Loss of sweating in the affected distribution (anhidrosis), 
 skin temperature and color, and trophic changes (thinning of the skin, loss of hair, brittle
 nails) — all reflect denervation and provide additional information about the completeness
 of the injury.
-Electrophysiological Studies
+
+## Electrophysiological Studies
+
 Electrophysiological studies (electromyography and nerve conduction studies)
 provide objective evidence of nerve injury and recovery:
 Nerve conduction studies (NCS) measure conduction velocity and amplitude across
@@ -159,7 +167,9 @@ advance of clinical signs and may help determine the need for surgical explorati
 
 ## Treatment Principles
 
-Immediate Management
+
+## Immediate Management
+
 For the patient with acute peripheral nerve injury:
 
 Documentation of the nerve injury at presentation is essential, both for medical reasons
@@ -173,7 +183,9 @@ Surgical exploration for displaced fractures or dislocations with new nerve defi
 that did not respond to reduction. The principle is that an irreducible fracture-dislocation
 with neurological deficit suggests interposed neural tissue or compression requiring direct
 intervention.
-Delayed Management
+
+## Delayed Management
+
 For nerve injuries that do not recover spontaneously:
 Serial clinical and electrophysiological assessment over 3 to 6 months establishes the
 trajectory.
@@ -185,7 +197,9 @@ opportunity for successful reinnervation. The classical figure is that 18 to 24 
 limit beyond which motor reinnervation produces poor results, and surgery should be
 performed well in advance of this limit.
 
-Surgical Techniques
+
+## Surgical Techniques
+
 Direct neurorrhaphy (end-to-end repair) is the gold standard for complete transection,
 with epineurial repair (sutures placed in the epineurium without disturbing the internal
 fascicular pattern), fascicular repair (alignment of corresponding fascicles with grouped
@@ -220,7 +234,9 @@ useful in late presentations beyond the window for nerve reinnervation.
 
 ## Specific Nerve Injuries
 
-Brachial Plexus Injuries
+
+## Brachial Plexus Injuries
+
 Brachial plexus injuries range from minor traction injuries (“stingers” or “burners” in
 contact sport athletes, with transient symptoms) through complete avulsion of all roots
 from the spinal cord (severe injury with complete arm paralysis). The classification by
@@ -242,7 +258,9 @@ grafting. Differentiating features of pre-ganglionic injury include Horner’s s
 T1 root), elevated hemidiaphragm (for C5 phrenic nerve component), severe pain,
 pseudomeningoceles on imaging, and abnormalities on intraspinal imaging.
 
-Common Peroneal Nerve Injury
+
+## Common Peroneal Nerve Injury
+
 The common peroneal nerve courses superficially around the neck of the fibula and is at
 substantial risk of injury in knee dislocations (Topic Trauma-26), fibular neck fractures,
 prolonged compression (against a stretcher or operating table), and crossed-leg habits in
@@ -257,7 +275,9 @@ prompts exploration with neurolysis, repair, or grafting; late presentation with
 permanent palsy is treated with tendon transfers (typically posterior tibial tendon
 transfer through the interosseous membrane to the dorsum of the foot) or with ankle-foot
 orthosis (AFO) for non-surgical management.
-Axillary Nerve Injury
+
+## Axillary Nerve Injury
+
 The axillary nerve is at risk in anterior shoulder dislocation, proximal humerus fractures,
 and surgical approaches to the shoulder. The injury produces weakness of deltoid
 (shoulder abduction beyond 30 degrees) and sensory loss over the lateral aspect of the
@@ -266,7 +286,9 @@ months. Failure of recovery at 6 months may prompt exploration; nerve grafting o
 transfer (triceps motor branch of the radial nerve to the axillary nerve) may restore deltoid
 function.
 
-Radial Nerve Injury
+
+## Radial Nerve Injury
+
 The radial nerve is the most commonly injured nerve in long bone fractures, with the
 Holstein-Lewis distal third humeral shaft fracture being the classical association (Topic
 Trauma-14). The injury produces wrist drop (loss of wrist and finger extension) and
@@ -278,7 +300,9 @@ palsy after manipulation, and failed recovery at 4 to 6 months. Tendon transfers
 established radial nerve palsy (PT to ECRB for wrist extension, FCR to EDC for finger
 extension, palmaris longus to EPL for thumb extension — the standard pattern) provide
 reliable restoration of function.
-Median Nerve Injury
+
+## Median Nerve Injury
+
 The median nerve is at risk in distal radius fractures (acute carpal tunnel syndrome),
 supracondylar humerus fractures in children (typically the anterior interosseous branch),
 and direct trauma. Loss produces thumb opposition weakness (abductor pollicis brevis),
@@ -287,7 +311,9 @@ forearm pronation weakness (in proximal injuries with pronator teres involvement
 sensory loss over the thumb, index, middle, and radial half of the ring finger. The acute
 median nerve palsy with carpal tunnel syndrome from acute fracture is a surgical
 emergency requiring carpal tunnel release.
-Ulnar Nerve Injury
+
+## Ulnar Nerve Injury
+
 The ulnar nerve is at risk in distal humerus fractures, elbow injuries, and direct trauma at
 the wrist. Loss produces intrinsic hand weakness with clawing (the Wartenberg sign of
 small finger abduction; the Froment sign with thumb adduction weakness producing IP
@@ -296,14 +322,18 @@ finger. Cubital tunnel syndrome (chronic compression) is a common entrapment
 neuropathy. Acute injuries follow the same principles as other nerve injuries; late
 presentations are addressed by transfer procedures (the AIN to motor branch of ulnar
 nerve transfer being increasingly performed).
-Sciatic Nerve Injury
+
+## Sciatic Nerve Injury
+
 The sciatic nerve is at risk in posterior hip dislocations (Topic Trauma-20) and during
 operative approaches to the acetabulum. The peroneal division is typically more affected
 than the tibial division because of its more lateral and posterior position. Recovery rates
 are 50 to 80 percent for the tibial component but only 30 to 50 percent for the peroneal
 component. Direct injury during surgery may require immediate repair; traction injuries
 typically warrant observation.
-Femoral Nerve Injury
+
+## Femoral Nerve Injury
+
 The femoral nerve is at risk in surgical approaches to the hip and acetabulum (particularly
 the ilioinguinal approach), in retractor placement during anterior hip approaches, and
 rarely in injuries to the iliopsoas region. Loss produces quadriceps weakness and sensory

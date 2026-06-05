@@ -31,7 +31,9 @@ entities.
 
 ## Achondroplasia
 
-Genetics and Pathophysiology
+
+## Genetics and Pathophysiology
+
 Achondroplasia is the commonest skeletal dysplasia producing disproportionate short
 stature, with an incidence of approximately 1 in 25,000-40,000 live births. The condition is
 autosomal dominant, with approximately 80% of cases representing new mutations
@@ -42,7 +44,9 @@ mutation (G1138A producing a glycine-to-arginine substitution at codon 380). The
 mutation produces a constitutively active FGFR3 receptor, which suppresses chondrocyte
 proliferation and differentiation in the cartilage growth plate, producing the characteristic
 rhizomelic (proximal limb) short stature.
-Clinical Features
+
+## Clinical Features
+
 The classical features include: rhizomelic short stature (with the upper arms and thighs
 disproportionately shorter than the forearms and legs); macrocephaly with frontal bossing
 and depressed nasal bridge; trident hands (with separation of the third and fourth fingers);
@@ -56,7 +60,9 @@ central apnea, weakness, or sudden death); midface hypoplasia with potential air
 problems; otitis media and hearing impairment; genu varum (in approximately 30%); and
 elbow contractures.
 
-Orthopedic Management
+
+## Orthopedic Management
+
 The orthopedic management of achondroplasia encompasses several specific issues.
 Foramen magnum stenosis must be assessed in every infant by neurological examination,
 polysomnography, and MRI; surgical decompression is required in the small fraction of
@@ -153,7 +159,9 @@ abnormalities. The condition is enriched in the Old Order Amish population.
 
 ## Osteogenesis Imperfecta (OI)
 
-Genetics and Pathophysiology
+
+## Genetics and Pathophysiology
+
 Osteogenesis imperfecta — “brittle bone disease” — is a group of inherited disorders of
 type I collagen, the principal structural protein of bone, with an overall incidence of
 approximately 1 in 15,000-20,000. The classical Sillence classification (1979) recognizes
@@ -175,7 +183,9 @@ Additional types V (autosomal dominant, IFITM5 mutations with hyperplastic callu
 formation), VI through VIII (autosomal recessive forms with various collagen-processing
 defects), and additional rarer types have been added in modern classifications.
 
-Clinical Features and Diagnosis
+
+## Clinical Features and Diagnosis
+
 The cardinal feature is bone fragility with multiple fractures from minor trauma. Other
 characteristic features include short stature (variable by type), bone deformity (typical
 bowing of the long bones from healed fractures and ongoing remodeling), blue sclerae
@@ -186,7 +196,9 @@ involvement of the small bones of the middle ear), joint hypermobility, easy bru
 number of additional features. The diagnosis is principally clinical, supported in many
 cases by molecular genetic testing (which can also assist in counseling and prenatal
 diagnosis).
-Orthopedic Management
+
+## Orthopedic Management
+
 The orthopedic management has been transformed by bisphosphonate therapy and
 modern internal fixation techniques.
 Bisphosphonate therapy — typically intravenous pamidronate or zoledronate, with oral
@@ -260,27 +272,37 @@ transplantation therapies extending life expectancy.
 
 ## Other Notable Conditions
 
-Cleidocranial Dysplasia
+
+## Cleidocranial Dysplasia
+
 Cleidocranial dysplasia, caused by RUNX2 (CBFA1) mutations, produces aplasia or
 hypoplasia of the clavicles (allowing the patient to bring the shoulders together anteriorly),
 delayed closure of cranial fontanelles and sutures, supernumerary teeth, short stature, and
 various other abnormalities. The orthopedic management is largely supportive.
 
-Marfan Syndrome and Loeys-Dietz Syndrome
+
+## Marfan Syndrome and Loeys-Dietz Syndrome
+
 These connective tissue disorders, discussed in detail in the chapter on joint hypermobility,
 produce significant skeletal features including tall stature, scoliosis, protrusio acetabuli,
 pes planus, and pectus excavatum or carinatum. The cardiovascular risks (aortic dilation
 and dissection) require coordinated care with cardiology.
-Stickler Syndrome
+
+## Stickler Syndrome
+
 Stickler syndrome, caused by mutations in collagen types II, IX, or XI, produces a
 characteristic phenotype of high myopia, retinal detachment, hearing loss, cleft palate, and
 progressive joint problems with epiphyseal dysplasia features. The condition overlaps with
 SED congenita.
-Camurati-Engelmann Disease
+
+## Camurati-Engelmann Disease
+
 Camurati-Engelmann (progressive diaphyseal dysplasia) is an autosomal dominant
 condition causing progressive cortical thickening of the diaphyses of the long bones, with
 bone pain and weakness as the principal symptoms.
-Trevor Disease (Dysplasia Epiphysealis Hemimelica)
+
+## Trevor Disease (Dysplasia Epiphysealis Hemimelica)
+
 Trevor disease is a rare developmental disorder in which cartilaginous overgrowth occurs
 from one side of an epiphysis, producing a hemimelic mass and joint deformity. Surgical
 excision of the abnormal cartilage is the treatment.

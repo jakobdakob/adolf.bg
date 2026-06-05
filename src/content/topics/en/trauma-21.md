@@ -91,7 +91,9 @@ challenges; the modern application is in selecting fixation constructs that resi
 
 forces in Pauwels III patterns (often a sliding hip screw with anti-rotation screw, or fixed-
 angle plate fixation).
-Anatomic Location
+
+## Anatomic Location
+
 Femoral neck fractures are further classified by location: subcapital (just below the
 femoral head), transcervical (mid-neck), and basicervical (at the junction of the neck and
 the intertrochanteric region — sometimes grouped with extracapsular fractures because of
@@ -152,11 +154,15 @@ higher early complication rates (dislocation in particular).
 
 ## Internal Fixation
 
-Indications
+
+## Indications
+
 Internal fixation is indicated for non-displaced fractures (Garden I and II) in patients of all
 ages, and for displaced fractures (Garden III and IV) in younger patients (typically under 60
 to 65 years) where the native femoral head is preferable to arthroplasty.
-Techniques
+
+## Techniques
+
 The standard fixation technique is three or four cancellous screws (typically 6.5 or 7.3
 mm partially threaded cannulated screws) in a triangular or inverted triangular
 configuration. The inferior screw is placed just above the inferior cortex (the calcar),
@@ -181,7 +187,9 @@ studies show no clear benefit from very early surgery beyond what comes from pro
 and adequate reduction, with patient stabilization and adequate operative resources being
 more important than emergency surgery. The general consensus is that surgery should be
 performed within 24 to 48 hours of injury for the medically stable patient.
-Outcomes and Complications
+
+## Outcomes and Complications
+
 The complications of internal fixation include nonunion (5 to 30 percent depending on
 displacement and patient factors), avascular necrosis (10 to 45 percent in displaced
 fractures), and fixation failure with cut-out or back-out of screws. The combined rate of
@@ -197,13 +205,17 @@ late conversion to arthroplasty.
 
 ## Hemiarthroplasty
 
-Indications
+
+## Indications
+
 Hemiarthroplasty is appropriate for displaced femoral neck fractures in the elderly
 patient with limited functional demands and intact acetabular cartilage. The classical
 indication has been the household ambulator — the patient who walks within the home
 but not extensively outside — where the limitations of hemiarthroplasty match the
 patient’s functional level.
-Techniques
+
+## Techniques
+
 The classical unipolar hemiarthroplasty replaces the femoral head with a single-piece
 stemmed prosthesis. The bipolar hemiarthroplasty uses a smaller inner ball that
 articulates within an outer cup that itself articulates with the acetabular cartilage —
@@ -219,7 +231,9 @@ revision rates, and lower thigh pain compared with uncemented stems. The risk of
 cement implantation syndrome (sudden hemodynamic collapse during cementation,
 related to fat and marrow embolization — see Topic Trauma-7) is the principal concern
 with cemented stems and requires careful technique and anesthetic management.
-Outcomes
+
+## Outcomes
+
 Hemiarthroplasty produces a reliable functional outcome in the appropriate population,
 with most patients returning to their pre-fracture functional level. The principal long-term
 concern is acetabular cartilage wear (acetabular protrusio) in active patients, which can
@@ -229,14 +243,18 @@ percent, similar to or slightly lower than THA in this population.
 
 ## Total Hip Arthroplasty
 
-Indications
+
+## Indications
+
 THA is increasingly favored for displaced femoral neck fractures in higher-demand
 elderly patients, in those with pre-existing acetabular pathology, and in patients with
 reasonable life expectancy where the long-term advantages of better function will be
 realized. The threshold for choosing THA over hemiarthroplasty has progressively lowered,
 with many centers now offering THA to most ambulatory, cognitively intact patients with
 reasonable comorbidities.
-Technique
+
+## Technique
+
 The technical considerations include the choice of approach (the posterolateral approach
 is most common but has the highest dislocation rate; the direct anterior approach has
 gained popularity with lower dislocation rates but requires specialized table or experience;
@@ -246,7 +264,9 @@ including ceramic-on-ceramic, ceramic-on-poly, or metal-on-poly bearings), and t
 of femoral component (cemented or uncemented stem). The dual-mobility cup, with a
 polyethylene head that articulates within a larger metal cup, has gained substantial
 popularity for hip fracture THA because of its very low dislocation rates.
-Outcomes
+
+## Outcomes
+
 THA in the fracture context produces excellent functional outcomes in the appropriate
 patient, with most patients returning to community ambulation and previously enjoyed
 activities. The principal concern is dislocation (3 to 10 percent depending on approach
@@ -257,7 +277,9 @@ reduced dislocation rates and are increasingly the standard for hip fracture THA
 
 ## Special Considerations
 
-Femoral Neck Fractures in Young Patients
+
+## Femoral Neck Fractures in Young Patients
+
 The femoral neck fracture in a young patient (under 50, typically 20 to 50 years) is a
 distinct clinical entity — high-energy mechanism, attempt at head preservation despite
 AVN risk, and the central concept that primary arthroplasty in this age group has
@@ -273,7 +295,9 @@ Capsular decompression (drainage of the intracapsular hematoma) has been propose
 a means of reducing the intracapsular pressure that may compromise the residual blood
 supply through the retinacular vessels. Some authors recommend this routinely; others
 reserve it for selected cases or do not perform it at all.
-Pediatric Femoral Neck Fractures
+
+## Pediatric Femoral Neck Fractures
+
 The pediatric femoral neck fracture is uncommon but has substantially worse outcomes
 than the adult equivalent, with AVN rates of 30 to 50 percent reported in many series
 despite optimal management. The classical Delbet classification divides pediatric femoral
@@ -282,7 +306,9 @@ cervicotrochanteric, and type IV intertrochanteric. Type I and II have the highe
 Treatment is anatomical reduction and rigid internal fixation with smooth K-wires or
 cannulated screws (avoiding the physis when possible), with prompt operative
 intervention.
-Bilateral Femoral Neck Fractures
+
+## Bilateral Femoral Neck Fractures
+
 Bilateral fractures are uncommon but described, typically in osteoporotic patients with
 very low-energy mechanism or in patients with seizure disorders. Bilateral fixation or
 arthroplasty proceeds in the same operation when the patient’s physiological state allows;
@@ -294,7 +320,9 @@ features (lateral cortical thickening, transverse fracture line, medial spike), 
 by prodromal pain. These are addressed in the femoral shaft chapter (Topic Trauma-23)
 but warrant mention here because of their association with osteoporosis treatment.
 
-Postoperative Management
+
+## Postoperative Management
+
 The cornerstone of postoperative management is early mobilization — ideally on the day
 of surgery or the first postoperative day — with weight bearing as tolerated. Multiple trials
 have demonstrated that early mobilization reduces complications and improves outcomes.

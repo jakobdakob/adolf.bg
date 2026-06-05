@@ -29,7 +29,9 @@ single-event multilevel surgery (SEMLS), and the long-term issues of adult life 
 
 ## Etiology and Classification
 
-Etiology
+
+## Etiology
+
 The causes of cerebral palsy vary by gestational age at the time of injury. Prematurity is the
 strongest single risk factor, with periventricular leukomalacia (white matter injury near
 the lateral ventricles) being the typical pathological substrate in very-low-birth-weight
@@ -40,7 +42,9 @@ intrauterine infections (TORCH organisms: toxoplasmosis, rubella, cytomegaloviru
 simplex, others), kernicterus, postnatal infection (meningitis, encephalitis), trauma, and the
 various rare genetic and metabolic causes. In a substantial fraction of cases, no clear cause
 can be identified, and the term “idiopathic CP” applies.
-Classification by Motor Pattern
+
+## Classification by Motor Pattern
+
 Spastic CP — the commonest pattern — accounts for approximately 75% of cases. The
 clinical features include increased muscle tone, hyperreflexia, clonus, positive Babinski
 sign, and progressive contractures from continuous unopposed muscle pull on growing
@@ -58,7 +62,9 @@ injury at term.
 Ataxic CP (approximately 5%) is characterized by impaired balance, coordination, and gait,
 with normal muscle tone. The pathology typically involves the cerebellum.
 Mixed CP (approximately 5%) combines features of two or more of the above patterns.
-Gross Motor Function Classification System (GMFCS)
+
+## Gross Motor Function Classification System (GMFCS)
+
 The Gross Motor Function Classification System (GMFCS), introduced by Rosenbaum,
 Palisano, and others in the 1990s, has transformed pediatric orthopedic care for CP by
 providing a reproducible, prognostically useful classification of motor function. The five
@@ -99,7 +105,9 @@ characteristic abnormalities.
 
 ## Gait Analysis and Common Gait Patterns
 
-Three-Dimensional Computerized Gait Analysis
+
+## Three-Dimensional Computerized Gait Analysis
+
 Three-dimensional computerized gait analysis, available in specialized centers, has
 transformed the understanding and management of gait abnormalities in CP. The analysis
 combines kinematic data (joint angles through the gait cycle), kinetic data (forces and
@@ -107,7 +115,9 @@ moments at each joint), electromyographic data (timing of muscle activation), an
 expenditure measurements. The output is a comprehensive description of the gait that
 guides decisions about which interventions — soft-tissue lengthenings, tendon transfers,
 bony osteotomies, orthotics — will produce the desired improvement.
-Common Gait Patterns in Spastic Diplegia
+
+## Common Gait Patterns in Spastic Diplegia
+
 The Rodda classification of gait in spastic diplegia recognizes five sagittal-plane patterns:
 Type I — Apparent equinus: The ankle is in equinus from a tight gastrocnemius-soleus
 complex, with relatively preserved knee and hip kinematics.
@@ -122,7 +132,9 @@ tendon lengthening), flexed knees, and flexed hips throughout stance. Crouch gai
 most problematic pattern: it produces excessive energy expenditure, accelerates knee joint
 degeneration, and is poorly responsive to treatment once established.
 
-Common Gait Patterns in Spastic Hemiplegia
+
+## Common Gait Patterns in Spastic Hemiplegia
+
 The Winters, Gage, and Hicks classification of hemiplegic gait recognizes four types:
 Type I: Drop foot during swing phase from anterior tibialis weakness, with normal stance
 phase.
@@ -134,7 +146,9 @@ Type IV: Type III features combined with hip flexion and adduction.
 
 ## Hip Subluxation and Dislocation in CP
 
-Pathogenesis and Epidemiology
+
+## Pathogenesis and Epidemiology
+
 Hip subluxation and dislocation are among the most consequential orthopedic
 complications of CP. The risk correlates strongly with GMFCS level: GMFCS I patients have
 minimal risk (1-2%), while GMFCS V patients have a lifetime risk of approximately 70-90%.
@@ -143,7 +157,9 @@ normal weight-bearing forces in non-ambulatory patients, which fails to provide 
 mechanical stimuli necessary for normal acetabular development. The progression from a
 normally located hip in infancy through subluxation to dislocation typically occurs over
 several years.
-Hip Surveillance
+
+## Hip Surveillance
+
 Hip surveillance programs — systematic radiographic assessment of all children with CP —
 are now standard practice in many centers and have transformed the management of CP
 hip disease. The Australian Hip Surveillance program is one of the largest and best-
@@ -158,7 +174,9 @@ pelvis radiograph. A migration percentage of less than 33% is considered accepta
 indicates significant subluxation requiring treatment; complete dislocation has migration
 percentage of 100%.
 
-Treatment of CP Hip Disease
+
+## Treatment of CP Hip Disease
+
 The principles of CP hip management are: prevention of dislocation (the dislocated hip is
 markedly more difficult to treat than the subluxing hip); muscle balance (adductor and
 iliopsoas tenotomy to release the pull of the spastic flexor-adductors); bony reconstruction
@@ -210,7 +228,9 @@ intervention with the Achilles tendon.
 
 ## Knee and Hip Deformities
 
-Crouch Gait
+
+## Crouch Gait
+
 Crouch gait, in which the patient walks with flexed hips and knees and either neutral or
 calcaneus ankles, is one of the most difficult problems in ambulatory CP. The mechanism
 combines knee flexion contracture, hamstring spasticity or contracture (producing the
@@ -222,7 +242,9 @@ established knee flexion contracture), patellar tendon advancement (to address p
 and improve quadriceps function), iliopsoas release, and rectus femoris transfer to address
 the stiff-knee component. The procedures are typically combined in a single-event
 multilevel surgery (SEMLS).
-Stiff-Knee Gait
+
+## Stiff-Knee Gait
+
 Stiff-knee gait, characterized by limited knee flexion during swing phase, is produced by
 overactivity of the rectus femoris during swing. Rectus femoris transfer (to a knee flexor —
 sartorius, gracilis, semitendinosus, or iliotibial band — improving knee flexion in swing) is
@@ -253,14 +275,18 @@ improvement is secondary.
 
 ## Principles of Management
 
-Botulinum Toxin
+
+## Botulinum Toxin
+
 Botulinum toxin type A, injected into spastic muscles, produces temporary
 chemodenervation lasting 3-6 months. The injection is used to reduce spasticity, facilitate
 stretching and bracing, and as a “trial intervention” to assess the response that might be
 expected from definitive surgical lengthening. Doses are weight-based, with maximum total
 doses limited to avoid systemic effects. The principal indications are gastrocnemius-soleus
 spasticity, hamstring spasticity, adductor spasticity, and upper-limb dynamic deformities.
-Selective Dorsal Rhizotomy
+
+## Selective Dorsal Rhizotomy
+
 Selective dorsal rhizotomy (SDR) is a neurosurgical procedure in which a fraction of the
 dorsal sensory rootlets of the lumbosacral spinal cord are selectively transected, based on
 intraoperative electrophysiological identification of abnormal motor responses. The
@@ -269,13 +295,17 @@ is the ambulatory diplegic patient (GMFCS II-III) aged 3-8 years with isolated l
 extremity spasticity and good underlying strength. The procedure is followed by intensive
 rehabilitation. The long-term outcomes in carefully selected patients are very good, with
 sustained reduction of spasticity and improved gait.
-Intrathecal Baclofen
+
+## Intrathecal Baclofen
+
 Intrathecal baclofen pump therapy delivers baclofen directly to the spinal cord via an
 implanted reservoir and catheter. The treatment is used for severe spasticity in non-
 ambulatory patients (GMFCS IV-V), reducing tone, facilitating positioning and care, and
 improving comfort. The pump requires refill every 1-3 months and replacement every 5-7
 years; complications include catheter problems, infection, and pump dysfunction.
-Single-Event Multilevel Surgery (SEMLS)
+
+## Single-Event Multilevel Surgery (SEMLS)
+
 Single-event multilevel surgery — the principle of addressing all the deformities of the
 lower extremity at a single operation rather than in serial operations — has become the
 standard for ambulatory CP children requiring orthopedic intervention. The procedure is
@@ -287,7 +317,9 @@ over the brim). The patient undergoes a single major operation followed by inten
 rehabilitation over 6-12 months, with substantial gains in gait quality compared with serial
 operations performed over years (the “birthday-syndrome” of pre-SEMLS practice in which
 patients underwent annual operations through childhood and adolescence).
-Orthoses
+
+## Orthoses
+
 Ankle-foot orthoses (AFOs) are central to the orthotic management of CP gait. Static AFOs
 hold the ankle at a fixed angle (typically 0-5° dorsiflexion); ground-reaction or floor-
 

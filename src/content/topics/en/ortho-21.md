@@ -84,7 +84,9 @@ limitation of all motion.
 
 ## Imaging
 
-Plain Radiographs
+
+## Plain Radiographs
+
 The standard imaging assessment is bilateral AP pelvis and lateral views of the hip. The
 features of hip osteoarthritis follow the universal radiographic criteria of osteoarthritis
 with hip-specific manifestations:
@@ -110,7 +112,9 @@ Tönnis grading is a similar 0-3 system used in hip-specific evaluation, with Gr
 indicating mild changes (osteophytes, mild sclerosis), Grade 2 indicating moderate changes
 (cysts, increased sclerosis), and Grade 3 indicating severe changes (significant joint-space
 narrowing or obliteration, large cysts, severe deformity).
-MRI and Other Advanced Imaging
+
+## MRI and Other Advanced Imaging
+
 MRI is not routinely required for the diagnosis of hip osteoarthritis but is useful in early
 disease where plain radiographs may be normal but symptoms suggest joint pathology, in
 assessment of associated FAI and labral pathology, and in evaluation for alternative
@@ -175,14 +179,18 @@ the use is now restricted to specialist centers with continuing interest.
 
 ## Total Hip Arthroplasty (THA)
 
-Indications
+
+## Indications
+
 Total hip arthroplasty is indicated for end-stage hip osteoarthritis (Kellgren-Lawrence 3-4,
 Tönnis 2-3) producing symptoms unresponsive to non-operative management, with
 
 attention to the patient’s functional demands, comorbidities, life expectancy, and bone
 quality. THA is also performed for advanced rheumatoid arthritis, post-traumatic arthritis,
 avascular necrosis, and other causes of end-stage hip destruction.
-Implant Design Considerations
+
+## Implant Design Considerations
+
 Modern THA implants combine four principal components: a femoral stem (cemented or
 uncemented, with various designs including conventional length, shorter “anatomic” stems,
 and “neck-preserving” stems); a femoral head (typically 28 mm to 40 mm in diameter, with
@@ -201,7 +209,9 @@ because of the systemic and local effects of metal ion release, with a substanti
 literature documenting adverse local tissue reactions, pseudotumor formation, and the
 failure of large-head metal-on-metal implants.
 
-Surgical Approaches
+
+## Surgical Approaches
+
 Several surgical approaches to the hip are used for THA, each with advantages and
 disadvantages:
 Posterior approach (Moore, Southern, Kocher-Langenbeck): The most commonly used
@@ -225,7 +235,9 @@ of leg length and implant position. Disadvantages include the learning curve, th
 lateral femoral cutaneous nerve injury, and the more limited extensile capacity for revision
 surgery. The direct anterior approach has grown rapidly in popularity since the early
 2000s and is now performed by a substantial fraction of modern hip surgeons.
-Specific Surgical Techniques
+
+## Specific Surgical Techniques
+
 The technical principles of THA include: appropriate preoperative templating of implant
 sizes and positions; meticulous attention to acetabular cup orientation (target 40°
 abduction, 15° anteversion in most cases, with patient-specific adjustments); attention to
@@ -235,14 +247,18 @@ reduction; and intraoperative stability assessment. The Lewinnek “safe zone”
 position (30-50° abduction, 5-25° anteversion) has been refined to more individualized
 concepts of “functional anteversion” that account for spinopelvic mobility and the resting
 position of the pelvis in different functional activities.
-Outcomes of THA
+
+## Outcomes of THA
+
 The outcomes of modern THA are excellent, with reported survivorship of approximately
 95% at 10 years and 85-90% at 20 years in many large series and national registries. The
 implants now perform durably for a substantial fraction of patients’ lifetime, particularly in
 older patients who undergo THA in their 60s or 70s. Younger patients (under 60) have less
 favorable long-term survivorship, with revision rates exceeding 20% at 20 years in some
 series, reflecting the higher activity demands and the cumulative effects of bearing wear.
-Complications of THA
+
+## Complications of THA
+
 The principal complications of total hip arthroplasty include:
 Infection (periprosthetic joint infection, PJI): Rate of 1-2% for primary THA, with
 substantial morbidity. Diagnosis and treatment are discussed in the chapter on bone and
@@ -287,7 +303,9 @@ injury; trochanteric bursitis; persistent pain of various etiologies.
 
 ## Special Considerations
 
-Young Patients and Hip Preservation
+
+## Young Patients and Hip Preservation
+
 The young patient with hip pain demands particularly careful assessment for hip-
 preserving options before consideration of THA. The decision is informed by the
 morphological features (FAI, dysplasia, prior childhood disease), the radiographic stage of
@@ -295,7 +313,9 @@ arthritis (early-stage disease may benefit from hip preservation; established ar
 typically does not), the patient’s functional demands, and the realistic expectations for
 joint-preserving surgery in delaying rather than preventing the eventual need for
 arthroplasty.
-THA in Specific Conditions
+
+## THA in Specific Conditions
+
 Hip dysplasia: THA in the dysplastic hip is technically challenging because of the small,
 anteverted acetabulum, the high-riding femoral head, and the soft-tissue contractures.
 Specific techniques include placement of the acetabular cup at the level of the true

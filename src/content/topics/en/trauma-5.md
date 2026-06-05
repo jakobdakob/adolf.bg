@@ -19,7 +19,9 @@ Rockwood and Green’s, Apley & Solomon’s, and Miller’s Review.
 
 ## Open Fractures
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 An open fracture is one in which the fracture site communicates with the external
 environment through a break in the skin and soft tissues. The terminology “compound
 fracture” is largely historical and has been replaced by “open fracture.” The principal
@@ -30,7 +32,9 @@ Open fractures range in severity from a tiny puncture wound communicating with a
 underlying simple transverse fracture to a massive contaminated wound with extensive
 soft-tissue loss, bone loss, and vascular injury. The principal classifications and
 management principles reflect this enormous range of severity.
-Gustilo-Anderson Classification
+
+## Gustilo-Anderson Classification
+
 The Gustilo-Anderson classification, originally described in 1976 and refined in 1984, is the
 universal standard for open fracture classification:
 Type I: Wound less than 1 cm, clean, simple fracture pattern, minimal soft-tissue damage.
@@ -52,7 +56,9 @@ The classification is most reliable when applied after surgical exploration, sin
 apparent wound on initial assessment can substantially underestimate the actual injury.
 The “small wound, large injury” of a high-energy gunshot or crush injury can produce
 dramatically more soft-tissue damage than the skin wound suggests.
-Initial Management
+
+## Initial Management
+
 
 The initial management of any open fracture follows a sequence:
 ATLS resuscitation: Initial assessment and resuscitation according to ATLS principles,
@@ -79,7 +85,9 @@ Tetanus prophylaxis: Tetanus toxoid booster for any patient with incomplete prio
 immunization or with a contaminated wound and uncertain immunization status. Tetanus
 immunoglobulin for patients who have never been immunized.
 Definitive surgical management: Early surgical debridement and stabilization.
-Surgical Management
+
+## Surgical Management
+
 The principles of surgical management of open fractures include:
 
 Timing: Historically the “6-hour rule” suggested debridement within 6 hours of injury.
@@ -115,7 +123,9 @@ principle of “fix and flap” — definitive bone fixation and soft-tissue cov
 combined orthopedic-plastic surgical procedure within 5-7 days of injury — produces
 better outcomes than serial operations. The choice of flap depends on the location, the size
 of the defect, and the available donor sites.
-Long-Term Issues
+
+## Long-Term Issues
+
 The principal long-term concerns after open fracture include: infection (acute, chronic,
 with biofilm-associated implant infection being particularly difficult to manage); non-union
 (substantially elevated rates compared with closed fractures); soft-tissue compromise; and
@@ -123,7 +133,9 @@ limb-length discrepancy from bone loss.
 
 ## Gunshot Fractures
 
-Classification by Energy
+
+## Classification by Energy
+
 Gunshot injuries are classified by the energy of the projectile:
 Low-velocity (typically <600 m/s): Most handgun bullets and BB gun pellets. The injury
 is principally to the immediate path of the bullet, with limited cavitation. Soft-tissue
@@ -137,7 +149,9 @@ The clinical distinction is important: low-velocity wounds can often be treated 
 Type I or II open fractures with local wound care and antibiotic prophylaxis; high-velocity
 wounds and close-range shotgun wounds are Gustilo Type III injuries requiring formal
 debridement.
-Management Principles
+
+## Management Principles
+
 Low-velocity gunshot fractures are managed as: local wound care (irrigation, debridement
 of necrotic tissue at the wound margins, retention or removal of the bullet according to
 clinical considerations); intravenous antibiotics (cefazolin for 24-48 hours in most
@@ -157,7 +171,9 @@ Crush syndrome is the systemic syndrome that follows release of a crushed limb f
 prolonged compression. The condition was first described in the London Blitz of 1941 and
 has been encountered in earthquakes, mining accidents, motor vehicle accidents with
 prolonged extrication, building collapses, and other disasters.
-Pathophysiology
+
+## Pathophysiology
+
 The pathophysiology involves the systemic effects of muscle ischemia and reperfusion
 injury. During the period of compression, the affected muscle is rendered ischemic, with
 
@@ -174,7 +190,9 @@ Metabolic acidosis: From anaerobic metabolism and release of intracellular acids
 Hypocalcemia: From precipitation in damaged muscle and other mechanisms.
 Compartment syndrome: Of the affected limb, requiring fasciotomy.
 DIC and other systemic complications: From the massive inflammatory release.
-Management
+
+## Management
+
 The management combines:
 Pre-extrication preparation: When possible, intravenous fluid resuscitation should begin
 before release of the compression. Bicarbonate may be added to the fluids to alkalinize the
@@ -198,7 +216,9 @@ Amputation is the surgical removal of a limb or limb segment. It is among the mo
 consequential decisions in orthopedic surgery, with profound implications for the patient’s
 future life.
 
-Indications
+
+## Indications
+
 The principal indications for amputation include:
 Vascular injury without reconstruction option: Severe vascular injury with prolonged
 ischemia or with inability to reconstruct the vascular supply.
@@ -215,7 +235,9 @@ Vascular disease: Critical limb ischemia from peripheral arterial disease, diabe
 disease, and other vascular conditions; this is among the commonest indications for
 amputation overall in modern practice.
 Patient request: In selected situations.
-Mangled Extremity Severity Score (MESS)
+
+## Mangled Extremity Severity Score (MESS)
+
 The MESS scores four factors:
 Skeletal/soft-tissue injury: 1 point for low-energy injury, 2 for medium-energy, 3 for
 high-energy, 4 for very high-energy/crush.
@@ -227,7 +249,9 @@ Age: 0 points for <30 years, 1 for 30-50 years, 2 for >50 years.
 A score ≥7 has historically been considered predictive of amputation; however, the MESS
 has limitations, and modern practice emphasizes individualized assessment rather than
 rigid score-based decisions.
-Amputation Levels
+
+## Amputation Levels
+
 The principal amputation levels in the lower extremity include:
 Foot: Toe amputations, ray resections (involving the metatarsal), transmetatarsal
 amputation, Lisfranc amputation (through the tarsometatarsal joints), Chopart amputation
@@ -249,7 +273,9 @@ In the upper extremity, amputation levels include digital and ray amputations, p
 amputation, wrist disarticulation, below-elbow (transradial) amputation, elbow
 disarticulation, above-elbow (transhumeral) amputation, shoulder disarticulation, and
 forequarter amputation.
-Principles of Amputation Surgery
+
+## Principles of Amputation Surgery
+
 The principles include: preservation of length where possible (each additional inch of
 preserved stump provides better functional outcomes); appropriate soft-tissue coverage of
 the stump (with attention to providing a well-vascularized, well-padded stump that can
@@ -259,7 +285,9 @@ than transfixion to prevent late complications); appropriate bone shaping to pre
 prominent bone edges; appropriate soft-tissue suturing and skin closure to provide a
 durable scar; and postoperative rehabilitation including prosthetic fitting at appropriate
 timing.
-Outcomes and Prosthetics
+
+## Outcomes and Prosthetics
+
 The outcomes of amputation depend on the level (more proximal amputations producing
 worse functional outcomes), the indication (traumatic amputations in healthy patients
 producing better outcomes than vascular amputations in older patients with multiple
@@ -268,7 +296,9 @@ Modern prosthetic technology, including microprocessor-controlled knees and feet
 substantially improved functional outcomes. Targeted muscle reinnervation (TMR) and
 other advanced techniques provide intuitive control of myoelectric upper limb prostheses
 for selected patients.
-Phantom Limb Pain
+
+## Phantom Limb Pain
+
 Phantom limb pain — pain felt in the missing limb — affects approximately 50-80% of
 amputees. The condition is poorly understood and often difficult to treat. Multiple
 

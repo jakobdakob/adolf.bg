@@ -38,7 +38,9 @@ underlie congenital scoliosis.
 
 ## Congenital Scoliosis
 
-Classification and Pathogenesis
+
+## Classification and Pathogenesis
+
 Congenital scoliosis is scoliosis arising from anomalous vertebral development, in contrast
 to idiopathic scoliosis (in which the vertebrae form normally but become deformed by an
 unknown developmental process). The defects are classified into three categories: failures
@@ -62,7 +64,9 @@ Mixed defects: Combinations of failure of formation and failure of segmentation 
 particularly an unilateral unsegmented bar combined with a contralateral hemivertebra —
 produce the most rapidly progressive deformities and the greatest urgency for early
 surgical intervention.
-Natural History
+
+## Natural History
+
 The natural history depends on the specific anomaly. The risk of progressive scoliosis is
 greatest with unilateral unsegmented bars (especially combined with contralateral
 hemivertebrae, with predicted progression of 5-10° per year), moderate with isolated
@@ -70,7 +74,9 @@ hemivertebrae (depending on segmentation status), and minimal with block vertebr
 unsegmented blocks. The progression is greatest during periods of rapid skeletal growth —
 infancy (0-3 years), juvenile years (4-9), and adolescent growth spurt (10-15). The mid-
 childhood years between rapid-growth periods are relatively quiescent.
-Associated Anomalies
+
+## Associated Anomalies
+
 Congenital scoliosis is associated with a substantial rate of additional anomalies that must
 be sought systematically: spinal cord anomalies (tethered cord, diastematomyelia,
 syringomyelia, intraspinal lipoma) in approximately 20-40%, renal anomalies in
@@ -81,14 +87,18 @@ tracheoesophageal, renal, limb) describes the most consequential of these associ
 Every child with a congenital vertebral anomaly therefore requires investigation of all of
 these systems: total-spine MRI for the spinal cord, renal ultrasound for the kidneys, cardiac
 echocardiogram, and examination for limb and anorectal anomalies.
-Imaging
+
+## Imaging
+
 Plain radiographs (AP and lateral views of the spine) demonstrate the vertebral anomalies;
 specific views such as bend films or three-dimensional CT may be required for complex
 anomalies. MRI of the entire spine is essential to identify spinal cord anomalies that may
 dictate management. CT with three-dimensional reconstruction is increasingly used for
 preoperative planning of complex surgery.
 
-Treatment
+
+## Treatment
+
 The treatment principles are: serial observation of deformities at low risk of progression;
 surgical intervention before significant deformity develops in those at high risk of
 progression. Bracing has only a limited role in congenital scoliosis because the deformity is
@@ -140,7 +150,9 @@ disease.
 
 ## Klippel-Feil Syndrome
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Klippel-Feil syndrome, described by Maurice Klippel and André Feil in 1912, is the
 congenital fusion of two or more cervical vertebrae. The classical clinical triad — short
 neck, low posterior hairline, and limited cervical motion — is present in only a minority of
@@ -148,7 +160,9 @@ cases; many patients have isolated fusion of two vertebrae without the obvious c
 phenotype. Incidence is approximately 1 in 40,000-50,000 live births, with female
 predominance.
 
-Classification
+
+## Classification
+
 Three Feil types are recognized: Type I, massive fusion of cervical vertebrae often with
 thoracic involvement; Type II, fusion of one or two cervical vertebrae (the commonest
 type); Type III, Type I or II features combined with lower thoracic or lumbar fusion. A more
@@ -156,7 +170,9 @@ clinically relevant Samartzis classification (2006) groups patients by the patte
 fusion: Type I, single congenitally fused cervical segment; Type II, multiple non-contiguous
 congenitally fused segments; Type III, multiple contiguous congenitally fused segments.
 
-Associated Anomalies
+
+## Associated Anomalies
+
 Klippel-Feil syndrome is strongly associated with multiple systemic anomalies that must be
 sought systematically: scoliosis (in approximately 50%), Sprengel deformity (elevated,
 hypoplastic scapula due to failed descent during development, in approximately 30%),
@@ -166,7 +182,9 @@ anomaly), cardiac anomalies (particularly ventricular septal defect), hearing im
 syndrome (in approximately 4%). The combination of Klippel-Feil and Sprengel deformity,
 sometimes combined with renal anomalies, constitutes the more complete clinical
 syndrome.
-Clinical Features and Management
+
+## Clinical Features and Management
+
 The cervical fusion itself is rarely symptomatic in childhood. The principal clinical concerns
 are: (1) progressive degenerative changes in the unfused segments adjacent to the fused
 segments, occurring decades earlier than in the normal cervical spine because of the
@@ -203,14 +221,18 @@ late correction.
 
 ## Cervical Ribs and Thoracic Outlet Syndrome
 
-Cervical Ribs
+
+## Cervical Ribs
+
 A cervical rib is a supernumerary rib arising from the seventh cervical vertebra. The
 condition occurs in approximately 0.5-1.0% of the population and is bilateral in
 approximately 50%. The cervical rib varies from a small bony stump to a complete rib that
 articulates with the first thoracic rib. Most cervical ribs are asymptomatic and are
 discovered incidentally; the clinical importance lies in the small minority that produce
 thoracic outlet syndrome.
-Thoracic Outlet Syndrome (TOS)
+
+## Thoracic Outlet Syndrome (TOS)
+
 Thoracic outlet syndrome is the constellation of neurological, vascular, or combined
 symptoms produced by compression of the brachial plexus, subclavian artery, or
 subclavian vein as they pass through the thoracic outlet between the cervical spine and the
@@ -245,7 +267,9 @@ surgical results.
 
 ## Spina Bifida and the Dysraphic States
 
-Definitions and Classification
+
+## Definitions and Classification
+
 The dysraphic states are a spectrum of congenital malformations of the spinal cord,
 vertebral column, and overlying tissues, resulting from failure of normal closure of the
 neural tube. The principal entities are:
@@ -268,7 +292,9 @@ progressive neurological deterioration.
 Diastematomyelia (split-cord malformation): Splitting of the spinal cord into two
 hemicords, often divided by a bony or fibrocartilaginous bar.
 Myelocystocele, myeloschisis, and other rare variants complete the spectrum.
-Myelomeningocele
+
+## Myelomeningocele
+
 Myelomeningocele is the most consequential of the dysraphic states from an orthopedic
 standpoint. The condition arises from failure of neural tube closure at approximately day
 28 of gestation; multiple causes are implicated, with folate deficiency being the most-
@@ -305,7 +331,9 @@ involvement); management of hydrocephalus by ventriculoperitoneal shunt; orthope
 surgery for hip, knee, foot, and spine deformities staged according to functional priorities
 and the child’s growth.
 
-Tethered Cord
+
+## Tethered Cord
+
 Tethered cord syndrome presents with progressive neurological deterioration in a child or
 adult with prior dysraphic findings or with subtle dorsal cutaneous findings (hairy patch,
 dimple, hemangioma). The clinical manifestations include progressive lower-extremity
@@ -317,7 +345,9 @@ best when surgery is performed before significant neurological deterioration has
 
 ## Other Notable Congenital Spine Anomalies
 
-Atlanto-occipital Anomalies
+
+## Atlanto-occipital Anomalies
+
 Atlanto-occipital assimilation (fusion of the atlas to the occiput), basilar invagination
 (upward displacement of the dens through the foramen magnum), and other
 craniovertebral junction anomalies may produce upper cervical instability and
@@ -325,12 +355,16 @@ neurological compromise. The conditions are often associated with skeletal dyspl
 (achondroplasia, Morquio syndrome, spondyloepiphyseal dysplasia) and require careful
 neurosurgical assessment.
 
-Os Odontoideum
+
+## Os Odontoideum
+
 Os odontoideum is a separated ossicle replacing the normal dens, with potential
 atlantoaxial instability. The condition may be congenital or post-traumatic (from a missed
 odontoid fracture in childhood). Symptomatic instability is treated by C1-C2 fusion.
 
-Lumbosacral Transitional Vertebrae
+
+## Lumbosacral Transitional Vertebrae
+
 Sacralization of L5 (partial or complete) and lumbarization of S1 are common variants,
 mostly asymptomatic but occasionally associated with low back pain (the Bertolotti
 syndrome, in which an enlarged transverse process of L5 articulates with the sacrum to

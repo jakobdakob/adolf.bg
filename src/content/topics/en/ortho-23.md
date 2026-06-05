@@ -21,7 +21,9 @@ imaging, classification, conservative management, and the principal surgical tec
 
 ## Hallux Valgus
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Hallux valgus is a complex three-dimensional deformity of the first ray characterized by
 lateral deviation (valgus) of the hallux at the first metatarsophalangeal joint and medial
 deviation (varus) of the first metatarsal — producing the characteristic medial prominence
@@ -31,7 +33,9 @@ prevalence rises markedly with age, affecting approximately 20-25% of adults age
 and 35% of those over 65. Women are affected approximately ten times more often than
 men, reflecting both intrinsic anatomical factors and the long-term effects of constrictive
 footwear.
-Etiology and Pathophysiology
+
+## Etiology and Pathophysiology
+
 The etiology of hallux valgus is multifactorial. The principal contributing factors are: female
 sex; family history (the strongest single risk factor in many studies, suggesting substantial
 inherited predisposition); ligamentous laxity (general hypermobility or specific instability
@@ -49,7 +53,9 @@ phalanx) becomes a deforming force; the medial collateral ligament of the MTP jo
 
 attenuates; the sesamoids migrate laterally relative to the metatarsal head, with the lateral
 sesamoid eroding into the intermetatarsal space; and the deformity progressively worsens.
-Clinical Features
+
+## Clinical Features
+
 Presentation is with the characteristic medial bunion deformity, pain over the medial
 prominence (“bunion pain”) that is exacerbated by footwear pressure, pain at the first MTP
 joint from progressive arthritis, transfer metatarsalgia from offloading of the first ray, and
@@ -62,7 +68,9 @@ joint; the presence of associated arthritic changes; the lesser toe deformities;
 metatarsal pad/callus pattern; and the overall foot posture. Range of motion of the first
 MTP joint should be assessed in the corrected position of the hallux (to avoid the artifact of
 additional motion from joint subluxation).
-Imaging and Classification
+
+## Imaging and Classification
+
 Weight-bearing AP and lateral foot radiographs provide the standard imaging assessment.
 Several angles are measured and used in classification and surgical planning:
 (1) Hallux valgus angle (HVA): Angle between the longitudinal axes of the first
@@ -79,7 +87,9 @@ Several angles are measured and used in classification and surgical planning:
     level of the articular surface orientation) or incongruent (true subluxation of the joint).
 (5) Sesamoid position: Quantified on the AP view by the position of the lateral border of
     the medial sesamoid relative to the central reference line of the first metatarsal.
-Conservative Management
+
+## Conservative Management
+
 Conservative management is appropriate for mild to moderate deformity without
 significant pain. Components include: footwear modification (wide toe box, soft uppers, low
 or no heel); orthotic devices (medial arch supports for associated flatfoot, lateral wedge or
@@ -87,7 +97,9 @@ first-ray cutout for offloading); toe spacers and bunion pads to relieve pressur
 
 and weight loss when appropriate. Conservative measures do not correct the deformity but
 can produce satisfactory symptom relief in many patients.
-Surgical Treatment
+
+## Surgical Treatment
+
 The choice of surgical procedure depends on the magnitude of the deformity (mild,
 moderate, severe), the joint congruency, and the presence of associated arthritis. The
 standard procedures include:
@@ -118,7 +130,9 @@ Congruent hallux valgus (elevated DMAA): Akin osteotomy of the proximal phalanx 
 closing-wedge medial osteotomy) corrects the distal deformity without disrupting the
 congruent MTP joint. Often combined with a distal metatarsal procedure for the metatarsal
 component.
-Complications
+
+## Complications
+
 The principal complications of hallux valgus surgery include: recurrence (the commonest
 long-term concern, with rates of 5-15% depending on procedure and severity); hallux
 varus (over-correction, particularly with aggressive lateral release combined with proximal
@@ -131,20 +145,26 @@ first ray, particularly after procedures that shorten the first metatarsal); non
 
 ## Hallux Rigidus
 
-Definition
+
+## Definition
+
 Hallux rigidus is osteoarthritis of the first metatarsophalangeal joint, producing pain and
 progressive loss of motion (particularly dorsiflexion). The condition is the second
 commonest disorder of the first MTP joint after hallux valgus. The term “hallux limitus”
 refers to the early stages with limited rather than absent motion; “hallux rigidus” refers to
 advanced disease with severely restricted motion approaching ankylosis.
 
-Etiology
+
+## Etiology
+
 The etiology of hallux rigidus is multifactorial. Identified risk factors include: hallux valgus
 interphalangeus (laterally angulated distal phalanx); elevated first metatarsal (functional
 hallux limitus from inability of the first metatarsal head to plantarflex during gait); prior
 trauma to the first MTP joint; family history; inflammatory arthritis; metatarsus primus
 elevatus; and various anatomical features of the first metatarsal head.
-Classification and Clinical Features
+
+## Classification and Clinical Features
+
 The Hattrup-Johnson classification is the most widely used:
 Grade 0: No radiographic changes; stiffness and decreased motion only.
 Grade 1: Mild dorsal osteophyte; mild joint-space narrowing.
@@ -156,7 +176,9 @@ Clinical features include pain at the first MTP joint, exacerbated by activities
 dorsiflexion (the propulsive phase of gait, the upslope on hills, the run, the push-off from a
 chair); progressive loss of dorsiflexion; palpable dorsal osteophyte (“the bump on top of
 the toe”); and crepitus on motion.
-Treatment
+
+## Treatment
+
 Conservative management includes footwear modification (stiff-soled shoes, rocker-
 bottom soles, increased toe-box volume to accommodate the dorsal osteophyte); orthotics
 (Morton extension to support the first MTP joint, stiff carbon-fiber inserts to limit motion);
@@ -185,7 +207,9 @@ realistic expectations.
 
 ## Lesser Toe Deformities
 
-Hammer Toe
+
+## Hammer Toe
+
 Hammer toe is a deformity of a lesser toe characterized by flexion at the proximal
 interphalangeal (PIP) joint with relative extension at the metatarsophalangeal (MTP) joint
 and variable position of the distal interphalangeal (DIP) joint. The second toe is most
@@ -208,18 +232,24 @@ deformity with pain or callus formation, and includes flexor-to-extensor tendon 
 
 arthroplasty (for fixed deformities), and MTP capsulotomy with extensor digitorum longus
 lengthening if MTP extension is contributing.
-Claw Toe
+
+## Claw Toe
+
 Claw toe is similar to hammer toe but with additional flexion at the DIP joint as well as the
 PIP joint. The deformity is often associated with high-arched foot (cavus foot) and with
 neurological conditions producing intrinsic muscle weakness (Charcot-Marie-Tooth
 disease, residual polio, peripheral neuropathy). Treatment principles are similar to
 hammer toe with the addition of attention to the DIP joint.
-Mallet Toe
+
+## Mallet Toe
+
 Mallet toe is flexion at the DIP joint only, with normal MTP and PIP positions. The toe takes
 on the characteristic mallet appearance with the tip pointing downward. The deformity is
 often associated with calluses at the tip of the toe. Surgical correction by DIP arthrodesis or
 resection arthroplasty is curative.
-Crossover Toe
+
+## Crossover Toe
+
 Crossover toe — typically of the second toe over the hallux — is a complex deformity of
 MTP capsular instability with progressive lateral and dorsal subluxation of the proximal
 phalanx. The condition is often associated with hallux valgus and produces forefoot

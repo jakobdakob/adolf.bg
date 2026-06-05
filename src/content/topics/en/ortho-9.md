@@ -55,7 +55,9 @@ arthritis.
 
 ## AVN of the Femoral Head
 
-Epidemiology and Etiology
+
+## Epidemiology and Etiology
+
 Adult AVN of the femoral head is among the most consequential forms of osteonecrosis and
 one of the principal causes of hip arthroplasty in patients under 50 years of age. The
 estimated annual incidence in the United States is approximately 20,000-30,000 new cases.
@@ -89,7 +91,9 @@ in which no clear precipitant can be identified despite thorough investigation. 
 molecular studies have implicated thrombophilia (factor V Leiden, prothrombin G20210A,
 protein C and S deficiencies), hypofibrinolysis, hypercholesterolemia, and other vascular
 factors in many of these “idiopathic” cases.
-Clinical Features
+
+## Clinical Features
+
 Presentation is with insidious onset of groin pain, often referred to the anterior thigh or the
 medial knee, worsened by activity and weight-bearing, with progressive limitation of hip
 
@@ -97,7 +101,9 @@ motion. Early in disease, examination may show only mild restriction of internal
 As subchondral collapse and secondary arthritis develop, the typical findings of advanced
 hip osteoarthritis emerge: marked restriction of internal rotation and abduction, antalgic
 gait, fixed flexion deformity (positive Thomas test), and shortening of the limb.
-Imaging and Staging
+
+## Imaging and Staging
+
 Plain radiographs are normal in early disease and become abnormal only after several
 months of pathological evolution. The earliest radiographic changes include sclerosis or
 cyst formation in the superolateral femoral head; the pathognomonic “crescent sign” is a
@@ -126,7 +132,9 @@ The critical clinical question that all staging systems address is whether subch
 fracture has occurred: pre-collapse disease (Ficat I-II, Steinberg I-II) is potentially treatable
 by joint-preserving surgery, while post-collapse disease (Ficat III-IV, Steinberg III-IV) is
 best managed by arthroplasty.
-Treatment
+
+## Treatment
+
 The treatment of femoral head AVN aims to preserve the native hip in pre-collapse disease
 and to provide durable joint replacement in post-collapse disease.
 
@@ -224,14 +232,18 @@ selected cases, total ankle arthroplasty.
 
 ## Kienböck’s Disease (Lunatomalacia)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Kienböck’s disease, also called lunatomalacia, is an avascular necrosis of the carpal lunate.
 First described by Robert Kienböck in 1910, the condition predominantly affects men aged
 20-40 years engaged in manual labor, and is one of the principal causes of progressive
 wrist disability in this population. Bilateral disease is uncommon (5-10%) but does occur
 and is often associated with systemic risk factors.
 
-Pathogenesis
+
+## Pathogenesis
+
 The etiology of Kienböck’s disease remains incompletely understood. Several theories have
 been proposed: (1) repeated micro-trauma producing cumulative damage to the
 intraosseous vascular supply of the lunate; (2) a single traumatic event with disruption of
@@ -244,7 +256,9 @@ transmitted through the lunate as opposed to being shared with the triangular
 fibrocartilage complex. The combination of vascular vulnerability and increased
 mechanical loading appears to be the most plausible unifying explanation.
 
-Lichtman Classification
+
+## Lichtman Classification
+
 The Lichtman classification, the standard staging system, recognizes four stages with
 substages:
 Stage I: Normal radiograph; abnormal MRI (decreased signal on T1-weighted images)
@@ -259,11 +273,15 @@ angle), and increased ulnar translation of the carpus.
 Stage IIIC: Coronal fracture through the lunate.
 Stage IV: Pancarpal arthritis affecting the radiocarpal and midcarpal joints.
 
-Clinical Features
+
+## Clinical Features
+
 Presentation is with progressive wrist pain, particularly with use, accompanied by stiffness,
 decreased grip strength, and tenderness over the dorsal aspect of the lunate. Range of
 motion is reduced. Symptoms commonly persist for months before diagnosis.
-Imaging
+
+## Imaging
+
 Plain radiographs (PA and lateral views) demonstrate the characteristic stages: stage I,
 normal; stage II, sclerosis; stage IIIA, collapse without carpal malalignment; stage IIIB,
 collapse with carpal malalignment; stage IIIC, coronal lunate fracture; stage IV, pancarpal
@@ -272,7 +290,9 @@ rotation and the elbow flexed to 90°. MRI is sensitive for early disease and de
 decreased signal of the lunate on T1-weighted images with variable T2 signal; gadolinium
 enhancement is reduced in necrotic areas. CT is useful for detailed assessment of lunate
 fragmentation and carpal alignment.
-Treatment
+
+## Treatment
+
 Treatment of Kienböck’s disease is stage-dependent and remains an area of ongoing
 debate.
 Stage I: Conservative management with immobilization and observation. Some authors
@@ -311,7 +331,9 @@ depends on the integrity of the capitate-lunate articulation: if the proximal po
 capitate is intact and shows no arthritic changes, PRC provides good pain relief with
 reasonable preservation of wrist motion; if the capitate is involved, partial arthrodesis is
 preferred.
-Outcomes
+
+## Outcomes
+
 The long-term outcomes of Kienböck’s disease are highly variable. Many patients with
 early-stage disease achieve good pain relief and functional improvement with joint-leveling
 osteotomy and remain functional for decades; others progress despite treatment and
@@ -328,7 +350,9 @@ involvement. Risk factors include corticosteroid therapy, alcohol abuse, and a h
 scaphoid fracture or repeated micro-trauma. Treatment options include vascularized bone
 grafting in early disease, scaphoidectomy with four-corner fusion in established arthritis,
 and proximal row carpectomy.
-Mueller-Weiss Disease (AVN of the Navicular)
+
+## Mueller-Weiss Disease (AVN of the Navicular)
+
 Mueller-Weiss disease is an idiopathic AVN of the tarsal navicular in adults, distinguished
 from the childhood Köhler’s disease by its different clinical course and population. The
 condition presents with midfoot pain in middle-aged women and is treated conservatively

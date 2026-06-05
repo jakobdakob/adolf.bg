@@ -26,7 +26,9 @@ joint hypermobility syndromes including the Ehlers-Danlos syndromes.
 
 ## Flexible Flatfoot of Childhood
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 The flexible flatfoot is the most common form of pes planus and is essentially a
 physiological variant of normal foot development. The young child (up to age 6-8 years)
 normally has an apparent flatfoot because of the abundant subcutaneous fat in the medial
@@ -35,7 +37,9 @@ control of the longitudinal arch; the medial arch develops gradually through chi
 approaches its adult morphology by approximately 8-12 years of age. The prevalence of
 flexible flatfoot in children below age 5 has been quoted as 25-50%, falling to 5-15% in
 older children, with the rate of resolution being highest in the youngest age groups.
-Clinical Features
+
+## Clinical Features
+
 The cardinal feature is reduction or absence of the medial longitudinal arch on weight-
 bearing, with restoration of the arch on non-weight-bearing examination and on tip-toe
 testing — the so-called “flexibility test.” On tip-toe standing, the hindfoot rolls into varus
@@ -43,7 +47,9 @@ and the medial arch re-forms in the flexible flatfoot, while in the rigid flatfo
 remains in valgus and no arch develops. Hindfoot valgus and forefoot abduction relative to
 the midfoot are typical. The foot is supple, asymptomatic, and well-tolerant of ordinary
 activity in the great majority of children.
-Investigations
+
+## Investigations
+
 The flexible flatfoot in the asymptomatic child requires no specific investigation. Weight-
 bearing radiographs (AP and lateral views of both feet) are obtained in symptomatic or
 
@@ -51,7 +57,9 @@ atypical cases and demonstrate increased talo-calcaneal angle, plantarflexion of
 calcaneal valgus, and forefoot abduction. The Meary angle (the angle between the long axis
 of the talus and the first metatarsal on the lateral view) is increased in flatfoot, normally
 being 0°.
-Treatment
+
+## Treatment
+
 The asymptomatic flexible flatfoot of childhood requires no treatment. Reassurance of
 parents and continued observation is appropriate. The widespread practice of prescribing
 arch supports, special shoes, and orthotics for the asymptomatic flexible flatfoot has been
@@ -74,7 +82,9 @@ that lacks the supple character of the flexible flatfoot — is always pathologi
 investigation for an underlying cause. The principal etiologies are tarsal coalition,
 congenital vertical talus, and acquired conditions including post-traumatic deformity,
 neuromuscular disease, and inflammatory arthritis.
-Tarsal Coalition
+
+## Tarsal Coalition
+
 Tarsal coalition is a congenital fibrous, cartilaginous, or osseous union of two or more
 tarsal bones, producing a rigid hindfoot and the typical “peroneal spastic flatfoot.” The
 talocalcaneal coalition (most commonly involving the middle facet of the subtalar joint)
@@ -102,7 +112,9 @@ muscle interposition (for younger patients with limited disease and preserved jo
 surfaces, with calcaneonavicular coalitions responding particularly well to resection with
 interposition of the extensor digitorum brevis muscle), or arthrodesis (subtalar fusion or
 triple arthrodesis, for more extensive disease or older patients with established arthritis).
-Congenital Vertical Talus (CVT)
+
+## Congenital Vertical Talus (CVT)
+
 Congenital vertical talus is a rare but severe rigid flatfoot deformity in which the talus is
 fixed in a vertical position with dorsolateral dislocation of the navicular onto the talar neck,
 producing the characteristic “rocker-bottom” foot of the newborn. The condition is bilateral
@@ -130,7 +142,9 @@ reduction of the talonavicular joint, Achilles tendon lengthening, peroneal tend
 capsulotomies). Foot abduction bracing is continued after the casting phase, similar to
 Ponseti management of clubfoot.
 
-Other Causes of Rigid Childhood Flatfoot
+
+## Other Causes of Rigid Childhood Flatfoot
+
 Post-traumatic deformity (typically from talar neck or calcaneal fractures of childhood)
 produces a rigid flatfoot through bony deformity and joint malalignment. Neuromuscular
 flatfoot — particularly in cerebral palsy, spina bifida, and the late stages of poliomyelitis —
@@ -142,7 +156,9 @@ joints with painful flatfoot.
 ## Adult-Acquired Flatfoot Deformity (AAFD) and Posterior Tibial Tendon
 
 Dysfunction (PTTD)
-Definition and Pathophysiology
+
+## Definition and Pathophysiology
+
 Adult-acquired flatfoot deformity is a progressive deformity of the adult foot characterized
 by collapse of the medial longitudinal arch, hindfoot valgus, forefoot abduction, and
 eventually first-ray instability. The principal underlying pathology in the great majority of
@@ -156,7 +172,9 @@ obesity, hypertension, diabetes mellitus, inflammatory arthritis (rheumatoid, ps
 and previous injury to the medial ankle or tendon. The natural history is one of progressive
 deformity over years; without intervention, a flexible deformity becomes fixed and
 eventually arthritic.
-Johnson-Strom Classification (Myerson Modification)
+
+## Johnson-Strom Classification (Myerson Modification)
+
 The standard classification recognizes four stages:
 Stage I: Tenosynovitis without deformity. The tendon is inflamed but functionally intact;
 the foot retains normal morphology. Pain is localized to the medial ankle and tendon
@@ -169,7 +187,9 @@ and passive correction is no longer possible. Subtalar arthritis is typically pr
 Stage IV (Myerson addition): Stage III deformity with ankle valgus, often with degenerative
 changes at the ankle joint, typically from chronic loading in valgus.
 
-Clinical Evaluation
+
+## Clinical Evaluation
+
 Presentation is with medial ankle pain, particularly along the course of the posterior tibial
 tendon behind the medial malleolus, often progressing over months to years to include
 lateral hindfoot pain (from subfibular impingement as the calcaneus drifts into valgus), and
@@ -182,7 +202,9 @@ metatarsal rise” sign (the medial side of the foot lifts off the ground when t
 stands on tip-toe, even bilaterally) indicates posterior tibial tendon failure. Range of motion
 of the subtalar and midtarsal joints should be assessed and compared with the
 contralateral side; loss of motion suggests fixed deformity.
-Imaging
+
+## Imaging
+
 Weight-bearing radiographs (AP and lateral foot, AP ankle) provide the principal imaging
 assessment. The Meary angle (talus-first metatarsal angle on the lateral view) is increased;
 the calcaneal pitch is reduced; the talo-navicular coverage angle on the AP view is reduced;
@@ -190,7 +212,9 @@ and forefoot abduction is evident. MRI is the imaging of choice for assessment o
 posterior tibial tendon itself, showing tenosynovitis in early disease and tendon thickening,
 longitudinal splits, and frank rupture in advanced disease. Ultrasound is a useful
 alternative for assessing the tendon dynamically.
-Treatment
+
+## Treatment
+
 Stage I disease is treated conservatively: rest, NSAIDs, immobilization in a CAM walker or
 short-leg walking cast for 4-6 weeks, and physiotherapy directed at strengthening the
 posterior tibial tendon and stretching the Achilles tendon. Custom orthotics (typically with
@@ -246,7 +270,9 @@ tailored to the bony deformity.
 
 ## Hereditary Joint Hypermobility
 
-Concept and Spectrum
+
+## Concept and Spectrum
+
 Hereditary joint hypermobility encompasses a spectrum of conditions in which generalized
 joint laxity is the principal clinical feature. The spectrum extends from the asymptomatic
 generalized joint hypermobility seen in approximately 10-15% of the general population
@@ -255,7 +281,9 @@ hypermobile Ehlers-Danlos syndrome (formerly Ehlers-Danlos type III), to the mor
 
 forms of Ehlers-Danlos syndrome with specific organ involvement, to the related
 connective tissue disorders Marfan syndrome and Loeys-Dietz syndrome.
-Beighton Score
+
+## Beighton Score
+
 The Beighton score is the standard clinical tool for assessing generalized joint
 hypermobility. Nine maneuvers are scored as positive or negative: (1) passive dorsiflexion
 of the fifth metacarpophalangeal joint beyond 90° (one point each side); (2) passive
@@ -275,7 +303,9 @@ tachycardia syndrome, gastrointestinal dysmotility), anxiety and depression. The
 basis of hypermobile Ehlers-Danlos is not yet fully characterized, and the diagnosis is
 currently clinical based on the 2017 International Classification of the Ehlers-Danlos
 Syndromes criteria.
-Other Ehlers-Danlos Subtypes
+
+## Other Ehlers-Danlos Subtypes
+
 The classical Ehlers-Danlos syndrome (Types I and II in older nomenclature) is caused by
 mutations in COL5A1 or COL5A2 encoding type V collagen, and presents with
 hyperextensible skin with atrophic scarring, joint hypermobility, and easy bruising. The
@@ -284,7 +314,9 @@ type III collagen and is characterized by a thin, translucent skin, easy bruisin
 catastrophic complications of spontaneous arterial rupture, bowel perforation, and uterine
 rupture in pregnancy. The kyphoscoliotic, dermatosparaxis, arthrochalasis, and other rare
 subtypes each have distinct molecular bases and clinical features.
-Marfan Syndrome
+
+## Marfan Syndrome
+
 Marfan syndrome is caused by mutations in FBN1 encoding fibrillin-1, the principal
 component of the elastic microfibrils in the extracellular matrix. Clinical features include
 tall stature with long extremities and digits (arachnodactyly), pectus excavatum or
@@ -296,12 +328,16 @@ bracing or surgical correction), protrusio acetabuli, pes planus, hindfoot valgu
 
 hypermobility. The orthopedic surgeon must be aware of the cardiovascular implications of
 Marfan syndrome and must coordinate care with the cardiac specialist.
-Loeys-Dietz Syndrome
+
+## Loeys-Dietz Syndrome
+
 Loeys-Dietz syndrome, caused by mutations in TGFBR1 or TGFBR2, shares many features
 of Marfan syndrome but with more aggressive aortic disease and a wider arterial
 involvement. The same orthopedic features may be present, but the cardiovascular
 implications dominate management.
-Clinical Management of the Hypermobile Patient
+
+## Clinical Management of the Hypermobile Patient
+
 The orthopedic care of the hypermobile patient requires attention to several specific
 issues. Recurrent joint dislocation — particularly of the patella, shoulder, and hip — is
 common; conservative management with bracing and physiotherapy is the first line, while

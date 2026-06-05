@@ -27,7 +27,9 @@ addresses the principal muscle and tendon injuries encountered in orthopedic pra
 
 ## Muscle Injuries — Strains and Contusions
 
-Classification of Muscle Strains
+
+## Classification of Muscle Strains
+
 Muscle strains are graded by the magnitude of the injury:
 Grade I (mild): Minor stretching of muscle fibers without macroscopic tear. Pain at rest or
 with use, but normal strength and range of motion. Resolution typically within 1 to 2
@@ -42,7 +44,9 @@ The classification by Mueller-Wohlfahrt et al. (2013) provides more sophisticate
 grading for elite athletes, distinguishing fatigue-induced injury, delayed-onset muscle
 soreness, functional muscle disorders, structural injury (minor partial muscle tear,
 moderate partial muscle tear, subtotal or complete muscle tear), and contusions.
-Common Sites and Mechanisms
+
+## Common Sites and Mechanisms
+
 Hamstring strain is the most common muscle injury in sports, particularly in sprinting
 and high-speed running activities. The biceps femoris is the most commonly affected of the
 three hamstring muscles, with the proximal hamstring origin avulsion (at the ischial
@@ -62,7 +66,9 @@ adductor enthesopathy at the pubic insertion being a separate entity in athletes
 Pectoralis major rupture is uncommon but occurs most often during eccentric loading in
 bench-press exercise. Operative repair is preferred in active patients to restore strength
 and cosmesis.
-Muscle Contusions
+
+## Muscle Contusions
+
 Muscle contusions result from direct blunt trauma to the muscle, producing
 intramuscular bleeding and inflammation. The classical site is the anterior thigh (“charley
 horse”), produced by direct trauma during contact sports. The treatment is the RICE /
@@ -74,7 +80,9 @@ range of motion; excision is reserved for mature heterotopic ossification (typic
 18 months after injury) producing persistent functional limitation, with attention to the
 risk of recurrence.
 
-Compartment Syndrome After Muscle Injury
+
+## Compartment Syndrome After Muscle Injury
+
 Compartment syndrome can follow muscle injury, particularly in patients on
 anticoagulation, in those with severe contusion of a closed compartment (anterior thigh,
 posterior compartment of leg), and after eccentric loading injuries. The same principles of
@@ -83,7 +91,9 @@ recognition and treatment apply as discussed for compartment syndrome in fractur
 
 ## Achilles Tendon Rupture
 
-Anatomy and Mechanism
+
+## Anatomy and Mechanism
+
 The Achilles tendon is the largest tendon in the body, formed by the convergence of the
 gastrocnemius (medial and lateral heads) and soleus muscles to a single tendon inserting
 on the posterior calcaneal tuberosity. The tendon has a relative avascular zone
@@ -98,7 +108,9 @@ age, repetitive microtrauma, and possibly underlying tendinopathy. Specific risk
 include fluoroquinolone antibiotic exposure (a well-recognized association),
 corticosteroid injection into or around the tendon, systemic corticosteroid use, and chronic
 Achilles tendinopathy.
-Clinical Assessment
+
+## Clinical Assessment
+
 The classical presentation is sudden sharp pain in the posterior calf during athletic activity,
 often described as feeling “kicked” or “struck” in the leg. Inability to push off the affected
 leg is common. The clinical examination findings include:
@@ -116,7 +128,9 @@ Imaging is generally not required for diagnosis when the clinical examination is
 unequivocal. Ultrasound is the most cost-effective imaging modality and shows the gap
 and tendon discontinuity; MRI provides more detailed assessment of the tendon and the
 gap and is useful for chronic ruptures or for surgical planning.
-Treatment
+
+## Treatment
+
 The management of acute Achilles rupture has been one of the most actively debated topics
 in orthopedic sports medicine. The principal options are:
 Operative repair: Direct end-to-end suture repair of the tendon through a posterior or
@@ -147,7 +161,9 @@ operative repair. The technique uses jamshidi-style passers or specialized devic
 (Achillon, PARS) to deliver suture through small percutaneous incisions, achieving end-to-
 end repair with minimal soft-tissue dissection. Outcomes are reported as comparable to
 open repair with substantially lower wound complications and similar re-rupture rates.
-Chronic Achilles Rupture
+
+## Chronic Achilles Rupture
+
 The chronic Achilles rupture (>4 to 6 weeks after injury) typically presents with
 weakness and inability to push off rather than acute pain. Direct end-to-end repair is often
 not feasible because of tendon retraction and gap formation; reconstructive options include
@@ -158,7 +174,9 @@ lata allograft reconstruction.
 
 ## Patellar Tendon and Quadriceps Tendon Rupture
 
-Patellar Tendon Rupture
+
+## Patellar Tendon Rupture
+
 The patellar tendon connects the inferior pole of the patella to the tibial tubercle,
 providing the final pathway of the extensor mechanism. Patellar tendon rupture typically
 occurs in patients under 40 years, often during sports activities, with the typical pattern
@@ -183,7 +201,9 @@ quadriceps contracture and tendon retraction. Reconstruction options include ham
 autograft, allograft, or local soft-tissue augmentation; outcomes are inferior to those of
 acute repair.
 
-Quadriceps Tendon Rupture
+
+## Quadriceps Tendon Rupture
+
 The quadriceps tendon is the convergence of the four quadriceps muscles (rectus femoris,
 vastus lateralis, vastus medialis, vastus intermedius) just proximal to the patella.
 Quadriceps tendon rupture typically occurs in older patients (over 40 years), often with
@@ -200,7 +220,9 @@ reconstruction with hamstring autograft, V-Y plasty, or allograft.
 
 ## Biceps Tendon Rupture
 
-Distal Biceps Tendon Rupture
+
+## Distal Biceps Tendon Rupture
+
 The distal biceps tendon rupture is most commonly seen in middle-aged men with
 sudden eccentric loading of the elbow in a flexed and supinated position. The clinical
 presentation is sudden pain in the antecubital fossa, ecchymosis tracking distally along the
@@ -222,7 +244,9 @@ particularly in the single-incision technique; meticulous identification and pro
 essential.
 Non-operative management results in approximately 30 to 50 percent loss of supination
 strength but is acceptable in low-demand patients.
-Proximal (Long Head) Biceps Tendon Rupture
+
+## Proximal (Long Head) Biceps Tendon Rupture
+
 The proximal long head of the biceps tendon rupture produces the classical “Popeye
 sign” — distal migration of the muscle belly producing a prominent bulge in the lower arm
 with apparent loss of the proximal arm contour. The rupture is typically degenerative and
@@ -235,7 +259,9 @@ symptomatic patients or those with associated rotator cuff pathology requiring s
 
 ## Rotator Cuff Tears
 
-Anatomy and Classification
+
+## Anatomy and Classification
+
 The rotator cuff comprises four muscles (supraspinatus, infraspinatus, subscapularis,
 teres minor) and their tendons converging on the proximal humerus. The supraspinatus is
 the most commonly torn cuff component, particularly at its insertion on the greater
@@ -249,7 +275,9 @@ The Goutallier classification of muscle quality on CT or MRI organizes fatty inf
 a scale from 0 (normal) to 4 (more fat than muscle); higher Goutallier grades correlate with
 worse outcomes of operative repair and increasing irreparability.
 
-Clinical Assessment
+
+## Clinical Assessment
+
 Clinical assessment of suspected rotator cuff tear includes:
 Empty can test (Jobe test): Assessment of supraspinatus by resisted elevation in scapular
 plane with thumb down. Pain or weakness is a positive test.
@@ -268,7 +296,9 @@ dependent but cost-effective for cuff evaluation), and MRI (the principal imagin
 providing detailed assessment of tear morphology, muscle quality, and associated
 pathology).
 
-Treatment of Rotator Cuff Tears
+
+## Treatment of Rotator Cuff Tears
+
 Asymptomatic rotator cuff tears are common in the older population (incidence
 approximately 30 percent in patients over 60) and do not necessarily require treatment.
 Symptomatic partial thickness tears are typically treated with physical therapy,
@@ -295,7 +325,9 @@ the rotator cuff (see Topic Trauma-13 for the reverse arthroplasty discussion).
 
 ## Other Important Tendon Injuries
 
-Tibialis Posterior Dysfunction
+
+## Tibialis Posterior Dysfunction
+
 Posterior tibial tendon dysfunction (PTTD) is the most common cause of acquired adult
 flatfoot, with progressive failure of the tibialis posterior tendon producing loss of medial
 longitudinal arch support and progressive valgus and abduction deformity of the foot. The
@@ -311,14 +343,18 @@ fusion or triple arthrodesis.
 Stage IV: Stage III with ankle joint involvement and deltoid attenuation. Treatment with
 pantalar arthrodesis or, in selected cases, total ankle arthroplasty with deltoid
 reconstruction.
-Peroneal Tendon Injuries
+
+## Peroneal Tendon Injuries
+
 Peroneal tendon injuries include tendinosis, tendon tears (most commonly of peroneus
 brevis, with longitudinal split tears), and dislocation/subluxation (typically from forced
 dorsiflexion with eversion, with disruption of the superior peroneal retinaculum).
 Treatment is generally non-operative for tendinosis and selected partial tears; operative
 for symptomatic tears (debridement and repair, or in severe cases, tenodesis to the FHL or
 transfer) and recurrent dislocation (superior peroneal retinaculum reconstruction).
-Flexor Hallucis Longus Injuries
+
+## Flexor Hallucis Longus Injuries
+
 FHL tendinopathy (“dancer’s tendinitis”) affects ballet dancers and others performing
 repetitive plantar flexion. Treatment is generally non-operative with relative rest and
 graded return to activity; operative tenolysis is reserved for refractory cases.

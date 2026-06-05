@@ -127,7 +127,9 @@ constraint level is one of the principal decisions in revision arthroplasty.
 
 ## Specific Considerations for Each Joint
 
-Hip Arthroplasty
+
+## Hip Arthroplasty
+
 Hip arthroplasty has been the prototype of modern arthroplasty since Charnley’s
 pioneering work in the 1960s. The principles include: appropriate sizing of the femoral
 head (small heads have lower wear but higher dislocation risk; large heads have higher
@@ -137,7 +139,9 @@ position with attention to abduction angle (40°) and anteversion (15-20°); res
 leg length and offset; appropriate surgical approach (posterior, anterolateral, direct
 anterior — each with specific advantages and disadvantages as discussed in the
 coxarthrosis chapter); and meticulous soft-tissue balance.
-Knee Arthroplasty
+
+## Knee Arthroplasty
+
 Knee arthroplasty involves more complex kinematic considerations than hip arthroplasty.
 The principles include: cruciate-retaining vs cruciate-substituting designs; fixed vs mobile
 bearing designs; alignment philosophy (mechanical vs kinematic alignment); cement vs
@@ -146,7 +150,9 @@ The technical demands of TKA include precise bony cuts, balanced flexion and ext
 gaps, proper rotational alignment of the femoral and tibial components, and appropriate
 management of the patellofemoral compartment.
 
-Shoulder Arthroplasty
+
+## Shoulder Arthroplasty
+
 Shoulder arthroplasty has evolved substantially over recent decades. The principal options
 include:
 Anatomic total shoulder arthroplasty: Indicated for primary glenohumeral

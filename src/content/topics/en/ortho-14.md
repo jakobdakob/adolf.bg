@@ -26,7 +26,9 @@ scoliosis, with cross-reference to the preceding chapter for congenital disease.
 
 ## Adolescent Idiopathic Scoliosis (AIS)
 
-Epidemiology
+
+## Epidemiology
+
 Adolescent idiopathic scoliosis is by far the commonest form of scoliosis, affecting
 approximately 2-3% of the adolescent population to some degree (curves >10°), with
 curves significant enough to require treatment (>30°) occurring in approximately 0.3-0.5%
@@ -35,7 +37,9 @@ approximately 8:1 for curves requiring treatment. The right thoracic curve is th
 pattern. The peak age of presentation is 11-14 years in girls and 12-15 years in boys,
 corresponding to the adolescent growth spurt during which curve progression is most
 rapid.
-Etiology and Pathogenesis
+
+## Etiology and Pathogenesis
+
 The etiology of idiopathic scoliosis is unknown, and the term “idiopathic” itself reflects this
 gap in understanding. Multiple theories have been proposed: genetic susceptibility (a
 strong genetic component is established by family and twin studies, with several genetic
@@ -47,7 +51,9 @@ detected in some series); and connective-tissue factors. The current consensus i
 a multifactorial condition with multiple contributing factors operating in genetically
 susceptible individuals.
 
-Clinical Features
+
+## Clinical Features
+
 Most adolescent idiopathic scoliosis is detected by school screening, by parents noticing
 asymmetry, or during routine medical examinations. Symptoms are typically minimal in
 adolescence, although mild back pain is reported in 20-30% of patients (a rate similar to
@@ -65,7 +71,9 @@ freely. The examiner views from behind and observes for asymmetric prominence of
 ribs (thoracic curve) or paraspinal muscles (lumbar curve). The scoliometer — a simple
 inclinometer placed over the apex of the rib hump — quantifies the rotational deformity; a
 measurement of 7° or greater warrants further radiographic evaluation.
-Imaging
+
+## Imaging
+
 The standard radiographic assessment of scoliosis is a long-cassette posterior-anterior
 (PA) standing whole-spine radiograph and a lateral standing whole-spine radiograph. The
 PA rather than AP projection is used to reduce the radiation dose to the breast tissue of the
@@ -92,7 +100,9 @@ rapidly progressing curves, and curves in boys (where intraspinal pathology is m
 
 common than in the typical female adolescent population). Common findings on MRI
 include syringomyelia, tethered cord, Chiari malformation, and intraspinal tumor.
-Curve Patterns and Lenke Classification
+
+## Curve Patterns and Lenke Classification
+
 The Lenke classification (2001) is the standard modern system for adolescent idiopathic
 scoliosis, replacing the older King-Moe classification of thoracic curves. The Lenke system
 classifies curves by three components: (1) the curve type (Types 1-6, based on which
@@ -103,7 +113,9 @@ relative to the central sacral vertical line); and (3) a thoracic sagittal modif
 based on the T5-T12 sagittal profile). The classification has 42 possible combinations and is
 highly reliable; it guides surgical planning by indicating which curves require fusion and
 which can be left as compensatory non-structural curves.
-Natural History
+
+## Natural History
+
 The natural history of adolescent idiopathic scoliosis is one of variable progression
 depending on curve magnitude, skeletal maturity, and curve pattern. The classic data from
 Lonstein and Carlson (1984) established the progression risk of curves: curves under 20°
@@ -118,7 +130,9 @@ with reduced vital capacity; curves over 50° in the thoracolumbar region may pr
 significant pain and disability in middle age. Cosmetic concern remains an important
 consideration in long-term outcome.
 
-Treatment
+
+## Treatment
+
 The treatment of adolescent idiopathic scoliosis follows a sliding scale based on curve
 magnitude, skeletal maturity, and progression risk.
 Observation: Curves under 20-25° in skeletally immature patients and curves under 50° at
@@ -189,7 +203,9 @@ techniques are commonly required.
 
 ## Neuromuscular Scoliosis
 
-Etiologies
+
+## Etiologies
+
 Neuromuscular scoliosis arises from underlying neurological or muscular conditions that
 compromise the muscular control of the spine. The principal etiologies include: cerebral
 palsy (the commonest cause, with severity of scoliosis correlating with GMFCS level —
@@ -197,7 +213,9 @@ GMFCS V patients have prevalence approaching 70%); spinal muscular atrophy; Duch
 and Becker muscular dystrophy; myelomeningocele; Friedreich ataxia; Charcot-Marie-
 Tooth disease; poliomyelitis (now historical in most regions); traumatic spinal cord injury;
 and arthrogryposis.
-Clinical Features
+
+## Clinical Features
+
 Neuromuscular scoliosis differs from idiopathic scoliosis in several important respects: (1)
 the curve patterns are typically long C-shaped curves spanning the entire spine, with pelvic
 obliquity that produces functional sitting difficulties; (2) progression continues into and
@@ -206,7 +224,9 @@ chest-wall deformity is more frequent and more severe; (4) bony quality is often
 (steroid-related osteoporosis in DMD, disuse osteoporosis in non-ambulatory patients); (5)
 the underlying disease produces additional medical complexity that affects perioperative
 management.
-Treatment
+
+## Treatment
+
 Bracing has a limited role in neuromuscular scoliosis: it does not prevent progression of
 the underlying paralytic curve, but it can provide truncal support that improves sitting
 balance in non-ambulatory patients. The decision for surgery is based not on curve

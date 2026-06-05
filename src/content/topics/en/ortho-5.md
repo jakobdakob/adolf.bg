@@ -27,7 +27,9 @@ developing skeleton.
 
 ## Infantile Osteoarthritis (Neonatal and Infantile Septic Arthritis)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Infantile osteoarthritis is the pyogenic infection of a joint in a child below approximately 24
 months of age, and most characteristically in the neonate of less than 4 weeks of age. The
 disease occupies a particular place in pediatric orthopedics because the immature joint and
@@ -39,7 +41,9 @@ approximately 25% in the first year of life. The hip and knee are the most commo
 affected joints; the shoulder, elbow, and ankle are less common but also reported.
 Multifocal disease is common in the neonate, with simultaneous involvement of multiple
 joints and adjacent metaphyseal bone in 30-50% of cases.
-Anatomical Considerations
+
+## Anatomical Considerations
+
 Two anatomical features of the immature hip — and to a lesser extent the shoulder, elbow,
 and ankle — make the joint and the adjacent bone particularly vulnerable to combined
 osteoarticular infection. First, the proximal femoral metaphysis lies entirely within the hip
@@ -55,7 +59,9 @@ factors explains why neonatal hip sepsis can produce, in a matter of days, a per
 destroyed hip joint with avascular necrosis of the head, collapse, dislocation, and lifelong
 disability.
 
-Microbiology
+
+## Microbiology
+
 Staphylococcus aureus, including increasing proportions of MRSA in many regions, remains
 the most common organism in infantile septic arthritis as in older children. In the neonate,
 however, the microbiological spectrum is substantially broader and includes group B
@@ -68,7 +74,9 @@ involvement and overlying skin pustules, and is mentioned in classical pediatric
 sentinel sign of unrecognized maternal infection. Kingella kingae becomes a leading
 pathogen from about 6 months of age, and from the second year of life dominates many
 pediatric series.
-Clinical Features
+
+## Clinical Features
+
 The classical presentation of neonatal septic arthritis is deceptively subtle. Systemic signs
 of sepsis — fever, irritability, poor feeding, lethargy, jaundice — may be the only initial
 clinical clues, and the child may be transferred from neonatology to orthopedics only after
@@ -81,7 +89,9 @@ presentation is closer to the typical pediatric septic arthritis: high fever, re
 weight or move the limb, held-fixed antalgic position, joint warmth and tenderness. The hip
 is held in the classical position of flexion-abduction-external rotation; the knee is held
 flexed; the elbow is held flexed and pronated.
-Investigations
+
+## Investigations
+
 Investigations parallel those for septic arthritis at any age: leukocytosis with neutrophilia,
 elevated CRP, elevated ESR; blood culture; aspiration of the affected joint for synovial fluid
 examination (cell count, Gram stain, culture, PCR for Kingella kingae and other fastidious
@@ -95,7 +105,9 @@ freely available, portable, and radiation-free. MRI is the most sensitive imagin
 early diagnosis and for identification of any associated osteomyelitis or soft-tissue abscess,
 but requires sedation or general anesthesia in the infant and is not always available
 emergently.
-Treatment
+
+## Treatment
+
 The treatment of confirmed or strongly suspected neonatal or infantile septic arthritis is
 urgent surgical drainage combined with broad-spectrum parenteral antibiotic therapy.
 Aspiration alone is generally insufficient for the deep joints (hip, shoulder) of infants
@@ -113,7 +125,9 @@ older child, with empirical staphylococcal coverage (flucloxacillin or, in regio
 MRSA prevalence, clindamycin or vancomycin) modified by culture results. The duration of
 therapy is typically 3-4 weeks total, with the first 5-10 days intravenous and the remainder
 oral.
-Complications
+
+## Complications
+
 The complications of neonatal and infantile septic arthritis are among the most devastating
 in pediatric orthopedics. Avascular necrosis of the femoral head, with secondary collapse,
 deformity, premature physeal arrest, and lifelong shortening and arthritis, is the classical
@@ -129,7 +143,9 @@ child, with arthrodesis or arthroplasty postponed until skeletal maturity.
 
 ## Transient (Toxic) Synovitis of the Hip
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Transient synovitis, also called toxic synovitis or “irritable hip,” is a self-limiting
 inflammatory synovitis of the hip joint in children, characterized by acute onset of hip pain,
 antalgic gait, and joint effusion in the absence of true infection. It is the most common cause
@@ -141,7 +157,9 @@ represents a post-viral inflammatory or immune-mediated synovitis. Although the 
 not definitively established, multiple viral infections have been implicated and the
 condition is classically self-limiting over 7-10 days.
 
-Clinical Features
+
+## Clinical Features
+
 Presentation is with acute onset of unilateral hip or referred groin pain, antalgic gait or
 refusal to bear weight, and mild restriction of hip motion — most consistently of internal
 rotation. The child is generally well-appearing, afebrile or with low-grade fever (typically
@@ -150,7 +168,9 @@ reveals tenderness over the anterior hip joint and restriction of range of motio
 extremes, with the limb often held in the position of mild flexion and external rotation. In
 contrast to septic arthritis, the child can usually tolerate some hip motion and some
 weight-bearing, and the inflammatory signs are mild.
-Differential Diagnosis and the Kocher Criteria
+
+## Differential Diagnosis and the Kocher Criteria
+
 The pivotal diagnostic challenge is to distinguish transient synovitis from septic arthritis of
 the hip, since the latter is a surgical emergency. The Kocher criteria, derived from a 1999
 study of children presenting with acute non-traumatic hip pain at Boston Children’s
@@ -174,7 +194,9 @@ decreased, and Gram stain or culture identifies the organism; in transient synov
 count is typically less than 25,000/mm³ with a more mixed cellular pattern, and culture is
 sterile. The aspiration is performed under ultrasound guidance under appropriate
 analgesia or sedation.
-Imaging
+
+## Imaging
+
 Plain radiographs in transient synovitis are typically normal, though they may show
 capsular distension or — in cases that have evolved over days — a slight lateral
 
@@ -185,7 +207,9 @@ ultrasound-guided aspiration of the affected joint can be performed in the same 
 when needed. MRI is rarely required for the diagnosis of transient synovitis itself but may
 be useful when other diagnoses — particularly early Perthes disease — are considered.
 
-Treatment and Natural History
+
+## Treatment and Natural History
+
 Treatment is supportive: rest, restricted weight-bearing, non-steroidal anti-inflammatory
 analgesics (typically ibuprofen), and reassurance. The natural history is one of spontaneous
 resolution over 7-10 days. Recurrence in the same hip or the opposite hip occurs in

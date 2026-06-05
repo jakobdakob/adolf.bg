@@ -151,7 +151,9 @@ Browner clamp) is a more aggressive stabilization device with pins placed poster
 the iliac bone just posterior to the SI joints, providing direct posterior compression —
 useful for the unstable C-type injury with posterior disruption. The C-clamp is less
 commonly used in modern practice as resuscitative options have expanded.
-Resuscitative Surgery and Angiographic Embolization
+
+## Resuscitative Surgery and Angiographic Embolization
+
 For the patient with continuing hemorrhage despite mechanical stabilization, two principal
 options exist:
 Preperitoneal pelvic packing — surgical opening of the preperitoneal space through a
@@ -171,7 +173,9 @@ where a balloon catheter is placed in the descending aorta to occlude inflow to 
 temporarily, has gained traction in the most extreme cases but remains a bridge to
 definitive treatment rather than definitive itself.
 
-Blood Product Resuscitation
+
+## Blood Product Resuscitation
+
 Massive transfusion protocols with 1:1:1 ratio of packed red cells, fresh frozen plasma, and
 platelets are activated for patients with pelvic injury and hemodynamic instability,
 accompanied by tranexamic acid (1 g IV at presentation, 1 g over 8 hours) within 3 hours
@@ -185,13 +189,17 @@ embolization based on clinical trajectory.
 
 ## Treatment of Specific Patterns — Anterior Ring
 
-Pubic Symphysis Disruption
+
+## Pubic Symphysis Disruption
+
 Pubic symphysis diastasis greater than 2.5 cm (the standard threshold) represents
 disruption of the anterior pelvic ligamentous complex and indicates an unstable APC or VS
 injury. Operative fixation is by open reduction and plate fixation through a Pfannenstiel
 approach, with a curved 4- or 6-hole plate spanning the symphysis. The construct is
 generally augmented by posterior fixation in C-type injuries.
-Pubic Rami Fractures
+
+## Pubic Rami Fractures
+
 Isolated pubic rami fractures in elderly osteoporotic patients are extremely common,
 generally low-energy, and managed non-operatively with progressive mobilization. The
 historical concept that these represent ring injuries that should be assumed to have occult
@@ -206,7 +214,9 @@ selected anterior ring injuries.
 
 ## Treatment of Specific Patterns — Posterior Ring
 
-Sacroiliac Joint Disruption
+
+## Sacroiliac Joint Disruption
+
 Pure SI joint disruption is managed by percutaneous iliosacral (IS) screws — cannulated
 screws placed under fluoroscopic guidance through the iliac bone, across the SI joint, and
 into the sacral body. The technique requires precise imaging and understanding of sacral
@@ -216,7 +226,9 @@ approximately 40 percent of the population, with mammillary bodies, transitional
 
 or other features — must be recognized because it changes the safe corridor for screw
 placement.
-Sacral Fractures
+
+## Sacral Fractures
+
 Sacral fractures are classified by the Denis classification (Denis et al., 1988) into three
 zones:
 Zone I: Lateral to the sacral foramina. Lower risk of neurological injury (approximately 6
@@ -236,7 +248,9 @@ iliosacral screws for fractures with adequate bone purchase. The classical “tr
 transsacral” screw passes through both ilia and across the entire sacrum, providing
 maximum stability.
 
-Iliac Wing Fractures
+
+## Iliac Wing Fractures
+
 Iliac wing fractures may be treated non-operatively if they do not disrupt the pelvic ring;
 significantly displaced iliac wing fractures with ring involvement require open reduction
 and plate fixation, typically through a lateral or posterior approach.
@@ -267,7 +281,9 @@ until physiological stabilization (typically 3 to 14 days).
 
 ## Special Considerations
 
-Open Pelvic Fractures
+
+## Open Pelvic Fractures
+
 The open pelvic fracture — pelvic ring injury with communication of the fracture to the
 environment, typically through perineal, rectal, or vaginal wounds — carries a
 substantially worse prognosis than the closed counterpart, with mortality rates of 30 to 50
@@ -275,7 +291,9 @@ percent. Management requires aggressive surgical debridement of the wound, broad
 spectrum antibiotic coverage, diverting colostomy for perineal or rectal wounds to
 prevent ongoing fecal contamination, and definitive orthopedic fixation when the patient is
 stable.
-Genitourinary Injuries
+
+## Genitourinary Injuries
+
 Pelvic ring injury is associated with urethral injury in approximately 10 percent of male
 patients and bladder injury in approximately 5 to 10 percent of all patients. Retrograde
 urethrogram should be performed before bladder catheterization in male patients with
@@ -285,7 +303,9 @@ rupture is classified as intraperitoneal (requiring operative repair) or extrape
 consider the planned approach to pelvic fixation in patients with significant urological
 injury; anterior symphyseal plating can be challenging in the patient with bladder injury or
 in whom suprapubic catheter has been placed.
-Pediatric Pelvic Ring Injuries
+
+## Pediatric Pelvic Ring Injuries
+
 Pediatric pelvic ring injuries are uncommon and have a substantially different presentation
 from the adult — the elastic ligaments of the child allow more displacement before
 fracture, and the open growth plates of the iliac wing and acetabulum may show Salter-
@@ -293,7 +313,9 @@ Harris-like patterns. Many pediatric pelvic injuries that would require operativ
 an adult can be managed non-operatively because of the remarkable remodeling potential
 of the immature skeleton.
 
-Postoperative Considerations and Complications
+
+## Postoperative Considerations and Complications
+
 The complications of operative pelvic ring fixation include infection (1 to 5 percent, higher
 with open fractures), neurological injury (typically L5 or S1 traction-related; iatrogenic
 injury from misplaced screws should be specifically considered), fixation failure with

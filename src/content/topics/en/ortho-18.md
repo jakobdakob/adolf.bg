@@ -25,21 +25,27 @@ and Miller’s Review.
 
 ## Developmental (Congenital) Coxa Vara
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Developmental coxa vara — sometimes called infantile coxa vara — is a focal disorder of
 the proximal femoral physis in which a triangular fragment of bone separates from the
 inferomedial corner of the femoral neck along an oblique medial defect through the
 metaphysis. The condition is rare, with an incidence of approximately 1 in 25,000 live
 births. Both sexes are affected equally. Bilateral involvement occurs in approximately 30-
 50% of cases.
-Etiology
+
+## Etiology
+
 The cause is unknown but is generally thought to represent a primary developmental
 abnormality of the proximal femoral metaphysis or physis. Some cases occur in association
 with skeletal dysplasias including cleidocranial dysplasia, spondylometaphyseal dysplasia,
 and metaphyseal chondrodysplasia (Schmid type). A small number have been reported
 with proximal femoral focal deficiency. The familial pattern, when present, is consistent
 with autosomal dominant inheritance with variable penetrance.
-Pathological Anatomy
+
+## Pathological Anatomy
+
 The characteristic pathology is a triangular fragment of bone — the “Fairbank triangle” —
 that separates from the medial corner of the femoral neck along an oblique line extending
 from the inferior aspect of the metaphysis upward and laterally toward the lateral cortex.
@@ -50,14 +56,18 @@ failure with development of a pseudarthrosis through the femoral neck in severe 
 
 Tönnis described a “wandering” of the triangular fragment with growth that worsens the
 deformity over time.
-Clinical Features
+
+## Clinical Features
+
 Presentation is typically in early childhood (age 2-6 years) with a painless limp, leg-length
 discrepancy, decreased hip abduction (often with abductor lurch — Trendelenburg gait),
 and apparent short stature on the affected side. Bilateral cases may present with waddling
 gait without obvious leg-length discrepancy. Examination reveals decreased hip abduction
 and internal rotation, with the limb in external rotation and adduction. There is typically no
 pain.
-Radiographic Features and the Hilgenreiner-Epiphyseal Angle
+
+## Radiographic Features and the Hilgenreiner-Epiphyseal Angle
+
 The plain AP pelvis radiograph is diagnostic. Features include: decreased neck-shaft angle
 (varus); short, wide femoral neck; the triangular Fairbank fragment in the inferomedial
 corner of the metaphysis; widened, irregular medial portion of the proximal femoral
@@ -69,7 +79,9 @@ normally less than 25°. An angle of 45° or greater predicts progression and is
 accepted as an indication for surgical correction; an angle between 25° and 45° is
 intermediate and requires observation or correction depending on additional features.
 
-Treatment
+
+## Treatment
+
 The treatment of developmental coxa vara depends on the Hilgenreiner-epiphyseal angle,
 the rate of progression, and the patient’s clinical findings.
 Observation: Hilgenreiner-epiphyseal angles less than 45° in the asymptomatic patient
@@ -91,7 +103,9 @@ in the toddler is technically more demanding because of the small size of the pr
 
 femur and the difficulty of fixation; later surgery permits less time for postoperative
 growth-related correction.
-Outcomes and Complications
+
+## Outcomes and Complications
+
 The outcomes of valgus osteotomy for developmental coxa vara are generally good, with
 restoration of a near-normal neck-shaft angle, improvement in hip abductor function, and
 prevention of progressive deformity. The principal long-term concerns include: premature

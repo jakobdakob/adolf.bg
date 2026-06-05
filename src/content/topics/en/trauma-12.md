@@ -187,13 +187,17 @@ bone loss greater than 20 to 25 percent (the “critical bone loss” of Burkhar
 2000) requires bony augmentation. The intermediate range (15 to 20 percent, the
 “subcritical” zone of Shaha) is currently debated, with increasing recognition that bony
 procedures may produce better outcomes than soft-tissue repair alone even in this range.
-Arthroscopic Bankart Repair
+
+## Arthroscopic Bankart Repair
+
 The standard procedure for recurrent anterior instability without significant bone loss is
 arthroscopic Bankart repair with suture anchor fixation of the labrum to the glenoid rim.
 Outcomes are generally good (90 percent or more return to sport), with the most
 important risk factors for recurrence being unrecognized bone loss, contact sport
 participation, and prior failed instability surgery.
-The Latarjet Procedure
+
+## The Latarjet Procedure
+
 For significant glenoid bone loss, the Latarjet procedure, described by Michel Latarjet in
 1954, transfers the coracoid process with the conjoint tendon (short head of biceps and
 coracobrachialis) to the anterior glenoid neck, where it is fixed with screws. The procedure
@@ -208,14 +212,18 @@ additional advantage of preserved external rotation; complications include screw
 fixation failure, nerve injury (musculocutaneous, axillary), graft fracture, and progression
 to glenohumeral arthritis (the “Latarjet arthropathy”). Arthroscopic Latarjet has been
 developed but remains technically demanding.
-Glenoid Reconstruction with Bone Graft
+
+## Glenoid Reconstruction with Bone Graft
+
 Alternatives to the Latarjet for glenoid bone reconstruction include iliac crest autograft
 (the Eden-Hybinette procedure, historically), distal tibial allograft (Provencher’s
 contribution, with excellent cartilage match and lower donor-site morbidity), and distal
 clavicle autograft. Each restores the bony anatomy without the dynamic sling effect of the
 Latarjet.
 
-Humeral Bone Loss
+
+## Humeral Bone Loss
+
 Significant Hill-Sachs lesions, particularly engaging Hill-Sachs (where the defect engages
 the anterior glenoid rim in abduction and external rotation, identified by the “glenoid
 

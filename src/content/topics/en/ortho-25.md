@@ -66,7 +66,9 @@ attribution of pain to abnormal but clinically irrelevant findings.
 
 ## Lumbar Disc Herniation and Radiculopathy
 
-Pathophysiology
+
+## Pathophysiology
+
 Lumbar disc herniation is the displacement of disc material (typically the nucleus pulposus,
 sometimes the annulus) beyond the confines of the disc space. The classical mechanism is
 repeated loading of a degenerating disc with eventual annular failure and posterior or
@@ -80,7 +82,9 @@ the parent disc; sequestration — free fragment separated from the parent disc)
 (central, paracentral, foraminal/lateral, far lateral), and by level. The most common
 herniation pattern is paracentral at L4-L5 or L5-S1, producing characteristic radiculopathy
 of the L5 or S1 nerve root respectively.
-Clinical Features
+
+## Clinical Features
+
 The classical presentation is of acute back pain followed by radicular leg pain, often in
 association with a specific event (lifting, bending, twisting). The radicular pain follows the
 dermatomal distribution of the affected nerve root: L4 radiculopathy produces pain in the
@@ -99,7 +103,9 @@ tibialis anterior; L5 — extensor hallucis longus, tibialis anterior; S1 — ga
 reflex changes (L4 — patellar reflex; S1 — Achilles reflex; L5 — no good reflex marker).
 The femoral nerve stretch test (reverse SLR) assesses upper lumbar nerve root tension and
 is positive in L2, L3, or L4 radiculopathy.
-Cauda Equina Syndrome
+
+## Cauda Equina Syndrome
+
 Cauda equina syndrome — compression of the lumbosacral nerve roots in the spinal canal
 — is a surgical emergency. The classical features include severe bilateral leg pain, saddle
 anesthesia (perineal and perianal sensory loss), urinary retention with overflow
@@ -107,14 +113,18 @@ incontinence, fecal incontinence or loss of rectal tone, and progressive motor w
 The condition most commonly results from massive central disc herniation. Urgent MRI
 and surgical decompression within 24-48 hours of symptom onset is essential; outcomes
 are critically dependent on time to decompression.
-Imaging
+
+## Imaging
+
 MRI is the imaging modality of choice for lumbar disc herniation, demonstrating the
 location, size, and morphology of the herniation as well as nerve root impingement. Plain
 radiographs are obtained for assessment of alignment, disc height, and exclusion of other
 diagnoses but do not demonstrate the herniation itself. CT myelography is an alternative
 when MRI is contraindicated.
 
-Treatment
+
+## Treatment
+
 The natural history of acute lumbar disc herniation with radiculopathy is favorable:
 approximately 70-80% of patients improve with conservative management over 6-12
 weeks. Conservative management includes: brief activity modification; NSAIDs; oral or
@@ -134,7 +144,9 @@ provide alternatives with potentially less soft-tissue disruption.
 
 ## Lumbar Spinal Stenosis
 
-Pathophysiology and Clinical Features
+
+## Pathophysiology and Clinical Features
+
 Lumbar spinal stenosis is the narrowing of the central canal, lateral recess, or neural
 foramen producing compression of the spinal nerve roots. Central canal stenosis produces
 the classical syndrome of neurogenic claudication: bilateral or unilateral leg pain, fatigue,
@@ -151,11 +163,15 @@ The differential diagnosis includes vascular claudication (which is provoked by 
 regardless of posture and is relieved by stopping; pulses are absent or reduced), peripheral
 neuropathy (typically with bilateral burning pain not related to position), and various
 other conditions.
-Imaging
+
+## Imaging
+
 MRI demonstrates the central canal narrowing, lateral recess narrowing, and foraminal
 narrowing, with quantitative assessment by the cross-sectional area of the canal and other
 measures. CT myelography is an alternative when MRI is contraindicated.
-Treatment
+
+## Treatment
+
 Conservative management includes physical therapy directed at flexion-based exercises,
 postural training, walking aids, weight loss, and analgesics. Epidural steroid injection
 provides modest short-term symptom relief in some patients.
@@ -169,7 +185,9 @@ improvement at 4-year follow-up.
 
 ## Lumbar Spondylolisthesis
 
-Classification
+
+## Classification
+
 Spondylolisthesis is the anterior translation of one vertebra relative to the vertebra below.
 The Wiltse classification recognizes five types:
 
@@ -187,7 +205,9 @@ Type V — Pathological: Tumor, infection, or metabolic disease producing the sl
 The Meyerding grading system quantifies the severity: Grade I (<25% slip), Grade II (25-
 50%), Grade III (50-75%), Grade IV (75-100%), Grade V (spondyloptosis, complete
 translation).
-Clinical Features and Treatment
+
+## Clinical Features and Treatment
+
 Presentation varies by type. Isthmic spondylolisthesis in adolescents and young adults
 presents with mechanical low back pain and sometimes hamstring tightness; advanced
 slips may produce neurological symptoms. Degenerative spondylolisthesis in older adults

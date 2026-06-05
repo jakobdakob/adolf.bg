@@ -106,7 +106,9 @@ suspected.
 
 ## Treatment — Locked Plating
 
-Lateral Locked Plating
+
+## Lateral Locked Plating
+
 Lateral locked plating is the predominant operative technique for distal femur fractures
 and has produced the substantial improvement in outcomes that has characterized this
 region over the past two decades. The construct uses a precontoured anatomic locking
@@ -149,7 +151,9 @@ may inhibit the callus formation that is the principal healing mechanism in brid
 contributing to delayed union and implant failure. Strategies to address this include far
 cortical locking screws (with their threaded engagement only in the far cortex, permitting
 controlled near cortical motion) and longer working lengths.
-Medial Plate Augmentation
+
+## Medial Plate Augmentation
+
 The medial plate (added to the lateral construct for severely comminuted patterns or in
 osteoporotic bone) has gained traction as a means of reducing failure rates. The construct
 provides a “second column” of fixation that converts the cantilever loading on the lateral
@@ -160,7 +164,9 @@ in unstable patterns or in patients at risk for failure is generally accepted.
 
 ## Treatment — Retrograde Intramedullary Nailing
 
-Indications and Construct
+
+## Indications and Construct
+
 Retrograde intramedullary nailing through the intercondylar notch provides an
 alternative to lateral plating for distal femur fractures, particularly those without
 significant articular comminution. The technique entry point is just anterior to the PCL
@@ -174,7 +180,9 @@ condylar fragment compared with locked plating, and the entry through the knee j
 introduces concerns about septic arthritis if infection develops and about residual knee
 pain.
 
-Technique
+
+## Technique
+
 The technique parallels femoral shaft retrograde nailing (see Topic Trauma-23), with
 several specific considerations for distal femur fractures:
 Entry point is critical and is just anterior to the PCL insertion, with attention to placement
@@ -188,7 +196,9 @@ Distal locking through the femoral condyles provides distal fixation. Multiple d
 locking screws (typically 3 to 4) provide rotational stability and resistance to extension or
 flexion forces. Newer nail designs with multiplanar distal locking improve fixation in the
 distal fragment.
-Plate vs Nail — The Active Debate
+
+## Plate vs Nail — The Active Debate
+
 The choice between lateral locked plating and retrograde intramedullary nailing for distal
 femur fractures has been investigated through several randomized trials and meta-
 analyses. The general consensus is:
@@ -228,7 +238,9 @@ fixation around them; loose implants require revision.
 
 ## Specific Considerations
 
-Hoffa Fracture
+
+## Hoffa Fracture
+
 The Hoffa fracture (coronal plane fracture of the lateral or medial femoral condyle) is a
 distinct entity that deserves specific attention. The classical mechanism is a direct blow to
 the flexed knee or an axial load through the tibia in the flexed knee position. The fracture
@@ -241,7 +253,9 @@ compression screws) buried below the articular surface. The Hoffa fragment, if m
 produces persistent knee pain and progressive arthritis from the displaced articular
 surface; recognition is therefore important.
 
-Nonunion
+
+## Nonunion
+
 Nonunion of the distal femur is a recognized concern, occurring in 5 to 15 percent of
 fractures depending on the construct, the fracture pattern, and patient factors. The
 contributing factors include excessive construct stiffness (the “too stiff” plate
@@ -249,7 +263,9 @@ phenomenon), inadequate fixation length in the proximal segment, significant ini
 loss, smoking, NSAIDs, and patient comorbidities. Treatment involves revision fixation with
 autograft, often with the addition of medial plate augmentation or conversion to longer
 plates with improved working length.
-Geriatric Distal Femur Fracture
+
+## Geriatric Distal Femur Fracture
+
 The geriatric distal femur fracture, often in osteoporotic bone and often as a periprosthetic
 fracture, has emerged as a significant clinical entity with high mortality (comparable to hip
 fracture in some series, approximately 25 percent at one year) and substantial functional
@@ -260,7 +276,9 @@ VTE prophylaxis, and secondary fracture prevention all apply. The functional out
 less predictable than for hip fracture, with substantial loss of pre-fracture functional level
 common.
 
-Pediatric Distal Femur Fractures
+
+## Pediatric Distal Femur Fractures
+
 Pediatric distal femur fractures include the distal femoral physeal injuries (Salter-Harris
 classification) and metaphyseal fractures. Salter-Harris type II is the most common, but
 type III and IV injuries involving the joint surface require anatomical reduction (often
@@ -270,7 +288,9 @@ extremity growth in children) and growth arrest produces substantial length and 
 deformity. Treatment of physeal injuries follows the Salter-Harris principles with attention
 to the high rate of growth arrest (approximately 25 percent) even in well-treated injuries;
 long-term follow-up for growth abnormalities is essential.
-Distal Femur Fracture with Vascular Injury
+
+## Distal Femur Fracture with Vascular Injury
+
 Distal femur fractures with associated vascular injury (popliteal artery or vein) require
 coordinated orthopedic and vascular surgical management. The fracture is typically
 stabilized first (with rapid external fixation or temporary nail/plate) to provide a stable

@@ -52,7 +52,9 @@ interdigital mesenchyme; failure of this apoptosis produces syndactyly.
 Failures of formation are characterized by absent or hypoplastic skeletal elements and can
 be transverse (perpendicular to the long axis of the limb) or longitudinal (along the limb
 axis).
-Transverse Deficiency
+
+## Transverse Deficiency
+
 Transverse deficiency is an amputation-like absence of the distal limb. Congenital
 transverse deficiency is typically unilateral, sporadic, and not associated with other
 anomalies. The level of the deficiency varies from the upper arm to the digits. The
@@ -62,7 +64,9 @@ prescribed at age 6 months as the child begins to develop bimanual function. The
 making is individualized: many children with transverse deficiencies become highly
 functional without prostheses, particularly those with shorter residual limbs and those
 with bilateral involvement. Surgical reconstruction is rarely required.
-Radial Longitudinal Deficiency (Radial Club Hand)
+
+## Radial Longitudinal Deficiency (Radial Club Hand)
+
 Radial longitudinal deficiency, classically called radial club hand, is a longitudinal
 deficiency of the preaxial (radial) side of the forearm and hand. The condition ranges from
 mild hypoplasia of the thumb to complete absence of the radius with severe hand
@@ -92,7 +96,9 @@ technique have been developed in response. Thumb hypoplasia is addressed by
 
 pollicization (transfer of the index finger to the thumb position) in severe hypoplasia or
 aplasia, with the index finger reshaped, rotated, and shortened to function as a thumb.
-Ulnar Longitudinal Deficiency
+
+## Ulnar Longitudinal Deficiency
+
 Ulnar longitudinal deficiency is less common than radial deficiency and less often
 associated with systemic syndromes; the association with cardiac, hematological, and renal
 anomalies is rare. The deficiency may range from mild ulnar shortening to complete
@@ -103,7 +109,9 @@ fifth digits, and unstable or fused elbow. Treatment is individualized to the sp
 deformity and may include excision of an unstable fibrocartilaginous ulnar anlage in early
 infancy (the anlage prevents normal elbow and forearm development), corrective
 osteotomies of the radius, and reconstruction of the hand deformities.
-Cleft Hand (Split Hand) and Symbrachydactyly
+
+## Cleft Hand (Split Hand) and Symbrachydactyly
+
 The “cleft hand” describes a hand with a central deficiency of one or more central digits,
 typically with a V-shaped cleft extending into the palm. The classical typical cleft hand
 (autosomal dominant, often with foot involvement, with normal but absent central rays) is
@@ -115,7 +123,9 @@ Snow-Littler procedure is the classical reconstruction. Symbrachydactyly — a p
 formed hand with hypoplastic short digits — is treated by soft-tissue release of any
 syndactyly, transfer of toe phalanges to the hand for digit reconstruction in severe cases,
 and prosthetic fitting where indicated.
-Phocomelia
+
+## Phocomelia
+
 Phocomelia is the rare longitudinal deficiency in which the hand attaches directly to the
 trunk or to a markedly shortened upper limb. The deficiency was classically associated
 with thalidomide exposure during pregnancy in the 1960s; modern cases are sporadic and
@@ -125,7 +135,9 @@ uncommon. Treatment is principally prosthetic.
 
 Failures of differentiation are characterized by skeletal elements that have formed but have
 not separated from each other properly.
-Syndactyly
+
+## Syndactyly
+
 Syndactyly is the failure of separation of adjacent digits, with an incidence of approximately
 1 in 2,000 live births. The condition is classified by the extent of fusion (complete:
 extending to the fingertips; incomplete: partial fusion not reaching the fingertips) and by
@@ -147,7 +159,9 @@ aspects of the separated digits. The principle of operating on only one side of 
 time, never simultaneously on both sides of a single digit, is preserved to avoid
 devascularization and prevents simultaneous operation on multiple webs in the same hand
 in most cases.
-Camptodactyly
+
+## Camptodactyly
+
 Camptodactyly is a non-traumatic flexion deformity of the proximal interphalangeal joint of
 a digit, most commonly the fifth finger. The condition is often bilateral and may be familial.
 Camptodactyly is classified as infantile (presenting in the first year of life, usually bilateral,
@@ -156,7 +170,9 @@ predominance). The pathology involves a combination of skin, fascial, tendon, an
 contractures. Treatment is initially conservative with stretching and splinting; surgical
 management is reserved for severe or progressive contracture and involves release of the
 affected tissues, often with skin grafting and tendon adjustment, with variable success.
-Clinodactyly
+
+## Clinodactyly
+
 Clinodactyly is a coronal-plane angular deformity of a digit, most commonly affecting the
 fifth finger and most commonly in a radial direction at the distal interphalangeal joint. The
 condition is associated with a delta-shaped middle phalanx — a wedge-shaped phalanx
@@ -165,7 +181,9 @@ treatment. Severe clinodactyly may be addressed by excision of the delta-shaped 
 with bone grafting, by physeal-bar resection, or by closing-wedge or opening-wedge
 osteotomy.
 
-Radioulnar Synostosis
+
+## Radioulnar Synostosis
+
 Congenital radioulnar synostosis is a failure of separation of the proximal radius and ulna,
 producing a fixed pronated forearm with no rotation. The condition is bilateral in
 approximately 60% of cases. Presentation is in childhood with functional limitation in
@@ -179,7 +197,9 @@ muscle has had disappointing long-term results because of frequent recurrence.
 
 ## Duplication (Swanson III)
 
-Polydactyly
+
+## Polydactyly
+
 Polydactyly is the presence of supernumerary digits, classified as preaxial (thumb side),
 postaxial (little-finger side), or central (within the body of the hand). Postaxial polydactyly
 is the most common type globally, with an incidence of approximately 1 in 3,000 in white
@@ -204,14 +224,18 @@ as a thumb.
 Central polydactyly (involving the middle three digits) is rare and often associated with
 syndactyly producing a complex hand deformity that requires individualized surgical
 management.
-Mirror Hand and Ulnar Dimelia
+
+## Mirror Hand and Ulnar Dimelia
+
 Mirror hand (ulnar dimelia) is a rare anomaly in which the ulnar side of the forearm and
 hand is duplicated, with two ulnae and eight to nine fingers in a mirror arrangement, and
 absence of the thumb and radius. Treatment is individualized to provide a functional hand.
 
 ## Overgrowth (Swanson IV)
 
-Macrodactyly
+
+## Macrodactyly
+
 Macrodactyly is overgrowth of one or more digits, typically affecting the soft tissues and
 the skeleton. The condition may be isolated or part of a more generalized overgrowth
 syndrome including neurofibromatosis type 1, lipomatosis, Klippel-Trénaunay syndrome,
@@ -225,7 +249,9 @@ condition.
 
 ## Undergrowth (Swanson V)
 
-Thumb Hypoplasia (Hypoplastic Thumb)
+
+## Thumb Hypoplasia (Hypoplastic Thumb)
+
 Thumb hypoplasia is graded by the Blauth classification: Type I (minor generalized
 hypoplasia with all structures present but small); Type II (absence or hypoplasia of the
 thenar muscles, narrow web space, ulnar collateral ligament insufficiency); Type IIIA (Type
@@ -241,7 +267,9 @@ index finger is detached, shortened by removal of the metacarpal, rotated approx
 repurposed as thumb muscles. The procedure produces a functional thumb at the cost of
 the index finger and remains the standard procedure for severe thumb hypoplasia. Toe-to-
 thumb microvascular transfer is an alternative.
-Brachydactyly
+
+## Brachydactyly
+
 Brachydactyly is shortening of one or more digits, often inherited as an autosomal
 dominant trait. Several distinct types are recognized by which phalanx or metacarpal is
 shortened. Treatment is rarely required.
@@ -305,7 +333,9 @@ surgical release (open transection of the A1 pulley) for cases that do not resol
 
 ## Diagnostic and Management Principles
 
-Initial Evaluation
+
+## Initial Evaluation
+
 Every child with a congenital hand anomaly requires a systematic evaluation: detailed
 family history including consanguinity; pregnancy history including teratogen exposure
 (alcohol, medications, drugs of abuse); careful physical examination of the affected limb,
@@ -316,7 +346,9 @@ anemia, TAR, Apert, Poland — are too consequential to miss, and any child with
 upper-limb anomaly should have at minimum a cardiac evaluation and a complete blood
 count, with additional investigations dictated by the clinical findings.
 
-Timing of Surgery
+
+## Timing of Surgery
+
 The timing of reconstructive surgery for congenital hand anomalies is dictated by several
 considerations: the maturity of the affected structures, the developmental window for hand
 function (with bimanual function emerging in the second year and fine motor skills in the
@@ -325,7 +357,9 @@ third and fourth years), the risk of growth-related deformity if the anomaly is 
 considerations. As a general rule, simple separations of border digits are performed by 6-
 12 months, central digital separations by 12-24 months, polydactyly excisions by 12-24
 months, thumb pollicization by 12-18 months, and complex reconstructions by 2-3 years.
-Multidisciplinary Care
+
+## Multidisciplinary Care
+
 The care of the child with a major congenital hand anomaly is best provided in a
 multidisciplinary clinic with pediatric hand surgery, occupational therapy, prosthetics,
 psychology, and where appropriate genetics, cardiology, and hematology. The family

@@ -135,7 +135,9 @@ resuscitation.
 
 ## Intramedullary Nailing — Technique
 
-Antegrade Nailing
+
+## Antegrade Nailing
+
 Antegrade nailing has been the historical standard for femoral shaft fractures. The
 technique requires:
 Patient positioning: Supine on a fracture table with traction, or lateral decubitus on a
@@ -185,7 +187,9 @@ the proximal screws engaged at one end and only the distal at the other) permit 
 loading at the fracture site and may be appropriate for stable patterns where bone-to-bone
 contact provides axial support. Conversion from static to dynamic locking (by removing
 screws from one end) may be considered in delayed union cases.
-Retrograde Nailing
+
+## Retrograde Nailing
+
 Retrograde nailing through the intercondylar notch of the distal femur has emerged as an
 important alternative. The entry point is just anterior to the PCL insertion in the
 intercondylar notch, accessed through a small parapatellar arthrotomy. The technique is
@@ -203,7 +207,9 @@ arthritis if infection develops, and stiffness in selected patients), the techni
 distal entry, and the historical concern about knee pain. Contemporary outcomes are
 generally good in appropriate indications.
 
-Plate Fixation
+
+## Plate Fixation
+
 Plate fixation of the femoral shaft is reserved for specific indications: periprosthetic
 fractures where the existing hip arthroplasty stem precludes nailing; fractures with
 vascular injury requiring open exposure for repair; fractures with extensive
@@ -213,7 +219,9 @@ selected highly proximal or distal fractures where the metaphyseal location make
 nailing technically challenging. Submuscular plating with minimally invasive percutaneous
 osteosynthesis (MIPO) techniques has reduced the morbidity of plate fixation.
 
-External Fixation
+
+## External Fixation
+
 External fixation is reserved for temporary stabilization in the damage control setting (as
 discussed in Topic Trauma-6), with conversion to intramedullary nailing within 5 to 14
 days when the patient is physiologically stable. The conversion should not be delayed
@@ -222,7 +230,9 @@ nailing.
 
 ## Specific Considerations
 
-Ipsilateral Femoral Neck and Shaft Fractures
+
+## Ipsilateral Femoral Neck and Shaft Fractures
+
 The ipsilateral femoral neck and shaft fracture combination — sometimes called the
 “Tronzo fracture pattern” or simply the segmental femoral fracture — is reported in 1 to
 9 percent of femoral shaft fractures and is frequently missed at initial evaluation. Specific
@@ -236,7 +246,9 @@ femoral neck.
 Retrograde nailing of the shaft plus separate fixation of the neck.
 The femoral neck fracture is the priority because of AVN risk and is typically reduced and
 provisionally fixed first, with the shaft fracture subsequently addressed.
-Pediatric Femoral Shaft Fractures
+
+## Pediatric Femoral Shaft Fractures
+
 Pediatric femoral shaft fractures are managed by age-specific protocols. Children under 6
 months: Pavlik harness or simple immobilization, given the remarkable remodeling
 potential. 6 months to 5 years: Early hip spica casting after closed reduction is the
@@ -251,14 +263,18 @@ both the piriformis fossa (with AVN risk) and the trochanteric tip (with abducto
 disruption risk) by using an entry point on the lateral aspect of the trochanter; this
 technique has become widely adopted for the adolescent population.
 
-Periprosthetic Femoral Shaft Fractures
+
+## Periprosthetic Femoral Shaft Fractures
+
 Periprosthetic femoral shaft fractures around an existing total hip arthroplasty are
 classified by the Vancouver classification discussed in Topic Trauma-8. The Vancouver C
 pattern, with the fracture distal to the implant, is addressed by standard plate or
 retrograde nail fixation of the femoral shaft with the existing implant left undisturbed. The
 Vancouver B patterns (around the implant) require the more complex management
 addressed in the periprosthetic fracture chapter.
-Bilateral Femoral Shaft Fractures
+
+## Bilateral Femoral Shaft Fractures
+
 Bilateral femoral shaft fractures are uncommon (5 to 10 percent of femoral shaft fracture
 series) but are associated with substantially increased mortality (25 percent compared
 with 5 to 10 percent for unilateral fractures), with the increased mortality reflecting both
@@ -269,7 +285,9 @@ with bilateral external fixation as part of damage control.
 
 ## Complications
 
-Nonunion and Delayed Union
+
+## Nonunion and Delayed Union
+
 The nonunion rate after femoral shaft intramedullary nailing is approximately 1 to 5
 percent, with risk factors including open fractures, segmental fractures, smoking, NSAIDs,
 and inadequate reduction with significant fracture gap. Treatment is by exchange nailing
@@ -277,7 +295,9 @@ and inadequate reduction with significant fracture gap. Treatment is by exchange
 nail), which produces union in 70 to 90 percent of cases. Plate augmentation (addition of
 a compression plate to the existing nail) is an alternative for selected nonunions. Bone
 grafting may be added in atrophic nonunions.
-Malunion
+
+## Malunion
+
 Malunion can occur in any plane. Rotational malalignment is the most common and is
 best assessed by CT (rotational profile of the entire femur compared with the contralateral
 side). Rotational malreduction greater than 15 degrees produces functional impairment
@@ -285,7 +305,9 @@ and is treated by corrective osteotomy. Angular malalignment of more than 5 degr
 varus or valgus or more than 10 degrees of sagittal angulation is poorly tolerated and may
 also require correction. Shortening of more than 2 cm requires lengthening or
 contralateral shortening procedures.
-Infection
+
+## Infection
+
 Deep infection after femoral nailing is uncommon (1 to 2 percent in closed fractures, 3 to 7
 percent in open fractures) but is a serious complication. Treatment depends on the timing
 — early infection (within 4 to 6 weeks) may be managed with retention of hardware,
@@ -293,7 +315,9 @@ debridement, and antibiotics (the “DAIR” approach discussed in Topic Trauma-
 
 chronic infection requires removal of hardware, debridement, antibiotic spacer, prolonged
 antibiotic therapy, and definitive reconstruction.
-Other Complications
+
+## Other Complications
+
 Heterotopic ossification at the proximal entry site can occur, more commonly with
 piriformis entry; meticulous reaming debris removal and consideration of NSAIDs for
 prophylaxis can reduce incidence. Knee pain after retrograde nailing is reported in 10 to

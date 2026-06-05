@@ -131,7 +131,9 @@ patient with concerning examination findings.
 
 ## Operative Management of Knee Dislocation
 
-Timing of Surgery
+
+## Timing of Surgery
+
 The timing of definitive ligamentous reconstruction after knee dislocation has been an
 active area of debate. The principal approaches are:
 Acute reconstruction (within 3 weeks): Allows direct repair of avulsion injuries and
@@ -147,7 +149,9 @@ The contemporary trend in many centers is acute or early reconstruction for the
 multiligamentous knee dislocation, with simultaneous reconstruction of cruciate and
 collateral injuries through arthroscopic and open techniques. The single-stage approach
 reduces the total rehabilitation burden and provides early stability for graft incorporation.
-Surgical Approach
+
+## Surgical Approach
+
 The surgical approach typically combines arthroscopic cruciate reconstruction (ACL
 and/or PCL through standard anteromedial and anterolateral portals with reconstruction
 using bone-tendon-bone or hamstring autografts, or allograft) with open collateral repair
@@ -159,7 +163,9 @@ and the central role of PLC integrity in the success of cruciate reconstructions
 reconstruction techniques (such as the LaPrade technique with separate reconstruction
 of the LCL, popliteofibular ligament, and popliteus tendon using allograft) have produced
 the best contemporary outcomes.
-External Fixation Bridging
+
+## External Fixation Bridging
+
 For the patient with knee dislocation and severe soft-tissue compromise, vascular injury
 requiring repair, or polytrauma precluding immediate definitive ligamentous
 reconstruction, knee spanning external fixation may be applied as temporary
@@ -201,19 +207,25 @@ tendon-bone autograft (the historical gold standard), hamstring autograft (the m
 most common choice), and quadriceps tendon autograft (gaining popularity). Allograft
 is reserved for revision and multiligament cases. Outcomes are generally good in single-
 ligament ACL reconstruction, with 80 to 90 percent return to pre-injury activity level.
-Chronic PCL Deficiency
+
+## Chronic PCL Deficiency
+
 Chronic PCL deficiency is often better tolerated than chronic ACL deficiency, with many
 patients functioning well without reconstruction. Reconstruction is indicated for grade III
 injuries with persistent symptoms, multiligamentous injuries, and high-demand patients.
 Outcomes after isolated PCL reconstruction are less predictable than ACL reconstruction.
 
-Posterolateral Corner Deficiency
+
+## Posterolateral Corner Deficiency
+
 Untreated PLC injury produces varus and external rotation instability with poor functional
 outcomes, and is a recognized cause of ACL and PCL reconstruction failure when combined
 injuries are not addressed. Anatomical PLC reconstruction is the standard for grade III
 injuries.
 
-Recurrent Patellar Instability
+
+## Recurrent Patellar Instability
+
 Recurrent patellar instability after first dislocation depends on the underlying anatomical
 risk factors — patella alta (high-riding patella, measured by Insall-Salvati or Caton-
 Deschamps ratio), trochlear dysplasia (Dejour classification), increased TT-TG distance
@@ -234,7 +246,9 @@ sensitivity superior to MRI for some pathologies (loose bodies, articular cartil
 subtle meniscal tears). In the trauma setting, arthroscopy may be used as a diagnostic and
 therapeutic adjunct in tibial plateau fractures, in suspected internal derangement after
 acute injury, and in the workup of recurrent instability.
-Therapeutic Arthroscopy
+
+## Therapeutic Arthroscopy
+
 Therapeutic procedures performed arthroscopically include:
 Meniscal procedures: Partial meniscectomy (resection of the torn fragment with
 preservation of as much rim as possible), meniscal repair (suture repair of repairable tears
@@ -254,7 +268,9 @@ Synovectomy: Partial or total for inflammatory or pigmented villonodular synovit
 Ligament reconstruction: The cruciate ligament reconstructions are performed
 arthroscopically with portals on either side of the patellar tendon for instrument access
 and visualization.
-Portals and Approach
+
+## Portals and Approach
+
 The standard portals for diagnostic knee arthroscopy are the anterolateral portal (just
 lateral to the patellar tendon, at the level of the joint line) and anteromedial portal (just
 medial to the patellar tendon, established under direct vision through the lateral portal).

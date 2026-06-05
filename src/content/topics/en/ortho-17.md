@@ -22,7 +22,9 @@ Concise Orthopaedic Anatomy.
 
 ## Blount’s Disease (Tibia Vara)
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Blount’s disease — proximal tibia vara — is a developmental disorder of the medial portion
 of the proximal tibial physis producing progressive varus deformity, internal tibial torsion,
 and procurvatum of the proximal tibia. The condition was first described by Walter Putnam
@@ -38,7 +40,9 @@ adolescent form is strongly associated with obesity and is more common in Africa
 American adolescents. The condition is bilateral in approximately 60-80% of infantile cases
 and 50% of adolescent cases. Other reported associations include vitamin D deficiency,
 hypocalcemia, and certain dietary factors.
-Pathophysiology
+
+## Pathophysiology
+
 The fundamental pathological process is a focal growth retardation of the medial portion of
 the proximal tibial physis (with the medial side of the metaphysis and epiphysis also
 affected), while the lateral side continues to grow normally. Multiple theories have been
@@ -54,7 +58,9 @@ The progressive nature of the condition reflects a positive feedback loop: the v
 alignment increases medial compression, which further inhibits medial growth, which
 worsens the varus. Without intervention, severe deformity with associated growth-plate
 disturbance and ultimately bony bar formation can develop.
-Classification
+
+## Classification
+
 The Langenskiöld classification (1952), based on radiographic appearance of the medial
 proximal tibial epiphysis and metaphysis, recognizes six stages of increasing severity:
 Stage I: Medial metaphyseal beaking with no involvement of the epiphysis.
@@ -72,7 +78,9 @@ between (1) a line through the most prominent points of the proximal tibial meta
 and (2) a line perpendicular to the long axis of the tibial diaphysis. Angles less than 11°
 suggest physiological bowing; angles greater than 16° suggest Blount’s disease;
 intermediate angles (11-16°) are equivocal and require further evaluation and follow-up.
-Clinical Features
+
+## Clinical Features
+
 Infantile Blount’s disease typically presents in the toddler (age 2-4 years) with bowed legs
 that have not resolved with normal walking development. The varus is more severe than
 physiological bowing, often combined with an internal tibial torsion that produces the
@@ -85,7 +93,9 @@ Adolescent Blount’s disease presents with worsening genu varum in the adolesce
 typically in a markedly obese patient. The unilateral or asymmetric pattern, the persistent
 obesity-related risk factors, and the older age at presentation are characteristic.
 
-Differential Diagnosis
+
+## Differential Diagnosis
+
 The differential diagnosis is principally with physiological bowing, which is common in
 toddlers, typically bilateral and symmetric, peaks at 12-18 months of age, and resolves
 spontaneously by 2-3 years. The Drennan angle, the presence of unilateral or asymmetric
@@ -100,7 +110,9 @@ should be considered); focal fibrocartilaginous dysplasia (a localized fibrocart
 lesion at the proximal medial tibial metaphysis producing localized varus); and post-
 traumatic deformity from prior physeal injury or osteomyelitis.
 
-Treatment
+
+## Treatment
+
 The treatment of infantile Blount’s disease is graded by Langenskiöld stage and patient age.
 Stages I-II (mild disease in the young child): Bracing with a knee-ankle-foot orthosis
 (KAFO) is the standard initial treatment if the child is younger than 3 years and has
@@ -133,7 +145,9 @@ Frame or Ilizarov method, which has the advantage of avoiding overcorrection and
 addressing complex multiplanar deformity), hemiepiphysiodesis if substantial growth
 remains, and combined procedures with distal femoral correction if the femoral component
 is significant.
-Complications and Long-Term Outcomes
+
+## Complications and Long-Term Outcomes
+
 Complications of Blount’s disease and its treatment include: incomplete correction or
 recurrence of varus (relatively common, particularly with conservative treatment of
 advanced disease or with inadequate overcorrection at osteotomy); growth arrest of the
@@ -147,7 +161,9 @@ performed in conjunction).
 
 ## Madelung’s Deformity
 
-Definition and Epidemiology
+
+## Definition and Epidemiology
+
 Madelung’s deformity is a developmental disorder of the distal radial physis characterized
 by premature partial closure of the ulnar-volar portion of the physis, producing
 progressive deformity of the wrist with shortening of the radius, increased volar and ulnar
@@ -164,7 +180,9 @@ gene haploinsufficiency, which is also responsible for the more severe Langer me
 dysplasia in homozygous patients). A “pseudo-Madelung” deformity can also arise from
 trauma to the distal radial physis (post-traumatic Madelung-like deformity), from infection,
 or from tumor.
-Pathophysiology
+
+## Pathophysiology
+
 The underlying pathology is premature closure of the ulnar-volar quadrant of the distal
 radial physis, producing an asymmetric growth pattern in which the radial-dorsal portion
 of the physis continues to grow normally while the ulnar-volar portion does not. The
@@ -179,7 +197,9 @@ radial articular surface; dorsal subluxation of the ulnar head; pyramidal “wed
 carpus with the lunate at the apex; widening of the distal radioulnar joint with potential
 separation; and ultimately limitation of forearm rotation (particularly supination) and
 wrist motion.
-Clinical Features
+
+## Clinical Features
+
 Presentation is typically with progressive wrist deformity in late childhood or adolescence,
 pain (particularly with activity), limited supination, weakness, and cosmetic concerns.
 Examination reveals the characteristic wrist deformity with apparent ulnar prominence
@@ -187,7 +207,9 @@ Examination reveals the characteristic wrist deformity with apparent ulnar promi
 limited wrist motion. The deformity is sometimes confused with a healed distal radius
 fracture or with rheumatoid arthritis, both of which can produce similar superficial
 appearances.
-Imaging
+
+## Imaging
+
 The standard imaging assessment is bilateral PA and lateral wrist radiographs. The
 classical features include:
 (1) Increased radial inclination (increased ulnar slope of the distal radial articular
@@ -206,7 +228,9 @@ The Cook-Crisco classification grades severity by these radiographic parameters.
 occasionally useful to demonstrate the Vickers ligament and to assess the cartilaginous
 components of the deformity, particularly in younger patients.
 
-Treatment
+
+## Treatment
+
 Treatment is tailored to severity, age, and skeletal maturity.
 Asymptomatic mild deformity: Observation is appropriate, with periodic clinical and
 radiographic follow-up.
@@ -228,7 +252,9 @@ Severe deformity with established radioulnar joint disease: Sauve-Kapandji proce
 (arthrodesis of the distal radioulnar joint with creation of a pseudarthrosis of the ulnar
 shaft) preserves an “ulnar head” appearance while restoring forearm rotation, and has
 been used successfully in selected cases.
-Outcomes
+
+## Outcomes
+
 The outcomes of surgical correction of Madelung deformity are generally good, with
 substantial improvement in pain, function, and cosmesis in most patients. The long-term
 concerns include progressive distal radioulnar joint degeneration (which may require later
@@ -246,13 +272,17 @@ stature. Female patients are more severely affected than males. The orthopedic c
 addresses the Madelung deformity as described above and the associated lower-limb
 mesomelic shortening, which may require limb-lengthening procedures in selected cases.
 
-Langer Mesomelic Dysplasia
+
+## Langer Mesomelic Dysplasia
+
 Langer mesomelic dysplasia is the homozygous form of SHOX gene mutation, producing
 severe mesomelic short stature with hypoplastic ulnae and fibulae, severe Madelung
 deformity, and associated features. The condition is rare and requires individualized
 multidisciplinary management.
 
-Multiple Hereditary Exostoses
+
+## Multiple Hereditary Exostoses
+
 Multiple hereditary exostoses (discussed in detail in the chapter on benign bone tumors)
 can produce a Madelung-like wrist deformity from involvement of the distal radius and
 ulna by exostoses, with growth disturbance and characteristic forearm shortening and

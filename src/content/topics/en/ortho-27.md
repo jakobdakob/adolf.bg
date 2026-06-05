@@ -56,7 +56,9 @@ increasingly used in selected cases.
 
 ## Carpal Tunnel Syndrome
 
-Anatomy and Etiology
+
+## Anatomy and Etiology
+
 Carpal tunnel syndrome (CTS) is compression of the median nerve at the wrist beneath the
 transverse carpal ligament (flexor retinaculum). The condition is the commonest
 peripheral nerve compression syndrome, with a lifetime prevalence of approximately 10%.
@@ -69,7 +71,9 @@ Risk factors include female sex (3:1 ratio), age 40-60 years, pregnancy and lact
 diabetes mellitus, rheumatoid arthritis, thyroid disease, obesity, occupational repetitive
 hand use (controversial as an isolated risk factor), and various uncommon causes including
 amyloidosis (particularly in dialysis patients) and acromegaly.
-Clinical Features
+
+## Clinical Features
+
 The classical presentation is of intermittent paresthesia, numbness, and pain in the median
 nerve distribution of the hand (the palmar aspect of the thumb, index, middle, and radial
 half of the ring finger), typically worst at night and waking the patient from sleep. The
@@ -85,14 +89,18 @@ median nerve producing distal paresthesia in the nerve distribution); positive P
 compression test (sustained pressure over the volar wrist producing paresthesia); reduced
 two-point discrimination in the median nerve distribution (a later finding); thenar atrophy
 and reduced abductor pollicis brevis strength (advanced disease).
-Investigations
+
+## Investigations
+
 Electrodiagnostic studies are the gold-standard objective test, demonstrating slowed
 conduction velocity and prolonged latency across the carpal tunnel. Sensory studies are
 more sensitive than motor studies for early disease. Ultrasound demonstrates median
 nerve swelling proximal to the carpal tunnel (cross-sectional area >9-12 mm²) and is
 increasingly used as an alternative to electrodiagnostic studies.
 
-Treatment
+
+## Treatment
+
 Initial management is conservative: night-time wrist splinting in neutral position (which
 prevents the wrist flexion-extension that exacerbates symptoms); activity modification;
 oral or injected corticosteroids (with corticosteroid injection providing dramatic short-
@@ -169,7 +177,9 @@ symptoms — weakness of finger extension (with characteristic preserved wrist e
 because the ECRL is innervated proximal to the compression). The sensory distribution is
 unaffected because the superficial radial nerve is not involved. Treatment is principally
 surgical with release of the compression sites.
-Wartenberg Syndrome
+
+## Wartenberg Syndrome
+
 Wartenberg syndrome is compression of the superficial radial nerve as it emerges from
 beneath the brachioradialis, producing dorsoradial wrist pain and dysesthesia. Treatment
 
@@ -227,7 +237,9 @@ summarized briefly here for completeness:
 
 ## Lower-Limb Nerve Compression Syndromes
 
-Tarsal Tunnel Syndrome
+
+## Tarsal Tunnel Syndrome
+
 Tarsal tunnel syndrome is compression of the posterior tibial nerve (or its branches —
 medial and lateral plantar nerves) behind the medial malleolus in the tarsal tunnel. Causes
 include space-occupying lesions (ganglia, lipomas, varicose veins, accessory muscles),
@@ -244,7 +256,9 @@ pronation), NSAIDs, and corticosteroid injection. Surgical decompression is indi
 refractory cases or for clear mass lesions, with outcomes less reliable than for upper
 extremity compression releases.
 
-Common and Superficial Peroneal Nerve Compression
+
+## Common and Superficial Peroneal Nerve Compression
+
 The common peroneal nerve is vulnerable to compression at the fibular neck — by
 prolonged sitting with crossed legs, leg crossing during anesthesia, tight casts and
 dressings, ganglia, or direct trauma. Compression produces weakness of foot dorsiflexion
@@ -254,7 +268,9 @@ performed for refractory cases.
 The superficial peroneal nerve can be compressed as it pierces the deep fascia in the lateral
 leg, producing the “superficial peroneal nerve entrapment syndrome” with lateral leg and
 dorsal foot pain.
-Meralgia Paresthetica
+
+## Meralgia Paresthetica
+
 Meralgia paresthetica is compression of the lateral femoral cutaneous nerve (LFCN) as it
 passes beneath the inguinal ligament near the anterior superior iliac spine. Causes include
 obesity, tight clothing or belts, pregnancy, prior surgery in the area, and various other
@@ -264,7 +280,9 @@ factors. Presentation is with burning, tingling, and numbness over the anterolat
 Treatment is principally conservative with weight loss, avoidance of provoking activities,
 NSAIDs, and selective LFCN block or injection. Surgical decompression or neurectomy is
 reserved for severe refractory disease.
-Piriformis Syndrome
+
+## Piriformis Syndrome
+
 Piriformis syndrome is the compression of the sciatic nerve by the piriformis muscle in the
 deep gluteal region. The condition produces deep buttock pain with radiation down the
 posterior thigh, often mimicking lumbar radiculopathy. The diagnosis is challenging and
@@ -277,16 +295,22 @@ refractory cases.
 
 ## Compression in Specific Settings
 
-Compression by Casts and Splints
+
+## Compression by Casts and Splints
+
 Casts and splints can compress superficial nerves, with the lateral femoral cutaneous nerve,
 common peroneal nerve, and superficial radial nerve being particularly vulnerable. The
 prevention is careful padding over bony prominences and known nerve courses, with
 regular reassessment of cast tightness.
-Perioperative Positioning Injuries
+
+## Perioperative Positioning Injuries
+
 Brachial plexus, ulnar nerve, and common peroneal nerve injuries can occur from
 prolonged abnormal positioning during surgery. Prevention requires careful padding,
 avoidance of extreme positions, and regular intraoperative reassessment.
-Compartment Syndrome
+
+## Compartment Syndrome
+
 Compartment syndrome — increased pressure within a fascial compartment with
 secondary nerve compression — is discussed in the chapter on compartment syndrome.
 

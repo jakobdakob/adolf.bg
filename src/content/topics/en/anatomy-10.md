@@ -124,14 +124,18 @@ compartment is opened along its length. The anterior compartment is released thr
 the lateral aspect of the incision; the lateral compartment is released through the medial
 aspect. The superficial peroneal nerve crossing the operative field at the junction of the
 middle and distal thirds is identified and protected.
-Medial Incision
+
+## Medial Incision
+
 A longitudinal incision along the medial leg (approximately 2 cm posterior to the medial
 tibial border) provides access to the superficial and deep posterior compartments. The
 fascia of the superficial posterior compartment is opened. The soleus is detached from
 the medial tibia to provide access to the deep posterior compartment, and its fascia is
 opened. The saphenous vein and nerve along the medial leg are identified and protected.
 
-Post-Fasciotomy Management
+
+## Post-Fasciotomy Management
+
 The wounds are left open with sterile dressings (or VAC therapy), with delayed primary
 closure or skin grafting at 5 to 10 days as discussed in Topic Trauma-32.
 

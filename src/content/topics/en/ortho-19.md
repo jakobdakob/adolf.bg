@@ -59,7 +59,9 @@ renal function) for any SCFE patient given the prevalence of subclinical endocri
 
 ## Classification
 
-Temporal Classification
+
+## Temporal Classification
+
 The classical temporal classification recognizes three types based on the duration of
 symptoms:
 Acute SCFE: Symptoms present for less than 3 weeks. The patient typically presents with
@@ -74,7 +76,9 @@ Acute-on-chronic SCFE: A history of chronic symptoms of weeks to months, with a 
 worsening associated with acute mechanical event. This combination is particularly
 common and represents the chronic remodeling of the physis with superimposed acute
 additional displacement.
-Stability Classification (Loder)
+
+## Stability Classification (Loder)
+
 The Loder classification (1993), based on ability to weight-bear, has become the most
 important practical classification because it predicts the risk of avascular necrosis:
 Stable SCFE: The patient can bear weight on the affected limb, with or without crutches.
@@ -82,7 +86,9 @@ The risk of avascular necrosis (AVN) is approximately 5%.
 Unstable SCFE: The patient cannot bear weight on the affected limb even with crutches.
 The risk of avascular necrosis is approximately 50% — a tenfold increase over the stable
 form, and the most consequential single clinical finding for prognosis.
-Radiographic Severity Classification
+
+## Radiographic Severity Classification
+
 The Southwick classification (modified) grades the severity of the slip on the lateral
 radiograph by the head-shaft angle:
 Mild: Head-shaft angle less than 30° greater than the contralateral side.
@@ -144,7 +150,9 @@ rarely required for initial diagnosis.
 
 ## Treatment
 
-Principles
+
+## Principles
+
 The treatment of SCFE has several core principles: (1) immediate cessation of weight-
 bearing once SCFE is suspected, even before radiographs are obtained, to prevent further
 displacement; (2) prompt surgical fixation in all but the most minor cases, because non-
@@ -154,7 +162,9 @@ chondrolysis); (3) the goal of fixation is to stabilize the epiphysis in its cur
 position with minimal additional manipulation, since aggressive reduction maneuvers risk
 avascular necrosis; (4) recognition that bilateral involvement is common, with
 consideration of prophylactic contralateral fixation in selected high-risk patients.
-In Situ Fixation
+
+## In Situ Fixation
+
 In situ fixation with a single percutaneous cannulated screw is the standard treatment for
 stable SCFE of any severity. The principle is to fix the epiphysis to the metaphysis through
 the physis, achieving physeal closure and preventing further slip. The procedure is
@@ -168,7 +178,9 @@ some authors advocate two screws for severe slips or unstable disease, but singl
 fixation has the advantage of reduced complications and is well-supported by the
 literature.
 
-Reduction of Unstable SCFE
+
+## Reduction of Unstable SCFE
+
 The unstable SCFE presents a particular dilemma. Gentle positional reduction occurs
 spontaneously when the patient is positioned on the fracture table and the limb is
 internally rotated; this gentle reduction is generally accepted and does not significantly
@@ -185,7 +197,9 @@ reported lower rates of AVN in their series than conventional in situ fixation. 
 procedure is technically demanding and is currently used principally in specialist centers;
 the routine adoption awaits further validation by larger series.
 
-Prophylactic Contralateral Fixation
+
+## Prophylactic Contralateral Fixation
+
 The decision to fix the contralateral asymptomatic hip prophylactically remains debated.
 Arguments in favor include the 20-40% rate of bilateral involvement (often within 18-24
 months), the risk of missing a developing contralateral slip in asymptomatic patients, and
@@ -198,7 +212,9 @@ younger than typical (in whom more residual growth means more time for contralat
 slip), patients with previous evidence of contralateral physeal change on imaging, and
 patients in whom compliance with follow-up is uncertain. The Loder modified Oxford
 skeletal maturity score is one tool used to predict the residual risk.
-Severe Deformity Correction
+
+## Severe Deformity Correction
+
 Severe chronic SCFE with established deformity may require corrective osteotomy to
 address the persistent deformity. Three principal levels of osteotomy have been described,
 each with different risk-benefit profiles:
@@ -220,7 +236,9 @@ patient.
 
 ## Complications
 
-Avascular Necrosis (AVN)
+
+## Avascular Necrosis (AVN)
+
 Avascular necrosis is the most consequential complication of SCFE, with overall rates of
 approximately 5-10%. The risk is substantially higher in unstable SCFE (approximately
 50%), with aggressive reduction attempts, with subcapital osteotomy, and with delayed
@@ -231,7 +249,9 @@ pain, decreased range of motion, and characteristic radiographic changes of femo
 sclerosis, fragmentation, and collapse. Treatment options range from conservative
 management for mild disease to total hip arthroplasty for established collapse.
 
-Chondrolysis
+
+## Chondrolysis
+
 Chondrolysis — destruction of the articular cartilage of the hip with severe stiffness and
 pain — was historically a major complication of SCFE, with rates as high as 30% in some
 series. The pathogenesis is uncertain but is thought to involve a combination of mechanical
@@ -240,7 +260,9 @@ autoimmune factors, and possibly racial factors (chondrolysis was historically m
 common in African American patients). Modern attention to avoiding intra-articular screw
 penetration and the abandonment of spica casting have markedly reduced chondrolysis
 rates to approximately 1-7% in current series.
-Femoroacetabular Impingement
+
+## Femoroacetabular Impingement
+
 Femoroacetabular impingement (FAI) is now recognized as a near-universal late
 consequence of SCFE, even in adequately fixed disease. The displaced femoral head
 produces cam-type impingement against the acetabular rim with hip flexion and internal
@@ -248,7 +270,9 @@ rotation, producing pain, decreased range of motion, and progressive labral and 
 damage. Treatment options include arthroscopic or open femoral osteochondroplasty
 (Ganz surgical hip dislocation with femoral neck recontouring), which has become
 increasingly common in the management of post-SCFE FAI.
-Other Complications
+
+## Other Complications
+
 Other recognized complications include progressive slip after fixation (rare with adequate
 single-screw fixation), nonunion of the physis (uncommon), implant-related problems, leg-
 length discrepancy, and post-SCFE arthritis in adulthood. The long-term outcome of SCFE is

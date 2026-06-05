@@ -23,7 +23,9 @@ and substantially less effective than bone healing — is addressed at the end o
 
 Two principal mechanisms of bone healing are recognized, and the choice between them
 depends on the mechanical environment of the fracture site.
-Indirect (Secondary) Bone Healing
+
+## Indirect (Secondary) Bone Healing
+
 Indirect bone healing — also called secondary bone healing or healing with callus — is the
 natural mechanism of healing under conditions of relative stability (some motion at the
 fracture site but not so much as to disrupt the healing tissue). This is the mechanism of
@@ -59,7 +61,9 @@ progressively replaced by organized lamellar bone through coupled osteoclast-ost
 activity. The bone is remodeled according to Wolff’s law, with bone deposited where
 mechanical demands are highest and resorbed where demands are low. Over months to
 years, the original bony anatomy is restored.
-Direct (Primary) Bone Healing
+
+## Direct (Primary) Bone Healing
+
 Direct bone healing — also called primary or contact healing — is the mechanism of
 healing under conditions of absolute stability (no motion at the fracture site) and direct
 contact between bone fragments. This mechanism requires rigid fixation as provided by
@@ -124,7 +128,9 @@ in promoting bone formation.
 
 ## Factors Influencing Fracture Healing
 
-Local Factors
+
+## Local Factors
+
 Mechanical environment: The single most important local factor. Absolute stability
 promotes direct healing without callus; relative stability with controlled interfragmentary
 motion promotes callus healing; excessive motion produces non-union; absolute rigidity at
@@ -146,7 +152,9 @@ Implant choice and technique: The choice of implant (intramedullary nail, plate,
 fixator) and the surgical technique determine the mechanical environment and the surgical
 disruption of the local vascular supply.
 
-Systemic Factors
+
+## Systemic Factors
+
 Age: Children heal substantially faster than adults; elderly patients heal more slowly than
 younger adults.
 Nutritional status: Malnutrition (low albumin, low transferrin) impairs healing.

@@ -58,7 +58,9 @@ the ulnar collateral ligament.
 The forearm has two principal compartments — the volar (flexor-pronator) and dorsal
 (extensor-supinator) — with the mobile wad of Henry (brachioradialis, ECRL, ECRB)
 sometimes considered a separate compartment.
-Volar (Flexor) Compartment
+
+## Volar (Flexor) Compartment
+
 The volar compartment is organized in three layers:
 Superficial layer: From radial to ulnar — pronator teres, flexor carpi radialis (FCR),
 palmaris longus (PL, absent in approximately 14 percent of population), flexor carpi
@@ -76,7 +78,9 @@ the midline; the anterior interosseous nerve (AIN) is a deep branch running alon
 interosseous membrane. The ulnar nerve runs ulnar to the FDP, deep to the FCU. The
 radial artery runs along the radial side, deep to the brachioradialis. The ulnar artery runs
 along the ulnar side, deep to the FCU.
-Dorsal (Extensor) Compartment
+
+## Dorsal (Extensor) Compartment
+
 The dorsal compartment is organized into:
 Superficial layer: From radial to ulnar — extensor digitorum communis (EDC),
 extensor digiti minimi (EDM), extensor carpi ulnaris (ECU). These muscles originate
@@ -88,7 +92,9 @@ The posterior interosseous nerve (PIN) passes through the supinator (via the arc
 Frohse) and runs along the posterior surface of the interosseous membrane, supplying the
 dorsal compartment muscles. The posterior interosseous artery runs with the nerve.
 
-Mobile Wad of Henry
+
+## Mobile Wad of Henry
+
 The mobile wad consists of the brachioradialis, extensor carpi radialis longus (ECRL),
 and extensor carpi radialis brevis (ECRB) — three muscles on the radial side of the
 forearm that can be palpated and mobilized as a single unit. The brachioradialis is
@@ -97,7 +103,9 @@ innervated by the radial nerve or the posterior interosseous nerve.
 
 ## Neurovascular Anatomy
 
-Radial Nerve and Its Branches
+
+## Radial Nerve and Its Branches
+
 The radial nerve enters the forearm anterior to the lateral epicondyle, between the
 brachialis (medial) and brachioradialis (lateral), and divides at the level of the radial head
 into:
@@ -115,7 +123,9 @@ Henry approach and the dorsal Thompson approach), with forearm supination during
 dissection moving the nerve away from the operative field at the radial neck (anterior
 approach) or forearm pronation displacing it away in the dorsal approach.
 
-Median Nerve and AIN
+
+## Median Nerve and AIN
+
 The median nerve enters the forearm between the two heads of the pronator teres
 (where it may be compressed in pronator syndrome), then runs deep to the FDS arch,
 then between FDS (superficial) and FDP (deep) in the midline of the forearm. At the wrist,
@@ -125,14 +135,18 @@ to 8 cm distal to the medial epicondyle and runs along the volar surface of the 
 membrane, supplying the FPL, the radial half of the FDP (to the index and middle fingers),
 and the pronator quadratus. The AIN is purely motor (no sensory component); AIN palsy is
 recognized by inability to perform the “OK” sign (loss of FPL and FDP to index).
-Ulnar Nerve
+
+## Ulnar Nerve
+
 The ulnar nerve enters the forearm through the cubital tunnel between the two heads of
 the FCU. It runs deep to the FCU, ulnar to the FDP, supplying both these muscles and giving
 
 off a dorsal sensory branch at the junction of the middle and distal thirds (which supplies
 the dorsoulnar wrist and the dorsum of the ulnar one and a half digits). The main ulnar
 nerve continues into the Guyon canal at the wrist.
-Brachial Artery Branches
+
+## Brachial Artery Branches
+
 The brachial artery bifurcates at the level of the radial neck into:
 Radial artery: Runs along the radial side of the forearm, deep to the brachioradialis. The
 artery is the principal vessel encountered in the Henry approach.
@@ -148,18 +162,24 @@ the dorsal surface).
 The Henry approach is the classical volar approach to the radius, providing access for
 plate fixation of radial shaft fractures, biopsy of the radius, exposure of the radial
 artery, and anterior approach to forearm tumors.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table, forearm fully supinated. The
 full supination is the critical positioning element — it brings the entire radial shaft into the
 operative field and protects the PIN by displacing it medially (away from the radial neck,
 which is the most dangerous region for PIN injury).
 
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The biceps tendon proximally, the mid-volar forearm in the middle, and the radial
 styloid distally mark the line of the incision. The skin incision can extend from the bicipital
 flexion crease distally over the radial side of the volar forearm to the radial styloid, with the
 length determined by the desired exposure.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised, with attention to superficial branches of
 the radial nerve (which become subcutaneous at the junction of the middle and distal
 thirds and run along the radial border of the distal forearm).
@@ -176,7 +196,9 @@ pronator teres insertion on the radius is identified and detached from its inser
 distal third, the pronator quadratus is identified and reflected from the radius.
 The radius is then exposed subperiosteally, and the desired procedure (plate fixation,
 biopsy, etc.) is performed.
-Complications
+
+## Complications
+
 The complications of the Henry approach include PIN injury (the principal concern;
 minimized by forearm supination and careful subperiosteal elevation of the supinator),
 superficial radial nerve injury (with painful neuroma if branches are damaged), radial
@@ -189,16 +211,22 @@ The Thompson approach provides dorsal access to the radius, used for plate fixat
 proximal-third radial fractures (where the volar Henry approach risks the PIN),
 exposure of the proximal radius in selected pathologies, and dorsal approach to
 forearm tumors.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table, forearm pronated. The
 pronation displaces the PIN to the radial side, away from the operative field (the opposite
 of supination, which is used in the Henry approach to displace the PIN to the medial side).
 
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The lateral epicondyle proximally and the Lister’s tubercle distally mark the line of the
 incision. The skin incision extends along the dorsoradial aspect of the forearm.
 
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The interval between extensor carpi
 radialis brevis (ECRB) (radial side, supplied by the radial nerve) and extensor digitorum
 communis (EDC) (ulnar side, supplied by the PIN) is identified — this is the internervous
@@ -211,7 +239,9 @@ and protected.
 For approach to the radial shaft, the supinator is incised over the radial neck (with the
 forearm pronated to displace the PIN laterally) and the supinator is reflected, exposing the
 proximal radius. Subperiosteal dissection then exposes the radial shaft.
-Complications
+
+## Complications
+
 The complications of the Thompson approach include PIN injury (the principal concern;
 particular risk in the supinator dissection), superficial radial nerve injury, and stiffness
 of the elbow if the approach is extensive.
@@ -220,13 +250,19 @@ of the elbow if the approach is extensive.
 
 The direct ulnar approach uses the subcutaneous border of the ulna, providing direct
 access to the bone without the need for an intermuscular plane.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the affected arm on a hand table, forearm in neutral rotation or
 slight supination.
-Surface Landmarks and Incision
+
+## Surface Landmarks and Incision
+
 The subcutaneous border of the ulna is palpable from the olecranon to the ulnar styloid.
 The skin incision is made directly over this subcutaneous border for the desired length.
-Approach
+
+## Approach
+
 The skin and subcutaneous tissue are incised. The fascia is opened directly over the
 subcutaneous border. The flexor carpi ulnaris (FCU) is reflected ulnarly (along with the
 ulnar nerve, which is protected throughout); the extensor carpi ulnaris (ECU) is reflected

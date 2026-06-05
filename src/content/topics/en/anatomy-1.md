@@ -63,7 +63,9 @@ by Cloward and others — is the workhorse approach to the anterior cervical spi
 anterior cervical discectomy and fusion (ACDF), corpectomy, anterior cervical
 plating, and tumor or infection access.
 
-Patient Positioning
+
+## Patient Positioning
+
 The patient is supine with the head extended (often supported by a roll under the
 shoulders), with the head taped or pinned in a stable position. The arms are tucked at the
 sides, with shoulders depressed by traction tape (allowing fluoroscopic visualization of the
@@ -72,7 +74,9 @@ lower cervical levels). The neck is generally turned slightly away from the side
 of the right recurrent laryngeal nerve, with the left-sided approach advocated by some
 because of the more vertical and consistent course of the left recurrent laryngeal nerve —
 the choice is largely surgeon preference).
-Surgical Anatomy
+
+## Surgical Anatomy
+
 The key structures encountered include:
 Skin and platysma muscle: The transverse skin incision is centered on the desired level
 (using surface landmarks: hyoid bone at C3, thyroid cartilage at C4-C5, cricoid cartilage at
@@ -95,7 +99,9 @@ Sympathetic chain: Lateral to the longus colli muscles, vulnerable to injury dur
 lateral dissection. Injury produces Horner’s syndrome (miosis, ptosis, anhidrosis).
 Longus colli muscles: Bilateral muscles overlying the anterior cervical vertebral bodies;
 subperiosteal elevation provides access to the bone.
-Approach Technique
+
+## Approach Technique
+
 The incision is transverse along a skin crease at the appropriate level (or longitudinal
 along the medial border of the SCM for multilevel approaches). The platysma is divided in
 line with the skin incision. The deep cervical fascia is opened along the medial border of the
@@ -110,7 +116,9 @@ T1, with the lower levels (C6-T1) requiring careful retraction and the upper lev
 requiring extension of the dissection upward. The C1-C2 region typically requires a
 different approach (transoral, retropharyngeal, or posterior).
 
-Complications
+
+## Complications
+
 The complications of the anterior cervical approach include recurrent laryngeal nerve
 injury (1 to 3 percent in most series), esophageal perforation (rare but serious),
 vascular injury (carotid artery or vertebral artery — the latter at risk in lateral
@@ -124,7 +132,9 @@ arthrodesis).
 The posterior cervical approach provides access to the posterior elements of the cervical
 spine for laminectomy, laminoplasty, posterior cervical fusion, foraminotomy, and
 tumor or infection access.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is prone, with the head supported in a Mayfield head holder or horseshoe;
 pin fixation provides the most stable positioning for complex procedures. The neck is
 flexed slightly to open the posterior elements (“military tuck” position), with attention to
@@ -132,7 +142,9 @@ avoiding excessive flexion that could compromise spinal cord perfusion. The shou
 
 pulled caudally with tape to allow fluoroscopic imaging of the lower cervical levels. Reverse
 Trendelenburg position reduces venous engorgement and bleeding.
-Surgical Anatomy
+
+## Surgical Anatomy
+
 The midline structures encountered include:
 Skin and subcutaneous tissue in the midline.
 Ligamentum nuchae: The fibrous septum in the midline that should be split rather than
@@ -148,13 +160,17 @@ nerve roots.
 Facet joints: Lateral to the laminae; specific identification is important for fusion
 procedures.
 
-Approach Technique
+
+## Approach Technique
+
 A midline longitudinal incision is made over the spinous processes at the desired levels.
 The ligamentum nuchae is split in the midline, and subperiosteal elevation of the
 paraspinal muscles from the spinous processes and laminae is performed bilaterally. The
 dissection is carried laterally to the lateral border of the facet joints when needed (for facet
 joint fusion or screw placement). Self-retaining retractors maintain the exposure.
-Specific Procedures
+
+## Specific Procedures
+
 Cervical laminectomy: Removal of the lamina to decompress the spinal cord. Modern
 technique uses bilateral troughs (at the junction of the lamina and facet) created with high-
 speed burr, with the lamina removed as a unit. Laminoplasty preserves the lamina by
@@ -169,7 +185,9 @@ and C2 pars or pedicle screws form the basis of C1-C2 fusion constructs.
 Foraminotomy: Decompression of the cervical nerve root by opening the medial wall of
 the facet joint and the lateral aspect of the disc space, with attention to preserving at least
 50 percent of the facet to maintain stability.
-Complications
+
+## Complications
+
 The complications of the posterior cervical approach include vertebral artery injury
 (catastrophic if it occurs; prevention by precise screw placement is essential), nerve root
 injury (particularly C5 palsy after multilevel decompression, occurring in 5 to 10 percent
@@ -182,18 +200,24 @@ laminectomy without fusion).
 The cervicothoracic junction (C7-T2) is a challenging region for surgical access because
 of the transition from the cervical to thoracic anatomy and the presence of the thoracic
 outlet with its vascular and neural structures.
-Low Anterior Cervical Approach
+
+## Low Anterior Cervical Approach
+
 For C7-T1, the standard Smith-Robinson approach can often be extended caudally with
 careful retraction. The shoulders pulled caudally with traction tape allows fluoroscopic
 visualization; the right-sided approach may be preferred to avoid the thoracic duct
 (which empties into the left subclavian vein at this level).
-Manubriotomy or Sternotomy Approach
+
+## Manubriotomy or Sternotomy Approach
+
 For more caudal access (T1-T3), a manubriotomy (partial division of the manubrium) or
 sternotomy (full sternal split) provides extended access. The manubriotomy preserves the
 sternal body and allows access to the cervicothoracic junction without entry into the chest.
 The brachiocephalic vein, brachiocephalic artery, and left common carotid and left
 subclavian arteries must be carefully retracted.
-Trans-clavicular Approach
+
+## Trans-clavicular Approach
+
 The trans-clavicular approach (with mobilization or resection of a portion of the clavicle)
 provides extended lateral access to the cervicothoracic junction; it is used less commonly
 than the manubriotomy approach.
@@ -202,7 +226,9 @@ than the manubriotomy approach.
 
 The anterior thoracic spine is accessed primarily for vertebral body pathology
 (fractures with anterior column involvement, tumors, infection, severe deformity).
-Thoracotomy
+
+## Thoracotomy
+
 The classical thoracotomy approach to the thoracic spine uses a lateral position with the
 convex side of the deformity (or the side of pathology) up. The skin incision parallels a rib
 
@@ -223,12 +249,16 @@ concern with the muscle-splitting approach; muscle-sparing thoracotomy has been
 developed to reduce this), pleural effusion (managed with chest drain), pneumonia and
 atelectasis, chylothorax (with thoracic duct injury at the upper levels), and intercostal
 nerve injury (with persistent pain).
-Thoracoabdominal Approach
+
+## Thoracoabdominal Approach
+
 For the thoracolumbar junction (T11-L2), a combined thoracoabdominal approach
 with takedown of the diaphragm provides access. The diaphragm is divided around its
 periphery (preserving as much functional muscle as possible) to allow continuous
 exposure from the chest to the retroperitoneum.
-Video-Assisted Thoracoscopic Surgery (VATS)
+
+## Video-Assisted Thoracoscopic Surgery (VATS)
+
 Video-assisted thoracoscopic surgery (VATS) uses small thoracoscopic ports rather
 than thoracotomy for selected indications, with reduced postoperative pain and recovery
 time. Applications include anterior release for scoliosis, disc removal, and selected anterior
@@ -240,7 +270,9 @@ its technical demands and limited reach for fusion procedures.
 The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF),
 corpectomy, tumor or infection, and motion preservation procedures (artificial disc).
 
-Anterior Retroperitoneal Approach
+
+## Anterior Retroperitoneal Approach
+
 The standard approach to the L4-L5 and L5-S1 levels uses a transverse or oblique flank
 incision with retraction of the abdominal contents anteriorly and entry into the
 retroperitoneum without traversing the peritoneal cavity. The left-sided approach is
@@ -263,13 +295,17 @@ recognized complication).
 Common iliac vessels identified and retracted; the bifurcation typically lies at L4-L5, with
 the L5-S1 disc lying below the bifurcation.
 Anterior longitudinal ligament identified over the disc space and incised.
-L5-S1 Approach
+
+## L5-S1 Approach
+
 For the L5-S1 disc, the anterior approach proceeds below the iliac vessel bifurcation. The
 median sacral vessels and the superior hypogastric plexus (with its parasympathetic
 branches important for sexual function) must be carefully preserved. The mid-line
 approach with division of the anterior longitudinal ligament directly over the L5-S1 disc
 provides access.
-Mini-Open and Minimally Invasive Variants
+
+## Mini-Open and Minimally Invasive Variants
+
 Lateral retroperitoneal approaches (XLIF, LLIF, DLIF) provide minimally invasive
 access to the L1-L5 disc spaces through a transpsoas approach. The patient is positioned in
 true lateral decubitus, and a small lateral incision is made over the appropriate level. Blunt
@@ -279,7 +315,9 @@ disc space is accessed laterally, with placement of a large interbody cage. The 
 limited to L1-L4-5 (the iliac crest blocks access to L5-S1), and has substantial advantages
 of reduced morbidity but the specific concern of lumbar plexus injury (the L4 nerve root
 in particular is at risk in the lower lumbar levels).
-Complications of Anterior Lumbar Approaches
+
+## Complications of Anterior Lumbar Approaches
+
 The complications of anterior lumbar approaches include vascular injury (the most feared
 complication, with potential for catastrophic bleeding; the left common iliac vein is at
 greatest risk during L4-L5 exposure), ureteral injury (rare but described), retrograde
@@ -293,12 +331,16 @@ related to fusion biomechanics).
 The posterior lumbar approach is the workhorse approach for lumbar discectomy,
 laminectomy, lumbar fusion (PLIF, TLIF, posterolateral fusion), pedicle screw
 instrumentation, tumor or infection access, and most other lumbar procedures.
-Patient Positioning
+
+## Patient Positioning
+
 The patient is prone, with the abdomen free (using a Jackson table or Wilson frame to
 allow the abdomen to hang free, reducing epidural venous engorgement and intraoperative
 bleeding). The arms are typically positioned with the shoulders abducted and elbows
 flexed less than 90 degrees to avoid brachial plexus injury.
-Surgical Anatomy
+
+## Surgical Anatomy
+
 The midline structures include:
 Skin and subcutaneous tissue in the midline.
 Thoracolumbar fascia: The thick fascial layer overlying the paraspinal muscles, opened in
@@ -313,7 +355,9 @@ The bony structures of the posterior lumbar spine.
 Pedicles: Anterior to the lamina, accessed through the entry points at the junction of the
 transverse process, lamina, and superior articular facet (the Roy-Camille point, modified by
 others).
-Approach Technique
+
+## Approach Technique
+
 A midline longitudinal incision is made over the appropriate spinous processes. The
 thoracolumbar fascia is opened in the midline. Subperiosteal elevation of the paraspinal
 muscles from the spinous processes, laminae, and facets is performed bilaterally. The
@@ -321,7 +365,9 @@ dissection is carried laterally to expose the bone needed for the procedure (oft
 lateral margin of the transverse processes for pedicle screw instrumentation and
 posterolateral fusion). Self-retaining retractors maintain exposure.
 
-Specific Procedures
+
+## Specific Procedures
+
 Discectomy and microdiscectomy: A small midline incision and limited laminotomy at
 the level of the disc herniation provides access for removal of the herniated fragment. The
 technique can be performed through tubular retractors for minimally invasive
@@ -336,14 +382,18 @@ pedicle screw instrumentation (screws into the pedicles connected by rods, provi
 rigid stabilization).
 Foraminotomy for nerve root decompression by enlarging the neural foramen.
 
-Wiltse Approach
+
+## Wiltse Approach
+
 The Wiltse paramedian intermuscular approach (Wiltse et al., 1968) develops the
 natural plane between the multifidus and longissimus muscles, providing direct access to
 the pars interarticularis, transverse process, and facet joints without midline disruption.
 The approach is used for pars repair, posterolateral fusion, pedicle screw placement,
 and lateral foraminotomy. The advantage is preservation of the midline structures and
 the multifidus muscle, with reduced postoperative pain.
-Complications
+
+## Complications
+
 The complications of posterior lumbar approaches include dural tear with CSF leak (3 to
 10 percent in routine procedures, higher in revision surgery), nerve root injury, infection
 (1 to 3 percent in primary procedures), epidural hematoma, pseudarthrosis (failure of

@@ -25,7 +25,9 @@ management.
 
 ## Rheumatoid Arthritis (RA)
 
-Epidemiology and Pathogenesis
+
+## Epidemiology and Pathogenesis
+
 Rheumatoid arthritis is a chronic systemic autoimmune disease characterized by
 symmetric inflammatory arthritis of small and large joints, with extra-articular
 manifestations affecting multiple organ systems. The prevalence is approximately 0.5-1%
@@ -42,7 +44,9 @@ the enzyme PAD4), persistent activation of T cells, recruitment and proliferatio
 synovial fibroblasts and macrophages, and production of inflammatory cytokines (TNF-α,
 IL-6, IL-1, others) that drive synovial hyperplasia, pannus formation, and progressive
 destruction of cartilage and bone.
-Clinical Features
+
+## Clinical Features
+
 The classical presentation is of insidious onset of symmetric small-joint pain and stiffness,
 most prominently in the hands (metacarpophalangeal and proximal interphalangeal joints,
 with sparing of the distal interphalangeal joints), feet (metatarsophalangeal joints), and
@@ -61,7 +65,9 @@ erosion of the transverse ligament of the atlas), basilar invagination (cranial 
 subaxial subluxations. Extra-articular manifestations include rheumatoid nodules,
 vasculitis, pleural and pulmonary disease, pericarditis, Felty’s syndrome (the triad of RA,
 splenomegaly, and neutropenia), keratoconjunctivitis sicca, episcleritis, and amyloidosis.
-Diagnosis
+
+## Diagnosis
+
 The 2010 ACR/EULAR classification criteria for RA assess: joint involvement (number and
 type of involved joints — small joints carry more weight than large joints, with more
 involved joints carrying more points); serology (rheumatoid factor and anti-CCP antibody,
@@ -69,7 +75,9 @@ with both negative scoring 0, either weakly positive scoring 2, either strongly 
 scoring 3); acute-phase reactants (CRP, ESR); and symptom duration (≥6 weeks). A score of
 6/10 or higher establishes the diagnosis of RA in a patient with at least one joint with
 definite clinical synovitis.
-Imaging
+
+## Imaging
+
 Plain radiographs in early RA may show only soft-tissue swelling and periarticular
 osteopenia. As the disease progresses, characteristic changes appear: marginal erosions (at
 the sites of synovial attachment, “bare areas” of bone not covered by articular cartilage);
@@ -85,7 +93,9 @@ radiographs to identify atlantoaxial subluxation (the atlas-dens interval — AD
 be <3 mm in adults; >9 mm indicates significant instability with risk of cord compression);
 CT for bony assessment; MRI for cord assessment in patients with neurological symptoms
 or with instability on plain radiographs.
-Medical Treatment
+
+## Medical Treatment
+
 The medical treatment of RA has been transformed over the past three decades by the
 introduction of methotrexate as a foundational disease-modifying antirheumatic drug
 
@@ -108,7 +118,9 @@ The orthopedic surgeon must be familiar with the perioperative management of the
 agents, with the current consensus being to hold most biological therapies for 1-2 dosing
 intervals before surgery to reduce infection risk, while continuing methotrexate through
 surgery in most cases.
-Surgical Treatment of RA Joints
+
+## Surgical Treatment of RA Joints
+
 The principal surgical procedures for the RA joints include:
 Synovectomy: Performed open or arthroscopically for joints with refractory active
 synovitis without significant cartilage destruction. The procedure is now less commonly
@@ -144,7 +156,9 @@ The seronegative spondyloarthropathies are a group of inflammatory joint disease
 characterized by sacroiliitis and axial inflammation, asymmetric peripheral arthritis (often
 of the lower extremities), enthesitis (inflammation at the sites of tendon and ligament
 attachment to bone), absence of rheumatoid factor, and association with the HLA-B27 gene.
-Ankylosing Spondylitis (AS)
+
+## Ankylosing Spondylitis (AS)
+
 Ankylosing spondylitis is the prototype of the seronegative spondyloarthropathies,
 characterized by chronic inflammation of the axial skeleton (sacroiliac joints, spine, hip
 joints) with progressive ankylosis. The condition affects approximately 0.1-0.5% of the
@@ -175,7 +189,9 @@ advanced AS may require corrective spinal osteotomy (pedicle subtraction osteoto
 the standard) to restore sagittal balance and forward-looking gaze; total hip arthroplasty
 for hip involvement is technically more demanding than in primary OA because of the
 ankylosis and altered hip mechanics, but produces good functional outcomes.
-Psoriatic Arthritis
+
+## Psoriatic Arthritis
+
 Psoriatic arthritis is the inflammatory arthropathy associated with psoriasis. Patterns of
 joint involvement include: asymmetric oligoarthritis (most common); symmetric
 polyarthritis (resembling RA); distal interphalangeal-predominant disease (the
@@ -185,7 +201,9 @@ syndesmophytes in contrast to the symmetric pattern of AS); and arthritis mutila
 destructive joint disease with “telescoping” digits). Treatment is similar to RA but with
 attention to the skin disease, with TNF-α inhibitors, IL-17 inhibitors, IL-12/23 inhibitors,
 and JAK inhibitors having particular roles.
-Reactive Arthritis
+
+## Reactive Arthritis
+
 Reactive arthritis is an acute inflammatory arthritis arising after gastrointestinal or
 genitourinary infection (classically Chlamydia trachomatis, Salmonella, Shigella,
 Campylobacter, Yersinia). The “Reiter triad” of arthritis, urethritis, and conjunctivitis is the
@@ -193,7 +211,9 @@ classical presentation but is often incomplete. The arthritis is typically an as
 oligoarthritis of the lower extremities, with associated enthesitis, dactylitis, and sometimes
 sacroiliitis. Most cases resolve over weeks to months with NSAID treatment; chronic cases
 require DMARD therapy.
-Inflammatory Bowel Disease-Associated Arthritis
+
+## Inflammatory Bowel Disease-Associated Arthritis
+
 Inflammatory bowel disease (ulcerative colitis and Crohn’s disease) is associated with
 peripheral arthritis (typically migratory and following the activity of the bowel disease)
 and axial arthritis (sacroiliitis and spondylitis indistinguishable from primary AS).
@@ -202,7 +222,9 @@ appropriate to the joint pattern.
 
 ## Crystal Arthropathies
 
-Gout
+
+## Gout
+
 Gout is an inflammatory arthropathy caused by deposition of monosodium urate crystals in
 joints and periarticular tissues. The condition affects approximately 1-3% of adults in
 developed countries, with male predominance and increasing prevalence with age,
@@ -231,7 +253,9 @@ inhibitor); probenecid (a uricosuric agent, less commonly used); and pegloticase
 recombinant uricase enzyme, used for refractory disease). The target serum urate level
 during chronic therapy is <6 mg/dL (360 μmol/L) for most patients and <5 mg/dL for
 those with tophi or recurrent attacks.
-Calcium Pyrophosphate Deposition Disease (Pseudogout)
+
+## Calcium Pyrophosphate Deposition Disease (Pseudogout)
+
 Pseudogout — calcium pyrophosphate deposition (CPPD) disease — is the crystal
 arthropathy caused by deposition of calcium pyrophosphate dihydrate crystals in joints.
 The acute attack of pseudogout closely resembles acute gout but typically affects the knee
@@ -269,7 +293,9 @@ and the soft-tissue contractures.
 
 ## Other Arthropathies
 
-Systemic Lupus Erythematosus (SLE)
+
+## Systemic Lupus Erythematosus (SLE)
+
 SLE produces a polyarthritis that resembles RA but with less destructive disease in most
 cases. The classical “Jaccoud arthropathy” of SLE produces hand deformities similar to RA
 (MCP subluxation, ulnar deviation) without underlying bony erosion — these are “soft”
@@ -277,7 +303,9 @@ reducible deformities. The principal orthopedic concerns are: avascular necrosis
 multiple joints (particularly the femoral and humeral heads), often in association with
 corticosteroid therapy; antiphospholipid antibody syndrome with thrombotic
 complications; and perioperative management of immunosuppression.
-Hemophilic Arthropathy
+
+## Hemophilic Arthropathy
+
 Hemophilic arthropathy results from repeated hemarthroses in patients with hemophilia A
 (factor VIII deficiency) or B (factor IX deficiency). Recurrent hemarthroses produce
 synovial proliferation, cartilage destruction, and joint deformity. The knee, ankle, and
@@ -285,7 +313,9 @@ elbow are most commonly affected. Modern factor replacement therapy has substant
 reduced the severity of hemophilic arthropathy, with prophylactic factor administration
 largely preventing recurrent hemarthroses. Orthopedic surgery in hemophilia requires
 careful perioperative coordination with hematology for factor replacement.
-Synovial Chondromatosis
+
+## Synovial Chondromatosis
+
 Synovial chondromatosis is a metaplastic proliferation of cartilaginous and osseous loose
 bodies within a joint. The condition typically affects the knee, hip, or elbow, presents with
 mechanical symptoms and progressive arthritis, and is treated by arthroscopic or open

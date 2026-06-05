@@ -159,7 +159,9 @@ younger and bone-stock-preserved patient.
 
 ## Operative Techniques
 
-Open Reduction and Internal Fixation
+
+## Open Reduction and Internal Fixation
+
 The standard technique is anatomical locking plate fixation through a deltopectoral
 approach. Modern proximal humerus locking plates (e.g., PHILOS, S3) have multiple
 converging locking screws into the humeral head plus shaft fixation; the fixed-angle
@@ -182,7 +184,9 @@ Tension-band wiring, percutaneous K-wire fixation, and minimally invasive plate
 osteosynthesis (MIPO) have niche roles for selected fracture patterns, particularly in
 younger patients with good bone quality and minimal comminution.
 
-Hemiarthroplasty
+
+## Hemiarthroplasty
+
 Hemiarthroplasty — replacement of the humeral head with a prosthesis while leaving the
 native glenoid — was historically the operation of choice for four-part fractures, head-
 splitting fractures, and anatomical neck fractures in the older patient. The operation
@@ -193,7 +197,9 @@ principal determinant of functional success is tuberosity healing in anatomical 
 which is unreliable, with tuberosity displacement and resorption producing the principal
 sources of failure. Hemiarthroplasty has been largely supplanted by reverse arthroplasty
 for the elderly patient with rotator cuff concerns.
-Reverse Total Shoulder Arthroplasty
+
+## Reverse Total Shoulder Arthroplasty
+
 Reverse total shoulder arthroplasty (RTSA) — with the spherical component on the
 glenoid and the concave socket on the humerus, reversing the native anatomy — has
 revolutionized the management of displaced proximal humerus fractures in the elderly.
@@ -215,7 +221,9 @@ and intact rotator cuff in whom RTSA is to be avoided because of longevity conce
 
 ## Specific Fracture Patterns
 
-Greater Tuberosity Fractures
+
+## Greater Tuberosity Fractures
+
 Isolated greater tuberosity fractures, frequently associated with anterior glenohumeral
 dislocation, deserve particular mention because of the historically variable management.
 The traditional Neer criterion of 1 cm displacement requiring operative fixation has been
@@ -227,12 +235,16 @@ arthroscopic reduction with suture anchor or transosseous suture fixation. Where
 
 dislocation is associated, reduction of the dislocation may also reduce the tuberosity; if not,
 formal fixation is performed.
-Lesser Tuberosity Fractures
+
+## Lesser Tuberosity Fractures
+
 Isolated lesser tuberosity fractures are rare and are often missed at initial presentation.
 They may be associated with posterior dislocation. Treatment is open or arthroscopic
 reduction with suture anchor fixation, with the subscapularis tendon reduced and secured
 to the bone bed.
-Fracture-Dislocations
+
+## Fracture-Dislocations
+
 Fracture-dislocations combine the challenges of dislocation with those of fracture.
 Reduction of the dislocation may convert a fracture-dislocation into a stable reduced
 fracture, but the reduction maneuver carries risks of converting a stable two-part pattern
@@ -242,7 +254,9 @@ dislocations are typically treated by RTSA after reduction. In the younger patie
 anatomical reconstruction (typically by ORIF) is preferred, accepting the higher risk of
 AVN.
 
-Head-Splitting Fractures
+
+## Head-Splitting Fractures
+
 Head-splitting fractures with substantial articular involvement and disruption of the head’s
 blood supply have a poor prognosis with attempted ORIF in the elderly and are typically
 treated with arthroplasty. In the young patient, anatomical ORIF is attempted because of

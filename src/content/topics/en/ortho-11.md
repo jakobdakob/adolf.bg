@@ -73,14 +73,18 @@ components of the deformity in a specific sequence based on the anatomical relat
 
 ## Classification
 
-Dimeglio Classification
+
+## Dimeglio Classification
+
 The Dimeglio classification scores four parameters — equinus, hindfoot varus, midfoot
 rotation, and forefoot adduction — each from 0 (no deformity) to 4 (severe deformity),
 with additional points for posterior crease, medial crease, cavus, and poor muscle
 condition. The total score is 0-20, divided into four grades: Grade I (mild, score <5), Grade
 II (moderate, score 5-10), Grade III (severe, score 10-15), and Grade IV (very severe, score
 \>15). The classification is reproducible and correlates with treatment response.
-Pirani Score
+
+## Pirani Score
+
 The Pirani score, simpler and more widely used in Ponseti-method practice, scores six
 features: three midfoot signs (curved lateral border, medial crease, lateral head of talus
 palpable) and three hindfoot signs (posterior crease, empty heel, rigid equinus), each
@@ -90,7 +94,9 @@ casting; the rate of fall in Pirani score is a powerful predictor of outcome.
 
 ## Ponseti Method
 
-Principles
+
+## Principles
+
 The Ponseti method, developed by Ignacio Ponseti at the University of Iowa in the 1940s-
 1960s and globally popularized from the late 1990s, is based on serial casting that
 addresses the components of the clubfoot deformity in a specific sequence. The order of
@@ -102,7 +108,9 @@ by serial casting in dorsiflexion. The fundamental insight of Ponseti was that t
 rotates externally beneath the talus as the foot is abducted, simultaneously correcting heel
 varus and forefoot adductus — and that this rotation must be permitted by the technique,
 with the talar head serving as the fulcrum about which the rest of the foot rotates.
-Technique
+
+## Technique
+
 Treatment is initiated as soon as possible after birth, ideally in the first week and certainly
 within the first 6-8 weeks while the soft tissues remain maximally pliable. The basic
 technique involves:
@@ -131,7 +139,9 @@ technique involves:
 
     recurrence rates of 80-100%, while consistent brace use through age 4 produces
     recurrence rates of 10-20%.
-Outcomes
+
+## Outcomes
+
 The Ponseti method, when applied correctly, produces excellent foot morphology and
 function in 95-98% of idiopathic clubfeet. Long-term follow-up by Ponseti’s own group,
 extending into the fifth and sixth decades of life, has shown sustained excellent results in
@@ -147,7 +157,9 @@ consequence of inadequate brace compliance and presents typically with recurrent
 supination and inversion of the forefoot, sometimes with recurrent equinus. The treatment
 principles are stage-dependent.
 
-Anterior Tibialis Tendon Transfer
+
+## Anterior Tibialis Tendon Transfer
+
 The anterior tibialis tendon transfer to the lateral cuneiform (or third cuneiform) is the
 standard surgical procedure for the dynamic supination deformity that emerges after the
 age of 2-3 years. The procedure addresses the imbalance between the medially deviating
@@ -156,11 +168,15 @@ laterally; the foot is held in a slight overcorrected position for several weeks
 postoperatively. The procedure is highly successful in the dynamic supination deformity,
 with long-term improvement in foot morphology and function. Caveat: the procedure
 should be deferred until the lateral cuneiform is ossified (typically age 3 years or older).
-Recasting and Repeat Tenotomy
+
+## Recasting and Repeat Tenotomy
+
 Mild to moderate recurrence, particularly in the younger child, often responds to repeat
 Ponseti casting and, if needed, repeat Achilles tenotomy. The principles of the original
 Ponseti method apply, with careful sequential correction of the components.
-Posteromedial Release
+
+## Posteromedial Release
+
 The traditional comprehensive posteromedial release surgery (PMR), the dominant
 treatment of clubfoot before the global adoption of the Ponseti method, involves extensive
 release of the posterior capsule of the ankle and subtalar joint, lengthening of the Achilles
@@ -171,7 +187,9 @@ secondary arthritis, and chronic stiffness. The procedure is now reserved for th
 rigid clubfoot that fails Ponseti management, with results substantially better when used as
 a salvage after Ponseti rather than as primary treatment.
 
-Bony Procedures
+
+## Bony Procedures
+
 For the older child or adolescent with residual or recurrent deformity, bony procedures
 complement or supplant soft-tissue releases. Options include lateral column shortening
 (Lichtblau or Evans osteotomy), medial column lengthening, dorsiflexion osteotomy of the
@@ -182,7 +200,9 @@ procedure of choice.
 
 ## The Syndromic and Complex Clubfoot
 
-Clubfoot in Myelomeningocele
+
+## Clubfoot in Myelomeningocele
+
 Clubfoot occurs in approximately 25-50% of children with myelomeningocele, and is
 typically severe and rigid with poor muscle balance. The deformity persists or recurs after
 Ponseti treatment because of the underlying neurological imbalance and the absence of
@@ -193,7 +213,9 @@ surgery than the idiopathic case. Talectomy — surgical excision of the talus �
 used as a salvage procedure for the severely deformed insensate foot in myelomeningocele,
 producing a flatfoot with no plantigrade weight-bearing surface but a foot that can be
 braced for ambulation.
-Clubfoot in Arthrogryposis
+
+## Clubfoot in Arthrogryposis
+
 Clubfoot in arthrogryposis multiplex congenita is characteristically severe, bilateral, and
 resistant to Ponseti management. The Dobbs modification of the Ponseti method —
 adjusting the technique for the stiffer arthrogrypotic foot and combining with selected soft-
@@ -201,7 +223,9 @@ tissue procedures — has produced improved outcomes. Many patients ultimately r
 more extensive surgical correction, and the orthopedic surgeon must coordinate care with
 the broader management of the arthrogryposis.
 
-Distal Arthrogryposis and Other Conditions
+
+## Distal Arthrogryposis and Other Conditions
+
 A variety of less common conditions — distal arthrogryposis, Larsen syndrome, amniotic
 band syndrome (Streeter dysplasia), chromosomal abnormalities — produce clubfoot with
 specific features that require individualized management. The key principle is to recognize
@@ -210,20 +234,26 @@ condition and so that associated anomalies are identified and managed.
 
 ## Diagnostic and Differential Considerations
 
-Postural Equinovarus
+
+## Postural Equinovarus
+
 Postural equinovarus is a positional deformity of the newborn foot that resembles clubfoot
 but is fully passively correctable to a neutral position. The differentiation is by passive
 
 manipulation: postural deformities correct completely, while true clubfoot resists complete
 correction. Postural equinovarus typically resolves spontaneously over weeks with simple
 stretching and bandaging.
-Skewfoot
+
+## Skewfoot
+
 Skewfoot (Z-foot) is a complex deformity combining metatarsus adductus, hindfoot valgus,
 and midfoot abduction, producing a “Z”-shaped foot on weight-bearing assessment. The
 deformity is rigid and does not respond to Ponseti management; it requires individualized
 surgical management with combinations of medial column shortening, lateral column
 lengthening, and metatarsal osteotomies.
-Metatarsus Adductus
+
+## Metatarsus Adductus
+
 Metatarsus adductus is an isolated forefoot deformity in which the metatarsals are
 adducted but the hindfoot is normal. The deformity is classified by reducibility: flexible
 (passively correctable past the heel bisector), partially reducible (correctable to the heel

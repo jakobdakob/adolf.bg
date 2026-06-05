@@ -66,13 +66,17 @@ The increasing AVN risk reflects the progressive disruption of the talar blood s
 each level of dislocation. The implication is that urgent reduction is critical to preserving
 the chance of avoiding AVN — the displaced fracture-dislocation should be reduced as soon
 as possible after presentation.
-The Hawkins Sign
+
+## The Hawkins Sign
+
 The Hawkins sign is a band of subchondral lucency in the talar dome visible at 6 to 8
 weeks post-injury, indicating preserved vascularity through disuse osteopenia of the talar
 body. The presence of the Hawkins sign predicts adequate blood supply and low AVN
 risk. The absence of the Hawkins sign — particularly when the patient has been bearing
 weight after fixation — is concerning for AVN, although it does not definitively confirm it.
-Treatment of Talar Neck Fractures
+
+## Treatment of Talar Neck Fractures
+
 Type I: Treatment is non-operative in a non-weight-bearing cast for 8 to 12 weeks.
 Operative fixation may be considered for selected patients with displacement under 2 mm
 and unable to comply with non-weight-bearing protocols, or for patient preference for
@@ -97,13 +101,17 @@ depending on series).
 
 ## Other Talar Fractures
 
-Talar Body Fractures
+
+## Talar Body Fractures
+
 Talar body fractures (involving the articular surface of the talar dome) are uncommon and
 are typically the result of severe axial loading. The fractures may be coronal, sagittal, or
 comminuted, with the principal concern being the articular involvement and the high rate
 of AVN. Treatment of displaced fractures is open reduction with cannulated screw fixation,
 with non-weight-bearing for prolonged periods.
-Osteochondral Lesions of the Talus
+
+## Osteochondral Lesions of the Talus
+
 Osteochondral lesions of the talus (OLT) — also called osteochondritis dissecans of the
 talus — are focal injuries to the talar dome cartilage and underlying bone. The classical
 locations are the posteromedial dome (more common, often associated with prior ankle
@@ -124,7 +132,9 @@ radiographs. The mechanism is forced dorsiflexion with eversion. Treatment is no
 operative for non-displaced fractures (immobilization for 6 to 8 weeks) and operative for
 displaced fractures (open reduction with screw fixation or excision of small fragments).
 
-Posterior Process Fractures (Shepherd Fracture)
+
+## Posterior Process Fractures (Shepherd Fracture)
+
 The posterior process of the talus has medial and lateral tubercles separated by the
 groove for flexor hallucis longus. The lateral tubercle (the larger one) is fractured in
 forced plantar flexion (the Shepherd fracture) and must be distinguished from the os
@@ -140,7 +150,9 @@ tarsal fractures and most are produced by fall from height with axial loading th
 talus. The energy of the mechanism is substantial and the bilateral injury rate is
 approximately 10 percent; associated injuries include lumbar spine fractures (10 to 15
 percent), other lower extremity injuries, and abdominal injuries.
-Classification of Intra-Articular Calcaneal Fractures
+
+## Classification of Intra-Articular Calcaneal Fractures
+
 The Sanders CT-based classification (1993) is the standard for intra-articular calcaneal
 fractures (which constitute the majority — approximately 75 percent — of calcaneal
 fractures). The classification is based on the appearance of the posterior facet of the
@@ -153,7 +165,9 @@ Type III: Three-part fracture of the posterior facet (subdivided IIIAB, IIIAC, I
 Type IV: Four-part highly comminuted fracture.
 The classification correlates with treatment outcomes — higher Sanders types have
 progressively worse functional outcomes regardless of treatment.
-Classification of Extra-Articular Calcaneal Fractures
+
+## Classification of Extra-Articular Calcaneal Fractures
+
 Extra-articular calcaneal fractures (approximately 25 percent) include the anterior
 process fracture (avulsion by the bifurcate ligament, often missed on radiographs), the
 tuberosity avulsion (Achilles tendon avulsion), the medial process fracture (avulsion by
@@ -161,7 +175,9 @@ the abductor hallucis), the sustentaculum tali fracture (with potential involvem
 flexor hallucis longus and the subtalar joint), and the body fracture without articular
 involvement.
 
-Radiographic Assessment
+
+## Radiographic Assessment
+
 The AP, lateral, and axial (Harris) views of the calcaneus are obtained. Key radiographic
 measurements on the lateral view:
 The Böhler’s angle is the angle between the line drawn from the highest point of the
@@ -176,7 +192,9 @@ CT is mandatory for any displaced calcaneal fracture being considered for operat
 intervention, providing detailed assessment of the posterior facet, the calcaneocuboid joint,
 and the lateral wall involvement.
 
-Treatment of Calcaneal Fractures
+
+## Treatment of Calcaneal Fractures
+
 The treatment of displaced intra-articular calcaneal fractures has been one of the most
 actively debated topics in orthopedic trauma. The principal management options are:
 Non-operative management: Initial immobilization in a posterior splint or boot followed
@@ -217,7 +235,9 @@ and chronic functional limitation.
 
 ## Subtalar and Other Tarsal Dislocations
 
-Subtalar Dislocation
+
+## Subtalar Dislocation
+
 The subtalar dislocation (also called peritalar dislocation) is dislocation of the talus
 relative to the calcaneus and navicular without fracture of the talus. The classical
 mechanism is forceful inversion or eversion of the foot. Medial subtalar dislocation
@@ -232,7 +252,9 @@ for medial dislocation; FHL or talonavicular capsule for lateral). Postoperative
 management includes immobilization for 4 to 6 weeks followed by progressive range of
 motion and weight bearing. Outcomes are generally good but with some loss of subtalar
 motion.
-Total Talar Dislocation
+
+## Total Talar Dislocation
+
 The total talar dislocation — extrusion of the talus from all three articulations — is rare
 and represents a severe injury. The talus is typically extruded from a wound, becoming
 exposed. Reimplantation of the talus is generally performed after thorough irrigation,
@@ -242,7 +264,9 @@ universal but can be tolerated for years before requiring fusion.
 
 ## Midfoot Fractures and Lisfranc Injuries
 
-Anatomy of the Midfoot
+
+## Anatomy of the Midfoot
+
 The midfoot comprises the navicular, cuboid, and three cuneiforms (medial,
 intermediate, lateral). The Chopart joint (midtarsal joint) is the articulation between the
 hindfoot (talus, calcaneus) and the midfoot (navicular, cuboid). The Lisfranc joint
@@ -255,7 +279,9 @@ ligament is the strongest. The recessed position of the second metatarsal base
 (“keystone”) between the medial and lateral cuneiforms provides bony stabilization.
 Disruption of the Lisfranc complex produces the spectrum of Lisfranc injuries from subtle
 ligamentous disruption to overt fracture-dislocation.
-Navicular Fractures
+
+## Navicular Fractures
+
 Navicular fractures include the tuberosity fracture (avulsion of the posterior tibial
 tendon insertion, often missed and treated as ankle sprain), the dorsal lip fracture
 (avulsion of the talonavicular capsule, typically from forced plantar flexion), the body
@@ -270,7 +296,9 @@ stress fractures in athletes — particularly the high-risk central body pattern
 require percutaneous screw fixation with prolonged non-weight-bearing because of the
 high nonunion rate with conservative management.
 
-Lisfranc Injuries — Classification and Diagnosis
+
+## Lisfranc Injuries — Classification and Diagnosis
+
 The Lisfranc injury spectrum ranges from subtle ligamentous disruption to overt fracture-
 dislocation. The Quenu and Küss classification (1909) and the Hardcastle classification
 (1982) organize the injuries by direction of displacement (homolateral, isolated,
@@ -297,7 +325,9 @@ border of the middle cuneiform on AP view, or between the medial border of the f
 metatarsal and the medial border of the cuboid on oblique view.
 CT with weight-bearing if possible is increasingly used for definitive characterization, and
 MRI is used when ligamentous injury is suspected without bony displacement.
-Treatment of Lisfranc Injuries
+
+## Treatment of Lisfranc Injuries
+
 The stable Lisfranc injury (subtle ligamentous injury without displacement on stress
 imaging) may be treated non-operatively in a boot or cast for 6 to 8 weeks with non-weight
 bearing, but this represents a small minority of cases.

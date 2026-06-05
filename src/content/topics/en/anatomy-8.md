@@ -93,19 +93,25 @@ The Smith-Petersen anterior approach uses the internervous interval between the
 sartorius (femoral nerve) medially and the tensor fasciae latae (superior gluteal
 nerve) laterally, and the deep interval between the rectus femoris (femoral nerve)
 medially and the gluteus medius (superior gluteal nerve) laterally.
-Indications
+
+## Indications
+
 The approach has historically been used for hip arthrodesis, open reduction of femoral
 head fractures, biopsy, tumor procedures, and pelvic osteotomies. In recent years, it has
 gained substantial popularity as the direct anterior approach (DAA) to total hip
 arthroplasty with reduced soft-tissue disruption and lower dislocation rates.
-Technique
+
+## Technique
+
 Patient supine, often on a specialized table (Hana table) with traction. Incision from
 approximately 2 cm distal to the ASIS, extending distally for 8 to 15 cm in the line between
 the sartorius and the tensor fasciae latae. The interval is developed; the lateral femoral
 cutaneous nerve is identified and protected. The interval between rectus femoris and
 gluteus medius is developed. The hip capsule is opened, with reflection or excision of the
 capsule providing joint access.
-Complications
+
+## Complications
+
 Lateral femoral cutaneous nerve injury (meralgia paresthetica) is common (20 to 80
 percent transient, 5 to 10 percent persistent). Wound complications at the proximal
 incision (with creases and skin folds). Femoral fracture during stem insertion (more
@@ -117,17 +123,23 @@ exposure). Stem malposition because of more limited visualization of the proxima
 The Watson-Jones approach uses the interval between the gluteus medius posteriorly
 and the tensor fasciae latae anteriorly, with reflection of the gluteus medius from the
 anterior aspect of the greater trochanter.
-Indications
+
+## Indications
+
 Total hip arthroplasty, open reduction internal fixation of certain proximal femur fractures,
 hemiarthroplasty.
-Technique
+
+## Technique
+
 Patient supine or lateral decubitus. Incision over the greater trochanter, extending
 proximally and distally for the desired length. The fascia lata is incised. The interval
 between gluteus medius and tensor fasciae latae is developed. The anterior portion of the
 gluteus medius is partially detached from the trochanter (with later repair). The hip
 capsule is opened anteriorly.
 
-Complications
+
+## Complications
+
 Abductor dysfunction with partial detachment of the gluteus medius; meticulous repair is
 essential. Superior gluteal nerve injury with deeper proximal dissection.
 
@@ -137,15 +149,21 @@ The Hardinge approach splits the gluteus medius in line with its fibers, with an
 reflection of the anterior portion (including the gluteus minimus) attached to a flap of the
 vastus lateralis. The approach provides good anterior exposure of the hip joint while
 preserving the posterior capsule and structures.
-Indications
+
+## Indications
+
 Total hip arthroplasty, hemiarthroplasty, femoral neck fracture fixation.
-Technique
+
+## Technique
+
 Patient supine or lateral decubitus. Longitudinal lateral incision over the trochanter. Fascia
 lata opened. Gluteus medius split in line with its fibers (only as far proximal as 5 cm from
 the trochanter to protect the superior gluteal nerve). The anterior portion of the gluteus
 medius (with the gluteus minimus) is reflected anteriorly as a single flap, often in
 continuity with the vastus lateralis. The hip capsule is opened anteriorly.
-Complications
+
+## Complications
+
 Superior gluteal nerve injury with extended proximal dissection (limiting the abductor
 split to 5 cm from the trochanter is critical). Abductor weakness even with appropriate
 technique; trochanteric pain and persistent limp are recognized concerns.
@@ -156,10 +174,14 @@ The posterior approach is the workhorse for total hip arthroplasty in many cente
 the standard for posterior pelvic and acetabular surgery (the Kocher-Langenbeck variant
 addressed in Topic Anatomy-7).
 
-Indications
+
+## Indications
+
 Total hip arthroplasty, hemiarthroplasty, open reduction of posterior hip dislocations,
 posterior wall and posterior column acetabular fracture fixation, sciatic nerve exploration.
-Technique
+
+## Technique
+
 Patient in lateral decubitus with the affected side up. Curved incision from the PSIS
 region, over the greater trochanter, extending distally into the proximal thigh. Fascia lata
 and gluteus maximus aponeurosis opened. Gluteus maximus split in line with its fibers
@@ -169,7 +191,9 @@ insertions; the sciatic nerve is identified inferior to the piriformis. The shor
 
 rotators are detached from the trochanter and reflected medially to expose the posterior
 capsule. The capsule is opened and the joint is accessed.
-Complications
+
+## Complications
+
 Sciatic nerve injury (1 to 3 percent in elective procedures, higher in posterior dislocation
 reduction). Posterior hip dislocation after total hip arthroplasty (the principal concern;
 historical rates of 3 to 5 percent, reduced by careful soft-tissue repair and modern implant
@@ -181,18 +205,24 @@ approach — the gluteus medius and minimus are not disturbed).
 The Ganz trochanteric flip osteotomy (Ganz, 2001) provides comprehensive access to
 the entire femoral head and acetabulum with preservation of the medial femoral circumflex
 artery and consequently of the femoral head blood supply.
-Technique
+
+## Technique
+
 Patient in lateral decubitus. Posterior incision similar to the Kocher-Langenbeck. The
 greater trochanter is osteotomized (typically with a stepwise cut) and reflected
 anteriorly with the attached gluteus medius and minimus. The capsular reflection
 containing the medial femoral circumflex artery is preserved by keeping the obturator
 externus insertion intact. The hip capsule is opened (typically Z-shaped or H-shaped), and
 the femoral head is dislocated anteriorly out of the acetabulum.
-Indications
+
+## Indications
+
 Femoral head fracture fixation, FAI surgery, femoral head osteochondritis dissecans
 treatment, Perthes residual deformity correction, tumor resection of the femoral head,
 comprehensive surgical hip dislocation procedures.
-Complications
+
+## Complications
+
 Trochanteric nonunion (1 to 5 percent), heterotopic ossification, abductor weakness.
 
 ## Hip Arthroscopy

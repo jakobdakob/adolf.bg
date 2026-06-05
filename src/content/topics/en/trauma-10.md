@@ -64,7 +64,9 @@ structural instability as by neurological involvement.
 The occipitocervical junction (occiput, atlas, axis) accounts for approximately one-third
 of all cervical fractures and is the site of several injuries with characteristic mechanisms
 and characteristic management.
-Occipital Condyle Fractures
+
+## Occipital Condyle Fractures
+
 The Anderson and Montesano classification (1988) divides occipital condyle fractures
 into three types. Type I is a comminuted impacted condylar fracture from axial load; the
 alar ligaments and tectorial membrane are intact and the injury is stable. Type II is a
@@ -73,7 +75,9 @@ alar ligaments. Type III is an avulsion of the condyle by the alar ligament from
 distraction mechanism; this is the unstable pattern. Type I and most type II injuries are
 treated with a rigid cervical orthosis for 6 to 12 weeks; type III injuries with evidence of
 craniocervical instability require occipitocervical fusion.
-Atlanto-Occipital Dissociation
+
+## Atlanto-Occipital Dissociation
+
 Atlanto-occipital dissociation, historically a near-uniformly fatal injury, has become a more
 frequent diagnosis with improved imaging and improved field care. The Traynelis
 classification (1986) describes anterior, vertical, and posterior dissociation patterns. The
@@ -84,7 +88,9 @@ anterior dissociation but lacks sensitivity. CT measurements of the basion-dens 
 reliable. Confirmation is by MRI demonstration of tectorial membrane and alar ligament
 disruption. Treatment is occipitocervical fusion in virtually every case, with the patient
 managed in a halo until definitive stabilization.
-C1 (Atlas) Fractures — The Jefferson Fracture
+
+## C1 (Atlas) Fractures — The Jefferson Fracture
+
 The Jefferson fracture, named after Geoffrey Jefferson’s 1920 description, is the burst
 fracture of the atlas — typically a four-part fracture with breaks in both the anterior and
 posterior arches produced by axial load. The Levine and Edwards classification of atlas
@@ -144,7 +150,9 @@ B: tension-band injuries; C: translation/dislocation injuries — graded by seve
 within each category, supplemented by facet injury subtype and neurological grade.
 Modifiers describe additional injury features.
 
-Compression Injuries (A)
+
+## Compression Injuries (A)
+
 A0 is a minor non-structural fracture (e.g., transverse process). A1 is a wedge compression
 of the endplate. A2 is a coronal split (pincer) fracture without retropulsion. A3 is an
 incomplete burst (one endplate involved with retropulsion of fragments). A4 is a complete
@@ -152,7 +160,9 @@ burst with both endplates involved. Treatment of A1-A2 injuries is typically non
 in a cervical orthosis for 8 to 12 weeks; A3-A4 injuries may require operative stabilization
 if there is significant retropulsion, angular deformity, or neurological involvement, typically
 by anterior cervical corpectomy with cage reconstruction and plate fixation.
-Tension-Band Injuries (B)
+
+## Tension-Band Injuries (B)
+
 B1 is a transosseous tension-band disruption (the bony Chance equivalent). B2 is a
 posterior ligamentous tension-band disruption. B3 is an anterior tension-band disruption
 — the hyperextension injury typical of the elderly with pre-existing ankylosing
@@ -177,7 +187,9 @@ combined anterior-posterior fusion.
 
 ## Thoracolumbar Spine — Classification Systems
 
-Denis Three-Column Theory
+
+## Denis Three-Column Theory
+
 The Denis three-column theory (1983), although largely superseded by more recent
 classifications, remains conceptually important and is still widely referenced. The columns
 are: anterior column (anterior longitudinal ligament, anterior half of vertebral body and
@@ -192,7 +204,9 @@ flexion-distraction), and fracture-dislocation (all three columns disrupted with
 translation). The system was clinically useful but has been criticized for the operational
 difficulty of assessing middle-column status from imaging alone and for its limited ability to
 predict outcome in borderline injuries.
-The TLICS System
+
+## The TLICS System
+
 The Thoracolumbar Injury Classification and Severity Score (TLICS; Vaccaro et al.,
 2005) was developed to address these limitations by combining injury morphology,
 neurological status, and integrity of the posterior ligamentous complex into a quantitative
@@ -205,7 +219,9 @@ management; 4 is a “gray zone” with surgeon discretion. The system has been 
 extensively and is now widely used. The PLC component is critical and is best assessed on
 MRI; clues on plain imaging include widening of the interspinous distance (“fanning”),
 kyphosis greater than 20 to 30 degrees, and frank dislocation.
-AO Spine Thoracolumbar Classification
+
+## AO Spine Thoracolumbar Classification
+
 The AO Spine Thoracolumbar Classification (Vaccaro et al., 2013), parallel in structure
 to the subaxial cervical classification, has gained increasing use. The morphologic types are
 A: compression, B: tension-band, C: translation. Compression injuries are subdivided A0
@@ -250,7 +266,9 @@ deficit need not mandate decompression. Operative management is typically by pos
 pedicle screw instrumentation, with anterior reconstruction reserved for cases with
 substantial vertebral body comminution and inadequate anterior column support.
 
-Chance Fractures and Flexion-Distraction Injuries (B-type)
+
+## Chance Fractures and Flexion-Distraction Injuries (B-type)
+
 The Chance fracture, described by George Q. Chance in 1948 as a horizontal splitting of
 the vertebra through bone — pedicles, lamina, and body — is the prototypical flexion-
 distraction injury. The classical mechanism in the modern era is the lap-belt seatbelt injury
@@ -262,7 +280,9 @@ association with intra-abdominal injury (small bowel perforation, mesenteric inj
 
 pancreatic injury) — the “seat-belt sign” of abdominal wall ecchymosis combined with a
 Chance fracture mandates careful abdominal evaluation.
-Translational Injuries (C-type)
+
+## Translational Injuries (C-type)
+
 Fracture-dislocations with translation in any plane represent the most unstable injuries,
 with virtually all such injuries requiring operative stabilization regardless of neurological
 status. The mechanism is severe — typically high-energy motor vehicle crash, fall from

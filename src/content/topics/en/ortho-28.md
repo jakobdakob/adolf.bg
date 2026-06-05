@@ -41,7 +41,9 @@ Bursitis may be inflammatory (from overuse), septic (from infection), or hemorrh
 
 ## Shoulder Overuse Syndromes
 
-Subacromial Impingement and Rotator Cuff Disease
+
+## Subacromial Impingement and Rotator Cuff Disease
+
 Subacromial impingement syndrome is the commonest source of shoulder pain in adults.
 The condition involves mechanical impingement of the rotator cuff (particularly the
 supraspinatus tendon) and the subacromial bursa against the undersurface of the
@@ -74,7 +76,9 @@ size, chronicity, and Goutallier fatty infiltration. Massive irreparable tears m
 by partial repair, superior capsule reconstruction, tendon transfer (latissimus dorsi for
 posterior-superior cuff tears, lower trapezius for similar pattern), or reverse total shoulder
 arthroplasty for cuff tear arthropathy.
-Calcific Tendinopathy of the Rotator Cuff
+
+## Calcific Tendinopathy of the Rotator Cuff
+
 Calcific tendinopathy is a self-limiting condition in which calcium hydroxyapatite deposits
 form in the rotator cuff, most commonly the supraspinatus tendon. Three phases are
 recognized: formative phase (chalk-like calcific deposits, often asymptomatic); resorptive
@@ -85,7 +89,9 @@ phase is conservative (NSAIDs, physiotherapy); the resorptive phase is treated w
 NSAIDs, intra-bursal corticosteroid injection, and sometimes ultrasound-guided needle
 aspiration of the calcific deposit (barbotage), with surgical removal reserved for refractory
 cases.
-Frozen Shoulder (Adhesive Capsulitis)
+
+## Frozen Shoulder (Adhesive Capsulitis)
+
 Frozen shoulder is a poorly understood condition of progressive shoulder pain and
 stiffness, with restricted active and passive motion in all planes. Three phases are
 described: freezing (painful, with progressive stiffness); frozen (stiff but less painful);
@@ -98,12 +104,16 @@ Treatment combines physiotherapy directed at gentle range-of-motion exercises, N
 intra-articular corticosteroid injection (with evidence of benefit in the painful early phase),
 and selective use of manipulation under anesthesia or arthroscopic capsular release for
 refractory cases.
-Acromioclavicular Joint Disease
+
+## Acromioclavicular Joint Disease
+
 The acromioclavicular joint is subject to both osteoarthritis and post-traumatic arthritis
 (often after AC joint separation). Treatment is initially conservative with NSAIDs, activity
 modification, and corticosteroid injection; surgical management is by distal clavicle
 excision (Mumford procedure) when conservative measures fail.
-Bicipital Tenosynovitis and Long Head of Biceps Tendinopathy
+
+## Bicipital Tenosynovitis and Long Head of Biceps Tendinopathy
+
 The long head of the biceps tendon traverses the bicipital groove of the proximal humerus
 and is subject to inflammation, degeneration, instability (with subluxation or dislocation
 from the groove), and rupture. Presentation is with anterior shoulder pain. Treatment
@@ -111,7 +121,9 @@ ranges from conservative measures through tenotomy or tenodesis of the biceps te
 
 ## Elbow Overuse Syndromes
 
-Lateral Epicondylitis (Tennis Elbow)
+
+## Lateral Epicondylitis (Tennis Elbow)
+
 Lateral epicondylitis is a chronic tendinopathy at the origin of the wrist extensors,
 particularly extensor carpi radialis brevis (ECRB), at the lateral humeral epicondyle. The
 condition is the commonest cause of lateral elbow pain in adults, affecting approximately 1-
@@ -140,7 +152,9 @@ by gripping and wrist flexion. The differential diagnosis includes ulnar collate
 insufficiency (particularly in throwing athletes) and ulnar neuritis. Treatment principles
 parallel those of lateral epicondylitis, with attention to the ulnar nerve in surgical
 procedures.
-Olecranon Bursitis
+
+## Olecranon Bursitis
+
 Olecranon bursitis is inflammation of the bursa overlying the olecranon process, with the
 classical “student’s elbow” or “miner’s elbow” presentation of a swollen mass over the
 posterior elbow. Causes include acute trauma, repetitive pressure, and septic infection
@@ -181,7 +195,9 @@ Treatment is conservative initially with corticosteroid injection (high success 
 85% with one or two injections, lower in diabetic patients), splinting, and NSAIDs. Surgical
 release of the A1 pulley is highly successful (>95%) and is performed open under local
 anesthesia in a brief outpatient procedure.
-Other Wrist Tendinopathies
+
+## Other Wrist Tendinopathies
+
 Multiple other wrist tendinopathies are described: extensor pollicis longus tenosynovitis
 (sometimes associated with rupture, particularly after distal radius fracture); flexor carpi
 radialis tendinopathy; FCU tendinopathy; ECU tendinopathy with snapping or instability of
@@ -191,7 +207,9 @@ tenosynovitis.
 
 ## Hip Overuse Syndromes
 
-Greater Trochanteric Pain Syndrome (Trochanteric Bursitis)
+
+## Greater Trochanteric Pain Syndrome (Trochanteric Bursitis)
+
 Greater trochanteric pain syndrome — the modern term for what was historically called
 “trochanteric bursitis” — is a heterogeneous condition of lateral hip pain typically
 combining gluteus medius and minimus tendinopathy or tears with associated bursitis. The
@@ -224,7 +242,9 @@ pole of the patella. The condition is common in athletes engaged in jumping spor
 principally conservative with eccentric exercise programs (the Alfredson protocol for the
 Achilles tendon, adapted for the patellar tendon, is the standard), shock-wave therapy, PRP
 injection, and selective surgical management for refractory disease.
-Quadriceps Tendinopathy and Patellofemoral Pain Syndrome
+
+## Quadriceps Tendinopathy and Patellofemoral Pain Syndrome
+
 Quadriceps tendinopathy is the analogous condition at the superior pole of the patella, less
 common than patellar tendinopathy.
 Patellofemoral pain syndrome is a complex condition of anterior knee pain, with multiple
@@ -236,19 +256,25 @@ Iliotibial Band Syndrome (Runner’s Knee)
 Iliotibial band syndrome is friction of the IT band over the lateral femoral condyle,
 producing lateral knee pain in runners. Treatment is conservative with stretching, activity
 modification, and selective injection.
-Pes Anserine Bursitis
+
+## Pes Anserine Bursitis
+
 Pes anserine bursitis is inflammation of the bursa beneath the conjoint insertion of
 sartorius, gracilis, and semitendinosus on the medial tibia. The condition produces medial
 knee pain, often confused with medial meniscal pathology. Treatment is conservative.
 
-Osgood-Schlatter and Sinding-Larsen-Johansson Diseases
+
+## Osgood-Schlatter and Sinding-Larsen-Johansson Diseases
+
 These are juvenile traction apophysitis conditions affecting the tibial tuberosity (Osgood-
 Schlatter) and the inferior pole of the patella (Sinding-Larsen-Johansson) in adolescents.
 Self-limiting conditions managed conservatively with activity modification and analgesics.
 
 ## Foot and Ankle Overuse Syndromes
 
-Achilles Tendinopathy
+
+## Achilles Tendinopathy
+
 Achilles tendinopathy is a degenerative condition affecting either the midportion of the
 Achilles tendon (2-6 cm above the insertion, the avascular region) or the insertion at the
 calcaneus. Insertional tendinopathy is often associated with Haglund deformity (a
@@ -261,7 +287,9 @@ tendinopathy is more difficult to treat conservatively; surgical options include
 the Haglund prominence, excision of the diseased tendon portion, and reattachment of the
 tendon.
 Achilles tendon rupture is discussed in the chapter on muscle and tendon injuries.
-Plantar Fasciitis
+
+## Plantar Fasciitis
+
 Plantar fasciitis is degeneration and inflammation of the plantar fascia at its origin from the
 medial calcaneal tuberosity. Risk factors include obesity, occupational prolonged standing,
 foot deformities (pes planus, pes cavus), tight Achilles tendon, and running. Presentation is
@@ -273,10 +301,14 @@ selective corticosteroid injection (with caution about plantar fat pad atrophy f
 injection). Extracorporeal shock-wave therapy is supported by evidence for refractory
 cases. Surgical plantar fascia release is reserved for the small fraction of patients who fail
 comprehensive conservative management.
-Tibialis Posterior Tendinopathy
+
+## Tibialis Posterior Tendinopathy
+
 Tibialis posterior tendinopathy is the early stage of adult-acquired flatfoot deformity,
 discussed in the chapter on flatfoot.
-Peroneal Tendinopathy
+
+## Peroneal Tendinopathy
+
 Peroneal tendinopathy and peroneal tendon subluxation produce lateral ankle pain.
 Treatment is initially conservative; surgical management addresses tendon pathology and
 superior peroneal retinaculum reconstruction for chronic instability.

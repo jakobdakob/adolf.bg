@@ -61,7 +61,9 @@ to anterior translation of the talus in plantar flexion and to inversion.
 
 ## Ankle Fracture Classification
 
-Weber (AO) Classification
+
+## Weber (AO) Classification
+
 The Weber classification (1972) is based on the level of the fibular fracture relative to the
 tibial plafond / syndesmosis:
 Weber A: Fibular fracture below the syndesmosis (infrasyndesmotic). Typically a
@@ -79,7 +81,9 @@ disrupted by definition (the fracture is proximal to the syndesmosis, so the syn
 ligaments must be torn for the fracture pattern to occur). Typically requires syndesmotic
 stabilization in addition to fibular fixation. The proximal extent of the fibular fracture can
 be very high — including the Maisonneuve fracture with proximal fibular involvement.
-Lauge-Hansen Classification
+
+## Lauge-Hansen Classification
+
 The Lauge-Hansen classification (1950) organizes ankle fractures by mechanism of
 injury, with each pattern named by the position of the foot at the time of injury (supination
 or pronation) and the deforming force (adduction, abduction, external rotation). The four
@@ -104,7 +108,9 @@ The clinical utility of the Lauge-Hansen system is the prediction of expected in
 based on the position-mechanism combination — a Weber C fibular fracture, for instance,
 implies that the medial side and syndesmosis are disrupted by the pronation-external
 rotation mechanism, even if these injuries are not radiographically obvious.
-Comparison and Use
+
+## Comparison and Use
+
 In clinical practice, the Weber classification is more commonly used because of its
 simplicity and direct correlation with treatment (Weber A typically non-operative, Weber B
 variable, Weber C operative with syndesmotic attention). The Lauge-Hansen
@@ -150,14 +156,18 @@ and fixation. The stress radiograph (gravity stress view or manual external rota
 view) is used to assess deltoid integrity in patients with isolated Weber B fibular fractures
 and no obvious medial malleolar fracture; widening of the medial clear space on stress
 view indicates deltoid disruption and an unstable injury.
-Stable Ankle Fractures
+
+## Stable Ankle Fractures
+
 Weber A fractures: Generally stable, treated in a walking boot or short-leg cast with weight
 bearing as tolerated for 4 to 6 weeks. Outcomes are excellent.
 Weber B fractures without medial injury (true isolated lateral malleolus fracture with
 stress-negative mortise): Stable, treated similarly to Weber A.
 Isolated medial malleolus fracture that is non-displaced: Treated in a cast for 6 to 8
 weeks, with operative management reserved for displacement or for nonunion.
-Unstable Ankle Fractures
+
+## Unstable Ankle Fractures
+
 Unstable patterns include:
 Bimalleolar fractures (lateral plus medial malleolar fracture, or lateral malleolar fracture
 plus deltoid disruption).
@@ -172,7 +182,9 @@ fixation.
 
 ## Operative Management
 
-Fibular Fracture Fixation
+
+## Fibular Fracture Fixation
+
 The lateral malleolus / fibula is the key to ankle fracture reduction because of its role in
 maintaining mortise stability through length, rotation, and lateral position. The standard
 fixation technique is:
@@ -191,14 +203,18 @@ or nail devices — particularly useful in osteoporotic bone and in patients wit
 compromised soft tissues), tension-band wiring for selected transverse fractures
 (uncommon application), and distal fibular locking plates for comminuted fractures in
 osteoporotic bone.
-Medial Malleolar Fracture Fixation
+
+## Medial Malleolar Fracture Fixation
+
 The medial malleolus is typically fixed with two partially threaded cancellous screws
 or a single screw with anti-rotation K-wire, providing perpendicular compression across
 the typically transverse fracture line. Tension-band wiring is an alternative for small
 fragments or osteoporotic bone. The medial malleolar fracture pattern is typically
 transverse in supination-adduction (from talar avulsion) and shear (more vertical) in
 supination-external rotation (from talar compression against the medial malleolus).
-Posterior Malleolar Fracture Fixation
+
+## Posterior Malleolar Fracture Fixation
+
 The posterior malleolus is the posterior lip of the tibial plafond, fractured in supination-
 external rotation stage 3 and in pronation-external rotation stage 4 patterns. The classical
 teaching has been that posterior malleolar fragments involving more than 25 percent of
@@ -220,7 +236,9 @@ more reliable fixation, particularly for the posteromedial and large posterior f
 The posterior approach has gained increasing popularity for substantial posterior
 malleolar fragments, with improved articular reduction and reduced posterior subluxation
 outcomes.
-Syndesmotic Stabilization
+
+## Syndesmotic Stabilization
+
 The syndesmosis must be stabilized in any ankle fracture pattern where the syndesmotic
 ligaments are disrupted. The classical indications include Weber C fractures (syndesmosis
 disrupted by definition), Maisonneuve variants, and Weber B fractures where
@@ -241,7 +259,9 @@ routine because of the recognized difficulty of achieving anatomical syndesmotic
 
 ## Special Fracture Patterns
 
-Maisonneuve Fracture
+
+## Maisonneuve Fracture
+
 The Maisonneuve fracture (Maisonneuve, 1840) is a proximal fibular fracture (often near
 the fibular neck) with associated syndesmotic disruption and medial-sided ankle injury
 (either medial malleolar fracture or deltoid disruption). The pattern represents the
@@ -254,20 +274,26 @@ Treatment involves fixation of the medial side (medial malleolus or deltoid mana
 syndesmotic stabilization (the principal mechanical concern), and typically non-fixation of
 the proximal fibular fracture (which heals well with syndesmotic stabilization restoring the
 mortise).
-Bosworth Fracture-Dislocation
+
+## Bosworth Fracture-Dislocation
+
 The Bosworth fracture is a Weber B-pattern with the proximal fibular fragment trapped
 posteriorly behind the tibia, preventing reduction. The injury requires open reduction to
 disengage the trapped fibula and is one of the few absolute indications for emergent
 operative intervention in ankle fractures (because the ongoing displacement compromises
 the skin and the syndesmotic ligaments).
-Open Ankle Fractures
+
+## Open Ankle Fractures
+
 Open ankle fractures (often Weber B or C with medial wound from displaced fragment)
 require the principles of open fracture management (Topic Trauma-5): urgent antibiotic
 administration, surgical debridement, anatomical reduction, and rigid fixation. The
 proximity of the joint to the skin in this region means that even small wounds may
 communicate with the joint and require careful management.
 
-Pediatric Ankle Fractures
+
+## Pediatric Ankle Fractures
+
 Pediatric ankle fractures involve the distal tibial and fibular physes and are classified by
 Salter-Harris patterns. The Tillaux fracture (Salter-Harris III of the lateral aspect of the
 distal tibia) and the Triplane fracture (Salter-Harris IV with multiple planes of fracture
@@ -293,7 +319,9 @@ weight bearing typically not possible.
 The Ottawa Ankle Rules (described above) are used to clear patients without need for
 radiographs. Stress radiographs (anterior drawer, talar tilt) may show increased
 excursion but are not commonly used acutely.
-Treatment of Lateral Ankle Sprain
+
+## Treatment of Lateral Ankle Sprain
+
 The treatment is almost universally non-operative, with the POLICE (Protection, Optimal
 Loading, Ice, Compression, Elevation) protocol replacing the older PRICE protocol because
 of the recognized benefits of early loading. Functional treatment with a brace (Aircast, ASO)
@@ -301,7 +329,9 @@ or supportive boot, early range of motion, and progressive return to activity pr
 outcomes in the great majority of patients. Operative repair of the lateral ligaments is
 reserved for the rare patient with chronic functional instability after appropriate
 conservative treatment (typically 6 to 12 weeks of formal rehabilitation).
-Chronic Lateral Ankle Instability
+
+## Chronic Lateral Ankle Instability
+
 Chronic lateral ankle instability with recurrent giving-way affects approximately 10 to
 20 percent of patients after Grade III sprain. Surgical reconstruction options include the
 modified Broström-Gould procedure (anatomical repair of the ATFL and CFL with

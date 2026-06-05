@@ -117,7 +117,9 @@ excellent outcomes. Outside these limits, plate fixation is indicated. Intramedu
 nailing has had a small role in isolated ulnar fractures but is generally less favored than
 plate fixation.
 
-Isolated Radial Shaft Fractures
+
+## Isolated Radial Shaft Fractures
+
 True isolated radial shaft fractures are uncommon and must prompt the suspicion of an
 unrecognized Galeazzi injury (see below) with subtle DRUJ disruption. Definitive treatment
 of true isolated radial fractures follows the same plate fixation principles as both-bone
@@ -149,7 +151,9 @@ Bado equivalents describe injuries with similar mechanisms but without strict ad
 to the original criteria — for example, isolated radial head fracture with radial neck
 fracture, or radial head dislocation with proximal radial fracture (often termed “Monteggia
 equivalent of the radius”).
-Treatment of Monteggia Injuries
+
+## Treatment of Monteggia Injuries
+
 The treatment of the adult Monteggia injury is open reduction and internal fixation of
 the ulnar fracture with reduction of the radial head dislocation, almost always
 operative. The principle is that anatomic reduction and rigid fixation of the ulna typically
@@ -202,7 +206,9 @@ and isolated dorsal or volar dislocations of the DRUJ with associated radial def
 
 ## Special Patterns
 
-Plastic Deformation
+
+## Plastic Deformation
+
 In the pediatric forearm, plastic deformation of one or both bones — a bowing deformity
 without a discrete fracture line — may accompany or substitute for a frank fracture. The
 bowed bone resists reduction and may require deliberate over-correction in the operating
@@ -210,7 +216,9 @@ room. Recognition of plastic deformation is important because a “missed” pla
 deformation that produces persistent angulation may obstruct subsequent reduction of an
 associated fracture or dislocation.
 
-Greenstick Fractures
+
+## Greenstick Fractures
+
 The pediatric greenstick fracture — incomplete fracture of one cortex with intact
 periosteum and bowing of the opposite cortex — is the classical pediatric pattern.
 Treatment principles include reduction of the angulation, occasionally completing the
@@ -219,7 +227,9 @@ Forearm greenstick fractures often heal in functional positions without strict a
 reduction because of the remarkable remodeling potential of the pediatric forearm, but
 residual angulation greater than 15 to 20 degrees and rotational malalignment do not
 remodel and require correction.
-Refracture After Hardware Removal
+
+## Refracture After Hardware Removal
+
 Refracture after plate removal from the forearm is a recognized complication, with rates of
 5 to 25 percent in older series and lower rates with modern protocols. The risk is
 
@@ -230,7 +240,9 @@ removal until at least 18 to 24 months postoperatively (or only with definite in
 use of LCP-style plates that minimize cortical bone contact, and patient counseling and
 gradual return to full activity after hardware removal.
 
-Forearm Compartment Syndrome
+
+## Forearm Compartment Syndrome
+
 The forearm has three compartments (volar, dorsal, mobile wad) and is the second most
 common site of compartment syndrome after the leg. The classical setting is a closed
 forearm fracture with high-energy mechanism, particularly in the pediatric supracondylar

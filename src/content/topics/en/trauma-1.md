@@ -35,7 +35,9 @@ particular producing 1-year mortality of 20-30% in elderly patients with comorbi
 
 The biomechanical analysis of fractures considers the mechanical properties of bone, the
 forces applied to it, and the resulting patterns of failure.
-Mechanical Properties of Bone
+
+## Mechanical Properties of Bone
+
 Bone is an anisotropic material — its mechanical properties differ in different directions of
 loading. Compressive strength along the long axis of the bone is substantially greater than
 tensile strength (bone is approximately twice as strong in compression as in tension) or
@@ -49,7 +51,9 @@ relatively little energy absorbed before fracture. At low strain rates, more ene
 absorbed before failure. This property explains the different patterns of fracture seen in
 high-energy versus low-energy injuries.
 
-Modes of Failure
+
+## Modes of Failure
+
 Bone can fail under several different loading modes, producing characteristic fracture
 patterns:
 Tension produces transverse fractures perpendicular to the long axis of the bone. Pure
@@ -73,7 +77,9 @@ uncommon as a single mode of loading.
 Combined loading in clinical reality produces fractures with components of multiple
 loading modes. The pattern of the fracture provides useful information about the
 mechanism of injury.
-Energy Considerations
+
+## Energy Considerations
+
 The energy delivered to the bone during the injury is a critical determinant of fracture
 severity and complexity. Low-energy injuries (a simple fall, a sports collision) typically
 produce simple fracture patterns with limited soft-tissue injury. High-energy injuries
@@ -84,7 +90,9 @@ velocity produce dramatic increases in energy delivered to tissues. The classica
 the difference between a low-velocity gunshot wound (handgun) and a high-velocity
 gunshot wound (military rifle): the soft-tissue damage in the high-velocity injury is
 dramatically greater and extends far beyond the apparent wound track.
-Pathological Fractures
+
+## Pathological Fractures
+
 A pathological fracture, by definition, is a fracture that occurs through abnormal bone —
 bone weakened by tumor (primary or metastatic), metabolic disease (osteoporosis,
 
@@ -95,7 +103,9 @@ essential to appropriate management.
 
 ## Classification of Fractures
 
-General Principles
+
+## General Principles
+
 Fracture classification serves several purposes: communication between surgeons;
 prognosis (predicting outcomes from the fracture pattern); treatment guidance (specific
 patterns directing specific treatments); and research (allowing comparison of similar
@@ -104,7 +114,9 @@ articulated by Müller and others, include: completeness (covering all fractures
 relevant area); mutual exclusivity (each fracture fitting into one and only one category);
 reliability (different observers reaching the same classification); and validity (the
 classification predicting prognosis or guiding treatment).
-General Descriptive Categories
+
+## General Descriptive Categories
+
 Several descriptive categories apply to all fractures:
 Open vs closed: The presence or absence of a skin disruption communicating with the
 fracture. Open fractures (formerly “compound fractures”) have substantially higher rates of
@@ -136,7 +148,9 @@ Subgroup: Further detail (e.g., A1.1, A1.2, A1.3) for specific anatomical varian
 The system has the advantage of completeness, hierarchical organization, and international
 standardization. The disadvantages include complexity, with the full alphanumeric code
 being cumbersome in routine clinical practice.
-Specific Fracture Classifications
+
+## Specific Fracture Classifications
+
 Many specific classifications are used for particular fracture types, and these are addressed
 in the relevant anatomical chapters: Garden classification of femoral neck fractures; Pipkin
 classification of femoral head fractures; Russell-Taylor classification of subtrochanteric
@@ -180,13 +194,17 @@ rehabilitation appropriate to the joint and the underlying injury.
 ## Clinical Diagnosis of Fractures
 
 The clinical diagnosis of fractures follows a systematic approach.
-History
+
+## History
+
 The history identifies the mechanism of injury (which suggests the likely fracture pattern
 and energy), the time of injury, the patient’s symptoms (pain, deformity, inability to bear
 weight), any associated injuries, the patient’s general medical condition, and any factors
 that might predispose to fragility fracture (advanced age, prior fragility fracture,
 corticosteroid therapy, metabolic disease).
-Physical Examination
+
+## Physical Examination
+
 The physical examination assesses:
 Inspection: Deformity, swelling, ecchymosis, soft-tissue injury, open wounds, skin tension
 over fragment ends.
@@ -210,7 +228,9 @@ compartmental tension are the cardinal features of compartment syndrome — disc
 detail in the chapter on compartment syndrome.
 Associated injuries: A systematic survey to identify other injuries that may have been
 missed during initial assessment.
-Cardinal Clinical Features of Fracture
+
+## Cardinal Clinical Features of Fracture
+
 The classical clinical features of fracture include: pain (well-localized to the fracture site);
 swelling; deformity; loss of function; abnormal mobility; and crepitus. Not all features are
 present in every fracture; non-displaced fractures may have only pain and swelling, while
@@ -219,7 +239,9 @@ own pattern of clinical presentation.
 
 ## Radiographic Diagnosis
 
-Plain Radiographs
+
+## Plain Radiographs
+
 Plain radiographs remain the foundation of fracture imaging. The general principles
 include:
 Two orthogonal views: A single view can conceal substantial deformity in the
@@ -236,7 +258,9 @@ Compare with the contralateral side when in doubt: Particularly useful in pediat
 fractures where physeal lines can be confusing.
 Reassess as needed: Follow-up radiographs at 7-10 days can reveal initially occult
 fractures as fracture line resorption makes them more visible.
-CT and MRI
+
+## CT and MRI
+
 CT is the imaging modality of choice for complex articular fractures (acetabulum, tibial
 plateau, distal radius, calcaneus), for fractures of complex anatomical regions (pelvis,
 spine), for assessment of fracture morphology when plain radiographs are inadequate, and
@@ -246,7 +270,9 @@ reconstruction provides additional information for surgical planning.
 MRI is the modality of choice for occult fractures (stress fractures, occult hip fractures), for
 assessment of associated soft-tissue and ligament injury, and for specific situations
 including suspected spinal cord injury and complex articular injuries.
-Other Imaging
+
+## Other Imaging
+
 Bone scintigraphy is useful for occult fractures, stress fractures, and metastatic disease but
 is less commonly used in modern practice with the availability of MRI. Ultrasound has a
 limited role in fracture diagnosis but is increasingly used for soft-tissue and rib fractures

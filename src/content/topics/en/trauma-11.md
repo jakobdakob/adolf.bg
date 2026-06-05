@@ -52,7 +52,9 @@ comminuted with a small inferior cortical fragment attached to the CC ligaments.
 
 ## Treatment of Clavicle Fractures
 
-Midshaft Fractures
+
+## Midshaft Fractures
+
 For decades, the orthodoxy was that virtually all midshaft clavicle fractures should be
 treated non-operatively in a sling or figure-of-eight bandage, with very few requiring
 operative fixation. This view rested on the often-quoted Neer 1960 and Rowe 1968 series
@@ -75,7 +77,9 @@ mechanically optimal but with less hardware-related irritation). Intramedullary 
 (Hagie pin, titanium elastic nail, Knowles pin) has its proponents and offers smaller
 incisions and easier hardware removal but has higher rates of migration and is less robust
 in comminuted patterns.
-Lateral-End Fractures
+
+## Lateral-End Fractures
+
 Lateral-end fractures pose distinct challenges. The CC-ligament-related Neer types IIA, IIB,
 and V have high nonunion rates with non-operative treatment (approaching 30 percent)
 because the medial fragment lacks ligamentous restraint and is displaced superiorly by the
@@ -85,7 +89,9 @@ including subacromial impingement and acromial stress fracture), anatomical lock
 plates with or without CC ligament reconstruction, and arthroscopic-assisted CC
 ligament reconstruction with TightRope-type devices in selected cases. Neer types I, III,
 and IV are typically managed non-operatively.
-Medial-End Fractures
+
+## Medial-End Fractures
+
 Medial clavicle fractures are rare and are typically treated non-operatively unless there is
 severe posterior displacement with compression of mediastinal structures. The growth
 plate of the medial clavicle does not fuse until the third decade, so what appears to be a
@@ -224,24 +230,32 @@ from open reduction and plate fixation.
 
 ## Special Considerations
 
-Neurovascular Complications of Clavicle Fractures
+
+## Neurovascular Complications of Clavicle Fractures
+
 The clavicle lies immediately above the subclavian artery and vein and the brachial plexus,
 and clavicle fracture displacement can produce vascular injury (rare, typically with marked
 posterior displacement) or brachial plexus traction injury. Vascular evaluation by palpation
 and Doppler, neurological examination of brachial plexus distribution, and a low threshold
 for CT angiography in suspected cases are appropriate.
-Pneumothorax and Hemothorax
+
+## Pneumothorax and Hemothorax
+
 Clavicle and scapula fractures are markers of significant chest trauma, and the orthopedic
 surgeon should not consider clavicular fracture in isolation. Chest radiograph is
 mandatory; the presence of associated pneumothorax or hemothorax mandates thoracic
 surgical involvement before or concurrent with any orthopedic intervention.
-Pediatric Clavicle Fractures
+
+## Pediatric Clavicle Fractures
+
 Pediatric clavicle fractures heal reliably with non-operative treatment because of the
 periosteum integrity and the remodeling potential of the growing skeleton. Even severely
 displaced midshaft fractures in children under 10 years rarely require operative fixation.
 The very rare unstable lateral-end injury in the adolescent (typically a Robinson type III or
 Neer type IV) may warrant operative consideration similar to that for adults.
-Operative Complications
+
+## Operative Complications
+
 Plate fixation of midshaft clavicle fractures carries a defined complication profile: hardware
 prominence and irritation (10 to 30 percent of patients eventually request hardware
 removal), refracture after hardware removal (uncommon but recognized), nonunion (1 to

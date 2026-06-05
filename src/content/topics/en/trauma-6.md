@@ -27,7 +27,9 @@ control orthopedics, and the integrated management of the polytrauma patient.
 
 ## Traumatic Shock
 
-Definition and Classification
+
+## Definition and Classification
+
 Shock is the clinical state of inadequate tissue perfusion to meet metabolic demand. In the
 trauma patient, shock is most commonly hemorrhagic but can also be from cardiogenic,
 neurogenic, or obstructive causes.
@@ -46,7 +48,9 @@ including the variable physiological response in different patient populations (
 athlete may maintain compensation longer; the elderly patient on beta-blockers may not
 develop the expected tachycardia).
 
-Resuscitation Principles
+
+## Resuscitation Principles
+
 Modern trauma resuscitation has evolved substantially from the historic “aggressive
 crystalloid resuscitation” approach. The current principles include:
 Permissive hypotension: Acceptance of moderate hypotension (systolic blood pressure
@@ -67,7 +71,9 @@ and 1 g IV over 8 hours.
 Targeted resuscitation: Use of focused assessment with sonography for trauma (FAST),
 thromboelastography (TEG) or rotational thromboelastometry (ROTEM), and other point-
 of-care tests to guide specific resuscitation.
-The Lethal Triad
+
+## The Lethal Triad
+
 The lethal triad of trauma — hypothermia, acidosis, and coagulopathy — describes the self-
 perpetuating physiological deterioration that characterizes severe trauma. Each
 component worsens the others: hypothermia impairs coagulation function; acidosis
@@ -79,7 +85,9 @@ surgery in unstable patients.
 
 The systemic response to trauma involves a complex interplay of inflammatory and
 counter-regulatory mechanisms.
-The Two-Hit Theory
+
+## The Two-Hit Theory
+
 The two-hit theory holds that the initial traumatic insult (“first hit”) produces a generalized
 inflammatory response, and that subsequent insults — surgery, infection, hypotension —
 represent “second hits” that can produce excessive inflammatory response leading to
@@ -88,7 +96,9 @@ the polytrauma patient must consider the patient’s overall physiological statu
 
 of definitive surgery often being preferable to aggressive early intervention in the
 physiologically unstable patient.
-The Inflammatory Cascade
+
+## The Inflammatory Cascade
+
 The early phase of trauma is characterized by a systemic inflammatory response syndrome
 (SIRS) — characterized clinically by tachycardia, tachypnea, fever or hypothermia, and
 leukocytosis or leukopenia. The systemic release of cytokines (TNF-α, IL-1, IL-6, others),
@@ -98,7 +108,9 @@ inflammatory response, with paradoxical immunosuppression that increases the pat
 susceptibility to infection in the subsequent days. The interplay between SIRS and CARS —
 known as MARS (mixed antagonistic response syndrome) — determines the patient’s
 overall response.
-Specific Pulmonary Consequences
+
+## Specific Pulmonary Consequences
+
 The lungs are particularly vulnerable in polytrauma, with the development of acute
 respiratory distress syndrome (ARDS) being a recognized complication. ARDS produces
 severe hypoxemia, decreased lung compliance, and bilateral pulmonary infiltrates without
@@ -116,7 +128,9 @@ cases) the systemic circulation.
 The damage control orthopedics (DCO) concept, developed by Pape, Krettek, Scalea, and
 others in the late 1990s, provides a framework for the orthopedic management of the
 polytrauma patient.
-Concept and Principles
+
+## Concept and Principles
+
 The fundamental principle is to provide initial fracture stabilization that controls
 hemorrhage and pain while minimizing additional physiological insult, deferring definitive
 surgical fixation until the patient is physiologically stable. The initial stabilization is
@@ -128,7 +142,9 @@ appropriate for the stable polytrauma patient but can be deleterious in the unst
 
 patient, where the additional surgical burden of multiple definitive procedures can
 precipitate the lethal triad and multi-organ failure.
-Patient Classification
+
+## Patient Classification
+
 The polytrauma patient can be classified by physiological status:
 Stable: Hemodynamically stable, normal coagulation, normal acid-base, normal
 temperature. Tolerates early total care.
@@ -143,7 +159,9 @@ The decision between DCO and ETC has been a major area of study, with the result
 summarized as: clearly stable patients benefit from early total care; clearly unstable
 patients benefit from damage control; the borderline patient requires individualized
 assessment with the trend favoring DCO when in doubt.
-Application to Specific Injuries
+
+## Application to Specific Injuries
+
 Femoral shaft fractures: The classical example. Initial external fixation followed by
 conversion to intramedullary nailing within 5-14 days when the patient is stable.
 Pelvic ring injuries: Initial stabilization with C-clamp, external fixator, or pelvic binder for
@@ -180,7 +198,9 @@ balanced against other priorities.
 
 ## Specific Considerations
 
-Pelvic Hemorrhage
+
+## Pelvic Hemorrhage
+
 Pelvic ring injuries with hemorrhage are among the most consequential polytrauma
 combinations. The management combines: external pelvic stabilization (binder, C-clamp, or
 external fixator); angiographic embolization (for ongoing hemorrhage from arterial
@@ -190,14 +210,18 @@ definitive surgical fixation when physiology permits. The protocols for manageme
 pelvic hemorrhage vary by institution but emphasize early stabilization, early angiography
 in appropriate cases, and a coordinated multidisciplinary approach.
 
-Spinal Trauma in Polytrauma
+
+## Spinal Trauma in Polytrauma
+
 Spinal precautions during the initial assessment and resuscitation are essential. The
 principles include immobilization on a backboard (with awareness of the limitations and
 risks of prolonged backboard immobilization), log-rolling for examination, careful imaging
 of the entire spine before clearance, and careful management of any identified spinal cord
 injury including consideration of corticosteroid administration (the evidence for which has
 been substantially undermined by recent analyses).
-Closed Head Injury
+
+## Closed Head Injury
+
 Closed head injury is the principal determinant of survival and disability in polytrauma.
 The management is the domain of neurosurgery and neurology, but the orthopedic surgeon
 must coordinate care with attention to: cerebral perfusion pressure (maintained by
@@ -206,7 +230,9 @@ or hypoxia; timing of orthopedic surgery (with concerns about hypotension from b
 
 during long orthopedic procedures); and the rehabilitation considerations of combined
 brain and limb injury.
-Solid Organ Injury
+
+## Solid Organ Injury
+
 Solid organ injuries (liver, spleen) are managed principally by trauma general surgery, with
 non-operative management being increasingly common for stable patients. The orthopedic
 surgeon must coordinate timing of orthopedic procedures with the abdominal

@@ -54,7 +54,9 @@ predisposes to Kienböck’s disease (avascular necrosis, discussed in Topic Ort
 
 ## Scaphoid Fractures
 
-Anatomy and Classification
+
+## Anatomy and Classification
+
 The classical Russe classification (1960) divides scaphoid fractures by the orientation of
 the fracture line: horizontal oblique, transverse, and vertical oblique. The vertical
 oblique pattern is the most unstable. The Herbert classification (1984) subdivides by
@@ -63,7 +65,9 @@ displacement, location, and stability into types A (stable acute), B (unstable a
 subdivides by location into distal pole (10 percent of fractures, generally heal well in cast),
 waist (70 percent, the most common, intermediate prognosis), and proximal pole (20
 percent, high risk of AVN and nonunion).
-Clinical and Radiographic Diagnosis
+
+## Clinical and Radiographic Diagnosis
+
 The classical mechanism is a fall on the outstretched hand with the wrist in dorsiflexion
 and radial deviation. Clinical features include pain on the radial aspect of the wrist with
 tenderness in the anatomic snuffbox, scaphoid tubercle tenderness, and pain with
@@ -79,7 +83,9 @@ re-image at 10 to 14 days, when callus may be visible. Modern practice has shift
 early MRI or CT in clinically suspected scaphoid fractures with negative radiographs, with
 MRI being the gold standard for definitive diagnosis or exclusion. Bone scintigraphy is an
 alternative but is non-specific.
-Treatment of Acute Scaphoid Fractures
+
+## Treatment of Acute Scaphoid Fractures
+
 Non-displaced scaphoid fractures can be treated either non-operatively in a cast or
 operatively with percutaneous screw fixation. The traditional non-operative approach uses
 a thumb spica cast for 8 to 12 weeks for waist fractures and 12 to 16 weeks for proximal
@@ -106,7 +112,9 @@ reduction and internal fixation through a volar approach (Russe approach, betwee
 FCR tendon and the radial artery) or dorsal approach (with the wrist in volar flexion to
 expose the proximal pole) achieves anatomical reduction and rigid fixation with a headless
 compression screw.
-Scaphoid Nonunion
+
+## Scaphoid Nonunion
+
 Scaphoid nonunion, despite its frequency and clinical importance, remains a challenging
 problem. The classical pattern is the dorsal intercalated segmental instability (DISI)
 that develops with progressive collapse of the scaphoid — flexion of the distal fragment
@@ -162,7 +170,9 @@ The trans-scaphoid perilunate dislocation (or “greater arc” injury) is the v
 which the dislocation pattern passes through the scaphoid as a fracture rather than
 rupturing the SL ligament; the purely ligamentous “lesser arc” injury ruptures all the
 intrinsic and extrinsic ligaments around the lunate without bony fracture.
-Treatment
+
+## Treatment
+
 The perilunate dislocation requires urgent reduction by traction with hyperextension
 followed by flexion. Closed reduction is usually achievable in the acute setting, but
 maintenance of reduction without operative fixation is generally impossible because of the
@@ -201,7 +211,9 @@ angulated fractures, multiple metacarpal fractures, or rotational malalignment r
 operative fixation, typically by closed reduction and percutaneous K-wire fixation (the
 bouquet pinning of Foucher using flexible intramedullary nails inserted at the base of the
 fifth metacarpal is a classical alternative) or open reduction and plate fixation.
-Metacarpal Shaft Fractures
+
+## Metacarpal Shaft Fractures
+
 Metacarpal shaft fractures (transverse, oblique, spiral, comminuted) follow similar
 principles. Transverse shaft fractures angulate apex-dorsally from the pull of the intrinsic
 muscles. Spiral and oblique shaft fractures tend to shorten and rotate. Acceptable
@@ -210,7 +222,9 @@ the metacarpal, no rotation. The treatment is similar to metacarpal neck fractur
 operative for stable patterns within acceptable parameters, K-wire or plate fixation for
 unstable or unacceptable patterns. Multiple adjacent metacarpal fractures destabilize each
 other and have a lower threshold for operative fixation.
-First Metacarpal Base — Bennett and Rolando Fractures
+
+## First Metacarpal Base — Bennett and Rolando Fractures
+
 The Bennett fracture (Edward Hallaran Bennett, 1882) is an intra-articular fracture-
 dislocation of the base of the first metacarpal with a small volar-ulnar fragment held in
 place by the anterior oblique (deep beak) ligament, while the metacarpal shaft
@@ -237,7 +251,9 @@ and operative fixation for unstable or rotated patterns.
 
 Phalangeal fractures of the fingers include the proximal, middle, and distal phalanges
 and the interphalangeal joints.
-Proximal and Middle Phalangeal Fractures
+
+## Proximal and Middle Phalangeal Fractures
+
 Phalangeal shaft fractures are common and can be condylar, neck, base, or shaft in location.
 The acceptable parameters are stricter than for metacarpals: no significant angulation in
 either plane, no rotation, and minimal shortening. The principal concern is the
@@ -253,7 +269,9 @@ avulsion of the volar plate with associated PIP dislocation, are a particular co
 Stable injuries with fragments less than 30 percent of the articular surface are treated by
 extension block splinting with early motion; larger or unstable fragments require open
 reduction and fixation.
-Distal Phalangeal Fractures
+
+## Distal Phalangeal Fractures
+
 The distal phalangeal tuft fractures are extremely common, typically from crush injuries,
 and heal reliably with brief splinting; the principal concern is the associated nail bed
 laceration that may require repair. Mallet fracture (avulsion of the dorsal lip of the distal
@@ -265,7 +283,9 @@ Jersey finger (avulsion of the flexor digitorum profundus from the volar base of
 phalanx) is a tendinous rather than purely bony injury, classified by the level of retraction
 (Leddy and Packer types I, II, III, IV), and requires prompt operative repair, particularly for
 type I where the tendon has retracted into the palm.
-Interphalangeal Joint Dislocations
+
+## Interphalangeal Joint Dislocations
+
 The dorsal PIP dislocation is the most common, with the volar plate avulsing from the
 middle phalangeal base. The treatment is closed reduction followed by extension block
 splinting; recurrent instability requires volar plate repair.

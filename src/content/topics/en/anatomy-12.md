@@ -144,16 +144,22 @@ reduction or operative management for redisplacement.
 
 ## Other Pediatric Fracture Patterns
 
-Buckle (Torus) Fracture
+
+## Buckle (Torus) Fracture
+
 The buckle (torus) fracture is a compression fracture of the metaphyseal cortex without a
 complete fracture line, producing a characteristic “buckling” of the cortex. The fracture is
 most common at the distal radius and is typically a stable injury treated in a short-arm cast
 or removable splint for 3 to 4 weeks with good healing and no concerns about deformity.
-Bowing Deformity
+
+## Bowing Deformity
+
 The bowing deformity is a more severe variant of plastic deformation with substantial
 angulation; the management is as for plastic deformation.
 
-Avulsion Fractures
+
+## Avulsion Fractures
+
 Avulsion fractures at apophyseal sites (where tendons or ligaments attach to ossifying
 secondary growth centers) are particularly common in adolescents during the period of
 apophyseal development. The classical examples include the anterior superior iliac spine
@@ -162,7 +168,9 @@ ischial tuberosity (hamstring avulsion), and the tibial tubercle (patellar tendo
 avulsion). Treatment is typically non-operative for minimally displaced fractures (rest,
 NSAIDs, protected weight bearing) and operative for severely displaced fractures (ORIF
 with screws).
-Apophyseal Avulsions in Specific Locations
+
+## Apophyseal Avulsions in Specific Locations
+
 Tibial tubercle avulsion (Ogden classification) occurs during the closing phase of the
 tibial tubercle apophysis in adolescents. The classification (types I, II, III) is based on the
 involvement of the tibial tubercle, the proximal tibial physis, and the joint surface. Type III
@@ -173,7 +181,9 @@ Tillaux fracture and Triplane fracture at the distal tibia are addressed in Topi
 
 ## Specific Pediatric Considerations
 
-Periosteum
+
+## Periosteum
+
 The pediatric periosteum is substantially thicker, more cellular, and more biologically
 active than in adults. The periosteum often remains intact on one side of a pediatric
 fracture, providing a hinge that facilitates reduction and contributing to the rapid healing
@@ -181,12 +191,16 @@ characteristic of childhood. The periosteal sleeve fracture is the classical lat
 pediatric pattern (Neer type IV) where the periosteum remains intact while the clavicular
 bone fragments.
 
-Healing Potential
+
+## Healing Potential
+
 Pediatric bones heal substantially faster than adult bones — typical adult tibial shaft
 fractures may take 16 weeks to heal, while a similar fracture in a young child may heal in 6
 weeks. The healing time generally correlates with age, with the youngest children healing
 most rapidly.
-Remodeling Potential
+
+## Remodeling Potential
+
 The remodeling potential of the pediatric bone is substantial and is a critical
 consideration in management. The factors favoring remodeling include:
 Younger age: More years of growth remaining.
@@ -229,18 +243,24 @@ side at the appropriate time.
 
 ## Principles of Pediatric Fracture Management
 
-Closed Reduction
+
+## Closed Reduction
+
 Closed reduction is the cornerstone of pediatric fracture management for the great
 majority of fractures. The combination of strong periosteum (which provides a guide for
 reduction), favorable remodeling, and rapid healing means that many fractures can be
 managed by closed reduction and cast immobilization, with substantial residual deformity
 acceptable.
-Cast Application
+
+## Cast Application
+
 Cast application in pediatric fractures requires attention to growth (avoiding cast
 restriction of an actively growing limb that may produce ischemia or pressure injury), to
 the mechanical principles of three-point fixation, and to the activity level of children (with
 appropriate strength of materials and protection of vulnerable areas).
-Operative Indications
+
+## Operative Indications
+
 The specific indications for operative pediatric fracture management include:
 Open fractures requiring debridement and fixation.
 Irreducible fractures that cannot be maintained in acceptable position by closed means.
@@ -251,7 +271,9 @@ Polytrauma in adolescents requiring stable fixation for nursing care and mobiliz
 Pathological fractures through bone cysts, fibrous dysplasia, or other lesions.
 Selected fractures in older adolescents approaching skeletal maturity where remodeling
 potential is limited and adult-style anatomical reduction is preferred.
-Specific Pediatric Fixation Techniques
+
+## Specific Pediatric Fixation Techniques
+
 Flexible intramedullary nailing (TENS — titanium elastic nailing system, Métaizeau):
 The principal operative technique for pediatric long-bone diaphyseal fractures (forearm,
 femur, humerus). Uses two flexible nails inserted retrograde or antegrade through small
@@ -264,7 +286,9 @@ Plate fixation: Reserved for older adolescents and for fractures not amenable to
 nailing or K-wires.
 External fixation: For severely open fractures, polytrauma, and selected complex injuries.
 Submuscular plating: For pediatric femoral shaft fractures in selected indications.
-Specific Approaches Modified for Children
+
+## Specific Approaches Modified for Children
+
 Surgical approaches in children must respect the physes (avoiding crossing of the physis
 with hardware when possible, or using smooth wires across the physis if necessary), the
 smaller anatomical scale (requiring appropriately sized instruments and gentler tissue

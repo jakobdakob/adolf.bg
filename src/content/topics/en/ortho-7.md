@@ -76,7 +76,9 @@ contracture. Surgical open reduction must address each of these obstacles.
 
 ## Clinical Examination of the Newborn Hip
 
-The Ortolani and Barlow Maneuvers
+
+## The Ortolani and Barlow Maneuvers
+
 The Ortolani maneuver, described by Marino Ortolani in 1937, is a test for the dislocated
 but reducible hip: with the infant supine and relaxed, both hips are flexed to 90°, the thigh
 is gently abducted, and the examiner’s middle finger placed over the greater trochanter
@@ -94,7 +96,9 @@ Both maneuvers must be performed with care and without force in a relaxed infant
 examiner must distinguish the high-pitched soft “click” produced by ligamentous or
 tendinous snap from the deeper “clunk” of true hip displacement.
 
-Other Signs
+
+## Other Signs
+
 In older infants (>3 months), the Ortolani and Barlow signs become negative as secondary
 changes develop, and other signs become more important: limited hip abduction (less than
 70° in unilateral disease, with asymmetry between the affected and normal sides being the
@@ -111,7 +115,9 @@ the affected side, and increased lumbar lordosis with bilateral disease.
 
 ## Screening and Imaging
 
-Universal vs Selective Screening
+
+## Universal vs Selective Screening
+
 The optimal approach to DDH screening — universal ultrasound for all newborns, selective
 ultrasound for at-risk infants, or clinical examination alone with referral for at-risk infants
 — remains debated. Universal ultrasound screening (the German and Austrian model)
@@ -123,7 +129,9 @@ clinical examination — and produces a better balance of detection versus over-
 The American Academy of Pediatrics and the British Society of Paediatric Radiology have
 published practice guidelines that combine universal clinical screening with selective
 imaging.
-Graf Ultrasound Classification
+
+## Graf Ultrasound Classification
+
 The Graf classification, developed by Reinhard Graf in the 1980s, is the standard ultrasound
 classification of the infant hip and is universally used in centers performing screening
 ultrasound. The technique involves a standardized coronal-section ultrasound image of the
@@ -145,7 +153,9 @@ performed by trained operators with a standardized technique, and it provides cl
 treatment recommendations: Type IIa-minus and IIc and worse require treatment, while
 Type IIa-plus and I do not.
 
-Plain Radiographs
+
+## Plain Radiographs
+
 Plain radiographs become useful as the ossific nucleus of the femoral head appears,
 typically at 3-6 months of age. The standard AP view of the pelvis is interpreted using
 several reference lines and angles: Hilgenreiner’s line (horizontal through the triradiate
@@ -204,7 +214,9 @@ contraindications to acceptance of closed reduction — the so-called “safe zo
 — define the range of abduction within which the hip remains reduced; a hip that
 dislocates with less than 25° from full abduction has an inadequate safe zone and is at risk
 of redislocation, indicating either continued treatment or open reduction.
-Open Reduction
+
+## Open Reduction
+
 Open reduction is indicated when closed reduction fails or when secondary changes
 preclude closed reduction. The standard approaches are: the anterior (Smith-Petersen)
 approach, the most common in the older infant and toddler; the medial (Ludloff) approach,
@@ -226,7 +238,9 @@ maintain reduction. The choice of procedure depends on the age of the child, the
 morphology of the dysplastic acetabulum, the femoral anteversion, and the soft-tissue
 contractures.
 
-Femoral Osteotomy
+
+## Femoral Osteotomy
+
 A femoral varus-derotation osteotomy addresses the typical proximal femoral anatomy of
 DDH: excessive anteversion and valgus. The osteotomy is typically performed in the
 subtrochanteric region with a blade plate or angled-blade plate fixation. Indications include
@@ -234,7 +248,9 @@ excessive anteversion (greater than 50-60°), excessive valgus (femoral neck-sha
 greater than 150°), and femoral head deformity. The procedure improves congruency,
 reduces shear forces on the dysplastic acetabulum, and supports acetabular remodeling in
 the growing child.
-Pelvic Osteotomies
+
+## Pelvic Osteotomies
+
 A variety of pelvic osteotomies address the dysplastic acetabulum, and the choice depends
 primarily on the age of the child and the morphology of the dysplasia.
 The Salter innominate osteotomy (described by Robert Salter in 1961) is a single-cut

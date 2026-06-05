@@ -45,7 +45,9 @@ findings, differential diagnosis, treatment, and complications.
 
 ## Simple Bone Cyst (Unicameral Bone Cyst, Solitary Bone Cyst)
 
-Epidemiology and Etiology
+
+## Epidemiology and Etiology
+
 The simple bone cyst (SBC), also known as unicameral bone cyst (UBC) or solitary bone
 cyst, is one of the commonest tumor-like conditions of childhood and adolescence.
 Approximately two-thirds of patients are under the age of 14, and males are affected
@@ -61,7 +63,9 @@ such that interstitial pressure rises above arterial inflow pressure, the marrow
 infarction and serous transformation, and a cavity forms. Elevated intracystic
 concentrations of prostaglandins, interleukin-1β, and matrix metalloproteinases support
 an additional inflammatory component to the bone resorption observed at the cyst wall.
-Pathology
+
+## Pathology
+
 Macroscopically the SBC is a solitary, unilocular cavity lined by a thin fibrous membrane
 and filled with serous or serosanguineous fluid. Bony septa may project incompletely from
 the wall, giving the impression on imaging of a multiloculated structure, but pathologically
@@ -72,7 +76,9 @@ calcified material resembling cementum (so-called “cementicles”) may be pres
 no atypia, mitotic activity, or pleomorphism. The differentiation from aneurysmal bone
 cyst, with which it can coexist, depends chiefly on the absence of blood-filled cavernous
 spaces lined by fibroblast-like cells.
-Clinical Features
+
+## Clinical Features
+
 The lesion is almost always asymptomatic until a pathological fracture occurs, which is the
 presenting feature in approximately two-thirds of cases. The fracture is typically through
 the proximal humeral metadiaphysis in a child of eight to fourteen years, often after a
@@ -80,7 +86,9 @@ relatively minor athletic trauma. Pain or a slight swelling without fracture is 
 noticed, and rare cases of presentation with limb-length discrepancy or premature physeal
 closure related to extensive cyst involvement are reported.
 
-Radiographic Findings
+
+## Radiographic Findings
+
 The plain radiograph is usually diagnostic. The cyst appears as a centrally placed, well-
 circumscribed, expansile lytic lesion of the metaphysis, abutting but not crossing the
 physis. The cortex is thinned but a thin rim of intact cortex usually persists, and the lesion
@@ -96,7 +104,9 @@ pathognomonic of an SBC and a useful feature that distinguishes the lesion from 
 
 tumors. Magnetic resonance imaging shows a homogeneous, fluid-signal lesion (low T1,
 high T2) without enhancement of the contents and only a thin enhancing rim.
-Treatment
+
+## Treatment
+
 Many simple bone cysts heal spontaneously following pathological fracture, and the
 management of an asymptomatic cyst is generally observation. When intervention is
 needed, the historical mainstays have evolved over several decades. Scaglietti’s
@@ -119,7 +129,9 @@ fractures.
 
 ## Aneurysmal Bone Cyst (ABC)
 
-Epidemiology and Pathogenesis
+
+## Epidemiology and Pathogenesis
+
 The aneurysmal bone cyst is a benign but locally aggressive osteolytic lesion characterized
 by blood-filled cavernous spaces. Three-quarters of cases occur in the first two decades of
 life with an even sex distribution. Long-bone metaphyses of the femur, tibia and humerus
@@ -136,7 +148,9 @@ rearrangement. The clinical importance of this distinction is that an apparent A
 examined histologically with care to exclude an underlying neoplasm, particularly
 telangiectatic osteosarcoma, which can mimic ABC radiographically and histologically.
 
-Pathology
+
+## Pathology
+
 The lesion consists of cavernous, blood-filled spaces separated by fibrous septa containing
 fibroblasts, multinucleated osteoclast-type giant cells, scattered foci of woven bone (often
 with a basophilic mineralization pattern described as “blue bone”), and hemosiderin. The
@@ -147,7 +161,9 @@ predominate over cystic areas, producing the so-called “solid aneurysmal bone 
 can be radiographically confused with malignant tumor and histologically with giant cell
 reparative granuloma.
 
-Clinical Features and Radiographic Findings
+
+## Clinical Features and Radiographic Findings
+
 Patients typically present with pain and progressive swelling at the affected site, often of
 several months’ duration; spinal lesions can produce nerve-root or cord compression.
 Radiographically the ABC appears as an eccentric, expansile, osteolytic lesion that elevates
@@ -160,7 +176,9 @@ representing the layering of cellular debris and blood products at different sta
 degradation; these fluid-fluid levels, although not entirely pathognomonic, are highly
 suggestive of ABC and are best seen on T2-weighted images. Contrast-enhanced sequences
 show enhancement of the septa but not the cyst contents.
-Treatment
+
+## Treatment
+
 The treatment of an ABC must accomplish three goals: confirmation of the diagnosis (with
 particular attention to excluding telangiectatic osteosarcoma or an underlying neoplasm),
 eradication of the lesion with an acceptable rate of local recurrence, and preservation of
@@ -199,7 +217,9 @@ hyperfunction — most commonly precocious puberty, but also hyperthyroidism, gr
 hormone-secreting pituitary adenomas, and adrenal hyperplasia. The Mazabraud
 syndrome describes the association of fibrous dysplasia with intramuscular myxomas, and
 is a rare but well-documented entity.
-Pathology
+
+## Pathology
+
 The dysplastic medulla shows a characteristic background of bland, whorled fibrous
 stroma supporting irregular, curvilinear trabeculae of woven bone that have been likened
 to “alphabet soup” or “Chinese characters” in their tortuous outline. Critically, these
@@ -210,7 +230,9 @@ approximately 1% of monostotic and up to 4% of polyostotic cases, malignant
 transformation occurs, typically to osteosarcoma, fibrosarcoma, or malignant fibrous
 histiocytoma; the risk is highest in irradiated lesions, which is one of several reasons
 radiotherapy is contraindicated.
-Clinical Features and Radiographic Findings
+
+## Clinical Features and Radiographic Findings
+
 Monostotic disease is often discovered incidentally on imaging performed for unrelated
 reasons. When symptomatic, presentation is with pain, deformity, or pathological fracture.
 The femur is the most frequently involved long bone, and the characteristic “shepherd’s-
@@ -225,7 +247,9 @@ reflects the mineralization of the woven trabeculae; expansion of the bone, cort
 thinning, and a sclerotic rim are typical. Long-standing lesions may contain cystic or
 cartilaginous areas. The bone scan is hot, which is useful in mapping the extent of
 polyostotic disease.
-Treatment
+
+## Treatment
+
 Asymptomatic and small lesions are observed. Symptomatic monostotic lesions can be
 managed with curettage and bone grafting, although the propensity of the dysplastic
 process to incorporate or replace any bone graft means that allograft, particularly cortical
@@ -244,7 +268,9 @@ sarcomatous transformation in the diseased bone.
 
 ## Non-ossifying Fibroma and Fibrous Cortical Defect
 
-Concept and Nomenclature
+
+## Concept and Nomenclature
+
 The terms “fibrous cortical defect” (FCD) and “non-ossifying fibroma” (NOF) refer to a
 single histopathological entity at different sizes and stages: the small, asymptomatic,
 cortical-based lesion of a growing child is termed a fibrous cortical defect, and as it
@@ -266,13 +292,17 @@ plain radiographs appears as a well-circumscribed, oval, multiloculated lytic ar
 
 thin sclerotic margin and a long axis parallel to the long axis of the bone. Larger NOFs may
 attain a “soap-bubble” appearance.
-Jaffe-Campanacci Syndrome
+
+## Jaffe-Campanacci Syndrome
+
 The association of multiple non-ossifying fibromas with café-au-lait spots, mental
 retardation, hypogonadism, cardiovascular and ocular anomalies constitutes the rare Jaffe-
 Campanacci syndrome. Its inclusion in the differential of polyostotic café-au-lait
 associations (alongside neurofibromatosis and McCune-Albright syndrome) is an exam-
 classic point.
-Treatment
+
+## Treatment
+
 The natural history of the NOF is one of spontaneous resolution as the child matures, and
 the great majority require no treatment. Indications for intervention are limited to large
 lesions in mechanically loaded bones — typically those exceeding 50% of the bone
@@ -282,7 +312,9 @@ fixation is rarely required.
 
 ## Langerhans Cell Histiocytosis (Histiocytosis X) and Eosinophilic Granuloma
 
-Spectrum of Disease
+
+## Spectrum of Disease
+
 Langerhans cell histiocytosis (LCH), formerly named histiocytosis X and Letterer-Siwe /
 Hand-Schüller-Christian / eosinophilic granuloma, comprises a spectrum of disorders
 characterized by clonal proliferation of bone-marrow-derived Langerhans cells. The
@@ -307,7 +339,9 @@ the lesion is a punched-out, geographic lytic area, sometimes with a sclerotic m
 
 adjacent periosteal reaction that can be confused with osteosarcoma or Ewing sarcoma —
 both of which are critical differentials.
-Treatment
+
+## Treatment
+
 The natural history of single-system bony LCH is one of spontaneous resolution over
 months to years, and the majority of solitary lesions require nothing more than
 confirmation by biopsy or fine-needle aspiration and observation. Symptomatic lesions can
@@ -344,7 +378,9 @@ is rarely required and is undertaken only after metabolic stabilization.
 ## Sclerotic Tumor-like Lesions: Bone Island, Osteopoikilosis, Osteopathia
 
 Striata, and Melorheostosis
-Bone Island (Enostosis)
+
+## Bone Island (Enostosis)
+
 The bone island is a focus of compact, mature, lamellar bone within the cancellous bone of
 an otherwise normal medullary cavity. It is asymptomatic, an incidental finding on
 radiographs, and presents typically as a small, dense, round to oval focus of compact bone
@@ -354,7 +390,9 @@ normal — a useful feature in distinguishing it from a sclerotic metastasis, wh
 hot. Bone islands greater than 2 cm have been termed “giant bone islands” and may require
 radiological follow-up to confirm stability, but malignant transformation is not described
 and they are best regarded as a normal anatomical variant.
-Osteopoikilosis (Spotted Bone Disease)
+
+## Osteopoikilosis (Spotted Bone Disease)
+
 Osteopoikilosis is an inherited autosomal-dominant condition in which multiple small foci
 of compact lamellar bone — essentially, multiple miniature bone islands — are distributed
 symmetrically through the cancellous bone of the long-bone metaphyses, the carpus,
@@ -365,7 +403,9 @@ The chief clinical importance is the avoidance of mistaking the appearance for b
 metastases, which it can mimic — although the symmetrical, juxta-articular distribution,
 the small size, and the negative bone scan are reassuring. Association with collagenous skin
 nodules (the Buschke-Ollendorff syndrome) is well described.
-Osteopathia Striata
+
+## Osteopathia Striata
+
 Osteopathia striata, also termed Voorhoeve’s disease, is characterized by linear vertical
 striations of dense bone radiating from the physis along the long axis of the long bones,
 particularly in the metaphyses of the distal femur and proximal tibia. It is usually
@@ -373,7 +413,9 @@ asymptomatic and incidental, autosomal-dominant inheritance has been described, 
 condition is sometimes seen in combination with osteopoikilosis or with cranial sclerosis.
 Distinction from melorheostosis is by the radiographic morphology: striae rather than the
 candle-wax appearance of melorheostosis.
-Melorheostosis
+
+## Melorheostosis
+
 Melorheostosis is a sporadic, often unilateral developmental disorder of bone in which
 hyperostotic, irregular new bone is deposited along the cortex of long bones in a pattern
 reminiscent of melting wax dripping down a candle (“flowing candle wax” or “melted-wax”

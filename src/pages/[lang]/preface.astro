@@ -1,7 +1,7 @@
 ---
 import { LANGS, type Lang } from "../../i18n/ui";
 import TopicLayout from "../../layouts/TopicLayout.astro";
-import { getTopicByLocalSlug } from "../../lib/topics";
+import { getTopicByLocalSlug, otherLangPath as otherLangPathFn } from "../../lib/topics";
 
 export async function getStaticPaths() {
   return LANGS.map((lang) => ({ params: { lang } }));
@@ -11,8 +11,8 @@ const { lang } = Astro.params as { lang: Lang };
 const entry = await getTopicByLocalSlug(lang, "preface");
 if (!entry) throw new Error(`Missing preface for ${lang}`);
 const { Content } = await entry.render();
-const otherLangPath = `/${lang === "bg" ? "en" : "bg"}/preface`;
+const otherPath = otherLangPathFn(lang, entry);
 ---
-<TopicLayout lang={lang} entry={entry} otherPath={otherLangPath}>
+<TopicLayout lang={lang} entry={entry} otherPath={otherPath}>
   <Content />
 </TopicLayout>

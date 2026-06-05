@@ -1,20 +1,20 @@
 ---
-// Static landing — default to Bulgarian, offer English in nav.
-import { LANGS } from "../i18n/ui";
+const base = import.meta.env.BASE_URL || "/";
+const a = base.endsWith("/") ? base.slice(0, -1) : base;
 ---
 <!doctype html>
 <html lang="bg">
   <head>
     <meta charset="utf-8" />
     <title>adolf.bg</title>
-    <meta http-equiv="refresh" content="0; url=/bg/" />
-    <link rel="canonical" href="/bg/" />
+    <meta http-equiv="refresh" content={`0; url=${a}/bg/`} />
+    <link rel="canonical" href={`${a}/bg/`} />
     <meta name="robots" content="noindex" />
   </head>
   <body>
     <p style="font-family:system-ui;padding:2rem">
-      <a href="/bg/">Към адолф.bg (български) →</a><br />
-      <a href="/en/">Go to adolf.bg (English) →</a>
+      <a href={`${a}/bg/`}>Към адолф.bg (български) →</a><br />
+      <a href={`${a}/en/`}>Go to adolf.bg (English) →</a>
     </p>
   </body>
 </html>

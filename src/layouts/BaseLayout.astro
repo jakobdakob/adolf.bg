@@ -2,6 +2,7 @@
 import { ViewTransitions } from "astro:transitions";
 import { type Lang, ui } from "../i18n/ui";
 import Header from "../components/Header.astro";
+import { url } from "../lib/topics";
 import "../styles/global.css";
 
 interface Props {
@@ -27,8 +28,8 @@ const desc = description ?? t.siteTagline;
     <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#0F0F12" media="(prefers-color-scheme: dark)" />
     <link rel="alternate" hreflang={lang === "bg" ? "en" : "bg"} href={otherPath} />
-    <link rel="alternate" hreflang="x-default" href="/bg/" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" hreflang="x-default" href={url("/bg/")} />
+    <link rel="icon" href={url("/favicon.svg")} type="image/svg+xml" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={desc} />

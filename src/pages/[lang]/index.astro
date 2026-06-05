@@ -1,7 +1,7 @@
 ---
 import { LANGS, type Lang, ui } from "../../i18n/ui";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getTopicsByLang, groupTopics, topicPath } from "../../lib/topics";
+import { getTopicsByLang, groupTopics, topicPath, otherLangPath } from "../../lib/topics";
 
 export async function getStaticPaths() {
   return LANGS.map((lang) => ({ params: { lang } }));
@@ -11,7 +11,7 @@ const { lang } = Astro.params as { lang: Lang };
 const t = ui[lang];
 const all = await getTopicsByLang(lang);
 const { preface, ortho, trauma } = groupTopics(all);
-const otherPath = `/${lang === "bg" ? "en" : "bg"}/`;
+const otherPath = otherLangPath(lang);
 
 const heroEyebrow = lang === "bg"
   ? "Ортопедия и травматология · Държавен изпит"

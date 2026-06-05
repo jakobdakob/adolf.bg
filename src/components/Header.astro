@@ -2,6 +2,7 @@
 import { type Lang, ui } from "../i18n/ui";
 import LangToggle from "./LangToggle.astro";
 import ThemeToggle from "./ThemeToggle.astro";
+import { url } from "../lib/topics";
 
 interface Props {
   lang: Lang;
@@ -13,9 +14,9 @@ const { lang, otherPath, currentSection = "home", showMenuButton = false } = Ast
 const t = ui[lang];
 
 const links = [
-  { href: `/${lang}/ortho/1`, label: t.sectionOrtho, key: "ortho" },
-  { href: `/${lang}/trauma/1`, label: t.sectionTrauma, key: "trauma" },
-  { href: `/${lang}/preface`, label: t.preface, key: "preface" },
+  { href: url(`/${lang}/ortho/1`), label: t.sectionOrtho, key: "ortho" },
+  { href: url(`/${lang}/trauma/1`), label: t.sectionTrauma, key: "trauma" },
+  { href: url(`/${lang}/preface`), label: t.preface, key: "preface" },
 ];
 ---
 <header class="site-header">
@@ -35,7 +36,7 @@ const links = [
         </svg>
       </button>
     )}
-    <a href={`/${lang}/`} class="brand">
+    <a href={url(`/${lang}/`)} class="brand">
       adolf<span class="accent-dot">.</span>bg
       <span class="brand-sub">{lang === "bg" ? "Държавен изпит" : "State board"}</span>
     </a>

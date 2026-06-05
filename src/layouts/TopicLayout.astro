@@ -1,0 +1,65 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import TopicSidebar from "../components/TopicSidebar.astro";
+import MobileDrawer from "../components/MobileDrawer.astro";
+import { type Lang, ui } from "../i18n/ui";
+import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+
+interface Props {
+  lang: Lang;
+  entry: TopicEntry;
+  otherPath: string;
+}
+const { lang, entry, otherPath } = Astro.props;
+const t = ui[lang];
+
+const all = await getTopicsByLang(lang);
+const idx = all.findIndex((e) => e.slug === entry.slug);
+const prev = idx > 0 ? all[idx - 1] : undefined;
+const next = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined;
+
+const sectionLabel =
+  entry.data.kind === "preface"
+    ? t.preface
+    : entry.data.section === "ortho"
+      ? t.sectionOrtho
+      : t.sectionTrauma;
+const numberLabel = entry.data.kind === "topic" && entry.data.topicNumber
+  ? t.topicNumberLabel(entry.data.topicNumber)
+  : "";
+---
+<BaseLayout lang={lang} title={entry.data.title} otherPath={otherPath}>
+  <MobileDrawer lang={lang} active={entry.slug} />
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-[18rem_minmax(0,1fr)] gap-8 lg:gap-12 pt-8">
+    <TopicSidebar lang={lang} active={entry.slug} />
+    <article class="min-w-0 pb-16">
+      <div class="text-xs uppercase tracking-wider text-[var(--ink-muted)] mb-3">
+        <span>{sectionLabel}</span>
+        {numberLabel && (
+          <>
+            <span aria-hidden="true" class="mx-1.5">·</span>
+            <span>{numberLabel}</span>
+          </>
+        )}
+      </div>
+      <div class="prose-topic">
+        <h1>{entry.data.title}</h1>
+        <slot />
+      </div>
+      <nav class="mt-16 pt-6 border-t border-[var(--rule)] flex items-center justify-between text-sm gap-4">
+        {prev ? (
+          <a href={topicPath(lang, prev)} class="group max-w-[45%]">
+            <div class="text-xs text-[var(--ink-muted)]">{t.prev}</div>
+            <div class="font-medium group-hover:text-[var(--accent)]">{prev.data.title}</div>
+          </a>
+        ) : <span />}
+        {next ? (
+          <a href={topicPath(lang, next)} class="group max-w-[45%] text-right ml-auto">
+            <div class="text-xs text-[var(--ink-muted)]">{t.next}</div>
+            <div class="font-medium group-hover:text-[var(--accent)]">{next.data.title}</div>
+          </a>
+        ) : <span />}
+      </nav>
+    </article>
+  </div>
+</BaseLayout>

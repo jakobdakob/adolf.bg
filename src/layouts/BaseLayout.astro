@@ -1,0 +1,51 @@
+---
+import { ViewTransitions } from "astro:transitions";
+import { type Lang, ui } from "../i18n/ui";
+import Header from "../components/Header.astro";
+import "../styles/global.css";
+
+interface Props {
+  lang: Lang;
+  title?: string;
+  description?: string;
+  otherPath: string;
+}
+const { lang, title, description, otherPath } = Astro.props;
+const t = ui[lang];
+const pageTitle = title ? `${title} · ${t.siteTitle}` : `${t.siteTitle} — ${t.siteTagline}`;
+const desc = description ?? t.siteTagline;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#15141A" media="(prefers-color-scheme: dark)" />
+    <link rel="alternate" hreflang={lang === "bg" ? "en" : "bg"} href={otherPath} />
+    <link rel="alternate" hreflang="x-default" href="/bg/" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script is:inline>
+      (function () {
+        try {
+          const t = localStorage.getItem("adolf-theme");
+          if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+        } catch (_) {}
+      })();
+    </script>
+    <ViewTransitions />
+  </head>
+  <body>
+    <Header lang={lang} otherPath={otherPath} />
+    <slot />
+    <footer class="border-t border-[var(--rule)] mt-24">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 text-xs text-[var(--ink-muted)] flex flex-wrap items-center gap-x-4 gap-y-2">
+        <span>© 2026 · adolf.bg</span>
+        <span aria-hidden="true">·</span>
+        <span>{t.siteTagline}</span>
+      </div>
+    </footer>
+  </body>
+</html>

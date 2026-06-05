@@ -1,0 +1,309 @@
+---
+title: "Childhood Avascular Necrosis — Legg-Calvé-Perthes Disease"
+lang: "en"
+kind: "topic"
+section: "ortho"
+topicNumber: 8
+order: 8
+---
+
+## 1. Introduction
+
+Legg-Calvé-Perthes disease (LCPD) is an idiopathic avascular necrosis of the developing
+femoral head in the pediatric patient. First described independently by Arthur Legg in
+Boston, Jacques Calvé in France, and Georg Perthes in Germany in 1909-1910, the disease
+remains one of the most challenging entities in pediatric orthopedics: the etiology is
+incompletely understood, the natural history is highly variable, and the optimal treatment
+continues to be debated. The condition is characterized by an interruption of the blood
+supply to the femoral head, followed by a sequential process of necrosis, fragmentation,
+reossification, and remodeling that, depending on the extent of head involvement and the
+age at presentation, may produce a near-normal hip or a severely deformed and
+prematurely arthritic joint. This chapter synthesizes content from Tachdjian’s Pediatric
+Orthopaedics, Apley & Solomon’s, Miller’s Review, and Operative Hip Arthroscopy to cover
+the epidemiology, etiology, pathophysiology, stages of disease, clinical and radiographic
+features, classification systems, treatment principles, surgical procedures, and long-term
+outcomes of LCPD. The differential diagnosis with other childhood causes of femoral head
+osteonecrosis is also briefly addressed.
+
+## 2. Epidemiology and Risk Factors
+
+The incidence of LCPD varies widely with geography and ethnicity: approximately 1 in
+1,200 in populations of European descent in the United Kingdom, 1 in 9,000 in African
+American populations, and intermediate rates in other groups. The condition affects boys
+four to five times more often than girls; girls present at a slightly younger age and tend to
+have a worse prognosis. The peak age of onset is 4-8 years, with a broader range from 2 to
+12 years. Bilateral disease occurs in 10-20% of cases, but synchronous bilateral
+involvement of identical stages is rare; when both hips show identical stages of disease at
+the same time, an alternative diagnosis — particularly multiple epiphyseal dysplasia or
+spondyloepiphyseal dysplasia — must be considered.
+The etiological associations of LCPD include: low birth weight and small stature; delayed
+skeletal maturation (typical Perthes children have a bone age 1-2 years behind
+chronological age); a higher prevalence in lower socioeconomic groups in many studies;
+second-hand cigarette smoke exposure; and prothrombotic states (factor V Leiden, protein
+C and protein S deficiencies, antithrombin deficiency, hypofibrinolysis) in a subset of cases
+— though the role of thrombophilia in the average sporadic case is uncertain. A history of
+mild trauma is common but is not thought to be causative. The disease is not familial in the
+great majority of cases, and the modest familial clustering observed in some series is
+attributed to shared environmental factors rather than direct heredity.
+
+## 3. Etiology and Pathogenesis
+
+The fundamental insult in LCPD is a vascular event that interrupts the blood supply to the
+femoral head; the resulting infarction, with subsequent attempts at revascularization and
+reossification, drives the clinical course. The vascular anatomy is critical: in the child
+between 4 and 9 years of age, the lateral epiphyseal vessels (branches of the medial
+femoral circumflex artery) are the dominant supply to the femoral head, while the
+contribution from the ligamentum teres artery is minimal and the metaphyseal vessels are
+blocked by the physeal cartilage from reaching the epiphysis. This narrow vascular window
+— when the lateral epiphyseal vessels are the sole supply — corresponds precisely to the
+age at which LCPD has its peak incidence. Disruption of these vessels — whether by
+repeated micro-thrombotic events, mechanical compression from an effusion or by
+transient synovitis, or by some idiopathic event — produces the avascular insult that
+initiates the disease.
+The pathological sequence proceeds through four classical stages described by
+Waldenström: (1) the initial avascular stage, in which the bone of the femoral head dies but
+the radiographic appearance is initially normal followed by increased radiodensity as the
+surrounding live bone becomes osteopenic; (2) the fragmentation stage, in which the
+necrotic bone is gradually resorbed and replaced by ingrowing vascular fibrous tissue,
+producing the characteristic patchy lytic appearance; (3) the reossification stage, in which
+new woven bone is laid down on the dead trabecular bone scaffold; and (4) the residual or
+healed stage, in which the femoral head reaches its final shape. The entire sequence takes
+2-4 years from onset to healing, with the variability depending on age at onset (older
+children have longer disease courses), extent of head involvement, and effectiveness of
+treatment.
+
+## 4. Clinical Features
+
+The presentation is typically of a young child (4-8 years) with intermittent hip, groin, or
+referred knee pain, an antalgic gait, and a limp that worsens with activity. The pain may be
+exquisitely mild and easily attributed to growing pains or minor injury; many children
+present after weeks or months of symptoms when the limp becomes obvious to the family
+or a teacher. Examination reveals reduced hip abduction and internal rotation (the most
+consistent finding, with the contralateral hip serving as a normal control), a Trendelenburg
+gait pattern, mild hip joint tenderness, and a slight apparent shortening of the affected limb
+in some cases. The classical positions of the hip in LCPD are flexion, abduction, and external
+rotation when at rest. The differential diagnosis includes transient synovitis (which
+resolves within days, in contrast to weeks of symptoms in LCPD), septic arthritis (which
+presents acutely with systemic illness), juvenile inflammatory arthritis, leukemia and
+lymphoma, sickle cell disease (in appropriate populations), other causes of avascular
+necrosis (sickle cell, corticosteroid therapy, post-traumatic), and slipped capital femoral
+epiphysis (older children).
+
+## 5. Imaging
+
+Plain radiographs (AP pelvis and frog-lateral views of both hips) are the standard initial
+imaging study and demonstrate the characteristic stages of disease. The earliest
+radiographic finding is a small ossific nucleus (compared with the unaffected side),
+followed by a thin crescent-shaped subchondral lucency representing subchondral fracture
+through the necrotic bone (the “Caffey sign” or “crescent sign,” best seen on frog-lateral
+views). As the disease progresses, the epiphysis becomes increasingly dense (the “white
+femoral head” of the avascular stage), then fragments with patchy lucencies (fragmentation
+stage), then progressively reossifies. The metaphysis may show changes — a small lateral
+metaphyseal cyst is a recognized sign — and the femoral neck may become wide and short
+(coxa magna and coxa breva) in the residual stage.
+MRI, particularly perfusion-weighted MRI with gadolinium, has become important for early
+diagnosis in the pre-radiographic stage and for assessment of the extent of femoral head
+involvement. The classical MRI signs are: marrow edema on T2-weighted images in the
+affected region; loss of normal enhancement on gadolinium-enhanced sequences
+corresponding to the avascular area; the “double-line” sign on T2-weighted images (a low-
+signal inner line of necrotic bone with a high-signal outer line of granulation tissue at the
+reactive interface); and the eventual appearance of the same morphological changes seen
+on plain radiographs as the disease progresses.
+
+## 6. Classification Systems
+
+Multiple classification systems address two distinct questions in LCPD: the extent of
+femoral head involvement (which predicts prognosis), and the morphological outcome at
+skeletal maturity (which determines long-term arthritis risk).
+Catterall Classification
+The Catterall classification, described in 1971, divides cases by the extent of femoral head
+involvement on plain radiographs taken in the fragmentation stage. Group I involves the
+anterior portion only; Group II involves a larger anterior portion with a clear demarcation;
+Group III involves most of the femoral head with a small medial preserved portion; Group
+IV involves the entire femoral head. The classification was the basis of the “head at risk”
+signs — Gage sign (radiolucent V-shaped defect in the lateral epiphysis), lateral
+subluxation, calcification lateral to the epiphysis, metaphyseal cyst, horizontal physis —
+which were used to identify the more severe cases requiring containment treatment. The
+Catterall system is now used less often because of poor inter-observer reliability and the
+difficulty of accurate classification in early disease.
+Salter-Thompson Classification
+The Salter-Thompson classification (1984) divides cases by whether the subchondral
+fracture line (the Caffey crescent sign) extends through less than half of the femoral head
+(Group A, better prognosis) or more than half (Group B, worse prognosis). The
+classification has the advantage of early predictive value but the disadvantage of requiring
+the presence of a visible crescent sign for classification.
+
+Herring Lateral Pillar Classification
+The Herring classification, described in 1992 and validated in multiple large series, is the
+most widely used modern classification. It divides cases by the height of the lateral pillar of
+the femoral head — the lateral 15-30% of the head as seen on the AP radiograph — at the
+maximum fragmentation stage. Group A: lateral pillar at full original height. Group B:
+lateral pillar maintains more than 50% of original height. Group B/C border: lateral pillar
+at 50% of height with very narrow remaining pillar. Group C: lateral pillar less than 50% of
+original height. The Herring classification has better inter-observer reliability than the
+Catterall system and correlates strongly with the final outcome: Group A hips have
+universally good outcomes regardless of treatment; Group B hips have good outcomes if
+treated by containment in children over 8 years; Group C hips have poor outcomes
+regardless of treatment.
+Stulberg Classification
+The Stulberg classification (1981) describes the morphological outcome at skeletal
+maturity. Type I: completely normal hip. Type II: spherical femoral head but with
+abnormalities of the femoral neck or acetabulum. Type III: ovoid (non-spherical but
+congruent) femoral head with congruent acetabulum (aspherical congruency). Type IV: flat
+femoral head with congruent flat acetabulum (aspherical congruency). Type V: flat femoral
+head with incongruent normal acetabulum (aspherical incongruency). The classification
+correlates strongly with the risk of premature osteoarthritis: Stulberg I and II hips do well
+into late adulthood; Stulberg III hips develop arthritis in middle age; Stulberg IV and V hips
+develop early and progressive arthritis.
+
+## 7. Principles of Treatment
+
+The treatment of LCPD is guided by two principal considerations: containment of the
+femoral head within the acetabulum during the period of biological plasticity (so that the
+head heals in a spherical shape molded by the round acetabulum), and minimization of the
+deforming forces on the softened femoral head during the avascular and fragmentation
+stages. The basic concepts of treatment have evolved through several phases over the
+twentieth century: prolonged non-weight-bearing and abduction casting (the original
+Catterall principle); abduction bracing; containment surgery (femoral varus or pelvic
+osteotomy); and, in modern practice, more selective use of any of these approaches based
+on age at presentation and Herring classification.
+
+Observation and Symptom Control
+For younger children (less than 6 years) and for older children with Herring Group A
+disease, observation and symptom control are appropriate. Activity modification, restricted
+weight-bearing as needed, non-steroidal anti-inflammatory drugs for pain, physiotherapy
+to maintain hip range of motion (particularly internal rotation and abduction), and serial
+radiographic follow-up at 3-6 month intervals are the standard.
+
+Non-Operative Containment
+In the older child (6-8 years) with Group B disease and substantial hip involvement, non-
+operative containment with an abduction brace (the Atlanta or Scottish-Rite brace are
+historical examples) attempts to hold the femoral head in abduction so that the spherical
+portion of the head is contained within the acetabulum. The brace must be worn
+continuously, the child’s activity is restricted, and treatment may be prolonged over
+months to years. The evidence for non-operative bracing is mixed, with some series
+showing modest benefit and others showing no improvement over no treatment; modern
+practice has largely moved away from prolonged bracing in favor of operative containment
+or observation.
+
+Operative Containment
+In children over 8 years of age with Herring Group B or B/C border disease, and in selected
+children with Group A disease and significant subluxation, operative containment provides
+the most reliable means of maintaining the femoral head within the acetabulum during the
+biological plasticity period. The standard options are femoral varus-derotation osteotomy
+and pelvic osteotomy (Salter, Pemberton, or shelf procedure), or a combination of the two.
+The femoral varus-derotation osteotomy is performed in the proximal subtrochanteric
+region, removing a lateral-based wedge to produce 15-25° of varus and 15-30° of
+derotation. The osteotomy reorients the femoral head so that the previously uncovered
+anterolateral portion is brought under the acetabular roof, achieving containment. The cost
+is a degree of permanent shortening of the affected limb (typically 1-2 cm) and a slight
+Trendelenburg gait, both of which are generally well tolerated. The osteotomy is fixed with
+a paediatric blade plate or pediatric DCP plate.
+The Salter innominate osteotomy redirects the acetabulum to cover the anterolateral
+femoral head, achieving containment from the acetabular side rather than the femoral side.
+The procedure can be combined with femoral osteotomy or used alone, particularly when
+the acetabulum is dysplastic.
+The shelf acetabuloplasty provides a buttress of bone over the laterally uncovered
+femoral head, used as a salvage procedure when other containment options are not
+feasible.
+The Herring Multicenter Perthes Study, published in 2004, compared non-operative and
+operative treatments in a large prospective cohort. The results, often summarized as the
+foundation of modern Perthes treatment guidelines, were: in children under 8 years of age,
+no significant difference between treatments — all groups did similarly well; in children
+over 8 years of age with Herring Group B disease, operative containment (either femoral or
+pelvic osteotomy) produced significantly better outcomes than non-operative treatment; in
+Group C disease, no treatment improved outcomes, but operative treatment did not worsen
+them either.
+
+Salvage Procedures
+Once the femoral head has healed in a deformed shape (Stulberg III, IV, or V) and adjacent
+symptoms develop in the older child or adolescent, salvage procedures address the
+resulting impingement, instability, or arthritis. Valgus-extension proximal femoral
+osteotomy redirects the deformed femoral head out of the impingement zone. Femoral
+head-neck offset correction (open or arthroscopic) addresses the cam impingement that
+develops from the deformed femoral head. Pelvic osteotomies — particularly
+periacetabular osteotomy — address residual acetabular dysplasia. Hip arthroscopy is
+increasingly used for the management of impingement and labral pathology associated
+with healed Perthes deformity. Total hip arthroplasty is the definitive late treatment for the
+patient with established secondary arthritis.
+
+## 8. Other Causes of Childhood Avascular Necrosis
+
+Although Legg-Calvé-Perthes disease is by far the commonest cause of avascular necrosis
+of the femoral head in childhood, several other conditions produce similar pathological and
+radiographic appearances and must be in the differential diagnosis.
+Sickle cell disease is the commonest cause of multifocal avascular necrosis in children of
+African or Mediterranean ancestry. The avascular events are precipitated by sickling-
+induced microvascular occlusion, often during sickle cell crisis. Multiple joints can be
+affected, with the femoral head and humeral head being the most common; the shoulder,
+knee, and vertebral bodies are also commonly involved. Treatment combines optimization
+of the underlying disease (hydroxyurea, chronic transfusion in selected cases), pain
+management, and joint-preserving surgery (core decompression, vascularized bone
+grafting) or joint replacement in advanced disease.
+Corticosteroid-induced avascular necrosis occurs in children receiving high-dose
+corticosteroids for inflammatory disease (juvenile inflammatory arthritis, inflammatory
+bowel disease, asthma), transplant immunosuppression, or chemotherapy. The mechanism
+involves a combination of direct cytotoxic effect on osteocytes, alterations in fat
+metabolism with fat-cell hypertrophy producing increased intramedullary pressure, and
+disturbances in clotting that predispose to microvascular thrombosis. The femoral head is
+the most common site, but the humeral head and the knee are also affected. The pattern of
+multifocal disease, the history of corticosteroid use, and the typical involvement of patients
+in adolescence or young adulthood distinguish this entity from LCPD.
+Post-traumatic AVN following hip dislocation, femoral neck fracture, or septic arthritis is
+discussed in the relevant chapters but should be remembered in the differential diagnosis.
+The classical history is of an antecedent traumatic or septic event, followed by months of
+progressive hip symptoms.
+Idiopathic AVN of the adolescent and young adult — Chandler’s disease in some
+references — is discussed in the next chapter on adult avascular necrosis.
+Meyer’s dysplasia is a benign condition of delayed and disorganized ossification of the
+femoral head in young children, often confused with early LCPD. The ossific nucleus is
+
+small and irregular but the femoral head is not avascular and the condition resolves
+spontaneously without treatment. Bilateral synchronous disease in a very young child
+without symptoms is the typical presentation, and the radiographic appearance can be
+reassuringly different from LCPD on careful inspection.
+Multiple epiphyseal dysplasia and spondyloepiphyseal dysplasia are inherited skeletal
+dysplasias that produce bilateral synchronous abnormalities of the femoral head and other
+epiphyses. The history of short stature, family history, and involvement of other epiphyses
+distinguishes these conditions from LCPD.
+
+## 9. Outcomes and Long-Term Considerations
+
+The long-term outcome of LCPD depends primarily on the age at onset (younger is better),
+the extent of femoral head involvement (Herring classification), and the achievement of
+containment during the biological plasticity period. Stulberg I and II outcomes are
+achievable in the majority of children under 8 years and in those with Herring Group A
+disease, and these patients have hips that function well into late adulthood without
+premature arthritis. Stulberg III outcomes — aspherical but congruent — predict arthritis
+in middle age and are common in children with later onset and more extensive head
+involvement. Stulberg IV and V outcomes — aspherical and incongruent — are associated
+with early arthritis, often requiring total hip arthroplasty by the fifth decade.
+The classical sequelae of inadequately treated LCPD include: coxa magna (enlarged femoral
+head); coxa breva (short femoral neck with relative trochanteric overgrowth); coxa plana
+(flattened femoral head); femoroacetabular impingement (cam-type, from the aspherical
+femoral head); secondary acetabular dysplasia (from the deformed femoral head’s effect on
+acetabular development); and limb-length discrepancy. Each of these sequelae may be
+addressed by appropriate adolescent or adult reconstruction.
+
+## 10. Summary and Take-Home Points
+
+Legg-Calvé-Perthes disease is an idiopathic avascular necrosis of the developing femoral
+head, predominantly affecting boys aged 4-8 years, and produces a clinically and
+biologically variable disease whose outcome depends on age at onset, extent of head
+involvement, and achievement of containment during the biological plasticity period. The
+Waldenström stages (initial, fragmentation, reossification, residual) describe the natural
+pathological evolution; the Herring lateral pillar classification (A, B, B/C, C) predicts
+prognosis; the Stulberg classification (I-V) describes the morphological outcome at skeletal
+maturity and predicts long-term arthritis risk. Treatment combines symptom control,
+maintenance of hip motion, and — in older children with greater head involvement —
+containment by femoral varus-derotation osteotomy, pelvic osteotomy, or both. The
+Herring Multicenter Perthes Study established that operative containment is beneficial in
+children over 8 years with Herring Group B disease but that no treatment improves the
+outcome of Group C disease. Salvage procedures for the residual deformity in adolescence
+and adulthood — valgus osteotomy, osteochondroplasty for cam impingement,
+periacetabular osteotomy for residual dysplasia, and ultimately total hip arthroplasty for
+end-stage arthritis — address the late sequelae. The differential diagnosis of childhood
+
+avascular necrosis includes sickle cell disease, corticosteroid-induced AVN, post-traumatic
+AVN, Meyer’s dysplasia, and the inherited skeletal dysplasias; each requires consideration
+in the appropriate clinical context.

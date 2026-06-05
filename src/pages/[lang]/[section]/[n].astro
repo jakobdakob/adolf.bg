@@ -1,0 +1,29 @@
+---
+import { LANGS, type Lang } from "../../../i18n/ui";
+import TopicLayout from "../../../layouts/TopicLayout.astro";
+import { getTopicsByLang } from "../../../lib/topics";
+
+export async function getStaticPaths() {
+  const out: { params: { lang: string; section: string; n: string } }[] = [];
+  for (const lang of LANGS) {
+    const all = await getTopicsByLang(lang);
+    for (const e of all) {
+      if (e.data.kind !== "topic" || !e.data.section || !e.data.topicNumber) continue;
+      out.push({ params: { lang, section: e.data.section, n: String(e.data.topicNumber) } });
+    }
+  }
+  return out;
+}
+
+const { lang, section, n } = Astro.params as { lang: Lang; section: "ortho" | "trauma"; n: string };
+const all = await getTopicsByLang(lang);
+const entry = all.find(
+  (e) => e.data.kind === "topic" && e.data.section === section && e.data.topicNumber === Number(n)
+);
+if (!entry) throw new Error(`Missing topic ${section}-${n} (${lang})`);
+const { Content } = await entry.render();
+const otherPath = `/${lang === "bg" ? "en" : "bg"}/${section}/${n}`;
+---
+<TopicLayout lang={lang} entry={entry} otherPath={otherPath}>
+  <Content />
+</TopicLayout>

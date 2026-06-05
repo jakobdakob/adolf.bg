@@ -1,0 +1,29 @@
+---
+import type { Lang } from "../i18n/ui";
+import TopicSidebar from "./TopicSidebar.astro";
+interface Props { lang: Lang; active?: string; }
+const { lang, active } = Astro.props;
+---
+<div id="drawer" class="drawer" data-open="false">
+  <div class="drawer-backdrop" data-drawer-close></div>
+  <TopicSidebar lang={lang} active={active} drawer={true} />
+</div>
+<script is:inline>
+  document.addEventListener("click", function (e) {
+    const t = e.target;
+    if (!(t instanceof Element)) return;
+    if (t.closest("#open-drawer")) {
+      const d = document.getElementById("drawer");
+      if (d) d.setAttribute("data-open", "true");
+    } else if (t.closest("[data-drawer-close]")) {
+      const d = document.getElementById("drawer");
+      if (d) d.setAttribute("data-open", "false");
+    }
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") {
+      const d = document.getElementById("drawer");
+      if (d) d.setAttribute("data-open", "false");
+    }
+  });
+</script>

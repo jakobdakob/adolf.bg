@@ -1,0 +1,39 @@
+---
+import { type Lang, ui } from "../i18n/ui";
+import LangToggle from "./LangToggle.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+
+interface Props {
+  lang: Lang;
+  otherPath: string;
+}
+const { lang, otherPath } = Astro.props;
+const t = ui[lang];
+---
+<header class="header-bar sticky top-0 z-30">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-14 flex items-center gap-4">
+    <button
+      id="open-drawer"
+      class="lg:hidden inline-flex items-center justify-center w-9 h-9 rounded-md hover:bg-[var(--accent-soft)]"
+      aria-label={t.openMenu}
+      type="button"
+    >
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <line x1="3" y1="6" x2="21" y2="6" />
+        <line x1="3" y1="12" x2="21" y2="12" />
+        <line x1="3" y1="18" x2="21" y2="18" />
+      </svg>
+    </button>
+    <a href={`/${lang}/`} class="font-semibold tracking-tight text-base" style="letter-spacing:-0.02em">
+      adolf<span style="color:var(--accent)">.</span>bg
+    </a>
+    <nav class="hidden md:flex items-center gap-1 text-sm text-[var(--ink-muted)] ml-2">
+      <a href={`/${lang}/ortho/1`} class="px-2 py-1 rounded-md hover:bg-[var(--accent-soft)] hover:text-[var(--ink)]">{t.sectionOrtho}</a>
+      <a href={`/${lang}/trauma/1`} class="px-2 py-1 rounded-md hover:bg-[var(--accent-soft)] hover:text-[var(--ink)]">{t.sectionTrauma}</a>
+      <a href={`/${lang}/preface`} class="px-2 py-1 rounded-md hover:bg-[var(--accent-soft)] hover:text-[var(--ink)]">{t.preface}</a>
+    </nav>
+    <div class="flex-1"></div>
+    <ThemeToggle lang={lang} />
+    <LangToggle lang={lang} otherPath={otherPath} />
+  </div>
+</header>

@@ -1,0 +1,31 @@
+---
+import { type Lang, ui, otherLang } from "../i18n/ui";
+
+interface Props {
+  lang: Lang;
+  /** Path on the other language, e.g. /en/ortho/3 */
+  otherPath: string;
+}
+const { lang, otherPath } = Astro.props;
+const other = otherLang(lang);
+const t = ui[lang];
+---
+<a
+  href={otherPath}
+  class="pill"
+  aria-label={`${t.switchTo[other]} — ${other.toUpperCase()}`}
+  title={t.switchTo[other]}
+>
+  <span class:list={["px-1", lang === "bg" && "is-active"]}>BG</span>
+  <span aria-hidden="true" class="opacity-40">·</span>
+  <span class:list={["px-1", lang === "en" && "is-active"]}>EN</span>
+</a>
+<style>
+  .pill {
+    user-select: none;
+  }
+  .is-active {
+    color: var(--accent);
+    font-weight: 600;
+  }
+</style>

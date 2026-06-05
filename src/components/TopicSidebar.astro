@@ -1,0 +1,41 @@
+---
+import { type Lang, ui } from "../i18n/ui";
+import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+
+interface Props {
+  lang: Lang;
+  active?: string; // current slug
+  drawer?: boolean;
+}
+const { lang, active, drawer = false } = Astro.props;
+const t = ui[lang];
+const all = await getTopicsByLang(lang);
+const { preface, ortho, trauma } = groupTopics(all);
+
+function isActive(e: TopicEntry) { return e.slug === active; }
+---
+<aside class={drawer ? "drawer-panel" : "hidden lg:block"}>
+  <nav aria-label={t.contents} class="space-y-0.5">
+    {preface && (
+      <a href={topicPath(lang, preface)} class:list={["sidebar-link", isActive(preface) && "is-active"]}>
+        {preface.data.title}
+      </a>
+    )}
+
+    <div class="section-label">{t.sectionOrtho}</div>
+    {ortho.map((e) => (
+      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
+        <span class="tabular-nums opacity-60 inline-block w-7">{e.data.topicNumber}.</span>
+        {e.data.title}
+      </a>
+    ))}
+
+    <div class="section-label">{t.sectionTrauma}</div>
+    {trauma.map((e) => (
+      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
+        <span class="tabular-nums opacity-60 inline-block w-7">{e.data.topicNumber}.</span>
+        {e.data.title}
+      </a>
+    ))}
+  </nav>
+</aside>

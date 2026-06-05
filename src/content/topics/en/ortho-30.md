@@ -1,0 +1,290 @@
+---
+title: "Principles of Large-Joint Arthroplasty"
+lang: "en"
+kind: "topic"
+section: "ortho"
+topicNumber: 30
+order: 30
+---
+
+## 1. Introduction
+
+Joint arthroplasty — the surgical replacement of a damaged joint with prosthetic
+components — is among the most successful interventions in modern orthopedic surgery.
+The development of reliable hip and knee arthroplasty since the 1960s has transformed the
+management of end-stage joint disease, with profound impact on quality of life for millions
+of patients globally. The principles addressed in this chapter — biomaterials, tribology of
+bearing surfaces, methods of fixation, principles of implant design, surgical approach
+considerations, perioperative management, and complications — apply across all major
+joint replacements. While specific aspects of hip and knee arthroplasty are addressed in
+detail in the chapters on coxarthrosis and gonarthrosis, this chapter provides a unifying
+framework synthesized from Apley & Solomon’s, Miller’s Review, and Orthopaedic Surgical
+Approaches.
+
+## 2. Biomaterials in Joint Arthroplasty
+
+The materials used in joint arthroplasty must meet exacting requirements:
+biocompatibility (absence of toxic, inflammatory, or carcinogenic response), appropriate
+mechanical properties (strength, ductility, fatigue resistance), corrosion resistance, wear
+resistance, and the ability to integrate with bone (osseointegration for uncemented
+designs).
+Metallic alloys include cobalt-chromium alloys (used for femoral heads, femoral
+components, and certain stem designs; high stiffness and excellent wear resistance but
+stress shielding of underlying bone), titanium alloys (Ti-6Al-4V; lower stiffness more
+closely matching bone, excellent osseointegration, but higher coefficient of friction limiting
+bearing surface use), and stainless steel (limited modern use, largely for cement-fixed
+femoral stems and for trauma implants).
+Polyethylene is the principal bearing material for most modern arthroplasty designs.
+Conventional ultra-high molecular weight polyethylene (UHMWPE) was used historically
+with substantial wear that produced osteolysis from polyethylene particles. Highly cross-
+linked polyethylene (XLPE), introduced in the late 1990s, is produced by gamma
+irradiation of UHMWPE followed by remelting or annealing to crosslink the polymer chains
+and eliminate free radicals. XLPE has dramatically reduced wear rates and largely
+eliminated osteolytic complications in modern arthroplasty. Vitamin E-stabilized
+polyethylene combines XLPE with vitamin E to further reduce oxidative degradation.
+Ceramics include alumina (Al2O3) and zirconia-toughened alumina composites. Ceramic
+femoral heads articulating with XLPE or with ceramic acetabular liners provide the lowest
+wear of any bearing combination. Modern fourth-generation ceramic materials have
+substantially reduced the historical concerns about ceramic fracture and squeaking,
+although these complications still occur at low rates.
+
+Polymethylmethacrylate (PMMA) bone cement is used for fixation of cemented
+implants. The exothermic polymerization of liquid monomer with powdered prepolymer
+produces a structural interface between implant and bone. Modern cementing techniques
+include the use of low-viscosity cement, retrograde filling of the femoral canal,
+pressurization, distal canal plugging, pulsatile lavage, and other measures that have
+substantially improved long-term cement-implant survival.
+
+## 3. Bearing Surfaces
+
+The choice of bearing surface affects long-term implant survival and is one of the principal
+decisions in modern arthroplasty. The options include:
+Metal-on-conventional-polyethylene: The historical standard, with substantial wear and
+osteolysis over time. Largely replaced by metal-on-XLPE in modern practice.
+Metal-on-XLPE: The current dominant bearing in most modern arthroplasty, with
+substantially reduced wear and excellent long-term survival.
+Ceramic-on-XLPE: Provides the lowest combined wear of any bearing, with the smooth
+ceramic surface combined with the highly cross-linked polyethylene. Preferred in younger
+patients in many centers.
+Ceramic-on-ceramic: The lowest wear of any bearing, with both bearing surfaces being
+smooth ceramic. Risks include rare ceramic fracture and squeaking (audible noise during
+certain motions, related to lubrication regime).
+Metal-on-metal: Had a brief popularity in the 2000s but has been substantially withdrawn
+from practice because of the systemic and local effects of metal ion release (cobalt and
+chromium), with documented adverse local tissue reactions, pseudotumor formation,
+systemic cobaltism in severe cases, and the failure of large-head metal-on-metal designs at
+unacceptable rates.
+
+## 4. Methods of Fixation
+
+Two principal methods of fixing implants to bone are used:
+Cemented fixation: PMMA bone cement is interposed between the implant and the
+prepared bone surface, providing immediate stable fixation that allows immediate full
+weight-bearing. The cement-bone interface achieves micromechanical interlock with the
+trabecular bone. Modern third-generation cementing techniques include: thorough bone
+preparation with retrograde brushing and pulsatile lavage; canal plugging; vacuum mixing
+of cement; retrograde insertion of cement into the canal under pressurization; insertion of
+the implant before cement polymerization with maintenance of pressure during
+polymerization; and meticulous attention to cement-bone interface quality. Indications for
+cemented fixation include older patients with poor bone quality, hip fracture management
+with hemiarthroplasty, and certain knee designs.
+Uncemented (cementless, biologic) fixation: The implant has a surface texture (sintered
+beads, plasma-sprayed titanium, porous tantalum, mesh, or grit-blasted surface) that
+
+allows bone ingrowth or ongrowth, achieving stable biologic fixation over weeks to
+months. Immediate fixation is provided by mechanical press-fit between the implant and
+prepared bone surface. Bone-grafting materials (hydroxyapatite coatings, BMPs) are
+sometimes added to promote bone ingrowth. Indications for uncemented fixation include
+younger patients with good bone quality and the great majority of modern primary hip and
+knee arthroplasty in most centers.
+Hybrid fixation: Combines cemented and uncemented components, typically with
+uncemented acetabular cup and cemented femoral stem in hip arthroplasty.
+
+## 5. Principles of Implant Design
+
+The design of arthroplasty implants involves balancing competing requirements of mobility
+(range of motion), stability (resistance to dislocation), durability (longevity in service), and
+reproducibility of implantation. The fundamental design principles include:
+Restoration of joint kinematics: The implant should reproduce the normal motion of the
+joint as closely as possible. This is more easily achieved at the knee (which approximates a
+hinge plus internal rotation) than at the shoulder (with its complex coupled motion of
+glenohumeral, scapulothoracic, and acromioclavicular joints) and the hip (which
+approximates a ball-and-socket joint).
+Restoration of soft-tissue balance: Particularly at the knee, where the collateral
+ligaments and the cruciate ligaments (when retained) must be balanced through the range
+of motion.
+Restoration of biomechanical parameters: Restoration of leg length (hip), abductor
+moment arm (offset, in hip arthroplasty), Q angle (knee), and rotational alignment.
+Modularity: Modern implants are typically modular, with separate components that can be
+combined to match the patient’s anatomy. The trade-off is increased flexibility versus the
+additional interfaces that can produce wear, corrosion, and failure (the trunnion-head
+interface in modular hip arthroplasty has been a source of complications including metal-
+on-metal-like reactions even in metal-on-polyethylene bearings — trunnionosis).
+Constraint: The degree to which the implant geometry resists displacement of one
+component relative to the other. Greater constraint provides more stability but transfers
+more load to the implant-bone interfaces and may produce earlier loosening. The choice of
+constraint level is one of the principal decisions in revision arthroplasty.
+
+## 6. Specific Considerations for Each Joint
+
+Hip Arthroplasty
+Hip arthroplasty has been the prototype of modern arthroplasty since Charnley’s
+pioneering work in the 1960s. The principles include: appropriate sizing of the femoral
+head (small heads have lower wear but higher dislocation risk; large heads have higher
+wear in metal-on-polyethylene bearings but offer lower dislocation risk); appropriate cup
+position with attention to abduction angle (40°) and anteversion (15-20°); restoration of
+
+leg length and offset; appropriate surgical approach (posterior, anterolateral, direct
+anterior — each with specific advantages and disadvantages as discussed in the
+coxarthrosis chapter); and meticulous soft-tissue balance.
+Knee Arthroplasty
+Knee arthroplasty involves more complex kinematic considerations than hip arthroplasty.
+The principles include: cruciate-retaining vs cruciate-substituting designs; fixed vs mobile
+bearing designs; alignment philosophy (mechanical vs kinematic alignment); cement vs
+uncemented fixation; routine vs selective patellar resurfacing; and various other decisions.
+The technical demands of TKA include precise bony cuts, balanced flexion and extension
+gaps, proper rotational alignment of the femoral and tibial components, and appropriate
+management of the patellofemoral compartment.
+
+Shoulder Arthroplasty
+Shoulder arthroplasty has evolved substantially over recent decades. The principal options
+include:
+Anatomic total shoulder arthroplasty: Indicated for primary glenohumeral
+osteoarthritis with intact rotator cuff. Restores the normal anatomical relationships of the
+glenohumeral joint.
+Reverse total shoulder arthroplasty: Inverts the normal anatomy with a glenoid-side ball
+and a humeral-side socket. The design moves the center of rotation medially and distally,
+recruiting the deltoid as the principal motor for shoulder elevation and bypassing the
+function of the rotator cuff. Indicated for cuff tear arthropathy (rotator cuff deficiency with
+glenohumeral arthritis), massive irreparable rotator cuff tears with pseudoparalysis,
+certain complex proximal humerus fractures in older patients, and revision arthroplasty.
+Hemiarthroplasty: Replacement of the humeral side alone, sparing the glenoid. Historical
+procedure with variable outcomes; now performed principally for selected complex
+proximal humerus fractures and revision settings.
+Elbow, Ankle, Wrist, and Finger Arthroplasty
+Elbow arthroplasty (typically with semiconstrained linked implants such as the Coonrad-
+Morrey design) is indicated for rheumatoid arthritis, post-traumatic arthritis, and selected
+acute fracture management in elderly patients. The lifetime restrictions on lifting (typically
+5-10 lb) are a significant consideration.
+Ankle arthroplasty has undergone substantial improvement in implant design over recent
+decades. Modern third-generation implants provide reasonable outcomes for selected
+patients, although the long-term survival is less than for hip and knee arthroplasty and
+ankle arthrodesis remains the standard for many patients with end-stage ankle arthritis.
+Wrist arthroplasty produces motion-preserving alternatives to wrist arthrodesis but with
+less reliable long-term outcomes. Modern designs continue to evolve.
+
+Finger arthroplasty (MCP and PIP joints) is commonly performed in rheumatoid disease
+using silicone implants (the historical standard) or modern pyrocarbon implants. The
+procedure provides functional improvement but does not restore normal kinematics.
+
+## 7. Surgical Approach Considerations
+
+The surgical approach to the joint is selected to provide adequate exposure for implant
+placement while minimizing damage to important soft-tissue structures. The principal
+approaches are addressed in the specific chapters; the general principles include: the use of
+muscle-sparing approaches when feasible (the medial parapatellar approach to the knee,
+the direct anterior approach to the hip); careful protection of nerves and vessels;
+meticulous capsular and soft-tissue management for postoperative stability; and the use of
+extensile approaches (capable of being extended for complex or revision cases) in difficult
+situations.
+
+## 8. Perioperative Management
+
+The perioperative management of joint arthroplasty has been transformed in recent
+decades by enhanced recovery after surgery (ERAS) protocols and the application of
+multimodal pain management. The principal elements include:
+Preoperative optimization: Medical optimization (glycemic control, smoking cessation,
+weight loss, nutritional optimization, decolonization of nasal MRSA carriage); patient
+education; expectation setting; planning of postoperative care.
+Anesthesia: Regional anesthesia (spinal or epidural) is preferred for hip and knee
+arthroplasty in many centers, with documented benefits in reduced thromboembolic risk,
+blood loss, and postoperative recovery. Peripheral nerve blocks (femoral, adductor canal,
+sciatic for the knee; lumbar plexus, fascia iliaca for the hip) provide adjunctive analgesia.
+Combined spinal-epidural and continuous catheter techniques extend the analgesic benefit
+into the postoperative period.
+Blood management: Antifibrinolytic agents (tranexamic acid, given intravenously,
+topically, or both) substantially reduce blood loss and transfusion requirements and have
+become standard in modern practice. Cell salvage may be used in revision cases. Allogeneic
+blood transfusion is associated with infection and immunological risks and is avoided when
+feasible.
+Antibiotic prophylaxis: Preoperative antibiotics within 60 minutes of incision; typically
+cefazolin in modern practice with vancomycin added or substituted in MRSA-colonized
+patients. The duration of prophylaxis is the day of surgery in most modern protocols.
+Thromboprophylaxis: Pharmacological (low-molecular-weight heparin, aspirin, direct
+oral anticoagulants, or others depending on the protocol and patient factors) combined
+with mechanical (sequential compression devices) prophylaxis. Modern guidelines
+emphasize early mobilization as the most important single intervention.
+Postoperative rehabilitation: Early mobilization (ideally on the day of surgery),
+progressive physiotherapy, and structured rehabilitation programs. Outpatient
+
+arthroplasty (same-day discharge) has become common in selected patients in modern
+practice.
+
+## 9. Complications
+
+The principal complications of joint arthroplasty are addressed in the chapters on specific
+joints; the general categories include:
+Infection (periprosthetic joint infection, PJI): 1-2% for primary arthroplasty, higher in
+revision. Management is multidisciplinary, with options including DAIR (debridement,
+antibiotics, implant retention), two-stage exchange (the gold standard for chronic
+infection), and single-stage exchange in selected cases.
+Aseptic loosening: Once the principal cause of long-term failure, now substantially
+reduced by improved implant designs and bearing surfaces.
+Dislocation/instability: Particularly relevant for hip arthroplasty (1-3%) and shoulder
+arthroplasty.
+Periprosthetic fracture: Vancouver classification at the hip, Mont classification at the
+knee. Treatment depends on fracture morphology and implant fixation.
+Bearing surface complications: Wear, osteolysis, particle disease (largely reduced with
+modern XLPE), and the specific complications of metal-on-metal bearings.
+Thromboembolic disease: DVT and PE; substantially reduced with modern prophylaxis.
+Neurovascular injury: Specific to each joint and approach.
+Heterotopic ossification: Particularly common after hip arthroplasty in susceptible
+patients.
+Persistent pain: A particular concern in knee arthroplasty, with 15-20% of patients
+reporting some persistent dissatisfaction after technically successful surgery.
+
+## 10. Revision Arthroplasty
+
+Revision arthroplasty addresses failed primary arthroplasty from infection, loosening,
+instability, periprosthetic fracture, or wear-related complications. The technical demands
+are substantially greater than primary arthroplasty, with management of bone defects
+(Paprosky classification at the hip, AORI classification at the knee), the use of revision
+components with augments and stems, the choice of bearings appropriate to the revision
+setting, and the management of infection if present. The volume of revision arthroplasty is
+increasing globally as the prevalence of primary arthroplasty rises and patients with
+primary implants live long enough to require revision.
+
+## 11. Outcomes and Registry Data
+
+The outcomes of modern total joint arthroplasty are extensively documented in national
+and international registries (the Swedish, Norwegian, Finnish, Danish, Australian, English-
+
+Welsh, and American Joint Replacement Registries among others). The data demonstrate:
+excellent long-term survival of modern hip arthroplasty (95% at 10 years, 85-90% at 20
+years); similar excellent survival of modern knee arthroplasty; ongoing improvement in
+implant designs and surgical techniques; substantial variation in outcomes by surgeon and
+hospital volume; and persistent challenges in specific areas including outcomes in younger
+patients, the persistent dissatisfaction rate after TKA, and the management of failed
+arthroplasty.
+
+## 12. Summary and Take-Home Points
+
+Joint arthroplasty is among the most successful interventions in modern orthopedic
+surgery, with excellent long-term outcomes for the majority of patients receiving hip, knee,
+shoulder, and other joint replacements. The principles of biomaterial selection (modern
+metallic alloys, highly cross-linked polyethylene, advanced ceramics), bearing surface
+choice (metal-on-XLPE as the current standard with ceramic-on-XLPE and ceramic-on-
+ceramic for selected patients), fixation method (cemented vs uncemented based on patient
+and bone factors), implant design considerations, surgical approach selection, and
+perioperative management (multimodal pain control, blood management with
+antifibrinolytics, thromboprophylaxis, early mobilization) determine successful outcomes.
+The principal complications — infection, aseptic loosening, instability, periprosthetic
+fracture, thromboembolic disease — require ongoing attention to prevention and prompt
+recognition when they occur. The volume of revision arthroplasty is increasing globally and
+demands surgeon training, appropriate facilities, and dedicated subspecialty interest.
+Across all aspects of arthroplasty, the principles of careful patient selection, appropriate
+implant choice, meticulous surgical technique, and structured perioperative care produce
+the best long-term outcomes.
+
+
+SECTION II: TRAUMATOLOGY

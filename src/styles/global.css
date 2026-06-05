@@ -1,0 +1,193 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  --bg: #FAF9F7;
+  --ink: #1d1d1f;
+  --ink-muted: #5C5B61;
+  --accent: #0F8C7A;
+  --accent-soft: #E6F2F0;
+  --rule: #EAE7E0;
+}
+
+html[data-theme="dark"] {
+  --bg: #15141A;
+  --ink: #EDECE6;
+  --ink-muted: #9D9CA3;
+  --accent: #34B6A1;
+  --accent-soft: #142A28;
+  --rule: #272631;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    --bg: #15141A;
+    --ink: #EDECE6;
+    --ink-muted: #9D9CA3;
+    --accent: #34B6A1;
+    --accent-soft: #142A28;
+    --rule: #272631;
+  }
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "SF Pro Text",
+    "Segoe UI", Roboto, system-ui, sans-serif;
+  font-feature-settings: "kern", "liga", "calt";
+  line-height: 1.65;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--accent); }
+
+/* View Transitions (Astro built-in respects this) */
+@view-transition { navigation: auto; }
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+/* Topic prose --------------------------------------------------------- */
+.prose-topic {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--ink);
+  max-width: 70ch;
+}
+
+.prose-topic p {
+  margin: 1.1em 0;
+}
+
+.prose-topic h1 {
+  font-size: clamp(1.75rem, 1.4rem + 1.5vw, 2.5rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin: 0 0 0.4em;
+}
+
+.prose-topic h2 {
+  font-size: 1.35rem;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+  margin: 2.4em 0 0.6em;
+  padding-top: 0.2em;
+  border-top: 1px solid var(--rule);
+}
+
+.prose-topic h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 1.8em 0 0.4em;
+}
+
+.prose-topic strong { font-weight: 650; }
+.prose-topic em { font-style: italic; }
+
+.prose-topic ul, .prose-topic ol {
+  margin: 1em 0 1em 1.4em;
+}
+.prose-topic li { margin: 0.25em 0; }
+
+.prose-topic blockquote {
+  margin: 1.2em 0;
+  padding: 0.2em 0 0.2em 1em;
+  border-left: 2px solid var(--accent);
+  color: var(--ink-muted);
+  font-style: italic;
+}
+
+.prose-topic hr {
+  margin: 2.4em 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
+/* Sidebar -------------------------------------------------------------- */
+.sidebar-link {
+  display: block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  color: var(--ink-muted);
+  font-size: 0.875rem;
+  line-height: 1.35;
+  transition: background 0.12s, color 0.12s;
+}
+.sidebar-link:hover { background: var(--accent-soft); color: var(--ink); }
+.sidebar-link.is-active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  padding: 0.5rem 0.75rem;
+  margin-top: 1rem;
+}
+
+/* Header --------------------------------------------------------------- */
+.header-bar {
+  border-bottom: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(12px);
+  -webkit-backdrop-filter: saturate(140%) blur(12px);
+}
+
+/* Toggle pills --------------------------------------------------------- */
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  background: transparent;
+  cursor: pointer;
+}
+.pill:hover { color: var(--ink); border-color: var(--ink-muted); }
+.pill.is-active { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
+
+/* Mobile drawer -------------------------------------------------------- */
+.drawer {
+  position: fixed; inset: 0;
+  display: none;
+  z-index: 50;
+}
+.drawer[data-open="true"] { display: block; }
+.drawer-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,0.4);
+}
+.drawer-panel {
+  position: absolute; top: 0; left: 0; bottom: 0;
+  width: min(82vw, 320px);
+  background: var(--bg);
+  border-right: 1px solid var(--rule);
+  padding: 1rem 0.5rem;
+  overflow-y: auto;
+}
+
+/* Focus ring ----------------------------------------------------------- */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}

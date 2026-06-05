@@ -1,0 +1,278 @@
+---
+title: "Infantile Osteoarthritis (Neonatal Septic Arthritis) and Transient Synovitis"
+lang: "en"
+kind: "topic"
+section: "ortho"
+topicNumber: 5
+order: 5
+---
+
+## 1. Introduction
+
+The term “infantile osteoarthritis” — a translation of “кърмачески остеоартрит” — refers
+in classical orthopedic teaching to a specific clinical entity: the destructive, often multifocal
+pyogenic osteoarthritis of the neonate and young infant, with its characteristic pattern of
+insidious presentation, rapid bony destruction, and high rates of permanent joint damage if
+not promptly recognized and treated. Together with the related but biologically distinct
+entity of transient (toxic) synovitis of the hip in older children, these conditions constitute
+the central differential diagnosis of the limping or non-weight-bearing child. The clinical
+importance of distinguishing them — septic arthritis is a surgical emergency that destroys
+the joint within hours, transient synovitis is a self-limiting inflammatory condition that
+resolves over days — is one of the cardinal teaching points of pediatric orthopedics. This
+chapter synthesizes content from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s,
+Miller’s Review, and Netter’s Concise Orthopaedic Anatomy to address infantile septic
+arthritis (neonatal and post-neonatal forms), transient synovitis of the hip, the differential
+diagnosis between them, and the natural history of inadequately treated joint sepsis in the
+developing skeleton.
+
+## 2. Infantile Osteoarthritis (Neonatal and Infantile Septic Arthritis)
+
+Definition and Epidemiology
+Infantile osteoarthritis is the pyogenic infection of a joint in a child below approximately 24
+months of age, and most characteristically in the neonate of less than 4 weeks of age. The
+disease occupies a particular place in pediatric orthopedics because the immature joint and
+bone have anatomical features that distinguish them from older children and adults, and
+because the clinical presentation is so subtle that delay in diagnosis is frequent — with
+disastrous consequences for the developing joint. Reported incidences range from 5 to 12
+per 100,000 children per year, with the great majority occurring in the first decade and
+approximately 25% in the first year of life. The hip and knee are the most commonly
+affected joints; the shoulder, elbow, and ankle are less common but also reported.
+Multifocal disease is common in the neonate, with simultaneous involvement of multiple
+joints and adjacent metaphyseal bone in 30-50% of cases.
+Anatomical Considerations
+Two anatomical features of the immature hip — and to a lesser extent the shoulder, elbow,
+and ankle — make the joint and the adjacent bone particularly vulnerable to combined
+osteoarticular infection. First, the proximal femoral metaphysis lies entirely within the hip
+joint capsule, so any infection that develops in the metaphysis can rupture directly into the
+joint to produce a concurrent septic arthritis; this contrasts with the typical adult or older
+child in whom the metaphysis is extracapsular. Second, the cartilage of the immature
+femoral head is supplied by intracartilaginous vessels that traverse the unossified
+epiphysis to reach the developing ossific nucleus; these vessels are vulnerable to
+
+thrombosis from the rising intra-articular pressure of a septic effusion, with secondary
+avascular necrosis of the femoral head as a feared complication. The combination of these
+factors explains why neonatal hip sepsis can produce, in a matter of days, a permanently
+destroyed hip joint with avascular necrosis of the head, collapse, dislocation, and lifelong
+disability.
+
+Microbiology
+Staphylococcus aureus, including increasing proportions of MRSA in many regions, remains
+the most common organism in infantile septic arthritis as in older children. In the neonate,
+however, the microbiological spectrum is substantially broader and includes group B
+streptococcus (a leading neonatal pathogen, transmitted from the maternal genital tract),
+Escherichia coli and other Gram-negative enteric organisms, Candida species (particularly
+in premature infants on broad-spectrum antibiotics or with central venous catheters), and
+Neisseria gonorrhoeae (vertically transmitted from the maternal genital tract). The
+presentation of neonatal gonococcal arthritis can be dramatic, with bilateral knee or wrist
+involvement and overlying skin pustules, and is mentioned in classical pediatric texts as a
+sentinel sign of unrecognized maternal infection. Kingella kingae becomes a leading
+pathogen from about 6 months of age, and from the second year of life dominates many
+pediatric series.
+Clinical Features
+The classical presentation of neonatal septic arthritis is deceptively subtle. Systemic signs
+of sepsis — fever, irritability, poor feeding, lethargy, jaundice — may be the only initial
+clinical clues, and the child may be transferred from neonatology to orthopedics only after
+several days of treatment for “neonatal sepsis” with no anatomical focus identified. The
+pseudoparalysis of the affected limb — the child holds the limb still and resists passive
+motion, but does not cry on direct palpation of the diaphysis — is a critical sign that should
+prompt urgent evaluation. Inflammatory signs over the affected joint — warmth, swelling,
+erythema — may be subtle or absent in the neonate. In the older infant (3-24 months),
+presentation is closer to the typical pediatric septic arthritis: high fever, refusal to bear
+weight or move the limb, held-fixed antalgic position, joint warmth and tenderness. The hip
+is held in the classical position of flexion-abduction-external rotation; the knee is held
+flexed; the elbow is held flexed and pronated.
+Investigations
+Investigations parallel those for septic arthritis at any age: leukocytosis with neutrophilia,
+elevated CRP, elevated ESR; blood culture; aspiration of the affected joint for synovial fluid
+examination (cell count, Gram stain, culture, PCR for Kingella kingae and other fastidious
+organisms where available); and imaging. Plain radiographs are often normal in early
+disease but may show capsular distension, lateralization or subluxation of the femoral head
+(the classical “Tom Smith arthritis” sign of a high-riding, laterally displaced proximal
+femur), and adjacent metaphyseal bony changes when osteomyelitis coexists. Ultrasound is
+the imaging modality of choice for early detection of hip joint effusion in the neonate and is
+freely available, portable, and radiation-free. MRI is the most sensitive imaging study for
+
+early diagnosis and for identification of any associated osteomyelitis or soft-tissue abscess,
+but requires sedation or general anesthesia in the infant and is not always available
+emergently.
+Treatment
+The treatment of confirmed or strongly suspected neonatal or infantile septic arthritis is
+urgent surgical drainage combined with broad-spectrum parenteral antibiotic therapy.
+Aspiration alone is generally insufficient for the deep joints (hip, shoulder) of infants
+because of the thick adherent synovium of the immature joint and the difficulty of complete
+evacuation; open arthrotomy or arthroscopic drainage is preferred. The hip is approached
+through an anterior Smith-Petersen exposure or, in older children, an arthroscopic
+approach via the standard portals; the joint is opened, all purulent material is evacuated,
+the joint is copiously irrigated, and a sample is sent for microbiology; the wound is typically
+closed over a drain. The knee can be addressed by arthrotomy or arthroscopic drainage.
+Empirical antibiotic therapy in the neonate must cover both group B streptococcus and
+Gram-negative enteric organisms — a combination of a penicillin or ampicillin with a third-
+generation cephalosporin or aminoglycoside is standard; vancomycin is added in regions of
+high MRSA prevalence. In the older infant (>3 months) the regimen is essentially that of the
+older child, with empirical staphylococcal coverage (flucloxacillin or, in regions of high
+MRSA prevalence, clindamycin or vancomycin) modified by culture results. The duration of
+therapy is typically 3-4 weeks total, with the first 5-10 days intravenous and the remainder
+oral.
+Complications
+The complications of neonatal and infantile septic arthritis are among the most devastating
+in pediatric orthopedics. Avascular necrosis of the femoral head, with secondary collapse,
+deformity, premature physeal arrest, and lifelong shortening and arthritis, is the classical
+late consequence of inadequately treated neonatal hip sepsis. The “Tom Smith arthritis,”
+named after the nineteenth-century surgeon who first described its consequences, refers to
+the chronic dislocation, partial resorption, or complete loss of the femoral head following
+neonatal hip sepsis. Premature physeal arrest in any affected long bone produces
+shortening and angular deformity; in the hip, the typical residual deformity is coxa magna,
+coxa breva, coxa vara, or a combination of these. Chondrolysis of the joint surface can
+occur, producing severe stiffness and pain in childhood. Late reconstructive options for the
+destroyed neonatal hip include valgus osteotomy and pelvic support osteotomy in the older
+child, with arthrodesis or arthroplasty postponed until skeletal maturity.
+
+## 3. Transient (Toxic) Synovitis of the Hip
+
+Definition and Epidemiology
+Transient synovitis, also called toxic synovitis or “irritable hip,” is a self-limiting
+inflammatory synovitis of the hip joint in children, characterized by acute onset of hip pain,
+antalgic gait, and joint effusion in the absence of true infection. It is the most common cause
+of acute hip pain in children aged 3-10 years, with a peak incidence at 5-6 years and a male
+
+predominance of approximately 2:1. The condition is associated in many cases with a
+preceding upper respiratory tract infection by 1-2 weeks, leading to the hypothesis that it
+represents a post-viral inflammatory or immune-mediated synovitis. Although the cause is
+not definitively established, multiple viral infections have been implicated and the
+condition is classically self-limiting over 7-10 days.
+
+Clinical Features
+Presentation is with acute onset of unilateral hip or referred groin pain, antalgic gait or
+refusal to bear weight, and mild restriction of hip motion — most consistently of internal
+rotation. The child is generally well-appearing, afebrile or with low-grade fever (typically
+less than 38.5 °C), and without the systemic features of acute infection. Examination
+reveals tenderness over the anterior hip joint and restriction of range of motion at the
+extremes, with the limb often held in the position of mild flexion and external rotation. In
+contrast to septic arthritis, the child can usually tolerate some hip motion and some
+weight-bearing, and the inflammatory signs are mild.
+Differential Diagnosis and the Kocher Criteria
+The pivotal diagnostic challenge is to distinguish transient synovitis from septic arthritis of
+the hip, since the latter is a surgical emergency. The Kocher criteria, derived from a 1999
+study of children presenting with acute non-traumatic hip pain at Boston Children’s
+Hospital, identified four independent predictors of true septic arthritis: refusal to bear
+weight, fever greater than 38.5 °C, ESR greater than 40 mm/hour, and WBC count greater
+than 12,000/mm³. The predictive probability of septic arthritis on the basis of how many
+criteria are met is approximately 0.2% with zero, 3% with one, 40% with two, 93% with
+three, and 99% with four. Subsequent validation studies have produced variable results,
+with some series finding lower predictive values than the original report; nonetheless the
+Kocher criteria remain the most widely cited clinical decision tool. The addition of CRP
+greater than 2 mg/dL has been proposed as a fifth criterion in some refinements and is a
+particularly useful single predictor — a CRP value less than 1 mg/dL has been shown to
+have a high negative predictive value for septic arthritis. The Caird modification adds CRP
+elevation, and several other groups have proposed alternative algorithms incorporating
+ultrasound findings.
+When the diagnosis is uncertain — particularly when two or three Kocher criteria are met
+— joint aspiration is the definitive diagnostic test. Synovial fluid examination demonstrates
+the differentiation: in septic arthritis the white cell count is typically greater than
+50,000/mm³ (often greater than 100,000) with greater than 75% polymorphs, glucose is
+decreased, and Gram stain or culture identifies the organism; in transient synovitis the cell
+count is typically less than 25,000/mm³ with a more mixed cellular pattern, and culture is
+sterile. The aspiration is performed under ultrasound guidance under appropriate
+analgesia or sedation.
+Imaging
+Plain radiographs in transient synovitis are typically normal, though they may show
+capsular distension or — in cases that have evolved over days — a slight lateral
+
+displacement of the proximal femur from the pelvis as a sign of joint distension. Ultrasound
+is the imaging modality of choice and reliably demonstrates the hip joint effusion that is the
+cardinal feature; bilateral ultrasound for comparison is useful in equivocal cases, and
+ultrasound-guided aspiration of the affected joint can be performed in the same sitting
+when needed. MRI is rarely required for the diagnosis of transient synovitis itself but may
+be useful when other diagnoses — particularly early Perthes disease — are considered.
+
+Treatment and Natural History
+Treatment is supportive: rest, restricted weight-bearing, non-steroidal anti-inflammatory
+analgesics (typically ibuprofen), and reassurance. The natural history is one of spontaneous
+resolution over 7-10 days. Recurrence in the same hip or the opposite hip occurs in
+approximately 5-15% of cases. The most important question that must be answered before
+the diagnosis of transient synovitis is accepted is whether the symptoms are in fact
+resolving in the expected time-frame: a child whose symptoms have not improved by one
+week, or have recurred, must be reassessed for septic arthritis or for one of the alternative
+diagnoses discussed below.
+
+## 4. Differential Diagnosis of the Limping Child
+
+The differential diagnosis of acute hip or limb pain in the child is wide and varies
+substantially by age. The classical age-based differential is summarized as follows.
+Birth to 4 years: developmental dysplasia of the hip; septic arthritis or osteomyelitis of the
+hip or femur; transient synovitis (uncommon below 3 years); toddler’s fracture (a spiral
+oblique fracture of the tibial diaphysis in the first walking year); non-accidental injury (the
+orthopedic surgeon must always consider this possibility, particularly with metaphyseal
+corner fractures, spiral fractures, and fractures inconsistent with the offered history); and
+the neuromuscular disorders that present in infancy with limp.
+Ages 4 to 10 years: Legg-Calvé-Perthes disease (a chronic ischemic disorder of the femoral
+head, presenting with antalgic gait and groin or knee pain, typically in boys aged 4-8);
+septic arthritis or osteomyelitis; transient synovitis; juvenile idiopathic arthritis; rheumatic
+fever; reactive arthritis; lower-extremity overuse syndromes; tarsal coalitions; discoid
+meniscus; bone tumors (osteoid osteoma, eosinophilic granuloma, Ewing sarcoma); and
+leukemia, in which bone or joint pain may be the presenting feature in 20-30% of
+childhood cases.
+Ages 10-15 years: slipped capital femoral epiphysis (a critical diagnosis that must not be
+missed, since delayed presentation produces avascular necrosis and chondrolysis); juvenile
+idiopathic arthritis; sports-related overuse syndromes (Osgood-Schlatter, Sinding-Larsen-
+Johansson, Sever’s, jumper’s knee); reactive arthritis; bone tumors (osteosarcoma, Ewing
+sarcoma); and leukemia.
+This age-based stratification is the practical foundation of every consultation in pediatric
+orthopedics, and any child with limp or limb pain should be assessed in the context of the
+diagnoses likely at that age.
+
+## 5. Diagnostic Algorithm for the Limping Child
+
+The clinical assessment begins with a careful history (onset, character, and progression of
+symptoms; antecedent illness; trauma history; constitutional symptoms; family history of
+joint or bleeding disorders), followed by a systematic physical examination with the child
+in a relaxed position, attention to gait pattern, the use of “comfort-zone” exam techniques
+in the very young child, and routine examination of the back, hip, knee, and ankle even
+when the child localizes pain to a single site (since referred pain from hip to knee is
+common and a knee complaint may signal a hip pathology). Laboratory investigation
+typically includes complete blood count with differential, ESR, CRP, blood culture (when
+fever or systemic signs are present), and a screen for childhood leukemia (with attention to
+anemia, thrombocytopenia, and abnormal differential white count). Imaging follows clinical
+suspicion: plain radiographs of the affected region in two planes, ultrasound for suspected
+hip pathology, and MRI for early-osteomyelitis, intervertebral disc, or soft-tissue lesions
+where indicated. Joint aspiration under appropriate analgesia is the definitive investigation
+for any acutely painful joint with effusion in which septic arthritis remains in the
+differential.
+
+## 6. Complications and Long-Term Sequelae
+
+The long-term consequences of infantile septic arthritis range from full recovery —
+achievable with prompt diagnosis and adequate treatment — to severe lifelong disability.
+The classical late sequelae of inadequately treated neonatal hip sepsis are: avascular
+necrosis of the femoral head, with collapse, deformity, and shortening; chronic dislocation
+or subluxation; chondrolysis with severe stiffness; coxa magna, coxa breva, or coxa vara;
+and shortening of the affected limb. Late reconstruction of the destroyed pediatric hip is
+among the most challenging procedures in pediatric orthopedics, with options including
+pelvic support osteotomy (Ilizarov), valgus or varus femoral osteotomy, distraction-
+resorption procedures, and ultimately arthrodesis or arthroplasty in adulthood. The take-
+home point — repeated in every pediatric orthopedics text from Tachdjian’s to Apley’s —
+is that the prevention of these complications depends entirely on timely diagnosis and
+prompt definitive treatment of the initial joint sepsis.
+
+## 7. Summary and Take-Home Points
+
+The pyogenic joint infections of infancy and early childhood — historically grouped under
+the rubric “infantile osteoarthritis” — share with their counterparts in older children and
+adults a common biological mechanism but present unique anatomical and clinical features
+that demand specific recognition. The intracapsular metaphysis of the neonatal hip permits
+direct extension of metaphyseal osteomyelitis into the joint; the immature vascular supply
+of the femoral head is vulnerable to thrombosis from raised intra-articular pressure; and
+the subtle clinical features of neonatal infection — pseudoparalysis, irritability, poor
+feeding — demand a high index of suspicion. Group B streptococcus, Gram-negative enteric
+organisms, and Candida species supplement Staphylococcus aureus in the neonatal
+microbiological spectrum. Urgent surgical drainage and broad-spectrum parenteral
+antibiotic therapy are the standard treatment, and the consequences of delay — avascular
+necrosis, premature physeal arrest, “Tom Smith arthritis” — are catastrophic and largely
+
+irreversible. Transient synovitis of the hip, in contrast, is a self-limiting post-viral
+inflammatory condition of the older child that resolves with rest and anti-inflammatory
+therapy; its differentiation from septic arthritis depends on the Kocher criteria and, when
+uncertain, on definitive joint aspiration. The classical pediatric clinical question “septic or
+synovitis” — answered by attention to fever, weight-bearing, inflammatory markers, and
+where necessary aspiration — exemplifies the diagnostic vigilance that is the hallmark of
+pediatric orthopedic practice.

@@ -1,0 +1,339 @@
+---
+title: "Coxarthrosis (Hip Osteoarthritis)"
+lang: "en"
+kind: "topic"
+section: "ortho"
+topicNumber: 21
+order: 21
+---
+
+## 1. Introduction
+
+Coxarthrosis — osteoarthritis of the hip joint — is one of the commonest and most
+disabling musculoskeletal conditions in adults. The disease produces progressive pain,
+stiffness, and functional limitation, and ultimately reduces quality of life to the point where
+total hip arthroplasty becomes the most cost-effective intervention in modern orthopedic
+surgery. The understanding of hip osteoarthritis has evolved substantially in recent
+decades, with recognition that the great majority of cases previously classified as
+“idiopathic” or “primary” osteoarthritis are in fact secondary to subtle developmental
+abnormalities of the hip — femoroacetabular impingement, mild acetabular dysplasia,
+healed Perthes or SCFE — that produce abnormal joint mechanics over decades and lead to
+progressive cartilage breakdown. This chapter, synthesizing content from Apley &
+Solomon’s, Miller’s Review, Operative Hip Arthroscopy, and Orthopaedic Surgical
+Approaches, addresses the epidemiology and risk factors, pathophysiology, clinical
+features, imaging, classification, non-operative management, joint-preserving surgery, and
+total hip arthroplasty for advanced disease.
+
+## 2. Epidemiology and Risk Factors
+
+The prevalence of symptomatic hip osteoarthritis is approximately 5-10% of adults over
+the age of 60, with the prevalence increasing markedly with age and approaching 20% in
+those over 80. The lifetime risk of symptomatic hip osteoarthritis is approximately 25%.
+Risk factors include increasing age, female sex (slight predominance in symptomatic
+disease), obesity (though the association is less strong for the hip than for the knee,
+reflecting the deeper joint and the role of other factors), occupational and recreational
+exposure to heavy loading and repetitive impact, prior hip trauma, prior hip disorders
+(Perthes, SCFE, DDH, FAI), inflammatory arthritis, avascular necrosis, hip dysplasia in
+adulthood, and genetic factors (a substantial heritable component is established by twin
+and family studies).
+The “primary” versus “secondary” classification of hip osteoarthritis is increasingly
+recognized as a false dichotomy: with careful radiographic and clinical assessment, most
+“primary” cases reveal an underlying predisposing condition. Cam-type femoroacetabular
+impingement is the most commonly recognized predisposing morphology in men with hip
+osteoarthritis, while acetabular dysplasia is the principal predisposition in women.
+
+## 3. Pathophysiology
+
+The pathological process of hip osteoarthritis follows the general principles of
+osteoarthritis at any joint. The earliest changes occur in the cartilage matrix, with
+disruption of the proteoglycan-collagen architecture, increased water content, fibrillation
+of the surface, and progressive loss of cartilage thickness. The chondrocytes initially
+attempt repair through increased synthetic activity but eventually undergo apoptosis,
+leaving an acellular fibrous tissue that progressively breaks down. The exposed
+subchondral bone responds with increased density (sclerosis), formation of subchondral
+
+cysts (from synovial fluid intrusion), and peripheral osteophyte formation at the joint
+margins. The synovium becomes inflamed with low-grade chronic synovitis, contributing
+to symptoms. The capsule thickens and contracts, producing limited motion. In late disease,
+complete loss of cartilage with bone-on-bone contact, marked osteophyte formation, and
+joint deformity produces the characteristic radiographic and clinical features of end-stage
+disease.
+
+## 4. Clinical Features
+
+The classical presentation is of insidious onset of groin pain, typically in middle age or later,
+often poorly localized initially. The pain may radiate to the buttock, the lateral thigh, the
+anterior thigh, or — characteristically — the medial knee through the obturator nerve. The
+classical pattern of mechanical pain — worse with activity and weight-bearing, better with
+rest — gives way over months to years to “rest pain” with continued discomfort even at
+rest, and ultimately to night pain and pain at all times. Stiffness, particularly of internal
+rotation, develops progressively and is among the most reliable functional indicators of
+disease progression. Functional limitations follow predictable patterns: difficulty putting
+on socks and shoes, difficulty climbing stairs and getting in and out of low chairs or cars,
+limp, and progressive reduction of walking distance.
+Examination findings progress with disease severity. The classical findings of established
+hip osteoarthritis include: antalgic gait (with reduced stance phase on the affected side);
+Trendelenburg gait or lurch (from abductor weakness or inhibition by pain); decreased
+range of motion, with internal rotation typically affected first and most severely, followed
+by flexion and abduction; positive Thomas test for fixed flexion deformity (the affected hip
+remains flexed when the contralateral hip is fully flexed); positive flexion-abduction-
+external rotation (FABER, Patrick) test producing groin pain; apparent leg-length
+discrepancy with shortening of the affected side; and tenderness over the anterior hip joint.
+The end-stage hip is held in fixed flexion, adduction, and external rotation, with severe
+limitation of all motion.
+
+## 5. Imaging
+
+Plain Radiographs
+The standard imaging assessment is bilateral AP pelvis and lateral views of the hip. The
+features of hip osteoarthritis follow the universal radiographic criteria of osteoarthritis
+with hip-specific manifestations:
+(1) Joint-space narrowing, typically asymmetric with the superior aspect of the joint
+    (between the superior femoral head and the acetabular roof) most commonly involved
+    early in disease;
+(2) Subchondral sclerosis of both the femoral head and the acetabular roof;
+(3) Subchondral cyst formation (geodes) in both the femoral head and acetabulum;
+
+(4) Osteophyte formation at the joint margins — particularly the superior acetabular
+    rim, the inferior femoral head and neck, and the medial acetabular floor;
+(5) Loss of femoral head sphericity from progressive cartilage and bone destruction;
+
+(6) Migration of the femoral head — typically superior or superolateral in idiopathic
+    OA, medial in protrusio-related disease.
+
+The Kellgren-Lawrence classification is the standard radiographic grading: Grade 0,
+normal; Grade 1, doubtful joint-space narrowing and possible osteophyte; Grade 2, definite
+osteophyte with possible joint-space narrowing; Grade 3, multiple osteophytes with
+definite joint-space narrowing, sclerosis, and possible deformity; Grade 4, large
+osteophytes, marked joint-space narrowing, severe sclerosis, and definite deformity.
+Tönnis grading is a similar 0-3 system used in hip-specific evaluation, with Grade 1
+indicating mild changes (osteophytes, mild sclerosis), Grade 2 indicating moderate changes
+(cysts, increased sclerosis), and Grade 3 indicating severe changes (significant joint-space
+narrowing or obliteration, large cysts, severe deformity).
+MRI and Other Advanced Imaging
+MRI is not routinely required for the diagnosis of hip osteoarthritis but is useful in early
+disease where plain radiographs may be normal but symptoms suggest joint pathology, in
+assessment of associated FAI and labral pathology, and in evaluation for alternative
+diagnoses (avascular necrosis, occult fracture, infection, malignancy). MR arthrography
+may identify labral and chondral lesions in the pre-arthritic stage. Specialized cartilage-
+sensitive MRI sequences (delayed gadolinium-enhanced MRI of cartilage — dGEMRIC; T2-
+mapping; T1-rho mapping) provide quantitative assessment of cartilage biochemical
+composition and are used principally in research settings.
+
+## 6. Non-Operative Management
+
+The non-operative management of hip osteoarthritis combines patient education, lifestyle
+modification, pharmacological treatment, and specific physical therapy interventions.
+Patient education addresses the chronicity and natural history of the disease,
+expectations for treatment, and the importance of activity and weight management.
+Weight loss, in overweight or obese patients, reduces both pain and the rate of
+progression, with documented benefit per kilogram of weight loss. The targets are modest
+but consistent reductions sustained over years.
+Physical therapy combines range-of-motion exercises (preventing further loss of motion),
+strengthening of the hip abductors and quadriceps, and core stabilization. Aquatic exercise
+is particularly useful for patients with significant pain or weight-bearing limitations.
+Activity modification addresses the avoidance of high-impact and pivoting activities, the
+use of assistive devices (cane held in the opposite hand reduces hip joint reaction force by
+20-40%), and progressive return to lower-impact activities.
+
+Pharmacological treatment follows the standard OA stepwise approach: paracetamol
+(acetaminophen) for mild symptoms; non-steroidal anti-inflammatory drugs (oral or
+topical) for moderate symptoms, with attention to cardiovascular, gastrointestinal, and
+renal risks; opioids reserved for severe symptoms unresponsive to other measures and
+with awareness of the long-term consequences of opioid use; intra-articular corticosteroid
+injection for inflammatory flares (with caution about the cumulative effects of repeated
+injections, which may damage cartilage; the recent FDA caution about cartilage loss with
+repeated injection has tempered enthusiasm); hyaluronic acid injection (less commonly
+used in the hip than in the knee, with mixed evidence for efficacy); and platelet-rich plasma
+(PRP) and other biological injections (under continued investigation).
+Glucosamine and chondroitin are widely used by patients but have inconsistent evidence
+for symptom relief and no clearly established effect on disease progression; current major
+guidelines do not endorse routine use.
+
+## 7. Joint-Preserving Surgery
+
+For appropriate younger patients with pre-arthritic or early arthritic hip disease, joint-
+preserving surgical procedures aim to correct the underlying mechanical abnormality and
+delay or prevent the progression to end-stage osteoarthritis. The principal options include:
+Hip arthroscopy for FAI, labral tears, loose bodies, and selected chondral lesions —
+discussed in detail in the FAI chapter. The role in established osteoarthritis is more limited,
+with poor outcomes when significant cartilage loss is present (Tönnis grade 2 or higher).
+Periacetabular osteotomy (Bernese / Ganz PAO) for symptomatic acetabular dysplasia
+in the young adult with preserved joint space and congruent joint — discussed in detail in
+the DDH chapter. The procedure produces durable improvement in pain and function and
+has 20-year survivorship of 60-80% in many series.
+Femoral osteotomy (proximal femoral varus, valgus, or rotational osteotomy) is
+occasionally used for specific morphological abnormalities, particularly residual deformity
+from Perthes disease or SCFE.
+Hip resurfacing arthroplasty is a partial joint replacement that preserves the proximal
+femoral bone stock, replacing only the articular surfaces of the femoral head and
+acetabulum. The procedure had a resurgence in the 2000s but has been substantially
+curtailed by recognition of the complications of metal-on-metal bearing surfaces (cobalt-
+chromium ions, adverse local tissue reactions, pseudotumor formation). The procedure
+remains an option in selected young active male patients with appropriate anatomy, but
+the use is now restricted to specialist centers with continuing interest.
+
+## 8. Total Hip Arthroplasty (THA)
+
+Indications
+Total hip arthroplasty is indicated for end-stage hip osteoarthritis (Kellgren-Lawrence 3-4,
+Tönnis 2-3) producing symptoms unresponsive to non-operative management, with
+
+attention to the patient’s functional demands, comorbidities, life expectancy, and bone
+quality. THA is also performed for advanced rheumatoid arthritis, post-traumatic arthritis,
+avascular necrosis, and other causes of end-stage hip destruction.
+Implant Design Considerations
+Modern THA implants combine four principal components: a femoral stem (cemented or
+uncemented, with various designs including conventional length, shorter “anatomic” stems,
+and “neck-preserving” stems); a femoral head (typically 28 mm to 40 mm in diameter, with
+larger heads providing greater stability but with bearing-specific tradeoffs); an acetabular
+cup (cemented or uncemented, the latter being the dominant choice in most modern
+practice); and an acetabular liner (the bearing surface, with several options).
+Bearing surfaces: The choice of bearing surface is one of the central decisions in modern
+THA. Metal-on-conventional-polyethylene was the historic standard but had high rates of
+late osteolysis from polyethylene wear particles. Metal-on-highly-cross-linked-
+polyethylene (XLPE) has substantially reduced wear rates and is now the standard for most
+patients. Ceramic-on-XLPE provides further wear reduction and is preferred in younger
+patients. Ceramic-on-ceramic provides the lowest wear of all bearings but has small risks of
+squeaking and ceramic fracture. Metal-on-metal bearings (with cobalt-chromium surfaces)
+had a brief popularity in the 2000s but have been substantially withdrawn from practice
+because of the systemic and local effects of metal ion release, with a substantial body of
+literature documenting adverse local tissue reactions, pseudotumor formation, and the
+failure of large-head metal-on-metal implants.
+
+Surgical Approaches
+Several surgical approaches to the hip are used for THA, each with advantages and
+disadvantages:
+Posterior approach (Moore, Southern, Kocher-Langenbeck): The most commonly used
+worldwide. The approach divides the gluteus maximus, identifies and protects the sciatic
+nerve, divides the short external rotators (which are repaired at the end of the procedure),
+and exposes the hip through a capsulotomy. Advantages include excellent visualization,
+extensile capacity for revision surgery, and avoidance of disruption to the hip abductor
+mechanism. The principal disadvantage has been the relatively higher rate of dislocation
+(although this has been substantially reduced by careful repair of the short external
+rotators and capsule).
+Anterolateral approach (Watson-Jones, Hardinge): Approaches the hip between the
+tensor fasciae latae and the gluteus medius (Watson-Jones) or by splitting the gluteus
+medius (Hardinge). Lower dislocation rate than posterior but with potential abductor
+weakness.
+Direct anterior approach (Smith-Petersen, Hueter): The approach uses the
+internervous plane between the sartorius and tensor fasciae latae (laterally) and the rectus
+femoris (medially). Advantages include lower dislocation rate, faster initial recovery, and
+the ability to perform the procedure with the patient supine for radiographic confirmation
+
+of leg length and implant position. Disadvantages include the learning curve, the risk of
+lateral femoral cutaneous nerve injury, and the more limited extensile capacity for revision
+surgery. The direct anterior approach has grown rapidly in popularity since the early
+2000s and is now performed by a substantial fraction of modern hip surgeons.
+Specific Surgical Techniques
+The technical principles of THA include: appropriate preoperative templating of implant
+sizes and positions; meticulous attention to acetabular cup orientation (target 40°
+abduction, 15° anteversion in most cases, with patient-specific adjustments); attention to
+femoral stem fit and fill (or cementing technique for cemented stems); careful restoration
+of leg length and offset (with intraoperative measurement); meticulous component
+reduction; and intraoperative stability assessment. The Lewinnek “safe zone” for cup
+position (30-50° abduction, 5-25° anteversion) has been refined to more individualized
+concepts of “functional anteversion” that account for spinopelvic mobility and the resting
+position of the pelvis in different functional activities.
+Outcomes of THA
+The outcomes of modern THA are excellent, with reported survivorship of approximately
+95% at 10 years and 85-90% at 20 years in many large series and national registries. The
+implants now perform durably for a substantial fraction of patients’ lifetime, particularly in
+older patients who undergo THA in their 60s or 70s. Younger patients (under 60) have less
+favorable long-term survivorship, with revision rates exceeding 20% at 20 years in some
+series, reflecting the higher activity demands and the cumulative effects of bearing wear.
+Complications of THA
+The principal complications of total hip arthroplasty include:
+Infection (periprosthetic joint infection, PJI): Rate of 1-2% for primary THA, with
+substantial morbidity. Diagnosis and treatment are discussed in the chapter on bone and
+joint infections. Modern prevention strategies include perioperative antibiotic prophylaxis
+(commonly cefazolin within 60 minutes of incision), antibiotic-loaded bone cement in
+selected cases, laminar flow operating rooms, body exhaust suits in some centers, careful
+skin preparation (chlorhexidine-alcohol), and meticulous surgical technique with attention
+to operative time.
+Dislocation: Rate of 1-3% in modern primary THA, higher in revision surgery and in
+patients with neuromuscular conditions. Causes include implant malposition, soft-tissue
+imbalance, muscle weakness, and patient factors. Treatment of acute dislocation is closed
+reduction; recurrent dislocation requires revision surgery, typically with revision of
+component position, use of larger femoral head, dual-mobility cup, or constrained liner.
+Thromboembolic disease: Deep venous thrombosis and pulmonary embolism are
+recognized risks; prophylaxis with chemical (low-molecular-weight heparin, aspirin, direct
+oral anticoagulants) and mechanical (sequential compression devices, early mobilization)
+measures has substantially reduced rates.
+
+Periprosthetic fracture: Both intraoperative (femoral fracture during stem insertion,
+acetabular fracture during cup insertion) and postoperative (atraumatic in osteoporotic
+bone or traumatic from fall) fractures occur. The Vancouver classification of postoperative
+periprosthetic femoral fractures (Type A — trochanteric; Type B1 — at stem with well-
+fixed stem; Type B2 — at stem with loose stem; Type B3 — at stem with loose stem and
+poor bone stock; Type C — distal to stem) guides treatment.
+Aseptic loosening: Once a major cause of long-term failure, now substantially reduced by
+improved implant designs, bearing surfaces, and cementing techniques. Modern
+uncemented implants show very low rates of aseptic loosening in long-term follow-up.
+Osteolysis and wear: The historical complication of polyethylene wear with secondary
+osteolysis has been substantially reduced by highly cross-linked polyethylene. Long-term
+follow-up of modern bearings shows wear rates below the threshold for osteolytic
+complications.
+Leg-length discrepancy: Apparent or true leg-length differences are common and a major
+cause of patient dissatisfaction. Careful preoperative templating, intraoperative
+measurement, and patient counseling regarding expectations are essential.
+Heterotopic ossification: Bone formation in the soft tissues around the hip can produce
+stiffness and discomfort. Risk factors include male sex, hypertrophic osteoarthritis, prior
+heterotopic ossification, and certain underlying conditions. Prophylaxis options include
+perioperative indomethacin (typically 75 mg twice daily for 2-6 weeks) or single-dose
+perioperative radiotherapy (700-800 cGy within 24-48 hours of surgery).
+Other complications: Sciatic, femoral, or lateral femoral cutaneous nerve injury; vascular
+injury; trochanteric bursitis; persistent pain of various etiologies.
+
+## 9. Special Considerations
+
+Young Patients and Hip Preservation
+The young patient with hip pain demands particularly careful assessment for hip-
+preserving options before consideration of THA. The decision is informed by the
+morphological features (FAI, dysplasia, prior childhood disease), the radiographic stage of
+arthritis (early-stage disease may benefit from hip preservation; established arthritis
+typically does not), the patient’s functional demands, and the realistic expectations for
+joint-preserving surgery in delaying rather than preventing the eventual need for
+arthroplasty.
+THA in Specific Conditions
+Hip dysplasia: THA in the dysplastic hip is technically challenging because of the small,
+anteverted acetabulum, the high-riding femoral head, and the soft-tissue contractures.
+Specific techniques include placement of the acetabular cup at the level of the true
+acetabulum (with or without bone graft for superior coverage), use of small-diameter cups,
+femoral shortening osteotomy in severe shortening, and careful soft-tissue release.
+
+Avascular necrosis: THA is the standard for advanced AVN with collapse. The technical
+issues are similar to those for primary OA, with attention to the often-younger age of the
+patient and the choice of durable bearings.
+Inflammatory arthritis: THA in rheumatoid arthritis and other inflammatory
+arthropathies follows similar principles but with attention to systemic medical
+management of the underlying disease, perioperative coordination with the
+rheumatologist, and elevated rates of infection in patients on biological therapies (the
+timing of biological agent suspension perioperatively follows specific guidelines).
+Revision THA: Revision of a failed THA is technically demanding, with management of
+bone defects (using bone grafts, augments, or revision components), the choice of bearings
+appropriate to the revision setting, and the management of infection if present. The
+Paprosky classification of acetabular and femoral bone defects guides reconstruction
+planning.
+
+## 10. Summary and Take-Home Points
+
+Coxarthrosis is a common and disabling condition with substantial impact on quality of life.
+The disease is increasingly understood as the late consequence of subtle developmental hip
+abnormalities — FAI, dysplasia, prior childhood disease — that produce abnormal joint
+mechanics over decades. Clinical assessment by careful history and physical examination
+(with attention to mechanical pain pattern, internal rotation loss, Trendelenburg gait,
+Thomas test, FABER test), combined with standardized plain radiographs (Kellgren-
+Lawrence and Tönnis grading), establishes the diagnosis and stages the disease. Non-
+operative management combining education, weight loss, physical therapy, activity
+modification, and pharmacological treatment provides the foundation of care for all
+patients. Joint-preserving surgery — hip arthroscopy for FAI, periacetabular osteotomy for
+dysplasia, femoral osteotomy for specific deformities — is indicated for the appropriate
+younger patient with pre-arthritic disease. Total hip arthroplasty, the most cost-effective
+intervention in modern orthopedic surgery, is indicated for end-stage disease with
+appropriate consideration of bearing surface, surgical approach, and patient factors.
+Modern THA produces excellent long-term outcomes with 10-year survivorship of
+approximately 95% and substantial improvement in pain, function, and quality of life. The
+principal complications of infection, dislocation, periprosthetic fracture, and aseptic
+loosening are managed by careful surgical technique, appropriate implant selection, and
+prompt recognition of complications when they occur.

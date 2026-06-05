@@ -1,0 +1,62 @@
+---
+import { LANGS, type Lang, ui } from "../../i18n/ui";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getTopicsByLang, groupTopics, topicPath } from "../../lib/topics";
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = ui[lang];
+const all = await getTopicsByLang(lang);
+const { preface, ortho, trauma } = groupTopics(all);
+const otherPath = `/${lang === "bg" ? "en" : "bg"}/`;
+---
+<BaseLayout lang={lang} otherPath={otherPath}>
+  <main class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-12 sm:pt-20 pb-24">
+    <h1 class="text-3xl sm:text-5xl font-bold tracking-tight" style="letter-spacing:-0.02em; line-height:1.1">
+      {t.siteTagline}
+    </h1>
+    <p class="mt-6 text-[var(--ink-muted)] max-w-prose text-base sm:text-lg">
+      {lang === "bg"
+        ? "Свързан учебен текст по 62 теми, обхващащ ортопедията и травматологията. Свободно навигиране, без излишен интерфейс."
+        : "A connected exam-prep text across 62 topics covering orthopedics and traumatology. Frictionless reading, no UI clutter."}
+    </p>
+    {preface && (
+      <p class="mt-8">
+        <a href={topicPath(lang, preface)} class="inline-flex items-center gap-1 pill is-active">
+          {t.preface} →
+        </a>
+      </p>
+    )}
+
+    <section class="mt-12">
+      <h2 class="section-label" style="padding-left:0">{t.sectionOrtho}</h2>
+      <ol class="mt-2 grid grid-cols-1 sm:grid-cols-2 gap-x-8">
+        {ortho.map((e) => (
+          <li class="border-b border-[var(--rule)]">
+            <a href={topicPath(lang, e)} class="flex gap-3 py-2.5 text-sm hover:text-[var(--accent)]">
+              <span class="tabular-nums text-[var(--ink-muted)] w-7 text-right">{e.data.topicNumber}.</span>
+              <span class="min-w-0">{e.data.title}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="mt-14">
+      <h2 class="section-label" style="padding-left:0">{t.sectionTrauma}</h2>
+      <ol class="mt-2 grid grid-cols-1 sm:grid-cols-2 gap-x-8">
+        {trauma.map((e) => (
+          <li class="border-b border-[var(--rule)]">
+            <a href={topicPath(lang, e)} class="flex gap-3 py-2.5 text-sm hover:text-[var(--accent)]">
+              <span class="tabular-nums text-[var(--ink-muted)] w-7 text-right">{e.data.topicNumber}.</span>
+              <span class="min-w-0">{e.data.title}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  </main>
+</BaseLayout>

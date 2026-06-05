@@ -7,7 +7,7 @@ topicNumber: 12
 order: 212
 ---
 
-## 1. Introduction
+## Introduction
 
 The pediatric skeleton differs from the adult skeleton in fundamental ways that produce
 distinct fracture patterns, distinct healing characteristics, and distinct management
@@ -26,7 +26,7 @@ fracture management distinct from adult care. The chapter draws on Tachdjian’s
 Orthopaedics, Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, and Netter’s
 Concise Orthopaedic Anatomy.
 
-## 2. The Physis (Growth Plate) — Anatomy and Biology
+## The Physis (Growth Plate) — Anatomy and Biology
 
 The physis is the cartilaginous plate at the metaphyseal-epiphyseal junction of growing
 long bones, responsible for the longitudinal growth of the skeleton. The physis is organized
@@ -55,7 +55,7 @@ The perichondrial ring (groove of Ranvier) surrounds the physis peripherally,
 contributing to circumferential growth (widening) of the physis and the metaphysis.
 Injuries to the perichondrial ring can produce localized growth arrest.
 
-## 3. Salter-Harris Classification of Physeal Injuries
+## Salter-Harris Classification of Physeal Injuries
 
 The Salter and Harris classification (1963) divides physeal fractures into five types by
 the relationship of the fracture line to the physis:
@@ -93,7 +93,7 @@ The classification predicts both immediate management (anatomical reduction requ
 for types III and IV) and the risk of long-term growth disturbance (highest for types IV and
 V).
 
-## 4. Plastic Deformation
+## Plastic Deformation
 
 The pediatric bone, with its higher porosity, lower stiffness, and more elastic behavior, can
 deform without complete fracture under bending forces. Plastic deformation is the
@@ -117,7 +117,7 @@ angulation that then relaxes back to a corrected position. Persistent angulation
 not respond to closed reduction may require completion of the deformation to a
 complete fracture through controlled osteotomy, with subsequent reduction.
 
-## 5. Greenstick Fractures
+## Greenstick Fractures
 
 The greenstick fracture is the classical pediatric incomplete fracture pattern, named after
 the analogy of bending a green tree branch — the bone breaks on one cortex (the tension
@@ -142,7 +142,7 @@ The risk of recurrence of the angulation in the cast is a recognized concern, pa
 the fracture has not been completed. Serial radiographic monitoring is essential, with re-
 reduction or operative management for redisplacement.
 
-## 6. Other Pediatric Fracture Patterns
+## Other Pediatric Fracture Patterns
 
 Buckle (Torus) Fracture
 The buckle (torus) fracture is a compression fracture of the metaphyseal cortex without a
@@ -171,7 +171,7 @@ with intra-articular extension requires anatomical reduction.
 Tillaux fracture and Triplane fracture at the distal tibia are addressed in Topic Trauma-
 28.
 
-## 7. Specific Pediatric Considerations
+## Specific Pediatric Considerations
 
 Periosteum
 The pediatric periosteum is substantially thicker, more cellular, and more biologically
@@ -200,7 +200,7 @@ with proximity to an active physis. For instance, a femoral shaft fracture in a 
 accept substantially more angulation, shortening, and malposition than the same fracture
 in a 12-year-old.
 
-## 8. Growth Arrest and Its Management
+## Growth Arrest and Its Management
 
 Growth arrest following physeal injury occurs when bony bridges form across the physis,
 tethering the epiphysis to the metaphysis and preventing further growth. The incidence of
@@ -227,7 +227,7 @@ Corrective osteotomy for established angular deformity.
 Contralateral epiphysiodesis to equalize leg lengths by stopping growth of the unaffected
 side at the appropriate time.
 
-## 9. Principles of Pediatric Fracture Management
+## Principles of Pediatric Fracture Management
 
 Closed Reduction
 Closed reduction is the cornerstone of pediatric fracture management for the great
@@ -272,7 +272,7 @@ handling), and the specific pediatric variants of common conditions (such as the
 supracondylar humerus fracture in children — the most common pediatric elbow fracture
 — with its specific management considerations).
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The pediatric skeleton differs fundamentally from the adult skeleton in the presence of
 the physis (growth plate), the thicker and more biologically active periosteum, and the

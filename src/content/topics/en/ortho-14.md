@@ -7,7 +7,7 @@ topicNumber: 14
 order: 14
 ---
 
-## 1. Introduction and Definitions
+## Introduction and Definitions
 
 Scoliosis is a lateral curvature of the spine in the coronal plane combined with rotation in
 the axial plane, producing the characteristic three-dimensional deformity of the spine that
@@ -24,7 +24,7 @@ Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, and Miller’s Review
 primarily on idiopathic scoliosis (the commonest form) and on neuromuscular and adult
 scoliosis, with cross-reference to the preceding chapter for congenital disease.
 
-## 2. Adolescent Idiopathic Scoliosis (AIS)
+## Adolescent Idiopathic Scoliosis (AIS)
 
 Epidemiology
 Adolescent idiopathic scoliosis is by far the commonest form of scoliosis, affecting
@@ -167,7 +167,7 @@ the anterior vertebrae after posterior fusion in skeletally immature patients, p
 rotational and lateral deformity, mitigated by either delaying posterior fusion until later in
 growth or by combining anterior and posterior fusion).
 
-## 3. Infantile and Juvenile Idiopathic Scoliosis
+## Infantile and Juvenile Idiopathic Scoliosis
 
 Infantile idiopathic scoliosis (onset 0-3 years) is the rarest form of idiopathic scoliosis in
 North America but is more common in Europe. Most cases resolve spontaneously, but a
@@ -187,7 +187,7 @@ Juvenile idiopathic scoliosis (onset 4-9 years) is intermediate in features betw
 and adolescent forms. The progression risk is high, and bracing and growing-rod
 techniques are commonly required.
 
-## 4. Neuromuscular Scoliosis
+## Neuromuscular Scoliosis
 
 Etiologies
 Neuromuscular scoliosis arises from underlying neurological or muscular conditions that
@@ -240,7 +240,7 @@ functional improvement in sitting balance and care against the substantial perio
 risk and the underlying medical complexity. Long fusion T2-pelvis with pelvic fixation is
 the standard.
 
-## 5. Adult Scoliosis
+## Adult Scoliosis
 
 Adult scoliosis encompasses adult idiopathic scoliosis (the persistence of adolescent
 idiopathic scoliosis into adulthood, often with progression) and de novo (degenerative)
@@ -266,7 +266,7 @@ resection), lateral or anterior lumbar interbody fusion for additional correctio
 posterior segmental fixation. The complication profile demands careful patient selection,
 optimization of comorbidities, and detailed informed consent.
 
-## 6. Schroth Method and Scoliosis-Specific Exercises
+## Schroth Method and Scoliosis-Specific Exercises
 
 In the past two decades, scoliosis-specific physical therapy methods — particularly the
 Schroth method developed in Germany — have gained increasing acceptance as adjuncts or
@@ -278,7 +278,7 @@ life, though the effect on radiographic progression is less clear. The method is
 commonly used in conjunction with bracing or in the observation range (10-25° curves in
 skeletally immature patients).
 
-## 7. Schroth Method, Bracing Adherence, and Modern Trends
+## Schroth Method, Bracing Adherence, and Modern Trends
 
 Beyond traditional brace prescription, modern practice increasingly emphasizes adherence
 monitoring with temperature-sensitive sensors built into braces, which has clarified that
@@ -289,7 +289,7 @@ reports of better in-brace correction than traditional Boston-type braces. Scoli
 physiotherapy, including the Schroth method and the Side-Shift therapy, complements
 bracing in current practice.
 
-## 8. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Scoliosis is a heterogeneous disease whose adolescent idiopathic form constitutes the
 majority of practice in most centers. The clinical recognition by Adam’s forward bend test,

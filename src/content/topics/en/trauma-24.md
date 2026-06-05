@@ -7,7 +7,7 @@ topicNumber: 24
 order: 124
 ---
 
-## 1. Introduction
+## Introduction
 
 The distal femur fracture occupies an intermediate position between the diaphyseal
 femoral shaft fracture and the intra-articular knee injury, with anatomical and
@@ -25,7 +25,7 @@ debate concerns the relative merits of these two principal constructs. This chap
 on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management,
 Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The distal femur comprises the region from approximately 9 to 15 cm proximal to the
 joint line to the articular surface. The bone transitions in this region from the relatively
@@ -58,7 +58,7 @@ varus, and extension of the distal fragment (relative to the proximal — or alt
 the proximal fragment displaces anteriorly and proximally), although the precise direction
 depends on the fracture pattern and adjacent fragment behaviors.
 
-## 3. Classification
+## Classification
 
 The AO/OTA classification (region 33) structures distal femur fractures by articular
 involvement:
@@ -82,7 +82,7 @@ Müller classification of supracondylar fractures (with extracondylar, intercond
 intracondylar variations) preceded the AO/OTA system and provides similar conceptual
 organization.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The clinical presentation depends on energy: the high-energy distal femur fracture in a
 young adult presents with gross deformity, swelling, pain, and often associated injuries; the
@@ -104,7 +104,7 @@ fracture, providing detailed assessment of articular fragments, Hoffa fragments,
 orientation of fracture lines. The CT angiography is added when vascular injury is
 suspected.
 
-## 5. Treatment — Locked Plating
+## Treatment — Locked Plating
 
 Lateral Locked Plating
 Lateral locked plating is the predominant operative technique for distal femur fractures
@@ -158,7 +158,7 @@ plate into a more balanced two-column construct. The technique uses a medial app
 the medial condyle. The evidence for routine medial augmentation is mixed; selective use
 in unstable patterns or in patients at risk for failure is generally accepted.
 
-## 6. Treatment — Retrograde Intramedullary Nailing
+## Treatment — Retrograde Intramedullary Nailing
 
 Indications and Construct
 Retrograde intramedullary nailing through the intercondylar notch provides an
@@ -205,7 +205,7 @@ plating, often with medial augmentation, is the standard.
 Periprosthetic fractures around total knee arthroplasty: Discussed below; choice
 depends on the femoral component design and the position of the fracture.
 
-## 7. Periprosthetic Distal Femur Fractures
+## Periprosthetic Distal Femur Fractures
 
 Periprosthetic distal femur fractures around total knee arthroplasty are a rapidly growing
 category, reflecting the aging arthroplasty population. The Su classification organizes
@@ -226,7 +226,7 @@ closed-box designs preclude it. The Vancouver classification principles (well-fi
 component versus loose component) apply: well-fixed implants are retained with fracture
 fixation around them; loose implants require revision.
 
-## 8. Specific Considerations
+## Specific Considerations
 
 Hoffa Fracture
 The Hoffa fracture (coronal plane fracture of the lateral or medial femoral condyle) is a
@@ -280,7 +280,7 @@ amputation” decision in severe injuries with combined orthopedic and vascular
 involvement is informed by the Mangled Extremity Severity Score (MESS) and related
 instruments.
 
-## 9. Rehabilitation and Outcomes
+## Rehabilitation and Outcomes
 
 The rehabilitation after distal femur fracture fixation emphasizes early protected weight
 bearing (often toe-touch or 25 percent partial weight bearing for 6 to 8 weeks, progressing
@@ -297,7 +297,7 @@ malalignment more than 7 degrees produces lateral arthritis), maintenance of kne
 of motion (a flexion arc less than 90 to 110 degrees produces functional impairment), and
 the patient’s pre-fracture functional level.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The distal femur fracture combines the challenges of metaphyseal-diaphyseal transition
 fixation with the proximity to the knee joint and the substantial deforming forces of the

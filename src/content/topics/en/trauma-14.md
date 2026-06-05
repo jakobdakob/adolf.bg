@@ -7,7 +7,7 @@ topicNumber: 14
 order: 114
 ---
 
-## 1. Introduction
+## Introduction
 
 Diaphyseal fractures of the humerus account for approximately 3 percent of all adult
 fractures, with a bimodal age distribution reflecting both high-energy trauma in young men
@@ -25,7 +25,7 @@ despite the generally favorable non-operative trajectory. This chapter draws pri
 Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley &
 Solomon’s, and Miller’s Review of Orthopaedics.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The humeral shaft extends from the surgical neck proximally to the supracondylar region
 distally. The cross-section transitions from a roughly circular proximal third through an
@@ -56,7 +56,7 @@ fractures of the middle and distal third where penetrating displacement can occu
 ulnar nerve descends along the medial aspect of the arm posterior to the brachial artery,
 passing posterior to the medial epicondyle at the elbow.
 
-## 3. Classification
+## Classification
 
 The AO/OTA classification for humeral shaft fractures (region 12) is the most widely used
 system. Type A is a simple fracture with two main fragments: A1 spiral, A2 oblique (>30
@@ -73,7 +73,7 @@ fracture, described by Holstein and Lewis in 1963, is a spiral oblique fracture 
 third of the humerus with characteristic displacement that puts the radial nerve at
 particular risk of injury — the most clinically important of the named patterns.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The patient presents with pain, swelling, and gross deformity of the arm after trauma. The
 mid-arm is shortened and angulated; abnormal motion and crepitus are demonstrable but
@@ -87,7 +87,7 @@ Plain radiographs in two orthogonal planes (AP and lateral) with the shoulder an
 joints included are mandatory. CT is rarely needed for diaphyseal fractures unless there is
 intra-articular extension into the proximal or distal humerus.
 
-## 5. Radial Nerve Injury
+## Radial Nerve Injury
 
 The radial nerve is injured in approximately 8 to 16 percent of humeral shaft fractures,
 the highest rate among the long bones. The classical association is with distal-third
@@ -119,7 +119,7 @@ electrophysiological recovery by 4 to 6 months is an indication for surgical exp
 with neurolysis, nerve grafting, or tendon transfer (pronator teres to ECRB, FCR to EDC,
 palmaris longus to EPL — the standard radial nerve palsy transfer pattern) as appropriate.
 
-## 6. Non-Operative Management — The Sarmiento Functional Brace
+## Non-Operative Management — The Sarmiento Functional Brace
 
 The functional brace for humeral shaft fractures, described by Augusto Sarmiento
 beginning in 1977 and continually refined through the following decades, has remained the
@@ -156,7 +156,7 @@ than the historical figures. The disparity may reflect more rigorous adjudicatio
 nonunion in modern trials, the difficulties of bracing in increasingly obese populations, and
 patient compliance issues.
 
-## 7. Operative Management — Indications
+## Operative Management — Indications
 
 Despite the favorable biology of the humeral shaft, operative fixation is indicated in a
 substantial minority of patients. Recognized indications include:
@@ -184,7 +184,7 @@ toward more liberal use of primary operative fixation for displaced fractures, p
 in younger active patients, but the evidence remains mixed and many centers continue to
 favor primary functional bracing as the default.
 
-## 8. Operative Techniques
+## Operative Techniques
 
 Plate Fixation
 Open reduction and internal fixation with a plate is the most common operative
@@ -230,7 +230,7 @@ compromise, and severely contaminated open fractures with bone loss. Definitive
 treatment with external fixation alone is uncommon because of pin-related complications
 and the long duration of treatment required.
 
-## 9. Special Considerations
+## Special Considerations
 
 Pathological Fractures
 The humerus is the second most common site (after the femur) of metastatic disease and is
@@ -264,7 +264,7 @@ fracture site, fracture gap, obesity, smoking, and inadequate immobilization. Tr
 requires conversion to operative fixation, typically by plating with bone graft, with high
 success rates (>90 percent) for the standard reconstruction.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Humeral shaft fractures are characterized by a uniquely favorable healing biology, with the
 Sarmiento functional brace remaining the cornerstone of non-operative management for

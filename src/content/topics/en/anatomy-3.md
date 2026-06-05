@@ -7,7 +7,7 @@ topicNumber: 3
 order: 203
 ---
 
-## 1. Introduction
+## Introduction
 
 The arm — extending from the shoulder to the elbow — contains the humerus and its
 surrounding muscular envelope, with the principal neurovascular structures
@@ -23,7 +23,7 @@ chapter, drawing on Orthopaedic Surgical Approaches, Netter’s Concise Orthopae
 Anatomy, and Gray’s Anatomy, addresses the surgical anatomy and principal approaches to
 the arm and humerus.
 
-## 2. Bony Anatomy and Compartments
+## Bony Anatomy and Compartments
 
 The humerus is the largest long bone of the upper extremity, extending from the
 glenohumeral joint proximally to the elbow joint distally. The principal anatomical
@@ -47,7 +47,7 @@ spiral groove of the humerus from medial-superior to lateral-inferior, supplying
 to the triceps before becoming superficial laterally and passing anterior through the lateral
 intermuscular septum.
 
-## 3. Neurovascular Structures
+## Neurovascular Structures
 
 Radial Nerve in the Arm
 The radial nerve is the principal neurological structure at risk in approaches to the
@@ -86,7 +86,7 @@ the medial epicondyle. The radial nerve pierces the lateral intermuscular septum
 junction of the middle and distal thirds of the humerus, a critical anatomical landmark for
 identifying the nerve during surgical approaches.
 
-## 4. The Anterolateral Approach to the Humerus
+## The Anterolateral Approach to the Humerus
 
 The anterolateral approach provides access to the proximal and middle thirds of the
 humeral shaft for plate fixation of fractures, tumor resection, infection drainage, and
@@ -121,7 +121,7 @@ The complications of the anterolateral approach include musculocutaneous nerve i
 the approach is extended into the distal third), and stiffness of the elbow if the approach is
 extended distally with extensive soft-tissue disturbance.
 
-## 5. The Posterior Approach to the Humerus
+## The Posterior Approach to the Humerus
 
 The posterior approach provides access to the middle and distal thirds of the humerus for
 plate fixation of distal-third fractures, radial nerve exploration, distal humerus
@@ -176,7 +176,7 @@ approaches), ulnar nerve injury (with medial paratricipital approach if performe
 without explicit ulnar nerve identification and protection), and nonunion of the
 olecranon osteotomy (with the olecranon osteotomy approach).
 
-## 6. The Anterior Approach to the Distal Humerus
+## The Anterior Approach to the Distal Humerus
 
 The anterior approach to the distal humerus is used for selected procedures involving
 the distal humerus, the elbow joint, or the brachial artery. The approach is less commonly
@@ -189,7 +189,7 @@ The anterior aspect of the distal humerus is exposed through this approach. The 
 is occasionally extended distally as the Henry approach to the proximal forearm and
 elbow (see Topic Anatomy-5).
 
-## 7. Compartment Anatomy and Fasciotomy of the Arm
+## Compartment Anatomy and Fasciotomy of the Arm
 
 The arm compartments are the anterior compartment (biceps, brachialis,
 coracobrachialis) and the posterior compartment (triceps). Arm compartment syndrome is
@@ -202,7 +202,7 @@ the fascia overlying the triceps.
 Both incisions can be combined with carpal tunnel release if hand compartment
 syndrome is also present.
 
-## 8. Approach to the Brachial Artery and Median Nerve
+## Approach to the Brachial Artery and Median Nerve
 
 The brachial artery and median nerve descend along the medial bicipital groove.
 Surgical access to these structures uses a longitudinal incision along the medial bicipital
@@ -213,7 +213,7 @@ The approach is used for vascular injury repair, exploration of the brachial art
 decompression of the median nerve (rarely; median nerve compression in the arm is
 uncommon).
 
-## 9. Approach to the Radial Nerve in the Arm
+## Approach to the Radial Nerve in the Arm
 
 Direct surgical exposure of the radial nerve in the arm is required for nerve exploration
 after humeral shaft fracture (particularly for failure of recovery or for secondary palsy
@@ -230,7 +230,7 @@ border of the biceps, with development of the interval between brachialis (media
 brachioradialis (lateral). The radial nerve emerges through the lateral intermuscular
 septum at this level and is directly identified.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The arm provides relatively straightforward surgical approaches compared with the
 shoulder, with the principal challenge being the radial nerve in the spiral groove of the

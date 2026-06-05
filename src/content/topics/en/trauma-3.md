@@ -7,7 +7,7 @@ topicNumber: 3
 order: 103
 ---
 
-## 1. Introduction
+## Introduction
 
 Non-operative (conservative) fracture treatment remains the appropriate management for
 the great majority of fractures encountered in clinical practice. The principles of reduction,
@@ -20,7 +20,7 @@ techniques of closed reduction and immobilization, the materials and methods of 
 splint application, the principles of traction, and the management of specific common
 fracture types.
 
-## 2. Indications for Non-Operative Treatment
+## Indications for Non-Operative Treatment
 
 The decision between non-operative and operative treatment is the cardinal decision in
 fracture management. The principal factors include:
@@ -38,7 +38,7 @@ Specific contraindications to operative treatment: Active infection; severe
 contamination; poor soft-tissue envelope at the proposed surgical site; patient unable to
 comply with postoperative protocol.
 
-## 3. Principles of Closed Reduction
+## Principles of Closed Reduction
 
 Closed reduction — the restoration of fracture fragments to acceptable position without
 surgical exposure — is the foundation of non-operative fracture treatment.
@@ -82,7 +82,7 @@ measure in some adult fractures).
 The selection of reduction technique depends on the specific fracture, the patient’s medical
 condition, and the available facilities.
 
-## 4. Materials of Immobilization
+## Materials of Immobilization
 
 Plaster of Paris
 Plaster of Paris (calcium sulfate hemihydrate) is the classical material for cast
@@ -106,7 +106,7 @@ of being removable for bathing and skin care.
 Bandages and strapping: For specific applications (figure-of-eight strapping for clavicle
 fractures, buddy strapping for stable finger fractures).
 
-## 5. Cast Application — Principles and Technique
+## Cast Application — Principles and Technique
 
 The principles of cast application include:
 Three-point fixation: The classical principle that any cast must apply pressure at three
@@ -142,7 +142,7 @@ Thumb spica: Scaphoid fractures and thumb metacarpal fractures.
 Figure-of-eight harness: Clavicle fractures (now less commonly used).
 Velpeau dressing: Proximal humerus and shoulder injuries in elderly patients.
 
-## 6. Complications of Cast Treatment
+## Complications of Cast Treatment
 
 The complications of cast treatment are well-documented and largely preventable with
 appropriate technique.
@@ -170,7 +170,7 @@ that become wet.
 Cast loosening: As swelling reduces, the cast becomes loose and ineffective; cast
 replacement or reapplication may be required.
 
-## 7. Traction
+## Traction
 
 Traction is the application of pulling force along the long axis of a limb to restore length
 and alignment.
@@ -198,7 +198,7 @@ Definitive treatment with traction alone is now uncommon but is still occasional
 paediatric femoral shaft fractures, for certain pelvic injuries in selected patients, and in
 resource-limited settings.
 
-## 8. Functional Bracing
+## Functional Bracing
 
 Functional bracing, popularized by Augusto Sarmiento and others from the 1960s, uses a
 prefabricated brace that permits motion at the joints adjacent to the fracture while
@@ -211,7 +211,7 @@ function; and reduced rates of joint stiffness. The disadvantages include the ne
 cooperative patients, the requirement for skilled application and follow-up, and the limited
 application to specific fracture types.
 
-## 9. Closed Reduction Under Anesthesia
+## Closed Reduction Under Anesthesia
 
 For displaced fractures that cannot be adequately reduced under simple analgesia, closed
 reduction under anesthesia is performed. The procedure is typically performed under
@@ -226,7 +226,7 @@ shoulder dislocation, the Stimson maneuver for shoulder and hip dislocations, th
 maneuver for hip dislocation, and many others. The choice of technique depends on the
 specific injury and the surgeon’s experience.
 
-## 10. Specific Considerations by Fracture Type
+## Specific Considerations by Fracture Type
 
 The detailed management of specific fractures is addressed in the relevant anatomical
 chapters; the general principles for each major fracture type include:
@@ -258,7 +258,7 @@ patients.
 Paediatric fractures: A large proportion of paediatric fractures heal with closed reduction
 and casting because of the substantial remodeling capacity of growing bone.
 
-## 11. Rehabilitation After Closed Treatment
+## Rehabilitation After Closed Treatment
 
 Rehabilitation after non-operative fracture treatment is critical to functional recovery. The
 principles include:
@@ -274,7 +274,7 @@ Progressive strengthening: Gradual return to functional activities and sports.
 Return to activity criteria: Based on clinical and radiographic healing, return of motion,
 return of strength, and patient symptoms.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Non-operative fracture treatment remains the appropriate management for the great
 majority of fractures, with techniques including closed reduction, cast and splint

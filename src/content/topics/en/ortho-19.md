@@ -7,7 +7,7 @@ topicNumber: 19
 order: 19
 ---
 
-## 1. Introduction and Definitions
+## Introduction and Definitions
 
 Slipped capital femoral epiphysis (SCFE) is a disorder of the adolescent hip in which the
 proximal femoral physis fails mechanically, allowing the metaphysis to translate and rotate
@@ -22,7 +22,7 @@ lifelong disability, and the surgical treatment is among the most consequential 
 pediatric orthopedic practice. This chapter synthesizes content from Tachdjian’s Pediatric
 Orthopaedics, Apley & Solomon’s, Miller’s Review, and Operative Hip Arthroscopy.
 
-## 2. Epidemiology
+## Epidemiology
 
 The incidence of SCFE is approximately 10-11 per 100,000 in the United States, with
 substantial variation by sex, ethnicity, and geographic region. Boys are affected
@@ -35,7 +35,7 @@ European-descended populations. The classical risk factor profile is the obese a
 male in late puberty (so-called “Andy Gump” body habitus of relative short stature for
 weight, with delayed sexual maturation).
 
-## 3. Etiology and Pathogenesis
+## Etiology and Pathogenesis
 
 The fundamental defect in SCFE is mechanical failure of the proximal femoral physis under
 physiological load. Several factors contribute to the increased risk during the adolescent
@@ -57,7 +57,7 @@ older than 16) should undergo endocrine evaluation; many practitioners now recom
 endocrine screening (TSH, growth factors, electrolytes including calcium and phosphate,
 renal function) for any SCFE patient given the prevalence of subclinical endocrine disease.
 
-## 4. Classification
+## Classification
 
 Temporal Classification
 The classical temporal classification recognizes three types based on the duration of
@@ -93,7 +93,7 @@ The Wilson classification provides a similar grading based on the percentage of
 displacement of the epiphysis relative to the metaphysis: mild (<33%), moderate (33-
 50%), severe (>50%).
 
-## 5. Clinical Features
+## Clinical Features
 
 The classical presentation is of an obese adolescent with a limp and pain in the hip, groin,
 anterior thigh, or — characteristically — the knee. The phenomenon of referred knee pain
@@ -117,7 +117,7 @@ in unstable disease, inability to bear weight. The contralateral hip should be e
 carefully, since bilateral involvement is common and contralateral SCFE may be present
 even when asymptomatic.
 
-## 6. Imaging
+## Imaging
 
 Plain radiographs are the standard initial imaging study, and the indispensable views are
 the AP pelvis and the frog-lateral (or true lateral) view of both hips. The AP pelvis alone is
@@ -142,7 +142,7 @@ radiographs; and the unstable SCFE in which assessment of vascular compromise to
 femoral head is required. CT may be used for surgical planning in severe deformity but is
 rarely required for initial diagnosis.
 
-## 7. Treatment
+## Treatment
 
 Principles
 The treatment of SCFE has several core principles: (1) immediate cessation of weight-
@@ -218,7 +218,7 @@ The choice between these osteotomies depends on the severity of deformity, the p
 symptoms, the surgeon’s experience, and the assessment of risk-benefit for the individual
 patient.
 
-## 8. Complications
+## Complications
 
 Avascular Necrosis (AVN)
 Avascular necrosis is the most consequential complication of SCFE, with overall rates of
@@ -256,7 +256,7 @@ one of progressive risk of degenerative arthritis, with approximately 10-30% of 
 requiring total hip arthroplasty by middle age, the rate depending on severity of original
 slip and complications.
 
-## 9. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Slipped capital femoral epiphysis is one of the most important diagnoses in adolescent
 orthopedics, with the typical patient being an obese adolescent male in late puberty

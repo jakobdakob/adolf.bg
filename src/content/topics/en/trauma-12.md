@@ -7,7 +7,7 @@ topicNumber: 12
 order: 112
 ---
 
-## 1. Introduction
+## Introduction
 
 The glenohumeral joint is the most commonly dislocated major joint in the body,
 accounting for approximately 50 percent of all major joint dislocations. The combination of
@@ -24,7 +24,7 @@ or reverse arthroplasty for fracture-dislocations. This chapter, drawing on Rock
 Green’s Fractures in Adults, AO Principles, Miller’s Review of Orthopaedics, and Apley &
 Solomon’s, addresses the spectrum of shoulder instability.
 
-## 2. Anatomy and Pathomechanics
+## Anatomy and Pathomechanics
 
 The glenohumeral joint is a ball-and-socket articulation with a marked size mismatch —
 the humeral articular surface area is approximately three to four times that of the glenoid.
@@ -46,7 +46,7 @@ anterior glenoid rim, described by Hill and Sachs in 1940 — and bony involveme
 anterior glenoid rim (the bony Bankart, or, when associated with substantial bone loss
 producing an “inverted pear” glenoid, the anteroinferior glenoid rim defect).
 
-## 3. Acute Anterior Dislocation
+## Acute Anterior Dislocation
 
 Anterior dislocation accounts for 95 to 97 percent of glenohumeral dislocations. The
 patient presents with the affected arm held in slight abduction and external rotation, with
@@ -87,7 +87,7 @@ examination is mandatory. The arm is placed in a sling (or, in some protocols, i
 rotation brace following a 2007 trial by Itoi et al. that suggested improved capsular healing
 position) for 3 to 6 weeks, followed by progressive rehabilitation.
 
-## 4. The Question of Recurrence and Surgical Intervention After First Dislocation
+## The Question of Recurrence and Surgical Intervention After First Dislocation
 
 The risk of recurrence after a first-time anterior shoulder dislocation correlates most
 strongly with age at first dislocation. The classical figure from the Hovelius series and
@@ -108,7 +108,7 @@ increasingly to offer early arthroscopic Bankart repair after the first dislocat
 particularly in collision and overhead athletes; in older or less active patients, non-
 operative management with selective stabilization for recurrence remains standard.
 
-## 5. Posterior Dislocation
+## Posterior Dislocation
 
 Posterior dislocation accounts for 2 to 4 percent of shoulder dislocations and is notoriously
 easy to miss. The classical mechanisms are seizure, electric shock, and posteriorly directed
@@ -135,7 +135,7 @@ osteochondral allograft or rotational osteotomy. Defects greater than 50 percent
 elderly with osteoarthritic changes, are addressed by hemiarthroplasty or reverse total
 shoulder arthroplasty.
 
-## 6. Inferior Dislocation (Luxatio Erecta)
+## Inferior Dislocation (Luxatio Erecta)
 
 Luxatio erecta is a rare (<1 percent of shoulder dislocations) dislocation in which the
 humeral head dislocates inferiorly into the subglenoid position, with the arm fixed in
@@ -148,7 +148,7 @@ is by axial traction along the line of the humerus combined with anteriorly dire
 countertraction, with conversion of the dislocation into an anterior dislocation pattern as
 the arm is brought down to the side. Open reduction is required for irreducible cases.
 
-## 7. Recurrent Anterior Instability — Evaluation
+## Recurrent Anterior Instability — Evaluation
 
 The patient with recurrent anterior shoulder instability requires careful evaluation
 directed at the structural and functional contributors. History establishes the number,
@@ -177,7 +177,7 @@ medially down the scapular neck), the GLAD lesion (glenolabral articular disrupt
 labral injury with adjacent cartilage damage), and the HAGL lesion (humeral avulsion of
 the glenohumeral ligaments).
 
-## 8. Recurrent Instability — Treatment
+## Recurrent Instability — Treatment
 
 The choice of treatment for recurrent anterior instability is structured around the bony
 anatomy. The critical concept is glenoid bone loss, quantified on the en-face glenoid view
@@ -226,7 +226,7 @@ against re-engagement. The procedure is commonly added to Bankart repair when an
 engaging Hill-Sachs is identified. Larger humeral defects may require allograft
 reconstruction or partial humeral head resurfacing.
 
-## 9. Multidirectional Instability and Habitual Dislocation
+## Multidirectional Instability and Habitual Dislocation
 
 Multidirectional instability (MDI), characterized by symptomatic instability in more than
 one direction (anterior, inferior, or posterior) typically in the patient with constitutional
@@ -246,7 +246,7 @@ psychological evaluation and is typically managed by physiotherapy and behaviora
 approaches. The historical Boyd-Sisk procedure of biceps tendon transfer for habitual
 posterior instability is now rarely performed.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Shoulder dislocation is most commonly anterior, with the classical mechanism of forced
 abduction and external rotation producing the Bankart lesion of the anteroinferior labrum

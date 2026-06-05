@@ -7,7 +7,7 @@ topicNumber: 23
 order: 123
 ---
 
-## 1. Introduction
+## Introduction
 
 The femoral shaft (diaphyseal) fracture occupies a particular place in the history of
 orthopedic surgery as the injury for which intramedullary nailing was originally developed
@@ -27,7 +27,7 @@ Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of
 Orthopaedics, addresses the contemporary management of femoral shaft fractures and the
 principles of intramedullary nailing.
 
-## 2. Surgical Anatomy and Biomechanics
+## Surgical Anatomy and Biomechanics
 
 The femoral shaft extends from approximately 5 cm distal to the lesser trochanter to
 approximately 6 cm proximal to the adductor tubercle, a length of approximately 35 cm in
@@ -62,7 +62,7 @@ nerve descending anteriorly. The sciatic nerve is at greatest risk during retrog
 (where errors in entry point can damage the nerve directly) and during fracture
 displacement; the femoral nerve is at risk during anterior approaches.
 
-## 3. Classification
+## Classification
 
 The AO/OTA classification (region 32) is the standard system:
 Type A (simple): A1 spiral, A2 oblique (>30 degrees), A3 transverse (<30 degrees).
@@ -81,7 +81,7 @@ loading: types I and II permit some load sharing between bone and implant after 
 types III and IV transfer all axial load through the implant until callus forms, requiring
 constructs (statically locked nails) that can bear this load.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The patient typically presents after high-energy trauma with gross deformity of the thigh,
 shortening, abnormal motion, and severe pain. The mechanism — motor vehicle
@@ -106,7 +106,7 @@ without specific imaging) and knee injuries. CT of the proximal femur has been a
 by some groups to detect occult neck fractures; the rate of missed femoral neck fractures in
 patients with shaft fractures justifies routine careful imaging.
 
-## 5. Initial Management
+## Initial Management
 
 Splinting for transport is typically with a Thomas splint or a Hare/Sager traction splint
 that provides axial traction and reduces fracture displacement. The traction relieves pain,
@@ -133,7 +133,7 @@ physiology is normalized; borderline patient — individualized decision
 incorporating fracture pattern, associated injuries, and patient response to
 resuscitation.
 
-## 6. Intramedullary Nailing — Technique
+## Intramedullary Nailing — Technique
 
 Antegrade Nailing
 Antegrade nailing has been the historical standard for femoral shaft fractures. The
@@ -220,7 +220,7 @@ days when the patient is physiologically stable. The conversion should not be de
 excessively because of the rising risk of pin tract infection that complicates subsequent
 nailing.
 
-## 7. Specific Considerations
+## Specific Considerations
 
 Ipsilateral Femoral Neck and Shaft Fractures
 The ipsilateral femoral neck and shaft fracture combination — sometimes called the
@@ -267,7 +267,7 @@ management is bilateral intramedullary nailing in a single setting in the stable
 unstable polytrauma patient with bilateral femoral shaft fractures is typically managed
 with bilateral external fixation as part of damage control.
 
-## 8. Complications
+## Complications
 
 Nonunion and Delayed Union
 The nonunion rate after femoral shaft intramedullary nailing is approximately 1 to 5
@@ -302,7 +302,7 @@ pain from nail prominence is occasionally severe enough to require hardware remo
 after union. Refracture after hardware removal is uncommon but described, typically
 through screw holes.
 
-## 9. Open Femoral Shaft Fractures
+## Open Femoral Shaft Fractures
 
 Open femoral shaft fractures are managed by the principles outlined in Topic Trauma-5
 (open fractures): urgent broad-spectrum antibiotic administration (cefazolin plus
@@ -313,7 +313,7 @@ most IIIA) and produces good outcomes with appropriate debridement. The most sev
 open injuries (IIIB and IIIC) may require initial external fixation with delayed conversion to
 intramedullary nailing after soft-tissue coverage and infection control are established.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The femoral shaft fracture is the prototype application of intramedullary nailing, with the
 technique providing reliable union, excellent functional outcomes, and load-sharing

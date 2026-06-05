@@ -7,7 +7,7 @@ topicNumber: 5
 order: 205
 ---
 
-## 1. Introduction
+## Introduction
 
 The forearm — between the elbow proximally and the wrist distally — is unique among
 the orthopedic regions in containing two parallel long bones whose precise spatial
@@ -25,7 +25,7 @@ access to the entire length of the bone; the direct ulnar approach provides acce
 subcutaneous border of the ulna. This chapter draws on Orthopaedic Surgical Approaches,
 Netter’s Concise Orthopaedic Anatomy, and Gray’s Anatomy.
 
-## 2. Bony Anatomy
+## Bony Anatomy
 
 The radius is the lateral bone of the forearm and the principal weight-bearing bone of the
 upper extremity. The proximal end consists of the disc-shaped radial head, the narrow
@@ -53,7 +53,7 @@ radius is stabilized by the palmar and dorsal radioulnar ligaments, the triangul
 fibrocartilage complex (TFCC), the interosseous membrane, the pronator quadratus, and
 the ulnar collateral ligament.
 
-## 3. Muscular Compartments
+## Muscular Compartments
 
 The forearm has two principal compartments — the volar (flexor-pronator) and dorsal
 (extensor-supinator) — with the mobile wad of Henry (brachioradialis, ECRL, ECRB)
@@ -95,7 +95,7 @@ forearm that can be palpated and mobilized as a single unit. The brachioradialis
 innervated by the radial nerve; ECRL is innervated by the radial nerve; ECRB is variably
 innervated by the radial nerve or the posterior interosseous nerve.
 
-## 4. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 Radial Nerve and Its Branches
 The radial nerve enters the forearm anterior to the lateral epicondyle, between the
@@ -143,7 +143,7 @@ anterior interosseous artery (running with the AIN on the volar surface of the
 interosseous membrane) and the posterior interosseous artery (running with the PIN on
 the dorsal surface).
 
-## 5. The Henry Approach to the Radius (Volar Approach)
+## The Henry Approach to the Radius (Volar Approach)
 
 The Henry approach is the classical volar approach to the radius, providing access for
 plate fixation of radial shaft fractures, biopsy of the radius, exposure of the radial
@@ -183,7 +183,7 @@ superficial radial nerve injury (with painful neuroma if branches are damaged), 
 artery injury (rare but can occur with vigorous retraction), and median nerve injury
 (uncommon, more likely with proximal extension of the dissection).
 
-## 6. The Thompson Approach to the Radius (Dorsal Approach)
+## The Thompson Approach to the Radius (Dorsal Approach)
 
 The Thompson approach provides dorsal access to the radius, used for plate fixation of
 proximal-third radial fractures (where the volar Henry approach risks the PIN),
@@ -216,7 +216,7 @@ The complications of the Thompson approach include PIN injury (the principal con
 particular risk in the supinator dissection), superficial radial nerve injury, and stiffness
 of the elbow if the approach is extensive.
 
-## 7. The Direct Ulnar Approach
+## The Direct Ulnar Approach
 
 The direct ulnar approach uses the subcutaneous border of the ulna, providing direct
 access to the bone without the need for an intermuscular plane.
@@ -239,7 +239,7 @@ The approach is used for plate fixation of ulnar shaft fractures, exposure of th
 for biopsy or tumor resection, and ulnar shortening osteotomy (a procedure for ulnar
 impaction syndrome).
 
-## 8. Approach to the Distal Radius
+## Approach to the Distal Radius
 
 The standard volar approach to the distal radius for volar plate fixation of distal
 radius fractures uses a modified Henry approach with longitudinal incision over the FCR
@@ -255,7 +255,7 @@ fracture, dorsal die-punch fragments, specific dorsal plating). The approach is 
 third extensor compartment (extensor pollicis longus, EPL) and the fourth extensor
 compartment (EDC), with the EPL routed dorsal to its sheath at closure.
 
-## 9. Approach to the Radial Artery (Forearm Segment)
+## Approach to the Radial Artery (Forearm Segment)
 
 Direct surgical access to the radial artery uses a longitudinal incision over the artery, with
 the interval between brachioradialis (lateral) and FCR (medial), exposing the artery deep
@@ -263,7 +263,7 @@ to these muscles. The approach is used for vascular injury repair, radial artery
 for coronary artery bypass grafting, and arteriovenous fistula creation for dialysis
 access.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The forearm contains two parallel long bones (radius and ulna) connected by the
 interosseous membrane and articulated at the proximal and distal radioulnar joints, with

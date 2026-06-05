@@ -7,7 +7,7 @@ topicNumber: 6
 order: 106
 ---
 
-## 1. Introduction and Definitions
+## Introduction and Definitions
 
 Polytrauma is a clinical state in which a patient has sustained multiple injuries, at least one
 of which is life-threatening, with substantial systemic consequences beyond the local
@@ -25,7 +25,7 @@ Principles of Fracture Management and Rockwood and Green’s Fractures in Adults
 addresses traumatic shock, the systemic response to trauma, the principles of damage
 control orthopedics, and the integrated management of the polytrauma patient.
 
-## 2. Traumatic Shock
+## Traumatic Shock
 
 Definition and Classification
 Shock is the clinical state of inadequate tissue perfusion to meet metabolic demand. In the
@@ -75,7 +75,7 @@ impairs cardiac and clotting function; coagulopathy worsens hemorrhage which wor
 acidosis. The triad is the principal reason for damage control rather than early definitive
 surgery in unstable patients.
 
-## 3. The Systemic Response to Trauma
+## The Systemic Response to Trauma
 
 The systemic response to trauma involves a complex interplay of inflammatory and
 counter-regulatory mechanisms.
@@ -111,7 +111,7 @@ The pathophysiology involves the release of fat globules from the medullary cana
 fracture or during reaming, with embolization to the pulmonary capillary bed and (in some
 cases) the systemic circulation.
 
-## 4. Damage Control Orthopedics (DCO)
+## Damage Control Orthopedics (DCO)
 
 The damage control orthopedics (DCO) concept, developed by Pape, Krettek, Scalea, and
 others in the late 1990s, provides a framework for the orthopedic management of the
@@ -153,7 +153,7 @@ conversion to internal fixation when physiologically stable.
 Open fractures with significant soft-tissue injury: Initial debridement and external
 fixation; definitive fixation after wound coverage is achieved.
 
-## 5. Triage of the Polytrauma Patient
+## Triage of the Polytrauma Patient
 
 The orthopedic management of the polytrauma patient must be integrated with the overall
 trauma team management. The ATLS principles of primary and secondary survey provide
@@ -178,7 +178,7 @@ report symptoms.
 Reduction of dislocations: Particularly hip and shoulder dislocations, with timing
 balanced against other priorities.
 
-## 6. Specific Considerations
+## Specific Considerations
 
 Pelvic Hemorrhage
 Pelvic ring injuries with hemorrhage are among the most consequential polytrauma
@@ -212,7 +212,7 @@ non-operative management being increasingly common for stable patients. The orth
 surgeon must coordinate timing of orthopedic procedures with the abdominal
 management.
 
-## 7. Timing of Definitive Orthopedic Surgery
+## Timing of Definitive Orthopedic Surgery
 
 The timing of definitive orthopedic surgery in the polytrauma patient is one of the principal
 areas of clinical decision-making. The general principles include:
@@ -226,7 +226,7 @@ Day 10-21: Reconstruction surgery, soft-tissue coverage, secondary procedures.
 The “second hit” concept emphasizes that even successful initial resuscitation does not
 necessarily mean the patient is ready for major surgery in the days immediately following.
 
-## 8. Outcomes in Polytrauma
+## Outcomes in Polytrauma
 
 The outcomes of polytrauma management depend on the injury severity, the patient’s
 premorbid status, the quality of trauma care, and the integration of management. Mortality
@@ -238,7 +238,7 @@ The principal long-term issues include: post-traumatic arthritis from joint inju
 pain; PTSD and other psychological consequences; cognitive sequelae of head injury; and
 the various consequences of specific organ injuries.
 
-## 9. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The polytrauma patient requires a fundamentally different orthopedic approach than the
 isolated fracture patient, with integration of fracture care into the overall management of

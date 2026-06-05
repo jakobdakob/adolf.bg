@@ -7,7 +7,7 @@ topicNumber: 22
 order: 22
 ---
 
-## 1. Introduction
+## Introduction
 
 Gonarthrosis — osteoarthritis of the knee — is the commonest joint disease in adults and
 one of the leading causes of chronic disability worldwide. The condition affects all three
@@ -20,7 +20,7 @@ arthroplasty for end-stage disease. This chapter synthesizes content from Apley 
 Solomon’s, Miller’s Review, Dutton’s Orthopaedic Examination, and Orthopaedic Surgical
 Approaches.
 
-## 2. Epidemiology and Risk Factors
+## Epidemiology and Risk Factors
 
 Symptomatic knee osteoarthritis affects approximately 10-15% of adults over age 60, with
 the prevalence rising substantially with age and reaching nearly 30% in those over 80. The
@@ -34,7 +34,7 @@ recreational exposure to heavy loading and squatting, malalignment (varus alignm
 predisposes to medial compartment disease, valgus alignment to lateral compartment
 disease), prior infection, hemophilia, inflammatory arthritis, and genetic factors.
 
-## 3. Pathophysiology
+## Pathophysiology
 
 The pathological process of knee osteoarthritis follows the general principles of
 osteoarthritis described in the preceding chapter on hip OA, with the additional feature
@@ -46,7 +46,7 @@ presents with valgus deformity. Patellofemoral disease may occur in isolation (o
 associated with patellar maltracking, patella alta, or trochlear dysplasia) or as part of multi-
 compartment disease.
 
-## 4. Clinical Features
+## Clinical Features
 
 Presentation is with progressive knee pain typically localized to the affected
 compartment(s), often described as deep, aching, and exacerbated by weight-bearing and
@@ -63,7 +63,7 @@ motion with flexion contracture in advanced disease; crepitus on motion; quadric
 wasting; positive McMurray test (less reliable in established OA); and positive grind test for
 patellofemoral disease.
 
-## 5. Imaging
+## Imaging
 
 Standardized weight-bearing radiographs are essential, since the joint-space narrowing of
 knee OA is reliably demonstrated only with axial loading. The standard views include: AP
@@ -81,7 +81,7 @@ diagnoses such as spontaneous osteonecrosis of the knee (SONK), pigmented villon
 synovitis, and intra-articular tumors. MRI is not routinely required for the diagnosis of
 knee OA but is valuable in atypical presentations.
 
-## 6. Non-Operative Management
+## Non-Operative Management
 
 The non-operative management of knee OA combines patient education, lifestyle
 modification, pharmacological treatment, and selective injection therapies, following the
@@ -114,7 +114,7 @@ wedge insoles for medial compartment OA have a smaller and less consistent benef
 Walking aids: A cane in the contralateral hand reduces the joint reaction force on the
 affected knee by 20-40%.
 
-## 7. Joint-Preserving Surgery
+## Joint-Preserving Surgery
 
 High Tibial Osteotomy
 High tibial osteotomy (HTO) is the classical joint-preserving operation for medial
@@ -167,7 +167,7 @@ defects. These procedures are generally reserved for focal cartilage defects in 
 patients without established osteoarthritis; in established OA, the surrounding articular
 damage and altered joint mechanics produce poor outcomes.
 
-## 8. Unicompartmental Knee Arthroplasty (UKA)
+## Unicompartmental Knee Arthroplasty (UKA)
 
 Unicompartmental knee arthroplasty replaces only the affected compartment(s) of the
 knee, preserving the unaffected compartments and the cruciate ligaments. The medial UKA
@@ -190,7 +190,7 @@ requiring later conversion to TKA, and the more stringent indications. Long-term
 survivorship has improved over recent decades and modern series report 10-year survival
 of 90% or higher in centers with appropriate volume and patient selection.
 
-## 9. Total Knee Arthroplasty (TKA)
+## Total Knee Arthroplasty (TKA)
 
 Indications
 TKA is indicated for end-stage tri-compartmental or bi-compartmental knee osteoarthritis
@@ -269,7 +269,7 @@ to that for hip arthroplasty.
 Neurovascular injury: Peroneal nerve palsy (particularly after correction of severe valgus
 deformity); popliteal artery injury (rare but catastrophic).
 
-## 10. Special Considerations
+## Special Considerations
 
 Younger Patients
 Knee arthroplasty in younger patients (<60 years) has higher revision rates than in older
@@ -300,7 +300,7 @@ Institute — AORI — classification of distal femoral and proximal tibial defe
 revision components with augments and stems for additional fixation, and addressing the
 underlying cause of failure to prevent recurrence.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Gonarthrosis is the commonest joint disease in adults and a leading cause of chronic
 disability. The condition affects the medial, lateral, and patellofemoral compartments in

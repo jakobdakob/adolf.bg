@@ -7,7 +7,7 @@ topicNumber: 2
 order: 202
 ---
 
-## 1. Introduction
+## Introduction
 
 The shoulder girdle, comprising the glenohumeral joint, the acromioclavicular joint, the
 sternoclavicular joint, and the scapulothoracic articulation, provides the greatest range of
@@ -22,7 +22,7 @@ the brachial plexus and axillary vessels in the deeper structures. This chapter,
 on Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s
 Anatomy, addresses the surgical anatomy and principal approaches to the shoulder.
 
-## 2. Bony and Articular Anatomy
+## Bony and Articular Anatomy
 
 The glenohumeral joint is a ball-and-socket articulation between the relatively small,
 slightly retroverted glenoid (typical retroversion 5 to 7 degrees, with inferior tilt of about
@@ -49,7 +49,7 @@ The clavicle completes the shoulder girdle, articulating with the acromion later
 joint) and the sternum medially (SC joint). Its anatomy and pathology were addressed in
 Topic Trauma-11.
 
-## 3. Muscular Anatomy
+## Muscular Anatomy
 
 Rotator Cuff
 The rotator cuff comprises four muscles forming a cuff around the humeral head:
@@ -94,7 +94,7 @@ anterior weakness (typically from long thoracic nerve injury).
 Levator scapulae: From cervical transverse processes to superior medial border of
 scapula. Elevates the scapula.
 
-## 4. Neurovascular Structures
+## Neurovascular Structures
 
 Axillary Nerve (C5-C6)
 The axillary nerve is the principal neurological structure at risk in shoulder surgery. It
@@ -130,7 +130,7 @@ The long thoracic nerve runs along the lateral chest wall on the surface of serr
 anterior, supplying the muscle. Injury produces scapular winging with prominence of the
 medial border of the scapula on forward elevation of the arm.
 
-## 5. The Deltopectoral Approach
+## The Deltopectoral Approach
 
 The deltopectoral approach is the most commonly used approach to the anterior
 shoulder, providing access for anterior open reduction of dislocations, open reduction
@@ -177,7 +177,7 @@ subscapularis dysfunction (common after various subscapularis takedown technique
 subscapularis peel with bone block or lesser tuberosity osteotomy may produce better
 outcomes than the historical vertical incision).
 
-## 6. The Posterior Shoulder Approach
+## The Posterior Shoulder Approach
 
 The posterior approach provides access for posterior glenoid procedures (posterior
 Bankart, posterior bone block), posterior shoulder instability surgery, posterior
@@ -210,7 +210,7 @@ concern, prevented by limiting the deltoid split to 5 cm distal to the acromion)
 suprascapular nerve injury (in the spinoglenoid notch, at risk with deep dissection), and
 rotator cuff dysfunction (from infraspinatus disruption).
 
-## 7. Anterior Axillary (Henry’s) Approach
+## Anterior Axillary (Henry’s) Approach
 
 The anterior axillary approach uses a more inferior anterior incision that avoids the
 visible anterior shoulder scar and provides access for anterior shoulder procedures with
@@ -226,7 +226,7 @@ standard deltopectoral approach. The advantage is the smaller, less visible scar
 disadvantage is the more limited proximal exposure and the somewhat more demanding
 orientation.
 
-## 8. The Superior (Saber-Cut) Approach
+## The Superior (Saber-Cut) Approach
 
 The superior approach (also called the saber-cut approach or the superior
 arthroscopic-assisted approach) provides access to the superior aspect of the shoulder
@@ -246,7 +246,7 @@ performed.
 The superior approach is largely supplanted by arthroscopic techniques for most rotator
 cuff and AC joint procedures, but retains a role in selected open procedures.
 
-## 9. Shoulder Arthroscopy
+## Shoulder Arthroscopy
 
 Shoulder arthroscopy has largely supplanted open surgery for many shoulder pathologies
 and merits brief consideration in the context of surgical anatomy. The principal portals
@@ -270,7 +270,7 @@ attention to the labrum (Bankart and SLAP lesions), the rotator cuff (articular-
 the long head of biceps, the cartilage surfaces, and the capsule. The subacromial space is
 examined separately for bursal-sided cuff tears, the coracoacromial arch, and the AC joint.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The shoulder offers a substantial set of surgical approaches reflecting its mobility, complex
 muscular envelope, and proximity to neurovascular structures. The deltopectoral

@@ -7,7 +7,7 @@ topicNumber: 21
 order: 121
 ---
 
-## 1. Introduction
+## Introduction
 
 The femoral neck fracture is among the most common and most consequential of
 orthopedic injuries, with a lifetime risk in women of approximately 17 percent and in men
@@ -26,7 +26,7 @@ Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, 
 Review of Orthopaedics, addresses the contemporary management of femoral neck
 fractures.
 
-## 2. Surgical Anatomy and Blood Supply
+## Surgical Anatomy and Blood Supply
 
 The femoral neck extends from the femoral head to the intertrochanteric line, with a
 typical length of 4 to 5 cm and an angulation relative to the femoral shaft (neck-shaft
@@ -56,7 +56,7 @@ provide secondary information about bone quality. The calcar femorale is the den
 vertical plate of bone deep within the proximal femur, providing structural support for the
 inferior medial neck region; its integrity is important in fixation construct stability.
 
-## 3. Classification
+## Classification
 
 Two classification systems are predominant: the Garden classification (focused on
 radiographic displacement) and the Pauwels classification (focused on shear angle).
@@ -97,7 +97,7 @@ femoral head), transcervical (mid-neck), and basicervical (at the junction of th
 the intertrochanteric region — sometimes grouped with extracapsular fractures because of
 the different blood supply and more reliable healing).
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The classical presentation is the elderly patient with a low-energy fall who presents with
 hip pain and inability to bear weight, with the affected leg held in slight external rotation
@@ -122,7 +122,7 @@ injury (occult intertrochanteric or pubic ramus fracture, sacral insufficiency f
 is sensitive within 24 hours of injury. CT is an alternative for those who cannot tolerate
 MRI but is less sensitive for occult fractures.
 
-## 5. Treatment Principles — The Central Algorithm
+## Treatment Principles — The Central Algorithm
 
 The treatment algorithm depends on the interaction of age, fracture displacement, and
 functional status. The principal options are:
@@ -150,7 +150,7 @@ fracture. Subsequent secondary analyses and other trials have shown that THA off
 better functional outcomes in the high-functioning elderly patient at the cost of slightly
 higher early complication rates (dislocation in particular).
 
-## 6. Internal Fixation
+## Internal Fixation
 
 Indications
 Internal fixation is indicated for non-displaced fractures (Garden I and II) in patients of all
@@ -195,7 +195,7 @@ alternatives (primary arthroplasty in a young patient) have their own substantia
 term concerns. The patient must be counseled about these risks and about the possibility of
 late conversion to arthroplasty.
 
-## 7. Hemiarthroplasty
+## Hemiarthroplasty
 
 Indications
 Hemiarthroplasty is appropriate for displaced femoral neck fractures in the elderly
@@ -227,7 +227,7 @@ be 10 to 15 percent at 10 years in active patients but is much less of an issue 
 low-demand population. Dislocation rates of hemiarthroplasty are typically 1 to 3
 percent, similar to or slightly lower than THA in this population.
 
-## 8. Total Hip Arthroplasty
+## Total Hip Arthroplasty
 
 Indications
 THA is increasingly favored for displaced femoral neck fractures in higher-demand
@@ -255,7 +255,7 @@ laxity in the fractured hip and the patient population’s tendency to cognitive
 affecting compliance with hip precautions. Dual-mobility designs have substantially
 reduced dislocation rates and are increasingly the standard for hip fracture THA.
 
-## 9. Special Considerations
+## Special Considerations
 
 Femoral Neck Fractures in Young Patients
 The femoral neck fracture in a young patient (under 50, typically 20 to 50 years) is a
@@ -310,7 +310,7 @@ assessment, and outpatient follow-up is essential — the patient who has sustai
 fracture has approximately 4 to 5 times the risk of a second fragility fracture within a year
 if these measures are not addressed.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The femoral neck fracture combines the urgency of restoring function in the elderly with
 the central management algorithm built around displacement (Garden I-II versus III-IV),

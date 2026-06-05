@@ -7,7 +7,7 @@ topicNumber: 18
 order: 118
 ---
 
-## 1. Introduction
+## Introduction
 
 The fractures and dislocations of the wrist and hand, taken together, account for nearly 30
 percent of all upper extremity injuries presenting to emergency departments and represent
@@ -25,7 +25,7 @@ draws principally on Rockwood and Green’s Fractures in Adults, Apley & Solomon
 Miller’s Review of Orthopaedics, Dutton’s Orthopaedic Examination, and Netter’s Concise
 Orthopaedic Anatomy.
 
-## 2. Carpal Anatomy and Biomechanics
+## Carpal Anatomy and Biomechanics
 
 The carpus consists of two rows of four bones each — the proximal row (scaphoid, lunate,
 triquetrum, pisiform) and the distal row (trapezium, trapezoid, capitate, hamate) —
@@ -52,7 +52,7 @@ proximally and the capitate distally. Its blood supply is from volar and dorsal 
 a small subset of patients (about 25 percent) having a single volar nutrient artery that
 predisposes to Kienböck’s disease (avascular necrosis, discussed in Topic Orth-9).
 
-## 3. Scaphoid Fractures
+## Scaphoid Fractures
 
 Anatomy and Classification
 The classical Russe classification (1960) divides scaphoid fractures by the orientation of
@@ -121,7 +121,7 @@ screw. Proximal pole nonunion with AVN may require vascularized bone graft —
 typically the 1,2-intercompartmental supraretinacular artery (1,2-ICSRA) pedicled
 graft from the distal radius or a free vascularized graft from the medial femoral condyle.
 
-## 4. Other Carpal Fractures
+## Other Carpal Fractures
 
 The remaining carpal fractures collectively account for 20 to 30 percent of carpal injuries.
 Triquetrum fractures are the second most common carpal fracture, with the dorsal
@@ -137,7 +137,7 @@ analogous to the scaphoid. Pisiform fractures are rare and typically heal withou
 treatment. Trapezium, trapezoid, and lunate body fractures are rare; the lunate body
 fracture is significant for its association with Kienböck’s disease.
 
-## 5. Perilunate and Lunate Dislocations
+## Perilunate and Lunate Dislocations
 
 The perilunate dislocation is a complex carpal disruption that occurs in distinctive stages
 described by Mayfield (1980). The mechanism is high-energy hyperextension, ulnar
@@ -178,7 +178,7 @@ Missed or chronic perilunate dislocations (the unrecognized injury that presents
 to months later) have substantially worse outcomes and may require salvage procedures
 such as proximal row carpectomy or total wrist fusion.
 
-## 6. Metacarpal Fractures
+## Metacarpal Fractures
 
 Metacarpal fractures are the most common hand fractures, accounting for approximately
 40 percent of hand injuries. The mechanisms range from low-energy punch injuries (the
@@ -233,7 +233,7 @@ Extra-articular fractures of the first metacarpal base are addressed similarly t
 metacarpal shaft fractures, with closed reduction and casting suitable for most patterns
 and operative fixation for unstable or rotated patterns.
 
-## 7. Phalangeal Fractures
+## Phalangeal Fractures
 
 Phalangeal fractures of the fingers include the proximal, middle, and distal phalanges
 and the interphalangeal joints.
@@ -284,7 +284,7 @@ contralateral thumb or absolute laxity >35 degrees) and imaging (often MRI) conf
 Stener lesion. Treatment of complete UCL tears is surgical repair, with non-operative
 management reserved for partial tears.
 
-## 8. Crush Injuries and Compartment Syndrome of the Hand
+## Crush Injuries and Compartment Syndrome of the Hand
 
 The hand has 10 distinct compartments (thenar, hypothenar, adductor, four dorsal
 interosseous, three palmar interosseous, and carpal tunnel by some accounts), and
@@ -295,7 +295,7 @@ without permanent damage. Treatment is decompressive fasciotomy through dorsal
 incisions (two longitudinal dorsal incisions over the second and fourth metacarpals to
 release the dorsal and volar interossei) and a separate carpal tunnel release if indicated.
 
-## 9. Open Hand Injuries
+## Open Hand Injuries
 
 Open injuries of the hand follow the principles outlined in Topic Trauma-5 (open fractures)
 with specific considerations for the hand. Bite injuries (“fight bite” from human teeth
@@ -309,7 +309,7 @@ initially but may be limb-threatening; urgent extensive debridement and explorat
 required. Crush injuries with significant tissue loss may require complex reconstructive
 procedures including local flaps, regional flaps, or free tissue transfer.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The scaphoid is the most commonly fractured carpal bone, with the retrograde dorsal
 blood supply placing proximal pole fractures at particular risk of avascular necrosis and

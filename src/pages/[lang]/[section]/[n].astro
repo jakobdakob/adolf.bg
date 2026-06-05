@@ -21,9 +21,9 @@ const entry = all.find(
   (e) => e.data.kind === "topic" && e.data.section === section && e.data.topicNumber === Number(n)
 );
 if (!entry) throw new Error(`Missing topic ${section}-${n} (${lang})`);
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 const otherPath = otherLangPath(lang, entry);
 ---
-<TopicLayout lang={lang} entry={entry} otherPath={otherPath}>
+<TopicLayout lang={lang} entry={entry} otherPath={otherPath} headings={headings}>
   <Content />
 </TopicLayout>

@@ -7,7 +7,7 @@ topicNumber: 10
 order: 110
 ---
 
-## 1. Introduction
+## Introduction
 
 The spinal column is unique among the orthopedic regions in combining a mechanical
 function — load transmission between the skull, the trunk, and the pelvis — with a
@@ -28,7 +28,7 @@ synthesizes the contemporary classifications (AO Spine, TLICS) that have largely
 their predecessors (Denis three-column theory, Magerl-Gertzbein) in routine clinical
 practice while building on their conceptual foundations.
 
-## 2. Initial Assessment of the Spine-Injured Patient
+## Initial Assessment of the Spine-Injured Patient
 
 The patient with suspected spinal injury arrives in the trauma bay with a spinal precaution
 package — rigid cervical collar, log-roll handling, backboard transfer — that should be
@@ -59,7 +59,7 @@ injury — the absence of deficit reflects integrity of the cord as tested but d
 the structural stability of the column. The decision to operate is guided as much by
 structural instability as by neurological involvement.
 
-## 3. Craniocervical Junction Injuries
+## Craniocervical Junction Injuries
 
 The occipitocervical junction (occiput, atlas, axis) accounts for approximately one-third
 of all cervical fractures and is the site of several injuries with characteristic mechanisms
@@ -134,7 +134,7 @@ because it worsens the deformity). Type III has the C2-3 facet dislocation in ad
 pars fracture; this is the unstable pattern that frequently presents with neurological deficit
 and requires open reduction and posterior fusion.
 
-## 4. Subaxial Cervical Spine (C3 to C7)
+## Subaxial Cervical Spine (C3 to C7)
 
 The subaxial cervical spine extends from C3 to C7 and is the most common site of cervical
 spinal injury overall. The AO Spine Subaxial Cervical Spine Injury Classification
@@ -175,7 +175,7 @@ reduction typically require posterior open reduction; significant disc disruptio
 by ACDF; the most disrupted injuries with combined facet and disc involvement require
 combined anterior-posterior fusion.
 
-## 5. Thoracolumbar Spine — Classification Systems
+## Thoracolumbar Spine — Classification Systems
 
 Denis Three-Column Theory
 The Denis three-column theory (1983), although largely superseded by more recent
@@ -215,7 +215,7 @@ tension-band disruption in ankylosed spine). Translation injuries are C (any tra
 any plane). The neurological status modifier (N0–N4) and patient-specific modifiers (M1:
 indeterminate PLC; M2: comorbidity) supplement the morphologic grade.
 
-## 6. Specific Thoracolumbar Injuries
+## Specific Thoracolumbar Injuries
 
 Compression Fractures (A1, A2)
 Compression fractures involve anterior column failure with preserved middle column. The
@@ -269,7 +269,7 @@ status. The mechanism is severe — typically high-energy motor vehicle crash, f
 height, or crush injury. Posterior segmental pedicle screw fixation with rod constructs,
 often spanning multiple levels above and below the injury, is the standard treatment.
 
-## 7. Operative Techniques — Brief Overview
+## Operative Techniques — Brief Overview
 
 For thoracolumbar trauma, pedicle screw instrumentation is the workhorse. The fixation
 construct typically spans two levels above and one or two levels below the injured
@@ -288,7 +288,7 @@ ligamentous posterior column injuries and is the approach of choice for facet di
 that fail closed reduction. Combined anterior-posterior approaches are used for the
 most disrupted injuries.
 
-## 8. Pediatric Considerations
+## Pediatric Considerations
 
 Pediatric spine injuries are uncommon but distinct. Several features deserve mention. The
 fulcrum of cervical injury in young children is higher than in adults — approximately C2-
@@ -307,7 +307,7 @@ otherwise managed by adult principles, although the lower threshold for non-oper
 management in the growing skeleton, and the avoidance of fusion across growth plates
 where possible, are important considerations.
 
-## 9. Postoperative Management and Complications
+## Postoperative Management and Complications
 
 Postoperative management following spinal stabilization includes early mobilization with
 appropriate orthotic protection when needed, neurological monitoring, deep vein
@@ -321,7 +321,7 @@ percent in elective spinal surgery rising to 5 to 10 percent in trauma). The inf
 complications addressed in Topic Trauma-9 apply with particular force to spinal hardware
 because of the consequences of deep infection in this region.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Spinal injuries without cord involvement nonetheless demand careful structural
 assessment because instability — not neurological status alone — drives management. The

@@ -7,7 +7,7 @@ topicNumber: 26
 order: 126
 ---
 
-## 1. Introduction
+## Introduction
 
 The knee dislocation is one of the most dramatic and most dangerous injuries in orthopedic
 practice, combining the disruption of the principal ligamentous restraints of the joint with
@@ -24,7 +24,7 @@ both a diagnostic tool in the trauma setting and the platform for reconstructive
 chronic instability. This chapter draws on Rockwood and Green’s Fractures in Adults, Apley
 & Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s Orthopaedic Examination.
 
-## 2. Knee Stability — The Principal Restraints
+## Knee Stability — The Principal Restraints
 
 The knee is stabilized by a complex of structures that the orthopedic surgeon must
 understand to evaluate ligamentous injury:
@@ -50,7 +50,7 @@ primary role is load distribution.
 The iliotibial band anterolaterally and the pes anserinus tendons medially contribute
 dynamic stability through their muscular attachments.
 
-## 3. Knee Dislocation — Classification and Mechanism
+## Knee Dislocation — Classification and Mechanism
 
 The Schenck anatomic classification (1992) organizes knee dislocations by the pattern
 of ligamentous injury, which is more clinically useful than the older positional classification
@@ -74,7 +74,7 @@ sufficient to dislocate the knee with relatively minor mechanism). The obese pat
 knee dislocation has been recognized as a distinct entity with particularly high rates of
 complications.
 
-## 4. Acute Evaluation of the Dislocated Knee
+## Acute Evaluation of the Dislocated Knee
 
 The clinical examination of the obviously dislocated knee identifies the position of the
 tibia relative to the femur and assesses for the immediate concerns of vascular injury,
@@ -102,7 +102,7 @@ depends on the direction of displacement but generally involves traction with
 countertraction in line with the limb. Post-reduction examination confirms reduction by
 clinical alignment and immediate neurovascular reassessment.
 
-## 5. Vascular Evaluation — The Central Concern
+## Vascular Evaluation — The Central Concern
 
 The popliteal artery is at substantial risk in knee dislocation because of its tethering at the
 adductor hiatus proximally and at the entry into the anterior compartment distally; the
@@ -129,7 +129,7 @@ rates after popliteal artery injury fall dramatically with delays exceeding 6 to
 orthopedic surgeon’s threshold for vascular surgery consultation should be low in any
 patient with concerning examination findings.
 
-## 6. Operative Management of Knee Dislocation
+## Operative Management of Knee Dislocation
 
 Timing of Surgery
 The timing of definitive ligamentous reconstruction after knee dislocation has been an
@@ -167,7 +167,7 @@ stabilization. The fixator maintains reduction, protects the soft tissues, and p
 stability for vascular repair when needed. Definitive ligamentous reconstruction is delayed
 until conditions permit.
 
-## 7. Outcomes and Complications
+## Outcomes and Complications
 
 The functional outcomes of knee dislocation are generally less than perfect, with most
 patients retaining some level of pain, stiffness, or instability despite optimal management.
@@ -188,7 +188,7 @@ secondary stabilizer loading can produce ACL or PCL graft failure.
 Post-traumatic arthritis: Common in the long term, particularly with associated articular
 injury or persistent instability.
 
-## 8. Chronic Knee Instability
+## Chronic Knee Instability
 
 The chronic knee instabilities represent a distinct topic with their own substantial
 literature. The principal entities relevant here are:
@@ -223,7 +223,7 @@ hamstring graft) for primary instability without other anatomical anomalies; add
 tibial tuberosity transfer (Fulkerson osteotomy, anteromedialization) or trochleoplasty
 for more complex anatomical situations.
 
-## 9. Knee Arthroscopy — Principles
+## Knee Arthroscopy — Principles
 
 Knee arthroscopy is the diagnostic and therapeutic modality that revolutionized knee
 surgery in the 1970s and 1980s and provides the foundation for contemporary knee
@@ -268,7 +268,7 @@ access. The arthroscopic assessment of the ACL includes inspection of the femora
 tibial attachments, probing of the tibial attachment, and assessment of fiber integrity; for
 the PCL, the inspection is more limited and may require the posterior approach.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The knee dislocation is one of the most dangerous orthopedic injuries because of the
 immediate threat of popliteal artery injury and limb loss. The Schenck anatomic

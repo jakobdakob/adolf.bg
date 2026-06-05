@@ -7,7 +7,7 @@ topicNumber: 26
 order: 26
 ---
 
-## 1. Introduction
+## Introduction
 
 Birth injuries to the musculoskeletal system encompass a range of conditions arising from
 the mechanical forces of birth, often in the context of difficult delivery. The principal
@@ -18,7 +18,7 @@ common conditions. This chapter, synthesizing content from Tachdjian’s Pediatr
 Orthopaedics, Apley & Solomon’s, and Miller’s Review, addresses these conditions with
 attention to recognition, natural history, and management.
 
-## 2. Obstetric Brachial Plexus Palsy (OBPP)
+## Obstetric Brachial Plexus Palsy (OBPP)
 
 Epidemiology and Risk Factors
 Obstetric brachial plexus palsy is a stretch or rupture injury to the brachial plexus during
@@ -111,7 +111,7 @@ derotational osteotomy in selected cases); elbow flexion contracture and forearm
 pronation contracture; weakness of various muscles; and limited overall function
 compared with the unaffected arm.
 
-## 3. Congenital Muscular Torticollis
+## Congenital Muscular Torticollis
 
 Definition and Etiology
 Congenital muscular torticollis (CMT) is a postural deformity of the head and neck arising
@@ -169,7 +169,7 @@ clavicular head, or both heads of the SCM at their distal insertions. The proced
 performed open or endoscopically. Postoperative stretching and bracing prevent
 recurrence.
 
-## 4. Perinatal Fractures
+## Perinatal Fractures
 
 Several fractures can occur during birth, particularly during difficult delivery.
 Clavicle fracture: The commonest perinatal fracture, with an incidence of approximately
@@ -196,7 +196,7 @@ Spine fractures: Rare but described, particularly in difficult breech delivery w
 hyperextension of the cervical spine. These produce profound neurological injury and
 demand careful evaluation.
 
-## 5. Other Birth Injuries
+## Other Birth Injuries
 
 Caput succedaneum and cephalhematoma: Soft tissue collections over the skull from
 pressure during delivery, typically resolving spontaneously without orthopedic
@@ -205,7 +205,7 @@ Brachial plexus palsy from causes other than birth: Brachial plexus injuries als
 from postnatal trauma, infections, tumors, and other causes; the management principles
 are similar but the prognosis is variable.
 
-## 6. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Birth injuries to the musculoskeletal system include obstetric brachial plexus palsy (the
 most consequential, with the Erb’s-Duchenne pattern of upper plexus injury producing the

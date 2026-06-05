@@ -7,7 +7,7 @@ topicNumber: 2
 order: 102
 ---
 
-## 1. Introduction
+## Introduction
 
 Bone healing is a complex biological process that distinguishes bone from most other
 tissues in the body — unlike most tissues, which heal by scarring, bone heals by
@@ -19,7 +19,7 @@ Principles of Fracture Management, Apley & Solomon’s, Miller’s Review, and t
 science chapters of Rockwood and Green’s. Cartilage healing — fundamentally different
 and substantially less effective than bone healing — is addressed at the end of the chapter.
 
-## 2. Mechanisms of Bone Healing
+## Mechanisms of Bone Healing
 
 Two principal mechanisms of bone healing are recognized, and the choice between them
 depends on the mechanical environment of the fracture site.
@@ -79,7 +79,7 @@ Indirect healing with callus, by contrast, is the natural mechanism for diaphyse
 and is promoted by relative (not absolute) stability and preservation of the soft-tissue
 envelope.
 
-## 3. Cellular and Molecular Biology of Fracture Healing
+## Cellular and Molecular Biology of Fracture Healing
 
 The cellular and molecular processes of fracture healing involve a complex interplay of
 multiple cell types and signaling molecules. The principal cells involved are:
@@ -122,7 +122,7 @@ Sclerostin (produced by osteocytes) and Dickkopf-1 are inhibitors of Wnt signali
 antibodies against these proteins (romosozumab against sclerostin) have shown promise
 in promoting bone formation.
 
-## 4. Factors Influencing Fracture Healing
+## Factors Influencing Fracture Healing
 
 Local Factors
 Mechanical environment: The single most important local factor. Absolute stability
@@ -175,7 +175,7 @@ healing; deficiency is increasingly recognized as a contributor to non-union.
 Other systemic conditions: Chronic kidney disease, liver disease, malabsorption, alcohol
 abuse, certain malignancies all impair healing.
 
-## 5. Pharmacological Augmentation of Fracture Healing
+## Pharmacological Augmentation of Fracture Healing
 
 Several pharmacological agents have been studied or used clinically to enhance fracture
 healing:
@@ -200,7 +200,7 @@ fractures, particularly older adults with established or suspected deficiency.
 Other agents: Various other agents (growth hormone, prostaglandins, statins, others) have
 been studied with variable evidence of benefit; none are routinely used in clinical practice.
 
-## 6. Bone Grafting and Bone Graft Substitutes
+## Bone Grafting and Bone Graft Substitutes
 
 When fracture healing is impaired or expected to be impaired (large gaps, infected non-
 union, revision surgery), bone grafting or bone graft substitutes are used to augment
@@ -222,7 +222,7 @@ combinations are available.
 Growth factors: BMPs and other growth factors can be combined with carrier materials to
 provide osteoinductive activity in the absence of viable cells.
 
-## 7. Clinical Assessment of Fracture Healing
+## Clinical Assessment of Fracture Healing
 
 The clinical assessment of fracture healing combines:
 Clinical examination: Absence of tenderness at the fracture site; absence of pain on stress
@@ -240,7 +240,7 @@ fracture that, in the opinion of the treating physician, shows no possibility of
 without further intervention” — typically applied at 6-9 months with no progress over the
 previous 3 months.
 
-## 8. Cartilage Healing
+## Cartilage Healing
 
 Cartilage healing fundamentally differs from bone healing and is substantially less effective.
 Several important distinctions apply:
@@ -277,7 +277,7 @@ arthroscopic meniscal repair is targeted at vascular-zone tears with reasonable 
 rates, while inner-zone tears are managed by partial meniscectomy or — in selected cases
 — meniscal allograft transplantation.
 
-## 9. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Bone healing is a complex, well-orchestrated biological process that uniquely allows full
 regeneration of the injured tissue. The two principal mechanisms — indirect (secondary)

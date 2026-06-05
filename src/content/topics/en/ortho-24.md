@@ -7,7 +7,7 @@ topicNumber: 24
 order: 24
 ---
 
-## 1. Introduction
+## Introduction
 
 The arthropathies form a heterogeneous group of inflammatory and degenerative joint
 diseases. The orthopedic surgeon encounters these conditions in many contexts:
@@ -23,7 +23,7 @@ arthropathies (gout, pseudogout), other inflammatory arthropathies (juvenile idi
 arthritis, systemic lupus erythematosus), and the principles of medical and surgical
 management.
 
-## 2. Rheumatoid Arthritis (RA)
+## Rheumatoid Arthritis (RA)
 
 Epidemiology and Pathogenesis
 Rheumatoid arthritis is a chronic systemic autoimmune disease characterized by
@@ -138,7 +138,7 @@ instability or with ADI >9 mm; occipitocervical fusion for basilar invagination;
 fusions for instability. The cervical spine surgery in RA is technically demanding because of
 the poor bone quality, the deformities, and the medical complexity of the patients.
 
-## 3. Seronegative Spondyloarthropathies
+## Seronegative Spondyloarthropathies
 
 The seronegative spondyloarthropathies are a group of inflammatory joint diseases
 characterized by sacroiliitis and axial inflammation, asymmetric peripheral arthritis (often
@@ -200,7 +200,7 @@ and axial arthritis (sacroiliitis and spondylitis indistinguishable from primary
 Treatment includes management of the underlying bowel disease and DMARDs
 appropriate to the joint pattern.
 
-## 4. Crystal Arthropathies
+## Crystal Arthropathies
 
 Gout
 Gout is an inflammatory arthropathy caused by deposition of monosodium urate crystals in
@@ -245,7 +245,7 @@ gout. CPPD disease is also associated with a chronic destructive arthropathy in 
 patients, sometimes producing severe joint destruction (the so-called “Milwaukee
 shoulder” being the classical example of CPPD-associated rapid joint destruction).
 
-## 5. Juvenile Idiopathic Arthritis (JIA)
+## Juvenile Idiopathic Arthritis (JIA)
 
 Juvenile idiopathic arthritis is the chronic arthritis of childhood, defined by onset before
 age 16 and persistence of joint symptoms for more than 6 weeks. Several subtypes are
@@ -267,7 +267,7 @@ deformity, and joint replacement in advanced disease. The technical demands of j
 replacement in JIA patients are substantial because of the small bone size, the deformities,
 and the soft-tissue contractures.
 
-## 6. Other Arthropathies
+## Other Arthropathies
 
 Systemic Lupus Erythematosus (SLE)
 SLE produces a polyarthritis that resembles RA but with less destructive disease in most
@@ -298,7 +298,7 @@ commonly the knee); the localized form produces nodular intra-articular lesions.
 Treatment is surgical excision, with recurrence being common in diffuse disease. The
 CSF1R inhibitor pexidartinib has been approved for refractory disease.
 
-## 7. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The arthropathies form a heterogeneous group of inflammatory and crystal-induced joint
 diseases. Rheumatoid arthritis, the most consequential from a surgical perspective, is a

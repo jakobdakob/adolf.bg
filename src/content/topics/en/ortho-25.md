@@ -7,7 +7,7 @@ topicNumber: 25
 order: 25
 ---
 
-## 1. Introduction
+## Introduction
 
 Degenerative diseases of the spine are among the commonest reasons for orthopedic and
 neurosurgical consultation in adults. The pathological processes — disc degeneration, facet
@@ -22,7 +22,7 @@ cervical and thoracic myelopathy), the imaging approach, and the principles of n
 operative and surgical management. The chapter concludes with a focused discussion of
 ankylosing spondylitis as the principal seronegative spondyloarthropathy of the spine.
 
-## 2. The Aging Spine: Pathophysiology
+## The Aging Spine: Pathophysiology
 
 The intervertebral disc undergoes characteristic age-related changes that underlie most
 degenerative spine disease. The nucleus pulposus loses water content progressively (from
@@ -41,7 +41,7 @@ adults (fifth decade and beyond) after the disc has substantially desiccated. Th
 Willis cascade” describes the progressive stages of segmental degeneration: dysfunction,
 instability, and finally restabilization with ankylotic bone formation.
 
-## 3. Mechanical Low Back Pain
+## Mechanical Low Back Pain
 
 Mechanical low back pain — the commonest form of back pain — affects approximately
 80% of adults at some point in life. The pain is typically diffuse, worse with activity,
@@ -64,7 +64,7 @@ mechanical low back pain without red flags; the high rate of incidental findings
 (asymptomatic disc bulges, facet arthropathy, mild stenosis) can produce misleading
 attribution of pain to abnormal but clinically irrelevant findings.
 
-## 4. Lumbar Disc Herniation and Radiculopathy
+## Lumbar Disc Herniation and Radiculopathy
 
 Pathophysiology
 Lumbar disc herniation is the displacement of disc material (typically the nucleus pulposus,
@@ -132,7 +132,7 @@ Microdiscectomy (small-incision discectomy with microscopic or loupe visualizati
 standard technique. Minimally invasive tubular approaches and endoscopic discectomy
 provide alternatives with potentially less soft-tissue disruption.
 
-## 5. Lumbar Spinal Stenosis
+## Lumbar Spinal Stenosis
 
 Pathophysiology and Clinical Features
 Lumbar spinal stenosis is the narrowing of the central canal, lateral recess, or neural
@@ -167,7 +167,7 @@ demonstrated that surgical decompression for symptomatic stenosis without instab
 produces substantially better outcomes than conservative management, with sustained
 improvement at 4-year follow-up.
 
-## 6. Lumbar Spondylolisthesis
+## Lumbar Spondylolisthesis
 
 Classification
 Spondylolisthesis is the anterior translation of one vertebra relative to the vertebra below.
@@ -199,7 +199,7 @@ progressive slip, progressive neurological symptoms, or intractable pain. The fu
 construct typically uses pedicle screws with intervertebral spacers; reduction of the slip is
 debated, with current practice favoring in-situ fusion for most cases of grade I-II disease.
 
-## 7. Cervical Spondylotic Myelopathy
+## Cervical Spondylotic Myelopathy
 
 Cervical spondylotic myelopathy (CSM) is the chronic compression of the cervical spinal
 cord by degenerative changes (disc, facet, ligamentum flavum, osteophytes, ossified
@@ -222,7 +222,7 @@ posterior-only approaches), and surgeon preference. The natural history of CSM i
 but most often progressive, justifying surgical intervention in most cases of moderate-to-
 severe disease.
 
-## 8. Cervical Radiculopathy
+## Cervical Radiculopathy
 
 Cervical radiculopathy is the compression of a cervical nerve root, producing pain in the
 appropriate dermatome (C5 — lateral arm; C6 — radial forearm, thumb, index; C7 —
@@ -236,7 +236,7 @@ additional relief. Surgical management is indicated for progressive neurological
 persistent radiculopathy refractory to conservative care, typically by ACDF (anterior
 cervical decompression and fusion) or posterior foraminotomy.
 
-## 9. Other Degenerative Spine Conditions
+## Other Degenerative Spine Conditions
 
 Diffuse idiopathic skeletal hyperostosis (DISH): Characterized by flowing ossification of
 the anterior longitudinal ligament involving four or more contiguous vertebral levels, with
@@ -251,7 +251,7 @@ Ossification of the posterior longitudinal ligament (OPLL): Particularly common 
 Asian populations, producing cervical or thoracic myelopathy from progressive cord
 compression.
 
-## 10. Ankylosing Spondylitis (Bechterew’s Disease)
+## Ankylosing Spondylitis (Bechterew’s Disease)
 
 The clinical features and management of ankylosing spondylitis have been addressed in the
 chapter on RA and arthropathies. The principal orthopedic considerations are summarized
@@ -271,7 +271,7 @@ here:
 •   Total hip arthroplasty for hip involvement is technically demanding but produces good
     functional outcomes.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Degenerative spine disease encompasses a spectrum of conditions from mechanical low
 back pain to cervical myelopathy. The aging spine produces predictable patterns of disc

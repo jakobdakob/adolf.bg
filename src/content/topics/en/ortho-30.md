@@ -7,7 +7,7 @@ topicNumber: 30
 order: 30
 ---
 
-## 1. Introduction
+## Introduction
 
 Joint arthroplasty — the surgical replacement of a damaged joint with prosthetic
 components — is among the most successful interventions in modern orthopedic surgery.
@@ -21,7 +21,7 @@ detail in the chapters on coxarthrosis and gonarthrosis, this chapter provides a
 framework synthesized from Apley & Solomon’s, Miller’s Review, and Orthopaedic Surgical
 Approaches.
 
-## 2. Biomaterials in Joint Arthroplasty
+## Biomaterials in Joint Arthroplasty
 
 The materials used in joint arthroplasty must meet exacting requirements:
 biocompatibility (absence of toxic, inflammatory, or carcinogenic response), appropriate
@@ -55,7 +55,7 @@ include the use of low-viscosity cement, retrograde filling of the femoral canal
 pressurization, distal canal plugging, pulsatile lavage, and other measures that have
 substantially improved long-term cement-implant survival.
 
-## 3. Bearing Surfaces
+## Bearing Surfaces
 
 The choice of bearing surface affects long-term implant survival and is one of the principal
 decisions in modern arthroplasty. The options include:
@@ -75,7 +75,7 @@ chromium), with documented adverse local tissue reactions, pseudotumor formation
 systemic cobaltism in severe cases, and the failure of large-head metal-on-metal designs at
 unacceptable rates.
 
-## 4. Methods of Fixation
+## Methods of Fixation
 
 Two principal methods of fixing implants to bone are used:
 Cemented fixation: PMMA bone cement is interposed between the implant and the
@@ -100,7 +100,7 @@ knee arthroplasty in most centers.
 Hybrid fixation: Combines cemented and uncemented components, typically with
 uncemented acetabular cup and cemented femoral stem in hip arthroplasty.
 
-## 5. Principles of Implant Design
+## Principles of Implant Design
 
 The design of arthroplasty implants involves balancing competing requirements of mobility
 (range of motion), stability (resistance to dislocation), durability (longevity in service), and
@@ -125,7 +125,7 @@ component relative to the other. Greater constraint provides more stability but 
 more load to the implant-bone interfaces and may produce earlier loosening. The choice of
 constraint level is one of the principal decisions in revision arthroplasty.
 
-## 6. Specific Considerations for Each Joint
+## Specific Considerations for Each Joint
 
 Hip Arthroplasty
 Hip arthroplasty has been the prototype of modern arthroplasty since Charnley’s
@@ -177,7 +177,7 @@ Finger arthroplasty (MCP and PIP joints) is commonly performed in rheumatoid dis
 using silicone implants (the historical standard) or modern pyrocarbon implants. The
 procedure provides functional improvement but does not restore normal kinematics.
 
-## 7. Surgical Approach Considerations
+## Surgical Approach Considerations
 
 The surgical approach to the joint is selected to provide adequate exposure for implant
 placement while minimizing damage to important soft-tissue structures. The principal
@@ -188,7 +188,7 @@ meticulous capsular and soft-tissue management for postoperative stability; and 
 extensile approaches (capable of being extended for complex or revision cases) in difficult
 situations.
 
-## 8. Perioperative Management
+## Perioperative Management
 
 The perioperative management of joint arthroplasty has been transformed in recent
 decades by enhanced recovery after surgery (ERAS) protocols and the application of
@@ -220,7 +220,7 @@ progressive physiotherapy, and structured rehabilitation programs. Outpatient
 arthroplasty (same-day discharge) has become common in selected patients in modern
 practice.
 
-## 9. Complications
+## Complications
 
 The principal complications of joint arthroplasty are addressed in the chapters on specific
 joints; the general categories include:
@@ -243,7 +243,7 @@ patients.
 Persistent pain: A particular concern in knee arthroplasty, with 15-20% of patients
 reporting some persistent dissatisfaction after technically successful surgery.
 
-## 10. Revision Arthroplasty
+## Revision Arthroplasty
 
 Revision arthroplasty addresses failed primary arthroplasty from infection, loosening,
 instability, periprosthetic fracture, or wear-related complications. The technical demands
@@ -254,7 +254,7 @@ setting, and the management of infection if present. The volume of revision arth
 increasing globally as the prevalence of primary arthroplasty rises and patients with
 primary implants live long enough to require revision.
 
-## 11. Outcomes and Registry Data
+## Outcomes and Registry Data
 
 The outcomes of modern total joint arthroplasty are extensively documented in national
 and international registries (the Swedish, Norwegian, Finnish, Danish, Australian, English-
@@ -267,7 +267,7 @@ hospital volume; and persistent challenges in specific areas including outcomes 
 patients, the persistent dissatisfaction rate after TKA, and the management of failed
 arthroplasty.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Joint arthroplasty is among the most successful interventions in modern orthopedic
 surgery, with excellent long-term outcomes for the majority of patients receiving hip, knee,

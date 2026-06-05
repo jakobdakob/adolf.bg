@@ -7,7 +7,7 @@ topicNumber: 32
 order: 132
 ---
 
-## 1. Introduction
+## Introduction
 
 Vascular limb injuries and compartment syndrome share a fundamental concern with
 tissue perfusion — the maintenance of adequate blood flow to the muscle, nerve, bone,
@@ -26,7 +26,7 @@ orthopedics. This chapter, the final topic in the trauma section, addresses both
 and draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture
 Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
-## 2. Vascular Injuries — Mechanisms and Patterns
+## Vascular Injuries — Mechanisms and Patterns
 
 The principal mechanisms of vascular injury in orthopedic trauma include:
 Penetrating trauma: Gunshot wounds, knife wounds, glass and similar sharp injuries, and
@@ -59,7 +59,7 @@ communication, typically presenting days to weeks after the original injury.
 Arteriovenous fistula: Direct communication between artery and vein, often presenting
 late with bruit, thrill, and limb swelling.
 
-## 3. Clinical Assessment of Vascular Injury
+## Clinical Assessment of Vascular Injury
 
 The classical “hard” and “soft” signs of vascular injury structure the assessment:
 Hard Signs
@@ -107,7 +107,7 @@ operating room provides real-time information during exploration.
 Duplex ultrasonography can be useful for evaluation of the more accessible vessels but is
 operator-dependent and less practical for many orthopedic settings.
 
-## 4. Management of Vascular Injuries
+## Management of Vascular Injuries
 
 Immediate Stabilization
 Hemorrhage control is the first priority. For external hemorrhage, direct pressure is the
@@ -149,7 +149,7 @@ Postoperative monitoring by serial pulse checks, ABIs, and Doppler studies ident
 recurrent or delayed thrombosis. Re-exploration is performed promptly for any concern
 about graft thrombosis.
 
-## 5. The Mangled Extremity and the Limb Salvage Decision
+## The Mangled Extremity and the Limb Salvage Decision
 
 The mangled extremity — the limb with severe combined injuries to bone, soft tissue,
 vessels, and nerves — presents the orthopedic surgeon with the most challenging decision
@@ -191,7 +191,7 @@ vascular injury amenable to reconstruction, the young patient with strong motiva
 limb preservation, and the availability of microsurgical and soft-tissue reconstructive
 resources.
 
-## 6. Compartment Syndrome — Definition and Pathophysiology
+## Compartment Syndrome — Definition and Pathophysiology
 
 Acute compartment syndrome is the clinical condition resulting from elevated pressure
 within a fascial compartment, with consequent compromise of capillary perfusion and
@@ -240,7 +240,7 @@ Bleeding disorders: Hemophilia, anticoagulation excess.
 Reperfusion after ischemia: Following vascular repair or after release of prolonged
 tourniquet.
 
-## 7. Clinical Diagnosis of Compartment Syndrome
+## Clinical Diagnosis of Compartment Syndrome
 
 The diagnosis of compartment syndrome is principally clinical, with the classical features
 that the orthopedic surgeon must recognize:
@@ -294,7 +294,7 @@ The rate of rise of compartment pressure and the duration of elevated pressure a
 clinically important — sustained elevation requires more urgent intervention than brief
 peaks.
 
-## 8. Treatment of Compartment Syndrome — Fasciotomy
+## Treatment of Compartment Syndrome — Fasciotomy
 
 The treatment of established compartment syndrome is urgent decompressive
 fasciotomy — release of all the involved compartments through open fascial incisions. The
@@ -360,7 +360,7 @@ develop rhabdomyolysis with myoglobinuria and risk of acute kidney injury; aggre
 intravenous fluid resuscitation with attention to urine output and electrolyte balance
 (particularly potassium, calcium, phosphorus) is essential.
 
-## 9. Specific Considerations
+## Specific Considerations
 
 Crush Syndrome
 Crush syndrome is the systemic response to prolonged muscle compression,
@@ -395,7 +395,7 @@ minute or greater than 20 mmHg at 5 minutes are diagnostic). Treatment is electi
 fasciotomy of the affected compartments, with reasonably good outcomes (60 to 80
 percent return to pre-symptom activity level).
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Vascular injuries in orthopedic trauma occur most commonly in association with specific
 fracture and dislocation patterns: popliteal artery in knee dislocation, brachial artery in

@@ -7,7 +7,7 @@ topicNumber: 19
 order: 119
 ---
 
-## 1. Introduction
+## Introduction
 
 The pelvic ring is uniquely positioned in orthopedic trauma as both a structural component
 of the skeleton — transmitting load between the spine and the lower extremities — and as
@@ -23,7 +23,7 @@ coordinated sequence. This chapter, drawing principally on Rockwood and Green’
 Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s
 Review of Orthopaedics, addresses the contemporary management of pelvic ring injury.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The pelvic ring is formed by the two innominate bones (each comprising the fused ilium,
 ischium, and pubis) and the sacrum, connected anteriorly at the pubic symphysis and
@@ -56,7 +56,7 @@ posterior column), Shenton’s line (the smooth arc from the femoral neck to the
 foramen), and the anterior and posterior rim of the acetabulum seen on the obturator
 and iliac oblique (Judet) views.
 
-## 3. Classification
+## Classification
 
 Two principal classification systems are in widespread use, each with its own clinical
 utility.
@@ -95,7 +95,7 @@ bilateral, C3 with associated acetabular fracture.
 The AO/OTA classification (region 61) substantially mirrors Tile with additional subtype
 detail.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The patient with pelvic ring injury typically presents after high-energy trauma — motor
 vehicle accident, motorcycle accident, fall from height, crush injury, or pedestrian struck.
@@ -125,7 +125,7 @@ dimensional assessment of the ring, the SI joints, and any associated acetabular
 involvement. CT is the basis for operative planning and is now obtained routinely in any
 patient with significant pelvic injury who is stable enough for transport to the scanner.
 
-## 5. Hemorrhage Control — The Acute Resuscitation
+## Hemorrhage Control — The Acute Resuscitation
 
 The unstable pelvis with hemorrhage represents one of the most pressing emergencies in
 orthopedic trauma. The hemorrhage may arise from the fractured cancellous bone
@@ -183,7 +183,7 @@ orthopedic surgeon, and interventional radiologist must work in coordinated sequ
 typically with mechanical stabilization first, then operative pelvic packing or angiographic
 embolization based on clinical trajectory.
 
-## 6. Treatment of Specific Patterns — Anterior Ring
+## Treatment of Specific Patterns — Anterior Ring
 
 Pubic Symphysis Disruption
 Pubic symphysis diastasis greater than 2.5 cm (the standard threshold) represents
@@ -204,7 +204,7 @@ percutaneous techniques using anterior subcutaneous internal fixation (“INFIX�
 pedicle screws and a connecting rod tunneled subcutaneously have gained popularity for
 selected anterior ring injuries.
 
-## 7. Treatment of Specific Patterns — Posterior Ring
+## Treatment of Specific Patterns — Posterior Ring
 
 Sacroiliac Joint Disruption
 Pure SI joint disruption is managed by percutaneous iliosacral (IS) screws — cannulated
@@ -241,7 +241,7 @@ Iliac wing fractures may be treated non-operatively if they do not disrupt the p
 significantly displaced iliac wing fractures with ring involvement require open reduction
 and plate fixation, typically through a lateral or posterior approach.
 
-## 8. Operative Strategy by Injury Type
+## Operative Strategy by Injury Type
 
 The operative strategy follows the injury type:
 APC-II (“open book”) is typically treated by anterior plate fixation of the symphysis,
@@ -265,7 +265,7 @@ orthopedics principles discussed in Topic Trauma-6 — temporary stabilization w
 binder, external fixator, or C-clamp in the unstable patient, with definitive fixation delayed
 until physiological stabilization (typically 3 to 14 days).
 
-## 9. Special Considerations
+## Special Considerations
 
 Open Pelvic Fractures
 The open pelvic fracture — pelvic ring injury with communication of the fracture to the
@@ -305,7 +305,7 @@ VTE prophylaxis (see Topic Trauma-7) is particularly important in pelvic ring in
 because of the very high baseline VTE risk; mechanical and pharmacological prophylaxis
 are typically begun within 24 hours of injury or surgery as discussed.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The pelvic ring injury combines structural orthopedic concerns with the acute hemorrhage
 emergency, requiring multidisciplinary management coordinated between trauma,

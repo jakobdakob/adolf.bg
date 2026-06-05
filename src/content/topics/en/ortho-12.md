@@ -7,7 +7,7 @@ topicNumber: 12
 order: 12
 ---
 
-## 1. Introduction and Classification
+## Introduction and Classification
 
 Congenital anomalies of the hand and upper limb encompass a heterogeneous group of
 disorders that arise from disturbances of embryological limb development between
@@ -32,7 +32,7 @@ appropriate by the OMT terminology, and synthesizes content from Tachdjian’s P
 Orthopaedics, Apley & Solomon’s, Miller’s Review, and Netter’s Concise Orthopaedic
 Anatomy.
 
-## 2. Embryological Background
+## Embryological Background
 
 Limb development begins at approximately 26 days of gestation with the appearance of the
 limb bud, a thickening of mesenchyme covered by ectoderm. Three signaling centers
@@ -47,7 +47,7 @@ transverse deficiencies and longitudinal deficiencies; ZPA disturbances produce 
 anomalies. The fingers and toes individualize between weeks 6 and 8 by apoptosis of the
 interdigital mesenchyme; failure of this apoptosis produces syndactyly.
 
-## 3. Failures of Formation (Swanson I)
+## Failures of Formation (Swanson I)
 
 Failures of formation are characterized by absent or hypoplastic skeletal elements and can
 be transverse (perpendicular to the long axis of the limb) or longitudinal (along the limb
@@ -121,7 +121,7 @@ trunk or to a markedly shortened upper limb. The deficiency was classically asso
 with thalidomide exposure during pregnancy in the 1960s; modern cases are sporadic and
 uncommon. Treatment is principally prosthetic.
 
-## 4. Failures of Differentiation (Swanson II)
+## Failures of Differentiation (Swanson II)
 
 Failures of differentiation are characterized by skeletal elements that have formed but have
 not separated from each other properly.
@@ -177,7 +177,7 @@ more functional position (typically slight pronation in the dominant arm, slight
 in the non-dominant arm); attempted release of the synostosis with interposition of fat or
 muscle has had disappointing long-term results because of frequent recurrence.
 
-## 5. Duplication (Swanson III)
+## Duplication (Swanson III)
 
 Polydactyly
 Polydactyly is the presence of supernumerary digits, classified as preaxial (thumb side),
@@ -209,7 +209,7 @@ Mirror hand (ulnar dimelia) is a rare anomaly in which the ulnar side of the for
 hand is duplicated, with two ulnae and eight to nine fingers in a mirror arrangement, and
 absence of the thumb and radius. Treatment is individualized to provide a functional hand.
 
-## 6. Overgrowth (Swanson IV)
+## Overgrowth (Swanson IV)
 
 Macrodactyly
 Macrodactyly is overgrowth of one or more digits, typically affecting the soft tissues and
@@ -223,7 +223,7 @@ The cosmetic and functional outcomes are often suboptimal, and the management re
 careful coordination with the family and consideration of the underlying syndromic
 condition.
 
-## 7. Undergrowth (Swanson V)
+## Undergrowth (Swanson V)
 
 Thumb Hypoplasia (Hypoplastic Thumb)
 Thumb hypoplasia is graded by the Blauth classification: Type I (minor generalized
@@ -246,7 +246,7 @@ Brachydactyly is shortening of one or more digits, often inherited as an autosom
 dominant trait. Several distinct types are recognized by which phalanx or metacarpal is
 shortened. Treatment is rarely required.
 
-## 8. Constriction Band Syndrome (Amniotic Band Syndrome, Streeter Dysplasia)
+## Constriction Band Syndrome (Amniotic Band Syndrome, Streeter Dysplasia)
 
 (Swanson VI)
 Constriction band syndrome — also termed amniotic band syndrome, Streeter dysplasia, or
@@ -282,7 +282,7 @@ the digits as for typical syndactyly, with attention to the proximal fenestratio
 length discrepancy is managed by epiphysiodesis or other limb-equalization procedures.
 Congenital amputations are managed by prosthetic fitting and adaptive techniques.
 
-## 9. Generalized Skeletal Anomalies (Swanson VII)
+## Generalized Skeletal Anomalies (Swanson VII)
 
 The Swanson VII category includes generalized skeletal disorders with hand
 manifestations, such as the various skeletal dysplasias (achondroplasia, multiple
@@ -290,7 +290,7 @@ epiphyseal dysplasia, spondyloepiphyseal dysplasia), mucopolysaccharidoses, oste
 imperfecta, and many others. The orthopedic management of the hand in these conditions
 is typically secondary to the management of the underlying systemic disorder.
 
-## 10. Trigger Thumb of Childhood
+## Trigger Thumb of Childhood
 
 Although not a primary congenital anomaly in the strict embryological sense, the pediatric
 trigger thumb deserves mention here because of its frequent presentation in the first year
@@ -303,7 +303,7 @@ years, but more recent studies have shown spontaneous resolution rates of 30-60%
 observation. Modern practice typically involves observation for the first 1-2 years, with
 surgical release (open transection of the A1 pulley) for cases that do not resolve.
 
-## 11. Diagnostic and Management Principles
+## Diagnostic and Management Principles
 
 Initial Evaluation
 Every child with a congenital hand anomaly requires a systematic evaluation: detailed
@@ -332,7 +332,7 @@ psychology, and where appropriate genetics, cardiology, and hematology. The fami
 requires ongoing support and education, and the child’s transition through development
 requires repeated reassessment of function and adjustment of the management plan.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The congenital anomalies of the hand encompass a heterogeneous group of disorders
 classified by the Swanson system into failures of formation, failures of differentiation,

@@ -7,7 +7,7 @@ topicNumber: 22
 order: 122
 ---
 
-## 1. Introduction
+## Introduction
 
 The pertrochanteric fracture — sometimes called the intertrochanteric fracture — is the
 extracapsular cousin of the femoral neck fracture and shares the epidemiology of the
@@ -26,7 +26,7 @@ chapter, drawing principally on Rockwood and Green’s Fractures in Adults, AO P
 of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics,
 addresses the contemporary management of pertrochanteric fractures.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The pertrochanteric region extends from the femoral neck-shaft junction (the
 intertrochanteric line anteriorly and intertrochanteric crest posteriorly) to a horizontal
@@ -48,7 +48,7 @@ of this fragment when separated, with consequent loss of medial cortical buttres
 adductor pull on the femoral shaft (producing adduction of the shaft and varus angulation
 at the fracture).
 
-## 3. Classification
+## Classification
 
 Several classification systems are in widespread use. The two most clinically important are
 the AO/OTA classification and the Boyd-Griffin classification, with the Evans
@@ -89,7 +89,7 @@ which permits controlled compression as the fracture site comes into apposition)
 unstable fractures cannot rely on bone-to-bone contact and require constructs that resist
 loading without excessive shortening or varus collapse.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The clinical presentation closely resembles that of the femoral neck fracture: elderly
 patient with low-energy fall, hip pain, inability to bear weight, leg held in external
@@ -104,7 +104,7 @@ medical contributors to the fall. Imaging is by AP pelvis and cross-table latera
 of the affected hip. CT is occasionally useful for assessing fracture morphology in complex
 patterns being considered for atypical fixation.
 
-## 5. Treatment Principles
+## Treatment Principles
 
 Non-Operative Management
 Non-operative management of the pertrochanteric fracture is reserved for the non-
@@ -120,7 +120,7 @@ choice based on fracture pattern, early mobilization with weight bearing as tole
 prompt surgery within 24 to 48 hours of presentation (with evidence supporting this
 from multiple studies, including the NICE guidelines).
 
-## 6. Sliding Hip Screw (Dynamic Hip Screw, DHS)
+## Sliding Hip Screw (Dynamic Hip Screw, DHS)
 
 Principle and Construct
 The sliding hip screw (SHS, dynamic hip screw, DHS) is the historical workhorse
@@ -159,7 +159,7 @@ implants but described.
 The stable pertrochanteric fracture (AO 31-A1 and selected A2.1) remains an excellent
 indication for SHS fixation, with cost-effectiveness and reliable outcomes.
 
-## 7. Cephalomedullary Nailing
+## Cephalomedullary Nailing
 
 Principle and Construct
 The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary
@@ -196,7 +196,7 @@ implant fracture at the tip of a short nail — a recognized complication — ha
 advocacy for long nails in selected patients, though the routine use of long nails carries its
 own concerns (longer surgical time, more radiation exposure).
 
-## 8. SHS Versus Cephalomedullary Nail — The Active Debate
+## SHS Versus Cephalomedullary Nail — The Active Debate
 
 The choice between SHS and CMN for pertrochanteric fractures has been the subject of
 extensive investigation, with the following broad consensus:
@@ -220,7 +220,7 @@ pertrochanteric fractures, with SHS reserved for stable simple patterns. The cos
 higher, but the broader applicability and the avoidance of failures in unstable patterns have
 favored this transition.
 
-## 9. Specific Considerations
+## Specific Considerations
 
 Subtrochanteric Fractures
 The subtrochanteric fracture, traditionally defined as fracture in the region from the
@@ -257,7 +257,7 @@ anatomical reduction and rigid internal fixation — but with the additional con
 preserving the longer-term functional outcome. CMN is typically used, with anatomical
 attention to neck-shaft angle and rotation. Outcomes are generally good in this population.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The pertrochanteric (intertrochanteric) fracture, the extracapsular counterpart of the
 femoral neck fracture, shares the epidemiology of the elderly fragility fracture but differs

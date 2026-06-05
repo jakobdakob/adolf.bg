@@ -7,7 +7,7 @@ topicNumber: 29
 order: 129
 ---
 
-## 1. Introduction
+## Introduction
 
 The fractures of the hindfoot and midfoot — talus, calcaneus, navicular, cuboid, cuneiforms,
 and the tarsometatarsal articulations — together account for a small proportion of
@@ -24,7 +24,7 @@ region one of the most challenging in orthopedic trauma. This chapter draws on R
 and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s,
 and Miller’s Review of Orthopaedics.
 
-## 2. Talar Anatomy and Blood Supply
+## Talar Anatomy and Blood Supply
 
 The talus is unique among the bones in having approximately 60 percent of its surface
 covered by articular cartilage, with three major articulations (talocrural with the
@@ -46,7 +46,7 @@ inferior surface via the artery of the tarsal canal, and disruption of this supp
 fracture displacement produces high rates of avascular necrosis of the body — the
 central concern in talar neck fractures.
 
-## 3. Talar Neck Fractures — The Hawkins Classification
+## Talar Neck Fractures — The Hawkins Classification
 
 Talar neck fractures account for approximately 50 percent of all talar fractures. The
 mechanism is forced dorsiflexion with axial load, classically the “aviator’s astragalus” of
@@ -95,7 +95,7 @@ with optimal management. Eventual ankle arthrodesis, subtalar arthrodesis, or
 tibiotalocalcaneal fusion is required in a substantial minority of patients (10 to 30 percent
 depending on series).
 
-## 4. Other Talar Fractures
+## Other Talar Fractures
 
 Talar Body Fractures
 Talar body fractures (involving the articular surface of the talar dome) are uncommon and
@@ -132,7 +132,7 @@ trigonum (a normal anatomical variant). Acute fractures are treated by immobiliz
 symptomatic nonunion or chronic posterior impingement (often with FHL tenosynovitis) is
 treated by excision of the fragment.
 
-## 5. Calcaneal Fractures
+## Calcaneal Fractures
 
 The calcaneus is the largest tarsal bone and bears the principal weight transmission from
 the talus to the ground. Calcaneal fractures account for approximately 60 percent of all
@@ -215,7 +215,7 @@ sural nerve injury (a particular concern with the lateral approach), subtalar ar
 lateral wall pain and peroneal tendon impingement (from lateral wall malreduction),
 and chronic functional limitation.
 
-## 6. Subtalar and Other Tarsal Dislocations
+## Subtalar and Other Tarsal Dislocations
 
 Subtalar Dislocation
 The subtalar dislocation (also called peritalar dislocation) is dislocation of the talus
@@ -240,7 +240,7 @@ even when the talus is fully extruded, because the alternative (excision and art
 produces severely compromised function. AVN of the reimplanted talus is essentially
 universal but can be tolerated for years before requiring fusion.
 
-## 7. Midfoot Fractures and Lisfranc Injuries
+## Midfoot Fractures and Lisfranc Injuries
 
 Anatomy of the Midfoot
 The midfoot comprises the navicular, cuboid, and three cuneiforms (medial,
@@ -327,7 +327,7 @@ patients retaining some level of midfoot pain or functional limitation. The prin
 term complication is post-traumatic arthritis, requiring later arthrodesis in 10 to 30
 percent of patients.
 
-## 8. Cuboid and Cuneiform Fractures
+## Cuboid and Cuneiform Fractures
 
 Cuboid fractures are uncommon but may be produced by direct trauma or by nutcracker
 mechanism (compression of the cuboid between the calcaneus and the fourth and fifth
@@ -340,7 +340,7 @@ Cuneiform fractures are uncommon in isolation and are usually part of broader mi
 injuries. Treatment depends on the associated injuries; isolated displaced cuneiform
 fractures are typically fixed with screws or K-wires.
 
-## 9. Metatarsal Fractures
+## Metatarsal Fractures
 
 Metatarsal fractures are common and represent a separate category in many discussions.
 They are not addressed here in detail (typically discussed in the foot and ankle subspecialty
@@ -358,7 +358,7 @@ Metatarsal shaft and neck fractures typically heal well with cast or boot immobi
 Operative fixation is reserved for severely displaced fractures, multiple metatarsal
 fractures, or open injuries.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The talar neck fracture is the central injury of the talus, with the Hawkins classification (I
 non-displaced, II with subtalar dislocation, III with subtalar and ankle dislocation, IV with

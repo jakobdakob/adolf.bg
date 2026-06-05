@@ -7,7 +7,7 @@ topicNumber: 20
 order: 120
 ---
 
-## 1. Introduction
+## Introduction
 
 The hip is the deepest and most constrained ball-and-socket joint in the human body, with
 stability derived from the bony congruity of the femoral head within the acetabulum, the
@@ -26,7 +26,7 @@ Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’
 Orthopaedics, addresses the management of hip dislocation and the associated femoral
 head and acetabular fractures.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The acetabulum is formed by the fusion of three bones — ilium, ischium, and pubis — that
 come together at the triradiate cartilage (which fuses by age 14 to 16 years). The articular
@@ -58,7 +58,7 @@ in fractures involving the quadrilateral surface and the medial wall. The femora
 and vessels descend anterior to the pelvic brim and are vulnerable in anterior column
 fractures and during the ilioinguinal approach to the acetabulum.
 
-## 3. Hip Dislocation — Classification and Mechanism
+## Hip Dislocation — Classification and Mechanism
 
 The Thompson and Epstein classification (1951) of posterior hip dislocations divides
 them by associated fracture:
@@ -82,7 +82,7 @@ The sciatic nerve is injured in approximately 10 to 20 percent of posterior hip
 dislocations, typically a peroneal-division injury producing foot drop with preserved tibial
 function. Documentation of neurological status before reduction is mandatory.
 
-## 4. Treatment of Hip Dislocation
+## Treatment of Hip Dislocation
 
 The hip dislocation is an orthopedic emergency because of the time-dependent risk of
 avascular necrosis. The classical teaching is that reduction within 6 hours substantially
@@ -114,7 +114,7 @@ immobilization (a few days for comfort) followed by progressive weight bearing. 
 no convincing evidence that prolonged non-weight-bearing or hip precautions affect AVN
 risk, although many protocols still impose these restrictions in some form.
 
-## 5. Femoral Head Fractures — The Pipkin Classification
+## Femoral Head Fractures — The Pipkin Classification
 
 Femoral head fractures, classically associated with posterior hip dislocation, are organized
 by the Pipkin classification (Garrett Pipkin, 1957):
@@ -152,7 +152,7 @@ head fracture is then addressed, often through the same approach.
 The prognosis of femoral head fractures is dominated by the AVN risk, which approaches
 20 to 50 percent in Pipkin II fractures with delayed reduction or extensive dissection.
 
-## 6. Acetabular Fractures — The Letournel Classification
+## Acetabular Fractures — The Letournel Classification
 
 The Letournel classification (Robert Judet and Émile Letournel, 1964) of acetabular
 fractures organizes injuries into five elementary patterns and five associated patterns
@@ -190,7 +190,7 @@ Both-column fracture: The most complex pattern, with the entire acetabular compo
 continuous with the intact ilium. The classical radiographic finding is the spur sign on the
 obturator oblique view.
 
-## 7. Imaging and Surgical Planning for Acetabular Fractures
+## Imaging and Surgical Planning for Acetabular Fractures
 
 Acetabular fractures require comprehensive imaging:
 AP pelvis radiograph: Identifies the principal radiographic lines of the acetabulum and
@@ -232,7 +232,7 @@ The Matta criteria for reduction quality assess residual displacement: anatomica
 mm), imperfect (2 to 3 mm), and poor (>3 mm). Anatomical reduction correlates with good
 long-term outcomes; imperfect or poor reductions have substantially worse outcomes.
 
-## 8. Outcomes and Complications
+## Outcomes and Complications
 
 The functional outcomes of acetabular fracture surgery correlate with several factors:
 Quality of reduction: Anatomical reduction is the strongest predictor of good outcome.
@@ -258,7 +258,7 @@ injury), infection (1 to 5 percent, higher with combined approaches), and vascul
 vessel between the obturator and external iliac systems crossing the superior pubic ramus,
 encountered in the ilioinguinal approach).
 
-## 9. Special Considerations
+## Special Considerations
 
 Elderly Acetabular Fractures
 Acetabular fractures in the elderly population have substantially different characteristics
@@ -286,7 +286,7 @@ day after surgery), protected weight bearing for 8 to 12 weeks (typically toe-to
 partial weight bearing depending on fixation stability), and heterotopic ossification
 prophylaxis in patients with extended approaches or high risk profiles.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The hip dislocation is an orthopedic emergency requiring urgent closed reduction to
 minimize avascular necrosis risk, with the Thompson-Epstein classification organizing the

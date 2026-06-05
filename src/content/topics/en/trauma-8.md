@@ -7,7 +7,7 @@ topicNumber: 8
 order: 108
 ---
 
-## 1. Introduction
+## Introduction
 
 The complications considered in this chapter share a final common pathway of disturbed
 mechanobiology — the disrupted balance between bone formation, soft-tissue equilibrium,
@@ -24,7 +24,7 @@ established earlier (see Topic Trauma-2) and the principles of operative osteosy
 principally from Rockwood and Green’s Fractures in Adults, AO Principles of Fracture
 Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s.
 
-## 2. Delayed Union and Nonunion — Definitions
+## Delayed Union and Nonunion — Definitions
 
 The terminology around impaired fracture healing is variably applied across the literature,
 but a working set of definitions is useful. Delayed union is the clinical and radiographic
@@ -44,7 +44,7 @@ of the fracture ends, hardware failure). The decision to intervene with surgical
 taken when the trajectory of healing on serial radiographs has plateaued and the clinical
 picture supports the diagnosis.
 
-## 3. Classification of Nonunion
+## Classification of Nonunion
 
 The widely accepted classification system is the Weber and Cech classification (1976),
 which divides nonunion by the radiographic and biological character of the fracture ends
@@ -67,7 +67,7 @@ such as bone transport or vascularized fibular graft). The Paley classification 
 nonunion adds quantification of deformity (length, angulation, translation, rotation) and is
 particularly useful when external fixation reconstruction is planned.
 
-## 4. Etiology and Risk Factors
+## Etiology and Risk Factors
 
 The contributors to nonunion partition cleanly into patient factors, fracture factors, and
 surgeon (treatment) factors. Patient factors include increasing age, smoking (which
@@ -83,7 +83,7 @@ concept” of Giannoudis frames successful healing as requiring four corners —
 osteoconductive scaffold, osteoinductive signals, osteogenic cells, and a stable mechanical
 environment — and treats deficiency in any single corner as a candidate cause of nonunion.
 
-## 5. Treatment of Delayed Union and Nonunion
+## Treatment of Delayed Union and Nonunion
 
 For delayed union, conservative measures are often appropriate. Functional bracing and
 weight-bearing apply axial compressive load to the fracture, stimulating healing in
@@ -133,7 +133,7 @@ approach: thorough debridement, placement of an antibiotic cement spacer (which
 becomes the inducing surface for a Masquelet membrane), six to eight weeks of antibiotics,
 and then a second-stage reconstruction with autograft within the membrane.
 
-## 6. Malunion
+## Malunion
 
 Malunion is healing in a malposition — too much angulation, malrotation, shortening, or
 translation. The clinical significance of malunion depends on its location, the magnitude of
@@ -157,7 +157,7 @@ deformity involving leg-length discrepancy is amenable to gradual correction wit
 hexapod external fixator (e.g., the Taylor Spatial Frame), where the deformity is reduced by
 computer-directed strut adjustment over days to weeks.
 
-## 7. Volkmann’s Ischemic Contracture
+## Volkmann’s Ischemic Contracture
 
 Volkmann’s ischemic contracture, described by Richard von Volkmann in 1881, is the
 end stage of untreated forearm compartment syndrome — fibrosis and shortening of the
@@ -188,7 +188,7 @@ Manktelow in the 1970s), and adjunctive procedures. The functional outcomes of
 established Volkmann’s contracture remain disappointing — a permanent reminder of the
 importance of compartment syndrome prevention.
 
-## 8. Complex Regional Pain Syndrome
+## Complex Regional Pain Syndrome
 
 Complex regional pain syndrome (CRPS) is a chronic pain syndrome characterized by
 disproportionate, regional pain with sensory, motor, autonomic, and trophic changes. The
@@ -232,7 +232,7 @@ refractory cases. Preventive use of high-dose vitamin C (500 mg daily for 50 day
 distal radius fracture has shown modest efficacy in a French multicenter trial (Zollinger et
 al., 1999, 2007) and is now widely recommended.
 
-## 9. Periprosthetic Fractures
+## Periprosthetic Fractures
 
 Periprosthetic fractures are fractures occurring around an existing total joint
 replacement. They constitute one of the fastest-growing categories of orthopedic injury,
@@ -291,7 +291,7 @@ reflecting the frailty of this elderly patient population, and the orthopedic te
 remember to address the patient’s overall medical state including the recurrent VTE and
 FES risks discussed in the preceding chapter.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The five complications considered in this chapter together represent the bulk of the late
 and chronic complications following orthopedic injury. Delayed union and nonunion arise

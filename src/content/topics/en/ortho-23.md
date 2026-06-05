@@ -7,7 +7,7 @@ topicNumber: 23
 order: 23
 ---
 
-## 1. Introduction
+## Introduction
 
 The forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe deformities
 including hammer toe, claw toe, and mallet toe — are among the most common reasons for
@@ -19,7 +19,7 @@ synthesizing content from Apley & Solomon’s, Miller’s Review, and Dutton’s
 Examination, addresses each condition with attention to pathophysiology, clinical features,
 imaging, classification, conservative management, and the principal surgical techniques.
 
-## 2. Hallux Valgus
+## Hallux Valgus
 
 Definition and Epidemiology
 Hallux valgus is a complex three-dimensional deformity of the first ray characterized by
@@ -129,7 +129,7 @@ combined distal procedures or with aggressive lateral release); transfer metatar
 first ray, particularly after procedures that shorten the first metatarsal); nonunion
 (uncommon with modern fixation); infection; and stiffness of the first MTP joint.
 
-## 3. Hallux Rigidus
+## Hallux Rigidus
 
 Definition
 Hallux rigidus is osteoarthritis of the first metatarsophalangeal joint, producing pain and
@@ -183,7 +183,7 @@ arthroplasty using soft tissue (joint capsule, tendon graft) is a salvage option
 replacement is generally reserved for selected patients with appropriate anatomy and
 realistic expectations.
 
-## 4. Lesser Toe Deformities
+## Lesser Toe Deformities
 
 Hammer Toe
 Hammer toe is a deformity of a lesser toe characterized by flexion at the proximal
@@ -227,7 +227,7 @@ dysfunction. Treatment combines lateral collateral ligament reconstruction, plan
 repair, and bony correction including Weil osteotomy (a shortening osteotomy of the
 metatarsal that decompresses the MTP joint).
 
-## 5. Metatarsalgia
+## Metatarsalgia
 
 Metatarsalgia is pain at the metatarsal heads, typically the lesser metatarsals (especially
 the second and third). The condition is often a consequence of foot deformities (hallux
@@ -238,7 +238,7 @@ various inflammatory conditions. Treatment is principally conservative with meta
 pads, custom orthotics, and footwear modification; surgical management addresses the
 underlying foot deformity.
 
-## 6. Morton’s Neuroma
+## Morton’s Neuroma
 
 Morton’s neuroma (perineural fibrosis of the common digital nerve, most commonly the
 third intermetatarsal nerve) produces forefoot pain with characteristic radiation into the
@@ -248,14 +248,14 @@ space, and reduced sensation in the involved digits. Conservative management inc
 metatarsal pads, wide footwear, and corticosteroid injection (often effective in early
 disease). Surgical excision of the neuroma is reserved for refractory cases.
 
-## 7. Bunionette (Tailor’s Bunion)
+## Bunionette (Tailor’s Bunion)
 
 The bunionette is the analog of hallux valgus at the fifth ray, with lateral deviation of the
 fifth metatarsal head producing a bony prominence at the lateral aspect of the foot and
 shoe pressure pain. Treatment combines footwear modification (wider toe box) and, in
 refractory cases, surgical correction with a distal metatarsal osteotomy of the fifth ray.
 
-## 8. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The static forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe
 deformities (hammer toe, claw toe, mallet toe, crossover toe) — are extremely common

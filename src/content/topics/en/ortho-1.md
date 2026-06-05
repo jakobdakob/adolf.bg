@@ -7,7 +7,7 @@ topicNumber: 1
 order: 1
 ---
 
-## 1. Introduction and Conceptual Framework
+## Introduction and Conceptual Framework
 
 The category of “tumor-like lesions of bone” comprises a heterogeneous group of non-
 neoplastic or pseudo-neoplastic conditions whose radiographic and sometimes clinical
@@ -43,7 +43,7 @@ disease) — that are often encountered in the same radiographic differential. E
 discussed with attention to epidemiology, pathology, clinical features, radiographic
 findings, differential diagnosis, treatment, and complications.
 
-## 2. Simple Bone Cyst (Unicameral Bone Cyst, Solitary Bone Cyst)
+## Simple Bone Cyst (Unicameral Bone Cyst, Solitary Bone Cyst)
 
 Epidemiology and Etiology
 The simple bone cyst (SBC), also known as unicameral bone cyst (UBC) or solitary bone
@@ -117,7 +117,7 @@ proximal humerus has been reported in many series and, in the absence of further
 symptoms, may justify simple sling immobilization for these less mechanically critical
 fractures.
 
-## 3. Aneurysmal Bone Cyst (ABC)
+## Aneurysmal Bone Cyst (ABC)
 
 Epidemiology and Pathogenesis
 The aneurysmal bone cyst is a benign but locally aggressive osteolytic lesion characterized
@@ -179,7 +179,7 @@ particularly in the long-lived pediatric population — and growth-plate damage.
 aneurysmal cysts may require posterior decompression and stabilization in addition to
 lesion treatment.
 
-## 4. Fibrous Dysplasia
+## Fibrous Dysplasia
 
 Definition, Genetics, and Classification
 Fibrous dysplasia is a benign, medullary fibro-osseous lesion in which normal bone is
@@ -242,7 +242,7 @@ modest. Endocrine manifestations of McCune-Albright syndrome require dedicated
 medical management. Radiotherapy is contraindicated because of the risk of inducing
 sarcomatous transformation in the diseased bone.
 
-## 5. Non-ossifying Fibroma and Fibrous Cortical Defect
+## Non-ossifying Fibroma and Fibrous Cortical Defect
 
 Concept and Nomenclature
 The terms “fibrous cortical defect” (FCD) and “non-ossifying fibroma” (NOF) refer to a
@@ -280,7 +280,7 @@ diameter, or 33 mm in absolute size, especially in the distal femur or distal ti
 the risk of pathological fracture justifies prophylactic curettage and bone grafting. Internal
 fixation is rarely required.
 
-## 6. Langerhans Cell Histiocytosis (Histiocytosis X) and Eosinophilic Granuloma
+## Langerhans Cell Histiocytosis (Histiocytosis X) and Eosinophilic Granuloma
 
 Spectrum of Disease
 Langerhans cell histiocytosis (LCH), formerly named histiocytosis X and Letterer-Siwe /
@@ -316,7 +316,7 @@ low-dose radiotherapy, or systemic chemotherapy in multifocal or systemic diseas
 Vertebra plana usually reconstitutes a substantial proportion of normal vertebral height
 with growth, and spinal fusion is rarely required in the absence of neurological deficit.
 
-## 7. Brown Tumor of Hyperparathyroidism
+## Brown Tumor of Hyperparathyroidism
 
 The brown tumor — so named because of its macroscopic hemosiderin-tinged color — is a
 focal lytic lesion of bone occurring in the setting of severe hyperparathyroidism. Although
@@ -341,7 +341,7 @@ parathyroidectomy or after correction of secondary or tertiary hyperparathyroidi
 renal disease. Local treatment, with curettage or internal fixation for pathological fracture,
 is rarely required and is undertaken only after metabolic stabilization.
 
-## 8. Sclerotic Tumor-like Lesions: Bone Island, Osteopoikilosis, Osteopathia
+## Sclerotic Tumor-like Lesions: Bone Island, Osteopoikilosis, Osteopathia
 
 Striata, and Melorheostosis
 Bone Island (Enostosis)
@@ -386,7 +386,7 @@ analgesia, sympathetic blocks, and occasionally surgical release of contracted s
 Bisphosphonates have been tried with variable response. Osteotomies for limb-length
 discrepancy are sometimes required.
 
-## 9. Myositis Ossificans and Post-traumatic Heterotopic Ossification
+## Myositis Ossificans and Post-traumatic Heterotopic Ossification
 
 Myositis ossificans, more accurately described as post-traumatic heterotopic ossification, is
 the formation of mature lamellar bone within skeletal muscle and soft tissue following a
@@ -416,7 +416,7 @@ within 24-48 hours of surgery) and oral indomethacin are the two principal adjuv
 to prevent recurrence after excision and to prevent heterotopic ossification after high-risk
 operations such as acetabular fracture fixation and total hip arthroplasty.
 
-## 10. Additional Lesions in the Differential
+## Additional Lesions in the Differential
 
 A small number of additional lesions deserve mention because they are often considered
 alongside the conditions above when interpreting a focal bone lesion. The Brodie’s abscess,
@@ -435,7 +435,7 @@ fibrous dysplasia, but differs in its restricted location, its rim of osteoblast
 association with adamantinoma — for which it has been proposed as a precursor in a small
 subset of cases.
 
-## 11. Principles of Diagnosis and Differential
+## Principles of Diagnosis and Differential
 
 Across all of these conditions, the synthesis of clinical history, age, exact anatomical site,
 and the radiographic features described by Lodwick (pattern of bone destruction:
@@ -468,7 +468,7 @@ oncological outcome in a disturbingly high proportion of cases, and the principl
 biopsy should be planned with as much care as the definitive surgery” should govern every
 case in which a malignant lesion is in the differential.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The tumor-like lesions of bone are a heterogeneous family that share, with one another and
 with true bone tumors, the capacity to produce a focal lytic, sclerotic, or expansile bone

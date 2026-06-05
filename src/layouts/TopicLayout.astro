@@ -1,16 +1,20 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
+import TopicTOC from "../components/TopicTOC.astro";
 import MobileDrawer from "../components/MobileDrawer.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, type TopicEntry } from "../lib/topics";
+
+interface Heading { depth: number; slug: string; text: string }
 
 interface Props {
   lang: Lang;
   entry: TopicEntry;
   otherPath: string;
+  headings?: Heading[];
 }
-const { lang, entry, otherPath } = Astro.props;
+const { lang, entry, otherPath, headings = [] } = Astro.props;
 const t = ui[lang];
 
 const allEntries = await getTopicsByLang(lang);
@@ -71,6 +75,7 @@ const eyebrow =
         ) : <span />}
       </nav>
     </article>
+    <TopicTOC lang={lang} headings={headings} />
   </div>
 </BaseLayout>
 
@@ -88,8 +93,14 @@ const eyebrow =
   }
   @media (min-width: 1024px) {
     .topic-shell {
-      grid-template-columns: 280px minmax(0, 1fr);
-      gap: var(--s-9);
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: var(--s-8);
+    }
+  }
+  @media (min-width: 1280px) {
+    .topic-shell {
+      grid-template-columns: 260px minmax(0, 1fr) 220px;
+      gap: var(--s-8);
     }
   }
   .topic-article { min-width: 0; }

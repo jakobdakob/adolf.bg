@@ -7,7 +7,7 @@ topicNumber: 11
 order: 111
 ---
 
-## 1. Introduction
+## Introduction
 
 The shoulder girdle — clavicle, scapula, and the joints that connect them to the axial
 skeleton — represents both the anatomical and the conceptual entry point to the upper
@@ -24,7 +24,7 @@ Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s, synthesi
 contemporary management of clavicle, acromioclavicular and sternoclavicular joint,
 scapular, and chest wall injuries.
 
-## 2. Clavicle Fractures — Classification and Epidemiology
+## Clavicle Fractures — Classification and Epidemiology
 
 Clavicle fractures account for approximately 2 to 5 percent of all adult fractures and 35
 percent of shoulder girdle injuries. The age distribution is bimodal — high in young men
@@ -50,7 +50,7 @@ articular extension into the AC joint. Type IV is a pediatric variant — perios
 fracture with intact periosteal tube and superiorly displaced fragment. Type V is
 comminuted with a small inferior cortical fragment attached to the CC ligaments.
 
-## 3. Treatment of Clavicle Fractures
+## Treatment of Clavicle Fractures
 
 Midshaft Fractures
 For decades, the orthodoxy was that virtually all midshaft clavicle fractures should be
@@ -91,7 +91,7 @@ severe posterior displacement with compression of mediastinal structures. The gr
 plate of the medial clavicle does not fuse until the third decade, so what appears to be a
 medial clavicle fracture in a young adult is often actually a Salter-Harris-like physeal injury.
 
-## 4. Acromioclavicular Joint Injuries
+## Acromioclavicular Joint Injuries
 
 The acromioclavicular (AC) joint is stabilized statically by the AC ligaments (providing
 horizontal stability), the coracoclavicular ligaments (conoid and trapezoid — providing
@@ -122,7 +122,7 @@ reconstruction (modified Weaver-Dunn using the coracoacromial ligament, or anato
 reconstruction with semitendinosus graft through bone tunnels), and combined hook plate
 with ligament reconstruction.
 
-## 5. Sternoclavicular Joint Injuries
+## Sternoclavicular Joint Injuries
 
 The sternoclavicular (SC) joint is the only true synovial articulation between the upper
 extremity and the axial skeleton. Despite its critical role in mobility, the joint is remarkably
@@ -149,7 +149,7 @@ medial clavicle, where the medial epiphysis remains attached to the sternum and 
 clavicular metaphysis displaces. This injury heals reliably without need for surgical
 intervention in most cases (the physis closes at approximately 23 years of age).
 
-## 6. Scapular Fractures — Anatomy and Classification
+## Scapular Fractures — Anatomy and Classification
 
 Scapular fractures account for less than 1 percent of all fractures and approximately 3 to 5
 percent of shoulder girdle injuries. The relative protection of the scapula by the
@@ -165,7 +165,7 @@ superior glenoid extending to coracoid, type IV transverse extending to medial b
 V combinations. The AO/OTA classification provides an alternative system that is well-
 suited to operative planning.
 
-## 7. Treatment of Scapular Fractures
+## Treatment of Scapular Fractures
 
 The vast majority of scapular body and spine fractures are treated non-operatively, with
 sling immobilization for comfort followed by progressive range of motion. The native
@@ -192,7 +192,7 @@ surface. The deltopectoral approach may be used for anterior glenoid rim fractur
 Coracoid base fractures associated with AC joint disruption (a variant of the floating
 shoulder) are addressed by stabilization of the coracoid component.
 
-## 8. Chest Wall Injuries
+## Chest Wall Injuries
 
 The orthopedic surgeon’s involvement with chest wall injuries has traditionally been
 limited to recognition and to coordination with thoracic surgery, but recent years have
@@ -222,7 +222,7 @@ airbag era the association has weakened. Most sternum fractures are non-operativ
 severely displaced fractures or fractures with associated chest wall instability may benefit
 from open reduction and plate fixation.
 
-## 9. Special Considerations
+## Special Considerations
 
 Neurovascular Complications of Clavicle Fractures
 The clavicle lies immediately above the subclavian artery and vein and the brachial plexus,
@@ -249,7 +249,7 @@ removal), refracture after hardware removal (uncommon but recognized), nonunion 
 producing localized anesthesia of the chest wall. Patients should be counseled about
 hardware prominence preoperatively.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Clavicle, scapula, and chest wall injuries collectively represent the orthopedic shoulder
 girdle’s encounter with high-energy trauma. The clavicle is most commonly fractured in the

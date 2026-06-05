@@ -7,7 +7,7 @@ topicNumber: 17
 order: 117
 ---
 
-## 1. Introduction
+## Introduction
 
 The distal radius fracture is the most common fracture in adult orthopedic practice, with an
 annual incidence in Northern Europe approaching 30 per 10,000 person-years and a
@@ -24,7 +24,7 @@ of distal radius fractures, drawing on Rockwood and Green’s Fractures in Adult
 Principles of Fracture Management, Apley & Solomon’s, Miller’s Review of Orthopaedics,
 and Dutton’s Orthopaedic Examination.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The distal radius accounts for approximately 80 percent of the load transmission across the
 wrist (with the remaining 20 percent through the ulna and the TFCC). The articular surface
@@ -55,7 +55,7 @@ dorsal cutaneous branch of the ulnar nerve (vulnerable in dorsal approaches), an
 radial artery (lying lateral to the FCR tendon and entering the operative field in the
 standard volar approach).
 
-## 3. Eponyms and Patterns
+## Eponyms and Patterns
 
 The historic eponymous descriptions remain in widespread use and capture meaningful
 information about mechanism and configuration.
@@ -84,7 +84,7 @@ step-off. The pattern is functionally important because the depressed lunate fac
 (“die-punch fragment”) is difficult to elevate by ligamentotaxis alone and frequently
 requires open reduction.
 
-## 4. Classifications
+## Classifications
 
 Multiple classification systems have been developed for distal radius fractures, reflecting
 both the heterogeneity of fracture patterns and the historical pursuit of systems that
@@ -109,7 +109,7 @@ involvement, associated ulnar styloid fracture, and patient age over 60. The pre
 three or more criteria predicts a high likelihood of secondary displacement and may inform
 earlier operative intervention.
 
-## 5. Diagnosis
+## Diagnosis
 
 The clinical presentation is dorsal swelling and deformity (“dinner fork” in the typical
 Colles fracture), pain, and reduced active and passive motion. Neurovascular
@@ -125,7 +125,7 @@ for the patient with significant intra-articular involvement being considered fo
 management; CT defines the number and position of articular fragments and is particularly
 useful for the die-punch fragment.
 
-## 6. Non-Operative Management
+## Non-Operative Management
 
 The majority of distal radius fractures are treated non-operatively. The technique consists
 of closed reduction under appropriate anesthesia (typically a hematoma block,
@@ -152,7 +152,7 @@ particularly in fractures meeting the Lafontaine criteria. Repeat reduction (rem
 is sometimes attempted but typically with disappointing results — once a fracture has
 redisplaced, anatomy is rarely restored without operative intervention.
 
-## 7. Operative Management — Indications and Outcomes
+## Operative Management — Indications and Outcomes
 
 The indications for operative fixation of distal radius fracture have been an active area of
 investigation. The classical indications were largely anatomical: failed closed reduction,
@@ -172,7 +172,7 @@ patient’s functional demands, the severity of malreduction after closed treatm
 patient’s preferences being the principal determinants. In the younger active patient,
 anatomical fixation remains the standard.
 
-## 8. Operative Techniques
+## Operative Techniques
 
 Volar Plating
 Volar locking plate fixation has been the dominant operative technique since the early
@@ -236,7 +236,7 @@ has shown utility in selected intra-articular fractures, particularly those with
 lunate facet fragments. Outcomes are reportedly improved in carefully selected cases, but
 the technique is technically demanding and adoption has been variable.
 
-## 9. Associated Injuries
+## Associated Injuries
 
 Distal radius fractures are frequently accompanied by injuries that may be missed if not
 specifically sought. Ulnar styloid fracture is present in 50 to 60 percent of distal radius
@@ -255,7 +255,7 @@ discussed for the Galeazzi injury in Topic Trauma-16. Carpal injuries including 
 dislocations may accompany high-energy distal radius fractures and are addressed in Topic
 Trauma-18.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The distal radius fracture is the most common adult fracture, with a bimodal age
 distribution dominated by the low-energy osteoporotic fracture in the elderly woman. The

@@ -7,7 +7,7 @@ topicNumber: 8
 order: 208
 ---
 
-## 1. Introduction
+## Introduction
 
 The hip joint, the deepest and most constrained ball-and-socket articulation in the body,
 presents the orthopedic surgeon with multiple operative approaches, each with
@@ -24,7 +24,7 @@ in fracture management and increasingly in joint-preserving surgery. This chapte
 on Orthopaedic Surgical Approaches, Operative Hip Arthroscopy (Byrd), Netter’s Concise
 Orthopaedic Anatomy, and Gray’s Anatomy.
 
-## 2. Bony and Articular Anatomy
+## Bony and Articular Anatomy
 
 The hip joint comprises the femoral head (covered by approximately 70 percent articular
 cartilage in the typical adult) articulating with the acetabulum (the cup formed by the
@@ -44,7 +44,7 @@ The hip capsule is a strong fibrous structure with thickenings forming the iliof
 ligament of Bigelow), pubofemoral, and ischiofemoral ligaments. The iliofemoral
 ligament is the strongest ligament in the body and the principal anterior restraint.
 
-## 3. Blood Supply to the Femoral Head
+## Blood Supply to the Femoral Head
 
 The blood supply to the femoral head is the central anatomical concern of hip surgery:
 
@@ -62,7 +62,7 @@ The Ganz trochanteric flip osteotomy preserves the deep branch of the medial fem
 circumflex artery by maintaining the obturator externus insertion and the posterior
 capsular reflection, providing safe surgical hip dislocation without AVN.
 
-## 4. Muscular Anatomy
+## Muscular Anatomy
 
 The principal hip muscles include:
 Anterior compartment: Iliopsoas (hip flexion), rectus femoris (hip flexion, knee
@@ -76,7 +76,7 @@ Medial compartment: Adductor longus, brevis, magnus; gracilis.
 The gluteus medius and minimus are critical for normal gait (Trendelenburg gait
 develops with their dysfunction); their preservation is paramount in any approach.
 
-## 5. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral artery is the
 principal vascular concern in anterior hip approaches.
@@ -87,7 +87,7 @@ Lateral femoral cutaneous nerve: Crosses near the ASIS. At risk in anterior appr
 Superior gluteal nerve: Runs between gluteus medius and minimus. At risk in lateral
 approaches (Hardinge) with abductor weakness as the principal concern.
 
-## 6. Anterior Approach (Smith-Petersen)
+## Anterior Approach (Smith-Petersen)
 
 The Smith-Petersen anterior approach uses the internervous interval between the
 sartorius (femoral nerve) medially and the tensor fasciae latae (superior gluteal
@@ -112,7 +112,7 @@ incision (with creases and skin folds). Femoral fracture during stem insertion (
 common in DAA than in posterior approach because of the more difficult femoral
 exposure). Stem malposition because of more limited visualization of the proximal femur.
 
-## 7. Anterolateral Approach (Watson-Jones)
+## Anterolateral Approach (Watson-Jones)
 
 The Watson-Jones approach uses the interval between the gluteus medius posteriorly
 and the tensor fasciae latae anteriorly, with reflection of the gluteus medius from the
@@ -131,7 +131,7 @@ Complications
 Abductor dysfunction with partial detachment of the gluteus medius; meticulous repair is
 essential. Superior gluteal nerve injury with deeper proximal dissection.
 
-## 8. Direct Lateral Approach (Hardinge)
+## Direct Lateral Approach (Hardinge)
 
 The Hardinge approach splits the gluteus medius in line with its fibers, with anterior
 reflection of the anterior portion (including the gluteus minimus) attached to a flap of the
@@ -150,7 +150,7 @@ Superior gluteal nerve injury with extended proximal dissection (limiting the ab
 split to 5 cm from the trochanter is critical). Abductor weakness even with appropriate
 technique; trochanteric pain and persistent limp are recognized concerns.
 
-## 9. Posterior (Southern, Kocher-Langenbeck modification, Moore) Approach
+## Posterior (Southern, Kocher-Langenbeck modification, Moore) Approach
 
 The posterior approach is the workhorse for total hip arthroplasty in many centers and
 the standard for posterior pelvic and acetabular surgery (the Kocher-Langenbeck variant
@@ -176,7 +176,7 @@ historical rates of 3 to 5 percent, reduced by careful soft-tissue repair and mo
 positioning). Heterotopic ossification. Abductor preservation (an advantage of this
 approach — the gluteus medius and minimus are not disturbed).
 
-## 10. Trochanteric Flip Osteotomy (Ganz)
+## Trochanteric Flip Osteotomy (Ganz)
 
 The Ganz trochanteric flip osteotomy (Ganz, 2001) provides comprehensive access to
 the entire femoral head and acetabulum with preservation of the medial femoral circumflex
@@ -195,7 +195,7 @@ comprehensive surgical hip dislocation procedures.
 Complications
 Trochanteric nonunion (1 to 5 percent), heterotopic ossification, abductor weakness.
 
-## 11. Hip Arthroscopy
+## Hip Arthroscopy
 
 Hip arthroscopy has emerged as the platform for management of FAI, labral tears, and
 other intra-articular hip pathology. The principal portals include:
@@ -210,7 +210,7 @@ The arthroscopic examination of the central compartment (within the joint) and t
 peripheral compartment (between the capsule and the femoral neck) requires hip
 distraction (typically with a traction table) for central compartment access.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The hip offers multiple surgical approaches, each with characteristic advantages and risks
 centered on the muscular envelope, the neurovascular structures, and the blood supply to

@@ -7,7 +7,7 @@ topicNumber: 1
 order: 101
 ---
 
-## 1. Introduction
+## Introduction
 
 A fracture is a discontinuity in the structural integrity of bone. The understanding of
 fractures encompasses their etiology, the biomechanical forces producing them, the
@@ -20,7 +20,7 @@ specific fracture topics in subsequent chapters. The trauma section that follows
 organized anatomically, addressing each major fracture region in detail; the principles in
 this chapter apply across all regions.
 
-## 2. Epidemiology of Fractures
+## Epidemiology of Fractures
 
 Fractures are extremely common, with the lifetime risk of at least one fracture approaching
 50% in many populations. The principal patterns of fracture epidemiology are: bimodal age
@@ -31,7 +31,7 @@ principal fragility fractures — distal radius, proximal humerus, vertebral bod
 produce substantial morbidity and mortality in older adults, with the hip fracture in
 particular producing 1-year mortality of 20-30% in elderly patients with comorbidities.
 
-## 3. Biomechanics of Fractures
+## Biomechanics of Fractures
 
 The biomechanical analysis of fractures considers the mechanical properties of bone, the
 forces applied to it, and the resulting patterns of failure.
@@ -93,7 +93,7 @@ The forces required to produce a pathological fracture are often substantially l
 a normal-bone fracture, and the recognition of an underlying pathological process is
 essential to appropriate management.
 
-## 4. Classification of Fractures
+## Classification of Fractures
 
 General Principles
 Fracture classification serves several purposes: communication between surgeons;
@@ -146,7 +146,7 @@ classification of distal radius fractures; Salter-Harris classification of physe
 and Young-Burgess classifications of pelvic ring fractures; and many others. Each
 classification provides specific information relevant to its anatomical region.
 
-## 5. Classification of Soft-Tissue Injury
+## Classification of Soft-Tissue Injury
 
 The classification of soft-tissue injury accompanying fractures is at least as important as
 the bony classification, since the soft-tissue damage often determines the complications
@@ -163,7 +163,7 @@ focal skin or muscle contusion), Grade III (extensive skin contusion, muscle dam
 degloving, compartment syndrome). The classification is useful for closed injuries and
 informs the timing of definitive surgery and the choice of fixation.
 
-## 6. Dislocations and Subluxations
+## Dislocations and Subluxations
 
 A dislocation is the complete loss of normal articular relationship between the joint
 surfaces. A subluxation is a partial loss of articular contact with persistent partial articular
@@ -177,7 +177,7 @@ increases the risk of avascular necrosis and other complications); assessment of
 injuries (fractures, neurovascular injury); and post-reduction immobilization and
 rehabilitation appropriate to the joint and the underlying injury.
 
-## 7. Clinical Diagnosis of Fractures
+## Clinical Diagnosis of Fractures
 
 The clinical diagnosis of fractures follows a systematic approach.
 History
@@ -217,7 +217,7 @@ present in every fracture; non-displaced fractures may have only pain and swelli
 severely displaced fractures show all of the cardinal features. Each fracture type has its
 own pattern of clinical presentation.
 
-## 8. Radiographic Diagnosis
+## Radiographic Diagnosis
 
 Plain Radiographs
 Plain radiographs remain the foundation of fracture imaging. The general principles
@@ -252,7 +252,7 @@ is less commonly used in modern practice with the availability of MRI. Ultrasoun
 limited role in fracture diagnosis but is increasingly used for soft-tissue and rib fractures
 and for selected pediatric fractures.
 
-## 9. The Tertiary Survey
+## The Tertiary Survey
 
 The tertiary survey — a comprehensive systematic examination of the trauma patient 24-
 72 hours after admission — is a critical concept in trauma care. The principle is that
@@ -262,7 +262,7 @@ tertiary survey includes head-to-toe examination, review of all imaging, and con
 of any new symptoms. Missed orthopedic injuries (rib fractures, hand fractures, foot
 fractures, vertebral fractures) are particularly common findings on tertiary survey.
 
-## 10. General Principles of Fracture Management
+## General Principles of Fracture Management
 
 The principles of fracture management, articulated by the AO Foundation and elaborated in
 modern fracture surgery, include the four cardinal goals: (1) anatomical reduction of
@@ -276,7 +276,7 @@ accepting less than perfect reduction in many cases in favor of preserving the b
 necessary for healing. The development of locking plates, intramedullary nails, and
 minimally invasive techniques reflects this biological approach.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The classification, biomechanics, and diagnosis of fractures form the foundation of trauma
 orthopedics. Bone is an anisotropic, viscoelastic material that fails in predictable patterns

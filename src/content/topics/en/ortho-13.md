@@ -7,7 +7,7 @@ topicNumber: 13
 order: 13
 ---
 
-## 1. Introduction
+## Introduction
 
 Congenital spine anomalies arise from disturbances of embryological vertebral and spinal-
 cord development between approximately the third and tenth weeks of gestation. They
@@ -21,7 +21,7 @@ and Miller’s Review, addresses congenital vertebral anomalies producing scolio
 congenital kyphosis, Klippel-Feil syndrome of cervical vertebral fusion, cervical ribs and
 their thoracic outlet implications, and the spectrum of dysraphic states.
 
-## 2. Embryological Background
+## Embryological Background
 
 The vertebral column develops from the paraxial mesoderm, which forms paired somites in
 cranio-caudal sequence between weeks 3 and 5 of gestation. Each somite divides into a
@@ -36,7 +36,7 @@ resegmentation produce the spectrum of failure of formation (hemivertebrae, wedg
 vertebrae) and failure of segmentation (block vertebrae, unilateral unsegmented bars) that
 underlie congenital scoliosis.
 
-## 3. Congenital Scoliosis
+## Congenital Scoliosis
 
 Classification and Pathogenesis
 Congenital scoliosis is scoliosis arising from anomalous vertebral development, in contrast
@@ -118,7 +118,7 @@ column resection), is the standard for late-presenting or established severe def
 older children and adolescents. The procedures are extensive and carry substantial
 morbidity, but produce powerful correction of fixed deformities.
 
-## 4. Congenital Kyphosis
+## Congenital Kyphosis
 
 Congenital kyphosis is a sagittal-plane deformity produced by anomalous vertebral
 development. The classification, parallel to that of congenital scoliosis, recognizes failures
@@ -138,7 +138,7 @@ support. The risks of paraplegia from progressive kyphosis are sufficient that s
 intervention is recommended even in the very young child with rapidly progressive
 disease.
 
-## 5. Klippel-Feil Syndrome
+## Klippel-Feil Syndrome
 
 Definition and Epidemiology
 Klippel-Feil syndrome, described by Maurice Klippel and André Feil in 1912, is the
@@ -185,7 +185,7 @@ congenital anomalies; and renal and cardiac evaluation. Surgical management is r
 for symptomatic adjacent-segment degeneration or instability and follows the principles of
 cervical spine surgery in general.
 
-## 6. Sprengel Deformity
+## Sprengel Deformity
 
 Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenital failure of
 normal descent of the scapula from the cervical region to its definitive thoracic position.
@@ -201,7 +201,7 @@ resection of the superomedial corner of the scapula. The procedures should gener
 performed before age 8 because of the high risk of brachial plexus injury with attempted
 late correction.
 
-## 7. Cervical Ribs and Thoracic Outlet Syndrome
+## Cervical Ribs and Thoracic Outlet Syndrome
 
 Cervical Ribs
 A cervical rib is a supernumerary rib arising from the seventh cervical vertebra. The
@@ -243,7 +243,7 @@ best results in true neurogenic TOS with objective findings (motor weakness, EMG
 abnormalities); the patient with subjective sensory symptoms only often has disappointing
 surgical results.
 
-## 8. Spina Bifida and the Dysraphic States
+## Spina Bifida and the Dysraphic States
 
 Definitions and Classification
 The dysraphic states are a spectrum of congenital malformations of the spinal cord,
@@ -315,7 +315,7 @@ dermal sinus, lipoma, thickened filum, or other tethering structure. Treatment i
 untethering, with detachment of the conus from the tethering structure. The outcomes are
 best when surgery is performed before significant neurological deterioration has occurred.
 
-## 9. Other Notable Congenital Spine Anomalies
+## Other Notable Congenital Spine Anomalies
 
 Atlanto-occipital Anomalies
 Atlanto-occipital assimilation (fusion of the atlas to the occiput), basilar invagination
@@ -336,7 +336,7 @@ mostly asymptomatic but occasionally associated with low back pain (the Bertolot
 syndrome, in which an enlarged transverse process of L5 articulates with the sacrum to
 produce focal pain).
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The congenital anomalies of the spine span a remarkable spectrum from minor
 radiographic variants to devastating myelomeningocele. Congenital scoliosis, classified as

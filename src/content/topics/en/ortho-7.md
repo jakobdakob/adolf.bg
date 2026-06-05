@@ -7,7 +7,7 @@ topicNumber: 7
 order: 7
 ---
 
-## 1. Introduction and Terminology
+## Introduction and Terminology
 
 Developmental dysplasia of the hip (DDH) is a spectrum of disorders of the developing hip
 ranging from mild acetabular dysplasia in a stable joint to frank dislocation of the femoral
@@ -32,7 +32,7 @@ surgical reconstruction of the older child and adolescent (pelvic and femoral os
 the management of residual dysplasia in adolescence and early adulthood, and the special
 situation of the irreducible neglected dislocation.
 
-## 2. Epidemiology and Risk Factors
+## Epidemiology and Risk Factors
 
 The incidence of DDH varies substantially with population, screening method, and case
 definition. Frank dislocation in the newborn is reported at 1-2 per 1,000 live births;
@@ -54,7 +54,7 @@ left hip is more commonly involved than the right (approximately 60% left, 20% r
 bilateral), and this asymmetry is attributed to the typical fetal position with the left hip in
 adduction against the maternal sacrum.
 
-## 3. Pathological Anatomy
+## Pathological Anatomy
 
 The dysplastic hip exhibits a constellation of bony and soft-tissue abnormalities that
 progress with continued dislocation and that determine the difficulty of reduction and the
@@ -74,7 +74,7 @@ inverted limbus, (2) hypertrophied pulvinar, (3) contracted iliopsoas tendon pro
 capsular hourglass, (4) contracted transverse acetabular ligament, and (5) capsular
 contracture. Surgical open reduction must address each of these obstacles.
 
-## 4. Clinical Examination of the Newborn Hip
+## Clinical Examination of the Newborn Hip
 
 The Ortolani and Barlow Maneuvers
 The Ortolani maneuver, described by Marino Ortolani in 1937, is a test for the dislocated
@@ -109,7 +109,7 @@ Trendelenburg gait (lateral lurch of the trunk over the affected hip during stan
 with drop of the contralateral pelvis), apparent leg-length discrepancy with toe-walking on
 the affected side, and increased lumbar lordosis with bilateral disease.
 
-## 5. Screening and Imaging
+## Screening and Imaging
 
 Universal vs Selective Screening
 The optimal approach to DDH screening — universal ultrasound for all newborns, selective
@@ -156,7 +156,7 @@ smooth curve along the inferior border of the superior pubic ramus and the media
 of the femoral neck, broken in dislocation), and the acetabular index (the angle between
 Hilgenreiner’s line and the acetabular roof, normally <30° in infants).
 
-## 6. Treatment of the Neonatal and Infant Hip
+## Treatment of the Neonatal and Infant Hip
 
 Pavlik Harness (0-6 months)
 The Pavlik harness, invented by Arnold Pavlik in 1944, is the standard treatment for the
@@ -218,7 +218,7 @@ adductor tendon, capsulorraphy to tighten the redundant joint capsule, and reduc
 the femoral head into the deepened acetabulum. After open reduction, hip spica casting
 follows for 6-12 weeks, with continued bracing or part-time bracing for further months.
 
-## 7. Concomitant Femoral and Pelvic Osteotomies
+## Concomitant Femoral and Pelvic Osteotomies
 
 In the older child (typically over 18-24 months) with persistent dysplasia or with neglected
 dislocation, concurrent femoral and pelvic osteotomies are required to achieve and
@@ -280,7 +280,7 @@ bone graft is fixed to the lateral acetabular rim to extend coverage of the femo
 used in younger children (typically over 3-4 years) as an adjunct to reduction, and in older
 patients as a salvage procedure for non-congruent joints.
 
-## 8. Avascular Necrosis (AVN) of the Femoral Head as a Complication
+## Avascular Necrosis (AVN) of the Femoral Head as a Complication
 
 The principal iatrogenic complication of DDH treatment is avascular necrosis of the femoral
 head, produced by compression of the medial femoral circumflex artery against the
@@ -292,7 +292,7 @@ a relative trochanteric overgrowth; Grade IV, complete physeal arrest with sever
 shortening, deformity, and disability. Avoidance of excessive abduction in casting and
 bracing is the principal preventive measure.
 
-## 9. The Neglected and Adolescent Hip
+## The Neglected and Adolescent Hip
 
 The neglected DDH presents as a unilateral or bilateral dislocation in an older child or
 adolescent who has not received treatment. The challenges of treatment are formidable:
@@ -307,7 +307,7 @@ hip arthroplasty in adulthood. The choice depends on the age of the patient at p
 the unilateral or bilateral nature of the dislocation, and the severity of the secondary
 changes.
 
-## 10. Outcomes and Adolescent / Adult Sequelae
+## Outcomes and Adolescent / Adult Sequelae
 
 The long-term outcome of DDH depends on the age at diagnosis, the success of initial
 treatment, and the development of residual dysplasia. Early diagnosis and successful Pavlik
@@ -318,7 +318,7 @@ sequelae. Adolescent and adult hip dysplasia presents with groin pain, hip impin
 symptoms, and progressive arthritis, and is managed by periacetabular osteotomy in the
 appropriate candidate or by total hip arthroplasty in advanced disease.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Developmental dysplasia of the hip is the commonest pediatric hip disorder and the most
 preventable cause of early adult hip arthritis. Early diagnosis — by clinical examination at

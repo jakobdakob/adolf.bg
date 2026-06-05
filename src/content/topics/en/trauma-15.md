@@ -7,7 +7,7 @@ topicNumber: 15
 order: 115
 ---
 
-## 1. Introduction
+## Introduction
 
 The elbow joint, with its unique configuration as a coupled hinge-and-pivot articulation
 involving three bones (distal humerus, proximal ulna, proximal radius) and three
@@ -25,7 +25,7 @@ particularly emphasized in board examination preparation. This chapter draws pri
 on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management,
 Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The distal humerus comprises two diverging columns — the medial column terminating
 in the medial epicondyle and trochlea, and the lateral column terminating in the lateral
@@ -67,7 +67,7 @@ across the lateral aspect of the elbow, dividing into superficial sensory and de
 (posterior interosseous nerve) branches; the posterior interosseous nerve is particularly
 vulnerable around the radial head and during exposures of the proximal radius.
 
-## 3. Distal Humerus Fractures — Classification and Approach
+## Distal Humerus Fractures — Classification and Approach
 
 The AO/OTA classification (region 13) for distal humerus fractures is the predominant
 system. Type A is extra-articular: A1 epicondyle (medial or lateral), A2 simple
@@ -85,7 +85,7 @@ versus primary total elbow arthroplasty (TEA). The trade-off in the elderly pati
 better functional outcome and lower revision risk of TEA against the lifelong restrictions
 (typically 5 kg or 10 lb single-event lifting limit) that protect the implant.
 
-## 4. Treatment of Distal Humerus Fractures
+## Treatment of Distal Humerus Fractures
 
 ORIF with Dual Plating
 For the operative distal humerus fracture in the patient with reasonable bone quality, dual
@@ -130,7 +130,7 @@ and for the very elderly low-demand patient in whom the morbidity of surgery can
 justified. The “bag of bones” technique, with brief immobilization followed by early motion
 accepting whatever deformity heals, has had a small revival in this population.
 
-## 5. Olecranon Fractures
+## Olecranon Fractures
 
 The classical Mayo classification (Morrey, 1995) divides olecranon fractures into three
 types by displacement and stability. Type I is undisplaced (type IA non-comminuted, IB
@@ -166,7 +166,7 @@ very elderly patient with severely comminuted small proximal fragments that cann
 reconstructed; up to 50 percent of the olecranon can be excised with reasonable functional
 outcomes if the coronoid and articular trochlear notch are preserved.
 
-## 6. Radial Head and Radial Neck Fractures
+## Radial Head and Radial Neck Fractures
 
 The Mason classification (1954) for radial head fractures is the most widely used: Type I
 is non-displaced or minimally displaced (<2 mm); Type II is displaced (>2 mm) but less
@@ -203,7 +203,7 @@ pattern. The procedure has long-term concerns including valgus instability, ulna
 variance with wrist pain, and progressive elbow arthritis, but in carefully selected patients
 produces acceptable outcomes.
 
-## 7. Coronoid Fractures
+## Coronoid Fractures
 
 The coronoid is the principal anterior buttress of the trochlear notch and its fracture,
 particularly when associated with elbow dislocation, produces profound instability. The
@@ -226,7 +226,7 @@ fractures generally require fixation. Larger basal fractures (Regan-Morrey III,
 O’Driscoll basal) require fixation, typically through a medial or posteromedial approach
 with small screws, suture fixation, or buttress plate.
 
-## 8. Elbow Dislocation and the Terrible Triad
+## Elbow Dislocation and the Terrible Triad
 
 Simple elbow dislocation is dislocation of the elbow without associated fracture, typically
 posterior or posterolateral. The mechanism is a fall onto the outstretched hand with the
@@ -251,7 +251,7 @@ poor outcomes that gave the injury its name (an Erlich-Hotchkiss patient series 
 components, with reasonable contemporary outcomes (~75 percent good to excellent
 functional results).
 
-## 9. Special Patterns
+## Special Patterns
 
 The Monteggia fracture-dislocation (proximal ulna fracture with radial head dislocation)
 is addressed in Topic Trauma-16 (forearm fractures) but deserves mention here as another
@@ -269,7 +269,7 @@ rehabilitation. The pediatric supracondylar humerus fracture is a separate major
 managed by the Gartland classification and is addressed in the pediatric trauma sections;
 the discussion here pertains to the adult elbow.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Elbow fractures present the orthopedic surgeon with the challenge of restoring a complex
 coupled articulation while preserving the early motion that is essential to functional

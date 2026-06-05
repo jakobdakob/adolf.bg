@@ -7,7 +7,7 @@ topicNumber: 28
 order: 28
 ---
 
-## 1. Introduction
+## Introduction
 
 The overuse syndromes — periarthritis, tendinosis and tendinitis (tendovaginitis),
 insertionitis (enthesopathy), and bursitis — constitute a heterogeneous group of
@@ -20,7 +20,7 @@ encountered in daily activities and sports. This chapter, synthesizing content f
 Solomon’s, Miller’s Review, and Dutton’s Orthopaedic Examination, addresses the principal
 overuse syndromes by anatomical region.
 
-## 2. General Principles
+## General Principles
 
 The modern understanding of “tendinitis” has been substantially revised in recent decades.
 Histological studies of chronic painful tendons reveal mostly degenerative rather than
@@ -39,7 +39,7 @@ constant) or develop in response to repetitive mechanical stress (adventitial bu
 Bursitis may be inflammatory (from overuse), septic (from infection), or hemorrhagic
 (from trauma).
 
-## 3. Shoulder Overuse Syndromes
+## Shoulder Overuse Syndromes
 
 Subacromial Impingement and Rotator Cuff Disease
 Subacromial impingement syndrome is the commonest source of shoulder pain in adults.
@@ -109,7 +109,7 @@ and is subject to inflammation, degeneration, instability (with subluxation or d
 from the groove), and rupture. Presentation is with anterior shoulder pain. Treatment
 ranges from conservative measures through tenotomy or tenodesis of the biceps tendon.
 
-## 4. Elbow Overuse Syndromes
+## Elbow Overuse Syndromes
 
 Lateral Epicondylitis (Tennis Elbow)
 Lateral epicondylitis is a chronic tendinopathy at the origin of the wrist extensors,
@@ -148,7 +148,7 @@ posterior elbow. Causes include acute trauma, repetitive pressure, and septic in
 NSAIDs, and selective aspiration; septic bursitis requires antibiotic therapy and surgical
 drainage when needed.
 
-## 5. Wrist and Hand Overuse Syndromes
+## Wrist and Hand Overuse Syndromes
 
 De Quervain’s Tenosynovitis
 De Quervain’s tenosynovitis is inflammation of the first dorsal compartment of the wrist,
@@ -189,7 +189,7 @@ the ECU subsheath; intersection syndrome (inflammation at the crossing of the fi
 second dorsal compartments). Treatment principles parallel those of de Quervain’s
 tenosynovitis.
 
-## 6. Hip Overuse Syndromes
+## Hip Overuse Syndromes
 
 Greater Trochanteric Pain Syndrome (Trochanteric Bursitis)
 Greater trochanteric pain syndrome — the modern term for what was historically called
@@ -215,7 +215,7 @@ hip is from loose bodies or labral tears. Treatment is principally conservative 
 stretching and activity modification; surgical release of the iliotibial band or iliopsoas
 tendon is reserved for refractory cases.
 
-## 7. Knee Overuse Syndromes
+## Knee Overuse Syndromes
 
 Patellar Tendinopathy (Jumper’s Knee)
 Patellar tendinopathy is degeneration of the patellar tendon at its origin from the inferior
@@ -246,7 +246,7 @@ These are juvenile traction apophysitis conditions affecting the tibial tuberosi
 Schlatter) and the inferior pole of the patella (Sinding-Larsen-Johansson) in adolescents.
 Self-limiting conditions managed conservatively with activity modification and analgesics.
 
-## 8. Foot and Ankle Overuse Syndromes
+## Foot and Ankle Overuse Syndromes
 
 Achilles Tendinopathy
 Achilles tendinopathy is a degenerative condition affecting either the midportion of the
@@ -281,7 +281,7 @@ Peroneal tendinopathy and peroneal tendon subluxation produce lateral ankle pain
 Treatment is initially conservative; surgical management addresses tendon pathology and
 superior peroneal retinaculum reconstruction for chronic instability.
 
-## 9. Periarthritis and Other Regional Syndromes
+## Periarthritis and Other Regional Syndromes
 
 The term “periarthritis” was historically used to describe pain around joints from various
 soft-tissue causes; in modern usage the term is largely replaced by more specific diagnoses
@@ -290,7 +290,7 @@ etc.). The historical concept of “periarthritis humeroscapularis” encompasse
 understood as rotator cuff disease, impingement, calcific tendinopathy, and frozen
 shoulder.
 
-## 10. Bursitis at Specific Sites
+## Bursitis at Specific Sites
 
 Bursitis can develop at any anatomical site where mechanical stress between tissues is
 repeatedly applied. The principal sites include:
@@ -308,7 +308,7 @@ for symptomatic effusions, selective corticosteroid injection, and surgical exci
 refractory cases — apply across all sites. Septic bursitis requires antibiotic therapy and
 often surgical drainage.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The overuse syndromes — tendinopathies, bursitis, periarthritis, and related conditions —
 constitute a major component of orthopedic practice. The modern understanding of

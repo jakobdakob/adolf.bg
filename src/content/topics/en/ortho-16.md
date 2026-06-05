@@ -7,7 +7,7 @@ topicNumber: 16
 order: 16
 ---
 
-## 1. Introduction and Classification
+## Introduction and Classification
 
 The systemic skeletal dysplasias are a large group of inherited disorders of bone and
 cartilage development that produce abnormal skeletal growth, shape, and integrity. More
@@ -29,7 +29,7 @@ chondrodysplasias), disorders of bone density (osteogenesis imperfecta, osteopet
 Paget disease), the mucopolysaccharidoses, and a selection of other clinically important
 entities.
 
-## 2. Achondroplasia
+## Achondroplasia
 
 Genetics and Pathophysiology
 Achondroplasia is the commonest skeletal dysplasia producing disproportionate short
@@ -72,7 +72,7 @@ small spinal canal. Genu varum may require corrective osteotomy or guided growth
 intramedullary devices) are an option for patients seeking increased stature and improved
 function, with typical gains of 10-15 cm achievable over 1-2 years of treatment.
 
-## 3. Hypochondroplasia and Pseudoachondroplasia
+## Hypochondroplasia and Pseudoachondroplasia
 
 Hypochondroplasia is also caused by FGFR3 mutations (typically at codon 540 rather
 than 380) and produces a milder phenotype than achondroplasia, with shorter stature and
@@ -85,7 +85,7 @@ careful management with avoidance of contact sports and consideration of fusion 
 symptomatic cases). The combination of short stature with normal facial features is the key
 distinguishing point.
 
-## 4. Diastrophic Dysplasia
+## Diastrophic Dysplasia
 
 Diastrophic dysplasia is an autosomal recessive disorder caused by mutations in the
 SLC26A2 gene encoding a sulfate transport protein. The condition is endemic in Finland
@@ -99,7 +99,7 @@ dysplasias. The orthopedic management includes serial casting and surgical corre
 clubfoot (notoriously resistant to Ponseti management in this condition), management of
 scoliosis and cervical kyphosis, and joint preservation through life.
 
-## 5. Multiple Epiphyseal Dysplasia (MED)
+## Multiple Epiphyseal Dysplasia (MED)
 
 Multiple epiphyseal dysplasia is a group of autosomal dominant disorders caused by
 mutations in cartilage oligomeric matrix protein (COMP), collagen IX, or matrilin-3. The
@@ -120,7 +120,7 @@ preservation procedures for hip dysplasia, and ultimately joint replacement for 
 arthritis (often in the fourth and fifth decades of life, decades earlier than for primary
 osteoarthritis).
 
-## 6. Spondyloepiphyseal Dysplasia (SED)
+## Spondyloepiphyseal Dysplasia (SED)
 
 Spondyloepiphyseal dysplasia exists in two principal forms: SED congenita (autosomal
 dominant, caused by mutations in type II collagen) presenting at birth with short stature,
@@ -137,7 +137,7 @@ needed, scoliosis management, and joint-preserving and joint-replacing surgery f
 and knee arthritis. Retinal detachment is a recognized complication of the type II collagen
 mutations and requires ophthalmologic surveillance.
 
-## 7. Metaphyseal Chondrodysplasias
+## Metaphyseal Chondrodysplasias
 
 The metaphyseal chondrodysplasias are a group of conditions characterized by abnormal
 metaphyseal ossification with sparing of the epiphyses. The principal forms are:
@@ -151,7 +151,7 @@ McKusick form (cartilage-hair hypoplasia) (autosomal recessive, RMRP gene mutati
 short stature, fine sparse hair, immunodeficiency, and characteristic metaphyseal
 abnormalities. The condition is enriched in the Old Order Amish population.
 
-## 8. Osteogenesis Imperfecta (OI)
+## Osteogenesis Imperfecta (OI)
 
 Genetics and Pathophysiology
 Osteogenesis imperfecta — “brittle bone disease” — is a group of inherited disorders of
@@ -212,7 +212,7 @@ Basilar invagination and cranial settling — upward translation of the cervical
 the cranium from soft cranial bone — is a recognized late complication of severe OI and
 requires careful management with the input of neurosurgical and skull-base specialists.
 
-## 9. Osteopetrosis
+## Osteopetrosis
 
 Osteopetrosis — “marble bone disease” — is a group of inherited disorders of osteoclast
 function producing dense, brittle bone from failure of normal resorption. The principal
@@ -229,7 +229,7 @@ The orthopedic management focuses on fracture care, which is particularly challe
 because of the dense bone that resists drilling, the increased risk of nonunion (the dense
 bone has limited vascularity), and the risk of intraoperative complications.
 
-## 10. Mucopolysaccharidoses
+## Mucopolysaccharidoses
 
 The mucopolysaccharidoses (MPS) are a group of lysosomal storage disorders caused by
 deficiency of enzymes involved in glycosaminoglycan degradation. The accumulation of
@@ -258,7 +258,7 @@ indicated, management of the gibbus deformity and scoliosis, and joint replaceme
 patients reach adolescence and adulthood with modern enzyme replacement and
 transplantation therapies extending life expectancy.
 
-## 11. Other Notable Conditions
+## Other Notable Conditions
 
 Cleidocranial Dysplasia
 Cleidocranial dysplasia, caused by RUNX2 (CBFA1) mutations, produces aplasia or
@@ -285,7 +285,7 @@ Trevor disease is a rare developmental disorder in which cartilaginous overgrowt
 from one side of an epiphysis, producing a hemimelic mass and joint deformity. Surgical
 excision of the abnormal cartilage is the treatment.
 
-## 12. General Principles of Management
+## General Principles of Management
 
 The management of patients with skeletal dysplasia follows several unifying principles.
 First, accurate diagnosis is essential because of the wide variation in natural history and
@@ -301,7 +301,7 @@ Fourth, the indications and risks of surgery in patients with skeletal dysplasia
 those of patients without the underlying condition; bone quality, anesthetic considerations,
 and the underlying systemic complexity must all be considered in surgical planning.
 
-## 13. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The systemic skeletal dysplasias are a heterogeneous group of inherited disorders
 producing characteristic patterns of skeletal abnormality with associated systemic

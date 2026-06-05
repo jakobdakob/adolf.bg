@@ -7,7 +7,7 @@ topicNumber: 3
 order: 3
 ---
 
-## 1. Introduction and Classification
+## Introduction and Classification
 
 Malignant bone tumors are clonal neoplastic proliferations of bone-resident or matrix-
 producing cells characterized by autonomous growth, local invasion, and metastatic
@@ -33,7 +33,7 @@ disease, including the Mirels scoring system and the orthopedic management of im
 and pathological fractures; and the principles of limb-salvage versus amputation in the
 modern era.
 
-## 2. The Conceptual Framework: Enneking Staging and the Principles of Biopsy
+## The Conceptual Framework: Enneking Staging and the Principles of Biopsy
 
 The Enneking staging system, developed by William Enneking in the 1980s, remains the
 basis on which orthopedic decisions about bone-tumor surgery are made. Tumors are
@@ -69,7 +69,7 @@ planes, MRI of the affected bone, CT chest for staging, bone scan or PET-CT — 
 obtained, because the post-biopsy edema and hemorrhage can obscure the pre-biopsy
 imaging.
 
-## 3. Osteosarcoma
+## Osteosarcoma
 
 Epidemiology and Subtypes
 Osteosarcoma is the commonest primary malignancy of bone in children and young adults,
@@ -152,7 +152,7 @@ fracture with contamination, or for the patient’s preference. The five-year su
 metastatic high-grade osteosarcoma is now 60-70%; for metastatic disease at presentation,
 20-30%.
 
-## 4. Ewing Sarcoma
+## Ewing Sarcoma
 
 Pathology and Molecular Biology
 Ewing sarcoma is a small round blue cell tumor classified within the Ewing family of
@@ -195,7 +195,7 @@ spine) are treated by definitive radiotherapy with chemotherapy. Five-year survi
 approximately 65-75% for non-metastatic disease, dropping to 25-30% with metastases at
 presentation; bone-marrow metastases carry a particularly poor prognosis.
 
-## 5. Chondrosarcoma
+## Chondrosarcoma
 
 Chondrosarcoma is the second commonest malignant primary bone tumor after
 osteosarcoma, accounting for approximately 25% of primary bone sarcomas. Unlike
@@ -227,7 +227,7 @@ chondrosarcoma in particular shows useful response to Ewing-like regimens. Five-
 survival is excellent (90%) for low-grade lesions, but falls to 30-50% for high-grade and
 dedifferentiated chondrosarcoma.
 
-## 6. Chordoma
+## Chordoma
 
 Chordoma is a rare, low- to intermediate-grade malignant tumor arising from notochordal
 remnants, with characteristic locations along the midline of the axial skeleton: the
@@ -245,7 +245,7 @@ inevitably compromises continence. Proton-beam and carbon-ion radiotherapy have 
 increasing role for surgical residual disease, residual after suboptimal resection, and
 unresectable spheno-occipital chordomas.
 
-## 7. Multiple Myeloma and Solitary Plasmacytoma of Bone
+## Multiple Myeloma and Solitary Plasmacytoma of Bone
 
 Multiple myeloma is the commonest primary malignant tumor of bone in adults overall —
 accounting for nearly half of all primary bone malignancies, though it is more accurately
@@ -276,7 +276,7 @@ also definitive treatment for solitary plasmacytoma — a single bone lesion of 
 plasma cells without systemic myeloma, with progression to multiple myeloma in 50-70%
 of patients over the subsequent decade.
 
-## 8. Lymphoma of Bone and Other Hematological Malignancies
+## Lymphoma of Bone and Other Hematological Malignancies
 
 Primary lymphoma of bone is rare and is almost always a diffuse large B-cell lymphoma.
 Presentation is with bone pain and a permeative or lytic lesion, often with substantial soft-
@@ -290,7 +290,7 @@ leukemic infiltration of the metaphyses produces characteristic radiolucent “l
 lines” — bands of decreased density adjacent to the physis — and presentation with bone
 pain that mimics juvenile inflammatory arthritis is well described.
 
-## 9. Other Primary Malignant Tumors
+## Other Primary Malignant Tumors
 
 Malignant Fibrous Histiocytoma / Undifferentiated Pleomorphic Sarcoma
 What was historically termed malignant fibrous histiocytoma (MFH) of bone is now
@@ -314,7 +314,7 @@ confined to a single anatomical region. Treatment is multimodal, with wide surgi
 resection where feasible, and radiotherapy and chemotherapy for unresectable or
 recurrent disease.
 
-## 10. Metastatic Bone Disease
+## Metastatic Bone Disease
 
 Epidemiology and Pathophysiology
 Metastatic disease is by far the commonest malignant lesion of bone in adults, accounting
@@ -396,7 +396,7 @@ Radiosurgery (stereotactic body radiotherapy) and conventional radiotherapy prov
 adjuvant local control after surgery and primary local control for lesions not requiring
 surgical intervention.
 
-## 11. Pathological Fractures
+## Pathological Fractures
 
 A pathological fracture, by definition, is a fracture that occurs through abnormal bone —
 bone weakened by tumor, metabolic disease, infection, or congenital anomaly. The
@@ -430,7 +430,7 @@ small window at the fracture site for large lytic defects. Distal femoral pathol
 fractures may require distal femoral replacement endoprosthesis if cortical reconstitution
 is not possible.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The malignant tumors of bone form a small but highly consequential group of diseases that
 demand multidisciplinary care, accurate biopsy, formal staging, and a coordinated

@@ -7,7 +7,7 @@ topicNumber: 20
 order: 20
 ---
 
-## 1. Introduction and Conceptual Framework
+## Introduction and Conceptual Framework
 
 Femoroacetabular impingement (FAI) is a clinical syndrome in which abnormal mechanical
 contact between the proximal femur and the acetabular rim during hip motion produces
@@ -27,7 +27,7 @@ the clinical and imaging diagnosis, the natural history and association with ost
 and the surgical management options including hip arthroscopy and surgical hip
 dislocation.
 
-## 2. Morphological Subtypes
+## Morphological Subtypes
 
 Three principal morphological subtypes of FAI are described, each with distinct mechanical
 features and clinical implications.
@@ -73,7 +73,7 @@ clinical practice, with most patients showing some degree of both abnormal femor
 neck offset and abnormal acetabular coverage. The treatment must address both
 components.
 
-## 3. Pathophysiology and Natural History
+## Pathophysiology and Natural History
 
 The repeated mechanical impingement of the femur against the acetabulum during hip
 motion produces progressive damage to the chondrolabral junction. In cam impingement,
@@ -91,7 +91,7 @@ association, although the absolute proportion of patients with morphological FAI
 develop symptomatic OA is variable, and the role of preventive intervention in
 asymptomatic FAI remains debated.
 
-## 4. Clinical Features
+## Clinical Features
 
 The classical presentation is of an active young adult (most commonly in the third or fourth
 decade) with insidious onset of activity-related groin pain. The pain is typically worse with
@@ -113,7 +113,7 @@ involving the posterior rim; and sometimes tenderness over the anterior hip join
 motion of the lumbar spine, sacroiliac joints, and femoral nerve should be assessed to
 exclude other sources of pain.
 
-## 5. Imaging
+## Imaging
 
 Plain Radiographs
 The standard imaging assessment begins with two views: a well-centered AP pelvis
@@ -154,7 +154,7 @@ CT with three-dimensional reconstruction provides the most accurate bony morphol
 assessment and is increasingly used for surgical planning, particularly for complex cam
 morphology and for assessment of acetabular version and femoral version.
 
-## 6. Treatment
+## Treatment
 
 Non-Operative Management
 Initial management of FAI is conservative in most patients. The components include:
@@ -223,7 +223,7 @@ the patient’s preference; and the available facilities. Hip arthroscopy is the
 approach for typical FAI in most contemporary practice, with open surgical hip dislocation
 reserved for complex cases.
 
-## 7. Outcomes
+## Outcomes
 
 The outcomes of FAI surgery in well-selected patients are generally good. Multiple large
 series, randomized trials (the FIRST trial, the FASHIoN trial), and registry data have
@@ -245,7 +245,7 @@ investigation. Several observational studies have suggested a delay in arthritis
 in patients who undergo successful FAI surgery, but a definitive demonstration of disease-
 modifying effect awaits longer follow-up and the maturation of ongoing randomized trials.
 
-## 8. Special Considerations
+## Special Considerations
 
 FAI in Specific Populations
 Athletes: FAI is particularly common in athletes engaged in pivoting sports, with return to
@@ -277,7 +277,7 @@ dislocation — is increasingly recognized as a cause of hip pain that overlaps 
 Treatment combines physical therapy, capsular plication, and avoidance of capsular release
 or wide capsular dissection in arthroscopy.
 
-## 9. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Femoroacetabular impingement is a clinical syndrome in which abnormal mechanical
 contact between the proximal femur and acetabular rim produces progressive damage to

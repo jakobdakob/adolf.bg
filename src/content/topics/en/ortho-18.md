@@ -7,7 +7,7 @@ topicNumber: 18
 order: 18
 ---
 
-## 1. Introduction and Definitions
+## Introduction and Definitions
 
 Coxa vara is a deformity of the proximal femur in which the neck-shaft angle is reduced
 below normal — typically below 120° in adults, with the corresponding lower threshold
@@ -23,7 +23,7 @@ abductor weakness, and accelerated degenerative arthritis of the hip in adulthoo
 chapter synthesizes content from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s,
 and Miller’s Review.
 
-## 2. Developmental (Congenital) Coxa Vara
+## Developmental (Congenital) Coxa Vara
 
 Definition and Epidemiology
 Developmental coxa vara — sometimes called infantile coxa vara — is a focal disorder of
@@ -107,7 +107,7 @@ femoral head, the abductor moment arm is shortened, and a persistent Trendelenbu
 results. Trochanteric advancement (lateral and distal transfer of the trochanter) restores
 the abductor mechanics.
 
-## 3. Acquired Coxa Vara
+## Acquired Coxa Vara
 
 Acquired coxa vara may follow a variety of conditions affecting the proximal femoral physis
 or proximal femur. The principal etiologies include:
@@ -136,7 +136,7 @@ Coxa vara in osteogenesis imperfecta: Bowing of the proximal femur from multiple
 healed fractures produces a varus appearance. Telescoping intramedullary rod fixation and
 valgus osteotomy can address the deformity.
 
-## 4. Pauwels Classification and Biomechanics
+## Pauwels Classification and Biomechanics
 
 The Pauwels biomechanical analysis of the proximal femur, developed in the 1930s and
 1950s, provides the conceptual basis for the surgical correction of coxa vara. Pauwels
@@ -149,7 +149,7 @@ wedge of bone is removed below the physis and the proximal fragment is rotated t
 the physis to a more horizontal orientation, is the historic surgical solution to coxa vara and
 remains the conceptual basis for modern valgus osteotomy techniques.
 
-## 5. Differential Diagnosis
+## Differential Diagnosis
 
 The differential diagnosis of pediatric coxa vara includes:
 Developmental dysplasia of the hip: DDH can produce a varus appearance of the
@@ -169,7 +169,7 @@ MHE.
 Tom Smith arthritis (post-infectious): The history of neonatal sepsis and the
 radiographic features of destruction distinguish this condition.
 
-## 6. Adolescent Coxa Vara
+## Adolescent Coxa Vara
 
 Coxa vara presenting in adolescence is most commonly due to acquired causes (Perthes
 sequelae, SCFE, post-traumatic) or to skeletal dysplasias. True developmental coxa vara
@@ -179,7 +179,7 @@ growth and the implications for surgical planning. Hemiepiphysiodesis of the gre
 trochanteric apophysis has been used to control progressive trochanteric overgrowth in
 selected cases.
 
-## 7. Outcomes and Long-Term Considerations
+## Outcomes and Long-Term Considerations
 
 The natural history of untreated coxa vara is one of progressive deformity, abductor
 weakness, leg-length discrepancy, and eventual development of degenerative arthritis of
@@ -193,7 +193,7 @@ abductor function. Total hip arthroplasty in adulthood is sometimes required for
 degenerative arthritis and is technically more demanding than primary THA because of the
 residual bony deformity, leg-length discrepancy, and altered hip mechanics.
 
-## 8. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Coxa vara in children and adolescents is a heterogeneous condition unified by the common
 feature of decreased femoral neck-shaft angle. Developmental coxa vara, presenting in

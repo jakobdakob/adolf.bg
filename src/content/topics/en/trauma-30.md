@@ -7,7 +7,7 @@ topicNumber: 30
 order: 130
 ---
 
-## 1. Introduction
+## Introduction
 
 Muscle and tendon injuries collectively represent a substantial portion of musculoskeletal
 practice, both in the acute trauma setting and in chronic overuse presentations. The
@@ -25,7 +25,7 @@ recovery. This chapter, drawing on Rockwood and Green’s Fractures in Adults, A
 Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s Orthopaedic Examination,
 addresses the principal muscle and tendon injuries encountered in orthopedic practice.
 
-## 2. Muscle Injuries — Strains and Contusions
+## Muscle Injuries — Strains and Contusions
 
 Classification of Muscle Strains
 Muscle strains are graded by the magnitude of the injury:
@@ -81,7 +81,7 @@ posterior compartment of leg), and after eccentric loading injuries. The same pr
 recognition and treatment apply as discussed for compartment syndrome in fracture care
 (Topic Trauma-32 for vascular injuries and compartment syndrome in detail).
 
-## 3. Achilles Tendon Rupture
+## Achilles Tendon Rupture
 
 Anatomy and Mechanism
 The Achilles tendon is the largest tendon in the body, formed by the convergence of the
@@ -156,7 +156,7 @@ flexor hallucis longus (FHL) transfer (most commonly used because of the proximi
 the FHL tendon to the Achilles and the strength of the FHL), and gastrocnemius or fascia
 lata allograft reconstruction.
 
-## 4. Patellar Tendon and Quadriceps Tendon Rupture
+## Patellar Tendon and Quadriceps Tendon Rupture
 
 Patellar Tendon Rupture
 The patellar tendon connects the inferior pole of the patella to the tibial tubercle,
@@ -198,7 +198,7 @@ transosseous sutures through the patella to reattach the quadriceps tendon. Acut
 repair within 2 to 6 weeks produces good outcomes; chronic ruptures require
 reconstruction with hamstring autograft, V-Y plasty, or allograft.
 
-## 5. Biceps Tendon Rupture
+## Biceps Tendon Rupture
 
 Distal Biceps Tendon Rupture
 The distal biceps tendon rupture is most commonly seen in middle-aged men with
@@ -233,7 +233,7 @@ and supination strength is largely maintained). The cosmetic Popeye deformity ma
 concern for some patients. Operative management (tenodesis or tenotomy) is reserved for
 symptomatic patients or those with associated rotator cuff pathology requiring surgery.
 
-## 6. Rotator Cuff Tears
+## Rotator Cuff Tears
 
 Anatomy and Classification
 The rotator cuff comprises four muscles (supraspinatus, infraspinatus, subscapularis,
@@ -293,7 +293,7 @@ are typically managed with reverse total shoulder arthroplasty (Grammont design)
 which provides reliable restoration of elevation through deltoid leverage independent of
 the rotator cuff (see Topic Trauma-13 for the reverse arthroplasty discussion).
 
-## 7. Other Important Tendon Injuries
+## Other Important Tendon Injuries
 
 Tibialis Posterior Dysfunction
 Posterior tibial tendon dysfunction (PTTD) is the most common cause of acquired adult
@@ -323,7 +323,7 @@ FHL tendinopathy (“dancer’s tendinitis”) affects ballet dancers and others
 repetitive plantar flexion. Treatment is generally non-operative with relative rest and
 graded return to activity; operative tenolysis is reserved for refractory cases.
 
-## 8. Tendinopathy and Tendinosis
+## Tendinopathy and Tendinosis
 
 The terms tendinitis (acute inflammatory pathology), tendinosis (chronic degenerative
 pathology), and tendinopathy (the broader term encompassing both) describe the
@@ -354,7 +354,7 @@ patellar tendinopathy (“jumper’s knee”), lateral epicondylitis (“tennis 
 epicondylitis (“golfer’s elbow”), de Quervain’s tenosynovitis (first dorsal extensor
 compartment), and trigger finger (A1 pulley stenosing tenosynovitis).
 
-## 9. Sports-Specific Injuries
+## Sports-Specific Injuries
 
 The groin pain in athletes, the shoulder injuries in throwing athletes (anterior internal
 impingement, SLAP lesions, partial thickness articular cuff tears in throwers), the knee
@@ -364,7 +364,7 @@ extensively addressed in the sports medicine literature. The principles of manag
 accurate diagnosis, structured rehabilitation, return-to-play criteria — extend across all
 these settings.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Muscle injuries span the spectrum from minor strain to complete rupture, with the
 myotendinous junction being the typical site of failure. Grade I and II strains respond to

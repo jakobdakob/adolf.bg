@@ -21,7 +21,7 @@ This compendium synthesizes content from the following reference works to addres
 11. Rockwood and Green’s Fractures in Adults
 12. Rothman-Simeone The Spine, 6th ed.
 
-## 13. Tachdjian’s Pediatric Orthopaedics
+## Tachdjian’s Pediatric Orthopaedics
 
 Each topic is written as flowing prose (Fliesstext) organized by subtopic — anatomy,
 pathophysiology, clinical presentation, imaging, treatment, complications — with content

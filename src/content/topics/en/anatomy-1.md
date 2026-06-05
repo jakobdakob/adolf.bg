@@ -7,7 +7,7 @@ topicNumber: 1
 order: 201
 ---
 
-## 1. Introduction
+## Introduction
 
 The spine, traversing from the base of the skull to the sacrum, presents the orthopedic
 surgeon with the most varied set of surgical approaches in the skeleton, reflecting both the
@@ -25,7 +25,7 @@ Netter’s Concise Orthopaedic Anatomy, and Gray’s Anatomy, addresses the surg
 anatomy and approaches of the spine and cervical region, with emphasis on the practical
 considerations of each approach.
 
-## 2. Vertebral Anatomy — Regional Variations
+## Vertebral Anatomy — Regional Variations
 
 The general vertebral pattern includes the vertebral body anteriorly, the vertebral arch
 posteriorly (with pedicles, lamina, transverse processes, spinous process, and articular
@@ -56,7 +56,7 @@ Sacrum (S1-S5): Fused vertebrae forming the posterior pelvic ring; the ala (late
 sacral foramina (anterior and posterior), and sacral hiatus are key landmarks; the
 medial sacral crest is the fusion of the spinous processes.
 
-## 3. Anterior Cervical Approach (Smith-Robinson Approach)
+## Anterior Cervical Approach (Smith-Robinson Approach)
 
 The anterior cervical approach — developed by Smith and Robinson (1958) and refined
 by Cloward and others — is the workhorse approach to the anterior cervical spine for
@@ -119,7 +119,7 @@ common in the postoperative period, generally transient), and adjacent segment
 degeneration (the long-term concern related to the biomechanical changes of
 arthrodesis).
 
-## 4. Posterior Cervical Approach
+## Posterior Cervical Approach
 
 The posterior cervical approach provides access to the posterior elements of the cervical
 spine for laminectomy, laminoplasty, posterior cervical fusion, foraminotomy, and
@@ -177,7 +177,7 @@ of patients and typically transient), dural tear with CSF leak, infection (1 to 
 and postlaminectomy kyphosis (delayed development of kyphotic deformity after
 laminectomy without fusion).
 
-## 5. Anterior Approaches to the Cervicothoracic Junction
+## Anterior Approaches to the Cervicothoracic Junction
 
 The cervicothoracic junction (C7-T2) is a challenging region for surgical access because
 of the transition from the cervical to thoracic anatomy and the presence of the thoracic
@@ -198,7 +198,7 @@ The trans-clavicular approach (with mobilization or resection of a portion of th
 provides extended lateral access to the cervicothoracic junction; it is used less commonly
 than the manubriotomy approach.
 
-## 6. Anterior Thoracic Approaches
+## Anterior Thoracic Approaches
 
 The anterior thoracic spine is accessed primarily for vertebral body pathology
 (fractures with anterior column involvement, tumors, infection, severe deformity).
@@ -235,7 +235,7 @@ time. Applications include anterior release for scoliosis, disc removal, and sel
 vertebrectomies; the technique is less commonly used than open thoracotomy because of
 its technical demands and limited reach for fusion procedures.
 
-## 7. Anterior Lumbar Approaches
+## Anterior Lumbar Approaches
 
 The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF),
 corpectomy, tumor or infection, and motion preservation procedures (artificial disc).
@@ -288,7 +288,7 @@ ejaculation (in 1 to 5 percent of males, from injury to the superior hypogastric
 ileus, incisional hernia, and adjacent segment degeneration (the long-term concern
 related to fusion biomechanics).
 
-## 8. Posterior Lumbar Approach
+## Posterior Lumbar Approach
 
 The posterior lumbar approach is the workhorse approach for lumbar discectomy,
 laminectomy, lumbar fusion (PLIF, TLIF, posterolateral fusion), pedicle screw
@@ -350,7 +350,7 @@ The complications of posterior lumbar approaches include dural tear with CSF lea
 fusion), adjacent segment degeneration, and iatrogenic instability with progressive
 deformity after extensive decompression without fusion.
 
-## 9. Pediatric Spinal Considerations
+## Pediatric Spinal Considerations
 
 The pediatric spine introduces specific approach considerations:
 Smaller anatomy: The smaller anatomical scale demands precise technique and
@@ -370,7 +370,7 @@ requiring anterior release, very young patients requiring extensive growth modul
 Vertebra plana: In children, eosinophilic granuloma (Langerhans cell histiocytosis)
 produces the classical vertebra plana deformity that usually heals with observation.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The spine offers the orthopedic surgeon the most varied set of surgical approaches in the
 skeleton. Anterior cervical approach (Smith-Robinson) accesses C3-T1 through a

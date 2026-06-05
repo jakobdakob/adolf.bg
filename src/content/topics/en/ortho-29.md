@@ -7,7 +7,7 @@ topicNumber: 29
 order: 29
 ---
 
-## 1. Introduction
+## Introduction
 
 Dupuytren’s contracture (Dupuytren’s disease) is a progressive fibroproliferative disorder
 of the palmar fascia, characterized by the formation of nodules and cords that produce
@@ -20,7 +20,7 @@ proximal interphalangeal (PIP) joints with associated functional disability. The
 synthesizes content from Apley & Solomon’s, Miller’s Review, and the hand-surgery
 sections of the surgical-approach text.
 
-## 2. Epidemiology and Genetics
+## Epidemiology and Genetics
 
 Dupuytren’s contracture is predominantly a disease of patients of Northern European
 ancestry, with the highest prevalence in Scandinavian, Celtic, and British populations (the
@@ -44,7 +44,7 @@ Ledderhose disease, Peyronie’s disease of the penis), and onset before the age
 Patients with the Dupuytren diathesis are more likely to have aggressive disease, bilateral
 involvement, and recurrence after surgery.
 
-## 3. Pathology
+## Pathology
 
 The histopathology of Dupuytren’s disease passes through three stages described by Luck:
 proliferative (high cellularity with proliferating fibroblasts), involutional (alignment of
@@ -64,7 +64,7 @@ since aggressive surgical dissection may injure the displaced nerve and artery);
 cord; the natatory cord (involving the web spaces); and several others. The recognition of
 the cord patterns is critical for surgical planning and avoidance of neurovascular injury.
 
-## 4. Clinical Features
+## Clinical Features
 
 The classical presentation is of a slowly developing nodule in the palm, typically at the level
 of the distal palmar crease and most commonly in the ring or little finger ray. The nodule is
@@ -88,7 +88,7 @@ The classical clinical presentation has been classified into stages by various a
 Tubiana’s classification grades from Stage N (palpable nodule without contracture)
 through Stage 4 (greater than 135° total contracture).
 
-## 5. Treatment
+## Treatment
 
 The treatment of Dupuytren’s contracture is principally surgical or interventional rather
 than medical, as no medical therapy reliably prevents progression. The decision for
@@ -168,7 +168,7 @@ PIP joint arthrodesis (in fixed severe PIP contracture not amenable to other tre
 amputation of the affected digit (rarely required, generally for severe little finger or ring
 finger contracture with neurovascular compromise); and various combined procedures.
 
-## 6. Special Considerations
+## Special Considerations
 
 Recurrence
 Recurrence of disease — typically defined as new cord formation or worsening of
@@ -193,7 +193,7 @@ Knuckle pads (Garrod’s pads) are subcutaneous nodules over the dorsal aspect o
 joints, associated with the Dupuytren diathesis. They are typically asymptomatic and
 require no treatment.
 
-## 7. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Dupuytren’s contracture is a progressive fibroproliferative disorder of the palmar fascia,
 predominantly affecting men of Northern European descent in middle to old age, producing

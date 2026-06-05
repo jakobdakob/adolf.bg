@@ -7,7 +7,7 @@ topicNumber: 16
 order: 116
 ---
 
-## 1. Introduction
+## Introduction
 
 The forearm is unique in the orthopedic skeleton in that it is functionally not a single bone
 but a kinetic chain — two bones (radius and ulna) connected at both ends by joints
@@ -26,7 +26,7 @@ disability that follows their inadequate treatment. This chapter draws on Rockwo
 Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and
 Miller’s Review of Orthopaedics.
 
-## 2. Surgical Anatomy and Functional Considerations
+## Surgical Anatomy and Functional Considerations
 
 The radius describes a characteristic lateral bow (“radial bow”), with its maximum
 prominence at the junction of the proximal and middle thirds; the magnitude and location
@@ -60,7 +60,7 @@ vulnerable during exposures of the proximal radius and during reduction maneuver
 proximal forearm fractures. The anterior interosseous nerve (AIN) runs anterior to the
 interosseous membrane and supplies the deep volar compartment muscles.
 
-## 3. Both-Bone Forearm Shaft Fractures
+## Both-Bone Forearm Shaft Fractures
 
 The AO/OTA classification (region 22) structures both-bone forearm fractures by the
 morphology of each component bone. Type A is simple (A1 ulna only fractured with radius
@@ -99,7 +99,7 @@ The reported outcomes of plate fixation of adult both-bone forearm fractures are
 excellent, with union rates above 95 percent and functional rotation outcomes correlated
 with restoration of the radial bow and the interosseous space.
 
-## 4. Isolated Ulnar and Radial Shaft Fractures
+## Isolated Ulnar and Radial Shaft Fractures
 
 Isolated Ulnar Shaft Fractures (“Nightstick” Fracture)
 The isolated ulnar shaft fracture, classically associated with a defensive injury where the
@@ -123,7 +123,7 @@ unrecognized Galeazzi injury (see below) with subtle DRUJ disruption. Definitive
 of true isolated radial fractures follows the same plate fixation principles as both-bone
 forearm fractures, with restoration of radial length, rotation, and bow.
 
-## 5. The Monteggia Fracture-Dislocation
+## The Monteggia Fracture-Dislocation
 
 The Monteggia injury — fracture of the ulna with dislocation of the radial head — was
 described by Giovanni Battista Monteggia of Milan in 1814. The pathophysiology is the
@@ -169,7 +169,7 @@ alignment, and (in chronic cases with degenerative changes) radial head excision
 arthroplasty. The longer the delay between injury and reconstruction, the worse the
 outcome — emphasis on initial recognition is critical.
 
-## 6. The Galeazzi Fracture-Dislocation
+## The Galeazzi Fracture-Dislocation
 
 The Galeazzi injury — fracture of the radial shaft with dislocation of the distal radioulnar
 joint — was described by Riccardo Galeazzi of Milan in 1934, although the injury was
@@ -200,7 +200,7 @@ The Galeazzi-equivalent injuries include distal radial physeal fractures in chil
 associated DRUJ disruption (treated by reduction of the physis with assessment of DRUJ)
 and isolated dorsal or volar dislocations of the DRUJ with associated radial deformity.
 
-## 7. Special Patterns
+## Special Patterns
 
 Plastic Deformation
 In the pediatric forearm, plastic deformation of one or both bones — a bowing deformity
@@ -239,7 +239,7 @@ approach (Henry-extended) with carpal tunnel release, and a dorsal incision when
 The historical exemplar of the consequences of untreated forearm compartment syndrome
 — Volkmann’s ischemic contracture — was discussed in detail in Topic Trauma-8.
 
-## 8. Pediatric Forearm Fractures — A Brief Note
+## Pediatric Forearm Fractures — A Brief Note
 
 Pediatric forearm fractures form a substantial category in their own right and are
 particularly common in childhood, with the distal forearm being the single most common
@@ -263,7 +263,7 @@ pediatric forearm fractures. The cast is typically a long arm cast for 3 to 4 we
 by a short arm cast for an additional 2 to 3 weeks, with the elbow in flexion and the
 forearm in a rotation appropriate to the fracture pattern.
 
-## 9. Complications
+## Complications
 
 Specific complications of adult forearm fracture management include nonunion (1 to 5
 percent with plate fixation, generally amenable to plate revision with bone graft),
@@ -277,7 +277,7 @@ with radiation prophylaxis), infection (1 to 3 percent), iatrogenic nerve injury
 (particularly PIN with proximal radial exposures), and chronic DRUJ instability or
 arthrosis (the long-term consequence of inadequately treated Galeazzi injury).
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The forearm functions as a kinetic chain rather than as two independent bones, and the
 central principle of forearm fracture management is the restoration of the anatomical

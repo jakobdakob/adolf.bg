@@ -7,7 +7,7 @@ topicNumber: 6
 order: 206
 ---
 
-## 1. Introduction
+## Introduction
 
 The hand is the most anatomically intricate region of the orthopedic skeleton, with 27
 bones, more than 30 joints, intricate ligamentous and tendinous structures, multiple
@@ -23,7 +23,7 @@ contractures across flexion creases) being as important as the principles of ten
 nerve management. This chapter draws on Orthopaedic Surgical Approaches, Netter’s
 Concise Orthopaedic Anatomy, Gray’s Anatomy, and Dutton’s Orthopaedic Examination.
 
-## 2. Bony and Articular Anatomy
+## Bony and Articular Anatomy
 
 The hand skeleton comprises:
 8 carpal bones in two rows (proximal: scaphoid, lunate, triquetrum, pisiform; distal:
@@ -51,7 +51,7 @@ safe immobilization position — see below). The IP collateral ligaments are tau
 the range, with both proper collateral ligaments (between adjacent bones) and accessory
 collateral ligaments (between the proximal bone and the volar plate).
 
-## 3. Skin and Subcutaneous Tissue
+## Skin and Subcutaneous Tissue
 
 The palmar skin is glabrous (hairless), thick, and tightly bound to the underlying palmar
 fascia by skin ligaments. The dorsal skin is thinner, more mobile, with less subcutaneous
@@ -67,7 +67,7 @@ Distal interphalangeal crease: Overlies the DIP joint.
 Proximal interphalangeal crease: Overlies the PIP joint.
 Wrist crease: Overlies the radiocarpal joint.
 
-## 4. Palmar Fascia and Compartments
+## Palmar Fascia and Compartments
 
 The palmar aponeurosis is a triangular fibrous structure with the apex at the wrist
 (continuous with the palmaris longus tendon when present) and the base distally toward
@@ -91,7 +91,7 @@ four FDS, four FDP).
 Compartment syndrome of the hand requires recognition of these multiple compartments
 and decompression through specific incisions.
 
-## 5. Tendinous Anatomy
+## Tendinous Anatomy
 
 Flexor Tendons
 The flexor tendons pass through the carpal tunnel and into the digits through the flexor
@@ -142,7 +142,7 @@ Zone VI: Dorsum of the hand.
 Zone VII: Wrist (extensor retinaculum).
 Zone VIII: Distal forearm.
 
-## 6. Intrinsic Hand Muscles
+## Intrinsic Hand Muscles
 
 Thenar Muscles
 Abductor pollicis brevis (APB): Abducts the thumb. Innervated by the median nerve.
@@ -170,7 +170,7 @@ The dorsal interossei (4 muscles) abduct the fingers from the midline of the han
 palmar interossei (3 muscles) adduct the fingers toward the midline. All interossei are
 innervated by the ulnar nerve. Loss produces clawing and intrinsic minus posture.
 
-## 7. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 Digital Nerves and Arteries
 The digital nerves and arteries run along the lateral and medial aspects of each digit, with
@@ -194,7 +194,7 @@ exsanguinating the hand by clenching, then releasing one artery and observing th
 refill. The test is performed before radial artery harvest or before procedures that may
 compromise one of the arteries.
 
-## 8. Principles of Hand Incisions
+## Principles of Hand Incisions
 
 The principles of hand incision design are essential to good outcomes:
 Avoid crossing flexion creases at right angles: This produces scar contracture across the
@@ -214,7 +214,7 @@ Wrist incisions: The transverse wrist crease is generally avoided as a longitudi
 site; the incision should either curve around the wrist or be placed proximal or distal to the
 crease.
 
-## 9. Z-Plasty
+## Z-Plasty
 
 The Z-plasty is a fundamental hand surgery technique used to lengthen contracted scars
 across flexion creases or contractures. The principle is to transpose two triangular flaps
@@ -244,7 +244,7 @@ Web space deepening: For first web space contractures.
 Modifications: Multiple Z-plasties (in series along a longer contracture), planimetric Z-
 plasty, and Y-V advancements are variations used for specific situations.
 
-## 10. Surgical Approaches to Specific Hand Pathologies
+## Surgical Approaches to Specific Hand Pathologies
 
 Carpal Tunnel Release
 The carpal tunnel release is the most commonly performed hand procedure. The

@@ -7,7 +7,7 @@ topicNumber: 27
 order: 27
 ---
 
-## 1. Introduction
+## Introduction
 
 Peripheral nerve compression syndromes — entrapment neuropathies — are common
 conditions in which a peripheral nerve is compressed at a specific anatomical site,
@@ -27,7 +27,7 @@ canal, thoracic outlet syndrome), the lower-limb compression syndromes (tarsal t
 common and superficial peroneal nerve compression, meralgia paresthetica, piriformis
 syndrome), and the principles of evaluation and management.
 
-## 2. General Principles
+## General Principles
 
 The pathophysiology of nerve compression follows a stereotyped sequence. Initially,
 increased pressure on the nerve impairs venous outflow, producing intraneural edema and
@@ -54,7 +54,7 @@ conduction velocity and prolonged latency at the compression site, with denervat
 potentials in the innervated muscles in advanced disease). Imaging (ultrasound, MRI) is
 increasingly used in selected cases.
 
-## 3. Carpal Tunnel Syndrome
+## Carpal Tunnel Syndrome
 
 Anatomy and Etiology
 Carpal tunnel syndrome (CTS) is compression of the median nerve at the wrist beneath the
@@ -115,7 +115,7 @@ Outcomes are generally excellent with either technique, with substantial symptom
 are advanced disease with established axonal damage (thenar atrophy at presentation) and
 the presence of confounding conditions (cervical radiculopathy, systemic neuropathy).
 
-## 4. Cubital Tunnel Syndrome
+## Cubital Tunnel Syndrome
 
 Cubital tunnel syndrome is compression of the ulnar nerve at the elbow, specifically
 beneath the cubital tunnel retinaculum (the arcuate ligament of Osborne) connecting the
@@ -149,7 +149,7 @@ Outcomes vary substantially with severity at presentation, with mild disease hav
 excellent outcomes and advanced disease with established motor deficit having less
 reliable improvement.
 
-## 5. Radial Nerve and Its Branches
+## Radial Nerve and Its Branches
 
 Radial Tunnel Syndrome and Posterior Interosseous Nerve Syndrome
 The radial nerve at the elbow gives rise to the posterior interosseous nerve (PIN, deep
@@ -176,7 +176,7 @@ beneath the brachioradialis, producing dorsoradial wrist pain and dysesthesia. T
 is conservative with avoidance of tight wristwatches and bracelets; surgical release for
 refractory disease.
 
-## 6. Median Nerve Compression in the Forearm
+## Median Nerve Compression in the Forearm
 
 Anterior interosseous nerve syndrome (Kiloh-Nevin syndrome): Compression of the
 AIN — a pure motor branch of the median nerve — at the level of the FDS arcade or by
@@ -193,7 +193,7 @@ from carpal tunnel syndrome is by the location of forearm symptoms, the negative
 test (which would be positive in CTS), and electrodiagnostic studies. Treatment is initially
 conservative; surgical release for refractory disease.
 
-## 7. Guyon’s Canal Syndrome
+## Guyon’s Canal Syndrome
 
 Guyon’s canal syndrome is compression of the ulnar nerve at the wrist in Guyon’s canal —
 the space between the pisiform medially, the hook of hamate laterally, the volar carpal
@@ -209,7 +209,7 @@ Treatment is conservative when a clear precipitant can be addressed; surgical
 decompression of Guyon’s canal with addressing of any associated mass lesion is indicated
 for established or refractory disease.
 
-## 8. Thoracic Outlet Syndrome
+## Thoracic Outlet Syndrome
 
 Thoracic outlet syndrome — covered in the chapter on cervical ribs — is the constellation
 of neurological, vascular, or combined symptoms produced by compression of the brachial
@@ -225,7 +225,7 @@ summarized briefly here for completeness:
     decompression (first rib resection, cervical rib resection, scalenectomy) is reserved for
     refractory cases or for vascular TOS.
 
-## 9. Lower-Limb Nerve Compression Syndromes
+## Lower-Limb Nerve Compression Syndromes
 
 Tarsal Tunnel Syndrome
 Tarsal tunnel syndrome is compression of the posterior tibial nerve (or its branches —
@@ -275,7 +275,7 @@ Treatment is principally conservative with physiotherapy stretches, NSAIDs, and
 corticosteroid injection. Surgical release of the piriformis is performed in selected
 refractory cases.
 
-## 10. Compression in Specific Settings
+## Compression in Specific Settings
 
 Compression by Casts and Splints
 Casts and splints can compress superficial nerves, with the lateral femoral cutaneous nerve,
@@ -290,7 +290,7 @@ Compartment Syndrome
 Compartment syndrome — increased pressure within a fascial compartment with
 secondary nerve compression — is discussed in the chapter on compartment syndrome.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The peripheral nerve compression syndromes constitute a major component of orthopedic
 and hand surgery practice. The fundamental principles include: knowledge of the

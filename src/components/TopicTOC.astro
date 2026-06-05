@@ -1,0 +1,86 @@
+---
+import { type Lang } from "../i18n/ui";
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  lang: Lang;
+  headings: Heading[];
+}
+const { lang, headings } = Astro.props;
+
+// Only top-level H2 entries (subsection headings) for the right-side TOC.
+const h2s = headings.filter((h) => h.depth === 2);
+
+const label = lang === "bg" ? "В тази тема" : "On this page";
+---
+{h2s.length > 0 && (
+  <aside class="topic-toc">
+    <div class="topic-toc-label">{label}</div>
+    <ul class="topic-toc-list">
+      {h2s.map((h) => (
+        <li>
+          <a href={`#${h.slug}`} data-toc-slug={h.slug} class="topic-toc-link">
+            {h.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}
+
+<script is:inline>
+  (function () {
+    function wire() {
+      const links = Array.from(document.querySelectorAll(".topic-toc [data-toc-slug]"));
+      if (!links.length) return;
+      const targets = [];
+      const linkBySlug = {};
+      for (const a of links) {
+        const slug = a.getAttribute("data-toc-slug");
+        const el = document.getElementById(slug);
+        if (el) {
+          targets.push(el);
+          linkBySlug[slug] = a;
+        }
+        a.classList.remove("is-current");
+      }
+      if (!targets.length) return;
+
+      function setActive(slug) {
+        for (const a of links) a.classList.remove("is-current");
+        if (slug && linkBySlug[slug]) linkBySlug[slug].classList.add("is-current");
+      }
+
+      // Track which H2s are above the "trigger line" (top 90px of viewport
+      // accounting for sticky header). The current one is the lowest H2 still
+      // above that line.
+      const TOP_OFFSET = 96;
+      function update() {
+        let currentSlug = targets[0].id;
+        for (const t of targets) {
+          if (t.getBoundingClientRect().top <= TOP_OFFSET) {
+            currentSlug = t.id;
+          } else {
+            break;
+          }
+        }
+        setActive(currentSlug);
+      }
+
+      update();
+      let ticking = false;
+      window.addEventListener("scroll", function () {
+        if (ticking) return;
+        ticking = true;
+        requestAnimationFrame(function () { update(); ticking = false; });
+      }, { passive: true });
+    }
+    wire();
+    document.addEventListener("astro:after-swap", wire);
+  })();
+</script>

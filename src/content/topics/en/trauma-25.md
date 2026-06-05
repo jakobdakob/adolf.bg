@@ -7,7 +7,7 @@ topicNumber: 25
 order: 125
 ---
 
-## 1. Introduction
+## Introduction
 
 The patella and the proximal tibial articular surfaces are the two principal components of
 the bony skeleton at the knee, and their fractures share several thematic concerns despite
@@ -26,7 +26,7 @@ inadequate reduction of the metaphyseal component. This chapter draws on Rockwoo
 and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s,
 and Miller’s Review of Orthopaedics.
 
-## 2. Patella Anatomy and Biomechanics
+## Patella Anatomy and Biomechanics
 
 The patella is the largest sesamoid bone in the body, formed in the substance of the
 quadriceps tendon and serving to increase the moment arm of the extensor mechanism by
@@ -48,7 +48,7 @@ entering from the patellar tendon. This pattern produces a relative watershed in
 body of the patella that contributes to nonunion and avascular necrosis risk in transverse
 fractures, particularly with separation of the fragments.
 
-## 3. Patella Fractures — Classification and Mechanism
+## Patella Fractures — Classification and Mechanism
 
 Patella fractures account for approximately 1 percent of all skeletal injuries. The
 mechanism is typically a direct blow to the patella (fall on the knee, dashboard injury) or
@@ -75,7 +75,7 @@ typically at the superolateral aspect — must not be confused with fracture. Bi
 has smooth corticated edges, is typically bilateral (60 percent), and is asymptomatic in
 most cases.
 
-## 4. Clinical Assessment and Imaging of Patella Fractures
+## Clinical Assessment and Imaging of Patella Fractures
 
 The clinical features include pain over the patella, tense effusion with palpable defect at the
 fracture site, ecchymosis, and the central functional question of active knee extension
@@ -91,7 +91,7 @@ comminuted patterns being considered for operative reconstruction. MRI is occasi
 useful for suspected pure cartilaginous injury or for the bipartite patella with suspicion of
 acute injury.
 
-## 5. Treatment of Patella Fractures
+## Treatment of Patella Fractures
 
 Non-Operative Management
 Non-operative management is appropriate for non-displaced or minimally displaced
@@ -144,7 +144,7 @@ fracture pattern or fixation construct demands it; for tension-band fixation, im
 motion is generally permitted, with cylinder cast or hinged knee brace used during
 ambulation.
 
-## 6. Proximal Tibia (Tibial Plateau) Anatomy
+## Proximal Tibia (Tibial Plateau) Anatomy
 
 The proximal tibia comprises the medial and lateral tibial plateaus (separated by the
 intercondylar eminence with the cruciate ligament insertions), the tibial tubercle (the
@@ -173,7 +173,7 @@ VI with significant displacement.
 The common peroneal nerve courses around the neck of the fibula and is at risk in lateral
 approaches to the tibial plateau.
 
-## 7. Tibial Plateau Fractures — Schatzker Classification
+## Tibial Plateau Fractures — Schatzker Classification
 
 The Schatzker classification (Joseph Schatzker, 1979) is the standard system for tibial
 plateau fractures:
@@ -199,7 +199,7 @@ severe pattern, with the highest rates of associated injury.
 The AO/OTA classification (region 41) parallels the Schatzker with type A extra-
 articular, type B partial articular, and type C complete articular patterns.
 
-## 8. Clinical Assessment and Imaging of Tibial Plateau Fractures
+## Clinical Assessment and Imaging of Tibial Plateau Fractures
 
 The clinical features include pain, swelling, effusion, and inability to bear weight, with the
 mechanism typically motor vehicle accident or fall from height (high-energy) or low-
@@ -230,7 +230,7 @@ meniscal injuries; the dual modality CT plus MRI is often used in preoperative p
 angiography is added for suspected vascular injury, particularly in high-energy Schatzker
 IV through VI patterns.
 
-## 9. Treatment of Tibial Plateau Fractures
+## Treatment of Tibial Plateau Fractures
 
 Non-Operative Management
 Non-operative management is appropriate for non-displaced or minimally displaced
@@ -291,7 +291,7 @@ fixation is appropriate. The fixator is applied across the knee from femur to ti
 providing immediate stabilization and protection of the soft-tissue envelope; definitive
 internal fixation is delayed until the soft tissues permit (typically 7 to 21 days).
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The patella fracture is fundamentally about extensor mechanism integrity — the central
 management question is whether the patient can actively extend the knee against gravity,

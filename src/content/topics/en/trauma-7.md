@@ -7,7 +7,7 @@ topicNumber: 7
 order: 107
 ---
 
-## 1. Introduction
+## Introduction
 
 Among the systemic complications that follow orthopedic injury and surgery, venous
 thromboembolism (VTE) and fat embolism syndrome (FES) remain the two with the
@@ -27,7 +27,7 @@ management of both conditions, drawing principally on Rockwood and Green’s Fra
 in Adults, the AO Principles of Fracture Management, Miller’s Review of Orthopaedics, and
 Apley & Solomon’s System of Orthopaedics and Trauma.
 
-## 2. Venous Thromboembolism — Epidemiology and Pathophysiology
+## Venous Thromboembolism — Epidemiology and Pathophysiology
 
 The incidence of asymptomatic DVT after major orthopedic surgery, in the absence of
 prophylaxis, is remarkably high — historical venographic studies demonstrated rates of
@@ -61,7 +61,7 @@ replacement therapy, pregnancy, inherited thrombophilias (factor V Leiden, proth
 G20210A, protein C/S deficiency, antithrombin deficiency), and the antiphospholipid
 syndrome.
 
-## 3. Risk Stratification
+## Risk Stratification
 
 Two scoring systems are most commonly used to stratify VTE risk in the surgical patient.
 The Caprini score, developed by Joseph Caprini in the late 1980s and refined over
@@ -87,7 +87,7 @@ heart rate over 100 (1.5), immobilization or surgery within four weeks (1.5), pr
 DVT/PE (1.5), hemoptysis (one), and malignancy (one); scores above 4 are “PE likely” and
 warrant CT pulmonary angiography without preceding D-dimer.
 
-## 4. Clinical Features of DVT and Pulmonary Embolism
+## Clinical Features of DVT and Pulmonary Embolism
 
 The clinical recognition of DVT in the orthopedic patient is notoriously unreliable. The
 classical signs — calf pain, tenderness along the venous system, unilateral leg swelling,
@@ -107,7 +107,7 @@ quoted but uncommon S1Q3T3 pattern, lack diagnostic specificity. The orthopedic
 surgeon should maintain a low threshold for investigation in any postoperative patient
 with unexplained tachycardia, hypoxemia, or dyspnea.
 
-## 5. Diagnosis
+## Diagnosis
 
 For suspected DVT, duplex ultrasonography is the first-line imaging modality, with
 sensitivity above 95 percent for proximal (femoropopliteal) DVT but lower (approximately
@@ -126,7 +126,7 @@ hemodynamically unstable patient who cannot be transported safely. The clinical 
 pathway combines pretest probability assessment (Wells score), D-dimer in selected
 patients, and imaging.
 
-## 6. Mechanical Prophylaxis
+## Mechanical Prophylaxis
 
 Mechanical prophylaxis works by reducing venous stasis and, to a limited extent, by
 upregulating endogenous fibrinolysis. Graduated compression stockings (GCS) provide
@@ -143,7 +143,7 @@ mechanical and pharmacological strategies. Foot pumps (impulse plantar venous
 compression devices) target the plantar venous plexus and provide an alternative when
 calf compression is impractical, although evidence of efficacy is less robust.
 
-## 7. Pharmacological Prophylaxis
+## Pharmacological Prophylaxis
 
 The choice of pharmacological agent has been the subject of extensive trial work and
 remains an area where the AAOS and ACCP guidelines diverge in emphasis. The principal
@@ -196,7 +196,7 @@ generally not recommended. For polytrauma and spinal cord injury, prophylaxis co
 until the patient is mobile, with consideration of indefinite continuation in patients with
 permanent spinal cord injury.
 
-## 8. Inferior Vena Cava (IVC) Filters
+## Inferior Vena Cava (IVC) Filters
 
 IVC filters interrupt the path from lower extremity DVT to the pulmonary circulation. Their
 use in orthopedic surgery is restricted to the patient with documented proximal DVT or PE
@@ -211,7 +211,7 @@ complications including caval thrombosis, filter migration, and strut fracture, 
 recent FDA safety communication advocating for prompt removal whenever clinically
 feasible.
 
-## 9. Treatment of Established DVT and PE
+## Treatment of Established DVT and PE
 
 Established DVT is treated with therapeutic anticoagulation for a minimum of three
 months. The traditional regimen — initial low-molecular-weight heparin or unfractionated
@@ -233,7 +233,7 @@ or, in centers with the capacity, surgical or catheter-based embolectomy. Cathet
 thrombolysis using ultrasound-assisted devices delivers lower thrombolytic doses with
 reduced bleeding complications and has gained traction for intermediate-risk PE.
 
-## 10. Fat Embolism Syndrome — Pathophysiology
+## Fat Embolism Syndrome — Pathophysiology
 
 Fat embolism syndrome is a clinical syndrome of pulmonary, neurological, and cutaneous
 manifestations occurring most characteristically 24 to 72 hours after long-bone fracture
@@ -258,7 +258,7 @@ endothelium. The clinical features of FES, particularly the delayed onset and th
 inflammatory pulmonary picture, are best explained by the combined model — mechanical
 embolization providing the substrate for delayed biochemical injury.
 
-## 11. Clinical Features and the Gurd & Wilson Criteria
+## Clinical Features and the Gurd & Wilson Criteria
 
 The classical presentation of FES involves the triad of pulmonary, neurological, and
 cutaneous (petechial) findings, typically appearing 24 to 72 hours after injury. The
@@ -281,7 +281,7 @@ assigning weighted points to petechiae (5), chest radiograph changes (4), hypoxe
 fever, tachycardia, tachypnea, and confusion (each 1), with a score over 5 considered
 diagnostic.
 
-## 12. Imaging and Laboratory Findings
+## Imaging and Laboratory Findings
 
 The chest radiograph in FES classically shows bilateral, patchy, fluffy, ill-defined infiltrates
 (“snowstorm” appearance), although the findings may lag the clinical picture by 12 to 24
@@ -293,7 +293,7 @@ distributed in a watershed pattern. Laboratory findings include thrombocytopenia
 elevated lipase and triglycerides. Fat globules can be demonstrated in sputum and urine,
 although these findings lack sensitivity and specificity.
 
-## 13. Prevention and Treatment
+## Prevention and Treatment
 
 The treatment of established FES is largely supportive — adequate oxygenation (which
 may require mechanical ventilation with positive end-expiratory pressure), hemodynamic
@@ -319,7 +319,7 @@ incorporate this risk. The classical concern about femoral nailing precipitating
 unstable polytrauma patient — articulated by Pape and colleagues in the late 1990s —
 remains a principal driver of the staged approach in the unstable patient.
 
-## 14. Special Considerations
+## Special Considerations
 
 Several specific orthopedic scenarios deserve mention. Pelvic and acetabular fractures
 carry the highest VTE risk of any orthopedic injury, with combined DVT and PE rates
@@ -344,7 +344,7 @@ surgery; routine prophylaxis is not recommended in pre-adolescent children. Adol
 undergoing major orthopedic procedures, particularly spinal deformity surgery, approach
 adult risk profiles and merit consideration of Caprini-based stratification.
 
-## 15. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Venous thromboembolism remains the most preventable cause of in-hospital mortality
 after major orthopedic surgery and trauma, and a uniform prophylactic strategy —

@@ -7,7 +7,7 @@ topicNumber: 6
 order: 6
 ---
 
-## 1. Introduction
+## Introduction
 
 The congenital deficiencies of the lower limb constitute one of the most complex areas of
 pediatric orthopedics. They range from minor isolated reductions of a single segment to
@@ -25,7 +25,7 @@ hemimelia), and Crawford and Boyd (congenital pseudarthrosis of the tibia), as e
 in Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, Miller’s Review, and Netter’s
 Concise Orthopaedic Anatomy.
 
-## 2. Proximal Focal Femoral Deficiency (PFFD, Congenital Femoral Deficiency)
+## Proximal Focal Femoral Deficiency (PFFD, Congenital Femoral Deficiency)
 
 Definition and Epidemiology
 Proximal focal femoral deficiency, also called congenital femoral deficiency, is a sporadic
@@ -126,7 +126,7 @@ clothing. The lengthening protocols for Class A and B disease produce equivalent
 outcomes when successful, but at the cost of multiple operations, prolonged frame wear,
 and significant complication rates.
 
-## 3. Fibular Hemimelia (Postaxial Longitudinal Deficiency of the Fibula)
+## Fibular Hemimelia (Postaxial Longitudinal Deficiency of the Fibula)
 
 Definition and Epidemiology
 Fibular hemimelia is the commonest long-bone deficiency in children, with an incidence of
@@ -180,7 +180,7 @@ conjunction with the family, with attention to the practical demands of multiple
 lengthening operations over years and the contrast between excellent prosthetic function
 and the unpredictability of complex limb reconstruction.
 
-## 4. Tibial Hemimelia (Preaxial Longitudinal Deficiency of the Tibia)
+## Tibial Hemimelia (Preaxial Longitudinal Deficiency of the Tibia)
 
 Definition and Epidemiology
 Tibial hemimelia, the partial or complete absence of the tibia with a preserved fibula, is
@@ -215,7 +215,7 @@ functional ankle prosthesis is often preferred. For Type IV disease, ankle recon
 with re-establishment of the distal tibiofibular relationship and foot stabilization is the
 treatment.
 
-## 5. Congenital Pseudarthrosis of the Tibia
+## Congenital Pseudarthrosis of the Tibia
 
 Definition, Epidemiology, and Classification
 Congenital pseudarthrosis of the tibia (CPT) is a rare congenital condition characterized by
@@ -264,7 +264,7 @@ is an option for refractory cases. Despite all of these techniques, refracture i
 multiple operations are usually required, and amputation remains a legitimate option for
 patients with extensive failure and disability.
 
-## 6. Other Congenital Anomalies of the Lower Leg
+## Other Congenital Anomalies of the Lower Leg
 
 Posteromedial Bowing of the Tibia
 Posteromedial bowing of the tibia is a congenital deformity of the tibial diaphysis with the
@@ -295,7 +295,7 @@ associated with dextrocardia), produces a painless or mildly painful prominence 
 mid-clavicle in infancy or early childhood, and is treated by resection of the pseudarthrosis
 with bone graft and internal fixation when symptomatic; many cases require no treatment.
 
-## 7. General Principles of Management
+## General Principles of Management
 
 The management of congenital limb deficiencies follows several unifying principles. First,
 the assessment must be comprehensive: the entire affected limb, the contralateral limb, the
@@ -315,7 +315,7 @@ early amputation in the first year of life allows prosthetic adaptation through 
 while lengthening protocols are typically initiated in early childhood and continued
 through adolescence.
 
-## 8. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The congenital deficiencies of the lower limb form a spectrum of conditions whose
 management is among the most challenging and rewarding in pediatric orthopedics.

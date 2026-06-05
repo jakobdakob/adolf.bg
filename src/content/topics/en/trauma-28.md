@@ -7,7 +7,7 @@ topicNumber: 28
 order: 128
 ---
 
-## 1. Introduction
+## Introduction
 
 The ankle fracture is one of the most common adult fractures, accounting for
 approximately 9 percent of all fractures and having an annual incidence of approximately
@@ -26,7 +26,7 @@ persistent symptoms that follow inadequate treatment of “simple” sprains. Th
 draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture
 Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
-## 2. Ankle Anatomy
+## Ankle Anatomy
 
 The ankle (talocrural) joint is a true hinge joint between the tibial plafond (the inferior
 weight-bearing articular surface of the tibia), the medial malleolus (the medial wall), the
@@ -59,7 +59,7 @@ most commonly injured ankle ligament in lateral sprain — the calcaneofibular l
 (CFL), and the posterior talofibular ligament (PTFL). The ATFL is the primary restraint
 to anterior translation of the talus in plantar flexion and to inversion.
 
-## 3. Ankle Fracture Classification
+## Ankle Fracture Classification
 
 Weber (AO) Classification
 The Weber classification (1972) is based on the level of the fibular fracture relative to the
@@ -111,7 +111,7 @@ variable, Weber C operative with syndesmotic attention). The Lauge-Hansen
 classification provides conceptual understanding of the injury complex and predicts the
 associated injuries that should be specifically sought.
 
-## 4. Clinical Assessment
+## Clinical Assessment
 
 The clinical presentation includes ankle pain, swelling, deformity (in displaced fractures),
 and inability to bear weight. The examination assesses:
@@ -138,7 +138,7 @@ talar shift). Full-length tibia-fibula radiographs are added when proximal fibul
 tenderness suggests a Maisonneuve fracture. CT is reserved for complex patterns,
 particularly those with posterior malleolar involvement, and for operative planning.
 
-## 5. Treatment Principles — Stable Versus Unstable
+## Treatment Principles — Stable Versus Unstable
 
 The central question in ankle fracture management is stability of the mortise. The
 mortise is stable when:
@@ -170,7 +170,7 @@ equivalent).
 These patterns require operative management with anatomical reduction and rigid
 fixation.
 
-## 6. Operative Management
+## Operative Management
 
 Fibular Fracture Fixation
 The lateral malleolus / fibula is the key to ankle fracture reduction because of its role in
@@ -239,7 +239,7 @@ fixation. The reduction quality of the syndesmosis is the critical determinant o
 regardless of fixation method; CT assessment of reduction quality has been advocated as
 routine because of the recognized difficulty of achieving anatomical syndesmotic reduction.
 
-## 7. Special Fracture Patterns
+## Special Fracture Patterns
 
 Maisonneuve Fracture
 The Maisonneuve fracture (Maisonneuve, 1840) is a proximal fibular fracture (often near
@@ -276,7 +276,7 @@ closure first, then central, then lateral). Both require careful evaluation by C
 require operative reduction for displaced patterns to restore articular congruity and
 prevent growth disturbance.
 
-## 8. Lateral Ankle Sprain
+## Lateral Ankle Sprain
 
 The lateral ankle sprain is one of the most common musculoskeletal injuries — incidence
 in the general population is approximately 7 per 1,000 person-years, with much higher
@@ -310,7 +310,7 @@ and anatomical reconstruction with allograft or autograft for revision or for se
 deficient ligaments. Outcomes of the modified Broström-Gould are generally good (80 to 90
 percent satisfactory).
 
-## 9. Syndesmotic Injuries Without Fracture
+## Syndesmotic Injuries Without Fracture
 
 The high ankle sprain or isolated syndesmotic injury is the syndesmotic disruption
 without fibular fracture, typically produced by external rotation of the dorsiflexed foot. The
@@ -325,7 +325,7 @@ Grade I and II are treated non-operatively with progressive return to activity, 
 requiring 6 to 12 weeks; Grade III requires syndesmotic stabilization (screw or suture-
 button) similar to fracture-associated syndesmotic injuries.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The ankle fracture is among the most common adult fractures, with the Weber
 classification (A infrasyndesmotic, B transsyndesmotic, C suprasyndesmotic) providing

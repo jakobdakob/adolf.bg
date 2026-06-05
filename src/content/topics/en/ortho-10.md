@@ -7,7 +7,7 @@ topicNumber: 10
 order: 10
 ---
 
-## 1. Introduction
+## Introduction
 
 The flatfoot — pes planus — encompasses a heterogeneous group of foot morphologies in
 which the medial longitudinal arch is reduced or absent. The condition ranges from the
@@ -24,7 +24,7 @@ Examination to cover the flexible (physiological) flatfoot of childhood, the rig
 acquired flatfoot deformity due to posterior tibial tendon dysfunction, and the hereditary
 joint hypermobility syndromes including the Ehlers-Danlos syndromes.
 
-## 2. Flexible Flatfoot of Childhood
+## Flexible Flatfoot of Childhood
 
 Definition and Epidemiology
 The flexible flatfoot is the most common form of pes planus and is essentially a
@@ -67,7 +67,7 @@ not durable results), medial column procedures (medial cuneiform osteotomy with 
 graft, Hoke arthrodesis), and Achilles tendon lengthening for the patient with a tight heel
 cord.
 
-## 3. Rigid Flatfoot of Childhood — Specific Etiologies
+## Rigid Flatfoot of Childhood — Specific Etiologies
 
 A rigid flatfoot in childhood — that is, a flatfoot that does not correct on tip-toe testing and
 that lacks the supple character of the flexible flatfoot — is always pathological and requires
@@ -139,7 +139,7 @@ requires individualized assessment and treatment. Inflammatory arthritis — juv
 inflammatory arthritis — produces progressive deformity of the subtalar and midtarsal
 joints with painful flatfoot.
 
-## 4. Adult-Acquired Flatfoot Deformity (AAFD) and Posterior Tibial Tendon
+## Adult-Acquired Flatfoot Deformity (AAFD) and Posterior Tibial Tendon
 
 Dysfunction (PTTD)
 Definition and Pathophysiology
@@ -221,7 +221,7 @@ Stage IV disease with ankle involvement requires either total ankle arthroplasty
 patients with adequate alignment and bone stock) or ankle arthrodesis combined with the
 appropriate hindfoot reconstruction.
 
-## 5. Other Causes of Adult-Acquired Flatfoot
+## Other Causes of Adult-Acquired Flatfoot
 
 Although posterior tibial tendon dysfunction is by far the commonest cause of adult-
 acquired flatfoot, other etiologies must be considered, particularly when the clinical picture
@@ -244,7 +244,7 @@ Traumatic flatfoot deformity follows midfoot or hindfoot fractures and fracture-
 dislocations (talar neck, calcaneal, midfoot Lisfranc) and is addressed by reconstruction
 tailored to the bony deformity.
 
-## 6. Hereditary Joint Hypermobility
+## Hereditary Joint Hypermobility
 
 Concept and Spectrum
 Hereditary joint hypermobility encompasses a spectrum of conditions in which generalized
@@ -315,7 +315,7 @@ syndromes (aortic dissection during surgery is a recognized risk), the increased
 poor wound healing and atrophic scarring in classical Ehlers-Danlos, and the increased risk
 of subluxation and dislocation under anesthesia.
 
-## 7. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The flatfoot is a heterogeneous group of foot morphologies and disorders ranging from the
 physiological flexible flatfoot of childhood — requiring no treatment when asymptomatic

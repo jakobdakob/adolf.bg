@@ -7,7 +7,7 @@ topicNumber: 27
 order: 127
 ---
 
-## 1. Introduction
+## Introduction
 
 The tibia is the most commonly fractured long bone and the principal weight-bearing bone
 of the leg, with a particularly thin subcutaneous anteromedial cortex that contributes to the
@@ -25,7 +25,7 @@ challenge that characterize these injuries. This chapter, drawing on Rockwood an
 Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s
 Review of Orthopaedics, addresses both entities.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The tibia is a triangular bone in cross-section with three cortices (anterior, posteromedial,
 and lateral) and three borders (medial, anterolateral, and interosseous). The
@@ -58,7 +58,7 @@ between the tibia and fibula at the ankle mortise. Syndesmotic injury is a recog
 component of ankle fractures and certain tibial fractures and requires attention to maintain
 the integrity of the ankle mortise.
 
-## 3. Tibial Shaft Fractures — Classification
+## Tibial Shaft Fractures — Classification
 
 The AO/OTA classification (region 42) is the standard:
 Type A (simple): A1 spiral, A2 oblique (>30 degrees), A3 transverse (<30 degrees).
@@ -72,7 +72,7 @@ tissue injury), IIIA (severe but adequate periosteal coverage), IIIB (severe wit
 periosteal coverage requiring flap), and IIIC (with arterial injury requiring repair)
 substantially direct management.
 
-## 4. Clinical Assessment of Tibial Shaft Fractures
+## Clinical Assessment of Tibial Shaft Fractures
 
 The clinical presentation depends on energy and pattern. Low-energy spiral fractures
 (sports injuries, falls) present with localized pain, swelling, and deformity. High-energy
@@ -98,7 +98,7 @@ Imaging is AP and lateral radiographs of the tibia and fibula including the knee
 joints. CT is reserved for intra-articular extension or for surgical planning in complex
 patterns; it is essential for pilon fractures.
 
-## 5. Treatment of Tibial Shaft Fractures
+## Treatment of Tibial Shaft Fractures
 
 Non-Operative Management
 Non-operative management with long-leg cast or Sarmiento patellar tendon-bearing
@@ -167,7 +167,7 @@ Ilizarov circular fixator is used for both temporary stabilization and definitiv
 in selected complex injuries, including those with bone loss requiring bone transport (see
 Topic Trauma-8).
 
-## 6. Complications of Tibial Shaft Fractures
+## Complications of Tibial Shaft Fractures
 
 The principal complications include:
 
@@ -191,7 +191,7 @@ Knee pain: Anterior knee pain after tibial nailing is reported in 30 to 50 perce
 with infrapatellar approach, less common with suprapatellar approach. Hardware removal
 is sometimes performed for symptomatic patients after union is achieved.
 
-## 7. Pilon (Tibial Plafond) Fractures
+## Pilon (Tibial Plafond) Fractures
 
 The tibial pilon is the weight-bearing articular surface of the distal tibia, articulating with
 the talus to form the ankle joint. The pilon fracture is the intra-articular fracture of this
@@ -254,7 +254,7 @@ Post-traumatic arthritis: 30 to 60 percent at 5 years.
 Stiffness: Common, particularly of the ankle in dorsiflexion.
 Nonunion: Occasional, requiring revision surgery or, in severe cases, ankle fusion.
 
-## 8. Fibular Fractures
+## Fibular Fractures
 
 Isolated fibular shaft fractures (in the absence of tibial fracture) are uncommon and
 typically result from direct trauma. Treatment is generally non-operative with cast or boot
@@ -272,7 +272,7 @@ injury (the medial side and the syndesmosis) for appropriate treatment (addresse
 Topic Trauma-28 on ankle fractures).
 Distal fibular fractures are addressed under ankle fractures (see Topic Trauma-28).
 
-## 9. Tibial Shaft Stress Fractures and Tibial Stress Reactions
+## Tibial Shaft Stress Fractures and Tibial Stress Reactions
 
 The tibial stress fracture is a fatigue fracture of the tibial cortex produced by repeated
 submaximal loading — typically in distance runners, military recruits, and dancers. The
@@ -300,7 +300,7 @@ with bone grafting and plate fixation. The operative approach is increasingly fa
 the dreaded black line in competitive athletes because of the prolonged time to recovery
 with conservative management.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The tibial shaft fracture is the most common adult long-bone fracture, with the high rate of
 open fractures reflecting the subcutaneous nature of the anteromedial cortex. The AO/OTA

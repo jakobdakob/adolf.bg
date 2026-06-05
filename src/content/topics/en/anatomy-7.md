@@ -7,7 +7,7 @@ topicNumber: 7
 order: 207
 ---
 
-## 1. Introduction
+## Introduction
 
 The pelvis presents the orthopedic surgeon with one of the most complex regional
 anatomical environments, combining the bony pelvic ring (the load-transmitting structure
@@ -23,7 +23,7 @@ characteristic risks and benefits. This chapter, drawing on Orthopaedic Surgical
 Approaches, AO Principles of Fracture Management, and Netter’s Concise Orthopaedic
 Anatomy, addresses the surgical anatomy and principal approaches to the pelvis.
 
-## 2. Bony Anatomy
+## Bony Anatomy
 
 The pelvic ring comprises two innominate bones (each formed by the fusion of the ilium,
 ischium, and pubis at the triradiate cartilage) and the sacrum, joined anteriorly at the
@@ -59,7 +59,7 @@ false pelvis (above).
 Quadrilateral surface: The flat bone of the medial acetabular wall facing into the true
 pelvis. Visualized through the anterior intrapelvic approach.
 
-## 3. Muscular Anatomy
+## Muscular Anatomy
 
 The principal muscles relevant to pelvic approaches include:
 Abdominal wall muscles: External oblique, internal oblique, transversus abdominis,
@@ -80,7 +80,7 @@ Sartorius: From the ASIS to the medial tibia. Encountered in the ilioinguinal ap
 Rectus femoris: From the AIIS and the supra-acetabular ilium to the patella via the
 quadriceps tendon. Encountered in anterior hip and pelvis approaches.
 
-## 4. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 The pelvic surgery anatomy is dominated by the dense neurovascular structures:
 
@@ -131,7 +131,7 @@ The lumbar plexus lies within the substance of the psoas muscle and is at partic
 lateral transpsoas approaches to the lumbar spine (XLIF/LLIF — see Topic Anatomy-1).
 The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
 
-## 5. Ilioinguinal Approach (Letournel)
+## Ilioinguinal Approach (Letournel)
 
 The ilioinguinal approach (Letournel, 1960s) is the classical anterior approach to the
 pelvis and acetabulum, providing access to the entire anterior column of the acetabulum,
@@ -182,7 +182,7 @@ paresthetica (very common — 20 to 60 percent — but often transient), vascula
 (the principal feared complication, particularly to the corona mortis or the inferior
 epigastric vessels), deep vein thrombosis, and infection.
 
-## 6. Anterior Intrapelvic (Modified Stoppa) Approach
+## Anterior Intrapelvic (Modified Stoppa) Approach
 
 The anterior intrapelvic (modified Stoppa) approach was developed by Hirvensalo and
 Cole (1993) as a modification of the original Stoppa hernia approach, providing access to
@@ -215,7 +215,7 @@ The complications include vascular injury (corona mortis, iliac vessels), bladde
 (if the bladder is not adequately drained), obturator nerve injury, and inguinal/femoral
 hernia (less common than with the ilioinguinal approach).
 
-## 7. Kocher-Langenbeck (Posterior) Approach
+## Kocher-Langenbeck (Posterior) Approach
 
 The Kocher-Langenbeck approach is the classical posterior approach to the pelvis and
 acetabulum, providing access to the posterior wall, posterior column, and the ischial
@@ -257,7 +257,7 @@ indomethacin or low-dose radiation prophylaxis), infection, wound complications,
 abductor dysfunction (with extensive proximal extension or trochanteric osteotomy
 nonunion).
 
-## 8. Extended Iliofemoral Approach
+## Extended Iliofemoral Approach
 
 The extended iliofemoral approach (Letournel) provides the most comprehensive access
 to both columns of the acetabulum from a single approach. However, the substantial
@@ -276,7 +276,7 @@ acetabulum from outside the pelvis.
 The principal complications limit the use of this approach to selected severe injuries where
 other approaches are inadequate.
 
-## 9. Pfannenstiel Approach to the Pubic Symphysis
+## Pfannenstiel Approach to the Pubic Symphysis
 
 The Pfannenstiel approach provides direct access to the pubic symphysis for
 symphyseal disruption fixation, anterior pelvic ring stabilization, and selected
@@ -290,7 +290,7 @@ Complications
 The complications include bladder injury (with inadequate decompression or aggressive
 retraction), infection, and wound complications.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The pelvic surgical anatomy is dominated by the complex relationships among the bony
 pelvis, the iliac vessels and their branches (including the dangerous corona mortis

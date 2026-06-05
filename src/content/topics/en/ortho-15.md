@@ -7,7 +7,7 @@ topicNumber: 15
 order: 15
 ---
 
-## 1. Introduction and Definitions
+## Introduction and Definitions
 
 Cerebral palsy (CP) is a non-progressive disorder of movement and posture arising from
 injury to the immature developing brain. By international consensus the diagnosis requires
@@ -27,7 +27,7 @@ subluxation and dislocation, foot deformities, upper-limb deformities, scoliosis
 principles of management including botulinum toxin injection, selective dorsal rhizotomy,
 single-event multilevel surgery (SEMLS), and the long-term issues of adult life with CP.
 
-## 2. Etiology and Classification
+## Etiology and Classification
 
 Etiology
 The causes of cerebral palsy vary by gestational age at the time of injury. Prematurity is the
@@ -78,7 +78,7 @@ typically remain Level II throughout life) and informs treatment planning, parti
 decision-making for surgical intervention. Hip surveillance protocols, scoliosis surveillance,
 and the timing and type of orthopedic surgery are all guided by GMFCS level.
 
-## 3. Pathophysiology of Orthopedic Deformity in CP
+## Pathophysiology of Orthopedic Deformity in CP
 
 The orthopedic manifestations of CP arise from the interaction of three processes: (1)
 spasticity, the velocity-dependent increase in muscle tone that produces sustained or
@@ -97,7 +97,7 @@ the proximal femur), and the hip progresses through subluxation to dislocation. 
 patterns of muscle imbalance produce equinus foot, crouch gait, scissor gait, and other
 characteristic abnormalities.
 
-## 4. Gait Analysis and Common Gait Patterns
+## Gait Analysis and Common Gait Patterns
 
 Three-Dimensional Computerized Gait Analysis
 Three-dimensional computerized gait analysis, available in specialized centers, has
@@ -132,7 +132,7 @@ Type III: Type II features combined with limited knee flexion in swing from rect
 spasticity.
 Type IV: Type III features combined with hip flexion and adduction.
 
-## 5. Hip Subluxation and Dislocation in CP
+## Hip Subluxation and Dislocation in CP
 
 Pathogenesis and Epidemiology
 Hip subluxation and dislocation are among the most consequential orthopedic
@@ -182,7 +182,7 @@ head excision (Schanz, McHale procedures). Total hip arthroplasty has been perfo
 selected ambulatory patients with dislocation but is technically challenging and has higher
 complication rates than primary THA in non-CP patients.
 
-## 6. Foot Deformities in CP
+## Foot Deformities in CP
 
 The paralytic foot in CP varies with the underlying motor pattern. The principal deformities
 are:
@@ -208,7 +208,7 @@ contracture, often progressing to bony deformity at the hindfoot. The deformity 
 the most difficult to correct and emphasizes the importance of conservative initial
 intervention with the Achilles tendon.
 
-## 7. Knee and Hip Deformities
+## Knee and Hip Deformities
 
 Crouch Gait
 Crouch gait, in which the patient walks with flexed hips and knees and either neutral or
@@ -228,7 +228,7 @@ overactivity of the rectus femoris during swing. Rectus femoris transfer (to a k
 sartorius, gracilis, semitendinosus, or iliotibial band — improving knee flexion in swing) is
 the standard surgical treatment.
 
-## 8. Spinal Deformity in CP
+## Spinal Deformity in CP
 
 Scoliosis develops in approximately 70% of GMFCS V patients and in lower percentages at
 higher functional levels. The curves are typically long C-shaped neuromuscular curves with
@@ -239,7 +239,7 @@ progressing rapidly. The complication rates are substantial (10-20% for major
 complications including infection, pulmonary problems, and instrumentation failure), and
 the perioperative care must be multidisciplinary.
 
-## 9. Upper-Limb Deformities
+## Upper-Limb Deformities
 
 Upper-limb involvement in CP is most pronounced in hemiplegic patients but is present in
 many spastic diplegic and quadriplegic patients. The classical deformity pattern is:
@@ -251,7 +251,7 @@ radialis brevis to address the wrist flexion-ulnar deviation), and selective len
 releases. The functional goals are improvement of grasp, release, and hygiene; cosmetic
 improvement is secondary.
 
-## 10. Principles of Management
+## Principles of Management
 
 Botulinum Toxin
 Botulinum toxin type A, injected into spastic muscles, produces temporary
@@ -295,7 +295,7 @@ reaction AFOs convert the forefoot ground-reaction force into a knee extension m
 useful for crouch gait; articulated AFOs permit dorsiflexion but limit plantarflexion. The
 selection depends on gait pattern, contractures, and treatment goals.
 
-## 11. Adult Life with CP
+## Adult Life with CP
 
 Adults with CP, particularly those at lower GMFCS levels, face a distinct set of orthopedic
 and medical problems: progressive arthritis (particularly in the knees and hips), back pain
@@ -307,7 +307,7 @@ cumulative effects of contracture, weakness, and degenerative joint disease. The
 from pediatric to adult orthopedic care is a recognized challenge, with relatively few adult
 orthopedic surgeons trained in the specific issues of adult CP.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Cerebral palsy is a heterogeneous group of motor disorders arising from non-progressive
 injury to the immature brain, producing characteristic patterns of spasticity, weakness, and

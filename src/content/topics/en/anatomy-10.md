@@ -7,7 +7,7 @@ topicNumber: 10
 order: 210
 ---
 
-## 1. Introduction
+## Introduction
 
 The lower leg, extending from the knee to the ankle, contains the tibia and fibula and the
 four muscular compartments that house the muscles of dorsiflexion, plantar flexion,
@@ -22,7 +22,7 @@ compartment syndrome — together provide access to the bony and neurovascular
 structures of the leg. This chapter draws on Orthopaedic Surgical Approaches, Netter’s
 Concise Orthopaedic Anatomy, and Gray’s Anatomy.
 
-## 2. Bony Anatomy
+## Bony Anatomy
 
 The tibia is the principal weight-bearing bone of the lower leg, with the anatomical
 features detailed in Topic Trauma-27 (tibial shaft) and Topic Trauma-28 (ankle): triangular
@@ -31,7 +31,7 @@ characteristic anterior bow. The fibula is the slender lateral bone, articulatin
 tibia at the proximal tibiofibular joint and at the distal tibiofibular syndesmosis, forming
 the lateral wall of the ankle mortise distally.
 
-## 3. Muscular Compartments
+## Muscular Compartments
 
 The leg compartments are four:
 Anterior compartment: Contains the tibialis anterior, extensor hallucis longus (EHL),
@@ -51,7 +51,7 @@ plantar flexion. Innervated by the tibial nerve. Vascular supply: posterior tibi
 The compartments are separated by intermuscular septa attached to the bones and the
 interosseous membrane.
 
-## 4. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 Anterior tibial artery and deep peroneal nerve: Enter the anterior compartment by
 passing through the proximal interosseous membrane (the artery is a branch of the
@@ -77,7 +77,7 @@ aspect of the leg from the medial malleolus to the femoral triangle. The sapheno
 branch of the femoral nerve) accompanies the vein in the distal leg, providing sensation to
 the medial leg.
 
-## 5. Tibial Shaft Approaches
+## Tibial Shaft Approaches
 
 The anteromedial approach to the tibial shaft uses the subcutaneous medial surface of
 the tibia. An incision approximately 1 cm lateral to the anterior tibial crest provides access;
@@ -98,7 +98,7 @@ The suprapatellar approach to tibial intramedullary nailing (Topic Trauma-27) ha
 gained popularity for ease of fracture reduction and reduced anterior knee pain compared
 with the traditional infrapatellar approach.
 
-## 6. Fibular Approaches
+## Fibular Approaches
 
 The lateral approach to the distal fibula is the standard for ORIF of ankle fractures
 (Topic Trauma-28). A longitudinal lateral incision over the fibula provides direct access.
@@ -112,7 +112,7 @@ posterolateral incision behind the fibular head. The common peroneal nerve wraps
 around the fibular neck and is at substantial risk; its identification and protection are
 critical.
 
-## 7. Fasciotomy of the Leg
+## Fasciotomy of the Leg
 
 The leg is the most common site of compartment syndrome, and leg fasciotomy is one of
 the most commonly performed orthopedic emergency procedures. The double-incision
@@ -135,7 +135,7 @@ Post-Fasciotomy Management
 The wounds are left open with sterile dressings (or VAC therapy), with delayed primary
 closure or skin grafting at 5 to 10 days as discussed in Topic Trauma-32.
 
-## 8. Approach to the Tibial Nerve and Posterior Tibial Artery
+## Approach to the Tibial Nerve and Posterior Tibial Artery
 
 The tibial nerve and posterior tibial artery in the leg are accessed through a
 posteromedial approach. A longitudinal incision along the posteromedial leg provides
@@ -147,7 +147,7 @@ The tibial nerve at the ankle in the tarsal tunnel is approached through a curve
 posterior to the medial malleolus. The flexor retinaculum is incised, decompressing the
 nerve in the tarsal tunnel (tarsal tunnel release for tarsal tunnel syndrome).
 
-## 9. Approach to the Common Peroneal Nerve
+## Approach to the Common Peroneal Nerve
 
 The common peroneal nerve around the fibular neck is approached through a
 longitudinal incision posterior to the fibular head, providing access to the nerve as it wraps
@@ -156,7 +156,7 @@ exploration of nerve injury, and operative management of peroneal nerve palsy. T
 is identified and traced from the popliteal fossa around the fibular neck and into its
 bifurcation into the deep and superficial peroneal branches.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The lower leg contains four muscular compartments (anterior with dorsiflexors and deep
 peroneal nerve, lateral with peroneal muscles and superficial peroneal nerve, superficial

@@ -7,7 +7,7 @@ topicNumber: 9
 order: 9
 ---
 
-## 1. Introduction
+## Introduction
 
 Avascular necrosis (AVN), also termed osteonecrosis, is the death of bone tissue following
 interruption of its blood supply. The condition has been recognized since the nineteenth
@@ -24,7 +24,7 @@ content from Apley & Solomon’s, Miller’s Review, Operative Hip Arthroscopy, 
 Concise Orthopaedic Anatomy, and the relevant chapters of Rockwood and Green’s and
 Rothman-Simeone The Spine.
 
-## 2. Pathophysiology of Osteonecrosis
+## Pathophysiology of Osteonecrosis
 
 The fundamental mechanism in AVN is the disruption of blood supply to a region of bone,
 followed by ischemic death of osteocytes and marrow elements, attempted
@@ -53,7 +53,7 @@ secondary collapse of the articular surface. The latter event — articular coll
 the conversion from a potentially reversible early disease to an established, progressive
 arthritis.
 
-## 3. AVN of the Femoral Head
+## AVN of the Femoral Head
 
 Epidemiology and Etiology
 Adult AVN of the femoral head is among the most consequential forms of osteonecrosis and
@@ -170,7 +170,7 @@ in this population produces excellent functional outcomes with 10-15 year surviv
 \>95% in many series. Bipolar hemiarthroplasty has been used in selected younger patients
 but has largely been supplanted by THA.
 
-## 4. Spontaneous Osteonecrosis of the Knee (SONK)
+## Spontaneous Osteonecrosis of the Knee (SONK)
 
 Spontaneous osteonecrosis of the knee, also known as Ahlbäck’s disease, is a focal
 osteonecrotic lesion of the subchondral bone of the medial femoral condyle (less commonly
@@ -190,7 +190,7 @@ unicompartmental knee arthroplasty considered for persistent symptoms in the
 appropriate candidate, and total knee arthroplasty for tricompartmental progression or for
 older patients.
 
-## 5. AVN of the Humeral Head
+## AVN of the Humeral Head
 
 AVN of the humeral head is the second most common site of non-traumatic osteonecrosis
 after the femoral head, and is associated with the same systemic risk factors (corticosteroid
@@ -209,7 +209,7 @@ arthritis. Treatment in early stages includes core decompression with or without
 graft; in advanced disease, hemiarthroplasty or total shoulder arthroplasty (anatomic or
 reverse, depending on rotator cuff status) is the standard.
 
-## 6. AVN of the Talus
+## AVN of the Talus
 
 AVN of the talus is most commonly a complication of talar neck fractures, with rates rising
 with the displacement of the fracture (Hawkins type I, 0-10%; type II, 20-50%; type III, 80-
@@ -222,7 +222,7 @@ Treatment of early symptomatic AVN of the talus may include conservative managem
 core decompression; advanced disease with collapse is treated by ankle arthrodesis or, in
 selected cases, total ankle arthroplasty.
 
-## 7. Kienböck’s Disease (Lunatomalacia)
+## Kienböck’s Disease (Lunatomalacia)
 
 Definition and Epidemiology
 Kienböck’s disease, also called lunatomalacia, is an avascular necrosis of the carpal lunate.
@@ -319,7 +319,7 @@ ultimately require salvage procedures. The natural history of untreated Kienböc
 is one of progression in the majority of cases, though spontaneous arrest of disease has
 been described.
 
-## 8. Other Sites of Adult AVN
+## Other Sites of Adult AVN
 
 Preiser’s Disease (AVN of the Scaphoid)
 Idiopathic AVN of the scaphoid — Preiser’s disease — is rare and predominantly affects
@@ -339,7 +339,7 @@ typically presenting in adolescent girls and young women with forefoot pain and
 metatarsalgia. Treatment is initially conservative; surgical options for advanced disease
 include dorsiflexion osteotomy of the metatarsal head and excisional arthroplasty.
 
-## 9. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Adult avascular necrosis is a heterogeneous group of conditions unified by the underlying
 mechanism of vascular insult, bone death, and progressive joint destruction. The femoral

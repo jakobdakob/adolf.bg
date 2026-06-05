@@ -7,7 +7,7 @@ topicNumber: 8
 order: 8
 ---
 
-## 1. Introduction
+## Introduction
 
 Legg-Calvé-Perthes disease (LCPD) is an idiopathic avascular necrosis of the developing
 femoral head in the pediatric patient. First described independently by Arthur Legg in
@@ -25,7 +25,7 @@ features, classification systems, treatment principles, surgical procedures, and
 outcomes of LCPD. The differential diagnosis with other childhood causes of femoral head
 osteonecrosis is also briefly addressed.
 
-## 2. Epidemiology and Risk Factors
+## Epidemiology and Risk Factors
 
 The incidence of LCPD varies widely with geography and ethnicity: approximately 1 in
 1,200 in populations of European descent in the United Kingdom, 1 in 9,000 in African
@@ -46,7 +46,7 @@ mild trauma is common but is not thought to be causative. The disease is not fam
 great majority of cases, and the modest familial clustering observed in some series is
 attributed to shared environmental factors rather than direct heredity.
 
-## 3. Etiology and Pathogenesis
+## Etiology and Pathogenesis
 
 The fundamental insult in LCPD is a vascular event that interrupts the blood supply to the
 femoral head; the resulting infarction, with subsequent attempts at revascularization and
@@ -72,7 +72,7 @@ healed stage, in which the femoral head reaches its final shape. The entire sequ
 children have longer disease courses), extent of head involvement, and effectiveness of
 treatment.
 
-## 4. Clinical Features
+## Clinical Features
 
 The presentation is typically of a young child (4-8 years) with intermittent hip, groin, or
 referred knee pain, an antalgic gait, and a limp that worsens with activity. The pain may be
@@ -89,7 +89,7 @@ lymphoma, sickle cell disease (in appropriate populations), other causes of avas
 necrosis (sickle cell, corticosteroid therapy, post-traumatic), and slipped capital femoral
 epiphysis (older children).
 
-## 5. Imaging
+## Imaging
 
 Plain radiographs (AP pelvis and frog-lateral views of both hips) are the standard initial
 imaging study and demonstrate the characteristic stages of disease. The earliest
@@ -110,7 +110,7 @@ signal inner line of necrotic bone with a high-signal outer line of granulation 
 reactive interface); and the eventual appearance of the same morphological changes seen
 on plain radiographs as the disease progresses.
 
-## 6. Classification Systems
+## Classification Systems
 
 Multiple classification systems address two distinct questions in LCPD: the extent of
 femoral head involvement (which predicts prognosis), and the morphological outcome at
@@ -156,7 +156,7 @@ correlates strongly with the risk of premature osteoarthritis: Stulberg I and II
 into late adulthood; Stulberg III hips develop arthritis in middle age; Stulberg IV and V hips
 develop early and progressive arthritis.
 
-## 7. Principles of Treatment
+## Principles of Treatment
 
 The treatment of LCPD is guided by two principal considerations: containment of the
 femoral head within the acetabulum during the period of biological plasticity (so that the
@@ -227,7 +227,7 @@ increasingly used for the management of impingement and labral pathology associa
 with healed Perthes deformity. Total hip arthroplasty is the definitive late treatment for the
 patient with established secondary arthritis.
 
-## 8. Other Causes of Childhood Avascular Necrosis
+## Other Causes of Childhood Avascular Necrosis
 
 Although Legg-Calvé-Perthes disease is by far the commonest cause of avascular necrosis
 of the femoral head in childhood, several other conditions produce similar pathological and
@@ -267,7 +267,7 @@ dysplasias that produce bilateral synchronous abnormalities of the femoral head 
 epiphyses. The history of short stature, family history, and involvement of other epiphyses
 distinguishes these conditions from LCPD.
 
-## 9. Outcomes and Long-Term Considerations
+## Outcomes and Long-Term Considerations
 
 The long-term outcome of LCPD depends primarily on the age at onset (younger is better),
 the extent of femoral head involvement (Herring classification), and the achievement of
@@ -285,7 +285,7 @@ femoral head); secondary acetabular dysplasia (from the deformed femoral head’
 acetabular development); and limb-length discrepancy. Each of these sequelae may be
 addressed by appropriate adolescent or adult reconstruction.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Legg-Calvé-Perthes disease is an idiopathic avascular necrosis of the developing femoral
 head, predominantly affecting boys aged 4-8 years, and produces a clinically and

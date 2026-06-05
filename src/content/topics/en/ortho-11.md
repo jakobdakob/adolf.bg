@@ -7,7 +7,7 @@ topicNumber: 11
 order: 11
 ---
 
-## 1. Introduction
+## Introduction
 
 Congenital talipes equinovarus (CTEV) — clubfoot — is one of the commonest congenital
 musculoskeletal anomalies, with an incidence of approximately 1-2 per 1,000 live births
@@ -23,7 +23,7 @@ Miller’s Review to cover the etiology, pathological anatomy, classification, c
 Ponseti method, post-Ponseti surgical management of residual or recurrent deformity, the
 syndromic and complex clubfoot, and long-term outcomes.
 
-## 2. Epidemiology and Etiology
+## Epidemiology and Etiology
 
 The incidence of clubfoot varies with population: approximately 1.2 per 1,000 in white
 European-descended populations, 0.6 per 1,000 in East Asian populations, and as high as 6-
@@ -45,7 +45,7 @@ disorders. The systematic newborn examination of a child with clubfoot must incl
 careful spinal examination, neurological examination, and assessment of all four limbs and
 the face for associated anomalies.
 
-## 3. Pathological Anatomy
+## Pathological Anatomy
 
 The clubfoot deformity is fundamentally a deformity of the talocalcaneonavicular and
 talocalcaneal joints, with secondary changes in the ankle, midfoot, and forefoot.
@@ -71,7 +71,7 @@ The understanding of the pathological anatomy, particularly through the work of 
 Ponseti, Cooper, and others, is the foundation of the Ponseti method, which addresses the
 components of the deformity in a specific sequence based on the anatomical relationships.
 
-## 4. Classification
+## Classification
 
 Dimeglio Classification
 The Dimeglio classification scores four parameters — equinus, hindfoot varus, midfoot
@@ -88,7 +88,7 @@ scored 0, 0.5, or 1. The total ranges from 0 (no deformity) to 6 (most severe). 
 score is used both for initial assessment and for tracking progress through serial Ponseti
 casting; the rate of fall in Pirani score is a powerful predictor of outcome.
 
-## 5. Ponseti Method
+## Ponseti Method
 
 Principles
 The Ponseti method, developed by Ignacio Ponseti at the University of Iowa in the 1940s-
@@ -139,7 +139,7 @@ the great majority of patients, with feet that look slightly smaller than normal
 functional, well-tolerated in normal shoe wear, and free of significant late deformity. The
 method is now the global standard of care for idiopathic clubfoot.
 
-## 6. Surgery for Recurrence and Residual Deformity
+## Surgery for Recurrence and Residual Deformity
 
 Despite the success of the Ponseti method, a minority of patients develop recurrence or
 residual deformity that requires surgical management. Recurrence is most commonly the
@@ -180,7 +180,7 @@ wedge for valgus), and supramalleolar osteotomy of the tibia for residual intern
 torsion. In the severely deformed adolescent foot, triple arthrodesis remains the salvage
 procedure of choice.
 
-## 7. The Syndromic and Complex Clubfoot
+## The Syndromic and Complex Clubfoot
 
 Clubfoot in Myelomeningocele
 Clubfoot occurs in approximately 25-50% of children with myelomeningocele, and is
@@ -208,7 +208,7 @@ specific features that require individualized management. The key principle is t
 the syndromic association so that the clubfoot is treated in the context of the broader
 condition and so that associated anomalies are identified and managed.
 
-## 8. Diagnostic and Differential Considerations
+## Diagnostic and Differential Considerations
 
 Postural Equinovarus
 Postural equinovarus is a positional deformity of the newborn foot that resembles clubfoot
@@ -231,7 +231,7 @@ bisector but not past it), or rigid (not correctable to the heel bisector). Flex
 adductus resolves spontaneously in most cases; partially reducible may benefit from
 stretching; rigid metatarsus adductus may require serial casting in the infant.
 
-## 9. Outcomes and Long-Term Considerations
+## Outcomes and Long-Term Considerations
 
 The long-term outcomes of clubfoot treatment depend on the severity of the initial
 deformity, the adequacy of initial treatment, and brace compliance. Excellent functional
@@ -247,7 +247,7 @@ ankle motion is slightly less than the normal contralateral side but is generall
 full function. Foot size is slightly smaller, with average shoe-size differences of half a size or
 less.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Congenital talipes equinovarus is one of the commonest congenital musculoskeletal
 anomalies and one of the great success stories of modern pediatric orthopedics. The

@@ -7,7 +7,7 @@ topicNumber: 5
 order: 5
 ---
 
-## 1. Introduction
+## Introduction
 
 The term “infantile osteoarthritis” — a translation of “кърмачески остеоартрит” — refers
 in classical orthopedic teaching to a specific clinical entity: the destructive, often multifocal
@@ -25,7 +25,7 @@ arthritis (neonatal and post-neonatal forms), transient synovitis of the hip, th
 diagnosis between them, and the natural history of inadequately treated joint sepsis in the
 developing skeleton.
 
-## 2. Infantile Osteoarthritis (Neonatal and Infantile Septic Arthritis)
+## Infantile Osteoarthritis (Neonatal and Infantile Septic Arthritis)
 
 Definition and Epidemiology
 Infantile osteoarthritis is the pyogenic infection of a joint in a child below approximately 24
@@ -127,7 +127,7 @@ occur, producing severe stiffness and pain in childhood. Late reconstructive opt
 destroyed neonatal hip include valgus osteotomy and pelvic support osteotomy in the older
 child, with arthrodesis or arthroplasty postponed until skeletal maturity.
 
-## 3. Transient (Toxic) Synovitis of the Hip
+## Transient (Toxic) Synovitis of the Hip
 
 Definition and Epidemiology
 Transient synovitis, also called toxic synovitis or “irritable hip,” is a self-limiting
@@ -195,7 +195,7 @@ resolving in the expected time-frame: a child whose symptoms have not improved b
 week, or have recurred, must be reassessed for septic arthritis or for one of the alternative
 diagnoses discussed below.
 
-## 4. Differential Diagnosis of the Limping Child
+## Differential Diagnosis of the Limping Child
 
 The differential diagnosis of acute hip or limb pain in the child is wide and varies
 substantially by age. The classical age-based differential is summarized as follows.
@@ -221,7 +221,7 @@ This age-based stratification is the practical foundation of every consultation 
 orthopedics, and any child with limp or limb pain should be assessed in the context of the
 diagnoses likely at that age.
 
-## 5. Diagnostic Algorithm for the Limping Child
+## Diagnostic Algorithm for the Limping Child
 
 The clinical assessment begins with a careful history (onset, character, and progression of
 symptoms; antecedent illness; trauma history; constitutional symptoms; family history of
@@ -239,7 +239,7 @@ where indicated. Joint aspiration under appropriate analgesia is the definitive 
 for any acutely painful joint with effusion in which septic arthritis remains in the
 differential.
 
-## 6. Complications and Long-Term Sequelae
+## Complications and Long-Term Sequelae
 
 The long-term consequences of infantile septic arthritis range from full recovery —
 achievable with prompt diagnosis and adequate treatment — to severe lifelong disability.
@@ -254,7 +254,7 @@ home point — repeated in every pediatric orthopedics text from Tachdjian’s t
 is that the prevention of these complications depends entirely on timely diagnosis and
 prompt definitive treatment of the initial joint sepsis.
 
-## 7. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The pyogenic joint infections of infancy and early childhood — historically grouped under
 the rubric “infantile osteoarthritis” — share with their counterparts in older children and

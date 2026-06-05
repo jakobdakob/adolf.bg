@@ -7,7 +7,7 @@ topicNumber: 11
 order: 211
 ---
 
-## 1. Introduction
+## Introduction
 
 The ankle and foot together form an intricate anatomical complex with 28 bones, more
 than 30 joints, and a dense network of tendons, ligaments, and neurovascular structures
@@ -24,7 +24,7 @@ bones and joints — each provide access to specific regions. This chapter draws
 Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s
 Anatomy.
 
-## 2. Bony Anatomy
+## Bony Anatomy
 
 The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolus (distal
 fibula), and the talar dome (Topic Trauma-28).
@@ -37,7 +37,7 @@ Key surgical landmarks include the medial and lateral malleoli, sustentaculum ta
 (medial calcaneus), tibialis anterior tubercle of the navicular, and the fifth metatarsal
 tuberosity.
 
-## 3. Neurovascular Anatomy
+## Neurovascular Anatomy
 
 The anterior ankle structures, from medial to lateral, are: tibialis anterior, extensor
 hallucis longus (EHL), anterior tibial artery and deep peroneal nerve, extensor
@@ -55,7 +55,7 @@ recognizable sensory deficit and is a recognized concern in anterolateral ankle 
 The saphenous nerve descends along the medial side of the ankle and foot, providing
 medial sensation; injury produces medial dorsal sensory deficit.
 
-## 4. Anterior Ankle Approach
+## Anterior Ankle Approach
 
 The anterior ankle approach is used for anterior ankle arthrodesis, total ankle
 arthroplasty, distal tibial osteotomy, tumor resection, and other anterior
@@ -67,7 +67,7 @@ anterior (medial) and the extensor hallucis longus / extensor digitorum longus
 (lateral), with the anterior tibial artery and deep peroneal nerve retracted laterally.
 The ankle capsule is opened to access the joint.
 
-## 5. Anterolateral Ankle Approach
+## Anterolateral Ankle Approach
 
 The anterolateral approach is the standard for lateral plafond (pilon) fractures (Topic
 Trauma-27). A longitudinal incision is made over the anterolateral ankle, between the
@@ -76,7 +76,7 @@ anterior tibial vessels are identified and retracted medially. The ankle joint a
 tibia are exposed. The approach provides excellent visualization of the anterior ankle joint
 and the distal tibial articular surface.
 
-## 6. Posterolateral Ankle Approach
+## Posterolateral Ankle Approach
 
 The posterolateral approach is used for posterior malleolar fracture fixation,
 posterior pilon fractures, and exposure of the peroneal tendons and the lateral
@@ -86,7 +86,7 @@ protected. The interval between the peroneal tendons (laterally) and the flexor 
 longus (medially) is developed, with the FHL retracted medially. The posterior aspect of
 the ankle joint and the posterior malleolus are exposed.
 
-## 7. Medial Ankle Approach
+## Medial Ankle Approach
 
 The medial ankle approach is used for medial malleolus fracture fixation, deltoid
 ligament repair, tarsal tunnel release, and posterior tibial tendon procedures. A
@@ -101,7 +101,7 @@ For posterior tibial tendon procedures (PTTD reconstruction with FDL transfer), 
 longitudinal incision along the course of the tendon provides access from the medial
 malleolus to the navicular insertion.
 
-## 8. Sinus Tarsi Approach to the Calcaneus
+## Sinus Tarsi Approach to the Calcaneus
 
 The sinus tarsi approach has largely supplanted the extensile lateral approach for
 calcaneal fracture fixation (Topic Trauma-29), because of substantially lower wound
@@ -109,7 +109,7 @@ complication rates. A small oblique incision is made over the sinus tarsi (a dep
 palpable just anterior to the lateral malleolus). The peroneal tendons are retracted, and
 the calcaneocuboid joint and the posterior facet of the subtalar joint are exposed.
 
-## 9. Extensile Lateral Approach to the Calcaneus
+## Extensile Lateral Approach to the Calcaneus
 
 The extensile lateral approach (Letournel/Benirschke) is the historical standard for
 calcaneal fracture fixation. An L-shaped or hockey-stick incision is made along the lateral
@@ -118,7 +118,7 @@ reflected, with the peroneal tendons elevated as a single soft-tissue flap. The 
 the calcaneus is exposed for plating. The wound complication rates of 5 to 25 percent have
 led to the substantial preference for the sinus tarsi approach.
 
-## 10. Approaches to the Foot
+## Approaches to the Foot
 
 Dorsal Foot Approaches
 Dorsal foot incisions are used for forefoot procedures (bunion surgery, lesser toe
@@ -140,7 +140,7 @@ painful scars on the weight-bearing surface. When necessary (for plantar fascia 
 deep plantar abscess), incisions are placed along the medial or lateral plantar non-weight-
 bearing surface.
 
-## 11. Foot Compartments and Fasciotomy
+## Foot Compartments and Fasciotomy
 
 The foot has 9 compartments (medial, central, lateral, calcaneal, and four interosseous,
 with some classification variants). Foot compartment syndrome requires recognition and
@@ -148,7 +148,7 @@ fasciotomy through dorsal incisions (over the second and fourth metatarsals to r
 dorsal and palmar interossei) with additional medial incision if the medial compartment is
 involved.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The ankle and foot offer a wide variety of surgical approaches, each tailored to specific
 regional pathology. The anterior ankle approach uses the interval between TA and

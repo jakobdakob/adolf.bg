@@ -7,7 +7,7 @@ topicNumber: 31
 order: 131
 ---
 
-## 1. Introduction
+## Introduction
 
 Peripheral nerve injuries form a substantial component of the morbidity of orthopedic
 trauma, with as many as 15 to 30 percent of major upper extremity injuries and 10 to 15
@@ -26,7 +26,7 @@ specific patterns considered earlier. The chapter draws on Rockwood and Green’
 Fractures in Adults, Apley & Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s
 Orthopaedic Examination.
 
-## 2. Peripheral Nerve Anatomy and Pathophysiology
+## Peripheral Nerve Anatomy and Pathophysiology
 
 Nerve Structure
 Peripheral nerves are complex anatomical structures with multiple connective tissue layers
@@ -67,7 +67,7 @@ from prolonged compression. The nerve has limited tolerance for ischemia (minute
 hours), with progressive injury through this duration.
 Thermal or chemical injury: Burns, freezing, exposure to caustic chemicals.
 
-## 3. Classification of Nerve Injuries
+## Classification of Nerve Injuries
 
 Seddon Classification (1943)
 The classical Seddon classification organizes nerve injuries into three grades by the
@@ -119,7 +119,7 @@ the distinction between recoverable axonotmesis (Grade II) and non-recoverable i
 periodic clinical and electrophysiological assessment over 3 to 6 months is often required
 to determine if recovery is occurring; failure of recovery prompts surgical exploration.
 
-## 4. Clinical Assessment of Nerve Injury
+## Clinical Assessment of Nerve Injury
 
 The assessment of suspected nerve injury follows a systematic approach:
 
@@ -157,7 +157,7 @@ Initial studies are typically performed at 3 to 4 weeks after injury, with seria
 month intervals to monitor recovery. The studies provide objective evidence of recovery in
 advance of clinical signs and may help determine the need for surgical exploration.
 
-## 5. Treatment Principles
+## Treatment Principles
 
 Immediate Management
 For the patient with acute peripheral nerve injury:
@@ -218,7 +218,7 @@ palmaris longus) for median nerve loss of thumb opposition, and many others. Ten
 transfers do not require viable motor end plates in the recipient muscle and are therefore
 useful in late presentations beyond the window for nerve reinnervation.
 
-## 6. Specific Nerve Injuries
+## Specific Nerve Injuries
 
 Brachial Plexus Injuries
 Brachial plexus injuries range from minor traction injuries (“stingers” or “burners” in
@@ -309,7 +309,7 @@ the ilioinguinal approach), in retractor placement during anterior hip approache
 rarely in injuries to the iliopsoas region. Loss produces quadriceps weakness and sensory
 loss over the anterior thigh. Recovery is generally good for compression injuries.
 
-## 7. Nerve Injuries in Children
+## Nerve Injuries in Children
 
 Pediatric nerve injuries deserve specific consideration because of several features that
 distinguish them from adult injuries:
@@ -332,7 +332,7 @@ recovers spontaneously over 3 to 6 months. The median nerve, radial nerve, and u
 nerve can all be affected; the classical association of ulnar nerve injury with flexion-type
 supracondylar fractures (much less common than extension type) is well-recognized.
 
-## 8. Rehabilitation After Nerve Injury
+## Rehabilitation After Nerve Injury
 
 Rehabilitation is a substantial component of nerve injury management and includes:
 Splinting in functional positions to prevent contractures during the recovery period. For
@@ -355,7 +355,7 @@ adhesions), and pain management.
 Psychological support is important given the prolonged and uncertain recovery course of
 many nerve injuries.
 
-## 9. Complex Regional Pain Syndrome (CRPS) After Nerve Injury
+## Complex Regional Pain Syndrome (CRPS) After Nerve Injury
 
 Complex regional pain syndrome (CRPS), addressed in detail in Topic Trauma-8, can
 develop after nerve injury (CRPS type II, formerly causalgia) or without identifiable nerve
@@ -363,7 +363,7 @@ injury (CRPS type I, formerly RSD). The recognition by Budapest criteria, the ro
 multidisciplinary management, and the avoidance of common pitfalls (inadequate early
 treatment, excessive immobilization, missed Stener-like lesions) all apply.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Peripheral nerve injuries are classified by the Seddon system (neurapraxia, axonotmesis,
 neurotmesis) and the refined Sunderland system (grades I-V) based on the

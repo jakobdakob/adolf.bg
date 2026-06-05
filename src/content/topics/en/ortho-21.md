@@ -7,7 +7,7 @@ topicNumber: 21
 order: 21
 ---
 
-## 1. Introduction
+## Introduction
 
 Coxarthrosis — osteoarthritis of the hip joint — is one of the commonest and most
 disabling musculoskeletal conditions in adults. The disease produces progressive pain,
@@ -24,7 +24,7 @@ Approaches, addresses the epidemiology and risk factors, pathophysiology, clinic
 features, imaging, classification, non-operative management, joint-preserving surgery, and
 total hip arthroplasty for advanced disease.
 
-## 2. Epidemiology and Risk Factors
+## Epidemiology and Risk Factors
 
 The prevalence of symptomatic hip osteoarthritis is approximately 5-10% of adults over
 the age of 60, with the prevalence increasing markedly with age and approaching 20% in
@@ -42,7 +42,7 @@ recognized as a false dichotomy: with careful radiographic and clinical assessme
 impingement is the most commonly recognized predisposing morphology in men with hip
 osteoarthritis, while acetabular dysplasia is the principal predisposition in women.
 
-## 3. Pathophysiology
+## Pathophysiology
 
 The pathological process of hip osteoarthritis follows the general principles of
 osteoarthritis at any joint. The earliest changes occur in the cartilage matrix, with
@@ -59,7 +59,7 @@ complete loss of cartilage with bone-on-bone contact, marked osteophyte formatio
 joint deformity produces the characteristic radiographic and clinical features of end-stage
 disease.
 
-## 4. Clinical Features
+## Clinical Features
 
 The classical presentation is of insidious onset of groin pain, typically in middle age or later,
 often poorly localized initially. The pain may radiate to the buttock, the lateral thigh, the
@@ -82,7 +82,7 @@ discrepancy with shortening of the affected side; and tenderness over the anteri
 The end-stage hip is held in fixed flexion, adduction, and external rotation, with severe
 limitation of all motion.
 
-## 5. Imaging
+## Imaging
 
 Plain Radiographs
 The standard imaging assessment is bilateral AP pelvis and lateral views of the hip. The
@@ -120,7 +120,7 @@ sensitive MRI sequences (delayed gadolinium-enhanced MRI of cartilage — dGEMRI
 mapping; T1-rho mapping) provide quantitative assessment of cartilage biochemical
 composition and are used principally in research settings.
 
-## 6. Non-Operative Management
+## Non-Operative Management
 
 The non-operative management of hip osteoarthritis combines patient education, lifestyle
 modification, pharmacological treatment, and specific physical therapy interventions.
@@ -150,7 +150,7 @@ Glucosamine and chondroitin are widely used by patients but have inconsistent ev
 for symptom relief and no clearly established effect on disease progression; current major
 guidelines do not endorse routine use.
 
-## 7. Joint-Preserving Surgery
+## Joint-Preserving Surgery
 
 For appropriate younger patients with pre-arthritic or early arthritic hip disease, joint-
 preserving surgical procedures aim to correct the underlying mechanical abnormality and
@@ -173,7 +173,7 @@ chromium ions, adverse local tissue reactions, pseudotumor formation). The proce
 remains an option in selected young active male patients with appropriate anatomy, but
 the use is now restricted to specialist centers with continuing interest.
 
-## 8. Total Hip Arthroplasty (THA)
+## Total Hip Arthroplasty (THA)
 
 Indications
 Total hip arthroplasty is indicated for end-stage hip osteoarthritis (Kellgren-Lawrence 3-4,
@@ -285,7 +285,7 @@ perioperative radiotherapy (700-800 cGy within 24-48 hours of surgery).
 Other complications: Sciatic, femoral, or lateral femoral cutaneous nerve injury; vascular
 injury; trochanteric bursitis; persistent pain of various etiologies.
 
-## 9. Special Considerations
+## Special Considerations
 
 Young Patients and Hip Preservation
 The young patient with hip pain demands particularly careful assessment for hip-
@@ -316,7 +316,7 @@ appropriate to the revision setting, and the management of infection if present.
 Paprosky classification of acetabular and femoral bone defects guides reconstruction
 planning.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Coxarthrosis is a common and disabling condition with substantial impact on quality of life.
 The disease is increasingly understood as the late consequence of subtle developmental hip

@@ -7,7 +7,7 @@ topicNumber: 4
 order: 4
 ---
 
-## 1. Introduction
+## Introduction
 
 Musculoskeletal infections constitute one of the great challenges of orthopedic practice.
 They cross the entire spectrum from acute hematogenous osteomyelitis of childhood,
@@ -25,7 +25,7 @@ specific organisms of orthopedic importance; tuberculosis of bones and joints (P
 disease, tuberculosis of the hip and knee, peripheral tuberculous arthritis); and the
 principles of antibiotic therapy and surgical debridement.
 
-## 2. Acute Hematogenous Osteomyelitis
+## Acute Hematogenous Osteomyelitis
 
 Epidemiology and Pathogenesis
 Acute hematogenous osteomyelitis is predominantly a disease of children, with the peak
@@ -115,7 +115,7 @@ irrigate. Open drainage of an intraosseous abscess or subperiosteal collection i
 performed through a small cortical window; the bone is left open for healing by secondary
 intention or filled with antibiotic-loaded bone substitute.
 
-## 3. Subacute Osteomyelitis and Brodie’s Abscess
+## Subacute Osteomyelitis and Brodie’s Abscess
 
 Subacute osteomyelitis represents an indolent, localized infection — most commonly with
 Staphylococcus aureus, although Kingella and other organisms are also implicated — in
@@ -133,7 +133,7 @@ childhood. Treatment combines targeted antibiotic therapy and surgical debrideme
 abscess is drained, cultured, and curetted; antibiotic therapy is continued for several
 weeks. Healing is usually uneventful, but recurrence has been described.
 
-## 4. Chronic Osteomyelitis and the Cierny-Mader Classification
+## Chronic Osteomyelitis and the Cierny-Mader Classification
 
 Pathogenesis
 Chronic osteomyelitis is the persistent or recurrent infection of bone in which dead bone
@@ -182,7 +182,7 @@ antibiotic-loaded bioabsorbable cement, and free flap reconstruction for skeleta
 Amputation remains a legitimate option for patients with extensive limb destruction, poor
 functional potential, or compromised hosts in whom limb salvage is unrealistic.
 
-## 5. Implant-Related Infections
+## Implant-Related Infections
 
 Periprosthetic joint infection (PJI) is the most consequential complication of total joint
 arthroplasty and is dealt with extensively in the arthroplasty chapter; the principles
@@ -203,7 +203,7 @@ infection), debridement, antibiotic therapy and implant retention (DAIR — appr
 early postoperative or acute hematogenous infection with a well-fixed implant and a
 treatable organism), and chronic suppressive antibiotic therapy.
 
-## 6. Septic Arthritis
+## Septic Arthritis
 
 Acute Septic Arthritis in Children
 Septic arthritis is a surgical emergency. Cartilage destruction begins within 8 hours of
@@ -244,7 +244,7 @@ than half of cases and urethral, cervical, and pharyngeal swabs are usually more
 diagnosis. The treatment principles parallel those for children, with urgent drainage and
 culture-directed antibiotic therapy.
 
-## 7. Specific Organisms and Their Implications
+## Specific Organisms and Their Implications
 
 Methicillin-Resistant Staphylococcus aureus (MRSA)
 MRSA — both healthcare-associated and community-acquired — has become a dominant
@@ -280,7 +280,7 @@ after open pelvic trauma. Anaerobic culture techniques and prolonged incubation 
 required for diagnosis. Treatment combines surgical debridement with metronidazole or
 clindamycin in addition to the agents targeting any concurrent aerobic organisms.
 
-## 8. Tuberculosis of Bones and Joints
+## Tuberculosis of Bones and Joints
 
 Epidemiology and Pathogenesis
 Bone and joint tuberculosis accounts for approximately 10-15% of extra-pulmonary
@@ -359,7 +359,7 @@ side of the flexor retinaculum — is a historical description still occasionall
 Tenosynovectomy combined with antituberculous chemotherapy is curative when applied
 at an early stage.
 
-## 9. Principles of Antibiotic Therapy
+## Principles of Antibiotic Therapy
 
 Antibiotic therapy for bone and joint infection follows several principles. First, samples for
 microbiology — joint aspirate, blood culture, deep tissue culture from surgical
@@ -382,7 +382,7 @@ and where appropriate imaging; failure of CRP to fall by 50% within 5-7 days of
 appropriate therapy suggests inadequate debridement, unsuspected adjacent infection, or
 resistant organisms, and merits reinvestigation.
 
-## 10. Surgical Principles of Debridement
+## Surgical Principles of Debridement
 
 Surgical debridement is the foundation of management for any deep-seated bone or joint
 infection beyond the acute hematogenous case in which prompt antibiotic therapy can
@@ -404,7 +404,7 @@ index procedure; the practice of “second-look” debridement is well establish
 related infections, in heavily contaminated open fractures, and in necrotizing soft-tissue
 infections.
 
-## 11. Necrotizing Soft-Tissue Infections
+## Necrotizing Soft-Tissue Infections
 
 Although technically not a bone or joint infection, necrotizing fasciitis must be addressed as
 a true orthopedic emergency in any review of musculoskeletal infection. The disease —
@@ -424,7 +424,7 @@ negative coverage. Mortality remains 20-30% even with optimal management; the si
 most important determinant of survival is the time from presentation to the first surgical
 debridement.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The bone and joint infections form a critical area of orthopedic practice in which the
 principles of diagnosis, antibiotic selection, and surgical debridement together determine

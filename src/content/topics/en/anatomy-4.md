@@ -7,7 +7,7 @@ topicNumber: 4
 order: 204
 ---
 
-## 1. Introduction
+## Introduction
 
 The elbow joint, with its complex combination of hinge motion (humeroulnar articulation)
 and pivot motion (proximal radioulnar joint) within a single capsule, presents distinct
@@ -23,7 +23,7 @@ approaches for the medial collateral ligament and ulnar nerve, and the anterior
 approaches for vascular and neural exploration. This chapter draws on Orthopaedic
 Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s Anatomy.
 
-## 2. Bony and Articular Anatomy
+## Bony and Articular Anatomy
 
 The elbow joint comprises three articulations within a single synovial capsule:
 Humeroulnar joint: Hinge articulation between the trochlea of the distal humerus and the
@@ -46,7 +46,7 @@ process (anterior buttress), and trochlear notch. The proximal radius has the di
 radial head (with the annular ligament around it), radial neck, and radial tuberosity (biceps
 insertion).
 
-## 3. Ligamentous Anatomy
+## Ligamentous Anatomy
 
 The medial collateral ligament (MCL) complex has three bundles:
 Anterior bundle: From the inferior anterior surface of the medial epicondyle to the
@@ -66,7 +66,7 @@ of the radial notch of the ulna.
 Accessory lateral collateral ligament: From the inferior aspect of the annular ligament to
 the supinator crest. Reinforces the LUCL.
 
-## 4. Neurovascular Structures
+## Neurovascular Structures
 
 Ulnar Nerve
 The ulnar nerve descends through the posterior medial intermuscular septum and enters
@@ -114,7 +114,7 @@ The cubital fossa contains the median nerve, brachial artery, and brachial veins
 bicipital aponeurosis crossing the artery superficially. The superficial veins (median
 cubital vein, cephalic vein, basilic vein) traverse the cubital fossa subcutaneously.
 
-## 5. The Kocher Approach (Lateral)
+## The Kocher Approach (Lateral)
 
 The Kocher approach is the classical lateral approach to the elbow joint, providing access
 to the radial head, capitellum, coronoid process (from the lateral side), lateral
@@ -156,7 +156,7 @@ The extensor digitorum communis (EDC) split approach uses the muscle-splitting p
 within the EDC rather than the Kocher interval, providing more direct access to the
 anterior aspect of the radial head. The PIN considerations are similar.
 
-## 6. Posterior Approaches to the Elbow
+## Posterior Approaches to the Elbow
 
 The posterior approaches were discussed in detail in the context of the distal humerus
 approaches in Topic Anatomy-3 (arm/humerus). They include:
@@ -176,7 +176,7 @@ reflecting in older techniques) is preferred to preserve the olecranon and trice
 For simple distal humerus exposure (e.g., for biopsy, tumor resection without articular
 involvement), the triceps-splitting or paratricipital approach may suffice.
 
-## 7. Medial Approach to the Elbow
+## Medial Approach to the Elbow
 
 The medial approach provides access to the medial epicondyle, medial collateral
 ligament, ulnar nerve, and medial coronoid process.
@@ -212,7 +212,7 @@ concern; the nerve must be identified and protected throughout), medial antebrac
 cutaneous nerve injury (with painful neuroma formation), and flexor mass disruption
 (with grip strength loss if the common flexor origin is not adequately repaired).
 
-## 8. Anterior Approach to the Elbow (Henry Approach to Elbow)
+## Anterior Approach to the Elbow (Henry Approach to Elbow)
 
 The anterior approach is used for vascular injury repair (brachial artery), distal
 biceps tendon repair, and selected exposures of the anterior elbow.
@@ -238,7 +238,7 @@ The complications of the anterior approach include median nerve injury, brachial
 injury, lateral antebrachial cutaneous nerve injury, and PIN injury (particularly during
 distal biceps tendon repair from the anterior approach).
 
-## 9. Surgical Approaches to the Cubital Tunnel and Ulnar Nerve
+## Surgical Approaches to the Cubital Tunnel and Ulnar Nerve
 
 The cubital tunnel is approached through a longitudinal incision posterior to the medial
 epicondyle. The Osborne ligament (the arcuate ligament between the two heads of the
@@ -256,7 +256,7 @@ Medial epicondylectomy is an alternative procedure that removes the medial epico
 allowing the nerve to lie naturally anterior; it has fallen out of favor because of concerns
 about MCL function and persistent pain.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The elbow joint, with its complex combination of hinge and pivot articulations, requires
 careful attention to the surrounding neurovascular structures during surgical approaches.

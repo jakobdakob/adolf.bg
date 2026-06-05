@@ -7,7 +7,7 @@ topicNumber: 17
 order: 17
 ---
 
-## 1. Introduction
+## Introduction
 
 This chapter addresses two distinct but classically grouped focal developmental disorders
 of growth: Blount’s disease (tibia vara), a disorder of the medial portion of the proximal
@@ -20,7 +20,7 @@ surgeon for the planning of conservative or surgical management. Content is synt
 from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, Miller’s Review, and Netter’s
 Concise Orthopaedic Anatomy.
 
-## 2. Blount’s Disease (Tibia Vara)
+## Blount’s Disease (Tibia Vara)
 
 Definition and Epidemiology
 Blount’s disease — proximal tibia vara — is a developmental disorder of the medial portion
@@ -145,7 +145,7 @@ with acute corrections); and peroneal nerve injury (the nerve is at risk during 
 tibial osteotomy and should be protected, particularly with a fibular osteotomy that may be
 performed in conjunction).
 
-## 3. Madelung’s Deformity
+## Madelung’s Deformity
 
 Definition and Epidemiology
 Madelung’s deformity is a developmental disorder of the distal radial physis characterized
@@ -236,7 +236,7 @@ salvage procedures), recurrence of deformity (uncommon when the underlying physe
 arrest has been addressed), and the development of carpal arthritis from the persistent
 abnormal joint mechanics.
 
-## 4. Related Conditions
+## Related Conditions
 
 Léri-Weill Dyschondrosteosis
 Léri-Weill dyschondrosteosis is an autosomal dominant condition caused by SHOX gene
@@ -259,7 +259,7 @@ ulna by exostoses, with growth disturbance and characteristic forearm shortening
 bowing. The management combines exostosis excision with corrective osteotomies and, in
 severe cases, ulnar lengthening.
 
-## 5. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Blount’s disease and Madelung’s deformity, although affecting different parts of the
 skeleton, share the underlying theme of asymmetric physeal growth producing progressive

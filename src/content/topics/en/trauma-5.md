@@ -7,7 +7,7 @@ topicNumber: 5
 order: 105
 ---
 
-## 1. Introduction
+## Introduction
 
 Open fractures, gunshot injuries, crushing injuries, and the management of severely
 mangled limbs constitute the most demanding fracture-related conditions encountered in
@@ -17,7 +17,7 @@ addresses both the bone injury and the often more consequential soft-tissue and 
 components. This chapter synthesizes content from AO Principles of Fracture Management,
 Rockwood and Green’s, Apley & Solomon’s, and Miller’s Review.
 
-## 2. Open Fractures
+## Open Fractures
 
 Definition and Epidemiology
 An open fracture is one in which the fracture site communicates with the external
@@ -121,7 +121,7 @@ with biofilm-associated implant infection being particularly difficult to manage
 (substantially elevated rates compared with closed fractures); soft-tissue compromise; and
 limb-length discrepancy from bone loss.
 
-## 3. Gunshot Fractures
+## Gunshot Fractures
 
 Classification by Energy
 Gunshot injuries are classified by the energy of the projectile:
@@ -151,7 +151,7 @@ The classical orthopedic implication is that low-velocity gunshot fractures shou
 assumed to be “minor” wounds — careful assessment and standard open fracture
 management is required.
 
-## 4. Crush Syndrome
+## Crush Syndrome
 
 Crush syndrome is the systemic syndrome that follows release of a crushed limb from
 prolonged compression. The condition was first described in the London Blitz of 1941 and
@@ -192,7 +192,7 @@ anticipated. The decision regarding limb salvage versus amputation depends on th
 viability of the limb and the patient’s systemic condition; in some cases primary
 amputation is required to control the systemic consequences.
 
-## 5. Amputations
+## Amputations
 
 Amputation is the surgical removal of a limb or limb segment. It is among the most
 consequential decisions in orthopedic surgery, with profound implications for the patient’s
@@ -277,7 +277,7 @@ interventional procedures (peripheral nerve blocks, stump revision for symptomat
 neuromas, targeted muscle reinnervation, peripheral nerve interface electrodes), and other
 therapies are used with variable success.
 
-## 6. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Open fractures require prompt antibiotic administration (the single most important
 intervention), tetanus prophylaxis, early surgical debridement, fracture stabilization (often

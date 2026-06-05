@@ -7,7 +7,7 @@ topicNumber: 9
 order: 109
 ---
 
-## 1. Introduction
+## Introduction
 
 Bacterial infection following orthopedic injury or surgery constitutes one of the most
 feared complications in the discipline, both for the morbidity of the immediate illness and
@@ -24,7 +24,7 @@ Management, Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, Mil
 Review, and the bone-and-joint-infection chapter of the previous orthopedic topic on
 pyogenic disease (Topic Orth-4) for cross-reference.
 
-## 2. Septic Arthritis — Definitions and Epidemiology
+## Septic Arthritis — Definitions and Epidemiology
 
 Septic arthritis is the infection of a joint, most commonly by hematogenous seeding of
 synovium followed by proliferation in the joint cavity, but also by direct inoculation from
@@ -47,7 +47,7 @@ diabetes, immunosuppression (including HIV, chronic steroid therapy, and biologi
 agents), recent joint surgery or injection, intravenous drug use, and skin or soft tissue
 infection adjacent to a joint.
 
-## 3. Clinical Features and Investigation
+## Clinical Features and Investigation
 
 The classical presentation of septic arthritis is the acutely painful, swollen, warm joint with
 restricted active and passive motion, accompanied by systemic features of fever, malaise,
@@ -75,7 +75,7 @@ knee). Ultrasound is the modality of choice for confirming and guiding aspiratio
 suspected hip effusion in children. MRI is sensitive for adjacent osteomyelitis and adjacent
 abscess collections.
 
-## 4. Treatment of Septic Arthritis
+## Treatment of Septic Arthritis
 
 The treatment of septic arthritis has two essential components: urgent joint drainage and
 organism-directed antibiotic therapy. The native joint, once septic, cannot reliably be
@@ -108,7 +108,7 @@ than those drained later, with the threshold of irreversible cartilage damage ty
 placed at three to seven days. In children, septic hip arthritis carries a meaningful risk of
 femoral head osteonecrosis, growth disturbance, and dislocation if treatment is delayed.
 
-## 5. Post-Traumatic Osteomyelitis — Pathogenesis
+## Post-Traumatic Osteomyelitis — Pathogenesis
 
 Post-traumatic osteomyelitis is osteomyelitis arising in the setting of preceding trauma or
 surgical fracture management, distinguishing it from the hematogenous osteomyelitis of
@@ -139,7 +139,7 @@ malnutrition; Bl local compromise: lymphedema, prior radiation, vascular insuffi
 Host C is the patient in whom the treatment is worse than the disease and palliation is
 appropriate. The classification guides treatment intensity and predicts outcome.
 
-## 6. Diagnosis of Chronic Osteomyelitis
+## Diagnosis of Chronic Osteomyelitis
 
 The diagnosis of chronic osteomyelitis combines clinical, laboratory, and imaging features.
 Clinical features include persistent or recurrent drainage from a sinus tract, persistent
@@ -163,7 +163,7 @@ deep pathogen. Sonication of explanted hardware, which dislodges biofilm organis
 into a sonication fluid, has improved the diagnostic yield in periprosthetic and post-
 traumatic implant infection.
 
-## 7. Treatment of Post-Traumatic Osteomyelitis
+## Treatment of Post-Traumatic Osteomyelitis
 
 The treatment of chronic post-traumatic osteomyelitis combines radical surgical
 debridement with prolonged organism-directed antibiotic therapy. The cardinal
@@ -207,7 +207,7 @@ six to eight weeks of organism-directed antibiotic therapy, and then a definitiv
 reconstruction by Masquelet technique, bone transport, or vascularized graft as discussed
 in Topic Trauma-8.
 
-## 8. Anaerobic Infections and Necrotizing Soft Tissue Infections
+## Anaerobic Infections and Necrotizing Soft Tissue Infections
 
 The anaerobic infections form a small but historically important category of orthopedic
 infectious complications, encompassing clostridial gas gangrene (myonecrosis),
@@ -264,7 +264,7 @@ toxoid is administered if the last dose was more than five years ago (for tetanu
 wounds) or more than ten years ago (for clean minor wounds), and HTIG is reserved for
 tetanus-prone wounds in incompletely immunized patients.
 
-## 9. Infection Prevention in Orthopedic Surgery
+## Infection Prevention in Orthopedic Surgery
 
 Although a full review of surgical site infection prevention is beyond the scope of this
 chapter, several principles deserve emphasis. Preoperative antibiotic prophylaxis with
@@ -282,7 +282,7 @@ patients. Operating room discipline — minimizing traffic, laminar flow ventila
 body exhaust suits in arthroplasty, careful adherence to scrub technique — completes the
 system of preventive measures.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Septic arthritis is a surgical emergency requiring urgent joint drainage combined with
 organism-directed antibiotic therapy. The classical organism is Staphylococcus aureus;

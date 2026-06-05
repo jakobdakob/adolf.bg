@@ -7,7 +7,7 @@ topicNumber: 9
 order: 209
 ---
 
-## 1. Introduction
+## Introduction
 
 The thigh and knee region contains the longest bone in the body (femur), the largest joint
 (knee), and a substantial muscular envelope that organizes the major movements of the
@@ -23,7 +23,7 @@ intra-articular anatomy is essential to the orthopedic surgeon. This chapter dra
 Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s
 Anatomy.
 
-## 2. Thigh Anatomy and Compartments
+## Thigh Anatomy and Compartments
 
 The thigh has three principal muscular compartments separated by intermuscular septa
 attached to the linea aspera of the femur:
@@ -51,7 +51,7 @@ the semimembranosus/semitendinosus (superomedial), and the two heads of
 gastrocnemius (inferiorly). Contains the popliteal artery, popliteal vein, and tibial/common
 peroneal nerves (the sciatic nerve divides at the apex of the fossa).
 
-## 3. Approaches to the Femoral Shaft
+## Approaches to the Femoral Shaft
 
 The femoral shaft is approached for fracture fixation, tumor resection, and biopsy. The
 principal options:
@@ -68,7 +68,7 @@ Antegrade and retrograde nailing entry: As described in Topic Trauma-23, antegra
 nailing uses a piriformis or trochanteric entry, and retrograde nailing uses an intercondylar
 notch entry through a small parapatellar arthrotomy.
 
-## 4. Knee Bony and Articular Anatomy
+## Knee Bony and Articular Anatomy
 
 The knee joint comprises:
 Tibiofemoral joint: Hinge joint between the distal femur (medial and lateral condyles)
@@ -82,7 +82,7 @@ distribution and joint conformity.
 The collateral ligaments (MCL medially, LCL with the posterolateral corner laterally)
 provide coronal-plane stability.
 
-## 5. Knee Approaches
+## Knee Approaches
 
 Medial Parapatellar Approach
 The medial parapatellar approach is the classical and most commonly used approach for
@@ -122,7 +122,7 @@ vessels and tibial nerve. The medial head of the gastrocnemius is retracted late
 expose the posterior tibia. The popliteal vessels and tibial nerve are identified and
 protected.
 
-## 6. Specific Approaches for Tibial Plateau Fractures
+## Specific Approaches for Tibial Plateau Fractures
 
 For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typically through
 an anterolateral incision with a submeniscal arthrotomy to allow direct visualization of the
@@ -132,7 +132,7 @@ For bicondylar fractures (Schatzker V, VI), dual approaches (medial and lateral)
 separate incisions are preferred to avoid the central anterior incision and the associated
 soft-tissue compromise.
 
-## 7. Knee Arthroscopy
+## Knee Arthroscopy
 
 Knee arthroscopy is one of the most commonly performed orthopedic procedures, with
 portals as detailed in Topic Trauma-26. The standard anterolateral and anteromedial
@@ -144,7 +144,7 @@ arthroscopic procedures include meniscectomy, meniscal repair, cartilage procedu
 (microfracture, OATS, ACI), ACL reconstruction, PCL reconstruction, loose body removal,
 and synovectomy.
 
-## 8. Compartment Syndrome of the Thigh and Knee
+## Compartment Syndrome of the Thigh and Knee
 
 Thigh compartment syndrome is uncommon but described, particularly with high-energy
 crush injuries, vascular injury with reperfusion, prolonged operative positioning, and
@@ -153,7 +153,7 @@ incisions — lateral and medial — providing release of the anterior compartme
 incision), the posterior compartment (lateral or separate posterior incision), and the
 medial compartment (medial incision).
 
-## 9. Neurovascular Anatomy of the Thigh and Knee
+## Neurovascular Anatomy of the Thigh and Knee
 
 The principal neurovascular concerns include:
 Femoral nerve: Descends through the femoral triangle. Vulnerable in retroperitoneal
@@ -172,7 +172,7 @@ Tibial nerve: Continues distally through the popliteal fossa.
 Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee
 dislocations (Topic Trauma-26) and distal femur/proximal tibia fractures.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The thigh has three principal compartments (anterior with quadriceps and femoral nerve,
 medial with adductors and obturator nerve, posterior with hamstrings and sciatic nerve),

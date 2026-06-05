@@ -7,7 +7,7 @@ topicNumber: 13
 order: 113
 ---
 
-## 1. Introduction
+## Introduction
 
 Proximal humerus fractures are the third most common fragility fracture in the elderly,
 after hip and distal radius fractures, with a steeply rising incidence in the populations over
@@ -26,7 +26,7 @@ Fractures in Adults, AO Principles of Fracture Management, Miller’s Review of
 Orthopaedics, and Apley & Solomon’s, synthesizes the contemporary management of these
 injuries.
 
-## 2. Surgical Anatomy
+## Surgical Anatomy
 
 The proximal humerus comprises four anatomical regions defined by the Codman
 description of the 1930s: the humeral head (articular surface, above the anatomical neck),
@@ -56,7 +56,7 @@ greater tuberosity superiorly and posteriorly; the subscapularis pulls the lesse
 medially; the unopposed pectoralis major displaces the shaft fragment medially when the
 surgical neck is fractured.
 
-## 3. Classification — Neer Classification
+## Classification — Neer Classification
 
 The Neer classification (Charles Neer, 1970) has structured proximal humerus fracture
 management for over five decades and remains the most widely used system in clinical
@@ -80,7 +80,7 @@ The Neer classification has been criticized for limited inter- and intra-observe
 conceptual structure remains useful, and modern imaging (3D CT reconstruction) has
 improved reliability when used systematically.
 
-## 4. Classification — AO/OTA System
+## Classification — AO/OTA System
 
 The AO/OTA classification provides a more elaborate hierarchical system that
 incorporates fracture morphology and tuberosity displacement. Type A fractures are
@@ -91,7 +91,7 @@ patterns. Each type is subdivided by displacement and complexity. The AO/OTA sys
 more comprehensive than Neer but is less commonly used in everyday practice; it remains
 the system of choice for research applications.
 
-## 5. Diagnosis and Imaging
+## Diagnosis and Imaging
 
 The clinical presentation is the patient with shoulder pain after a fall, with reduced active
 and passive motion, ecchymosis that typically tracks down the arm to the elbow over the
@@ -112,7 +112,7 @@ head-splitting components, and tuberosity comminution. MRI is rarely needed acut
 is occasionally useful to evaluate the integrity of the rotator cuff in the operative candidate,
 particularly when reverse arthroplasty is being considered.
 
-## 6. Non-Operative Management
+## Non-Operative Management
 
 The default treatment for the vast majority of proximal humerus fractures, including many
 displaced patterns, is non-operative. The PROFHER trial (Rangan et al., 2015), a
@@ -133,7 +133,7 @@ Complications of non-operative treatment include malunion, nonunion (uncommon, 1
 percent), avascular necrosis (in three- and four-part fractures, 3 to 15 percent), and
 persistent stiffness.
 
-## 7. Operative Management — Indications
+## Operative Management — Indications
 
 The narrowing list of clear indications for operative intervention includes:
 •   Displaced two-part surgical neck fractures with significant displacement in
@@ -157,7 +157,7 @@ non-operative management (the increasing preference) and arthroplasty
 (hemiarthroplasty or reverse), with ORIF being increasingly reserved for the relatively
 younger and bone-stock-preserved patient.
 
-## 8. Operative Techniques
+## Operative Techniques
 
 Open Reduction and Internal Fixation
 The standard technique is anatomical locking plate fixation through a deltopectoral
@@ -213,7 +213,7 @@ subject of several trials. The general direction has been toward RTSA in patient
 70, with hemiarthroplasty reserved for the younger patient with reasonable bone quality
 and intact rotator cuff in whom RTSA is to be avoided because of longevity concerns.
 
-## 9. Specific Fracture Patterns
+## Specific Fracture Patterns
 
 Greater Tuberosity Fractures
 Isolated greater tuberosity fractures, frequently associated with anterior glenohumeral
@@ -249,7 +249,7 @@ treated with arthroplasty. In the young patient, anatomical ORIF is attempted be
 the unacceptability of arthroplasty in this age group, with the patient counseled about the
 risk of subsequent AVN and the potential need for late arthroplasty.
 
-## 10. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Proximal humerus fractures, the third most common fragility fracture, are predominantly
 low-energy injuries in the elderly osteoporotic patient. The Neer classification — built on

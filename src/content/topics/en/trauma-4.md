@@ -7,7 +7,7 @@ topicNumber: 4
 order: 104
 ---
 
-## 1. Introduction
+## Introduction
 
 Operative osteosynthesis — the surgical fixation of fractures with internal or external
 metallic implants — is the foundation of modern fracture surgery and one of the great
@@ -22,7 +22,7 @@ osteosynthesis, the principal implant types (screws, plates, intramedullary nail
 fixators, cerclage wire and tension band), the biomechanical principles guiding their use,
 the specific indications and techniques, and the principles of implant removal.
 
-## 2. Biomechanical Principles
+## Biomechanical Principles
 
 The biomechanical environment created by fracture fixation determines the mechanism of
 healing. The fundamental distinction is between absolute stability (rigid fixation with no
@@ -45,7 +45,7 @@ nails can function as load-bearing implants when the fracture pattern does not p
 reduction and direct bone contact; they function as load-sharing implants when the bone
 fragments are reduced and contribute to load transmission.
 
-## 3. Implant Materials
+## Implant Materials
 
 The materials used in osteosynthesis are similar to those used in arthroplasty (see chapter
 on arthroplasty principles): stainless steel (316L grade for trauma implants); titanium and
@@ -58,7 +58,7 @@ applications in selected fractures (particularly malleolar and small-fragment fr
 their use has been limited by the occasionally inadequate strength and by the inflammatory
 response to degradation products in some cases.
 
-## 4. Screws
+## Screws
 
 The screw is the most fundamental implant in fracture surgery. The principal types and
 applications include:
@@ -99,7 +99,7 @@ ankylosis fixation in some cases, and for transfixation in some other situations
 Plate fixation: Screws securing a plate to bone, providing the connection between the
 plate and the underlying bone.
 
-## 5. Plates
+## Plates
 
 Plates are flat metal devices applied to the surface of bone and secured by screws. The
 principal types and functions of plates include:
@@ -156,7 +156,7 @@ vascularity, with documented benefits in healing rates and complication profiles
 selected fractures (particularly metaphyseal and distal humeral, distal femoral, proximal
 tibial, and distal tibial fractures).
 
-## 6. Intramedullary Nails
+## Intramedullary Nails
 
 The intramedullary nail is a long implant inserted into the medullary canal of a long bone,
 providing internal splinting of the fracture. The principal applications are diaphyseal
@@ -205,7 +205,7 @@ potential for malreduction (the nail follows the medullary canal, which may not 
 match the desired axis); and the limitations in metaphyseal regions where the nail provides
 less reliable fixation.
 
-## 7. External Fixation
+## External Fixation
 
 External fixation involves pins or wires inserted into bone above and below the fracture,
 with the pins connected externally by bars, rings, or frames. The principal types include:
@@ -229,7 +229,7 @@ The complications of external fixation include pin-tract infection (the principa
 concern, requiring meticulous pin-site care), pin loosening, malunion, joint stiffness, and
 patient discomfort with prolonged frame use.
 
-## 8. Cerclage Wire and Tension Band Wiring
+## Cerclage Wire and Tension Band Wiring
 
 Cerclage wire is a length of wire passed around bone and twisted to compress fragments
 together. Used historically for transverse and oblique fractures, cerclage is now used
@@ -243,7 +243,7 @@ figure-of-eight tension band wiring (with two parallel K-wires through the fragm
 figure-of-eight wire over them and around a screw or transverse pin distal to the fracture)
 and modified tension band wiring with various modifications.
 
-## 9. Indications for Operative Treatment
+## Indications for Operative Treatment
 
 The principal indications for operative fixation, summarized from the AO principles and
 other sources, include:
@@ -262,7 +262,7 @@ Specific fracture patterns known to have poor outcomes with conservative managem
 Patient factors including the requirements for early mobilization, the need to avoid
 prolonged casting, and patient preference.
 
-## 10. Damage Control Orthopedics
+## Damage Control Orthopedics
 
 The concept of “damage control orthopedics” (DCO), developed in the 1990s, applies to the
 polytrauma patient in whom prolonged operative procedures may exacerbate the
@@ -279,7 +279,7 @@ all fractures) is based on the patient’s overall physiological status, with th
 patient — neither clearly stable nor clearly unstable — being the principal focus of clinical
 decision-making.
 
-## 11. Implant Removal
+## Implant Removal
 
 The decision to remove orthopedic implants after fracture healing is one of the more
 controversial areas of fracture surgery. The principal indications for removal include:
@@ -307,7 +307,7 @@ radius), particularly in young active patients; pediatric implants spanning phys
 syndesmotic screws (timing debated, with current trend toward selective rather than
 routine removal); and infected implants.
 
-## 12. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 Operative osteosynthesis is the foundation of modern fracture surgery, with the AO
 principles of anatomical reduction, stable fixation, preservation of vascularity, and early

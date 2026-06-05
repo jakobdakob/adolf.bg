@@ -24,7 +24,7 @@ order: 0
 11. Rockwood and Green's Fractures in Adults
 12. Rothman-Simeone The Spine, 6th ed.
 
-## 13. Tachdjian's Pediatric Orthopaedics
+## Tachdjian's Pediatric Orthopaedics
 
 
 Всяка тема е написана като свързан текст, организиран по подтеми: анатомия,

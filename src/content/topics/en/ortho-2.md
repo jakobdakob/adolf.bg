@@ -7,7 +7,7 @@ topicNumber: 2
 order: 2
 ---
 
-## 1. Introduction and Classification
+## Introduction and Classification
 
 Benign bone tumors are clonal neoplastic proliferations of bone-derived or matrix-
 producing cells that, in contrast to malignant tumors, demonstrate limited growth
@@ -35,7 +35,7 @@ metastasizing adamantinoma. The presentation of each follows the same framework 
 epidemiology, pathology, clinical features, radiographic findings, differential diagnosis,
 treatment, complications — to permit direct comparison.
 
-## 2. Osteoid Osteoma
+## Osteoid Osteoma
 
 Epidemiology and Pathology
 Osteoid osteoma is a small, benign, bone-forming tumor characterized by a central vascular
@@ -92,7 +92,7 @@ lesions within 1 cm of the spinal cord or major nerves and lesions in subcutaneo
 (digits) where thermal injury to overlying skin is a concern; in these cases open surgical
 excision remains the standard.
 
-## 3. Osteoblastoma
+## Osteoblastoma
 
 Osteoblastoma is a benign bone-forming tumor that resembles osteoid osteoma
 histologically but differs in three important respects: it is larger (>1.5 to 2 cm), it lacks the
@@ -114,7 +114,7 @@ resection is reserved for aggressive lesions, lesions with significant soft-tiss
 those in expendable bones. Preoperative selective arterial embolization is sometimes
 useful in reducing intraoperative blood loss for large spinal or pelvic lesions.
 
-## 4. Osteochondroma
+## Osteochondroma
 
 Solitary Osteochondroma (Exostosis)
 The solitary osteochondroma — also called osteocartilaginous exostosis — is the
@@ -165,7 +165,7 @@ surveillance, excision of symptomatic individual lesions, correction of secondar
 deformities (forearm osteotomies, hemiepiphysiodesis for genu valgum), and lifelong
 monitoring for the development of pain or growth in a previously stable lesion.
 
-## 5. Enchondroma and the Enchondromatoses
+## Enchondroma and the Enchondromatoses
 
 Solitary Enchondroma
 Enchondroma is a benign cartilaginous tumor arising within the medullary cavity of bone,
@@ -208,7 +208,7 @@ malignancies including ovarian and pancreatic cancers and brain gliomas. Surveil
 therefore essential, with low threshold for biopsy of any painful or growing lesion in
 adulthood.
 
-## 6. Chondroblastoma and Chondromyxoid Fibroma
+## Chondroblastoma and Chondromyxoid Fibroma
 
 Chondroblastoma
 Chondroblastoma — historically called Codman tumor for its predilection for the proximal
@@ -241,7 +241,7 @@ consists of stellate or spindle-shaped cells in a chondroid or myxoid matrix arr
 lobules with sharp boundaries. Treatment is extended curettage with bone grafting, and
 recurrence rates approach 15-25%.
 
-## 7. Giant Cell Tumor of Bone
+## Giant Cell Tumor of Bone
 
 Epidemiology and Pathology
 Giant cell tumor of bone (GCT) is a benign but locally aggressive tumor, classified in the
@@ -287,7 +287,7 @@ medical therapy. Approximately 2% of GCTs metastasize, almost always to the lung
 slow-growing, biologically benign “benign pulmonary metastases” that often respond to
 local resection or even observation.
 
-## 8. Hemangioma of Bone
+## Hemangioma of Bone
 
 Hemangioma of bone is a benign vascular lesion that occurs most commonly in the
 vertebral bodies (where it accounts for the great majority of incidentally noted vertebral
@@ -302,7 +302,7 @@ soft-tissue mass, or neurological compression — can be treated with vertebropl
 obliterates the vascular spaces and provides mechanical reinforcement), embolization, or
 — rarely — radiotherapy.
 
-## 9. Other Benign Lesions
+## Other Benign Lesions
 
 Intraosseous Lipoma
 Intraosseous lipoma is a rare benign tumor of fat within bone. The commonest locations
@@ -326,7 +326,7 @@ sacrum, and vertebral bodies. The lesion is typically a well-defined, expansile,
 histologically the picture is that of a soft-tissue schwannoma with Antoni A and B areas.
 Treatment is curettage; recurrence is uncommon.
 
-## 10. Principles of Surgical Management for Benign Bone Tumors
+## Principles of Surgical Management for Benign Bone Tumors
 
 The surgical management of benign bone tumors follows a hierarchy based on Enneking
 grading and the specific behavior of each lesion. Observation is appropriate for latent
@@ -359,7 +359,7 @@ creeping substitution for cancellous autograft, slower remodeling for allograft,
 union for vascularized autograft — govern the choice of reconstruction and the
 postoperative rehabilitation protocol.
 
-## 11. Summary and Take-Home Points
+## Summary and Take-Home Points
 
 The benign bone tumors are a diverse family unified by their limited growth potential and
 the predictability of their natural histories when correctly identified. The key clinical

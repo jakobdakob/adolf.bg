@@ -23,8 +23,13 @@ const heroSubtitle = lang === "bg"
   ? "Свързан учебен текст по 74 теми, обхващащ ортопедията, травматологията и хирургичната анатомия — синтезиран от 14 справочни издания за подготовка за държавния изпит."
   : "A connected exam-prep text across 74 topics covering orthopedics, traumatology, and surgical anatomy — synthesised from 14 reference textbooks for the Bulgarian state board.";
 
-const ctaStart = lang === "bg" ? "Започни от Ортопедия" : "Start with Orthopedics";
-const ctaContents = lang === "bg" ? "Към темите" : "Jump to contents";
+const ctaOrtho    = lang === "bg" ? "Към Ортопедия"    : "Jump to Orthopedics";
+const ctaTrauma   = lang === "bg" ? "Към Травматология" : "Jump to Traumatology";
+const ctaAnatomy  = lang === "bg" ? "Към Анатомия"      : "Jump to Anatomy";
+const ctaFeedback = lang === "bg" ? "Обратна връзка?"   : "Feedback?";
+
+// Viber chat link to Jakob. Phone is e.164 with the leading + url-encoded.
+const viberChat = "viber://chat?number=%2B41768150804";
 
 const contentsLabel = lang === "bg" ? "Съдържание" : "Contents";
 const contentsTitle = lang === "bg" ? "Темите." : "The topics.";
@@ -32,7 +37,6 @@ const contentsLede = lang === "bg"
   ? "Тридесет теми по ортопедия, тридесет и две по травматология, дванадесет по хирургична анатомия. Кликни произволна, за да започнеш."
   : "Thirty topics in orthopedics, thirty-two in traumatology, twelve in surgical anatomy. Click any to begin.";
 
-const startHref = topicPath(lang, ortho[0]);
 ---
 <BaseLayout lang={lang} otherPath={otherPath}>
   <section class="hero">
@@ -40,9 +44,11 @@ const startHref = topicPath(lang, ortho[0]);
       <span class="eyebrow">{heroEyebrow}</span>
       <h1 class="hero-display">{heroTitle}</h1>
       <p class="hero-subtitle">{heroSubtitle}</p>
-      <div class="hero-cta">
-        <a href={startHref} class="btn btn-primary">{ctaStart}</a>
-        <a href="#contents" class="btn btn-ghost">{ctaContents}</a>
+      <div class="cta-stack">
+        <a href="#ortho"   class="btn btn-primary btn-block">{ctaOrtho}</a>
+        <a href="#trauma"  class="btn btn-primary btn-block">{ctaTrauma}</a>
+        <a href="#anatomy" class="btn btn-primary btn-block">{ctaAnatomy}</a>
+        <a href={viberChat} class="btn btn-viber btn-block" rel="external">{ctaFeedback}</a>
       </div>
     </div>
   </section>
@@ -54,7 +60,7 @@ const startHref = topicPath(lang, ortho[0]);
       <p class="section-lede">{contentsLede}</p>
     </div>
 
-    <div class="toc-group reveal">
+    <div id="ortho" class="toc-group reveal">
       <div class="toc-group-label">{t.sectionOrtho}</div>
       <ol class="toc-list">
         {ortho.map((e) => (
@@ -68,7 +74,7 @@ const startHref = topicPath(lang, ortho[0]);
       </ol>
     </div>
 
-    <div class="toc-group reveal">
+    <div id="trauma" class="toc-group reveal">
       <div class="toc-group-label">{t.sectionTrauma}</div>
       <ol class="toc-list">
         {trauma.map((e) => (
@@ -82,7 +88,7 @@ const startHref = topicPath(lang, ortho[0]);
       </ol>
     </div>
 
-    <div class="toc-group reveal">
+    <div id="anatomy" class="toc-group reveal">
       <div class="toc-group-label">{t.sectionAnatomy}</div>
       <ol class="toc-list">
         {anatomy.map((e) => (
@@ -108,12 +114,9 @@ const startHref = topicPath(lang, ortho[0]);
     padding-bottom: var(--s-9);
   }
   .hero-inner { max-width: 1000px; }
-  .hero-cta {
-    display: flex;
-    gap: var(--s-3);
-    margin-top: var(--s-7);
-    flex-wrap: wrap;
-  }
+
+  /* Scroll-margin so sticky-header doesn't cover the anchor target. */
+  #ortho, #trauma, #anatomy { scroll-margin-top: 72px; }
   .toc {
     max-width: var(--shell-width);
     margin: 0 auto;

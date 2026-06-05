@@ -115,6 +115,10 @@ html, body {
   text-rendering: optimizeLegibility;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Inter", "SF Pro Text",
     "Segoe UI", Roboto, system-ui, sans-serif;
@@ -207,7 +211,7 @@ a { color: inherit; text-decoration: none; }
   color: #FAF9F7;
 }
 html[data-theme="dark"] .btn-primary { color: #0F0F12; }
-.btn-primary:hover { transform: translateY(-1px); }
+.btn-primary:hover { transform: translateY(-1px); filter: brightness(1.05); }
 .btn-ghost {
   border: 1px solid var(--rule-strong);
   color: var(--ink);
@@ -215,6 +219,28 @@ html[data-theme="dark"] .btn-primary { color: #0F0F12; }
 .btn-ghost:hover {
   border-color: var(--accent);
   color: var(--accent);
+}
+.btn-viber {
+  background: #7360F2;
+  color: #FFFFFF;
+}
+.btn-viber:hover { transform: translateY(-1px); filter: brightness(1.06); }
+
+/* Full-width block variant for stacked CTAs */
+.btn-block {
+  display: flex;
+  width: 100%;
+  padding: 0.95rem 1.6rem;
+  font-size: 1rem;
+}
+
+/* Vertical stack for CTAs */
+.cta-stack {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  max-width: 420px;
+  margin-top: var(--s-7);
 }
 
 /* Anchor link with animated underline */

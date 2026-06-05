@@ -206,12 +206,19 @@ a { color: inherit; text-decoration: none; }
               border-color 160ms var(--ease), transform 160ms var(--ease);
   white-space: nowrap;
 }
+/* Outlined accent button — teal border + teal text, transparent bg.
+   Hover lightly tints the background with the accent. */
 .btn-primary {
-  background: var(--accent);
-  color: #FAF9F7;
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--accent);
 }
-html[data-theme="dark"] .btn-primary { color: #0F0F12; }
-.btn-primary:hover { transform: translateY(-1px); filter: brightness(1.05); }
+.btn-primary:hover {
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+
+/* Neutral ghost button — used elsewhere if needed */
 .btn-ghost {
   border: 1px solid var(--rule-strong);
   color: var(--ink);
@@ -220,11 +227,24 @@ html[data-theme="dark"] .btn-primary { color: #0F0F12; }
   border-color: var(--accent);
   color: var(--accent);
 }
+
+/* Outlined Viber button — purple border + purple text. */
 .btn-viber {
-  background: #7360F2;
-  color: #FFFFFF;
+  background: transparent;
+  color: #7360F2;
+  border: 1.5px solid #7360F2;
 }
-.btn-viber:hover { transform: translateY(-1px); filter: brightness(1.06); }
+.btn-viber:hover {
+  background: rgba(115, 96, 242, 0.10);
+  transform: translateY(-1px);
+}
+html[data-theme="dark"] .btn-viber {
+  color: #9686F6;
+  border-color: #9686F6;
+}
+html[data-theme="dark"] .btn-viber:hover {
+  background: rgba(150, 134, 246, 0.14);
+}
 
 /* Full-width block variant for stacked CTAs */
 .btn-block {

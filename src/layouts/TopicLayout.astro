@@ -14,15 +14,19 @@ const { lang, entry, otherPath } = Astro.props;
 const t = ui[lang];
 
 const allEntries = await getTopicsByLang(lang);
-// Exclude preface from prev/next navigation — it is hidden from the site.
-const all = allEntries.filter((e) => e.data.kind === "topic");
-const idx = all.findIndex((e) => e.slug === entry.slug);
-const prev = idx > 0 ? all[idx - 1] : undefined;
-const next = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined;
 
-const section =
+const section: "ortho" | "trauma" | "anatomy" | "preface" =
   entry.data.kind === "preface" ? "preface" :
-  entry.data.section ?? "ortho";
+  (entry.data.section as any) ?? "ortho";
+
+// prev/next stay within the current section so end-of-Ortho doesn't jump into
+// Trauma. Section switching happens via the top nav.
+const sectionTopics = allEntries.filter(
+  (e) => e.data.kind === "topic" && e.data.section === section
+);
+const idx = sectionTopics.findIndex((e) => e.slug === entry.slug);
+const prev = idx > 0 ? sectionTopics[idx - 1] : undefined;
+const next = idx >= 0 && idx < sectionTopics.length - 1 ? sectionTopics[idx + 1] : undefined;
 
 function sectionLabel(s?: string): string {
   if (s === "ortho") return t.sectionOrtho;
@@ -43,9 +47,9 @@ const eyebrow =
   currentSection={section as any}
   showMenuButton={true}
 >
-  <MobileDrawer lang={lang} active={entry.slug} />
+  <MobileDrawer lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
   <div class="topic-shell">
-    <TopicSidebar lang={lang} active={entry.slug} />
+    <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article">
       <span class="eyebrow">{eyebrow}</span>
       <h1 class="topic-title">{entry.data.title}</h1>

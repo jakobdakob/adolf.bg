@@ -2,38 +2,36 @@
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
 
+type Section = "ortho" | "trauma" | "anatomy";
+
 interface Props {
   lang: Lang;
   active?: string;
   drawer?: boolean;
+  /** Which section's topics to show. Required — defaults to ortho if missing. */
+  section?: Section;
 }
-const { lang, active, drawer = false } = Astro.props;
+const { lang, active, drawer = false, section = "ortho" } = Astro.props;
 const t = ui[lang];
 const all = await getTopicsByLang(lang);
-const { ortho, trauma, anatomy } = groupTopics(all);
+const grouped = groupTopics(all);
+
+const sectionList: TopicEntry[] =
+  section === "trauma"  ? grouped.trauma  :
+  section === "anatomy" ? grouped.anatomy :
+                          grouped.ortho;
+
+const sectionLabel =
+  section === "trauma"  ? t.sectionTrauma  :
+  section === "anatomy" ? t.sectionAnatomy :
+                          t.sectionOrtho;
 
 function isActive(e: TopicEntry) { return e.slug === active; }
 ---
 <aside class={drawer ? "drawer-panel" : "sidebar hidden lg:block"}>
   <nav aria-label={t.contents}>
-    <div class="sidebar-section-label">{t.sectionOrtho}</div>
-    {ortho.map((e) => (
-      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
-        <span class="num">{e.data.topicNumber}</span>
-        <span>{e.data.title}</span>
-      </a>
-    ))}
-
-    <div class="sidebar-section-label">{t.sectionTrauma}</div>
-    {trauma.map((e) => (
-      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
-        <span class="num">{e.data.topicNumber}</span>
-        <span>{e.data.title}</span>
-      </a>
-    ))}
-
-    <div class="sidebar-section-label">{t.sectionAnatomy}</div>
-    {anatomy.map((e) => (
+    <div class="sidebar-section-label">{sectionLabel}</div>
+    {sectionList.map((e) => (
       <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
         <span class="num">{e.data.topicNumber}</span>
         <span>{e.data.title}</span>

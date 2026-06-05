@@ -1,12 +1,19 @@
 ---
 import type { Lang } from "../i18n/ui";
 import TopicSidebar from "./TopicSidebar.astro";
-interface Props { lang: Lang; active?: string; }
-const { lang, active } = Astro.props;
+
+type Section = "ortho" | "trauma" | "anatomy";
+
+interface Props {
+  lang: Lang;
+  active?: string;
+  section?: Section;
+}
+const { lang, active, section = "ortho" } = Astro.props;
 ---
 <div id="drawer" class="drawer" data-open="false">
   <div class="drawer-backdrop" data-drawer-close></div>
-  <TopicSidebar lang={lang} active={active} drawer={true} />
+  <TopicSidebar lang={lang} active={active} drawer={true} section={section} />
 </div>
 <script is:inline>
   document.addEventListener("click", function (e) {

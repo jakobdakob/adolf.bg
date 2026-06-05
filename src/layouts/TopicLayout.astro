@@ -3,7 +3,7 @@ import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
 import MobileDrawer from "../components/MobileDrawer.astro";
 import { type Lang, ui } from "../i18n/ui";
-import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+import { getTopicsByLang, topicPath, type TopicEntry } from "../lib/topics";
 
 interface Props {
   lang: Lang;
@@ -18,48 +18,96 @@ const idx = all.findIndex((e) => e.slug === entry.slug);
 const prev = idx > 0 ? all[idx - 1] : undefined;
 const next = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined;
 
-const sectionLabel =
+const section =
+  entry.data.kind === "preface" ? "preface" :
+  entry.data.section === "ortho" ? "ortho" : "trauma";
+
+const eyebrow =
   entry.data.kind === "preface"
     ? t.preface
-    : entry.data.section === "ortho"
-      ? t.sectionOrtho
-      : t.sectionTrauma;
-const numberLabel = entry.data.kind === "topic" && entry.data.topicNumber
-  ? t.topicNumberLabel(entry.data.topicNumber)
-  : "";
+    : `${entry.data.section === "ortho" ? t.sectionOrtho : t.sectionTrauma} · ${t.topicNumberLabel(entry.data.topicNumber!)}`;
 ---
-<BaseLayout lang={lang} title={entry.data.title} otherPath={otherPath}>
+<BaseLayout
+  lang={lang}
+  title={entry.data.title}
+  otherPath={otherPath}
+  currentSection={section as any}
+  showMenuButton={true}
+>
   <MobileDrawer lang={lang} active={entry.slug} />
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-[18rem_minmax(0,1fr)] gap-8 lg:gap-12 pt-8">
+  <div class="topic-shell">
     <TopicSidebar lang={lang} active={entry.slug} />
-    <article class="min-w-0 pb-16">
-      <div class="text-xs uppercase tracking-wider text-[var(--ink-muted)] mb-3">
-        <span>{sectionLabel}</span>
-        {numberLabel && (
-          <>
-            <span aria-hidden="true" class="mx-1.5">·</span>
-            <span>{numberLabel}</span>
-          </>
-        )}
-      </div>
-      <div class="prose-topic">
-        <h1>{entry.data.title}</h1>
+    <article class="topic-article">
+      <span class="eyebrow">{eyebrow}</span>
+      <h1 class="topic-title">{entry.data.title}</h1>
+      <div class="prose">
         <slot />
       </div>
-      <nav class="mt-16 pt-6 border-t border-[var(--rule)] flex items-center justify-between text-sm gap-4">
+      <nav class="topic-prev-next" aria-label="prev/next">
         {prev ? (
-          <a href={topicPath(lang, prev)} class="group max-w-[45%]">
-            <div class="text-xs text-[var(--ink-muted)]">{t.prev}</div>
-            <div class="font-medium group-hover:text-[var(--accent)]">{prev.data.title}</div>
+          <a href={topicPath(lang, prev)} class="pn pn-prev">
+            <div class="pn-label">{t.prev}</div>
+            <div class="pn-title">{prev.data.title}</div>
           </a>
         ) : <span />}
         {next ? (
-          <a href={topicPath(lang, next)} class="group max-w-[45%] text-right ml-auto">
-            <div class="text-xs text-[var(--ink-muted)]">{t.next}</div>
-            <div class="font-medium group-hover:text-[var(--accent)]">{next.data.title}</div>
+          <a href={topicPath(lang, next)} class="pn pn-next">
+            <div class="pn-label">{t.next}</div>
+            <div class="pn-title">{next.data.title}</div>
           </a>
         ) : <span />}
       </nav>
     </article>
   </div>
 </BaseLayout>
+
+<style>
+  .topic-shell {
+    max-width: var(--shell-width);
+    margin: 0 auto;
+    padding: var(--s-7) var(--s-5) var(--s-9);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--s-8);
+  }
+  @media (min-width: 1024px) {
+    .topic-shell {
+      grid-template-columns: 280px minmax(0, 1fr);
+      gap: var(--s-9);
+    }
+  }
+  .topic-article { min-width: 0; }
+  .topic-title {
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: var(--tracking-tighter);
+    line-height: 1.05;
+    margin: 0 0 var(--s-7);
+    max-width: 22ch;
+  }
+  .topic-prev-next {
+    display: flex;
+    gap: var(--s-5);
+    margin-top: var(--s-9);
+    padding-top: var(--s-5);
+    border-top: 1px solid var(--rule);
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .pn { display: block; max-width: 22ch; }
+  .pn-next { margin-left: auto; text-align: right; }
+  .pn-label {
+    font-size: var(--fs-eyebrow);
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-eyebrow);
+    color: var(--ink-muted);
+    margin-bottom: var(--s-1);
+  }
+  .pn-title {
+    font-size: var(--fs-body);
+    color: var(--ink);
+    font-weight: 500;
+    transition: color 160ms var(--ease);
+  }
+  .pn:hover .pn-title { color: var(--accent); }
+</style>

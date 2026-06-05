@@ -12,51 +12,142 @@ const t = ui[lang];
 const all = await getTopicsByLang(lang);
 const { preface, ortho, trauma } = groupTopics(all);
 const otherPath = `/${lang === "bg" ? "en" : "bg"}/`;
+
+const heroEyebrow = lang === "bg"
+  ? "Ортопедия и травматология · Държавен изпит"
+  : "Orthopedics & Traumatology · State Board";
+
+const heroTitle = lang === "bg" ? "Компендиум." : "Compendium.";
+
+const heroSubtitle = lang === "bg"
+  ? "Свързан учебен текст по 62 теми, обхващащ ортопедията и травматологията — синтезиран от 14 справочни издания за подготовка за държавния изпит."
+  : "A connected exam-prep text across 62 topics covering orthopedics and traumatology — synthesised from 14 reference textbooks for the Bulgarian state board.";
+
+const ctaPreface = lang === "bg" ? "Прочети предговора" : "Read the preface";
+const ctaContents = lang === "bg" ? "Към темите" : "Jump to contents";
+
+const contentsLabel = lang === "bg" ? "Съдържание" : "Contents";
+const contentsTitle = lang === "bg" ? "Темите." : "The topics.";
+const contentsLede = lang === "bg"
+  ? "Тридесет теми по ортопедия, тридесет и две по травматология. Кликни произволна, за да започнеш."
+  : "Thirty topics in orthopedics, thirty-two in traumatology. Click any to begin.";
 ---
 <BaseLayout lang={lang} otherPath={otherPath}>
-  <main class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-12 sm:pt-20 pb-24">
-    <h1 class="text-3xl sm:text-5xl font-bold tracking-tight" style="letter-spacing:-0.02em; line-height:1.1">
-      {t.siteTagline}
-    </h1>
-    <p class="mt-6 text-[var(--ink-muted)] max-w-prose text-base sm:text-lg">
-      {lang === "bg"
-        ? "Свързан учебен текст по 62 теми, обхващащ ортопедията и травматологията. Свободно навигиране, без излишен интерфейс."
-        : "A connected exam-prep text across 62 topics covering orthopedics and traumatology. Frictionless reading, no UI clutter."}
-    </p>
-    {preface && (
-      <p class="mt-8">
-        <a href={topicPath(lang, preface)} class="inline-flex items-center gap-1 pill is-active">
-          {t.preface} →
-        </a>
-      </p>
-    )}
+  <section class="hero">
+    <div class="hero-inner reveal">
+      <span class="eyebrow">{heroEyebrow}</span>
+      <h1 class="hero-display">{heroTitle}</h1>
+      <p class="hero-subtitle">{heroSubtitle}</p>
+      <div class="hero-cta">
+        {preface && (
+          <a href={topicPath(lang, preface)} class="btn btn-primary">{ctaPreface}</a>
+        )}
+        <a href="#contents" class="btn btn-ghost">{ctaContents}</a>
+      </div>
+    </div>
+  </section>
 
-    <section class="mt-12">
-      <h2 class="section-label" style="padding-left:0">{t.sectionOrtho}</h2>
-      <ol class="mt-2 grid grid-cols-1 sm:grid-cols-2 gap-x-8">
+  <section id="contents" class="contents">
+    <div class="contents-head reveal">
+      <span class="eyebrow">{contentsLabel}</span>
+      <h2 class="section-title">{contentsTitle}</h2>
+      <p class="section-lede">{contentsLede}</p>
+    </div>
+
+    <div class="contents-group reveal">
+      <div class="contents-group-label">{t.sectionOrtho}</div>
+      <ol class="contents-list">
         {ortho.map((e) => (
-          <li class="border-b border-[var(--rule)]">
-            <a href={topicPath(lang, e)} class="flex gap-3 py-2.5 text-sm hover:text-[var(--accent)]">
-              <span class="tabular-nums text-[var(--ink-muted)] w-7 text-right">{e.data.topicNumber}.</span>
-              <span class="min-w-0">{e.data.title}</span>
+          <li>
+            <a href={topicPath(lang, e)}>
+              <span class="contents-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
+              <span class="contents-title">{e.data.title}</span>
             </a>
           </li>
         ))}
       </ol>
-    </section>
+    </div>
 
-    <section class="mt-14">
-      <h2 class="section-label" style="padding-left:0">{t.sectionTrauma}</h2>
-      <ol class="mt-2 grid grid-cols-1 sm:grid-cols-2 gap-x-8">
+    <div class="contents-group reveal">
+      <div class="contents-group-label">{t.sectionTrauma}</div>
+      <ol class="contents-list">
         {trauma.map((e) => (
-          <li class="border-b border-[var(--rule)]">
-            <a href={topicPath(lang, e)} class="flex gap-3 py-2.5 text-sm hover:text-[var(--accent)]">
-              <span class="tabular-nums text-[var(--ink-muted)] w-7 text-right">{e.data.topicNumber}.</span>
-              <span class="min-w-0">{e.data.title}</span>
+          <li>
+            <a href={topicPath(lang, e)}>
+              <span class="contents-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
+              <span class="contents-title">{e.data.title}</span>
             </a>
           </li>
         ))}
       </ol>
-    </section>
-  </main>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .hero {
+    max-width: var(--shell-width);
+    margin: 0 auto;
+    padding: clamp(var(--s-8), 10vw, var(--s-10)) var(--s-5) var(--s-9);
+  }
+  .hero-inner { max-width: 1000px; }
+  .hero-cta {
+    display: flex;
+    gap: var(--s-3);
+    margin-top: var(--s-7);
+    flex-wrap: wrap;
+  }
+  .contents {
+    max-width: var(--shell-width);
+    margin: 0 auto;
+    padding: var(--s-9) var(--s-5) var(--s-10);
+  }
+  .contents-head { margin-bottom: var(--s-8); max-width: 720px; }
+  .contents-group { margin-bottom: var(--s-8); }
+  .contents-group-label {
+    font-size: var(--fs-eyebrow);
+    font-weight: 600;
+    letter-spacing: var(--tracking-eyebrow);
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: var(--s-4);
+  }
+  .contents-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    border-top: 1px solid var(--rule);
+  }
+  @media (min-width: 760px) {
+    .contents-list {
+      grid-template-columns: 1fr 1fr;
+      column-gap: var(--s-7);
+    }
+  }
+  .contents-list li {
+    border-bottom: 1px solid var(--rule);
+  }
+  .contents-list a {
+    display: grid;
+    grid-template-columns: 3.2rem 1fr;
+    gap: var(--s-3);
+    padding: 0.95rem 0.25rem;
+    color: var(--ink);
+    transition: color 160ms var(--ease), padding-left 220ms var(--ease);
+  }
+  .contents-list a:hover {
+    color: var(--accent);
+    padding-left: var(--s-3);
+  }
+  .contents-num {
+    font-variant-numeric: tabular-nums;
+    font-size: var(--fs-meta);
+    color: var(--ink-faint);
+    padding-top: 0.1rem;
+  }
+  .contents-list a:hover .contents-num { color: var(--accent); }
+  .contents-title { font-size: 1rem; line-height: 1.5; }
+</style>

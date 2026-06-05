@@ -6,15 +6,17 @@ const t = ui[lang];
 ---
 <button
   id="theme-toggle"
-  class="pill"
+  class="icon-btn"
   aria-label={`${t.dark} / ${t.light}`}
   title={`${t.dark} / ${t.light}`}
   type="button"
 >
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-    <path class="sun" d="M12 3v1M12 20v1M4.22 4.22l.7.7M19.07 19.07l.71.71M3 12h1M20 12h1M4.22 19.78l.7-.71M19.07 4.93l.71-.71"/>
-    <circle class="sun" cx="12" cy="12" r="4"/>
-    <path class="moon" d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" style="display:none"/>
+  <svg id="theme-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <circle cx="12" cy="12" r="4"/>
+    <path d="M12 3v1M12 20v1M4.22 4.22l.7.7M19.07 19.07l.71.71M3 12h1M20 12h1M4.22 19.78l.7-.71M19.07 4.93l.71-.71"/>
+  </svg>
+  <svg id="theme-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
   </svg>
 </button>
 
@@ -22,20 +24,29 @@ const t = ui[lang];
   (function () {
     const KEY = "adolf-theme";
     const root = document.documentElement;
-    const stored = localStorage.getItem(KEY);
-    if (stored === "dark" || stored === "light") root.setAttribute("data-theme", stored);
-    function apply(t) {
-      root.setAttribute("data-theme", t);
-      localStorage.setItem(KEY, t);
+    function syncIcons() {
+      const isDark = root.getAttribute("data-theme") === "dark"
+        || (!root.getAttribute("data-theme") && matchMedia("(prefers-color-scheme: dark)").matches);
+      const sun = document.getElementById("theme-sun");
+      const moon = document.getElementById("theme-moon");
+      if (sun && moon) {
+        sun.style.display = isDark ? "none" : "";
+        moon.style.display = isDark ? "" : "none";
+      }
     }
     document.addEventListener("click", function (e) {
       const target = e.target;
       if (!(target instanceof Element)) return;
-      const btn = target.closest("#theme-toggle");
-      if (!btn) return;
+      if (!target.closest("#theme-toggle")) return;
       const current = root.getAttribute("data-theme");
-      const isDark = current === "dark" || (!current && matchMedia("(prefers-color-scheme: dark)").matches);
-      apply(isDark ? "light" : "dark");
+      const isDark = current === "dark"
+        || (!current && matchMedia("(prefers-color-scheme: dark)").matches);
+      const next = isDark ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem(KEY, next);
+      syncIcons();
     });
+    syncIcons();
+    document.addEventListener("astro:after-swap", syncIcons);
   })();
 </script>

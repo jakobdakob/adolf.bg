@@ -9,8 +9,10 @@ interface Props {
   title?: string;
   description?: string;
   otherPath: string;
+  currentSection?: "ortho" | "trauma" | "preface" | "home";
+  showMenuButton?: boolean;
 }
-const { lang, title, description, otherPath } = Astro.props;
+const { lang, title, description, otherPath, currentSection = "home", showMenuButton = false } = Astro.props;
 const t = ui[lang];
 const pageTitle = title ? `${title} · ${t.siteTitle}` : `${t.siteTitle} — ${t.siteTagline}`;
 const desc = description ?? t.siteTagline;
@@ -19,14 +21,18 @@ const desc = description ?? t.siteTagline;
 <html lang={lang}>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
     <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#15141A" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#0F0F12" media="(prefers-color-scheme: dark)" />
     <link rel="alternate" hreflang={lang === "bg" ? "en" : "bg"} href={otherPath} />
     <link rel="alternate" hreflang="x-default" href="/bg/" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:site_name" content="adolf.bg" />
     <script is:inline>
       (function () {
         try {
@@ -38,14 +44,54 @@ const desc = description ?? t.siteTagline;
     <ViewTransitions />
   </head>
   <body>
-    <Header lang={lang} otherPath={otherPath} />
-    <slot />
-    <footer class="border-t border-[var(--rule)] mt-24">
-      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 text-xs text-[var(--ink-muted)] flex flex-wrap items-center gap-x-4 gap-y-2">
+    <a href="#main" class="skip-link">Skip to main content</a>
+    <Header lang={lang} otherPath={otherPath} currentSection={currentSection} showMenuButton={showMenuButton} />
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="site-footer-inner">
         <span>© 2026 · adolf.bg</span>
         <span aria-hidden="true">·</span>
         <span>{t.siteTagline}</span>
       </div>
     </footer>
+
+    <script is:inline>
+      // Subtle scroll-reveal.
+      (function () {
+        if (!("IntersectionObserver" in window)) return;
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) {
+              e.target.classList.add("is-visible");
+              io.unobserve(e.target);
+            }
+          }
+        }, { threshold: 0.08, rootMargin: "0px 0px -8% 0px" });
+        const wire = () => {
+          document.querySelectorAll(".reveal:not(.is-visible)").forEach((el) => io.observe(el));
+        };
+        wire();
+        document.addEventListener("astro:after-swap", wire);
+      })();
+    </script>
+
+    <style is:global>
+      .skip-link {
+        position: absolute;
+        left: -9999px;
+        top: 0;
+      }
+      .skip-link:focus {
+        left: var(--s-4);
+        top: var(--s-3);
+        background: var(--ink);
+        color: var(--bg);
+        padding: 0.5rem 0.75rem;
+        border-radius: 8px;
+        z-index: 100;
+      }
+    </style>
   </body>
 </html>

@@ -10,7 +10,7 @@ const site = base ? "https://jakobdakob.github.io" : "https://adolf.bg";
 export default defineConfig({
   site,
   base,
-  trailingSlash: "ignore",
+  trailingSlash: "always",
   integrations: [mdx(), tailwind()],
   build: {
     format: "directory",

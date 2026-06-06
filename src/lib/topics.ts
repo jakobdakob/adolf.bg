@@ -33,8 +33,8 @@ export async function getTopicByLocalSlug(
 }
 
 export function topicPath(lang: Lang, entry: TopicEntry): string {
-  if (entry.data.kind === "preface") return url(`/${lang}/preface`);
-  return url(`/${lang}/${entry.data.section}/${entry.data.topicNumber}`);
+  if (entry.data.kind === "preface") return url(`/${lang}/preface/`);
+  return url(`/${lang}/${entry.data.section}/${entry.data.topicNumber}/`);
 }
 
 export function langHome(lang: Lang): string {
@@ -44,8 +44,8 @@ export function langHome(lang: Lang): string {
 export function otherLangPath(lang: Lang, entry?: TopicEntry): string {
   const other = lang === "bg" ? "en" : "bg";
   if (!entry) return url(`/${other}/`);
-  if (entry.data.kind === "preface") return url(`/${other}/preface`);
-  return url(`/${other}/${entry.data.section}/${entry.data.topicNumber}`);
+  if (entry.data.kind === "preface") return url(`/${other}/preface/`);
+  return url(`/${other}/${entry.data.section}/${entry.data.topicNumber}/`);
 }
 
 export function groupTopics(entries: TopicEntry[]) {

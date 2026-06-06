@@ -32,6 +32,13 @@ import argparse
 
 LIST_OR_NONHEADING_START = re.compile(r'^[#\s\-\*\>0-9•·▪►■]')
 UPPER_START = re.compile(r'^[A-ZА-ЯЁ]')
+# A trailing relative pronoun (Bulgarian) signals a body-clause continuation,
+# not a heading: "...състояние, при което" → next line completes the relative clause.
+TRAILING_RELATIVE = re.compile(r'\b(който|която|което|които|чийто|чиято|чието|чиито)$')
+# A line containing a comma AND a standalone verb-like form ("е"/"са"/"има"/...)
+# anywhere on the line is almost always a wrapped sentence, not a heading.
+# Genuine headings are noun phrases without verbs (e.g. "Епидемиология и етиология").
+SENTENCE_VERB = re.compile(r'\s(е|са|има|няма|бе|беше|бил|била|било|били)\s')
 
 
 def is_candidate(line: str, prev: str, nxt: str) -> bool:
@@ -56,6 +63,13 @@ def is_candidate(line: str, prev: str, nxt: str) -> bool:
     if ':' in stripped:
         return False
     if not UPPER_START.match(stripped):
+        return False
+    # Reject wrapped sentences masquerading as headings.
+    if TRAILING_RELATIVE.search(stripped):
+        return False
+    # A standalone verb form combined with a comma elsewhere → wrapped sentence.
+    padded = ' ' + stripped + ' '
+    if ',' in stripped and SENTENCE_VERB.search(padded):
         return False
     return True
 

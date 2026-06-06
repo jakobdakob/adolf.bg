@@ -109,12 +109,13 @@ const eyebrow =
     overflow-wrap: break-word;
   }
   .topic-title {
-    font-size: clamp(2rem, 4.5vw, 4.25rem);
-    font-weight: 700;
-    letter-spacing: var(--tracking-tighter);
-    line-height: 1.05;
-    margin: 0 0 var(--s-7);
-    max-width: 22ch;
+    /* ~1.5× body text (body = 1.0625rem). Calm, not display-size. */
+    font-size: 1.625rem;
+    font-weight: 650;
+    letter-spacing: -0.012em;
+    line-height: 1.3;
+    margin: 0 0 var(--s-6);
+    max-width: 38ch;
     overflow-wrap: break-word;
     word-break: normal;
     hyphens: auto;

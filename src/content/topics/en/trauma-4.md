@@ -107,7 +107,9 @@ plate and the underlying bone.
 
 Plates are flat metal devices applied to the surface of bone and secured by screws. The
 principal types and functions of plates include:
-Plate Types
+
+## Plate Types
+
 Conventional (non-locking) plates: Including the dynamic compression plate (DCP), the
 limited-contact dynamic compression plate (LC-DCP), the reconstruction plate, and the
 one-third tubular plate. These plates rely on screw-bone compression — the screw is

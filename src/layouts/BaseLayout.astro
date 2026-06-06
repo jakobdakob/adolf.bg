@@ -29,6 +29,7 @@ const desc = description ?? t.siteTagline;
     <meta name="description" content={desc} />
     <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#0F0F12" media="(prefers-color-scheme: dark)" />
+    <link rel="alternate" hreflang={lang} href={Astro.url.pathname} />
     <link rel="alternate" hreflang={lang === "bg" ? "en" : "bg"} href={otherPath} />
     <link rel="alternate" hreflang="x-default" href={url("/bg/")} />
     <link rel="icon" href={url("/favicon.svg")} type="image/svg+xml" />

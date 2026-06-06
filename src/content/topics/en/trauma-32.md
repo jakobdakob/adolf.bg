@@ -62,7 +62,9 @@ late with bruit, thrill, and limb swelling.
 ## Clinical Assessment of Vascular Injury
 
 The classical “hard” and “soft” signs of vascular injury structure the assessment:
-Hard Signs
+
+## Hard Signs
+
 Hard signs of vascular injury indicate definite arterial compromise and mandate urgent
 intervention:
 •   Active pulsatile bleeding: Visible arterial hemorrhage.

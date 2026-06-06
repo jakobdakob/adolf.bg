@@ -1,5 +1,5 @@
 ---
-title: "Аваскуларни некрози в детска възраст. Болест на Legg-Calve-Perthes."
+title: "Аваскуларни некрози в детска възраст. Болест на Legg-Calvé-Perthes."
 lang: "bg"
 kind: "topic"
 section: "ortho"

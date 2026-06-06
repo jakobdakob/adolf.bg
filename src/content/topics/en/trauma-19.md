@@ -136,7 +136,9 @@ artery (sometimes the dominant source, particularly the superior gluteal and obt
 arteries; identifiable on CT angiography or angiogram), and occasionally the iliac vessels
 themselves (uncommon but lethal).
 The acute resuscitation proceeds along three parallel axes:
-Mechanical Stabilization
+
+## Mechanical Stabilization
+
 The pelvic binder — a circumferential constraining device positioned at the level of the
 greater trochanters (not the iliac crests) — applies compression to the pelvic ring and
 reduces the pelvic volume. The binder is the appropriate first-line mechanical stabilization

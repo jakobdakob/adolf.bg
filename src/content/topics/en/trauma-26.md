@@ -198,7 +198,9 @@ injury or persistent instability.
 
 The chronic knee instabilities represent a distinct topic with their own substantial
 literature. The principal entities relevant here are:
-Chronic ACL Deficiency
+
+## Chronic ACL Deficiency
+
 Chronic ACL deficiency produces giving-way, particularly with cutting and pivoting
 activities, and progressive secondary injury (meniscal tears, articular cartilage
 degeneration). Reconstruction is performed when functional instability or risk of
@@ -240,7 +242,9 @@ for more complex anatomical situations.
 Knee arthroscopy is the diagnostic and therapeutic modality that revolutionized knee
 surgery in the 1970s and 1980s and provides the foundation for contemporary knee
 surgery. The principles relevant to the trauma context include:
-Diagnostic Arthroscopy
+
+## Diagnostic Arthroscopy
+
 Arthroscopy provides direct visualization of the intra-articular knee structures with
 sensitivity superior to MRI for some pathologies (loose bodies, articular cartilage defects,
 subtle meniscal tears). In the trauma setting, arthroscopy may be used as a diagnostic and

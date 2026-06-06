@@ -117,7 +117,9 @@ critical.
 The leg is the most common site of compartment syndrome, and leg fasciotomy is one of
 the most commonly performed orthopedic emergency procedures. The double-incision
 technique (Mubarak) is the standard:
-Lateral Incision
+
+## Lateral Incision
+
 A longitudinal incision along the lateral leg (approximately 2 cm anterior to the fibular
 shaft) provides access to the anterior and lateral compartments. The fascia of each
 compartment is opened along its length. The anterior compartment is released through

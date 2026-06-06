@@ -12,7 +12,10 @@ const t = ui[lang];
 <a
   href={otherPath}
   class="lang-toggle"
-  aria-label={`${t.switchTo[other]} — ${other.toUpperCase()}`}
+  hreflang={other}
+  aria-label={lang === "bg"
+    ? `Превключи на ${t.switchTo[other]}`
+    : `Switch to ${t.switchTo[other]}`}
   title={t.switchTo[other]}
 >
   <span class:list={["seg", lang === "bg" && "is-active"]}>BG</span>

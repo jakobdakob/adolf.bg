@@ -62,13 +62,13 @@ const eyebrow =
       </div>
       <nav class="topic-prev-next" aria-label="prev/next">
         {prev ? (
-          <a href={topicPath(lang, prev)} class="pn pn-prev">
+          <a href={topicPath(lang, prev)} class="pn pn-prev" rel="prev">
             <div class="pn-label">{t.prev}</div>
             <div class="pn-title">{prev.data.title}</div>
           </a>
         ) : <span />}
         {next ? (
-          <a href={topicPath(lang, next)} class="pn pn-next">
+          <a href={topicPath(lang, next)} class="pn pn-next" rel="next">
             <div class="pn-label">{t.next}</div>
             <div class="pn-title">{next.data.title}</div>
           </a>

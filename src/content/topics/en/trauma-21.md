@@ -313,7 +313,9 @@ Bilateral fractures are uncommon but described, typically in osteoporotic patien
 very low-energy mechanism or in patients with seizure disorders. Bilateral fixation or
 arthroplasty proceeds in the same operation when the patient’s physiological state allows;
 otherwise the most symptomatic side is addressed first.
-Atypical Femoral Fractures and Bisphosphonate-Associated Fractures
+
+## Atypical Femoral Fractures and Bisphosphonate-Associated Fractures
+
 Patients on long-term bisphosphonate therapy are at risk of atypical femoral fractures —
 transverse subtrochanteric or femoral shaft fractures with characteristic radiographic
 features (lateral cortical thickening, transverse fracture line, medial spike), often preceded

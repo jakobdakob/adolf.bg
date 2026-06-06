@@ -122,7 +122,9 @@ The lateral parapatellar approach is the mirror image of the medial parapatellar
 less commonly used. It is reserved for specific indications (severe valgus deformity where
 the medial structures must be approached from outside-in, lateral patellar instability
 surgery).
-Posterior Approach (Burks-Schaffer Modification of Henderson)
+
+## Posterior Approach (Burks-Schaffer Modification of Henderson)
+
 The posterior approach to the knee uses an S-shaped or hockey-stick incision in the
 popliteal fossa. The approach is used for PCL tibial inlay reconstruction, posterior tibial
 plateau fixation, posterior capsular procedures, and exploration of the popliteal

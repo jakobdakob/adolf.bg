@@ -9,6 +9,16 @@ order: 115
 
 ## Въведение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-15/olecranon-fracture.jpg" data-figure-alt="Фрактура на олекранона" aria-label="Увеличи">
+    <img src="/img/trauma-15/olecranon-fracture.jpg" alt="Фрактура на олекранона" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на олекранона — типична остеосинтеза по принципа на tension band wiring (опъваща лента) превръща опъващите сили на трицепса в компресия на фрактурата.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Лакътната става — с уникалната си конфигурация на съчленена шарнирно-ос артикулация, включваща три кости (дистален хумерус, проксимална улна, проксимален радиус) и три артикулации (humeroulnaris, humeroradialis, articulatio radioulnaris proximalis) в рамките на обща капсула — представлява особено предизвикателство при лечението на фрактурите. Ставната повърхност е малка, но функционално критична; ограничението на движението, осигурявано от костната анатомия, е значително, но лесно нарушимо; а мекотъканната обвивка е тънка, като n. ulnaris, a. brachialis, n. medianus и n. interosseus posterior са в непосредствена близост до ставата. Загубата на движение е правило, а не изключение след нараняване на лакътя, и ортопедичният принцип на ранното защитено движение е в основата на лечението на травмите на лакъта от времето, когато John Charnley го подчертава особено силно в 50-те години. Техниката „Weber tension-band" при фрактури на olecranon и „terrible triad" при луксация на лакъта с фрактура на главата на радиуса и processus coronoideus са сред именуваните единици, особено акцентирани при подготовката за квалификационни изпити. Настоящата тема се основава главно на Rockwood and Green's Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon's и Miller's Review of Orthopaedics.
 
 ## Хирургична анатомия

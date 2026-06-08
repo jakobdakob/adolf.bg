@@ -25,6 +25,16 @@ Acetabulum се формира от сливането на три кости �
 
 ## Луксация на тазобедрената става — класификация и механизъм
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-fracture.png" data-figure-alt="Ацетабуларна фрактура — КТ" aria-label="Увеличи">
+    <img src="/img/trauma-20/acetabular-fracture.png" alt="Ацетабуларна фрактура — КТ" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ацетабуларна фрактура — класификацията на Letournel разграничава десет типа (5 основни + 5 сложни) според включените колони (предна, задна) и стени.</span>
+    <span class="md-figure-attribution"> — Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Thompson и Epstein (1951) на задните луксации на тазобедрената става ги разделя по съпътстващата фрактура:
 
 • Тип I: Проста луксация без значителна асоциирана фрактура. • Тип II: Луксация с единичен голям фрагмент на задната стена. • Тип III: Луксация с разтрошена фрактура на задната стена. • Тип IV: Луксация с фрактура на ацетабуларното дъно. • Тип V: Луксация с фрактура на бедрената глава.

@@ -13,6 +13,16 @@ The shoulder girdle — clavicle, scapula, and the joints that connect them to t
 
 ## Clavicle Fractures — Classification and Epidemiology
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-11/clavicle-fracture.jpg" data-figure-alt="Clavicle fracture" aria-label="Enlarge">
+    <img src="/img/trauma-11/clavicle-fracture.jpg" alt="Clavicle fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Mid-shaft clavicle fracture — the commonest clavicle fracture (~80%), typically of the middle third.</span>
+    <span class="md-figure-attribution"> — Majorkev, <a href="https://commons.wikimedia.org/wiki/File:Clavicle_Fracture_Left.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Clavicle fractures account for approximately 2 to 5 percent of all adult fractures and 35 percent of shoulder girdle injuries. The age distribution is bimodal — high in young men from direct trauma (falls from height, sports, motor vehicle accidents) and elderly women from ground-level falls. The classical mechanism is a direct fall onto the lateral shoulder or, less commonly, onto the outstretched hand. The historical Allman classification (1967) divided clavicle fractures by location: Group I (middle third) accounts for approximately 80 percent of cases; Group II (lateral third) accounts for approximately 15 percent; Group III (medial third) accounts for approximately 5 percent. The Robinson classification (1998) is the more modern and widely used system, structuring management by location and displacement. Type 1 is medial-end fracture (1A undisplaced, 1B displaced; A and B subdivided into extra-articular vs intra-articular). Type 2 is midshaft (2A undisplaced or minimally displaced; 2B displaced — 2B1 simple or wedge, 2B2 comminuted or segmental). Type 3 is lateral-end (3A undisplaced, 3B displaced, again subdivided by intra-articular extension). For lateral-end clavicle fractures, the Neer classification (1968) remains in use, distinguishing fractures by relation to the coracoclavicular (CC) ligaments. Type I is lateral to intact CC ligaments — minimally displaced. Type IIA is medial to intact CC ligaments (both conoid and trapezoid attached to the distal fragment); the proximal fragment is unstable because the CC ligaments do not restrain it. Type IIB has the conoid ligament torn with the trapezoid still attached to the distal fragment — also unstable. Type III is intra-articular extension into the AC joint. Type IV is a pediatric variant — periosteal sleeve fracture with intact periosteal tube and superiorly displaced fragment. Type V is comminuted with a small inferior cortical fragment attached to the CC ligaments.
 
 ## Treatment of Clavicle Fractures

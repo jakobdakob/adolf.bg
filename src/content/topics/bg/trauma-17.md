@@ -9,6 +9,16 @@ order: 117
 
 ## Въведение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles-fracture.jpg" data-figure-alt="Колесова фрактура — деформация „вилица за вечеря“" aria-label="Увеличи">
+    <img src="/img/trauma-17/colles-fracture.jpg" alt="Колесова фрактура — деформация „вилица за вечеря“" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Колесова фрактура — екстраартикуларна фрактура на дисталния радиус с дорзално отклонение и характерната „вилица-за-вечеря“ деформация.</span>
+    <span class="md-figure-attribution"> — Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурата на дисталния radius е най-честата фрактура в ортопедичната практика при възрастния: годишната заболяемост в Северна Европа достига 30 на 10 000 човекогодини, а възрастовото разпределение е двумодално — подобно на останалите остеопоротични фрактури: по-малък пик при млади мъже вследствие на високоенергийна травма и значителен пик при възрастни жени след нискоенергийни падания от стояща височина. Увреждането съставлява около 17 процента от всички фрактури при възрастни, лекувани в спешно отделение, и 75 процента от всички фрактури на предмишницата при възрастни. Значимостта му в клиничната практика е съизмерима с неговата роля в изпитната програма по ортопедия: епонимите (Colles, Smith, Barton, шофьорска фрактура, Frykman), класификациите (Frykman, Fernandez, AO/OTA) и активната дискусия за относителните предимства на оперативното спрямо консервативното лечение при възрастни пациенти — всичко това присъства на преден план. Настоящата глава синтезира съвременното лечение на фрактурите на дисталния radius, позовавайки се на Rockwood and Green's Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon's, Miller's Review of Orthopaedics и Dutton's Orthopaedic Examination.
 
 ## Хирургична анатомия

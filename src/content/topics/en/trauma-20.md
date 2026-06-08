@@ -38,6 +38,16 @@ The treatment of Pipkin fractures is individualized: Pipkin I with a small infer
 
 ## Acetabular Fractures — The Letournel Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-fracture.png" data-figure-alt="Acetabular fracture — CT" aria-label="Enlarge">
+    <img src="/img/trauma-20/acetabular-fracture.png" alt="Acetabular fracture — CT" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Acetabular fracture — the Letournel classification distinguishes ten patterns (5 elementary + 5 associated) based on column (anterior, posterior) and wall involvement.</span>
+    <span class="md-figure-attribution"> — Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The Letournel classification (Robert Judet and Émile Letournel, 1964) of acetabular fractures organizes injuries into five elementary patterns and five associated patterns (combinations of elementary patterns). The understanding of column anatomy makes the system intuitive: the acetabulum has anterior and posterior columns plus the roof, and fractures involve various combinations.
 
 ## Elementary Patterns

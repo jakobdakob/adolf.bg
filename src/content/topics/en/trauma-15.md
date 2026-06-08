@@ -40,6 +40,16 @@ Non-operative management is reserved for non-displaced or minimally displaced fr
 
 ## Olecranon Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-15/olecranon-fracture.jpg" data-figure-alt="Olecranon fracture" aria-label="Enlarge">
+    <img src="/img/trauma-15/olecranon-fracture.jpg" alt="Olecranon fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Olecranon fracture — tension-band wiring converts the tensile pull of the triceps into compression at the fracture site, the classic AO principle.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The classical Mayo classification (Morrey, 1995) divides olecranon fractures into three types by displacement and stability. Type I is undisplaced (type IA non-comminuted, IB comminuted), treated non-operatively in a sling with early gentle motion. Type II is displaced but stable (IIA non-comminuted, IIB comminuted), requiring operative fixation.
 
 Type III is unstable (associated with fracture-dislocation), requiring operative fixation with attention to the associated injury.

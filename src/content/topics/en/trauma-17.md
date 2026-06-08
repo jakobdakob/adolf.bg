@@ -9,6 +9,16 @@ order: 117
 
 ## Introduction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles-fracture.jpg" data-figure-alt="Colles fracture — dinner-fork deformity" aria-label="Enlarge">
+    <img src="/img/trauma-17/colles-fracture.jpg" alt="Colles fracture — dinner-fork deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Colles fracture — extra-articular fracture of the distal radius with dorsal angulation and the classic “dinner-fork” deformity.</span>
+    <span class="md-figure-attribution"> — Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The distal radius fracture is the most common fracture in adult orthopedic practice, with an annual incidence in Northern Europe approaching 30 per 10,000 person-years and a bimodal age distribution that resembles the pattern of other osteoporotic fractures: a smaller peak in young men from high-energy trauma and a substantial peak in elderly women from low-energy ground-level falls. The injury accounts for approximately 17 percent of all adult fractures treated in emergency departments and 75 percent of all forearm fractures in adults. Its prominence in clinical practice is matched by its prominence in the orthopedic exam syllabus: the eponyms (Colles, Smith, Barton, chauffeur, Frykman), the classifications (Frykman, Fernandez, AO/OTA), and the active debate about the relative merits of operative versus non-operative management for elderly patients all feature prominently. This chapter synthesizes the contemporary management of distal radius fractures, drawing on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s Orthopaedic Examination.
 
 ## Surgical Anatomy

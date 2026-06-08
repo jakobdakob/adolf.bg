@@ -13,6 +13,16 @@ The flatfoot — pes planus — encompasses a heterogeneous group of foot morpho
 
 ## Flexible Flatfoot of Childhood
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-10/flatfoot.jpg" data-figure-alt="Pes planus — flat foot" aria-label="Enlarge">
+    <img src="/img/ortho-10/flatfoot.jpg" alt="Pes planus — flat foot" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Flexible pes planus — loss of the medial longitudinal arch on weight-bearing that reconstitutes on tiptoe or sitting.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -37,6 +47,16 @@ The asymptomatic flexible flatfoot of childhood requires no treatment. Reassuran
 A rigid flatfoot in childhood — that is, a flatfoot that does not correct on tip-toe testing and that lacks the supple character of the flexible flatfoot — is always pathological and requires investigation for an underlying cause. The principal etiologies are tarsal coalition, congenital vertical talus, and acquired conditions including post-traumatic deformity, neuromuscular disease, and inflammatory arthritis.
 
 ## Tarsal Coalition
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-10/tarsal-coalition.jpg" data-figure-alt="Talar beak in tarsal coalition" aria-label="Enlarge">
+    <img src="/img/ortho-10/tarsal-coalition.jpg" alt="Talar beak in tarsal coalition" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Tarsal coalition — characteristic “talar beak” on the dorsal surface of the talus, indicating an adjacent talocalcaneal or calcaneonavicular coalition.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Talar_beak_in_tarsal_coalition_39jw_-_Roe_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Tarsal coalition is a congenital fibrous, cartilaginous, or osseous union of two or more tarsal bones, producing a rigid hindfoot and the typical “peroneal spastic flatfoot.” The talocalcaneal coalition (most commonly involving the middle facet of the subtalar joint) and the calcaneonavicular coalition together account for the great majority of cases. The condition is autosomal dominant with variable penetrance. Presentation typically occurs in adolescence (age 10-15 years) as the previously cartilaginous coalition begins to ossify, producing progressive rigidity and pain; younger children with fibrous coalitions may be asymptomatic. Examination reveals a rigid flatfoot with absent restoration of the medial arch on tip-toe, restricted subtalar and midtarsal motion, peroneal spasm with attempted inversion (the “peroneal spastic flatfoot”), and tenderness over the affected coalition. Imaging is critical: plain radiographs may show the “C-sign” of talocalcaneal coalition (a continuous arc on the lateral view from the medial talar dome to the inferior surface of the sustentaculum tali, indicating obliteration of the subtalar joint by the coalition), the “anteater nose” sign of calcaneonavicular coalition (elongation of the anterior process of the calcaneus on the
 
@@ -110,6 +130,16 @@ Hereditary joint hypermobility encompasses a spectrum of conditions in which gen
 forms of Ehlers-Danlos syndrome with specific organ involvement, to the related connective tissue disorders Marfan syndrome and Loeys-Dietz syndrome.
 
 ## Beighton Score
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-10/beighton.png" data-figure-alt="Beighton score for joint hypermobility" aria-label="Enlarge">
+    <img src="/img/ortho-10/beighton.png" alt="Beighton score for joint hypermobility" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Beighton score — 9-point scale for generalised joint hypermobility based on five clinical manoeuvres (4 bilateral + 1 forward trunk flexion).</span>
+    <span class="md-figure-attribution"> — U3067474, <a href="https://commons.wikimedia.org/wiki/File:Beighton_Score.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 The Beighton score is the standard clinical tool for assessing generalized joint hypermobility. Nine maneuvers are scored as positive or negative: (1) passive dorsiflexion of the fifth metacarpophalangeal joint beyond 90° (one point each side); (2) passive apposition of the thumb to the forearm (one point each side); (3) hyperextension of the elbow beyond 10° (one point each side); (4) hyperextension of the knee beyond 10° (one point each side); (5) palms flat on the floor with knees fully extended (one point). The maximum score is 9; a score of 4 or more in an adult, or 6 or more in a prepubertal child, indicates generalized joint hypermobility.
 

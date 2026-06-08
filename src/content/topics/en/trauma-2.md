@@ -27,6 +27,16 @@ Two principal mechanisms of bone healing are recognized, and the choice between 
 
 ## Indirect (Secondary) Bone Healing
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-2/callus.jpg" data-figure-alt="Callus formation" aria-label="Enlarge">
+    <img src="/img/trauma-2/callus.jpg" alt="Callus formation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Callus formation in indirect bone healing — sequential hematoma → soft (fibrocartilaginous) callus → hard (bony) callus → remodelling; characteristic of fractures with relative stability.</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Indirect bone healing — also called secondary bone healing or healing with callus — is the natural mechanism of healing under conditions of relative stability (some motion at the fracture site but not so much as to disrupt the healing tissue). This is the mechanism of healing in non-operatively treated fractures, in fractures stabilized by intramedullary nails, in fractures stabilized by bridging plates, and in fractures stabilized by external fixators. The process proceeds through four overlapping stages. Stage 1 — Inflammation (hours to days): The fracture event ruptures blood vessels and disrupts the soft tissue and periosteum. A hematoma forms at the fracture site, providing the scaffold and the initial cells (platelets, macrophages, mesenchymal stem cells) for subsequent healing. Inflammatory mediators (cytokines, growth factors, chemokines) are released, initiating the cellular response. The interleukins, tumor necrosis factor, and prostaglandins all play roles in this initial inflammatory phase. Recent research has emphasized that the inflammatory phase is not merely a precursor to healing but is essential for the subsequent regenerative processes — anti-inflammatory measures (particularly chronic NSAID use) may inhibit fracture healing through this mechanism. Stage 2 — Soft callus formation (days to weeks): Mesenchymal stem cells from the surrounding tissues (periosteum, endosteum, marrow, and even systemic circulation) proliferate and differentiate. Under conditions of intermediate strain and low oxygen tension, the cells differentiate into chondrocytes that lay down a cartilaginous matrix, forming the “soft callus.” Under conditions of low strain and higher oxygen tension, intramembranous ossification occurs at the periphery of the callus, forming new bone directly. The cartilaginous callus bridges the fracture gap and provides initial mechanical stability.
 
 Stage 3 — Hard callus formation (weeks to months): The cartilaginous soft callus is progressively replaced by bone through endochondral ossification — the same process by which long bones grow from their physes. Chondrocytes hypertrophy and undergo apoptosis, the cartilage matrix is invaded by vascular tissue and osteoblasts, and new bone is laid down on the cartilage scaffold. The hard callus matures and provides mechanical strength sufficient for weight-bearing. Stage 4 — Remodeling (months to years): The disorganized woven bone of the callus is progressively replaced by organized lamellar bone through coupled osteoclast-osteoblast activity. The bone is remodeled according to Wolff’s law, with bone deposited where mechanical demands are highest and resorbed where demands are low. Over months to years, the original bony anatomy is restored.
@@ -36,6 +46,16 @@ Stage 3 — Hard callus formation (weeks to months): The cartilaginous soft call
 Direct bone healing — also called primary or contact healing — is the mechanism of healing under conditions of absolute stability (no motion at the fracture site) and direct contact between bone fragments. This mechanism requires rigid fixation as provided by compression plate osteosynthesis or lag screw fixation. Two subtypes are recognized: Contact healing: Where fracture fragments are in direct contact with absolute stability, osteoclasts at one end of the fragment cross the fracture line and resorb bone in the opposite fragment, creating “cutting cones.” Osteoblasts following the cutting cones lay down new bone directly across the fracture line, producing primary osteonal healing without any callus formation. Gap healing: Where small gaps exist between fragments (less than approximately 800 μm) with absolute stability, new bone is laid down within the gap directly, followed by remodeling. Larger gaps cannot heal by direct healing and require either callus healing or bone grafting. The clinical implication is that direct bone healing requires meticulous reduction and rigid fixation, and is appropriate for articular fractures where anatomical restoration is critical. Indirect healing with callus, by contrast, is the natural mechanism for diaphyseal fractures and is promoted by relative (not absolute) stability and preservation of the soft-tissue envelope.
 
 ## Cellular and Molecular Biology of Fracture Healing
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-2/bone-remodeling.jpg" data-figure-alt="Bone remodeling cycle" aria-label="Enlarge">
+    <img src="/img/trauma-2/bone-remodeling.jpg" alt="Bone remodeling cycle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Bone remodelling cycle — osteoclasts (resorption) followed by osteoblasts (formation); pre-osteoblasts, osteoblasts and bone-lining cells orchestrate the continuous turnover of the bone matrix.</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 The cellular and molecular processes of fracture healing involve a complex interplay of multiple cell types and signaling molecules. The principal cells involved are: Mesenchymal stem cells (MSCs): The progenitor cells that give rise to osteoblasts, chondrocytes, fibroblasts, and other cells of the healing callus. MSCs derive from periosteum, endosteum, marrow, and potentially from circulating sources. Osteoblasts: The bone-forming cells. Produce type I collagen, osteoid, and the proteins (osteocalcin, osteopontin, bone sialoprotein) that direct mineralization.
 

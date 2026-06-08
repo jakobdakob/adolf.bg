@@ -136,6 +136,16 @@ KD-V: Луксация на коляното с периартикуларна �
 
 ## Хронична дефицитарност на ПКВ
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/acl-recon.jpg" data-figure-alt="Реконструкция на ПКВ с hamstring графт" aria-label="Увеличи">
+    <img src="/img/trauma-26/acl-recon.jpg" alt="Реконструкция на ПКВ с hamstring графт" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Артроскопска реконструкция на ПКВ с hamstring (semitendinosus/gracilis) автограф — графтът преминава през феморалния и тибиалния тунел; най-честият съвременен избор при хронична дефицитарност на ПКВ.</span>
+    <span class="md-figure-attribution"> — Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+  </figcaption>
+</figure>
+
 Хроничната дефицитарност на ПКВ предизвиква „пропадания" на коляното, особено при режещи и въртящи движения, и прогресиращи вторични наранявания (менискусни разкъсвания, дегенерация на ставния хрущял). Реконструкцията е показана при функционална нестабилност или риск от прогресиращо менискусно нараняване. Стандартните графтни варианти са: bone-patellar tendon-bone автограф (историческият златен стандарт), hamstring автограф (най-честият съвременен избор) и quadriceps автограф (с нарастваща популярност). Алографтът е запазен за ревизионни и мултилигаментарни случаи. Резултатите са като цяло добри при единична лигаментарна реконструкция на ПКВ, с 80–90% завръщане към преднараняченото ниво на активност.
 
 ## Хронична дефицитарност на ЗКВ

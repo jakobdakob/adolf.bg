@@ -66,6 +66,16 @@ The chronic knee instabilities represent a distinct topic with their own substan
 
 ## Chronic ACL Deficiency
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/acl-recon.jpg" data-figure-alt="ACL reconstruction with hamstring graft" aria-label="Enlarge">
+    <img src="/img/trauma-26/acl-recon.jpg" alt="ACL reconstruction with hamstring graft" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Arthroscopic ACL reconstruction with hamstring (semitendinosus/gracilis) autograft — the graft passes through femoral and tibial tunnels; the most common modern choice for chronic ACL deficiency.</span>
+    <span class="md-figure-attribution"> — Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+  </figcaption>
+</figure>
+
 Chronic ACL deficiency produces giving-way, particularly with cutting and pivoting activities, and progressive secondary injury (meniscal tears, articular cartilage degeneration). Reconstruction is performed when functional instability or risk of progressive meniscal injury is present. The standard graft choices are bone-patellar tendon-bone autograft (the historical gold standard), hamstring autograft (the modern most common choice), and quadriceps tendon autograft (gaining popularity). Allograft is reserved for revision and multiligament cases. Outcomes are generally good in single-ligament ACL reconstruction, with 80 to 90 percent return to pre-injury activity level.
 
 ## Chronic PCL Deficiency

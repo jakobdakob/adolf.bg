@@ -80,6 +80,16 @@ Skin traction applies traction through adhesive strapping or specialized boots a
 
 ## Skeletal Traction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-3/traction.jpg" data-figure-alt="Skeletal traction" aria-label="Enlarge">
+    <img src="/img/trauma-3/traction.jpg" alt="Skeletal traction" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Skeletal traction via a transosseous pin — standard pin sites: distal femur, proximal tibia, calcaneus; allows up to 10–15% of body weight to maintain reduction.</span>
+    <span class="md-figure-attribution"> — Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Skeletal traction applies traction through pins inserted into bone, allowing much greater forces (up to 10-15% of body weight) and more reliable maintenance of reduction. The principal pin sites include the distal femur (for hip and proximal femoral fractures, and for femoral fractures requiring traction), the proximal tibia (for distal femoral and tibial plateau fractures), and the calcaneus (for tibial fractures). Risks include pin-tract infection, pin loosening, and neurovascular injury during pin insertion.
 
 ## Indications for Traction

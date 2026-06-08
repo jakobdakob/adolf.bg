@@ -33,11 +33,31 @@ Two scoring systems are most commonly used to stratify VTE risk in the surgical 
 
 ## Clinical Features of DVT and Pulmonary Embolism
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-7/saddle-pe.png" data-figure-alt="Saddle pulmonary embolism" aria-label="Enlarge">
+    <img src="/img/trauma-7/saddle-pe.png" alt="Saddle pulmonary embolism" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">"Saddle" pulmonary embolism — large thrombus straddling the bifurcation of the pulmonary artery on CT angiography; the classical appearance of massive PE with high risk of hemodynamic collapse.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:SaddlePE.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The clinical recognition of DVT in the orthopedic patient is notoriously unreliable. The classical signs — calf pain, tenderness along the venous system, unilateral leg swelling, warmth, Homans’ sign (calf pain with passive dorsiflexion of the foot, described by John Homans in 1944), and a palpable cord — are neither sensitive nor specific in a postoperative patient who already has postoperative swelling, hematoma, and pain from the surgery itself. Asymptomatic DVT, particularly in the calf veins, is the rule rather than the exception in the early postoperative period.
 
 Pulmonary embolism is similarly heterogeneous in presentation. Submassive PE may present with subtle tachypnea, mild hypoxemia, pleuritic chest pain, or unexplained tachycardia; massive PE produces hemodynamic collapse with hypotension, syncope, right heart strain, and sudden death. The classical Westermark sign (regional oligemia) and Hampton’s hump (a wedge-shaped pleural-based opacity) on plain chest radiograph are insensitive. Electrocardiographic findings, including sinus tachycardia and the much-quoted but uncommon S1Q3T3 pattern, lack diagnostic specificity. The orthopedic surgeon should maintain a low threshold for investigation in any postoperative patient with unexplained tachycardia, hypoxemia, or dyspnea.
 
 ## Diagnosis
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-7/pe-ctpa.jpg" data-figure-alt="PE on CTPA" aria-label="Enlarge">
+    <img src="/img/trauma-7/pe-ctpa.jpg" alt="PE on CTPA" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">CT pulmonary angiography (CTPA) — filling defect in the right pulmonary artery (arrow) in pulmonary thromboembolism; the first-line diagnostic modality when PE is suspected.</span>
+    <span class="md-figure-attribution"> — Aung Myat & Arif Ahsan, <a href="https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
 
 For suspected DVT, duplex ultrasonography is the first-line imaging modality, with sensitivity above 95 percent for proximal (femoropopliteal) DVT but lower (approximately 70 percent) for isolated calf DVT. In the patient with low pretest probability (Wells score under 2), a negative high-sensitivity D-dimer assay can effectively exclude DVT; in the postoperative orthopedic patient, however, D-dimer is almost universally elevated by the surgery itself and is therefore of limited utility. CT venography and MR venography are reserved for cases where duplex is non-diagnostic or where pelvic and iliac vein involvement is suspected (such as after acetabular surgery). For suspected PE, CT pulmonary angiography (CTPA) has replaced ventilation-perfusion (V/Q) scanning as the principal diagnostic modality, with sensitivity and specificity both above 95 percent for clinically significant PE. V/Q scanning retains a role in patients with renal impairment, contrast allergy, or pregnancy. Bedside echocardiography may demonstrate right ventricular dilation and strain in massive PE and is useful in the hemodynamically unstable patient who cannot be transported safely. The clinical decision pathway combines pretest probability assessment (Wells score), D-dimer in selected patients, and imaging.
 

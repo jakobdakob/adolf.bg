@@ -36,6 +36,16 @@ The design of arthroplasty implants involves balancing competing requirements of
 
 ## Hip Arthroplasty
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-30/tha-xray.jpg" data-figure-alt="Total hip arthroplasty" aria-label="Enlarge">
+    <img src="/img/ortho-30/tha-xray.jpg" alt="Total hip arthroplasty" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Total hip arthroplasty — acetabular cup, femoral head, and stem; the gold-standard procedure for end-stage hip osteoarthritis and AVN.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Hip arthroplasty has been the prototype of modern arthroplasty since Charnley’s pioneering work in the 1960s. The principles include: appropriate sizing of the femoral head (small heads have lower wear but higher dislocation risk; large heads have higher wear in metal-on-polyethylene bearings but offer lower dislocation risk); appropriate cup position with attention to abduction angle (40°) and anteversion (15-20°); restoration of
 
 leg length and offset; appropriate surgical approach (posterior, anterolateral, direct anterior — each with specific advantages and disadvantages as discussed in the coxarthrosis chapter); and meticulous soft-tissue balance.

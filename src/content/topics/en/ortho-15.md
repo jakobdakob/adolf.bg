@@ -13,6 +13,16 @@ Cerebral palsy (CP) is a non-progressive disorder of movement and posture arisin
 
 ## Etiology and Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/cerebral-palsy.jpg" data-figure-alt="Child with cerebral palsy" aria-label="Enlarge">
+    <img src="/img/ortho-15/cerebral-palsy.jpg" alt="Child with cerebral palsy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cerebral palsy — non-progressive motor disorder from injury to the developing brain; the orthopedic manifestations are secondary to spasticity and muscle imbalance.</span>
+    <span class="md-figure-attribution"> — National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 
 ## Etiology
 
@@ -35,6 +45,16 @@ The orthopedic manifestations of CP arise from the interaction of three processe
 The classical example is the spastic hip: the hip flexors and adductors are typically more spastic than the extensors and abductors, producing a flexed, adducted hip position; over years, the femoral head migrates laterally and superiorly under the pull of these muscles, the acetabulum fails to develop normal coverage, the femoral neck remains in excessive anteversion and valgus (because the muscle forces do not produce the normal molding of the proximal femur), and the hip progresses through subluxation to dislocation. Similar patterns of muscle imbalance produce equinus foot, crouch gait, scissor gait, and other characteristic abnormalities.
 
 ## Gait Analysis and Common Gait Patterns
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/gait-classification.jpg" data-figure-alt="Amsterdam gait classification" aria-label="Enlarge">
+    <img src="/img/ortho-15/gait-classification.jpg" alt="Amsterdam gait classification" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Amsterdam Gait Classification — standardised types of hemiplegic gait in cerebral palsy used for treatment planning.</span>
+    <span class="md-figure-attribution"> — Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Three-Dimensional Computerized Gait Analysis
@@ -71,6 +91,16 @@ The principles of CP hip management are: prevention of dislocation (the dislocat
 Bony reconstruction — varus-derotation femoral osteotomy combined with pelvic osteotomy (typically Dega or Pemberton for the bony defect of CP hip, both of which can correct posterior and lateral acetabular dysplasia) — is indicated for established subluxation (>40-50% migration) or for failed soft-tissue surgery. The combination of femoral and pelvic correction produces durable reduction in most cases, particularly when combined with adductor and iliopsoas releases. Salvage procedures for the painful dislocated hip in the non-ambulatory older patient include proximal femoral resection (Castle procedure) and valgus osteotomy with femoral head excision (Schanz, McHale procedures). Total hip arthroplasty has been performed in selected ambulatory patients with dislocation but is technically challenging and has higher complication rates than primary THA in non-CP patients.
 
 ## Foot Deformities in CP
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/equinus.png" data-figure-alt="Equinus foot deformity" aria-label="Enlarge">
+    <img src="/img/ortho-15/equinus.png" alt="Equinus foot deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Equinus deformity — fixed plantar flexion from a spastic triceps surae; the commonest foot deformity in cerebral palsy.</span>
+    <span class="md-figure-attribution"> — Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 The paralytic foot in CP varies with the underlying motor pattern. The principal deformities are: Equinus: Plantarflexed ankle from gastrocnemius-soleus spasticity or contracture. Treatment is initial conservative (stretching, ankle-foot orthosis), with botulinum toxin injection for spasticity, and surgical lengthening (gastrocnemius recession or formal Achilles tendon lengthening) for established contracture. The single most important principle is to avoid over-lengthening, which produces calcaneus gait and crouch — a calcaneus ankle is among the most disabling iatrogenic outcomes in CP orthopedics. Equinovarus: Plantarflexed and inverted foot, typically from spasticity of both the gastrocnemius-soleus and the tibialis posterior (or sometimes the tibialis anterior). The deformity is common in hemiplegic CP. Treatment combines lengthening of the contracted tendons (gastrocnemius recession, tibialis posterior or tibialis anterior lengthening or transfer) and bony correction in cases of established bony deformity. Equinoplanovalgus: Plantarflexed at the ankle but pronated at the subtalar joint, with hindfoot valgus and forefoot abduction. The deformity is common in diplegic CP. The combination produces a complex multi-axial problem requiring multi-component correction: Achilles or gastrocnemius lengthening for the equinus, peroneus brevis-to-longus tendon transfer or other muscle balancing for the valgus, calcaneal lengthening (Evans) or arthrodesis for the bony correction. Crouch foot: Calcaneus ankle from over-lengthened Achilles combined with knee flexion contracture, often progressing to bony deformity at the hindfoot. The deformity is among the most difficult to correct and emphasizes the importance of conservative initial intervention with the Achilles tendon.
 

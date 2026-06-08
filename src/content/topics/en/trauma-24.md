@@ -27,11 +27,6 @@ The deforming forces on the distal femur fracture are predictable: the gastrocne
   <p>Gastrocnemius pulls the distal fragment into extension and shortening; adductor magnus tilts the proximal fragment into varus. The predictable malreduction is therefore varus and recurvatum (apex anterior) and must be actively corrected at reduction, not simply assumed away.</p>
 </aside>
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Gastrocnemius pulls the distal fragment into extension and shortening; adductor magnus tilts the proximal fragment into varus. The predictable malreduction is therefore varus and recurvatum (apex anterior) and must be actively corrected at reduction, not simply assumed away.</p>
-</aside>
-
 ## Classification
 
 <figure class="md-figure">
@@ -51,11 +46,6 @@ The AO/OTA classification (region 33) structures distal femur fractures by artic
   <p>The Hoffa fragment, a coronal-plane condylar fracture (most often lateral), is missed on standard AP and lateral views. CT is essential for diagnosis and operative planning; missed Hoffa fragments produce persistent pain and progressive arthritis from the displaced articular surface.</p>
 </aside>
 
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>The Hoffa fragment, a coronal-plane condylar fracture (most often lateral), is missed on standard AP and lateral views. CT is essential for diagnosis and operative planning; missed Hoffa fragments produce persistent pain and progressive arthritis from the displaced articular surface.</p>
-</aside>
-
 ## Clinical Assessment
 
 The clinical presentation depends on energy: the high-energy distal femur fracture in a young adult presents with gross deformity, swelling, pain, and often associated injuries; the low-energy fragility fracture in the elderly may present with subtler findings of pain and inability to bear weight after a fall. The examination assesses neurovascular status of the lower leg with particular attention to distal pulses (the popliteal vessels are at risk in posteriorly displaced fractures), motor and sensory function of the peroneal and tibial divisions of the sciatic nerve, and the integrity of the soft-tissue envelope (with attention to open wounds, contamination, and impending skin compromise). Compartment syndrome of the thigh or proximal leg should be considered, particularly in high-energy injuries; the leg compartments are at greater risk than the thigh, but both should be assessed. Imaging consists of standard AP and lateral radiographs of the entire femur (including the hip and knee), with additional traction views often helpful in defining the fracture morphology before CT. CT is the standard for operative planning in any intra-articular fracture, providing detailed assessment of articular fragments, Hoffa fragments, and the orientation of fracture lines. The CT angiography is added when vascular injury is suspected.
@@ -68,11 +58,6 @@ The clinical presentation depends on energy: the high-energy distal femur fractu
 Lateral locked plating is the predominant operative technique for distal femur fractures and has produced the substantial improvement in outcomes that has characterized this region over the past two decades. The construct uses a precontoured anatomic locking plate (Less Invasive Stabilization System, LISS, or distal femoral locking plate) applied to the lateral aspect of the distal femur with multiple converging locking screws into the distal condylar fragment plus shaft fixation. The mechanical principle is fixed-angle bridge plating: the locking screws create a stable construct in the distal fragment that maintains the fixed angle relationships even in osteoporotic bone, allowing the plate to function as an “internal external fixator” in spanning the metaphyseal comminution. The construct is intended to permit controlled motion at the fracture site (allowing callus formation) while resisting the typical varus and recurvatum deforming forces. The technical considerations include: Reduction is the critical first step. The classical malreduction is varus and recurvatum (apex anterior) because of the deforming forces; specific attention to restoring valgus alignment and to extending the distal fragment is required. Indirect reduction techniques using traction, percutaneous reduction tools, and provisional K-wire fixation are typically used; open reduction through a lateral or anterolateral approach (developing the interval between the vastus lateralis and the iliotibial band) is reserved for intra-articular fractures requiring direct articular reduction. Articular reduction in type C fractures is performed first, with lag screws securing the articular block before plate application. The Hoffa fragment, when present, requires specific attention with separate anterior-to-posterior screw fixation through a small arthrotomy. Plate length should be substantial — at least 6 to 8 cortical screws in the proximal (diaphyseal) segment, to spread the load and provide adequate working length. The
 
 “working length” concept — the distance between the most distal proximal screw and the most proximal screw of the distal fragment, is critical to construct flexibility and load distribution. Screw distribution in the distal fragment should provide multiple converging screws into the condylar bone, with attention to avoiding screws that penetrate the joint or the intercondylar notch. The complications of lateral locked plating include valgus or varus malreduction, nonunion (5 to 15 percent in series, substantially higher than for femoral shaft fractures, reflecting the metaphyseal comminution and the cantilever construct), implant failure with plate breakage at the working zone, and hardware-related symptoms. The “too stiff” plate construct has been recognized as a concern — excessive construct stiffness may inhibit the callus formation that is the principal healing mechanism in bridge plating, contributing to delayed union and implant failure. Strategies to address this include far cortical locking screws (with their threaded engagement only in the far cortex, permitting controlled near cortical motion) and longer working lengths.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Lateral locked plating acts as an internal external fixator bridging metaphyseal comminution. Construct flexibility is governed by working length (distance between the most distal proximal screw and most proximal distal screw); too-stiff constructs inhibit callus and drive nonunion, so favor long plates, longer working length, and (selectively) far cortical locking.</p>
-</aside>
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
@@ -98,11 +83,6 @@ The technique parallels femoral shaft retrograde nailing (see [Topic Trauma-23](
 ## Plate vs Nail — The Active Debate
 
 The choice between lateral locked plating and retrograde intramedullary nailing for distal femur fractures has been investigated through several randomized trials and meta-analyses. The general consensus is: Extra-articular fractures (AO 33-A): Either construct produces similar outcomes; retrograde nail may have advantages of load sharing and smaller exposure. Partial articular fractures (AO 33-B) with simple condyle pattern: Either construct is appropriate, with the choice depending on surgeon preference and the specific articular pattern. Complete articular fractures (AO 33-C) with simple condylar component: Locked plating provides better articular fixation; retrograde nailing requires preliminary articular reconstruction with separate fixation. Complete articular fractures with significant comminution (33-C2, 33-C3): Locked plating, often with medial augmentation, is the standard. Periprosthetic fractures around total knee arthroplasty: Discussed below; choice depends on the femoral component design and the position of the fracture.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Retrograde nailing requires an open-box (nail-compatible) femoral component; closed-box designs preclude it. The Vancouver principles transfer: well-fixed components are retained with fixation around them, loose components require revision arthroplasty.</p>
-</aside>
 
 <aside class="callout callout-pitfall">
   <span class="callout-label">Pitfall</span>

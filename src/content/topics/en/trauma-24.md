@@ -19,6 +19,16 @@ The deforming forces on the distal femur fracture are predictable: the gastrocne
 
 ## Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-24/hoffa.jpg" data-figure-alt="Hoffa fracture — Letenneur classification" aria-label="Enlarge">
+    <img src="/img/trauma-24/hoffa.jpg" alt="Hoffa fracture — Letenneur classification" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Distal femoral fracture — Letenneur classification of the Hoffa fracture (coronal fracture of the lateral condyle).</span>
+    <span class="md-figure-attribution"> — Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
+  </figcaption>
+</figure>
+
 The AO/OTA classification (region 33) structures distal femur fractures by articular involvement: Type A (extra-articular): The fracture does not involve the articular surface. A1 simple metaphyseal, A2 metaphyseal with wedge fragment, A3 multifragmentary metaphyseal. Type B (partial articular): One condyle is fractured but a portion of the articular surface remains in continuity with the diaphysis. B1 lateral condyle sagittal (Hoffa fragment when in the coronal plane), B2 medial condyle sagittal, B3 frontal/coronal (Hoffa-type fracture in the coronal plane). Type C (complete articular): Both condyles are separated from the diaphysis, with the articular surface itself often comminuted. C1 simple intra-articular and metaphyseal, C2 simple articular with multifragmentary metaphyseal, C3 multifragmentary articular and metaphyseal. The Hoffa fracture (Albert Hoffa, 1904) deserves specific mention: it is a coronal-plane fracture of the femoral condyle (most commonly the lateral) producing a posterior osteochondral fragment. The injury is missed on standard AP and lateral views; CT is essential for diagnosis and operative planning. Treatment is open reduction with anterior-to-posterior screw fixation through a small arthrotomy. The historical Neer classification is largely superseded by the AO/OTA system. The Müller classification of supracondylar fractures (with extracondylar, intercondylar, and intracondylar variations) preceded the AO/OTA system and provides similar conceptual organization.
 
 ## Clinical Assessment

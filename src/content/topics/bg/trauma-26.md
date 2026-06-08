@@ -31,6 +31,16 @@ order: 126
 
 ## Луксация на коляното — класификация и механизъм
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/acl-tear.jpg" data-figure-alt="Руптура на предната кръстна връзка" aria-label="Увеличи">
+    <img src="/img/trauma-26/acl-tear.jpg" alt="Руптура на предната кръстна връзка" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Руптура на предната кръстна връзка — типичното увреждане при ротационно-валгусен механизъм; често част от луксация на коляното с риск от съдово увреждане.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Анатомичната класификация на Schenck (1992) систематизира луксациите на коляното по модела на лигаментарното нараняване, което е по-клинично полезно от по-старата позиционна класификация (предна, задна, медиална, латерална, ротаторна):
 
 KD-I: Мултилигаментарно нараняване с една интактна кръстосана връзка (ПКВ + колатерална при интактна ЗКВ, или ЗКВ + колатерална при интактна ПКВ).

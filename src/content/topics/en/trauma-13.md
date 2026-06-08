@@ -19,6 +19,16 @@ The rotator cuff insertions on the tuberosities translate fracture displacement 
 
 ## Classification — Neer Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-13/prox-humerus.jpg" data-figure-alt="Proximal humerus fracture" aria-label="Enlarge">
+    <img src="/img/trauma-13/prox-humerus.jpg" alt="Proximal humerus fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Proximal humerus fracture — Neer (1970) recognises four fragments (head, greater tuberosity, lesser tuberosity, shaft); displacement ≥1 cm or ≥45° defines the type.</span>
+    <span class="md-figure-attribution"> — Th. Zimmermann (THWZ), <a href="https://commons.wikimedia.org/wiki/File:Humerus_proximal_fract_01a.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+  </figcaption>
+</figure>
+
 The Neer classification (Charles Neer, 1970) has structured proximal humerus fracture management for over five decades and remains the most widely used system in clinical practice. The classification builds on the four Codman fragments — articular head, greater tuberosity, lesser tuberosity, and shaft — and defines a fragment as displaced if it is separated by more than 1 centimeter or angulated by more than 45 degrees relative to the other fragments. A “part” in Neer terminology is a displaced fragment; the number of parts ranges from one (non-displaced or minimally displaced) to four (all four fragments displaced). Neer further subdivides fractures by the involvement of specific fragments and by associated dislocation. Anatomical neck fractures (rare) separate the humeral head from the tuberosities at the anatomical neck and carry a high risk of avascular necrosis. Surgical neck fractures (the most common type) separate the head and tuberosities from the shaft. Greater tuberosity fractures are isolated fractures of this fragment, frequently associated with anterior glenohumeral dislocation. Lesser tuberosity fractures are uncommon in isolation, more often part of complex patterns or seen with posterior dislocation. Fracture-dislocations combine fracture with glenohumeral dislocation. Head-splitting fractures are intra-articular fractures of the humeral head. The Neer classification has been criticized for limited inter- and intra-observer reliability — multiple studies have demonstrated kappa values in the 0.3 to 0.5 range — but its conceptual structure remains useful, and modern imaging (3D CT reconstruction) has improved reliability when used systematically.
 
 ## Classification — AO/OTA System

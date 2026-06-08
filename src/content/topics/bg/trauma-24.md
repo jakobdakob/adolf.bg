@@ -25,6 +25,16 @@ order: 124
 
 ## Класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-24/hoffa.jpg" data-figure-alt="Класификация на Hoffa-фрактурата по Letenneur" aria-label="Увеличи">
+    <img src="/img/trauma-24/hoffa.jpg" alt="Класификация на Hoffa-фрактурата по Letenneur" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дистална бедрена фрактура — класификация по Letenneur на Hoffa-фрактурата (коронална фрактура на латералния кондил).</span>
+    <span class="md-figure-attribution"> — Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на AO/OTA (регион 33) систематизира фрактурите на дисталния фемур по ставно засягане:
 
 Тип A (екстраартикуларна): Фрактурата не засяга ставната повърхност. A1 проста метафизарна, A2 метафизарна с клинов фрагмент, A3 многофрагментна метафизарна.

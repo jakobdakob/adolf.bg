@@ -65,6 +65,16 @@ The treatment of the adult Monteggia injury is open reduction and internal fixat
 
 ## The Galeazzi Fracture-Dislocation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-16/galeazzi.jpg" data-figure-alt="Galeazzi fracture-dislocation" aria-label="Enlarge">
+    <img src="/img/trauma-16/galeazzi.jpg" alt="Galeazzi fracture-dislocation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Galeazzi fracture-dislocation — distal radial-shaft fracture with dislocation of the distal radioulnar joint; in adults requires operative reduction and plating of the radius.</span>
+    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi_Fracture_of_Distal_Radius.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The Galeazzi injury — fracture of the radial shaft with dislocation of the distal radioulnar joint — was described by Riccardo Galeazzi of Milan in 1934, although the injury was recognized earlier (Astley Cooper described it in the early 19th century). The pathophysiology is the disruption of the distal radioulnar coupling, with the DRUJ dislocating because of the loss of radial length or rotational alignment. The classical features of Galeazzi injury include the radial shaft fracture (usually at the junction of the middle and distal thirds, the “Galeazzi point”), associated with one or more of: dislocation of the ulnar head from the sigmoid notch (visible on lateral wrist
 
 radiograph), shortening of the radius greater than 5 mm (with positive ulnar variance), fracture of the ulnar styloid base, and widening of the DRUJ on the AP wrist radiograph. The clinical aphorism that the Galeazzi injury is the “fracture of necessity” — meaning that operative management is required for good outcomes — captures the fundamental treatment principle. Closed reduction and casting of the radial fracture, even with reasonable initial alignment, results in unacceptable outcomes (radial shortening, recurrent angulation, DRUJ subluxation) in the adult patient. The treatment is open reduction and internal fixation of the radial fracture with restoration of length and rotation, followed by assessment of DRUJ stability in pronation, supination, and the neutral position. If the DRUJ is stable after radial fixation (the most common outcome with anatomical fixation), no further surgery is needed and the forearm is immobilized in the position of greatest stability (typically full supination) for 4 to 6 weeks. If the DRUJ remains unstable, additional management is required: open or arthroscopic TFCC repair, ulnar styloid base fixation (when present), or transverse K-wire fixation across the DRUJ in addition to the cast immobilization. The wire is removed at 6 weeks and DRUJ stability is reassessed. The Galeazzi-equivalent injuries include distal radial physeal fractures in children with associated DRUJ disruption (treated by reduction of the physis with assessment of DRUJ) and isolated dorsal or volar dislocations of the DRUJ with associated radial deformity.

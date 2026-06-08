@@ -21,6 +21,16 @@ Lunatum е централната ключова кост на проксима�
 
 ## Фрактури на scaphoid
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/scaphoid.png" data-figure-alt="Фрактура на os scaphoideum" aria-label="Увеличи">
+    <img src="/img/trauma-18/scaphoid.png" alt="Фрактура на os scaphoideum" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на scaphoid — най-честата карпална фрактура; ретроградното кръвоснабдяване от радиалната артерия предразполага към AVN при проксималните фрактури.</span>
+    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Анатомия и класификация
 

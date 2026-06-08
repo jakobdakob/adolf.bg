@@ -19,6 +19,16 @@ The iliotibial band anterolaterally and the pes anserinus tendons medially contr
 
 ## Knee Dislocation — Classification and Mechanism
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/acl-tear.jpg" data-figure-alt="Anterior cruciate ligament tear" aria-label="Enlarge">
+    <img src="/img/trauma-26/acl-tear.jpg" alt="Anterior cruciate ligament tear" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior cruciate ligament tear — typical of rotational-valgus injuries; often part of a knee dislocation with potential vascular compromise.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The Schenck anatomic classification (1992) organizes knee dislocations by the pattern of ligamentous injury, which is more clinically useful than the older positional classification (anterior, posterior, medial, lateral, rotatory): KD-I: Multiligamentous injury with one cruciate intact (ACL + collateral injury with PCL intact, or PCL + collateral with ACL intact). KD-II: Bicruciate injury with both collaterals intact (rare). KD-III: Bicruciate injury plus one collateral injury. Subdivided into KD-IIIM (medial-sided injury, more common) and KD-IIIL (lateral-sided injury, with PLC component). KD-IV: Bicruciate injury plus both collateral injuries. KD-V: Knee dislocation with periarticular fracture. The Schenck classification correlates with management complexity, with KD-IV and KD-V injuries having the most challenging reconstruction needs and the highest rates of complications. The classical positional classification (anterior, posterior, medial, lateral, rotatory) describes the direction of tibial displacement and provides additional information about mechanism but is less useful for treatment planning. The mechanism of knee dislocation includes high-energy injuries (motor vehicle accident, fall from height, sporting injury — particularly contact sports) and low-energy or “ultra-low-energy” injuries in obese patients (where the substantial body mass produces force sufficient to dislocate the knee with relatively minor mechanism). The obese patient with knee dislocation has been recognized as a distinct entity with particularly high rates of complications.
 
 ## Acute Evaluation of the Dislocated Knee

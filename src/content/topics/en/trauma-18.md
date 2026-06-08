@@ -19,6 +19,16 @@ a small subset of patients (about 25 percent) having a single volar nutrient art
 
 ## Scaphoid Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/scaphoid.png" data-figure-alt="Scaphoid fracture" aria-label="Enlarge">
+    <img src="/img/trauma-18/scaphoid.png" alt="Scaphoid fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Scaphoid fracture — the commonest carpal fracture; the retrograde blood supply from the radial artery predisposes proximal-pole fractures to AVN.</span>
+    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Anatomy and Classification
 

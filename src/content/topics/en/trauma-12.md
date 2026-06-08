@@ -17,6 +17,16 @@ The glenohumeral joint is a ball-and-socket articulation with a marked size mism
 
 ## Acute Anterior Dislocation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/bankart-ct.jpg" data-figure-alt="Bankart lesion — 3D CT" aria-label="Enlarge">
+    <img src="/img/trauma-12/bankart-ct.jpg" alt="Bankart lesion — 3D CT" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Bankart lesion (3D CT reconstruction) — avulsion of the antero-inferior labrum from the glenoid in anterior shoulder dislocation; the pathognomonic finding in recurrent instability.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:3-D_CT_reconstruction_of_Bankart_lesion_which_occurred_post_anterior_shoulder_dislocation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Anterior dislocation accounts for 95 to 97 percent of glenohumeral dislocations. The
 patient presents with the affected arm held in slight abduction and external rotation, with
 loss of the normal rounded deltoid contour (“squared off” shoulder), prominence of the

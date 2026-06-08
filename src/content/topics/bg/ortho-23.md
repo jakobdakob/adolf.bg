@@ -13,16 +13,6 @@ order: 23
 
 ## Hallux valgus
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus — рентгенография" aria-label="Увеличи">
-    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus — рентгенография" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Hallux valgus — латерална девиация на палеца с медиална изпъкналост на главата на първата метатарзална кост; ъглите HVA (>15°) и IMA (>9°) насочват към степента на деформацията.</span>
-    <span class="md-figure-attribution"> — Jmarchn / Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte_(only_X-ray).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
-  </figcaption>
-</figure>
-
 
 ## Дефиниция и епидемиология
 

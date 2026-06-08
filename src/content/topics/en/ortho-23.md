@@ -13,16 +13,6 @@ The forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe d
 
 ## Hallux Valgus
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus — radiograph" aria-label="Enlarge">
-    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus — radiograph" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Hallux valgus — lateral deviation of the great toe with medial prominence of the first metatarsal head; HVA (&gt;15°) and IMA (&gt;9°) grade severity.</span>
-    <span class="md-figure-attribution"> — Jmarchn / Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte_(only_X-ray).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
-  </figcaption>
-</figure>
-
 
 ## Definition and Epidemiology
 

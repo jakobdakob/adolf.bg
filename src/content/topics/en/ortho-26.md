@@ -31,16 +31,6 @@ Obstetric brachial plexus palsy is a stretch or rupture injury to the brachial p
 
 ## Classification by Level of Injury
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-26/erb-palsy.jpg" data-figure-alt="Erb's palsy" aria-label="Enlarge">
-    <img src="/img/ortho-26/erb-palsy.jpg" alt="Erb's palsy" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Erb's palsy (C5–C6) in a neonate — characteristic "waiter's tip" posture: adduction and internal rotation of the shoulder, pronation and extension at the elbow.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
 The brachial plexus arises from C5, C6, C7, C8, and T1 nerve roots. OBPP is classified by which roots are involved: Erb’s palsy (upper plexus, C5-C6, sometimes including C7): The commonest pattern, accounting for approximately 70% of OBPP. The classical clinical features include the affected arm held in adduction and internal rotation at the shoulder, extended at the elbow, pronated at the forearm, and with the wrist and fingers slightly flexed — the “waiter’s tip” position. Active shoulder abduction, external rotation, elbow flexion, and forearm supination are weak or absent. Hand and wrist function may be preserved if C7 is spared. Klumpke’s palsy (lower plexus, C8-T1): Rare in isolation (less than 1% of OBPP). The hand intrinsic muscles are weak, producing a claw-hand appearance, with sensory loss in the C8-T1 distribution. Horner’s syndrome (ipsilateral ptosis, miosis, anhidrosis) is associated and suggests a more severe pre-ganglionic injury at T1. Total plexus injury (C5-T1): The most severe pattern, with complete flaccid paralysis of the affected arm. Associated Horner’s syndrome and phrenic nerve injury (with hemidiaphragm paralysis) are markers of pre-ganglionic injury and worse prognosis.
 
 

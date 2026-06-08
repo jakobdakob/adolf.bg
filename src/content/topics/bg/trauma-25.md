@@ -142,16 +142,6 @@ Nervus peroneus communis преминава около шийката на фи�
 
 ## Клинична оценка и образна диагностика при фрактури на plateau tibiae
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/tibial-plateau.jpg" data-figure-alt="Депресивна фрактура на латералния plateau tibiae" aria-label="Увеличи">
-    <img src="/img/trauma-25/tibial-plateau.jpg" alt="Депресивна фрактура на латералния plateau tibiae" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Депресивна фрактура на латералния plateau tibiae (Schatzker тип II/III) — клиновидно разцепване с депресия на ставната повърхност; CT е задължителен за квантифициране на депресията.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
 Клиничната картина включва болка, оток, хемартроз и невъзможност за натоварване, като механизмът е типично пътнотранспортно произшествие или падане от височина (висока енергия) или нискоенергийно падане при остеопороза. Прегледът оценява:
 
 Меките тъкани: Кожното покритие, мехури, охлузвания и открити рани определят спешността и подхода при оперативна интервенция. Проксималната медиална тибия е критична зона за кожното зарастване.

@@ -27,16 +27,6 @@ The terminology around impaired fracture healing is variably applied across the 
 
 ## Classification of Nonunion
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-8/nonunion.jpg" data-figure-alt="Nonunion on X-ray" aria-label="Enlarge">
-    <img src="/img/trauma-8/nonunion.jpg" alt="Nonunion on X-ray" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Nonunion — atrophic non-healing with osteoporotic fracture ends and a visible radiographic gap; biology is deficient and treatment requires bone grafting plus stabilisation.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
-  </figcaption>
-</figure>
-
 The widely accepted classification system is the Weber and Cech classification (1976), which divides nonunion by the radiographic and biological character of the fracture ends
 
 into hypertrophic, oligotrophic, and atrophic patterns. Hypertrophic nonunion is characterized by abundant callus formation that fails to bridge (“elephant foot” or “horse hoof” appearance); the biology is intact but the mechanical environment is inadequate, with excessive interfragmentary motion preventing bony bridging. The biology of these nonunions is preserved, and treatment requires stabilization rather than biological augmentation. Atrophic nonunion shows little or no callus, with osteoporotic, often tapered fracture ends and a clear radiographic gap. The biology is deficient — the cellular and vascular supply have been exhausted — and treatment requires biological stimulation (bone graft, BMP) in addition to stabilization. Oligotrophic nonunion is intermediate, with minimal callus despite preserved fragment apposition, suggesting both biological and mechanical issues. Other useful descriptors include the infected versus aseptic dichotomy (infection must be excluded before any revision surgery is planned), and the gap versus contact distinction (segmental bone loss exceeding approximately 3 cm requires reconstructive techniques such as bone transport or vascularized fibular graft). The Paley classification of tibial nonunion adds quantification of deformity (length, angulation, translation, rotation) and is particularly useful when external fixation reconstruction is planned.

@@ -94,16 +94,6 @@ The AO/OTA classification (region 41) parallels the Schatzker with type A extra-
 
 ## Clinical Assessment and Imaging of Tibial Plateau Fractures
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/tibial-plateau.jpg" data-figure-alt="Depressed lateral tibial plateau fracture" aria-label="Enlarge">
-    <img src="/img/trauma-25/tibial-plateau.jpg" alt="Depressed lateral tibial plateau fracture" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Depressed lateral tibial plateau fracture (Schatzker II/III) — split-wedge pattern with depression of the articular surface; CT is mandatory to quantify the depression.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
 The clinical features include pain, swelling, effusion, and inability to bear weight, with the mechanism typically motor vehicle accident or fall from height (high-energy) or low-energy fall in osteoporotic patients. The examination evaluates: Soft-tissue envelope: The skin condition, blisters, abrasions, and open wounds determine the urgency and approach of operative intervention. The proximal medial tibia is a watershed area for skin and wound healing. Neurovascular examination: Distal pulses (anterior tibial, posterior tibial, dorsalis pedis); peroneal and tibial nerve function (with peroneal nerve at particular risk in type IV and lateral approaches).
 
 Compartment syndrome: The leg compartments are at substantial risk in tibial plateau fractures, particularly high-energy patterns. Disproportionate pain, pain on passive stretch, sensory changes, and tense compartments are evaluated; intra-compartmental pressures are measured in equivocal cases. Ligamentous integrity: Approximately 50 percent of tibial plateau fractures have associated ligamentous injuries (MCL, LCL, ACL, PCL, posterolateral corner). The clinical examination of ligaments may be difficult acutely because of pain and swelling but should be repeated after reduction and again before definitive surgery. Meniscal injury: Lateral meniscal tears are particularly common in lateral plateau fractures; medial meniscal injuries occur with medial plateau fractures. Tears can occur as the femoral condyle drives into the depressed plateau. The imaging includes AP and lateral radiographs as the initial study. CT with 3D reconstruction is the standard for any fracture being considered for operative intervention, providing detailed assessment of articular involvement, depression, comminution, and posterior involvement. MRI is added to evaluate ligamentous and meniscal injuries; the dual modality CT plus MRI is often used in preoperative planning. CT angiography is added for suspected vascular injury, particularly in high-energy Schatzker IV through VI patterns.

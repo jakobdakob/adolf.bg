@@ -63,7 +63,7 @@ const contentsLede = lang === "bg"
         </a>
       </div>
       <div class="hero-feedback">
-        <a href={viberChat} class="hero-feedback-link" rel="external">{ctaFeedback}</a>
+        <a href={viberChat} class="btn btn-viber" rel="external">{ctaFeedback}</a>
       </div>
     </div>
   </section>
@@ -158,16 +158,10 @@ const contentsLede = lang === "bg"
     color: var(--ink-muted);
   }
   .hero-feedback {
-    margin-top: var(--s-5);
+    margin-top: var(--s-6);
+    display: flex;
+    justify-content: flex-start;
   }
-  .hero-feedback-link {
-    color: var(--ink-faint, var(--ink-muted));
-    font-size: var(--fs-meta, 0.875rem);
-    text-decoration: underline;
-    text-decoration-color: var(--rule);
-    text-underline-offset: 3px;
-  }
-  .hero-feedback-link:hover { color: var(--accent); text-decoration-color: var(--accent); }
 
   #ortho, #trauma, #anatomy { scroll-margin-top: 72px; }
 

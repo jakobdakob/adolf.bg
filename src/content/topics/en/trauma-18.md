@@ -54,6 +54,16 @@ The remaining carpal fractures collectively account for 20 to 30 percent of carp
 
 ## Perilunate and Lunate Dislocations
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/lunate-dislocation.jpg" data-figure-alt="Lunate dislocation" aria-label="Enlarge">
+    <img src="/img/trauma-18/lunate-dislocation.jpg" alt="Lunate dislocation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lunate dislocation — lateral X-ray: volar displacement of the lunate out of the radial fossa with the other carpal bones in normal position; the final Mayfield IV stage.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The perilunate dislocation is a complex carpal disruption that occurs in distinctive stages
 described by Mayfield (1980). The mechanism is high-energy hyperextension, ulnar
 deviation, and intercarpal supination, typically from a fall from height or motor vehicle

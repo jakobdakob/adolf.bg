@@ -52,6 +52,16 @@ The Letournel classification (Robert Judet and Émile Letournel, 1964) of acetab
 
 ## Elementary Patterns
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-post-wall.jpg" data-figure-alt="Posterior wall acetabular fracture" aria-label="Enlarge">
+    <img src="/img/trauma-20/acetabular-post-wall.jpg" alt="Posterior wall acetabular fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior wall acetabular fracture — the most common elementary Letournel pattern; typically a dashboard injury with posterior hip dislocation; Kocher-Langenbeck approach for fixation.</span>
+    <span class="md-figure-attribution"> — Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Posterior wall fracture: The most common elementary pattern (over 25 percent of acetabular fractures). The mechanism is typically the dashboard injury with the hip flexed. The injury involves the posterior wall of the acetabulum, often with associated posterior dislocation. Stability assessment depends on the percentage of the posterior wall involved (less than 20 percent typically stable, more than 40 percent unstable, intermediate range requiring stress examination). Posterior column fracture: Fracture of the posterior column from the greater sciatic notch through the obturator foramen into the ischium. Less common than posterior wall. Anterior wall fracture: Fracture of the anterior wall of the acetabulum. Uncommon.
 
 Anterior column fracture: Fracture extending from the iliac crest through the anterior column. Subdivided by the level at which the fracture exits the anterior column (high, intermediate, low). Transverse fracture: A horizontal fracture line separating the iliac roof and ischial body components, crossing both columns. Subdivided by location of the fracture line (infratectal below the roof, juxtatectal at the roof, transtectal through the roof).

@@ -80,6 +80,16 @@ order: 105
 
 ## Хирургично лечение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-5/external-fixator.jpg" data-figure-alt="Външен фиксатор на крайник" aria-label="Увеличи">
+    <img src="/img/trauma-5/external-fixator.jpg" alt="Външен фиксатор на крайник" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Външен фиксатор — основният метод за временна стабилизация при открити фрактури от Gustilo тип IIIA/B/C; позволява лесен достъп за грижа на меките тъкани и серийна дебридменти преди финална вътрешна фиксация.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Принципите на хирургичното лечение на откритите фрактури включват:
 
 Срокове: Исторически „6-часовото правило" предполагаше дебридман в рамките на 6 часа от нараняването. Съвременните доказателства подкрепят принципа на ранен дебридман, но предполагат, че абсолютните срокове са по-малко критични от незабавното приложение на антибиотици. Повечето центрове се стремят към дебридман в рамките на 12–24 часа от нараняването, като случаите с груба контаминация или съдово увреждане се лекуват по-спешно.

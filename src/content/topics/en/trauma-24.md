@@ -77,6 +77,16 @@ Type I (proximal to the femoral component): Treated as a standard distal femur f
 
 ## Hoffa Fracture
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-24/hoffa-fracture.png" data-figure-alt="Hoffa fracture" aria-label="Enlarge">
+    <img src="/img/trauma-24/hoffa-fracture.png" alt="Hoffa fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hoffa fracture — coronal-plane fracture of the medial femoral condyle; frequently missed on standard AP and lateral radiographs and requires CT for recognition.</span>
+    <span class="md-figure-attribution"> — Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+  </figcaption>
+</figure>
+
 The Hoffa fracture (coronal plane fracture of the lateral or medial femoral condyle) is a distinct entity that deserves specific attention. The classical mechanism is a direct blow to the flexed knee or an axial load through the tibia in the flexed knee position. The fracture line is in the coronal plane of the condyle, producing a posterior fragment that is missed on standard AP and lateral radiographs. The fracture is best identified on CT, with the coronal plane reconstructions demonstrating the typical pattern. Treatment is open reduction and internal fixation through a small anterior or anterolateral arthrotomy, with anterior-to-posterior screw fixation (headless compression screws) buried below the articular surface. The Hoffa fragment, if missed, produces persistent knee pain and progressive arthritis from the displaced articular surface; recognition is therefore important.
 
 

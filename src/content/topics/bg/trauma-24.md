@@ -157,6 +157,16 @@ order: 124
 
 ## Фрактура на Hoffa
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-24/hoffa-fracture.png" data-figure-alt="Фрактура на Hoffa" aria-label="Увеличи">
+    <img src="/img/trauma-24/hoffa-fracture.png" alt="Фрактура на Hoffa" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на Hoffa — коронарна фрактура на медиалния бедрен condylus; често се пропуска на стандартните AP и латерални рентгенографии и изисква CT за разпознаване.</span>
+    <span class="md-figure-attribution"> — Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурата на Hoffa (фрактура в коронарната плоскост на латералния или медиалния бедрен condylus) е самостоятелна единица, заслужаваща конкретно внимание. Класическият механизъм е директен удар по флектираното коляно или аксиално натоварване на тибията при флектирано коляно. Линията на фрактурата е в коронарната плоскост на condylus, образувайки заден фрагмент, пропускан на стандартни AP и странични рентгенографии.
 
 Фрактурата се идентифицира най-добре на КТ, с коронарни реконструкции, демонстриращи типичния вид. Лечението е открита репозиция и вътрешна фиксация чрез малка предна или антеролатерална артротомия с фиксация от отпред назад (безглавни компресионни болтове), заровени под ставната повърхност. Пропуснатият фрагмент тип Hoffa предизвиква трайна болка в коляното и прогресираща артроза от разместената ставна повърхност; навременното разпознаване е поради това важно.

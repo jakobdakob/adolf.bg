@@ -66,6 +66,16 @@ Lunatum е централната ключова кост на проксима�
 
 ## Перилунатни луксации и луксация на lunatum
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/lunate-dislocation.jpg" data-figure-alt="Луксация на lunatum" aria-label="Увеличи">
+    <img src="/img/trauma-18/lunate-dislocation.jpg" alt="Луксация на lunatum" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Луксация на os lunatum — латерална рентгенография: волярна дислокация на lunatum от радиалната ставна ямка, остаклите карпални кости в нормална позиция; финалният стадий на Mayfield IV.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Перилунатната луксация е сложна карпална дислокация, настъпваща в характерни стадии, описани от Mayfield (1980). Механизмът е високоенергийна хиперекстензия, улнарна девиация и интеркарпална супинация — типично при падане от голяма височина или при пътнотранспортна злополука. Стадиите на Mayfield описват прогресивна лигаментозна деструкция около lunatum от радиална към улнарна страна:
 
 •   Стадий I: Нарушаване на scapholunate лигамента (scapholunate дисоциация).

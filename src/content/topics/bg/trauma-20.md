@@ -90,6 +90,16 @@ Pipkin IV: Фрактурите на главата и на acetabulum тряб�
 
 ## Ацетабуларни фрактури — класификация на Letournel
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-post-wall.jpg" data-figure-alt="Фрактура на задната стена на ацетабулума" aria-label="Увеличи">
+    <img src="/img/trauma-20/acetabular-post-wall.jpg" alt="Фрактура на задната стена на ацетабулума" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на задната стена на ацетабулума — най-честият елементарен модел по Letournel; типично резултат от dashboard-механизъм с luxatio posterior; достъп Kocher-Langenbeck.</span>
+    <span class="md-figure-attribution"> — Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Letournel (Robert Judet и Émile Letournel, 1964) систематизира ацетабуларните фрактури в пет елементарни и пет асоциирани (комбинирани от елементарни) модела. Познаването на анатомията на колоните прави системата интуитивна: acetabulum притежава предна и задна колона плюс покрива, а фрактурите засягат различни комбинации от тях.
 
 ## Елементарни модели

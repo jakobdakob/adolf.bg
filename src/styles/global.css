@@ -310,7 +310,10 @@ html[data-theme="dark"] .btn-viber:hover {
   font-size: 1.0625rem;
   line-height: 1.72;
   color: var(--ink);
-  max-width: var(--reading-width);
+  /* No reading-width cap — let the body span the available column width
+     so it adapts to screen size. The grid sidebars already keep things from
+     getting absurdly wide on huge displays. */
+  max-width: none;
   letter-spacing: -0.003em;
   overflow-wrap: break-word;
   hyphens: auto;

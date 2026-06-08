@@ -55,7 +55,7 @@ const eyebrow =
   <div class="topic-shell">
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article">
-      <span class="eyebrow">{eyebrow}</span>
+      <span class="eyebrow topic-eyebrow">{eyebrow}</span>
       <h1 class="topic-title">{entry.data.title}</h1>
       <div class="prose">
         <slot />
@@ -118,6 +118,13 @@ const eyebrow =
     min-width: 0;
     max-width: 100%;
     overflow-wrap: break-word;
+  }
+  /* Section/topic label above title is redundant with the left sidebar
+     (section name) and right TOC ("В тази тема") when both rails are visible.
+     Hide it on lg+ where the sidebar is showing; keep on smaller screens
+     where the sidebar is in the mobile drawer. */
+  @media (min-width: 1024px) {
+    .topic-eyebrow { display: none; }
   }
   .topic-title {
     /* ~1.5× body text (body = 1.0625rem). Calm, not display-size. */

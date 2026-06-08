@@ -13,6 +13,16 @@ The forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe d
 
 ## Hallux Valgus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus — radiograph" aria-label="Enlarge">
+    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux valgus — lateral deviation of the great toe with medial prominence of the first metatarsal head; HVA (&gt;15°) and IMA (&gt;9°) grade severity.</span>
+    <span class="md-figure-attribution"> — Jmarchn / Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte_(only_X-ray).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -65,6 +75,16 @@ The principal complications of hallux valgus surgery include: recurrence (the co
 
 ## Hallux Rigidus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-rigidus.jpg" data-figure-alt="Hallux rigidus" aria-label="Enlarge">
+    <img src="/img/ortho-23/hallux-rigidus.jpg" alt="Hallux rigidus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux rigidus — osteoarthritis of the first metatarsophalangeal joint with dorsal osteophytes limiting dorsiflexion.</span>
+    <span class="md-figure-attribution"> — Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition
 
@@ -89,6 +109,16 @@ Grade 1-2 (early disease): Cheilectomy — resection of the dorsal osteophyte an
 
 
 ## Hammer Toe
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hammer-toes.jpg" data-figure-alt="Hammer toes" aria-label="Enlarge">
+    <img src="/img/ortho-23/hammer-toes.jpg" alt="Hammer toes" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hammer toes — flexion of the proximal interphalangeal joint with extension of the distal interphalangeal and metatarsophalangeal joints.</span>
+    <span class="md-figure-attribution"> — Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Hammer toe is a deformity of a lesser toe characterized by flexion at the proximal interphalangeal (PIP) joint with relative extension at the metatarsophalangeal (MTP) joint and variable position of the distal interphalangeal (DIP) joint. The second toe is most commonly affected, particularly when the second metatarsal is longer than the first (Greek foot pattern). The deformity may be flexible (passively correctable to neutral) or fixed. The pathophysiology combines several factors: intrinsic-extrinsic muscle imbalance (with relative weakness of the intrinsic foot muscles producing extension of the MTP and flexion of the PIP); the long-term effects of constrictive footwear (which forces the toes into the position of MTP extension and PIP flexion); associated hallux valgus (which produces space conflict in the second toe); and inflammatory arthritis (rheumatoid disease classically produces severe hammer toe with MTP dislocation). Clinical features include the characteristic deformity, dorsal callus over the PIP joint from shoe friction, pain at the dorsal PIP and at the tip of the toe (which may bear weight in the dependent position), difficulty with footwear, and associated metatarsalgia under the corresponding metatarsal head. Treatment is initially conservative: roomier footwear, padding over the dorsal PIP, toe spacers, and various silicone splints. Surgical treatment is indicated for refractory deformity with pain or callus formation, and includes flexor-to-extensor tendon transfer (Girdlestone-Taylor procedure for flexible deformities), PIP arthrodesis or resection
 

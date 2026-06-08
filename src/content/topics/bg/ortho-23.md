@@ -13,6 +13,16 @@ order: 23
 
 ## Hallux valgus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus — рентгенография" aria-label="Увеличи">
+    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux valgus — латерална девиация на палеца с медиална изпъкналост на главата на първата метатарзална кост; ъглите HVA (>15°) и IMA (>9°) насочват към степента на деформацията.</span>
+    <span class="md-figure-attribution"> — Jmarchn / Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte_(only_X-ray).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Дефиниция и епидемиология
 
@@ -83,6 +93,16 @@ Hallux valgus при хипермобилност: Процедурата по L
 
 ## Hallux rigidus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-rigidus.jpg" data-figure-alt="Hallux rigidus" aria-label="Увеличи">
+    <img src="/img/ortho-23/hallux-rigidus.jpg" alt="Hallux rigidus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux rigidus — остеоартроза на първата метатарзофалангеална става с дорзални остеофити, ограничаващи дорзифлексията.</span>
+    <span class="md-figure-attribution"> — Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Дефиниция
@@ -124,6 +144,16 @@ Hallux rigidus е остеоартроза на първата метатарз�
 
 
 ## Чукообразен пръст (hammer toe)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hammer-toes.jpg" data-figure-alt="Чукообразни пръсти (hammer toes)" aria-label="Увеличи">
+    <img src="/img/ortho-23/hammer-toes.jpg" alt="Чукообразни пръсти (hammer toes)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Чукообразни пръсти — флексия на проксималния интерфалангеален става с екстензия на дисталния интерфалангеален и метатарзофалангеален.</span>
+    <span class="md-figure-attribution"> — Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Чукообразният пръст е деформация на малък пръст, характеризираща се с флексия в проксималната интерфалангеална (ПИФ) става при относителна екстензия в метатарзофалангеалната (МТФ) става и вариабилна позиция в дисталната интерфалангеална (ДИФ) става. Вторият пръст е най-честият засегнат, особено когато втората метатарзална кост е по-дълга от първата (гръцко стъпало). Деформацията може да бъде гъвкава (пасивно коригируема до неутрална позиция) или фиксирана.
 

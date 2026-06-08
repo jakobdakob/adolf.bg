@@ -25,6 +25,16 @@ Transverse deficiency is an amputation-like absence of the distal limb. Congenit
 
 ## Radial Longitudinal Deficiency (Radial Club Hand)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/radial-club-hand.jpg" data-figure-alt="Radial dysplasia — radial club hand" aria-label="Enlarge">
+    <img src="/img/ortho-12/radial-club-hand.jpg" alt="Radial dysplasia — radial club hand" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Radial dysplasia — absence of the radius with radial deviation and shortening of the forearm.</span>
+    <span class="md-figure-attribution"> — AFenrirsLife, <a href="https://commons.wikimedia.org/wiki/File:RadialDysplasiaTypeN4.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Radial longitudinal deficiency, classically called radial club hand, is a longitudinal deficiency of the preaxial (radial) side of the forearm and hand. The condition ranges from mild hypoplasia of the thumb to complete absence of the radius with severe hand deformity. The Bayne and Klug classification recognizes four types: Type I, short radius (mild distal radial deficiency); Type II, hypoplastic radius; Type III, partial absence of the radius; Type IV, complete absence of the radius. Associated thumb hypoplasia is the rule, classified by the Blauth system. Bilateral involvement is common. The clinical importance of recognizing radial longitudinal deficiency lies in its strong association with systemic conditions: VATER/VACTERL syndrome (vertebral, anal, cardiac, tracheoesophageal, renal, limb anomalies); Holt-Oram syndrome (autosomal dominant, with cardiac defects and TBX5 mutation); Fanconi anemia (with progressive bone marrow failure, treated by stem cell transplantation if recognized early); thrombocytopenia-absent radius (TAR) syndrome; and chromosomal anomalies. Every child with radial deficiency must undergo systematic evaluation including cardiac ultrasound, renal ultrasound, complete blood count with attention to platelets and pancytopenia, chromosomal analysis, and Fanconi anemia testing (chromosomal breakage analysis). This is one of the great teaching points of pediatric hand surgery: the orthopedic finding may be the sentinel sign of a systemic disorder that requires urgent diagnosis and treatment. Treatment of the upper-limb deformity in radial longitudinal deficiency begins with passive stretching and splinting of the wrist in the newborn period. Surgical management depends on the type and the function of the hand. Centralization of the wrist on the ulna (the classical procedure) re-aligns the wrist and the hand, but the long-term outcomes have shown recurrence of the radial deviation and concerns about the cost of permanent loss of wrist motion. Radialization (an alternative procedure that shifts the wrist and hand laterally relative to the ulna but without centralization) and the distraction-frame technique have been developed in response. Thumb hypoplasia is addressed by
 
 pollicization (transfer of the index finger to the thumb position) in severe hypoplasia or aplasia, with the index finger reshaped, rotated, and shortened to function as a thumb.
@@ -46,6 +56,16 @@ Phocomelia is the rare longitudinal deficiency in which the hand attaches direct
 Failures of differentiation are characterized by skeletal elements that have formed but have not separated from each other properly.
 
 ## Syndactyly
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/syndactyly.jpg" data-figure-alt="Partial syndactyly" aria-label="Enlarge">
+    <img src="/img/ortho-12/syndactyly.jpg" alt="Partial syndactyly" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Syndactyly — partial or complete congenital fusion of adjacent digits; the third-to-fourth web of the hand is the commonest site.</span>
+    <span class="md-figure-attribution"> — Couch-scratching-cats, <a href="https://commons.wikimedia.org/wiki/File:Partial_Syndactyly_1.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 Syndactyly is the failure of separation of adjacent digits, with an incidence of approximately 1 in 2,000 live births. The condition is classified by the extent of fusion (complete: extending to the fingertips; incomplete: partial fusion not reaching the fingertips) and by the tissue involvement (simple: skin and soft tissue only; complex: with bony fusion).
 
@@ -70,6 +90,16 @@ in the non-dominant arm); attempted release of the synostosis with interposition
 
 
 ## Polydactyly
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/polydactyly.jpg" data-figure-alt="Polydactyly of the left hand — radiograph" aria-label="Enlarge">
+    <img src="/img/ortho-12/polydactyly.jpg" alt="Polydactyly of the left hand — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Polydactyly — supernumerary digit; postaxial (ulnar) is most common in Black populations, preaxial (radial/thumb) is more frequent in White and Asian populations.</span>
+    <span class="md-figure-attribution"> — Drgnu23 et al., <a href="https://commons.wikimedia.org/wiki/File:Polydactyly_01_Lhand_AP.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Polydactyly is the presence of supernumerary digits, classified as preaxial (thumb side), postaxial (little-finger side), or central (within the body of the hand). Postaxial polydactyly is the most common type globally, with an incidence of approximately 1 in 3,000 in white European-descended populations and substantially higher (1 in 100-300) in African and African-descended populations. Preaxial polydactyly is most common in Asian populations and has the strongest functional consequences. Postaxial polydactyly is divided into Type A (a well-formed extra digit on a stable joint with neurovascular supply) and Type B (a rudimentary digit attached by a narrow soft-tissue pedicle). Type A is treated by formal surgical excision with reconstruction of the supporting structures; Type B is treated by simple ligation in the newborn period (the digit becomes ischemic and falls off over 1-2 weeks) or by formal excision later. Preaxial polydactyly — duplication of the thumb — is classified by the Wassel system into 7 types based on the level of duplication (distal phalanx, proximal phalanx, metacarpal, etc.) and the morphology. Wassel Type IV (duplication at the level of the proximal phalanx, with two distinct phalanges) is the commonest type. Treatment is surgical reconstruction of a functional thumb, typically by ablation of the less-developed thumb with reconstruction of the joint, ligaments, and tendons of the preserved thumb (the Bilhaut- Cloquet procedure combines elements of both thumbs into a single composite thumb, used for symmetric duplications, although the long-term cosmetic and functional results are variable). Pollicization may be used for the case in which neither thumb is reconstructible as a thumb. Central polydactyly (involving the middle three digits) is rare and often associated with syndactyly producing a complex hand deformity that requires individualized surgical management.
 
@@ -98,6 +128,16 @@ Thumb hypoplasia is graded by the Blauth classification: Type I (minor generaliz
 Brachydactyly is shortening of one or more digits, often inherited as an autosomal dominant trait. Several distinct types are recognized by which phalanx or metacarpal is shortened. Treatment is rarely required.
 
 ## Constriction Band Syndrome (Amniotic Band Syndrome, Streeter Dysplasia)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/constriction-bands.jpg" data-figure-alt="Constriction rings of the hands" aria-label="Enlarge">
+    <img src="/img/ortho-12/constriction-bands.jpg" alt="Constriction rings of the hands" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Constriction band syndrome — fetal amniotic strands produce deep circular grooves around digits, sometimes with distal acrosyndactyly or amputations.</span>
+    <span class="md-figure-attribution"> — Fyrosth, <a href="https://commons.wikimedia.org/wiki/File:Constriction_ring_hands.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 (Swanson VI) Constriction band syndrome — also termed amniotic band syndrome, Streeter dysplasia, or amniotic disruption complex — is a condition in which strands of amniotic membrane wrap around developing fetal structures and produce a spectrum of deformities including amputations, constriction rings, acrosyndactyly (distal fusion of digits with proximal fenestrations), and limb deformities. The condition is sporadic, not heritable, and not associated with chromosomal or systemic anomalies; the orthopedic surgeon faced with the constriction band syndrome can be reassuring on this point to the family. The pathophysiology is debated. The classical “extrinsic” theory of Torpin (1965) holds that early rupture of the amnion releases strands that entangle developing fetal parts; the alternative “intrinsic” theory of Streeter (1930) holds that the anomalies are produced by primary developmental disturbances and that the bands are secondary phenomena. The
 

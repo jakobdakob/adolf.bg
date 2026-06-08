@@ -1,0 +1,371 @@
+---
+import { type Lang, ui } from "../i18n/ui";
+
+interface Props {
+  lang: Lang;
+  /** Absolute URL to a JSON document of the form { questions: [...] } */
+  dataUrl: string;
+  /** Heading shown above the intro */
+  title: string;
+  /** Sub-heading body shown above Start button */
+  intro: string;
+  /** Optional URL to link back to from the score screen ("back to topic"). */
+  backLink?: string;
+  /** Optional label for the back link. */
+  backLabel?: string;
+  /** How many questions to pull. Default 20. */
+  count?: number;
+}
+const { lang, dataUrl, title, intro, backLink, backLabel, count = 20 } = Astro.props;
+const t = ui[lang];
+---
+<section
+  class="quiz"
+  data-quiz
+  data-lang={lang}
+  data-src={dataUrl}
+  data-count={String(count)}
+  data-back={backLink ?? ""}
+  data-back-label={backLabel ?? ""}
+  data-t-question={t.question}
+  data-t-out-of={t.outOf}
+  data-t-next={t.nextQuestion}
+  data-t-show-score={t.showScore}
+  data-t-your-score={t.yourScore}
+  data-t-try-again={t.tryAgain}
+  data-t-back={t.backToTopic}
+  data-t-loading={t.loading}
+>
+  <div class="quiz-intro" data-quiz-screen="intro">
+    <h1 class="quiz-title">{title}</h1>
+    <p class="quiz-intro-body">{intro}</p>
+    <button type="button" class="btn btn-primary" data-quiz-start>{t.startQuiz}</button>
+  </div>
+
+  <div class="quiz-loading" data-quiz-screen="loading" hidden>
+    <p>{t.loading}</p>
+  </div>
+
+  <div class="quiz-question" data-quiz-screen="question" hidden>
+    <div class="quiz-meta">
+      <span data-quiz-progress>—</span>
+    </div>
+    <h2 class="quiz-stem" data-quiz-stem></h2>
+    <ol class="quiz-options" data-quiz-options>
+      <li><button type="button" class="quiz-option" data-quiz-option="0"><span class="quiz-letter">A</span><span class="quiz-text"></span></button></li>
+      <li><button type="button" class="quiz-option" data-quiz-option="1"><span class="quiz-letter">B</span><span class="quiz-text"></span></button></li>
+      <li><button type="button" class="quiz-option" data-quiz-option="2"><span class="quiz-letter">C</span><span class="quiz-text"></span></button></li>
+      <li><button type="button" class="quiz-option" data-quiz-option="3"><span class="quiz-letter">D</span><span class="quiz-text"></span></button></li>
+    </ol>
+    <div class="quiz-controls">
+      <button type="button" class="btn btn-primary" data-quiz-next hidden></button>
+    </div>
+  </div>
+
+  <div class="quiz-score" data-quiz-screen="score" hidden>
+    <p class="quiz-score-label" data-quiz-score-label></p>
+    <p class="quiz-score-value" data-quiz-score-value>—</p>
+    <p class="quiz-score-percent" data-quiz-score-percent>—</p>
+    <div class="quiz-score-actions">
+      <button type="button" class="btn btn-primary" data-quiz-retry></button>
+      <a class="btn btn-ghost" data-quiz-back hidden></a>
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+(function () {
+  const root = document.querySelector("[data-quiz]");
+  if (!root) return;
+  const lang = root.dataset.lang;
+  const src = root.dataset.src;
+  const count = parseInt(root.dataset.count || "20", 10);
+  const back = root.dataset.back || "";
+  const backLabel = root.dataset.backLabel || "";
+
+  const T = {
+    question: root.dataset.tQuestion,
+    outOf:    root.dataset.tOutOf,
+    next:     root.dataset.tNext,
+    show:     root.dataset.tShowScore,
+    yours:    root.dataset.tYourScore,
+    retry:    root.dataset.tTryAgain,
+    back:     root.dataset.tBack,
+    loading:  root.dataset.tLoading,
+  };
+
+  const screens = {
+    intro:    root.querySelector('[data-quiz-screen="intro"]'),
+    loading:  root.querySelector('[data-quiz-screen="loading"]'),
+    question: root.querySelector('[data-quiz-screen="question"]'),
+    score:    root.querySelector('[data-quiz-screen="score"]'),
+  };
+  const showScreen = (name) => {
+    Object.entries(screens).forEach(([k, el]) => {
+      if (!el) return;
+      if (k === name) el.removeAttribute("hidden");
+      else el.setAttribute("hidden", "");
+    });
+  };
+
+  // Fisher-Yates
+  function shuffle(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  let pool = null;
+  let session = null;
+
+  async function loadPool() {
+    if (pool) return pool;
+    showScreen("loading");
+    const r = await fetch(src, { credentials: "same-origin" });
+    if (!r.ok) throw new Error("fetch quiz data failed");
+    const data = await r.json();
+    pool = data.questions || [];
+    return pool;
+  }
+
+  function startSession() {
+    const picked = shuffle(pool).slice(0, Math.min(count, pool.length));
+    session = {
+      questions: picked,
+      idx: 0,
+      score: 0,
+      answered: false,
+    };
+    renderQuestion();
+  }
+
+  const elProgress = root.querySelector("[data-quiz-progress]");
+  const elStem     = root.querySelector("[data-quiz-stem]");
+  const elOptionBtns = root.querySelectorAll("[data-quiz-option]");
+  const elNext     = root.querySelector("[data-quiz-next]");
+
+  function renderQuestion() {
+    showScreen("question");
+    const q = session.questions[session.idx];
+    const localized = q[lang] || q.en || q.bg;
+    elProgress.textContent = `${T.question} ${session.idx + 1} ${T.outOf} ${session.questions.length}`;
+    elStem.textContent = localized.stem;
+    elOptionBtns.forEach((btn, i) => {
+      btn.classList.remove("is-correct", "is-faded", "is-locked");
+      btn.removeAttribute("disabled");
+      const text = btn.querySelector(".quiz-text");
+      if (text) text.textContent = localized.options[i] ?? "";
+    });
+    session.answered = false;
+    elNext.setAttribute("hidden", "");
+  }
+
+  function onAnswer(idx) {
+    if (!session || session.answered) return;
+    session.answered = true;
+    const q = session.questions[session.idx];
+    const correct = (q[lang] || q.en || q.bg).correct;
+    if (idx === correct) session.score += 1;
+
+    elOptionBtns.forEach((btn, i) => {
+      btn.setAttribute("disabled", "");
+      btn.classList.add("is-locked");
+      if (i === correct) {
+        btn.classList.add("is-correct");
+      } else {
+        btn.classList.add("is-faded");
+      }
+    });
+
+    // Next vs. finish
+    const isLast = session.idx === session.questions.length - 1;
+    elNext.textContent = isLast ? T.show : T.next;
+    elNext.removeAttribute("hidden");
+  }
+
+  function advance() {
+    if (!session) return;
+    if (session.idx === session.questions.length - 1) {
+      renderScore();
+    } else {
+      session.idx += 1;
+      renderQuestion();
+    }
+  }
+
+  function renderScore() {
+    showScreen("score");
+    const label = root.querySelector("[data-quiz-score-label]");
+    const value = root.querySelector("[data-quiz-score-value]");
+    const pct   = root.querySelector("[data-quiz-score-percent]");
+    const retry = root.querySelector("[data-quiz-retry]");
+    const backA = root.querySelector("[data-quiz-back]");
+    label.textContent = T.yours;
+    value.textContent = `${session.score} / ${session.questions.length}`;
+    pct.textContent = `${Math.round((session.score / session.questions.length) * 100)}%`;
+    retry.textContent = T.retry;
+    if (back) {
+      backA.setAttribute("href", back);
+      backA.textContent = backLabel || T.back;
+      backA.removeAttribute("hidden");
+    }
+  }
+
+  // Wire up
+  root.querySelector("[data-quiz-start]").addEventListener("click", async () => {
+    try {
+      await loadPool();
+      startSession();
+    } catch (e) {
+      console.error(e);
+      showScreen("intro");
+    }
+  });
+  elOptionBtns.forEach((btn) => {
+    btn.addEventListener("click", () => onAnswer(parseInt(btn.dataset.quizOption, 10)));
+  });
+  elNext.addEventListener("click", advance);
+  root.querySelector("[data-quiz-retry]").addEventListener("click", () => {
+    if (!pool) return;
+    startSession();
+  });
+})();
+</script>
+
+<style>
+  .quiz {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: var(--s-6) var(--page-pad);
+  }
+  .quiz-title {
+    font-family: var(--font-display, var(--font-sans, system-ui));
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    line-height: 1.15;
+    margin: 0 0 var(--s-4);
+    color: var(--ink);
+  }
+  .quiz-intro-body {
+    color: var(--ink-soft, var(--ink));
+    margin: 0 0 var(--s-6);
+    line-height: 1.55;
+  }
+
+  .quiz-meta {
+    font-size: var(--fs-meta, 0.875rem);
+    color: var(--ink-faint, var(--ink-soft, var(--ink)));
+    letter-spacing: var(--tracking-eyebrow, 0.05em);
+    text-transform: uppercase;
+    margin-bottom: var(--s-3);
+  }
+  .quiz-stem {
+    font-family: var(--font-display, var(--font-sans, system-ui));
+    font-size: clamp(1.15rem, 2.5vw, 1.4rem);
+    line-height: 1.4;
+    margin: 0 0 var(--s-5);
+    color: var(--ink);
+  }
+
+  .quiz-options {
+    list-style: none;
+    margin: 0 0 var(--s-5);
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--s-3);
+  }
+  .quiz-option {
+    width: 100%;
+    text-align: left;
+    background: transparent;
+    color: var(--ink);
+    border: 1.5px solid var(--rule, currentColor);
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+    font: inherit;
+    line-height: 1.45;
+    display: grid;
+    grid-template-columns: 2rem 1fr;
+    gap: var(--s-3);
+    align-items: start;
+    cursor: pointer;
+    transition: border-color 160ms var(--ease, ease), background 160ms var(--ease, ease), opacity 220ms var(--ease, ease);
+  }
+  .quiz-option:hover:not(.is-locked) {
+    border-color: var(--accent);
+  }
+  .quiz-letter {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--ink-faint, var(--ink-soft, var(--ink)));
+    letter-spacing: 0.02em;
+  }
+  .quiz-text {
+    color: var(--ink);
+  }
+  .quiz-option.is-locked {
+    cursor: default;
+  }
+  .quiz-option.is-correct {
+    border-color: var(--accent);
+    border-width: 2px;
+    /* hairline tint to make the green pop without re-colouring text */
+    background: color-mix(in srgb, var(--accent) 8%, transparent);
+  }
+  .quiz-option.is-faded {
+    opacity: 0.35;
+  }
+  .quiz-option:disabled {
+    /* keep visible — we want the user to see the question state */
+    color: inherit;
+  }
+
+  .quiz-controls {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .quiz-score {
+    text-align: center;
+    padding-top: var(--s-6);
+  }
+  .quiz-score-label {
+    font-size: var(--fs-meta, 0.875rem);
+    letter-spacing: var(--tracking-eyebrow, 0.05em);
+    text-transform: uppercase;
+    color: var(--ink-faint, var(--ink-soft, var(--ink)));
+    margin: 0 0 var(--s-3);
+  }
+  .quiz-score-value {
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+    margin: 0;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+    color: var(--ink);
+  }
+  .quiz-score-percent {
+    font-size: 1.1rem;
+    color: var(--accent);
+    margin: var(--s-2) 0 var(--s-6);
+  }
+  .quiz-score-actions {
+    display: flex;
+    gap: var(--s-3);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .btn-ghost {
+    display: inline-block;
+    padding: 0.7rem 1.25rem;
+    border-radius: 999px;
+    border: 1.5px solid var(--rule, currentColor);
+    color: var(--ink);
+    background: transparent;
+    text-decoration: none;
+    transition: border-color 160ms var(--ease, ease);
+  }
+  .btn-ghost:hover { border-color: var(--accent); }
+</style>

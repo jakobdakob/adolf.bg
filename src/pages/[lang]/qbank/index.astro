@@ -1,0 +1,29 @@
+---
+import { LANGS, type Lang, ui } from "../../../i18n/ui";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import QuizRunner from "../../../components/QuizRunner.astro";
+import { url as pathUrl } from "../../../lib/topics";
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = ui[lang];
+const dataUrl = pathUrl(`/quizzes/all.json`);
+const otherPath = pathUrl(`/${lang === "bg" ? "en" : "bg"}/qbank/`);
+---
+<BaseLayout
+  lang={lang}
+  title={t.qbankIntroTitle}
+  description={t.qbankIntroBody}
+  otherPath={otherPath}
+  currentSection="home"
+>
+  <QuizRunner
+    lang={lang}
+    dataUrl={dataUrl}
+    title={t.qbankIntroTitle}
+    intro={t.qbankIntroBody}
+  />
+</BaseLayout>

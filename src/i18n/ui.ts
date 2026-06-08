@@ -24,6 +24,21 @@ type UIStrings = {
   dark: string;
   light: string;
   topicNumberLabel: (n: number) => string;
+  sectionQBank: string;
+  testYourself: string;
+  qbankIntroTitle: string;
+  qbankIntroBody: string;
+  topicIntroTitle: (n: number) => string;
+  topicIntroBody: string;
+  startQuiz: string;
+  question: string;
+  outOf: string;
+  nextQuestion: string;
+  showScore: string;
+  yourScore: string;
+  tryAgain: string;
+  backToTopic: string;
+  loading: string;
 };
 
 export const ui: Record<Lang, UIStrings> = {
@@ -48,6 +63,23 @@ export const ui: Record<Lang, UIStrings> = {
     dark: "Тъмно",
     light: "Светло",
     topicNumberLabel: (n) => `Тема ${n}`,
+    sectionQBank: "Въпросник",
+    testYourself: "Тествай се",
+    qbankIntroTitle: "Въпросник",
+    qbankIntroBody:
+      "20 случайно подбрани въпроса от 7400 — от всички теми по ортопедия, травматология и анатомия.",
+    topicIntroTitle: (n) => `Тест по тема ${n}`,
+    topicIntroBody:
+      "20 случайно подбрани въпроса от 100 за тази тема. Без точки за грешен опит — натисни „Следващ“ за следващия въпрос.",
+    startQuiz: "Започни",
+    question: "Въпрос",
+    outOf: "от",
+    nextQuestion: "Следващ въпрос",
+    showScore: "Виж резултата",
+    yourScore: "Резултат",
+    tryAgain: "Опитай отново",
+    backToTopic: "Към темата",
+    loading: "Зарежда…",
   },
   en: {
     siteTitle: "adolf.bg",
@@ -70,6 +102,23 @@ export const ui: Record<Lang, UIStrings> = {
     dark: "Dark",
     light: "Light",
     topicNumberLabel: (n) => `Topic ${n}`,
+    sectionQBank: "Q-Bank",
+    testYourself: "Test yourself",
+    qbankIntroTitle: "Q-Bank",
+    qbankIntroBody:
+      "20 random questions drawn from 7400 — across all orthopedics, traumatology, and anatomy topics.",
+    topicIntroTitle: (n) => `Topic ${n} Quiz`,
+    topicIntroBody:
+      "20 random questions drawn from 100 for this topic. No penalty for a wrong guess — press “Next” to continue.",
+    startQuiz: "Start",
+    question: "Question",
+    outOf: "of",
+    nextQuestion: "Next question",
+    showScore: "Show score",
+    yourScore: "Your score",
+    tryAgain: "Try again",
+    backToTopic: "Back to topic",
+    loading: "Loading…",
   },
 };
 

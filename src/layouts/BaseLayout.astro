@@ -12,7 +12,7 @@ interface Props {
   title?: string;
   description?: string;
   otherPath: string;
-  currentSection?: "ortho" | "trauma" | "preface" | "home";
+  currentSection?: "ortho" | "trauma" | "anatomy" | "preface" | "qbank" | "home";
   showMenuButton?: boolean;
 }
 const { lang, title, description, otherPath, currentSection = "home", showMenuButton = false } = Astro.props;

@@ -7,7 +7,7 @@ import { url } from "../lib/topics";
 interface Props {
   lang: Lang;
   otherPath: string;
-  currentSection?: "ortho" | "trauma" | "anatomy" | "preface" | "home";
+  currentSection?: "ortho" | "trauma" | "anatomy" | "preface" | "qbank" | "home";
   showMenuButton?: boolean;
 }
 const { lang, otherPath, currentSection = "home", showMenuButton = false } = Astro.props;
@@ -17,6 +17,7 @@ const links = [
   { href: url(`/${lang}/ortho/1/`), label: t.sectionOrtho, key: "ortho" },
   { href: url(`/${lang}/trauma/1/`), label: t.sectionTrauma, key: "trauma" },
   { href: url(`/${lang}/anatomy/1/`), label: t.sectionAnatomy, key: "anatomy" },
+  { href: url(`/${lang}/qbank/`),    label: t.sectionQBank,   key: "qbank" },
 ];
 ---
 <header class="site-header">

@@ -4,7 +4,7 @@ import TopicSidebar from "../components/TopicSidebar.astro";
 import TopicTOC from "../components/TopicTOC.astro";
 import MobileDrawer from "../components/MobileDrawer.astro";
 import { type Lang, ui } from "../i18n/ui";
-import { getTopicsByLang, topicPath, type TopicEntry } from "../lib/topics";
+import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
 
 interface Heading { depth: number; slug: string; text: string }
 
@@ -60,6 +60,17 @@ const eyebrow =
       <div class="prose">
         <slot />
       </div>
+      {entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
+        <aside class="test-yourself">
+          <a
+            class="test-yourself-cta"
+            href={pathUrl(`/${lang}/${entry.data.section}/${entry.data.topicNumber}/test/`)}
+          >
+            {t.testYourself}
+            <span class="test-yourself-arrow" aria-hidden="true">→</span>
+          </a>
+        </aside>
+      )}
       <nav class="topic-prev-next" aria-label="prev/next">
         {prev ? (
           <a href={topicPath(lang, prev)} class="pn pn-prev" rel="prev">
@@ -146,4 +157,39 @@ const eyebrow =
     transition: color 160ms var(--ease);
   }
   .pn:hover .pn-title { color: var(--accent); }
+
+  .test-yourself {
+    margin-top: var(--s-8);
+    padding-top: var(--s-5);
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: center;
+  }
+  .test-yourself-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: 999px;
+    border: 1.5px solid var(--accent);
+    color: var(--accent);
+    background: transparent;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.005em;
+    text-decoration: none;
+    transition: background 160ms var(--ease), color 160ms var(--ease), transform 220ms var(--ease);
+  }
+  .test-yourself-cta:hover {
+    background: var(--accent);
+    color: var(--bg);
+    transform: translateY(-1px);
+  }
+  .test-yourself-arrow {
+    font-size: 1.1em;
+    transition: transform 220ms var(--ease);
+  }
+  .test-yourself-cta:hover .test-yourself-arrow {
+    transform: translateX(3px);
+  }
 </style>

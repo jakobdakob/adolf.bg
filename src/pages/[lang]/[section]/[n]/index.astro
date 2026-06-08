@@ -1,7 +1,7 @@
 ---
-import { LANGS, type Lang } from "../../../i18n/ui";
-import TopicLayout from "../../../layouts/TopicLayout.astro";
-import { getTopicsByLang, otherLangPath } from "../../../lib/topics";
+import { LANGS, type Lang } from "../../../../i18n/ui";
+import TopicLayout from "../../../../layouts/TopicLayout.astro";
+import { getTopicsByLang, otherLangPath } from "../../../../lib/topics";
 
 export async function getStaticPaths() {
   const out: { params: { lang: string; section: string; n: string } }[] = [];

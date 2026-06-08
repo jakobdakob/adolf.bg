@@ -1,0 +1,52 @@
+---
+import { LANGS, type Lang, ui } from "../../../../../i18n/ui";
+import BaseLayout from "../../../../../layouts/BaseLayout.astro";
+import QuizRunner from "../../../../../components/QuizRunner.astro";
+import { getTopicsByLang, otherLangPath, topicPath, url as pathUrl } from "../../../../../lib/topics";
+
+export async function getStaticPaths() {
+  const out: { params: { lang: string; section: string; n: string } }[] = [];
+  for (const lang of LANGS) {
+    const all = await getTopicsByLang(lang);
+    for (const e of all) {
+      if (e.data.kind !== "topic" || !e.data.section || !e.data.topicNumber) continue;
+      out.push({ params: { lang, section: e.data.section, n: String(e.data.topicNumber) } });
+    }
+  }
+  return out;
+}
+
+const { lang, section, n } = Astro.params as {
+  lang: Lang;
+  section: "ortho" | "trauma" | "anatomy";
+  n: string;
+};
+const all = await getTopicsByLang(lang);
+const entry = all.find(
+  (e) => e.data.kind === "topic" && e.data.section === section && e.data.topicNumber === Number(n),
+);
+if (!entry) throw new Error(`Missing topic ${section}-${n} (${lang}) for quiz route`);
+
+const otherPath = otherLangPath(lang, entry);
+const t = ui[lang];
+const dataUrl = pathUrl(`/quizzes/${section}-${n}.json`);
+const backLink = topicPath(lang, entry);
+const pageTitle = `${t.topicIntroTitle(Number(n))} — ${entry.data.title}`;
+const currentSection = (section === "ortho" || section === "trauma") ? section : "home";
+---
+<BaseLayout
+  lang={lang}
+  title={pageTitle}
+  description={t.topicIntroBody}
+  otherPath={otherPath}
+  currentSection={currentSection}
+>
+  <QuizRunner
+    lang={lang}
+    dataUrl={dataUrl}
+    title={t.topicIntroTitle(Number(n))}
+    intro={t.topicIntroBody}
+    backLink={backLink}
+    backLabel={t.backToTopic}
+  />
+</BaseLayout>

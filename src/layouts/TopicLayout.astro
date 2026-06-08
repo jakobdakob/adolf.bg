@@ -56,6 +56,22 @@ const eyebrow =
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article">
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
+      {entry.data.kind === "topic" && entry.data.topicNumber && sectionTopics.length > 1 && (
+        <ol class="section-progress" aria-label={`Topic ${entry.data.topicNumber} of ${sectionTopics.length}`}>
+          {sectionTopics.map((e) => {
+            const isCurrent = e.slug === entry.slug;
+            return (
+              <li class={`sp-dot${isCurrent ? " is-current" : ""}`}>
+                {isCurrent ? (
+                  <span class="sp-current" aria-current="true" title={e.data.title}>{entry.data.topicNumber}</span>
+                ) : (
+                  <a href={topicPath(lang, e)} class="sp-link" title={`${e.data.topicNumber}. ${e.data.title}`} aria-label={e.data.title}></a>
+                )}
+              </li>
+            );
+          })}
+        </ol>
+      )}
       <h1 class="topic-title">{entry.data.title}</h1>
       <div class="prose">
         <slot />
@@ -126,6 +142,46 @@ const eyebrow =
   @media (min-width: 1024px) {
     .topic-eyebrow { display: none; }
   }
+  .section-progress {
+    list-style: none;
+    margin: 0 0 var(--s-4);
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    align-items: center;
+  }
+  .sp-dot {
+    width: 8px;
+    height: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sp-dot.is-current { width: auto; height: auto; }
+  .sp-link {
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--rule);
+    transition: background-color 160ms var(--ease), transform 200ms var(--ease);
+  }
+  .sp-link:hover {
+    background: var(--accent);
+    transform: scale(1.4);
+  }
+  .sp-current {
+    font-variant-numeric: tabular-nums;
+    font-size: var(--fs-meta, 0.875rem);
+    font-weight: 600;
+    color: var(--accent);
+    padding: 1px 8px;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--accent) 14%, transparent);
+    line-height: 1.2;
+  }
+
   .topic-title {
     /* ~1.5× body text (body = 1.0625rem). Calm, not display-size. */
     font-size: 1.625rem;

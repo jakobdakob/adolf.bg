@@ -31,9 +31,32 @@ The neck-shaft angle and Singh index of trabecular pattern on AP radiographs of 
 
 Two classification systems are predominant: the Garden classification (focused on radiographic displacement) and the Pauwels classification (focused on shear angle).
 
-Garden Classification (1961) The Garden classification divides femoral neck fractures into four types by displacement on the AP radiograph: Garden I: Incomplete or impacted valgus fracture. The trabecular pattern of the inferior femoral head appears slightly valgus relative to the trabeculae of the neck. Garden II: Complete fracture without displacement. The fracture line is complete but the head and neck remain in anatomical alignment. Garden III: Complete fracture with partial displacement. The fragments are displaced but maintain some contact. Garden IV: Complete fracture with full displacement. The fragments are completely separated, with the head fragment typically rotated. The inter-observer reliability of the Garden classification has been criticized — multiple studies have demonstrated only moderate agreement on the four-type system. The practical simplification to non-displaced (Garden I and II) versus displaced (Garden III and IV) is widely used and has better inter-observer agreement. The most important clinical distinction is the displaced versus non-displaced dichotomy, as it predicts both AVN risk and treatment approach. Pauwels Classification (1935) The Pauwels classification divides femoral neck fractures by the angle of the fracture line relative to the horizontal: Pauwels I: Fracture angle less than 30 degrees from horizontal. The fracture line is more transverse; compressive forces predominate at the fracture site. Pauwels II: Fracture angle 30 to 50 degrees from horizontal. Intermediate forces. Pauwels III: Fracture angle greater than 50 degrees from horizontal. The fracture line is more vertical; shear forces predominate, with a higher failure rate of fixation. The Pauwels classification was originally derived to predict biomechanical fixation challenges; the modern application is in selecting fixation constructs that resist shear
+**Garden classification (1961).** Divides femoral neck fractures into four types by displacement on the AP radiograph.
 
-forces in Pauwels III patterns (often a sliding hip screw with anti-rotation screw, or fixed-angle plate fixation).
+<table class="classification">
+  <thead><tr><th>Type</th><th>Description</th></tr></thead>
+  <tbody>
+    <tr><td>Garden I</td><td>Incomplete or impacted valgus fracture. The trabecular pattern of the inferior femoral head appears slightly valgus relative to the trabeculae of the neck.</td></tr>
+    <tr><td>Garden II</td><td>Complete fracture without displacement. The fracture line is complete but the head and neck remain in anatomical alignment.</td></tr>
+    <tr><td>Garden III</td><td>Complete fracture with partial displacement. The fragments are displaced but maintain some contact.</td></tr>
+    <tr><td>Garden IV</td><td>Complete fracture with full displacement. The fragments are completely separated, with the head fragment typically rotated.</td></tr>
+  </tbody>
+</table>
+
+The inter-observer reliability of the Garden classification has been criticized — multiple studies have demonstrated only moderate agreement on the four-type system. The practical simplification to non-displaced (Garden I and II) versus displaced (Garden III and IV) is widely used and has better inter-observer agreement. The most important clinical distinction is the displaced versus non-displaced dichotomy, as it predicts both AVN risk and treatment approach.
+
+**Pauwels classification (1935).** Divides femoral neck fractures by the angle of the fracture line relative to the horizontal.
+
+<table class="classification">
+  <thead><tr><th>Type</th><th>Description</th></tr></thead>
+  <tbody>
+    <tr><td>Pauwels I</td><td>Fracture angle less than 30° from horizontal. The fracture line is more transverse; compressive forces predominate at the fracture site.</td></tr>
+    <tr><td>Pauwels II</td><td>Fracture angle 30 to 50° from horizontal. Intermediate forces.</td></tr>
+    <tr><td>Pauwels III</td><td>Fracture angle greater than 50° from horizontal. The fracture line is more vertical; shear forces predominate, with a higher failure rate of fixation.</td></tr>
+  </tbody>
+</table>
+
+The Pauwels classification was originally derived to predict biomechanical fixation challenges; the modern application is in selecting fixation constructs that resist shear forces in Pauwels III patterns (often a sliding hip screw with anti-rotation screw, or fixed-angle plate fixation).
 
 ## Anatomic Location
 

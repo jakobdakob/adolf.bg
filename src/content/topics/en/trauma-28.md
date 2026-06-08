@@ -42,13 +42,32 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
   </figcaption>
 </figure>
 
-The Weber classification (1972) is based on the level of the fibular fracture relative to the tibial plafond / syndesmosis: Weber A: Fibular fracture below the syndesmosis (infrasyndesmotic). Typically a transverse avulsion fracture of the distal fibula at or below the joint line, produced by inversion (supination) mechanism. The syndesmosis is typically intact (the AITFL inserts above the fracture line). Generally stable. Weber B: Fibular fracture at the level of the syndesmosis (transsyndesmotic). Typically a spiral or oblique fracture starting at the level of the joint and extending proximally, produced by external rotation mechanism. The syndesmosis may or may not be disrupted (AITFL torn in approximately 40 to 70 percent of Weber B fractures; PITFL less commonly). Stability depends on the integrity of the medial structures and the syndesmosis. Weber C: Fibular fracture above the syndesmosis (suprasyndesmotic). The syndesmosis is disrupted by definition (the fracture is proximal to the syndesmosis, so the syndesmotic ligaments must be torn for the fracture pattern to occur). Typically requires syndesmotic stabilization in addition to fibular fixation. The proximal extent of the fibular fracture can be very high — including the Maisonneuve fracture with proximal fibular involvement.
+The Weber classification (1972) is based on the level of the fibular fracture relative to the tibial plafond / syndesmosis.
+
+<table class="classification">
+  <thead><tr><th>Type</th><th>Description</th></tr></thead>
+  <tbody>
+    <tr><td>Weber A</td><td>Fibular fracture below the syndesmosis (infrasyndesmotic). Transverse avulsion; inversion (supination) mechanism. Syndesmosis intact. Generally stable.</td></tr>
+    <tr><td>Weber B</td><td>Fibular fracture at the level of the syndesmosis (transsyndesmotic). Spiral/oblique; external rotation mechanism. Stability depends on medial structures and AITFL integrity.</td></tr>
+    <tr><td>Weber C</td><td>Fibular fracture above the syndesmosis (suprasyndesmotic). Syndesmosis disrupted by definition. Requires syndesmotic stabilization. Includes Maisonneuve variant.</td></tr>
+  </tbody>
+</table>
 
 ## Lauge-Hansen Classification
 
-The Lauge-Hansen classification (1950) organizes ankle fractures by mechanism of injury, with each pattern named by the position of the foot at the time of injury (supination or pronation) and the deforming force (adduction, abduction, external rotation). The four principal patterns are: Supination-adduction (SA): Two stages. Stage 1: avulsion fracture of the lateral malleolus or rupture of the lateral ligaments (Weber A pattern). Stage 2: vertical fracture of the medial malleolus from talar adduction force.
+The Lauge-Hansen classification (1950) organizes ankle fractures by mechanism — foot position (supination/pronation) and deforming force (adduction/abduction/external rotation).
 
-Supination-external rotation (SER): The most common pattern (approximately 60 to 75 percent of ankle fractures). Four stages. Stage 1: AITFL rupture or anterior tibiofibular avulsion. Stage 2: spiral fibular fracture (Weber B pattern). Stage 3: PITFL rupture or posterior malleolus fracture. Stage 4: medial malleolus transverse fracture or deltoid ligament rupture. Pronation-abduction (PA): Three stages. Stage 1: medial malleolus transverse fracture or deltoid rupture. Stage 2: AITFL rupture (and often PITFL). Stage 3: short oblique fibular fracture at the level of the syndesmosis (Weber B pattern). Pronation-external rotation (PER): Four stages. Stage 1: medial malleolus or deltoid disruption. Stage 2: AITFL rupture. Stage 3: high fibular fracture (Weber C pattern) — including the Maisonneuve variant with very proximal fibular involvement. Stage 4: PITFL rupture or posterior malleolus fracture. The clinical utility of the Lauge-Hansen system is the prediction of expected injury patterns based on the position-mechanism combination — a Weber C fibular fracture, for instance, implies that the medial side and syndesmosis are disrupted by the pronation-external rotation mechanism, even if these injuries are not radiographically obvious.
+<table class="classification">
+  <thead><tr><th>Pattern</th><th>Stages (in order)</th></tr></thead>
+  <tbody>
+    <tr><td>SA<br/><span style="font-weight:400">supination-adduction</span></td><td>1. Avulsion of the lateral malleolus or lateral ligament rupture (Weber A). 2. Vertical fracture of the medial malleolus.</td></tr>
+    <tr><td>SER<br/><span style="font-weight:400">supination-external rotation</span></td><td>The most common pattern (≈60–75%). 1. AITFL rupture. 2. Spiral fibular fracture (Weber B). 3. PITFL rupture or posterior malleolus fracture. 4. Medial malleolar transverse fracture or deltoid rupture.</td></tr>
+    <tr><td>PA<br/><span style="font-weight:400">pronation-abduction</span></td><td>1. Medial malleolar transverse fracture or deltoid rupture. 2. AITFL rupture (often PITFL). 3. Short oblique fibular fracture at the syndesmosis level (Weber B).</td></tr>
+    <tr><td>PER<br/><span style="font-weight:400">pronation-external rotation</span></td><td>1. Medial malleolar or deltoid disruption. 2. AITFL rupture. 3. High fibular fracture (Weber C; includes Maisonneuve). 4. PITFL rupture or posterior malleolus fracture.</td></tr>
+  </tbody>
+</table>
+
+The clinical utility of Lauge-Hansen is in predicting expected associated injuries from the position-mechanism combination — a Weber C fibular fracture implies medial-side and syndesmotic disruption by pronation-external rotation, even if these are not radiographically obvious.
 
 ## Comparison and Use
 

@@ -76,7 +76,21 @@ The common peroneal nerve courses around the neck of the fibula and is at risk i
   </figcaption>
 </figure>
 
-The Schatzker classification (Joseph Schatzker, 1979) is the standard system for tibial plateau fractures: Type I: Pure split (cleavage) fracture of the lateral plateau without depression. The mechanism is valgus force on a relatively normal-density bone (typically in young adults). The articular surface remains in continuity with the metaphysis, displaced laterally as a wedge. Type II: Split-depression fracture of the lateral plateau (combination of types I and III). The split component is similar to type I, with an additional depression of the lateral articular surface. The most common Schatzker type. Type III: Pure depression fracture of the lateral plateau without split. The articular surface is depressed into the metaphysis. The mechanism is axial loading in osteoporotic bone (often elderly patients). Subdivided into IIIa (lateral) and IIIb (central) depression. Type IV: Medial plateau fracture, with or without depression. The medial plateau is more resistant to fracture than the lateral; medial plateau fractures imply higher energy and are associated with higher rates of vascular injury, peroneal nerve injury, and meniscal injury. Subdivided into IVa (split alone) and IVb (split with depression). Type V: Bicondylar fracture, with both medial and lateral plateaus separated from the diaphysis. Type VI: Bicondylar fracture with metaphyseal-diaphyseal dissociation (the articular surface and the diaphysis are separated by a metaphyseal comminution zone). The most severe pattern, with the highest rates of associated injury. The AO/OTA classification (region 41) parallels the Schatzker with type A extra-articular, type B partial articular, and type C complete articular patterns.
+The Schatzker classification (Joseph Schatzker, 1979) is the standard system for tibial plateau fractures.
+
+<table class="classification">
+  <thead><tr><th>Type</th><th>Description</th></tr></thead>
+  <tbody>
+    <tr><td>I</td><td>Pure split (cleavage) fracture of the lateral plateau without depression. Valgus force on normal-density bone (young adult).</td></tr>
+    <tr><td>II</td><td>Split-depression fracture of the lateral plateau (combination of I and III). The most common Schatzker type.</td></tr>
+    <tr><td>III</td><td>Pure depression fracture of the lateral plateau without split. Axial loading in osteoporotic bone. IIIa lateral / IIIb central depression.</td></tr>
+    <tr><td>IV</td><td>Medial plateau fracture. Higher energy; higher rates of vascular, peroneal nerve and meniscal injury. IVa split alone / IVb split with depression.</td></tr>
+    <tr><td>V</td><td>Bicondylar fracture, both plateaus separated from the diaphysis.</td></tr>
+    <tr><td>VI</td><td>Bicondylar fracture with metaphyseal-diaphyseal dissociation. The most severe pattern, with the highest rate of associated injury.</td></tr>
+  </tbody>
+</table>
+
+The AO/OTA classification (region 41) parallels the Schatzker with type A extra-articular, type B partial articular, and type C complete articular patterns.
 
 ## Clinical Assessment and Imaging of Tibial Plateau Fractures
 

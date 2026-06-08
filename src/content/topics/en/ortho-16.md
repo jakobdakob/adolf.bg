@@ -13,6 +13,16 @@ The systemic skeletal dysplasias are a large group of inherited disorders of bon
 
 ## Achondroplasia
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-16/achondroplasia.jpg" data-figure-alt="Achondroplasia" aria-label="Enlarge">
+    <img src="/img/ortho-16/achondroplasia.jpg" alt="Achondroplasia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Achondroplasia — the commonest disproportionate dwarfism; rhizomelic limb shortening, frontal bossing, saddle nose, and trident hand configuration.</span>
+    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 
 ## Genetics and Pathophysiology
 
@@ -52,6 +62,16 @@ Spondyloepiphyseal dysplasia exists in two principal forms: SED congenita (autos
 The metaphyseal chondrodysplasias are a group of conditions characterized by abnormal metaphyseal ossification with sparing of the epiphyses. The principal forms are: Schmid form (autosomal dominant, type X collagen mutation): mild short stature, coxa vara, genu varum, waddling gait. The orthopedic management focuses on the coxa vara and varus deformities. Jansen form (autosomal dominant, PTH-related protein receptor mutation): severe short stature with hypercalcemia from constitutive PTH-receptor activation. Severe metaphyseal expansion produces dramatic radiographic features. McKusick form (cartilage-hair hypoplasia) (autosomal recessive, RMRP gene mutation): short stature, fine sparse hair, immunodeficiency, and characteristic metaphyseal abnormalities. The condition is enriched in the Old Order Amish population.
 
 ## Osteogenesis Imperfecta (OI)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-16/osteogenesis-imperfecta.jpg" data-figure-alt="Osteogenesis imperfecta" aria-label="Enlarge">
+    <img src="/img/ortho-16/osteogenesis-imperfecta.jpg" alt="Osteogenesis imperfecta" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteogenesis imperfecta — defective type-I collagen synthesis; brittle bones with multiple fractures, long-bone bowing, and blue sclerae.</span>
+    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
 
 
 ## Genetics and Pathophysiology

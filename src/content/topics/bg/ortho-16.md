@@ -13,6 +13,16 @@ order: 16
 
 ## Ахондроплазия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-16/achondroplasia.jpg" data-figure-alt="Ахондроплазия" aria-label="Увеличи">
+    <img src="/img/ortho-16/achondroplasia.jpg" alt="Ахондроплазия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ахондроплазия — най-честата непропорционална форма на нанизъм; ризомелично скъсяване на крайниците, фронтален бос, седлонос и trident-конфигурация на ръката.</span>
+    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 
 ## Генетика и патофизиология
 
@@ -69,6 +79,16 @@ order: 16
 Форма на McKusick (хрущялно-космена хипоплазия) (автозомно рецесивна, мутация в гена RMRP): нисък ръст, фини оскъдни коси, имунодефицит и характерни метафизарни аномалии. Заболяването е обогатено в популацията на Old Order Amish.
 
 ## Остеогенезис имперфекта (ОИ)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-16/osteogenesis-imperfecta.jpg" data-figure-alt="Остеогенезис имперфекта" aria-label="Увеличи">
+    <img src="/img/ortho-16/osteogenesis-imperfecta.jpg" alt="Остеогенезис имперфекта" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Остеогенезис имперфекта — дефект в синтеза на колаген тип I; крехки кости с многобройни фрактури, изкривяване на дългите кости и сини склери.</span>
+    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
 
 
 ## Генетика и патофизиология

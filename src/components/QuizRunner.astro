@@ -297,8 +297,13 @@ const t = ui[lang];
     cursor: pointer;
     transition: border-color 160ms var(--ease, ease), background 160ms var(--ease, ease), opacity 220ms var(--ease, ease);
   }
-  .quiz-option:hover:not(.is-locked) {
-    border-color: var(--accent);
+  /* Gate hover styling behind a real pointer — otherwise iOS Safari fires
+     :hover on touch-down, which paints the option green BEFORE the click
+     resolves and looks like the option is already marked correct. */
+  @media (hover: hover) and (pointer: fine) {
+    .quiz-option:hover:not(.is-locked) {
+      border-color: var(--accent);
+    }
   }
   .quiz-letter {
     font-variant-numeric: tabular-nums;

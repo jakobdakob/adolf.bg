@@ -70,6 +70,16 @@ Tension (разтегляне) поражда напречни фрактури,
 
 ## Общи описателни категории
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-1/greenstick-types.png" data-figure-alt="Типове фрактури" aria-label="Увеличи">
+    <img src="/img/trauma-1/greenstick-types.png" alt="Типове фрактури" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Описателни типове фрактури — напречна, коса, спираловидна, раздробена, greenstick (само в детска възраст); основа за стандартизирано описание и комуникация преди прилагане на AO/OTA системата.</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Няколко описателни категории се прилагат за всички фрактури:
 
 Открита срещу закрита: Наличието или отсъствието на нарушаване целостта на кожата, комуникиращо с фрактурата. Откритите фрактури (по-рано „съставни фрактури") имат съществено по-висока честота на инфекция и на други усложнения и изискват специфично лечение.

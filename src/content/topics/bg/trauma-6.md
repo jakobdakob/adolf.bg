@@ -44,6 +44,16 @@ order: 106
 
 ## Принципи на реанимацията
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/fast-algorithm.svg" data-figure-alt="FAST алгоритъм при тъпа травма" aria-label="Увеличи">
+    <img src="/img/trauma-6/fast-algorithm.svg" alt="FAST алгоритъм при тъпа травма" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">FAST (Focused Assessment with Sonography for Trauma) — бързо прикроватно ехографско изследване за свободна течност в перикарда и в четирите коремни прозореца; стандартна част от primary survey при тъпа травма.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:FAST_Algorithm.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Съвременната травматична реанимация се е развила значително от историческия подход на „агресивна кристалоидна реанимация". Настоящите принципи включват:
 
 Допустима хипотония: Приемане на умерена хипотония (систолно артериално налягане 80–90 mmHg) до постигане на хемостаза, на базата на доказателствата, че агресивната реанимация до нормотония преди спиране на кървенето може да измести образувания тромб, да разреди коагулационните фактори и да влоши ацидозата и хипотермията.

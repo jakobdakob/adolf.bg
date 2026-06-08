@@ -31,6 +31,16 @@ Shock is the clinical state of inadequate tissue perfusion to meet metabolic dem
 
 ## Resuscitation Principles
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/fast-algorithm.svg" data-figure-alt="FAST algorithm in blunt trauma" aria-label="Enlarge">
+    <img src="/img/trauma-6/fast-algorithm.svg" alt="FAST algorithm in blunt trauma" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">FAST (Focused Assessment with Sonography for Trauma) — rapid bedside ultrasound for free fluid in the pericardium and four abdominal windows; a standard part of the primary survey in blunt trauma.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:FAST_Algorithm.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Modern trauma resuscitation has evolved substantially from the historic “aggressive crystalloid resuscitation” approach. The current principles include: Permissive hypotension: Acceptance of moderate hypotension (systolic blood pressure 80-90 mmHg) until hemorrhage is controlled, on the basis that aggressive resuscitation to normotension before hemorrhage control can dislodge formed clot, dilute clotting factors, and worsen acidosis and hypothermia. Damage control resuscitation (DCR): Combining permissive hypotension with hemostatic resuscitation (balanced 1:1:1 ratio of packed red blood cells, fresh frozen plasma, and platelets) and damage control surgery. The principles are to minimize crystalloid use, restore physiology, and rapidly identify and control hemorrhage. Massive transfusion protocols: Standardized protocols for delivery of blood products in 1:1:1 ratio in the patient requiring massive transfusion (variously defined as >10 units of red blood cells in 24 hours, or >4 units in 1 hour). Tranexamic acid (TXA): The CRASH-2 and other trials have demonstrated that TXA administered within 3 hours of injury reduces mortality in major trauma. TXA is now standard care in the major trauma patient, typically administered as 1 g IV at presentation and 1 g IV over 8 hours. Targeted resuscitation: Use of focused assessment with sonography for trauma (FAST), thromboelastography (TEG) or rotational thromboelastometry (ROTEM), and other point-of-care tests to guide specific resuscitation.
 
 ## The Lethal Triad

@@ -86,6 +86,16 @@ order: 212
 
 ## Фрактура тип greenstick
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/greenstick.jpg" data-figure-alt="Greenstick фрактура на предмишницата" aria-label="Увеличи">
+    <img src="/img/anatomy-12/greenstick.jpg" alt="Greenstick фрактура на предмишницата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Greenstick фрактура на дисталната предмишница при дете — счупен опънатен кортекс с интактна, само пластично огъната противоположна страна; класически педиатричен модел поради еластичния периост.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурата тип greenstick е класическият педиатричен модел на непълна фрактура, наречена по аналогия с огъване на зелен дървесен клон — костта се счупва на едната кортикална повърхност (страната на опъване), докато противоположната кортикална повърхност (страната на компресия) остава непокътната, но пластично деформирана и огъната.
 
 Механизмът е огъваща сила, превишаваща якостта на разрушаване на едната кортикална повърхност, но не и на другата. Непокътнатата кортикална повърхност осигурява остатъчна стабилност и тежнее да се върне към начална позиция при освобождаване на деформиращата сила, макар типично не до пълно анатомично наредяване.

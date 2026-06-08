@@ -39,6 +39,16 @@ The pediatric bone, with its higher porosity, lower stiffness, and more elastic 
 
 ## Greenstick Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/greenstick.jpg" data-figure-alt="Greenstick forearm fracture in a child" aria-label="Enlarge">
+    <img src="/img/anatomy-12/greenstick.jpg" alt="Greenstick forearm fracture in a child" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Greenstick fracture of the distal forearm in a child — broken tension cortex with intact (only plastically bowed) compression side; the classical pediatric pattern due to the elastic periosteum.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The greenstick fracture is the classical pediatric incomplete fracture pattern, named after the analogy of bending a green tree branch — the bone breaks on one cortex (the tension side) while the opposite cortex (the compression side) remains intact but plastically deformed and bowed. The mechanism is a bending force that exceeds the failure strength of one cortex but not the other. The intact cortex provides residual stability and tends to spring back toward the original position when the deforming force is released, although typically not to full anatomical alignment.
 
 Locations: The greenstick fracture is most common in the forearm (both-bone or isolated), but can occur in any bone. The clavicle, tibia, fibula, humerus, and femur are all common sites in childhood. Treatment of greenstick fractures depends on the magnitude of the deformity: Minimally angulated fractures (less than 10 to 15 degrees) are managed by cast immobilization alone, with the remodeling potential of the growing skeleton resolving any residual deformity over months to years. Significantly angulated fractures require closed reduction, often with completion of the fracture (deliberately fracturing the intact cortex to allow full anatomical reduction). The fracture is then immobilized in a cast in the corrected position. The risk of recurrence of the angulation in the cast is a recognized concern, particularly if the fracture has not been completed. Serial radiographic monitoring is essential, with re-reduction or operative management for redisplacement.

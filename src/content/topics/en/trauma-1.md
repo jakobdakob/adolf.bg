@@ -57,6 +57,16 @@ Fracture classification serves several purposes: communication between surgeons;
 
 ## General Descriptive Categories
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-1/greenstick-types.png" data-figure-alt="Fracture types" aria-label="Enlarge">
+    <img src="/img/trauma-1/greenstick-types.png" alt="Fracture types" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Descriptive fracture types — transverse, oblique, spiral, comminuted, greenstick (in children only); the basis for standardised description before applying the AO/OTA code.</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Several descriptive categories apply to all fractures: Open vs closed: The presence or absence of a skin disruption communicating with the fracture. Open fractures (formerly “compound fractures”) have substantially higher rates of infection and other complications and require specific management. Simple vs comminuted: The number of fracture fragments. A simple fracture has two main fragments; a comminuted fracture has more than two fragments. Displaced vs non-displaced: Whether the fracture fragments have moved relative to each other or remain in anatomical alignment. Angulation, translation, rotation, shortening: The specific components of fracture displacement. Stable vs unstable: Whether the fracture can be expected to maintain reduction with simple immobilization (stable) or requires surgical fixation (unstable). Location: Diaphyseal, metaphyseal, epiphyseal, or intra-articular. The AO/OTA Classification The AO/OTA Comprehensive Classification of Fractures, developed by the AO Foundation and adopted as the international standard, classifies fractures by a five-element alphanumeric code: Bone: A number identifying the bone (1 — humerus, 2 — radius/ulna, 3 — femur, 4 — tibia/fibula, etc.; with further codes for the pelvis, spine, hand, and foot).
 
 Segment: A number identifying the segment of the bone (1 — proximal, 2 — diaphyseal, 3 — distal). Type: A letter indicating the type of fracture (A, B, or C, with C being the most severe). For diaphyseal fractures: A — simple, B — wedge, C — complex. For metaphyseal and epiphyseal fractures: A — extra-articular, B — partial articular, C — complete articular. Group: A further subdivision (A1, A2, A3, B1, B2, B3, C1, C2, C3) reflecting specific patterns within each type. Subgroup: Further detail (e.g., A1.1, A1.2, A1.3) for specific anatomical variants. The system has the advantage of completeness, hierarchical organization, and international standardization. The disadvantages include complexity, with the full alphanumeric code being cumbersome in routine clinical practice.

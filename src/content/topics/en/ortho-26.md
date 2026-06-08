@@ -13,6 +13,16 @@ Birth injuries to the musculoskeletal system encompass a range of conditions ari
 
 ## Obstetric Brachial Plexus Palsy (OBPP)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-26/erb-palsy.jpg" data-figure-alt="Obstetric brachial plexus palsy (Erb’s palsy)" aria-label="Enlarge">
+    <img src="/img/ortho-26/erb-palsy.jpg" alt="Obstetric brachial plexus palsy (Erb’s palsy)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Erb’s palsy (C5–C6) — the characteristic “waiter’s-tip” posture: shoulder adducted and internally rotated, elbow extended, forearm pronated.</span>
+    <span class="md-figure-attribution"> — Wikimedia user “r”, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Risk Factors
 
@@ -56,6 +66,16 @@ Electrophysiological studies (EMG, nerve conduction) have a limited role in earl
 The initial management combines: parental education and reassurance about the favorable prognosis of most cases; physical therapy directed at maintaining shoulder, elbow, forearm, wrist, and finger range of motion to prevent contractures; close follow-up to monitor recovery; and serial assessment of motor function. The principal decision is whether and when to undertake surgical exploration and reconstruction. The historical practice was conservative observation for at least the first 6- 12 months, but more aggressive practice in recent decades has favored earlier intervention when recovery is incomplete. The current consensus is that absence of biceps function (with the elbow flexed against gravity) by 3-6 months of age is an indication for consideration of surgical exploration. Surgical options include: neurolysis of scarred nerves; nerve grafting (using the sural nerve or other donor nerves) for ruptures; nerve transfers (using accessory motor branches to power critical functions — for example, intercostal-to-musculocutaneous transfer for elbow flexion); and tendon transfers in older children for residual deformities. The Mallet score and other functional assessments quantify the function of the affected arm and are used to track outcomes over time. The principal long-term sequelae include: glenohumeral joint dysplasia (the affected shoulder may develop progressive bony deformity with internal rotation contracture, posterior subluxation of the humeral head, and acetabular-like remodeling of the glenoid); fixed internal rotation contracture of the shoulder (requiring tendon transfers — the L’Episcopo procedure — and humeral derotational osteotomy in selected cases); elbow flexion contracture and forearm pronation contracture; weakness of various muscles; and limited overall function compared with the unaffected arm.
 
 ## Congenital Muscular Torticollis
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-26/torticollis.jpg" data-figure-alt="Torticollis" aria-label="Enlarge">
+    <img src="/img/ortho-26/torticollis.jpg" alt="Torticollis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Torticollis — head tilted toward the affected side with the face rotated to the contralateral side, from fibrotic shortening of the sternocleidomastoid.</span>
+    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Woman_who_had_torticollis_on_the_right_side_Wellcome_L0062627.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definition and Etiology

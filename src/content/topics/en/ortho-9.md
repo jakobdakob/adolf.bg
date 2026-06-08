@@ -19,6 +19,16 @@ the conversion from a potentially reversible early disease to an established, pr
 
 ## AVN of the Femoral Head
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-9/avn-hip.jpg" data-figure-alt="Avascular necrosis of the femoral head" aria-label="Enlarge">
+    <img src="/img/ortho-9/avn-hip.jpg" alt="Avascular necrosis of the femoral head" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Avascular necrosis of the femoral head — characteristic sclerosis and collapse of the superior segment with early flattening of the articular surface.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_pelvis_with_idiopathic_avascular_necrosis_of_the_femoral_head.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Etiology
 
@@ -55,6 +65,16 @@ AVN of the talus is most commonly a complication of talar neck fractures, with r
 Treatment of early symptomatic AVN of the talus may include conservative management or core decompression; advanced disease with collapse is treated by ankle arthrodesis or, in selected cases, total ankle arthroplasty.
 
 ## Kienböck’s Disease (Lunatomalacia)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-9/kienbock.jpg" data-figure-alt="Kienböck disease — avascular necrosis of the lunate" aria-label="Enlarge">
+    <img src="/img/ortho-9/kienbock.jpg" alt="Kienböck disease — avascular necrosis of the lunate" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Kienböck disease (stage IIIB) — sclerosis, fragmentation, and collapse of the lunate with disrupted carpal alignment.</span>
+    <span class="md-figure-attribution"> — TheFriendliest, <a href="https://commons.wikimedia.org/wiki/File:Kienb%C3%B6ck%27s_Disease_Stage_IIIB.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definition and Epidemiology

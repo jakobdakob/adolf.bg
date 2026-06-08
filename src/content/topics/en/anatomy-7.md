@@ -47,7 +47,7 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
     <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Lumbosacral plexus" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Lumbar and sacral plexus — the anterior rami of L1–S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
+    <span class="md-figure-caption">Lumbar and sacral plexus: the anterior rami of L1–S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -58,7 +58,7 @@ Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle 
 
 ## Lumbar Plexus Within the Psoas
 
-The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in lateral transpsoas approaches to the lumbar spine (XLIF/LLIF — see Topic Anatomy-1). The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
+The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in lateral transpsoas approaches to the lumbar spine (XLIF/LLIF, see Topic Anatomy-1). The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
 
 ## Ilioinguinal Approach (Letournel)
 
@@ -85,7 +85,7 @@ The structures crossing the operative field that must be identified and protecte
 
 ## Closure and Complications
 
-The closure includes meticulous repair of the inguinal canal floor and the inguinal ligament to prevent inguinal hernia (a recognized complication). Other complications include inguinal hernia (3 to 8 percent), lateral femoral cutaneous nerve injury with meralgia paresthetica (very common — 20 to 60 percent — but often transient), vascular injury (the principal feared complication, particularly to the corona mortis or the inferior epigastric vessels), deep vein thrombosis, and infection.
+The closure includes meticulous repair of the inguinal canal floor and the inguinal ligament to prevent inguinal hernia (a recognized complication). Other complications include inguinal hernia (3 to 8 percent), lateral femoral cutaneous nerve injury with meralgia paresthetica (very common, 20 to 60 percent, but often transient), vascular injury (the principal feared complication, particularly to the corona mortis or the inferior epigastric vessels), deep vein thrombosis, and infection.
 
 ## Anterior Intrapelvic (Modified Stoppa) Approach
 
@@ -125,7 +125,7 @@ The skin and subcutaneous tissue are incised. The fascia lata and gluteal aponeu
 
 ## Complications
 
-The complications of the Kocher-Langenbeck approach include sciatic nerve injury (the principal concern — 10 to 30 percent of patients have some degree of postoperative sciatic nerve dysfunction, predominantly peroneal-division injury; many recover but residual deficits are common), heterotopic ossification (10 to 90 percent, substantially reduced by indomethacin or low-dose radiation prophylaxis), infection, wound complications, and abductor dysfunction (with extensive proximal extension or trochanteric osteotomy nonunion).
+The complications of the Kocher-Langenbeck approach include sciatic nerve injury (the principal concern, 10 to 30 percent of patients have some degree of postoperative sciatic nerve dysfunction, predominantly peroneal-division injury; many recover but residual deficits are common), heterotopic ossification (10 to 90 percent, substantially reduced by indomethacin or low-dose radiation prophylaxis), infection, wound complications, and abductor dysfunction (with extensive proximal extension or trochanteric osteotomy nonunion).
 
 ## Extended Iliofemoral Approach
 

@@ -18,7 +18,7 @@ The ankle and foot together form an intricate anatomical complex with 28 bones, 
     <img src="/img/anatomy-11/ankle-foot.jpg" alt="Ankle and foot anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Ankle and foot anatomy — tibiotalar, subtalar (talocalcaneal) and transverse tarsal (Chopart) joints; 7 tarsal bones, 5 metatarsals and phalanges.</span>
+    <span class="md-figure-caption">Ankle and foot anatomy: tibiotalar, subtalar (talocalcaneal) and transverse tarsal (Chopart) joints; 7 tarsal bones, 5 metatarsals and phalanges.</span>
     <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
@@ -48,7 +48,7 @@ The lateral ankle contains the peroneus brevis anteriorly and peroneus longus po
     <img src="/img/anatomy-11/ankle-ligaments.svg" alt="Ankle ligamentous anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Ankle ligamentous anatomy — lateral complex (ATFL, CFL, PTFL) and medial deltoid ligament; the ATFL is the most commonly torn in an inversion sprain.</span>
+    <span class="md-figure-caption">Ankle ligamentous anatomy: lateral complex (ATFL, CFL, PTFL) and medial deltoid ligament; the ATFL is the most commonly torn in an inversion sprain.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>

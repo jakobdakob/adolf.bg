@@ -13,7 +13,7 @@ The thigh and knee region contains the longest bone in the body (femur), the lar
 
 ## Thigh Anatomy and Compartments
 
-The thigh has three principal muscular compartments separated by intermuscular septa attached to the linea aspera of the femur: Anterior compartment: Contains the quadriceps femoris (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius), the sartorius, the iliacus and psoas (proximally), and the pectineus. Innervated principally by the femoral nerve (L2-L4). Functions principally as knee extension and hip flexion. Medial compartment: Contains the adductor longus, brevis, and magnus; the gracilis; the obturator externus. Innervated principally by the obturator nerve (L2-L4). Functions as hip adduction. Posterior compartment: Contains the hamstrings (biceps femoris with long and short heads, semitendinosus, semimembranosus). Innervated by the sciatic nerve (tibial portion for most; common peroneal portion for the short head of biceps). Functions as hip extension and knee flexion. The principal landmarks and neurovascular structures include: Femoral triangle: Bounded by the inguinal ligament superiorly, the sartorius laterally, and the adductor longus medially. Contains the femoral artery (laterally to medially: NAVEL — Nerve, Artery, Vein, Empty space, Lymphatic). Adductor canal (Hunter’s canal): A tunnel in the middle third of the thigh through which the femoral vessels pass deep to the sartorius. The artery becomes the popliteal artery as it emerges through the adductor hiatus into the popliteal fossa.
+The thigh has three principal muscular compartments separated by intermuscular septa attached to the linea aspera of the femur: Anterior compartment: Contains the quadriceps femoris (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius), the sartorius, the iliacus and psoas (proximally), and the pectineus. Innervated principally by the femoral nerve (L2-L4). Functions principally as knee extension and hip flexion. Medial compartment: Contains the adductor longus, brevis, and magnus; the gracilis; the obturator externus. Innervated principally by the obturator nerve (L2-L4). Functions as hip adduction. Posterior compartment: Contains the hamstrings (biceps femoris with long and short heads, semitendinosus, semimembranosus). Innervated by the sciatic nerve (tibial portion for most; common peroneal portion for the short head of biceps). Functions as hip extension and knee flexion. The principal landmarks and neurovascular structures include: Femoral triangle: Bounded by the inguinal ligament superiorly, the sartorius laterally, and the adductor longus medially. Contains the femoral artery (laterally to medially: NAVEL, Nerve, Artery, Vein, Empty space, Lymphatic). Adductor canal (Hunter’s canal): A tunnel in the middle third of the thigh through which the femoral vessels pass deep to the sartorius. The artery becomes the popliteal artery as it emerges through the adductor hiatus into the popliteal fossa.
 
 Popliteal fossa: The posterior knee region bounded by the biceps femoris (superolateral), the semimembranosus/semitendinosus (superomedial), and the two heads of gastrocnemius (inferiorly). Contains the popliteal artery, popliteal vein, and tibial/common peroneal nerves (the sciatic nerve divides at the apex of the fossa).
 
@@ -28,7 +28,7 @@ The femoral shaft is approached for fracture fixation, tumor resection, and biop
     <img src="/img/anatomy-9/knee.svg" alt="Knee joint anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Knee joint — tibiofemoral and patellofemoral articulations; static stabilizers (ACL, PCL, MCL, LCL, menisci) and dynamic ones (quadriceps, hamstrings, popliteus).</span>
+    <span class="md-figure-caption">Knee joint: tibiofemoral and patellofemoral articulations; static stabilizers (ACL, PCL, MCL, LCL, menisci) and dynamic ones (quadriceps, hamstrings, popliteus).</span>
     <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -69,7 +69,7 @@ For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typ
     <img src="/img/anatomy-9/meniscus.jpg" alt="Knee menisci" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Medial and lateral menisci of the knee — wedge-shaped fibrocartilage providing load distribution and joint conformity; visualised arthroscopically through standard portals.</span>
+    <span class="md-figure-caption">Medial and lateral menisci of the knee: wedge-shaped fibrocartilage providing load distribution and joint conformity; visualised arthroscopically through standard portals.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -78,7 +78,7 @@ Knee arthroscopy is one of the most commonly performed orthopedic procedures, wi
 
 ## Compartment Syndrome of the Thigh and Knee
 
-Thigh compartment syndrome is uncommon but described, particularly with high-energy crush injuries, vascular injury with reperfusion, prolonged operative positioning, and anticoagulation-related hematomas. Fasciotomy of the thigh uses two longitudinal incisions — lateral and medial — providing release of the anterior compartment (lateral incision), the posterior compartment (lateral or separate posterior incision), and the medial compartment (medial incision).
+Thigh compartment syndrome is uncommon but described, particularly with high-energy crush injuries, vascular injury with reperfusion, prolonged operative positioning, and anticoagulation-related hematomas. Fasciotomy of the thigh uses two longitudinal incisions (lateral and medial) providing release of the anterior compartment (lateral incision), the posterior compartment (lateral or separate posterior incision), and the medial compartment (medial incision).
 
 ## Neurovascular Anatomy of the Thigh and Knee
 
@@ -87,14 +87,14 @@ Thigh compartment syndrome is uncommon but described, particularly with high-ene
     <img src="/img/anatomy-9/posterior-leg.png" alt="Posterior thigh and popliteal fossa" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Posterior view of the thigh and popliteal fossa — sciatic nerve dividing into tibial and common peroneal nerves; popliteal artery and vein deep within the fossa; key anatomy for posterior knee approaches.</span>
+    <span class="md-figure-caption">Posterior view of the thigh and popliteal fossa: sciatic nerve dividing into tibial and common peroneal nerves; popliteal artery and vein deep within the fossa; key anatomy for posterior knee approaches.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
 The principal neurovascular concerns include: Femoral nerve: Descends through the femoral triangle. Vulnerable in retroperitoneal injuries and during anterior approaches. Femoral artery and vein: Pass through the femoral triangle, then through the adductor canal to become the popliteal vessels. Saphenous nerve: Branches from the femoral nerve in the femoral triangle, accompanies the femoral artery through the adductor canal, and emerges from the canal to descend along the medial side of the leg. Provides sensation to the medial leg. Sciatic nerve: Divides into tibial and common peroneal divisions at the apex of the popliteal fossa.
 
-Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here — Topic Trauma-31). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations (Topic Trauma-26) and distal femur/proximal tibia fractures.
+Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here, Topic Trauma-31). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations (Topic Trauma-26) and distal femur/proximal tibia fractures.
 
 ## Summary and Take-Home Points
 

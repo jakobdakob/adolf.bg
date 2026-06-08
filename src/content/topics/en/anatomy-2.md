@@ -18,7 +18,7 @@ The shoulder girdle, comprising the glenohumeral joint, the acromioclavicular jo
     <img src="/img/anatomy-2/shoulder.svg" alt="Shoulder anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Shoulder anatomy — glenohumeral, acromioclavicular and sternoclavicular joints plus the scapulothoracic articulation.</span>
+    <span class="md-figure-caption">Shoulder anatomy: glenohumeral, acromioclavicular and sternoclavicular joints plus the scapulothoracic articulation.</span>
     <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -35,7 +35,7 @@ The glenohumeral joint is a ball-and-socket articulation between the relatively 
     <img src="/img/anatomy-2/rotator-cuff.svg" alt="Rotator cuff anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Rotator cuff — supraspinatus, infraspinatus, teres minor, subscapularis; the supraspinatus tendon is the most commonly torn in rotator cuff syndrome.</span>
+    <span class="md-figure-caption">Rotator cuff: supraspinatus, infraspinatus, teres minor, subscapularis; the supraspinatus tendon is the most commonly torn in rotator cuff syndrome.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -62,7 +62,7 @@ The axillary nerve is the principal neurological structure at risk in shoulder s
 
 ## Musculocutaneous Nerve (C5-C7)
 
-The musculocutaneous nerve branches from the lateral cord of the brachial plexus, pierces the coracobrachialis muscle (typically about 5 to 8 cm distal to the coracoid — the “safe zone” for retraction during anterior shoulder surgery is approximately 5 cm distal to the coracoid), and supplies the biceps brachii, brachialis, and coracobrachialis. It then continues as the lateral antebrachial cutaneous nerve.
+The musculocutaneous nerve branches from the lateral cord of the brachial plexus, pierces the coracobrachialis muscle (typically about 5 to 8 cm distal to the coracoid, the “safe zone” for retraction during anterior shoulder surgery is approximately 5 cm distal to the coracoid), and supplies the biceps brachii, brachialis, and coracobrachialis. It then continues as the lateral antebrachial cutaneous nerve.
 
 ## Brachial Plexus and Axillary Vessels
 
@@ -71,7 +71,7 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
     <img src="/img/anatomy-2/brachial-plexus.svg" alt="Brachial plexus" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Brachial plexus (C5–T1) — roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
+    <span class="md-figure-caption">Brachial plexus (C5–T1): roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
     <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -101,7 +101,7 @@ The incision is along the deltopectoral groove, beginning just inferior to the c
 
 ## Approach
 
-The deltopectoral interval between the deltoid (axillary nerve) and the pectoralis major (medial and lateral pectoral nerves) is identified — the classical landmark is the cephalic vein running in the interval. The vein is typically taken either medially (with the pectoralis) or laterally (with the deltoid); the lateral retraction may be safer with respect to vein preservation. The deltoid is then retracted laterally and the pectoralis medially. The clavipectoral fascia is incised lateral to the conjoint tendon. The conjoint tendon (coracobrachialis and short head of biceps) is identified and retracted medially with attention to the musculocutaneous nerve entering coracobrachialis approximately 5 to 8 cm distal to the coracoid (this defines the safe zone for retraction). The subscapularis is now visualized, with the anterior humeral circumflex vessels (the “three sisters”) at its inferior border. These vessels are typically ligated or coagulated. The subscapularis is then incised (with various techniques — vertical incision, lesser tuberosity osteotomy, peel from the lesser tuberosity for shoulder arthroplasty) to expose the underlying capsule and joint.
+The deltopectoral interval between the deltoid (axillary nerve) and the pectoralis major (medial and lateral pectoral nerves) is identified — the classical landmark is the cephalic vein running in the interval. The vein is typically taken either medially (with the pectoralis) or laterally (with the deltoid); the lateral retraction may be safer with respect to vein preservation. The deltoid is then retracted laterally and the pectoralis medially. The clavipectoral fascia is incised lateral to the conjoint tendon. The conjoint tendon (coracobrachialis and short head of biceps) is identified and retracted medially with attention to the musculocutaneous nerve entering coracobrachialis approximately 5 to 8 cm distal to the coracoid (this defines the safe zone for retraction). The subscapularis is now visualized, with the anterior humeral circumflex vessels (the “three sisters”) at its inferior border. These vessels are typically ligated or coagulated. The subscapularis is then incised (with various techniques, vertical incision, lesser tuberosity osteotomy, peel from the lesser tuberosity for shoulder arthroplasty) to expose the underlying capsule and joint.
 
 
 ## Variations

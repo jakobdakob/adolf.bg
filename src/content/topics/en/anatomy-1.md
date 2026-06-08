@@ -18,7 +18,7 @@ The spine, traversing from the base of the skull to the sacrum, presents the ort
     <img src="/img/anatomy-1/vertebral-column.jpg" alt="Vertebral column" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Vertebral column — 7 cervical, 12 thoracic, 5 lumbar vertebrae plus sacrum and coccyx; the four physiologic curvatures (two lordoses + two kyphoses) develop in childhood.</span>
+    <span class="md-figure-caption">Vertebral column: 7 cervical, 12 thoracic, 5 lumbar vertebrae plus sacrum and coccyx; the four physiologic curvatures (two lordoses + two kyphoses) develop in childhood.</span>
     <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
@@ -32,7 +32,7 @@ The anterior cervical approach — developed by Smith and Robinson (1958) and re
 
 ## Patient Positioning
 
-The patient is supine with the head extended (often supported by a roll under the shoulders), with the head taped or pinned in a stable position. The arms are tucked at the sides, with shoulders depressed by traction tape (allowing fluoroscopic visualization of the lower cervical levels). The neck is generally turned slightly away from the side of approach (typically the right side is the surgeon’s preference because of the more predictable course of the right recurrent laryngeal nerve, with the left-sided approach advocated by some because of the more vertical and consistent course of the left recurrent laryngeal nerve — the choice is largely surgeon preference).
+The patient is supine with the head extended (often supported by a roll under the shoulders), with the head taped or pinned in a stable position. The arms are tucked at the sides, with shoulders depressed by traction tape (allowing fluoroscopic visualization of the lower cervical levels). The neck is generally turned slightly away from the side of approach (typically the right side is the surgeon’s preference because of the more predictable course of the right recurrent laryngeal nerve, with the left-sided approach advocated by some because of the more vertical and consistent course of the left recurrent laryngeal nerve, the choice is largely surgeon preference).
 
 ## Surgical Anatomy
 
@@ -41,7 +41,7 @@ The patient is supine with the head extended (often supported by a roll under th
     <img src="/img/anatomy-1/spinal-cord-xs.png" alt="Spinal cord transverse section" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Diagrammatic transverse section of the spinal cord and its meninges — dura mater, arachnoid, pia mater, anterior and posterior roots; key for spinal-canal approaches and for spinal-trauma assessment.</span>
+    <span class="md-figure-caption">Diagrammatic transverse section of the spinal cord and its meninges: dura mater, arachnoid, pia mater, anterior and posterior roots; key for spinal-canal approaches and for spinal-trauma assessment.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -55,7 +55,7 @@ The incision is transverse along a skin crease at the appropriate level (or long
 
 ## Complications
 
-The complications of the anterior cervical approach include recurrent laryngeal nerve injury (1 to 3 percent in most series), esophageal perforation (rare but serious), vascular injury (carotid artery or vertebral artery — the latter at risk in lateral dissection), Horner’s syndrome (from sympathetic chain injury), dysphagia (very common in the postoperative period, generally transient), and adjacent segment degeneration (the long-term concern related to the biomechanical changes of arthrodesis).
+The complications of the anterior cervical approach include recurrent laryngeal nerve injury (1 to 3 percent in most series), esophageal perforation (rare but serious), vascular injury (carotid artery or vertebral artery, the latter at risk in lateral dissection), Horner’s syndrome (from sympathetic chain injury), dysphagia (very common in the postoperative period, generally transient), and adjacent segment degeneration (the long-term concern related to the biomechanical changes of arthrodesis).
 
 ## Posterior Cervical Approach
 
@@ -130,14 +130,14 @@ The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF
     <img src="/img/anatomy-1/lumbar-mri.png" alt="Lumbar spine MRI" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Sagittal T2 MRI of the lumbar spine — normal disc height and signal, physiological lordosis, spinal canal; the basis for planning an anterior retroperitoneal approach and assessing disc degeneration.</span>
+    <span class="md-figure-caption">Sagittal T2 MRI of the lumbar spine: normal disc height and signal, physiological lordosis, spinal canal; the basis for planning an anterior retroperitoneal approach and assessing disc degeneration.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
 The standard approach to the L4-L5 and L5-S1 levels uses a transverse or oblique flank incision with retraction of the abdominal contents anteriorly and entry into the retroperitoneum without traversing the peritoneal cavity. The left-sided approach is preferred because the great vessels (aorta and inferior vena cava) bifurcate on the right of the spine, and approaching from the left allows the aorta to be retracted with less risk of venous injury (the aorta is more easily mobilized than the inferior vena cava).
 
-The structures encountered include: Skin and subcutaneous fat. External oblique, internal oblique, and transversus abdominis muscles — divided in line with their fibers or in the muscle-splitting plane. Transversalis fascia opened to enter the retroperitoneum. Peritoneum retracted anteromedially (the retroperitoneum is developed posterior to the peritoneal sac, preserving peritoneal integrity). Ureter identified and protected (running over the bifurcation of the iliac vessels in the typical position). Sympathetic chain identified along the lateral side of the vertebral bodies (injury produces a warm leg or altered ejaculation in males — retrograde ejaculation is a recognized complication). Common iliac vessels identified and retracted; the bifurcation typically lies at L4-L5, with the L5-S1 disc lying below the bifurcation. Anterior longitudinal ligament identified over the disc space and incised.
+The structures encountered include: Skin and subcutaneous fat. External oblique, internal oblique, and transversus abdominis muscles — divided in line with their fibers or in the muscle-splitting plane. Transversalis fascia opened to enter the retroperitoneum. Peritoneum retracted anteromedially (the retroperitoneum is developed posterior to the peritoneal sac, preserving peritoneal integrity). Ureter identified and protected (running over the bifurcation of the iliac vessels in the typical position). Sympathetic chain identified along the lateral side of the vertebral bodies (injury produces a warm leg or altered ejaculation in males, retrograde ejaculation is a recognized complication). Common iliac vessels identified and retracted; the bifurcation typically lies at L4-L5, with the L5-S1 disc lying below the bifurcation. Anterior longitudinal ligament identified over the disc space and incised.
 
 ## L5-S1 Approach
 
@@ -161,7 +161,7 @@ The patient is prone, with the abdomen free (using a Jackson table or Wilson fra
 
 ## Surgical Anatomy
 
-The midline structures include: Skin and subcutaneous tissue in the midline. Thoracolumbar fascia: The thick fascial layer overlying the paraspinal muscles, opened in the midline. Paraspinal muscles (erector spinae — iliocostalis, longissimus, spinalis; multifidus deeper to these): Subperiosteally elevated from the spinous processes and laminae, with the multifidus being a particularly important muscle for spinal stability that should be preserved when possible (the Wiltse approach through the intermuscular plane between the multifidus and longissimus preserves the multifidus). Spinous processes, laminae, pars interarticularis, facet joints, transverse processes: The bony structures of the posterior lumbar spine. Pedicles: Anterior to the lamina, accessed through the entry points at the junction of the transverse process, lamina, and superior articular facet (the Roy-Camille point, modified by others).
+The midline structures include: Skin and subcutaneous tissue in the midline. Thoracolumbar fascia: The thick fascial layer overlying the paraspinal muscles, opened in the midline. Paraspinal muscles (erector spinae, iliocostalis, longissimus, spinalis; multifidus deeper to these): Subperiosteally elevated from the spinous processes and laminae, with the multifidus being a particularly important muscle for spinal stability that should be preserved when possible (the Wiltse approach through the intermuscular plane between the multifidus and longissimus preserves the multifidus). Spinous processes, laminae, pars interarticularis, facet joints, transverse processes: The bony structures of the posterior lumbar spine. Pedicles: Anterior to the lamina, accessed through the entry points at the junction of the transverse process, lamina, and superior articular facet (the Roy-Camille point, modified by others).
 
 ## Approach Technique
 

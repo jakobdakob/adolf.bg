@@ -9,7 +9,7 @@ order: 205
 
 ## Въведение
 
-Предмишницата — между лакъта проксимално и китката дистално — е уникална сред ортопедичните области с това, че съдържа две успоредни дълги кости, чиито прецизни пространствени взаимоотношения определят ротационната функция на пронацията и супинацията. Хирургичната анатомия отразява това устройство: radius с характерната му латерална дъга, ulna по правата си ос, membrana interossea между тях, проксималната и дисталната radioulnar articulation и мускулните компартменти, организирани около тези кости. Оперативните достъпи до предмишницата трябва да зачитат основното изискване за възстановяване на радиалната дъга и взаимоотношенията на radioulnar articulation (принципът, формулиран в Тема Травма-16), като едновременно защитават основните невроваскуларни структури — arteria radialis, nervus medianus, nervus ulnaris, nervus interosseous posterior и повърхностния клон на nervus radialis. Двата основни достъпа до radius — достъпът по Henry (волярен) и достъпът по Thompson (дорзален) — заедно осигуряват достъп до цялата дължина на костта; директният улнарен достъп осигурява достъп до подкожния ръб на ulna. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
+Предмишницата (между лакъта проксимално и китката дистално) е уникална сред ортопедичните области с това, че съдържа две успоредни дълги кости, чиито прецизни пространствени взаимоотношения определят ротационната функция на пронацията и супинацията. Хирургичната анатомия отразява това устройство: radius с характерната му латерална дъга, ulna по правата си ос, membrana interossea между тях, проксималната и дисталната radioulnar articulation и мускулните компартменти, организирани около тези кости. Оперативните достъпи до предмишницата трябва да зачитат основното изискване за възстановяване на радиалната дъга и взаимоотношенията на radioulnar articulation (принципът, формулиран в Тема Травма-16), като едновременно защитават основните невроваскуларни структури — arteria radialis, nervus medianus, nervus ulnaris, nervus interosseous posterior и повърхностния клон на nervus radialis. Двата основни достъпа до radius — достъпът по Henry (волярен) и достъпът по Thompson (дорзален) — заедно осигуряват достъп до цялата дължина на костта; директният улнарен достъп осигурява достъп до подкожния ръб на ulna. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
 
 ## Костна анатомия
 
@@ -30,7 +30,7 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
     <img src="/img/anatomy-5/forearm-xs.png" alt="Напречен срез на предмишницата" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Напречен срез на лявата предмишница — radius и ulna, membrana interossea, волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) компартмент с мобилното тяло на Henry.</span>
+    <span class="md-figure-caption">Напречен срез на лявата предмишница: radius и ulna, membrana interossea, волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) компартмент с мобилното тяло на Henry.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -45,7 +45,7 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
 
 Среден слой: Musculus flexor digitorum superficialis (FDS) — произхождащ от mediale epicondylus и проксималния radius и ulna, с сухожилия към средните фаланги на пръстите.
 
-Дълбок слой: Musculus flexor digitorum profundus (FDP), musculus flexor pollicis longus (FPL) и musculus pronator quadratus. FDP произхожда от ulna и membrana interossea, FPL — от radius и membrana interossea, а pronator quadratus дистално — от ulna към radius.
+Дълбок слой: Musculus flexor digitorum profundus (FDP), musculus flexor pollicis longus (FPL) и musculus pronator quadratus. FDP произхожда от ulna и membrana interossea, FPL (от radius и membrana interossea, а pronator quadratus дистално) от ulna към radius.
 
 Nervus medianus върви в волярния компартмент между слоевете на FDS и FDP по средната линия; nervus interosseous anterior (AIN) е дълбок клон, вървящ по membrana interossea. Nervus ulnaris върви улнарно спрямо FDP, дълбоко под FCU. Arteria radialis върви по радиалната страна, дълбоко под musculus brachioradialis. Arteria ulnaris върви по улнарната страна, дълбоко под FCU.
 
@@ -70,7 +70,7 @@ Nervus interosseous posterior (PIN) преминава през musculus supinat
     <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Сензорна зона на n. medianus в ръката" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Сензорна зона на n. medianus в ръката — палмарната повърхност на палеца, II, III и радиалната половина на IV пръст; характерна загуба при синдром на carpal tunnel или прерязване на нерва над китката.</span>
+    <span class="md-figure-caption">Сензорна зона на n. medianus в ръката: палмарната повърхност на палеца, II, III и радиалната половина на IV пръст; характерна загуба при синдром на carpal tunnel или прерязване на нерва над китката.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -194,7 +194,7 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 
 Достъпът по Henry (волярен) използва интервала между musculus brachioradialis и FCR, като супинацията на предмишницата измества PIN медиално при дисекцията на musculus supinator и проксималния radius. Достъпът осигурява достъп до цялата дължина на radius и е стандартен при фиксирането на фрактури на диафизата на лъча.
 
-Достъпът по Thompson (дорзален) използва интервала между две нервни зони — ECRB и EDC — като пронацията на предмишницата измества PIN радиално при дисекцията.
+Достъпът по Thompson (дорзален) използва интервала между две нервни зони (ECRB и EDC) като пронацията на предмишницата измества PIN радиално при дисекцията.
 
 Достъпът се използва при проксимални фрактури на лъча и при избрани индикации, при които волярният достъп е противопоказан.
 

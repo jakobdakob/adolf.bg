@@ -9,7 +9,7 @@ order: 206
 
 ## Introduction
 
-The hand is the most anatomically intricate region of the orthopedic skeleton, with 27 bones, more than 30 joints, intricate ligamentous and tendinous structures, multiple muscular layers, and dense neurovascular distribution all packed into a small volume. The functional demands — fine prehension, power grip, opposable thumb, sensory and dexterous manipulation — are matched by an anatomical complexity that requires the orthopedic surgeon to know not only the bony skeleton but also the precise relationships of the flexor and extensor tendons, the pulley system, the intrinsic muscles, the lumbricals, the interossei, the digital nerves and arteries, and the deep palmar arch. The orthopedic surgeon’s surgical approaches to the hand must respect these structures, with the principles of incision design (including the Z-plasty technique for managing skin contractures across flexion creases) being as important as the principles of tendon and nerve management. This chapter draws on Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, Gray’s Anatomy, and Dutton’s Orthopaedic Examination.
+The hand is the most anatomically intricate region of the orthopedic skeleton, with 27 bones, more than 30 joints, intricate ligamentous and tendinous structures, multiple muscular layers, and dense neurovascular distribution all packed into a small volume. The functional demands (fine prehension, power grip, opposable thumb, sensory and dexterous manipulation) are matched by an anatomical complexity that requires the orthopedic surgeon to know not only the bony skeleton but also the precise relationships of the flexor and extensor tendons, the pulley system, the intrinsic muscles, the lumbricals, the interossei, the digital nerves and arteries, and the deep palmar arch. The orthopedic surgeon’s surgical approaches to the hand must respect these structures, with the principles of incision design (including the Z-plasty technique for managing skin contractures across flexion creases) being as important as the principles of tendon and nerve management. This chapter draws on Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, Gray’s Anatomy, and Dutton’s Orthopaedic Examination.
 
 ## Bony and Articular Anatomy
 
@@ -18,14 +18,14 @@ The hand is the most anatomically intricate region of the orthopedic skeleton, w
     <img src="/img/anatomy-6/hand.svg" alt="Palmar anatomy of the wrist and hand" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand — flexor tendons with sheaths, A1–A5 pulleys, sensory nerves and palmar arch vessels.</span>
+    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand: flexor tendons with sheaths, A1–A5 pulleys, sensory nerves and palmar arch vessels.</span>
     <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
 The hand skeleton comprises: 8 carpal bones in two rows (proximal: scaphoid, lunate, triquetrum, pisiform; distal: trapezium, trapezoid, capitate, hamate) — see Topic Trauma-18 for fracture and dislocation anatomy. 5 metacarpals numbered 1 through 5 from radial to ulnar. 14 phalanges: Two for the thumb (proximal and distal) and three for each of the fingers (proximal, middle, distal). The total is 14 phalanges in the hand. The principal joints include: Carpometacarpal (CMC) joints: The articulations between the distal carpus and the metacarpal bases. The first CMC joint (thumb) is a saddle joint between the trapezium and the first metacarpal, providing the unique opposability of the thumb. The second through fifth CMC joints are essentially gliding joints with limited motion (more motion at the fourth and fifth, contributing to the cupping of the hand). Metacarpophalangeal (MCP) joints: The “knuckle” joints between the metacarpal heads and the proximal phalangeal bases. The fingers have condyloid joints (allowing flexion-extension and limited abduction-adduction); the thumb has a hinge-type joint. Interphalangeal (IP) joints: The proximal IP (PIP) joints and distal IP (DIP) joints of the fingers; the thumb has a single IP joint. All are hinge joints permitting flexion-extension only.
 
-The collateral ligaments of the MCP and IP joints have specific anatomical features. The MCP collateral ligaments are taut in flexion and lax in extension (a fact that determines the safe immobilization position — see below). The IP collateral ligaments are taut throughout the range, with both proper collateral ligaments (between adjacent bones) and accessory collateral ligaments (between the proximal bone and the volar plate).
+The collateral ligaments of the MCP and IP joints have specific anatomical features. The MCP collateral ligaments are taut in flexion and lax in extension (a fact that determines the safe immobilization position, see below). The IP collateral ligaments are taut throughout the range, with both proper collateral ligaments (between adjacent bones) and accessory collateral ligaments (between the proximal bone and the volar plate).
 
 ## Skin and Subcutaneous Tissue
 
@@ -34,7 +34,7 @@ The collateral ligaments of the MCP and IP joints have specific anatomical featu
     <img src="/img/anatomy-6/carpal-bones.png" alt="Carpal bones" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">The 8 carpal bones in two rows — proximal (scaphoid, lunate, triquetrum, pisiform) and distal (trapezium, trapezoid, capitate, hamate); mnemonic "She Looks Too Pretty, Try To Catch Her".</span>
+    <span class="md-figure-caption">The 8 carpal bones in two rows: proximal (scaphoid, lunate, triquetrum, pisiform) and distal (trapezium, trapezoid, capitate, hamate); mnemonic "She Looks Too Pretty, Try To Catch Her".</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -61,7 +61,7 @@ The flexor tendons pass through the carpal tunnel and into the digits through th
     <img src="/img/anatomy-6/extensor-compartments.png" alt="Six dorsal wrist extensor compartments" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">The six dorsal wrist extensor compartments (numbered): 1 — APL/EPB, 2 — ECRL/ECRB, 3 — EPL, 4 — EDC/EIP, 5 — EDM, 6 — ECU. Anatomic basis of de Quervain's (1) and ECU tenosynovitis (6).</span>
+    <span class="md-figure-caption">The six dorsal wrist extensor compartments (numbered): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Anatomic basis of de Quervain's (1) and ECU tenosynovitis (6).</span>
     <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>

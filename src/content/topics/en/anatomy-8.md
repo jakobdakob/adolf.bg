@@ -18,7 +18,7 @@ The hip joint, the deepest and most constrained ball-and-socket articulation in 
     <img src="/img/anatomy-8/hip.svg" alt="Hip joint anatomy" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Hip joint — ball-and-socket articulation between the acetabulum and the femoral head; stabilized by the thick capsule, the labrum and the three major ligaments (iliofemoral, pubofemoral, ischiofemoral).</span>
+    <span class="md-figure-caption">Hip joint: ball-and-socket articulation between the acetabulum and the femoral head; stabilized by the thick capsule, the labrum and the three major ligaments (iliofemoral, pubofemoral, ischiofemoral).</span>
     <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -56,7 +56,7 @@ Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral art
     <img src="/img/anatomy-8/anterior-thigh.svg" alt="Anterior thigh — TFL" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Anterior thigh — sartorius (medial) and tensor fasciae latae (lateral) form the Smith-Petersen internervous interval; deep, between rectus femoris and gluteus medius.</span>
+    <span class="md-figure-caption">Anterior thigh: sartorius (medial) and tensor fasciae latae (lateral) form the Smith-Petersen internervous interval; deep, between rectus femoris and gluteus medius.</span>
     <span class="md-figure-attribution"> — Wikipedia user (Gray 430), <a href="https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -123,7 +123,7 @@ Patient in lateral decubitus with the affected side up. Curved incision from the
 
 ## Complications
 
-Sciatic nerve injury (1 to 3 percent in elective procedures, higher in posterior dislocation reduction). Posterior hip dislocation after total hip arthroplasty (the principal concern; historical rates of 3 to 5 percent, reduced by careful soft-tissue repair and modern implant positioning). Heterotopic ossification. Abductor preservation (an advantage of this approach — the gluteus medius and minimus are not disturbed).
+Sciatic nerve injury (1 to 3 percent in elective procedures, higher in posterior dislocation reduction). Posterior hip dislocation after total hip arthroplasty (the principal concern; historical rates of 3 to 5 percent, reduced by careful soft-tissue repair and modern implant positioning). Heterotopic ossification. Abductor preservation (an advantage of this approach, the gluteus medius and minimus are not disturbed).
 
 ## Trochanteric Flip Osteotomy (Ganz)
 

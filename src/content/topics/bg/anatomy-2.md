@@ -18,7 +18,7 @@ order: 202
     <img src="/img/anatomy-2/shoulder.svg" alt="Анатомия на раменната става" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Анатомия на раменната става — гленохумерална, акромиоклавикуларна и стерноклавикуларна стави плюс скапулоторакалното съчленение.</span>
+    <span class="md-figure-caption">Анатомия на раменната става: гленохумерална, акромиоклавикуларна и стерноклавикуларна стави плюс скапулоторакалното съчленение.</span>
     <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -43,7 +43,7 @@ Processus coracoideus се проектира напред и осигурява
     <img src="/img/anatomy-2/rotator-cuff.svg" alt="Ротаторен маншон" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Ротаторен маншон — supraspinatus, infraspinatus, teres minor, subscapularis; супраспинатусното сухожилие е най-често разкъсваното при ротаторен синдром.</span>
+    <span class="md-figure-caption">Ротаторен маншон: supraspinatus, infraspinatus, teres minor, subscapularis; супраспинатусното сухожилие е най-често разкъсваното при ротаторен синдром.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -95,7 +95,7 @@ Nervus axillaris е основната неврологична структур
 
 ## Nervus musculocutaneus (C5–C7)
 
-Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус, пробива musculus coracobrachialis (обикновено около 5-8 cm дистално от processus coracoideus — „безопасната зона“ за ретракция при предна раменна хирургия е около 5 cm дистално от coracoideus) и инервира musculus biceps brachii, musculus brachialis и musculus coracobrachialis. След това продължава като nervus cutaneus antebrachii lateralis.
+Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус, пробива musculus coracobrachialis (обикновено около 5-8 cm дистално от processus coracoideus, „безопасната зона“ за ретракция при предна раменна хирургия е около 5 cm дистално от coracoideus) и инервира musculus biceps brachii, musculus brachialis и musculus coracobrachialis. След това продължава като nervus cutaneus antebrachii lateralis.
 
 ## Брахиален плексус и аксиларни съдове
 
@@ -104,7 +104,7 @@ Nervus musculocutaneus се отделя от латералния сноп на
     <img src="/img/anatomy-2/brachial-plexus.svg" alt="Брахиален плексус" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Брахиален плексус (C5–T1) — корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
+    <span class="md-figure-caption">Брахиален плексус (C5–T1): корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
     <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -137,7 +137,7 @@ Nervus thoracicus longus преминава по латералната гръд
 
 Fascia clavipectoralis се разсича латерално от conjoint tendon. Conjoint tendon (musculus coracobrachialis и късото сухожилие на biceps) се идентифицира и ретрахира медиално, като се внимава за nervus musculocutaneus, навлизащ в coracobrachialis на около 5-8 cm дистално от coracoideus (това определя безопасната зона за ретракция).
 
-Musculus subscapularis вече е видим, като предните циркумфлексни съдове на humerus („трите сестри“) са на долния му ръб. Тези съдове обикновено се лигират или коагулират. Subscapularis след това се разсича (с различни техники — вертикален разрез, остеотомия на tuberculum minus, отслояване от tuberculum minus при артропластика на рамото) за излагане на подлежащата капсула и ставата.
+Musculus subscapularis вече е видим, като предните циркумфлексни съдове на humerus („трите сестри“) са на долния му ръб. Тези съдове обикновено се лигират или коагулират. Subscapularis след това се разсича (с различни техники, вертикален разрез, остеотомия на tuberculum minus, отслояване от tuberculum minus при артропластика на рамото) за излагане на подлежащата капсула и ставата.
 
 
 ## Варианти

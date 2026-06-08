@@ -18,7 +18,7 @@ order: 206
     <img src="/img/anatomy-6/hand.svg" alt="Палмарна анатомия на китката и ръката" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Дълбока палмарна дисекция на китката и ръката — флексорни сухожилия с обвивки, A1–A5 ремъци, сензорни нерви и съдове в палмарната дъга.</span>
+    <span class="md-figure-caption">Дълбока палмарна дисекция на китката и ръката: флексорни сухожилия с обвивки, A1–A5 ремъци, сензорни нерви и съдове в палмарната дъга.</span>
     <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
@@ -40,7 +40,7 @@ Metacarpophalangeal (MCP) стави: „Кокалчета“ между гла
 
 Interphalangeal (IP) стави: Проксималните IP (PIP) стави и дисталните IP (DIP) стави на пръстите; палецът има единствена IP става. Всички са шарнирни, допускащи само флексия-екстензия.
 
-Колатералните връзки на MCP и IP ставите имат специфични анатомични особености. Колатералните връзки на MCP са опнати при флексия и отпуснати при екстензия (факт, определящ безопасното положение на обездвижване — вж. по-долу). Колатералните връзки на IP са опнати по цялата амплитуда, с истински колатерални връзки (между съседни кости) и допълнителни колатерални връзки (между проксималната кост и волярната плочка).
+Колатералните връзки на MCP и IP ставите имат специфични анатомични особености. Колатералните връзки на MCP са опнати при флексия и отпуснати при екстензия (факт, определящ безопасното положение на обездвижване, вж. по-долу). Колатералните връзки на IP са опнати по цялата амплитуда, с истински колатерални връзки (между съседни кости) и допълнителни колатерални връзки (между проксималната кост и волярната плочка).
 
 ## Кожа и подкожна тъкан
 
@@ -49,7 +49,7 @@ Interphalangeal (IP) стави: Проксималните IP (PIP) стави 
     <img src="/img/anatomy-6/carpal-bones.png" alt="Карпални кости" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Карпалните 8 кости в два реда — проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
+    <span class="md-figure-caption">Карпалните 8 кости в два реда: проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -108,7 +108,7 @@ Interosseous compartments: Четири musculi interossei dorsales и три mu
     <img src="/img/anatomy-6/extensor-compartments.png" alt="Дорзални екстензорни компартменти на китката" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Шестте дорзални екстензорни компартменти на китката (номерирани): 1 — APL/EPB, 2 — ECRL/ECRB, 3 — EPL, 4 — EDC/EIP, 5 — EDM, 6 — ECU. Анатомична основа на De Quervain (1) и tenosynovitis на ECU (6).</span>
+    <span class="md-figure-caption">Шестте дорзални екстензорни компартменти на китката (номерирани): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Анатомична основа на De Quervain (1) и tenosynovitis на ECU (6).</span>
     <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -183,7 +183,7 @@ Musculus flexor digiti minimi brevis: Флектира MCP на малкия п�
 
 ## Дигитални нерви и артерии
 
-Дигиталните нерви и артерии вървят по латералния и медиалния аспект на всеки пръст, като артерията е типично дорзално, а нервът — волярно в проксималната част на пръста; дистално взаимоотношението се обръща — нервът е волярно, а артерията — леко дорзално. Разпределението е:
+Дигиталните нерви и артерии вървят по латералния и медиалния аспект на всеки пръст, като артерията е типично дорзално, а нервът — волярно в проксималната част на пръста; дистално взаимоотношението се обръща (нервът е волярно, а артерията) леко дорзално. Разпределението е:
 
 •   Nervus medianus осигурява дигиталните нерви към радиалните три и половина пръста
     (палец, показалец, среден и радиалната половина на безименния) — типичното

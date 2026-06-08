@@ -9,7 +9,7 @@ order: 203
 
 ## Въведение
 
-Мишницата — простираща се от рамото до лакътя — съдържа humerus и обкръжаващата го мускулна обвивка, като основните невроваскуларни структури (nervus musculocutaneus, nervus radialis, nervus medianus, nervus ulnaris, arteria brachialis, vena brachialis) преминават сегмента в характерни взаимоотношения с костта. Оперативните достъпи до humerus се определят от локализацията на патологията по дължината му и от близостта на nervus radialis до костта в спиралния жлеб, което е основното неврологично съображение при достъпите до средната и дисталната третина на humerus. Двата основни достъпа — антеролатералният за проксималната и средната третина, и задният за средната и дисталната третина — заедно осигуряват достъп до повечето области на диафизата на humerus и на обкръжаващите го мускулни структури. Тази тема, базирана на Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy, разглежда хирургичната анатомия и основните достъпи до мишницата и humerus.
+Мишницата (простираща се от рамото до лакътя) съдържа humerus и обкръжаващата го мускулна обвивка, като основните невроваскуларни структури (nervus musculocutaneus, nervus radialis, nervus medianus, nervus ulnaris, arteria brachialis, vena brachialis) преминават сегмента в характерни взаимоотношения с костта. Оперативните достъпи до humerus се определят от локализацията на патологията по дължината му и от близостта на nervus radialis до костта в спиралния жлеб, което е основното неврологично съображение при достъпите до средната и дисталната третина на humerus. Двата основни достъпа — антеролатералният за проксималната и средната третина, и задният за средната и дисталната третина — заедно осигуряват достъп до повечето области на диафизата на humerus и на обкръжаващите го мускулни структури. Тази тема, базирана на Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy, разглежда хирургичната анатомия и основните достъпи до мишницата и humerus.
 
 ## Костна анатомия и отделения
 
@@ -18,7 +18,7 @@ order: 203
     <img src="/img/anatomy-3/humerus.png" alt="Humerus, преден изглед" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Ляв humerus, преден изглед — главица, хирургична шийка, диафиза с предна извивка, дистални медиална и латерална колона, trochlea и capitellum.</span>
+    <span class="md-figure-caption">Ляв humerus, преден изглед: главица, хирургична шийка, диафиза с предна извивка, дистални медиална и латерална колона, trochlea и capitellum.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -41,7 +41,7 @@ Humerus е най-голямата дълга кост на горния кра�
     <img src="/img/anatomy-3/radial-sulcus.png" alt="Sulcus radialis на хумеруса" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Sulcus radialis (спирален жлеб) на задната повърхност на хумеруса — n. radialis пресича костта медиосупериорно към латероинферно, в непосредствена близост до периоста; основа за честата увреда при фрактури на диафизата.</span>
+    <span class="md-figure-caption">Sulcus radialis (спирален жлеб) на задната повърхност на хумеруса: n. radialis пресича костта медиосупериорно към латероинферно, в непосредствена близост до периоста; основа за честата увреда при фрактури на диафизата.</span>
     <span class="md-figure-attribution"> — Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -61,7 +61,7 @@ Nervus musculocutaneus се отделя от латералния сноп на
     <img src="/img/anatomy-3/brachial-artery.png" alt="A. brachialis" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">A. brachialis в медиалния бицепсов жлеб — продължение на a. axillaris дистално от долния ръб на m. teres major; разделя се на a. radialis и a. ulnaris в cubital fossa.</span>
+    <span class="md-figure-caption">A. brachialis в медиалния бицепсов жлеб: продължение на a. axillaris дистално от долния ръб на m. teres major; разделя се на a. radialis и a. ulnaris в cubital fossa.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -86,7 +86,7 @@ Arteria brachialis слиза по медиалния бицепсов жлеб 
 
 ## Оперативна техника
 
-Кожата и подкожието се разсичат. Фасцията на мишницата се отваря в посоката на кожния разрез. Musculus biceps се идентифицира и ретрахира медиално. Musculus brachialis вече е видим; мускулът се разцепва надлъжно по средата (латералните две трети на brachialis се инервират от nervus musculocutaneus, медиалната третина — от nervus radialis, така че срединното разцепване запазва поне частична инервация на двете части).
+Кожата и подкожието се разсичат. Фасцията на мишницата се отваря в посоката на кожния разрез. Musculus biceps се идентифицира и ретрахира медиално. Musculus brachialis вече е видим; мускулът се разцепва надлъжно по средата (латералните две трети на brachialis се инервират от nervus musculocutaneus, медиалната третина, от nervus radialis, така че срединното разцепване запазва поне частична инервация на двете части).
 
 Под разцепването на brachialis humerus се излага субпериостално. Nervus radialis трябва да бъде специално идентифициран и защитен, ако дисекцията ще се разширява в дисталната третина на диафизата на humerus — нервът пробива латералната интермускулна преграда на това ниво и навлиза в brachialis от радиалната страна.
 
@@ -173,7 +173,7 @@ Nervus radialis в дисталната третина на humerus (къдет�
 
 ## Обобщение и ключови изводи
 
-Мишницата предлага сравнително прости оперативни достъпи в сравнение с рамото, като основното предизвикателство е nervus radialis в спиралния жлеб на задния humerus. Двата основни достъпа — антеролатерален (използващ интервала biceps–brachialis с надлъжно разцепване на brachialis по средата) и заден (използващ разцепване на triceps, паратрицепсна техника, рефлектиране на triceps или остеотомия на olecranon) — заедно осигуряват достъп до повечето зони на диафизата на humerus. Изборът на достъп зависи от локализацията на патологията (проксималната и средната третина — в полза на антеролатералния; средната и дисталната третина — в полза на задния; дисталната ставна повърхност — в полза на остеотомията на olecranon).
+Мишницата предлага сравнително прости оперативни достъпи в сравнение с рамото, като основното предизвикателство е nervus radialis в спиралния жлеб на задния humerus. Двата основни достъпа — антеролатерален (използващ интервала biceps–brachialis с надлъжно разцепване на brachialis по средата) и заден (използващ разцепване на triceps, паратрицепсна техника, рефлектиране на triceps или остеотомия на olecranon) — заедно осигуряват достъп до повечето зони на диафизата на humerus. Изборът на достъп зависи от локализацията на патологията (проксималната и средната третина, в полза на антеролатералния; средната и дисталната третина, в полза на задния; дисталната ставна повърхност, в полза на остеотомията на olecranon).
 
 Nervus radialis се идентифицира конкретно и се защитава при всеки достъп, разширяващ се в средната или дисталната третина на humerus, като преходът между средната и дисталната третина на humerus е критичният ориентир, където нервът пробива латералната интермускулна преграда, за да навлезе в предното отделение.
 

@@ -18,7 +18,7 @@ order: 211
     <img src="/img/anatomy-11/ankle-foot.jpg" alt="Анатомия на глезен и ходило" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Анатомия на глезенната става и ходилото — тибиоталарна, субталарна (talocalcaneal) и transverse tarsal (Chopart) стави; 7 тарзални, 5 метатарзални кости и фаланги.</span>
+    <span class="md-figure-caption">Анатомия на глезенната става и ходилото: тибиоталарна, субталарна (talocalcaneal) и transverse tarsal (Chopart) стави; 7 тарзални, 5 метатарзални кости и фаланги.</span>
     <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
@@ -29,7 +29,7 @@ order: 211
 
 Средното стъпало включва навикуларната кост, кубоида и трите cuneiformia (Тема Травма- 29).
 
-Предното стъпало включва петте метатарзални кости и фалангите (по аналогия с ръката — две фаланги за палеца и три за останалите пръсти).
+Предното стъпало включва петте метатарзални кости и фалангите (по аналогия с ръката, две фаланги за палеца и три за останалите пръсти).
 
 Ключовите хирургични ориентири са медиалният и латералният малеол, sustentaculum tali (медиален калканеус), туберкулът на тибиалиса върху навикуларната кост и туберозитета на петата метатарзална кост.
 
@@ -62,7 +62,7 @@ Nervus saphenus слиза по медиалната страна на глез�
     <img src="/img/anatomy-11/ankle-ligaments.svg" alt="Лигаментна анатомия на глезена" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Лигаментна анатомия на глезена — латерален комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент; ATFL е най-често разкъсваният при инверзионно навяхване.</span>
+    <span class="md-figure-caption">Лигаментна анатомия на глезена: латерален комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент; ATFL е най-често разкъсваният при инверзионно навяхване.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>

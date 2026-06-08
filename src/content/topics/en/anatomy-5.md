@@ -9,7 +9,7 @@ order: 205
 
 ## Introduction
 
-The forearm — between the elbow proximally and the wrist distally — is unique among the orthopedic regions in containing two parallel long bones whose precise spatial relationship determines the rotational function of pronation and supination. The surgical anatomy reflects this design: the radius with its characteristic lateral bow, the ulna along its straight axis, the interosseous membrane between them, the proximal and distal radioulnar joints, and the muscular compartments organized around these bones. The orthopedic surgeon’s approaches to the forearm must respect the fundamental requirement to restore the radial bow and the radioulnar joint relationships (the principle articulated in Topic Trauma-16) while protecting the principal neurovascular structures — the radial artery, the median nerve, the ulnar nerve, the posterior interosseous nerve, and the superficial branch of the radial nerve. The two principal approaches to the radius — the Henry (volar) approach and the Thompson (dorsal) approach — together provide access to the entire length of the bone; the direct ulnar approach provides access to the subcutaneous border of the ulna. This chapter draws on Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s Anatomy.
+The forearm (between the elbow proximally and the wrist distally) is unique among the orthopedic regions in containing two parallel long bones whose precise spatial relationship determines the rotational function of pronation and supination. The surgical anatomy reflects this design: the radius with its characteristic lateral bow, the ulna along its straight axis, the interosseous membrane between them, the proximal and distal radioulnar joints, and the muscular compartments organized around these bones. The orthopedic surgeon’s approaches to the forearm must respect the fundamental requirement to restore the radial bow and the radioulnar joint relationships (the principle articulated in Topic Trauma-16) while protecting the principal neurovascular structures — the radial artery, the median nerve, the ulnar nerve, the posterior interosseous nerve, and the superficial branch of the radial nerve. The two principal approaches to the radius — the Henry (volar) approach and the Thompson (dorsal) approach — together provide access to the entire length of the bone; the direct ulnar approach provides access to the subcutaneous border of the ulna. This chapter draws on Orthopaedic Surgical Approaches, Netter’s Concise Orthopaedic Anatomy, and Gray’s Anatomy.
 
 ## Bony Anatomy
 
@@ -24,7 +24,7 @@ The distal radioulnar joint (DRUJ) between the ulnar head and the sigmoid notch 
     <img src="/img/anatomy-5/forearm-xs.png" alt="Forearm cross-section" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Cross-section of the left forearm — radius and ulna, interosseous membrane, volar (flexor-pronator) and dorsal (extensor-supinator) compartments with the mobile wad of Henry.</span>
+    <span class="md-figure-caption">Cross-section of the left forearm: radius and ulna, interosseous membrane, volar (flexor-pronator) and dorsal (extensor-supinator) compartments with the mobile wad of Henry.</span>
     <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -51,7 +51,7 @@ The mobile wad consists of the brachioradialis, extensor carpi radialis longus (
     <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Median nerve sensory distribution" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Median nerve sensory distribution of the hand — palmar surface of the thumb, index, middle and radial half of the ring finger; the characteristic loss in carpal tunnel syndrome or median nerve transection above the wrist.</span>
+    <span class="md-figure-caption">Median nerve sensory distribution of the hand: palmar surface of the thumb, index, middle and radial half of the ring finger; the characteristic loss in carpal tunnel syndrome or median nerve transection above the wrist.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>

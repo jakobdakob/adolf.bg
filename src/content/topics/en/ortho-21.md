@@ -27,6 +27,16 @@ The classical presentation is of insidious onset of groin pain, typically in mid
 
 ## Imaging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/hip-oa.jpg" data-figure-alt="Hip osteoarthritis on plain radiograph" aria-label="Enlarge">
+    <img src="/img/ortho-21/hip-oa.jpg" alt="Hip osteoarthritis on plain radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hip osteoarthritis — joint-space narrowing, subchondral sclerosis, cysts, and peripheral osteophytes: the four classical radiographic features.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Plain Radiographs
 

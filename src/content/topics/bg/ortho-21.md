@@ -29,6 +29,16 @@ order: 21
 
 ## Образна диагностика
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/hip-oa.jpg" data-figure-alt="Коксартроза на рентгенография" aria-label="Увеличи">
+    <img src="/img/ortho-21/hip-oa.jpg" alt="Коксартроза на рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Коксартроза — стесняване на ставната цепка, субхондрална склероза, кисти и периферни остеофити: четирите класически рентгенографски белега на остеоартрозата.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Нативни рентгенографии
 

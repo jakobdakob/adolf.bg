@@ -247,25 +247,37 @@ const t = ui[lang];
     if (misses.length) {
       reviewSec.removeAttribute("hidden");
       reviewHead.textContent = T.review;
-      reviewList.innerHTML = misses.map((m) => {
+      // Per-question topic link only makes sense in mega-mix mode where
+      // questions span topics. In per-topic mode the back link already
+      // points to that single topic, so suppress the redundant per-item link.
+      const showPerItemLink = !back;
+      reviewList.innerHTML = misses.map((m, i) => {
         const loc = m.q[lang] || m.q.en || m.q.bg;
         const userText = loc.options[m.userAnswer] ?? "";
         const correctText = loc.options[m.correct] ?? "";
         const sec = m.q.section;
         const top = m.q.topic;
         const href = `/${lang}/${sec}/${top}/`;
+        const link = showPerItemLink
+          ? '<a class="quiz-review-link" href="' + href + '">' + escapeHtml(T.viewTopic) + ' →</a>'
+          : "";
         return (
           '<li class="quiz-review-item">' +
-            '<div class="quiz-review-stem">' + escapeHtml(loc.stem) + '</div>' +
-            '<div class="quiz-review-row quiz-review-wrong">' +
-              '<span class="quiz-review-label">' + T.your + '</span>' +
-              '<span>' + escapeHtml(userText) + '</span>' +
+            '<div class="quiz-review-num">' + (i + 1) + '</div>' +
+            '<div class="quiz-review-body">' +
+              '<div class="quiz-review-stem">' + escapeHtml(loc.stem) + '</div>' +
+              '<div class="quiz-review-pair quiz-review-pair-wrong">' +
+                '<span class="quiz-review-icon" aria-hidden="true">✕</span>' +
+                '<span class="quiz-review-label">' + escapeHtml(T.your) + '</span>' +
+                '<span class="quiz-review-value">' + escapeHtml(userText) + '</span>' +
+              '</div>' +
+              '<div class="quiz-review-pair quiz-review-pair-correct">' +
+                '<span class="quiz-review-icon" aria-hidden="true">✓</span>' +
+                '<span class="quiz-review-label">' + escapeHtml(T.correct) + '</span>' +
+                '<span class="quiz-review-value">' + escapeHtml(correctText) + '</span>' +
+              '</div>' +
+              link +
             '</div>' +
-            '<div class="quiz-review-row quiz-review-correct">' +
-              '<span class="quiz-review-label">' + T.correct + '</span>' +
-              '<span>' + escapeHtml(correctText) + '</span>' +
-            '</div>' +
-            '<a class="quiz-review-link" href="' + href + '">' + T.viewTopic + ' →</a>' +
           '</li>'
         );
       }).join("");
@@ -470,12 +482,12 @@ const t = ui[lang];
   }
   .quiz-review[hidden] { display: none; }
   .quiz-review-heading {
-    font-size: 1rem;
+    font-size: var(--fs-eyebrow);
     font-weight: 600;
     color: var(--ink-muted);
     letter-spacing: var(--tracking-eyebrow, 0.05em);
     text-transform: uppercase;
-    margin: 0 0 var(--s-4);
+    margin: 0 0 var(--s-5);
   }
   .quiz-review-list {
     list-style: none;
@@ -487,50 +499,88 @@ const t = ui[lang];
   }
   .quiz-review-item {
     border: 1px solid var(--rule);
-    border-radius: 10px;
-    padding: var(--s-4);
+    border-radius: 12px;
+    padding: 1rem 1.1rem;
     display: grid;
-    gap: var(--s-2);
+    grid-template-columns: 1.6rem 1fr;
+    column-gap: 0.6rem;
+    row-gap: 0.6rem;
+    align-items: start;
+  }
+  .quiz-review-num {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--ink-faint, var(--ink-muted));
+    font-size: 0.9rem;
+    line-height: 1.55;
+    padding-top: 0.05rem;
+  }
+  .quiz-review-body {
+    display: grid;
+    gap: 0.55rem;
+    min-width: 0;
   }
   .quiz-review-stem {
     font-weight: 600;
     color: var(--ink);
-    line-height: 1.4;
+    line-height: 1.45;
+    font-size: 1rem;
   }
-  .quiz-review-row {
+  .quiz-review-pair {
     display: grid;
-    grid-template-columns: 6.5rem 1fr;
-    gap: var(--s-3);
+    grid-template-columns: 1.2rem auto 1fr;
+    column-gap: 0.55rem;
     align-items: baseline;
     font-size: 0.95rem;
-    line-height: 1.4;
+    line-height: 1.45;
+  }
+  .quiz-review-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+    text-align: center;
+    width: 1.2rem;
   }
   .quiz-review-label {
-    font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
     color: var(--ink-faint, var(--ink-muted));
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
   }
-  .quiz-review-wrong span:not(.quiz-review-label) {
+  .quiz-review-label::after { content: ":"; }
+  .quiz-review-value { color: var(--ink); }
+
+  .quiz-review-pair-wrong .quiz-review-icon { color: #D14848; }
+  .quiz-review-pair-wrong .quiz-review-value {
     color: #D14848;
     text-decoration: line-through;
-    text-decoration-color: color-mix(in srgb, #D14848 50%, transparent);
+    text-decoration-color: color-mix(in srgb, #D14848 45%, transparent);
     text-decoration-thickness: 1px;
   }
-  .quiz-review-correct span:not(.quiz-review-label) {
+  .quiz-review-pair-correct .quiz-review-icon { color: var(--accent); }
+  .quiz-review-pair-correct .quiz-review-value {
     color: var(--accent);
     font-weight: 600;
   }
+
   .quiz-review-link {
     font-size: 0.85rem;
     color: var(--accent);
     text-decoration: none;
-    margin-top: var(--s-1);
+    margin-top: 0.1rem;
     justify-self: start;
   }
   .quiz-review-link:hover { text-decoration: underline; }
+
   @media (max-width: 540px) {
-    .quiz-review-row { grid-template-columns: 1fr; gap: 0.2rem; }
+    .quiz-review-item { grid-template-columns: 1.3rem 1fr; padding: 0.9rem; }
+    .quiz-review-pair {
+      grid-template-columns: 1rem 1fr;
+      row-gap: 0.1rem;
+    }
+    .quiz-review-pair .quiz-review-label { grid-column: 2; }
+    .quiz-review-pair .quiz-review-value { grid-column: 2; }
+    .quiz-review-pair .quiz-review-icon { grid-row: span 2; }
   }
 </style>

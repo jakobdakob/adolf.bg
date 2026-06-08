@@ -13,6 +13,16 @@ Femoroacetabular impingement (FAI) is a clinical syndrome in which abnormal mech
 
 ## Morphological Subtypes
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-20/fai-xray.png" data-figure-alt="Femoroacetabular impingement" aria-label="Enlarge">
+    <img src="/img/ortho-20/fai-xray.png" alt="Femoroacetabular impingement" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoroacetabular impingement — asphericity of the femoral head (cam) and/or excessive acetabular coverage (pincer) produces mechanical contact during flexion and internal rotation.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Three principal morphological subtypes of FAI are described, each with distinct mechanical features and clinical implications.
 
 ## Cam Impingement
@@ -41,6 +51,16 @@ The classical presentation is of an active young adult (most commonly in the thi
 
 
 ## Plain Radiographs
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-20/alpha-angle.jpg" data-figure-alt="Alpha angle in 45° Dunn view" aria-label="Enlarge">
+    <img src="/img/ortho-20/alpha-angle.jpg" alt="Alpha angle in 45° Dunn view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Alpha angle (Nötzli) — measure of femoral head asphericity; &gt;55° is pathological and suggests cam impingement.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 The standard imaging assessment begins with two views: a well-centered AP pelvis radiograph (with attention to standardized positioning, since rotation of the pelvis substantially alters the apparent morphology) and a lateral view of the hip (Dunn 45° or 90° view, cross-table lateral, or frog-lateral). The AP pelvis is assessed for: Acetabular morphology and version: The center-edge angle of Wiberg quantifies lateral acetabular coverage (normal 25-40°, with greater than 40° indicating overcoverage and less than 25° indicating undercoverage); the acetabular index (Tönnis angle) quantifies the slope of the acetabular roof (normal 0-10°, with negative values indicating overcoverage); the crossover sign (the anterior wall and posterior wall of the acetabulum crossing on the AP view rather than the normal pattern with the anterior wall lying medial to the posterior wall) indicates focal anterior overcoverage with relative acetabular retroversion; the posterior wall sign (the posterior wall failing to extend to the center of the femoral head) indicates a deficient posterior wall; the ischial spine sign (the ischial spine projecting medial to the ilio-ischial line) is a marker of acetabular retroversion; coxa profunda (the floor of the acetabulum extending to or beyond the ilio-ischial line) and protrusio acetabuli (the femoral head extending medial to the ilio-ischial line) are signs of overcoverage.
 

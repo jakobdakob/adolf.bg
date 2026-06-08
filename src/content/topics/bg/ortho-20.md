@@ -13,6 +13,16 @@ order: 20
 
 ## Морфологични подтипове
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-20/fai-xray.png" data-figure-alt="Фемороацетабуларен импинджмънт" aria-label="Увеличи">
+    <img src="/img/ortho-20/fai-xray.png" alt="Фемороацетабуларен импинджмънт" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фемороацетабуларен импинджмънт — асферичност на главата на бедрената кост (cam) и/или прекомерно покритие от ацетабулума (pincer), пораждащи механичен контакт при флексия и вътрешна ротация.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Описани са три основни морфологични подтипа на FAI, всеки с отличителни механични характеристики и клинични последствия.
 
 ## Импинджмънт тип Cam
@@ -53,6 +63,16 @@ order: 20
 
 
 ## Нативни рентгенографии
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-20/alpha-angle.jpg" data-figure-alt="Ъгъл алфа в 45° Dunn проекция" aria-label="Увеличи">
+    <img src="/img/ortho-20/alpha-angle.jpg" alt="Ъгъл алфа в 45° Dunn проекция" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ъгъл алфа (Nötzli) — мярка за асферичността на главата на бедрената кост; >55° е патологичен и насочва към cam-импинджмънт.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 Стандартната образна оценка започва с две проекции: добре центрирана ПЗ рентгенография на таза (с внимание към стандартизираното позициониране, тъй като ротацията на таза съществено изменя привидната морфология) и странична проекция на тазобедрената става (проекция по Dunn 45° или 90°, кръстосана странична или „жаба"). ПЗ рентгенографията на таза се оценява за:
 

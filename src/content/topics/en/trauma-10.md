@@ -13,6 +13,16 @@ The spinal column is unique among the orthopedic regions in combining a mechanic
 
 ## Initial Assessment of the Spine-Injured Patient
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-10/compression-fracture.png" data-figure-alt="Vertebral compression fracture patterns" aria-label="Enlarge">
+    <img src="/img/trauma-10/compression-fracture.png" alt="Vertebral compression fracture patterns" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Vertebral compression-fracture patterns — anterior wedge, burst, and combined forms; classified by the AO Spine system.</span>
+    <span class="md-figure-attribution"> — Ro016281, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_Compression_Fracture_Patterns.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The patient with suspected spinal injury arrives in the trauma bay with a spinal precaution package — rigid cervical collar, log-roll handling, backboard transfer — that should be maintained until the spine has been cleared. Clearance of the cervical spine in the awake, neurologically intact, cooperative patient without distracting injury and without midline tenderness can be achieved clinically using the NEXUS criteria (Hoffman et al., 2000) or the Canadian C-Spine Rule (Stiell et al., 2001), which together have been validated in large populations as effective at identifying patients who can have their collars safely removed without imaging. The Canadian rule applies to alert, stable trauma patients aged 16 and over; high-risk factors (age over 65, dangerous mechanism, paresthesias in extremities) mandate imaging, while the presence of low-risk factors (simple rear-end collision, sitting position in ED, ambulatory at any time, delayed onset of neck pain, absence of midline tenderness) permits assessment of active rotation — if the patient can rotate the neck 45 degrees in each direction, the collar can be removed. The patient who fails clinical clearance, or who is obtunded or unable to be examined, requires imaging. CT is now the imaging modality of choice for spinal trauma in adults, having replaced plain radiographs in most trauma centers because of substantially improved sensitivity, particularly at the craniocervical junction and the cervicothoracic junction. MRI is reserved for the patient with neurological deficit out of proportion to the
 
 bony findings, for suspected discoligamentous injury without bony injury, and for the obtunded patient with negative CT in whom occult ligamentous injury remains a concern; the role of MRI in this last setting remains debated and varies by institutional protocol. The neurological examination, performed and documented systematically using the ASIA (American Spinal Injury Association) impairment scale, establishes baseline neurological status. A normal neurological examination, however, does not exclude occult injury — the absence of deficit reflects integrity of the cord as tested but does not address the structural stability of the column. The decision to operate is guided as much by structural instability as by neurological involvement.

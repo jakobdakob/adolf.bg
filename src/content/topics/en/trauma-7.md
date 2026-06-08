@@ -13,6 +13,16 @@ Among the systemic complications that follow orthopedic injury and surgery, veno
 
 ## Venous Thromboembolism — Epidemiology and Pathophysiology
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-7/dvt.jpg" data-figure-alt="Deep vein thrombosis of the right leg" aria-label="Enlarge">
+    <img src="/img/trauma-7/dvt.jpg" alt="Deep vein thrombosis of the right leg" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Deep vein thrombosis — unilateral limb swelling, tenderness along the deep veins, and a positive Homans test.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Deep_vein_thrombosis_of_the_right_leg.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The incidence of asymptomatic DVT after major orthopedic surgery, in the absence of prophylaxis, is remarkably high — historical venographic studies demonstrated rates of approximately 40 to 60 percent after total hip arthroplasty (THA) and total knee arthroplasty (TKA), and 40 to 50 percent after hip fracture surgery. Symptomatic DVT occurs in approximately 2 to 5 percent of patients, and clinically apparent PE in 0.5 to 2 percent, with fatal PE historically affecting roughly 0.1 to 2 percent of major orthopedic patients without prophylaxis. The introduction of routine pharmacological thromboprophylaxis has reduced fatal PE rates by approximately 50 to 70 percent in the major orthopedic populations. The pathophysiology of VTE is described classically by Virchow’s triad (Rudolf Virchow, 1856) — venous stasis, endothelial injury, and a hypercoagulable state — all three of which are present to varying degrees in the orthopedic patient. Venous stasis is produced by recumbency, by intraoperative positioning (the down leg in the lateral decubitus position, the tourniquet-occluded extremity), by postoperative immobilization, and by the sluggish flow in the muscular sinuses of the soleal and gastrocnemius veins. Endothelial injury results from direct surgical trauma, particularly in hip arthroplasty (where the femoral vein lies close to the operative field), and from heat injury during cement polymerization. The hypercoagulable state is part of the systemic stress response to surgery, with increases in fibrinogen, factor VIII, and platelet activation, and a corresponding decrease in fibrinolytic activity in the first postoperative days.
 
 Trauma-specific risk factors include pelvic and acetabular fractures (where venous injury and prolonged immobilization combine to give some of the highest VTE rates in orthopedics, approaching 60 percent in untreated polytrauma series), femoral shaft fractures, spinal cord injury (where the loss of sympathetic tone and complete immobilization combine to produce VTE rates approaching 80 percent without prophylaxis), and prolonged tourniquet use. Other recognized risk factors include increasing age, obesity, prior VTE, active malignancy, oral contraceptive or hormone replacement therapy, pregnancy, inherited thrombophilias (factor V Leiden, prothrombin G20210A, protein C/S deficiency, antithrombin deficiency), and the antiphospholipid syndrome.

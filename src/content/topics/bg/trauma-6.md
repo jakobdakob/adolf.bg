@@ -15,6 +15,16 @@ order: 106
 
 ## Травматичен шок
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-ct.png" data-figure-alt="Политравма — 3D КТ изобразяване" aria-label="Увеличи">
+    <img src="/img/trauma-6/polytrauma-ct.png" alt="Политравма — 3D КТ изобразяване" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Политравма — контраст-усилени 3D-КТ реконструкции (whole-body trauma scan) за бърза оценка на множествените увреждания при критично болен травмен пациент.</span>
+    <span class="md-figure-attribution"> — Dappa et al., <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Определение и класификация
 

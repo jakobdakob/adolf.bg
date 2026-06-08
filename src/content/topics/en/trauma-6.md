@@ -13,6 +13,16 @@ Polytrauma is a clinical state in which a patient has sustained multiple injurie
 
 ## Traumatic Shock
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-ct.png" data-figure-alt="Polytrauma — 3D CT" aria-label="Enlarge">
+    <img src="/img/trauma-6/polytrauma-ct.png" alt="Polytrauma — 3D CT" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Polytrauma — contrast-enhanced whole-body 3D CT reconstructions enabling rapid assessment of multiple injuries in the critically ill trauma patient.</span>
+    <span class="md-figure-attribution"> — Dappa et al., <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Classification
 

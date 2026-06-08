@@ -23,7 +23,7 @@ order: 210
   </button>
   <figcaption>
     <span class="md-figure-caption">Напречен срез на подбедрицата: четирите компартмента (преден, латерален, повърхностен заден и дълбок заден) с тибията, фибулата и съдово-нервните структури.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ order: 210
   </button>
   <figcaption>
     <span class="md-figure-caption">Нерви на десния долен крайник, заден изглед: n. ischiadicus, разделящ се на n. tibialis и n. peroneus communis; n. peroneus communis обвива главата на фибулата (типично място на компресия); n. tibialis преминава дълбоко по задната подбедрица.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

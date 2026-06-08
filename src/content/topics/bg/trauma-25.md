@@ -27,7 +27,7 @@ order: 125
   </button>
   <figcaption>
     <span class="md-figure-caption">Дислоцирана пателарна фрактура: нарушаване на разтегателния апарат с прекъсване на активната екстензия на коляното.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Patellar_Fracture_(Displaced).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Patellar_Fracture_(Displaced).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Sleeve фрактура: Педиатричен вариант с авулзия
   </button>
   <figcaption>
     <span class="md-figure-caption">Напречна фрактура на патела на латерална рентгенография: класическа индикация за tension-band wiring при нарушен активен екстензорен механизъм.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Patella_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Patella_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Nervus peroneus communis преминава около шийката на фи�
   </button>
   <figcaption>
     <span class="md-figure-caption">Латерална тибиална платно-фрактура с депресия: Schatzker II/III; типично от валгусен механизъм при автомобилни/спортни травми.</span>
-    <span class="md-figure-attribution"> — LottieLattes, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · LottieLattes, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

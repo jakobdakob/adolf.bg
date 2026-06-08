@@ -23,7 +23,7 @@ The pertrochanteric region extends from the femoral neck-shaft junction (the int
   </button>
   <figcaption>
     <span class="md-figure-caption">Pertrochanteric (intertrochanteric) fracture on CT: extracapsular, with much lower AVN risk than femoral neck fractures.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Operative management is indicated in virtually all medically appropriate patient
   </button>
   <figcaption>
     <span class="md-figure-caption">DHS construct: large lag screw in the femoral neck that slides within the side plate; controlled collapse under load generates interfragmentary compression (sliding-screw principle).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -27,7 +27,7 @@ order: 113
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на проксималния хумерус — класификацията на Neer (1970) разпознава четири основни фрагмента: глава, голяма туберкула, малка туберкула и стем; броят дислоцирани фрагменти (≥1 cm или ≥45°) определя типа.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann (THWZ), <a href="https://commons.wikimedia.org/wiki/File:Humerus_proximal_fract_01a.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann (THWZ), <a href="https://commons.wikimedia.org/wiki/File:Humerus_proximal_fract_01a.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Neer допълнително подразделя фрактурите по з�
   </button>
   <figcaption>
     <span class="md-figure-caption">Окултна фрактура на tuberculum majus на STIR (inversion recovery) MRI: рентгенографски не визуализирана фрактура с типичен оток на костния мозък; MRI е чувствителна при минимално изместени фрактури.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

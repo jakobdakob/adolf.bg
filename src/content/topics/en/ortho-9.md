@@ -23,7 +23,7 @@ The fundamental mechanism in AVN is the disruption of blood supply to a region o
   </button>
   <figcaption>
     <span class="md-figure-caption">Avascular necrosis of the femoral head: characteristic sclerosis and collapse of the superior segment with early flattening of the articular surface.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_pelvis_with_idiopathic_avascular_necrosis_of_the_femoral_head.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_pelvis_with_idiopathic_avascular_necrosis_of_the_femoral_head.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Presentation is with insidious onset of groin pain, often referred to the anteri
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoral head AVN: sclerosis and collapse of the superolateral portion with the subchondral "crescent sign"; ARCO/Ficat-Arlet staging guides treatment decisions.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_idiopathic_avascular_necrosis_of_the_femoral_head_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_idiopathic_avascular_necrosis_of_the_femoral_head_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Treatment of early symptomatic AVN of the talus may include conservative managem
   </button>
   <figcaption>
     <span class="md-figure-caption">Kienböck disease (stage IIIB): sclerosis, fragmentation, and collapse of the lunate with disrupted carpal alignment.</span>
-    <span class="md-figure-attribution"> — TheFriendliest, <a href="https://commons.wikimedia.org/wiki/File:Kienb%C3%B6ck%27s_Disease_Stage_IIIB.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · TheFriendliest, <a href="https://commons.wikimedia.org/wiki/File:Kienb%C3%B6ck%27s_Disease_Stage_IIIB.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -23,7 +23,7 @@ The vertebral column develops from the paraxial mesoderm, which forms paired som
   </button>
   <figcaption>
     <span class="md-figure-caption">Scoliosis: lateral spinal curvature of &gt;10° (Cobb) with vertebral rotation; the congenital form arises from anatomical anomalies (failure of formation or segmentation).</span>
-    <span class="md-figure-attribution"> — BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Type II (failure of segmentation) produces a slower, more predictable progressio
   </button>
   <figcaption>
     <span class="md-figure-caption">Klippel-Feil syndrome: congenital fusion of two or more cervical vertebrae, classically with the triad of short neck, low posterior hairline, and limited cervical motion.</span>
-    <span class="md-figure-attribution"> — Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenit
   </button>
   <figcaption>
     <span class="md-figure-caption">Cervical ribs: supernumerary ribs arising from C7; common (~1% of the population) and usually asymptomatic, but a possible cause of thoracic outlet syndrome.</span>
-    <span class="md-figure-attribution"> — KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Neurogenic TOS (the commonest, accounting for >90% of TOS cases) involves compre
   </button>
   <figcaption>
     <span class="md-figure-caption">Spina bifida — spectrum of congenital neural-tube closure defects: spina bifida occulta, meningocele, and myelomeningocele.</span>
-    <span class="md-figure-attribution"> — CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 

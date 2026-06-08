@@ -19,7 +19,7 @@ The elbow joint, with its unique configuration as a coupled hinge-and-pivot arti
   </button>
   <figcaption>
     <span class="md-figure-caption">Olecranon (posterior view): large proximal projection of the ulna forming the posterior half of the trochlear notch and serving as the insertion of triceps brachii.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter / Wikipedia, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_colored.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter / Wikipedia, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_colored.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Non-operative management is reserved for non-displaced or minimally displaced fr
   </button>
   <figcaption>
     <span class="md-figure-caption">Olecranon fracture: tension-band wiring converts the tensile pull of the triceps into compression at the fracture site, the classic AO principle.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Type III is unstable (associated with fracture-dislocation), requiring operative
   </button>
   <figcaption>
     <span class="md-figure-caption">Olecranon fracture — pre- and postoperative X-rays after tension-band wiring (Weber technique): two parallel K-wires and a figure-of-eight tension-band wire convert tensile forces into compression at the articular surface.</span>
-    <span class="md-figure-attribution"> — Michael Müller-Hillebrand, <a href="https://commons.wikimedia.org/wiki/File:Fracture_of_Olecranon_pre_and_post_typical_surgery.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Michael Müller-Hillebrand, <a href="https://commons.wikimedia.org/wiki/File:Fracture_of_Olecranon_pre_and_post_typical_surgery.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

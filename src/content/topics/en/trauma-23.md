@@ -25,7 +25,7 @@ The combined effect produces shortening, varus angulation (apex lateral), and ex
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoral shaft fracture stabilised with an intramedullary nail: the standard of care in adults; a relatively stable construct that allows callus formation.</span>
-    <span class="md-figure-attribution"> — Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Splinting for transport is typically with a Thomas splint or a Hare/Sager tracti
   </button>
   <figcaption>
     <span class="md-figure-caption">Antegrade intramedullary nail of the proximal femur — postoperative radiograph: a cephalomedullary nail with a lag screw in the femoral head and distal locking screws.</span>
-    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

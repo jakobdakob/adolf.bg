@@ -19,7 +19,7 @@ Open fractures, gunshot injuries, crushing injuries, and the management of sever
   </button>
   <figcaption>
     <span class="md-figure-caption">Open tibial shaft fracture: communication between the fracture and the external environment; graded by the Gustilo-Anderson classification (I–IIIA/B/C).</span>
-    <span class="md-figure-attribution"> — Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Definitive surgical management: Early surgical debridement and stabilization.
   </button>
   <figcaption>
     <span class="md-figure-caption">External fixator: the workhorse for temporary stabilization in Gustilo IIIA/B/C open fractures; allows easy access for soft-tissue care and serial debridement before definitive internal fixation.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

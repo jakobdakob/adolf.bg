@@ -19,7 +19,7 @@ order: 211
   </button>
   <figcaption>
     <span class="md-figure-caption">Анатомия на глезенната става и ходилото: тибиоталарна, субталарна (talocalcaneal) и transverse tarsal (Chopart) стави; 7 тарзални, 5 метатарзални кости и фаланги.</span>
-    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ order: 211
   </button>
   <figcaption>
     <span class="md-figure-caption">Тарзален канал зад медиалния малеол — мнемоника „Tom, Dick, And a Nervous Harry": tibialis posterior, flexor digitorum longus, arteria tibialis posterior, nervus tibialis, flexor hallucis longus.</span>
-    <span class="md-figure-attribution"> — Sneddon Lee, <a href="https://commons.wikimedia.org/wiki/File:Tarsal_tunnel.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Sneddon Lee, <a href="https://commons.wikimedia.org/wiki/File:Tarsal_tunnel.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Nervus saphenus слиза по медиалната страна на глез�
   </button>
   <figcaption>
     <span class="md-figure-caption">Лигаментна анатомия на глезена: латерален комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент; ATFL е най-често разкъсваният при инверзионно навяхване.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

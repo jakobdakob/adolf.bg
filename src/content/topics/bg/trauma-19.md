@@ -19,7 +19,7 @@ order: 119
   </button>
   <figcaption>
     <span class="md-figure-caption">Тазов пръстен: двете безимени кости и сакрум, свързани отпред чрез симфизата на пубиса и отзад в SI-ставите; структурната стабилност зависи от задните сакроилиачни лигаменти, които са най-силните в тялото.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ order: 119
   </button>
   <figcaption>
     <span class="md-figure-caption">Open-book нараняване на тазовия пръстен (APC II/III по Young-Burgess): разширение на пубичната симфиза с нарушаване на предните и задните сакроилиачни лигаменти.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Open-Book-Verletzung_durch_Turmspringen_45M_-_CR_-_001_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Open-Book-Verletzung_durch_Turmspringen_45M_-_CR_-_001_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ order: 119
   </button>
   <figcaption>
     <span class="md-figure-caption">Външен фиксатор на тазовия пръстен: спешна стабилизация при нестабилна тазова фрактура с продължаващ кръвоизлив; намалява тазовия обем и постига тампонада на тазовия хематом.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External-External-Fixator-Pelvis-Acetabulum.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External-External-Fixator-Pelvis-Acetabulum.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 ---
-title: "Принципи на неоперативното лечение — видове, индикации, техники."
+title: "Принципи на неоперативното лечение: видове, индикации, техники."
 lang: "bg"
 kind: "topic"
 section: "trauma"
@@ -61,7 +61,7 @@ order: 103
   </button>
   <figcaption>
     <span class="md-figure-caption">Обездвижване с шина: началната мярка при остри фрактури за стабилизиране, аналгезия и защита на меките тъкани преди дефинитивно лечение.</span>
-    <span class="md-figure-attribution"> — Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ order: 103
   </button>
   <figcaption>
     <span class="md-figure-caption">Скелетна тракция чрез транскостен щифт — стандартни места за щифтова постановка: дистален фемур, проксимална тибия, калканеус; позволява прилагане на 10-15% от телесното тегло за поддържане на репозицията.</span>
-    <span class="md-figure-attribution"> — Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

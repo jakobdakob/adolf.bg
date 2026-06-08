@@ -19,7 +19,7 @@ Birth injuries to the musculoskeletal system encompass a range of conditions ari
   </button>
   <figcaption>
     <span class="md-figure-caption">Erb’s palsy (C5–C6) — the characteristic “waiter’s-tip” posture: shoulder adducted and internally rotated, elbow extended, forearm pronated.</span>
-    <span class="md-figure-attribution"> — Wikimedia user “r”, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikimedia user “r”, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The initial management combines: parental education and reassurance about the fa
   </button>
   <figcaption>
     <span class="md-figure-caption">Torticollis: head tilted toward the affected side with the face rotated to the contralateral side, from fibrotic shortening of the sternocleidomastoid.</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Woman_who_had_torticollis_on_the_right_side_Wellcome_L0062627.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Woman_who_had_torticollis_on_the_right_side_Wellcome_L0062627.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

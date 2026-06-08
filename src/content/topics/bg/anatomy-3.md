@@ -19,7 +19,7 @@ order: 203
   </button>
   <figcaption>
     <span class="md-figure-caption">Ляв humerus, преден изглед: главица, хирургична шийка, диафиза с предна извивка, дистални медиална и латерална колона, trochlea и capitellum.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Humerus е най-голямата дълга кост на горния кра�
   </button>
   <figcaption>
     <span class="md-figure-caption">Sulcus radialis (спирален жлеб) на задната повърхност на хумеруса: n. radialis пресича костта медиосупериорно към латероинферно, в непосредствена близост до периоста; основа за честата увреда при фрактури на диафизата.</span>
-    <span class="md-figure-attribution"> — Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Nervus musculocutaneus се отделя от латералния сноп на
   </button>
   <figcaption>
     <span class="md-figure-caption">A. brachialis в медиалния бицепсов жлеб: продължение на a. axillaris дистално от долния ръб на m. teres major; разделя се на a. radialis и a. ulnaris в cubital fossa.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

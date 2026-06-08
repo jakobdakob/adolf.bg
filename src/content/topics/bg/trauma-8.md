@@ -19,7 +19,7 @@ order: 108
   </button>
   <figcaption>
     <span class="md-figure-caption">Псевдоартроза: несрастване над 6-9 месеца със закръглени/склеротични фрагментни краища; класифицира се по Weber-Cech като хипертрофична, олиготрофична или атрофична.</span>
-    <span class="md-figure-attribution"> — Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

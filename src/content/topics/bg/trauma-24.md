@@ -29,7 +29,7 @@ order: 124
   </button>
   <figcaption>
     <span class="md-figure-caption">Дистална бедрена фрактура: класификация по Letenneur на Hoffa-фрактурата (коронална фрактура на латералния кондил).</span>
-    <span class="md-figure-attribution"> — Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
+    <span class="md-figure-attribution"> · Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
   </figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ order: 124
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на Hoffa: коронарна фрактура на медиалния бедрен condylus; често се пропуска на стандартните AP и латерални рентгенографии и изисква CT за разпознаване.</span>
-    <span class="md-figure-attribution"> — Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

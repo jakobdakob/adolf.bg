@@ -19,7 +19,7 @@ order: 26
   </button>
   <figcaption>
     <span class="md-figure-caption">Парализа на Erb (C5–C6) — характерна „позиция на сервитьорска бакшиш“: рамото в адукция и вътрешна ротация, лакътът в екстензия, предмишницата в пронация.</span>
-    <span class="md-figure-attribution"> — Wikimedia user „r“, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikimedia user „r“, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ order: 26
   </button>
   <figcaption>
     <span class="md-figure-caption">Тортиколис: наклон на главата към засегнатата страна с ротация на лицето към противоположната, дължащ се на фиброзно скъсяване на musculus sternocleidomastoideus.</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Woman_who_had_torticollis_on_the_right_side_Wellcome_L0062627.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Woman_who_had_torticollis_on_the_right_side_Wellcome_L0062627.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

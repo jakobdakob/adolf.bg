@@ -41,7 +41,7 @@ order: 123
   </button>
   <figcaption>
     <span class="md-figure-caption">Диафизарна фрактура на бедрената кост, стабилизирана с интрамедуларен пирон: стандартното лечение при възрастни.</span>
-    <span class="md-figure-attribution"> — Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ order: 123
   </button>
   <figcaption>
     <span class="md-figure-caption">Антеградно интрамедуларно пироноване на проксималния фемур — постоперативна рентгенография: пирон с цефаломедуларен винт в главата на бедрената кост и дистални заключващи винтове.</span>
-    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

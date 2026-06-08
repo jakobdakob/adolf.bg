@@ -29,7 +29,7 @@ order: 121
   </button>
   <figcaption>
     <span class="md-figure-caption">Класификация на проксималните феморални фрактури: субкапитални/трансцервикални/базицервикални (вътрекапсулни) срещу пер- и подтрохантерни (вънкапсулни).</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ order: 121
   </button>
   <figcaption>
     <span class="md-figure-caption">Раздробена фрактура на шийката на бедрената кост: нестабилен модел (Garden III/IV) при възрастна пациентка; обикновено индикация за хемиартропластика.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ order: 121
   </button>
   <figcaption>
     <span class="md-figure-caption">Постоперативна рентгенография след биполярна хемиартропластика на тазобедрената става — стандартното лечение на изместени фрактури на шийката на бедрената кост при възрастни (Garden III/IV).</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

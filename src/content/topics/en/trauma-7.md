@@ -19,7 +19,7 @@ Among the systemic complications that follow orthopedic injury and surgery, veno
   </button>
   <figcaption>
     <span class="md-figure-caption">Deep vein thrombosis: unilateral limb swelling, tenderness along the deep veins, and a positive Homans test.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Deep_vein_thrombosis_of_the_right_leg.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Deep_vein_thrombosis_of_the_right_leg.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Two scoring systems are most commonly used to stratify VTE risk in the surgical 
   </button>
   <figcaption>
     <span class="md-figure-caption">"Saddle" pulmonary embolism: large thrombus straddling the bifurcation of the pulmonary artery on CT angiography; the classical appearance of massive PE with high risk of hemodynamic collapse.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:SaddlePE.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:SaddlePE.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Pulmonary embolism is similarly heterogeneous in presentation. Submassive PE may
   </button>
   <figcaption>
     <span class="md-figure-caption">CT pulmonary angiography (CTPA): filling defect in the right pulmonary artery (arrow) in pulmonary thromboembolism; the first-line diagnostic modality when PE is suspected.</span>
-    <span class="md-figure-attribution"> — Aung Myat & Arif Ahsan, <a href="https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Aung Myat & Arif Ahsan, <a href="https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 

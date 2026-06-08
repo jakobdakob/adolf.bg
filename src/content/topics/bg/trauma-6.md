@@ -21,7 +21,7 @@ order: 106
   </button>
   <figcaption>
     <span class="md-figure-caption">Политравма: контраст-усилени 3D-КТ реконструкции (whole-body trauma scan) за бърза оценка на множествените увреждания при критично болен травмен пациент.</span>
-    <span class="md-figure-attribution"> — Dappa et al., <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Dappa et al., <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ order: 106
   </button>
   <figcaption>
     <span class="md-figure-caption">FAST (Focused Assessment with Sonography for Trauma): бързо прикроватно ехографско изследване за свободна течност в перикарда и в четирите коремни прозореца; стандартна част от primary survey при тъпа травма.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:FAST_Algorithm.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:FAST_Algorithm.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Damage control реанимация (DCR): Комбиниране на допу�
   </button>
   <figcaption>
     <span class="md-figure-caption">Контрастно усилени 3D CT реконструкции при политравматичен пациент: едновременна оценка на множество анатомични региона; стандарт за бърза диагностика при стабилен полутравматичен пациент след primary survey.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

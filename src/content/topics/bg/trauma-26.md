@@ -35,7 +35,7 @@ order: 126
   </button>
   <figcaption>
     <span class="md-figure-caption">Руптура на предната кръстна връзка: типичното увреждане при ротационно-валгусен механизъм; често част от луксация на коляното с риск от съдово увреждане.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ KD-V: Луксация на коляното с периартикуларна �
   </button>
   <figcaption>
     <span class="md-figure-caption">Разкъсване на менискуса на MRI: линейна хиперинтенсна сянка, достигаща ставната повърхност; често свързано увреждане при хронична ПКВ-дефицитарност или при остра ротационна травма.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ KD-V: Луксация на коляното с периартикуларна �
   </button>
   <figcaption>
     <span class="md-figure-caption">Артроскопска реконструкция на ПКВ с hamstring (semitendinosus/gracilis) автограф: графтът преминава през феморалния и тибиалния тунел; най-честият съвременен избор при хронична дефицитарност на ПКВ.</span>
-    <span class="md-figure-attribution"> — Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

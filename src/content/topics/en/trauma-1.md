@@ -44,7 +44,7 @@ A pathological fracture, by definition, is a fracture that occurs through abnorm
   </button>
   <figcaption>
     <span class="md-figure-caption">AO/OTA fracture classification — alphanumeric code: anatomical location (1-9), segment (1-3), type (A/B/C), group, and subgroup.</span>
-    <span class="md-figure-attribution"> — Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Fracture classification serves several purposes: communication between surgeons;
   </button>
   <figcaption>
     <span class="md-figure-caption">Descriptive fracture types: transverse, oblique, spiral, comminuted, greenstick (in children only); the basis for standardised description before applying the AO/OTA code.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

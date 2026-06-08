@@ -19,7 +19,7 @@ order: 202
   </button>
   <figcaption>
     <span class="md-figure-caption">Анатомия на раменната става: гленохумерална, акромиоклавикуларна и стерноклавикуларна стави плюс скапулоторакалното съчленение.</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Processus coracoideus се проектира напред и осигурява
   </button>
   <figcaption>
     <span class="md-figure-caption">Ротаторен маншон: supraspinatus, infraspinatus, teres minor, subscapularis; супраспинатусното сухожилие е най-често разкъсваното при ротаторен синдром.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Nervus musculocutaneus се отделя от латералния сноп на
   </button>
   <figcaption>
     <span class="md-figure-caption">Брахиален плексус (C5–T1): корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

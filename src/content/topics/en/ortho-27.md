@@ -23,7 +23,7 @@ The pathophysiology of nerve compression follows a stereotyped sequence. Initial
   </button>
   <figcaption>
     <span class="md-figure-caption">Carpal tunnel syndrome: compression of the median nerve in the carpal tunnel beneath the flexor retinaculum.</span>
-    <span class="md-figure-attribution"> — Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The pathophysiology of nerve compression follows a stereotyped sequence. Initial
   </button>
   <figcaption>
     <span class="md-figure-caption">Carpal tunnel: transverse carpal ligament (flexor retinaculum) volarly, carpal bones dorsally and laterally; contains 9 flexor tendons + median nerve. Compression of the nerve produces the classic syndrome.</span>
-    <span class="md-figure-attribution"> — DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Electrodiagnostic studies are the gold-standard objective test, demonstrating sl
   </button>
   <figcaption>
     <span class="md-figure-caption">Open carpal tunnel release: longitudinal palmar incision; the flexor retinaculum is divided to decompress the median nerve.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

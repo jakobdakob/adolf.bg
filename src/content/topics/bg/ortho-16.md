@@ -19,7 +19,7 @@ order: 16
   </button>
   <figcaption>
     <span class="md-figure-caption">Ахондроплазия: най-честата непропорционална форма на нанизъм; ризомелично скъсяване на крайниците, фронтален бос, седлонос и trident-конфигурация на ръката.</span>
-    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ order: 16
   </button>
   <figcaption>
     <span class="md-figure-caption">Остеогенезис имперфекта: дефект в синтеза на колаген тип I; крехки кости с многобройни фрактури, изкривяване на дългите кости и сини склери.</span>
-    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 

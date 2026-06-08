@@ -27,7 +27,7 @@ Lunatum е централната ключова кост на проксима�
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на scaphoid: най-честата карпална фрактура; ретроградното кръвоснабдяване от радиалната артерия предразполага към AVN при проксималните фрактури.</span>
-    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Lunatum е централната ключова кост на проксима�
   </button>
   <figcaption>
     <span class="md-figure-caption">Окултна фрактура на талията на scaphoid — едва видима на първоначалната рентгенография; при клинична подозиция (болка в анатомичната табатиерка) — гипс и контрол след 10-14 дни или MRI.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Lunatum е централната ключова кост на проксима�
   </button>
   <figcaption>
     <span class="md-figure-caption">Луксация на os lunatum — латерална рентгенография: волярна дислокация на lunatum от радиалната ставна ямка, остаклите карпални кости в нормална позиция; финалният стадий на Mayfield IV.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

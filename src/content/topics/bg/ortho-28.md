@@ -25,7 +25,7 @@ order: 28
   </button>
   <figcaption>
     <span class="md-figure-caption">Разкъсване на сухожилието на m. supraspinatus: крайният стадий на subacromial impingement; характерна болка по латералния делтоид и слабост при абдукция, потвърдено с MRI.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Supraspinatussehnenruptur.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Supraspinatussehnenruptur.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ order: 28
   </button>
   <figcaption>
     <span class="md-figure-caption">Латерален епикондилит: болезнено прикрепване на общия екстензорен апоневроз (особено extensor carpi radialis brevis) към латералния епикондил.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ order: 28
   </button>
   <figcaption>
     <span class="md-figure-caption">Олекраноновен бурсит: възпаление и оток на повърхностната bursa olecranica; класическият „студентски лакът“.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ order: 28
   </button>
   <figcaption>
     <span class="md-figure-caption">Теносиновит на De Quervain: възпаление на сухожилните обвивки на първия дорзален екстензорен компартимент (APL и EPB); тест на Finkelstein е патогномоничен.</span>
-    <span class="md-figure-attribution"> — Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ order: 28
   </button>
   <figcaption>
     <span class="md-figure-caption">Trigger finger: стенозиращ теносиновит на A1 ремъка с механично заклещване на флексорното сухожилие при движение.</span>
-    <span class="md-figure-attribution"> — RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

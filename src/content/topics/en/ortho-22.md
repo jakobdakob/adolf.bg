@@ -31,7 +31,7 @@ Presentation is with progressive knee pain typically localized to the affected c
   </button>
   <figcaption>
     <span class="md-figure-caption">Varus gonarthrosis: asymmetric medial-compartment joint-space narrowing with subchondral sclerosis and osteophytes; the classic medial wear pattern.</span>
-    <span class="md-figure-attribution"> — NP2025, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · NP2025, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Pharmacological treatment: Paracetamol for mild pain, NSAIDs (oral or topical) f
   </button>
   <figcaption>
     <span class="md-figure-caption">Varus knee osteoarthritis: narrowing of the medial joint space under load; the classical indication for high tibial osteotomy in the young active patient.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Modern UKA produces excellent functional outcomes (frequently superior to TKA fo
   </button>
   <figcaption>
     <span class="md-figure-caption">Postoperative X-ray after total knee arthroplasty: lateral view with femoral and tibial components and polyethylene insert; annotated anatomical landmarks.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

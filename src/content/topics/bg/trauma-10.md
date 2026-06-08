@@ -21,7 +21,7 @@ order: 110
   </button>
   <figcaption>
     <span class="md-figure-caption">Модели на гръбначна компресионна фрактура: клиновидна (anterior wedge), бурст (burst), и комбинирани форми; класифицирани по системата AO Spine.</span>
-    <span class="md-figure-attribution"> — Ro016281, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_Compression_Fracture_Patterns.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Ro016281, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_Compression_Fracture_Patterns.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ order: 110
   </button>
   <figcaption>
     <span class="md-figure-caption">Латерална рентгенография на долната шия: задължителна първа линия при подозрение за шийна травма; визуализират се С1–С7, плюс необходимост от swimmer's view или CT при невизуализиран C7-T1.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Cervical_Xray_Lower_Lateral_View.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Cervical_Xray_Lower_Lateral_View.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ order: 110
   </button>
   <figcaption>
     <span class="md-figure-caption">Клиновидна компресионна фрактура на L4 (тип A1 по AOSpine): намалена височина на предната стена на тялото; характерна остеопоротична фрактура при ниско-енергийна травма.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

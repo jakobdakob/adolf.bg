@@ -19,7 +19,7 @@ order: 20
   </button>
   <figcaption>
     <span class="md-figure-caption">Фемороацетабуларен импинджмънт: асферичност на главата на бедрената кост (cam) и/или прекомерно покритие от ацетабулума (pincer), пораждащи механичен контакт при флексия и вътрешна ротация.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ order: 20
   </button>
   <figcaption>
     <span class="md-figure-caption">Феморо-ацетабуларен импинджмънт (FAI): cam (несферична бедрена глава с „пистолетна" деформация) и pincer (свръхпокритие на ацетабулума); двата модела могат да съществуват едновременно.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ order: 20
   </button>
   <figcaption>
     <span class="md-figure-caption">Ъгъл алфа (Nötzli): мярка за асферичността на главата на бедрената кост; >55° е патологичен и насочва към cam-импинджмънт.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

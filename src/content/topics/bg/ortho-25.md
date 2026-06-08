@@ -31,7 +31,7 @@ order: 25
   </button>
   <figcaption>
     <span class="md-figure-caption">Дискова херния: МРТ показва изпъкване на nucleus pulposus отвъд задния пръстен с компресия на дуралния сак и нервен корен.</span>
-    <span class="md-figure-attribution"> — Anthonp, <a href="https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Anthonp, <a href="https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ order: 25
   </button>
   <figcaption>
     <span class="md-figure-caption">Лумбална спинална стеноза на сагитална MRI: намалено сечение на спинния канал поради дегенеративна дискова херния, хипертрофия на жълтата връзка и фасетна артропатия.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ order: 25
   </button>
   <figcaption>
     <span class="md-figure-caption">Спондилолистеза L5–S1: предно изместване на L5 спрямо S1; класифицира се по Meyerding (I–IV) според процент изместване.</span>
-    <span class="md-figure-attribution"> — Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ order: 25
   </button>
   <figcaption>
     <span class="md-figure-caption">„Бамбуков гръбнак“: крайно-стадиен анкилозиращ спондилит с осификация на anulus fibrosus, спиналните връзки и фасетните стави.</span>
-    <span class="md-figure-attribution"> — Stevenfruitsmaak, <a href="https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Stevenfruitsmaak, <a href="https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

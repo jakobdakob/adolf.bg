@@ -31,7 +31,7 @@ The classical presentation is of insidious onset of groin pain, typically in mid
   </button>
   <figcaption>
     <span class="md-figure-caption">Hip osteoarthritis — joint-space narrowing, subchondral sclerosis, cysts, and peripheral osteophytes: the four classical radiographic features.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The classical presentation is of insidious onset of groin pain, typically in mid
   </button>
   <figcaption>
     <span class="md-figure-caption">Secondary coxarthrosis on residual hip dysplasia: joint-space narrowing, osteophytes and subchondral sclerosis; the classic cause of early hip OA in a young adult.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ For appropriate younger patients with pre-arthritic or early arthritic hip disea
   </button>
   <figcaption>
     <span class="md-figure-caption">Postoperative X-ray after total hip arthroplasty: anteroposterior view with acetabular cup, femoral stem and femoral head in situ.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

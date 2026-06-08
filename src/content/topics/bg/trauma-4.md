@@ -101,7 +101,7 @@ Tension band плака: Прилага се от страната на опъв
   </button>
   <figcaption>
     <span class="md-figure-caption">Проксимален феморален пирон: интрамедуларен имплант за пертрохантерни и подтрохантерни фрактури; функционира като носещ натоварването имплант с относителна стабилност.</span>
-    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ Tension band плака: Прилага се от страната на опъв
   </button>
   <figcaption>
     <span class="md-figure-caption">Външен фиксатор: пиновете преминават през кожата и костта, свързани с външна рамка; ключов имплант при damage control orthopaedics и при тежки открити фрактури.</span>
-    <span class="md-figure-attribution"> — Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

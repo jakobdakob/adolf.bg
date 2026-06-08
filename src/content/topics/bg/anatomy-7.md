@@ -19,7 +19,7 @@ order: 207
   </button>
   <figcaption>
     <span class="md-figure-caption">Дясна безименна кост, външна повърхност — os ilium, os ischii и os pubis с ключовите ориентири: crista iliaca, SIAS, SIAI, ацетабулум, foramen obturatum, spina ischiadica и tuber ischiadicum.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Corona mortis („корона на смъртта“) е съдова анас�
   </button>
   <figcaption>
     <span class="md-figure-caption">Лумбален и сакрален плексус: предните клонове на L1–S4 формират n. femoralis, n. obturatorius, n. ischiadicus и др.; топография ключова при предни и задни достъпи до таза.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

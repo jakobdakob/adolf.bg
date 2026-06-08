@@ -21,7 +21,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Остеоид-остеом: централният съдов nidus е виден на МРТ; на рентгенография се представя като малка просветлинна с обширна реактивна склероза.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteoidosteom_Roentgen-MRT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteoidosteom_Roentgen-MRT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Солитарен остеохондром: педункулирана метафизарна израстка, насочена встрани от съседната става; в непрекъснатост с медуларната кухина.</span>
-    <span class="md-figure-attribution"> — Carmont, Davies, Gey van Pittius, Rees, <a href="https://commons.wikimedia.org/wiki/File:Osteochondroma_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Carmont, Davies, Gey van Pittius, Rees, <a href="https://commons.wikimedia.org/wiki/File:Osteochondroma_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Наследствени множествени екзостози: множество метафизарни остеохондроми около коляното, типично с вторични деформации на оста на крайника.</span>
-    <span class="md-figure-attribution"> — Bovée JV., <a href="https://commons.wikimedia.org/wiki/File:Multiple_osteochondromas_around_the_knee.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Bovée JV., <a href="https://commons.wikimedia.org/wiki/File:Multiple_osteochondromas_around_the_knee.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Енхондром на фаланга: централна добре отграничена литична лезия с пунктатна или „попкорн“-видна минерализация.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Enchondroma_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Enchondroma_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Гигантоклетъчен тумор: ексцентрична епифизарна литична лезия със субартикуларна локализация, типично при скелетно зрели млади възрастни.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_bone_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_bone_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ order: 2
   </button>
   <figcaption>
     <span class="md-figure-caption">Вертебрален хемангиом: типичен изглед на „вертикални ивици“ (corduroy / jail-bar sign) при компютърна томография на прешленното тяло.</span>
-    <span class="md-figure-attribution"> — Eco-mus, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_hemangioma_01.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Eco-mus, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_hemangioma_01.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

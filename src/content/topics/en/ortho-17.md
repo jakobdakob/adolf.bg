@@ -19,7 +19,7 @@ This chapter addresses two distinct but classically grouped focal developmental 
   </button>
   <figcaption>
     <span class="md-figure-caption">Blount disease: pathological tibia vara from a growth disturbance of the medial proximal tibial epiphysis; the classical beaked medial metaphyseal deformity.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The fundamental pathological process is a focal growth retardation of the medial
   </button>
   <figcaption>
     <span class="md-figure-caption">Blount disease (tibia vara) on AP and lateral X-ray: medial proximal tibial epiphyseal-metaphyseal irregularity with varus deformity, graded by the Langenskiöld classification.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Complications of Blount’s disease and its treatment include: incomplete correc
   </button>
   <figcaption>
     <span class="md-figure-caption">Madelung deformity: ulno-palmar growth disturbance of the distal radial epiphysis with radial and ulnar deviation and a “bayonet” hand position.</span>
-    <span class="md-figure-attribution"> — Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -29,7 +29,7 @@ Ulna е практически права по цялата си дължина,
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на двете кости на предмишницата (AO/OTA 22): едновременна фрактура на radius и ulna; възрастните пациенти изискват ОРВФ с двойна плакова остеосинтеза за възстановяване на радиалната дъга и ротацията.</span>
-    <span class="md-figure-attribution"> — Saraq, <a href="https://commons.wikimedia.org/wiki/File:Fracture_both_bones_of_the_left_arm.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Saraq, <a href="https://commons.wikimedia.org/wiki/File:Fracture_both_bones_of_the_left_arm.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Ulna е практически права по цялата си дължина,
   </button>
   <figcaption>
     <span class="md-figure-caption">Увреждане на Monteggia: фрактура на проксималната ulna с предна луксация на главичката на radius (тип I по Bado); линията Cap-Radii-Capitellum (CRCl) трябва да минава през capitellum при всички проекции.</span>
-    <span class="md-figure-attribution"> — Jane Wikipedian, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jane Wikipedian, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Ulna е практически права по цялата си дължина,
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура-луксация на Galeazzi: фрактура на дисталния радиус с дислокация на дисталната радиоулнарна става; при възрастни изисква оперативна репозиция и фиксация на радиуса.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi_Fracture_of_Distal_Radius.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi_Fracture_of_Distal_Radius.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

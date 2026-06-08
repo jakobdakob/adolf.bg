@@ -17,7 +17,7 @@ interface Props {
 }
 const { lang, title, description, otherPath, currentSection = "home", showMenuButton = false } = Astro.props;
 const t = ui[lang];
-const pageTitle = title ? `${title} · ${t.siteTitle}` : `${t.siteTitle} — ${t.siteTagline}`;
+const pageTitle = title ? `${title} · ${t.siteTitle}` : `${t.siteTitle} · ${t.siteTagline}`;
 const desc = description ?? t.siteTagline;
 
 const siteOrigin = Astro.site?.origin ?? "https://adolf.bg";

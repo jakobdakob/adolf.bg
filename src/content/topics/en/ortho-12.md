@@ -31,7 +31,7 @@ Transverse deficiency is an amputation-like absence of the distal limb. Congenit
   </button>
   <figcaption>
     <span class="md-figure-caption">Radial dysplasia: absence of the radius with radial deviation and shortening of the forearm.</span>
-    <span class="md-figure-attribution"> — AFenrirsLife, <a href="https://commons.wikimedia.org/wiki/File:RadialDysplasiaTypeN4.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · AFenrirsLife, <a href="https://commons.wikimedia.org/wiki/File:RadialDysplasiaTypeN4.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Failures of differentiation are characterized by skeletal elements that have for
   </button>
   <figcaption>
     <span class="md-figure-caption">Syndactyly: partial or complete congenital fusion of adjacent digits; the third-to-fourth web of the hand is the commonest site.</span>
-    <span class="md-figure-attribution"> — Couch-scratching-cats, <a href="https://commons.wikimedia.org/wiki/File:Partial_Syndactyly_1.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Couch-scratching-cats, <a href="https://commons.wikimedia.org/wiki/File:Partial_Syndactyly_1.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Congenital radioulnar synostosis is a failure of separation of the proximal radi
   </button>
   <figcaption>
     <span class="md-figure-caption">Polydactyly: supernumerary digit; postaxial (ulnar) is most common in Black populations, preaxial (radial/thumb) is more frequent in White and Asian populations.</span>
-    <span class="md-figure-attribution"> — Drgnu23 et al., <a href="https://commons.wikimedia.org/wiki/File:Polydactyly_01_Lhand_AP.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Drgnu23 et al., <a href="https://commons.wikimedia.org/wiki/File:Polydactyly_01_Lhand_AP.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ Brachydactyly is shortening of one or more digits, often inherited as an autosom
   </button>
   <figcaption>
     <span class="md-figure-caption">Constriction band syndrome: fetal amniotic strands produce deep circular grooves around digits, sometimes with distal acrosyndactyly or amputations.</span>
-    <span class="md-figure-attribution"> — Fyrosth, <a href="https://commons.wikimedia.org/wiki/File:Constriction_ring_hands.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Fyrosth, <a href="https://commons.wikimedia.org/wiki/File:Constriction_ring_hands.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

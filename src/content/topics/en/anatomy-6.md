@@ -19,7 +19,7 @@ The hand is the most anatomically intricate region of the orthopedic skeleton, w
   </button>
   <figcaption>
     <span class="md-figure-caption">Deep palmar dissection of the wrist and hand: flexor tendons with sheaths, A1–A5 pulleys, sensory nerves and palmar arch vessels.</span>
-    <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The collateral ligaments of the MCP and IP joints have specific anatomical featu
   </button>
   <figcaption>
     <span class="md-figure-caption">The 8 carpal bones in two rows: proximal (scaphoid, lunate, triquetrum, pisiform) and distal (trapezium, trapezoid, capitate, hamate); mnemonic "She Looks Too Pretty, Try To Catch Her".</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ The flexor tendons pass through the carpal tunnel and into the digits through th
   </button>
   <figcaption>
     <span class="md-figure-caption">The six dorsal wrist extensor compartments (numbered): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Anatomic basis of de Quervain's (1) and ECU tenosynovitis (6).</span>
-    <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

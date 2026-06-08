@@ -21,7 +21,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Проста костна киста на проксималния хумерус при дете с патологична фрактура — класическият „симптом на падналия фрагмент“ (Reynolds): малък кортикален фрагмент в най-долната точка на изпълнената с течност кухина.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Juvenile_Knochenzyste_Humerus_mit_pathologischer_Fraktur_9W_-_fallen_fragment_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Juvenile_Knochenzyste_Humerus_mit_pathologischer_Fraktur_9W_-_fallen_fragment_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Аневризмална костна киста: експанзивна литична лезия с тънка кортикална обвивка.</span>
-    <span class="md-figure-attribution"> — Boubbou et al., <a href="https://commons.wikimedia.org/wiki/File:Cisti_aneurismatica.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Boubbou et al., <a href="https://commons.wikimedia.org/wiki/File:Cisti_aneurismatica.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Фиброзна дисплазия: характерният рентгенологичен изглед „матово стъкло“ (ground glass) на интрамедуларна лезия с разширение на костта.</span>
-    <span class="md-figure-attribution"> — Basmajoor, <a href="https://commons.wikimedia.org/wiki/File:R%C3%B6ntgenfoto_Fibreuze_Dysplasie.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Basmajoor, <a href="https://commons.wikimedia.org/wiki/File:R%C3%B6ntgenfoto_Fibreuze_Dysplasie.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Неосифициращ фибром: ексцентрична метафизарна литична лезия с тънка склеротична граница.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:NOF_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:NOF_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Множествени кафяви тумори на ръцете при хиперпаратиреоидизъм: литични огнища на остеокластична резорбция.</span>
-    <span class="md-figure-attribution"> — Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:Brown_tumours_of_the_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:Brown_tumours_of_the_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ order: 1
   </button>
   <figcaption>
     <span class="md-figure-caption">Остеопойкилоза: множество малки склеротични огнища, симетрично разпределени в спонгиозната кост.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteopoikilose_HG_ap_und_seitlich.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteopoikilose_HG_ap_und_seitlich.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

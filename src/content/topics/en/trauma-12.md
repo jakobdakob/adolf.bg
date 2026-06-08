@@ -23,7 +23,7 @@ The glenohumeral joint is a ball-and-socket articulation with a marked size mism
   </button>
   <figcaption>
     <span class="md-figure-caption">Bankart lesion (3D CT reconstruction): avulsion of the antero-inferior labrum from the glenoid in anterior shoulder dislocation; the pathognomonic finding in recurrent instability.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:3-D_CT_reconstruction_of_Bankart_lesion_which_occurred_post_anterior_shoulder_dislocation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:3-D_CT_reconstruction_of_Bankart_lesion_which_occurred_post_anterior_shoulder_dislocation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ position) for 3 to 6 weeks, followed by progressive rehabilitation.
   </button>
   <figcaption>
     <span class="md-figure-caption">Post-reduction X-ray after anterior shoulder dislocation: labelled Bankart lesion (anterior glenoid rim) and Hill-Sachs lesion (impression fracture of posterolateral humeral head); the two principal determinants of recurrence.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_after_reduction,_with_Bankart_and_Hill-Sachs_lesions,_with_labels.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_after_reduction,_with_Bankart_and_Hill-Sachs_lesions,_with_labels.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ The risk of recurrence after a first-time anterior shoulder dislocation correlat
   </button>
   <figcaption>
     <span class="md-figure-caption">Shoulder dislocation — AP radiograph before reduction: typical loss of normal glenohumeral relationship; an axillary view or CT is required to reliably distinguish anterior from posterior dislocation.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_before_reduction.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_before_reduction.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

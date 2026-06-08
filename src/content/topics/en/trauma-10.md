@@ -19,7 +19,7 @@ The spinal column is unique among the orthopedic regions in combining a mechanic
   </button>
   <figcaption>
     <span class="md-figure-caption">Vertebral compression-fracture patterns: anterior wedge, burst, and combined forms; classified by the AO Spine system.</span>
-    <span class="md-figure-attribution"> — Ro016281, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_Compression_Fracture_Patterns.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Ro016281, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_Compression_Fracture_Patterns.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Atlanto-occipital dissociation, historically a near-uniformly fatal injury, has 
   </button>
   <figcaption>
     <span class="md-figure-caption">Lateral X-ray of the lower cervical spine: the mandatory first-line imaging in suspected cervical trauma; visualises C1–C7 with a swimmer's view or CT required if C7-T1 is not seen.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Cervical_Xray_Lower_Lateral_View.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Cervical_Xray_Lower_Lateral_View.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ The subaxial cervical spine extends from C3 to C7 and is the most common site of
   </button>
   <figcaption>
     <span class="md-figure-caption">Wedge compression fracture of L4 (AOSpine type A1): reduced anterior body height; the characteristic osteoporotic low-energy injury pattern.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

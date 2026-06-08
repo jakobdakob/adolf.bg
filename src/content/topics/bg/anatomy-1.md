@@ -19,7 +19,7 @@ order: 201
   </button>
   <figcaption>
     <span class="md-figure-caption">Гръбначен стълб: 7 шийни, 12 гръдни, 5 лумбални прешлена, сакрум и опашка; четирите физиологични кривини (две лордози + две кифози) се развиват в детска възраст.</span>
-    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ order: 201
   </button>
   <figcaption>
     <span class="md-figure-caption">Диаграматичен напречен срез на гръбначния мозък и обвивките му: dura mater, arachnoidea, pia mater, предно и задно коренче; ключово при достъпи към гръбначния канал и при оценка на спинална травма.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ Ligamentum nuchae: Фиброзната преграда по средната �
   </button>
   <figcaption>
     <span class="md-figure-caption">Сагитална T2 MRI на лумбалния гръбначен стълб: нормална височина и сигнал на дисковете, физиологична лордоза, гръбначен канал; основа за планиране на преден ретроперитонеален достъп и оценка на дискова дегенерация.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

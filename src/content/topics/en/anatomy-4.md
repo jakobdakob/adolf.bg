@@ -19,7 +19,7 @@ The elbow joint, with its complex combination of hinge motion (humeroulnar artic
   </button>
   <figcaption>
     <span class="md-figure-caption">Elbow joint: combined humeroulnar (flexion-extension), humeroradial and proximal radioulnar (pronation-supination) articulations.</span>
-    <span class="md-figure-attribution"> — AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ The elbow joint comprises three articulations within a single synovial capsule: 
   </button>
   <figcaption>
     <span class="md-figure-caption">Normal lateral elbow X-ray: clear cortical contours of distal humerus, proximal radius and ulna; the radiocapitellar line should pass through the capitellum on every view.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ The medial collateral ligament (MCL) complex has three bundles: Anterior bundle:
   </button>
   <figcaption>
     <span class="md-figure-caption">Cubital fossa — triangular space anterior to the elbow, bounded by brachioradialis (lateral), pronator teres (medial) and the inter-epicondylar line; contents: median nerve, brachial artery, biceps tendon and (more laterally) radial nerve.</span>
-    <span class="md-figure-attribution"> — Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

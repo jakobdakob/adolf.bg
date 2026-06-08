@@ -27,7 +27,7 @@ order: 114
   </button>
   <figcaption>
     <span class="md-figure-caption">Спирална фрактура на хумерусния диафиз: резултат от торзионна сила; класически с риск от увреждане на n. radialis в радиалния жлеб.</span>
-    <span class="md-figure-attribution"> — RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ N. radialis се уврежда приблизително в 8 до 16% от д
   </button>
   <figcaption>
     <span class="md-figure-caption">Раздробена диафизарна фрактура на хумеруса с обилен калус: типичен резултат при консервативно лечение с функционална ортеза на Sarmiento; високият биологичен потенциал на тази локализация обяснява високия процент зарастване (95+%) без операция.</span>
-    <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ N. radialis се уврежда приблизително в 8 до 16% от д
   </button>
   <figcaption>
     <span class="md-figure-caption">Еластична стабилна интрамедуларна нейлинг (ESIN) на хумерусна диафизна фрактура: особено подходяща при педиатрични и юношески пациенти; разреди риска за съседните физиси.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 

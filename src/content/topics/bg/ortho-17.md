@@ -19,7 +19,7 @@ order: 17
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Blount: патологичен tibia vara от нарушение на медиалния отдел на проксималната тибиална епифиза; класическата клюнообразна медиална метафизарна деформация.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ order: 17
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Blount (tibia vara) на AP и латерална рентгенография: медиална проксимална тибиална епифизарно-метафизарна неравност с вирусна деформация, класифицирана по Langenskiöld.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ order: 17
   </button>
   <figcaption>
     <span class="md-figure-caption">Деформация на Madelung: улно-палмарен дефект на растежа на дисталната радиална епифиза с радиална и улнарна девиация и „байонетна“ позиция на ръката.</span>
-    <span class="md-figure-attribution"> — Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

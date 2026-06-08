@@ -33,7 +33,7 @@ order: 22
   </button>
   <figcaption>
     <span class="md-figure-caption">Гонартроза с варусна деформация: асиметрично стесняване на медиалния отдел на ставната цепка, субхондрална склероза и остеофити; характерният медиален износен модел.</span>
-    <span class="md-figure-attribution"> — NP2025, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · NP2025, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ order: 22
   </button>
   <figcaption>
     <span class="md-figure-caption">Гонартроза с варусна деформация: стеснение на медиалната ставна цепнатина при натоварване; класическа индикация за висока тибиална остеотомия при млад активен пациент.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ order: 22
   </button>
   <figcaption>
     <span class="md-figure-caption">Постоперативна рентгенография след тотална артропластика на коляното: латерална проекция с феморален и тибиален компонент и полиетиленова вложка; означени анатомични ориентири.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

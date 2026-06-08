@@ -37,7 +37,7 @@ order: 7
   </button>
   <figcaption>
     <span class="md-figure-caption">Спектър на вродената тазобедрена дисплазия: от лека ацетабуларна дисплазия през сублуксация до пълна луксация на бедрената глава извън ацетабулума.</span>
-    <span class="md-figure-attribution"> — Londenp, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_-_schematic.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Londenp, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_-_schematic.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ order: 7
   </button>
   <figcaption>
     <span class="md-figure-caption">Ехография на тазобедрената става на новородено: нормална става (Graf Ia) с α-ъгъл >60° и пълно костно покритие на главата.</span>
-    <span class="md-figure-attribution"> — Christaras A, <a href="https://commons.wikimedia.org/wiki/File:Ultrasound_-_normal_newborn_left_hip_(Graf_type_Ia).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+    <span class="md-figure-attribution"> · Christaras A, <a href="https://commons.wikimedia.org/wiki/File:Ultrasound_-_normal_newborn_left_hip_(Graf_type_Ia).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
   </figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ order: 7
   </button>
   <figcaption>
     <span class="md-figure-caption">Дисплазия на тазобедрената става в зрелост: плитка ацетабуларна ямка с латерализация на бедрената глава и недостатъчно покритие.</span>
-    <span class="md-figure-attribution"> — Ping Zhen et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_dysplasia_in_adult.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ping Zhen et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_dysplasia_in_adult.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

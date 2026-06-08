@@ -29,7 +29,7 @@ order: 122
   </button>
   <figcaption>
     <span class="md-figure-caption">Пертрохантерна (интертрохантерна) фрактура на КТ: фрактурна линия през трохантерната област; екстракапсуларна и затова с по-нисък риск от AVN от феморална шийка.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ order: 122
   </button>
   <figcaption>
     <span class="md-figure-caption">DHS конструкция: голям тилт-винт в шийката на бедрената кост, който скользи в страничната плака; контролираното свиване при натоварване генерира интерфрагментарна компресия (принцип на „шейната").</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

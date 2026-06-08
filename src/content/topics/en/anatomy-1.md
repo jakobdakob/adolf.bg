@@ -19,7 +19,7 @@ The spine, traversing from the base of the skull to the sacrum, presents the ort
   </button>
   <figcaption>
     <span class="md-figure-caption">Vertebral column: 7 cervical, 12 thoracic, 5 lumbar vertebrae plus sacrum and coccyx; the four physiologic curvatures (two lordoses + two kyphoses) develop in childhood.</span>
-    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The patient is supine with the head extended (often supported by a roll under th
   </button>
   <figcaption>
     <span class="md-figure-caption">Diagrammatic transverse section of the spinal cord and its meninges: dura mater, arachnoid, pia mater, anterior and posterior roots; key for spinal-canal approaches and for spinal-trauma assessment.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF
   </button>
   <figcaption>
     <span class="md-figure-caption">Sagittal T2 MRI of the lumbar spine: normal disc height and signal, physiological lordosis, spinal canal; the basis for planning an anterior retroperitoneal approach and assessing disc degeneration.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

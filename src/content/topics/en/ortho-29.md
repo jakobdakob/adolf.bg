@@ -27,7 +27,7 @@ The histopathology of Dupuytren’s disease passes through three stages describe
   </button>
   <figcaption>
     <span class="md-figure-caption">Dupuytren’s contracture: nodular degeneration of the palmar aponeurosis producing progressive flexion of the MCP and PIP joints, most commonly of the ring and little fingers.</span>
-    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Collagenase clostridium histolyticum injection (Xiaflex, Xiapex) is an enzymatic
   </button>
   <figcaption>
     <span class="md-figure-caption">Morbus Dupuytren: prominent palmar cords with flexion contracture of the ring and little fingers; surgical fasciectomy removes the pathological palmar fascia of the involved rays.</span>
-    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

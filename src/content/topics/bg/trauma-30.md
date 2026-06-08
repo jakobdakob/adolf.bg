@@ -19,7 +19,7 @@ order: 130
   </button>
   <figcaption>
     <span class="md-figure-caption">Разтягане на медиалния gastrocnemius („tennis leg“): типична бягаща травма с прекъсване на медиалния мускул-сухожилен преход.</span>
-    <span class="md-figure-attribution"> — Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ order: 130
   </button>
   <figcaption>
     <span class="md-figure-caption">Разтягане и разкъсване на mm. gastrocnemius: степени 1 (микроразкъсване), 2 (частично разкъсване с хематом) и 3 (пълно разкъсване с палпируем дефект и функционална загуба).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

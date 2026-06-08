@@ -25,7 +25,7 @@ The rotator cuff insertions on the tuberosities translate fracture displacement 
   </button>
   <figcaption>
     <span class="md-figure-caption">Proximal humerus fracture: Neer (1970) recognises four fragments (head, greater tuberosity, lesser tuberosity, shaft); displacement ≥1 cm or ≥45° defines the type.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann (THWZ), <a href="https://commons.wikimedia.org/wiki/File:Humerus_proximal_fract_01a.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann (THWZ), <a href="https://commons.wikimedia.org/wiki/File:Humerus_proximal_fract_01a.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The AO/OTA classification provides a more elaborate hierarchical system that inc
   </button>
   <figcaption>
     <span class="md-figure-caption">Occult greater tuberosity fracture on STIR (inversion recovery) MRI: radiographically invisible fracture with typical marrow oedema; MRI is sensitive for minimally displaced fractures.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

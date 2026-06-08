@@ -19,7 +19,7 @@ order: 15
   </button>
   <figcaption>
     <span class="md-figure-caption">Детска церебрална парализа: непрогресиращо двигателно увреждане от увреда на незрелия мозък; ортопедичните прояви са вторични спрямо спастичността и мускулния дисбаланс.</span>
-    <span class="md-figure-attribution"> — National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ GMFCS ниво V: Транспортира се в ръчна количка; б
   </button>
   <figcaption>
     <span class="md-figure-caption">Класификация на патологичните походки (Amsterdam Gait Classification): стандартизирани типове на хемиплегичната походка при ДЦП.</span>
-    <span class="md-figure-attribution"> — Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ GMFCS ниво V: Транспортира се в ръчна количка; б
   </button>
   <figcaption>
     <span class="md-figure-caption">Еквинус деформация: задържана плантарна флексия от спастичен трицепс сурае; най-честата деформация на стъпалото при ДЦП.</span>
-    <span class="md-figure-attribution"> — Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

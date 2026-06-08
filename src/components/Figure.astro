@@ -31,7 +31,7 @@ const { src, alt, caption, attribution, licenseUrl, width } = Astro.props;
       {caption && <span class="md-figure-caption">{caption}</span>}
       {attribution && (
         <span class="md-figure-attribution">
-          {caption ? " — " : ""}
+          {caption ? " · " : ""}
           {licenseUrl
             ? <a href={licenseUrl} target="_blank" rel="noopener noreferrer">{attribution}</a>
             : attribution}

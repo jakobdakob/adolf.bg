@@ -25,7 +25,7 @@ order: 112
   </button>
   <figcaption>
     <span class="md-figure-caption">Bankart лезия (3D реконструкция на КТ): авулзия на антеро-инфериорния лабрум от гленоида при предна раменна луксация; патогномонична за рецидивираща нестабилност.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:3-D_CT_reconstruction_of_Bankart_lesion_which_occurred_post_anterior_shoulder_dislocation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:3-D_CT_reconstruction_of_Bankart_lesion_which_occurred_post_anterior_shoulder_dislocation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ order: 112
   </button>
   <figcaption>
     <span class="md-figure-caption">Постредукционна рентгенография след предна луксация на рамото: означени лезия на Bankart (преден гленоиден ръб) и лезия на Hill-Sachs (импресионна фрактура на постеролатералния хумерус); двете лезии са основните детерминанти на рецидива.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_after_reduction,_with_Bankart_and_Hill-Sachs_lesions,_with_labels.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_after_reduction,_with_Bankart_and_Hill-Sachs_lesions,_with_labels.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ order: 112
   </button>
   <figcaption>
     <span class="md-figure-caption">Луксация на рамото — AP-рентгенография преди репозиция: типична загуба на нормалното гленохумерално отношение; аксиалната проекция или CT е необходима за надеждна разлика между предна и задна луксация.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_before_reduction.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_before_reduction.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

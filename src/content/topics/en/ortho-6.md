@@ -19,7 +19,7 @@ The congenital deficiencies of the lower limb constitute one of the most complex
   </button>
   <figcaption>
     <span class="md-figure-caption">Proximal focal femoral deficiency: striking thigh shortening with the residual limb in flexion, abduction, and external rotation.</span>
-    <span class="md-figure-attribution"> — Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Modern multidisciplinary management of PFFD produces good functional outcomes fo
   </button>
   <figcaption>
     <span class="md-figure-caption">Fibular hemimelia: partial or complete absence of the fibula with anteromedial bowing of the tibia, limb shortening, and ankle/foot valgus.</span>
-    <span class="md-figure-attribution"> — Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Presentation at birth shows the characteristic short limb with the foot in varus
   </button>
   <figcaption>
     <span class="md-figure-caption">Congenital pseudarthrosis of the tibia: anterolateral bowing with fracture and failure of union; typically associated with neurofibromatosis type 1.</span>
-    <span class="md-figure-attribution"> — Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

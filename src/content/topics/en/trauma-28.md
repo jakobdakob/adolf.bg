@@ -25,7 +25,7 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
   </button>
   <figcaption>
     <span class="md-figure-caption">Calcaneal fracture: typically from a fall from height; Böhler’s angle (normally 20-40°) is reduced in compression injuries.</span>
-    <span class="md-figure-attribution"> — Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
   </button>
   <figcaption>
     <span class="md-figure-caption">Weber/AO classification: A (below syndesmosis, stable), B (at level of syndesmosis, often with partial ligament tear), C (above syndesmosis, with full disruption and instability).</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ The syndesmosis must be stabilized in any ankle fracture pattern where the synde
   </button>
   <figcaption>
     <span class="md-figure-caption">Maisonneuve fracture: proximal fibular fracture with associated syndesmotic disruption and medial ankle injury; missed without palpating the full length of the fibula and ordering proximal radiographs.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Maisonneuve_fracture_Fibula.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Maisonneuve_fracture_Fibula.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

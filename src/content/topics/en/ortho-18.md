@@ -19,7 +19,7 @@ Coxa vara is a deformity of the proximal femur in which the neck-shaft angle is 
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoral neck-shaft angle: coxa valga (increased), normal (~125°), and coxa vara (decreased).</span>
-    <span class="md-figure-attribution"> — Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Tönnis described a “wandering” of the triangular fragment with growth that 
   </button>
   <figcaption>
     <span class="md-figure-caption">Unilateral coxa vara — clinical photograph: leg-length discrepancy with apparent shortening and Trendelenburg gait on the affected side.</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -19,7 +19,7 @@ order: 111
   </button>
   <figcaption>
     <span class="md-figure-caption">Диафизарна фрактура на ключицата: най-честата фрактура на ключицата (~80%), типично в средната трета.</span>
-    <span class="md-figure-attribution"> — Majorkev, <a href="https://commons.wikimedia.org/wiki/File:Clavicle_Fracture_Left.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Majorkev, <a href="https://commons.wikimedia.org/wiki/File:Clavicle_Fracture_Left.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ order: 111
   </button>
   <figcaption>
     <span class="md-figure-caption">Постоперативна рентгенография след ОРВФ на диафизарна фрактура на ключицата с прекраялна плака — предпочитан метод при изместени фрактури при активни пациенти.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:ClaviclePlatePostFrac.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:ClaviclePlatePostFrac.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ order: 111
   </button>
   <figcaption>
     <span class="md-figure-caption">АК-сепарация: изместване на латералния край на ключицата нагоре спрямо акромиона при разкъсване на АК- и CC-връзките; високата степен (Rockwood IV-VI) се определя по посоката на изместване и изисква оперативно лечение.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
   </figcaption>
 </figure>
 

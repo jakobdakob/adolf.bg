@@ -19,7 +19,7 @@ Coxa vara е деформация на проксималния фемур, пр
   </button>
   <figcaption>
     <span class="md-figure-caption">Ъгълът шийка–диафиза на бедрената кост: coxa valga (увеличен), нормален (~125°) и coxa vara (намален).</span>
-    <span class="md-figure-attribution"> — Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Coxa vara е деформация на проксималния фемур, пр
   </button>
   <figcaption>
     <span class="md-figure-caption">Едностранна coxa vara — клиничен изглед: разлика в дължината на крайниците с привидно нисък ръст и абдукторен лурх (Trendelenburg) от засегнатата страна.</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

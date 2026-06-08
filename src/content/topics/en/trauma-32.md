@@ -120,7 +120,7 @@ Continuous monitoring: An indwelling catheter connected to a pressure transducer
   </button>
   <figcaption>
     <span class="md-figure-caption">Two-incision lower-leg fasciotomy with temporary skin closure: the lateral incision releases the anterior and lateral compartments, the medial the superficial and deep posterior.</span>
-    <span class="md-figure-attribution"> — Mr.Biz, <a href="https://commons.wikimedia.org/wiki/File:Fasciotomy_leg_stitchednew.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Mr.Biz, <a href="https://commons.wikimedia.org/wiki/File:Fasciotomy_leg_stitchednew.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

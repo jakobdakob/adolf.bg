@@ -19,7 +19,7 @@ order: 14
   </button>
   <figcaption>
     <span class="md-figure-caption">Тест на Adams (forward bend) — клиничен скрининг: ребрена изпъкналост от страната на конвекситета става видима при предно навеждане; рентгенографията потвърждава кривата по Cobb.</span>
-    <span class="md-figure-attribution"> — Rigo et al., <a href="https://commons.wikimedia.org/wiki/File:Initial_diagnosis_of_scoliosis_with_adams_test_and_x-rays.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Rigo et al., <a href="https://commons.wikimedia.org/wiki/File:Initial_diagnosis_of_scoliosis_with_adams_test_and_x-rays.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ order: 14
   </button>
   <figcaption>
     <span class="md-figure-caption">Метод на Cobb: измерване на ъгъла на сколиозата между перпендикулярите към горната и долната крайна (end-vertebra) ставна повърхност на кривата.</span>
-    <span class="md-figure-attribution"> — Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ order: 14
   </button>
   <figcaption>
     <span class="md-figure-caption">Адолесцентна идиопатична сколиоза, рентгенография преди операция: тежка дясна торакална крива, изискваща задна спинална фузия с инструментариум; кривите &gt;45° обикновено изискват оперативно лечение.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

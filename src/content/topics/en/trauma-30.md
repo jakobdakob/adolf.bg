@@ -19,7 +19,7 @@ Muscle and tendon injuries collectively represent a substantial portion of muscu
   </button>
   <figcaption>
     <span class="md-figure-caption">Medial gastrocnemius strain (“tennis leg”): typical running/jumping injury with disruption at the medial myotendinous junction.</span>
-    <span class="md-figure-attribution"> — Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Muscle and tendon injuries collectively represent a substantial portion of muscu
   </button>
   <figcaption>
     <span class="md-figure-caption">Gastrocnemius strain and tear: grade 1 (microtear), 2 (partial tear with haematoma), 3 (complete tear with palpable defect and functional loss).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

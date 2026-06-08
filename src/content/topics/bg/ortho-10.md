@@ -19,7 +19,7 @@ order: 10
   </button>
   <figcaption>
     <span class="md-figure-caption">Гъвкав pes planus: загуба на медиалния надлъжен свод при натоварване с възстановяване при повдигане на пръстите или седнало положение.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ order: 10
   </button>
   <figcaption>
     <span class="md-figure-caption">Тарзална коалиция: характерният „талусен клюн“ (talar beak) на дорзалната повърхност на talus, индикация за съседна талокалканеарна или калканеонавикуларна коалиция.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Talar_beak_in_tarsal_coalition_39jw_-_Roe_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Talar_beak_in_tarsal_coalition_39jw_-_Roe_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ order: 10
   </button>
   <figcaption>
     <span class="md-figure-caption">Скор на Beighton: 9-точкова скала за оценка на генерализирана ставна хипермобилност чрез пет клинични теста (4 двустранни + 1 за гръбначно прегъване).</span>
-    <span class="md-figure-attribution"> — U3067474, <a href="https://commons.wikimedia.org/wiki/File:Beighton_Score.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · U3067474, <a href="https://commons.wikimedia.org/wiki/File:Beighton_Score.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

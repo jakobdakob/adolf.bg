@@ -26,7 +26,7 @@ The modern understanding of “tendinitis” has been substantially revised in r
   </button>
   <figcaption>
     <span class="md-figure-caption">Supraspinatus tendon rupture: the end stage of subacromial impingement; characteristic lateral deltoid pain and weakness on abduction, confirmed by MRI.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Supraspinatussehnenruptur.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Supraspinatussehnenruptur.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The long head of the biceps tendon traverses the bicipital groove of the proxima
   </button>
   <figcaption>
     <span class="md-figure-caption">Lateral epicondylitis: painful enthesopathy of the common extensor origin (especially extensor carpi radialis brevis) at the lateral epicondyle.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Medial Epicondylitis (Golfer’s Elbow) Medial epicondylitis is the analogous co
   </button>
   <figcaption>
     <span class="md-figure-caption">Olecranon bursitis: inflammation and swelling of the superficial olecranon bursa; the classic “student’s elbow”.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Olecranon bursitis is inflammation of the bursa overlying the olecranon process,
   </button>
   <figcaption>
     <span class="md-figure-caption">De Quervain tenosynovitis: inflammation of the first dorsal extensor compartment (APL and EPB) with a positive Finkelstein test.</span>
-    <span class="md-figure-attribution"> — Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Olecranon bursitis is inflammation of the bursa overlying the olecranon process,
   </button>
   <figcaption>
     <span class="md-figure-caption">Trigger finger: stenosing tenosynovitis of the A1 pulley with mechanical catching of the flexor tendon on motion.</span>
-    <span class="md-figure-attribution"> — RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

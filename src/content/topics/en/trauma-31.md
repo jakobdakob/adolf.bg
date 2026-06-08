@@ -31,7 +31,7 @@ The principal mechanisms of nerve injury include: Stretch (traction) injury: Elo
   </button>
   <figcaption>
     <span class="md-figure-caption">Seddon classification: neurapraxia (transient conduction block), axonotmesis (Wallerian degeneration with intact endoneurium), and neurotmesis (complete nerve transection).</span>
-    <span class="md-figure-attribution"> — Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Seddon Classification (1943) The classical Seddon classification organizes nerve
   </button>
   <figcaption>
     <span class="md-figure-caption">Axonotmesis (Seddon II / Sunderland II): axonal disruption with preserved endoneurial sheath; Wallerian degeneration occurs distally but regeneration follows the intact endoneurial tubes (~1 mm/day).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

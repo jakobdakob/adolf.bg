@@ -25,7 +25,7 @@ order: 109
   </button>
   <figcaption>
     <span class="md-figure-caption">Септичен артрит на тазобедрената става — рентгенография: разширена ставна цепнатина от излива и ранна юкстаартикуларна остеопения; рутинно се прави спешна аспирация преди започване на антибиотици.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ order: 109
   </button>
   <figcaption>
     <span class="md-figure-caption">Хроничен остеомиелит: извънкортикална нова костна формация (involucrum), обграждаща нежизнеспособния секвестър; класическият рентгенов израз на персистираща костна инфекция.</span>
-    <span class="md-figure-attribution"> — Hellerhoff / Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Involucrum_(Extracortical_New_Bone_Formation)_in_Chronic_Osteomyelitis_(48327308712).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff / Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Involucrum_(Extracortical_New_Bone_Formation)_in_Chronic_Osteomyelitis_(48327308712).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 

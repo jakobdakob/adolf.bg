@@ -19,7 +19,7 @@ Bone healing is a complex biological process that distinguishes bone from most o
   </button>
   <figcaption>
     <span class="md-figure-caption">Stages of bone healing: hematoma, inflammation, soft (cartilaginous-fibrous) callus, hard (bony) callus, and remodelling.</span>
-    <span class="md-figure-attribution"> — Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Two principal mechanisms of bone healing are recognized, and the choice between 
   </button>
   <figcaption>
     <span class="md-figure-caption">Callus formation in indirect bone healing: sequential hematoma → soft (fibrocartilaginous) callus → hard (bony) callus → remodelling; characteristic of fractures with relative stability.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Direct bone healing (also called primary or contact healing) is the mechanism of
   </button>
   <figcaption>
     <span class="md-figure-caption">Bone remodelling cycle: osteoclasts (resorption) followed by osteoblasts (formation); pre-osteoblasts, osteoblasts and bone-lining cells orchestrate the continuous turnover of the bone matrix.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

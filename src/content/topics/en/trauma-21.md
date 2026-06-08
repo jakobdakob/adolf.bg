@@ -25,7 +25,7 @@ The neck-shaft angle and Singh index of trabecular pattern on AP radiographs of 
   </button>
   <figcaption>
     <span class="md-figure-caption">Classification of proximal-femoral fractures: subcapital/transcervical/basicervical (intracapsular) vs. per- and subtrochanteric (extracapsular).</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ The Pauwels classification was originally derived to predict biomechanical fixat
   </button>
   <figcaption>
     <span class="md-figure-caption">Comminuted femoral neck fracture: an unstable pattern (Garden III/IV) in an elderly woman; typically an indication for hemiarthroplasty.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ The complications of internal fixation include nonunion (5 to 30 percent dependi
   </button>
   <figcaption>
     <span class="md-figure-caption">Postoperative X-ray after bipolar hip hemiarthroplasty: the standard treatment for displaced femoral neck fractures (Garden III/IV) in the elderly.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

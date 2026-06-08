@@ -19,7 +19,7 @@ The pelvis presents the orthopedic surgeon with one of the most complex regional
   </button>
   <figcaption>
     <span class="md-figure-caption">Right innominate (hip) bone, external surface — ilium, ischium and pubis with key landmarks: iliac crest, ASIS, AIIS, acetabulum, obturator foramen, ischial spine and tuberosity.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
   </button>
   <figcaption>
     <span class="md-figure-caption">Lumbar and sacral plexus: the anterior rami of L1–S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

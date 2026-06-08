@@ -19,7 +19,7 @@ order: 105
   </button>
   <figcaption>
     <span class="md-figure-caption">Открита фрактура на диафизата на тибията: комуникация между фрактурата и външната среда; класифицира се по Gustilo-Anderson (I–IIIA/B/C).</span>
-    <span class="md-figure-attribution"> — Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ order: 105
   </button>
   <figcaption>
     <span class="md-figure-caption">Външен фиксатор: основният метод за временна стабилизация при открити фрактури от Gustilo тип IIIA/B/C; позволява лесен достъп за грижа на меките тъкани и серийна дебридменти преди финална вътрешна фиксация.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

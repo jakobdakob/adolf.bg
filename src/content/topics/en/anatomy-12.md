@@ -25,7 +25,7 @@ The vascular supply to the physis is unique: separate vessels supply the epiphys
   </button>
   <figcaption>
     <span class="md-figure-caption">The Salter-Harris classification (1963): five types of physeal fractures by the relationship of the fracture line to the growth plate.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ The pediatric bone, with its higher porosity, lower stiffness, and more elastic 
   </button>
   <figcaption>
     <span class="md-figure-caption">Greenstick fracture of the distal forearm in a child: broken tension cortex with intact (only plastically bowed) compression side; the classical pediatric pattern due to the elastic periosteum.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Locations: The greenstick fracture is most common in the forearm (both-bone or i
   </button>
   <figcaption>
     <span class="md-figure-caption">Buckle (torus) fracture of the distal radius: compression buckling of the metaphyseal cortex without a complete fracture line; a stable injury treated in a removable splint.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

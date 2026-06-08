@@ -15,7 +15,7 @@ order: 117
   </button>
   <figcaption>
     <span class="md-figure-caption">Колесова фрактура: екстраартикуларна фрактура на дисталния радиус с дорзално отклонение и характерната „вилица-за-вечеря“ деформация.</span>
-    <span class="md-figure-attribution"> — Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ order: 117
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на Colles: екстраартикуларна фрактура на дисталния радиус с дорзално изместване и ангулация („dinner-fork" деформация); класическата травма при падане върху изпъната ръка.</span>
-    <span class="md-figure-attribution"> — Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ order: 117
   </button>
   <figcaption>
     <span class="md-figure-caption">Изместена вътреставна фрактура на дисталния radius — често рентгенографско съображение: радиална височина, наклон и волярен tilt; параметрите определят AO/OTA класификацията и оперативната стратегия.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

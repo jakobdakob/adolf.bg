@@ -15,7 +15,7 @@ order: 11
   </button>
   <figcaption>
     <span class="md-figure-caption">Клубно стъпало (talipes equinovarus, CTEV) — типичната четирикомпонентна деформация: cavus, adductus, varus и equinus.</span>
-    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Calcaneus е ротиран медиално под talus (субталарна 
   </button>
   <figcaption>
     <span class="md-figure-caption">Foot abduction brace (Denis Browne / Mitchell-Ponseti): носи се 23 часа дневно първите 3 месеца след корекцията, после нощно за 4-5 г.; пропускът да се носи е основна причина за рецидив.</span>
-    <span class="md-figure-attribution"> — Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

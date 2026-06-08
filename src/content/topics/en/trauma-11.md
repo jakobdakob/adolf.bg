@@ -19,7 +19,7 @@ The shoulder girdle (clavicle, scapula, and the joints that connect them to the 
   </button>
   <figcaption>
     <span class="md-figure-caption">Mid-shaft clavicle fracture: the commonest clavicle fracture (~80%), typically of the middle third.</span>
-    <span class="md-figure-attribution"> — Majorkev, <a href="https://commons.wikimedia.org/wiki/File:Clavicle_Fracture_Left.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Majorkev, <a href="https://commons.wikimedia.org/wiki/File:Clavicle_Fracture_Left.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Clavicle fractures account for approximately 2 to 5 percent of all adult fractur
   </button>
   <figcaption>
     <span class="md-figure-caption">Postoperative X-ray after ORIF of a midshaft clavicle fracture with a precontoured plate — the preferred technique for displaced fractures in active patients.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:ClaviclePlatePostFrac.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:ClaviclePlatePostFrac.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Medial clavicle fractures are rare and are typically treated non-operatively unl
   </button>
   <figcaption>
     <span class="md-figure-caption">AC joint separation: superior displacement of the lateral clavicle relative to the acromion with rupture of AC and CC ligaments; high-grade (Rockwood IV-VI) injuries are defined by displacement direction and require operative repair.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
   </figcaption>
 </figure>
 

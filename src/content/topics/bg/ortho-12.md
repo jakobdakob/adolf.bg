@@ -33,7 +33,7 @@ order: 12
   </button>
   <figcaption>
     <span class="md-figure-caption">Радиална дисплазия: отсъствие на радиуса с радиална девиация и скъсяване на предмишницата.</span>
-    <span class="md-figure-attribution"> — AFenrirsLife, <a href="https://commons.wikimedia.org/wiki/File:RadialDysplasiaTypeN4.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · AFenrirsLife, <a href="https://commons.wikimedia.org/wiki/File:RadialDysplasiaTypeN4.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ order: 12
   </button>
   <figcaption>
     <span class="md-figure-caption">Синдактилия: частично или пълно вродено сливане на съседни пръсти; най-честа е между III и IV пръст на ръката.</span>
-    <span class="md-figure-attribution"> — Couch-scratching-cats, <a href="https://commons.wikimedia.org/wiki/File:Partial_Syndactyly_1.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Couch-scratching-cats, <a href="https://commons.wikimedia.org/wiki/File:Partial_Syndactyly_1.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ order: 12
   </button>
   <figcaption>
     <span class="md-figure-caption">Полидактилия: допълнителен пръст; постаксиалната (улнарна) форма е най-честа при чернокожи популации, преаксиалната (радиална/палцева) е по-честа при бели и азиати.</span>
-    <span class="md-figure-attribution"> — Drgnu23 et al., <a href="https://commons.wikimedia.org/wiki/File:Polydactyly_01_Lhand_AP.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Drgnu23 et al., <a href="https://commons.wikimedia.org/wiki/File:Polydactyly_01_Lhand_AP.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ order: 12
   </button>
   <figcaption>
     <span class="md-figure-caption">Синдром на констрикционните ленти: фетални амниотични нишки предизвикват дълбоки циркуларни жлебове по пръстите, понякога с дистална акросиндактилия или ампутации.</span>
-    <span class="md-figure-attribution"> — Fyrosth, <a href="https://commons.wikimedia.org/wiki/File:Constriction_ring_hands.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Fyrosth, <a href="https://commons.wikimedia.org/wiki/File:Constriction_ring_hands.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

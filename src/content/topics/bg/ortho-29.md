@@ -33,7 +33,7 @@ order: 29
   </button>
   <figcaption>
     <span class="md-figure-caption">Дюпюитренова контрактура: възлеста дегенерация на палмарната апоневроза с прогресивна флексия на MCP и PIP ставите, най-често на IV и V пръст.</span>
-    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ order: 29
   </button>
   <figcaption>
     <span class="md-figure-caption">Морбус Dupuytren: изразени палмарни шнурове, флексионна контрактура на 4-ти и 5-ти пръст; хирургичната фасциектомия премахва патологичната палмарна фасция от засегнатите лъчи.</span>
-    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

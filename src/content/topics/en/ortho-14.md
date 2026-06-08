@@ -19,7 +19,7 @@ Scoliosis is a lateral curvature of the spine in the coronal plane combined with
   </button>
   <figcaption>
     <span class="md-figure-caption">Adams forward-bend test — clinical screening: a rib hump on the convex side becomes visible on forward flexion; the X-ray confirms the curve and Cobb angle.</span>
-    <span class="md-figure-attribution"> — Rigo et al., <a href="https://commons.wikimedia.org/wiki/File:Initial_diagnosis_of_scoliosis_with_adams_test_and_x-rays.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Rigo et al., <a href="https://commons.wikimedia.org/wiki/File:Initial_diagnosis_of_scoliosis_with_adams_test_and_x-rays.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Most adolescent idiopathic scoliosis is detected by school screening, by parents
   </button>
   <figcaption>
     <span class="md-figure-caption">Cobb method: measurement of the scoliosis angle between perpendiculars dropped from the upper and lower end-vertebra articular surfaces of the curve.</span>
-    <span class="md-figure-attribution"> — Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ The natural history of adolescent idiopathic scoliosis is one of variable progre
   </button>
   <figcaption>
     <span class="md-figure-caption">Adolescent idiopathic scoliosis, preoperative radiograph: severe right thoracic curve requiring posterior spinal fusion with instrumentation; curves &gt;45° generally require operative correction.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

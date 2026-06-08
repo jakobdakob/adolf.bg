@@ -19,7 +19,7 @@ order: 4
   </button>
   <figcaption>
     <span class="md-figure-caption">Остеомиелит на дълга кост: литична деструкция с агресивна периостална реакция и кортикална ерозия.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Osteomyelitis_(2).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Osteomyelitis_(2).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Staphylococcus aureus е причинителят в около 70-90% от сл
   </button>
   <figcaption>
     <span class="md-figure-caption">Абсцес на Brodie: добре отграничена литична метафизарна лезия със заобикалящ склеротичен ореол, представляваща локализирана подостра остеомиелитна инфекция.</span>
-    <span class="md-figure-attribution"> — Jto410, <a href="https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jto410, <a href="https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Staphylococcus aureus е причинителят в около 70-90% от сл
   </button>
   <figcaption>
     <span class="md-figure-caption">Септичен артрит на тазобедрената става: разширена ставна цепка от излива, ставна ерозия и периартикуларна остеопороза.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ Pseudomonas е класическият микроорганизъм на про
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Pott: туберкулозен спондилит с класическа гибуса деформация (ъглова кифоза) от деструкция на гръбначните тела (исторически клиничен препарат).</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Tuberculosis%3B_spine_of_boy_under_care_of_Mr_Pott_Wellcome_L0006118.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Tuberculosis%3B_spine_of_boy_under_care_of_Mr_Pott_Wellcome_L0006118.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

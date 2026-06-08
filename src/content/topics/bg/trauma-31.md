@@ -52,7 +52,7 @@ order: 131
   </button>
   <figcaption>
     <span class="md-figure-caption">Класификация на Seddon: невропраксия (преходен блок на проводимостта), аксонотмеза (Walerianова дегенерация с интактна неврална тръба) и невротмеза (пълно прекъсване на нерва).</span>
-    <span class="md-figure-attribution"> — Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ order: 131
   </button>
   <figcaption>
     <span class="md-figure-caption">Аксонотмеза по Seddon: увреждане на аксона при запазена ендоневрална обвивка; настъпва Wallerova дегенерация дистално, но регенерацията е възможна по непокътнатия ендоневрум.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -19,7 +19,7 @@ The shoulder girdle, comprising the glenohumeral joint, the acromioclavicular jo
   </button>
   <figcaption>
     <span class="md-figure-caption">Shoulder anatomy: glenohumeral, acromioclavicular and sternoclavicular joints plus the scapulothoracic articulation.</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ The glenohumeral joint is a ball-and-socket articulation between the relatively 
   </button>
   <figcaption>
     <span class="md-figure-caption">Rotator cuff: supraspinatus, infraspinatus, teres minor, subscapularis; the supraspinatus tendon is the most commonly torn in rotator cuff syndrome.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
   </button>
   <figcaption>
     <span class="md-figure-caption">Brachial plexus (C5–T1): roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

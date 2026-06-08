@@ -30,7 +30,7 @@ The dysplastic hip exhibits a constellation of bony and soft-tissue abnormalitie
   </button>
   <figcaption>
     <span class="md-figure-caption">Spectrum of developmental hip dysplasia: from mild acetabular dysplasia through subluxation to complete dislocation of the femoral head out of the acetabulum.</span>
-    <span class="md-figure-attribution"> — Londenp, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_-_schematic.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Londenp, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_-_schematic.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ The optimal approach to DDH screening — universal ultrasound for all newborns,
   </button>
   <figcaption>
     <span class="md-figure-caption">Newborn hip ultrasound: normal joint (Graf Ia) with α-angle &gt;60° and full bony coverage of the femoral head.</span>
-    <span class="md-figure-attribution"> — Christaras A, <a href="https://commons.wikimedia.org/wiki/File:Ultrasound_-_normal_newborn_left_hip_(Graf_type_Ia).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+    <span class="md-figure-attribution"> · Christaras A, <a href="https://commons.wikimedia.org/wiki/File:Ultrasound_-_normal_newborn_left_hip_(Graf_type_Ia).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
   </figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The Graf classification, developed by Reinhard Graf in the 1980s, is the standar
   </button>
   <figcaption>
     <span class="md-figure-caption">Adult hip dysplasia: shallow acetabular socket with lateralisation of the femoral head and insufficient coverage.</span>
-    <span class="md-figure-attribution"> — Ping Zhen et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_dysplasia_in_adult.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ping Zhen et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_dysplasia_in_adult.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

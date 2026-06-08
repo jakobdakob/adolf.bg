@@ -19,7 +19,7 @@ The category of “tumor-like lesions of bone” comprises a heterogeneous group
   </button>
   <figcaption>
     <span class="md-figure-caption">Simple bone cyst of the proximal humerus in a child with pathological fracture — the classic Reynolds “fallen fragment sign”: a small cortical fragment at the dependent floor of the fluid-filled cavity.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Juvenile_Knochenzyste_Humerus_mit_pathologischer_Fraktur_9W_-_fallen_fragment_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Juvenile_Knochenzyste_Humerus_mit_pathologischer_Fraktur_9W_-_fallen_fragment_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Many simple bone cysts heal spontaneously following pathological fracture, and t
   </button>
   <figcaption>
     <span class="md-figure-caption">Aneurysmal bone cyst: expansile lytic lesion with a thinned cortical shell.</span>
-    <span class="md-figure-attribution"> — Boubbou et al., <a href="https://commons.wikimedia.org/wiki/File:Cisti_aneurismatica.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Boubbou et al., <a href="https://commons.wikimedia.org/wiki/File:Cisti_aneurismatica.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ The treatment of an ABC must accomplish three goals: confirmation of the diagnos
   </button>
   <figcaption>
     <span class="md-figure-caption">Fibrous dysplasia: the characteristic “ground glass” radiographic appearance of an intramedullary lesion with mild expansion of the bone.</span>
-    <span class="md-figure-attribution"> — Basmajoor, <a href="https://commons.wikimedia.org/wiki/File:R%C3%B6ntgenfoto_Fibreuze_Dysplasie.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Basmajoor, <a href="https://commons.wikimedia.org/wiki/File:R%C3%B6ntgenfoto_Fibreuze_Dysplasie.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Asymptomatic and small lesions are observed. Symptomatic monostotic lesions can 
   </button>
   <figcaption>
     <span class="md-figure-caption">Non-ossifying fibroma: eccentric metaphyseal lytic lesion with a thin sclerotic margin.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:NOF_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:NOF_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ The natural history of single-system bony LCH is one of spontaneous resolution o
   </button>
   <figcaption>
     <span class="md-figure-caption">Multiple brown tumours of the hands in hyperparathyroidism: lytic foci of osteoclastic resorption.</span>
-    <span class="md-figure-attribution"> — Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:Brown_tumours_of_the_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:Brown_tumours_of_the_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ The brown tumor (so named because of its macroscopic hemosiderin-tinged color) i
   </button>
   <figcaption>
     <span class="md-figure-caption">Osteopoikilosis: multiple small sclerotic foci symmetrically distributed throughout the cancellous bone.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteopoikilose_HG_ap_und_seitlich.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteopoikilose_HG_ap_und_seitlich.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

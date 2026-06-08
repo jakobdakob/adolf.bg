@@ -29,7 +29,7 @@ The femoral shaft is approached for fracture fixation, tumor resection, and biop
   </button>
   <figcaption>
     <span class="md-figure-caption">Knee joint: tibiofemoral and patellofemoral articulations; static stabilizers (ACL, PCL, MCL, LCL, menisci) and dynamic ones (quadriceps, hamstrings, popliteus).</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typ
   </button>
   <figcaption>
     <span class="md-figure-caption">Medial and lateral menisci of the knee: wedge-shaped fibrocartilage providing load distribution and joint conformity; visualised arthroscopically through standard portals.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Thigh compartment syndrome is uncommon but described, particularly with high-ene
   </button>
   <figcaption>
     <span class="md-figure-caption">Posterior view of the thigh and popliteal fossa: sciatic nerve dividing into tibial and common peroneal nerves; popliteal artery and vein deep within the fossa; key anatomy for posterior knee approaches.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

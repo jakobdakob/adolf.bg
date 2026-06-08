@@ -15,7 +15,7 @@ order: 129
   </button>
   <figcaption>
     <span class="md-figure-caption">Разкъсване на ахилесовото сухожилие: тестът на Thompson (липса на плантарна флексия при компресиране на гастрокнемиуса) е патогномоничен.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Talus е уникална кост — около 60% от нейната пов
   </button>
   <figcaption>
     <span class="md-figure-caption">Субтилна предна фрактура на talus: лесно се пропуска на първоначалните рентгенографии; CT е необходим при персистираща болка и подозрение за окултна талусна травма.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ Calcaneus е най-голямата тарзална кост и поема о�
   </button>
   <figcaption>
     <span class="md-figure-caption">Ъгъл на Böhler: ъгълът между тангента на върховете на задната фасетка и тангента на дорзалната повърхност (нормално 20-40°); намален или обърнат ъгъл показва депресия на задната фасетка при калканеусна фрактура.</span>
-    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

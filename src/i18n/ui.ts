@@ -44,7 +44,7 @@ type UIStrings = {
 export const ui: Record<Lang, UIStrings> = {
   bg: {
     siteTitle: "adolf.bg",
-    siteTagline: "Ортопедия и травматология — компендиум за държавния изпит",
+    siteTagline: "Ортопедия и травматология: компендиум за държавния изпит",
     sectionOrtho: "Ортопедия",
     sectionTrauma: "Травматология",
     sectionAnatomy: "Анатомия",
@@ -67,10 +67,10 @@ export const ui: Record<Lang, UIStrings> = {
     testYourself: "Тествай се",
     qbankIntroTitle: "Въпросник",
     qbankIntroBody:
-      "20 случайно подбрани въпроса от 7400 — от всички теми по ортопедия, травматология и анатомия.",
+      "20 случайно подбрани въпроса от 7400, от всички теми по ортопедия, травматология и анатомия.",
     topicIntroTitle: (n) => `Тест по тема ${n}`,
     topicIntroBody:
-      "20 случайно подбрани въпроса от 100 за тази тема. Без точки за грешен опит — натисни „Следващ“ за следващия въпрос.",
+      "20 случайно подбрани въпроса от 100 за тази тема. Без точки за грешен опит; натисни „Следващ“ за следващия въпрос.",
     startQuiz: "Започни",
     question: "Въпрос",
     outOf: "от",
@@ -83,7 +83,7 @@ export const ui: Record<Lang, UIStrings> = {
   },
   en: {
     siteTitle: "adolf.bg",
-    siteTagline: "Orthopedics & Traumatology — State Board Exam Compendium",
+    siteTagline: "Orthopedics & Traumatology: State Board Exam Compendium",
     sectionOrtho: "Orthopedics",
     sectionTrauma: "Traumatology",
     sectionAnatomy: "Anatomy",
@@ -106,10 +106,10 @@ export const ui: Record<Lang, UIStrings> = {
     testYourself: "Test yourself",
     qbankIntroTitle: "Q-Bank",
     qbankIntroBody:
-      "20 random questions drawn from 7400 — across all orthopedics, traumatology, and anatomy topics.",
+      "20 random questions drawn from 7400, across all orthopedics, traumatology, and anatomy topics.",
     topicIntroTitle: (n) => `Topic ${n} Quiz`,
     topicIntroBody:
-      "20 random questions drawn from 100 for this topic. No penalty for a wrong guess — press “Next” to continue.",
+      "20 random questions drawn from 100 for this topic. No penalty for a wrong guess; press “Next” to continue.",
     startQuiz: "Start",
     question: "Question",
     outOf: "of",

@@ -23,7 +23,7 @@ The tibia is the principal weight-bearing bone of the lower leg, with the anatom
   </button>
   <figcaption>
     <span class="md-figure-caption">Cross-section of the leg: the four compartments (anterior, lateral, superficial posterior and deep posterior) with the tibia, fibula and neurovascular structures.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ The compartments are separated by intermuscular septa attached to the bones and 
   </button>
   <figcaption>
     <span class="md-figure-caption">Nerves of the right lower extremity, posterior view: sciatic nerve dividing into tibial and common peroneal nerves; the common peroneal wraps around the fibular head (classic compression site); tibial nerve courses deep in the posterior leg.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

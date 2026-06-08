@@ -15,7 +15,7 @@ order: 11
   </button>
   <figcaption>
     <span class="md-figure-caption">Clubfoot (talipes equinovarus, CTEV) — the classical four-component deformity: cavus, adductus, varus, and equinus.</span>
-    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The Pirani score, simpler and more widely used in Ponseti-method practice, score
   </button>
   <figcaption>
     <span class="md-figure-caption">Foot abduction brace (Denis Browne / Mitchell-Ponseti): worn 23 hours/day for the first 3 months after correction, then at night for 4-5 years; non-compliance is the leading cause of recurrence.</span>
-    <span class="md-figure-attribution"> — Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

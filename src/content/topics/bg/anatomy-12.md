@@ -43,7 +43,7 @@ order: 212
   </button>
   <figcaption>
     <span class="md-figure-caption">Класификацията на Salter-Harris (1963): пет типа физисни фрактури според отношението на линията на фрактурата към растежната пластинка.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ order: 212
   </button>
   <figcaption>
     <span class="md-figure-caption">Greenstick фрактура на дисталната предмишница при дете: счупен опънатен кортекс с интактна, само пластично огъната противоположна страна; класически педиатричен модел поради еластичния периост.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Gruenholzfraktur_-_Unterarmfraktur.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ order: 212
   </button>
   <figcaption>
     <span class="md-figure-caption">Buckle (torus) фрактура на дисталния радиус: компресионно „набръчкване" на метафизарния кортекс без пълна линия на фрактура; стабилно увреждане, лекувано със свалящ се ортез.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

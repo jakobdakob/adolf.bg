@@ -27,7 +27,7 @@ Mechanical low back pain (the commonest form of back pain) affects approximately
   </button>
   <figcaption>
     <span class="md-figure-caption">Disc herniation: MRI shows nucleus pulposus extending beyond the posterior annulus with compression of the dural sac and nerve root.</span>
-    <span class="md-figure-attribution"> — Anthonp, <a href="https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Anthonp, <a href="https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The natural history of acute lumbar disc herniation with radiculopathy is favora
   </button>
   <figcaption>
     <span class="md-figure-caption">Lumbar spinal stenosis on sagittal MRI: reduced cross-section of the spinal canal due to degenerative disc bulging, ligamentum flavum hypertrophy and facet arthropathy.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Conservative management includes physical therapy directed at flexion-based exer
   </button>
   <figcaption>
     <span class="md-figure-caption">L5–S1 spondylolisthesis: anterior translation of L5 relative to S1; graded by the Meyerding classification (I–IV) by percentage slip.</span>
-    <span class="md-figure-attribution"> — Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Diffuse idiopathic skeletal hyperostosis (DISH): Characterized by flowing ossifi
   </button>
   <figcaption>
     <span class="md-figure-caption">“Bamboo spine”: end-stage ankylosing spondylitis with ossification of the annulus fibrosus, spinal ligaments, and facet joints.</span>
-    <span class="md-figure-attribution"> — Stevenfruitsmaak, <a href="https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Stevenfruitsmaak, <a href="https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

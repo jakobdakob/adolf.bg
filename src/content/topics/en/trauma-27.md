@@ -25,7 +25,7 @@ The tibial nerve and posterior tibial artery in the posterior deep compartment, 
   </button>
   <figcaption>
     <span class="md-figure-caption">Spiral fracture of the tibial shaft (AO 42-A1): typical torsional injury; recognisable by the long spiral line winding around the bone axis.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Nonunion: Reported in 2 to 17 percent depending on the series, the fracture patt
   </button>
   <figcaption>
     <span class="md-figure-caption">Pilon fracture: intra-articular fracture of the distal tibia with intracortical comminution; the classic high-energy axial injury with severe soft-tissue compromise.</span>
-    <span class="md-figure-attribution"> — Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

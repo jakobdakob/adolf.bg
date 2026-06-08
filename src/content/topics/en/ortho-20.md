@@ -19,7 +19,7 @@ Femoroacetabular impingement (FAI) is a clinical syndrome in which abnormal mech
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoroacetabular impingement: asphericity of the femoral head (cam) and/or excessive acetabular coverage (pincer) produces mechanical contact during flexion and internal rotation.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Three principal morphological subtypes of FAI are described, each with distinct 
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoroacetabular impingement (FAI): cam (non-spherical femoral head with "pistol-grip" deformity) and pincer (overcoverage of the acetabulum); the two patterns may coexist.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ The classical presentation is of an active young adult (most commonly in the thi
   </button>
   <figcaption>
     <span class="md-figure-caption">Alpha angle (Nötzli): measure of femoral head asphericity; &gt;55° is pathological and suggests cam impingement.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

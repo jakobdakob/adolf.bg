@@ -1,5 +1,5 @@
 ---
-title: "Malignant Bone Tumors — Primary and Metastatic. Pathological Fractures."
+title: "Malignant Bone Tumors: Primary and Metastatic. Pathological Fractures."
 lang: "en"
 kind: "topic"
 section: "ortho"
@@ -25,7 +25,7 @@ The biopsy is the most consequential single decision in the management of a susp
   </button>
   <figcaption>
     <span class="md-figure-caption">Osteosarcoma — Codman’s triangle: aggressive periosteal reaction lifted by the tumour and interrupted before it can close over the lesion.</span>
-    <span class="md-figure-attribution"> — Ajimsha619, <a href="https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Ajimsha619, <a href="https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ The modern multidisciplinary treatment of osteosarcoma — neoadjuvant chemother
   </button>
   <figcaption>
     <span class="md-figure-caption">Ewing sarcoma of the tibia in a child: diaphyseal permeative lytic lesion with “onion-skin” lamellar periosteal reaction and a soft-tissue mass.</span>
-    <span class="md-figure-attribution"> — Michael Richardson, MD, <a href="https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Michael Richardson, MD, <a href="https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ The treatment of Ewing sarcoma is intensive multimodality combination chemothera
   </button>
   <figcaption>
     <span class="md-figure-caption">Chondrosarcoma: lytic lesion with “popcorn” chondroid mineralisation and endosteal scalloping of the cortex.</span>
-    <span class="md-figure-attribution"> — KGH, <a href="https://commons.wikimedia.org/wiki/File:Chondrosarcoma_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · KGH, <a href="https://commons.wikimedia.org/wiki/File:Chondrosarcoma_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Chondrosarcoma is the second commonest malignant primary bone tumor after osteos
   </button>
   <figcaption>
     <span class="md-figure-caption">Sacral chordoma: midline lytic lesion of the sacrum with destruction of the vertebral body and a presacral soft-tissue mass.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Sacral_Bone_Chordoma_(%CE%A7%CF%8C%CF%81%CE%B4%CF%89%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%99%CE%B5%CF%81%CE%BF%CF%8D_%CE%BF%CF%83%CF%84%CE%BF%CF%8D).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Sacral_Bone_Chordoma_(%CE%A7%CF%8C%CF%81%CE%B4%CF%89%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%99%CE%B5%CF%81%CE%BF%CF%8D_%CE%BF%CF%83%CF%84%CE%BF%CF%8D).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Chordoma is a rare, low- to intermediate-grade malignant tumor arising from noto
   </button>
   <figcaption>
     <span class="md-figure-caption">Multiple myeloma: the classic “punched-out” lytic lesions of the skull, with no surrounding reactive sclerosis.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:MMPlainSkull.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:MMPlainSkull.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Angiosarcoma of bone is a rare, high-grade vascular sarcoma. It can be solitary 
   </button>
   <figcaption>
     <span class="md-figure-caption">Bone metastasis in the femoral head: gross specimen with an infiltrative tumour mass replacing the cancellous bone.</span>
-    <span class="md-figure-attribution"> — Fernández-Aceñero & Aramendi Sánchez, <a href="https://commons.wikimedia.org/wiki/File:Femoral_head_with_bone_metastasis_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Fernández-Aceñero & Aramendi Sánchez, <a href="https://commons.wikimedia.org/wiki/File:Femoral_head_with_bone_metastasis_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

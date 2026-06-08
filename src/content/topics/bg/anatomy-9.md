@@ -49,7 +49,7 @@ order: 209
   </button>
   <figcaption>
     <span class="md-figure-caption">Коленна става: тибиофеморална и пателофеморална артикулация; статични стабилизатори (ACL, PCL, MCL, LCL, менискуси) и динамични (m. quadriceps, hamstring, popliteus).</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ order: 209
   </button>
   <figcaption>
     <span class="md-figure-caption">Медиален и латерален менискус на коляното: фиброхрущяли клиновидни структури, отговорни за разпределение на натоварването и съответствие на ставните повърхности; визуализират се артроскопски през стандартните портали.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ order: 209
   </button>
   <figcaption>
     <span class="md-figure-caption">Заден изглед на бедрото и поплитеалната ямка: n. ischiadicus, разклоняващ се на n. tibialis и n. peroneus communis; a. и v. poplitea дълбоко в ямката; ключова анатомия при задни достъпи до коляното.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

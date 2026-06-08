@@ -1,5 +1,5 @@
 ---
-title: "Non-Operative Treatment of Fractures — Types, Indications, Techniques"
+title: "Non-Operative Treatment of Fractures: Types, Indications, Techniques"
 lang: "en"
 kind: "topic"
 section: "trauma"
@@ -37,7 +37,7 @@ Closed reduction techniques include: Direct manipulation: The classical approach
   </button>
   <figcaption>
     <span class="md-figure-caption">Splint immobilisation: the initial measure for acute fractures, providing stabilisation, analgesia, and soft-tissue protection before definitive treatment.</span>
-    <span class="md-figure-attribution"> — Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Skin traction applies traction through adhesive strapping or specialized boots a
   </button>
   <figcaption>
     <span class="md-figure-caption">Skeletal traction via a transosseous pin — standard pin sites: distal femur, proximal tibia, calcaneus; allows up to 10-15% of body weight to maintain reduction.</span>
-    <span class="md-figure-attribution"> — Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

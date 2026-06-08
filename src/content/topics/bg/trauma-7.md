@@ -19,7 +19,7 @@ order: 107
   </button>
   <figcaption>
     <span class="md-figure-caption">Дълбока венозна тромбоза: клиничната изява е едностранен оток на крайника, болезненост по хода на дълбоките вени и положителен Homans тест.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Deep_vein_thrombosis_of_the_right_leg.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Deep_vein_thrombosis_of_the_right_leg.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ order: 107
   </button>
   <figcaption>
     <span class="md-figure-caption">„Saddle" белодробна тромбоемболия: голям тромб, яздещ бифуркацията на a. pulmonalis на CT-ангиография; класическата изява на масивна БТЕ с висок риск от хемодинамичен колапс.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:SaddlePE.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:SaddlePE.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ order: 107
   </button>
   <figcaption>
     <span class="md-figure-caption">КТ-пулмонална ангиография (КТА): дефект на изпълнение в дясна белодробна артерия (стрелка) при белодробен тромбоемболизъм; диагностично изследване на първи избор при подозрение за БТЕ.</span>
-    <span class="md-figure-attribution"> — Aung Myat & Arif Ahsan, <a href="https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Aung Myat & Arif Ahsan, <a href="https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 

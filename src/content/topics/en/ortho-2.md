@@ -19,7 +19,7 @@ Benign bone tumors are clonal neoplastic proliferations of bone-derived or matri
   </button>
   <figcaption>
     <span class="md-figure-caption">Osteoid osteoma: the central vascular nidus is visible on MRI; on radiography it appears as a small lucency surrounded by extensive reactive sclerosis.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteoidosteom_Roentgen-MRT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteoidosteom_Roentgen-MRT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Osteoblastoma is a benign bone-forming tumor that resembles osteoid osteoma hist
   </button>
   <figcaption>
     <span class="md-figure-caption">Solitary osteochondroma: pedunculated metaphyseal outgrowth pointing away from the adjacent joint; the medullary cavity is continuous with the parent bone.</span>
-    <span class="md-figure-attribution"> — Carmont, Davies, Gey van Pittius, Rees, <a href="https://commons.wikimedia.org/wiki/File:Osteochondroma_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Carmont, Davies, Gey van Pittius, Rees, <a href="https://commons.wikimedia.org/wiki/File:Osteochondroma_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ The solitary osteochondroma (also called osteocartilaginous exostosis) is the co
   </button>
   <figcaption>
     <span class="md-figure-caption">Hereditary multiple exostoses: multiple metaphyseal osteochondromas around the knee, typically with secondary deformity of the limb axis.</span>
-    <span class="md-figure-attribution"> — Bovée JV., <a href="https://commons.wikimedia.org/wiki/File:Multiple_osteochondromas_around_the_knee.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Bovée JV., <a href="https://commons.wikimedia.org/wiki/File:Multiple_osteochondromas_around_the_knee.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Hereditary multiple exostoses, also known as multiple hereditary osteochondromat
   </button>
   <figcaption>
     <span class="md-figure-caption">Enchondroma of a phalanx: central well-circumscribed lytic lesion with punctate or “popcorn” mineralisation.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Enchondroma_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Enchondroma_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Chondromyxoid fibroma is a rare benign tumor, the rarest of the chondrogenic tum
   </button>
   <figcaption>
     <span class="md-figure-caption">Giant cell tumour: eccentric epiphyseal lytic lesion with subarticular location, typically in skeletally mature young adults.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_bone_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_bone_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Extended intralesional curettage with high-speed burring and adjuvant therapy (p
   </button>
   <figcaption>
     <span class="md-figure-caption">Vertebral hemangioma: characteristic vertical-striation (“corduroy” / “jail-bar”) appearance on CT of the vertebral body.</span>
-    <span class="md-figure-attribution"> — Eco-mus, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_hemangioma_01.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Eco-mus, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_hemangioma_01.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

@@ -39,7 +39,7 @@ order: 128
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на калканеуса: често след падане от височина; ъгълът на Böhler (нормално 20-40°) се намалява при компресия.</span>
-    <span class="md-figure-attribution"> — Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ order: 128
   </button>
   <figcaption>
     <span class="md-figure-caption">Класификация на Weber/AO: A (под синдесмозата, стабилна), B (на ниво синдесмозата, типично с частично разкъсване на лигамента), C (над синдесмозата, с пълно скъсване и нестабилност).</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ order: 128
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на Maisonneuve: проксимална фибулна фрактура с асоциирана синдесмотична руптура и медиална травма на глезена; пропуска се без палпация по цялата дължина на фибулата и проксимални рентгенографии.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Maisonneuve_fracture_Fibula.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Maisonneuve_fracture_Fibula.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ order: 117
   </button>
   <figcaption>
     <span class="md-figure-caption">Colles fracture: extra-articular fracture of the distal radius with dorsal angulation and the classic “dinner-fork” deformity.</span>
-    <span class="md-figure-attribution"> — Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ The distal radius accounts for approximately 80 percent of the load transmission
   </button>
   <figcaption>
     <span class="md-figure-caption">Colles fracture: extra-articular distal radius fracture with dorsal displacement and angulation (the classic "dinner-fork" deformity); prototypical fall-on-outstretched-hand injury.</span>
-    <span class="md-figure-attribution"> — Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ The historic eponymous descriptions remain in widespread use and capture meaning
   </button>
   <figcaption>
     <span class="md-figure-caption">Displaced intra-articular distal radius fracture: radial height, inclination and volar tilt drive the AO/OTA classification and operative strategy.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

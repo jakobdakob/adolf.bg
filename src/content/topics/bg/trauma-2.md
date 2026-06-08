@@ -19,7 +19,7 @@ order: 102
   </button>
   <figcaption>
     <span class="md-figure-caption">Етапи на костното зарастване: хематом, възпаление, мекотъканен калус (хрущяло-фиброзен), твърд (костен) калус и ремоделиране.</span>
-    <span class="md-figure-attribution"> — Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ order: 102
   </button>
   <figcaption>
     <span class="md-figure-caption">Калусно образуване при индиректно костно зарастване: последователност от хематом → мек (фиброкартилагенен) калус → твърд (костен) калус → ремоделиране; характерно за фрактури с относителна стабилност.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ order: 102
   </button>
   <figcaption>
     <span class="md-figure-caption">Цикъл на костно ремоделиране: остеокласти (резорбция) последвани от остеобласти (формация); пре-остеобласти, остеобласти и bone-lining cells оркестрират непрекъснатата обмяна на костния матрикс.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_II_-_Pre-Osteoblast_Osteoblast_Bone-lining_cell_etc_--_Smart-Servier.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

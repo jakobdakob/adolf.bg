@@ -19,7 +19,7 @@ order: 24
   </button>
   <figcaption>
     <span class="md-figure-caption">Ревматоиден артрит — типичните деформации на ръката: улнарна девиация, лебедова шия, бутониер, MCP-ставен оток.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ order: 24
   </button>
   <figcaption>
     <span class="md-figure-caption">Swan-neck деформация при ревматоиден артрит: хиперекстензия в PIP и флексия в DIP; една от характерните късни деформации на ръцете при дългостоящ РА.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ order: 24
   </button>
   <figcaption>
     <span class="md-figure-caption">Ревматоиден артрит на ръката: маргинални ерозии в МКФ и ПИФ ставите, периартикуларна остеопения и стеснение на ставната цепнатина; характерно щаждане на ДИФ ставите.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_unaffected_carpal_bones_2009.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_unaffected_carpal_bones_2009.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

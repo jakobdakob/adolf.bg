@@ -25,7 +25,7 @@ order: 9
   </button>
   <figcaption>
     <span class="md-figure-caption">Аваскуларна некроза на бедрената глава: характерна склероза и колапс на горния сегмент с ранно сплескване на ставната повърхност.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_pelvis_with_idiopathic_avascular_necrosis_of_the_femoral_head.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_pelvis_with_idiopathic_avascular_necrosis_of_the_femoral_head.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ order: 9
   </button>
   <figcaption>
     <span class="md-figure-caption">AVN на бедрената глава: характерна склероза и колапс на горно-латералната част, „crescent sign" на субхондралната фрактура; ARCO/Ficat-Arlet стадиране води лечебните решения.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_idiopathic_avascular_necrosis_of_the_femoral_head_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_idiopathic_avascular_necrosis_of_the_femoral_head_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Association Research Circulation Osseous (ARCO): сходна с Ficat, с по�
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Kienböck (стадий IIIB): склероза, фрагментация и колапс на луната с нарушено карпално подреждане.</span>
-    <span class="md-figure-attribution"> — TheFriendliest, <a href="https://commons.wikimedia.org/wiki/File:Kienb%C3%B6ck%27s_Disease_Stage_IIIB.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · TheFriendliest, <a href="https://commons.wikimedia.org/wiki/File:Kienb%C3%B6ck%27s_Disease_Stage_IIIB.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

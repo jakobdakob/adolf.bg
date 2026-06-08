@@ -19,7 +19,7 @@ order: 204
   </button>
   <figcaption>
     <span class="md-figure-caption">Лакътна става: комбинирана хумероулнарна (флексия-екстензия), хумероради­ална и проксимална радиоулнарна (пронация-супинация) става.</span>
-    <span class="md-figure-attribution"> — AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Humeroradial articulation: Артикулация между capitellum на д�
   </button>
   <figcaption>
     <span class="md-figure-caption">Нормална рентгенография на лакътя — латерален изглед: ясни кортикални контури на дисталния хумерус, проксималния radius и ulna; линията Cap-Radii-Capitellum (CRCl) трябва да минава през capitellum при всяка проекция.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
   </figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Accessory lateral collateral ligament: От долната повърхност 
   </button>
   <figcaption>
     <span class="md-figure-caption">Cubital fossa — триъгълно пространство пред лакътя, ограничено от m. brachioradialis (латерално), m. pronator teres (медиално) и линията между епикондилите; съдържимо: n. medianus, a. brachialis, сухожилие на m. biceps, n. radialis в по-латералната част.</span>
-    <span class="md-figure-attribution"> — Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

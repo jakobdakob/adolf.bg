@@ -25,7 +25,7 @@ The deforming forces on the distal femur fracture are predictable: the gastrocne
   </button>
   <figcaption>
     <span class="md-figure-caption">Distal femoral fracture: Letenneur classification of the Hoffa fracture (coronal fracture of the lateral condyle).</span>
-    <span class="md-figure-attribution"> — Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
+    <span class="md-figure-attribution"> · Chirag Kapoor et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_classification_of_lateral_femoral_condyle_Letenneur_(1978).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 1.0</a></span>
   </figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Type I (proximal to the femoral component): Treated as a standard distal femur f
   </button>
   <figcaption>
     <span class="md-figure-caption">Hoffa fracture: coronal-plane fracture of the medial femoral condyle; frequently missed on standard AP and lateral radiographs and requires CT for recognition.</span>
-    <span class="md-figure-attribution"> — Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Koné et al., <a href="https://commons.wikimedia.org/wiki/File:Hoffa_fracture_of_medial_unicondylar_and_bilateral_in_a_man_a_rare_case_2015_P02.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

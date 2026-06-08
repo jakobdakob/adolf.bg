@@ -23,7 +23,7 @@ The humeral shaft extends from the surgical neck proximally to the supracondylar
   </button>
   <figcaption>
     <span class="md-figure-caption">Spiral humeral shaft fracture: torsional injury; classically at risk for radial nerve injury in the spiral groove (Holstein-Lewis pattern at the distal third).</span>
-    <span class="md-figure-attribution"> — RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ The management of the radial nerve palsy associated with closed humeral shaft fr
   </button>
   <figcaption>
     <span class="md-figure-caption">Comminuted humeral shaft fracture with abundant callus: the typical result of non-operative treatment with a Sarmiento functional brace; the high biologic potential of this location accounts for the 95%+ union rate without surgery.</span>
-    <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Open reduction and internal fixation with a plate is the most common operative t
   </button>
   <figcaption>
     <span class="md-figure-caption">Elastic stable intramedullary nailing (ESIN) of a humeral shaft fracture: particularly suited to paediatric and adolescent patients; reduces the risk to adjacent physes.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 

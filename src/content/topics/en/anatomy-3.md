@@ -19,7 +19,7 @@ The arm (extending from the shoulder to the elbow) contains the humerus and its 
   </button>
   <figcaption>
     <span class="md-figure-caption">Left humerus, anterior view: head, surgical neck, shaft with anterior bow, distal medial and lateral columns, trochlea and capitellum.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ The humerus is the largest long bone of the upper extremity, extending from the 
   </button>
   <figcaption>
     <span class="md-figure-caption">Radial sulcus (spiral groove) on the posterior surface of the humerus: the radial nerve crosses from medial-superior to lateral-inferior, immediately adjacent to periosteum; the basis for frequent nerve injury with diaphyseal fractures.</span>
-    <span class="md-figure-attribution"> — Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The radial nerve is the principal neurological structure at risk in approaches t
   </button>
   <figcaption>
     <span class="md-figure-caption">Brachial artery in the medial bicipital groove: continuation of the axillary artery distal to the lower border of teres major; divides into the radial and ulnar arteries in the cubital fossa.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

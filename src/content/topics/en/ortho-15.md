@@ -19,7 +19,7 @@ Cerebral palsy (CP) is a non-progressive disorder of movement and posture arisin
   </button>
   <figcaption>
     <span class="md-figure-caption">Cerebral palsy: non-progressive motor disorder from injury to the developing brain; the orthopedic manifestations are secondary to spasticity and muscle imbalance.</span>
-    <span class="md-figure-attribution"> — National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ The classical example is the spastic hip: the hip flexors and adductors are typi
   </button>
   <figcaption>
     <span class="md-figure-caption">Amsterdam Gait Classification: standardised types of hemiplegic gait in cerebral palsy used for treatment planning.</span>
-    <span class="md-figure-attribution"> — Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bony reconstruction — varus-derotation femoral osteotomy combined with pelvic 
   </button>
   <figcaption>
     <span class="md-figure-caption">Equinus deformity: fixed plantar flexion from a spastic triceps surae; the commonest foot deformity in cerebral palsy.</span>
-    <span class="md-figure-attribution"> — Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

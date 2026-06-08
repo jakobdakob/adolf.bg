@@ -35,7 +35,7 @@ order: 21
   </button>
   <figcaption>
     <span class="md-figure-caption">Коксартроза — стесняване на ставната цепка, субхондрална склероза, кисти и периферни остеофити: четирите класически рентгенографски белега на остеоартрозата.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_osteoarthritis.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ order: 21
   </button>
   <figcaption>
     <span class="md-figure-caption">Вторична коксартроза при остатъчна тазобедрена дисплазия: стеснение на ставната цепнатина, остеофити и субхондрална склероза; класическата причина за ранна коксартроза при млад възрастен.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ order: 21
   </button>
   <figcaption>
     <span class="md-figure-caption">Постоперативна рентгенография след тотална артропластика на тазобедрената става: антеропостериорна проекция с ацетабулна купа, феморален стем и феморална глава in situ.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

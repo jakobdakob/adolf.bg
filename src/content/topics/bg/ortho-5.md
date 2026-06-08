@@ -19,7 +19,7 @@ order: 5
   </button>
   <figcaption>
     <span class="md-figure-caption">Кърмачески септичен артрит: типична поза на засегнатия крайник във флексия, абдукция и външна ротация, отразяваща оптимизирания обем на ставната капсула при болезнен излив.</span>
-    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Coxitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Coxitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Staphylococcus aureus, включително нарастващ дял MRSA в 
   </button>
   <figcaption>
     <span class="md-figure-caption">Ехография на тазобедрената става при транзиторен синовит: анехогенен ставен излив, изместващ предната капсула. Ехографията е златен стандарт за откриване на излива и насочване на аспирация.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Ultrasonography_of_joint_effusion_in_transient_synovitis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Ultrasonography_of_joint_effusion_in_transient_synovitis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

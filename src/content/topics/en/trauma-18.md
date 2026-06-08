@@ -23,7 +23,7 @@ The carpus consists of two rows of four bones each — the proximal row (scaphoi
   </button>
   <figcaption>
     <span class="md-figure-caption">Scaphoid fracture: the commonest carpal fracture; the retrograde blood supply from the radial artery predisposes proximal-pole fractures to AVN.</span>
-    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ The carpus consists of two rows of four bones each — the proximal row (scaphoi
   </button>
   <figcaption>
     <span class="md-figure-caption">Occult scaphoid waist fracture — barely visible on the initial X-ray; with clinical suspicion (snuffbox tenderness) — cast and repeat X-ray at 10-14 days or MRI.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ The remaining carpal fractures collectively account for 20 to 30 percent of carp
   </button>
   <figcaption>
     <span class="md-figure-caption">Lunate dislocation — lateral X-ray: volar displacement of the lunate out of the radial fossa with the other carpal bones in normal position; the final Mayfield IV stage.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:LunatedislocationL.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

@@ -23,7 +23,7 @@ Septic arthritis is the infection of a joint, most commonly by hematogenous seed
   </button>
   <figcaption>
     <span class="md-figure-caption">Septic arthritis of the hip — X-ray: widened joint space from effusion with early juxta-articular osteopenia; urgent aspiration is performed before starting antibiotics.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Host C is the patient in whom the treatment is worse than the disease and pallia
   </button>
   <figcaption>
     <span class="md-figure-caption">Chronic osteomyelitis: extracortical new bone formation (involucrum) surrounding the devitalized sequestrum; the classic radiographic hallmark of persistent bone infection.</span>
-    <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Involucrum_(Extracortical_New_Bone_Formation)_in_Chronic_Osteomyelitis_(48327308712).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+    <span class="md-figure-attribution"> · Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Involucrum_(Extracortical_New_Bone_Formation)_in_Chronic_Osteomyelitis_(48327308712).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
 

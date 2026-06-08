@@ -25,7 +25,7 @@ The iliotibial band anterolaterally and the pes anserinus tendons medially contr
   </button>
   <figcaption>
     <span class="md-figure-caption">Anterior cruciate ligament tear: typical of rotational-valgus injuries; often part of a knee dislocation with potential vascular compromise.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Anterior_Cruciate_Ligament_Tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ The functional outcomes of knee dislocation are generally less than perfect, wit
   </button>
   <figcaption>
     <span class="md-figure-caption">Meniscal tear on MRI: linear high-signal line reaching the articular surface; a frequent associated injury in chronic ACL deficiency or acute rotational trauma.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ The chronic knee instabilities represent a distinct topic with their own substan
   </button>
   <figcaption>
     <span class="md-figure-caption">Arthroscopic ACL reconstruction with hamstring (semitendinosus/gracilis) autograft — the graft passes through femoral and tibial tunnels; the most common modern choice for chronic ACL deficiency.</span>
-    <span class="md-figure-attribution"> — Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Chih-Hwa Chen, <a href="https://commons.wikimedia.org/wiki/File:ACLI_Hamstring_01.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

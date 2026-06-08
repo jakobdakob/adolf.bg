@@ -19,7 +19,7 @@ order: 206
   </button>
   <figcaption>
     <span class="md-figure-caption">Дълбока палмарна дисекция на китката и ръката: флексорни сухожилия с обвивки, A1–A5 ремъци, сензорни нерви и съдове в палмарната дъга.</span>
-    <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Interphalangeal (IP) стави: Проксималните IP (PIP) стави 
   </button>
   <figcaption>
     <span class="md-figure-caption">Карпалните 8 кости в два реда: проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Interosseous compartments: Четири musculi interossei dorsales и три mu
   </button>
   <figcaption>
     <span class="md-figure-caption">Шестте дорзални екстензорни компартменти на китката (номерирани): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Анатомична основа на De Quervain (1) и tenosynovitis на ECU (6).</span>
-    <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 ---
-title: "Статични деформитети на ходилото — халукс валгус, халукс ригидус и дигитус малеус."
+title: "Статични деформитети на ходилото: халукс валгус, халукс ригидус и дигитус малеус."
 lang: "bg"
 kind: "topic"
 section: "ortho"
@@ -38,7 +38,7 @@ Hallux valgus е сложна триизмерна деформация на п�
   </button>
   <figcaption>
     <span class="md-figure-caption">Hallux valgus при натоварване: измерени HVA (hallux valgus angle, нормално &lt;15°), IMA (intermetatarsal angle 1-2, нормално &lt;9°) и DMAA; основа за избор на остеотомия.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Hallux valgus при хипермобилност: Процедурата по L
   </button>
   <figcaption>
     <span class="md-figure-caption">Hallux rigidus: остеоартроза на първата метатарзофалангеална става с дорзални остеофити, ограничаващи дорзифлексията.</span>
-    <span class="md-figure-attribution"> — Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ Hallux rigidus е остеоартроза на първата метатарз�
   </button>
   <figcaption>
     <span class="md-figure-caption">Чукообразни пръсти: флексия на проксималния интерфалангеален става с екстензия на дисталния интерфалангеален и метатарзофалангеален.</span>
-    <span class="md-figure-attribution"> — Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

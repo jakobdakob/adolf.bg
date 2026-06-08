@@ -25,7 +25,7 @@ The distal radioulnar joint (DRUJ) between the ulnar head and the sigmoid notch 
   </button>
   <figcaption>
     <span class="md-figure-caption">Cross-section of the left forearm: radius and ulna, interosseous membrane, volar (flexor-pronator) and dorsal (extensor-supinator) compartments with the mobile wad of Henry.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ The mobile wad consists of the brachioradialis, extensor carpi radialis longus (
   </button>
   <figcaption>
     <span class="md-figure-caption">Median nerve sensory distribution of the hand: palmar surface of the thumb, index, middle and radial half of the ring finger; the characteristic loss in carpal tunnel syndrome or median nerve transection above the wrist.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

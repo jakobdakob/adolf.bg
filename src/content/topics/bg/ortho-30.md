@@ -45,7 +45,7 @@ order: 30
   </button>
   <figcaption>
     <span class="md-figure-caption">Безциментирана тазобедрена ендопротеза: поресто/хидроксиапатитно покритие на стема и купата за биологична остеоинтеграция; алтернатива на циментираната фиксация при по-млади и активни пациенти.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip-replacement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip-replacement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ order: 30
   </button>
   <figcaption>
     <span class="md-figure-caption">Тотална тазобедрена артропластика: ацетабуларна чаша, феморална глава и стем; стандартна процедура при крайно-стадийна остеоартроза или AVN.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

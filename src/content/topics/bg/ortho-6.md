@@ -19,7 +19,7 @@ order: 6
   </button>
   <figcaption>
     <span class="md-figure-caption">Проксимален фокален бедрен дефицит: клинична изява с поразително скъсяване на бедрото и флексия-абдукция-външна ротация на остатъчния крайник.</span>
-    <span class="md-figure-attribution"> — Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ order: 6
   </button>
   <figcaption>
     <span class="md-figure-caption">Фибуларна хемимелия: частично или пълно отсъствие на фибулата с антеромедиална извивка на тибията, скъсяване и валгус на глезена/ходилото.</span>
-    <span class="md-figure-attribution"> — Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ order: 6
   </button>
   <figcaption>
     <span class="md-figure-caption">Вродена псевдоартроза на тибията: антеролатерална извивка с фрактура и неуспешно зарастване; типично свързана с неврофиброматоза тип 1.</span>
-    <span class="md-figure-attribution"> — Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

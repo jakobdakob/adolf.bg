@@ -19,7 +19,7 @@ The systemic skeletal dysplasias are a large group of inherited disorders of bon
   </button>
   <figcaption>
     <span class="md-figure-caption">Achondroplasia: the commonest disproportionate dwarfism; rhizomelic limb shortening, frontal bossing, saddle nose, and trident hand configuration.</span>
-    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ The metaphyseal chondrodysplasias are a group of conditions characterized by abn
   </button>
   <figcaption>
     <span class="md-figure-caption">Osteogenesis imperfecta: defective type-I collagen synthesis; brittle bones with multiple fractures, long-bone bowing, and blue sclerae.</span>
-    <span class="md-figure-attribution"> — Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · Sydney S. Gellis & Murray Feingold, <a href="https://commons.wikimedia.org/wiki/File:Osteogenesis_Imperfecta_1.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 

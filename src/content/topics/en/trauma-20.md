@@ -44,7 +44,7 @@ The treatment of Pipkin fractures is individualized: Pipkin I with a small infer
   </button>
   <figcaption>
     <span class="md-figure-caption">Acetabular fracture: the Letournel classification distinguishes ten patterns (5 elementary + 5 associated) based on column (anterior, posterior) and wall involvement.</span>
-    <span class="md-figure-attribution"> — Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ The Letournel classification (Robert Judet and Émile Letournel, 1964) of acetab
   </button>
   <figcaption>
     <span class="md-figure-caption">Posterior wall acetabular fracture: the most common elementary Letournel pattern; typically a dashboard injury with posterior hip dislocation; Kocher-Langenbeck approach for fixation.</span>
-    <span class="md-figure-attribution"> — Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

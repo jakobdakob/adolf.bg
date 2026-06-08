@@ -15,7 +15,7 @@ order: 8
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Legg-Calvé-Perthes: дясна бедрена глава с фрагментация и склероза, типична за фазата на резорбция и реосификация.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Perthes_rechts_6W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Perthes_rechts_6W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ order: 8
   </button>
   <figcaption>
     <span class="md-figure-caption">Стадии на болестта на Perthes по Waldenström: начален (аваскуларен), фрагментационен, реосификационен и стадий на ремоделиране.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ order: 8
   </button>
   <figcaption>
     <span class="md-figure-caption">Болест на Legg-Calvé-Perthes: характерна фрагментация и колапс на епифизата на бедрената глава; класификацията се основава на степента на засягане (Catterall) или латералния стълб (Herring).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

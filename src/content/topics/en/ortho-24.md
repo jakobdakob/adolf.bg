@@ -19,7 +19,7 @@ The arthropathies form a heterogeneous group of inflammatory and degenerative jo
   </button>
   <figcaption>
     <span class="md-figure-caption">Rheumatoid arthritis — characteristic hand deformities: ulnar deviation, swan-neck, boutonnière, and MCP-joint swelling.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Rheumatoid arthritis is a chronic systemic autoimmune disease characterized by s
   </button>
   <figcaption>
     <span class="md-figure-caption">Swan-neck deformity in rheumatoid arthritis: hyperextension at the PIP and flexion at the DIP; one of the characteristic late hand deformities in long-standing RA.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ The 2010 ACR/EULAR classification criteria for RA assess: joint involvement (num
   </button>
   <figcaption>
     <span class="md-figure-caption">Rheumatoid arthritis of the hand: marginal erosions in the MCP and PIP joints, periarticular osteopenia and joint-space narrowing; the DIP joints are characteristically spared.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_unaffected_carpal_bones_2009.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_unaffected_carpal_bones_2009.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

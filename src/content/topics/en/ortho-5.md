@@ -19,7 +19,7 @@ The term “infantile osteoarthritis” (a translation of “кърмаческ�
   </button>
   <figcaption>
     <span class="md-figure-caption">Infantile septic arthritis: typical posturing of the affected limb in flexion, abduction, and external rotation, the position that maximises capsular volume in the presence of a painful effusion.</span>
-    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Coxitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+    <span class="md-figure-attribution"> · J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Coxitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The complications of neonatal and infantile septic arthritis are among the most 
   </button>
   <figcaption>
     <span class="md-figure-caption">Ultrasound of the hip in transient synovitis: anechoic joint effusion displacing the anterior capsule. Ultrasound is the gold standard for detecting the effusion and guiding aspiration.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Ultrasonography_of_joint_effusion_in_transient_synovitis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Ultrasonography_of_joint_effusion_in_transient_synovitis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

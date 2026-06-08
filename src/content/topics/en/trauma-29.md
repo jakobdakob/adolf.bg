@@ -15,7 +15,7 @@ order: 129
   </button>
   <figcaption>
     <span class="md-figure-caption">Achilles tendon rupture: the Thompson test (no plantar flexion when the calf is squeezed) is pathognomonic.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Anatomical reduction is critical and is assessed both clinically and radiographi
   </button>
   <figcaption>
     <span class="md-figure-caption">Subtle anterior talar fracture: easily missed on the initial radiographs; CT is required when there is persistent pain and suspicion of occult talar injury.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Extra-articular calcaneal fractures (approximately 25 percent) include the anter
   </button>
   <figcaption>
     <span class="md-figure-caption">Böhler's angle: measured between the tangent to the posterior facet tips and the tangent to the dorsal surface (normal 20-40°); reduced or reversed angle indicates depression of the posterior facet in calcaneal fracture.</span>
-    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

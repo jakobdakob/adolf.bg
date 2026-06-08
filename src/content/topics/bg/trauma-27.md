@@ -41,7 +41,7 @@ order: 127
   </button>
   <figcaption>
     <span class="md-figure-caption">Спираловидна фрактура на тибиалната диафиза (AO 42-A1): типично торзионно увреждане; разпознаваема по дългата спирална линия около оста на костта.</span>
-    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ order: 127
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на pilon: вътреставна фрактура на дисталната тибия с интракортикална раздробеност; класически високоенергийна аксиална травма с тежко увреждане на меките тъкани.</span>
-    <span class="md-figure-attribution"> — Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -59,7 +59,7 @@ Tension (разтегляне) поражда напречни фрактури,
   </button>
   <figcaption>
     <span class="md-figure-caption">AO/OTA класификация на фрактурите: буквено-цифров код с анатомична локализация (1-9), сегмент (1-3), тип (A/B/C), група и подгрупа.</span>
-    <span class="md-figure-attribution"> — Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Tension (разтегляне) поражда напречни фрактури,
   </button>
   <figcaption>
     <span class="md-figure-caption">Описателни типове фрактури: напречна, коса, спираловидна, раздробена, greenstick (само в детска възраст); основа за стандартизирано описание и комуникация преди прилагане на AO/OTA системата.</span>
-    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Kind_of_fractures_-_Greenstick_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

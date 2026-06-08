@@ -25,7 +25,7 @@ The neurovascular relationships of the forearm are complex. The radial artery an
   </button>
   <figcaption>
     <span class="md-figure-caption">Both-bone forearm fracture (AO/OTA 22): simultaneous fracture of radius and ulna; adults require ORIF with dual-plate fixation to restore radial bow and forearm rotation.</span>
-    <span class="md-figure-attribution"> — Saraq, <a href="https://commons.wikimedia.org/wiki/File:Fracture_both_bones_of_the_left_arm.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Saraq, <a href="https://commons.wikimedia.org/wiki/File:Fracture_both_bones_of_the_left_arm.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ True isolated radial shaft fractures are uncommon and must prompt the suspicion 
   </button>
   <figcaption>
     <span class="md-figure-caption">Monteggia injury: proximal ulnar fracture with anterior dislocation of the radial head (Bado type I); the radiocapitellar line should pass through the capitellum on every view.</span>
-    <span class="md-figure-attribution"> — Jane Wikipedian, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jane Wikipedian, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ The treatment of the adult Monteggia injury is open reduction and internal fixat
   </button>
   <figcaption>
     <span class="md-figure-caption">Galeazzi fracture-dislocation: distal radial-shaft fracture with dislocation of the distal radioulnar joint; in adults requires operative reduction and plating of the radius.</span>
-    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi_Fracture_of_Distal_Radius.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi_Fracture_of_Distal_Radius.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

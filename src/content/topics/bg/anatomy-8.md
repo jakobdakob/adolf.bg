@@ -19,7 +19,7 @@ order: 208
   </button>
   <figcaption>
     <span class="md-figure-caption">Тазобедрена става: сферична артикулация между ацетабулума и главата на бедрената кост; стабилизирана от плътната капсула, лабрума и трите главни лигамента (iliofemoralis, pubofemoralis, ischiofemoralis).</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Musculus gluteus medius и musculus gluteus minimus са критични за �
   </button>
   <figcaption>
     <span class="md-figure-caption">Феморален триъгълник — от латерално към медиално: n. femoralis, a. femoralis, v. femoralis (мнемоника NAVL); главна съдово-нервна основа за предните достъпи към тазобедрената става.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
   </button>
   <figcaption>
     <span class="md-figure-caption">Преден аспект на бедрото: m. sartorius (медиално) и m. tensor fasciae latae (латерално) образуват безнервния интервал на Smith-Petersen достъпа; дълбоко между m. rectus femoris и m. gluteus medius.</span>
-    <span class="md-figure-attribution"> — Wikipedia user (Gray 430), <a href="https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user (Gray 430), <a href="https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

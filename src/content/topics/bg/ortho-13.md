@@ -23,7 +23,7 @@ order: 13
   </button>
   <figcaption>
     <span class="md-figure-caption">Сколиоза: странично изкривяване на гръбначния стълб над 10° по Cobb с ротация на прешлените; конгениталната форма се дължи на анатомични аномалии (failure of formation или segmentation).</span>
-    <span class="md-figure-attribution"> — BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ order: 13
   </button>
   <figcaption>
     <span class="md-figure-caption">Синдром на Klippel-Feil — вродено сливане на два или повече шийни прешлена с класическата триада: къс врат, ниска коса по тила и ограничена подвижност на врата.</span>
-    <span class="md-figure-attribution"> — Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ order: 13
   </button>
   <figcaption>
     <span class="md-figure-caption">Цервикални ребра: свръхбройни ребра от седмия шиен прешлен; чести (~1% от населението) и обикновено асимптоматични, но могат да причинят синдром на торакалния изход.</span>
-    <span class="md-figure-attribution"> — KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ order: 13
   </button>
   <figcaption>
     <span class="md-figure-caption">Спина бифида — спектър от вродени дефекти на затварянето на невралната тръба: spina bifida occulta, менингоцеле и миеломенингоцеле.</span>
-    <span class="md-figure-attribution"> — CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+    <span class="md-figure-attribution"> · CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
   </figcaption>
 </figure>
 

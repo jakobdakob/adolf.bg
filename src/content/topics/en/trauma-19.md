@@ -19,7 +19,7 @@ The pelvic ring is uniquely positioned in orthopedic trauma as both a structural
   </button>
   <figcaption>
     <span class="md-figure-caption">Pelvic ring: two innominate bones and the sacrum joined anteriorly at the pubic symphysis and posteriorly at the SI joints; structural stability depends on the posterior sacroiliac ligaments, the strongest in the body.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ The pelvic ring is formed by the two innominate bones (each comprising the fused
   </button>
   <figcaption>
     <span class="md-figure-caption">Open-book pelvic ring injury (APC II/III in Young-Burgess): pubic symphysis diastasis with disruption of the anterior and posterior sacroiliac ligaments.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Open-Book-Verletzung_durch_Turmspringen_45M_-_CR_-_001_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Open-Book-Verletzung_durch_Turmspringen_45M_-_CR_-_001_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ The unstable pelvis with hemorrhage represents one of the most pressing emergenc
   </button>
   <figcaption>
     <span class="md-figure-caption">Anterior pelvic external fixator: emergency stabilization for unstable pelvic ring fracture with ongoing haemorrhage; reduces pelvic volume and tamponades the pelvic haematoma.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External-External-Fixator-Pelvis-Acetabulum.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External-External-Fixator-Pelvis-Acetabulum.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

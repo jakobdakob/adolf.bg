@@ -15,7 +15,7 @@ order: 8
   </button>
   <figcaption>
     <span class="md-figure-caption">Legg-Calvé-Perthes disease: right femoral head with fragmentation and sclerosis, typical of the resorption and re-ossification phases.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Perthes_rechts_6W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Perthes_rechts_6W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ The presentation is typically of a young child (4-8 years) with intermittent hip
   </button>
   <figcaption>
     <span class="md-figure-caption">Waldenström stages of Perthes disease: initial (avascular), fragmentation, re-ossification, and remodelling phases.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Plain radiographs (AP pelvis and frog-lateral views of both hips) are the standa
   </button>
   <figcaption>
     <span class="md-figure-caption">Legg-Calvé-Perthes disease: characteristic fragmentation and collapse of the femoral head epiphysis; classification is by extent of involvement (Catterall) or lateral pillar (Herring).</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

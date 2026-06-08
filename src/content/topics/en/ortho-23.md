@@ -1,5 +1,5 @@
 ---
-title: "Static Foot Deformities — Hallux Valgus, Hallux Rigidus, Hammer Toe"
+title: "Static Foot Deformities: Hallux Valgus, Hallux Rigidus, Hammer Toe"
 lang: "en"
 kind: "topic"
 section: "ortho"
@@ -34,7 +34,7 @@ Presentation is with the characteristic medial bunion deformity, pain over the m
   </button>
   <figcaption>
     <span class="md-figure-caption">Weight-bearing hallux valgus: measured HVA (hallux valgus angle, normal &lt;15°), IMA (intermetatarsal 1-2 angle, normal &lt;9°) and DMAA; the basis for osteotomy selection.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ The principal complications of hallux valgus surgery include: recurrence (the co
   </button>
   <figcaption>
     <span class="md-figure-caption">Hallux rigidus: osteoarthritis of the first metatarsophalangeal joint with dorsal osteophytes limiting dorsiflexion.</span>
-    <span class="md-figure-attribution"> — Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Mehlauge, <a href="https://commons.wikimedia.org/wiki/File:Hallux_rigidus_(klin.).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Grade 1-2 (early disease): Cheilectomy — resection of the dorsal osteophyte an
   </button>
   <figcaption>
     <span class="md-figure-caption">Hammer toes: flexion of the proximal interphalangeal joint with extension of the distal interphalangeal and metatarsophalangeal joints.</span>
-    <span class="md-figure-attribution"> — Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wwcmdmsha (neurosigns.org), <a href="https://commons.wikimedia.org/wiki/File:Hammer_toes.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

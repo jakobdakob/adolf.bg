@@ -19,7 +19,7 @@ The complications considered in this chapter share a final common pathway of dis
   </button>
   <figcaption>
     <span class="md-figure-caption">Nonunion: failure of union beyond 6-9 months with rounded/sclerotic fragment ends; the Weber-Cech classification subdivides into hypertrophic, oligotrophic, and atrophic types.</span>
-    <span class="md-figure-attribution"> — Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

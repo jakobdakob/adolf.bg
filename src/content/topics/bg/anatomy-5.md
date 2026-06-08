@@ -31,7 +31,7 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
   </button>
   <figcaption>
     <span class="md-figure-caption">Напречен срез на лявата предмишница: radius и ulna, membrana interossea, волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) компартмент с мобилното тяло на Henry.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Nervus interosseous posterior (PIN) преминава през musculus supinat
   </button>
   <figcaption>
     <span class="md-figure-caption">Сензорна зона на n. medianus в ръката: палмарната повърхност на палеца, II, III и радиалната половина на IV пръст; характерна загуба при синдром на carpal tunnel или прерязване на нерва над китката.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

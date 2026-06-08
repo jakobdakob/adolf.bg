@@ -19,7 +19,7 @@ Musculoskeletal infections constitute one of the great challenges of orthopedic 
   </button>
   <figcaption>
     <span class="md-figure-caption">Osteomyelitis of a long bone: lytic destruction with aggressive periosteal reaction and cortical erosion.</span>
-    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Osteomyelitis_(2).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Osteomyelitis_(2).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ The cornerstone of treatment is prompt antibiotic therapy guided by the most lik
   </button>
   <figcaption>
     <span class="md-figure-caption">Brodie’s abscess: well-circumscribed lytic metaphyseal lesion with a surrounding sclerotic halo, representing localised subacute osteomyelitis.</span>
-    <span class="md-figure-attribution"> — Jto410, <a href="https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Jto410, <a href="https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Periprosthetic joint infection (PJI) is the most consequential complication of t
   </button>
   <figcaption>
     <span class="md-figure-caption">Septic arthritis of the hip: widened joint space from effusion, joint erosion, and periarticular osteoporosis.</span>
-    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Anaerobic osteomyelitis is uncommon but should be considered in chronic, foul-sm
   </button>
   <figcaption>
     <span class="md-figure-caption">Pott’s disease: tuberculous spondylitis with the classic gibbus deformity (angular kyphosis) from destruction of vertebral bodies (historical clinical illustration).</span>
-    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Tuberculosis%3B_spine_of_boy_under_care_of_Mr_Pott_Wellcome_L0006118.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+    <span class="md-figure-attribution"> · Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Tuberculosis%3B_spine_of_boy_under_care_of_Mr_Pott_Wellcome_L0006118.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ order: 19
   </button>
   <figcaption>
     <span class="md-figure-caption">Адолесцентна епифизиолиза: постериомедиално приплъзване на главата на бедрената кост спрямо шийката; линията на Klein (по горния ръб на шийката) не пресича епифизата при SCFE.</span>
-    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ order: 19
   </button>
   <figcaption>
     <span class="md-figure-caption">SCFE на frog-leg странична проекция: задно-медиално хлъзване на капиталната епифиза спрямо метафизата; линията на Klein, прокарана по горния ръб на шийката, не пресича епифизата (положителен знак).</span>
-    <span class="md-figure-attribution"> — Mikir, <a href="https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Mikir, <a href="https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

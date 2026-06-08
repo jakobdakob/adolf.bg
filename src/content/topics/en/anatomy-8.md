@@ -19,7 +19,7 @@ The hip joint, the deepest and most constrained ball-and-socket articulation in 
   </button>
   <figcaption>
     <span class="md-figure-caption">Hip joint: ball-and-socket articulation between the acetabulum and the femoral head; stabilized by the thick capsule, the labrum and the three major ligaments (iliofemoral, pubofemoral, ischiofemoral).</span>
-    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The principal hip muscles include: Anterior compartment: Iliopsoas (hip flexion)
   </button>
   <figcaption>
     <span class="md-figure-caption">Femoral triangle — lateral to medial: femoral nerve, artery, vein (NAVL mnemonic); the principal neurovascular basis for anterior hip approaches.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral art
   </button>
   <figcaption>
     <span class="md-figure-caption">Anterior thigh: sartorius (medial) and tensor fasciae latae (lateral) form the Smith-Petersen internervous interval; deep, between rectus femoris and gluteus medius.</span>
-    <span class="md-figure-attribution"> — Wikipedia user (Gray 430), <a href="https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user (Gray 430), <a href="https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

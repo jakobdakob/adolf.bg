@@ -15,7 +15,7 @@ order: 19
   </button>
   <figcaption>
     <span class="md-figure-caption">Slipped capital femoral epiphysis: posteromedial slip of the femoral head relative to the neck; the Klein line (along the superior femoral neck) fails to intersect the epiphysis in SCFE.</span>
-    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ The classical presentation is of an obese adolescent with a limp and pain in the
   </button>
   <figcaption>
     <span class="md-figure-caption">SCFE on frog-leg lateral: posteromedial slip of the capital epiphysis relative to the metaphysis; the Klein line drawn along the superior femoral neck fails to intersect the epiphysis (positive sign).</span>
-    <span class="md-figure-attribution"> — Mikir, <a href="https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Mikir, <a href="https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

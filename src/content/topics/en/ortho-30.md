@@ -29,7 +29,7 @@ The choice of bearing surface affects long-term implant survival and is one of t
   </button>
   <figcaption>
     <span class="md-figure-caption">Uncemented hip prosthesis: porous/HA-coated stem and cup for biological osseointegration; the alternative to cemented fixation, favoured in younger active patients.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip-replacement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip-replacement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The design of arthroplasty implants involves balancing competing requirements of
   </button>
   <figcaption>
     <span class="md-figure-caption">Total hip arthroplasty: acetabular cup, femoral head, and stem; the gold-standard procedure for end-stage hip osteoarthritis and AVN.</span>
-    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+    <span class="md-figure-attribution"> · Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 

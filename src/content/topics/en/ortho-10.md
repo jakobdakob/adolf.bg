@@ -19,7 +19,7 @@ The flatfoot (pes planus) encompasses a heterogeneous group of foot morphologies
   </button>
   <figcaption>
     <span class="md-figure-caption">Flexible pes planus: loss of the medial longitudinal arch on weight-bearing that reconstitutes on tiptoe or sitting.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ A rigid flatfoot in childhood — that is, a flatfoot that does not correct on t
   </button>
   <figcaption>
     <span class="md-figure-caption">Tarsal coalition: characteristic “talar beak” on the dorsal surface of the talus, indicating an adjacent talocalcaneal or calcaneonavicular coalition.</span>
-    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Talar_beak_in_tarsal_coalition_39jw_-_Roe_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Talar_beak_in_tarsal_coalition_39jw_-_Roe_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Hereditary joint hypermobility encompasses a spectrum of conditions in which gen
   </button>
   <figcaption>
     <span class="md-figure-caption">Beighton score: 9-point scale for generalised joint hypermobility based on five clinical manoeuvres (4 bilateral + 1 forward trunk flexion).</span>
-    <span class="md-figure-attribution"> — U3067474, <a href="https://commons.wikimedia.org/wiki/File:Beighton_Score.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · U3067474, <a href="https://commons.wikimedia.org/wiki/File:Beighton_Score.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

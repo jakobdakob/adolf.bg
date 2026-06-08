@@ -15,7 +15,7 @@ order: 115
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на олекранона: типична остеосинтеза по принципа на tension band wiring (опъваща лента) превръща опъващите сили на трицепса в компресия на фрактурата.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ order: 115
   </button>
   <figcaption>
     <span class="md-figure-caption">Olecranon (заден изглед): голям проксимален израстък на ulna, който формира задната половина на trochlear notch и служи като инсерция на m. triceps brachii.</span>
-    <span class="md-figure-attribution"> — Henry Vandyke Carter / Wikipedia, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_colored.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter / Wikipedia, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_colored.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ N. ulnaris преминава задно от epicondylus medialis в sulcus ner
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на olecranon — pre- и постоперативни рентгенографии след tension-band wiring (техника Weber): два успоредни K-пирона и осмица-образна цикажена жица превръщат тензионните сили в компресия при ставната повърхност.</span>
-    <span class="md-figure-attribution"> — Michael Müller-Hillebrand, <a href="https://commons.wikimedia.org/wiki/File:Fracture_of_Olecranon_pre_and_post_typical_surgery.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Michael Müller-Hillebrand, <a href="https://commons.wikimedia.org/wiki/File:Fracture_of_Olecranon_pre_and_post_typical_surgery.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 

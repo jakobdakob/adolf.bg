@@ -1,5 +1,5 @@
 ---
-title: "Злокачествени костни тумори — първични и метастатични. Патологични фрактури."
+title: "Злокачествени костни тумори: първични и метастатични. Патологични фрактури."
 lang: "bg"
 kind: "topic"
 section: "ortho"
@@ -27,7 +27,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Остеосарком — триъгълникът на Codman: периостална реакция, повдигната агресивно от тумора и прекъсваща се преди да затвори лезията.</span>
-    <span class="md-figure-attribution"> — Ajimsha619, <a href="https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Ajimsha619, <a href="https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Сарком на Ewing на тибията при дете: диафизарна пермеативна литична лезия с „лучна“ ламеларна периостална реакция (onion-skin) и мекотъканна маса.</span>
-    <span class="md-figure-attribution"> — Michael Richardson, MD, <a href="https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Michael Richardson, MD, <a href="https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Хондросарком: литична лезия с „попкорн“-видна хондроидна минерализация и кортикална ерозия (endosteal scalloping).</span>
-    <span class="md-figure-attribution"> — KGH, <a href="https://commons.wikimedia.org/wiki/File:Chondrosarcoma_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · KGH, <a href="https://commons.wikimedia.org/wiki/File:Chondrosarcoma_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Сакрален хордом: литична лезия, произлизаща от средната линия на сакрума, с типична деструкция на тялото и пресакрална мекотъканна маса.</span>
-    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Sacral_Bone_Chordoma_(%CE%A7%CF%8C%CF%81%CE%B4%CF%89%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%99%CE%B5%CF%81%CE%BF%CF%8D_%CE%BF%CF%83%CF%84%CE%BF%CF%8D).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Sacral_Bone_Chordoma_(%CE%A7%CF%8C%CF%81%CE%B4%CF%89%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%99%CE%B5%CF%81%CE%BF%CF%8D_%CE%BF%CF%83%CF%84%CE%BF%CF%8D).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Множествен миелом: класическите „избити“ (punched-out) литични лезии на черепа без околна реактивна склероза.</span>
-    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:MMPlainSkull.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:MMPlainSkull.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ order: 3
   </button>
   <figcaption>
     <span class="md-figure-caption">Костна метастаза в бедрената глава: макропрепарат с инфилтративна туморна маса, замествайки спонгиозната кост.</span>
-    <span class="md-figure-attribution"> — Fernández-Aceñero & Aramendi Sánchez, <a href="https://commons.wikimedia.org/wiki/File:Femoral_head_with_bone_metastasis_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+    <span class="md-figure-attribution"> · Fernández-Aceñero & Aramendi Sánchez, <a href="https://commons.wikimedia.org/wiki/File:Femoral_head_with_bone_metastasis_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
   </figcaption>
 </figure>
 

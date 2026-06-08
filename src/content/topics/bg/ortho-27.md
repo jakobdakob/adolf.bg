@@ -27,7 +27,7 @@ order: 27
   </button>
   <figcaption>
     <span class="md-figure-caption">Синдром на carpal tunnel: компресия на nervus medianus в карпалния канал под flexor retinaculum.</span>
-    <span class="md-figure-attribution"> — Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ order: 27
   </button>
   <figcaption>
     <span class="md-figure-caption">Карпален тунел: напречен лигамент (flexor retinaculum) воларно, карпални кости дорзално и латерално; вътре 9 флексорни сухожилия + n. medianus. Компресията на нерва произвежда класическия синдром.</span>
-    <span class="md-figure-attribution"> — DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ order: 27
   </button>
   <figcaption>
     <span class="md-figure-caption">Открита carpal tunnel release: надлъжен разрез по карпалната склонност; flexor retinaculum се разкъсва за декомпресия на n. medianus.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 

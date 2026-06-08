@@ -29,7 +29,7 @@ Acetabulum се формира от сливането на три кости (i
   </button>
   <figcaption>
     <span class="md-figure-caption">Ацетабуларна фрактура: класификацията на Letournel разграничава десет типа (5 основни + 5 сложни) според включените колони (предна, задна) и стени.</span>
-    <span class="md-figure-attribution"> — Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Seannovak, <a href="https://commons.wikimedia.org/wiki/File:Acetabular_Fracture_CT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Pipkin IV: Фрактурите на главата и на acetabulum тряб�
   </button>
   <figcaption>
     <span class="md-figure-caption">Фрактура на задната стена на ацетабулума: най-честият елементарен модел по Letournel; типично резултат от dashboard-механизъм с luxatio posterior; достъп Kocher-Langenbeck.</span>
-    <span class="md-figure-attribution"> — Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · Dr.C, <a href="https://commons.wikimedia.org/wiki/File:Acet_-_Post_wall_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

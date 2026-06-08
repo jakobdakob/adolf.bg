@@ -61,7 +61,7 @@ The MIPO technique, developed in the 1990s, applies plates through small incisio
   </button>
   <figcaption>
     <span class="md-figure-caption">Proximal femoral nail: intramedullary implant for pertrochanteric and subtrochanteric fractures; functions as a load-bearing implant with relative stability.</span>
-    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+    <span class="md-figure-attribution"> · Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ The advantages of intramedullary nailing include: preservation of the periosteal
   </button>
   <figcaption>
     <span class="md-figure-caption">External fixator: pins traverse skin and bone, connected to an external frame; the key implant for damage-control orthopaedics and severe open fractures.</span>
-    <span class="md-figure-attribution"> — Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 

@@ -23,7 +23,7 @@ The patella is the largest sesamoid bone in the body, formed in the substance of
   </button>
   <figcaption>
     <span class="md-figure-caption">Displaced patellar fracture: disruption of the extensor mechanism with loss of active knee extension.</span>
-    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Patellar_Fracture_(Displaced).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Patellar_Fracture_(Displaced).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Non-operative management is appropriate for non-displaced or minimally displaced
   </button>
   <figcaption>
     <span class="md-figure-caption">Transverse patella fracture on lateral radiograph: the classical indication for tension-band wiring when the active extensor mechanism is disrupted.</span>
-    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Patella_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Patella_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ The common peroneal nerve courses around the neck of the fibula and is at risk i
   </button>
   <figcaption>
     <span class="md-figure-caption">Lateral tibial plateau fracture with depression: Schatzker II/III; typically from a valgus mechanism (MVA or sport).</span>
-    <span class="md-figure-attribution"> — LottieLattes, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-attribution"> · LottieLattes, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 

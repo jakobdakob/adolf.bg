@@ -13,6 +13,16 @@ Coxa vara is a deformity of the proximal femur in which the neck-shaft angle is 
 
 ## Developmental (Congenital) Coxa Vara
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-schematic.svg" data-figure-alt="Coxa valga / normal / coxa vara" aria-label="Enlarge">
+    <img src="/img/ortho-18/coxa-vara-schematic.svg" alt="Coxa valga / normal / coxa vara" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoral neck-shaft angle: coxa valga (increased), normal (~125°), and coxa vara (decreased).</span>
+    <span class="md-figure-attribution"> — Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 

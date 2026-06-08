@@ -13,6 +13,16 @@ Coxa vara е деформация на проксималния фемур, пр
 
 ## Развитийна (вродена) coxa vara
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-schematic.svg" data-figure-alt="Coxa valga / нормална / coxa vara" aria-label="Увеличи">
+    <img src="/img/ortho-18/coxa-vara-schematic.svg" alt="Coxa valga / нормална / coxa vara" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ъгълът шийка–диафиза на бедрената кост: coxa valga (увеличен), нормален (~125°) и coxa vara (намален).</span>
+    <span class="md-figure-attribution"> — Addingrefs, <a href="https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Дефиниция и епидемиология
 

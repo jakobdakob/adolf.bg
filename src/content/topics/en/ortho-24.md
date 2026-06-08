@@ -30,6 +30,16 @@ Rheumatoid arthritis is a chronic systemic autoimmune disease characterized by s
 
 ## Clinical Features
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/swan-neck.png" data-figure-alt="Swan-neck deformity in RA" aria-label="Enlarge">
+    <img src="/img/ortho-24/swan-neck.png" alt="Swan-neck deformity in RA" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Swan-neck deformity in rheumatoid arthritis — hyperextension at the PIP and flexion at the DIP; one of the characteristic late hand deformities in long-standing RA.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The classical presentation is of insidious onset of symmetric small-joint pain and stiffness, most prominently in the hands (metacarpophalangeal and proximal interphalangeal joints, with sparing of the distal interphalangeal joints), feet (metatarsophalangeal joints), and wrists. Morning stiffness lasting more than an hour is characteristic and reflects the inflammatory nature of the disease. Larger joints (knees, hips, shoulders, elbows) are
 
 affected in addition to small joints, particularly as the disease progresses. Constitutional symptoms — fatigue, low-grade fever, weight loss — are common. The classical hand deformities of established rheumatoid arthritis include: ulnar deviation of the fingers at the MCP joints; swan neck deformity (PIP hyperextension with DIP flexion); boutonnière deformity (PIP flexion with DIP hyperextension); volar subluxation of the MCP joints; carpal collapse with radial deviation of the wrist; and the various thumb deformities classified by Nalebuff. The cervical spine is involved in 30-90% of patients with established disease, with the principal manifestations being atlantoaxial instability (from erosion of the transverse ligament of the atlas), basilar invagination (cranial settling), and subaxial subluxations. Extra-articular manifestations include rheumatoid nodules, vasculitis, pleural and pulmonary disease, pericarditis, Felty’s syndrome (the triad of RA, splenomegaly, and neutropenia), keratoconjunctivitis sicca, episcleritis, and amyloidosis.

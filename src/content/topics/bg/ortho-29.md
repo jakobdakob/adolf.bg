@@ -71,6 +71,16 @@ order: 29
 
 ## Хирургична фасциектомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-29/dupuytren-cord.jpg" data-figure-alt="Палмарен шнур при Dupuytren" aria-label="Увеличи">
+    <img src="/img/ortho-29/dupuytren-cord.jpg" alt="Палмарен шнур при Dupuytren" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Морбус Dupuytren — изразени палмарни шнурове, флексионна контрактура на 4-ти и 5-ти пръст; хирургичната фасциектомия премахва патологичната палмарна фасция от засегнатите лъчи.</span>
+    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Хирургичната фасциектомия — открито отстраняване на патологичната палмарна и дигитална фасция — е историческата основа на лечението на Dupuytren и остава процедурата на избор при тежка болест, рецидивираща болест и болест с установена контрактура на ПИС.
 
 Описани са три основни вида фасциектомия:

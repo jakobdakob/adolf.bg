@@ -32,6 +32,16 @@ order: 24
 
 ## Клинична картина
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/swan-neck.png" data-figure-alt="Swan-neck деформация при РА" aria-label="Увеличи">
+    <img src="/img/ortho-24/swan-neck.png" alt="Swan-neck деформация при РА" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Swan-neck деформация при ревматоиден артрит — хиперекстензия в PIP и флексия в DIP; една от характерните късни деформации на ръцете при дългостоящ РА.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis_(Swan_Neck_Deformity).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класическата изява е с постепенно начало на симетрична болка и скованост в малките стави, най-изразено в ръцете (метакарпофалангеални и проксимални интерфалангеални стави при запазване на дисталните интерфалангеални), краката (метатарзофалангеални стави) и китките. Характерна е сутрешната скованост, продължаваща повече от един час,
 
 отразявайки възпалителния характер на заболяването. По-голямите стави (колена, тазобедрени, рамена, лакти) се засягат допълнително, особено с прогресия на болестта. Общите симптоми — умора, субфебрилитет, загуба на тегло — са чести.

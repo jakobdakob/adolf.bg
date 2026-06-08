@@ -260,6 +260,16 @@ order: 132
 
 ## Лечение на compartment синдрома — фасциотомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-32/fasciotomy.jpg" data-figure-alt="Фасциотомия на подбедрицата" aria-label="Увеличи">
+    <img src="/img/trauma-32/fasciotomy.jpg" alt="Фасциотомия на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Двуразрезна фасциотомия на подбедрицата с временно затваряне на кожата — латерален разрез освобождава предния и латералния компартмент, медиалният — повърхностния и дълбокия заден.</span>
+    <span class="md-figure-attribution"> — Mr.Biz, <a href="https://commons.wikimedia.org/wiki/File:Fasciotomy_leg_stitchednew.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Лечението на установения compartment синдром е спешна декомпресивна фасциотомия — освобождаване на всички засегнати компартменти чрез открити фасциални разрезвания. Принципите са:
 
 Всички компартменти трябва да бъдат освободени: Пропускането на какъвто и да е засегнат компартмент прави процедурата неефективна. Хирургът трябва да познава анатомията и да гарантира пълно освобождаване на всички компартменти в засегнатия сегмент на крайника.

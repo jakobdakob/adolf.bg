@@ -63,6 +63,16 @@ order: 110
 
 ## Компресионни увреждания (A)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-10/L4-compression.jpg" data-figure-alt="L4 компресионна фрактура" aria-label="Увеличи">
+    <img src="/img/trauma-10/L4-compression.jpg" alt="L4 компресионна фрактура" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Клиновидна компресионна фрактура на L4 (тип A1 по AOSpine) — намалена височина на предната стена на тялото; характерна остеопоротична фрактура при ниско-енергийна травма.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 A0 е незначителна неструктурна фрактура (напр. напречен израстък). A1 е клиновидна компресия на крайната плоча. A2 е коронарна (пинсерна) фрактура без ретропулзия. A3 е непълна burst-фрактура (ангажирана е една крайна плоча с ретропулзия на фрагменти). A4 е пълна burst-фрактура с ангажиране на двете крайни плочи. Лечението на A1–A2 увреждания е обикновено консервативно в шийна яка за 8–12 седмици; A3–A4 увреждания може да изискват оперативна стабилизация при значима ретропулзия, ъглова деформация или неврологично ангажиране, типично чрез предна корпектомия с реконструкция с кейдж и плакова фиксация.
 
 ## Увреждания на напрегнатата зона (B)

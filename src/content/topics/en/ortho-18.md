@@ -40,6 +40,16 @@ Tönnis described a “wandering” of the triangular fragment with growth that 
 
 ## Clinical Features
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara — clinical photograph" aria-label="Enlarge">
+    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara — clinical photograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Unilateral coxa vara — clinical photograph: leg-length discrepancy with apparent shortening and Trendelenburg gait on the affected side.</span>
+    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Presentation is typically in early childhood (age 2-6 years) with a painless limp, leg-length discrepancy, decreased hip abduction (often with abductor lurch — Trendelenburg gait), and apparent short stature on the affected side. Bilateral cases may present with waddling gait without obvious leg-length discrepancy. Examination reveals decreased hip abduction and internal rotation, with the limb in external rotation and adduction. There is typically no pain.
 
 ## Radiographic Features and the Hilgenreiner-Epiphyseal Angle

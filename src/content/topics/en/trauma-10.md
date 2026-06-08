@@ -52,6 +52,16 @@ The subaxial cervical spine extends from C3 to C7 and is the most common site of
 
 ## Compression Injuries (A)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-10/L4-compression.jpg" data-figure-alt="L4 compression fracture" aria-label="Enlarge">
+    <img src="/img/trauma-10/L4-compression.jpg" alt="L4 compression fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Wedge compression fracture of L4 (AOSpine type A1) — reduced anterior body height; the characteristic osteoporotic low-energy injury pattern.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:L4_compressionFracture2008.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 A0 is a minor non-structural fracture (e.g., transverse process). A1 is a wedge compression of the endplate. A2 is a coronal split (pincer) fracture without retropulsion. A3 is an incomplete burst (one endplate involved with retropulsion of fragments). A4 is a complete burst with both endplates involved. Treatment of A1-A2 injuries is typically non-operative in a cervical orthosis for 8 to 12 weeks; A3-A4 injuries may require operative stabilization if there is significant retropulsion, angular deformity, or neurological involvement, typically by anterior cervical corpectomy with cage reconstruction and plate fixation.
 
 ## Tension-Band Injuries (B)

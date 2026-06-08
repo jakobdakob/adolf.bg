@@ -32,6 +32,16 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
 
 ## Weber (AO) Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-28/ankle-fractures.png" data-figure-alt="Ankle fracture classification" aria-label="Enlarge">
+    <img src="/img/trauma-28/ankle-fractures.png" alt="Ankle fracture classification" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Weber/AO classification — A (below syndesmosis, stable), B (at level of syndesmosis, often with partial ligament tear), C (above syndesmosis, with full disruption and instability).</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The Weber classification (1972) is based on the level of the fibular fracture relative to the tibial plafond / syndesmosis: Weber A: Fibular fracture below the syndesmosis (infrasyndesmotic). Typically a transverse avulsion fracture of the distal fibula at or below the joint line, produced by inversion (supination) mechanism. The syndesmosis is typically intact (the AITFL inserts above the fracture line). Generally stable. Weber B: Fibular fracture at the level of the syndesmosis (transsyndesmotic). Typically a spiral or oblique fracture starting at the level of the joint and extending proximally, produced by external rotation mechanism. The syndesmosis may or may not be disrupted (AITFL torn in approximately 40 to 70 percent of Weber B fractures; PITFL less commonly). Stability depends on the integrity of the medial structures and the syndesmosis. Weber C: Fibular fracture above the syndesmosis (suprasyndesmotic). The syndesmosis is disrupted by definition (the fracture is proximal to the syndesmosis, so the syndesmotic ligaments must be torn for the fracture pattern to occur). Typically requires syndesmotic stabilization in addition to fibular fixation. The proximal extent of the fibular fracture can be very high — including the Maisonneuve fracture with proximal fibular involvement.
 
 ## Lauge-Hansen Classification

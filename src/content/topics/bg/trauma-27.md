@@ -122,6 +122,16 @@ order: 127
 
 ## Фрактури на pilon (tibial plafond)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-27/pilon-fracture.jpg" data-figure-alt="Фрактура на pilon" aria-label="Увеличи">
+    <img src="/img/trauma-27/pilon-fracture.jpg" alt="Фрактура на pilon" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на pilon — вътреставна фрактура на дисталната тибия с интракортикална раздробеност; класически високоенергийна аксиална травма с тежко увреждане на меките тъкани.</span>
+    <span class="md-figure-attribution"> — Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Тибиалният pilon е натоварващата ставна повърхност на дисталната тибия, артикулираща с talus за образуване на горната глезенна става. Pilon-фрактурата е вътреставна фрактура на тази зона, типично предизвикана от високоенергийно аксиално натоварване чрез талуса в дисталната тибия (падане от височина, нараняване от таблото на автомобил), за разлика от ротационния механизъм на типичните фрактури на глезена.
 
 

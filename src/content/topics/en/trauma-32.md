@@ -124,6 +124,16 @@ Continuous monitoring: An indwelling catheter connected to a pressure transducer
 
 ## Treatment of Compartment Syndrome — Fasciotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-32/fasciotomy.jpg" data-figure-alt="Leg fasciotomy" aria-label="Enlarge">
+    <img src="/img/trauma-32/fasciotomy.jpg" alt="Leg fasciotomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Two-incision lower-leg fasciotomy with temporary skin closure — the lateral incision releases the anterior and lateral compartments, the medial the superficial and deep posterior.</span>
+    <span class="md-figure-attribution"> — Mr.Biz, <a href="https://commons.wikimedia.org/wiki/File:Fasciotomy_leg_stitchednew.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The treatment of established compartment syndrome is urgent decompressive fasciotomy — release of all the involved compartments through open fascial incisions. The principles are: All compartments must be released: Failure to release any involved compartment defeats the procedure. The surgeon must understand the anatomy and ensure complete release of all compartments in the affected limb segment. The incision must be long enough: The classical “lazy S” or “long S” incision provides full-length decompression of the compartment; “windowing” fasciotomy with short incisions is inadequate. Skin closure should not be attempted at the time of fasciotomy: The compartment must be left open with appropriate dressings; delayed closure or skin grafting is performed when the swelling resolves (typically 5 to 10 days after fasciotomy).
 
 

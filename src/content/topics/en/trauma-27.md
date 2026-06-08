@@ -62,6 +62,16 @@ Nonunion: Reported in 2 to 17 percent depending on the series, the fracture patt
 
 ## Pilon (Tibial Plafond) Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-27/pilon-fracture.jpg" data-figure-alt="Pilon fracture" aria-label="Enlarge">
+    <img src="/img/trauma-27/pilon-fracture.jpg" alt="Pilon fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Pilon fracture — intra-articular fracture of the distal tibia with intracortical comminution; the classic high-energy axial injury with severe soft-tissue compromise.</span>
+    <span class="md-figure-attribution"> — Elhe, <a href="https://commons.wikimedia.org/wiki/File:Pilon_fracture_xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The tibial pilon is the weight-bearing articular surface of the distal tibia, articulating with the talus to form the ankle joint. The pilon fracture is the intra-articular fracture of this region, typically produced by high-energy axial load through the talus into the distal tibia (fall from height, motor vehicle dashboard injury), in contrast to the rotational mechanism of typical ankle fractures.
 
 ## Classification

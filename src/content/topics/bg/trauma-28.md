@@ -47,6 +47,16 @@ order: 128
 
 ## Класификация на Weber (AO)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-28/ankle-fractures.png" data-figure-alt="Класификация на глезенните фрактури" aria-label="Увеличи">
+    <img src="/img/trauma-28/ankle-fractures.png" alt="Класификация на глезенните фрактури" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класификация на Weber/AO — A (под синдесмозата, стабилна), B (на ниво синдесмозата, типично с частично разкъсване на лигамента), C (над синдесмозата, с пълно скъсване и нестабилност).</span>
+    <span class="md-figure-attribution"> — Smart-Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Weber (1972) се основава на нивото на фибулната фрактура спрямо тибиалния plafond / синдесмозата:
 
 Weber A: Фрактура на фибулата под синдесмозата (инфрасиндесмотична). Обикновено напречна авулзионна фрактура на дисталната фибула на нивото или под ставната линия, причинена от инверзионен (супинационен) механизъм. Синдесмозата обикновено е интактна (AITFL се захваща над линията на фрактурата). Като правило стабилна.

@@ -41,6 +41,16 @@ Coxa vara е деформация на проксималния фемур, пр
 
 ## Клинична картина
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara — клиничен изглед" aria-label="Увеличи">
+    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara — клиничен изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Едностранна coxa vara — клиничен изглед: разлика в дължината на крайниците с привидно нисък ръст и абдукторен лурх (Trendelenburg) от засегнатата страна.</span>
+    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Youth_with_coxa_vara_of_the_left_side_Wellcome_L0062569.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Изявата е типично в ранна детска възраст (2–6 години) с безболезнена куцота, разлика в дължината на крайниците, намалена абдукция на тазобедрената става (нерядко с абдукторен лурх — походка на Тренделенбург) и привидно нисък ръст от засегнатата страна. Двустранните случаи може да се изявят с клатушкаща се походка без очевидна разлика в дължината на крайниците. Прегледът разкрива намалена абдукция и вътрешна ротация на тазобедрената става, с крайника в положение на външна ротация и аддукция. Типично отсъства болка.
 
 ## Рентгенографски белези и ъгълът на Hilgenreiner–епифизата

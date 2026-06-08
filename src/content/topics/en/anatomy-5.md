@@ -19,6 +19,16 @@ The distal radioulnar joint (DRUJ) between the ulnar head and the sigmoid notch 
 
 ## Muscular Compartments
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-xs.png" data-figure-alt="Forearm cross-section" aria-label="Enlarge">
+    <img src="/img/anatomy-5/forearm-xs.png" alt="Forearm cross-section" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cross-section of the left forearm — radius and ulna, interosseous membrane, volar (flexor-pronator) and dorsal (extensor-supinator) compartments with the mobile wad of Henry.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The forearm has two principal compartments — the volar (flexor-pronator) and dorsal (extensor-supinator) — with the mobile wad of Henry (brachioradialis, ECRL, ECRB) sometimes considered a separate compartment.
 
 ## Volar (Flexor) Compartment

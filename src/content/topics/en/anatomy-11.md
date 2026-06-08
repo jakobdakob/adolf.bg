@@ -13,6 +13,16 @@ The ankle and foot together form an intricate anatomical complex with 28 bones, 
 
 ## Bony Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-foot.jpg" data-figure-alt="Ankle and foot anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-11/ankle-foot.jpg" alt="Ankle and foot anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ankle and foot anatomy — tibiotalar, subtalar (talocalcaneal) and transverse tarsal (Chopart) joints; 7 tarsal bones, 5 metatarsals and phalanges.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolus (distal fibula), and the talar dome (Topic Trauma-28). The subtalar joint is between the talus (superiorly) and the calcaneus (inferiorly), with three articular facets (anterior, middle, and posterior) separated by the tarsal canal. The midfoot comprises the navicular, cuboid, and three cuneiforms (Topic Trauma-29). The forefoot comprises the five metatarsals and the phalanges (similar to the hand pattern, with two phalanges in the great toe and three in the lesser toes). Key surgical landmarks include the medial and lateral malleoli, sustentaculum tali (medial calcaneus), tibialis anterior tubercle of the navicular, and the fifth metatarsal tuberosity.
 
 ## Neurovascular Anatomy

@@ -13,6 +13,16 @@ order: 203
 
 ## Костна анатомия и отделения
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus.png" data-figure-alt="Humerus, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-3/humerus.png" alt="Humerus, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ляв humerus, преден изглед — главица, хирургична шийка, диафиза с предна извивка, дистални медиална и латерална колона, trochlea и capitellum.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Humerus е най-голямата дълга кост на горния крайник, простираща се от гленохумералната става проксимално до лакътната става дистално. Основните анатомични области са проксималният humerus (главица, анатомична шийка, tuberculum majus и tuberculum minus, хирургична шийка; вж. Тема Травматология-13 за фрактурната анатомия), диафизата на humerus с характерната предна извивка и спиралния жлеб по задната повърхност, и дисталният humerus (медиална и латерална колона, trochlea, capitellum; вж. Тема Травматология-15).
 
 Мишницата има две основни мускулни отделения:

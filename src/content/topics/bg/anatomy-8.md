@@ -13,6 +13,16 @@ order: 208
 
 ## Костна и ставна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip.svg" data-figure-alt="Анатомия на тазобедрената става" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip.svg" alt="Анатомия на тазобедрената става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тазобедрена става — сферична артикулация между ацетабулума и главата на бедрената кост; стабилизирана от плътната капсула, лабрума и трите главни лигамента (iliofemoralis, pubofemoralis, ischiofemoralis).</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Тазобедрената става се образува от главата на бедрената кост (покрита приблизително 70% от ставен хрущял при типичния възрастен), артикулираща с ацетабулума (чашата, образувана от слетите os ilium, os ischii и os pubis). Подробната анатомия е разгледана в Теми Травма-20 (ацетабулум) и Ортопедия-7 (ВДТС).
 
 Ключовите хирургични ориентири включват:

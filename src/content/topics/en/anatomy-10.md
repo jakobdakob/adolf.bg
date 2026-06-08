@@ -17,6 +17,16 @@ The tibia is the principal weight-bearing bone of the lower leg, with the anatom
 
 ## Muscular Compartments
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-compartments.svg" data-figure-alt="Fascial compartments of the leg" aria-label="Enlarge">
+    <img src="/img/anatomy-10/leg-compartments.svg" alt="Fascial compartments of the leg" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cross-section of the leg — the four compartments (anterior, lateral, superficial posterior and deep posterior) with the tibia, fibula and neurovascular structures.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The leg compartments are four: Anterior compartment: Contains the tibialis anterior, extensor hallucis longus (EHL), extensor digitorum longus (EDL), and peroneus tertius. Functions: ankle dorsiflexion and toe extension. Innervated by the deep peroneal nerve. Vascular supply: anterior tibial artery. Lateral compartment: Contains the peroneus longus and peroneus brevis. Functions: foot eversion and assistance with plantar flexion. Innervated by the superficial peroneal nerve. Vascular supply: branches of the peroneal artery. Superficial posterior compartment: Contains the gastrocnemius, soleus, and plantaris. Functions: ankle plantar flexion. Innervated by the tibial nerve. Vascular supply: branches of the posterior tibial artery. Deep posterior compartment: Contains the tibialis posterior, flexor digitorum longus (FDL), and flexor hallucis longus (FHL). Functions: foot inversion, toe flexion, ankle plantar flexion. Innervated by the tibial nerve. Vascular supply: posterior tibial artery.
 
 The compartments are separated by intermuscular septa attached to the bones and the interosseous membrane.

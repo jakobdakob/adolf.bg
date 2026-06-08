@@ -13,6 +13,16 @@ The elbow joint, with its complex combination of hinge motion (humeroulnar artic
 
 ## Bony and Articular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow.svg" data-figure-alt="Elbow joint anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-4/elbow.svg" alt="Elbow joint anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Elbow joint — combined humeroulnar (flexion-extension), humeroradial and proximal radioulnar (pronation-supination) articulations.</span>
+    <span class="md-figure-attribution"> — AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The elbow joint comprises three articulations within a single synovial capsule: Humeroulnar joint: Hinge articulation between the trochlea of the distal humerus and the trochlear notch of the proximal ulna. Provides flexion-extension (normal range approximately 0 to 145 degrees of flexion; functional range 30 to 130 degrees). Humeroradial joint: Articulation between the capitellum of the distal humerus and the radial head. Participates in flexion-extension and forearm rotation. Proximal radioulnar joint: Pivot articulation between the radial head and the radial notch of the ulna, with the annular ligament holding the radial head in position. Provides forearm rotation (normal supination approximately 85 degrees, pronation approximately 85 degrees). The carrying angle of the extended elbow is approximately 11 degrees of valgus in females and 7 to 11 degrees in males. Loss of carrying angle (e.g., from supracondylar malunion) produces cubitus varus (gunstock deformity); excessive carrying angle produces cubitus valgus. The distal humerus anatomy was detailed in Topic Trauma-15: divergent medial and lateral columns, trochlea (spool-shaped), capitellum (rounded), olecranon and coronoid fossae. The proximal ulna comprises the olecranon (with triceps insertion), coronoid process (anterior buttress), and trochlear notch. The proximal radius has the disc-shaped radial head (with the annular ligament around it), radial neck, and radial tuberosity (biceps insertion).
 
 ## Ligamentous Anatomy

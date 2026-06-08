@@ -23,6 +23,16 @@ The femoral shaft is approached for fracture fixation, tumor resection, and biop
 
 ## Knee Bony and Articular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee.svg" data-figure-alt="Knee joint anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee.svg" alt="Knee joint anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Knee joint — tibiofemoral and patellofemoral articulations; static stabilizers (ACL, PCL, MCL, LCL, menisci) and dynamic ones (quadriceps, hamstrings, popliteus).</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The knee joint comprises: Tibiofemoral joint: Hinge joint between the distal femur (medial and lateral condyles) and the proximal tibia (medial and lateral plateaus). Patellofemoral joint: Between the patella and the trochlear groove of the distal femur. Proximal tibiofibular joint: Synovial joint between the lateral tibial condyle and the fibular head. The cruciate ligaments (ACL, PCL) lie within the joint, addressed in Topic Trauma-26. The menisci (medial and lateral) are fibrocartilaginous structures providing load distribution and joint conformity. The collateral ligaments (MCL medially, LCL with the posterolateral corner laterally) provide coronal-plane stability.
 
 ## Knee Approaches

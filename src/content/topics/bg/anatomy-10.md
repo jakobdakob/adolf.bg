@@ -17,6 +17,16 @@ order: 210
 
 ## Мускулни компартменти
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-compartments.svg" data-figure-alt="Фасциални компартменти на подбедрицата" aria-label="Увеличи">
+    <img src="/img/anatomy-10/leg-compartments.svg" alt="Фасциални компартменти на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Напречен срез на подбедрицата — четирите компартмента (преден, латерален, повърхностен заден и дълбок заден) с тибията, фибулата и съдово-нервните структури.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440_-_Fascial_compartments_of_leg.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Компартментите на подбедрицата са четири:
 
 Преден компартмент: Съдържа musculus tibialis anterior, musculus extensor hallucis longus (EHL), musculus extensor digitorum longus (EDL) и musculus peroneus tertius. Функции: дорзифлексия на глезена и екстензия на пръстите. Инервация: nervus peroneus profundus. Кръвоснабдяване: arteria tibialis anterior.

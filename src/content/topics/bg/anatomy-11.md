@@ -13,6 +13,16 @@ order: 211
 
 ## Костна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-foot.jpg" data-figure-alt="Анатомия на глезен и ходило" aria-label="Увеличи">
+    <img src="/img/anatomy-11/ankle-foot.jpg" alt="Анатомия на глезен и ходило" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Анатомия на глезенната става и ходилото — тибиоталарна, субталарна (talocalcaneal) и transverse tarsal (Chopart) стави; 7 тарзални, 5 метатарзални кости и фаланги.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Глезенната става включва тибиалния плафон, медиалния малеол, латералния малеол (дистална фибула) и купола на талуса (Тема Травма-28).
 
 Субталарната става е между талуса (отгоре) и калканеуса (отдолу), с три ставни фасетки (предна, средна и задна), разделени от тарзалния канал.

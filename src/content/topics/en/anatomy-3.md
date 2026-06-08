@@ -13,6 +13,16 @@ The arm — extending from the shoulder to the elbow — contains the humerus an
 
 ## Bony Anatomy and Compartments
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus.png" data-figure-alt="Humerus, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-3/humerus.png" alt="Humerus, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Left humerus, anterior view — head, surgical neck, shaft with anterior bow, distal medial and lateral columns, trochlea and capitellum.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The humerus is the largest long bone of the upper extremity, extending from the glenohumeral joint proximally to the elbow joint distally. The principal anatomical regions are the proximal humerus (head, anatomical neck, greater and lesser tuberosities, surgical neck; see Topic Trauma-13 for fracture anatomy), the humeral shaft (diaphysis) with its characteristic anterior bow and the spiral groove on the posterior surface, and the distal humerus (medial and lateral columns, trochlea, capitellum; see Topic Trauma-15). The arm has two principal muscular compartments: The anterior compartment contains the biceps brachii (with its short head from the coracoid and long head from the supraglenoid tubercle, both inserting via the bicipital aponeurosis on the radial tuberosity), the coracobrachialis (from the coracoid to the medial humerus), and the brachialis (from the lower humerus to the coronoid process of the ulna). The compartment is supplied by the musculocutaneous nerve (C5-C7) — which pierces coracobrachialis approximately 5 to 8 cm distal to the coracoid, then runs between biceps and brachialis to emerge as the lateral antebrachial cutaneous nerve. The posterior compartment contains the triceps brachii with three heads (long head from the infraglenoid tubercle, lateral head from the upper posterior humerus, medial head from the lower posterior humerus). The triceps inserts on the olecranon process of the ulna. The compartment is supplied by the radial nerve (C5-T1), which crosses through the spiral groove of the humerus from medial-superior to lateral-inferior, supplying branches to the triceps before becoming superficial laterally and passing anterior through the lateral intermuscular septum.
 
 ## Neurovascular Structures

@@ -13,6 +13,16 @@ The shoulder girdle, comprising the glenohumeral joint, the acromioclavicular jo
 
 ## Bony and Articular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder.svg" data-figure-alt="Shoulder anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-2/shoulder.svg" alt="Shoulder anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Shoulder anatomy — glenohumeral, acromioclavicular and sternoclavicular joints plus the scapulothoracic articulation.</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The glenohumeral joint is a ball-and-socket articulation between the relatively small, slightly retroverted glenoid (typical retroversion 5 to 7 degrees, with inferior tilt of about 4 to 5 degrees) and the substantially larger humeral head (covered by approximately 120 degrees of articular surface). The size mismatch produces the characteristic mobility-stability trade-off; only 25 to 30 percent of the humeral head is in contact with the glenoid at any time. The glenoid labrum is a fibrocartilaginous ring around the glenoid that deepens the socket by approximately 50 percent and provides attachment for the capsular ligaments and the long head of the biceps tendon. The acromion forms the lateral roof of the joint, with anatomical variants relevant to surgery — the acromial morphology classified as type I flat, type II curved, type III hooked (Bigliani) is associated with rotator cuff impingement, particularly in type III. The os acromiale is a failure of fusion of the acromial ossification center (occurring in 1 to 8 percent of the population), with the meso-acromion (between the middle and posterior acromial ossification centers) being the most common type and a recognized cause of impingement and rotator cuff pathology. The coracoid process projects anteriorly and provides attachment for the conjoint tendon (short head of biceps and coracobrachialis), the coracoacromial ligament, the coracoclavicular ligaments (conoid and trapezoid), and the coracohumeral ligament. The coracoid is the source of the bony graft in the Latarjet procedure for glenoid bone loss (Topic Trauma-12). The clavicle completes the shoulder girdle, articulating with the acromion laterally (AC joint) and the sternum medially (SC joint). Its anatomy and pathology were addressed in Topic Trauma-11.
 
 ## Muscular Anatomy

@@ -45,6 +45,16 @@ order: 209
 
 ## Костна и ставна анатомия на коляното
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee.svg" data-figure-alt="Анатомия на коленната става" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee.svg" alt="Анатомия на коленната става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Коленна става — тибиофеморална и пателофеморална артикулация; статични стабилизатори (ACL, PCL, MCL, LCL, менискуси) и динамични (m. quadriceps, hamstring, popliteus).</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Knee_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Коленната става включва:
 
 Тибиофеморална става: Цилиндрична (hinge) става между дисталния фемур (медиален и латерален кондил) и проксималната тибия (медиален и латерален плато).

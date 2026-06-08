@@ -13,6 +13,16 @@ order: 207
 
 ## Костна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis.png" data-figure-alt="Безименна кост — латерален изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvis.png" alt="Безименна кост — латерален изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дясна безименна кост, външна повърхност — os ilium, os ischii и os pubis с ключовите ориентири: crista iliaca, SIAS, SIAI, ацетабулум, foramen obturatum, spina ischiadica и tuber ischiadicum.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Тазовият пръстен се образува от двете безименни кости (всяка от тях е резултат от сливането на os ilium, os ischii и os pubis в областта на triradiate cartilage) и от сакрума, свързани отпред чрез symphysis pubis и отзад чрез сакроилиачните (СИ) стави. Подробната анатомия е разгледана в Теми Травма-19 (тазов пръстен) и Травма-20 (ацетабулум).
 
 Основните костни ориентири, имащи значение за оперативните достъпи, включват:

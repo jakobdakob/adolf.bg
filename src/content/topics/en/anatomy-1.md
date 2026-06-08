@@ -13,6 +13,16 @@ The spine, traversing from the base of the skull to the sacrum, presents the ort
 
 ## Vertebral Anatomy — Regional Variations
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-column.jpg" data-figure-alt="Vertebral column" aria-label="Enlarge">
+    <img src="/img/anatomy-1/vertebral-column.jpg" alt="Vertebral column" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Vertebral column — 7 cervical, 12 thoracic, 5 lumbar vertebrae plus sacrum and coccyx; the four physiologic curvatures (two lordoses + two kyphoses) develop in childhood.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The general vertebral pattern includes the vertebral body anteriorly, the vertebral arch posteriorly (with pedicles, lamina, transverse processes, spinous process, and articular processes), and the vertebral foramen between, transmitting the spinal cord and its coverings. The regional variations along the spine reflect functional adaptation: Cervical vertebrae (C1-C7): The bodies are small and shallow; the spinous processes (except C1) are typically short and bifid; the transverse processes contain the foramen transversarium transmitting the vertebral artery (typically C1 through C6, with the artery typically entering at C6); the uncinate processes on the superior surface of C3-C7 form the uncovertebral (Luschka) joints; C1 (atlas) is a ring without a body, articulating superiorly with the occipital condyles; C2 (axis) has the dens (odontoid process) projecting superiorly to articulate with the anterior arch of C1; C7 has a particularly long spinous process (vertebra prominens). Thoracic vertebrae (T1-T12): The bodies are intermediate in size with costal facets (demifacets on the superior and inferior aspects for the heads of the ribs, and a single facet on the transverse process for the tubercle of the rib); the spinous processes are long and angled inferiorly (T5-T8 are the most caudally angled, projecting roughly one vertebral body below their level); the orientation of the facet joints permits limited rotation but restricts flexion-extension. Lumbar vertebrae (L1-L5): The bodies are large; the spinous processes are stout and project posteriorly; mammillary and accessory processes are useful surgical landmarks; the facets are oriented sagittally (permitting flexion-extension) but with progressively
 
 more coronal orientation toward L5-S1; L5 has the most caudal position with significant transitional anomalies (lumbarization, sacralization) in approximately 5 percent of the population. Sacrum (S1-S5): Fused vertebrae forming the posterior pelvic ring; the ala (lateral mass), sacral foramina (anterior and posterior), and sacral hiatus are key landmarks; the medial sacral crest is the fusion of the spinous processes.

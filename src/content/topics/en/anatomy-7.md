@@ -13,6 +13,16 @@ The pelvis presents the orthopedic surgeon with one of the most complex regional
 
 ## Bony Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis.png" data-figure-alt="Hip bone — lateral view" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvis.png" alt="Hip bone — lateral view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Right innominate (hip) bone, external surface — ilium, ischium and pubis with key landmarks: iliac crest, ASIS, AIIS, acetabulum, obturator foramen, ischial spine and tuberosity.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The pelvic ring comprises two innominate bones (each formed by the fusion of the ilium, ischium, and pubis at the triradiate cartilage) and the sacrum, joined anteriorly at the pubic symphysis and posteriorly at the sacroiliac (SI) joints. The detailed anatomy was addressed in Topics Trauma-19 (pelvic ring) and Trauma-20 (acetabulum). The principal bony landmarks relevant to surgical approaches include: Iliac crest: The superior margin of the ilium, palpable from the ASIS anteriorly to the PSIS posteriorly. The crest provides the bony graft donor site classically used for bone harvesting. Anterior superior iliac spine (ASIS): The anterior projection at the anterior end of the iliac crest. The origin of the sartorius and the inguinal ligament. The lateral end of the inguinal ligament attaches here. Anterior inferior iliac spine (AIIS): Just below the ASIS. The origin of the direct head of the rectus femoris. Posterior superior iliac spine (PSIS): The posterior projection at the posterior end of the iliac crest. Often marked by a dimple in the overlying skin. Posterior inferior iliac spine (PIIS): Just below the PSIS. Greater sciatic notch: The large posterior notch between the PIIS and the ischial spine, transmitting the sciatic nerve and other structures. Lesser sciatic notch: Between the ischial spine and the ischial tuberosity, transmitting the obturator internus, pudendal nerve, and pudendal vessels.
 
 Ischial spine: The bony projection at the junction of the body and ramus of the ischium. Ischial tuberosity: The “sit bone” — the inferior weight-bearing portion of the ischium. The origin of the hamstrings. Pubic tubercle: The bony projection on the superior pubic ramus, lateral to the symphysis. The medial end of the inguinal ligament attaches here. Iliopectineal eminence: The bony prominence at the junction of the ilium and the superior pubic ramus, marking the location of the iliopectineal line on the pelvic brim. Pelvic brim (linea terminalis): The continuous line from the sacral promontory across the iliopectineal line to the pubic tubercle, separating the true pelvis (below) from the false pelvis (above). Quadrilateral surface: The flat bone of the medial acetabular wall facing into the true pelvis. Visualized through the anterior intrapelvic approach.

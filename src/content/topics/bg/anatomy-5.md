@@ -25,6 +25,16 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
 
 ## Мускулни компартменти
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-xs.png" data-figure-alt="Напречен срез на предмишницата" aria-label="Увеличи">
+    <img src="/img/anatomy-5/forearm-xs.png" alt="Напречен срез на предмишницата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Напречен срез на лявата предмишница — radius и ulna, membrana interossea, волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) компартмент с мобилното тяло на Henry.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Предмишницата има два основни компартмента — волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) — като мобилното тяло на Henry (musculus brachioradialis, musculus extensor carpi radialis longus, musculus extensor carpi radialis brevis) понякога се разглежда като отделен компартмент.
 
 ## Волярен (флексорен) компартмент

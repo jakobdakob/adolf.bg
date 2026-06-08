@@ -13,6 +13,16 @@ The hip joint, the deepest and most constrained ball-and-socket articulation in 
 
 ## Bony and Articular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip.svg" data-figure-alt="Hip joint anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-8/hip.svg" alt="Hip joint anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hip joint — ball-and-socket articulation between the acetabulum and the femoral head; stabilized by the thick capsule, the labrum and the three major ligaments (iliofemoral, pubofemoral, ischiofemoral).</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Hip_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The hip joint comprises the femoral head (covered by approximately 70 percent articular cartilage in the typical adult) articulating with the acetabulum (the cup formed by the fused ilium, ischium, and pubis). The detailed anatomy was addressed in Topics Trauma-20 (acetabulum) and Orth-7 (DDH). Key surgical landmarks include: Greater trochanter: The principal lateral landmark, insertion of the gluteus medius (lateral facet), gluteus minimus (anterior facet), piriformis (superior facet), and other short rotators. Lesser trochanter: Medial; insertion of the iliopsoas. Femoral head and neck: With the typical neck-shaft angle of 130 degrees and anteversion of 10 to 15 degrees. Intertrochanteric line (anteriorly) and intertrochanteric crest (posteriorly): The hip capsule attaches along these lines. ASIS and AIIS: The anterior landmarks for anterior approaches. The hip capsule is a strong fibrous structure with thickenings forming the iliofemoral (Y-ligament of Bigelow), pubofemoral, and ischiofemoral ligaments. The iliofemoral ligament is the strongest ligament in the body and the principal anterior restraint.
 
 ## Blood Supply to the Femoral Head

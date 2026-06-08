@@ -13,6 +13,16 @@ order: 204
 
 ## Костна и ставна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow.svg" data-figure-alt="Анатомия на лакътната става" aria-label="Увеличи">
+    <img src="/img/anatomy-4/elbow.svg" alt="Анатомия на лакътната става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лакътна става — комбинирана хумероулнарна (флексия-екстензия), хумероради­ална и проксимална радиоулнарна (пронация-супинация) става.</span>
+    <span class="md-figure-attribution"> — AdamC30, <a href="https://commons.wikimedia.org/wiki/File:Annotated_drawing_of_an_elbow_joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Лакътната става включва три артикулации в обща синовиална капсула:
 
 Humeroulnar articulation: Шарнирна артикулация между trochlea на дисталния humerus и incisura trochlearis на проксималната ulna. Осигурява флексия-екстензия (нормален обем около 0–145° флексия; функционален обем 30–130°).

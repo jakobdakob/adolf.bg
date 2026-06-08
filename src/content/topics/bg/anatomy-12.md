@@ -37,6 +37,16 @@ order: 212
 
 ## Класификация на Salter-Harris на физисните увреждания
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris.svg" data-figure-alt="Класификация на Salter-Harris" aria-label="Увеличи">
+    <img src="/img/anatomy-12/salter-harris.svg" alt="Класификация на Salter-Harris" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класификацията на Salter-Harris (1963) — пет типа физисни фрактури според отношението на линията на фрактурата към растежната пластинка.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Salter и Harris (1963) разделя физисните фрактури на пет типа според отношението на линията на фрактурата към физиса:
 
 Тип I: Фрактура само през физиса, с отделяне на епифизата от метафизата. Линията на фрактурата минава през зоната на провизорна калцификация. Причинява се типично от срязващи сили. Епифизата се дислоцира спрямо метафизата. Примери: родово-свързани физисни сепарации на хумеруса или фемура; епифизеолиза на главата на бедрената кост (SCFE — по същество тип I на Salter-Harris на проксималния фемур — Тема Ортопедия-19). Нарушение на растежа е рядко при анатомична репозиция.

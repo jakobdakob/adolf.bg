@@ -19,6 +19,16 @@ The vascular supply to the physis is unique: separate vessels supply the epiphys
 
 ## Salter-Harris Classification of Physeal Injuries
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris.svg" data-figure-alt="Salter-Harris classification" aria-label="Enlarge">
+    <img src="/img/anatomy-12/salter-harris.svg" alt="Salter-Harris classification" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The Salter-Harris classification (1963) — five types of physeal fractures by the relationship of the fracture line to the growth plate.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 The Salter and Harris classification (1963) divides physeal fractures into five types by the relationship of the fracture line to the physis: Type I: Fracture through the physis only, with separation of the epiphysis from the metaphysis. The fracture line passes through the zone of provisional calcification. Typically caused by shearing forces. The epiphysis displaces relative to the metaphysis. Examples: birth-related humeral or femoral physeal separations; SCFE (which is essentially a Salter- Harris I of the proximal femur — Topic Orth-19). Growth disturbance is uncommon if reduction is anatomical. Type II: Fracture through the physis with extension into the metaphysis (the “Thurston- Holland fragment” being the small metaphyseal triangle attached to the epiphysis). The most common Salter-Harris type. The fracture line passes through the zone of provisional calcification and exits through the metaphysis. Growth disturbance is uncommon with appropriate reduction. Type III: Fracture through the physis with extension into the epiphysis, crossing the joint surface. The fracture line passes through the zone of provisional calcification proximally and through the epiphyseal cartilage to the joint surface. Anatomical reduction is required because of the articular involvement; growth disturbance can occur with malreduction. Type IV: Fracture crossing the physis, the metaphysis, AND the epiphysis. The fracture line crosses all three structures. Anatomical reduction is essential; the fracture has a high risk of growth arrest because of bony bridging across the physis if not adequately reduced. Type V: Crush injury of the physis without displacement of bony fragments. The fracture is often radiographically subtle initially, with growth arrest manifesting weeks to months later. The diagnosis is often retrospective. Treatment is observation and management of the consequences if growth arrest develops. The Rang modification adds: Type VI: Injury to the perichondrial ring or periosteum producing peripheral growth arrest. Type VII: Isolated injury to the epiphysis without physeal involvement.
 
 Type VIII: Injury to the metaphysis with potential to disrupt the blood supply to the physis. Type IX: Injury to the periosteum with potential to affect appositional growth. The classification predicts both immediate management (anatomical reduction required for types III and IV) and the risk of long-term growth disturbance (highest for types IV and V).

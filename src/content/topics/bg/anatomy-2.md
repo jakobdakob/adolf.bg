@@ -13,7 +13,17 @@ order: 202
 
 ## Костна и ставна анатомия
 
-## Гленохумералната става е сфероидна (топка-чашка) артикулация между относително
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder.svg" data-figure-alt="Анатомия на раменната става" aria-label="Увеличи">
+    <img src="/img/anatomy-2/shoulder.svg" alt="Анатомия на раменната става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Анатомия на раменната става — гленохумерална, акромиоклавикуларна и стерноклавикуларна стави плюс скапулоторакалното съчленение.</span>
+    <span class="md-figure-attribution"> — InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_anatomy.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+Гленохумералната става е сфероидна (топка-чашка) артикулация между относително
 
 малката, леко ретровертирана гленоидна ямка (типична ретроверзия 5–7 градуса, с инфериорен наклон около 4–5 градуса) и значително по-голямата главица на раменната кост (покрита от около 120 градуса ставен хрущял). Несъответствието в размерите поражда характерния компромис между подвижност и стабилност; само 25–30% от главицата на humerus е в контакт с гленоида по всяко едно време.
 

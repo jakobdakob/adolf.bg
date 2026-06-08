@@ -13,6 +13,16 @@ order: 206
 
 ## Костна и ставна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand.svg" data-figure-alt="Палмарна анатомия на китката и ръката" aria-label="Увеличи">
+    <img src="/img/anatomy-6/hand.svg" alt="Палмарна анатомия на китката и ръката" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дълбока палмарна дисекция на китката и ръката — флексорни сухожилия с обвивки, A1–A5 ремъци, сензорни нерви и съдове в палмарната дъга.</span>
+    <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Скелетът на ръката включва:
 
 •   8 карпални кости в два реда (проксимален: os scaphoideum, os lunatum, os triquetrum,

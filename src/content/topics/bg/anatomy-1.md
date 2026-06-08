@@ -13,6 +13,16 @@ order: 201
 
 ## Гръбначна анатомия — регионални особености
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-column.jpg" data-figure-alt="Гръбначен стълб" aria-label="Увеличи">
+    <img src="/img/anatomy-1/vertebral-column.jpg" alt="Гръбначен стълб" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Гръбначен стълб — 7 шийни, 12 гръдни, 5 лумбални прешлена, сакрум и опашка; четирите физиологични кривини (две лордози + две кифози) се развиват в детска възраст.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:715_Vertebral_Column.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Общата схема на прешлена включва тяло отпред, гръбначна дъга отзад (с дръжки, пластинки, напречни израстъци, бодест израстък и ставни израстъци) и гръбначен отвор между тях, съдържащ гръбначния мозък с обвивките му. Регионалните вариации по дължината на стълба отразяват функционалната адаптация:
 
 Шийни прешлени (C1–C7): Телата са малки и плоски; бодестите израстъци (с изключение на C1) са обикновено къси и раздвоени; напречните израстъци съдържат foramen transversarium, през което преминава arteria vertebralis (обикновено от C1 до C6, като артерията типично навлиза на ниво C6); Processus uncinati на горната повърхност на C3–C7 образуват унковертебралните стави (на Luschka); C1 (атлас) е пръстен без тяло, ставно свързан горе с окципиталните кондили; C2 (аксис) носи dens (одонтоиден израстък), изпъкващ нагоре за ставна връзка с предната дъга на C1; C7 има особено дълъг бодест израстък (vertebra prominens).

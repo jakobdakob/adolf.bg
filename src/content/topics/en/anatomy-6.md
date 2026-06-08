@@ -13,6 +13,16 @@ The hand is the most anatomically intricate region of the orthopedic skeleton, w
 
 ## Bony and Articular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand.svg" data-figure-alt="Palmar anatomy of the wrist and hand" aria-label="Enlarge">
+    <img src="/img/anatomy-6/hand.svg" alt="Palmar anatomy of the wrist and hand" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand — flexor tendons with sheaths, A1–A5 pulleys, sensory nerves and palmar arch vessels.</span>
+    <span class="md-figure-attribution"> — Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 The hand skeleton comprises: 8 carpal bones in two rows (proximal: scaphoid, lunate, triquetrum, pisiform; distal: trapezium, trapezoid, capitate, hamate) — see Topic Trauma-18 for fracture and dislocation anatomy. 5 metacarpals numbered 1 through 5 from radial to ulnar. 14 phalanges: Two for the thumb (proximal and distal) and three for each of the fingers (proximal, middle, distal). The total is 14 phalanges in the hand. The principal joints include: Carpometacarpal (CMC) joints: The articulations between the distal carpus and the metacarpal bases. The first CMC joint (thumb) is a saddle joint between the trapezium and the first metacarpal, providing the unique opposability of the thumb. The second through fifth CMC joints are essentially gliding joints with limited motion (more motion at the fourth and fifth, contributing to the cupping of the hand). Metacarpophalangeal (MCP) joints: The “knuckle” joints between the metacarpal heads and the proximal phalangeal bases. The fingers have condyloid joints (allowing flexion-extension and limited abduction-adduction); the thumb has a hinge-type joint. Interphalangeal (IP) joints: The proximal IP (PIP) joints and distal IP (DIP) joints of the fingers; the thumb has a single IP joint. All are hinge joints permitting flexion-extension only.
 
 The collateral ligaments of the MCP and IP joints have specific anatomical features. The MCP collateral ligaments are taut in flexion and lax in extension (a fact that determines the safe immobilization position — see below). The IP collateral ligaments are taut throughout the range, with both proper collateral ligaments (between adjacent bones) and accessory collateral ligaments (between the proximal bone and the volar plate).

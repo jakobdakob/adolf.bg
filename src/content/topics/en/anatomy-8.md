@@ -37,6 +37,16 @@ The principal hip muscles include: Anterior compartment: Iliopsoas (hip flexion)
 
 ## Neurovascular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-triangle.png" data-figure-alt="Femoral triangle" aria-label="Enlarge">
+    <img src="/img/anatomy-8/femoral-triangle.png" alt="Femoral triangle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoral triangle — lateral to medial: femoral nerve, artery, vein (NAVL mnemonic); the principal neurovascular basis for anterior hip approaches.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral artery is the principal vascular concern in anterior hip approaches. Sciatic nerve: Exits the pelvis through the greater sciatic foramen, typically below the piriformis. The principal neurological concern in posterior hip approaches. Lateral femoral cutaneous nerve: Crosses near the ASIS. At risk in anterior approaches (Smith-Petersen) with meralgia paresthetica as a common complication. Superior gluteal nerve: Runs between gluteus medius and minimus. At risk in lateral approaches (Hardinge) with abductor weakness as the principal concern.
 
 ## Anterior Approach (Smith-Petersen)

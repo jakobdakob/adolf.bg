@@ -19,6 +19,16 @@ The tibial nerve and posterior tibial artery in the posterior deep compartment, 
 
 ## Tibial Shaft Fractures — Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-27/tibia-spiral.png" data-figure-alt="Spiral fracture of the tibial shaft" aria-label="Enlarge">
+    <img src="/img/trauma-27/tibia-spiral.png" alt="Spiral fracture of the tibial shaft" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spiral fracture of the tibial shaft (AO 42-A1) — typical torsional injury; recognisable by the long spiral line winding around the bone axis.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The AO/OTA classification (region 42) is the standard: Type A (simple): A1 spiral, A2 oblique (>30 degrees), A3 transverse (<30 degrees). Type B (wedge): B1 spiral wedge, B2 bending wedge, B3 fragmentary wedge. Type C (complex): C1 spiral complex (segmental with butterfly), C2 segmental, C3 irregular comminuted. The Gustilo-Anderson classification of open fractures (described in detail in Topic Trauma-5) is critical to tibial shaft fracture management because of the high open fracture rate. The types I (clean wound less than 1 cm), II (wound 1 to 10 cm with moderate soft-tissue injury), IIIA (severe but adequate periosteal coverage), IIIB (severe with inadequate periosteal coverage requiring flap), and IIIC (with arterial injury requiring repair) substantially direct management.
 
 ## Clinical Assessment of Tibial Shaft Fractures

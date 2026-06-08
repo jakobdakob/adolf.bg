@@ -42,6 +42,16 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
 
 ## Lumbosacral Plexus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbosacral-plexus.png" data-figure-alt="Lumbosacral plexus" aria-label="Enlarge">
+    <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Lumbosacral plexus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lumbar and sacral plexus — the anterior rami of L1–S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The lumbosacral plexus is formed from the anterior rami of L4 through S4. The principal nerves include: Femoral nerve (L2-L4): Descends through the iliac fossa anterior to the iliacus muscle, then passes beneath the inguinal ligament lateral to the femoral artery. Innervates the iliopsoas, quadriceps, sartorius, and pectineus. Obturator nerve (L2-L4): Descends through the pelvis on the lateral wall, passing through the obturator foramen. Innervates the obturator externus and the adductor compartment of the thigh. Sciatic nerve (L4-S3): The largest nerve in the body. Exits the pelvis through the greater sciatic foramen, typically inferior to the piriformis muscle. Innervates the hamstrings and (via its peroneal and tibial divisions) all the muscles of the leg and foot. Superior gluteal nerve (L4-S1): Exits the pelvis through the greater sciatic foramen, superior to the piriformis (the only nerve to do so). Runs between the gluteus medius and minimus, supplying both muscles and the tensor fasciae latae. Iatrogenic injury during the lateral approach to the hip is a recognized cause of postoperative abductor weakness. Inferior gluteal nerve (L5-S2): Exits inferior to the piriformis. Supplies the gluteus maximus. Pudendal nerve (S2-S4): Exits the pelvis through the greater sciatic foramen below the piriformis, then re-enters through the lesser sciatic foramen. Supplies the perineum.
 
 Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle and passes beneath the inguinal ligament approximately 1 to 2 cm medial to the ASIS. Provides sensation to the lateral thigh. Frequently encountered (and at risk) in anterior pelvic approaches; injury produces meralgia paresthetica.

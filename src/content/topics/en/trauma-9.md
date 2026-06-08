@@ -31,6 +31,16 @@ Post-traumatic osteomyelitis is osteomyelitis arising in the setting of precedin
 
 Host C is the patient in whom the treatment is worse than the disease and palliation is appropriate. The classification guides treatment intensity and predicts outcome.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-9/osteomyelitis-involucrum.jpg" data-figure-alt="Involucrum in chronic osteomyelitis" aria-label="Enlarge">
+    <img src="/img/trauma-9/osteomyelitis-involucrum.jpg" alt="Involucrum in chronic osteomyelitis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Chronic osteomyelitis — extracortical new bone formation (involucrum) surrounding the devitalized sequestrum; the classic radiographic hallmark of persistent bone infection.</span>
+    <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Involucrum_(Extracortical_New_Bone_Formation)_in_Chronic_Osteomyelitis_(48327308712).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
+
 ## Diagnosis of Chronic Osteomyelitis
 
 The diagnosis of chronic osteomyelitis combines clinical, laboratory, and imaging features. Clinical features include persistent or recurrent drainage from a sinus tract, persistent pain, and persistent local warmth and swelling. Laboratory markers — leukocyte count, ESR, CRP — are non-specific but useful for monitoring response. CRP is particularly useful for trending; it should fall progressively after successful debridement. Plain radiographs show the classical features of chronic osteomyelitis: cortical thickening, periosteal new bone, lucent areas of bony destruction, and the sequestrum-involucrum pattern. The radiographic changes lag clinical disease by two to three weeks. MRI is the most sensitive modality for early detection and for delineation of the extent of bony and adjacent soft-tissue involvement. CT is superior to MRI for demonstrating sequestrum and cortical destruction and is useful in operative planning. Nuclear imaging — three-phase technetium bone scan, gallium scan, indium-labeled or technetium-labeled leukocyte scan — provides functional information but is largely superseded by MRI in modern practice except in the setting of indwelling hardware. PET-CT has emerging utility. The gold standard for microbiological diagnosis remains deep tissue cultures obtained at debridement, with multiple samples (typically five) sent for aerobic, anaerobic, and (in appropriate clinical settings) fungal and mycobacterial culture. Sinus tract swabs are notoriously unreliable, frequently growing colonizing organisms that do not represent the deep pathogen. Sonication of explanted hardware, which dislodges biofilm organisms into a sonication fluid, has improved the diagnostic yield in periprosthetic and post-traumatic implant infection.

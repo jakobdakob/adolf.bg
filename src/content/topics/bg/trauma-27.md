@@ -35,6 +35,16 @@ order: 127
 
 ## Фрактури на тибиалната диафиза — класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-27/tibia-spiral.png" data-figure-alt="Спираловидна фрактура на тибията" aria-label="Увеличи">
+    <img src="/img/trauma-27/tibia-spiral.png" alt="Спираловидна фрактура на тибията" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Спираловидна фрактура на тибиалната диафиза (AO 42-A1) — типично торзионно увреждане; разпознаваема по дългата спирална линия около оста на костта.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:Spiral_fracture_of_the_tibia.PNG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията AO/OTA (регион 42) е стандартна:
 
 Тип A (прости): A1 спираловидна, A2 коса (>30°), A3 напречна (<30°).

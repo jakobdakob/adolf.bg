@@ -69,6 +69,16 @@ Musculus gluteus medius и musculus gluteus minimus са критични за �
 
 ## Неврова и съдова анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-triangle.png" data-figure-alt="Феморален триъгълник" aria-label="Увеличи">
+    <img src="/img/anatomy-8/femoral-triangle.png" alt="Феморален триъгълник" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Феморален триъгълник — от латерално към медиално: n. femoralis, a. femoralis, v. femoralis (мнемоника NAVL); главна съдово-нервна основа за предните достъпи към тазобедрената става.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray546.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Nervus femoralis, arteria femoralis, vena femoralis: Преминават под ligamentum inguinale. Arteria femoralis е главната съдова опасност при предните достъпи към тазобедрената става.
 
 Nervus ischiadicus: Излиза от таза през foramen ischiadicum majus, типично под musculus piriformis. Главната неврологична опасност при задните достъпи към тазобедрената става.

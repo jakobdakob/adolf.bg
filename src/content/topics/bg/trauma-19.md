@@ -39,6 +39,16 @@ order: 119
 
 В широка клинична употреба са две основни класификационни системи, всяка с присъща клинична полезност.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-19/pelvic-openbook.jpg" data-figure-alt="Open-book нараняване на тазовия пръстен" aria-label="Увеличи">
+    <img src="/img/trauma-19/pelvic-openbook.jpg" alt="Open-book нараняване на тазовия пръстен" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Open-book нараняване на тазовия пръстен (APC II/III по Young-Burgess) — разширение на пубичната симфиза с нарушаване на предните и задните сакроилиачни лигаменти.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Open-Book-Verletzung_durch_Turmspringen_45M_-_CR_-_001_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 ## Класификация на Young-Burgess (1986)
 
 Класификацията на Young и Burgess систематизира уврежданията на тазовия пръстен по механизъм на травмата, като механизмът е предиктивен за характера на съдовото увреждане и риска от кръвоизлив. Системата включва четири основни категории:

@@ -95,6 +95,16 @@ Nervus musculocutaneus се отделя от латералния сноп на
 
 ## Брахиален плексус и аксиларни съдове
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/brachial-plexus.svg" data-figure-alt="Брахиален плексус" aria-label="Увеличи">
+    <img src="/img/anatomy-2/brachial-plexus.svg" alt="Брахиален плексус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Брахиален плексус (C5–T1) — корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Брахиалният плексус лежи медиално от processus coracoideus и зад musculus pectoralis minor. Arteria axillaris и vena axillaris преминават заедно с плексуса. Тези структури са в
 
 риск при по-дълбока дисекция медиално от coracoideus и при високоенергийни луксации на рамото.

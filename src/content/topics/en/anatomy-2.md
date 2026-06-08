@@ -56,6 +56,16 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
 
 ## Brachial Plexus and Axillary Vessels
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/brachial-plexus.svg" data-figure-alt="Brachial plexus" aria-label="Enlarge">
+    <img src="/img/anatomy-2/brachial-plexus.svg" alt="Brachial plexus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Brachial plexus (C5–T1) — roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The brachial plexus lies medial to the coracoid and posterior to the pectoralis minor. The axillary artery and vein travel with the plexus. These structures are at risk in deeper dissection medial to the coracoid and in high-energy shoulder dislocations.
 
 ## Suprascapular Nerve (C5-C6)

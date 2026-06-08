@@ -87,6 +87,16 @@ Corona mortis („корона на смъртта") е съдова анаст�
 
 ## Лумбосакрален плексус
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbosacral-plexus.png" data-figure-alt="Лумбосакрален плексус" aria-label="Увеличи">
+    <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Лумбосакрален плексус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лумбален и сакрален плексус — предните клонове на L1–S4 формират n. femoralis, n. obturatorius, n. ischiadicus и др.; топография ключова при предни и задни достъпи до таза.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Plexus lumbosacralis се формира от предните клонове на L4 до S4. Основните нерви включват:
 
 Nervus femoralis (L2–L4): Спуска се в илиачната ямка пред musculus iliacus, след което преминава под ligamentum inguinale латерално от arteria femoralis. Инервира musculus iliopsoas, musculus quadriceps femoris, musculus sartorius и musculus pectineus.

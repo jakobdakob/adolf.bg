@@ -13,6 +13,16 @@ order: 130
 
 ## Мускулни наранявания — разтягания и контузии
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-30/muscle-strain.jpg" data-figure-alt="Разтягане на m. gastrocnemius (medial)" aria-label="Увеличи">
+    <img src="/img/trauma-30/muscle-strain.jpg" alt="Разтягане на m. gastrocnemius (medial)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Разтягане на медиалния gastrocnemius („tennis leg“) — типична бягаща травма с прекъсване на медиалния мускул-сухожилен преход.</span>
+    <span class="md-figure-attribution"> — Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Класификация на мускулните разтягания
 

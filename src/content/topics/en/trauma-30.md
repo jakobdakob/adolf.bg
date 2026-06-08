@@ -13,6 +13,16 @@ Muscle and tendon injuries collectively represent a substantial portion of muscu
 
 ## Muscle Injuries — Strains and Contusions
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-30/muscle-strain.jpg" data-figure-alt="Medial gastrocnemius strain" aria-label="Enlarge">
+    <img src="/img/trauma-30/muscle-strain.jpg" alt="Medial gastrocnemius strain" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Medial gastrocnemius strain (“tennis leg”) — typical running/jumping injury with disruption at the medial myotendinous junction.</span>
+    <span class="md-figure-attribution"> — Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Medial_Gastrocnemius_Strain-0044.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Classification of Muscle Strains
 

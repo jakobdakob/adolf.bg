@@ -81,11 +81,11 @@ Conservative management includes physical therapy directed at flexion-based exer
 ## Lumbar Spondylolisthesis
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/spondylolisthesis.jpg" data-figure-alt="L5–S1 spondylolisthesis" aria-label="Enlarge">
-    <img src="/img/ortho-25/spondylolisthesis.jpg" alt="L5–S1 spondylolisthesis" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/spondylolisthesis.jpg" data-figure-alt="L5-S1 spondylolisthesis" aria-label="Enlarge">
+    <img src="/img/ortho-25/spondylolisthesis.jpg" alt="L5-S1 spondylolisthesis" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">L5–S1 spondylolisthesis: anterior translation of L5 relative to S1; graded by the Meyerding classification (I–IV) by percentage slip.</span>
+    <span class="md-figure-caption">L5-S1 spondylolisthesis: anterior translation of L5 relative to S1; graded by the Meyerding classification (I-IV) by percentage slip.</span>
     <span class="md-figure-attribution"> · Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>

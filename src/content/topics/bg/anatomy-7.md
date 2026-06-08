@@ -92,30 +92,30 @@ Corona mortis („корона на смъртта“) е съдова анас�
     <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Лумбосакрален плексус" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Лумбален и сакрален плексус: предните клонове на L1–S4 формират n. femoralis, n. obturatorius, n. ischiadicus и др.; топография ключова при предни и задни достъпи до таза.</span>
+    <span class="md-figure-caption">Лумбален и сакрален плексус: предните клонове на L1-S4 формират n. femoralis, n. obturatorius, n. ischiadicus и др.; топография ключова при предни и задни достъпи до таза.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
 Plexus lumbosacralis се формира от предните клонове на L4 до S4. Основните нерви включват:
 
-Nervus femoralis (L2–L4): Спуска се в илиачната ямка пред musculus iliacus, след което преминава под ligamentum inguinale латерално от arteria femoralis. Инервира musculus iliopsoas, musculus quadriceps femoris, musculus sartorius и musculus pectineus.
+Nervus femoralis (L2-L4): Спуска се в илиачната ямка пред musculus iliacus, след което преминава под ligamentum inguinale латерално от arteria femoralis. Инервира musculus iliopsoas, musculus quadriceps femoris, musculus sartorius и musculus pectineus.
 
-Nervus obturatorius (L2–L4): Спуска се по страничната стена на малкия таз и преминава през foramen obturatorium. Инервира musculus obturator externus и аддукторния компартмент на бедрото.
+Nervus obturatorius (L2-L4): Спуска се по страничната стена на малкия таз и преминава през foramen obturatorium. Инервира musculus obturator externus и аддукторния компартмент на бедрото.
 
-Nervus ischiadicus (L4–S3): Най-дебелият нерв в тялото. Излиза от таза през foramen ischiadicum majus, типично под musculus piriformis. Инервира мускулите от групата на hamstrings и (чрез перонеалния и тибиалния дял) всички мускули на подбедрицата и стъпалото.
+Nervus ischiadicus (L4-S3): Най-дебелият нерв в тялото. Излиза от таза през foramen ischiadicum majus, типично под musculus piriformis. Инервира мускулите от групата на hamstrings и (чрез перонеалния и тибиалния дял) всички мускули на подбедрицата и стъпалото.
 
-Nervus glutealis superior (L4–S1): Излиза от таза през foramen ischiadicum majus над musculus piriformis (единственият нерв, правещ това). Преминава между musculus gluteus medius и musculus gluteus minimus, инервирайки двата мускула и musculus tensor fasciae latae. Ятрогенното му увреждане при латерален достъп към тазобедрената става е призната причина за постоперативна слабост на абдукторите.
+Nervus glutealis superior (L4-S1): Излиза от таза през foramen ischiadicum majus над musculus piriformis (единственият нерв, правещ това). Преминава между musculus gluteus medius и musculus gluteus minimus, инервирайки двата мускула и musculus tensor fasciae latae. Ятрогенното му увреждане при латерален достъп към тазобедрената става е призната причина за постоперативна слабост на абдукторите.
 
-Nervus glutealis inferior (L5–S2): Излиза под musculus piriformis. Инервира musculus gluteus maximus.
+Nervus glutealis inferior (L5-S2): Излиза под musculus piriformis. Инервира musculus gluteus maximus.
 
-Nervus pudendus (S2–S4): Излиза от таза през foramen ischiadicum majus под musculus piriformis, след което отново влиза в таза през foramen ischiadicum minus. Инервира промежността.
+Nervus pudendus (S2-S4): Излиза от таза през foramen ischiadicum majus под musculus piriformis, след което отново влиза в таза през foramen ischiadicum minus. Инервира промежността.
 
-Nervus cutaneus femoris lateralis (L2–L3): Минава пред musculus iliacus и преминава под ligamentum inguinale приблизително 1-2 cm медиално от SIAS. Осигурява сетивна инервация на латералната повърхност на бедрото. Среща се (и е изложен на риск) при предните тазови достъпи; увреждането му причинява meralgia paresthetica.
+Nervus cutaneus femoris lateralis (L2-L3): Минава пред musculus iliacus и преминава под ligamentum inguinale приблизително 1-2 cm медиално от SIAS. Осигурява сетивна инервация на латералната повърхност на бедрото. Среща се (и е изложен на риск) при предните тазови достъпи; увреждането му причинява meralgia paresthetica.
 
 ## Поясен плексус в дебелината на musculus psoas
 
-Plexus lumbalis лежи в дебелината на musculus psoas и е особено изложен на риск при латералните трансмускулни (транспсоас) достъпи към поясния гръбнак (XLIF/LLIF, виж Тема Анатомия-1). Коренчето L4 е най-каудалното и е в най-голям риск на нивото L4–L5.
+Plexus lumbalis лежи в дебелината на musculus psoas и е особено изложен на риск при латералните трансмускулни (транспсоас) достъпи към поясния гръбнак (XLIF/LLIF, виж Тема Анатомия-1). Коренчето L4 е най-каудалното и е в най-голям риск на нивото L4-L5.
 
 ## Илиоингвинален достъп (Letournel)
 

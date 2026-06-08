@@ -87,13 +87,13 @@ Musculus levator scapulae: От напречните израстъци на ш�
 ## Невроваскуларни структури
 
 
-## Nervus axillaris (C5–C6)
+## Nervus axillaris (C5-C6)
 
 Nervus axillaris е основната неврологична структура в риск при раменната хирургия. Той се отделя от задния сноп на брахиалния плексус, преминава назад през квадрилатералното пространство и след това обикаля хирургичната шийка на раменната кост дълбоко под делтоида, разклонявайки се към делтоида и teres minor, като сетивен клон (nervus cutaneus brachii lateralis superior) инервира кожата над латералния делтоид.
 
 Близостта на nervus axillaris до хирургичната шийка на humerus (около 5-7 cm дистално от акромиона по дълбоката повърхност на делтоида) е критичният хирургично-анатомичен факт, ограничаващ обхвата на делтоид-разцепващите разрези. Nervus axillaris е увреден при около 10-20% от предните луксации на рамото и при много фрактури на проксималния humerus (Тема Травматология-13).
 
-## Nervus musculocutaneus (C5–C7)
+## Nervus musculocutaneus (C5-C7)
 
 Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус, пробива musculus coracobrachialis (обикновено около 5-8 cm дистално от processus coracoideus, „безопасната зона“ за ретракция при предна раменна хирургия е около 5 cm дистално от coracoideus) и инервира musculus biceps brachii, musculus brachialis и musculus coracobrachialis. След това продължава като nervus cutaneus antebrachii lateralis.
 
@@ -104,18 +104,18 @@ Nervus musculocutaneus се отделя от латералния сноп на
     <img src="/img/anatomy-2/brachial-plexus.svg" alt="Брахиален плексус" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Брахиален плексус (C5–T1): корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
+    <span class="md-figure-caption">Брахиален плексус (C5-T1): корени, стволове, дивизии, снопове и крайни клонове; основа за разбирането на постганглионарните нервни увреди при родова травма и операции на рамото.</span>
     <span class="md-figure-attribution"> · Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
 Брахиалният плексус лежи медиално от processus coracoideus и зад musculus pectoralis minor. Arteria axillaris и vena axillaris преминават заедно с плексуса. Тези структури са в риск при по-дълбока дисекция медиално от coracoideus и при високоенергийни луксации на рамото.
 
-## Nervus suprascapularis (C5–C6)
+## Nervus suprascapularis (C5-C6)
 
 Nervus suprascapularis преминава през incisura scapulae (дълбоко от ligamentum transversum scapulae superius) и инервира musculus supraspinatus, след което продължава около incisura spinoglenoidalis, за да инервира musculus infraspinatus. Компресия или тракция на тези места предизвикват невропатия на nervus suprascapularis със слабост на supraspinatus и/или infraspinatus.
 
-## Nervus thoracicus longus (C5–C7)
+## Nervus thoracicus longus (C5-C7)
 
 Nervus thoracicus longus преминава по латералната гръдна стена по повърхността на musculus serratus anterior, инервирайки го. Увредата му предизвиква крилообразна скапула с изпъкване на медиалния й ръб при предна елевация на ръката.
 

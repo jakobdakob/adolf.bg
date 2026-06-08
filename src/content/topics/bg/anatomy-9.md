@@ -15,9 +15,9 @@ order: 209
 
 Бедрото има три основни мускулни компартмента, разделени от интермускулни прегради, залавени за linea aspera на бедрената кост:
 
-Преден компартмент: Съдържа musculus quadriceps femoris (musculus rectus femoris, musculus vastus lateralis, musculus vastus medialis, musculus vastus intermedius), musculus sartorius, musculus iliacus и musculus psoas (проксимално) и musculus pectineus. Инервиран предимно от nervus femoralis (L2–L4). Функционира главно като екстензия на коляното и флексия в тазобедрената става.
+Преден компартмент: Съдържа musculus quadriceps femoris (musculus rectus femoris, musculus vastus lateralis, musculus vastus medialis, musculus vastus intermedius), musculus sartorius, musculus iliacus и musculus psoas (проксимално) и musculus pectineus. Инервиран предимно от nervus femoralis (L2-L4). Функционира главно като екстензия на коляното и флексия в тазобедрената става.
 
-Медиален компартмент: Съдържа musculus adductor longus, musculus adductor brevis и musculus adductor magnus; musculus gracilis; musculus obturator externus. Инервиран предимно от nervus obturatorius (L2–L4). Функционира като аддукция в тазобедрената става.
+Медиален компартмент: Съдържа musculus adductor longus, musculus adductor brevis и musculus adductor magnus; musculus gracilis; musculus obturator externus. Инервиран предимно от nervus obturatorius (L2-L4). Функционира като аддукция в тазобедрената става.
 
 Заден компартмент: Съдържа мускулите от групата на hamstrings (musculus biceps femoris с дълга и къса глава, musculus semitendinosus, musculus semimembranosus). Инервиран от nervus ischiadicus (тибиалната порция, за повечето; общата перонеална порция, за късата глава на musculus biceps femoris). Функционира като екстензия в тазобедрената става и флексия на коляното.
 

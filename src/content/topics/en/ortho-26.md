@@ -18,7 +18,7 @@ Birth injuries to the musculoskeletal system encompass a range of conditions ari
     <img src="/img/ortho-26/erb-palsy.jpg" alt="Obstetric brachial plexus palsy (Erb’s palsy)" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Erb’s palsy (C5–C6) — the characteristic “waiter’s-tip” posture: shoulder adducted and internally rotated, elbow extended, forearm pronated.</span>
+    <span class="md-figure-caption">Erb’s palsy (C5-C6) — the characteristic “waiter’s-tip” posture: shoulder adducted and internally rotated, elbow extended, forearm pronated.</span>
     <span class="md-figure-attribution"> · Wikimedia user “r”, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>

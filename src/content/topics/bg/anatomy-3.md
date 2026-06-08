@@ -27,9 +27,9 @@ Humerus е най-голямата дълга кост на горния кра�
 
 Мишницата има две основни мускулни отделения:
 
-Предното отделение съдържа musculus biceps brachii (с кратко сухожилие от processus coracoideus и дълго сухожилие от tuberculum supraglenoidale, захващащи се чрез aponeurosis bicipitalis за tuberositas radii), musculus coracobrachialis (от processus coracoideus до медиалния humerus) и musculus brachialis (от долния humerus до processus coronoideus ulnae). Отделението се инервира от nervus musculocutaneus (C5–C7) — пробиващ coracobrachialis на около 5-8 cm дистално от processus coracoideus, след което преминава между biceps и brachialis, за да излезе като nervus cutaneus antebrachii lateralis.
+Предното отделение съдържа musculus biceps brachii (с кратко сухожилие от processus coracoideus и дълго сухожилие от tuberculum supraglenoidale, захващащи се чрез aponeurosis bicipitalis за tuberositas radii), musculus coracobrachialis (от processus coracoideus до медиалния humerus) и musculus brachialis (от долния humerus до processus coronoideus ulnae). Отделението се инервира от nervus musculocutaneus (C5-C7) — пробиващ coracobrachialis на около 5-8 cm дистално от processus coracoideus, след което преминава между biceps и brachialis, за да излезе като nervus cutaneus antebrachii lateralis.
 
-Задното отделение съдържа musculus triceps brachii с три глави (дълга глава от tuberculum infraglenoidale, латерална глава от горния заден humerus, медиална глава от долния заден humerus). Triceps се захваща за olecranon ulnae. Отделението се инервира от nervus radialis (C5–T1), пресичащ спиралния жлеб на humerus от медиосупериорно към латероинферно, отдавайки клонове към triceps преди да стане повърхностен латерално и да премине напред през латералната интермускулна преграда.
+Задното отделение съдържа musculus triceps brachii с три глави (дълга глава от tuberculum infraglenoidale, латерална глава от горния заден humerus, медиална глава от долния заден humerus). Triceps се захваща за olecranon ulnae. Отделението се инервира от nervus radialis (C5-T1), пресичащ спиралния жлеб на humerus от медиосупериорно към латероинферно, отдавайки клонове към triceps преди да стане повърхностен латерално и да премине напред през латералната интермускулна преграда.
 
 ## Невроваскуларни структури
 
@@ -173,7 +173,7 @@ Nervus radialis в дисталната третина на humerus (къдет�
 
 ## Обобщение и ключови изводи
 
-Мишницата предлага сравнително прости оперативни достъпи в сравнение с рамото, като основното предизвикателство е nervus radialis в спиралния жлеб на задния humerus. Двата основни достъпа — антеролатерален (използващ интервала biceps–brachialis с надлъжно разцепване на brachialis по средата) и заден (използващ разцепване на triceps, паратрицепсна техника, рефлектиране на triceps или остеотомия на olecranon) — заедно осигуряват достъп до повечето зони на диафизата на humerus. Изборът на достъп зависи от локализацията на патологията (проксималната и средната третина, в полза на антеролатералния; средната и дисталната третина, в полза на задния; дисталната ставна повърхност, в полза на остеотомията на olecranon).
+Мишницата предлага сравнително прости оперативни достъпи в сравнение с рамото, като основното предизвикателство е nervus radialis в спиралния жлеб на задния humerus. Двата основни достъпа — антеролатерален (използващ интервала biceps-brachialis с надлъжно разцепване на brachialis по средата) и заден (използващ разцепване на triceps, паратрицепсна техника, рефлектиране на triceps или остеотомия на olecranon) — заедно осигуряват достъп до повечето зони на диафизата на humerus. Изборът на достъп зависи от локализацията на патологията (проксималната и средната третина, в полза на антеролатералния; средната и дисталната третина, в полза на задния; дисталната ставна повърхност, в полза на остеотомията на olecranon).
 
 Nervus radialis се идентифицира конкретно и се защитава при всеки достъп, разширяващ се в средната или дисталната третина на humerus, като преходът между средната и дисталната третина на humerus е критичният ориентир, където нервът пробива латералната интермускулна преграда, за да навлезе в предното отделение.
 

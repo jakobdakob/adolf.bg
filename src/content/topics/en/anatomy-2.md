@@ -71,7 +71,7 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
     <img src="/img/anatomy-2/brachial-plexus.svg" alt="Brachial plexus" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Brachial plexus (C5–T1): roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
+    <span class="md-figure-caption">Brachial plexus (C5-T1): roots, trunks, divisions, cords and terminal branches; foundational for understanding postganglionic nerve injuries from birth trauma and shoulder surgery.</span>
     <span class="md-figure-attribution"> · Mikael Häggström / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Brachial_plexus_2.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>

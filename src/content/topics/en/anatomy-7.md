@@ -47,7 +47,7 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
     <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Lumbosacral plexus" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Lumbar and sacral plexus: the anterior rami of L1–S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
+    <span class="md-figure-caption">Lumbar and sacral plexus: the anterior rami of L1-S4 form the femoral, obturator, sciatic and other nerves; topography critical for anterior and posterior pelvic approaches.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray827.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>

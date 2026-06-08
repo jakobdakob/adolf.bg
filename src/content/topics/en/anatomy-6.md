@@ -18,7 +18,7 @@ The hand is the most anatomically intricate region of the orthopedic skeleton, w
     <img src="/img/anatomy-6/hand.svg" alt="Palmar anatomy of the wrist and hand" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand: flexor tendons with sheaths, A1–A5 pulleys, sensory nerves and palmar arch vessels.</span>
+    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand: flexor tendons with sheaths, A1-A5 pulleys, sensory nerves and palmar arch vessels.</span>
     <span class="md-figure-attribution"> · Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>

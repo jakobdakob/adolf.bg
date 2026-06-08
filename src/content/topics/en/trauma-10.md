@@ -44,7 +44,7 @@ Atlanto-occipital dissociation, historically a near-uniformly fatal injury, has 
     <img src="/img/trauma-10/cervical-lateral.jpg" alt="Lateral cervical spine X-ray" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Lateral X-ray of the lower cervical spine: the mandatory first-line imaging in suspected cervical trauma; visualises C1–C7 with a swimmer's view or CT required if C7-T1 is not seen.</span>
+    <span class="md-figure-caption">Lateral X-ray of the lower cervical spine: the mandatory first-line imaging in suspected cervical trauma; visualises C1-C7 with a swimmer's view or CT required if C7-T1 is not seen.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Cervical_Xray_Lower_Lateral_View.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
@@ -87,7 +87,7 @@ The Thoracolumbar Injury Classification and Severity Score (TLICS; Vaccaro et al
 
 ## AO Spine Thoracolumbar Classification
 
-The AO Spine Thoracolumbar Classification (Vaccaro et al., 2013), parallel in structure to the subaxial cervical classification, has gained increasing use. The morphologic types are A: compression, B: tension-band, C: translation. Compression injuries are subdivided A0 (minor), A1 (wedge), A2 (split), A3 (incomplete burst), A4 (complete burst). Tension-band injuries are B1 (bony Chance), B2 (PLC disruption with bony involvement), B3 (anterior tension-band disruption in ankylosed spine). Translation injuries are C (any translation in any plane). The neurological status modifier (N0–N4) and patient-specific modifiers (M1: indeterminate PLC; M2: comorbidity) supplement the morphologic grade.
+The AO Spine Thoracolumbar Classification (Vaccaro et al., 2013), parallel in structure to the subaxial cervical classification, has gained increasing use. The morphologic types are A: compression, B: tension-band, C: translation. Compression injuries are subdivided A0 (minor), A1 (wedge), A2 (split), A3 (incomplete burst), A4 (complete burst). Tension-band injuries are B1 (bony Chance), B2 (PLC disruption with bony involvement), B3 (anterior tension-band disruption in ankylosed spine). Translation injuries are C (any translation in any plane). The neurological status modifier (N0-N4) and patient-specific modifiers (M1: indeterminate PLC; M2: comorbidity) supplement the morphologic grade.
 
 ## Specific Thoracolumbar Injuries
 

@@ -18,7 +18,7 @@ Open fractures, gunshot injuries, crushing injuries, and the management of sever
     <img src="/img/trauma-5/open-tibia.jpg" alt="Open tibial fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Open tibial shaft fracture: communication between the fracture and the external environment; graded by the Gustilo-Anderson classification (I–IIIA/B/C).</span>
+    <span class="md-figure-caption">Open tibial shaft fracture: communication between the fracture and the external environment; graded by the Gustilo-Anderson classification (I-IIIA/B/C).</span>
     <span class="md-figure-attribution"> · Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>

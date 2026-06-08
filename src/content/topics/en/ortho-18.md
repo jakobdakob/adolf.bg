@@ -38,6 +38,11 @@ The characteristic pathology is a triangular fragment of bone (the “Fairbank t
 
 Tönnis described a “wandering” of the triangular fragment with growth that worsens the deformity over time.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Fairbank triangle, an inferomedial triangular fragment separating along an oblique line through the femoral neck metaphysis, is the radiographic signature of developmental coxa vara. Its progressive wandering with growth is what converts a mild varus into a pseudarthrosis through the femoral neck if untreated.</p>
+</aside>
+
 ## Clinical Features
 
 <figure class="md-figure">
@@ -56,28 +61,58 @@ Presentation is typically in early childhood (age 2-6 years) with a painless lim
 
 The plain AP pelvis radiograph is diagnostic. Features include: decreased neck-shaft angle (varus); short, wide femoral neck; the triangular Fairbank fragment in the inferomedial corner of the metaphysis; widened, irregular medial portion of the proximal femoral physis; and sometimes a clear vertical defect through the medial femoral neck. The Hilgenreiner-epiphyseal angle (the angle between Hilgenreiner’s line, through the triradiate cartilages, and a line along the proximal femoral physis) is the principal quantitative measurement and the strongest predictor of progression. The angle is normally less than 25°. An angle of 45° or greater predicts progression and is generally accepted as an indication for surgical correction; an angle between 25° and 45° is intermediate and requires observation or correction depending on additional features.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Hilgenreiner-epiphyseal angle drives the surgical decision in developmental coxa vara: normal <25°, observe 25-45°, operate when ≥45°. The angle is the strongest single predictor of progression and the most reliable trigger for valgus subtrochanteric osteotomy.</p>
+</aside>
+
 
 ## Treatment
 
 The treatment of developmental coxa vara depends on the Hilgenreiner-epiphyseal angle, the rate of progression, and the patient’s clinical findings. Observation: Hilgenreiner-epiphyseal angles less than 45° in the asymptomatic patient may be observed with serial radiographs every 6-12 months. The angle may decrease spontaneously with growth in mild cases, but progression is the rule in moderate cases. Surgical correction: Valgus subtrochanteric osteotomy is the standard treatment for established coxa vara with Hilgenreiner-epiphyseal angle greater than 45°. The procedure typically involves: a subtrochanteric or intertrochanteric closing-wedge or opening-wedge osteotomy to bring the neck-shaft angle to approximately 140-150° (slight overcorrection is desirable, since some loss of correction with growth is the rule); rigid fixation with a pediatric blade plate or pediatric hip screw; and an extended period of postoperative protection. The combined Pauwels intertrochanteric Y-osteotomy with adduction component is favored by some authors. The principle is to convert the high-angle physeal orientation (which subjects the medial femoral neck to shear forces) into a more horizontal orientation that subjects the physis to compression, allowing the physis to heal. Surgical timing: Surgery is generally recommended between ages 3 and 6 years, with delay only if the angle is in the intermediate range and trending favorably. Earlier surgery in the toddler is technically more demanding because of the small size of the proximal femur and the difficulty of fixation; later surgery permits less time for postoperative growth-related correction.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Operate developmental coxa vara between ages 3 and 6, with slight overcorrection of the neck-shaft angle to 140-150° valgus. Postoperative growth dilutes the correction, so neutral at the table becomes recurrent varus on follow-up; aim past normal.</p>
+</aside>
+
 ## Outcomes and Complications
 
 The outcomes of valgus osteotomy for developmental coxa vara are generally good, with restoration of a near-normal neck-shaft angle, improvement in hip abductor function, and prevention of progressive deformity. The principal long-term concerns include: premature closure of the proximal femoral physis (greater trochanteric overgrowth from the relatively continued growth of the trochanteric apophysis after central physeal arrest, this is common and may require greater trochanteric advancement in adolescence to restore normal abductor mechanics); leg-length discrepancy from physeal disturbance; recurrence of varus in severe cases or with inadequate correction; and progressive degenerative arthritis of the hip in adulthood. The trochanteric overgrowth deserves particular attention: as the central physis closes prematurely while the apophysis of the greater trochanter continues to grow, the relative height of the trochanter rises above the femoral head, the abductor moment arm is shortened, and a persistent Trendelenburg gait results. Trochanteric advancement (lateral and distal transfer of the trochanter) restores the abductor mechanics.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>After valgus osteotomy the central proximal femoral physis often closes prematurely while the trochanteric apophysis keeps growing, the trochanter rises, the abductor moment arm shortens, and Trendelenburg gait returns. Plan trochanteric advancement in adolescence as part of the long-term strategy, not as a salvage.</p>
+</aside>
+
 ## Acquired Coxa Vara
 
-Acquired coxa vara may follow a variety of conditions affecting the proximal femoral physis or proximal femur. The principal etiologies include: Post-traumatic coxa vara: Following femoral neck or proximal femoral fractures with malunion in varus, or following physeal injury. The treatment is reconstructive valgus osteotomy with attention to leg length and hip function. Post-infectious coxa vara: Following neonatal or childhood septic arthritis with destruction of the proximal femoral physis and femoral head. The deformity is often severe with shortening, varus, and degenerative changes. Reconstruction is complex and is discussed under “Tom Smith arthritis” in the chapter on infantile osteoarthritis. Coxa vara in Perthes disease: As discussed in the chapter on Perthes disease, coxa magna and coxa breva with relative trochanteric overgrowth are common late features of Perthes; significant varus is less common but can occur. Valgus osteotomy and trochanteric advancement are options. Coxa vara in fibrous dysplasia: Polyostotic fibrous dysplasia involving the proximal femur produces the classical “shepherd’s crook” varus deformity. Surgical correction by intertrochanteric or subtrochanteric valgus osteotomy with intramedullary fixation is the standard treatment. Coxa vara in multiple hereditary exostoses (MHE): Involvement of the proximal femoral metaphysis by exostoses can produce varus deformity, often combined with shortening.
+Acquired coxa vara may follow a variety of conditions affecting the proximal femoral physis or proximal femur. The principal etiologies include: Post-traumatic coxa vara: Following femoral neck or proximal femoral fractures with malunion in varus, or following physeal injury. The treatment is reconstructive valgus osteotomy with attention to leg length and hip function. Post-infectious coxa vara: Following neonatal or childhood septic arthritis with destruction of the proximal femoral physis and femoral head. The deformity is often severe with shortening, varus, and degenerative changes. Reconstruction is complex and is discussed under “Tom Smith arthritis” in the chapter on infantile osteoarthritis. Coxa vara in Perthes disease: As discussed in the chapter on Perthes disease, coxa magna and coxa breva with relative trochanteric overgrowth are common late features of Perthes; significant varus is less common but can occur. Valgus osteotomy and trochanteric advancement are options. Coxa vara in fibrous dysplasia: Polyostotic fibrous dysplasia involving the proximal femur produces the classical “shepherd’s crook” varus deformity. Surgical correction by intertrochanteric or subtrochanteric valgus osteotomy with intramedullary fixation is the standard treatment.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Polyostotic fibrous dysplasia of the proximal femur produces the shepherd's crook varus deformity. Intertrochanteric or subtrochanteric valgus osteotomy with intramedullary fixation is the standard; the load-sharing rod resists the high refracture risk of dysplastic bone.</p>
+</aside> Coxa vara in multiple hereditary exostoses (MHE): Involvement of the proximal femoral metaphysis by exostoses can produce varus deformity, often combined with shortening.
 
 Coxa vara in skeletal dysplasias: Various skeletal dysplasias including cleidocranial dysplasia, spondylometaphyseal dysplasia, metaphyseal chondrodysplasia (Schmid type), and others may produce coxa vara as part of their wider phenotype. Coxa vara in osteogenesis imperfecta: Bowing of the proximal femur from multiple healed fractures produces a varus appearance. Telescoping intramedullary rod fixation and valgus osteotomy can address the deformity.
 
 ## Pauwels Classification and Biomechanics
 
-The Pauwels biomechanical analysis of the proximal femur, developed in the 1930s and 1950s, provides the conceptual basis for the surgical correction of coxa vara. Pauwels recognized that the angle of the proximal femoral physis relative to the horizontal (which is approximately the Hilgenreiner-epiphyseal angle) determines whether the loading across the physis is predominantly compressive (when the angle is low, near horizontal) or shear (when the angle is high, near vertical). Shear loading inhibits physeal healing; compressive loading promotes it. The Pauwels intertrochanteric Y-osteotomy, in which a Y-shaped wedge of bone is removed below the physis and the proximal fragment is rotated to bring the physis to a more horizontal orientation, is the historic surgical solution to coxa vara and remains the conceptual basis for modern valgus osteotomy techniques.
+The Pauwels biomechanical analysis of the proximal femur, developed in the 1930s and 1950s, provides the conceptual basis for the surgical correction of coxa vara. Pauwels recognized that the angle of the proximal femoral physis relative to the horizontal (which is approximately the Hilgenreiner-epiphyseal angle) determines whether the loading across the physis is predominantly compressive (when the angle is low, near horizontal) or shear (when the angle is high, near vertical). Shear loading inhibits physeal healing; compressive loading promotes it.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Pauwels principle is the conceptual core of coxa vara surgery: a vertical physis sees shear, which inhibits healing; a more horizontal physis after valgus osteotomy sees compression, which promotes healing. The Y-osteotomy rotates the proximal fragment to convert shear into compression across the physeal defect.</p>
+</aside> The Pauwels intertrochanteric Y-osteotomy, in which a Y-shaped wedge of bone is removed below the physis and the proximal fragment is rotated to bring the physis to a more horizontal orientation, is the historic surgical solution to coxa vara and remains the conceptual basis for modern valgus osteotomy techniques.
 
 ## Differential Diagnosis
 
 The differential diagnosis of pediatric coxa vara includes: Developmental dysplasia of the hip: DDH can produce a varus appearance of the proximal femur with neck shortening, particularly in late-treated cases. The history, the absence of the Fairbank triangle on radiographs, and the dysplastic acetabulum distinguish DDH. Legg-Calvé-Perthes disease: Perthes produces relative trochanteric overgrowth that mimics coxa vara on examination, but the radiographic features of femoral head changes and the typical age and presentation distinguish Perthes. Slipped capital femoral epiphysis: SCFE produces a relative varus appearance from the posterior slippage of the head, but the older age (adolescence), the characteristic radiographic features, and the underlying pathology distinguish SCFE. Cleidocranial dysplasia and other skeletal dysplasias: The systemic features and family history identify these conditions. Multiple hereditary exostoses: The multiple bony lumps and the family history identify MHE. Tom Smith arthritis (post-infectious): The history of neonatal sepsis and the radiographic features of destruction distinguish this condition.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Not every short femoral neck with varus alignment is developmental coxa vara. DDH, Perthes sequelae, SCFE, post-infectious Tom Smith arthritis, and skeletal dysplasias all mimic it. The Fairbank triangle, age at presentation, and a careful history of neonatal sepsis or trauma are what separate developmental from acquired disease, before subjecting the wrong patient to a Pauwels Y-osteotomy.</p>
+</aside>
 
 ## Adolescent Coxa Vara
 

@@ -9,6 +9,16 @@ order: 19
 
 ## Introduction and Definitions
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-19/scfe.jpg" data-figure-alt="Slipped capital femoral epiphysis (SCFE)" aria-label="Enlarge">
+    <img src="/img/ortho-19/scfe.jpg" alt="Slipped capital femoral epiphysis (SCFE)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Slipped capital femoral epiphysis — posteromedial slip of the femoral head relative to the neck; the Klein line (along the superior femoral neck) fails to intersect the epiphysis in SCFE.</span>
+    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Slipped capital femoral epiphysis (SCFE) is a disorder of the adolescent hip in which the proximal femoral physis fails mechanically, allowing the metaphysis to translate and rotate relative to the epiphysis. Although the displacement is conventionally described as the epiphysis “slipping” off the metaphysis, the actual mechanical event is the reverse: the epiphysis stays in the acetabulum while the femoral neck and shaft displace anteriorly and externally rotate beneath it, producing the characteristic posterior and medial position of the femoral head relative to the metaphysis. The condition is one of the most important diagnoses in adolescent orthopedics, since delayed diagnosis is common, the consequences of missed or delayed diagnosis include severe deformity and avascular necrosis with lifelong disability, and the surgical treatment is among the most consequential decisions in pediatric orthopedic practice. This chapter synthesizes content from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, Miller’s Review, and Operative Hip Arthroscopy.
 
 ## Epidemiology

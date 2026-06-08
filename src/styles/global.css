@@ -51,7 +51,7 @@
 
   /* Reading & layout */
   --reading-width: 65ch;
-  --shell-width: 1200px;
+  --shell-width: 1440px;
 
   /* Single horizontal page gutter — used by every top-level block.
      Mobile = 20px, narrow tablet = 28px, desktop = 40px. */

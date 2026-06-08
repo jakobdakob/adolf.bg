@@ -21,6 +21,16 @@ order: 27
 
 ## Синдром на carpal tunnel
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/carpal-tunnel.jpg" data-figure-alt="Синдром на carpal tunnel" aria-label="Увеличи">
+    <img src="/img/ortho-27/carpal-tunnel.jpg" alt="Синдром на carpal tunnel" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Синдром на carpal tunnel — компресия на nervus medianus в карпалния канал под flexor retinaculum.</span>
+    <span class="md-figure-attribution"> — Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Анатомия и етиология
 

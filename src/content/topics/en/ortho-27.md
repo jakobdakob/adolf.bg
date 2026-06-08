@@ -19,6 +19,15 @@ potentials in the innervated muscles in advanced disease). Imaging (ultrasound, 
 
 ## Carpal Tunnel Syndrome
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/carpal-tunnel.jpg" data-figure-alt="Carpal tunnel syndrome" aria-label="Enlarge">
+    <img src="/img/ortho-27/carpal-tunnel.jpg" alt="Carpal tunnel syndrome" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Carpal tunnel syndrome — compression of the median nerve in the carpal tunnel beneath the flexor retinaculum.</span>
+    <span class="md-figure-attribution"> — Manu5, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 ## Anatomy and Etiology
 

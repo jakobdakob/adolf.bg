@@ -27,6 +27,16 @@ order: 25
 
 ## Лумбална дискова херния и радикулопатия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/disc-herniation.jpg" data-figure-alt="МРТ на дискова херния" aria-label="Увеличи">
+    <img src="/img/ortho-25/disc-herniation.jpg" alt="МРТ на дискова херния" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дискова херния — МРТ показва изпъкване на nucleus pulposus отвъд задния пръстен с компресия на дуралния сак и нервен корен.</span>
+    <span class="md-figure-attribution"> — Anthonp, <a href="https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Патофизиология
@@ -86,6 +96,16 @@ order: 25
 
 ## Лумбална спондилолистеза
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/spondylolisthesis.jpg" data-figure-alt="L5–S1 спондилолистеза" aria-label="Увеличи">
+    <img src="/img/ortho-25/spondylolisthesis.jpg" alt="L5–S1 спондилолистеза" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Спондилолистеза L5–S1 — предно изместване на L5 спрямо S1; класифицира се по Meyerding (I–IV) според процент изместване.</span>
+    <span class="md-figure-attribution"> — Lucien Monfils, <a href="https://commons.wikimedia.org/wiki/File:SpondylolisthesisL5S1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Класификация
@@ -135,6 +155,16 @@ order: 25
 Осификация на задния надлъжен лигамент (ОЗНЛ): Особено честа сред източноазиатското население, водеща до цервикална или торакална миелопатия от прогресираща компресия на гръбначния мозък.
 
 ## Анкилозиращ спондилит (болест на Bechterew)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/bamboo-spine.jpg" data-figure-alt="„Бамбуков гръбнак“ при анкилозиращ спондилит" aria-label="Увеличи">
+    <img src="/img/ortho-25/bamboo-spine.jpg" alt="„Бамбуков гръбнак“ при анкилозиращ спондилит" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">„Бамбуков гръбнак“ — крайно-стадиен анкилозиращ спондилит с осификация на anulus fibrosus, спиналните връзки и фасетните стави.</span>
+    <span class="md-figure-attribution"> — Stevenfruitsmaak, <a href="https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Клиничната картина и лечението на анкилозиращия спондилит са разгледани в темата за ревматоидния артрит и артропатиите. Основните ортопедични съображения са обобщени тук:
 

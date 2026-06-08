@@ -25,6 +25,16 @@ order: 121
 
 ## Класификации
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-21/hip-fracture-class.svg" data-figure-alt="Класификация на тазобедрените фрактури" aria-label="Увеличи">
+    <img src="/img/trauma-21/hip-fracture-class.svg" alt="Класификация на тазобедрените фрактури" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класификация на проксималните феморални фрактури — субкапитални/трансцервикални/базицервикални (вътрекапсулни) срещу пер- и подтрохантерни (вънкапсулни).</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Две класификационни системи са водещи: класификацията на Garden (по рентгенографско разместване) и ъгълът на Pauwels (по срязен ъгъл).
 
 ## Класификация на Garden (1961)

@@ -23,6 +23,16 @@ order: 122
 
 ## Класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-22/pertroch-ct.jpg" data-figure-alt="Пертрохантерна фрактура — КТ" aria-label="Увеличи">
+    <img src="/img/trauma-22/pertroch-ct.jpg" alt="Пертрохантерна фрактура — КТ" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Пертрохантерна (интертрохантерна) фрактура на КТ — фрактурна линия през трохантерната област; екстракапсуларна и затова с по-нисък риск от AVN от феморална шийка.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 В клиничната практика са широко разпространени няколко класификационни системи. Двете с най-голямо клинично значение са класификацията на AO/OTA и класификацията на Boyd-Griffin, а класификацията на Evans предоставя допълнителен исторически ориентир.
 
 ## Класификация на AO/OTA (31-A)

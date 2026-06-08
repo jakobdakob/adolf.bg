@@ -17,6 +17,16 @@ The patella is the largest sesamoid bone in the body, formed in the substance of
 
 ## Patella Fractures — Classification and Mechanism
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/patellar-fracture.png" data-figure-alt="Displaced patellar fracture" aria-label="Enlarge">
+    <img src="/img/trauma-25/patellar-fracture.png" alt="Displaced patellar fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Displaced patellar fracture — disruption of the extensor mechanism with loss of active knee extension.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Patellar_Fracture_(Displaced).png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Patella fractures account for approximately 1 percent of all skeletal injuries. The mechanism is typically a direct blow to the patella (fall on the knee, dashboard injury) or an eccentric contraction of the quadriceps against resistance (sudden eccentric load with the foot planted, producing a transverse fracture through tension forces). The classification is morphological: Transverse fracture: The most common pattern (50 to 80 percent of patellar fractures), typically located through the middle or distal third of the patella, with displacement of the upper fragment proximally by quadriceps pull and the lower fragment held by the patellar tendon. Vertical (longitudinal) fracture: Less common, with the fracture line in the sagittal plane. Generally less displaced because the fragments are not pulled apart by the muscle and tendon attachments. Comminuted (stellate): Multiple fragments, often from direct high-energy trauma. Osteochondral fracture: Pure cartilaginous or osteochondral fragments, often from patellar dislocation rather than from a discrete fracture mechanism. Polar fracture: Avulsion fracture of the upper pole (insertion of quadriceps tendon) or, more commonly, the lower pole (origin of patellar tendon). Sleeve fracture: A pediatric variant with avulsion of the cartilaginous sleeve from the inferior pole of the patella; can be missed on radiographs as the avulsed cartilage is non-ossified. The bipartite patella — a normal anatomic variant with an accessory ossification center, typically at the superolateral aspect — must not be confused with fracture. Bipartite patella has smooth corticated edges, is typically bilateral (60 percent), and is asymptomatic in most cases.
 
 ## Clinical Assessment and Imaging of Patella Fractures
@@ -45,6 +55,16 @@ The proximal tibia comprises the medial and lateral tibial plateaus (separated b
 The common peroneal nerve courses around the neck of the fibula and is at risk in lateral approaches to the tibial plateau.
 
 ## Tibial Plateau Fractures — Schatzker Classification
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/tibial-plateau.jpg" data-figure-alt="Lateral tibial plateau fracture with depression" aria-label="Enlarge">
+    <img src="/img/trauma-25/tibial-plateau.jpg" alt="Lateral tibial plateau fracture with depression" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lateral tibial plateau fracture with depression — Schatzker II/III; typically from a valgus mechanism (MVA or sport).</span>
+    <span class="md-figure-attribution"> — LottieLattes, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 The Schatzker classification (Joseph Schatzker, 1979) is the standard system for tibial plateau fractures: Type I: Pure split (cleavage) fracture of the lateral plateau without depression. The mechanism is valgus force on a relatively normal-density bone (typically in young adults). The articular surface remains in continuity with the metaphysis, displaced laterally as a wedge. Type II: Split-depression fracture of the lateral plateau (combination of types I and III). The split component is similar to type I, with an additional depression of the lateral articular surface. The most common Schatzker type. Type III: Pure depression fracture of the lateral plateau without split. The articular surface is depressed into the metaphysis. The mechanism is axial loading in osteoporotic bone (often elderly patients). Subdivided into IIIa (lateral) and IIIb (central) depression. Type IV: Medial plateau fracture, with or without depression. The medial plateau is more resistant to fracture than the lateral; medial plateau fractures imply higher energy and are associated with higher rates of vascular injury, peroneal nerve injury, and meniscal injury. Subdivided into IVa (split alone) and IVb (split with depression). Type V: Bicondylar fracture, with both medial and lateral plateaus separated from the diaphysis. Type VI: Bicondylar fracture with metaphyseal-diaphyseal dissociation (the articular surface and the diaphysis are separated by a metaphyseal comminution zone). The most severe pattern, with the highest rates of associated injury. The AO/OTA classification (region 41) parallels the Schatzker with type A extra-articular, type B partial articular, and type C complete articular patterns.
 

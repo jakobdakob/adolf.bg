@@ -9,6 +9,16 @@ order: 129
 
 ## Introduction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/achilles-rupture.jpg" data-figure-alt="Achilles tendon rupture" aria-label="Enlarge">
+    <img src="/img/trauma-29/achilles-rupture.jpg" alt="Achilles tendon rupture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Achilles tendon rupture — the Thompson test (no plantar flexion when the calf is squeezed) is pathognomonic.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The fractures of the hindfoot and midfoot — talus, calcaneus, navicular, cuboid, cuneiforms, and the tarsometatarsal articulations — together account for a small proportion of orthopedic injuries but carry disproportionate functional consequences when imperfectly managed. The talus and calcaneus form the hindfoot bony skeleton, transmitting load between the leg and the forefoot through complex articulations with limited functional redundancy. The midfoot is the bridge between the relatively rigid hindfoot and the more mobile forefoot, with the Lisfranc joint complex at the tarsometatarsal articulation being the key to midfoot stability. These injuries share several recurring themes: the high-energy mechanism, the tenuous blood supply (particularly to the talus), the limited soft-tissue envelope that complicates surgical access, and the disappointing long-term functional outcomes that follow even optimal management — features that combine to make this region one of the most challenging in orthopedic trauma. This chapter draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
 ## Talar Anatomy and Blood Supply

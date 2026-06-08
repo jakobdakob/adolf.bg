@@ -9,6 +9,16 @@ order: 129
 
 ## Въведение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/achilles-rupture.jpg" data-figure-alt="Разкъсване на ахилесовото сухожилие" aria-label="Увеличи">
+    <img src="/img/trauma-29/achilles-rupture.jpg" alt="Разкъсване на ахилесовото сухожилие" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Разкъсване на ахилесовото сухожилие — тестът на Thompson (липса на плантарна флексия при компресиране на гастрокнемиуса) е патогномоничен.</span>
+    <span class="md-figure-attribution"> — BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурите на задната и средната части на стъпалото — talus, calcaneus, os naviculare, os cuboideum, cuneiformia и тарзометатарзалните стави — съставляват малък дял от ортопедичните травми, но носят несъразмерно тежки функционални последици при несъвършено лечение. Talus и calcaneus образуват костния скелет на задното стъпало, предавайки натоварването между подбедрицата и предното стъпало чрез сложни стави с ограничена функционална резервност. Средата на стъпалото е мостът между относително ригидното задно стъпало и по-мобилното предно, като ставният комплекс на Lisfranc на тарзометатарзалното съчленение е ключът към стабилността на средата. Тези наранявания споделят няколко повтарящи се характеристики: високоенергиен механизъм, деликатно кръвоснабдяване (особено на talus), ограничена мекотъканна обвивка, усложняваща хирургичния достъп, и разочароващите дългосрочни функционални резултати, следващи дори оптималното лечение — белези, които правят тази зона една от най-предизвикателните в ортопедичната травматология. Настоящата тема се основава на Rockwood and Green's Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon's и Miller's Review of Orthopaedics.
 
 ## Анатомия и кръвоснабдяване на talus

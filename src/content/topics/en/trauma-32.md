@@ -9,6 +9,16 @@ order: 132
 
 ## Introduction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-32/fasciotomy.jpg" data-figure-alt="Fasciotomy for compartment syndrome" aria-label="Enlarge">
+    <img src="/img/trauma-32/fasciotomy.jpg" alt="Fasciotomy for compartment syndrome" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Fasciotomy for compartment syndrome — emergency decompression by opening the affected fascial compartments; delay beyond 8 h leads to irreversible ischemic necrosis.</span>
+    <span class="md-figure-attribution"> — آرمین, <a href="https://commons.wikimedia.org/wiki/File:Compartment_syndrome_with_fasciotomy_procedure.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Vascular limb injuries and compartment syndrome share a fundamental concern with tissue perfusion — the maintenance of adequate blood flow to the muscle, nerve, bone, and skin of the injured extremity to prevent the irreversible cell death that follows prolonged ischemia. The vascular injury represents the failure of arterial blood delivery to the limb, with consequent ischemia distal to the injury; compartment syndrome represents the failure of microcirculatory perfusion within the muscular compartments because of elevated tissue pressure exceeding capillary perfusion pressure. Both conditions are surgical emergencies with limited windows for successful intervention, with the limb-loss rate rising steeply when treatment is delayed beyond approximately 6 to 8 hours of warm ischemia. The recognition and management of these emergencies is a defining feature of orthopedic and trauma practice, and the orthopedic surgeon’s role in the patient with combined orthopedic and vascular injury — particularly the decision between limb salvage and amputation — represents one of the most challenging judgments in clinical orthopedics. This chapter, the final topic in the trauma section, addresses both conditions and draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
 ## Vascular Injuries — Mechanisms and Patterns

@@ -19,6 +19,16 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
 
 ## Ankle Fracture Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-28/calcaneus.jpg" data-figure-alt="Calcaneal fracture" aria-label="Enlarge">
+    <img src="/img/trauma-28/calcaneus.jpg" alt="Calcaneal fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Calcaneal fracture — typically from a fall from height; Böhler’s angle (normally 20–40°) is reduced in compression injuries.</span>
+    <span class="md-figure-attribution"> — Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Weber (AO) Classification
 

@@ -108,6 +108,16 @@ order: 209
 
 ## Неврова и съдова анатомия на бедрото и коляното
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/posterior-leg.png" data-figure-alt="Заден изглед на бедрото и поплитеална ямка" aria-label="Увеличи">
+    <img src="/img/anatomy-9/posterior-leg.png" alt="Заден изглед на бедрото и поплитеална ямка" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Заден изглед на бедрото и поплитеалната ямка — n. ischiadicus, разклоняващ се на n. tibialis и n. peroneus communis; a. и v. poplitea дълбоко в ямката; ключова анатомия при задни достъпи до коляното.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Основните невросъдови рискове включват:
 
 Nervus femoralis: Спуска се в триъгълника на бедрото. Уязвим при ретроперитонеални наранявания и при предните достъпи.

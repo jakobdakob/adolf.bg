@@ -41,6 +41,16 @@ order: 210
 
 ## Съдово-нервна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/posterior-leg-nerves.png" data-figure-alt="Заден нервен изглед на долния крайник" aria-label="Увеличи">
+    <img src="/img/anatomy-10/posterior-leg-nerves.png" alt="Заден нервен изглед на долния крайник" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Нерви на десния долен крайник, заден изглед — n. ischiadicus, разделящ се на n. tibialis и n. peroneus communis; n. peroneus communis обвива главата на фибулата (типично място на компресия); n. tibialis преминава дълбоко по задната подбедрица.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Arteria tibialis anterior и nervus peroneus profundus: Навлизат в предния компартмент, преминавайки през проксималната мембрана interossea (артерията е клон на arteria poplitea; нервът е клон на nervus peroneus communis). Спускат се по предната повърхност на мембрана interossea до глезена, където излизат пред глезенната става и продължават в стъпалото като съдове на arteria dorsalis pedis и nervus peroneus profundus (осигуряващ сетивност в първото интердигитално пространство).
 
 Nervus peroneus superficialis: Отклонява се от nervus peroneus communis и слиза в латералния компартмент, инервирайки перонеалните мускули, след което на границата между средната и дисталната трета на подбедрицата преминава подкожно, осигурявайки сетивност на по-голямата част от гърба на стъпалото.

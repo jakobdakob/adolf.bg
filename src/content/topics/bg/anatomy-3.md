@@ -36,6 +36,16 @@ Humerus е най-голямата дълга кост на горния кра�
 
 ## Nervus radialis в мишницата
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-sulcus.png" data-figure-alt="Sulcus radialis на хумеруса" aria-label="Увеличи">
+    <img src="/img/anatomy-3/radial-sulcus.png" alt="Sulcus radialis на хумеруса" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sulcus radialis (спирален жлеб) на задната повърхност на хумеруса — n. radialis пресича костта медиосупериорно към латероинферно, в непосредствена близост до периоста; основа за честата увреда при фрактури на диафизата.</span>
+    <span class="md-figure-attribution"> — Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Nervus radialis е основната неврологична структура в риск при достъпите до humerus. Той се отделя от задния сноп на брахиалния плексус, слиза зад arteria brachialis и навлиза в спиралния жлеб на задния humerus, преминавайки наклонено от медиосупериорно към латероинферно. В спиралния жлеб нервът лежи непосредствено до периоста (в рамките на 5 mm), без мускулна защита — това е анатомичният факт, лежащ в основата на честата увреда на nervus radialis при фрактури на диафизата на humerus (Тема Травматология-14) и на изискването за прецизна идентификация и защита при хирургични достъпи до задния и латерален humerus.
 
 След преминаването на спиралния жлеб nervus radialis пробива латералната интермускулна преграда на прехода между средната и дисталната третина на humerus и навлиза в предното отделение на дисталната мишница, където лежи между musculus brachialis (медиално) и musculus brachioradialis / musculus extensor carpi radialis longus (латерално). На ниво лакът nervus radialis се разделя на повърхностния сетивен клон и дълбокия двигателен клон (nervus interosseus posterior) — nervus interosseus posterior (PIN) преминава през arcus Frohse на проксималния ръб на musculus supinator и навлиза в предмишницата.

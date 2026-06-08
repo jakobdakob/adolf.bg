@@ -72,6 +72,16 @@ Thigh compartment syndrome is uncommon but described, particularly with high-ene
 
 ## Neurovascular Anatomy of the Thigh and Knee
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/posterior-leg.png" data-figure-alt="Posterior thigh and popliteal fossa" aria-label="Enlarge">
+    <img src="/img/anatomy-9/posterior-leg.png" alt="Posterior thigh and popliteal fossa" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior view of the thigh and popliteal fossa — sciatic nerve dividing into tibial and common peroneal nerves; popliteal artery and vein deep within the fossa; key anatomy for posterior knee approaches.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The principal neurovascular concerns include: Femoral nerve: Descends through the femoral triangle. Vulnerable in retroperitoneal injuries and during anterior approaches. Femoral artery and vein: Pass through the femoral triangle, then through the adductor canal to become the popliteal vessels. Saphenous nerve: Branches from the femoral nerve in the femoral triangle, accompanies the femoral artery through the adductor canal, and emerges from the canal to descend along the medial side of the leg. Provides sensation to the medial leg. Sciatic nerve: Divides into tibial and common peroneal divisions at the apex of the popliteal fossa.
 
 Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here — Topic Trauma-31). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations (Topic Trauma-26) and distal femur/proximal tibia fractures.

@@ -43,6 +43,16 @@ order: 201
 
 ## Хирургична анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/spinal-cord-xs.png" data-figure-alt="Напречен срез на гръбначния мозък" aria-label="Увеличи">
+    <img src="/img/anatomy-1/spinal-cord-xs.png" alt="Напречен срез на гръбначния мозък" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Диаграматичен напречен срез на гръбначния мозък и обвивките му — dura mater, arachnoidea, pia mater, предно и задно коренче; ключово при достъпи към гръбначния канал и при оценка на спинална травма.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Ключовите структури при подхода включват:
 
 Кожа и musculus platysma: Напречният кожен разрез е центриран на желаното ниво (с помощта на повърхностни ориентири: hyoid на C3, тиреоиден хрущял на C4–C5, крикоидния хрущял на C6).

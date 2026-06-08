@@ -38,6 +38,16 @@ The patient is supine with the head extended (often supported by a roll under th
 
 ## Surgical Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/spinal-cord-xs.png" data-figure-alt="Spinal cord transverse section" aria-label="Enlarge">
+    <img src="/img/anatomy-1/spinal-cord-xs.png" alt="Spinal cord transverse section" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Diagrammatic transverse section of the spinal cord and its meninges — dura mater, arachnoid, pia mater, anterior and posterior roots; key for spinal-canal approaches and for spinal-trauma assessment.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The key structures encountered include: Skin and platysma muscle: The transverse skin incision is centered on the desired level (using surface landmarks: hyoid bone at C3, thyroid cartilage at C4-C5, cricoid cartilage at C6). Sternocleidomastoid muscle (SCM) retracted laterally. Carotid sheath (containing common carotid artery, internal jugular vein, vagus nerve) retracted laterally with the SCM. Strap muscles (sternohyoid, sternothyroid, omohyoid) retracted medially with the trachea and esophagus. Pretracheal fascia is opened, and the prevertebral fascia is exposed. Esophagus lies posterior to the trachea and must be protected during retraction. Recurrent laryngeal nerve (RLN): The right RLN ascends from the right vagus around the subclavian artery and is more variable in course; the left RLN ascends from the left vagus around the aortic arch and is more consistent. The RLN runs in the tracheoesophageal groove and supplies the intrinsic muscles of the larynx (except the cricothyroid, supplied
 
 by the superior laryngeal nerve). RLN injury produces hoarseness and dysphagia; preservation of the RLN is the principal nerve concern in the approach. Sympathetic chain: Lateral to the longus colli muscles, vulnerable to injury during over-lateral dissection. Injury produces Horner’s syndrome (miosis, ptosis, anhidrosis). Longus colli muscles: Bilateral muscles overlying the anterior cervical vertebral bodies; subperiosteal elevation provides access to the bone.

@@ -27,6 +27,16 @@ The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolu
 
 ## Neurovascular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/tarsal-tunnel.png" data-figure-alt="Tarsal tunnel" aria-label="Enlarge">
+    <img src="/img/anatomy-11/tarsal-tunnel.png" alt="Tarsal tunnel" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Tarsal tunnel posterior to the medial malleolus — mnemonic "Tom, Dick, And a Nervous Harry": tibialis posterior, flexor digitorum longus, posterior tibial artery, tibial nerve, flexor hallucis longus.</span>
+    <span class="md-figure-attribution"> — Sneddon Lee, <a href="https://commons.wikimedia.org/wiki/File:Tarsal_tunnel.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The anterior ankle structures, from medial to lateral, are: tibialis anterior, extensor hallucis longus (EHL), anterior tibial artery and deep peroneal nerve, extensor digitorum longus (EDL), peroneus tertius. The medial ankle contains the tarsal tunnel posterior to the medial malleolus, with the contents (deep to the flexor retinaculum, from anterior to posterior): tibialis posterior, flexor digitorum longus, posterior tibial artery and tibial nerve, flexor hallucis longus — the “Tom, Dick, And a Nervous Harry” mnemonic.
 
 The lateral ankle contains the peroneus brevis anteriorly and peroneus longus posteriorly behind the lateral malleolus, with the sural nerve running posterolaterally. The superficial peroneal nerve crosses the anterolateral ankle and dorsum of the foot subcutaneously, providing most of the dorsal foot sensation; injury produces a recognizable sensory deficit and is a recognized concern in anterolateral ankle approaches. The saphenous nerve descends along the medial side of the ankle and foot, providing medial sensation; injury produces medial dorsal sensory deficit.

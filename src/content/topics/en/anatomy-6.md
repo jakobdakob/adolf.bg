@@ -46,6 +46,16 @@ The flexor tendons pass through the carpal tunnel and into the digits through th
 
 ## Extensor Tendons
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/extensor-compartments.png" data-figure-alt="Six dorsal wrist extensor compartments" aria-label="Enlarge">
+    <img src="/img/anatomy-6/extensor-compartments.png" alt="Six dorsal wrist extensor compartments" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The six dorsal wrist extensor compartments (numbered): 1 — APL/EPB, 2 — ECRL/ECRB, 3 — EPL, 4 — EDC/EIP, 5 — EDM, 6 — ECU. Anatomic basis of de Quervain's (1) and ECU tenosynovitis (6).</span>
+    <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The extensor tendons pass through the six dorsal extensor compartments at the wrist (from radial to ulnar): Compartment 1: Abductor pollicis longus (APL) and extensor pollicis brevis (EPB). Site of de Quervain’s tenosynovitis.
 
 Compartment 2: Extensor carpi radialis longus (ECRL) and extensor carpi radialis brevis (ECRB). Compartment 3: Extensor pollicis longus (EPL). Passes around Lister’s tubercle and is at risk in distal radius fractures (delayed rupture is a recognized complication). Compartment 4: Extensor digitorum communis (EDC) and extensor indicis proprius (EIP). Compartment 5: Extensor digiti minimi (EDM). Compartment 6: Extensor carpi ulnaris (ECU). In the digits, the extensor tendons form a complex extensor hood mechanism with the lumbricals and interossei. The central slip inserts on the dorsum of the middle phalangeal base, and the lateral bands continue distally to form the terminal extensor tendon inserting on the dorsum of the distal phalangeal base. The extensor tendon zones (Verdan) parallel the flexor zones: Zone I: DIP joint and distal. Site of mallet finger. Zone II: Middle phalanx. Zone III: PIP joint. Site of boutonnière injury (central slip disruption). Zone IV: Proximal phalanx. Zone V: MCP joint. Site of “fight bite” injuries. Zone VI: Dorsum of the hand. Zone VII: Wrist (extensor retinaculum). Zone VIII: Distal forearm.

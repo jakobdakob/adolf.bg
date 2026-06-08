@@ -31,6 +31,15 @@ The medial collateral ligament (MCL) complex has three bundles: Anterior bundle:
 
 ## Neurovascular Structures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/cubital-fossa.png" data-figure-alt="Cubital fossa" aria-label="Enlarge">
+    <img src="/img/anatomy-4/cubital-fossa.png" alt="Cubital fossa" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cubital fossa — triangular space anterior to the elbow, bounded by brachioradialis (lateral), pronator teres (medial) and the inter-epicondylar line; contents: median nerve, brachial artery, biceps tendon and (more laterally) radial nerve.</span>
+    <span class="md-figure-attribution"> — Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 ## Ulnar Nerve
 

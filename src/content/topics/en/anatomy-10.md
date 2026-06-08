@@ -33,6 +33,16 @@ The compartments are separated by intermuscular septa attached to the bones and 
 
 ## Neurovascular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/posterior-leg-nerves.png" data-figure-alt="Nerves of the lower limb, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-10/posterior-leg-nerves.png" alt="Nerves of the lower limb, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Nerves of the right lower extremity, posterior view — sciatic nerve dividing into tibial and common peroneal nerves; the common peroneal wraps around the fibular head (classic compression site); tibial nerve courses deep in the posterior leg.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray832.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Anterior tibial artery and deep peroneal nerve: Enter the anterior compartment by passing through the proximal interosseous membrane (the artery is a branch of the popliteal artery; the nerve is a branch of the common peroneal nerve). Descend along the anterior interosseous membrane to the ankle, where they emerge anterior to the ankle to enter the foot as the dorsalis pedis vessels and the deep peroneal nerve (supplying the first webspace sensation). Superficial peroneal nerve: Branches from the common peroneal nerve and descends in the lateral compartment, supplying the peroneal muscles, then becomes subcutaneous at the junction of the middle and distal thirds of the leg, providing sensation to most of the dorsum of the foot. Posterior tibial artery and tibial nerve: Enter the deep posterior compartment by passing through the proximal tibial-fibular interosseous space. The nerve and artery descend along the posterior aspect of the deep posterior compartment to the medial malleolus, where they enter the foot deep to the flexor retinaculum (in the tarsal tunnel). Sural nerve: Forms in the popliteal fossa from contributions of the tibial nerve (medial sural cutaneous) and the common peroneal nerve (lateral sural cutaneous). The sural nerve runs subcutaneously down the posterolateral leg, providing sensation to the lateral foot. The sural nerve is the classical donor nerve for nerve grafting (Topic Trauma-31) because of its minimal sensory deficit when harvested. Saphenous vein and nerve: The great saphenous vein runs subcutaneously up the medial aspect of the leg from the medial malleolus to the femoral triangle. The saphenous nerve (a branch of the femoral nerve) accompanies the vein in the distal leg, providing sensation to the medial leg.
 
 ## Tibial Shaft Approaches

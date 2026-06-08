@@ -30,6 +30,16 @@ The humerus is the largest long bone of the upper extremity, extending from the 
 
 ## Radial Nerve in the Arm
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-sulcus.png" data-figure-alt="Radial sulcus of the humerus" aria-label="Enlarge">
+    <img src="/img/anatomy-3/radial-sulcus.png" alt="Radial sulcus of the humerus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Radial sulcus (spiral groove) on the posterior surface of the humerus — the radial nerve crosses from medial-superior to lateral-inferior, immediately adjacent to periosteum; the basis for frequent nerve injury with diaphyseal fractures.</span>
+    <span class="md-figure-attribution"> — Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The radial nerve is the principal neurological structure at risk in approaches to the humerus. It branches from the posterior cord of the brachial plexus, descends posterior to the brachial artery, and enters the spiral groove of the posterior humerus, where it passes obliquely from medial-superior to lateral-inferior. In the spiral groove, the nerve lies immediately adjacent to the periosteum (within 5 mm), with no muscular protection — this is the anatomical fact underlying the high rate of radial nerve injury in humeral shaft fractures (Topic Trauma-14) and the demand for meticulous identification and protection during surgical approaches to the posterior and lateral humerus. After traversing the spiral groove, the radial nerve pierces the lateral intermuscular septum at the junction of the middle and distal thirds of the humerus and enters the anterior compartment of the distal arm, where it lies between the brachialis (medial) and the brachioradialis / extensor carpi radialis longus (lateral). At the level of the elbow, the radial nerve divides into the superficial sensory branch and the deep motor branch (posterior interosseous nerve) — the PIN passing through the arcade of Frohse at the proximal margin of the supinator and into the forearm.
 
 

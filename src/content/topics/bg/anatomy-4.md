@@ -59,6 +59,15 @@ Accessory lateral collateral ligament: От долната повърхност 
 
 ## Невроваскуларни структури
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/cubital-fossa.png" data-figure-alt="Cubital fossa" aria-label="Увеличи">
+    <img src="/img/anatomy-4/cubital-fossa.png" alt="Cubital fossa" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cubital fossa — триъгълно пространство пред лакътя, ограничено от m. brachioradialis (латерално), m. pronator teres (медиално) и линията между епикондилите; съдържимо: n. medianus, a. brachialis, сухожилие на m. biceps, n. radialis в по-латералната част.</span>
+    <span class="md-figure-attribution"> — Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 ## Nervus ulnaris
 

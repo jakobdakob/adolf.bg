@@ -93,6 +93,16 @@ Interosseous compartments: Четири musculi interossei dorsales и три mu
 
 ## Екстензорни сухожилия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/extensor-compartments.png" data-figure-alt="Дорзални екстензорни компартменти на китката" aria-label="Увеличи">
+    <img src="/img/anatomy-6/extensor-compartments.png" alt="Дорзални екстензорни компартменти на китката" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Шестте дорзални екстензорни компартменти на китката (номерирани): 1 — APL/EPB, 2 — ECRL/ECRB, 3 — EPL, 4 — EDC/EIP, 5 — EDM, 6 — ECU. Анатомична основа на De Quervain (1) и tenosynovitis на ECU (6).</span>
+    <span class="md-figure-attribution"> — James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Екстензорните сухожилия преминават през шестте дорзални екстензорни компартменти в областта на китката (от радиалната към улнарната страна):
 
 Компартмент 1: Musculus abductor pollicis longus (APL) и musculus extensor pollicis brevis (EPB). Място на стенозиращ тендосиновит de Quervain.

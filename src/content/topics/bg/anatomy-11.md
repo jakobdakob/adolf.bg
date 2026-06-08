@@ -35,6 +35,16 @@ order: 211
 
 ## Съдово-нервна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/tarsal-tunnel.png" data-figure-alt="Тарзален канал" aria-label="Увеличи">
+    <img src="/img/anatomy-11/tarsal-tunnel.png" alt="Тарзален канал" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тарзален канал зад медиалния малеол — мнемоника „Tom, Dick, And a Nervous Harry": tibialis posterior, flexor digitorum longus, arteria tibialis posterior, nervus tibialis, flexor hallucis longus.</span>
+    <span class="md-figure-attribution"> — Sneddon Lee, <a href="https://commons.wikimedia.org/wiki/File:Tarsal_tunnel.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Предните структури на глезена, от медиално към латерално, са: musculus tibialis anterior, musculus extensor hallucis longus (EHL), arteria tibialis anterior и nervus peroneus profundus, musculus extensor digitorum longus (EDL), musculus peroneus tertius.
 
 Медиалният глезен съдържа тарзалния канал зад медиалния малеол, чието съдържимо (дълбоко под retinaculum flexorum, отпред назад) е: musculus tibialis posterior, musculus

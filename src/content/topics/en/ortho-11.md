@@ -9,6 +9,16 @@ order: 11
 
 ## Introduction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-11/clubfoot.jpg" data-figure-alt="Clubfoot (talipes equinovarus)" aria-label="Enlarge">
+    <img src="/img/ortho-11/clubfoot.jpg" alt="Clubfoot (talipes equinovarus)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Clubfoot (talipes equinovarus, CTEV) — the classical four-component deformity: cavus, adductus, varus, and equinus.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Congenital talipes equinovarus (CTEV) — clubfoot — is one of the commonest congenital musculoskeletal anomalies, with an incidence of approximately 1-2 per 1,000 live births globally. The deformity is the constellation of cavus of the midfoot, adductus of the forefoot, varus of the hindfoot, and equinus of the ankle — together summarized in the mnemonic “CAVE” — combined with internal tibial torsion and varying degrees of muscle and soft-tissue contracture. The treatment of clubfoot was transformed in the late twentieth century by the work of Ignacio Ponseti, whose conservative method of serial casting, followed by percutaneous Achilles tenotomy and prolonged foot abduction bracing, has replaced the extensive surgical releases that dominated mid-twentieth-century practice. This chapter synthesizes content from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, and Miller’s Review to cover the etiology, pathological anatomy, classification, clinical features, Ponseti method, post-Ponseti surgical management of residual or recurrent deformity, the syndromic and complex clubfoot, and long-term outcomes.
 
 ## Epidemiology and Etiology

@@ -9,6 +9,16 @@ order: 11
 
 ## Въведение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-11/clubfoot.jpg" data-figure-alt="Клубно стъпало (talipes equinovarus)" aria-label="Увеличи">
+    <img src="/img/ortho-11/clubfoot.jpg" alt="Клубно стъпало (talipes equinovarus)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Клубно стъпало (talipes equinovarus, CTEV) — типичната четирикомпонентна деформация: cavus, adductus, varus и equinus.</span>
+    <span class="md-figure-attribution"> — OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:813_Clubfoot.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Congenital talipes equinovarus (CTEV) — клубното стъпало — е една от най-честите вродени мускулоскелетни аномалии, с честота приблизително 1–2 на 1 000 живородени деца в световен мащаб. Деформацията представлява съчетание от cavus на средното стъпало, adductus на предното стъпало, варус на петата и еквинус на глезена — обобщени в мнемоничното „CAVE" — съчетано с вътрешна тибиална торзия и различна степен на мускулна и мекотъканна контрактура. Лечението на клубното стъпало претърпя трансформация в края на XX в. благодарение на работата на Ignacio Ponseti, чийто консервативен метод на серийно гипсуване, последвано от перкутанна ахилотомия и продължително ортезиране с отвеждане на стъпалото, замени обширните хирургични освобождавания, доминирали практиката в средата на XX в. Настоящата тема синтезира съдържание от Tachdjian's Pediatric Orthopaedics, Apley & Solomon's и Miller's Review, за да разгледа етиологията, патологичната анатомия, класификацията, клиничните белези, метода на Ponseti, хирургичното лечение след метода на Ponseti при остатъчна или рецидивираща деформация, синдромното и сложното клубно стъпало и дългосрочните резултати.
 
 ## Епидемиология и етиология
@@ -21,7 +31,7 @@ Congenital talipes equinovarus (CTEV) — клубното стъпало — е
 
 ## Патологична анатомия
 
-## Деформацията на клубното стъпало е фундаментално деформация на
+Деформацията на клубното стъпало е фундаментално деформация на
 
 талокалканеонавикуларната и тало-калканеалната стави с вторични промени в глезена, средното и предното стъпало.
 

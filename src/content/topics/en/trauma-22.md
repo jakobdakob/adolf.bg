@@ -9,7 +9,7 @@ order: 122
 
 ## Introduction
 
-The pertrochanteric fracture — sometimes called the intertrochanteric fracture — is the extracapsular cousin of the femoral neck fracture and shares the epidemiology of the fragility hip fracture: elderly osteoporotic patient, low-energy mechanism, substantial mortality, and the requirement for prompt operative intervention to restore mobility. The two principal anatomical and clinical distinctions from femoral neck fractures are fundamental to management. First, the pertrochanteric fracture is extracapsular, with the fracture line outside the hip joint capsule; the blood supply to the femoral head is therefore largely preserved, and avascular necrosis is uncommon (in contrast to the high AVN rates of displaced femoral neck fractures). Second, the healing potential is favorable because the fracture is through cancellous trochanteric bone with abundant vascular supply, in contrast to the watershed neck region; nonunion is uncommon. The treatment is therefore almost always internal fixation rather than arthroplasty, with the central management question being the choice of construct rather than fixation versus replacement. This chapter, drawing principally on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics, addresses the contemporary management of pertrochanteric fractures.
+The pertrochanteric fracture (sometimes called the intertrochanteric fracture) is the extracapsular cousin of the femoral neck fracture and shares the epidemiology of the fragility hip fracture: elderly osteoporotic patient, low-energy mechanism, substantial mortality, and the requirement for prompt operative intervention to restore mobility. The two principal anatomical and clinical distinctions from femoral neck fractures are fundamental to management. First, the pertrochanteric fracture is extracapsular, with the fracture line outside the hip joint capsule; the blood supply to the femoral head is therefore largely preserved, and avascular necrosis is uncommon (in contrast to the high AVN rates of displaced femoral neck fractures). Second, the healing potential is favorable because the fracture is through cancellous trochanteric bone with abundant vascular supply, in contrast to the watershed neck region; nonunion is uncommon. The treatment is therefore almost always internal fixation rather than arthroplasty, with the central management question being the choice of construct rather than fixation versus replacement. This chapter, drawing principally on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics, addresses the contemporary management of pertrochanteric fractures.
 
 ## Surgical Anatomy
 
@@ -22,7 +22,7 @@ The pertrochanteric region extends from the femoral neck-shaft junction (the int
     <img src="/img/trauma-22/pertroch-ct.jpg" alt="Pertrochanteric fracture on CT" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Pertrochanteric (intertrochanteric) fracture on CT — extracapsular, with much lower AVN risk than femoral neck fractures.</span>
+    <span class="md-figure-caption">Pertrochanteric (intertrochanteric) fracture on CT: extracapsular, with much lower AVN risk than femoral neck fractures.</span>
     <span class="md-figure-attribution"> — Mikael Häggström, MD, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
@@ -53,7 +53,7 @@ Operative management is indicated in virtually all medically appropriate patient
     <img src="/img/trauma-22/dhs-construct.jpg" alt="DHS construct" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">DHS construct — large lag screw in the femoral neck that slides within the side plate; controlled collapse under load generates interfragmentary compression (sliding-screw principle).</span>
+    <span class="md-figure-caption">DHS construct: large lag screw in the femoral neck that slides within the side plate; controlled collapse under load generates interfragmentary compression (sliding-screw principle).</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -77,7 +77,7 @@ SHS fixation produces reliable union in stable pertrochanteric fractures with ap
 
 ## Principle and Construct
 
-The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary hip screw) combines an intramedullary nail in the proximal femur with a lag screw (or helical blade) that engages the femoral head through the nail. Multiple designs exist (gamma nail, PFNA — proximal femoral nail antirotation, TFN — trochanteric fixation nail, Intertan, and others), with differences in lag-screw versus helical-blade design, in fastener trajectory, and in nail diameter and length. The mechanical advantage of the CMN over SHS is the shorter lever arm between the head fastener and the implant — the medial cortical buttress is provided by the nail itself rather than requiring intact medial bone — which makes the CMN superior in unstable fracture patterns and reverse oblique (31-A3) patterns where lateral plate fixation is biomechanically inadequate.
+The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary hip screw) combines an intramedullary nail in the proximal femur with a lag screw (or helical blade) that engages the femoral head through the nail. Multiple designs exist (gamma nail, PFNA, proximal femoral nail antirotation, TFN, trochanteric fixation nail, Intertan, and others), with differences in lag-screw versus helical-blade design, in fastener trajectory, and in nail diameter and length. The mechanical advantage of the CMN over SHS is the shorter lever arm between the head fastener and the implant — the medial cortical buttress is provided by the nail itself rather than requiring intact medial bone — which makes the CMN superior in unstable fracture patterns and reverse oblique (31-A3) patterns where lateral plate fixation is biomechanically inadequate.
 
 ## Technical Considerations
 
@@ -85,7 +85,7 @@ The technique requires careful entry point selection (typically tip of greater t
 
 ## Short Versus Long Nails
 
-The choice between short (typically 240 mm or less, ending in the proximal femur above the diaphyseal isthmus) and long (typically 340 mm or longer, extending to the distal metaphysis) nails is a practical consideration. Short nails are easier to insert and produce fewer technical complications; long nails provide more comprehensive protection of the femur against subsequent fracture and are favored in patients at risk for atypical femoral fracture or with extension of the fracture line into the subtrochanteric region. The peri-implant fracture at the tip of a short nail — a recognized complication — has driven some advocacy for long nails in selected patients, though the routine use of long nails carries its own concerns (longer surgical time, more radiation exposure).
+The choice between short (typically 240 mm or less, ending in the proximal femur above the diaphyseal isthmus) and long (typically 340 mm or longer, extending to the distal metaphysis) nails is a practical consideration. Short nails are easier to insert and produce fewer technical complications; long nails provide more comprehensive protection of the femur against subsequent fracture and are favored in patients at risk for atypical femoral fracture or with extension of the fracture line into the subtrochanteric region. The peri-implant fracture at the tip of a short nail (a recognized complication) has driven some advocacy for long nails in selected patients, though the routine use of long nails carries its own concerns (longer surgical time, more radiation exposure).
 
 ## SHS Versus Cephalomedullary Nail — The Active Debate
 
@@ -110,7 +110,7 @@ Bilateral pertrochanteric fractures, like bilateral femoral neck fractures, are 
 
 ## Pertrochanteric Fractures in Younger Patients
 
-Pertrochanteric fractures in younger patients (under 50) are uncommon and typically follow high-energy mechanism. The principles are similar to those in the elderly — anatomical reduction and rigid internal fixation — but with the additional consideration of preserving the longer-term functional outcome. CMN is typically used, with anatomical attention to neck-shaft angle and rotation. Outcomes are generally good in this population.
+Pertrochanteric fractures in younger patients (under 50) are uncommon and typically follow high-energy mechanism. The principles are similar to those in the elderly (anatomical reduction and rigid internal fixation) but with the additional consideration of preserving the longer-term functional outcome. CMN is typically used, with anatomical attention to neck-shaft angle and rotation. Outcomes are generally good in this population.
 
 ## Summary and Take-Home Points
 

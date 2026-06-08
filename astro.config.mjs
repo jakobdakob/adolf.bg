@@ -1,7 +1,6 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import tailwind from "@astrojs/tailwind";
-import sitemap from "@astrojs/sitemap";
 
 // Custom domain `adolf.bg` is live → serve at root, no base prefix.
 // Set PAGES_BASE=/adolf.bg to build for the github.io fallback URL instead.
@@ -12,11 +11,7 @@ export default defineConfig({
   site,
   base,
   trailingSlash: "always",
-  integrations: [
-    mdx(),
-    tailwind(),
-    sitemap(),
-  ],
+  integrations: [mdx(), tailwind()],
   build: {
     format: "directory",
   },

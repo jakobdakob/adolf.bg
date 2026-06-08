@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adolf.bg/sitemap-index.xml
+Sitemap: https://adolf.bg/sitemap.xml

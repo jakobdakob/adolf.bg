@@ -119,9 +119,7 @@ Total hip arthroplasty, hemiarthroplasty, open reduction of posterior hip disloc
 
 ## Technique
 
-Patient in lateral decubitus with the affected side up. Curved incision from the PSIS region, over the greater trochanter, extending distally into the proximal thigh. Fascia lata and gluteus maximus aponeurosis opened. Gluteus maximus split in line with its fibers (biased to avoid the inferior gluteal nerve). The short external rotators (piriformis, gemelli, obturator internus, quadratus femoris) are identified at their trochanteric insertions; the sciatic nerve is identified inferior to the piriformis. The short external
-
-rotators are detached from the trochanter and reflected medially to expose the posterior capsule. The capsule is opened and the joint is accessed.
+Patient in lateral decubitus with the affected side up. Curved incision from the PSIS region, over the greater trochanter, extending distally into the proximal thigh. Fascia lata and gluteus maximus aponeurosis opened. Gluteus maximus split in line with its fibers (biased to avoid the inferior gluteal nerve). The short external rotators (piriformis, gemelli, obturator internus, quadratus femoris) are identified at their trochanteric insertions; the sciatic nerve is identified inferior to the piriformis. The short external rotators are detached from the trochanter and reflected medially to expose the posterior capsule. The capsule is opened and the joint is accessed.
 
 ## Complications
 

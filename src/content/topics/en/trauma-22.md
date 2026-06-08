@@ -77,9 +77,7 @@ SHS fixation produces reliable union in stable pertrochanteric fractures with ap
 
 ## Principle and Construct
 
-The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary hip screw) combines an intramedullary nail in the proximal femur with a lag screw (or helical blade) that engages the femoral head through the nail. Multiple designs exist (gamma nail, PFNA — proximal femoral nail antirotation, TFN — trochanteric fixation nail, Intertan, and others), with differences in lag-screw versus helical-blade design, in fastener trajectory, and in nail diameter and length. The mechanical advantage of the CMN over SHS is the shorter lever arm between the head fastener and the implant — the medial cortical buttress is provided by the nail itself rather than requiring intact medial bone — which makes the CMN superior in unstable fracture
-
-patterns and reverse oblique (31-A3) patterns where lateral plate fixation is biomechanically inadequate.
+The cephalomedullary nail (CMN, also called proximal femoral nail or intramedullary hip screw) combines an intramedullary nail in the proximal femur with a lag screw (or helical blade) that engages the femoral head through the nail. Multiple designs exist (gamma nail, PFNA — proximal femoral nail antirotation, TFN — trochanteric fixation nail, Intertan, and others), with differences in lag-screw versus helical-blade design, in fastener trajectory, and in nail diameter and length. The mechanical advantage of the CMN over SHS is the shorter lever arm between the head fastener and the implant — the medial cortical buttress is provided by the nail itself rather than requiring intact medial bone — which makes the CMN superior in unstable fracture patterns and reverse oblique (31-A3) patterns where lateral plate fixation is biomechanically inadequate.
 
 ## Technical Considerations
 
@@ -112,9 +110,7 @@ Bilateral pertrochanteric fractures, like bilateral femoral neck fractures, are 
 
 ## Pertrochanteric Fractures in Younger Patients
 
-Pertrochanteric fractures in younger patients (under 50) are uncommon and typically follow high-energy mechanism. The principles are similar to those in the elderly — anatomical reduction and rigid internal fixation — but with the additional consideration of
-
-preserving the longer-term functional outcome. CMN is typically used, with anatomical attention to neck-shaft angle and rotation. Outcomes are generally good in this population.
+Pertrochanteric fractures in younger patients (under 50) are uncommon and typically follow high-energy mechanism. The principles are similar to those in the elderly — anatomical reduction and rigid internal fixation — but with the additional consideration of preserving the longer-term functional outcome. CMN is typically used, with anatomical attention to neck-shaft angle and rotation. Outcomes are generally good in this population.
 
 ## Summary and Take-Home Points
 

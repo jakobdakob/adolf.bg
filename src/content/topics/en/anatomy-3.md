@@ -88,9 +88,7 @@ The complications of the anterolateral approach include musculocutaneous nerve i
 
 ## The Posterior Approach to the Humerus
 
-The posterior approach provides access to the middle and distal thirds of the humerus for plate fixation of distal-third fractures, radial nerve exploration, distal humerus fracture fixation, triceps tendon procedures, and tumor or infection access. The
-
-approach uses the natural plane between the lateral and medial heads of the triceps, or the triceps-splitting approach, depending on the desired exposure.
+The posterior approach provides access to the middle and distal thirds of the humerus for plate fixation of distal-third fractures, radial nerve exploration, distal humerus fracture fixation, triceps tendon procedures, and tumor or infection access. The approach uses the natural plane between the lateral and medial heads of the triceps, or the triceps-splitting approach, depending on the desired exposure.
 
 ## Patient Positioning
 
@@ -136,9 +134,7 @@ The arm compartments are the anterior compartment (biceps, brachialis, coracobra
 
 ## Approach to the Brachial Artery and Median Nerve
 
-The brachial artery and median nerve descend along the medial bicipital groove. Surgical access to these structures uses a longitudinal incision along the medial bicipital
-
-groove, with the biceps retracted laterally and the medial intermuscular septum and ulnar nerve protected medially. The artery and nerve are then directly identified. The approach is used for vascular injury repair, exploration of the brachial artery, and decompression of the median nerve (rarely; median nerve compression in the arm is uncommon).
+The brachial artery and median nerve descend along the medial bicipital groove. Surgical access to these structures uses a longitudinal incision along the medial bicipital groove, with the biceps retracted laterally and the medial intermuscular septum and ulnar nerve protected medially. The artery and nerve are then directly identified. The approach is used for vascular injury repair, exploration of the brachial artery, and decompression of the median nerve (rarely; median nerve compression in the arm is uncommon).
 
 ## Approach to the Radial Nerve in the Arm
 

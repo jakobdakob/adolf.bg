@@ -100,9 +100,7 @@ Crush syndrome is the systemic syndrome that follows release of a crushed limb f
 
 ## Pathophysiology
 
-The pathophysiology involves the systemic effects of muscle ischemia and reperfusion injury. During the period of compression, the affected muscle is rendered ischemic, with
-
-progressive accumulation of intracellular contents and inflammatory mediators. Upon release of the compression, the affected tissue is reperfused, and the massive release of these contents into the circulation produces the systemic syndrome. The principal systemic consequences include: Hyperkalemia: Released from damaged muscle cells; can produce cardiac arrhythmia and arrest, particularly with reperfusion. Myoglobinuria and acute kidney injury: Myoglobin released from damaged muscle precipitates in the renal tubules, producing acute tubular necrosis. The classical “tea-colored urine” indicates myoglobinuria. Metabolic acidosis: From anaerobic metabolism and release of intracellular acids. Hypocalcemia: From precipitation in damaged muscle and other mechanisms. Compartment syndrome: Of the affected limb, requiring fasciotomy. DIC and other systemic complications: From the massive inflammatory release.
+The pathophysiology involves the systemic effects of muscle ischemia and reperfusion injury. During the period of compression, the affected muscle is rendered ischemic, with progressive accumulation of intracellular contents and inflammatory mediators. Upon release of the compression, the affected tissue is reperfused, and the massive release of these contents into the circulation produces the systemic syndrome. The principal systemic consequences include: Hyperkalemia: Released from damaged muscle cells; can produce cardiac arrhythmia and arrest, particularly with reperfusion. Myoglobinuria and acute kidney injury: Myoglobin released from damaged muscle precipitates in the renal tubules, producing acute tubular necrosis. The classical “tea-colored urine” indicates myoglobinuria. Metabolic acidosis: From anaerobic metabolism and release of intracellular acids. Hypocalcemia: From precipitation in damaged muscle and other mechanisms. Compartment syndrome: Of the affected limb, requiring fasciotomy. DIC and other systemic complications: From the massive inflammatory release.
 
 ## Management
 
@@ -137,9 +135,7 @@ The outcomes of amputation depend on the level (more proximal amputations produc
 
 ## Phantom Limb Pain
 
-Phantom limb pain — pain felt in the missing limb — affects approximately 50-80% of amputees. The condition is poorly understood and often difficult to treat. Multiple
-
-pharmacological agents (gabapentin, pregabalin, tricyclic antidepressants, opioids), interventional procedures (peripheral nerve blocks, stump revision for symptomatic neuromas, targeted muscle reinnervation, peripheral nerve interface electrodes), and other therapies are used with variable success.
+Phantom limb pain — pain felt in the missing limb — affects approximately 50-80% of amputees. The condition is poorly understood and often difficult to treat. Multiple pharmacological agents (gabapentin, pregabalin, tricyclic antidepressants, opioids), interventional procedures (peripheral nerve blocks, stump revision for symptomatic neuromas, targeted muscle reinnervation, peripheral nerve interface electrodes), and other therapies are used with variable success.
 
 ## Summary and Take-Home Points
 

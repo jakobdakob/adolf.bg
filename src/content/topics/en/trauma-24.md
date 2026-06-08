@@ -33,9 +33,7 @@ The AO/OTA classification (region 33) structures distal femur fractures by artic
 
 ## Clinical Assessment
 
-The clinical presentation depends on energy: the high-energy distal femur fracture in a young adult presents with gross deformity, swelling, pain, and often associated injuries; the low-energy fragility fracture in the elderly may present with subtler findings of pain and inability to bear weight after a fall. The examination assesses neurovascular status of the lower leg with particular attention to distal pulses (the popliteal vessels are at risk in posteriorly displaced fractures), motor and sensory function of the peroneal and tibial divisions of the sciatic nerve, and the
-
-integrity of the soft-tissue envelope (with attention to open wounds, contamination, and impending skin compromise). Compartment syndrome of the thigh or proximal leg should be considered, particularly in high-energy injuries; the leg compartments are at greater risk than the thigh, but both should be assessed. Imaging consists of standard AP and lateral radiographs of the entire femur (including the hip and knee), with additional traction views often helpful in defining the fracture morphology before CT. CT is the standard for operative planning in any intra-articular fracture, providing detailed assessment of articular fragments, Hoffa fragments, and the orientation of fracture lines. The CT angiography is added when vascular injury is suspected.
+The clinical presentation depends on energy: the high-energy distal femur fracture in a young adult presents with gross deformity, swelling, pain, and often associated injuries; the low-energy fragility fracture in the elderly may present with subtler findings of pain and inability to bear weight after a fall. The examination assesses neurovascular status of the lower leg with particular attention to distal pulses (the popliteal vessels are at risk in posteriorly displaced fractures), motor and sensory function of the peroneal and tibial divisions of the sciatic nerve, and the integrity of the soft-tissue envelope (with attention to open wounds, contamination, and impending skin compromise). Compartment syndrome of the thigh or proximal leg should be considered, particularly in high-energy injuries; the leg compartments are at greater risk than the thigh, but both should be assessed. Imaging consists of standard AP and lateral radiographs of the entire femur (including the hip and knee), with additional traction views often helpful in defining the fracture morphology before CT. CT is the standard for operative planning in any intra-articular fracture, providing detailed assessment of articular fragments, Hoffa fragments, and the orientation of fracture lines. The CT angiography is added when vascular injury is suspected.
 
 ## Treatment — Locked Plating
 
@@ -96,9 +94,7 @@ Nonunion of the distal femur is a recognized concern, occurring in 5 to 15 perce
 
 ## Geriatric Distal Femur Fracture
 
-The geriatric distal femur fracture, often in osteoporotic bone and often as a periprosthetic fracture, has emerged as a significant clinical entity with high mortality (comparable to hip fracture in some series, approximately 25 percent at one year) and substantial functional
-
-limitations. The principles of prompt surgical fixation (within 24 to 48 hours), early mobilization with weight bearing as tolerated, multidisciplinary geriatric co-management, VTE prophylaxis, and secondary fracture prevention all apply. The functional outcomes are less predictable than for hip fracture, with substantial loss of pre-fracture functional level common.
+The geriatric distal femur fracture, often in osteoporotic bone and often as a periprosthetic fracture, has emerged as a significant clinical entity with high mortality (comparable to hip fracture in some series, approximately 25 percent at one year) and substantial functional limitations. The principles of prompt surgical fixation (within 24 to 48 hours), early mobilization with weight bearing as tolerated, multidisciplinary geriatric co-management, VTE prophylaxis, and secondary fracture prevention all apply. The functional outcomes are less predictable than for hip fracture, with substantial loss of pre-fracture functional level common.
 
 
 ## Pediatric Distal Femur Fractures

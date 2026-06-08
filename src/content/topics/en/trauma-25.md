@@ -31,9 +31,7 @@ Patella fractures account for approximately 1 percent of all skeletal injuries. 
 
 ## Clinical Assessment and Imaging of Patella Fractures
 
-The clinical features include pain over the patella, tense effusion with palpable defect at the fracture site, ecchymosis, and the central functional question of active knee extension against gravity. The straight leg raise test assesses extensor mechanism continuity; inability to maintain active extension or to perform straight leg raise indicates extensor mechanism disruption. The palpable gap between the fracture fragments correlates with both the magnitude of displacement and the risk of extensor disruption. Imaging includes AP, lateral, and sunrise (Merchant or sky-line) views of the patella. The lateral view best demonstrates transverse fractures; the sunrise view best demonstrates vertical and osteochondral fractures. CT is reserved for complex comminuted patterns being considered for operative reconstruction. MRI is occasionally
-
-useful for suspected pure cartilaginous injury or for the bipartite patella with suspicion of acute injury.
+The clinical features include pain over the patella, tense effusion with palpable defect at the fracture site, ecchymosis, and the central functional question of active knee extension against gravity. The straight leg raise test assesses extensor mechanism continuity; inability to maintain active extension or to perform straight leg raise indicates extensor mechanism disruption. The palpable gap between the fracture fragments correlates with both the magnitude of displacement and the risk of extensor disruption. Imaging includes AP, lateral, and sunrise (Merchant or sky-line) views of the patella. The lateral view best demonstrates transverse fractures; the sunrise view best demonstrates vertical and osteochondral fractures. CT is reserved for complex comminuted patterns being considered for operative reconstruction. MRI is occasionally useful for suspected pure cartilaginous injury or for the bipartite patella with suspicion of acute injury.
 
 ## Treatment of Patella Fractures
 

@@ -37,9 +37,7 @@ Linea intertrochanterica (отпред) и crista intertrochanterica (отзад
 
 SIAS и SIAI: Предните ориентири за предните достъпи.
 
-Ставната капсула е здрава фиброзна структура с удебелявания, образуващи ligamentum iliofemorale (Y-образна връзка на Bigelow), ligamentum pubofemorale и ligamentum
-
-ischiofemorale. Ligamentum iliofemorale е най-здравата връзка в тялото и главният преден стабилизатор на ставата.
+Ставната капсула е здрава фиброзна структура с удебелявания, образуващи ligamentum iliofemorale (Y-образна връзка на Bigelow), ligamentum pubofemorale и ligamentum ischiofemorale. Ligamentum iliofemorale е най-здравата връзка в тялото и главният преден стабилизатор на ставата.
 
 ## Кръвоснабдяване на бедрената глава
 
@@ -182,9 +180,7 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 ## Техника
 
-Пациентът е в странично положение. Задният разрез е подобен на достъпа по Kocher- Langenbeck. Trochanter major се остеотомира (типично стъпаловиден разрез) и се
-
-рефлектира напред заедно с прикрепените musculus gluteus medius и musculus gluteus minimus. Капсулната рефлексия, съдържаща arteria circumflexa femoris medialis, се запазва чрез поддържане на залавянето на musculus obturator externus. Ставната капсула се отваря (типично Z-образно или Н-образно) и бедрената глава се дислоцира напред от ацетабулума.
+Пациентът е в странично положение. Задният разрез е подобен на достъпа по Kocher- Langenbeck. Trochanter major се остеотомира (типично стъпаловиден разрез) и се рефлектира напред заедно с прикрепените musculus gluteus medius и musculus gluteus minimus. Капсулната рефлексия, съдържаща arteria circumflexa femoris medialis, се запазва чрез поддържане на залавянето на musculus obturator externus. Ставната капсула се отваря (типично Z-образно или Н-образно) и бедрената глава се дислоцира напред от ацетабулума.
 
 
 ## Показания
@@ -214,8 +210,6 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 ## Обобщение и ключови изводи
 
-Тазобедрената става предлага множество оперативни достъпи, всеки с характерни предимства и рискове, свързани с мускулната обвивка, неврова и съдова анатомия и кръвоснабдяването на бедрената глава чрез arteria circumflexa femoris medialis. Предният достъп по Smith-Petersen използва безнервните интервали между musculus sartorius/musculus tensor fasciae latae (повърхностно) и musculus rectus femoris/musculus gluteus medius (дълбоко) и придоби популярност като директен преден достъп при тотална артропластика на тазобедрената става. Предно-латералният достъп по Watson-Jones използва интервала между musculus gluteus medius и musculus tensor fasciae latae с предна
-
-рефлексия на musculus gluteus medius. Директният латерален достъп по Hardinge разцепва musculus gluteus medius и рефлектира предната порция заедно с musculus gluteus minimus и ламбо на musculus vastus lateralis. Задният достъп чрез разцепване на musculus gluteus maximus и откъсване на кратките външни ротатори е стандартният работен достъп при тотална артропластика, като увреждането на nervus ischiadicus и задната луксация са главните рискове. Трохантерната флип-остеотомия по Ganz осигурява широк достъп до бедрената глава при запазване на arteria circumflexa femoris medialis.
+Тазобедрената става предлага множество оперативни достъпи, всеки с характерни предимства и рискове, свързани с мускулната обвивка, неврова и съдова анатомия и кръвоснабдяването на бедрената глава чрез arteria circumflexa femoris medialis. Предният достъп по Smith-Petersen използва безнервните интервали между musculus sartorius/musculus tensor fasciae latae (повърхностно) и musculus rectus femoris/musculus gluteus medius (дълбоко) и придоби популярност като директен преден достъп при тотална артропластика на тазобедрената става. Предно-латералният достъп по Watson-Jones използва интервала между musculus gluteus medius и musculus tensor fasciae latae с предна рефлексия на musculus gluteus medius. Директният латерален достъп по Hardinge разцепва musculus gluteus medius и рефлектира предната порция заедно с musculus gluteus minimus и ламбо на musculus vastus lateralis. Задният достъп чрез разцепване на musculus gluteus maximus и откъсване на кратките външни ротатори е стандартният работен достъп при тотална артропластика, като увреждането на nervus ischiadicus и задната луксация са главните рискове. Трохантерната флип-остеотомия по Ganz осигурява широк достъп до бедрената глава при запазване на arteria circumflexa femoris medialis.
 
 Главните неврови и съдови структури, изложени на риск, включват: nervus cutaneus femoris lateralis (при предните достъпи — meralgia paresthetica), nervus femoralis и феморалните съдове (при дълбока предна дисекция), nervus ischiadicus (при задния достъп) и nervus glutealis superior (между musculus gluteus medius и musculus gluteus minimus — изложен на риск при удължена проксимална странична дисекция). Изборът на достъп зависи от обучението и предпочитанието на хирурга, от планираната процедура (тотална артропластика, фиксация на фрактура, ставосъхраняваща хирургия, резекция на тумор), както и от анатомичните особености и придружаващите заболявания на пациента. Следващата тема е посветена на бедрото и коляното, завършвайки последователността на долния крайник от проксимално към дистално.

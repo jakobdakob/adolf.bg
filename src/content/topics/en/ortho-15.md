@@ -144,9 +144,7 @@ Single-event multilevel surgery — the principle of addressing all the deformit
 
 ## Orthoses
 
-Ankle-foot orthoses (AFOs) are central to the orthotic management of CP gait. Static AFOs hold the ankle at a fixed angle (typically 0-5° dorsiflexion); ground-reaction or floor-
-
-reaction AFOs convert the forefoot ground-reaction force into a knee extension moment, useful for crouch gait; articulated AFOs permit dorsiflexion but limit plantarflexion. The selection depends on gait pattern, contractures, and treatment goals.
+Ankle-foot orthoses (AFOs) are central to the orthotic management of CP gait. Static AFOs hold the ankle at a fixed angle (typically 0-5° dorsiflexion); ground-reaction or floor- reaction AFOs convert the forefoot ground-reaction force into a knee extension moment, useful for crouch gait; articulated AFOs permit dorsiflexion but limit plantarflexion. The selection depends on gait pattern, contractures, and treatment goals.
 
 ## Adult Life with CP
 

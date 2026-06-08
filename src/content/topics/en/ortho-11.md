@@ -85,9 +85,7 @@ technique involves:
     attached at 60-70° of external rotation on the affected side and 30-40° on the
     unaffected side. The brace is worn 23 hours per day for 3 months, then at night and
     during naps for 3-4 years. Compliance with bracing is the single most important
-    determinant of long-term success: discontinuation of the brace before age 4 produces
-
-    recurrence rates of 80-100%, while consistent brace use through age 4 produces
+    determinant of long-term success: discontinuation of the brace before age 4 produces recurrence rates of 80-100%, while consistent brace use through age 4 produces
     recurrence rates of 10-20%.
 
 ## Outcomes
@@ -137,9 +135,7 @@ A variety of less common conditions — distal arthrogryposis, Larsen syndrome, 
 
 ## Postural Equinovarus
 
-Postural equinovarus is a positional deformity of the newborn foot that resembles clubfoot but is fully passively correctable to a neutral position. The differentiation is by passive
-
-manipulation: postural deformities correct completely, while true clubfoot resists complete correction. Postural equinovarus typically resolves spontaneously over weeks with simple stretching and bandaging.
+Postural equinovarus is a positional deformity of the newborn foot that resembles clubfoot but is fully passively correctable to a neutral position. The differentiation is by passive manipulation: postural deformities correct completely, while true clubfoot resists complete correction. Postural equinovarus typically resolves spontaneously over weeks with simple stretching and bandaging.
 
 ## Skewfoot
 
@@ -155,6 +151,4 @@ The long-term outcomes of clubfoot treatment depend on the severity of the initi
 
 ## Summary and Take-Home Points
 
-Congenital talipes equinovarus is one of the commonest congenital musculoskeletal anomalies and one of the great success stories of modern pediatric orthopedics. The classical deformity — cavus, adductus, varus, equinus (CAVE) with internal tibial torsion — reflects a fundamental abnormality of the talocalcaneonavicular and talocalcaneal joints with secondary soft-tissue and bony changes. The Ponseti method of serial casting, percutaneous Achilles tenotomy, and prolonged foot abduction bracing has displaced the extensive surgical releases of mid-twentieth-century practice and produces excellent outcomes in 95-98% of idiopathic clubfeet. The principles of the method — cavus correction first, sequential abduction with the talar head as fulcrum, tenotomy for residual
-
-equinus, and prolonged bracing for prevention of recurrence — are within the scope of every pediatric orthopedic practice. Surgical management is reserved for failure or recurrence of Ponseti management, with anterior tibialis tendon transfer as the principal procedure for dynamic supination deformity in the older child. The syndromic clubfoot — particularly in myelomeningocele and arthrogryposis — is more resistant to Ponseti management and often requires more extensive surgical correction. The take-home messages are: initiate Ponseti casting as soon as possible after birth; teach families the importance of brace compliance; monitor closely for recurrence; reserve extensive surgery for failure of conservative management; and recognize and manage the associated anomalies in syndromic cases.
+Congenital talipes equinovarus is one of the commonest congenital musculoskeletal anomalies and one of the great success stories of modern pediatric orthopedics. The classical deformity — cavus, adductus, varus, equinus (CAVE) with internal tibial torsion — reflects a fundamental abnormality of the talocalcaneonavicular and talocalcaneal joints with secondary soft-tissue and bony changes. The Ponseti method of serial casting, percutaneous Achilles tenotomy, and prolonged foot abduction bracing has displaced the extensive surgical releases of mid-twentieth-century practice and produces excellent outcomes in 95-98% of idiopathic clubfeet. The principles of the method — cavus correction first, sequential abduction with the talar head as fulcrum, tenotomy for residual equinus, and prolonged bracing for prevention of recurrence — are within the scope of every pediatric orthopedic practice. Surgical management is reserved for failure or recurrence of Ponseti management, with anterior tibialis tendon transfer as the principal procedure for dynamic supination deformity in the older child. The syndromic clubfoot — particularly in myelomeningocele and arthrogryposis — is more resistant to Ponseti management and often requires more extensive surgical correction. The take-home messages are: initiate Ponseti casting as soon as possible after birth; teach families the importance of brace compliance; monitor closely for recurrence; reserve extensive surgery for failure of conservative management; and recognize and manage the associated anomalies in syndromic cases.

@@ -63,9 +63,7 @@ The systemic response to trauma involves a complex interplay of inflammatory and
 
 ## The Two-Hit Theory
 
-The two-hit theory holds that the initial traumatic insult (“first hit”) produces a generalized inflammatory response, and that subsequent insults — surgery, infection, hypotension — represent “second hits” that can produce excessive inflammatory response leading to multi-organ dysfunction. The clinical implication is that timing of surgical interventions in the polytrauma patient must consider the patient’s overall physiological status, with delays
-
-of definitive surgery often being preferable to aggressive early intervention in the physiologically unstable patient.
+The two-hit theory holds that the initial traumatic insult (“first hit”) produces a generalized inflammatory response, and that subsequent insults — surgery, infection, hypotension — represent “second hits” that can produce excessive inflammatory response leading to multi-organ dysfunction. The clinical implication is that timing of surgical interventions in the polytrauma patient must consider the patient’s overall physiological status, with delays of definitive surgery often being preferable to aggressive early intervention in the physiologically unstable patient.
 
 ## The Inflammatory Cascade
 
@@ -81,9 +79,7 @@ The damage control orthopedics (DCO) concept, developed by Pape, Krettek, Scalea
 
 ## Concept and Principles
 
-The fundamental principle is to provide initial fracture stabilization that controls hemorrhage and pain while minimizing additional physiological insult, deferring definitive surgical fixation until the patient is physiologically stable. The initial stabilization is typically by external fixation, which provides rapid reduction with minimal blood loss and tissue disruption. The DCO approach contrasts with “early total care” (ETC), the traditional approach of definitive fixation of all major fractures within 24 hours of injury. The ETC approach is appropriate for the stable polytrauma patient but can be deleterious in the unstable
-
-patient, where the additional surgical burden of multiple definitive procedures can precipitate the lethal triad and multi-organ failure.
+The fundamental principle is to provide initial fracture stabilization that controls hemorrhage and pain while minimizing additional physiological insult, deferring definitive surgical fixation until the patient is physiologically stable. The initial stabilization is typically by external fixation, which provides rapid reduction with minimal blood loss and tissue disruption. The DCO approach contrasts with “early total care” (ETC), the traditional approach of definitive fixation of all major fractures within 24 hours of injury. The ETC approach is appropriate for the stable polytrauma patient but can be deleterious in the unstable patient, where the additional surgical burden of multiple definitive procedures can precipitate the lethal triad and multi-organ failure.
 
 ## Patient Classification
 
@@ -113,9 +109,7 @@ Spinal precautions during the initial assessment and resuscitation are essential
 
 ## Closed Head Injury
 
-Closed head injury is the principal determinant of survival and disability in polytrauma. The management is the domain of neurosurgery and neurology, but the orthopedic surgeon must coordinate care with attention to: cerebral perfusion pressure (maintained by adequate mean arterial pressure); avoidance of secondary brain injury from hypotension or hypoxia; timing of orthopedic surgery (with concerns about hypotension from blood loss
-
-during long orthopedic procedures); and the rehabilitation considerations of combined brain and limb injury.
+Closed head injury is the principal determinant of survival and disability in polytrauma. The management is the domain of neurosurgery and neurology, but the orthopedic surgeon must coordinate care with attention to: cerebral perfusion pressure (maintained by adequate mean arterial pressure); avoidance of secondary brain injury from hypotension or hypoxia; timing of orthopedic surgery (with concerns about hypotension from blood loss during long orthopedic procedures); and the rehabilitation considerations of combined brain and limb injury.
 
 ## Solid Organ Injury
 
@@ -131,6 +125,4 @@ The outcomes of polytrauma management depend on the injury severity, the patient
 
 ## Summary and Take-Home Points
 
-The polytrauma patient requires a fundamentally different orthopedic approach than the isolated fracture patient, with integration of fracture care into the overall management of the critically injured patient. Traumatic hemorrhagic shock is managed by damage control resuscitation principles including permissive hypotension, balanced 1:1:1 transfusion ratio, tranexamic acid, and avoidance of excessive crystalloid. The lethal triad of hypothermia, acidosis, and coagulopathy must be aggressively avoided. The systemic response to trauma
-
-involves SIRS and CARS, with the two-hit theory explaining why subsequent insults can precipitate multi-organ failure. Damage control orthopedics provides initial stabilization (typically external fixation) of the unstable polytrauma patient, with definitive surgical fixation deferred until the patient is physiologically stable. The decision between DCO and early total care depends on the patient’s physiological status, with the borderline patient requiring individualized assessment. Pelvic hemorrhage management combines mechanical stabilization with angiographic embolization or preperitoneal packing as appropriate. The timing of definitive orthopedic surgery considers the inflammatory cascade, with the day 2-4 window being a particularly vulnerable period. Integration with the trauma team, attention to all systems, and a coordinated approach produce the best outcomes for these most challenging patients.
+The polytrauma patient requires a fundamentally different orthopedic approach than the isolated fracture patient, with integration of fracture care into the overall management of the critically injured patient. Traumatic hemorrhagic shock is managed by damage control resuscitation principles including permissive hypotension, balanced 1:1:1 transfusion ratio, tranexamic acid, and avoidance of excessive crystalloid. The lethal triad of hypothermia, acidosis, and coagulopathy must be aggressively avoided. The systemic response to trauma involves SIRS and CARS, with the two-hit theory explaining why subsequent insults can precipitate multi-organ failure. Damage control orthopedics provides initial stabilization (typically external fixation) of the unstable polytrauma patient, with definitive surgical fixation deferred until the patient is physiologically stable. The decision between DCO and early total care depends on the patient’s physiological status, with the borderline patient requiring individualized assessment. Pelvic hemorrhage management combines mechanical stabilization with angiographic embolization or preperitoneal packing as appropriate. The timing of definitive orthopedic surgery considers the inflammatory cascade, with the day 2-4 window being a particularly vulnerable period. Integration with the trauma team, attention to all systems, and a coordinated approach produce the best outcomes for these most challenging patients.

@@ -47,9 +47,7 @@ order: 211
 
 Предните структури на глезена, от медиално към латерално, са: musculus tibialis anterior, musculus extensor hallucis longus (EHL), arteria tibialis anterior и nervus peroneus profundus, musculus extensor digitorum longus (EDL), musculus peroneus tertius.
 
-Медиалният глезен съдържа тарзалния канал зад медиалния малеол, чието съдържимо (дълбоко под retinaculum flexorum, отпред назад) е: musculus tibialis posterior, musculus
-
-flexor digitorum longus, arteria tibialis posterior и nervus tibialis, musculus flexor hallucis longus — мнемоничното правило „Tom, Dick, And a Nervous Harry".
+Медиалният глезен съдържа тарзалния канал зад медиалния малеол, чието съдържимо (дълбоко под retinaculum flexorum, отпред назад) е: musculus tibialis posterior, musculus flexor digitorum longus, arteria tibialis posterior и nervus tibialis, musculus flexor hallucis longus — мнемоничното правило „Tom, Dick, And a Nervous Harry".
 
 Латералният глезен съдържа musculus peroneus brevis отпред и musculus peroneus longus отзад зад латералния малеол, като nervus suralis минава постеролатерално.
 

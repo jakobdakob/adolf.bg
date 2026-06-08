@@ -20,3 +20,4 @@ yarn-error.log*
 !.vscode/settings.json
 .idea/
 scripts/__pycache__/
+_scripts/

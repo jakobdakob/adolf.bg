@@ -30,9 +30,7 @@ Achondroplasia is the commonest skeletal dysplasia producing disproportionate sh
 
 ## Clinical Features
 
-The classical features include: rhizomelic short stature (with the upper arms and thighs disproportionately shorter than the forearms and legs); macrocephaly with frontal bossing and depressed nasal bridge; trident hands (with separation of the third and fourth fingers); thoracolumbar kyphosis in infancy that improves with weight-bearing and resolves in most cases; lumbar hyperlordosis in childhood and adulthood; spinal stenosis (the principal long-term clinical problem, with progressive narrowing of the spinal canal producing
-
-neurological symptoms in adulthood); foramen magnum stenosis (producing potentially life-threatening compression of the cervicomedullary junction in infancy, manifesting as central apnea, weakness, or sudden death); midface hypoplasia with potential airway problems; otitis media and hearing impairment; genu varum (in approximately 30%); and elbow contractures.
+The classical features include: rhizomelic short stature (with the upper arms and thighs disproportionately shorter than the forearms and legs); macrocephaly with frontal bossing and depressed nasal bridge; trident hands (with separation of the third and fourth fingers); thoracolumbar kyphosis in infancy that improves with weight-bearing and resolves in most cases; lumbar hyperlordosis in childhood and adulthood; spinal stenosis (the principal long-term clinical problem, with progressive narrowing of the spinal canal producing neurological symptoms in adulthood); foramen magnum stenosis (producing potentially life-threatening compression of the cervicomedullary junction in infancy, manifesting as central apnea, weakness, or sudden death); midface hypoplasia with potential airway problems; otitis media and hearing impairment; genu varum (in approximately 30%); and elbow contractures.
 
 
 ## Orthopedic Management
@@ -45,9 +43,7 @@ Hypochondroplasia is also caused by FGFR3 mutations (typically at codon 540 rath
 
 ## Diastrophic Dysplasia
 
-Diastrophic dysplasia is an autosomal recessive disorder caused by mutations in the SLC26A2 gene encoding a sulfate transport protein. The condition is endemic in Finland (where the carrier frequency reaches 1 in 70) and is rare elsewhere. The classical clinical features are: short stature; “hitchhiker thumb” (proximally placed thumb with characteristic deviation); cauliflower ear (from intrauterine inflammation of the auricular cartilage); cleft palate; clubfeet (typically severe, rigid, and resistant to standard treatment); cervical kyphosis; scoliosis; and joint contractures with multiple joint dysplasias. The orthopedic management includes serial casting and surgical correction of
-
-clubfoot (notoriously resistant to Ponseti management in this condition), management of scoliosis and cervical kyphosis, and joint preservation through life.
+Diastrophic dysplasia is an autosomal recessive disorder caused by mutations in the SLC26A2 gene encoding a sulfate transport protein. The condition is endemic in Finland (where the carrier frequency reaches 1 in 70) and is rare elsewhere. The classical clinical features are: short stature; “hitchhiker thumb” (proximally placed thumb with characteristic deviation); cauliflower ear (from intrauterine inflammation of the auricular cartilage); cleft palate; clubfeet (typically severe, rigid, and resistant to standard treatment); cervical kyphosis; scoliosis; and joint contractures with multiple joint dysplasias. The orthopedic management includes serial casting and surgical correction of clubfoot (notoriously resistant to Ponseti management in this condition), management of scoliosis and cervical kyphosis, and joint preservation through life.
 
 ## Multiple Epiphyseal Dysplasia (MED)
 
@@ -123,9 +119,7 @@ Trevor disease is a rare developmental disorder in which cartilaginous overgrowt
 
 ## General Principles of Management
 
-The management of patients with skeletal dysplasia follows several unifying principles. First, accurate diagnosis is essential because of the wide variation in natural history and complications across the dysplasias; the diagnosis combines clinical features, radiographic features, family history, and increasingly molecular genetic testing. Second, the orthopedic surgeon must recognize the systemic and non-orthopedic features of each dysplasia and coordinate care with the appropriate specialists. Third, surveillance for specific complications — atlantoaxial instability in pseudoachondroplasia, SED, and Morquio;
-
-foramen magnum stenosis in achondroplasia; basilar invagination in OI; obstructive sleep apnea in achondroplasia and Morquio — is essential and often requires lifelong follow-up. Fourth, the indications and risks of surgery in patients with skeletal dysplasia differ from those of patients without the underlying condition; bone quality, anesthetic considerations, and the underlying systemic complexity must all be considered in surgical planning.
+The management of patients with skeletal dysplasia follows several unifying principles. First, accurate diagnosis is essential because of the wide variation in natural history and complications across the dysplasias; the diagnosis combines clinical features, radiographic features, family history, and increasingly molecular genetic testing. Second, the orthopedic surgeon must recognize the systemic and non-orthopedic features of each dysplasia and coordinate care with the appropriate specialists. Third, surveillance for specific complications — atlantoaxial instability in pseudoachondroplasia, SED, and Morquio; foramen magnum stenosis in achondroplasia; basilar invagination in OI; obstructive sleep apnea in achondroplasia and Morquio — is essential and often requires lifelong follow-up. Fourth, the indications and risks of surgery in patients with skeletal dysplasia differ from those of patients without the underlying condition; bone quality, anesthetic considerations, and the underlying systemic complexity must all be considered in surgical planning.
 
 ## Summary and Take-Home Points
 

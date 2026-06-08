@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#FAF9F7"/>
-  <text x="32" y="44" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif"
-        font-size="36" font-weight="700" fill="#1d1d1f" letter-spacing="-2">a</text>
-  <circle cx="46" cy="44" r="3" fill="#0F8C7A"/>
+  <rect width="64" height="64" rx="11" fill="#000"/>
+  <!-- Left wing of A -->
+  <path d="M32 10 C 26 14, 14 28, 12 53 C 12 54, 26 54, 29 50 C 30 38, 31 24, 32 10 Z" fill="#fff"/>
+  <!-- Right wing of A (mirrored across x=32) -->
+  <path d="M32 10 C 38 14, 50 28, 52 53 C 52 54, 38 54, 35 50 C 34 38, 33 24, 32 10 Z" fill="#fff"/>
+  <!-- 4-point sparkle in the cradle -->
+  <path d="M32 34 L33.2 40 L39 41 L33.2 42 L32 48 L30.8 42 L25 41 L30.8 40 Z" fill="#fff"/>
 </svg>

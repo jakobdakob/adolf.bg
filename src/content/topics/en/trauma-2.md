@@ -13,6 +13,16 @@ Bone healing is a complex biological process that distinguishes bone from most o
 
 ## Mechanisms of Bone Healing
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-2/healing-stages.jpg" data-figure-alt="Stages of bone healing" aria-label="Enlarge">
+    <img src="/img/trauma-2/healing-stages.jpg" alt="Stages of bone healing" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Stages of bone healing — hematoma, inflammation, soft (cartilaginous-fibrous) callus, hard (bony) callus, and remodelling.</span>
+    <span class="md-figure-attribution"> — Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Two principal mechanisms of bone healing are recognized, and the choice between them depends on the mechanical environment of the fracture site.
 
 ## Indirect (Secondary) Bone Healing

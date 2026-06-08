@@ -13,6 +13,16 @@ order: 102
 
 ## Механизми на костното зарастване
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-2/healing-stages.jpg" data-figure-alt="Етапи на костното зарастване" aria-label="Увеличи">
+    <img src="/img/trauma-2/healing-stages.jpg" alt="Етапи на костното зарастване" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Етапи на костното зарастване — хематом, възпаление, мекотъканен калус (хрущяло-фиброзен), твърд (костен) калус и ремоделиране.</span>
+    <span class="md-figure-attribution"> — Smart Servier Medical Art, <a href="https://commons.wikimedia.org/wiki/File:Healing_of_fractured_bone.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Разграничават се два основни механизма на костното зарастване, като изборът между тях зависи от механичната среда на фрактурното място.
 
 ## Индиректно (вторично) костно зарастване

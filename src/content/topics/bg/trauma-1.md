@@ -53,6 +53,16 @@ Tension (разтегляне) поражда напречни фрактури,
 
 ## Класификация на фрактурите
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-1/ao-classification.png" data-figure-alt="AO/OTA класификация на фрактурите" aria-label="Увеличи">
+    <img src="/img/trauma-1/ao-classification.png" alt="AO/OTA класификация на фрактурите" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">AO/OTA класификация на фрактурите — буквено-цифров код с анатомична локализация (1–9), сегмент (1–3), тип (A/B/C), група и подгрупа.</span>
+    <span class="md-figure-attribution"> — Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Общи принципи
 

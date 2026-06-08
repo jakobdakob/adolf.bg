@@ -40,6 +40,16 @@ osteomalacia, Paget’s disease), infection, or congenital anomaly (osteogenesis
 
 ## Classification of Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-1/ao-classification.png" data-figure-alt="AO/OTA fracture classification" aria-label="Enlarge">
+    <img src="/img/trauma-1/ao-classification.png" alt="AO/OTA fracture classification" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">AO/OTA fracture classification — alphanumeric code: anatomical location (1–9), segment (1–3), type (A/B/C), group, and subgroup.</span>
+    <span class="md-figure-attribution"> — Kellam et al., <a href="https://commons.wikimedia.org/wiki/File:AO_Fracture_Classification_-_Adult.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## General Principles
 

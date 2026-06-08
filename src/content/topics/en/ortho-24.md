@@ -50,6 +50,16 @@ The 2010 ACR/EULAR classification criteria for RA assess: joint involvement (num
 
 ## Imaging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/ra-hand.jpg" data-figure-alt="RA hand X-ray" aria-label="Enlarge">
+    <img src="/img/ortho-24/ra-hand.jpg" alt="RA hand X-ray" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Rheumatoid arthritis of the hand — marginal erosions in the MCP and PIP joints, periarticular osteopenia and joint-space narrowing; the DIP joints are characteristically spared.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_arthritis_with_unaffected_carpal_bones_2009.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Plain radiographs in early RA may show only soft-tissue swelling and periarticular osteopenia. As the disease progresses, characteristic changes appear: marginal erosions (at the sites of synovial attachment, “bare areas” of bone not covered by articular cartilage); symmetric joint-space narrowing; periarticular osteopenia; soft-tissue swelling around the joints; ulnar deviation at the MCPs; and the various deformities described above. The Larsen and Sharp scoring systems are used in research and clinical assessment of disease progression. MRI and ultrasound are increasingly used in early RA for detection of subclinical synovitis and pre-erosive disease; both modalities have substantially higher sensitivity than plain radiographs for early disease. The cervical spine in RA deserves specific imaging assessment: flexion-extension lateral radiographs to identify atlantoaxial subluxation (the atlas-dens interval — ADI — should be <3 mm in adults; >9 mm indicates significant instability with risk of cord compression); CT for bony assessment; MRI for cord assessment in patients with neurological symptoms or with instability on plain radiographs.
 
 ## Medical Treatment

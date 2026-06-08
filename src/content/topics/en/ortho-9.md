@@ -42,6 +42,16 @@ motion. Early in disease, examination may show only mild restriction of internal
 
 ## Imaging and Staging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-9/avn-xray.jpg" data-figure-alt="Femoral head AVN" aria-label="Enlarge">
+    <img src="/img/ortho-9/avn-xray.jpg" alt="Femoral head AVN" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoral head AVN — sclerosis and collapse of the superolateral portion with the subchondral "crescent sign"; ARCO/Ficat-Arlet staging guides treatment decisions.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_idiopathic_avascular_necrosis_of_the_femoral_head_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Plain radiographs are normal in early disease and become abnormal only after several months of pathological evolution. The earliest radiographic changes include sclerosis or cyst formation in the superolateral femoral head; the pathognomonic “crescent sign” is a thin radiolucent line of subchondral fracture through the necrotic bone, best seen on frog-lateral views, and represents the transition from a reversible early disease to an established collapse. Subsequent collapse of the articular surface and progression to secondary arthritis complete the radiographic spectrum. MRI is the imaging modality of choice for early diagnosis and staging. The characteristic findings are: focal subchondral marrow edema on T2-weighted images in the early disease; the “double-line” sign on T2-weighted images (a low-signal inner line of necrotic bone with a high-signal outer line of granulation tissue at the reactive interface) is highly specific for AVN; loss of normal enhancement on gadolinium-enhanced sequences corresponding to the avascular area; and the eventual subchondral fracture and articular collapse. Several staging systems are in use: Ficat and Arlet (4 stages): Stage 0, normal imaging, no symptoms; Stage 1, normal radiograph with abnormal MRI and clinical symptoms; Stage 2, sclerotic or cystic changes without subchondral fracture (Ficat 2A) or with subchondral fracture but no collapse (Ficat 2B); Stage 3, articular collapse with crescent sign or step-off of the articular surface; Stage 4, secondary degenerative arthritis with joint-space narrowing. Steinberg (University of Pennsylvania) (7 stages): a more elaborate scheme dividing each Ficat stage into sub-stages based on the extent of head involvement (A = <15%, B = 15-30%, C = >30% of the femoral head). Association Research Circulation Osseous (ARCO) (similar to Ficat, with sub-stages based on extent and location of involvement). The critical clinical question that all staging systems address is whether subchondral fracture has occurred: pre-collapse disease (Ficat I-II, Steinberg I-II) is potentially treatable by joint-preserving surgery, while post-collapse disease (Ficat III-IV, Steinberg III-IV) is best managed by arthroplasty.
 
 ## Treatment

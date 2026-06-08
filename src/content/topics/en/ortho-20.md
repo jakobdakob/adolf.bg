@@ -27,7 +27,17 @@ Three principal morphological subtypes of FAI are described, each with distinct 
 
 ## Cam Impingement
 
-Cam impingement arises from a non-spherical, often “pistol-grip” deformity of the femoral head-neck junction, in which the head-neck offset is reduced and a bony prominence at the anterolateral femoral head-neck junction enters the acetabulum during hip flexion and internal rotation. The aspherical head pinches against the acetabular rim and “shears” against the chondrolabral junction, producing a characteristic pattern of cartilage delamination at the anterosuperior acetabulum with the labrum often relatively preserved early in the disease. The aspherical morphology is quantified by the alpha angle, measured on a radial cross-sectional MRI or oblique-axial CT image: the angle between (1) a line from the center of the femoral head along the long axis of the femoral neck and (2) a line from the center of the femoral head to the point where the bony contour first exceeds the radius of the head. Alpha angles greater than 50-55° are considered abnormal, with higher values indicating more severe deformity. Cam impingement is more common in men, athletes, and patients with a history of childhood hip disorders (Perthes, SCFE, post-traumatic deformity). The aspherical morphology often develops during the adolescent growth spurt, particularly in young male athletes engaged in pivoting sports (football, hockey, soccer), suggesting that the
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-20/fai-schema.svg" data-figure-alt="FAI — cam and pincer" aria-label="Enlarge">
+    <img src="/img/ortho-20/fai-schema.svg" alt="FAI — cam and pincer" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoroacetabular impingement (FAI) — cam (non-spherical femoral head with "pistol-grip" deformity) and pincer (overcoverage of the acetabulum); the two patterns may coexist.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+Cam impingement arises from a non-spherical, often "pistol-grip" deformity of the femoral head-neck junction, in which the head-neck offset is reduced and a bony prominence at the anterolateral femoral head-neck junction enters the acetabulum during hip flexion and internal rotation. The aspherical head pinches against the acetabular rim and “shears” against the chondrolabral junction, producing a characteristic pattern of cartilage delamination at the anterosuperior acetabulum with the labrum often relatively preserved early in the disease. The aspherical morphology is quantified by the alpha angle, measured on a radial cross-sectional MRI or oblique-axial CT image: the angle between (1) a line from the center of the femoral head along the long axis of the femoral neck and (2) a line from the center of the femoral head to the point where the bony contour first exceeds the radius of the head. Alpha angles greater than 50-55° are considered abnormal, with higher values indicating more severe deformity. Cam impingement is more common in men, athletes, and patients with a history of childhood hip disorders (Perthes, SCFE, post-traumatic deformity). The aspherical morphology often develops during the adolescent growth spurt, particularly in young male athletes engaged in pivoting sports (football, hockey, soccer), suggesting that the
 
 morphology may be acquired in response to the mechanical demands during the period of physeal maturation.
 

@@ -30,6 +30,16 @@ Achondroplasia is the commonest skeletal dysplasia producing disproportionate sh
 
 ## Clinical Features
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-16/achondroplasia.jpg" data-figure-alt="Achondroplasia" aria-label="Enlarge">
+    <img src="/img/ortho-16/achondroplasia.jpg" alt="Achondroplasia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Achondroplasia — rhizomelic short stature with disproportionately shortened limbs, macrocephaly with frontal bossing, and characteristic lumbar hyperlordosis.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Achondroplasia_1.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The classical features include: rhizomelic short stature (with the upper arms and thighs disproportionately shorter than the forearms and legs); macrocephaly with frontal bossing and depressed nasal bridge; trident hands (with separation of the third and fourth fingers); thoracolumbar kyphosis in infancy that improves with weight-bearing and resolves in most cases; lumbar hyperlordosis in childhood and adulthood; spinal stenosis (the principal long-term clinical problem, with progressive narrowing of the spinal canal producing
 
 neurological symptoms in adulthood); foramen magnum stenosis (producing potentially life-threatening compression of the cervicomedullary junction in infancy, manifesting as central apnea, weakness, or sudden death); midface hypoplasia with potential airway problems; otitis media and hearing impairment; genu varum (in approximately 30%); and elbow contractures.

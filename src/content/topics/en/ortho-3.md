@@ -19,6 +19,16 @@ The biopsy is the most consequential single decision in the management of a susp
 
 ## Osteosarcoma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/osteosarcoma-codman.jpg" data-figure-alt="Osteosarcoma — Codman triangle" aria-label="Enlarge">
+    <img src="/img/ortho-3/osteosarcoma-codman.jpg" alt="Osteosarcoma — Codman triangle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteosarcoma — Codman’s triangle: aggressive periosteal reaction lifted by the tumour and interrupted before it can close over the lesion.</span>
+    <span class="md-figure-attribution"> — Ajimsha619, <a href="https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Subtypes
 
@@ -42,6 +52,16 @@ surgical resection: greater than 90% necrosis (good responders) is associated wi
 
 ## Ewing Sarcoma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/ewing-sarcoma.jpg" data-figure-alt="Ewing sarcoma of the tibia in a child" aria-label="Enlarge">
+    <img src="/img/ortho-3/ewing-sarcoma.jpg" alt="Ewing sarcoma of the tibia in a child" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ewing sarcoma of the tibia in a child — diaphyseal permeative lytic lesion with “onion-skin” lamellar periosteal reaction and a soft-tissue mass.</span>
+    <span class="md-figure-attribution"> — Michael Richardson, MD, <a href="https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Pathology and Molecular Biology
 
@@ -58,15 +78,45 @@ The treatment of Ewing sarcoma is intensive multimodality combination chemothera
 
 ## Chondrosarcoma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/chondrosarcoma.jpg" data-figure-alt="Chondrosarcoma" aria-label="Enlarge">
+    <img src="/img/ortho-3/chondrosarcoma.jpg" alt="Chondrosarcoma" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Chondrosarcoma — lytic lesion with “popcorn” chondroid mineralisation and endosteal scalloping of the cortex.</span>
+    <span class="md-figure-attribution"> — KGH, <a href="https://commons.wikimedia.org/wiki/File:Chondrosarcoma_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Chondrosarcoma is the second commonest malignant primary bone tumor after osteosarcoma, accounting for approximately 25% of primary bone sarcomas. Unlike osteosarcoma and Ewing sarcoma, chondrosarcoma is predominantly a tumor of older adults, with peak incidence in the fifth and sixth decades. The pathology is characterized by lobules of malignant hyaline cartilage with increased cellularity, nuclear atypia, binucleate cells, and permeation of host bone or surrounding soft tissue. Histological grading from I (low) to III (high) is the principal determinant of behavior: low-grade conventional chondrosarcoma rarely metastasizes but recurs locally, while high-grade chondrosarcoma behaves aggressively with metastatic spread to lung. The dedifferentiated chondrosarcoma represents a particularly aggressive variant in which a low-grade cartilaginous tumor harbors a high-grade non-cartilaginous component (often osteosarcomatous or fibrosarcomatous) — a finding that markedly worsens prognosis. Anatomical sites include the pelvis (the commonest single location, 25-30% of cases), the proximal femur, the proximal humerus, the scapula, and the ribs. Imaging shows a lytic lesion with characteristic chondroid matrix — popcorn, rings, or arcs of mineralization — with cortical destruction, soft-tissue extension, and endosteal scalloping (often greater than two-thirds of cortical thickness, distinguishing low-grade chondrosarcoma from enchondroma). MRI demonstrates the characteristic lobulated, high-T2-signal architecture of cartilage tissue. Treatment is principally surgical: wide en-bloc resection with negative margins is curative for low- and intermediate-grade tumors. Conventional chondrosarcoma is notoriously chemoresistant and radioresistant, so adequate surgical margins are crucial; the principle is that “the only adjuvant for chondrosarcoma is the surgeon’s scalpel.” Dedifferentiated chondrosarcoma and mesenchymal chondrosarcoma, in contrast, are treated as high-grade sarcomas with neoadjuvant chemotherapy and aggressive surgery; mesenchymal chondrosarcoma in particular shows useful response to Ewing-like regimens. Five-year
 
 survival is excellent (90%) for low-grade lesions, but falls to 30-50% for high-grade and dedifferentiated chondrosarcoma.
 
 ## Chordoma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/chordoma-sacrum.jpg" data-figure-alt="Sacral chordoma" aria-label="Enlarge">
+    <img src="/img/ortho-3/chordoma-sacrum.jpg" alt="Sacral chordoma" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sacral chordoma — midline lytic lesion of the sacrum with destruction of the vertebral body and a presacral soft-tissue mass.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Sacral_Bone_Chordoma_(%CE%A7%CF%8C%CF%81%CE%B4%CF%89%CE%BC%CE%B1_%CF%84%CE%BF%CF%85_%CE%99%CE%B5%CF%81%CE%BF%CF%8D_%CE%BF%CF%83%CF%84%CE%BF%CF%8D).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Chordoma is a rare, low- to intermediate-grade malignant tumor arising from notochordal remnants, with characteristic locations along the midline of the axial skeleton: the sacrococcygeal region (50% of cases), the spheno-occipital region (35%), and the mobile spine (15%). Peak incidence is in the fifth and sixth decades. The tumor grows slowly, infiltrates locally, and recurs persistently after incomplete resection; distant metastases occur late but are described. Histologically the tumor consists of large vacuolated “physaliphorous” cells in a myxoid stroma; the brachyury transcription factor T is the immunohistochemical hallmark and is highly specific. Sacrococcygeal chordomas present with low back pain, sacrococcygeal mass, urinary or bowel dysfunction, and posterior pelvic neurological symptoms. Wide en-bloc resection with negative margins is the only treatment offering durable disease control; sacrectomy preserving at least one S2 nerve root is necessary to maintain bowel and bladder function, while resection above S3 inevitably compromises continence. Proton-beam and carbon-ion radiotherapy have an increasing role for surgical residual disease, residual after suboptimal resection, and unresectable spheno-occipital chordomas.
 
 ## Multiple Myeloma and Solitary Plasmacytoma of Bone
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/myeloma-skull.png" data-figure-alt="Multiple myeloma — skull lytic lesions" aria-label="Enlarge">
+    <img src="/img/ortho-3/myeloma-skull.png" alt="Multiple myeloma — skull lytic lesions" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Multiple myeloma — the classic “punched-out” lytic lesions of the skull, with no surrounding reactive sclerosis.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:MMPlainSkull.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Multiple myeloma is the commonest primary malignant tumor of bone in adults overall — accounting for nearly half of all primary bone malignancies, though it is more accurately characterized as a hematological malignancy with prominent bone manifestations. The disease is a clonal proliferation of plasma cells producing monoclonal immunoglobulin (paraprotein). Presentation is typically in the sixth to eighth decade with bone pain, pathological fracture (vertebral compression fractures are particularly common), anemia, renal impairment, hypercalcemia, and recurrent infections. The classical CRAB criteria (hyperCalcemia, Renal failure, Anemia, Bone lesions) define the symptomatic disease. Plain radiographs show characteristic punched-out, geographic, lytic lesions, particularly in the skull, vertebrae, pelvis, and proximal long bones, without surrounding sclerosis or periosteal reaction — a feature that distinguishes myeloma from most other lytic processes. The bone scan is famously falsely negative because the lesions are purely lytic without sufficient osteoblastic reaction to produce uptake. Whole-body low-dose CT, whole-body MRI, and increasingly PET-CT have replaced the traditional radiographic skeletal survey. Laboratory investigation reveals monoclonal paraprotein on serum or urine electrophoresis, with characteristic kappa or lambda light-chain restriction; bone marrow biopsy demonstrates clonal plasma cell infiltration. Treatment is medical: induction chemotherapy with bortezomib, lenalidomide, daratumumab and dexamethasone followed by autologous stem-cell transplantation in eligible patients. Bisphosphonates (zoledronate or pamidronate) or the RANKL inhibitor denosumab reduce skeletal-related events. Surgical management is reserved for pathological fracture (most commonly femoral neck and intertrochanteric, requiring fixation or hemiarthroplasty), spinal cord compression (decompression and stabilization), and impending fracture
 
@@ -89,6 +139,16 @@ Fibrosarcoma of bone is a rare malignancy of fibroblastic origin, with a charact
 Angiosarcoma of bone is a rare, high-grade vascular sarcoma. It can be solitary or multifocal; the multifocal form is curiously regional, with multiple lesions typically confined to a single anatomical region. Treatment is multimodal, with wide surgical resection where feasible, and radiotherapy and chemotherapy for unresectable or recurrent disease.
 
 ## Metastatic Bone Disease
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-3/metastasis-femur.jpg" data-figure-alt="Bone metastasis in the femoral head" aria-label="Enlarge">
+    <img src="/img/ortho-3/metastasis-femur.jpg" alt="Bone metastasis in the femoral head" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Bone metastasis in the femoral head — gross specimen with an infiltrative tumour mass replacing the cancellous bone.</span>
+    <span class="md-figure-attribution"> — Fernández-Aceñero & Aramendi Sánchez, <a href="https://commons.wikimedia.org/wiki/File:Femoral_head_with_bone_metastasis_02.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Epidemiology and Pathophysiology

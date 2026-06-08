@@ -1,5 +1,5 @@
 ---
-title: "Болест на Blaunt. Болест на Madelung."
+title: "Болест на Blount. Болест на Madelung."
 lang: "bg"
 kind: "topic"
 section: "ortho"

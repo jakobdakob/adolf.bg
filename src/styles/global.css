@@ -957,6 +957,61 @@ html[data-theme="dark"] .btn-viber:hover {
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
+   Callouts: Pearl + Pitfall
+   Used inline in markdown via raw HTML:
+     <aside class="callout callout-pearl">
+       <span class="callout-label">Pearl</span>
+       <p>…</p>
+     </aside>
+   ───────────────────────────────────────────────────────────────────────── */
+.prose .callout {
+  margin: 1.6em 0;
+  padding: 0.85rem 1.1rem 0.95rem 1.1rem;
+  border-left: 3px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  border-radius: 0 8px 8px 0;
+  display: grid;
+  gap: 0.35rem;
+}
+.prose .callout p {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.prose .callout p + p { margin-top: 0.5em; }
+.prose .callout-label {
+  font-size: var(--fs-eyebrow);
+  font-weight: 600;
+  letter-spacing: var(--tracking-eyebrow);
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.prose .callout-pitfall {
+  --pitfall: #C46A14;
+  border-left-color: var(--pitfall);
+  background: color-mix(in srgb, var(--pitfall) 7%, transparent);
+}
+.prose .callout-pitfall .callout-label { color: var(--pitfall); }
+[data-theme="dark"] .prose .callout-pitfall {
+  --pitfall: #E69547;
+}
+.prose .callout > :first-child { margin-top: 0; }
+.prose .callout > :last-child  { margin-bottom: 0; }
+.prose .callout .source {
+  font-size: 0.78rem;
+  color: var(--ink-faint, var(--ink-muted));
+  margin-top: 0.25em;
+}
+@media print {
+  .prose .callout {
+    background: transparent !important;
+    border-left-width: 2px;
+    page-break-inside: avoid;
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
    Prose link affordance
    Inline anchor tags inside body prose get a subtle accent-tinted
    background so users see they are clickable, with stronger background on

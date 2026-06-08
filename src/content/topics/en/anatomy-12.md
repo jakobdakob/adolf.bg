@@ -17,6 +17,11 @@ The physis is the cartilaginous plate at the metaphyseal-epiphyseal junction of 
 
 The vascular supply to the physis is unique: separate vessels supply the epiphyseal and metaphyseal sides, with no vessels crossing the physis itself. This vascular pattern explains why physeal fracture displacement may disrupt the epiphyseal blood supply (with consequent avascular necrosis of the epiphysis) while the metaphyseal supply remains intact. The perichondrial ring (groove of Ranvier) surrounds the physis peripherally, contributing to circumferential growth (widening) of the physis and the metaphysis. Injuries to the perichondrial ring can produce localized growth arrest.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The physis fails through the zone of provisional calcification / hypertrophic zone — the weakest layer — producing the characteristic Salter-Harris patterns. Epiphyseal and metaphyseal vessels are separate with no vessels crossing the physis itself; this is why displacement can produce AVN of the epiphysis even when the metaphyseal side is unharmed.</p>
+</aside>
+
 ## Salter-Harris Classification of Physeal Injuries
 
 <figure class="md-figure">
@@ -44,9 +49,24 @@ The Salter and Harris classification (1963) divides physeal fractures into five 
 
 The Rang modification adds Type VI (perichondral ring or periosteum injury producing peripheral growth arrest), Type VII (isolated epiphyseal injury without physeal involvement), Type VIII (metaphyseal injury disrupting physeal blood supply) and Type IX (periosteal injury affecting appositional growth). The classification predicts both immediate management (anatomical reduction required for types III and IV) and the risk of long-term growth disturbance (highest for types IV and V).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Growth-arrest risk by Salter-Harris type: I-II &lt;10% → III ~20-30% → IV 30-50% → V essentially 100%. Types III and IV cross the articular surface and demand anatomic reduction; type V is radiographically subtle and often diagnosed retrospectively.</p>
+</aside>
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Salter-Harris V is radiographically subtle initially. Growth arrest manifests weeks-to-months later, so the diagnosis is often retrospective. Maintain suspicion for axial compression at the physis (especially knee, ankle) and follow up with serial radiographs.</p>
+</aside>
+
 ## Plastic Deformation
 
 The pediatric bone, with its higher porosity, lower stiffness, and more elastic behavior, can deform without complete fracture under bending forces. Plastic deformation is the persistent angular deformity of a bone without a discrete fracture line, produced by forces sufficient to exceed the elastic limit of the bone but insufficient to produce complete fracture. The most common sites of plastic deformation are the ulna and fibula (the thinner of the paired bones in the forearm and leg), often in association with a frank fracture of the other bone. The classical setting is the pediatric both-bone forearm fracture with frank radial fracture and plastic deformation of the ulna; the “missed” plastic deformation may obstruct subsequent reduction of the radial fracture. Recognition of plastic deformation requires careful inspection of the radiographs with comparison to the contralateral side. The bone shows the characteristic bowing without a fracture line. Treatment of plastic deformation depends on the magnitude of angulation. Less than 10 degrees of angulation generally does not require treatment in young children because of remodeling potential. Greater angulation (more than 10 to 20 degrees in younger children, less in older children) requires reduction; reduction may require deliberate over-correction under anesthesia, with the bone forced past the deformity into a slight opposite angulation that then relaxes back to a corrected position. Persistent angulation that does not respond to closed reduction may require completion of the deformation to a complete fracture through controlled osteotomy, with subsequent reduction.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Missed plastic deformation of the ulna often obstructs reduction of the radial fracture in a both-bone forearm injury. Compare the supposedly intact paired bone with the contralateral side — if it's bowed, deal with it (over-correct or complete the deformation) before attempting reduction of the other bone.</p>
+</aside>
 
 ## Greenstick Fractures
 
@@ -112,11 +132,21 @@ Pediatric bones heal substantially faster than adult bones — typical adult tib
 
 The remodeling potential of the pediatric bone is substantial and is a critical consideration in management. The factors favoring remodeling include: Younger age: More years of growth remaining. Proximity to a physis: Bones close to active physes remodel more reliably. Deformity in the plane of motion of the adjacent joint: Angulation in the sagittal plane (matching knee flexion-extension) remodels better than angulation in the coronal plane (which does not match the principal axis of joint motion at the knee). Rotational malalignment does NOT remodel and must be corrected. The acceptable deformity for non-operative management increases with younger age and with proximity to an active physis. For instance, a femoral shaft fracture in a 3-year-old can accept substantially more angulation, shortening, and malposition than the same fracture in a 12-year-old.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Remodeling favors three things: younger age, proximity to an active physis, and deformity in the plane of adjacent-joint motion. Rotational malalignment does NOT remodel — rotation must be corrected anatomically at the time of treatment, regardless of age.</p>
+</aside>
+
 ## Growth Arrest and Its Management
 
 Growth arrest following physeal injury occurs when bony bridges form across the physis, tethering the epiphysis to the metaphysis and preventing further growth. The incidence of growth arrest varies by fracture type and location: Salter-Harris I and II: Less than 10 percent risk. Salter-Harris III: 20 to 30 percent risk depending on location and quality of reduction.
 
 Salter-Harris IV: 30 to 50 percent risk. Salter-Harris V: Essentially 100 percent risk. Distal femur and proximal tibia physeal injuries have the highest risk of clinically significant growth arrest because of the substantial contribution of these physes to lower extremity length (the distal femur contributes approximately 9 mm/year of growth; the proximal tibia approximately 6 mm/year). Management of growth arrest depends on the location, the size of the bony bridge, and the remaining growth potential: Observation with serial radiographic follow-up for at least the first year after injury, with attention to leg-length discrepancy and angular deformity. Bar excision (Langenskiöld procedure): Removal of the bony bridge between the epiphysis and metaphysis with interposition of fat or other material to prevent reformation. Indicated for small (<50 percent of the physis) bridges in patients with significant remaining growth potential. Success rates are approximately 50 to 70 percent. Limb lengthening or shortening procedures for established leg-length discrepancy. Corrective osteotomy for established angular deformity. Contralateral epiphysiodesis to equalize leg lengths by stopping growth of the unaffected side at the appropriate time.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Distal femur (~9 mm/year) and proximal tibia (~6 mm/year) carry the highest clinical impact for growth arrest because of their disproportionate contribution to lower-limb length. Bar excision (Langenskiöld) works for bridges &lt;50% of the physis with remaining growth potential, with 50-70% success.</p>
+</aside>
 
 ## Principles of Pediatric Fracture Management
 

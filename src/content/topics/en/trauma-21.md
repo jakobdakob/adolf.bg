@@ -17,6 +17,11 @@ The femoral neck extends from the femoral head to the intertrochanteric line, wi
 
 The neck-shaft angle and Singh index of trabecular pattern on AP radiographs of the hip provide secondary information about bone quality. The calcar femorale is the dense vertical plate of bone deep within the proximal femur, providing structural support for the inferior medial neck region; its integrity is important in fixation construct stability.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The lateral epiphyseal arteries — branches of the medial femoral circumflex ascending in the synovial reflection — supply 70-80% of the femoral head. Displaced fractures disrupt them as they cross the fracture line, producing immediate ischemia. Duration of displacement (not just degree) drives AVN risk.</p>
+</aside>
+
 ## Classification
 
 <figure class="md-figure">
@@ -76,11 +81,21 @@ Femoral neck fractures are further classified by location: subcapital (just belo
 
 The classical presentation is the elderly patient with a low-energy fall who presents with hip pain and inability to bear weight, with the affected leg held in slight external rotation and shortening. Active straight-leg raise is markedly limited with severe pain. Greater trochanter tenderness and pain with hip log-rolling are present. The pain is typically in the groin or anterior thigh, sometimes referred to the knee. The patient should be assessed for the mechanism of fall (mechanical fall versus syncope or cardiac event, with implications for medical workup), comorbidities that affect operative risk, functional baseline (independent ambulation versus assisted, with implications for treatment choice), and cognitive status (with implications for adherence to postoperative protocols and rehabilitation). The non-displaced or impacted femoral neck fracture in the high-functioning elderly patient may present with surprisingly mild symptoms and the ability to bear weight — these patients may walk in on a fractured hip if it is impacted in valgus. A high index of suspicion is required in elderly patients with low-energy fall and hip pain, even with apparent ability to bear weight. The imaging is typically a standard AP pelvis radiograph (showing both hips for comparison) and a cross-table lateral or frog-leg lateral of the affected hip. MRI is the imaging study of choice when radiographs are negative or equivocal but clinical suspicion remains; MRI demonstrates the fracture line, the bone marrow edema, and any associated injury (occult intertrochanteric or pubic ramus fracture, sacral insufficiency fracture). MRI is sensitive within 24 hours of injury. CT is an alternative for those who cannot tolerate MRI but is less sensitive for occult fractures.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>A high-functioning elderly patient may walk in on a valgus-impacted femoral neck fracture. Apparent ability to bear weight does not exclude fracture — image first if suspicion is high. When plain radiographs are negative or equivocal, MRI is the modality of choice (sensitive within 24 hours).</p>
+</aside>
+
 ## Treatment Principles — The Central Algorithm
 
 The treatment algorithm depends on the interaction of age, fracture displacement, and functional status. The principal options are: Non-operative management: Reserved for non-displaced or impacted fractures in patients who are non-ambulatory or in whom surgery is contraindicated. The pain control allows mobilization to chair and tolerance of nursing care; the fracture heals in malposition or fails to heal. The mortality in this group is very high but operative intervention may not improve it.
 
 Internal fixation: For non-displaced fractures (Garden I and II) in any age group, and for displaced fractures (Garden III and IV) in young patients where preservation of the native head is the goal despite AVN risk. Hemiarthroplasty: For displaced fractures in elderly patients with limited functional demand and intact acetabular cartilage. Total hip arthroplasty (THA): For displaced fractures in elderly patients with high functional demand, in patients with pre-existing acetabular pathology (osteoarthritis, rheumatoid arthritis), and in active patients with reasonable life expectancy. The choice between hemiarthroplasty and THA in the elderly displaced femoral neck fracture has been the subject of considerable investigation, with growing evidence favoring THA in the relatively younger, healthier, more active elderly patient. The HEALTH trial (Bhandari et al., 2019), a large multicenter randomized trial, demonstrated no significant difference in re-operation rate at 24 months between THA and hemiarthroplasty for displaced femoral neck fractures in patients aged 50 or older who were ambulatory before fracture. Subsequent secondary analyses and other trials have shown that THA offers better functional outcomes in the high-functioning elderly patient at the cost of slightly higher early complication rates (dislocation in particular).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The central algorithm in one breath: Garden I-II → cancellous screws regardless of age; Garden III-IV + young (&lt;60-65y) → urgent reduction and rigid fixation despite ~30% AVN/nonunion; Garden III-IV + elderly ambulator → primary THA (HEALTH trial); Garden III-IV + low-demand elderly → cemented hemiarthroplasty.</p>
+</aside>
 
 ## Internal Fixation
 
@@ -120,6 +135,11 @@ Hemiarthroplasty is appropriate for displaced femoral neck fractures in the elde
 
 The classical unipolar hemiarthroplasty replaces the femoral head with a single-piece stemmed prosthesis. The bipolar hemiarthroplasty uses a smaller inner ball that articulates within an outer cup that itself articulates with the acetabular cartilage — theoretically reducing wear on the acetabular cartilage by allowing motion at the inner articulation. The clinical evidence has not consistently demonstrated long-term advantages of bipolar over unipolar designs, although bipolar designs may be useful in selected patients where conversion to THA may be needed. The choice between cemented and uncemented stem fixation is informed by patient age, bone quality, and the literature. The AAOS guideline and the NICE guidance recommend cemented stems for hip fracture in the elderly, reflecting evidence of lower pain, lower revision rates, and lower thigh pain compared with uncemented stems. The risk of bone cement implantation syndrome (sudden hemodynamic collapse during cementation, related to fat and marrow embolization, see [Topic Trauma-7](/en/trauma/7/)) is the principal concern with cemented stems and requires careful technique and anesthetic management.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Bone-cement implantation syndrome — sudden hemodynamic collapse during cementation from fat and marrow embolization — is the principal risk of cemented stems. Coordinate with anesthesia, slow lavage and pressurization, and watch the cardiopulmonarily fragile patient carefully.</p>
+</aside>
+
 ## Outcomes
 
 Hemiarthroplasty produces a reliable functional outcome in the appropriate population, with most patients returning to their pre-fracture functional level. The principal long-term concern is acetabular cartilage wear (acetabular protrusio) in active patients, which can be 10 to 15 percent at 10 years in active patients but is much less of an issue in the typical low-demand population. Dislocation rates of hemiarthroplasty are typically 1 to 3 percent, similar to or slightly lower than THA in this population.
@@ -150,6 +170,11 @@ The femoral neck fracture in a young patient (under 50, typically 20 to 50 years
 
 The pediatric femoral neck fracture is uncommon but has substantially worse outcomes than the adult equivalent, with AVN rates of 30 to 50 percent reported in many series despite optimal management. The classical Delbet classification divides pediatric femoral neck fractures into four types: type I transepiphyseal, type II transcervical, type III cervicotrochanteric, and type IV intertrochanteric. Type I and II have the highest AVN risk. Treatment is anatomical reduction and rigid internal fixation with smooth K-wires or cannulated screws (avoiding the physis when possible), with prompt operative intervention.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Pediatric femoral neck fracture is uncommon but carries an AVN rate of 30-50% despite optimal management. Delbet I (transepiphyseal) and II (transcervical) carry the highest risk — treat with anatomic reduction and prompt rigid fixation.</p>
+</aside>
+
 ## Bilateral Femoral Neck Fractures
 
 Bilateral fractures are uncommon but described, typically in osteoporotic patients with very low-energy mechanism or in patients with seizure disorders. Bilateral fixation or arthroplasty proceeds in the same operation when the patient’s physiological state allows; otherwise the most symptomatic side is addressed first.
@@ -162,6 +187,11 @@ Patients on long-term bisphosphonate therapy are at risk of atypical femoral fra
 ## Postoperative Management
 
 The cornerstone of postoperative management is early mobilization (ideally on the day of surgery or the first postoperative day) with weight bearing as tolerated. Multiple trials have demonstrated that early mobilization reduces complications and improves outcomes. VTE prophylaxis is universal (see [Topic Trauma-7](/en/trauma/7/)). Multimodal pain management including peripheral nerve blocks (fascia iliaca block, lumbar plexus block) reduces opioid use and facilitates mobilization. Comprehensive geriatric care with input from medical, nursing, physiotherapy, and social work teams improves outcomes in the hip fracture population. The Frailty Hip Fracture Service model with co-management between orthopedics and geriatrics has been shown to reduce mortality and complications. The secondary fracture prevention with bone-protection medication (bisphosphonates, denosumab, teriparatide), calcium and vitamin D supplementation, fall-prevention assessment, and outpatient follow-up is essential — the patient who has sustained a hip fracture has approximately 4 to 5 times the risk of a second fragility fracture within a year if these measures are not addressed.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hip fracture marks frailty. One-year mortality is 20-30%, and the patient has a 4-5× risk of a second fragility fracture within a year. Bone protection, fall prevention, and multidisciplinary geriatric co-management reduce both — and are at least as important as the orthopedic technique.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

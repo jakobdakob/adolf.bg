@@ -13,6 +13,16 @@ Scoliosis is a lateral curvature of the spine in the coronal plane combined with
 
 ## Adolescent Idiopathic Scoliosis (AIS)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-14/adams-test.jpg" data-figure-alt="Adams forward-bend test and X-ray in scoliosis" aria-label="Enlarge">
+    <img src="/img/ortho-14/adams-test.jpg" alt="Adams forward-bend test and X-ray in scoliosis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Adams forward-bend test — clinical screening: a rib hump on the convex side becomes visible on forward flexion; the X-ray confirms the curve and Cobb angle.</span>
+    <span class="md-figure-attribution"> — Rigo et al., <a href="https://commons.wikimedia.org/wiki/File:Initial_diagnosis_of_scoliosis_with_adams_test_and_x-rays.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology
 
@@ -28,6 +38,16 @@ The etiology of idiopathic scoliosis is unknown, and the term “idiopathic” i
 Most adolescent idiopathic scoliosis is detected by school screening, by parents noticing asymmetry, or during routine medical examinations. Symptoms are typically minimal in adolescence, although mild back pain is reported in 20-30% of patients (a rate similar to that of normal adolescents) and severe back pain should raise suspicion of an alternative diagnosis. The classical clinical features are: asymmetric shoulder height with the shoulder elevated on the convex side of the thoracic curve; asymmetric scapular prominence with the convex-side scapula more prominent; waist asymmetry with the concave-side waist appearing more concave; and the most reliable sign — the rib hump (or lumbar hump) seen on Adam’s forward bend test, in which the patient bends forward at the hips and the examiner observes the back tangentially for asymmetric prominence indicating rotational deformity. The Adam’s forward bend test is the gold standard physical examination for scoliosis screening. The patient bends forward with feet together, knees straight, arms hanging freely. The examiner views from behind and observes for asymmetric prominence of the ribs (thoracic curve) or paraspinal muscles (lumbar curve). The scoliometer — a simple inclinometer placed over the apex of the rib hump — quantifies the rotational deformity; a measurement of 7° or greater warrants further radiographic evaluation.
 
 ## Imaging
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-14/cobb-angle.svg" data-figure-alt="Cobb method of measuring scoliosis angle" aria-label="Enlarge">
+    <img src="/img/ortho-14/cobb-angle.svg" alt="Cobb method of measuring scoliosis angle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cobb method — measurement of the scoliosis angle between perpendiculars dropped from the upper and lower end-vertebra articular surfaces of the curve.</span>
+    <span class="md-figure-attribution"> — Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 The standard radiographic assessment of scoliosis is a long-cassette posterior-anterior (PA) standing whole-spine radiograph and a lateral standing whole-spine radiograph. The PA rather than AP projection is used to reduce the radiation dose to the breast tissue of the predominantly female adolescent population. The Cobb angle is the standard measurement: lines are drawn along the superior endplate of the most-tilted upper end vertebra and the inferior endplate of the most-tilted lower end vertebra of the curve, perpendiculars are erected to these lines, and the angle between the perpendiculars is the Cobb angle. The end vertebrae are those most tilted into the concavity of the curve. Reliable measurement requires consistent identification of the same end vertebrae. The Risser sign, evaluated from the iliac crest apophysis, is the principal radiographic indicator of skeletal maturity. The iliac apophysis ossifies from lateral to medial, with Risser 0 (no apophysis visible), Risser 1 (25% of the crest), Risser 2 (50%), Risser 3 (75%), Risser 4 (complete excursion), and Risser 5 (fusion of the apophysis to the iliac crest). Risser 0-2 indicates substantial remaining growth potential and high progression risk; Risser 4-5 indicates near-complete skeletal maturity. The Sanders skeletal maturity classification, based on hand and wrist radiographs, provides finer resolution of skeletal maturity, particularly useful in distinguishing the pre-peak from the post-peak growth velocity periods. MRI is not required for typical adolescent idiopathic scoliosis but should be obtained for atypical features that suggest an underlying condition: left thoracic curves (idiopathic scoliosis is typically right thoracic, and left thoracic curves carry an elevated risk of intraspinal pathology), atypical neurological findings, painful curves, juvenile-onset curves, rapidly progressing curves, and curves in boys (where intraspinal pathology is more
 

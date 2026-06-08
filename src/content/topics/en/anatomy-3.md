@@ -45,6 +45,16 @@ The radial nerve is the principal neurological structure at risk in approaches t
 
 ## Musculocutaneous Nerve
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/brachial-artery.png" data-figure-alt="Brachial artery" aria-label="Enlarge">
+    <img src="/img/anatomy-3/brachial-artery.png" alt="Brachial artery" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Brachial artery in the medial bicipital groove — continuation of the axillary artery distal to the lower border of teres major; divides into the radial and ulnar arteries in the cubital fossa.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus and pierces the coracobrachialis muscle (typically 5 to 8 cm distal to the coracoid). It then runs between the biceps and brachialis muscles in the anterior compartment, supplying both muscles and the coracobrachialis. It emerges from the lateral aspect of the biceps as the lateral antebrachial cutaneous nerve (sensory) at the level of the elbow. Brachial Artery and Median/Ulnar Nerves The brachial artery descends along the medial bicipital groove between the biceps and the medial intermuscular septum, accompanied by the median nerve (which runs lateral to the artery proximally and crosses to the medial side at the elbow). The ulnar nerve is in the posterior compartment for most of the arm but is more medial than the radial nerve and is generally not at risk in standard humeral approaches.
 
 ## Lateral and Medial Intermuscular Septa

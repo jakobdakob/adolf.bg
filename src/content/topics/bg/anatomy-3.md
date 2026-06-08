@@ -56,6 +56,16 @@ Nervus musculocutaneus се отделя от латералния сноп на
 
 ## Arteria brachialis и nervus medianus/ulnaris
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/brachial-artery.png" data-figure-alt="A. brachialis" aria-label="Увеличи">
+    <img src="/img/anatomy-3/brachial-artery.png" alt="A. brachialis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">A. brachialis в медиалния бицепсов жлеб — продължение на a. axillaris дистално от долния ръб на m. teres major; разделя се на a. radialis и a. ulnaris в cubital fossa.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter, Gray's Anatomy, <a href="https://commons.wikimedia.org/wiki/File:Brachial_a.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Arteria brachialis слиза по медиалния бицепсов жлеб между biceps и медиалната интермускулна преграда, придружена от nervus medianus (преминаващ латерално от артерията проксимално и пресичащ я медиално при лакътя). Nervus ulnaris е в задното отделение по-голямата част от мишницата, но е по-медиален от nervus radialis и обикновено не е в риск при стандартните хумерусни достъпи.
 
 ## Латерална и медиална интермускулна преграда

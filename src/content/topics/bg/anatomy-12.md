@@ -115,6 +115,16 @@ order: 212
 
 ## Фрактура тип buckle (torus)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/buckle-fracture.jpg" data-figure-alt="Buckle (torus) фрактура" aria-label="Увеличи">
+    <img src="/img/anatomy-12/buckle-fracture.jpg" alt="Buckle (torus) фрактура" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Buckle (torus) фрактура на дисталния радиус — компресионно „набръчкване" на метафизарния кортекс без пълна линия на фрактура; стабилно увреждане, лекувано със свалящ се ортез.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурата тип buckle (torus) е компресионна фрактура на метафизарния кортекс без пълна линия на фрактура, пораждаща характерното „набръчкване" на кортекса. Фрактурата е най-честа на дисталния радиус и е типично стабилно увреждане, лекувано с ниска гипсова шина или свалящ се ортез за 3–4 седмици с добро оздравяване и без риск от деформация.
 
 ## Деформация тип bowing

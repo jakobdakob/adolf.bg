@@ -58,6 +58,16 @@ Locations: The greenstick fracture is most common in the forearm (both-bone or i
 
 ## Buckle (Torus) Fracture
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/buckle-fracture.jpg" data-figure-alt="Buckle (torus) fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-12/buckle-fracture.jpg" alt="Buckle (torus) fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Buckle (torus) fracture of the distal radius — compression buckling of the metaphyseal cortex without a complete fracture line; a stable injury treated in a removable splint.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Buckle_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The buckle (torus) fracture is a compression fracture of the metaphyseal cortex without a complete fracture line, producing a characteristic “buckling” of the cortex. The fracture is most common at the distal radius and is typically a stable injury treated in a short-arm cast or removable splint for 3 to 4 weeks with good healing and no concerns about deformity.
 
 ## Bowing Deformity

@@ -1,0 +1,142 @@
+---
+/**
+ * Inline figure: image + caption + attribution.
+ *
+ * Use inside markdown via MDX or directly inside .astro pages. For .md
+ * content we usually emit raw HTML around <img>, since plain markdown
+ * can't take Astro components, but this component is here for the .astro
+ * routes (qbank, test pages) and as a reference for the styling.
+ *
+ * Attribution string is plain text; if `licenseUrl` is provided a small
+ * link follows it. Image is wrapped in <button> so clicking opens the
+ * lightbox.
+ */
+interface Props {
+  src: string;
+  alt: string;
+  caption?: string;
+  attribution?: string;
+  licenseUrl?: string;
+  /** Constrain to a smaller width than the container; defaults to full. */
+  width?: string;
+}
+const { src, alt, caption, attribution, licenseUrl, width } = Astro.props;
+---
+<figure class="md-figure" style={width ? `max-width: ${width}` : undefined}>
+  <button class="md-figure-zoom" type="button" data-figure-src={src} data-figure-alt={alt} aria-label="Enlarge">
+    <img src={src} alt={alt} loading="lazy" decoding="async" />
+  </button>
+  {(caption || attribution) && (
+    <figcaption>
+      {caption && <span class="md-figure-caption">{caption}</span>}
+      {attribution && (
+        <span class="md-figure-attribution">
+          {caption ? " — " : ""}
+          {licenseUrl
+            ? <a href={licenseUrl} target="_blank" rel="noopener noreferrer">{attribution}</a>
+            : attribution}
+        </span>
+      )}
+    </figcaption>
+  )}
+</figure>
+
+<style is:global>
+  .md-figure {
+    margin: var(--s-6) 0;
+    text-align: center;
+  }
+  .md-figure-zoom {
+    display: block;
+    width: 100%;
+    border: 0;
+    padding: 0;
+    background: transparent;
+    cursor: zoom-in;
+  }
+  .md-figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  }
+  .md-figure figcaption {
+    margin-top: var(--s-2);
+    font-size: var(--fs-meta, 0.875rem);
+    line-height: 1.5;
+    color: var(--ink-muted, var(--ink-soft, var(--ink)));
+    text-align: center;
+  }
+  .md-figure-caption {
+    font-style: italic;
+  }
+  .md-figure-attribution {
+    color: var(--ink-faint, var(--ink-muted));
+  }
+  .md-figure-attribution a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--rule, currentColor);
+    text-underline-offset: 2px;
+  }
+
+  /* Lightbox overlay */
+  .md-figure-lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--s-5);
+    cursor: zoom-out;
+  }
+  .md-figure-lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 6px;
+  }
+  .md-figure-lightbox[hidden] { display: none; }
+</style>
+
+<script is:inline>
+  (function () {
+    function wire() {
+      var triggers = document.querySelectorAll("[data-figure-src]");
+      if (!triggers.length) return;
+      var overlay = document.getElementById("md-figure-lightbox-overlay");
+      if (!overlay) {
+        overlay = document.createElement("div");
+        overlay.id = "md-figure-lightbox-overlay";
+        overlay.className = "md-figure-lightbox";
+        overlay.setAttribute("hidden", "");
+        overlay.innerHTML = '<img alt="">';
+        document.body.appendChild(overlay);
+      }
+      var img = overlay.querySelector("img");
+      function open(src, alt) {
+        img.src = src;
+        img.alt = alt || "";
+        overlay.removeAttribute("hidden");
+        document.body.style.overflow = "hidden";
+      }
+      function close() {
+        overlay.setAttribute("hidden", "");
+        img.src = "";
+        document.body.style.overflow = "";
+      }
+      overlay.addEventListener("click", close);
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape" && !overlay.hasAttribute("hidden")) close();
+      });
+      triggers.forEach(function (t) {
+        t.addEventListener("click", function () {
+          open(t.dataset.figureSrc, t.dataset.figureAlt);
+        });
+      });
+    }
+    wire();
+    document.addEventListener("astro:after-swap", wire);
+  })();
+</script>

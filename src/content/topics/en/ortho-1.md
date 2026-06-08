@@ -13,6 +13,15 @@ The category of “tumor-like lesions of bone” comprises a heterogeneous group
 
 ## Simple Bone Cyst (Unicameral Bone Cyst, Solitary Bone Cyst)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/ubc-fallen-fragment.jpg" data-figure-alt="Juvenile bone cyst of the proximal humerus with pathological fracture and fallen-fragment sign" aria-label="Enlarge">
+    <img src="/img/ortho-1/ubc-fallen-fragment.jpg" alt="Juvenile bone cyst of the proximal humerus with pathological fracture and fallen-fragment sign" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Simple bone cyst of the proximal humerus in a child with pathological fracture — the classic Reynolds “fallen fragment sign”: a small cortical fragment at the dependent floor of the fluid-filled cavity.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Juvenile_Knochenzyste_Humerus_mit_pathologischer_Fraktur_9W_-_fallen_fragment_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 ## Epidemiology and Etiology
 
@@ -41,6 +50,16 @@ Many simple bone cysts heal spontaneously following pathological fracture, and t
 
 ## Aneurysmal Bone Cyst (ABC)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/abc.jpg" data-figure-alt="Aneurysmal bone cyst — expansile lytic lesion" aria-label="Enlarge">
+    <img src="/img/ortho-1/abc.jpg" alt="Aneurysmal bone cyst — expansile lytic lesion" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Aneurysmal bone cyst — expansile lytic lesion with a thinned cortical shell.</span>
+    <span class="md-figure-attribution"> — Boubbou et al., <a href="https://commons.wikimedia.org/wiki/File:Cisti_aneurismatica.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Pathogenesis
 
@@ -62,6 +81,16 @@ The treatment of an ABC must accomplish three goals: confirmation of the diagnos
 
 ## Fibrous Dysplasia
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/fibrous-dysplasia.png" data-figure-alt="Fibrous dysplasia — ground-glass radiographic appearance" aria-label="Enlarge">
+    <img src="/img/ortho-1/fibrous-dysplasia.png" alt="Fibrous dysplasia — ground-glass radiographic appearance" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Fibrous dysplasia — the characteristic “ground glass” radiographic appearance of an intramedullary lesion with mild expansion of the bone.</span>
+    <span class="md-figure-attribution"> — Basmajoor, <a href="https://commons.wikimedia.org/wiki/File:R%C3%B6ntgenfoto_Fibreuze_Dysplasie.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Definition, Genetics, and Classification Fibrous dysplasia is a benign, medullary fibro-osseous lesion in which normal bone is replaced by abnormal fibrous tissue containing scattered, poorly mineralized, immature woven bone trabeculae. The lesion has been understood since the 1990s as a developmental disorder caused by a post-zygotic activating mutation in the GNAS1 gene, which encodes the α-subunit of the stimulatory G-protein coupling membrane receptors to adenylyl cyclase. The somatic mosaicism produced by this mutation explains the highly variable phenotype, ranging from a single asymptomatic monostotic lesion to widespread polyostotic disease with severe skeletal deformity. Three principal clinical phenotypes are recognized: monostotic fibrous dysplasia, by far the commonest form and accounting for perhaps 80% of cases; polyostotic fibrous dysplasia, in which multiple bones are involved; and McCune-Albright syndrome, the classic triad of polyostotic fibrous dysplasia, café-au-lait skin pigmentation (with characteristically irregular “coast-of-Maine” borders, in contrast to the smooth “coast-of-California” borders of neurofibromatosis), and endocrine hyperfunction — most commonly precocious puberty, but also hyperthyroidism, growth-hormone-secreting pituitary adenomas, and adrenal hyperplasia. The Mazabraud syndrome describes the association of fibrous dysplasia with intramuscular myxomas, and is a rare but well-documented entity.
 
 ## Pathology
@@ -79,6 +108,16 @@ thinning, and a sclerotic rim are typical. Long-standing lesions may contain cys
 Asymptomatic and small lesions are observed. Symptomatic monostotic lesions can be managed with curettage and bone grafting, although the propensity of the dysplastic process to incorporate or replace any bone graft means that allograft, particularly cortical structural graft, is preferred over autograft, which is converted back to dysplastic bone over time. Internal fixation with intramedullary devices is generally preferred over plate fixation for diaphyseal lesions in long bones, both because the diseased cortex is poor for screw purchase and because the entire length of the bone may be affected by lesional or dysplastic tissue. The shepherd’s-crook deformity of the proximal femur is one of the classic orthopedic indications for valgus subtrochanteric osteotomy and intramedullary fixation. Bisphosphonates, particularly intravenous pamidronate or zoledronate, reduce bone pain and biochemical markers of bone turnover in polyostotic disease and McCune- Albright syndrome, although their effect on the radiographic appearance of the lesion is modest. Endocrine manifestations of McCune-Albright syndrome require dedicated medical management. Radiotherapy is contraindicated because of the risk of inducing sarcomatous transformation in the diseased bone.
 
 ## Non-ossifying Fibroma and Fibrous Cortical Defect
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/nof.jpg" data-figure-alt="Non-ossifying fibroma of the distal tibia" aria-label="Enlarge">
+    <img src="/img/ortho-1/nof.jpg" alt="Non-ossifying fibroma of the distal tibia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Non-ossifying fibroma — eccentric metaphyseal lytic lesion with a thin sclerotic margin.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:NOF_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Concept and Nomenclature
@@ -110,9 +149,29 @@ The natural history of single-system bony LCH is one of spontaneous resolution o
 
 ## Brown Tumor of Hyperparathyroidism
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/brown-tumor-hands.jpg" data-figure-alt="Brown tumours of the hands in hyperparathyroidism" aria-label="Enlarge">
+    <img src="/img/ortho-1/brown-tumor-hands.jpg" alt="Brown tumours of the hands in hyperparathyroidism" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Multiple brown tumours of the hands in hyperparathyroidism — lytic foci of osteoclastic resorption.</span>
+    <span class="md-figure-attribution"> — Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:Brown_tumours_of_the_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The brown tumor — so named because of its macroscopic hemosiderin-tinged color — is a focal lytic lesion of bone occurring in the setting of severe hyperparathyroidism. Although now uncommon in regions of routine biochemical screening, brown tumors remain a significant differential in patients with end-stage renal disease, in untreated primary hyperparathyroidism, and in patients from settings where parathyroid disease is not detected until advanced. Pathophysiologically the lesion is the localized expression of the diffuse process of osteitis fibrosa cystica: persistent parathyroid hormone elevation drives osteoclastic bone resorption, with replacement of marrow spaces by vascular fibrous tissue, hemorrhage, and reactive giant cells. Apley summarizes the appearance: “Haemorrhage and giant-cell reaction within the fibrous stroma may give rise to brownish, tumour-like masses, whose liquefaction leads to fluid-filled cysts.” Radiographically the lesion is an expansile, lytic area, often multiple and often associated with the characteristic features of hyperparathyroidism such as subperiosteal resorption of the radial aspects of the middle phalanges, terminal phalangeal tuft resorption, a “salt-and-pepper” granular skull, and erosion of the distal clavicle. Histologically the brown tumor is indistinguishable on its own from a giant cell tumor of bone, and the diagnosis is suggested only by the biochemical context: an elevated serum calcium, an elevated parathyroid hormone, and a relative or absolute hypophosphatemia. Treatment is overwhelmingly that of the underlying hyperparathyroidism, with most brown tumors regressing after parathyroidectomy or after correction of secondary or tertiary hyperparathyroidism in renal disease. Local treatment, with curettage or internal fixation for pathological fracture, is rarely required and is undertaken only after metabolic stabilization.
 
-## Sclerotic Tumor-like Lesions: Bone Island, Osteopoikilosis, Osteopathia
+## Sclerotic Tumor-like Lesions: Bone Island, Osteopoikilosis, Osteopathia Striata and Melorheostosis
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-1/osteopoikilosis.jpg" data-figure-alt="Osteopoikilosis of the hip" aria-label="Enlarge">
+    <img src="/img/ortho-1/osteopoikilosis.jpg" alt="Osteopoikilosis of the hip" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteopoikilosis — multiple small sclerotic foci symmetrically distributed throughout the cancellous bone.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteopoikilose_HG_ap_und_seitlich.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Striata, and Melorheostosis
 

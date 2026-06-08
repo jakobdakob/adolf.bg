@@ -45,6 +45,47 @@ const desc = description ?? t.siteTagline;
         } catch (_) {}
       })();
     </script>
+    <script is:inline>
+      // Figure lightbox — click any <figure class="md-figure"> image to enlarge.
+      (function () {
+        function wire() {
+          var triggers = document.querySelectorAll("[data-figure-src]");
+          if (!triggers.length) return;
+          var overlay = document.getElementById("md-figure-lightbox-overlay");
+          if (!overlay) {
+            overlay = document.createElement("div");
+            overlay.id = "md-figure-lightbox-overlay";
+            overlay.className = "md-figure-lightbox";
+            overlay.setAttribute("hidden", "");
+            overlay.innerHTML = '<img alt="">';
+            document.body.appendChild(overlay);
+          }
+          var img = overlay.querySelector("img");
+          function open(src, alt) {
+            img.src = src;
+            img.alt = alt || "";
+            overlay.removeAttribute("hidden");
+            document.body.style.overflow = "hidden";
+          }
+          function close() {
+            overlay.setAttribute("hidden", "");
+            img.src = "";
+            document.body.style.overflow = "";
+          }
+          overlay.addEventListener("click", close);
+          document.addEventListener("keydown", function (e) {
+            if (e.key === "Escape" && !overlay.hasAttribute("hidden")) close();
+          });
+          triggers.forEach(function (t) {
+            t.addEventListener("click", function () {
+              open(t.dataset.figureSrc, t.dataset.figureAlt);
+            });
+          });
+        }
+        if (document.readyState !== "loading") wire();
+        else document.addEventListener("DOMContentLoaded", wire);
+      })();
+    </script>
   </head>
   <body>
     <a href="#main" class="skip-link">Skip to main content</a>

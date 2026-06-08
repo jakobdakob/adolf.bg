@@ -26,6 +26,16 @@ The dysplastic hip exhibits a constellation of bony and soft-tissue abnormalitie
 
 ## The Ortolani and Barlow Maneuvers
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-7/ddh-schematic.jpg" data-figure-alt="Schematic of types of hip dysplasia" aria-label="Enlarge">
+    <img src="/img/ortho-7/ddh-schematic.jpg" alt="Schematic of types of hip dysplasia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spectrum of developmental hip dysplasia — from mild acetabular dysplasia through subluxation to complete dislocation of the femoral head out of the acetabulum.</span>
+    <span class="md-figure-attribution"> — Londenp, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_-_schematic.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The Ortolani maneuver, described by Marino Ortolani in 1937, is a test for the dislocated but reducible hip: with the infant supine and relaxed, both hips are flexed to 90°, the thigh is gently abducted, and the examiner’s middle finger placed over the greater trochanter exerts gentle anterior pressure. A positive test is the palpable clunk (not click — clicks are common, soft, and innocuous; clunks are specific) as the dislocated femoral head reduces over the posterior acetabular rim into the socket. The maneuver is sensitive in the first weeks of life when the hip is reducible; it becomes negative once secondary changes prevent reduction. The Barlow maneuver, described by Thomas Barlow in 1962, is a test for the dislocatable hip: with the infant supine and the hip flexed and adducted, the examiner applies gentle posterior pressure on the knee. A positive test is the palpable clunk as the femoral head dislocates posteriorly over the acetabular rim. The maneuver identifies the unstable hip that is currently reduced but can be dislocated by stress. Both maneuvers must be performed with care and without force in a relaxed infant, and the examiner must distinguish the high-pitched soft “click” produced by ligamentous or tendinous snap from the deeper “clunk” of true hip displacement.
 
 
@@ -42,12 +52,32 @@ The optimal approach to DDH screening — universal ultrasound for all newborns,
 
 ## Graf Ultrasound Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-7/graf-us.jpg" data-figure-alt="Graf-type hip ultrasound — normal Type Ia" aria-label="Enlarge">
+    <img src="/img/ortho-7/graf-us.jpg" alt="Graf-type hip ultrasound — normal Type Ia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Newborn hip ultrasound — normal joint (Graf Ia) with α-angle &gt;60° and full bony coverage of the femoral head.</span>
+    <span class="md-figure-attribution"> — Christaras A, <a href="https://commons.wikimedia.org/wiki/File:Ultrasound_-_normal_newborn_left_hip_(Graf_type_Ia).jpg" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+  </figcaption>
+</figure>
+
 The Graf classification, developed by Reinhard Graf in the 1980s, is the standard ultrasound classification of the infant hip and is universally used in centers performing screening ultrasound. The technique involves a standardized coronal-section ultrasound image of the hip with the infant in lateral decubitus, in which two angles are measured: the alpha angle (the angle between the iliac line and the bony acetabular roof, a measure of acetabular depth) and the beta angle (the angle between the iliac line and the cartilaginous labrum, a measure of labral coverage). The classification produces four primary types: Type I: Normal mature hip. Alpha angle ≥60°. Type II: Immature or dysplastic hip. Alpha angle 43-59°. Subtypes IIa (physiologically immature, <3 months, with no treatment if resolution by 6 weeks), IIb (delayed maturation,
 
 \>3 months, requiring treatment), IIc (critical zone, alpha 43-49°, beta <77°, requiring treatment), and IId (decentered, beta >77°). Type III: Dislocated hip with eccentric femoral head. The labrum is everted but not deformed. Type IV: Dislocated hip with displaced femoral head and inverted, deformed labrum. The Graf classification has the great advantage of being highly reproducible when performed by trained operators with a standardized technique, and it provides clear treatment recommendations: Type IIa-minus and IIc and worse require treatment, while Type IIa-plus and I do not.
 
 
 ## Plain Radiographs
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-7/ddh-xray.jpg" data-figure-alt="X-ray of hip dysplasia" aria-label="Enlarge">
+    <img src="/img/ortho-7/ddh-xray.jpg" alt="X-ray of hip dysplasia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Adult hip dysplasia — shallow acetabular socket with lateralisation of the femoral head and insufficient coverage.</span>
+    <span class="md-figure-attribution"> — Ping Zhen et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_dysplasia_in_adult.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 Plain radiographs become useful as the ossific nucleus of the femoral head appears, typically at 3-6 months of age. The standard AP view of the pelvis is interpreted using several reference lines and angles: Hilgenreiner’s line (horizontal through the triradiate cartilages, the basis for further measurement), Perkin’s line (vertical at the lateral edge of the acetabulum), the femoral head ossific nucleus position (which should lie in the inferomedial quadrant defined by Hilgenreiner’s and Perkin’s lines), Shenton’s line (a smooth curve along the inferior border of the superior pubic ramus and the medial border of the femoral neck, broken in dislocation), and the acetabular index (the angle between Hilgenreiner’s line and the acetabular roof, normally <30° in infants).
 

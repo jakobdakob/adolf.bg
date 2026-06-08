@@ -14,8 +14,8 @@ order: 207
 ## Костна анатомия
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis.png" data-figure-alt="Безименна кост — латерален изглед" aria-label="Увеличи">
-    <img src="/img/anatomy-7/pelvis.png" alt="Безименна кост — латерален изглед" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis.png" data-figure-alt="Безименна кост, латерален изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvis.png" alt="Безименна кост, латерален изглед" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Дясна безименна кост, външна повърхност — os ilium, os ischii и os pubis с ключовите ориентири: crista iliaca, SIAS, SIAI, ацетабулум, foramen obturatum, spina ischiadica и tuber ischiadicum.</span>
@@ -43,7 +43,7 @@ Incisura ischiadica minor: Между spina ischiadica и tuber ischiadicum; п�
 
 Spina ischiadica: Костният израстък на границата между тялото и рамуса на os ischii.
 
-Tuber ischiadicum: „Седалищната кост“ — долната натоварваща се част на os ischii. Начало на мускулите от групата на задната бедрена мускулатура (hamstrings).
+Tuber ischiadicum: „Седалищната кост“, долната натоварваща се част на os ischii. Начало на мускулите от групата на задната бедрена мускулатура (hamstrings).
 
 Tuberculum pubicum: Костният израстък върху ramus superior ossis pubis, латерално от симфизата. Медиалният край на ligamentum inguinale се залавя тук.
 
@@ -133,7 +133,7 @@ Plexus lumbalis лежи в дебелината на musculus psoas и е ос�
 
 Класическият достъп по Letournel използва три „прозореца“ през коремната стена, като в процеса се преминава през canalis inguinalis:
 
-Страничен (първи) прозорец: Между SIAS и musculus iliopsoas. Nervus cutaneus femoris lateralis преминава в тази зона — той се идентифицира и предпазва. Musculus iliacus се отделя медиално от вътрешната кортикална повърхност на ilium, осигурявайки достъп до крилото на ilium, до fossa iliaca и до предната колона на ацетабулума.
+Страничен (първи) прозорец: Между SIAS и musculus iliopsoas. Nervus cutaneus femoris lateralis преминава в тази зона, той се идентифицира и предпазва. Musculus iliacus се отделя медиално от вътрешната кортикална повърхност на ilium, осигурявайки достъп до крилото на ilium, до fossa iliaca и до предната колона на ацетабулума.
 
 Среден (втори) прозорец: Между musculus iliopsoas медиално (съдържащ nervus femoralis и nervus cutaneus femoris lateralis) и arteria и vena iliaca externa латерално. Прозорецът осигурява достъп до linea terminalis и до горната част на facies quadrilateralis.
 
@@ -175,7 +175,7 @@ Plexus lumbalis лежи в дебелината на musculus psoas и е ос�
 
 Дисекцията продължава латерално по linea terminalis. Corona mortis се идентифицира и лигира при наличие. Илиачните съдове се идентифицират и ретрахират латерално. Musculus iliopsoas, съдържащ nervus femoralis, се ретрахира латерално. Nervus obturatorius и обтураторните съдове се идентифицират при влизането им в foramen obturatorium.
 
-Linea terminalis, facies quadrilateralis, медиалната стена на ацетабулума и задната колона отпред — всички могат да бъдат визуализирани чрез този достъп. Репозиция и остеосинтеза с плака на фрактурите в тези области е осъществима.
+Linea terminalis, facies quadrilateralis, медиалната стена на ацетабулума и задната колона отпред, всички могат да бъдат визуализирани чрез този достъп. Репозиция и остеосинтеза с плака на фрактурите в тези области е осъществима.
 
 Модифицираният достъп по Stoppa все повече се предпочита пред класическия илиоингвинален при много ацетабуларни фрактурни модели, тъй като осигурява по-добра визуализация на facies quadrilateralis и медиалната стена при редуцирана обща морбидност в сравнение с трипрозоречния подход.
 

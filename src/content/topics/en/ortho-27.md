@@ -118,7 +118,7 @@ The common peroneal nerve is vulnerable to compression at the fibular neck — b
 
 ## Meralgia Paresthetica
 
-Meralgia paresthetica is compression of the lateral femoral cutaneous nerve (LFCN) as it passes beneath the inguinal ligament near the anterior superior iliac spine. Causes include obesity, tight clothing or belts, pregnancy, prior surgery in the area, and various other factors. Presentation is with burning, tingling, and numbness over the anterolateral thigh — a pure sensory syndrome without motor involvement. Treatment is principally conservative with weight loss, avoidance of provoking activities, NSAIDs, and selective LFCN block or injection. Surgical decompression or neurectomy is reserved for severe refractory disease.
+Meralgia paresthetica is compression of the lateral femoral cutaneous nerve (LFCN) as it passes beneath the inguinal ligament near the anterior superior iliac spine. Causes include obesity, tight clothing or belts, pregnancy, prior surgery in the area, and various other factors. Presentation is with burning, tingling, and numbness over the anterolateral thigh, a pure sensory syndrome without motor involvement. Treatment is principally conservative with weight loss, avoidance of provoking activities, NSAIDs, and selective LFCN block or injection. Surgical decompression or neurectomy is reserved for severe refractory disease.
 
 ## Piriformis Syndrome
 

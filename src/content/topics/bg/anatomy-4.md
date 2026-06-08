@@ -9,7 +9,7 @@ order: 204
 
 ## Въведение
 
-Лакътната става, съчетаваща в единна синовиална капсула шарнирно движение (humeroulnar articulation) с ос на въртене (проксимална radioulnar articulation), поставя специфични анатомични и хирургични предизвикателства. Мускулната обвивка е сравнително тънка в сравнение с рамото, а близостта на nervus ulnaris, nervus radialis с неговите клонове (особено nervus interosseous posterior), nervus medianus и arteria brachialis до ставата изискват максимално внимание при оперативните достъпи. Ортопедичният хирург, работещ на лакътя, разполага с множество достъпи, осигуряващи достъп до различни отдели на ставата: достъп по Kocher — за латералната страна и главичката на лъча/capitellum; задните достъпи (разцепване на triceps, паратрицепсен, рефлектиращ и остеотомия на olecranon) — за дисталния humerus и ulnohumeral articulation; медиалните достъпи — за медиалния колатерален лигамент и nervus ulnaris; и предните достъпи — за съдова и нервна ревизия. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
+Лакътната става, съчетаваща в единна синовиална капсула шарнирно движение (humeroulnar articulation) с ос на въртене (проксимална radioulnar articulation), поставя специфични анатомични и хирургични предизвикателства. Мускулната обвивка е сравнително тънка в сравнение с рамото, а близостта на nervus ulnaris, nervus radialis с неговите клонове (особено nervus interosseous posterior), nervus medianus и arteria brachialis до ставата изискват максимално внимание при оперативните достъпи. Ортопедичният хирург, работещ на лакътя, разполага с множество достъпи, осигуряващи достъп до различни отдели на ставата: достъп по Kocher, за латералната страна и главичката на лъча/capitellum; задните достъпи (разцепване на triceps, паратрицепсен, рефлектиращ и остеотомия на olecranon), за дисталния humerus и ulnohumeral articulation; медиалните достъпи, за медиалния колатерален лигамент и nervus ulnaris; и предните достъпи, за съдова и нервна ревизия. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
 
 ## Костна и ставна анатомия
 
@@ -31,7 +31,7 @@ Humeroradial articulation: Артикулация между capitellum на д�
 
 Проксимална radioulnar articulation: Ставна артикулация на въртене между главичката на лъча и incisura radialis на ulna, като ligamentum anulare удържа главичката на лъча на място. Осигурява ротация на предмишницата (нормална супинация около 85°, пронация около 85°).
 
-Носещият ъгъл на разгънатия лакът е около 11° на валгус при жените и 7-11° при мъжете. Загубата на носещия ъгъл (напр. при срастване в порочно положение след supracondylar фрактура) води до cubitus varus (деформация „приклад“); прекомерният носещ ъгъл — до cubitus valgus.
+Носещият ъгъл на разгънатия лакът е около 11° на валгус при жените и 7-11° при мъжете. Загубата на носещия ъгъл (напр. при срастване в порочно положение след supracondylar фрактура) води до cubitus varus (деформация „приклад“); прекомерният носещ ъгъл, до cubitus valgus.
 
 Анатомията на дисталния humerus е разгледана в Тема Травма-15: дивергиращи медиален и латерален стълб, trochlea (с форма на макара), capitellum (заоблено), olecranon fossa и coronoid fossa. Проксималната ulna включва olecranon (с инсерция на triceps), processus coronoideus (преден опорен издатък) и incisura trochlearis. Проксималният radius включва дисковидната главичка (с ligamentum anulare около нея), collum radii и tuberositas radii (инсерция на biceps).
 
@@ -57,7 +57,7 @@ Humeroradial articulation: Артикулация между capitellum на д�
 
 Комплексът на латералния колатерален лигамент (LCL) включва:
 
-Lateral ulnar collateral ligament (LUCL): От laterale epicondylus назад до crista supinatoris на ulna. Основен ограничител на posterolateral rotatory instability — описан от O'Driscoll през 1991 г. и ключов за разбирането на сложните наранявания на лакъта.
+Lateral ulnar collateral ligament (LUCL): От laterale epicondylus назад до crista supinatoris на ulna. Основен ограничител на posterolateral rotatory instability, описан от O'Driscoll през 1991 г. и ключов за разбирането на сложните наранявания на лакъта.
 
 Radial collateral ligament: От laterale epicondylus до ligamentum anulare.
 
@@ -72,14 +72,14 @@ Accessory lateral collateral ligament: От долната повърхност 
     <img src="/img/anatomy-4/cubital-fossa.png" alt="Cubital fossa" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Cubital fossa — триъгълно пространство пред лакътя, ограничено от m. brachioradialis (латерално), m. pronator teres (медиално) и линията между епикондилите; съдържимо: n. medianus, a. brachialis, сухожилие на m. biceps, n. radialis в по-латералната част.</span>
+    <span class="md-figure-caption">Cubital fossa, триъгълно пространство пред лакътя, ограничено от m. brachioradialis (латерално), m. pronator teres (медиално) и линията между епикондилите; съдържимо: n. medianus, a. brachialis, сухожилие на m. biceps, n. radialis в по-латералната част.</span>
     <span class="md-figure-attribution"> · Anatomist90, <a href="https://commons.wikimedia.org/wiki/File:Cubital_Fossa2.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
 ## Nervus ulnaris
 
-Nervus ulnaris слиза през задния медиален intermuscular septum и навлиза в cubital tunnel — между mediale epicondylus и olecranon. Тунелът е ограничен медиално от ligamentum Osborne (arcuate ligament между двете глави на musculus flexor carpi ulnaris) и латерално от медиалния колатерален лигамент. Нервът след това преминава между двете глави на musculus flexor carpi ulnaris и навлиза в предмишницата.
+Nervus ulnaris слиза през задния медиален intermuscular septum и навлиза в cubital tunnel, между mediale epicondylus и olecranon. Тунелът е ограничен медиално от ligamentum Osborne (arcuate ligament между двете глави на musculus flexor carpi ulnaris) и латерално от медиалния колатерален лигамент. Нервът след това преминава между двете глави на musculus flexor carpi ulnaris и навлиза в предмишницата.
 
 Синдромът на cubital tunnel (второто по честота компресионно невропатие на горния крайник след синдрома на карпалния тунел) е добре дефинирана клинична единица. Знакът на Tinel над cubital tunnel и тест с поддържана флексия на лакъта за 1 минута с възпроизвеждане на симптомите са положителни при синдрома на cubital tunnel. Оперативните варианти включват in situ декомпресия (освобождаване на ретинакулума на cubital tunnel), субмускулна предна транспозиция (пренасяне на нерва пред mediale epicondylus под мускулна защита) и подкожна предна транспозиция (сходна, но без мускулно покритие).
 

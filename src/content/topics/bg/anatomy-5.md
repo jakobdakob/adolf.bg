@@ -9,7 +9,7 @@ order: 205
 
 ## Въведение
 
-Предмишницата (между лакъта проксимално и китката дистално) е уникална сред ортопедичните области с това, че съдържа две успоредни дълги кости, чиито прецизни пространствени взаимоотношения определят ротационната функция на пронацията и супинацията. Хирургичната анатомия отразява това устройство: radius с характерната му латерална дъга, ulna по правата си ос, membrana interossea между тях, проксималната и дисталната radioulnar articulation и мускулните компартменти, организирани около тези кости. Оперативните достъпи до предмишницата трябва да зачитат основното изискване за възстановяване на радиалната дъга и взаимоотношенията на radioulnar articulation (принципът, формулиран в Тема Травма-16), като едновременно защитават основните невроваскуларни структури — arteria radialis, nervus medianus, nervus ulnaris, nervus interosseous posterior и повърхностния клон на nervus radialis. Двата основни достъпа до radius — достъпът по Henry (волярен) и достъпът по Thompson (дорзален) — заедно осигуряват достъп до цялата дължина на костта; директният улнарен достъп осигурява достъп до подкожния ръб на ulna. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
+Предмишницата (между лакъта проксимално и китката дистално) е уникална сред ортопедичните области с това, че съдържа две успоредни дълги кости, чиито прецизни пространствени взаимоотношения определят ротационната функция на пронацията и супинацията. Хирургичната анатомия отразява това устройство: radius с характерната му латерална дъга, ulna по правата си ос, membrana interossea между тях, проксималната и дисталната radioulnar articulation и мускулните компартменти, организирани около тези кости. Оперативните достъпи до предмишницата трябва да зачитат основното изискване за възстановяване на радиалната дъга и взаимоотношенията на radioulnar articulation (принципът, формулиран в Тема Травма-16), като едновременно защитават основните невроваскуларни структури — arteria radialis, nervus medianus, nervus ulnaris, nervus interosseous posterior и повърхностния клон на nervus radialis. Двата основни достъпа до radius — достъпът по Henry (волярен) и достъпът по Thompson (дорзален), заедно осигуряват достъп до цялата дължина на костта; директният улнарен достъп осигурява достъп до подкожния ръб на ulna. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy и Gray's Anatomy.
 
 ## Костна анатомия
 
@@ -61,7 +61,7 @@ Nervus interosseous posterior (PIN) преминава през musculus supinat
 
 ## Мобилното тяло на Henry
 
-Мобилното тяло се състои от musculus brachioradialis, musculus extensor carpi radialis longus (ECRL) и musculus extensor carpi radialis brevis (ECRB) — три мускула по радиалната страна на предмишницата, които могат да бъдат палпирани и мобилизирани като единица. Musculus brachioradialis се инервира от nervus radialis; ECRL — от nervus radialis; ECRB — вариабилно от nervus radialis или nervus interosseous posterior.
+Мобилното тяло се състои от musculus brachioradialis, musculus extensor carpi radialis longus (ECRL) и musculus extensor carpi radialis brevis (ECRB) — три мускула по радиалната страна на предмишницата, които могат да бъдат палпирани и мобилизирани като единица. Musculus brachioradialis се инервира от nervus radialis; ECRL, от nervus radialis; ECRB — вариабилно от nervus radialis или nervus interosseous posterior.
 
 ## Невроваскуларна анатомия
 
@@ -124,7 +124,7 @@ Arteria interossea communis се отделя от arteria ulnaris и се ра�
 
 Фасцията се отваря по хода на кожния разрез. Musculus brachioradialis (радиална страна) и musculus flexor carpi radialis (улнарна страна) оформят границите на достъпа. Arteria radialis върви в интервала между тези мускули, леко към улнарната страна; тя се идентифицира и защитава.
 
-Musculus brachioradialis се ретрахира латерално; FCR — медиално. В проксималната третина на radius musculus supinator се идентифицира, покривайки костта, и PIN преминава през него. Musculus supinator се отделя от radius чрез субпериостална елевация при пълна супинация на предмишницата за защита на PIN. В средната третина се идентифицира и отделя инсерцията на musculus pronator teres на radius. В дисталната третина musculus pronator quadratus се идентифицира и рефлектира от radius.
+Musculus brachioradialis се ретрахира латерално; FCR, медиално. В проксималната третина на radius musculus supinator се идентифицира, покривайки костта, и PIN преминава през него. Musculus supinator се отделя от radius чрез субпериостална елевация при пълна супинация на предмишницата за защита на PIN. В средната третина се идентифицира и отделя инсерцията на musculus pronator teres на radius. В дисталната третина musculus pronator quadratus се идентифицира и рефлектира от radius.
 
 Radius се експонира субпериостално и се извършва желаната процедура (плакова фиксация, биопсия и др.).
 

@@ -41,8 +41,8 @@ Tönnis described a “wandering” of the triangular fragment with growth that 
 ## Clinical Features
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara — clinical photograph" aria-label="Enlarge">
-    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara — clinical photograph" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara, clinical photograph" aria-label="Enlarge">
+    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara, clinical photograph" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Unilateral coxa vara — clinical photograph: leg-length discrepancy with apparent shortening and Trendelenburg gait on the affected side.</span>

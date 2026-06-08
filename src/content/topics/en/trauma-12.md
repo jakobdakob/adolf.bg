@@ -9,7 +9,7 @@ order: 112
 
 ## Introduction
 
-The glenohumeral joint is the most commonly dislocated major joint in the body, accounting for approximately 50 percent of all major joint dislocations. The combination of anatomical features that produce the extraordinary range of motion of the shoulder — a shallow, slightly tilted glenoid relative to a large humeral head, a primary reliance on capsuloligamentous and muscular stabilizers rather than bony congruity, and the dynamic dependence on the rotator cuff — also predispose the joint to instability. The clinical spectrum of shoulder instability ranges from the single traumatic dislocation in the young athlete with subsequent recurrence to the multidirectional instability of the joint-lax adolescent and the voluntary “habitual” dislocator. The treatment options span from closed reduction and a brief period of immobilization to arthroscopic and open capsulolabral repair, bone-block procedures for glenoid deficiency, and, in the elderly, hemiarthroplasty or reverse arthroplasty for fracture-dislocations. This chapter, drawing on Rockwood and Green’s Fractures in Adults, AO Principles, Miller’s Review of Orthopaedics, and Apley & Solomon’s, addresses the spectrum of shoulder instability.
+The glenohumeral joint is the most commonly dislocated major joint in the body, accounting for approximately 50 percent of all major joint dislocations. The combination of anatomical features that produce the extraordinary range of motion of the shoulder — a shallow, slightly tilted glenoid relative to a large humeral head, a primary reliance on capsuloligamentous and muscular stabilizers rather than bony congruity, and the dynamic dependence on the rotator cuff, also predispose the joint to instability. The clinical spectrum of shoulder instability ranges from the single traumatic dislocation in the young athlete with subsequent recurrence to the multidirectional instability of the joint-lax adolescent and the voluntary “habitual” dislocator. The treatment options span from closed reduction and a brief period of immobilization to arthroscopic and open capsulolabral repair, bone-block procedures for glenoid deficiency, and, in the elderly, hemiarthroplasty or reverse arthroplasty for fracture-dislocations. This chapter, drawing on Rockwood and Green’s Fractures in Adults, AO Principles, Miller’s Review of Orthopaedics, and Apley & Solomon’s, addresses the spectrum of shoulder instability.
 
 ## Anatomy and Pathomechanics
 
@@ -18,8 +18,8 @@ The glenohumeral joint is a ball-and-socket articulation with a marked size mism
 ## Acute Anterior Dislocation
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/bankart-ct.jpg" data-figure-alt="Bankart lesion — 3D CT" aria-label="Enlarge">
-    <img src="/img/trauma-12/bankart-ct.jpg" alt="Bankart lesion — 3D CT" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/bankart-ct.jpg" data-figure-alt="Bankart lesion, 3D CT" aria-label="Enlarge">
+    <img src="/img/trauma-12/bankart-ct.jpg" alt="Bankart lesion, 3D CT" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Bankart lesion (3D CT reconstruction): avulsion of the antero-inferior labrum from the glenoid in anterior shoulder dislocation; the pathognomonic finding in recurrent instability.</span>
@@ -96,7 +96,7 @@ Posterior dislocation accounts for 2 to 4 percent of shoulder dislocations and i
 
 ## Inferior Dislocation (Luxatio Erecta)
 
-Luxatio erecta is a rare (<1 percent of shoulder dislocations) dislocation in which the humeral head dislocates inferiorly into the subglenoid position, with the arm fixed in marked abduction (typically 110 to 160 degrees) and the forearm draped over the head — a striking and unmistakable clinical presentation. The mechanism is a hyperabduction force, typically a fall with the arm raised overhead. Neurovascular injury is more common than in anterior dislocation (axillary artery injury in 3 percent, axillary nerve injury in approximately 60 percent), and most patients have associated rotator cuff tears. Reduction is by axial traction along the line of the humerus combined with anteriorly directed countertraction, with conversion of the dislocation into an anterior dislocation pattern as the arm is brought down to the side. Open reduction is required for irreducible cases.
+Luxatio erecta is a rare (<1 percent of shoulder dislocations) dislocation in which the humeral head dislocates inferiorly into the subglenoid position, with the arm fixed in marked abduction (typically 110 to 160 degrees) and the forearm draped over the head, a striking and unmistakable clinical presentation. The mechanism is a hyperabduction force, typically a fall with the arm raised overhead. Neurovascular injury is more common than in anterior dislocation (axillary artery injury in 3 percent, axillary nerve injury in approximately 60 percent), and most patients have associated rotator cuff tears. Reduction is by axial traction along the line of the humerus combined with anteriorly directed countertraction, with conversion of the dislocation into an anterior dislocation pattern as the arm is brought down to the side. Open reduction is required for irreducible cases.
 
 ## Recurrent Anterior Instability — Evaluation
 

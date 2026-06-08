@@ -14,8 +14,8 @@ The arthropathies form a heterogeneous group of inflammatory and degenerative jo
 ## Rheumatoid Arthritis (RA)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/ra-hands.jpg" data-figure-alt="Rheumatoid arthritis — deformed hands" aria-label="Enlarge">
-    <img src="/img/ortho-24/ra-hands.jpg" alt="Rheumatoid arthritis — deformed hands" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/ra-hands.jpg" data-figure-alt="Rheumatoid arthritis, deformed hands" aria-label="Enlarge">
+    <img src="/img/ortho-24/ra-hands.jpg" alt="Rheumatoid arthritis, deformed hands" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Rheumatoid arthritis — characteristic hand deformities: ulnar deviation, swan-neck, boutonnière, and MCP-joint swelling.</span>
@@ -114,7 +114,7 @@ The orthopedic implications of JIA include: limb-length discrepancy from acceler
 
 ## Systemic Lupus Erythematosus (SLE)
 
-SLE produces a polyarthritis that resembles RA but with less destructive disease in most cases. The classical “Jaccoud arthropathy” of SLE produces hand deformities similar to RA (MCP subluxation, ulnar deviation) without underlying bony erosion — these are “soft” reducible deformities. The principal orthopedic concerns are: avascular necrosis of multiple joints (particularly the femoral and humeral heads), often in association with corticosteroid therapy; antiphospholipid antibody syndrome with thrombotic complications; and perioperative management of immunosuppression.
+SLE produces a polyarthritis that resembles RA but with less destructive disease in most cases. The classical “Jaccoud arthropathy” of SLE produces hand deformities similar to RA (MCP subluxation, ulnar deviation) without underlying bony erosion, these are “soft” reducible deformities. The principal orthopedic concerns are: avascular necrosis of multiple joints (particularly the femoral and humeral heads), often in association with corticosteroid therapy; antiphospholipid antibody syndrome with thrombotic complications; and perioperative management of immunosuppression.
 
 ## Hemophilic Arthropathy
 

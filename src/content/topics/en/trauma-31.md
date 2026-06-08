@@ -41,8 +41,8 @@ Seddon Classification (1943) The classical Seddon classification organizes nerve
 ## Clinical Implications of the Classification
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/axonotmesis.svg" data-figure-alt="Axonotmesis — axonal disruption with intact endoneurium" aria-label="Enlarge">
-    <img src="/img/trauma-31/axonotmesis.svg" alt="Axonotmesis — axonal disruption with intact endoneurium" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/axonotmesis.svg" data-figure-alt="Axonotmesis, axonal disruption with intact endoneurium" aria-label="Enlarge">
+    <img src="/img/trauma-31/axonotmesis.svg" alt="Axonotmesis, axonal disruption with intact endoneurium" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Axonotmesis (Seddon II / Sunderland II): axonal disruption with preserved endoneurial sheath; Wallerian degeneration occurs distally but regeneration follows the intact endoneurial tubes (~1 mm/day).</span>
@@ -73,7 +73,7 @@ Documentation of the nerve injury at presentation is essential, both for medical
 
 ## Delayed Management
 
-For nerve injuries that do not recover spontaneously: Serial clinical and electrophysiological assessment over 3 to 6 months establishes the trajectory. Failure of recovery by 4 to 6 months (depending on the nerve and the distance to the most distal target muscle) prompts surgical exploration. The principle is that time-dependent muscle changes — first reversible muscle atrophy, then progressive irreversible loss of motor end plates and muscle fibrosis — limit the window of opportunity for successful reinnervation. The classical figure is that 18 to 24 months is the limit beyond which motor reinnervation produces poor results, and surgery should be performed well in advance of this limit.
+For nerve injuries that do not recover spontaneously: Serial clinical and electrophysiological assessment over 3 to 6 months establishes the trajectory. Failure of recovery by 4 to 6 months (depending on the nerve and the distance to the most distal target muscle) prompts surgical exploration. The principle is that time-dependent muscle changes — first reversible muscle atrophy, then progressive irreversible loss of motor end plates and muscle fibrosis, limit the window of opportunity for successful reinnervation. The classical figure is that 18 to 24 months is the limit beyond which motor reinnervation produces poor results, and surgery should be performed well in advance of this limit.
 
 
 ## Surgical Techniques

@@ -88,8 +88,8 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 ## Преден достъп (по Smith-Petersen)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Преден достъп на бедрото — m. tensor fasciae latae" aria-label="Увеличи">
-    <img src="/img/anatomy-8/anterior-thigh.svg" alt="Преден достъп на бедрото — m. tensor fasciae latae" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Преден достъп на бедрото, m. tensor fasciae latae" aria-label="Увеличи">
+    <img src="/img/anatomy-8/anterior-thigh.svg" alt="Преден достъп на бедрото, m. tensor fasciae latae" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Преден аспект на бедрото: m. sartorius (медиално) и m. tensor fasciae latae (латерално) образуват безнервния интервал на Smith-Petersen достъпа; дълбоко между m. rectus femoris и m. gluteus medius.</span>

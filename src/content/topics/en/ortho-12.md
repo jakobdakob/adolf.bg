@@ -26,8 +26,8 @@ Transverse deficiency is an amputation-like absence of the distal limb. Congenit
 ## Radial Longitudinal Deficiency (Radial Club Hand)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/radial-club-hand.jpg" data-figure-alt="Radial dysplasia — radial club hand" aria-label="Enlarge">
-    <img src="/img/ortho-12/radial-club-hand.jpg" alt="Radial dysplasia — radial club hand" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/radial-club-hand.jpg" data-figure-alt="Radial dysplasia, radial club hand" aria-label="Enlarge">
+    <img src="/img/ortho-12/radial-club-hand.jpg" alt="Radial dysplasia, radial club hand" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Radial dysplasia: absence of the radius with radial deviation and shortening of the forearm.</span>
@@ -88,8 +88,8 @@ Congenital radioulnar synostosis is a failure of separation of the proximal radi
 ## Polydactyly
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/polydactyly.jpg" data-figure-alt="Polydactyly of the left hand — radiograph" aria-label="Enlarge">
-    <img src="/img/ortho-12/polydactyly.jpg" alt="Polydactyly of the left hand — radiograph" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-12/polydactyly.jpg" data-figure-alt="Polydactyly of the left hand, radiograph" aria-label="Enlarge">
+    <img src="/img/ortho-12/polydactyly.jpg" alt="Polydactyly of the left hand, radiograph" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Polydactyly: supernumerary digit; postaxial (ulnar) is most common in Black populations, preaxial (radial/thumb) is more frequent in White and Asian populations.</span>
@@ -161,4 +161,4 @@ The care of the child with a major congenital hand anomaly is best provided in a
 
 ## Summary and Take-Home Points
 
-The congenital anomalies of the hand encompass a heterogeneous group of disorders classified by the Swanson system into failures of formation, failures of differentiation, duplications, overgrowth, undergrowth, constriction band syndrome, and generalized skeletal anomalies. The clinical recognition of the principal anomalies — radial and ulnar longitudinal deficiency with their syndromic associations (particularly VACTERL, Holt- Oram, Fanconi anemia, TAR), syndactyly with its association with Apert and Poland syndromes, polydactyly with the Wassel classification of the duplicated thumb, hypoplastic thumb with the Blauth classification, and the amniotic band syndrome — is the basis of pediatric hand practice. Treatment is highly individualized and combines surgical reconstruction (separation, excision, pollicization, opponensplasty) with prosthetic fitting and occupational therapy. The recognition of associated systemic anomalies (cardiac, renal, hematological) and the prompt diagnosis of conditions such as Fanconi anemia is one of the most important contributions of the orthopedic surgeon to the care of the child with a congenital hand anomaly. The amniotic band syndrome, while devastating in its severe presentations, is sporadic and not associated with chromosomal or hereditary disease, a fact that allows reassurance of the family and focus on the specific reconstructive needs of the affected limb.
+The congenital anomalies of the hand encompass a heterogeneous group of disorders classified by the Swanson system into failures of formation, failures of differentiation, duplications, overgrowth, undergrowth, constriction band syndrome, and generalized skeletal anomalies. The clinical recognition of the principal anomalies — radial and ulnar longitudinal deficiency with their syndromic associations (particularly VACTERL, Holt- Oram, Fanconi anemia, TAR), syndactyly with its association with Apert and Poland syndromes, polydactyly with the Wassel classification of the duplicated thumb, hypoplastic thumb with the Blauth classification, and the amniotic band syndrome, is the basis of pediatric hand practice. Treatment is highly individualized and combines surgical reconstruction (separation, excision, pollicization, opponensplasty) with prosthetic fitting and occupational therapy. The recognition of associated systemic anomalies (cardiac, renal, hematological) and the prompt diagnosis of conditions such as Fanconi anemia is one of the most important contributions of the orthopedic surgeon to the care of the child with a congenital hand anomaly. The amniotic band syndrome, while devastating in its severe presentations, is sporadic and not associated with chromosomal or hereditary disease, a fact that allows reassurance of the family and focus on the specific reconstructive needs of the affected limb.

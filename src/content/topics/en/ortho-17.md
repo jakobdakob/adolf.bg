@@ -14,8 +14,8 @@ This chapter addresses two distinct but classically grouped focal developmental 
 ## Blount’s Disease (Tibia Vara)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount.jpg" data-figure-alt="Blount disease — bilateral tibia vara" aria-label="Enlarge">
-    <img src="/img/ortho-17/blount.jpg" alt="Blount disease — bilateral tibia vara" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount.jpg" data-figure-alt="Blount disease, bilateral tibia vara" aria-label="Enlarge">
+    <img src="/img/ortho-17/blount.jpg" alt="Blount disease, bilateral tibia vara" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Blount disease: pathological tibia vara from a growth disturbance of the medial proximal tibial epiphysis; the classical beaked medial metaphyseal deformity.</span>
@@ -98,15 +98,15 @@ Presentation is typically with progressive wrist deformity in late childhood or 
 The standard imaging assessment is bilateral PA and lateral wrist radiographs. The
 classical features include:
 (1) Increased radial inclination (increased ulnar slope of the distal radial articular
-    surface) — typically >30° (normal <30°).
-(2) Increased volar tilt of the distal radius — typically >25° (normal 11-15° volar).
+    surface), typically >30° (normal <30°).
+(2) Increased volar tilt of the distal radius, typically >25° (normal 11-15° volar).
 (3) Distal ulna dorsal subluxation — the distal ulna prominent dorsally relative to the
     distal radius.
 (4) Pyramidal carpus — the carpal bones arranged in an inverted-V configuration with
     the lunate at the apex.
 (5) Triangular distal radial epiphysis — characteristic shape from the asymmetric
     ossification.
-(6) Ulnar variance — positive ulnar variance from the relative radial shortening.
+(6) Ulnar variance, positive ulnar variance from the relative radial shortening.
 (7) Increased radius-ulna distance at the distal radioulnar joint, with potential frank
     separation.
 The Cook-Crisco classification grades severity by these radiographic parameters. MRI is

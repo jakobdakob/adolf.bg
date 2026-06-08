@@ -24,8 +24,8 @@ Acetabulum се формира от сливането на три кости (i
 ## Луксация на тазобедрената става — класификация и механизъм
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-fracture.png" data-figure-alt="Ацетабуларна фрактура — КТ" aria-label="Увеличи">
-    <img src="/img/trauma-20/acetabular-fracture.png" alt="Ацетабуларна фрактура — КТ" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-20/acetabular-fracture.png" data-figure-alt="Ацетабуларна фрактура, КТ" aria-label="Увеличи">
+    <img src="/img/trauma-20/acetabular-fracture.png" alt="Ацетабуларна фрактура, КТ" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Ацетабуларна фрактура: класификацията на Letournel разграничава десет типа (5 основни + 5 сложни) според включените колони (предна, задна) и стени.</span>
@@ -112,7 +112,7 @@ Pipkin IV: Фрактурите на главата и на acetabulum тряб�
 
 ## Асоциирани модели
 
-T-образна фрактура: Напречна фрактура с допълнително инфериорно вертикално продължение, преминаващо ischium и pubis — напречна плюс инфериорна цепка.
+T-образна фрактура: Напречна фрактура с допълнително инфериорно вертикално продължение, преминаващо ischium и pubis, напречна плюс инфериорна цепка.
 
 Фрактура на задната колона с фрактура на задната стена: Комбинация от фрактура на задната колона и фрактура на задната стена.
 

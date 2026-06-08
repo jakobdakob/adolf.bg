@@ -10,8 +10,8 @@ order: 117
 ## Introduction
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles-fracture.jpg" data-figure-alt="Colles fracture — dinner-fork deformity" aria-label="Enlarge">
-    <img src="/img/trauma-17/colles-fracture.jpg" alt="Colles fracture — dinner-fork deformity" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles-fracture.jpg" data-figure-alt="Colles fracture, dinner-fork deformity" aria-label="Enlarge">
+    <img src="/img/trauma-17/colles-fracture.jpg" alt="Colles fracture, dinner-fork deformity" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Colles fracture: extra-articular fracture of the distal radius with dorsal angulation and the classic “dinner-fork” deformity.</span>

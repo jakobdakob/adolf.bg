@@ -14,8 +14,8 @@ Polytrauma is a clinical state in which a patient has sustained multiple injurie
 ## Traumatic Shock
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-ct.png" data-figure-alt="Polytrauma — 3D CT" aria-label="Enlarge">
-    <img src="/img/trauma-6/polytrauma-ct.png" alt="Polytrauma — 3D CT" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-ct.png" data-figure-alt="Polytrauma, 3D CT" aria-label="Enlarge">
+    <img src="/img/trauma-6/polytrauma-ct.png" alt="Polytrauma, 3D CT" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Polytrauma: contrast-enhanced whole-body 3D CT reconstructions enabling rapid assessment of multiple injuries in the critically ill trauma patient.</span>
@@ -67,11 +67,11 @@ The two-hit theory holds that the initial traumatic insult (“first hit”) pro
 
 ## The Inflammatory Cascade
 
-The early phase of trauma is characterized by a systemic inflammatory response syndrome (SIRS) — characterized clinically by tachycardia, tachypnea, fever or hypothermia, and leukocytosis or leukopenia. The systemic release of cytokines (TNF-α, IL-1, IL-6, others), activation of complement, and other mediators drives the inflammatory response. The compensatory anti-inflammatory response syndrome (CARS) follows the initial inflammatory response, with paradoxical immunosuppression that increases the patient’s susceptibility to infection in the subsequent days. The interplay between SIRS and CARS — known as MARS (mixed antagonistic response syndrome) — determines the patient’s overall response.
+The early phase of trauma is characterized by a systemic inflammatory response syndrome (SIRS) — characterized clinically by tachycardia, tachypnea, fever or hypothermia, and leukocytosis or leukopenia. The systemic release of cytokines (TNF-α, IL-1, IL-6, others), activation of complement, and other mediators drives the inflammatory response. The compensatory anti-inflammatory response syndrome (CARS) follows the initial inflammatory response, with paradoxical immunosuppression that increases the patient’s susceptibility to infection in the subsequent days. The interplay between SIRS and CARS — known as MARS (mixed antagonistic response syndrome), determines the patient’s overall response.
 
 ## Specific Pulmonary Consequences
 
-The lungs are particularly vulnerable in polytrauma, with the development of acute respiratory distress syndrome (ARDS) being a recognized complication. ARDS produces severe hypoxemia, decreased lung compliance, and bilateral pulmonary infiltrates without evidence of cardiogenic edema. The classical association between femoral shaft fracture (with intramedullary nailing) and ARDS development was a principal driver of the damage control orthopedics concept. The fat embolism syndrome — the classical triad of hypoxemia, neurological symptoms (confusion to coma), and petechial rash — is a related condition with overlapping features. The pathophysiology involves the release of fat globules from the medullary canal during fracture or during reaming, with embolization to the pulmonary capillary bed and (in some cases) the systemic circulation.
+The lungs are particularly vulnerable in polytrauma, with the development of acute respiratory distress syndrome (ARDS) being a recognized complication. ARDS produces severe hypoxemia, decreased lung compliance, and bilateral pulmonary infiltrates without evidence of cardiogenic edema. The classical association between femoral shaft fracture (with intramedullary nailing) and ARDS development was a principal driver of the damage control orthopedics concept. The fat embolism syndrome — the classical triad of hypoxemia, neurological symptoms (confusion to coma), and petechial rash, is a related condition with overlapping features. The pathophysiology involves the release of fat globules from the medullary canal during fracture or during reaming, with embolization to the pulmonary capillary bed and (in some cases) the systemic circulation.
 
 ## Damage Control Orthopedics (DCO)
 

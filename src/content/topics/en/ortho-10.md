@@ -14,8 +14,8 @@ The flatfoot (pes planus) encompasses a heterogeneous group of foot morphologies
 ## Flexible Flatfoot of Childhood
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-10/flatfoot.jpg" data-figure-alt="Pes planus — flat foot" aria-label="Enlarge">
-    <img src="/img/ortho-10/flatfoot.jpg" alt="Pes planus — flat foot" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-10/flatfoot.jpg" data-figure-alt="Pes planus, flat foot" aria-label="Enlarge">
+    <img src="/img/ortho-10/flatfoot.jpg" alt="Pes planus, flat foot" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Flexible pes planus: loss of the medial longitudinal arch on weight-bearing that reconstitutes on tiptoe or sitting.</span>
@@ -30,7 +30,7 @@ The flexible flatfoot is the most common form of pes planus and is essentially a
 
 ## Clinical Features
 
-The cardinal feature is reduction or absence of the medial longitudinal arch on weight-bearing, with restoration of the arch on non-weight-bearing examination and on tip-toe testing — the so-called “flexibility test.” On tip-toe standing, the hindfoot rolls into varus and the medial arch re-forms in the flexible flatfoot, while in the rigid flatfoot the hindfoot remains in valgus and no arch develops. Hindfoot valgus and forefoot abduction relative to the midfoot are typical. The foot is supple, asymptomatic, and well-tolerant of ordinary activity in the great majority of children.
+The cardinal feature is reduction or absence of the medial longitudinal arch on weight-bearing, with restoration of the arch on non-weight-bearing examination and on tip-toe testing, the so-called “flexibility test.” On tip-toe standing, the hindfoot rolls into varus and the medial arch re-forms in the flexible flatfoot, while in the rigid flatfoot the hindfoot remains in valgus and no arch develops. Hindfoot valgus and forefoot abduction relative to the midfoot are typical. The foot is supple, asymptomatic, and well-tolerant of ordinary activity in the great majority of children.
 
 ## Investigations
 

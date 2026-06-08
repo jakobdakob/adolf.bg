@@ -46,13 +46,13 @@ In older infants (>3 months), the Ortolani and Barlow signs become negative as s
 
 ## Universal vs Selective Screening
 
-The optimal approach to DDH screening — universal ultrasound for all newborns, selective ultrasound for at-risk infants, or clinical examination alone with referral for at-risk infants — remains debated. Universal ultrasound screening (the German and Austrian model) detects a higher proportion of cases earlier but also identifies a large number of physiologically immature hips that resolve spontaneously, leading to over-treatment. Selective ultrasound screening (the British and many American models) targets the highest-risk infants (breech presentation, positive family history, and any abnormal clinical examination) and produces a better balance of detection versus over-treatment. The American Academy of Pediatrics and the British Society of Paediatric Radiology have published practice guidelines that combine universal clinical screening with selective imaging.
+The optimal approach to DDH screening — universal ultrasound for all newborns, selective ultrasound for at-risk infants, or clinical examination alone with referral for at-risk infants, remains debated. Universal ultrasound screening (the German and Austrian model) detects a higher proportion of cases earlier but also identifies a large number of physiologically immature hips that resolve spontaneously, leading to over-treatment. Selective ultrasound screening (the British and many American models) targets the highest-risk infants (breech presentation, positive family history, and any abnormal clinical examination) and produces a better balance of detection versus over-treatment. The American Academy of Pediatrics and the British Society of Paediatric Radiology have published practice guidelines that combine universal clinical screening with selective imaging.
 
 ## Graf Ultrasound Classification
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-7/graf-us.jpg" data-figure-alt="Graf-type hip ultrasound — normal Type Ia" aria-label="Enlarge">
-    <img src="/img/ortho-7/graf-us.jpg" alt="Graf-type hip ultrasound — normal Type Ia" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-7/graf-us.jpg" data-figure-alt="Graf-type hip ultrasound, normal Type Ia" aria-label="Enlarge">
+    <img src="/img/ortho-7/graf-us.jpg" alt="Graf-type hip ultrasound, normal Type Ia" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Newborn hip ultrasound: normal joint (Graf Ia) with α-angle &gt;60° and full bony coverage of the femoral head.</span>

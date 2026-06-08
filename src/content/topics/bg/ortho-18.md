@@ -40,8 +40,8 @@ Coxa vara е деформация на проксималния фемур, пр
 ## Клинична картина
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara — клиничен изглед" aria-label="Увеличи">
-    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara — клиничен изглед" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-18/coxa-vara-clinical.jpg" data-figure-alt="Coxa vara, клиничен изглед" aria-label="Увеличи">
+    <img src="/img/ortho-18/coxa-vara-clinical.jpg" alt="Coxa vara, клиничен изглед" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Едностранна coxa vara — клиничен изглед: разлика в дължината на крайниците с привидно нисък ръст и абдукторен лурх (Trendelenburg) от засегнатата страна.</span>

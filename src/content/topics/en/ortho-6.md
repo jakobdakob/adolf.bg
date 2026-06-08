@@ -55,8 +55,8 @@ Modern multidisciplinary management of PFFD produces good functional outcomes fo
 ## Fibular Hemimelia (Postaxial Longitudinal Deficiency of the Fibula)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/fibular-hemimelia.jpg" data-figure-alt="Fibular hemimelia — right leg" aria-label="Enlarge">
-    <img src="/img/ortho-6/fibular-hemimelia.jpg" alt="Fibular hemimelia — right leg" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/fibular-hemimelia.jpg" data-figure-alt="Fibular hemimelia, right leg" aria-label="Enlarge">
+    <img src="/img/ortho-6/fibular-hemimelia.jpg" alt="Fibular hemimelia, right leg" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Fibular hemimelia: partial or complete absence of the fibula with anteromedial bowing of the tibia, limb shortening, and ankle/foot valgus.</span>
@@ -105,7 +105,7 @@ Presentation at birth shows the characteristic short limb with the foot in varus
   </figcaption>
 </figure>
 
-Definition, Epidemiology, and Classification Congenital pseudarthrosis of the tibia (CPT) is a rare congenital condition characterized by anterolateral bowing of the tibia in infancy that progresses to spontaneous fracture, followed by failure of normal fracture healing — a true pseudarthrosis. The incidence is approximately 1 in 250,000 live births. Approximately half of cases are associated with neurofibromatosis type 1 (NF1), and CPT is one of the classical orthopedic manifestations of NF1; the remainder are sporadic or associated with fibrous dysplasia. The Crawford classification, the most widely used, divides CPT into four types based on the radiographic morphology of the affected tibia. Type I: Anterolateral bowing of the tibia with a thickened cortex and a normal or thickened medullary canal. The bowing has not yet progressed to fracture. Type II: Anterolateral bowing with a sclerotic, narrow, or absent medullary canal but no fracture. Type III: Anterolateral bowing with a cystic lesion of the tibial diaphysis. Type IV: Established pseudarthrosis with frank discontinuity of the tibia. The Boyd classification, an earlier scheme, uses descriptive categories from “constricted” (Type I) through “non-progressive” (Type V) and remains in occasional use.
+Definition, Epidemiology, and Classification Congenital pseudarthrosis of the tibia (CPT) is a rare congenital condition characterized by anterolateral bowing of the tibia in infancy that progresses to spontaneous fracture, followed by failure of normal fracture healing, a true pseudarthrosis. The incidence is approximately 1 in 250,000 live births. Approximately half of cases are associated with neurofibromatosis type 1 (NF1), and CPT is one of the classical orthopedic manifestations of NF1; the remainder are sporadic or associated with fibrous dysplasia. The Crawford classification, the most widely used, divides CPT into four types based on the radiographic morphology of the affected tibia. Type I: Anterolateral bowing of the tibia with a thickened cortex and a normal or thickened medullary canal. The bowing has not yet progressed to fracture. Type II: Anterolateral bowing with a sclerotic, narrow, or absent medullary canal but no fracture. Type III: Anterolateral bowing with a cystic lesion of the tibial diaphysis. Type IV: Established pseudarthrosis with frank discontinuity of the tibia. The Boyd classification, an earlier scheme, uses descriptive categories from “constricted” (Type I) through “non-progressive” (Type V) and remains in occasional use.
 
 ## Clinical Features
 

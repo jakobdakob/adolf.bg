@@ -13,7 +13,7 @@ Congenital spine anomalies arise from disturbances of embryological vertebral an
 
 ## Embryological Background
 
-The vertebral column develops from the paraxial mesoderm, which forms paired somites in cranio-caudal sequence between weeks 3 and 5 of gestation. Each somite divides into a dermatome (skin), myotome (muscle), and sclerotome (vertebra). The sclerotome subsequently divides into a cranial and caudal half, and the vertebrae are formed by fusion of the caudal half of one somite with the cranial half of the next caudal somite — the process of resegmentation. This intricate sequence produces vertebrae and adjacent muscles in different segmental positions, with the spinal nerves emerging between vertebrae. The neural tube closes between days 22 and 28 of gestation; failure of closure produces the dysraphic disorders. Disturbances of sclerotome formation, division, or resegmentation produce the spectrum of failure of formation (hemivertebrae, wedge vertebrae) and failure of segmentation (block vertebrae, unilateral unsegmented bars) that underlie congenital scoliosis.
+The vertebral column develops from the paraxial mesoderm, which forms paired somites in cranio-caudal sequence between weeks 3 and 5 of gestation. Each somite divides into a dermatome (skin), myotome (muscle), and sclerotome (vertebra). The sclerotome subsequently divides into a cranial and caudal half, and the vertebrae are formed by fusion of the caudal half of one somite with the cranial half of the next caudal somite, the process of resegmentation. This intricate sequence produces vertebrae and adjacent muscles in different segmental positions, with the spinal nerves emerging between vertebrae. The neural tube closes between days 22 and 28 of gestation; failure of closure produces the dysraphic disorders. Disturbances of sclerotome formation, division, or resegmentation produce the spectrum of failure of formation (hemivertebrae, wedge vertebrae) and failure of segmentation (block vertebrae, unilateral unsegmented bars) that underlie congenital scoliosis.
 
 ## Congenital Scoliosis
 
@@ -88,7 +88,7 @@ The cervical fusion itself is rarely symptomatic in childhood. The principal cli
 
 ## Sprengel Deformity
 
-Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenital failure of normal descent of the scapula from the cervical region to its definitive thoracic position. The scapula is elevated, small, often rotated medially, and may be connected to the cervical vertebrae by a fibrous, cartilaginous, or osseous bar — the omovertebral bone. Presentation is with an elevated shoulder, neck asymmetry, and limited shoulder abduction. Imaging (particularly CT) defines the position of the scapula and the presence of an omovertebral bone. Treatment of severe symptomatic Sprengel deformity is surgical, with options including the Woodward procedure (release of the scapular medial-border muscles and downward translation of the scapula with reattachment of muscles), the Green procedure (similar with scapular morcellation), and the Mears procedure with resection of the superomedial corner of the scapula. The procedures should generally be performed before age 8 because of the high risk of brachial plexus injury with attempted late correction.
+Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenital failure of normal descent of the scapula from the cervical region to its definitive thoracic position. The scapula is elevated, small, often rotated medially, and may be connected to the cervical vertebrae by a fibrous, cartilaginous, or osseous bar, the omovertebral bone. Presentation is with an elevated shoulder, neck asymmetry, and limited shoulder abduction. Imaging (particularly CT) defines the position of the scapula and the presence of an omovertebral bone. Treatment of severe symptomatic Sprengel deformity is surgical, with options including the Woodward procedure (release of the scapular medial-border muscles and downward translation of the scapula with reattachment of muscles), the Green procedure (similar with scapular morcellation), and the Mears procedure with resection of the superomedial corner of the scapula. The procedures should generally be performed before age 8 because of the high risk of brachial plexus injury with attempted late correction.
 
 ## Cervical Ribs and Thoracic Outlet Syndrome
 
@@ -116,8 +116,8 @@ Neurogenic TOS (the commonest, accounting for >90% of TOS cases) involves compre
 ## Spina Bifida and the Dysraphic States
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/spina-bifida.jpg" data-figure-alt="Spina bifida — spectrum of defects" aria-label="Enlarge">
-    <img src="/img/ortho-13/spina-bifida.jpg" alt="Spina bifida — spectrum of defects" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/spina-bifida.jpg" data-figure-alt="Spina bifida, spectrum of defects" aria-label="Enlarge">
+    <img src="/img/ortho-13/spina-bifida.jpg" alt="Spina bifida, spectrum of defects" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Spina bifida — spectrum of congenital neural-tube closure defects: spina bifida occulta, meningocele, and myelomeningocele.</span>
@@ -152,13 +152,13 @@ dislocation in approximately 50% of midlumbar lesions, due to muscle imbalance b
 flexors-adductors (innervated, spastic) and extensors-abductors (denervated); (2) knee
 deformities — typically flexion contractures or quadriceps weakness depending on level;
 (3) foot deformities — clubfoot, calcaneus, equinus, valgus, vertical talus, all with variable
-severity; (4) scoliosis — paralytic, neuromuscular, often progressive into adulthood; (5)
+severity; (4) scoliosis, paralytic, neuromuscular, often progressive into adulthood; (5)
 hydrocephalus and Arnold-Chiari II malformation — the latter being almost universal in
 myelomeningocele and producing cerebellar tonsillar herniation; (6) tethered cord —
 symptomatic in many patients in late childhood and adolescence, requiring untethering
 surgery; (7) latex allergy — substantially elevated rate in patients with myelomeningocele,
 requiring latex-free environments in all medical and surgical care; (8) neurogenic bladder
-and bowel — requiring lifelong management; (9) pressure sores — from insensate skin,
+and bowel, requiring lifelong management; (9) pressure sores — from insensate skin,
 particularly over bony prominences; (10) shortened life expectancy and complex medical
 comorbidity.
 Orthopedic management is highly individualized, focuses on functional goals (sitting

@@ -52,8 +52,8 @@ Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral art
 ## Anterior Approach (Smith-Petersen)
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Anterior thigh — TFL" aria-label="Enlarge">
-    <img src="/img/anatomy-8/anterior-thigh.svg" alt="Anterior thigh — TFL" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Anterior thigh, TFL" aria-label="Enlarge">
+    <img src="/img/anatomy-8/anterior-thigh.svg" alt="Anterior thigh, TFL" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Anterior thigh: sartorius (medial) and tensor fasciae latae (lateral) form the Smith-Petersen internervous interval; deep, between rectus femoris and gluteus medius.</span>

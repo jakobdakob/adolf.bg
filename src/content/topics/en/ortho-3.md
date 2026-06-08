@@ -9,470 +9,114 @@ order: 3
 
 ## Introduction and Classification
 
-Malignant bone tumors are clonal neoplastic proliferations of bone-resident or matrix-
-producing cells characterized by autonomous growth, local invasion, and metastatic
-potential. Unlike the benign tumors of the previous chapter, they demand multidisciplinary
-care, accurate pre-treatment biopsy, formal staging, and a combined-modality approach in
-which surgery, chemotherapy, and radiotherapy each play a defined role. Primary bone
-malignancies are uncommon — accounting for less than 0.2% of all malignant tumors —
-but they affect predominantly children and young adults, where they remain the second
-commonest cancer-related cause of death in the second decade. Metastatic bone disease is,
-by contrast, far more common: more than 80% of malignant bone lesions encountered in
-the orthopedic clinic are metastatic, predominantly from breast, lung, prostate, kidney, and
-thyroid primaries, and the surgical management of impending and actual pathological
-fractures from metastatic disease occupies a substantial fraction of the orthopedic
-oncologist’s workload.
-This chapter synthesizes content from Apley & Solomon, Miller’s Review, Tachdjian’s
-Pediatric Orthopaedics, Rockwood and Green’s Fractures in Adults, Rothman-Simeone The
-Spine, and Netter’s Concise Orthopaedic Anatomy to cover three related themes: the
-principal primary malignant bone tumors — osteosarcoma, Ewing sarcoma,
-chondrosarcoma, chordoma, malignant fibrous histiocytoma / undifferentiated
-pleomorphic sarcoma, fibrosarcoma, multiple myeloma, and lymphoma of bone; the
-principles of staging and biopsy that underlie all bone-tumor surgery; metastatic bone
-disease, including the Mirels scoring system and the orthopedic management of impending
-and pathological fractures; and the principles of limb-salvage versus amputation in the
-modern era.
+Malignant bone tumors are clonal neoplastic proliferations of bone-resident or matrix-producing cells characterized by autonomous growth, local invasion, and metastatic potential. Unlike the benign tumors of the previous chapter, they demand multidisciplinary care, accurate pre-treatment biopsy, formal staging, and a combined-modality approach in which surgery, chemotherapy, and radiotherapy each play a defined role. Primary bone malignancies are uncommon — accounting for less than 0.2% of all malignant tumors — but they affect predominantly children and young adults, where they remain the second commonest cancer-related cause of death in the second decade. Metastatic bone disease is, by contrast, far more common: more than 80% of malignant bone lesions encountered in the orthopedic clinic are metastatic, predominantly from breast, lung, prostate, kidney, and thyroid primaries, and the surgical management of impending and actual pathological fractures from metastatic disease occupies a substantial fraction of the orthopedic oncologist’s workload. This chapter synthesizes content from Apley & Solomon, Miller’s Review, Tachdjian’s Pediatric Orthopaedics, Rockwood and Green’s Fractures in Adults, Rothman-Simeone The Spine, and Netter’s Concise Orthopaedic Anatomy to cover three related themes: the principal primary malignant bone tumors — osteosarcoma, Ewing sarcoma, chondrosarcoma, chordoma, malignant fibrous histiocytoma / undifferentiated pleomorphic sarcoma, fibrosarcoma, multiple myeloma, and lymphoma of bone; the principles of staging and biopsy that underlie all bone-tumor surgery; metastatic bone disease, including the Mirels scoring system and the orthopedic management of impending and pathological fractures; and the principles of limb-salvage versus amputation in the modern era.
 
 ## The Conceptual Framework: Enneking Staging and the Principles of Biopsy
 
-The Enneking staging system, developed by William Enneking in the 1980s, remains the
-basis on which orthopedic decisions about bone-tumor surgery are made. Tumors are
-graded as low-grade (G1) or high-grade (G2), classified as intracompartmental (T1) or
-extracompartmental (T2), and assigned an M0 or M1 status for the absence or presence of
-regional or distant metastases. The resulting stage IA–IIIB system maps directly to surgical
-decisions: low-grade intracompartmental tumors (stage IA) are typically treated by wide
-local excision; high-grade tumors (stage II) and any extracompartmental disease (T2)
-generally require radical resection and adjuvant therapy; metastatic disease (stage III)
-commits the patient to combined-modality systemic therapy. The American Joint
-Committee on Cancer (AJCC) TNM staging system, used in oncological practice, provides a
-complementary framework that emphasizes tumor size, depth, grade, and metastatic
-burden.
+The Enneking staging system, developed by William Enneking in the 1980s, remains the basis on which orthopedic decisions about bone-tumor surgery are made. Tumors are graded as low-grade (G1) or high-grade (G2), classified as intracompartmental (T1) or extracompartmental (T2), and assigned an M0 or M1 status for the absence or presence of regional or distant metastases. The resulting stage IA–IIIB system maps directly to surgical decisions: low-grade intracompartmental tumors (stage IA) are typically treated by wide local excision; high-grade tumors (stage II) and any extracompartmental disease (T2) generally require radical resection and adjuvant therapy; metastatic disease (stage III) commits the patient to combined-modality systemic therapy. The American Joint Committee on Cancer (AJCC) TNM staging system, used in oncological practice, provides a complementary framework that emphasizes tumor size, depth, grade, and metastatic burden.
 
-The biopsy is the most consequential single decision in the management of a suspected
-bone malignancy, and the principles articulated by Mankin in his seminal 1982 and 1996
-papers — and reproduced in every modern orthopedic oncology text — are non-
-negotiable. The biopsy should be performed by the surgeon who will undertake the
-definitive resection, or after consultation with that surgeon, because the biopsy tract is
-contaminated by tumor and must be excised en bloc with the definitive specimen. The
-biopsy tract must lie in the line of the future incision and must avoid contamination of
-multiple compartments. The biopsy should obtain sufficient tissue for histology,
-immunohistochemistry, cytogenetics, molecular studies, and culture. A core needle biopsy
-under image guidance is the preferred modern technique for most accessible lesions,
-achieving diagnostic accuracy of 80-95% with substantially lower contamination and
-complication rates than open biopsy. Open biopsy is reserved for accessible lesions in
-which core biopsy is non-diagnostic, for spinal and pelvic lesions in which open surgical
-approach is necessary regardless, and for lesions in which the entire diagnostic-and-
-therapeutic procedure can be done in one stage. Frozen-section analysis should be used
-only to confirm that adequate tissue has been obtained, not for definitive diagnosis. The
-biopsy should never be performed before complete imaging — plain radiographs in two
-planes, MRI of the affected bone, CT chest for staging, bone scan or PET-CT — has been
-obtained, because the post-biopsy edema and hemorrhage can obscure the pre-biopsy
-imaging.
+The biopsy is the most consequential single decision in the management of a suspected bone malignancy, and the principles articulated by Mankin in his seminal 1982 and 1996 papers — and reproduced in every modern orthopedic oncology text — are non-negotiable. The biopsy should be performed by the surgeon who will undertake the definitive resection, or after consultation with that surgeon, because the biopsy tract is contaminated by tumor and must be excised en bloc with the definitive specimen. The biopsy tract must lie in the line of the future incision and must avoid contamination of multiple compartments. The biopsy should obtain sufficient tissue for histology, immunohistochemistry, cytogenetics, molecular studies, and culture. A core needle biopsy under image guidance is the preferred modern technique for most accessible lesions, achieving diagnostic accuracy of 80-95% with substantially lower contamination and complication rates than open biopsy. Open biopsy is reserved for accessible lesions in which core biopsy is non-diagnostic, for spinal and pelvic lesions in which open surgical approach is necessary regardless, and for lesions in which the entire diagnostic-and-therapeutic procedure can be done in one stage. Frozen-section analysis should be used only to confirm that adequate tissue has been obtained, not for definitive diagnosis. The biopsy should never be performed before complete imaging — plain radiographs in two planes, MRI of the affected bone, CT chest for staging, bone scan or PET-CT — has been obtained, because the post-biopsy edema and hemorrhage can obscure the pre-biopsy imaging.
 
 ## Osteosarcoma
 
 
 ## Epidemiology and Subtypes
 
-Osteosarcoma is the commonest primary malignancy of bone in children and young adults,
-with a bimodal age distribution: a major peak in the second decade corresponding to the
-adolescent growth spurt, and a smaller peak in older adults corresponding to secondary
-osteosarcoma arising in Paget’s disease, post-radiation bone, or in pre-existing fibrous
-dysplasia. The overall incidence is approximately 3-5 per million per year. Multiple
-subtypes are recognized. The conventional intramedullary osteosarcoma — accounting for
-approximately 80% of all osteosarcomas — is a high-grade tumor with osteoblastic,
-chondroblastic, or fibroblastic histological variants; the prognosis and treatment of these
-variants are essentially identical. Surface osteosarcomas are an important group: parosteal
-osteosarcoma is a low-grade surface tumor of the posterior distal femur in young adults,
-with an excellent prognosis after wide resection alone; periosteal osteosarcoma is an
-intermediate-grade surface tumor of the diaphysis with a moderately good prognosis; and
-high-grade surface osteosarcoma behaves like a conventional intramedullary tumor.
-Telangiectatic osteosarcoma is a high-grade variant characterized by fluid-fluid levels on
-MRI and a radiographic appearance that can mimic aneurysmal bone cyst — a critical
-differential. Small-cell osteosarcoma resembles Ewing sarcoma microscopically but is
-distinguished by the presence of osteoid. Secondary osteosarcomas arising in Paget’s
-disease or post-radiation are high-grade and have a markedly worse prognosis than
-primary tumors. The molecular biology of osteosarcoma involves mutations in TP53 (Li-
-Fraumeni syndrome predisposes to osteosarcoma), retinoblastoma gene RB1 (bilateral
+Osteosarcoma is the commonest primary malignancy of bone in children and young adults, with a bimodal age distribution: a major peak in the second decade corresponding to the adolescent growth spurt, and a smaller peak in older adults corresponding to secondary osteosarcoma arising in Paget’s disease, post-radiation bone, or in pre-existing fibrous dysplasia. The overall incidence is approximately 3-5 per million per year. Multiple subtypes are recognized. The conventional intramedullary osteosarcoma — accounting for approximately 80% of all osteosarcomas — is a high-grade tumor with osteoblastic, chondroblastic, or fibroblastic histological variants; the prognosis and treatment of these variants are essentially identical. Surface osteosarcomas are an important group: parosteal osteosarcoma is a low-grade surface tumor of the posterior distal femur in young adults, with an excellent prognosis after wide resection alone; periosteal osteosarcoma is an intermediate-grade surface tumor of the diaphysis with a moderately good prognosis; and high-grade surface osteosarcoma behaves like a conventional intramedullary tumor. Telangiectatic osteosarcoma is a high-grade variant characterized by fluid-fluid levels on MRI and a radiographic appearance that can mimic aneurysmal bone cyst — a critical differential. Small-cell osteosarcoma resembles Ewing sarcoma microscopically but is distinguished by the presence of osteoid. Secondary osteosarcomas arising in Paget’s disease or post-radiation are high-grade and have a markedly worse prognosis than primary tumors. The molecular biology of osteosarcoma involves mutations in TP53 (Li-Fraumeni syndrome predisposes to osteosarcoma), retinoblastoma gene RB1 (bilateral
 
-retinoblastoma carries a high risk of secondary osteosarcoma), and complex genomic
-instability with frequent chromothripsis and chromoplexy events.
+retinoblastoma carries a high risk of secondary osteosarcoma), and complex genomic instability with frequent chromothripsis and chromoplexy events.
 
 ## Clinical Features
 
-Presentation is typically with pain and swelling at the site of the lesion, most commonly the
-distal femur, proximal tibia, and proximal humerus — the metaphyses of the bones around
-the knee and shoulder. Pain is initially intermittent, becomes constant, and progresses over
-weeks; nocturnal pain is characteristic but is not as reliably present or aspirin-responsive
-as in osteoid osteoma. Patients may give a history of recent trauma, which often draws
-clinical attention to an underlying lesion that was previously asymptomatic. A palpable
-warm tender swelling, sometimes with overlying erythema and dilated veins, is common.
-Pathological fracture occurs in 10-15% of cases at presentation and historically was
-considered to mandate amputation; modern practice permits limb salvage in selected
-pathological fracture cases provided that adequate oncological margins can still be
-achieved. Serum alkaline phosphatase and lactate dehydrogenase are commonly elevated
-and serve as prognostic markers — high LDH at presentation is an adverse prognostic
-factor.
+Presentation is typically with pain and swelling at the site of the lesion, most commonly the distal femur, proximal tibia, and proximal humerus — the metaphyses of the bones around the knee and shoulder. Pain is initially intermittent, becomes constant, and progresses over weeks; nocturnal pain is characteristic but is not as reliably present or aspirin-responsive as in osteoid osteoma. Patients may give a history of recent trauma, which often draws clinical attention to an underlying lesion that was previously asymptomatic. A palpable warm tender swelling, sometimes with overlying erythema and dilated veins, is common. Pathological fracture occurs in 10-15% of cases at presentation and historically was considered to mandate amputation; modern practice permits limb salvage in selected pathological fracture cases provided that adequate oncological margins can still be achieved. Serum alkaline phosphatase and lactate dehydrogenase are commonly elevated and serve as prognostic markers — high LDH at presentation is an adverse prognostic factor.
 
 ## Imaging and Staging
 
-Plain radiographs show a destructive lesion with a wide zone of transition, often with
-mixed lytic and sclerotic areas reflecting tumor osteoid production. Periosteal reaction is
-characteristic and may take several forms: the Codman triangle (a focus of periosteal new
-bone at the proximal and distal margins of the lesion, formed where the tumor has elevated
-the periosteum and bone formation continues at the edges), the “sunburst” or “hair-on-
-end” spiculated periosteal reaction (radial spicules of bone laid down along the
-perpendicular tumor vessels as the tumor expands), and the onion-skin appearance
-(multiple laminations of periosteal new bone). The soft-tissue extension is often
-substantial. MRI is essential for local staging, providing the most accurate assessment of
-intraosseous extent, skip metastases within the affected bone, joint involvement, and the
-relationship of tumor to the adjacent neurovascular bundle — information that drives the
-limb-salvage versus amputation decision. CT chest is the staging investigation of choice for
-pulmonary metastases, which are the dominant site of distant disease. Bone scan, or
-increasingly PET-CT, is used to detect skip metastases and additional sites of bone
-involvement.
+Plain radiographs show a destructive lesion with a wide zone of transition, often with mixed lytic and sclerotic areas reflecting tumor osteoid production. Periosteal reaction is characteristic and may take several forms: the Codman triangle (a focus of periosteal new bone at the proximal and distal margins of the lesion, formed where the tumor has elevated the periosteum and bone formation continues at the edges), the “sunburst” or “hair-on-end” spiculated periosteal reaction (radial spicules of bone laid down along the perpendicular tumor vessels as the tumor expands), and the onion-skin appearance (multiple laminations of periosteal new bone). The soft-tissue extension is often substantial. MRI is essential for local staging, providing the most accurate assessment of intraosseous extent, skip metastases within the affected bone, joint involvement, and the relationship of tumor to the adjacent neurovascular bundle — information that drives the limb-salvage versus amputation decision. CT chest is the staging investigation of choice for pulmonary metastases, which are the dominant site of distant disease. Bone scan, or increasingly PET-CT, is used to detect skip metastases and additional sites of bone involvement.
 
 ## Treatment
 
-The modern multidisciplinary treatment of osteosarcoma — neoadjuvant chemotherapy,
-wide local resection with limb salvage when feasible, adjuvant chemotherapy — has
-transformed survival from approximately 20% in the era of amputation alone to 60-70%
-five-year survival in patients without metastatic disease at presentation. The standard
-chemotherapy regimen is “MAP”: high-dose methotrexate, doxorubicin (Adriamycin), and
-cisplatin, administered over approximately 10-12 weeks preoperatively, followed by
-surgery, followed by 16-20 weeks of adjuvant chemotherapy. The Huvos system grades the
-response to neoadjuvant chemotherapy by the percentage of tumor necrosis at the time of
+The modern multidisciplinary treatment of osteosarcoma — neoadjuvant chemotherapy, wide local resection with limb salvage when feasible, adjuvant chemotherapy — has transformed survival from approximately 20% in the era of amputation alone to 60-70% five-year survival in patients without metastatic disease at presentation. The standard chemotherapy regimen is “MAP”: high-dose methotrexate, doxorubicin (Adriamycin), and cisplatin, administered over approximately 10-12 weeks preoperatively, followed by surgery, followed by 16-20 weeks of adjuvant chemotherapy. The Huvos system grades the response to neoadjuvant chemotherapy by the percentage of tumor necrosis at the time of
 
-surgical resection: greater than 90% necrosis (good responders) is associated with
-improved survival, while less than 90% necrosis (poor responders) prompts consideration
-of alternative chemotherapy regimens postoperatively. Surgical resection achieves wide
-oncologic margins (at least 1-2 cm of normal bone and a cuff of muscle, with intact fascial
-barriers preserved where possible); intralesional or marginal margins are associated with
-markedly higher local recurrence and worse survival. Limb-salvage reconstruction options
-include endoprosthetic replacement (the most common modern technique, with rotating-
-hinge knee or shoulder megaprostheses), structural allograft, allograft-prosthetic
-composite, vascularized fibular autograft, and — in the immature skeleton — expandable
-endoprostheses or rotationplasty (the Van Nes procedure for distal femoral tumors, in
-which the foot is rotated 180° and the ankle joint functions as a knee). Amputation is
-reserved for cases in which adequate margins cannot be achieved by limb salvage, for
-major neurovascular involvement that cannot be reconstructed, for extensive pathological
-fracture with contamination, or for the patient’s preference. The five-year survival for non-
-metastatic high-grade osteosarcoma is now 60-70%; for metastatic disease at presentation,
-20-30%.
+surgical resection: greater than 90% necrosis (good responders) is associated with improved survival, while less than 90% necrosis (poor responders) prompts consideration of alternative chemotherapy regimens postoperatively. Surgical resection achieves wide oncologic margins (at least 1-2 cm of normal bone and a cuff of muscle, with intact fascial barriers preserved where possible); intralesional or marginal margins are associated with markedly higher local recurrence and worse survival. Limb-salvage reconstruction options include endoprosthetic replacement (the most common modern technique, with rotating-hinge knee or shoulder megaprostheses), structural allograft, allograft-prosthetic composite, vascularized fibular autograft, and — in the immature skeleton — expandable endoprostheses or rotationplasty (the Van Nes procedure for distal femoral tumors, in which the foot is rotated 180° and the ankle joint functions as a knee). Amputation is reserved for cases in which adequate margins cannot be achieved by limb salvage, for major neurovascular involvement that cannot be reconstructed, for extensive pathological fracture with contamination, or for the patient’s preference. The five-year survival for non-metastatic high-grade osteosarcoma is now 60-70%; for metastatic disease at presentation, 20-30%.
 
 ## Ewing Sarcoma
 
 
 ## Pathology and Molecular Biology
 
-Ewing sarcoma is a small round blue cell tumor classified within the Ewing family of
-tumors, which includes peripheral primitive neuroectodermal tumor (PNET) and Askin
-tumor of the chest wall. The molecular signature is the t(11;22)(q24;q12) translocation,
-generating the EWS-FLI1 fusion gene in approximately 85% of cases; less common variants
-include EWS-ERG, EWS-ETV1, and others. The fusion oncoprotein acts as an aberrant
-transcription factor driving the malignant phenotype. The histology is of sheets of small
-uniform round blue cells with scant cytoplasm, PAS-positive cytoplasmic glycogen, and
-characteristic membranous CD99 (MIC2) staining; the differential diagnosis includes other
-small round blue cell tumors of childhood — lymphoma, neuroblastoma,
-rhabdomyosarcoma, small cell osteosarcoma — for which immunohistochemistry and
-molecular studies are essential.
+Ewing sarcoma is a small round blue cell tumor classified within the Ewing family of tumors, which includes peripheral primitive neuroectodermal tumor (PNET) and Askin tumor of the chest wall. The molecular signature is the t(11;22)(q24;q12) translocation, generating the EWS-FLI1 fusion gene in approximately 85% of cases; less common variants include EWS-ERG, EWS-ETV1, and others. The fusion oncoprotein acts as an aberrant transcription factor driving the malignant phenotype. The histology is of sheets of small uniform round blue cells with scant cytoplasm, PAS-positive cytoplasmic glycogen, and characteristic membranous CD99 (MIC2) staining; the differential diagnosis includes other small round blue cell tumors of childhood — lymphoma, neuroblastoma, rhabdomyosarcoma, small cell osteosarcoma — for which immunohistochemistry and molecular studies are essential.
 
 ## Clinical Features and Imaging
 
-Ewing sarcoma typically affects the second decade, with a slight male predominance and a
-striking predilection for children of European ancestry; it is rare in African and East Asian
-populations. The lesion arises in the diaphysis of long bones — femur, tibia, humerus,
-fibula — and also in the flat bones of the pelvis, scapula, and ribs. Presentation is with pain,
-swelling, and constitutional symptoms (fever, weight loss, fatigue, elevated ESR) that can
-be confused with osteomyelitis. Plain radiographs classically show a permeative (“moth-
-eaten”) pattern of bone destruction in the diaphysis, with the characteristic “onion-skin”
-laminated periosteal reaction reflecting episodic tumor expansion and periosteal new bone
-formation, and a substantial soft-tissue mass that often exceeds the size of the bone
-abnormality. MRI is essential for assessment of soft-tissue extent and skip metastases. CT
-chest and bone marrow biopsy are essential staging investigations, since pulmonary and
-bone-marrow metastases are common.
+Ewing sarcoma typically affects the second decade, with a slight male predominance and a striking predilection for children of European ancestry; it is rare in African and East Asian populations. The lesion arises in the diaphysis of long bones — femur, tibia, humerus, fibula — and also in the flat bones of the pelvis, scapula, and ribs. Presentation is with pain, swelling, and constitutional symptoms (fever, weight loss, fatigue, elevated ESR) that can be confused with osteomyelitis. Plain radiographs classically show a permeative (“moth-eaten”) pattern of bone destruction in the diaphysis, with the characteristic “onion-skin” laminated periosteal reaction reflecting episodic tumor expansion and periosteal new bone formation, and a substantial soft-tissue mass that often exceeds the size of the bone abnormality. MRI is essential for assessment of soft-tissue extent and skip metastases. CT chest and bone marrow biopsy are essential staging investigations, since pulmonary and bone-marrow metastases are common.
 
 
 ## Treatment
 
-The treatment of Ewing sarcoma is intensive multimodality combination chemotherapy
-plus local control (surgery, radiotherapy, or both). The standard chemotherapy regimen in
-North America is VDC/IE — vincristine, doxorubicin, cyclophosphamide alternating with
-ifosfamide and etoposide — administered as compressed (every-two-week) cycles for 14-
-17 cycles in total. European protocols (EWING-2008 / EuroEwing) use similar agents in
-different sequences. Local control is achieved by surgery, radiotherapy, or both, depending
-on the resectability of the primary lesion: surgically resectable lesions in expendable bones
-(fibula, rib, scapular spine) are treated by surgery alone; surgically resectable but
-functionally demanding lesions (pelvis, spine) increasingly are treated by surgery plus
-adjuvant radiotherapy; surgically unresectable lesions (large pelvic primaries, central
-spine) are treated by definitive radiotherapy with chemotherapy. Five-year survival is
-approximately 65-75% for non-metastatic disease, dropping to 25-30% with metastases at
-presentation; bone-marrow metastases carry a particularly poor prognosis.
+The treatment of Ewing sarcoma is intensive multimodality combination chemotherapy plus local control (surgery, radiotherapy, or both). The standard chemotherapy regimen in North America is VDC/IE — vincristine, doxorubicin, cyclophosphamide alternating with ifosfamide and etoposide — administered as compressed (every-two-week) cycles for 14-17 cycles in total. European protocols (EWING-2008 / EuroEwing) use similar agents in different sequences. Local control is achieved by surgery, radiotherapy, or both, depending on the resectability of the primary lesion: surgically resectable lesions in expendable bones (fibula, rib, scapular spine) are treated by surgery alone; surgically resectable but functionally demanding lesions (pelvis, spine) increasingly are treated by surgery plus adjuvant radiotherapy; surgically unresectable lesions (large pelvic primaries, central spine) are treated by definitive radiotherapy with chemotherapy. Five-year survival is approximately 65-75% for non-metastatic disease, dropping to 25-30% with metastases at presentation; bone-marrow metastases carry a particularly poor prognosis.
 
 ## Chondrosarcoma
 
-Chondrosarcoma is the second commonest malignant primary bone tumor after
-osteosarcoma, accounting for approximately 25% of primary bone sarcomas. Unlike
-osteosarcoma and Ewing sarcoma, chondrosarcoma is predominantly a tumor of older
-adults, with peak incidence in the fifth and sixth decades. The pathology is characterized by
-lobules of malignant hyaline cartilage with increased cellularity, nuclear atypia, binucleate
-cells, and permeation of host bone or surrounding soft tissue. Histological grading from I
-(low) to III (high) is the principal determinant of behavior: low-grade conventional
-chondrosarcoma rarely metastasizes but recurs locally, while high-grade chondrosarcoma
-behaves aggressively with metastatic spread to lung. The dedifferentiated chondrosarcoma
-represents a particularly aggressive variant in which a low-grade cartilaginous tumor
-harbors a high-grade non-cartilaginous component (often osteosarcomatous or
-fibrosarcomatous) — a finding that markedly worsens prognosis.
-Anatomical sites include the pelvis (the commonest single location, 25-30% of cases), the
-proximal femur, the proximal humerus, the scapula, and the ribs. Imaging shows a lytic
-lesion with characteristic chondroid matrix — popcorn, rings, or arcs of mineralization —
-with cortical destruction, soft-tissue extension, and endosteal scalloping (often greater
-than two-thirds of cortical thickness, distinguishing low-grade chondrosarcoma from
-enchondroma). MRI demonstrates the characteristic lobulated, high-T2-signal architecture
-of cartilage tissue.
-Treatment is principally surgical: wide en-bloc resection with negative margins is curative
-for low- and intermediate-grade tumors. Conventional chondrosarcoma is notoriously
-chemoresistant and radioresistant, so adequate surgical margins are crucial; the principle
-is that “the only adjuvant for chondrosarcoma is the surgeon’s scalpel.” Dedifferentiated
-chondrosarcoma and mesenchymal chondrosarcoma, in contrast, are treated as high-grade
-sarcomas with neoadjuvant chemotherapy and aggressive surgery; mesenchymal
-chondrosarcoma in particular shows useful response to Ewing-like regimens. Five-year
+Chondrosarcoma is the second commonest malignant primary bone tumor after osteosarcoma, accounting for approximately 25% of primary bone sarcomas. Unlike osteosarcoma and Ewing sarcoma, chondrosarcoma is predominantly a tumor of older adults, with peak incidence in the fifth and sixth decades. The pathology is characterized by lobules of malignant hyaline cartilage with increased cellularity, nuclear atypia, binucleate cells, and permeation of host bone or surrounding soft tissue. Histological grading from I (low) to III (high) is the principal determinant of behavior: low-grade conventional chondrosarcoma rarely metastasizes but recurs locally, while high-grade chondrosarcoma behaves aggressively with metastatic spread to lung. The dedifferentiated chondrosarcoma represents a particularly aggressive variant in which a low-grade cartilaginous tumor harbors a high-grade non-cartilaginous component (often osteosarcomatous or fibrosarcomatous) — a finding that markedly worsens prognosis. Anatomical sites include the pelvis (the commonest single location, 25-30% of cases), the proximal femur, the proximal humerus, the scapula, and the ribs. Imaging shows a lytic lesion with characteristic chondroid matrix — popcorn, rings, or arcs of mineralization — with cortical destruction, soft-tissue extension, and endosteal scalloping (often greater than two-thirds of cortical thickness, distinguishing low-grade chondrosarcoma from enchondroma). MRI demonstrates the characteristic lobulated, high-T2-signal architecture of cartilage tissue. Treatment is principally surgical: wide en-bloc resection with negative margins is curative for low- and intermediate-grade tumors. Conventional chondrosarcoma is notoriously chemoresistant and radioresistant, so adequate surgical margins are crucial; the principle is that “the only adjuvant for chondrosarcoma is the surgeon’s scalpel.” Dedifferentiated chondrosarcoma and mesenchymal chondrosarcoma, in contrast, are treated as high-grade sarcomas with neoadjuvant chemotherapy and aggressive surgery; mesenchymal chondrosarcoma in particular shows useful response to Ewing-like regimens. Five-year
 
-survival is excellent (90%) for low-grade lesions, but falls to 30-50% for high-grade and
-dedifferentiated chondrosarcoma.
+survival is excellent (90%) for low-grade lesions, but falls to 30-50% for high-grade and dedifferentiated chondrosarcoma.
 
 ## Chordoma
 
-Chordoma is a rare, low- to intermediate-grade malignant tumor arising from notochordal
-remnants, with characteristic locations along the midline of the axial skeleton: the
-sacrococcygeal region (50% of cases), the spheno-occipital region (35%), and the mobile
-spine (15%). Peak incidence is in the fifth and sixth decades. The tumor grows slowly,
-infiltrates locally, and recurs persistently after incomplete resection; distant metastases
-occur late but are described. Histologically the tumor consists of large vacuolated
-“physaliphorous” cells in a myxoid stroma; the brachyury transcription factor T is the
-immunohistochemical hallmark and is highly specific. Sacrococcygeal chordomas present
-with low back pain, sacrococcygeal mass, urinary or bowel dysfunction, and posterior
-pelvic neurological symptoms. Wide en-bloc resection with negative margins is the only
-treatment offering durable disease control; sacrectomy preserving at least one S2 nerve
-root is necessary to maintain bowel and bladder function, while resection above S3
-inevitably compromises continence. Proton-beam and carbon-ion radiotherapy have an
-increasing role for surgical residual disease, residual after suboptimal resection, and
-unresectable spheno-occipital chordomas.
+Chordoma is a rare, low- to intermediate-grade malignant tumor arising from notochordal remnants, with characteristic locations along the midline of the axial skeleton: the sacrococcygeal region (50% of cases), the spheno-occipital region (35%), and the mobile spine (15%). Peak incidence is in the fifth and sixth decades. The tumor grows slowly, infiltrates locally, and recurs persistently after incomplete resection; distant metastases occur late but are described. Histologically the tumor consists of large vacuolated “physaliphorous” cells in a myxoid stroma; the brachyury transcription factor T is the immunohistochemical hallmark and is highly specific. Sacrococcygeal chordomas present with low back pain, sacrococcygeal mass, urinary or bowel dysfunction, and posterior pelvic neurological symptoms. Wide en-bloc resection with negative margins is the only treatment offering durable disease control; sacrectomy preserving at least one S2 nerve root is necessary to maintain bowel and bladder function, while resection above S3 inevitably compromises continence. Proton-beam and carbon-ion radiotherapy have an increasing role for surgical residual disease, residual after suboptimal resection, and unresectable spheno-occipital chordomas.
 
 ## Multiple Myeloma and Solitary Plasmacytoma of Bone
 
-Multiple myeloma is the commonest primary malignant tumor of bone in adults overall —
-accounting for nearly half of all primary bone malignancies, though it is more accurately
-characterized as a hematological malignancy with prominent bone manifestations. The
-disease is a clonal proliferation of plasma cells producing monoclonal immunoglobulin
-(paraprotein). Presentation is typically in the sixth to eighth decade with bone pain,
-pathological fracture (vertebral compression fractures are particularly common), anemia,
-renal impairment, hypercalcemia, and recurrent infections. The classical CRAB criteria
-(hyperCalcemia, Renal failure, Anemia, Bone lesions) define the symptomatic disease. Plain
-radiographs show characteristic punched-out, geographic, lytic lesions, particularly in the
-skull, vertebrae, pelvis, and proximal long bones, without surrounding sclerosis or
-periosteal reaction — a feature that distinguishes myeloma from most other lytic
-processes. The bone scan is famously falsely negative because the lesions are purely lytic
-without sufficient osteoblastic reaction to produce uptake. Whole-body low-dose CT,
-whole-body MRI, and increasingly PET-CT have replaced the traditional radiographic
-skeletal survey. Laboratory investigation reveals monoclonal paraprotein on serum or
-urine electrophoresis, with characteristic kappa or lambda light-chain restriction; bone
-marrow biopsy demonstrates clonal plasma cell infiltration. Treatment is medical:
-induction chemotherapy with bortezomib, lenalidomide, daratumumab and
-dexamethasone followed by autologous stem-cell transplantation in eligible patients.
-Bisphosphonates (zoledronate or pamidronate) or the RANKL inhibitor denosumab reduce
-skeletal-related events. Surgical management is reserved for pathological fracture (most
-commonly femoral neck and intertrochanteric, requiring fixation or hemiarthroplasty),
-spinal cord compression (decompression and stabilization), and impending fracture
+Multiple myeloma is the commonest primary malignant tumor of bone in adults overall — accounting for nearly half of all primary bone malignancies, though it is more accurately characterized as a hematological malignancy with prominent bone manifestations. The disease is a clonal proliferation of plasma cells producing monoclonal immunoglobulin (paraprotein). Presentation is typically in the sixth to eighth decade with bone pain, pathological fracture (vertebral compression fractures are particularly common), anemia, renal impairment, hypercalcemia, and recurrent infections. The classical CRAB criteria (hyperCalcemia, Renal failure, Anemia, Bone lesions) define the symptomatic disease. Plain radiographs show characteristic punched-out, geographic, lytic lesions, particularly in the skull, vertebrae, pelvis, and proximal long bones, without surrounding sclerosis or periosteal reaction — a feature that distinguishes myeloma from most other lytic processes. The bone scan is famously falsely negative because the lesions are purely lytic without sufficient osteoblastic reaction to produce uptake. Whole-body low-dose CT, whole-body MRI, and increasingly PET-CT have replaced the traditional radiographic skeletal survey. Laboratory investigation reveals monoclonal paraprotein on serum or urine electrophoresis, with characteristic kappa or lambda light-chain restriction; bone marrow biopsy demonstrates clonal plasma cell infiltration. Treatment is medical: induction chemotherapy with bortezomib, lenalidomide, daratumumab and dexamethasone followed by autologous stem-cell transplantation in eligible patients. Bisphosphonates (zoledronate or pamidronate) or the RANKL inhibitor denosumab reduce skeletal-related events. Surgical management is reserved for pathological fracture (most commonly femoral neck and intertrochanteric, requiring fixation or hemiarthroplasty), spinal cord compression (decompression and stabilization), and impending fracture
 
-meeting Mirels criteria. Radiotherapy provides excellent palliation of focal bone pain and is
-also definitive treatment for solitary plasmacytoma — a single bone lesion of monoclonal
-plasma cells without systemic myeloma, with progression to multiple myeloma in 50-70%
-of patients over the subsequent decade.
+meeting Mirels criteria. Radiotherapy provides excellent palliation of focal bone pain and is also definitive treatment for solitary plasmacytoma — a single bone lesion of monoclonal plasma cells without systemic myeloma, with progression to multiple myeloma in 50-70% of patients over the subsequent decade.
 
 ## Lymphoma of Bone and Other Hematological Malignancies
 
-Primary lymphoma of bone is rare and is almost always a diffuse large B-cell lymphoma.
-Presentation is with bone pain and a permeative or lytic lesion, often with substantial soft-
-tissue extension. The differential diagnosis includes osteomyelitis, Ewing sarcoma, and
-metastatic carcinoma. Diagnosis is by core biopsy with appropriate immunohistochemistry
-and flow cytometry. Treatment is chemotherapy (typically R-CHOP) and radiotherapy;
-surgery is rarely required and is generally limited to pathological fracture stabilization.
-Five-year survival exceeds 70% with modern combined-modality therapy. Bone
-involvement is also common in chronic and acute leukemias, particularly in children, where
-leukemic infiltration of the metaphyses produces characteristic radiolucent “leukemic
-lines” — bands of decreased density adjacent to the physis — and presentation with bone
-pain that mimics juvenile inflammatory arthritis is well described.
+Primary lymphoma of bone is rare and is almost always a diffuse large B-cell lymphoma. Presentation is with bone pain and a permeative or lytic lesion, often with substantial soft-tissue extension. The differential diagnosis includes osteomyelitis, Ewing sarcoma, and metastatic carcinoma. Diagnosis is by core biopsy with appropriate immunohistochemistry and flow cytometry. Treatment is chemotherapy (typically R-CHOP) and radiotherapy; surgery is rarely required and is generally limited to pathological fracture stabilization. Five-year survival exceeds 70% with modern combined-modality therapy. Bone involvement is also common in chronic and acute leukemias, particularly in children, where leukemic infiltration of the metaphyses produces characteristic radiolucent “leukemic lines” — bands of decreased density adjacent to the physis — and presentation with bone pain that mimics juvenile inflammatory arthritis is well described.
 
 ## Other Primary Malignant Tumors
 
-Malignant Fibrous Histiocytoma / Undifferentiated Pleomorphic Sarcoma
-What was historically termed malignant fibrous histiocytoma (MFH) of bone is now
-classified by the WHO as undifferentiated pleomorphic sarcoma (UPS) of bone — a high-
-grade pleomorphic spindle-cell sarcoma without specific differentiation. It accounts for less
-than 5% of primary bone sarcomas, occurs predominantly in adults aged 40-70, and arises
-most commonly in the metaphysis of long bones around the knee. The radiographic
-appearance is of a destructive lytic lesion with poorly defined margins, typically without
-matrix mineralization. Treatment principles parallel those of osteosarcoma: neoadjuvant
-chemotherapy, wide resection, adjuvant chemotherapy. The five-year survival is
-approximately 40-50%, modestly worse than osteosarcoma.
+Malignant Fibrous Histiocytoma / Undifferentiated Pleomorphic Sarcoma What was historically termed malignant fibrous histiocytoma (MFH) of bone is now classified by the WHO as undifferentiated pleomorphic sarcoma (UPS) of bone — a high-grade pleomorphic spindle-cell sarcoma without specific differentiation. It accounts for less than 5% of primary bone sarcomas, occurs predominantly in adults aged 40-70, and arises most commonly in the metaphysis of long bones around the knee. The radiographic appearance is of a destructive lytic lesion with poorly defined margins, typically without matrix mineralization. Treatment principles parallel those of osteosarcoma: neoadjuvant chemotherapy, wide resection, adjuvant chemotherapy. The five-year survival is approximately 40-50%, modestly worse than osteosarcoma.
 
 ## Fibrosarcoma of Bone
 
-Fibrosarcoma of bone is a rare malignancy of fibroblastic origin, with a characteristic
-“herringbone” pattern of long bundles of spindle cells. It occurs in adults aged 30-60 years,
-with predilection for the femur and tibia. Treatment is wide surgical resection; the role of
-chemotherapy is less clearly defined than for osteosarcoma.
+Fibrosarcoma of bone is a rare malignancy of fibroblastic origin, with a characteristic “herringbone” pattern of long bundles of spindle cells. It occurs in adults aged 30-60 years, with predilection for the femur and tibia. Treatment is wide surgical resection; the role of chemotherapy is less clearly defined than for osteosarcoma.
 
 ## Angiosarcoma of Bone
 
-Angiosarcoma of bone is a rare, high-grade vascular sarcoma. It can be solitary or
-multifocal; the multifocal form is curiously regional, with multiple lesions typically
-confined to a single anatomical region. Treatment is multimodal, with wide surgical
-resection where feasible, and radiotherapy and chemotherapy for unresectable or
-recurrent disease.
+Angiosarcoma of bone is a rare, high-grade vascular sarcoma. It can be solitary or multifocal; the multifocal form is curiously regional, with multiple lesions typically confined to a single anatomical region. Treatment is multimodal, with wide surgical resection where feasible, and radiotherapy and chemotherapy for unresectable or recurrent disease.
 
 ## Metastatic Bone Disease
 
 
 ## Epidemiology and Pathophysiology
 
-Metastatic disease is by far the commonest malignant lesion of bone in adults, accounting
-for the vast majority of malignant bone tumors over the age of 40. The five primary cancers
-responsible for approximately 80% of bone metastases — accessible by the time-honored
-mnemonic “BLT KP” — are breast, lung, thyroid, kidney, and prostate. The most commonly
-affected bones are the spine (particularly thoracic and lumbar vertebrae), the pelvis, the
-proximal femur, the ribs, and the proximal humerus. The mechanism of preferential spread
-to these axial and proximal-limb sites is incompletely understood but involves the slow
-flow through the marrow sinusoids of red marrow, the rich vascular supply, and the
-receptive paracrine microenvironment of bone. Vertebral metastases reach the spine
-particularly through Batson’s plexus, the valveless venous plexus that connects the pelvic
-and abdominal venous return to the vertebral venous system. The patterns of bone
-metastasis can be predominantly osteolytic (most carcinomas, particularly renal cell),
-predominantly osteoblastic (prostate, occasionally breast), or mixed. Multiple myeloma —
-although a hematological rather than truly metastatic disease — shares many features of
-the surgical management of metastatic carcinoma and is included in this section.
+Metastatic disease is by far the commonest malignant lesion of bone in adults, accounting for the vast majority of malignant bone tumors over the age of 40. The five primary cancers responsible for approximately 80% of bone metastases — accessible by the time-honored mnemonic “BLT KP” — are breast, lung, thyroid, kidney, and prostate. The most commonly affected bones are the spine (particularly thoracic and lumbar vertebrae), the pelvis, the proximal femur, the ribs, and the proximal humerus. The mechanism of preferential spread to these axial and proximal-limb sites is incompletely understood but involves the slow flow through the marrow sinusoids of red marrow, the rich vascular supply, and the receptive paracrine microenvironment of bone. Vertebral metastases reach the spine particularly through Batson’s plexus, the valveless venous plexus that connects the pelvic and abdominal venous return to the vertebral venous system. The patterns of bone metastasis can be predominantly osteolytic (most carcinomas, particularly renal cell), predominantly osteoblastic (prostate, occasionally breast), or mixed. Multiple myeloma — although a hematological rather than truly metastatic disease — shares many features of the surgical management of metastatic carcinoma and is included in this section.
 
 ## Clinical Evaluation
 
-The classical presentation is of a patient with known cancer presenting with bone pain or
-pathological fracture. However, in a significant minority of patients, the bone metastasis is
-the presenting feature of an undiagnosed primary cancer — a situation in which thorough
-oncological staging is essential before any biopsy or surgical intervention. The diagnostic
-workup of a suspected metastasis of unknown primary follows the standard “Rougraff
-workup” — careful history and physical examination, plain radiographs of the affected
-bone and chest, CT of the chest, abdomen, and pelvis, bone scan (or PET-CT), serum protein
-electrophoresis (to exclude myeloma), and tumor markers (PSA, CEA, thyroglobulin). This
-evaluation identifies the primary in approximately 85% of cases. The remaining 15%
-should undergo biopsy of the bone lesion before any operative intervention; biopsy results
-then guide definitive treatment, which may differ substantially depending on the primary
-diagnosis — for example, a renal cell metastasis may be a candidate for preoperative
-embolization and en-bloc resection with curative intent, while a metastatic lung carcinoma
-is best managed with palliative stabilization.
-Surgical Indications: Mirels’ Scoring System
-The decision to undertake prophylactic surgical fixation of a metastatic lesion in a long
-bone — that is, fixation before a pathological fracture occurs — is supported by Mirels’
-scoring system, which assigns 1-3 points each for site (upper limb / lower limb /
-peritrochanteric), pain character (mild / moderate / functional), lesion type (blastic /
-mixed / lytic), and lesion size relative to bone diameter (<1/3 / 1/3-2/3 / >2/3). A total
-score of 7 or less indicates a low risk of fracture and supports radiotherapy alone; a score
-of 8 carries an intermediate risk and prompts case-by-case discussion; a score of 9 or
-higher predicts a high probability of fracture within months and supports prophylactic
+The classical presentation is of a patient with known cancer presenting with bone pain or pathological fracture. However, in a significant minority of patients, the bone metastasis is the presenting feature of an undiagnosed primary cancer — a situation in which thorough oncological staging is essential before any biopsy or surgical intervention. The diagnostic workup of a suspected metastasis of unknown primary follows the standard “Rougraff workup” — careful history and physical examination, plain radiographs of the affected bone and chest, CT of the chest, abdomen, and pelvis, bone scan (or PET-CT), serum protein electrophoresis (to exclude myeloma), and tumor markers (PSA, CEA, thyroglobulin). This evaluation identifies the primary in approximately 85% of cases. The remaining 15% should undergo biopsy of the bone lesion before any operative intervention; biopsy results then guide definitive treatment, which may differ substantially depending on the primary diagnosis — for example, a renal cell metastasis may be a candidate for preoperative embolization and en-bloc resection with curative intent, while a metastatic lung carcinoma is best managed with palliative stabilization. Surgical Indications: Mirels’ Scoring System The decision to undertake prophylactic surgical fixation of a metastatic lesion in a long bone — that is, fixation before a pathological fracture occurs — is supported by Mirels’ scoring system, which assigns 1-3 points each for site (upper limb / lower limb / peritrochanteric), pain character (mild / moderate / functional), lesion type (blastic / mixed / lytic), and lesion size relative to bone diameter (<1/3 / 1/3-2/3 / >2/3). A total score of 7 or less indicates a low risk of fracture and supports radiotherapy alone; a score of 8 carries an intermediate risk and prompts case-by-case discussion; a score of 9 or higher predicts a high probability of fracture within months and supports prophylactic
 
-fixation. Although Mirels’ system is the most validated risk-stratification tool, clinical
-judgment — particularly the assessment of pain and functional loading — remains crucial.
+fixation. Although Mirels’ system is the most validated risk-stratification tool, clinical judgment — particularly the assessment of pain and functional loading — remains crucial.
 
 ## Surgical Principles
 
-The surgical approach to metastatic bone disease is fundamentally palliative: the goals are
-pain relief, restoration of function, and maintenance of independent ambulation for the
-patient’s remaining life expectancy. Several principles distinguish the surgery of
-metastases from that of primary bone tumors. First, the entire bone should typically be
-protected by the implant: long intramedullary nails that traverse the entire bone rather
-than short screws or limited plates, because second lesions in the same bone are common.
-Second, fixation must be immediately weight-bearing — convalescent rehabilitation of any
-prolonged kind is not realistic for patients with limited life expectancy. Third,
-polymethylmethacrylate cement is freely used to reinforce internal fixation, fill bone
-defects, and provide immediate structural support. Fourth, joint replacement
-(endoprosthetic reconstruction) is preferred over osteosynthesis for peri-articular lesions,
-particularly femoral head and neck lesions, where the implant will not depend on healing of
-pathological bone. Fifth, preoperative selective arterial embolization is essential for renal
-cell, thyroid, and other vascular metastases, where blood loss can otherwise be
-catastrophic.
+The surgical approach to metastatic bone disease is fundamentally palliative: the goals are pain relief, restoration of function, and maintenance of independent ambulation for the patient’s remaining life expectancy. Several principles distinguish the surgery of metastases from that of primary bone tumors. First, the entire bone should typically be protected by the implant: long intramedullary nails that traverse the entire bone rather than short screws or limited plates, because second lesions in the same bone are common. Second, fixation must be immediately weight-bearing — convalescent rehabilitation of any prolonged kind is not realistic for patients with limited life expectancy. Third, polymethylmethacrylate cement is freely used to reinforce internal fixation, fill bone defects, and provide immediate structural support. Fourth, joint replacement (endoprosthetic reconstruction) is preferred over osteosynthesis for peri-articular lesions, particularly femoral head and neck lesions, where the implant will not depend on healing of pathological bone. Fifth, preoperative selective arterial embolization is essential for renal cell, thyroid, and other vascular metastases, where blood loss can otherwise be catastrophic.
 
 ## Spine Metastases and the SINS Score
 
-Spinal metastases require special consideration because of the proximity of the spinal cord
-and the high frequency of involvement. The Spinal Instability Neoplastic Score (SINS),
-developed by the Spine Oncology Study Group, assesses six features — spinal level, type of
-pain (mechanical or non-mechanical), lesion type (lytic, blastic, mixed), spinal alignment,
-vertebral body collapse, and posterior element involvement — to classify lesions as stable
-(0-6), potentially unstable (7-12), or unstable (13-18). The classical surgical indications for
-spinal metastatic disease are progressive neurological deficit (particularly with mechanical
-spinal cord compression), mechanical instability (high SINS), intractable pain not
-controlled by other measures, and the need for tissue diagnosis. The seminal randomized
-trial of Patchell and colleagues demonstrated that surgical decompression and stabilization
-plus radiotherapy is superior to radiotherapy alone in patients with metastatic spinal cord
-compression who can tolerate surgery. Surgical techniques include posterior
-decompression with instrumented fusion, anterior corpectomy and reconstruction
-(typically with expandable titanium cages and anterolateral plate or posterior pedicle
-screw fixation), and, increasingly, minimally invasive percutaneous pedicle screw fixation
-with kyphoplasty or vertebroplasty for selected vertebral compression fractures.
-Radiosurgery (stereotactic body radiotherapy) and conventional radiotherapy provide
-adjuvant local control after surgery and primary local control for lesions not requiring
-surgical intervention.
+Spinal metastases require special consideration because of the proximity of the spinal cord and the high frequency of involvement. The Spinal Instability Neoplastic Score (SINS), developed by the Spine Oncology Study Group, assesses six features — spinal level, type of pain (mechanical or non-mechanical), lesion type (lytic, blastic, mixed), spinal alignment, vertebral body collapse, and posterior element involvement — to classify lesions as stable (0-6), potentially unstable (7-12), or unstable (13-18). The classical surgical indications for spinal metastatic disease are progressive neurological deficit (particularly with mechanical spinal cord compression), mechanical instability (high SINS), intractable pain not controlled by other measures, and the need for tissue diagnosis. The seminal randomized trial of Patchell and colleagues demonstrated that surgical decompression and stabilization plus radiotherapy is superior to radiotherapy alone in patients with metastatic spinal cord compression who can tolerate surgery. Surgical techniques include posterior decompression with instrumented fusion, anterior corpectomy and reconstruction (typically with expandable titanium cages and anterolateral plate or posterior pedicle screw fixation), and, increasingly, minimally invasive percutaneous pedicle screw fixation with kyphoplasty or vertebroplasty for selected vertebral compression fractures. Radiosurgery (stereotactic body radiotherapy) and conventional radiotherapy provide adjuvant local control after surgery and primary local control for lesions not requiring surgical intervention.
 
 ## Pathological Fractures
 
-A pathological fracture, by definition, is a fracture that occurs through abnormal bone —
-bone weakened by tumor, metabolic disease, infection, or congenital anomaly. The
+A pathological fracture, by definition, is a fracture that occurs through abnormal bone — bone weakened by tumor, metabolic disease, infection, or congenital anomaly. The
 
-management of a pathological fracture is governed by three considerations: the nature of
-the underlying disease; the location of the fracture; and the patient’s overall condition,
-prognosis, and life expectancy. For metastatic bone disease, the principles outlined in the
-previous section apply: a long intramedullary device that protects the entire bone,
-augmentation with bone cement, immediate weight-bearing where possible, and
-consideration of joint replacement for peri-articular lesions. For pathological fracture
-through a primary malignant bone tumor, the approach is fundamentally different: the
-operative goal is curative resection of the tumor, and the fracture is treated as part of the
-oncological resection rather than as an independent fracture. Pathological fracture through
-a primary high-grade sarcoma was historically considered an indication for amputation;
-modern series show that limb salvage is feasible in selected cases provided that adequate
-margins can still be achieved and that the soft-tissue contamination from the fracture has
-not violated multiple compartments. For pathological fractures through benign lesions —
-particularly the simple bone cyst, fibrous dysplasia, and enchondroma — the fracture itself
-is often the precipitating event for diagnosis and treatment; in many cases the fracture is
-managed by closed reduction and immobilization, with the underlying lesion addressed
-once the fracture has healed.
-Specific anatomical considerations apply for the proximal femur, where most metastatic
-pathological fractures occur. Femoral neck fractures from metastatic disease should
-generally be treated by hemiarthroplasty or total hip arthroplasty rather than internal
-fixation, because of the high rates of nonunion through diseased bone and avascular
-necrosis from compromised femoral head vascularity. Intertrochanteric and
-subtrochanteric fractures are typically treated by long cephalomedullary nail with the
-option of additional cement augmentation. Diaphyseal pathological fractures of the femur
-or humerus are treated by long intramedullary nail, with cement augmentation through a
-small window at the fracture site for large lytic defects. Distal femoral pathological
-fractures may require distal femoral replacement endoprosthesis if cortical reconstitution
-is not possible.
+management of a pathological fracture is governed by three considerations: the nature of the underlying disease; the location of the fracture; and the patient’s overall condition, prognosis, and life expectancy. For metastatic bone disease, the principles outlined in the previous section apply: a long intramedullary device that protects the entire bone, augmentation with bone cement, immediate weight-bearing where possible, and consideration of joint replacement for peri-articular lesions. For pathological fracture through a primary malignant bone tumor, the approach is fundamentally different: the operative goal is curative resection of the tumor, and the fracture is treated as part of the oncological resection rather than as an independent fracture. Pathological fracture through a primary high-grade sarcoma was historically considered an indication for amputation; modern series show that limb salvage is feasible in selected cases provided that adequate margins can still be achieved and that the soft-tissue contamination from the fracture has not violated multiple compartments. For pathological fractures through benign lesions — particularly the simple bone cyst, fibrous dysplasia, and enchondroma — the fracture itself is often the precipitating event for diagnosis and treatment; in many cases the fracture is managed by closed reduction and immobilization, with the underlying lesion addressed once the fracture has healed. Specific anatomical considerations apply for the proximal femur, where most metastatic pathological fractures occur. Femoral neck fractures from metastatic disease should generally be treated by hemiarthroplasty or total hip arthroplasty rather than internal fixation, because of the high rates of nonunion through diseased bone and avascular necrosis from compromised femoral head vascularity. Intertrochanteric and subtrochanteric fractures are typically treated by long cephalomedullary nail with the option of additional cement augmentation. Diaphyseal pathological fractures of the femur or humerus are treated by long intramedullary nail, with cement augmentation through a small window at the fracture site for large lytic defects. Distal femoral pathological fractures may require distal femoral replacement endoprosthesis if cortical reconstitution is not possible.
 
 ## Summary and Take-Home Points
 
-The malignant tumors of bone form a small but highly consequential group of diseases that
-demand multidisciplinary care, accurate biopsy, formal staging, and a coordinated
-combined-modality approach. The principal primary malignancies — osteosarcoma in
-adolescents, Ewing sarcoma in the first two decades, chondrosarcoma in middle-aged
-adults, multiple myeloma in older adults — each have characteristic clinical, radiographic,
-and molecular signatures, and each respond to specific treatment regimens that have
-transformed survival over the past four decades. Metastatic bone disease, vastly more
-common than primary bone malignancy, demands a different surgical philosophy
-emphasizing palliation, immediate weight-bearing, durable fixation of the entire bone, and
-joint replacement when peri-articular. The Mirels score for long-bone metastases and the
-SINS score for spinal metastases provide validated frameworks for surgical decision-
-making. Across all of these conditions, the principles of pre-operative biopsy planning,
-oncological resection with adequate margins for curative cases, and the coordination of
-surgery with medical oncology and radiation oncology remain the bedrock of management,
+The malignant tumors of bone form a small but highly consequential group of diseases that demand multidisciplinary care, accurate biopsy, formal staging, and a coordinated combined-modality approach. The principal primary malignancies — osteosarcoma in adolescents, Ewing sarcoma in the first two decades, chondrosarcoma in middle-aged adults, multiple myeloma in older adults — each have characteristic clinical, radiographic, and molecular signatures, and each respond to specific treatment regimens that have transformed survival over the past four decades. Metastatic bone disease, vastly more common than primary bone malignancy, demands a different surgical philosophy emphasizing palliation, immediate weight-bearing, durable fixation of the entire bone, and joint replacement when peri-articular. The Mirels score for long-bone metastases and the SINS score for spinal metastases provide validated frameworks for surgical decision-making. Across all of these conditions, the principles of pre-operative biopsy planning, oncological resection with adequate margins for curative cases, and the coordination of surgery with medical oncology and radiation oncology remain the bedrock of management,
 
-and the orthopedic surgeon’s primary contribution — beyond the operation itself — is the
-diagnostic and triage role that determines whether a given patient enters a curative or a
-palliative pathway.
+and the orthopedic surgeon’s primary contribution — beyond the operation itself — is the diagnostic and triage role that determines whether a given patient enters a curative or a palliative pathway.

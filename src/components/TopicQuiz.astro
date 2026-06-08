@@ -1,0 +1,108 @@
+---
+import { type Lang } from "../i18n/ui";
+
+interface Props { lang: Lang; section: "ortho" | "trauma" | "anatomy"; n: number; }
+const { lang, section, n } = Astro.props;
+
+const modules = import.meta.glob("../data/quiz/*.json");
+const key = `../data/quiz/${section}-${n}.json`;
+let questions: { q: string; o: string[]; a: number }[] = [];
+if (modules[key]) {
+  const mod: any = await modules[key]();
+  questions = (mod.default ?? mod)[lang] ?? [];
+}
+const hasQuiz = questions.length > 0;
+
+const T = {
+  bg: { test: "Провери се", introMid: "случайни въпроса от", introEnd: "Всеки път различен.", qPre: "Въпрос", qMid: "от", score: "Точки", next: "Напред ›", finish: "Завърши", again: "↻ Нов тест", review: "Преглед", high: "Отлично", good: "Добре", low: "Повтори темата" },
+  en: { test: "Test yourself", introMid: "random questions from", introEnd: "Different every time.", qPre: "Question", qMid: "of", score: "Score", next: "Next ›", finish: "Finish", again: "↻ New test", review: "Review", high: "Excellent", good: "Good", low: "Revise the topic" },
+};
+const t = T[lang];
+const TEST_SIZE = 20;
+const dataJson = JSON.stringify({ testSize: TEST_SIZE, t, questions }).replace(/</g, "\\u003c");
+---
+{hasQuiz && (
+  <section class="aq">
+    <div class="aq-head">
+      <h2 class="aq-title">{t.test}</h2>
+      <p class="aq-sub">{TEST_SIZE} {t.introMid} {questions.length}. {t.introEnd}</p>
+    </div>
+    <button class="aq-btn" id="aqStart" type="button">▶ {t.test}</button>
+
+    <div class="aq-body" id="aqBody" hidden>
+      <div class="aq-meta"><span id="aqCount"></span><span id="aqScore"></span></div>
+      <div class="aq-bar"><i id="aqBar"></i></div>
+      <p class="aq-q" id="aqQ"></p>
+      <div class="aq-opts" id="aqOpts"></div>
+      <div class="aq-actions"><button class="aq-btn" id="aqNext" type="button" disabled></button></div>
+    </div>
+
+    <div class="aq-result" id="aqResult" hidden>
+      <div class="aq-final"><span id="aqFinal">0</span><small id="aqOf"></small></div>
+      <p class="aq-msg" id="aqMsg"></p>
+      <div class="aq-actions">
+        <button class="aq-btn" id="aqAgain" type="button"></button>
+        <button class="aq-btn aq-ghost" id="aqReview" type="button"></button>
+      </div>
+      <div class="aq-reviewlist" id="aqReviewList" hidden></div>
+    </div>
+
+    <script type="application/json" id="aqData" set:html={dataJson}></script>
+  </section>
+)}
+
+{hasQuiz && (
+<script is:inline>
+(function () {
+  var root = document.getElementById("aqData"); if (!root) return;
+  var cfg = JSON.parse(root.textContent); var POOL = cfg.questions, t = cfg.t, SIZE = cfg.testSize;
+  var test = [], idx = 0, correct = 0;
+  function $(id){ return document.getElementById(id); }
+  function shuffle(a){ a = a.slice(); for (var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var x=a[i]; a[i]=a[j]; a[j]=x; } return a; }
+  function build(){ var pick = shuffle(POOL).slice(0, Math.min(SIZE, POOL.length)); test = pick.map(function(it){ var order = shuffle(it.o.map(function(_,k){return k;})); return { it: it, order: order, correctPos: order.indexOf(it.a), picked: null }; }); idx = 0; correct = 0; }
+  function esc(x){ var d=document.createElement("div"); d.textContent=x; return d.innerHTML; }
+  function show(which){ $("aqBody").hidden = which!=="body"; $("aqResult").hidden = which!=="result"; }
+  function renderQ(){ var s=test[idx], it=s.it; $("aqCount").textContent=t.qPre+" "+(idx+1)+" "+t.qMid+" "+test.length; $("aqScore").textContent=t.score+": "+correct; $("aqBar").style.width=(idx/test.length*100)+"%"; $("aqQ").textContent=it.q; var box=$("aqOpts"); box.innerHTML=""; s.order.forEach(function(orig,pos){ var b=document.createElement("button"); b.type="button"; b.className="aq-opt"; b.textContent=it.o[orig]; b.onclick=function(){ pick(pos); }; box.appendChild(b); }); var nb=$("aqNext"); nb.disabled=true; nb.textContent=(idx===test.length-1)?t.finish:t.next; if(s.picked!==null) reveal(s); }
+  function pick(pos){ var s=test[idx]; if(s.picked!==null) return; s.picked=pos; if(pos===s.correctPos) correct++; reveal(s); }
+  function reveal(s){ var btns=$("aqOpts").children; for(var i=0;i<btns.length;i++){ btns[i].disabled=true; btns[i].classList.remove("correct","wrong"); if(i===s.correctPos) btns[i].classList.add("correct"); if(i===s.picked && s.picked!==s.correctPos) btns[i].classList.add("wrong"); } $("aqScore").textContent=t.score+": "+correct; $("aqNext").disabled=false; }
+  function next(){ if(idx<test.length-1){ idx++; renderQ(); } else result(); }
+  function result(){ show("result"); $("aqBar").style.width="100%"; var p=Math.round(correct/test.length*100); $("aqFinal").textContent=correct; $("aqOf").textContent=" / "+test.length; var m=p>=80?t.high:(p>=50?t.good:t.low); $("aqMsg").textContent=m+" — "+p+"%"; $("aqAgain").textContent=t.again; $("aqReview").textContent=t.review; var rl=$("aqReviewList"); rl.hidden=true; rl.innerHTML=""; }
+  function review(){ var rl=$("aqReviewList"); rl.hidden=!rl.hidden; if(rl.hidden) return; rl.innerHTML=""; test.forEach(function(s,k){ var it=s.it, ok=s.picked===s.correctPos; var your=s.picked===null?"—":it.o[s.order[s.picked]]; var d=document.createElement("div"); d.className="aq-ritem"; d.innerHTML='<div class="aq-rq">'+(k+1)+". "+esc(it.q)+'</div><div class="aq-ra '+(ok?"ok":"no")+'">'+(ok?"✓":"✗")+" "+(ok?"":"<s>"+esc(your)+"</s> → ")+"<b>"+esc(it.o[it.a])+"</b></div>"; rl.appendChild(d); }); }
+  $("aqStart").onclick=function(){ build(); $("aqStart").hidden=true; show("body"); renderQ(); };
+  $("aqNext").onclick=next;
+  $("aqAgain").onclick=function(){ build(); show("body"); renderQ(); };
+  $("aqReview").onclick=review;
+})();
+</script>
+)}
+
+<style is:global>
+.aq{ margin-top: var(--s-7); padding-top: var(--s-6); border-top: 1px solid var(--rule); }
+.aq-title{ font-size: var(--fs-h3); font-weight: 650; margin: 0 0 var(--s-2); }
+.aq-sub{ color: var(--ink-muted); font-size: var(--fs-meta); margin: 0 0 var(--s-4); }
+.aq-btn{ display:inline-flex; align-items:center; justify-content:center; gap:8px; background: var(--accent); color:#fff; border:0; border-radius:10px; padding:12px 18px; font: inherit; font-weight:650; cursor:pointer; transition: opacity 160ms var(--ease); }
+.aq-btn:hover{ opacity:.9; }
+.aq-btn:disabled{ opacity:.45; cursor:not-allowed; }
+.aq-btn.aq-ghost{ background:transparent; color: var(--ink); border:1px solid var(--rule-strong); }
+.aq-body,.aq-result{ margin-top: var(--s-5); background: var(--bg-elev); border:1px solid var(--rule); border-radius:14px; padding: var(--s-5); }
+.aq-meta{ display:flex; justify-content:space-between; color: var(--ink-muted); font-size: var(--fs-meta); margin-bottom: var(--s-2); }
+.aq-bar{ height:6px; background: var(--accent-soft); border-radius:999px; overflow:hidden; margin-bottom: var(--s-5); }
+.aq-bar>i{ display:block; height:100%; width:0; background: var(--accent); transition: width 250ms var(--ease); }
+.aq-q{ font-size: var(--fs-lede); font-weight:600; margin:0 0 var(--s-4); line-height:1.4; }
+.aq-opts{ display:flex; flex-direction:column; gap:10px; }
+.aq-opt{ text-align:left; width:100%; background: var(--bg); color: var(--ink); border:1px solid var(--rule-strong); border-radius:10px; padding:12px 14px; font: inherit; cursor:pointer; transition: border-color 120ms var(--ease), background 120ms var(--ease); }
+.aq-opt:hover:not(:disabled){ border-color: var(--accent); }
+.aq-opt:disabled{ cursor:default; }
+.aq-opt.correct{ border-color: var(--accent); background: var(--accent-soft); font-weight:600; }
+.aq-opt.wrong{ border-color:#e0564f; background: rgba(224,86,79,.12); }
+.aq-actions{ display:flex; gap:10px; margin-top: var(--s-5); }
+.aq-final{ font-size:2.5rem; font-weight:800; line-height:1; }
+.aq-final small{ font-size:1rem; color: var(--ink-muted); font-weight:600; }
+.aq-msg{ color: var(--ink-muted); margin: var(--s-2) 0 0; }
+.aq-reviewlist{ margin-top: var(--s-4); }
+.aq-ritem{ padding:10px 0; border-top:1px solid var(--rule); font-size: var(--fs-meta); }
+.aq-rq{ font-weight:600; margin-bottom:4px; }
+.aq-ra.ok{ color: var(--accent); }
+.aq-ra.no{ color:#e0564f; }
+.aq-ra s{ opacity:.7; }
+</style>

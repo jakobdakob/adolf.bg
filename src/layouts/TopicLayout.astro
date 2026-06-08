@@ -5,6 +5,7 @@ import TopicTOC from "../components/TopicTOC.astro";
 import MobileDrawer from "../components/MobileDrawer.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, type TopicEntry } from "../lib/topics";
+import TopicQuiz from "../components/TopicQuiz.astro";
 
 interface Heading { depth: number; slug: string; text: string }
 
@@ -60,6 +61,9 @@ const eyebrow =
       <div class="prose">
         <slot />
       </div>
+      {entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
+        <TopicQuiz lang={lang} section={entry.data.section} n={entry.data.topicNumber} />
+      )}
       <nav class="topic-prev-next" aria-label="prev/next">
         {prev ? (
           <a href={topicPath(lang, prev)} class="pn pn-prev" rel="prev">

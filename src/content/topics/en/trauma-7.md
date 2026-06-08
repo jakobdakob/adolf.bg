@@ -9,365 +9,72 @@ order: 107
 
 ## Introduction
 
-Among the systemic complications that follow orthopedic injury and surgery, venous
-thromboembolism (VTE) and fat embolism syndrome (FES) remain the two with the
-greatest historical mortality and the largest impact on contemporary perioperative
-protocols. Both share a common substrate — the immobilized polytrauma or arthroplasty
-patient with disrupted venous flow, activated coagulation, and a damaged medullary canal
-— but their pathophysiology, presentation, prophylaxis, and treatment differ in important
-ways. VTE, encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), is
-the most preventable cause of in-hospital mortality, and prophylactic regimens have
-become essentially universal in major orthopedic surgery since the seminal work of Geerts
-and the American College of Chest Physicians (ACCP) in the 1990s and 2000s. Fat
-embolism syndrome, recognized as a clinical entity since the Gurd and Wilson criteria of
-1974, is far less common but classically associated with closed long-bone (particularly
-femoral) fractures and intramedullary reaming, and remains an important consideration in
-the polytrauma patient discussed in the previous chapter. This chapter synthesizes the
-management of both conditions, drawing principally on Rockwood and Green’s Fractures
-in Adults, the AO Principles of Fracture Management, Miller’s Review of Orthopaedics, and
-Apley & Solomon’s System of Orthopaedics and Trauma.
+Among the systemic complications that follow orthopedic injury and surgery, venous thromboembolism (VTE) and fat embolism syndrome (FES) remain the two with the greatest historical mortality and the largest impact on contemporary perioperative protocols. Both share a common substrate — the immobilized polytrauma or arthroplasty patient with disrupted venous flow, activated coagulation, and a damaged medullary canal — but their pathophysiology, presentation, prophylaxis, and treatment differ in important ways. VTE, encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), is the most preventable cause of in-hospital mortality, and prophylactic regimens have become essentially universal in major orthopedic surgery since the seminal work of Geerts and the American College of Chest Physicians (ACCP) in the 1990s and 2000s. Fat embolism syndrome, recognized as a clinical entity since the Gurd and Wilson criteria of 1974, is far less common but classically associated with closed long-bone (particularly femoral) fractures and intramedullary reaming, and remains an important consideration in the polytrauma patient discussed in the previous chapter. This chapter synthesizes the management of both conditions, drawing principally on Rockwood and Green’s Fractures in Adults, the AO Principles of Fracture Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s System of Orthopaedics and Trauma.
 
 ## Venous Thromboembolism — Epidemiology and Pathophysiology
 
-The incidence of asymptomatic DVT after major orthopedic surgery, in the absence of
-prophylaxis, is remarkably high — historical venographic studies demonstrated rates of
-approximately 40 to 60 percent after total hip arthroplasty (THA) and total knee
-arthroplasty (TKA), and 40 to 50 percent after hip fracture surgery. Symptomatic DVT
-occurs in approximately 2 to 5 percent of patients, and clinically apparent PE in 0.5 to 2
-percent, with fatal PE historically affecting roughly 0.1 to 2 percent of major orthopedic
-patients without prophylaxis. The introduction of routine pharmacological
-thromboprophylaxis has reduced fatal PE rates by approximately 50 to 70 percent in the
-major orthopedic populations.
-The pathophysiology of VTE is described classically by Virchow’s triad (Rudolf Virchow,
-1856) — venous stasis, endothelial injury, and a hypercoagulable state — all three of which
-are present to varying degrees in the orthopedic patient. Venous stasis is produced by
-recumbency, by intraoperative positioning (the down leg in the lateral decubitus position,
-the tourniquet-occluded extremity), by postoperative immobilization, and by the sluggish
-flow in the muscular sinuses of the soleal and gastrocnemius veins. Endothelial injury
-results from direct surgical trauma, particularly in hip arthroplasty (where the femoral
-vein lies close to the operative field), and from heat injury during cement polymerization.
-The hypercoagulable state is part of the systemic stress response to surgery, with increases
-in fibrinogen, factor VIII, and platelet activation, and a corresponding decrease in
-fibrinolytic activity in the first postoperative days.
+The incidence of asymptomatic DVT after major orthopedic surgery, in the absence of prophylaxis, is remarkably high — historical venographic studies demonstrated rates of approximately 40 to 60 percent after total hip arthroplasty (THA) and total knee arthroplasty (TKA), and 40 to 50 percent after hip fracture surgery. Symptomatic DVT occurs in approximately 2 to 5 percent of patients, and clinically apparent PE in 0.5 to 2 percent, with fatal PE historically affecting roughly 0.1 to 2 percent of major orthopedic patients without prophylaxis. The introduction of routine pharmacological thromboprophylaxis has reduced fatal PE rates by approximately 50 to 70 percent in the major orthopedic populations. The pathophysiology of VTE is described classically by Virchow’s triad (Rudolf Virchow, 1856) — venous stasis, endothelial injury, and a hypercoagulable state — all three of which are present to varying degrees in the orthopedic patient. Venous stasis is produced by recumbency, by intraoperative positioning (the down leg in the lateral decubitus position, the tourniquet-occluded extremity), by postoperative immobilization, and by the sluggish flow in the muscular sinuses of the soleal and gastrocnemius veins. Endothelial injury results from direct surgical trauma, particularly in hip arthroplasty (where the femoral vein lies close to the operative field), and from heat injury during cement polymerization. The hypercoagulable state is part of the systemic stress response to surgery, with increases in fibrinogen, factor VIII, and platelet activation, and a corresponding decrease in fibrinolytic activity in the first postoperative days.
 
-Trauma-specific risk factors include pelvic and acetabular fractures (where venous injury
-and prolonged immobilization combine to give some of the highest VTE rates in
-orthopedics, approaching 60 percent in untreated polytrauma series), femoral shaft
-fractures, spinal cord injury (where the loss of sympathetic tone and complete
-immobilization combine to produce VTE rates approaching 80 percent without
-prophylaxis), and prolonged tourniquet use. Other recognized risk factors include
-increasing age, obesity, prior VTE, active malignancy, oral contraceptive or hormone
-replacement therapy, pregnancy, inherited thrombophilias (factor V Leiden, prothrombin
-G20210A, protein C/S deficiency, antithrombin deficiency), and the antiphospholipid
-syndrome.
+Trauma-specific risk factors include pelvic and acetabular fractures (where venous injury and prolonged immobilization combine to give some of the highest VTE rates in orthopedics, approaching 60 percent in untreated polytrauma series), femoral shaft fractures, spinal cord injury (where the loss of sympathetic tone and complete immobilization combine to produce VTE rates approaching 80 percent without prophylaxis), and prolonged tourniquet use. Other recognized risk factors include increasing age, obesity, prior VTE, active malignancy, oral contraceptive or hormone replacement therapy, pregnancy, inherited thrombophilias (factor V Leiden, prothrombin G20210A, protein C/S deficiency, antithrombin deficiency), and the antiphospholipid syndrome.
 
 ## Risk Stratification
 
-Two scoring systems are most commonly used to stratify VTE risk in the surgical patient.
-The Caprini score, developed by Joseph Caprini in the late 1980s and refined over
-subsequent decades, assigns points to risk factors including age (one point for 41 to 60
-years, two points for 61 to 74 years, three points for 75 or more), minor surgery (one
-point), major surgery over 45 minutes (two points), arthroscopic surgery (two points),
-elective major arthroplasty (five points), hip pelvis or leg fracture (five points), acute spinal
-cord injury (five points), prior VTE (three points), known thrombophilia (three points), and
-many others. Scores of 0–1 are very low risk, 2 low, 3–4 moderate, and 5 or higher high
-risk. The score guides intensity of prophylaxis: mechanical only for very low, mechanical
-plus consideration of pharmacological for low/moderate, and full pharmacological
-prophylaxis for high-risk patients.
-The Wells score for DVT and the parallel Wells score for PE are used to stratify the
-pretest probability of acute disease in the symptomatic patient, guiding the choice of D-
-dimer testing versus immediate imaging. The DVT Wells score includes active cancer,
-paralysis or recent immobilization, recent bedridden state of three or more days or major
-surgery within four weeks, localized tenderness along the deep venous system, entire leg
-swollen, calf swelling greater than 3 cm compared to the asymptomatic side, pitting edema,
-collateral superficial veins, and previous DVT, with one point each, minus two for an
-alternative diagnosis at least as likely; a score of 2 or higher is “DVT likely.” The PE Wells
-score includes clinical signs of DVT (three points), PE most likely diagnosis (three points),
-heart rate over 100 (1.5), immobilization or surgery within four weeks (1.5), previous
-DVT/PE (1.5), hemoptysis (one), and malignancy (one); scores above 4 are “PE likely” and
-warrant CT pulmonary angiography without preceding D-dimer.
+Two scoring systems are most commonly used to stratify VTE risk in the surgical patient. The Caprini score, developed by Joseph Caprini in the late 1980s and refined over subsequent decades, assigns points to risk factors including age (one point for 41 to 60 years, two points for 61 to 74 years, three points for 75 or more), minor surgery (one point), major surgery over 45 minutes (two points), arthroscopic surgery (two points), elective major arthroplasty (five points), hip pelvis or leg fracture (five points), acute spinal cord injury (five points), prior VTE (three points), known thrombophilia (three points), and many others. Scores of 0–1 are very low risk, 2 low, 3–4 moderate, and 5 or higher high risk. The score guides intensity of prophylaxis: mechanical only for very low, mechanical plus consideration of pharmacological for low/moderate, and full pharmacological prophylaxis for high-risk patients. The Wells score for DVT and the parallel Wells score for PE are used to stratify the pretest probability of acute disease in the symptomatic patient, guiding the choice of D-dimer testing versus immediate imaging. The DVT Wells score includes active cancer, paralysis or recent immobilization, recent bedridden state of three or more days or major surgery within four weeks, localized tenderness along the deep venous system, entire leg swollen, calf swelling greater than 3 cm compared to the asymptomatic side, pitting edema, collateral superficial veins, and previous DVT, with one point each, minus two for an alternative diagnosis at least as likely; a score of 2 or higher is “DVT likely.” The PE Wells score includes clinical signs of DVT (three points), PE most likely diagnosis (three points), heart rate over 100 (1.5), immobilization or surgery within four weeks (1.5), previous DVT/PE (1.5), hemoptysis (one), and malignancy (one); scores above 4 are “PE likely” and warrant CT pulmonary angiography without preceding D-dimer.
 
 ## Clinical Features of DVT and Pulmonary Embolism
 
-The clinical recognition of DVT in the orthopedic patient is notoriously unreliable. The
-classical signs — calf pain, tenderness along the venous system, unilateral leg swelling,
-warmth, Homans’ sign (calf pain with passive dorsiflexion of the foot, described by John
-Homans in 1944), and a palpable cord — are neither sensitive nor specific in a
-postoperative patient who already has postoperative swelling, hematoma, and pain from
-the surgery itself. Asymptomatic DVT, particularly in the calf veins, is the rule rather than
-the exception in the early postoperative period.
+The clinical recognition of DVT in the orthopedic patient is notoriously unreliable. The classical signs — calf pain, tenderness along the venous system, unilateral leg swelling, warmth, Homans’ sign (calf pain with passive dorsiflexion of the foot, described by John Homans in 1944), and a palpable cord — are neither sensitive nor specific in a postoperative patient who already has postoperative swelling, hematoma, and pain from the surgery itself. Asymptomatic DVT, particularly in the calf veins, is the rule rather than the exception in the early postoperative period.
 
-Pulmonary embolism is similarly heterogeneous in presentation. Submassive PE may
-present with subtle tachypnea, mild hypoxemia, pleuritic chest pain, or unexplained
-tachycardia; massive PE produces hemodynamic collapse with hypotension, syncope, right
-heart strain, and sudden death. The classical Westermark sign (regional oligemia) and
-Hampton’s hump (a wedge-shaped pleural-based opacity) on plain chest radiograph are
-insensitive. Electrocardiographic findings, including sinus tachycardia and the much-
-quoted but uncommon S1Q3T3 pattern, lack diagnostic specificity. The orthopedic
-surgeon should maintain a low threshold for investigation in any postoperative patient
-with unexplained tachycardia, hypoxemia, or dyspnea.
+Pulmonary embolism is similarly heterogeneous in presentation. Submassive PE may present with subtle tachypnea, mild hypoxemia, pleuritic chest pain, or unexplained tachycardia; massive PE produces hemodynamic collapse with hypotension, syncope, right heart strain, and sudden death. The classical Westermark sign (regional oligemia) and Hampton’s hump (a wedge-shaped pleural-based opacity) on plain chest radiograph are insensitive. Electrocardiographic findings, including sinus tachycardia and the much-quoted but uncommon S1Q3T3 pattern, lack diagnostic specificity. The orthopedic surgeon should maintain a low threshold for investigation in any postoperative patient with unexplained tachycardia, hypoxemia, or dyspnea.
 
 ## Diagnosis
 
-For suspected DVT, duplex ultrasonography is the first-line imaging modality, with
-sensitivity above 95 percent for proximal (femoropopliteal) DVT but lower (approximately
-70 percent) for isolated calf DVT. In the patient with low pretest probability (Wells score
-under 2), a negative high-sensitivity D-dimer assay can effectively exclude DVT; in the
-postoperative orthopedic patient, however, D-dimer is almost universally elevated by the
-surgery itself and is therefore of limited utility. CT venography and MR venography are
-reserved for cases where duplex is non-diagnostic or where pelvic and iliac vein
-involvement is suspected (such as after acetabular surgery).
-For suspected PE, CT pulmonary angiography (CTPA) has replaced ventilation-perfusion
-(V/Q) scanning as the principal diagnostic modality, with sensitivity and specificity both
-above 95 percent for clinically significant PE. V/Q scanning retains a role in patients with
-renal impairment, contrast allergy, or pregnancy. Bedside echocardiography may
-demonstrate right ventricular dilation and strain in massive PE and is useful in the
-hemodynamically unstable patient who cannot be transported safely. The clinical decision
-pathway combines pretest probability assessment (Wells score), D-dimer in selected
-patients, and imaging.
+For suspected DVT, duplex ultrasonography is the first-line imaging modality, with sensitivity above 95 percent for proximal (femoropopliteal) DVT but lower (approximately 70 percent) for isolated calf DVT. In the patient with low pretest probability (Wells score under 2), a negative high-sensitivity D-dimer assay can effectively exclude DVT; in the postoperative orthopedic patient, however, D-dimer is almost universally elevated by the surgery itself and is therefore of limited utility. CT venography and MR venography are reserved for cases where duplex is non-diagnostic or where pelvic and iliac vein involvement is suspected (such as after acetabular surgery). For suspected PE, CT pulmonary angiography (CTPA) has replaced ventilation-perfusion (V/Q) scanning as the principal diagnostic modality, with sensitivity and specificity both above 95 percent for clinically significant PE. V/Q scanning retains a role in patients with renal impairment, contrast allergy, or pregnancy. Bedside echocardiography may demonstrate right ventricular dilation and strain in massive PE and is useful in the hemodynamically unstable patient who cannot be transported safely. The clinical decision pathway combines pretest probability assessment (Wells score), D-dimer in selected patients, and imaging.
 
 ## Mechanical Prophylaxis
 
-Mechanical prophylaxis works by reducing venous stasis and, to a limited extent, by
-upregulating endogenous fibrinolysis. Graduated compression stockings (GCS) provide
-modest reduction in DVT risk and are typically combined with pharmacological agents
-rather than used in isolation in major orthopedic surgery. Intermittent pneumatic
-compression (IPC) devices — either calf or thigh-length sleeves with sequential or single-
-chamber inflation — produce more substantial reductions and are particularly important
-in the patient where anticoagulation is contraindicated (acute intracranial hemorrhage,
-ongoing major bleeding, recent neurosurgery, fresh epidural anesthetic catheter). The
-AAOS clinical practice guideline for VTE prophylaxis in hip and knee arthroplasty
-considers mechanical prophylaxis a reasonable alternative to pharmacological agents in
-lower-risk patients, although the ACCP guidelines retain a preference for combined
-mechanical and pharmacological strategies. Foot pumps (impulse plantar venous
-compression devices) target the plantar venous plexus and provide an alternative when
-calf compression is impractical, although evidence of efficacy is less robust.
+Mechanical prophylaxis works by reducing venous stasis and, to a limited extent, by upregulating endogenous fibrinolysis. Graduated compression stockings (GCS) provide modest reduction in DVT risk and are typically combined with pharmacological agents rather than used in isolation in major orthopedic surgery. Intermittent pneumatic compression (IPC) devices — either calf or thigh-length sleeves with sequential or single-chamber inflation — produce more substantial reductions and are particularly important in the patient where anticoagulation is contraindicated (acute intracranial hemorrhage, ongoing major bleeding, recent neurosurgery, fresh epidural anesthetic catheter). The AAOS clinical practice guideline for VTE prophylaxis in hip and knee arthroplasty considers mechanical prophylaxis a reasonable alternative to pharmacological agents in lower-risk patients, although the ACCP guidelines retain a preference for combined mechanical and pharmacological strategies. Foot pumps (impulse plantar venous compression devices) target the plantar venous plexus and provide an alternative when calf compression is impractical, although evidence of efficacy is less robust.
 
 ## Pharmacological Prophylaxis
 
-The choice of pharmacological agent has been the subject of extensive trial work and
-remains an area where the AAOS and ACCP guidelines diverge in emphasis. The principal
-agents and their roles are as follows.
-Low-molecular-weight heparin (LMWH) — enoxaparin (40 mg subcutaneous once
-daily, or 30 mg twice daily in North American protocols) — has been the workhorse of
-orthopedic VTE prophylaxis since the 1990s. LMWH produces selective inhibition of factor
-Xa via antithrombin, with lower rates of heparin-induced thrombocytopenia (HIT) than
-unfractionated heparin, predictable pharmacokinetics that obviate routine monitoring, and
-convenient once- or twice-daily dosing. Dalteparin and tinzaparin are alternative LMWH
-agents with similar efficacy. Unfractionated heparin retains a role in patients with severe
-renal failure (where LMWH accumulates) and in those at very high bleeding risk where
-rapid reversibility with protamine is desired.
-Fondaparinux (2.5 mg subcutaneously once daily), a synthetic pentasaccharide that
-selectively inhibits factor Xa, was shown in the PENTHIFRA, PENTAMAKS, and EPHESUS
-trials to be modestly superior to enoxaparin for VTE reduction in hip fracture and
-arthroplasty surgery, at the cost of slightly higher major bleeding. It is approved for hip
-fracture, hip and knee arthroplasty, and a useful alternative in patients with HIT.
-The direct oral anticoagulants (DOACs) — rivaroxaban (10 mg orally once daily),
-apixaban (2.5 mg twice daily), dabigatran (220 mg once daily after a 110-mg initial dose),
-and edoxaban — have been extensively evaluated in the orthopedic population, with the
-RECORD trials (rivaroxaban), ADVANCE trials (apixaban), and RE-MODEL/RE-
-NOVATE/RE-MOBILIZE trials (dabigatran) all demonstrating non-inferiority or
-superiority versus enoxaparin for VTE prevention after hip and knee arthroplasty with
-similar bleeding profiles. The DOACs offer the substantial practical advantage of oral
-administration, with rapid uptake by both surgeons and patients. Rivaroxaban and
-apixaban have become the predominant agents in many centers worldwide.
-Aspirin had a controversial role for decades, initially considered inadequate as
-monotherapy by the ACCP. The PEP trial (Pulmonary Embolism Prevention, 2000)
-suggested benefit for low-dose aspirin in hip fracture surgery, and subsequent trials
-including EPCAT II (Anderson et al., 2018) demonstrated that aspirin 81 mg twice daily
-was non-inferior to rivaroxaban for VTE prevention after total hip and knee arthroplasty
-when used after an initial five-day course of rivaroxaban. The PEPPER trial, a large
-pragmatic randomized trial comparing aspirin, warfarin, and rivaroxaban in arthroplasty
-patients, has reported aspirin to be non-inferior in selected populations. Aspirin has
-therefore been reclassified by AAOS as an acceptable agent in standard-risk arthroplasty
-patients, although the ACCP guidelines continue to favor anticoagulants for high-risk
-patients.
-Warfarin, dose-adjusted to an INR of 2.0 to 3.0, was historically used widely in North
-American arthroplasty centers, particularly for prolonged outpatient prophylaxis. It has
-largely been displaced by the DOACs because of its narrow therapeutic window, the need
-for INR monitoring, drug and food interactions, and slower onset.
+The choice of pharmacological agent has been the subject of extensive trial work and remains an area where the AAOS and ACCP guidelines diverge in emphasis. The principal agents and their roles are as follows. Low-molecular-weight heparin (LMWH) — enoxaparin (40 mg subcutaneous once daily, or 30 mg twice daily in North American protocols) — has been the workhorse of orthopedic VTE prophylaxis since the 1990s. LMWH produces selective inhibition of factor Xa via antithrombin, with lower rates of heparin-induced thrombocytopenia (HIT) than unfractionated heparin, predictable pharmacokinetics that obviate routine monitoring, and convenient once- or twice-daily dosing. Dalteparin and tinzaparin are alternative LMWH agents with similar efficacy. Unfractionated heparin retains a role in patients with severe renal failure (where LMWH accumulates) and in those at very high bleeding risk where rapid reversibility with protamine is desired. Fondaparinux (2.5 mg subcutaneously once daily), a synthetic pentasaccharide that selectively inhibits factor Xa, was shown in the PENTHIFRA, PENTAMAKS, and EPHESUS trials to be modestly superior to enoxaparin for VTE reduction in hip fracture and arthroplasty surgery, at the cost of slightly higher major bleeding. It is approved for hip fracture, hip and knee arthroplasty, and a useful alternative in patients with HIT. The direct oral anticoagulants (DOACs) — rivaroxaban (10 mg orally once daily), apixaban (2.5 mg twice daily), dabigatran (220 mg once daily after a 110-mg initial dose), and edoxaban — have been extensively evaluated in the orthopedic population, with the RECORD trials (rivaroxaban), ADVANCE trials (apixaban), and RE-MODEL/RE-NOVATE/RE-MOBILIZE trials (dabigatran) all demonstrating non-inferiority or superiority versus enoxaparin for VTE prevention after hip and knee arthroplasty with similar bleeding profiles. The DOACs offer the substantial practical advantage of oral administration, with rapid uptake by both surgeons and patients. Rivaroxaban and apixaban have become the predominant agents in many centers worldwide. Aspirin had a controversial role for decades, initially considered inadequate as monotherapy by the ACCP. The PEP trial (Pulmonary Embolism Prevention, 2000) suggested benefit for low-dose aspirin in hip fracture surgery, and subsequent trials including EPCAT II (Anderson et al., 2018) demonstrated that aspirin 81 mg twice daily was non-inferior to rivaroxaban for VTE prevention after total hip and knee arthroplasty when used after an initial five-day course of rivaroxaban. The PEPPER trial, a large pragmatic randomized trial comparing aspirin, warfarin, and rivaroxaban in arthroplasty patients, has reported aspirin to be non-inferior in selected populations. Aspirin has therefore been reclassified by AAOS as an acceptable agent in standard-risk arthroplasty patients, although the ACCP guidelines continue to favor anticoagulants for high-risk patients. Warfarin, dose-adjusted to an INR of 2.0 to 3.0, was historically used widely in North American arthroplasty centers, particularly for prolonged outpatient prophylaxis. It has largely been displaced by the DOACs because of its narrow therapeutic window, the need for INR monitoring, drug and food interactions, and slower onset.
 
-The duration of prophylaxis is graded by procedure. For total hip arthroplasty and hip
-fracture surgery, extended prophylaxis for 28 to 35 days is recommended; for total knee
-arthroplasty, the duration is typically 10 to 14 days, although extended prophylaxis to 28 to
-35 days is offered as an option in higher-risk patients. For lower-risk procedures (e.g.,
-arthroscopy, isolated foot and ankle surgery) routine extended chemical prophylaxis is
-generally not recommended. For polytrauma and spinal cord injury, prophylaxis continues
-until the patient is mobile, with consideration of indefinite continuation in patients with
-permanent spinal cord injury.
+The duration of prophylaxis is graded by procedure. For total hip arthroplasty and hip fracture surgery, extended prophylaxis for 28 to 35 days is recommended; for total knee arthroplasty, the duration is typically 10 to 14 days, although extended prophylaxis to 28 to 35 days is offered as an option in higher-risk patients. For lower-risk procedures (e.g., arthroscopy, isolated foot and ankle surgery) routine extended chemical prophylaxis is generally not recommended. For polytrauma and spinal cord injury, prophylaxis continues until the patient is mobile, with consideration of indefinite continuation in patients with permanent spinal cord injury.
 
 ## Inferior Vena Cava (IVC) Filters
 
-IVC filters interrupt the path from lower extremity DVT to the pulmonary circulation. Their
-use in orthopedic surgery is restricted to the patient with documented proximal DVT or PE
-in whom anticoagulation is absolutely contraindicated, or in whom anticoagulation has
-failed (recurrent PE despite adequate anticoagulation). Prophylactic IVC filter placement in
-the polytrauma patient without documented VTE was popular in the 1990s and early
-2000s but has largely fallen out of favor following the PREPIC trial and subsequent meta-
-analyses, which demonstrated a small reduction in PE but no mortality benefit and a
-substantial increase in DVT rate from filter-related thrombosis. Retrievable filters can be
-removed once the period of risk has passed; non-retrieval results in filter dwell
-complications including caval thrombosis, filter migration, and strut fracture, leading to a
-recent FDA safety communication advocating for prompt removal whenever clinically
-feasible.
+IVC filters interrupt the path from lower extremity DVT to the pulmonary circulation. Their use in orthopedic surgery is restricted to the patient with documented proximal DVT or PE in whom anticoagulation is absolutely contraindicated, or in whom anticoagulation has failed (recurrent PE despite adequate anticoagulation). Prophylactic IVC filter placement in the polytrauma patient without documented VTE was popular in the 1990s and early 2000s but has largely fallen out of favor following the PREPIC trial and subsequent meta-analyses, which demonstrated a small reduction in PE but no mortality benefit and a substantial increase in DVT rate from filter-related thrombosis. Retrievable filters can be removed once the period of risk has passed; non-retrieval results in filter dwell complications including caval thrombosis, filter migration, and strut fracture, leading to a recent FDA safety communication advocating for prompt removal whenever clinically feasible.
 
 ## Treatment of Established DVT and PE
 
-Established DVT is treated with therapeutic anticoagulation for a minimum of three
-months. The traditional regimen — initial low-molecular-weight heparin or unfractionated
-heparin overlapped with warfarin titrated to INR 2.0 to 3.0 — has been largely supplanted
-by direct oral anticoagulants. Rivaroxaban and apixaban are administered as standalone
-therapy with an initial loading regimen (rivaroxaban 15 mg twice daily for 21 days then 20
-mg daily; apixaban 10 mg twice daily for 7 days then 5 mg twice daily), while dabigatran
-and edoxaban require an initial 5- to 10-day lead-in with parenteral anticoagulation.
-Provoked DVT in the setting of an identifiable transient risk factor (surgery, trauma) is
-treated for three months; unprovoked or recurrent DVT may warrant indefinite
-anticoagulation.
-PE is stratified by hemodynamic status. Low-risk PE (hemodynamically stable, no right
-ventricular strain on echocardiography or CT, normal cardiac biomarkers) is treated with
-anticoagulation alone. Submassive (intermediate-risk) PE (right ventricular dysfunction
-or elevated troponin/BNP but stable blood pressure) requires close monitoring and
-consideration of catheter-directed thrombolysis. Massive PE with sustained hypotension
-or shock is an indication for systemic thrombolysis (alteplase 100 mg IV over two hours)
-or, in centers with the capacity, surgical or catheter-based embolectomy. Catheter-directed
-thrombolysis using ultrasound-assisted devices delivers lower thrombolytic doses with
-reduced bleeding complications and has gained traction for intermediate-risk PE.
+Established DVT is treated with therapeutic anticoagulation for a minimum of three months. The traditional regimen — initial low-molecular-weight heparin or unfractionated heparin overlapped with warfarin titrated to INR 2.0 to 3.0 — has been largely supplanted by direct oral anticoagulants. Rivaroxaban and apixaban are administered as standalone therapy with an initial loading regimen (rivaroxaban 15 mg twice daily for 21 days then 20 mg daily; apixaban 10 mg twice daily for 7 days then 5 mg twice daily), while dabigatran and edoxaban require an initial 5- to 10-day lead-in with parenteral anticoagulation. Provoked DVT in the setting of an identifiable transient risk factor (surgery, trauma) is treated for three months; unprovoked or recurrent DVT may warrant indefinite anticoagulation. PE is stratified by hemodynamic status. Low-risk PE (hemodynamically stable, no right ventricular strain on echocardiography or CT, normal cardiac biomarkers) is treated with anticoagulation alone. Submassive (intermediate-risk) PE (right ventricular dysfunction or elevated troponin/BNP but stable blood pressure) requires close monitoring and consideration of catheter-directed thrombolysis. Massive PE with sustained hypotension or shock is an indication for systemic thrombolysis (alteplase 100 mg IV over two hours) or, in centers with the capacity, surgical or catheter-based embolectomy. Catheter-directed thrombolysis using ultrasound-assisted devices delivers lower thrombolytic doses with reduced bleeding complications and has gained traction for intermediate-risk PE.
 
 ## Fat Embolism Syndrome — Pathophysiology
 
-Fat embolism syndrome is a clinical syndrome of pulmonary, neurological, and cutaneous
-manifestations occurring most characteristically 24 to 72 hours after long-bone fracture
-(particularly closed femoral shaft fractures) or after intramedullary instrumentation. Fat
-embolism — the presence of fat globules in the pulmonary circulation — is essentially
-universal after long-bone fracture, identifiable by transesophageal echocardiography
-during intramedullary reaming and by lung histology at autopsy. Fat embolism syndrome
-is the clinical syndrome that follows in a small minority. The incidence of clinically
-apparent FES after isolated femoral shaft fracture is approximately 1 to 3 percent, rising to
-5 to 10 percent in bilateral femoral fractures, and to 10 to 20 percent in some polytrauma
-series.
-Two principal theories explain the pathophysiology, and both are likely correct in part. The
-mechanical theory, proposed by von Bergmann in 1873, holds that disruption of the
-intramedullary canal allows marrow fat to enter venous channels under pressure and
-embolize to the pulmonary capillary bed; some of this fat passes through pulmonary
-arteriovenous shunts or through a patent foramen ovale into the systemic circulation,
-producing neurological and dermal manifestations. The biochemical theory, advanced by
-Lehman and Moore in 1927, holds that catecholamine-mediated mobilization of free fatty
-acids from peripheral fat stores, combined with C-reactive protein-induced coalescence of
-circulating lipid, produces toxic free fatty acids that directly damage pulmonary capillary
-endothelium. The clinical features of FES, particularly the delayed onset and the
-inflammatory pulmonary picture, are best explained by the combined model — mechanical
-embolization providing the substrate for delayed biochemical injury.
+Fat embolism syndrome is a clinical syndrome of pulmonary, neurological, and cutaneous manifestations occurring most characteristically 24 to 72 hours after long-bone fracture (particularly closed femoral shaft fractures) or after intramedullary instrumentation. Fat embolism — the presence of fat globules in the pulmonary circulation — is essentially universal after long-bone fracture, identifiable by transesophageal echocardiography during intramedullary reaming and by lung histology at autopsy. Fat embolism syndrome is the clinical syndrome that follows in a small minority. The incidence of clinically apparent FES after isolated femoral shaft fracture is approximately 1 to 3 percent, rising to 5 to 10 percent in bilateral femoral fractures, and to 10 to 20 percent in some polytrauma series. Two principal theories explain the pathophysiology, and both are likely correct in part. The mechanical theory, proposed by von Bergmann in 1873, holds that disruption of the intramedullary canal allows marrow fat to enter venous channels under pressure and embolize to the pulmonary capillary bed; some of this fat passes through pulmonary arteriovenous shunts or through a patent foramen ovale into the systemic circulation, producing neurological and dermal manifestations. The biochemical theory, advanced by Lehman and Moore in 1927, holds that catecholamine-mediated mobilization of free fatty acids from peripheral fat stores, combined with C-reactive protein-induced coalescence of circulating lipid, produces toxic free fatty acids that directly damage pulmonary capillary endothelium. The clinical features of FES, particularly the delayed onset and the inflammatory pulmonary picture, are best explained by the combined model — mechanical embolization providing the substrate for delayed biochemical injury.
 
 ## Clinical Features and the Gurd & Wilson Criteria
 
-The classical presentation of FES involves the triad of pulmonary, neurological, and
-cutaneous (petechial) findings, typically appearing 24 to 72 hours after injury. The
-pulmonary manifestation is hypoxemia, tachypnea, and progressive respiratory failure that
-may evolve into acute respiratory distress syndrome. The neurological features range from
-mild confusion and restlessness through agitation and lethargy to seizures and coma; these
-symptoms can be the earliest manifestation and may precede the respiratory findings. The
-cutaneous manifestation is a characteristic petechial rash distributed over the upper
-torso, axillae, conjunctivae, oral mucosa, and the soft palate. The rash is the most specific
-finding but is present in only 50 to 60 percent of cases and typically appears late.
-The Gurd and Wilson criteria (1974) formalized the diagnosis. The major criteria are
-petechial rash, respiratory insufficiency, and cerebral involvement. The minor criteria are
-tachycardia (over 110), fever (over 38.5°C), retinal changes (cottonwool spots, Purtscher
-retinopathy), renal changes (oliguria, anuria, lipiduria), thrombocytopenia, anemia,
-elevated erythrocyte sedimentation rate, and fat macroglobulinemia. Diagnosis requires at
-least one major and four minor criteria, or two major criteria with fat in the urine or
-sputum. The Schonfeld scoring system (1983) provides a quantitative alternative,
-assigning weighted points to petechiae (5), chest radiograph changes (4), hypoxemia (3),
+The classical presentation of FES involves the triad of pulmonary, neurological, and cutaneous (petechial) findings, typically appearing 24 to 72 hours after injury. The pulmonary manifestation is hypoxemia, tachypnea, and progressive respiratory failure that may evolve into acute respiratory distress syndrome. The neurological features range from mild confusion and restlessness through agitation and lethargy to seizures and coma; these symptoms can be the earliest manifestation and may precede the respiratory findings. The cutaneous manifestation is a characteristic petechial rash distributed over the upper torso, axillae, conjunctivae, oral mucosa, and the soft palate. The rash is the most specific finding but is present in only 50 to 60 percent of cases and typically appears late. The Gurd and Wilson criteria (1974) formalized the diagnosis. The major criteria are petechial rash, respiratory insufficiency, and cerebral involvement. The minor criteria are tachycardia (over 110), fever (over 38.5°C), retinal changes (cottonwool spots, Purtscher retinopathy), renal changes (oliguria, anuria, lipiduria), thrombocytopenia, anemia, elevated erythrocyte sedimentation rate, and fat macroglobulinemia. Diagnosis requires at least one major and four minor criteria, or two major criteria with fat in the urine or sputum. The Schonfeld scoring system (1983) provides a quantitative alternative, assigning weighted points to petechiae (5), chest radiograph changes (4), hypoxemia (3),
 
-fever, tachycardia, tachypnea, and confusion (each 1), with a score over 5 considered
-diagnostic.
+fever, tachycardia, tachypnea, and confusion (each 1), with a score over 5 considered diagnostic.
 
 ## Imaging and Laboratory Findings
 
-The chest radiograph in FES classically shows bilateral, patchy, fluffy, ill-defined infiltrates
-(“snowstorm” appearance), although the findings may lag the clinical picture by 12 to 24
-hours. Chest CT shows a non-specific pattern of ground-glass opacities and centrilobular
-nodules. MRI of the brain in patients with cerebral fat embolism shows a characteristic
-“starfield” pattern of multiple punctate hyperintensities on diffusion-weighted imaging,
-distributed in a watershed pattern. Laboratory findings include thrombocytopenia
-(typically nadir at 5 to 7 days), anemia (out of proportion to expected blood loss), and
-elevated lipase and triglycerides. Fat globules can be demonstrated in sputum and urine,
-although these findings lack sensitivity and specificity.
+The chest radiograph in FES classically shows bilateral, patchy, fluffy, ill-defined infiltrates (“snowstorm” appearance), although the findings may lag the clinical picture by 12 to 24 hours. Chest CT shows a non-specific pattern of ground-glass opacities and centrilobular nodules. MRI of the brain in patients with cerebral fat embolism shows a characteristic “starfield” pattern of multiple punctate hyperintensities on diffusion-weighted imaging, distributed in a watershed pattern. Laboratory findings include thrombocytopenia (typically nadir at 5 to 7 days), anemia (out of proportion to expected blood loss), and elevated lipase and triglycerides. Fat globules can be demonstrated in sputum and urine, although these findings lack sensitivity and specificity.
 
 ## Prevention and Treatment
 
-The treatment of established FES is largely supportive — adequate oxygenation (which
-may require mechanical ventilation with positive end-expiratory pressure), hemodynamic
-support, and fluid balance management. There is no specific therapy. Corticosteroids have
-been studied extensively, and meta-analyses suggest a moderate reduction in FES
-incidence with prophylactic high-dose methylprednisolone (typically 30 mg/kg) in high-
-risk patients with long-bone fractures, although this has not translated into widespread
-practice because of concerns about infection risk and the relatively low incidence of full-
-blown FES with modern early fracture stabilization. The most important preventive
-measure is early stabilization of long-bone fractures, ideally within 24 hours, which
-substantially reduces FES incidence by terminating the ongoing mechanical embolization.
-The relationship between intramedullary reaming and FES has been the subject of
-intense investigation, particularly in the polytrauma context discussed in the chapter on
-damage control orthopedics. Reaming generates intramedullary pressures of 400 to 1,200
-mmHg, with consequent embolization of marrow contents detectable in real time on
-transesophageal echocardiography. The Reamer-Irrigator-Aspirator (RIA) system
-developed by Synthes was introduced to reduce intramedullary pressure during reaming
-by simultaneous irrigation and aspiration; clinical and animal data demonstrate substantial
-reduction in embolic load with the RIA system. In the polytrauma patient with established
-lung injury, the decision between immediate intramedullary nailing of a femoral shaft
-fracture and damage-control external fixation followed by delayed nailing should
-incorporate this risk. The classical concern about femoral nailing precipitating ARDS in the
-unstable polytrauma patient — articulated by Pape and colleagues in the late 1990s —
-remains a principal driver of the staged approach in the unstable patient.
+The treatment of established FES is largely supportive — adequate oxygenation (which may require mechanical ventilation with positive end-expiratory pressure), hemodynamic support, and fluid balance management. There is no specific therapy. Corticosteroids have been studied extensively, and meta-analyses suggest a moderate reduction in FES incidence with prophylactic high-dose methylprednisolone (typically 30 mg/kg) in high-risk patients with long-bone fractures, although this has not translated into widespread practice because of concerns about infection risk and the relatively low incidence of full-blown FES with modern early fracture stabilization. The most important preventive measure is early stabilization of long-bone fractures, ideally within 24 hours, which substantially reduces FES incidence by terminating the ongoing mechanical embolization. The relationship between intramedullary reaming and FES has been the subject of intense investigation, particularly in the polytrauma context discussed in the chapter on damage control orthopedics. Reaming generates intramedullary pressures of 400 to 1,200 mmHg, with consequent embolization of marrow contents detectable in real time on transesophageal echocardiography. The Reamer-Irrigator-Aspirator (RIA) system developed by Synthes was introduced to reduce intramedullary pressure during reaming by simultaneous irrigation and aspiration; clinical and animal data demonstrate substantial reduction in embolic load with the RIA system. In the polytrauma patient with established lung injury, the decision between immediate intramedullary nailing of a femoral shaft fracture and damage-control external fixation followed by delayed nailing should incorporate this risk. The classical concern about femoral nailing precipitating ARDS in the unstable polytrauma patient — articulated by Pape and colleagues in the late 1990s — remains a principal driver of the staged approach in the unstable patient.
 
 ## Special Considerations
 
-Several specific orthopedic scenarios deserve mention. Pelvic and acetabular fractures
-carry the highest VTE risk of any orthopedic injury, with combined DVT and PE rates
-approaching 60 percent without prophylaxis. The proximity of the iliac veins to the surgical
+Several specific orthopedic scenarios deserve mention. Pelvic and acetabular fractures carry the highest VTE risk of any orthopedic injury, with combined DVT and PE rates approaching 60 percent without prophylaxis. The proximity of the iliac veins to the surgical
 
-field and the prolonged immobilization make this population particularly challenging. The
-optimal timing of pharmacological prophylaxis relative to acetabular surgery balances the
-risk of thrombus formation in the perioperative window against the bleeding risk of an
-extensile approach; most centers begin LMWH at 12 to 24 hours postoperatively.
-Spinal cord injury produces VTE rates exceeding 80 percent in the first 14 days without
-prophylaxis, and remains the orthopedic condition with the highest absolute VTE risk.
-Mechanical prophylaxis is begun immediately; pharmacological prophylaxis is added once
-intraspinal hemorrhage has been excluded, typically within 24 to 72 hours of injury.
-Lower-extremity arthroscopy and isolated below-knee immobilization were long
-considered low-risk and exempt from routine pharmacological prophylaxis. More recent
-data, including the POT-CAST and POT-KAST trials, have shown that routine LMWH does
-not significantly reduce symptomatic VTE in these populations, supporting the AAOS
-recommendation against routine prophylaxis after knee arthroscopy in otherwise low-risk
-patients. Selective prophylaxis based on Caprini scoring is reasonable.
-Pediatric VTE is rare, with rates well under 1 percent in routine pediatric orthopedic
-surgery; routine prophylaxis is not recommended in pre-adolescent children. Adolescents
-undergoing major orthopedic procedures, particularly spinal deformity surgery, approach
-adult risk profiles and merit consideration of Caprini-based stratification.
+field and the prolonged immobilization make this population particularly challenging. The optimal timing of pharmacological prophylaxis relative to acetabular surgery balances the risk of thrombus formation in the perioperative window against the bleeding risk of an extensile approach; most centers begin LMWH at 12 to 24 hours postoperatively. Spinal cord injury produces VTE rates exceeding 80 percent in the first 14 days without prophylaxis, and remains the orthopedic condition with the highest absolute VTE risk. Mechanical prophylaxis is begun immediately; pharmacological prophylaxis is added once intraspinal hemorrhage has been excluded, typically within 24 to 72 hours of injury. Lower-extremity arthroscopy and isolated below-knee immobilization were long considered low-risk and exempt from routine pharmacological prophylaxis. More recent data, including the POT-CAST and POT-KAST trials, have shown that routine LMWH does not significantly reduce symptomatic VTE in these populations, supporting the AAOS recommendation against routine prophylaxis after knee arthroscopy in otherwise low-risk patients. Selective prophylaxis based on Caprini scoring is reasonable. Pediatric VTE is rare, with rates well under 1 percent in routine pediatric orthopedic surgery; routine prophylaxis is not recommended in pre-adolescent children. Adolescents undergoing major orthopedic procedures, particularly spinal deformity surgery, approach adult risk profiles and merit consideration of Caprini-based stratification.
 
 ## Summary and Take-Home Points
 
-Venous thromboembolism remains the most preventable cause of in-hospital mortality
-after major orthopedic surgery and trauma, and a uniform prophylactic strategy —
-mechanical and pharmacological prophylaxis appropriate to the procedure and patient risk
-profile, continued for the duration of risk — is now standard. The choice among LMWH,
-fondaparinux, DOACs, and aspirin should be informed by both efficacy and the practical
-considerations of cost, monitoring, route of administration, and patient compliance, with
-rivaroxaban, apixaban, and enoxaparin being the principal agents in contemporary practice
-and aspirin a reasonable choice for standard-risk arthroplasty patients. The Caprini score
-guides risk stratification; the Wells score guides diagnostic approach to the symptomatic
-patient. Duplex ultrasound is the diagnostic test of choice for DVT, and CT pulmonary
-angiography for PE. Treatment of established disease combines anticoagulation with
-thrombolysis or embolectomy for hemodynamically significant PE.
-Fat embolism syndrome, although less common than VTE, remains a recognizable entity in
-the patient with long-bone fracture or intramedullary reaming. The Gurd and Wilson
-criteria define the diagnosis around the classical triad of pulmonary, neurological, and
-cutaneous findings. There is no specific treatment, and management is supportive; the
-most important preventive measure is early fracture stabilization, with the RIA system
-reducing intramedullary embolic load during reaming. In the polytrauma patient discussed
-in the previous chapter, the decision between early definitive nailing and damage control
-external fixation incorporates FES risk along with the lethal triad considerations. Together,
-VTE and FES embody the broader principle that the orthopedic surgeon’s responsibility
-extends well beyond the local fracture site to the systemic physiological consequences of
+Venous thromboembolism remains the most preventable cause of in-hospital mortality after major orthopedic surgery and trauma, and a uniform prophylactic strategy — mechanical and pharmacological prophylaxis appropriate to the procedure and patient risk profile, continued for the duration of risk — is now standard. The choice among LMWH, fondaparinux, DOACs, and aspirin should be informed by both efficacy and the practical considerations of cost, monitoring, route of administration, and patient compliance, with rivaroxaban, apixaban, and enoxaparin being the principal agents in contemporary practice and aspirin a reasonable choice for standard-risk arthroplasty patients. The Caprini score guides risk stratification; the Wells score guides diagnostic approach to the symptomatic patient. Duplex ultrasound is the diagnostic test of choice for DVT, and CT pulmonary angiography for PE. Treatment of established disease combines anticoagulation with thrombolysis or embolectomy for hemodynamically significant PE. Fat embolism syndrome, although less common than VTE, remains a recognizable entity in the patient with long-bone fracture or intramedullary reaming. The Gurd and Wilson criteria define the diagnosis around the classical triad of pulmonary, neurological, and cutaneous findings. There is no specific treatment, and management is supportive; the most important preventive measure is early fracture stabilization, with the RIA system reducing intramedullary embolic load during reaming. In the polytrauma patient discussed in the previous chapter, the decision between early definitive nailing and damage control external fixation incorporates FES risk along with the lethal triad considerations. Together, VTE and FES embody the broader principle that the orthopedic surgeon’s responsibility extends well beyond the local fracture site to the systemic physiological consequences of
 
-injury and surgery — a principle that underpins the management of all the subsequent
-fracture complications addressed in the chapters that follow.
+injury and surgery — a principle that underpins the management of all the subsequent fracture complications addressed in the chapters that follow.

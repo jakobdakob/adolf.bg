@@ -9,300 +9,60 @@ order: 102
 
 ## Introduction
 
-Bone healing is a complex biological process that distinguishes bone from most other
-tissues in the body — unlike most tissues, which heal by scarring, bone heals by
-regeneration of essentially normal tissue, producing a structurally and functionally
-restored organ. Understanding the cellular and molecular processes of fracture healing, the
-principal factors that promote or inhibit healing, and the clinical implications of healing
-biology is fundamental to fracture management. This chapter synthesizes content from AO
-Principles of Fracture Management, Apley & Solomon’s, Miller’s Review, and the basic
-science chapters of Rockwood and Green’s. Cartilage healing — fundamentally different
-and substantially less effective than bone healing — is addressed at the end of the chapter.
+Bone healing is a complex biological process that distinguishes bone from most other tissues in the body — unlike most tissues, which heal by scarring, bone heals by regeneration of essentially normal tissue, producing a structurally and functionally restored organ. Understanding the cellular and molecular processes of fracture healing, the principal factors that promote or inhibit healing, and the clinical implications of healing biology is fundamental to fracture management. This chapter synthesizes content from AO Principles of Fracture Management, Apley & Solomon’s, Miller’s Review, and the basic science chapters of Rockwood and Green’s. Cartilage healing — fundamentally different and substantially less effective than bone healing — is addressed at the end of the chapter.
 
 ## Mechanisms of Bone Healing
 
-Two principal mechanisms of bone healing are recognized, and the choice between them
-depends on the mechanical environment of the fracture site.
+Two principal mechanisms of bone healing are recognized, and the choice between them depends on the mechanical environment of the fracture site.
 
 ## Indirect (Secondary) Bone Healing
 
-Indirect bone healing — also called secondary bone healing or healing with callus — is the
-natural mechanism of healing under conditions of relative stability (some motion at the
-fracture site but not so much as to disrupt the healing tissue). This is the mechanism of
-healing in non-operatively treated fractures, in fractures stabilized by intramedullary nails,
-in fractures stabilized by bridging plates, and in fractures stabilized by external fixators.
-The process proceeds through four overlapping stages.
-Stage 1 — Inflammation (hours to days): The fracture event ruptures blood vessels and
-disrupts the soft tissue and periosteum. A hematoma forms at the fracture site, providing
-the scaffold and the initial cells (platelets, macrophages, mesenchymal stem cells) for
-subsequent healing. Inflammatory mediators (cytokines, growth factors, chemokines) are
-released, initiating the cellular response. The interleukins, tumor necrosis factor, and
-prostaglandins all play roles in this initial inflammatory phase. Recent research has
-emphasized that the inflammatory phase is not merely a precursor to healing but is
-essential for the subsequent regenerative processes — anti-inflammatory measures
-(particularly chronic NSAID use) may inhibit fracture healing through this mechanism.
-Stage 2 — Soft callus formation (days to weeks): Mesenchymal stem cells from the
-surrounding tissues (periosteum, endosteum, marrow, and even systemic circulation)
-proliferate and differentiate. Under conditions of intermediate strain and low oxygen
-tension, the cells differentiate into chondrocytes that lay down a cartilaginous matrix,
-forming the “soft callus.” Under conditions of low strain and higher oxygen tension,
-intramembranous ossification occurs at the periphery of the callus, forming new bone
-directly. The cartilaginous callus bridges the fracture gap and provides initial mechanical
-stability.
+Indirect bone healing — also called secondary bone healing or healing with callus — is the natural mechanism of healing under conditions of relative stability (some motion at the fracture site but not so much as to disrupt the healing tissue). This is the mechanism of healing in non-operatively treated fractures, in fractures stabilized by intramedullary nails, in fractures stabilized by bridging plates, and in fractures stabilized by external fixators. The process proceeds through four overlapping stages. Stage 1 — Inflammation (hours to days): The fracture event ruptures blood vessels and disrupts the soft tissue and periosteum. A hematoma forms at the fracture site, providing the scaffold and the initial cells (platelets, macrophages, mesenchymal stem cells) for subsequent healing. Inflammatory mediators (cytokines, growth factors, chemokines) are released, initiating the cellular response. The interleukins, tumor necrosis factor, and prostaglandins all play roles in this initial inflammatory phase. Recent research has emphasized that the inflammatory phase is not merely a precursor to healing but is essential for the subsequent regenerative processes — anti-inflammatory measures (particularly chronic NSAID use) may inhibit fracture healing through this mechanism. Stage 2 — Soft callus formation (days to weeks): Mesenchymal stem cells from the surrounding tissues (periosteum, endosteum, marrow, and even systemic circulation) proliferate and differentiate. Under conditions of intermediate strain and low oxygen tension, the cells differentiate into chondrocytes that lay down a cartilaginous matrix, forming the “soft callus.” Under conditions of low strain and higher oxygen tension, intramembranous ossification occurs at the periphery of the callus, forming new bone directly. The cartilaginous callus bridges the fracture gap and provides initial mechanical stability.
 
-Stage 3 — Hard callus formation (weeks to months): The cartilaginous soft callus is
-progressively replaced by bone through endochondral ossification — the same process by
-which long bones grow from their physes. Chondrocytes hypertrophy and undergo
-apoptosis, the cartilage matrix is invaded by vascular tissue and osteoblasts, and new bone
-is laid down on the cartilage scaffold. The hard callus matures and provides mechanical
-strength sufficient for weight-bearing.
-Stage 4 — Remodeling (months to years): The disorganized woven bone of the callus is
-progressively replaced by organized lamellar bone through coupled osteoclast-osteoblast
-activity. The bone is remodeled according to Wolff’s law, with bone deposited where
-mechanical demands are highest and resorbed where demands are low. Over months to
-years, the original bony anatomy is restored.
+Stage 3 — Hard callus formation (weeks to months): The cartilaginous soft callus is progressively replaced by bone through endochondral ossification — the same process by which long bones grow from their physes. Chondrocytes hypertrophy and undergo apoptosis, the cartilage matrix is invaded by vascular tissue and osteoblasts, and new bone is laid down on the cartilage scaffold. The hard callus matures and provides mechanical strength sufficient for weight-bearing. Stage 4 — Remodeling (months to years): The disorganized woven bone of the callus is progressively replaced by organized lamellar bone through coupled osteoclast-osteoblast activity. The bone is remodeled according to Wolff’s law, with bone deposited where mechanical demands are highest and resorbed where demands are low. Over months to years, the original bony anatomy is restored.
 
 ## Direct (Primary) Bone Healing
 
-Direct bone healing — also called primary or contact healing — is the mechanism of
-healing under conditions of absolute stability (no motion at the fracture site) and direct
-contact between bone fragments. This mechanism requires rigid fixation as provided by
-compression plate osteosynthesis or lag screw fixation. Two subtypes are recognized:
-Contact healing: Where fracture fragments are in direct contact with absolute stability,
-osteoclasts at one end of the fragment cross the fracture line and resorb bone in the
-opposite fragment, creating “cutting cones.” Osteoblasts following the cutting cones lay
-down new bone directly across the fracture line, producing primary osteonal healing
-without any callus formation.
-Gap healing: Where small gaps exist between fragments (less than approximately 800 μm)
-with absolute stability, new bone is laid down within the gap directly, followed by
-remodeling. Larger gaps cannot heal by direct healing and require either callus healing or
-bone grafting.
-The clinical implication is that direct bone healing requires meticulous reduction and rigid
-fixation, and is appropriate for articular fractures where anatomical restoration is critical.
-Indirect healing with callus, by contrast, is the natural mechanism for diaphyseal fractures
-and is promoted by relative (not absolute) stability and preservation of the soft-tissue
-envelope.
+Direct bone healing — also called primary or contact healing — is the mechanism of healing under conditions of absolute stability (no motion at the fracture site) and direct contact between bone fragments. This mechanism requires rigid fixation as provided by compression plate osteosynthesis or lag screw fixation. Two subtypes are recognized: Contact healing: Where fracture fragments are in direct contact with absolute stability, osteoclasts at one end of the fragment cross the fracture line and resorb bone in the opposite fragment, creating “cutting cones.” Osteoblasts following the cutting cones lay down new bone directly across the fracture line, producing primary osteonal healing without any callus formation. Gap healing: Where small gaps exist between fragments (less than approximately 800 μm) with absolute stability, new bone is laid down within the gap directly, followed by remodeling. Larger gaps cannot heal by direct healing and require either callus healing or bone grafting. The clinical implication is that direct bone healing requires meticulous reduction and rigid fixation, and is appropriate for articular fractures where anatomical restoration is critical. Indirect healing with callus, by contrast, is the natural mechanism for diaphyseal fractures and is promoted by relative (not absolute) stability and preservation of the soft-tissue envelope.
 
 ## Cellular and Molecular Biology of Fracture Healing
 
-The cellular and molecular processes of fracture healing involve a complex interplay of
-multiple cell types and signaling molecules. The principal cells involved are:
-Mesenchymal stem cells (MSCs): The progenitor cells that give rise to osteoblasts,
-chondrocytes, fibroblasts, and other cells of the healing callus. MSCs derive from
-periosteum, endosteum, marrow, and potentially from circulating sources.
-Osteoblasts: The bone-forming cells. Produce type I collagen, osteoid, and the proteins
-(osteocalcin, osteopontin, bone sialoprotein) that direct mineralization.
+The cellular and molecular processes of fracture healing involve a complex interplay of multiple cell types and signaling molecules. The principal cells involved are: Mesenchymal stem cells (MSCs): The progenitor cells that give rise to osteoblasts, chondrocytes, fibroblasts, and other cells of the healing callus. MSCs derive from periosteum, endosteum, marrow, and potentially from circulating sources. Osteoblasts: The bone-forming cells. Produce type I collagen, osteoid, and the proteins (osteocalcin, osteopontin, bone sialoprotein) that direct mineralization.
 
-Osteoclasts: The bone-resorbing cells. Derived from the hematopoietic lineage
-(monocyte/macrophage). Express tartrate-resistant acid phosphatase (TRAP) and resorb
-bone through acid secretion and proteolytic enzyme action in the resorption lacunae.
-Osteocytes: The mature cells trapped within bone matrix. Communicate with each other
-and with surface cells through canaliculi; act as the principal mechanosensors of bone.
-Chondrocytes: The cartilage-producing cells. In fracture healing, chondrocytes form the
-soft callus that is subsequently replaced by bone.
-Macrophages and inflammatory cells: Direct the early inflammatory phase and provide
-growth factors and chemokines that recruit MSCs.
-Endothelial cells: Provide the vascular supply essential for healing.
-The principal growth factors and signaling molecules include:
-Bone morphogenetic proteins (BMPs): A family of growth factors that strongly promote
-osteoblast differentiation and bone formation. BMP-2 and BMP-7 (OP-1) have been used
-clinically as adjuvants to fracture healing.
-Transforming growth factor-β (TGF-β): Multiple roles in bone healing including
-chondrocyte differentiation and bone formation.
-Platelet-derived growth factor (PDGF): Important in the early inflammatory phase and
-in chemoattraction of MSCs.
-Vascular endothelial growth factor (VEGF): Drives angiogenesis, which is essential for
-fracture healing.
-Fibroblast growth factors (FGFs): Multiple roles in cellular proliferation and
-differentiation.
-Insulin-like growth factor (IGF): Promotes osteoblast activity.
-RANK/RANKL/OPG system: The principal regulator of osteoclast activity. RANK ligand
-(RANKL) produced by osteoblasts binds RANK on osteoclast precursors to drive osteoclast
-differentiation and activity; osteoprotegerin (OPG) is the soluble decoy receptor that
-inhibits this signaling. Pharmacological inhibitors of this system (denosumab, a monoclonal
-antibody against RANKL; bisphosphonates) suppress osteoclast activity.
-Wnt signaling pathway: Recently emphasized as a critical regulator of bone formation.
-Sclerostin (produced by osteocytes) and Dickkopf-1 are inhibitors of Wnt signaling;
-antibodies against these proteins (romosozumab against sclerostin) have shown promise
-in promoting bone formation.
+Osteoclasts: The bone-resorbing cells. Derived from the hematopoietic lineage (monocyte/macrophage). Express tartrate-resistant acid phosphatase (TRAP) and resorb bone through acid secretion and proteolytic enzyme action in the resorption lacunae. Osteocytes: The mature cells trapped within bone matrix. Communicate with each other and with surface cells through canaliculi; act as the principal mechanosensors of bone. Chondrocytes: The cartilage-producing cells. In fracture healing, chondrocytes form the soft callus that is subsequently replaced by bone. Macrophages and inflammatory cells: Direct the early inflammatory phase and provide growth factors and chemokines that recruit MSCs. Endothelial cells: Provide the vascular supply essential for healing. The principal growth factors and signaling molecules include: Bone morphogenetic proteins (BMPs): A family of growth factors that strongly promote osteoblast differentiation and bone formation. BMP-2 and BMP-7 (OP-1) have been used clinically as adjuvants to fracture healing. Transforming growth factor-β (TGF-β): Multiple roles in bone healing including chondrocyte differentiation and bone formation. Platelet-derived growth factor (PDGF): Important in the early inflammatory phase and in chemoattraction of MSCs. Vascular endothelial growth factor (VEGF): Drives angiogenesis, which is essential for fracture healing. Fibroblast growth factors (FGFs): Multiple roles in cellular proliferation and differentiation. Insulin-like growth factor (IGF): Promotes osteoblast activity. RANK/RANKL/OPG system: The principal regulator of osteoclast activity. RANK ligand (RANKL) produced by osteoblasts binds RANK on osteoclast precursors to drive osteoclast differentiation and activity; osteoprotegerin (OPG) is the soluble decoy receptor that inhibits this signaling. Pharmacological inhibitors of this system (denosumab, a monoclonal antibody against RANKL; bisphosphonates) suppress osteoclast activity. Wnt signaling pathway: Recently emphasized as a critical regulator of bone formation. Sclerostin (produced by osteocytes) and Dickkopf-1 are inhibitors of Wnt signaling; antibodies against these proteins (romosozumab against sclerostin) have shown promise in promoting bone formation.
 
 ## Factors Influencing Fracture Healing
 
 
 ## Local Factors
 
-Mechanical environment: The single most important local factor. Absolute stability
-promotes direct healing without callus; relative stability with controlled interfragmentary
-motion promotes callus healing; excessive motion produces non-union; absolute rigidity at
-a fracture gap larger than 800 μm prevents healing.
-Vascular supply: Adequate blood supply is essential for healing. Disrupted vascularity
-(from the original injury, from extensive surgical dissection, or from compromised soft-
-tissue envelope) impairs healing. The biological approach to fracture surgery emphasizes
-preservation of vascularity.
-Fracture pattern: Simple fractures heal more reliably than comminuted fractures.
-Transverse fractures with limited contact area heal more slowly than oblique or spiral
-fractures with greater contact area.
-Bone gap: Large gaps (>1-2 cm in long bones) cannot heal without bone grafting or
-distraction osteogenesis.
-Soft-tissue injury: Severe soft-tissue injury (Tscherne grade III, Gustilo-Anderson III)
-substantially impairs healing.
-Infection: Infection is among the most devastating local factors. Established osteomyelitis
-at the fracture site essentially prevents healing until the infection is controlled.
-Implant choice and technique: The choice of implant (intramedullary nail, plate, external
-fixator) and the surgical technique determine the mechanical environment and the surgical
-disruption of the local vascular supply.
+Mechanical environment: The single most important local factor. Absolute stability promotes direct healing without callus; relative stability with controlled interfragmentary motion promotes callus healing; excessive motion produces non-union; absolute rigidity at a fracture gap larger than 800 μm prevents healing. Vascular supply: Adequate blood supply is essential for healing. Disrupted vascularity (from the original injury, from extensive surgical dissection, or from compromised soft-tissue envelope) impairs healing. The biological approach to fracture surgery emphasizes preservation of vascularity. Fracture pattern: Simple fractures heal more reliably than comminuted fractures. Transverse fractures with limited contact area heal more slowly than oblique or spiral fractures with greater contact area. Bone gap: Large gaps (>1-2 cm in long bones) cannot heal without bone grafting or distraction osteogenesis. Soft-tissue injury: Severe soft-tissue injury (Tscherne grade III, Gustilo-Anderson III) substantially impairs healing. Infection: Infection is among the most devastating local factors. Established osteomyelitis at the fracture site essentially prevents healing until the infection is controlled. Implant choice and technique: The choice of implant (intramedullary nail, plate, external fixator) and the surgical technique determine the mechanical environment and the surgical disruption of the local vascular supply.
 
 
 ## Systemic Factors
 
-Age: Children heal substantially faster than adults; elderly patients heal more slowly than
-younger adults.
-Nutritional status: Malnutrition (low albumin, low transferrin) impairs healing.
-Smoking: A major adverse factor for fracture healing, with multiple mechanisms (vascular
-constriction, reduced oxygen carrying, direct cytotoxic effects on osteoblasts). Quoted rates
-of non-union are increased by 2-3 fold in smokers. Cessation should be encouraged in
-every patient with a fracture; immediate cessation around the time of surgery reduces
-postoperative complications even in long-term smokers.
-Diabetes mellitus: Impaired healing through multiple mechanisms including
-microvascular disease, neuropathy, and direct effects on bone biology. Diabetic patients
-have higher rates of non-union and delayed union.
-Medications: Corticosteroids (impair osteoblast function); long-term NSAID use (inhibits
-prostaglandin-mediated bone healing — short courses for acute pain are acceptable but
+Age: Children heal substantially faster than adults; elderly patients heal more slowly than younger adults. Nutritional status: Malnutrition (low albumin, low transferrin) impairs healing. Smoking: A major adverse factor for fracture healing, with multiple mechanisms (vascular constriction, reduced oxygen carrying, direct cytotoxic effects on osteoblasts). Quoted rates of non-union are increased by 2-3 fold in smokers. Cessation should be encouraged in every patient with a fracture; immediate cessation around the time of surgery reduces postoperative complications even in long-term smokers. Diabetes mellitus: Impaired healing through multiple mechanisms including microvascular disease, neuropathy, and direct effects on bone biology. Diabetic patients have higher rates of non-union and delayed union. Medications: Corticosteroids (impair osteoblast function); long-term NSAID use (inhibits prostaglandin-mediated bone healing — short courses for acute pain are acceptable but
 
-chronic use should be avoided in healing fractures); bisphosphonates (suppress
-remodeling and may impair callus consolidation; while atypical femoral fractures
-associated with bisphosphonate use are a recognized concern, the standard treatment of
-established fractures in bisphosphonate users still incorporates these medications when
-osteoporosis is being treated); other immunosuppressants.
-Endocrine disorders: Hypothyroidism, hyperthyroidism, hypogonadism,
-hyperparathyroidism, growth hormone deficiency all impair healing.
-Cardiovascular disease: Peripheral vascular disease, particularly with critical limb
-ischemia, severely impairs healing.
-Vitamin D and calcium status: Adequate vitamin D and calcium are necessary for bone
-healing; deficiency is increasingly recognized as a contributor to non-union.
-Other systemic conditions: Chronic kidney disease, liver disease, malabsorption, alcohol
-abuse, certain malignancies all impair healing.
+chronic use should be avoided in healing fractures); bisphosphonates (suppress remodeling and may impair callus consolidation; while atypical femoral fractures associated with bisphosphonate use are a recognized concern, the standard treatment of established fractures in bisphosphonate users still incorporates these medications when osteoporosis is being treated); other immunosuppressants. Endocrine disorders: Hypothyroidism, hyperthyroidism, hypogonadism, hyperparathyroidism, growth hormone deficiency all impair healing. Cardiovascular disease: Peripheral vascular disease, particularly with critical limb ischemia, severely impairs healing. Vitamin D and calcium status: Adequate vitamin D and calcium are necessary for bone healing; deficiency is increasingly recognized as a contributor to non-union. Other systemic conditions: Chronic kidney disease, liver disease, malabsorption, alcohol abuse, certain malignancies all impair healing.
 
 ## Pharmacological Augmentation of Fracture Healing
 
-Several pharmacological agents have been studied or used clinically to enhance fracture
-healing:
-Bone morphogenetic proteins (BMPs): Recombinant human BMP-2 (rhBMP-2, Infuse)
-and BMP-7 (rhBMP-7, OP-1, no longer marketed) have been used clinically. The principal
-evidence supports BMP-2 use in tibial open fractures and in revision spinal fusion, although
-concerns about complications (ectopic bone formation, swallowing problems in cervical
-use, possible cancer risk) and cost have limited use.
-Parathyroid hormone (teriparatide): Daily injections of recombinant PTH (1-34)
-promote bone formation rather than the resorption normally associated with PTH. The
-intermittent dosing is critical — continuous PTH (as in primary hyperparathyroidism)
-produces bone resorption. Teriparatide is used principally for severe osteoporosis but has
-been studied for fracture healing acceleration, with evidence of modest benefit in some
-indications.
-Antiosteoporotic drugs in the setting of fracture: Modern practice generally favors
-continuation or initiation of osteoporosis treatment after fragility fracture without
-significant delay, recognizing that the modest theoretical concern about impaired healing
-with antiresorptive drugs is outweighed by the substantial benefit of preventing additional
-fractures.
-Vitamin D and calcium supplementation: Should be optimized in all patients with
-fractures, particularly older adults with established or suspected deficiency.
-Other agents: Various other agents (growth hormone, prostaglandins, statins, others) have
-been studied with variable evidence of benefit; none are routinely used in clinical practice.
+Several pharmacological agents have been studied or used clinically to enhance fracture healing: Bone morphogenetic proteins (BMPs): Recombinant human BMP-2 (rhBMP-2, Infuse) and BMP-7 (rhBMP-7, OP-1, no longer marketed) have been used clinically. The principal evidence supports BMP-2 use in tibial open fractures and in revision spinal fusion, although concerns about complications (ectopic bone formation, swallowing problems in cervical use, possible cancer risk) and cost have limited use. Parathyroid hormone (teriparatide): Daily injections of recombinant PTH (1-34) promote bone formation rather than the resorption normally associated with PTH. The intermittent dosing is critical — continuous PTH (as in primary hyperparathyroidism) produces bone resorption. Teriparatide is used principally for severe osteoporosis but has been studied for fracture healing acceleration, with evidence of modest benefit in some indications. Antiosteoporotic drugs in the setting of fracture: Modern practice generally favors continuation or initiation of osteoporosis treatment after fragility fracture without significant delay, recognizing that the modest theoretical concern about impaired healing with antiresorptive drugs is outweighed by the substantial benefit of preventing additional fractures. Vitamin D and calcium supplementation: Should be optimized in all patients with fractures, particularly older adults with established or suspected deficiency. Other agents: Various other agents (growth hormone, prostaglandins, statins, others) have been studied with variable evidence of benefit; none are routinely used in clinical practice.
 
 ## Bone Grafting and Bone Graft Substitutes
 
-When fracture healing is impaired or expected to be impaired (large gaps, infected non-
-union, revision surgery), bone grafting or bone graft substitutes are used to augment
-healing.
-Autogenous bone graft (typically iliac crest, sometimes intramedullary reaming products
-with the RIA system) is the gold standard, providing all three “ideal” graft properties:
-osteogenic (containing live osteoblasts and MSCs), osteoinductive (containing growth
-factors that recruit and differentiate host cells), and osteoconductive (providing a scaffold
-for ingrowth). The disadvantages include donor-site morbidity (most significant for iliac
-crest), limited volume, and patient discomfort.
-Allograft bone (cadaveric bone, processed and sterilized) provides osteoconductive
-properties and some osteoinductive activity but no osteogenic activity. Allografts are
-available in many forms (chips, struts, structural grafts) and are widely used.
-Demineralized bone matrix (DBM): Allograft bone treated to remove mineral, leaving the
-matrix with its growth factors. Provides osteoinductive and osteoconductive properties.
-Synthetic bone graft substitutes: Hydroxyapatite, tricalcium phosphate, calcium sulfate,
-and bioactive glass provide osteoconductive scaffolds. Various formulations and
-combinations are available.
-Growth factors: BMPs and other growth factors can be combined with carrier materials to
-provide osteoinductive activity in the absence of viable cells.
+When fracture healing is impaired or expected to be impaired (large gaps, infected non-union, revision surgery), bone grafting or bone graft substitutes are used to augment healing. Autogenous bone graft (typically iliac crest, sometimes intramedullary reaming products with the RIA system) is the gold standard, providing all three “ideal” graft properties: osteogenic (containing live osteoblasts and MSCs), osteoinductive (containing growth factors that recruit and differentiate host cells), and osteoconductive (providing a scaffold for ingrowth). The disadvantages include donor-site morbidity (most significant for iliac crest), limited volume, and patient discomfort. Allograft bone (cadaveric bone, processed and sterilized) provides osteoconductive properties and some osteoinductive activity but no osteogenic activity. Allografts are available in many forms (chips, struts, structural grafts) and are widely used. Demineralized bone matrix (DBM): Allograft bone treated to remove mineral, leaving the matrix with its growth factors. Provides osteoinductive and osteoconductive properties. Synthetic bone graft substitutes: Hydroxyapatite, tricalcium phosphate, calcium sulfate, and bioactive glass provide osteoconductive scaffolds. Various formulations and combinations are available. Growth factors: BMPs and other growth factors can be combined with carrier materials to provide osteoinductive activity in the absence of viable cells.
 
 ## Clinical Assessment of Fracture Healing
 
-The clinical assessment of fracture healing combines:
-Clinical examination: Absence of tenderness at the fracture site; absence of pain on stress
-testing; absence of motion at the fracture site; return of full function.
-Radiographic assessment: Bridging callus visible on multiple views; obliteration of the
-fracture line; remodeling of the callus over time. The RUST (Radiographic Union Score for
-Tibial fractures) score and similar tools provide quantitative assessment of healing in
-research settings.
-Clinical definitions: The terms “union,” “delayed union,” and “non-union” are commonly
-used. Union is the complete healing of the fracture with restoration of bone continuity.
-Delayed union is healing that is taking longer than expected (variably defined as more than
-the average for the fracture type, often 3-6 months for most fractures, with no clear
-bridging callus). Non-union is the failure of healing, with the FDA definition being “a
-fracture that, in the opinion of the treating physician, shows no possibility of healing
-without further intervention” — typically applied at 6-9 months with no progress over the
-previous 3 months.
+The clinical assessment of fracture healing combines: Clinical examination: Absence of tenderness at the fracture site; absence of pain on stress testing; absence of motion at the fracture site; return of full function. Radiographic assessment: Bridging callus visible on multiple views; obliteration of the fracture line; remodeling of the callus over time. The RUST (Radiographic Union Score for Tibial fractures) score and similar tools provide quantitative assessment of healing in research settings. Clinical definitions: The terms “union,” “delayed union,” and “non-union” are commonly used. Union is the complete healing of the fracture with restoration of bone continuity. Delayed union is healing that is taking longer than expected (variably defined as more than the average for the fracture type, often 3-6 months for most fractures, with no clear bridging callus). Non-union is the failure of healing, with the FDA definition being “a fracture that, in the opinion of the treating physician, shows no possibility of healing without further intervention” — typically applied at 6-9 months with no progress over the previous 3 months.
 
 ## Cartilage Healing
 
-Cartilage healing fundamentally differs from bone healing and is substantially less effective.
-Several important distinctions apply:
-Articular (hyaline) cartilage is avascular, aneural, and has limited cellular content (the
-chondrocytes embedded in the matrix). The avascular nature precludes the inflammatory
-and cellular recruitment phases that occur in vascularized tissues. Adult articular cartilage
-has limited intrinsic capacity for healing — full-thickness defects do not spontaneously heal
-with native hyaline cartilage but rather fill with fibrocartilage from underlying marrow
-elements (when the subchondral bone is breached) or remain unhealed (when only the
-superficial layers are damaged).
-Partial-thickness cartilage injuries (not penetrating the subchondral plate) do not heal
-and tend to persist or progress to full-thickness defects.
-Full-thickness cartilage injuries that penetrate the subchondral plate elicit a marrow-cell
-response that fills the defect with fibrocartilage. This fibrocartilage has inferior mechanical
-properties compared with native hyaline cartilage and undergoes progressive
-degeneration over years.
-Microfracture and marrow-stimulation procedures intentionally penetrate the
-subchondral plate to encourage fibrocartilage formation. Outcomes are good in small
-defects with appropriate patients but deteriorate over years.
-Autologous chondrocyte implantation (ACI) and matrix-assisted ACI are cell-based
-therapies that attempt to produce hyaline-like cartilage in chondral defects. The
-procedures involve harvest of native cartilage, ex vivo culture of chondrocytes, and re-
-implantation of the cells into the defect under a periosteal patch or biomaterial scaffold.
-Outcomes are reasonable for appropriately selected defects.
-Osteochondral grafting (mosaicplasty/OATS for autografts, allografts for larger defects)
-transplants viable hyaline cartilage from non-weight-bearing areas (autograft) or from
-donors (allograft) to defects in weight-bearing areas. The procedures produce hyaline
-cartilage in the defect but at the cost of donor-site morbidity (autograft) or the
-immunological and supply-chain considerations of allograft.
-Fibrocartilage of the menisci, intervertebral discs, and other locations has different
-healing characteristics than hyaline cartilage. Vascular zones of the menisci (the peripheral
-one-third) have capacity for healing; the avascular inner two-thirds do not heal. Modern
-arthroscopic meniscal repair is targeted at vascular-zone tears with reasonable healing
-rates, while inner-zone tears are managed by partial meniscectomy or — in selected cases
-— meniscal allograft transplantation.
+Cartilage healing fundamentally differs from bone healing and is substantially less effective. Several important distinctions apply: Articular (hyaline) cartilage is avascular, aneural, and has limited cellular content (the chondrocytes embedded in the matrix). The avascular nature precludes the inflammatory and cellular recruitment phases that occur in vascularized tissues. Adult articular cartilage has limited intrinsic capacity for healing — full-thickness defects do not spontaneously heal with native hyaline cartilage but rather fill with fibrocartilage from underlying marrow elements (when the subchondral bone is breached) or remain unhealed (when only the superficial layers are damaged). Partial-thickness cartilage injuries (not penetrating the subchondral plate) do not heal and tend to persist or progress to full-thickness defects. Full-thickness cartilage injuries that penetrate the subchondral plate elicit a marrow-cell response that fills the defect with fibrocartilage. This fibrocartilage has inferior mechanical properties compared with native hyaline cartilage and undergoes progressive degeneration over years. Microfracture and marrow-stimulation procedures intentionally penetrate the subchondral plate to encourage fibrocartilage formation. Outcomes are good in small defects with appropriate patients but deteriorate over years. Autologous chondrocyte implantation (ACI) and matrix-assisted ACI are cell-based therapies that attempt to produce hyaline-like cartilage in chondral defects. The procedures involve harvest of native cartilage, ex vivo culture of chondrocytes, and re-implantation of the cells into the defect under a periosteal patch or biomaterial scaffold. Outcomes are reasonable for appropriately selected defects. Osteochondral grafting (mosaicplasty/OATS for autografts, allografts for larger defects) transplants viable hyaline cartilage from non-weight-bearing areas (autograft) or from donors (allograft) to defects in weight-bearing areas. The procedures produce hyaline cartilage in the defect but at the cost of donor-site morbidity (autograft) or the immunological and supply-chain considerations of allograft. Fibrocartilage of the menisci, intervertebral discs, and other locations has different healing characteristics than hyaline cartilage. Vascular zones of the menisci (the peripheral one-third) have capacity for healing; the avascular inner two-thirds do not heal. Modern arthroscopic meniscal repair is targeted at vascular-zone tears with reasonable healing rates, while inner-zone tears are managed by partial meniscectomy or — in selected cases — meniscal allograft transplantation.
 
 ## Summary and Take-Home Points
 
-Bone healing is a complex, well-orchestrated biological process that uniquely allows full
-regeneration of the injured tissue. The two principal mechanisms — indirect (secondary)
-healing with callus under conditions of relative stability, and direct (primary) healing
+Bone healing is a complex, well-orchestrated biological process that uniquely allows full regeneration of the injured tissue. The two principal mechanisms — indirect (secondary) healing with callus under conditions of relative stability, and direct (primary) healing
 
-without callus under conditions of absolute stability — guide the choice of fracture
-treatment. The cellular and molecular processes involve a complex interplay of
-mesenchymal stem cells, osteoblasts, osteoclasts, chondrocytes, and multiple growth
-factors (BMPs, TGF-β, VEGF, and others). The local factors affecting healing (mechanical
-environment, vascular supply, fracture pattern, gap, infection) and systemic factors (age,
-smoking, diabetes, nutritional status, medications, endocrine disorders) collectively
-determine the rate and reliability of healing. Pharmacological augmentation with BMPs,
-teriparatide, and other agents has roles in specific indications. Bone grafting (autograft as
-gold standard, allograft, demineralized bone matrix, synthetic substitutes) is used to
-augment healing when natural healing is impaired. Cartilage healing, by contrast, is
-fundamentally limited; full-thickness defects fill with inferior fibrocartilage, and various
-cell-based and graft-based treatments attempt to provide better tissue. Across both bone
-and cartilage healing, the principles of preserving biology, providing appropriate
-mechanical environment, and addressing modifiable factors determine successful
-outcomes.
+without callus under conditions of absolute stability — guide the choice of fracture treatment. The cellular and molecular processes involve a complex interplay of mesenchymal stem cells, osteoblasts, osteoclasts, chondrocytes, and multiple growth factors (BMPs, TGF-β, VEGF, and others). The local factors affecting healing (mechanical environment, vascular supply, fracture pattern, gap, infection) and systemic factors (age, smoking, diabetes, nutritional status, medications, endocrine disorders) collectively determine the rate and reliability of healing. Pharmacological augmentation with BMPs, teriparatide, and other agents has roles in specific indications. Bone grafting (autograft as gold standard, allograft, demineralized bone matrix, synthetic substitutes) is used to augment healing when natural healing is impaired. Cartilage healing, by contrast, is fundamentally limited; full-thickness defects fill with inferior fibrocartilage, and various cell-based and graft-based treatments attempt to provide better tissue. Across both bone and cartilage healing, the principles of preserving biology, providing appropriate mechanical environment, and addressing modifiable factors determine successful outcomes.

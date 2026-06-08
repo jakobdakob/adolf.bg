@@ -9,279 +9,72 @@ order: 111
 
 ## Introduction
 
-The shoulder girdle — clavicle, scapula, and the joints that connect them to the axial
-skeleton — represents both the anatomical and the conceptual entry point to the upper
-extremity fractures considered in the next several chapters. The clavicle and scapula
-together suspend the upper limb from the thorax, transmit forces from the upper extremity
-to the trunk, and protect the underlying neurovascular structures (subclavian and axillary
-vessels, brachial plexus). Their fractures and the associated chest wall injuries share a final
-common pathway of high-energy thoracic trauma in young adults and lower-energy
-ground-level falls in the elderly, with management principles that have shifted in the last
-two decades from near-universal non-operative treatment toward selective operative
-stabilization for displaced clavicle fractures and high-grade scapular injuries. This chapter,
-drawing on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture
-Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s, synthesizes the
-contemporary management of clavicle, acromioclavicular and sternoclavicular joint,
-scapular, and chest wall injuries.
+The shoulder girdle — clavicle, scapula, and the joints that connect them to the axial skeleton — represents both the anatomical and the conceptual entry point to the upper extremity fractures considered in the next several chapters. The clavicle and scapula together suspend the upper limb from the thorax, transmit forces from the upper extremity to the trunk, and protect the underlying neurovascular structures (subclavian and axillary vessels, brachial plexus). Their fractures and the associated chest wall injuries share a final common pathway of high-energy thoracic trauma in young adults and lower-energy ground-level falls in the elderly, with management principles that have shifted in the last two decades from near-universal non-operative treatment toward selective operative stabilization for displaced clavicle fractures and high-grade scapular injuries. This chapter, drawing on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s, synthesizes the contemporary management of clavicle, acromioclavicular and sternoclavicular joint, scapular, and chest wall injuries.
 
 ## Clavicle Fractures — Classification and Epidemiology
 
-Clavicle fractures account for approximately 2 to 5 percent of all adult fractures and 35
-percent of shoulder girdle injuries. The age distribution is bimodal — high in young men
-from direct trauma (falls from height, sports, motor vehicle accidents) and elderly women
-from ground-level falls. The classical mechanism is a direct fall onto the lateral shoulder or,
-less commonly, onto the outstretched hand.
-The historical Allman classification (1967) divided clavicle fractures by location: Group I
-(middle third) accounts for approximately 80 percent of cases; Group II (lateral third)
-accounts for approximately 15 percent; Group III (medial third) accounts for
-approximately 5 percent. The Robinson classification (1998) is the more modern and
-widely used system, structuring management by location and displacement. Type 1 is
-medial-end fracture (1A undisplaced, 1B displaced; A and B subdivided into extra-articular
-vs intra-articular). Type 2 is midshaft (2A undisplaced or minimally displaced; 2B displaced
-— 2B1 simple or wedge, 2B2 comminuted or segmental). Type 3 is lateral-end (3A
-undisplaced, 3B displaced, again subdivided by intra-articular extension).
-For lateral-end clavicle fractures, the Neer classification (1968) remains in use,
-distinguishing fractures by relation to the coracoclavicular (CC) ligaments. Type I is lateral
-to intact CC ligaments — minimally displaced. Type IIA is medial to intact CC ligaments
-(both conoid and trapezoid attached to the distal fragment); the proximal fragment is
-unstable because the CC ligaments do not restrain it. Type IIB has the conoid ligament torn
-with the trapezoid still attached to the distal fragment — also unstable. Type III is intra-
-articular extension into the AC joint. Type IV is a pediatric variant — periosteal sleeve
-fracture with intact periosteal tube and superiorly displaced fragment. Type V is
-comminuted with a small inferior cortical fragment attached to the CC ligaments.
+Clavicle fractures account for approximately 2 to 5 percent of all adult fractures and 35 percent of shoulder girdle injuries. The age distribution is bimodal — high in young men from direct trauma (falls from height, sports, motor vehicle accidents) and elderly women from ground-level falls. The classical mechanism is a direct fall onto the lateral shoulder or, less commonly, onto the outstretched hand. The historical Allman classification (1967) divided clavicle fractures by location: Group I (middle third) accounts for approximately 80 percent of cases; Group II (lateral third) accounts for approximately 15 percent; Group III (medial third) accounts for approximately 5 percent. The Robinson classification (1998) is the more modern and widely used system, structuring management by location and displacement. Type 1 is medial-end fracture (1A undisplaced, 1B displaced; A and B subdivided into extra-articular vs intra-articular). Type 2 is midshaft (2A undisplaced or minimally displaced; 2B displaced — 2B1 simple or wedge, 2B2 comminuted or segmental). Type 3 is lateral-end (3A undisplaced, 3B displaced, again subdivided by intra-articular extension). For lateral-end clavicle fractures, the Neer classification (1968) remains in use, distinguishing fractures by relation to the coracoclavicular (CC) ligaments. Type I is lateral to intact CC ligaments — minimally displaced. Type IIA is medial to intact CC ligaments (both conoid and trapezoid attached to the distal fragment); the proximal fragment is unstable because the CC ligaments do not restrain it. Type IIB has the conoid ligament torn with the trapezoid still attached to the distal fragment — also unstable. Type III is intra-articular extension into the AC joint. Type IV is a pediatric variant — periosteal sleeve fracture with intact periosteal tube and superiorly displaced fragment. Type V is comminuted with a small inferior cortical fragment attached to the CC ligaments.
 
 ## Treatment of Clavicle Fractures
 
 
 ## Midshaft Fractures
 
-For decades, the orthodoxy was that virtually all midshaft clavicle fractures should be
-treated non-operatively in a sling or figure-of-eight bandage, with very few requiring
-operative fixation. This view rested on the often-quoted Neer 1960 and Rowe 1968 series
-reporting nonunion rates well under 1 percent in conservative treatment. The landmark
-Canadian Orthopaedic Trauma Society (COTS) trial (2007) challenged this position by
-demonstrating that completely displaced midshaft fractures (with no cortical contact at the
-fracture ends) had a 15 percent nonunion rate with non-operative treatment, compared to
-2 percent with operative fixation, with corresponding improvements in functional outcome
-and time to return to work and sport. The subsequent literature has refined the picture:
-displacement greater than 100 percent (no cortical contact), comminution (Z-shaped
-fracture pattern), shortening greater than 1.5 to 2 cm, female sex, smoking, and old age
-have all been identified as risk factors for nonunion with non-operative management. The
-current consensus is that completely displaced or significantly shortened midshaft
-fractures in active patients are candidates for operative fixation; non-displaced or
-minimally displaced fractures are treated non-operatively.
-The standard operative technique is open reduction and internal fixation with a
-precontoured anatomic locking plate placed on the superior surface (mechanically
-advantageous but with greater hardware prominence) or anterior surface (slightly less
-mechanically optimal but with less hardware-related irritation). Intramedullary fixation
-(Hagie pin, titanium elastic nail, Knowles pin) has its proponents and offers smaller
-incisions and easier hardware removal but has higher rates of migration and is less robust
-in comminuted patterns.
+For decades, the orthodoxy was that virtually all midshaft clavicle fractures should be treated non-operatively in a sling or figure-of-eight bandage, with very few requiring operative fixation. This view rested on the often-quoted Neer 1960 and Rowe 1968 series reporting nonunion rates well under 1 percent in conservative treatment. The landmark Canadian Orthopaedic Trauma Society (COTS) trial (2007) challenged this position by demonstrating that completely displaced midshaft fractures (with no cortical contact at the fracture ends) had a 15 percent nonunion rate with non-operative treatment, compared to 2 percent with operative fixation, with corresponding improvements in functional outcome and time to return to work and sport. The subsequent literature has refined the picture: displacement greater than 100 percent (no cortical contact), comminution (Z-shaped fracture pattern), shortening greater than 1.5 to 2 cm, female sex, smoking, and old age have all been identified as risk factors for nonunion with non-operative management. The current consensus is that completely displaced or significantly shortened midshaft fractures in active patients are candidates for operative fixation; non-displaced or minimally displaced fractures are treated non-operatively. The standard operative technique is open reduction and internal fixation with a precontoured anatomic locking plate placed on the superior surface (mechanically advantageous but with greater hardware prominence) or anterior surface (slightly less mechanically optimal but with less hardware-related irritation). Intramedullary fixation (Hagie pin, titanium elastic nail, Knowles pin) has its proponents and offers smaller incisions and easier hardware removal but has higher rates of migration and is less robust in comminuted patterns.
 
 ## Lateral-End Fractures
 
-Lateral-end fractures pose distinct challenges. The CC-ligament-related Neer types IIA, IIB,
-and V have high nonunion rates with non-operative treatment (approaching 30 percent)
-because the medial fragment lacks ligamentous restraint and is displaced superiorly by the
-trapezius pull. Operative options include hook plate fixation (with the lateral hook
-positioned under the acromion — effective but with a defined complication profile
-including subacromial impingement and acromial stress fracture), anatomical locking
-plates with or without CC ligament reconstruction, and arthroscopic-assisted CC
-ligament reconstruction with TightRope-type devices in selected cases. Neer types I, III,
-and IV are typically managed non-operatively.
+Lateral-end fractures pose distinct challenges. The CC-ligament-related Neer types IIA, IIB, and V have high nonunion rates with non-operative treatment (approaching 30 percent) because the medial fragment lacks ligamentous restraint and is displaced superiorly by the trapezius pull. Operative options include hook plate fixation (with the lateral hook positioned under the acromion — effective but with a defined complication profile including subacromial impingement and acromial stress fracture), anatomical locking plates with or without CC ligament reconstruction, and arthroscopic-assisted CC ligament reconstruction with TightRope-type devices in selected cases. Neer types I, III, and IV are typically managed non-operatively.
 
 ## Medial-End Fractures
 
-Medial clavicle fractures are rare and are typically treated non-operatively unless there is
-severe posterior displacement with compression of mediastinal structures. The growth
-plate of the medial clavicle does not fuse until the third decade, so what appears to be a
-medial clavicle fracture in a young adult is often actually a Salter-Harris-like physeal injury.
+Medial clavicle fractures are rare and are typically treated non-operatively unless there is severe posterior displacement with compression of mediastinal structures. The growth plate of the medial clavicle does not fuse until the third decade, so what appears to be a medial clavicle fracture in a young adult is often actually a Salter-Harris-like physeal injury.
 
 ## Acromioclavicular Joint Injuries
 
-The acromioclavicular (AC) joint is stabilized statically by the AC ligaments (providing
-horizontal stability), the coracoclavicular ligaments (conoid and trapezoid — providing
-vertical stability), and dynamically by the deltoid and trapezius. The Rockwood
-classification (1989) of AC joint injuries — building on the earlier Tossy classification —
-describes six grades by mechanism and degree of displacement.
-Type I: AC ligament sprain without disruption; no radiographic displacement. Sling for
-comfort and early motion.
-Type II: AC ligament rupture with CC ligaments intact; widening of AC joint but normal CC
-distance. Sling for comfort, return to activity at 4 to 6 weeks.
-Type III: Both AC and CC ligaments ruptured; clavicle displaced superiorly by 25 to 100
-percent. The classic “Tossy 3” or “high-grade” injury. Management remains controversial —
-operative versus non-operative produces broadly equivalent functional outcomes in many
-series, with the trend favoring non-operative management in most patients (sling, early
-motion, gradual progression). Operative fixation may be considered in heavy laborers,
-overhead athletes, or those with prolonged symptoms after non-operative trial.
-Type IV: Posterior displacement of the clavicle through the trapezius. Operative reduction
-and stabilization required.
-Type V: Severe superior displacement (>100 to 300 percent) with disruption of the
-deltotrapezial fascia and clavicle “buttonholing” through the fascia. Operative fixation
-indicated.
-Type VI: Inferior displacement of the clavicle beneath the coracoid (extremely rare).
-Operative fixation.
-The choice of operative technique for the higher grades (III in selected cases, IV, V, VI)
-includes hook plate fixation, CC ligament reconstruction with screw fixation (Bosworth
-screw — largely historical), suture-button devices (TightRope, Endobutton), tendon graft
-reconstruction (modified Weaver-Dunn using the coracoacromial ligament, or anatomic
-reconstruction with semitendinosus graft through bone tunnels), and combined hook plate
-with ligament reconstruction.
+The acromioclavicular (AC) joint is stabilized statically by the AC ligaments (providing horizontal stability), the coracoclavicular ligaments (conoid and trapezoid — providing vertical stability), and dynamically by the deltoid and trapezius. The Rockwood classification (1989) of AC joint injuries — building on the earlier Tossy classification — describes six grades by mechanism and degree of displacement. Type I: AC ligament sprain without disruption; no radiographic displacement. Sling for comfort and early motion. Type II: AC ligament rupture with CC ligaments intact; widening of AC joint but normal CC distance. Sling for comfort, return to activity at 4 to 6 weeks. Type III: Both AC and CC ligaments ruptured; clavicle displaced superiorly by 25 to 100 percent. The classic “Tossy 3” or “high-grade” injury. Management remains controversial — operative versus non-operative produces broadly equivalent functional outcomes in many series, with the trend favoring non-operative management in most patients (sling, early motion, gradual progression). Operative fixation may be considered in heavy laborers, overhead athletes, or those with prolonged symptoms after non-operative trial. Type IV: Posterior displacement of the clavicle through the trapezius. Operative reduction and stabilization required. Type V: Severe superior displacement (>100 to 300 percent) with disruption of the deltotrapezial fascia and clavicle “buttonholing” through the fascia. Operative fixation indicated. Type VI: Inferior displacement of the clavicle beneath the coracoid (extremely rare). Operative fixation. The choice of operative technique for the higher grades (III in selected cases, IV, V, VI) includes hook plate fixation, CC ligament reconstruction with screw fixation (Bosworth screw — largely historical), suture-button devices (TightRope, Endobutton), tendon graft reconstruction (modified Weaver-Dunn using the coracoacromial ligament, or anatomic reconstruction with semitendinosus graft through bone tunnels), and combined hook plate with ligament reconstruction.
 
 ## Sternoclavicular Joint Injuries
 
-The sternoclavicular (SC) joint is the only true synovial articulation between the upper
-extremity and the axial skeleton. Despite its critical role in mobility, the joint is remarkably
-stable because of the multiple ligamentous attachments (sternoclavicular, costoclavicular,
-interclavicular ligaments) and the intra-articular disc. SC joint dislocations are uncommon
-(3 percent of shoulder girdle injuries), require high-energy mechanism, and divide into
-anterior (more common) and posterior types.
-Anterior SC dislocation typically results from a posterolaterally directed force on the
-shoulder. Reduction is by traction with the shoulder abducted and extended; the joint tends
+The sternoclavicular (SC) joint is the only true synovial articulation between the upper extremity and the axial skeleton. Despite its critical role in mobility, the joint is remarkably stable because of the multiple ligamentous attachments (sternoclavicular, costoclavicular, interclavicular ligaments) and the intra-articular disc. SC joint dislocations are uncommon (3 percent of shoulder girdle injuries), require high-energy mechanism, and divide into anterior (more common) and posterior types. Anterior SC dislocation typically results from a posterolaterally directed force on the shoulder. Reduction is by traction with the shoulder abducted and extended; the joint tends
 
-to remain unstable, but functional outcomes after non-operative management are generally
-satisfactory.
-Posterior SC dislocation results from anterolaterally directed force on the shoulder or
-direct anterior force on the medial clavicle. This is a more dangerous injury because of
-potential compression of mediastinal structures (great vessels, trachea, esophagus).
-Reduction is achieved by lateral traction on the abducted arm combined with anterior
-pressure on the medial clavicle, or by grasping the medial clavicle with towel clip (with
-appropriate sterile technique) and pulling it forward. Reduction should be performed in
-the operating room with cardiothoracic surgery on standby because of the risk of
-injury to underlying vessels during reduction or, alternatively, decompression of
-compressed structures. The CT angiogram is essential prior to attempted reduction.
-The pediatric and young adult equivalent of SC dislocation is the physeal injury of the
-medial clavicle, where the medial epiphysis remains attached to the sternum and the
-clavicular metaphysis displaces. This injury heals reliably without need for surgical
-intervention in most cases (the physis closes at approximately 23 years of age).
+to remain unstable, but functional outcomes after non-operative management are generally satisfactory. Posterior SC dislocation results from anterolaterally directed force on the shoulder or direct anterior force on the medial clavicle. This is a more dangerous injury because of potential compression of mediastinal structures (great vessels, trachea, esophagus). Reduction is achieved by lateral traction on the abducted arm combined with anterior pressure on the medial clavicle, or by grasping the medial clavicle with towel clip (with appropriate sterile technique) and pulling it forward. Reduction should be performed in the operating room with cardiothoracic surgery on standby because of the risk of injury to underlying vessels during reduction or, alternatively, decompression of compressed structures. The CT angiogram is essential prior to attempted reduction. The pediatric and young adult equivalent of SC dislocation is the physeal injury of the medial clavicle, where the medial epiphysis remains attached to the sternum and the clavicular metaphysis displaces. This injury heals reliably without need for surgical intervention in most cases (the physis closes at approximately 23 years of age).
 
 ## Scapular Fractures — Anatomy and Classification
 
-Scapular fractures account for less than 1 percent of all fractures and approximately 3 to 5
-percent of shoulder girdle injuries. The relative protection of the scapula by the
-surrounding musculature and the thoracic cage means that scapular fracture is itself a
-marker of high-energy trauma — associated injuries (rib fractures, pulmonary contusion,
-head injury, spine injury) are present in 80 to 95 percent of patients with scapular fracture,
-and the orthopedic surgeon should maintain vigilance for these.
-Scapular fractures may be subdivided by anatomical location: scapular body, scapular
-spine, acromion, coracoid process, glenoid neck, and glenoid (intra-articular). The
-Ideberg classification (1984) of glenoid intra-articular fractures recognizes five types
-based on fracture line: type I anterior rim, type II inferior triangular fragment, type III
-superior glenoid extending to coracoid, type IV transverse extending to medial border, type
-V combinations. The AO/OTA classification provides an alternative system that is well-
-suited to operative planning.
+Scapular fractures account for less than 1 percent of all fractures and approximately 3 to 5 percent of shoulder girdle injuries. The relative protection of the scapula by the surrounding musculature and the thoracic cage means that scapular fracture is itself a marker of high-energy trauma — associated injuries (rib fractures, pulmonary contusion, head injury, spine injury) are present in 80 to 95 percent of patients with scapular fracture, and the orthopedic surgeon should maintain vigilance for these. Scapular fractures may be subdivided by anatomical location: scapular body, scapular spine, acromion, coracoid process, glenoid neck, and glenoid (intra-articular). The Ideberg classification (1984) of glenoid intra-articular fractures recognizes five types based on fracture line: type I anterior rim, type II inferior triangular fragment, type III superior glenoid extending to coracoid, type IV transverse extending to medial border, type V combinations. The AO/OTA classification provides an alternative system that is well-suited to operative planning.
 
 ## Treatment of Scapular Fractures
 
-The vast majority of scapular body and spine fractures are treated non-operatively, with
-sling immobilization for comfort followed by progressive range of motion. The native
-vascularity and muscular envelope produce reliable union. Operative indications are
-limited to specific patterns: glenopolar angle <20° to 22° (normal 30° to 45°), medial-
-lateral displacement >20 mm, angulation >40°, glenoid intra-articular step-off >5
-mm, glenoid neck fracture with associated clavicle fracture or AC injury producing a
-“floating shoulder,” and acromion or coracoid fractures with significant
-displacement producing impingement or biomechanical compromise.
-The floating shoulder — the combination of an ipsilateral clavicle fracture and a glenoid
-neck fracture, originally described by Goss in 1993 as a disruption of the superior
+The vast majority of scapular body and spine fractures are treated non-operatively, with sling immobilization for comfort followed by progressive range of motion. The native vascularity and muscular envelope produce reliable union. Operative indications are limited to specific patterns: glenopolar angle <20° to 22° (normal 30° to 45°), medial-lateral displacement >20 mm, angulation >40°, glenoid intra-articular step-off >5 mm, glenoid neck fracture with associated clavicle fracture or AC injury producing a “floating shoulder,” and acromion or coracoid fractures with significant displacement producing impingement or biomechanical compromise. The floating shoulder — the combination of an ipsilateral clavicle fracture and a glenoid neck fracture, originally described by Goss in 1993 as a disruption of the superior
 
-shoulder suspensory complex (SSSC) — is a particular consideration. The SSSC is a ring
-of bone and soft tissue (clavicle, coracoid, AC joint, acromion, CC ligaments, glenoid neck)
-that suspends the upper extremity from the axial skeleton; disruption at two points
-produces instability. Treatment is currently individualized — many floating shoulders do
-well with non-operative management or with fixation of the clavicle alone, with operative
-fixation of both components reserved for severely displaced patterns or younger active
-patients.
-For displaced glenoid neck and glenoid fossa fractures, operative fixation typically involves
-a posterior Judet approach (interval between infraspinatus and teres minor) with
-reduction and plate fixation of the scapular neck and reconstruction of the glenoid articular
-surface. The deltopectoral approach may be used for anterior glenoid rim fractures.
-Coracoid base fractures associated with AC joint disruption (a variant of the floating
-shoulder) are addressed by stabilization of the coracoid component.
+shoulder suspensory complex (SSSC) — is a particular consideration. The SSSC is a ring of bone and soft tissue (clavicle, coracoid, AC joint, acromion, CC ligaments, glenoid neck) that suspends the upper extremity from the axial skeleton; disruption at two points produces instability. Treatment is currently individualized — many floating shoulders do well with non-operative management or with fixation of the clavicle alone, with operative fixation of both components reserved for severely displaced patterns or younger active patients. For displaced glenoid neck and glenoid fossa fractures, operative fixation typically involves a posterior Judet approach (interval between infraspinatus and teres minor) with reduction and plate fixation of the scapular neck and reconstruction of the glenoid articular surface. The deltopectoral approach may be used for anterior glenoid rim fractures. Coracoid base fractures associated with AC joint disruption (a variant of the floating shoulder) are addressed by stabilization of the coracoid component.
 
 ## Chest Wall Injuries
 
-The orthopedic surgeon’s involvement with chest wall injuries has traditionally been
-limited to recognition and to coordination with thoracic surgery, but recent years have
-seen increasing involvement in operative stabilization of rib fractures and surgical
-management of flail chest. The principles deserve familiarity.
-Rib fractures are the most common chest wall injury, found in 10 to 30 percent of
-significant blunt trauma. The number of rib fractures correlates with mortality and
-pulmonary morbidity: each additional rib fracture is associated with a 19 percent increase
-in mortality and 27 percent increase in pneumonia risk in patients over 65. Pain
-management is the cornerstone of treatment, with the emphasis on enabling deep
-breathing and cough to prevent atelectasis and pneumonia; modalities include systemic
-analgesia (acetaminophen, NSAIDs, opioids), intercostal nerve blocks, paravertebral blocks,
-and epidural analgesia.
-Flail chest, defined by fracture of three or more contiguous ribs in two or more places
-producing a segment with paradoxical motion, has historically been managed by
-mechanical ventilation with positive end-expiratory pressure (the “internal pneumatic
-stabilization” of Avery). More recent evidence — culminating in the Tanaka 2002 trial and
-the multicenter VEST trial — supports surgical stabilization of rib fractures (SSRF) for
-flail chest, with significant reductions in ventilator days, ICU length of stay, pneumonia, and
-mortality. Selected non-flail multiple rib fractures with significant displacement or chest
-wall instability may also benefit. The techniques use precontoured locking plates (e.g.,
-MatrixRIB, RIB-LOC) applied to the lateral surface of the rib via thoracotomy or minimally
-invasive approach.
-Sternum fractures are typically caused by direct trauma (steering wheel injury) and have
-been historically considered markers of significant mediastinal injury — although in the
-airbag era the association has weakened. Most sternum fractures are non-operative;
-severely displaced fractures or fractures with associated chest wall instability may benefit
-from open reduction and plate fixation.
+The orthopedic surgeon’s involvement with chest wall injuries has traditionally been limited to recognition and to coordination with thoracic surgery, but recent years have seen increasing involvement in operative stabilization of rib fractures and surgical management of flail chest. The principles deserve familiarity. Rib fractures are the most common chest wall injury, found in 10 to 30 percent of significant blunt trauma. The number of rib fractures correlates with mortality and pulmonary morbidity: each additional rib fracture is associated with a 19 percent increase in mortality and 27 percent increase in pneumonia risk in patients over 65. Pain management is the cornerstone of treatment, with the emphasis on enabling deep breathing and cough to prevent atelectasis and pneumonia; modalities include systemic analgesia (acetaminophen, NSAIDs, opioids), intercostal nerve blocks, paravertebral blocks, and epidural analgesia. Flail chest, defined by fracture of three or more contiguous ribs in two or more places producing a segment with paradoxical motion, has historically been managed by mechanical ventilation with positive end-expiratory pressure (the “internal pneumatic stabilization” of Avery). More recent evidence — culminating in the Tanaka 2002 trial and the multicenter VEST trial — supports surgical stabilization of rib fractures (SSRF) for flail chest, with significant reductions in ventilator days, ICU length of stay, pneumonia, and mortality. Selected non-flail multiple rib fractures with significant displacement or chest wall instability may also benefit. The techniques use precontoured locking plates (e.g., MatrixRIB, RIB-LOC) applied to the lateral surface of the rib via thoracotomy or minimally invasive approach. Sternum fractures are typically caused by direct trauma (steering wheel injury) and have been historically considered markers of significant mediastinal injury — although in the airbag era the association has weakened. Most sternum fractures are non-operative; severely displaced fractures or fractures with associated chest wall instability may benefit from open reduction and plate fixation.
 
 ## Special Considerations
 
 
 ## Neurovascular Complications of Clavicle Fractures
 
-The clavicle lies immediately above the subclavian artery and vein and the brachial plexus,
-and clavicle fracture displacement can produce vascular injury (rare, typically with marked
-posterior displacement) or brachial plexus traction injury. Vascular evaluation by palpation
-and Doppler, neurological examination of brachial plexus distribution, and a low threshold
-for CT angiography in suspected cases are appropriate.
+The clavicle lies immediately above the subclavian artery and vein and the brachial plexus, and clavicle fracture displacement can produce vascular injury (rare, typically with marked posterior displacement) or brachial plexus traction injury. Vascular evaluation by palpation and Doppler, neurological examination of brachial plexus distribution, and a low threshold for CT angiography in suspected cases are appropriate.
 
 ## Pneumothorax and Hemothorax
 
-Clavicle and scapula fractures are markers of significant chest trauma, and the orthopedic
-surgeon should not consider clavicular fracture in isolation. Chest radiograph is
-mandatory; the presence of associated pneumothorax or hemothorax mandates thoracic
-surgical involvement before or concurrent with any orthopedic intervention.
+Clavicle and scapula fractures are markers of significant chest trauma, and the orthopedic surgeon should not consider clavicular fracture in isolation. Chest radiograph is mandatory; the presence of associated pneumothorax or hemothorax mandates thoracic surgical involvement before or concurrent with any orthopedic intervention.
 
 ## Pediatric Clavicle Fractures
 
-Pediatric clavicle fractures heal reliably with non-operative treatment because of the
-periosteum integrity and the remodeling potential of the growing skeleton. Even severely
-displaced midshaft fractures in children under 10 years rarely require operative fixation.
-The very rare unstable lateral-end injury in the adolescent (typically a Robinson type III or
-Neer type IV) may warrant operative consideration similar to that for adults.
+Pediatric clavicle fractures heal reliably with non-operative treatment because of the periosteum integrity and the remodeling potential of the growing skeleton. Even severely displaced midshaft fractures in children under 10 years rarely require operative fixation. The very rare unstable lateral-end injury in the adolescent (typically a Robinson type III or Neer type IV) may warrant operative consideration similar to that for adults.
 
 ## Operative Complications
 
-Plate fixation of midshaft clavicle fractures carries a defined complication profile: hardware
-prominence and irritation (10 to 30 percent of patients eventually request hardware
-removal), refracture after hardware removal (uncommon but recognized), nonunion (1 to
-3 percent), infection (1 to 2 percent), and rare injury to the supraclavicular nerve branches
-producing localized anesthesia of the chest wall. Patients should be counseled about
-hardware prominence preoperatively.
+Plate fixation of midshaft clavicle fractures carries a defined complication profile: hardware prominence and irritation (10 to 30 percent of patients eventually request hardware removal), refracture after hardware removal (uncommon but recognized), nonunion (1 to 3 percent), infection (1 to 2 percent), and rare injury to the supraclavicular nerve branches producing localized anesthesia of the chest wall. Patients should be counseled about hardware prominence preoperatively.
 
 ## Summary and Take-Home Points
 
-Clavicle, scapula, and chest wall injuries collectively represent the orthopedic shoulder
-girdle’s encounter with high-energy trauma. The clavicle is most commonly fractured in the
-midshaft, where the Robinson classification structures management around displacement:
-completely displaced, shortened, or comminuted fractures in active patients have
-substantial nonunion rates with non-operative treatment and benefit from anatomic
-locking plate fixation, while undisplaced or minimally displaced fractures are managed in a
-sling. Lateral-end fractures are subdivided by Neer classification with operative fixation
-indicated for the CC-ligament-detached types IIA, IIB, and V. AC joint injuries are graded by
-the Rockwood classification, with types I and II non-operative, types IV through VI
-operative, and type III in the gray zone where contemporary practice favors non-operative
-trial with operative fixation reserved for high-demand patients. SC joint dislocations are
-rare; the posterior pattern is dangerous and requires reduction in the operating room with
+Clavicle, scapula, and chest wall injuries collectively represent the orthopedic shoulder girdle’s encounter with high-energy trauma. The clavicle is most commonly fractured in the midshaft, where the Robinson classification structures management around displacement: completely displaced, shortened, or comminuted fractures in active patients have substantial nonunion rates with non-operative treatment and benefit from anatomic locking plate fixation, while undisplaced or minimally displaced fractures are managed in a sling. Lateral-end fractures are subdivided by Neer classification with operative fixation indicated for the CC-ligament-detached types IIA, IIB, and V. AC joint injuries are graded by the Rockwood classification, with types I and II non-operative, types IV through VI operative, and type III in the gray zone where contemporary practice favors non-operative trial with operative fixation reserved for high-demand patients. SC joint dislocations are rare; the posterior pattern is dangerous and requires reduction in the operating room with
 
-cardiothoracic backup because of mediastinal proximity. Scapular fractures, though largely
-treated non-operatively, demand careful evaluation for associated chest and head injuries,
-with operative indications limited to specific severely displaced glenoid neck, glenoid
-articular, or floating-shoulder patterns. Chest wall injuries deserve orthopedic attention to
-rib fracture stabilization for flail chest in selected patients. The next chapter turns from the
-shoulder girdle to the glenohumeral joint itself, addressing the spectrum of acute and
-recurrent shoulder dislocation.
+cardiothoracic backup because of mediastinal proximity. Scapular fractures, though largely treated non-operatively, demand careful evaluation for associated chest and head injuries, with operative indications limited to specific severely displaced glenoid neck, glenoid articular, or floating-shoulder patterns. Chest wall injuries deserve orthopedic attention to rib fracture stabilization for flail chest in selected patients. The next chapter turns from the shoulder girdle to the glenohumeral joint itself, addressing the spectrum of acute and recurrent shoulder dislocation.

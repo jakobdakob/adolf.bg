@@ -40,7 +40,17 @@ The humerus is the largest long bone of the upper extremity, extending from the 
   </figcaption>
 </figure>
 
-The radial nerve is the principal neurological structure at risk in approaches to the humerus. It branches from the posterior cord of the brachial plexus, descends posterior to the brachial artery, and enters the spiral groove of the posterior humerus, where it passes obliquely from medial-superior to lateral-inferior. In the spiral groove, the nerve lies immediately adjacent to the periosteum (within 5 mm), with no muscular protection — this is the anatomical fact underlying the high rate of radial nerve injury in humeral shaft fractures ([Topic Trauma-14](/en/trauma/14/)) and the demand for meticulous identification and protection during surgical approaches to the posterior and lateral humerus. After traversing the spiral groove, the radial nerve pierces the lateral intermuscular septum at the junction of the middle and distal thirds of the humerus and enters the anterior compartment of the distal arm, where it lies between the brachialis (medial) and the brachioradialis / extensor carpi radialis longus (lateral). At the level of the elbow, the radial nerve divides into the superficial sensory branch and the deep motor branch (posterior interosseous nerve) — the PIN passing through the arcade of Frohse at the proximal margin of the supinator and into the forearm.
+The radial nerve is the principal neurological structure at risk in approaches to the humerus. It branches from the posterior cord of the brachial plexus, descends posterior to the brachial artery, and enters the spiral groove of the posterior humerus, where it passes obliquely from medial-superior to lateral-inferior. In the spiral groove, the nerve lies immediately adjacent to the periosteum (within 5 mm), with no muscular protection — this is the anatomical fact underlying the high rate of radial nerve injury in humeral shaft fractures ([Topic Trauma-14](/en/trauma/14/)) and the demand for meticulous identification and protection during surgical approaches to the posterior and lateral humerus.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The radial nerve in the spiral groove lies within 5 mm of the periosteum with no muscular cushion. Two reproducible landmarks: in the groove it sits at the lateral aspect of the proximal third on the posterior humerus, and it pierces the lateral intermuscular septum at the junction of the middle and distal thirds.</p>
+</aside> After traversing the spiral groove, the radial nerve pierces the lateral intermuscular septum at the junction of the middle and distal thirds of the humerus and enters the anterior compartment of the distal arm, where it lies between the brachialis (medial) and the brachioradialis / extensor carpi radialis longus (lateral). At the level of the elbow, the radial nerve divides into the superficial sensory branch and the deep motor branch (posterior interosseous nerve) — the PIN passing through the arcade of Frohse at the proximal margin of the supinator and into the forearm.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Distal to the spiral groove, the radial nerve runs in the anterior compartment between brachialis (medial) and brachioradialis / ECRL (lateral), then splits at the elbow into the superficial sensory branch and the PIN, which dives through the arcade of Frohse at the proximal supinator.</p>
+</aside>
 
 
 ## Musculocutaneous Nerve
@@ -77,6 +87,11 @@ The deltopectoral groove marks the proximal limit of the approach; the lateral m
 ## Approach
 
 The skin and subcutaneous tissue are incised. The fascia of the arm is opened in line with the skin incision. The biceps muscle is identified and retracted medially. The brachialis muscle is now visualized; the muscle is split longitudinally in line with its fibers at the midline (the lateral two-thirds of the brachialis is supplied by the musculocutaneous nerve, the medial third by the radial nerve, so the midline split preserves at least partial innervation of both sides). Beneath the brachialis split, the humerus is exposed subperiosteally. The radial nerve must be specifically identified and protected if the dissection is to extend into the distal third of the humeral shaft — the nerve pierces the lateral intermuscular septum at this level and enters the brachialis from the radial side.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Split brachialis in the midline: lateral two-thirds are musculocutaneous, medial third is radial. The midline split preserves at least partial innervation of each half and is the safe technique for the anterolateral approach to the humeral shaft.</p>
+</aside>
 
 ## Extension Distally
 
@@ -115,6 +130,11 @@ The triceps-reflecting (Bryan-Morrey) approach detaches the triceps insertion fr
 For the most extensive exposure of the distal humeral articular surface, the olecranon osteotomy (chevron-shaped osteotomy of the olecranon) is performed. The olecranon is osteotomized at its narrowest point, and the proximal fragment with the attached triceps is reflected proximally. The osteotomy is fixed at closure with tension-band wiring or a plate.
 
 The approach provides excellent visualization of the distal humeral articular surface for complex intra-articular fractures and is the standard approach for distal humerus ORIF ([Topic Trauma-15](/en/trauma/15/)).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Olecranon osteotomy is the workhorse for complex intra-articular distal humerus fractures but creates a separate fracture line that can go on to nonunion. The chevron-shape osteotomy at the narrowest point of the olecranon (the bare area, anatomically thinnest) is fixed with tension-band wiring or a plate at closure; failure to do so risks symptomatic nonunion.</p>
+</aside>
 
 ## Complications
 

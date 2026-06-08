@@ -40,6 +40,11 @@ The pelvic surgery anatomy is dominated by the dense neurovascular structures:
 
 The common iliac arteries branch from the abdominal aorta at approximately the level of L4 and divide into the internal iliac (hypogastric) and external iliac arteries at approximately the SI joint. The external iliac artery continues across the pelvic brim to become the femoral artery beneath the inguinal ligament; it gives off the inferior epigastric artery just above the inguinal ligament. The internal iliac artery has numerous branches supplying the pelvic viscera, the gluteal region (superior gluteal artery), the obturator region (obturator artery), and the perineum (pudendal artery). The iliac veins parallel the arteries. The common iliac veins join to form the inferior vena cava. The left common iliac vein is particularly vulnerable to injury in the anterior approaches because of its medial position relative to the artery. The corona mortis (“crown of death”) is a vascular anastomosis between the obturator artery (from the internal iliac) and the external iliac/inferior epigastric system, crossing the superior pubic ramus. The corona mortis is present in 30 to 80 percent of individuals and is at substantial risk during ilioinguinal and anterior intrapelvic approaches; injury produces significant bleeding that may be difficult to control because the vessel retracts into the obturator foramen.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The corona mortis ('crown of death') is the anastomosis between the obturator artery and the external iliac / inferior epigastric system crossing the superior pubic ramus. Present in 30-80% of patients; transection bleeds heavily and the stump retracts into the obturator foramen, making haemostasis difficult. Identify and ligate before retracting the iliac vessels in the modified Stoppa or ilioinguinal third window.</p>
+</aside>
+
 ## Lumbosacral Plexus
 
 <figure class="md-figure">
@@ -55,6 +60,11 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
 The lumbosacral plexus is formed from the anterior rami of L4 through S4. The principal nerves include: Femoral nerve (L2-L4): Descends through the iliac fossa anterior to the iliacus muscle, then passes beneath the inguinal ligament lateral to the femoral artery. Innervates the iliopsoas, quadriceps, sartorius, and pectineus. Obturator nerve (L2-L4): Descends through the pelvis on the lateral wall, passing through the obturator foramen. Innervates the obturator externus and the adductor compartment of the thigh. Sciatic nerve (L4-S3): The largest nerve in the body. Exits the pelvis through the greater sciatic foramen, typically inferior to the piriformis muscle. Innervates the hamstrings and (via its peroneal and tibial divisions) all the muscles of the leg and foot. Superior gluteal nerve (L4-S1): Exits the pelvis through the greater sciatic foramen, superior to the piriformis (the only nerve to do so). Runs between the gluteus medius and minimus, supplying both muscles and the tensor fasciae latae. Iatrogenic injury during the lateral approach to the hip is a recognized cause of postoperative abductor weakness. Inferior gluteal nerve (L5-S2): Exits inferior to the piriformis. Supplies the gluteus maximus. Pudendal nerve (S2-S4): Exits the pelvis through the greater sciatic foramen below the piriformis, then re-enters through the lesser sciatic foramen. Supplies the perineum.
 
 Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle and passes beneath the inguinal ligament approximately 1 to 2 cm medial to the ASIS. Provides sensation to the lateral thigh. Frequently encountered (and at risk) in anterior pelvic approaches; injury produces meralgia paresthetica.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two anterior pelvic nerve landmarks: the lateral femoral cutaneous nerve crosses under the inguinal ligament about 1-2 cm medial to the ASIS (injury gives meralgia paresthetica, very common after ilioinguinal); the superior gluteal nerve is the only nerve exiting the greater sciatic foramen ABOVE piriformis and is at risk during lateral hip approaches.</p>
+</aside>
 
 ## Lumbar Plexus Within the Psoas
 
@@ -77,6 +87,11 @@ The principal landmarks are the iliac crest, ASIS, inguinal ligament, and the mi
 The classical Letournel approach uses three “windows” through the abdominal wall, with the inguinal canal traversed in the process: The lateral (first) window: Between the ASIS and the iliopsoas. The lateral femoral cutaneous nerve crosses this region and is identified and protected. The iliacus is reflected medially from the inner table of the ilium, providing access to the iliac wing, the iliac fossa, and the anterior column of the acetabulum. The middle (second) window: Between the iliopsoas medially (containing the femoral nerve and the lateral femoral cutaneous nerve) and the external iliac vessels (artery and vein) medially. The window provides access to the pelvic brim and the superior portion of the quadrilateral surface.
 
 The medial (third) window: Between the external iliac vessels laterally and the spermatic cord (or round ligament in females) and the rectus abdominis medially. The window provides access to the superior pubic ramus and the symphysis.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Letournel's three windows: lateral (between ASIS and iliopsoas, with LFCN in the field, to iliac fossa and anterior column), middle (between iliopsoas medially and external iliac vessels, to pelvic brim and upper quadrilateral surface), medial (between iliac vessels and spermatic cord / rectus, to superior pubic ramus and symphysis).</p>
+</aside>
 
 ## Critical Structures
 
@@ -122,6 +137,11 @@ The greater trochanter, the PSIS, and the midline of the gluteus maximus mark th
 ## Approach
 
 The skin and subcutaneous tissue are incised. The fascia lata and gluteal aponeurosis are opened in line with the skin incision. The gluteus maximus is split in line with its fibers; the principal innervation (inferior gluteal nerve) enters from the medial side, so the splitting is typically biased laterally to preserve innervation. Beneath the gluteus maximus, the short external rotators are encountered (from superior to inferior: piriformis, gemellus superior, obturator internus, gemellus inferior, quadratus femoris). The piriformis is identified — this is the critical anatomical landmark for the sciatic nerve, which typically exits the pelvis just inferior to the piriformis. The sciatic nerve is identified and protected throughout the remainder of the procedure (with some surgeons placing a vessel loop around the nerve for retraction). The short external rotators are then incised at their trochanteric insertions and reflected medially. The posterior hip capsule is exposed. Trochanteric osteotomy or trochanteric flip osteotomy (Ganz) can be performed to extend the exposure proximally to the supra-acetabular region and to permit safe surgical hip dislocation.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On Kocher-Langenbeck the sciatic nerve typically exits below piriformis and is the principal neurological risk — 10-30% have postoperative sciatic dysfunction, predominantly peroneal-division. Split gluteus maximus with a lateral bias (inferior gluteal nerve enters medially) to preserve its innervation. Heterotopic ossification reaches 10-90% without indomethacin or low-dose radiation prophylaxis.</p>
+</aside>
 
 ## Complications
 

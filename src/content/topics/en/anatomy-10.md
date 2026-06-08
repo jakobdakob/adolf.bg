@@ -31,6 +31,11 @@ The leg compartments are four: Anterior compartment: Contains the tibialis anter
 
 The compartments are separated by intermuscular septa attached to the bones and the interosseous membrane.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Four compartments, four nerves: anterior (deep peroneal, tibialis anterior + toe extensors, dorsiflexion), lateral (superficial peroneal, peronei, eversion), superficial posterior (tibial, gastrocsoleus, plantarflexion), deep posterior (tibial, tibialis posterior + deep flexors, inversion). Compartment syndrome anatomy starts here.</p>
+</aside>
+
 ## Neurovascular Anatomy
 
 <figure class="md-figure">
@@ -45,15 +50,30 @@ The compartments are separated by intermuscular septa attached to the bones and 
 
 Anterior tibial artery and deep peroneal nerve: Enter the anterior compartment by passing through the proximal interosseous membrane (the artery is a branch of the popliteal artery; the nerve is a branch of the common peroneal nerve). Descend along the anterior interosseous membrane to the ankle, where they emerge anterior to the ankle to enter the foot as the dorsalis pedis vessels and the deep peroneal nerve (supplying the first webspace sensation). Superficial peroneal nerve: Branches from the common peroneal nerve and descends in the lateral compartment, supplying the peroneal muscles, then becomes subcutaneous at the junction of the middle and distal thirds of the leg, providing sensation to most of the dorsum of the foot. Posterior tibial artery and tibial nerve: Enter the deep posterior compartment by passing through the proximal tibial-fibular interosseous space. The nerve and artery descend along the posterior aspect of the deep posterior compartment to the medial malleolus, where they enter the foot deep to the flexor retinaculum (in the tarsal tunnel). Sural nerve: Forms in the popliteal fossa from contributions of the tibial nerve (medial sural cutaneous) and the common peroneal nerve (lateral sural cutaneous). The sural nerve runs subcutaneously down the posterolateral leg, providing sensation to the lateral foot. The sural nerve is the classical donor nerve for nerve grafting ([Topic Trauma-31](/en/trauma/31/)) because of its minimal sensory deficit when harvested. Saphenous vein and nerve: The great saphenous vein runs subcutaneously up the medial aspect of the leg from the medial malleolus to the femoral triangle. The saphenous nerve (a branch of the femoral nerve) accompanies the vein in the distal leg, providing sensation to the medial leg.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Sensory map of the foot: first webspace = deep peroneal; dorsum (most) = superficial peroneal; lateral border = sural; medial leg = saphenous. The sural nerve (medial + lateral sural cutaneous from popliteal fossa) is the classical nerve graft donor — minimal residual sensory deficit.</p>
+</aside>
+
 ## Tibial Shaft Approaches
 
-The anteromedial approach to the tibial shaft uses the subcutaneous medial surface of the tibia. An incision approximately 1 cm lateral to the anterior tibial crest provides access; the skin and subcutaneous tissue are incised, and the periosteum is opened to expose the bone. The approach is straightforward but has the disadvantage of a thin soft-tissue envelope over the tibia, with high rates of wound healing problems and infection. The approach is used for plate fixation of tibial shaft fractures (with caution about soft-tissue tension), biopsy, and bone grafting. The anterolateral approach through the interval between the anterior compartment muscles and the lateral compartment provides access to the lateral aspect of the tibia and the upper fibula. The superficial peroneal nerve is encountered in the lateral compartment and must be protected.
+The anteromedial approach to the tibial shaft uses the subcutaneous medial surface of the tibia. An incision approximately 1 cm lateral to the anterior tibial crest provides access; the skin and subcutaneous tissue are incised, and the periosteum is opened to expose the bone. The approach is straightforward but has the disadvantage of a thin soft-tissue envelope over the tibia, with high rates of wound healing problems and infection. The approach is used for plate fixation of tibial shaft fractures (with caution about soft-tissue tension), biopsy, and bone grafting.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The anteromedial tibia is subcutaneous; plate fixation here carries high rates of wound dehiscence and infection because of the thin soft-tissue envelope. Mind the open-fracture status, soft-tissue tension at closure, and prefer IM nailing or minimally invasive plating when the soft tissues are at risk.</p>
+</aside> The anterolateral approach through the interval between the anterior compartment muscles and the lateral compartment provides access to the lateral aspect of the tibia and the upper fibula. The superficial peroneal nerve is encountered in the lateral compartment and must be protected.
 
 The posterolateral approach through the interval between the lateral and posterior compartments provides access to the posterior aspect of the tibia and the fibula. The peroneal artery is at risk. The suprapatellar approach to tibial intramedullary nailing ([Topic Trauma-27](/en/trauma/27/)) has gained popularity for ease of fracture reduction and reduced anterior knee pain compared with the traditional infrapatellar approach.
 
 ## Fibular Approaches
 
 The lateral approach to the distal fibula is the standard for ORIF of ankle fractures ([Topic Trauma-28](/en/trauma/28/)). A longitudinal lateral incision over the fibula provides direct access. The superficial peroneal nerve crosses the operative field at the junction of the middle and distal thirds of the leg, becoming subcutaneous; it must be identified and protected. The lateral approach to the fibular shaft continues the same approach proximally. The fibula is exposed through subperiosteal dissection. The proximal fibular approach (for fibular head and neck pathology, including the proximal fibular fracture in the Maisonneuve variant of ankle fracture) uses a posterolateral incision behind the fibular head. The common peroneal nerve wraps around the fibular neck and is at substantial risk; its identification and protection are critical.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On the lateral approach to the distal fibula, the superficial peroneal nerve crosses the field at the junction of the middle and distal thirds of the leg as it becomes subcutaneous — identify and protect or expect dorsal foot neuroma. On proximal fibular exposure, the common peroneal nerve wrapping the fibular neck is the most superficial nerve in the body at that point.</p>
+</aside>
 
 ## Fasciotomy of the Leg
 

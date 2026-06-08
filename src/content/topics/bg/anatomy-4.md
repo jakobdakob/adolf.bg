@@ -51,6 +51,11 @@ Humeroradial articulation: Артикулация между capitellum на д�
 
 Преден сноп: От долната предна повърхност на mediale epicondylus до tuberculum sublime на processus coronoideus. Основен ограничител на валгусен стрес при средна флексия в лакъта. Уврежда се при спортисти, хвърлящи с голяма амплитуда (кандидати за „операция Tommy John“).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Две правила за стабилност: предният сноп на MCL (mediale epicondylus до tuberculum sublime на processus coronoideus) е основният ограничител на валгус при средна флексия (лигаментът на Tommy John); LUCL (laterale epicondylus до crista supinatoris) е основният ограничител на posterolateral rotatory instability (O'Driscoll, 1991).</p>
+</aside>
+
 Заден сноп: От mediale epicondylus назад до медиалния olecranon. Укрепва медиалната ставна капсула.
 
 Напречен сноп (Cooper's ligament): Между olecranon и processus coronoideus. Незначителен принос за стабилност.
@@ -101,6 +106,11 @@ Nervus radialis достига лакъта отпред (след пробив�
 
 PIN е застрашен при латералните достъпи до проксималния radius и до главичката на лъча — особено при пронация на предмишницата (която доближава нерва до оперативното поле; предмишницата трябва да бъде супинирана по времето на операцията, за да се измести нервът латерално). PIN е изложен на риск и при луксация на главичката на лъча и при хирургична манипулация около нея.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Пронацията доближава PIN до латералния лакът; супинирайте предмишницата по време на достъпа по Kocher, за да изместите нерва латерално, далеч от оперативното поле. Енергичната латерална ретракция на musculus supinator или агресивна дисекция отвъд tuberositas radii рискуват PIN при преминаването му през аркадата на Frohse.</p>
+</aside>
+
 ## Съдове в cubital fossa
 
 Cubital fossa съдържа nervus medianus, arteria brachialis и вените на brachialis, като lacertus fibrosus пресича артерията повърхностно. Повърхностните вени (vena mediana cubiti, vena cephalica, vena basilica) преминават подкожно.
@@ -124,6 +134,11 @@ Laterale epicondylus е основният ориентир. Кожният ра
 За по-проксимална експозиция (capitellum, laterale epicondylus, латерален стълб на дисталния humerus) разрезът може да се удължи проксимално с отделяне на общия екстензорен произход от laterale epicondylus.
 
 За по-дистална експозиция (проксимален radius, musculus supinator) дисекцията се разширява дистално при супинация на предмишницата, за да се защити PIN (който се измества латерално от оперативното поле при супинация).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Интервалът по Kocher (musculus anconeus отзад, nervus radialis / ECU отпред, PIN) е истинска плоскост между две нервни зони и класическият латерален достъп до лакъта. Отделянето на общия екстензорен произход проксимално разширява експозицията към латералния стълб и capitellum; инцизирането на ligamentum anulare излага главичката на лъча.</p>
+</aside>
 
 
 ## Усложнения
@@ -170,6 +185,11 @@ Mediale epicondylus е основният ориентир. Кожният ра�
 При фиксация на медиална фрактура на processus coronoideus (особено anteromedial facet pattern по O'Driscoll, разгледан в Тема Травма-15) медиалният достъп с модификацията „over the top“ по Hotchkiss осигурява достъп до коронарния израстък.
 
 При транспозиция на nervus ulnaris нервът се мобилизира от cubital tunnel и се транспонира напред (подкожно или субмускулно) пред mediale epicondylus.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>При медиалния достъп медиалният cutaneus antebrachii нерв пресича подкожно оперативното поле и е източник на болезнена неврома при пресичане. Nervus ulnaris трябва да бъде идентифициран зад mediale epicondylus и защитен по цялото протежение; декомпресията на cubital tunnel освобождава ligamentum Osborne (arcuate ligament между двете глави на musculus flexor carpi ulnaris).</p>
+</aside>
 
 
 ## Усложнения

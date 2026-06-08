@@ -17,9 +17,19 @@ The thigh has three principal muscular compartments separated by intermuscular s
 
 Popliteal fossa: The posterior knee region bounded by the biceps femoris (superolateral), the semimembranosus/semitendinosus (superomedial), and the two heads of gastrocnemius (inferiorly). Contains the popliteal artery, popliteal vein, and tibial/common peroneal nerves (the sciatic nerve divides at the apex of the fossa).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Femoral triangle contents lateral to medial: Nerve, Artery, Vein, Empty space, Lymphatic (NAVEL). The femoral artery continues into the adductor canal (Hunter) under sartorius and becomes the popliteal artery through the adductor hiatus — vulnerable at this fixed point in distal femur trauma.</p>
+</aside>
+
 ## Approaches to the Femoral Shaft
 
 The femoral shaft is approached for fracture fixation, tumor resection, and biopsy. The principal options: Anterolateral approach to the femur: Standard for plate fixation. Develops the interval between the vastus lateralis and the rectus femoris, with the rectus retracted medially. Provides good exposure with limited disruption of the principal blood supply. Posterolateral approach: Through the interval between the iliotibial band and the biceps femoris, providing posterolateral access to the femur. Used for plate fixation of distal femoral fractures ([Topic Trauma-24](/en/trauma/24/)). Posterior approach: Less commonly used; develops the interval between the medial and lateral hamstrings, with attention to the sciatic nerve. Provides access to the posterior femur. Antegrade and retrograde nailing entry: As described in [Topic Trauma-23](/en/trauma/23/), antegrade nailing uses a piriformis or trochanteric entry, and retrograde nailing uses an intercondylar notch entry through a small parapatellar arthrotomy.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The anterolateral approach to the femoral shaft develops the interval between vastus lateralis and rectus femoris with the rectus retracted medially — preserves the principal anterior blood supply. The posterolateral approach is used for distal femoral plating between the iliotibial band and biceps femoris.</p>
+</aside>
 
 ## Knee Bony and Articular Anatomy
 
@@ -41,6 +51,11 @@ The knee joint comprises: Tibiofemoral joint: Hinge joint between the distal fem
 ## Medial Parapatellar Approach
 
 The medial parapatellar approach is the classical and most commonly used approach for total knee arthroplasty, knee arthrotomy, and many open knee procedures. The approach uses a longitudinal anterior midline skin incision, with the deep arthrotomy beginning at the medial border of the quadriceps tendon, extending distally along the medial border of the patella, and continuing distally along the medial border of the patellar tendon. The quadriceps tendon is incised approximately 1 to 2 cm medial to the patella to leave a cuff for closure. The patella is then everted (or simply translated) laterally to expose the joint. The approach provides excellent visualization of the entire joint but disrupts the vastus medialis insertion on the patella, with consequent quadriceps weakness in the short term and contribution to extensor mechanism imbalance. The medial patellofemoral ligament (MPFL) is partially disturbed, and may contribute to lateral subluxation if not properly reconstructed.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Medial parapatellar is the TKA workhorse: leave a 1-2 cm quadriceps tendon cuff medial to the patella for closure. The midvastus splits VMO in line with its fibers (extend the split no more than 4-5 cm proximal to the patella). The subvastus elevates the entire vastus medialis without cutting and gives the most extensor-preserving but most restricted exposure.</p>
+</aside>
 
 ## Midvastus Approach
 
@@ -98,4 +113,9 @@ Common peroneal nerve: Continues laterally to wrap around the fibular neck (vuln
 
 ## Summary and Take-Home Points
 
-The thigh has three principal compartments (anterior with quadriceps and femoral nerve, medial with adductors and obturator nerve, posterior with hamstrings and sciatic nerve), with the femoral triangle at the proximal end and the popliteal fossa at the distal end as the principal neurovascular landmarks. The femoral shaft is approached for fracture fixation typically through an anterolateral approach between vastus lateralis and rectus femoris. The knee joint is accessed through the medial parapatellar approach (the workhorse for TKA and major knee procedures), with muscle-preserving variants (midvastus, subvastus) gaining popularity for selected indications. The lateral parapatellar approach is reserved for severe valgus or lateral instability. The posterior approach is used for posterior tibial plateau fractures, PCL tibial inlay, and exploration of the popliteal vessels. Knee arthroscopy through standard anterolateral and anteromedial portals provides access to the entire joint for meniscal, cartilage, ligament, and synovial procedures. The principal neurovascular structures of the popliteal fossa (popliteal vessels, tibial and common peroneal nerves) are the critical considerations in posterior knee and proximal tibia procedures. The common peroneal nerve around the fibular neck is vulnerable to direct injury in lateral approaches and to traction injury in knee dislocations. The chapter that follows turns to the lower leg, completing the proximal-to-distal lower extremity sequence.
+The thigh has three principal compartments (anterior with quadriceps and femoral nerve, medial with adductors and obturator nerve, posterior with hamstrings and sciatic nerve), with the femoral triangle at the proximal end and the popliteal fossa at the distal end as the principal neurovascular landmarks. The femoral shaft is approached for fracture fixation typically through an anterolateral approach between vastus lateralis and rectus femoris. The knee joint is accessed through the medial parapatellar approach (the workhorse for TKA and major knee procedures), with muscle-preserving variants (midvastus, subvastus) gaining popularity for selected indications. The lateral parapatellar approach is reserved for severe valgus or lateral instability. The posterior approach is used for posterior tibial plateau fractures, PCL tibial inlay, and exploration of the popliteal vessels. Knee arthroscopy through standard anterolateral and anteromedial portals provides access to the entire joint for meniscal, cartilage, ligament, and synovial procedures. The principal neurovascular structures of the popliteal fossa (popliteal vessels, tibial and common peroneal nerves) are the critical considerations in posterior knee and proximal tibia procedures. The common peroneal nerve around the fibular neck is vulnerable to direct injury in lateral approaches and to traction injury in knee dislocations.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The popliteal vessels and tibial/common peroneal nerves run deep in the popliteal fossa — at risk in posterior knee approaches and in any knee dislocation, where popliteal artery injury must be excluded by ABI/CTA even after spontaneous reduction. The common peroneal nerve wraps around the fibular neck and is the most superficial nerve in the body at that point — protect it in fibular head/proximal tibia exposures.</p>
+</aside> The chapter that follows turns to the lower leg, completing the proximal-to-distal lower extremity sequence.

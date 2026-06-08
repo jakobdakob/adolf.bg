@@ -48,9 +48,19 @@ The patient is supine with the head extended (often supported by a roll under th
 
 The key structures encountered include: Skin and platysma muscle: The transverse skin incision is centered on the desired level (using surface landmarks: hyoid bone at C3, thyroid cartilage at C4-C5, cricoid cartilage at C6). Sternocleidomastoid muscle (SCM) retracted laterally. Carotid sheath (containing common carotid artery, internal jugular vein, vagus nerve) retracted laterally with the SCM. Strap muscles (sternohyoid, sternothyroid, omohyoid) retracted medially with the trachea and esophagus. Pretracheal fascia is opened, and the prevertebral fascia is exposed. Esophagus lies posterior to the trachea and must be protected during retraction. Recurrent laryngeal nerve (RLN): The right RLN ascends from the right vagus around the subclavian artery and is more variable in course; the left RLN ascends from the left vagus around the aortic arch and is more consistent. The RLN runs in the tracheoesophageal groove and supplies the intrinsic muscles of the larynx (except the cricothyroid, supplied by the superior laryngeal nerve). RLN injury produces hoarseness and dysphagia; preservation of the RLN is the principal nerve concern in the approach. Sympathetic chain: Lateral to the longus colli muscles, vulnerable to injury during over-lateral dissection. Injury produces Horner’s syndrome (miosis, ptosis, anhidrosis). Longus colli muscles: Bilateral muscles overlying the anterior cervical vertebral bodies; subperiosteal elevation provides access to the bone.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Smith-Robinson works the avascular plane between the carotid sheath (lateral) and the strap muscles (medial). The recurrent laryngeal nerve runs in the tracheoesophageal groove (left side more vertical/predictable, right side more variable around the subclavian) and is the principal nerve concern; the sympathetic chain lateral to longus colli, if injured, gives Horner syndrome.</p>
+</aside>
+
 ## Approach Technique
 
 The incision is transverse along a skin crease at the appropriate level (or longitudinal along the medial border of the SCM for multilevel approaches). The platysma is divided in line with the skin incision. The deep cervical fascia is opened along the medial border of the SCM. The avascular plane between the carotid sheath (lateral) and the strap muscles (medial) is developed bluntly. The prevertebral fascia is opened in the midline (or just to one side), and the longus colli muscles are elevated subperiosteally laterally to provide bony exposure. Caspar pins or similar distraction devices are inserted into the vertebral bodies above and below the desired level. The disc or vertebral body is then approached as the procedure requires. The levels accessible through the standard Smith-Robinson approach are typically C3 to T1, with the lower levels (C6-T1) requiring careful retraction and the upper levels (C2-C3) requiring extension of the dissection upward. The C1-C2 region typically requires a different approach (transoral, retropharyngeal, or posterior).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The standard Smith-Robinson approach reaches C3-T1; C1-C2 is out of reach and demands a different approach (transoral, retropharyngeal, or posterior). Forcing a low approach toward C2-C3 risks the superior laryngeal nerve and inadequate exposure.</p>
+</aside>
 
 
 ## Complications
@@ -68,6 +78,11 @@ The patient is prone, with the head supported in a Mayfield head holder or horse
 ## Surgical Anatomy
 
 The midline structures encountered include: Skin and subcutaneous tissue in the midline. Ligamentum nuchae: The fibrous septum in the midline that should be split rather than crossed; staying within this avascular plane minimizes muscular bleeding. Paraspinal muscles: Trapezius, splenius capitis, splenius cervicis, semispinalis capitis, semispinalis cervicis, and the deeper short muscles. These are elevated subperiosteally from the spinous processes and laminae. Spinous processes: Variable in size; the bifid spinous processes of C3-C6 should be respected during muscle elevation. Laminae: The lateral extent of dissection should be limited to avoid injury to the vertebral artery as it passes through the foramen transversarium and the dorsal exit of the cervical nerve roots. Facet joints: Lateral to the laminae; specific identification is important for fusion procedures.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>On the posterior cervical approach, stay in the midline ligamentum nuchae (avascular) and limit lateral dissection at the laminae to protect the vertebral artery in the foramen transversarium and the dorsal exit of the cervical nerve roots.</p>
+</aside>
 
 
 ## Approach Technique
@@ -118,6 +133,11 @@ For the thoracolumbar junction (T11-L2), a combined thoracoabdominal approach wi
 
 Video-assisted thoracoscopic surgery (VATS) uses small thoracoscopic ports rather than thoracotomy for selected indications, with reduced postoperative pain and recovery time. Applications include anterior release for scoliosis, disc removal, and selected anterior vertebrectomies; the technique is less commonly used than open thoracotomy because of its technical demands and limited reach for fusion procedures.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Side selection for thoracic approaches: right-sided for the upper and middle thoracic spine (heart away from field), left-sided for the thoracolumbar junction T11-L2 (diaphragm more accessible, aorta a more pulsatile and identifiable landmark than the IVC). At C7-T1 a right-sided approach avoids the thoracic duct, which empties into the left subclavian vein.</p>
+</aside>
+
 ## Anterior Lumbar Approaches
 
 The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF), corpectomy, tumor or infection, and motion preservation procedures (artificial disc).
@@ -146,6 +166,11 @@ For the L5-S1 disc, the anterior approach proceeds below the iliac vessel bifurc
 ## Mini-Open and Minimally Invasive Variants
 
 Lateral retroperitoneal approaches (XLIF, LLIF, DLIF) provide minimally invasive access to the L1-L5 disc spaces through a transpsoas approach. The patient is positioned in true lateral decubitus, and a small lateral incision is made over the appropriate level. Blunt dissection through the retroperitoneal fat reaches the psoas muscle, which is split with neuromonitoring guidance to avoid the lumbosacral plexus (lying within the psoas). The disc space is accessed laterally, with placement of a large interbody cage. The technique is limited to L1-L4-5 (the iliac crest blocks access to L5-S1), and has substantial advantages of reduced morbidity but the specific concern of lumbar plexus injury (the L4 nerve root in particular is at risk in the lower lumbar levels).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Lateral transpsoas approaches (XLIF/LLIF/DLIF) cannot reach L5-S1 (blocked by the iliac crest) and put the lumbosacral plexus, particularly the L4 root in the lower levels, at risk inside the psoas. Neuromonitoring during psoas split is mandatory. In open anterior L4-L5 exposure, the left common iliac vein is at greatest risk; left-sided retroperitoneal access is preferred because the aorta is more easily mobilized than the IVC.</p>
+</aside>
 
 ## Complications of Anterior Lumbar Approaches
 

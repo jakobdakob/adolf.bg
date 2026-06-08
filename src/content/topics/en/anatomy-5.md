@@ -61,10 +61,20 @@ The mobile wad consists of the brachioradialis, extensor carpi radialis longus (
 
 The radial nerve enters the forearm anterior to the lateral epicondyle, between the brachialis (medial) and brachioradialis (lateral), and divides at the level of the radial head into: Superficial sensory branch: Continues distally beneath the brachioradialis, becomes superficial at the junction of the middle and distal thirds of the forearm, and supplies sensation to the dorsoradial wrist and the dorsum of the radial three and a half digits proximal to the DIP joints. Deep motor branch (posterior interosseous nerve, PIN): Passes through the arcade of Frohse (the fibrous proximal margin of the supinator) and through the supinator muscle to enter the dorsal compartment. The PIN then runs along the posterior surface of the interosseous membrane, supplying the dorsal compartment muscles. The PIN is the principal motor nerve of the extensor compartment. The PIN is at risk in surgical approaches to the proximal radius (particularly the anterior Henry approach and the dorsal Thompson approach), with forearm supination during dissection moving the nerve away from the operative field at the radial neck (anterior approach) or forearm pronation displacing it away in the dorsal approach.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Forearm rotation moves the PIN: SUPINATE during the volar Henry approach to displace the PIN medially away from the radial neck; PRONATE during the dorsal Thompson approach to displace it radially. Wrong rotation puts the PIN in the field at its most vulnerable point — within the supinator at the arcade of Frohse.</p>
+</aside>
+
 
 ## Median Nerve and AIN
 
 The median nerve enters the forearm between the two heads of the pronator teres (where it may be compressed in pronator syndrome), then runs deep to the FDS arch, then between FDS (superficial) and FDP (deep) in the midline of the forearm. At the wrist, it passes deep to the flexor retinaculum into the carpal tunnel. The anterior interosseous nerve (AIN) branches from the median nerve approximately 5 to 8 cm distal to the medial epicondyle and runs along the volar surface of the interosseous membrane, supplying the FPL, the radial half of the FDP (to the index and middle fingers), and the pronator quadratus. The AIN is purely motor (no sensory component); AIN palsy is recognized by inability to perform the “OK” sign (loss of FPL and FDP to index).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The anterior interosseous nerve (AIN) branches from the median nerve 5-8 cm distal to the medial epicondyle and supplies FPL, FDP to index/middle, and pronator quadratus. It is purely motor; an AIN palsy is diagnosed by inability to make the 'OK' sign and is the volar counterpart of PIN palsy.</p>
+</aside>
 
 ## Ulnar Nerve
 
@@ -92,6 +102,11 @@ The biceps tendon proximally, the mid-volar forearm in the middle, and the radia
 The skin and subcutaneous tissue are incised, with attention to superficial branches of the radial nerve (which become subcutaneous at the junction of the middle and distal thirds and run along the radial border of the distal forearm). The fascia is opened in line with the skin incision. The brachioradialis (radial side) and flexor carpi radialis (ulnar side) form the boundaries of the approach. The radial artery runs in the interval between these muscles, slightly toward the ulnar side; it is identified and protected.
 
 The brachioradialis is retracted laterally; the FCR is retracted medially. In the proximal third of the radius, the supinator is identified covering the bone, and the PIN runs through the supinator. The supinator is detached from the radius by subperiosteal elevation, with the forearm fully supinated to protect the PIN. In the middle third, the pronator teres insertion on the radius is identified and detached from its insertion. In the distal third, the pronator quadratus is identified and reflected from the radius. The radius is then exposed subperiosteally, and the desired procedure (plate fixation, biopsy, etc.) is performed.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Henry's approach works the interval between brachioradialis (lateral) and FCR (medial); the radial artery lies between them, slightly toward the ulnar side. Proximal third: detach supinator subperiosteally with the forearm fully supinated. Middle third: release the pronator teres insertion. Distal third: reflect pronator quadratus off the radius.</p>
+</aside>
 
 ## Complications
 
@@ -136,6 +151,11 @@ The subcutaneous border of the ulna is palpable from the olecranon to the ulnar 
 ## Approach
 
 The skin and subcutaneous tissue are incised. The fascia is opened directly over the subcutaneous border. The flexor carpi ulnaris (FCU) is reflected ulnarly (along with the ulnar nerve, which is protected throughout); the extensor carpi ulnaris (ECU) is reflected radially. Subperiosteal dissection then exposes the ulna. The approach is straightforward and produces no specific neurological risk because there are no major nerves crossing the subcutaneous border of the ulna; however, the dorsal cutaneous branch of the ulnar nerve runs along the ulnar side of the forearm at the junction of the middle and distal thirds and may be encountered. The approach is used for plate fixation of ulnar shaft fractures, exposure of the ulna for biopsy or tumor resection, and ulnar shortening osteotomy (a procedure for ulnar impaction syndrome).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The direct ulnar approach along the subcutaneous border avoids major nerves at the bone but the dorsal cutaneous branch of the ulnar nerve crosses the ulnar side at the junction of the middle and distal thirds — preserve it to avoid neuroma over the dorsoulnar wrist. Plating both forearm bones through a single incision risks radioulnar synostosis.</p>
+</aside>
 
 ## Approach to the Distal Radius
 

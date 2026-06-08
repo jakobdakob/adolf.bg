@@ -54,6 +54,11 @@ Interosseous compartments: Four dorsal interosseous and three palmar interosseou
 
 The flexor tendons pass through the carpal tunnel and into the digits through the flexor sheaths. The flexor digitorum superficialis (FDS) tendons insert on the middle phalanges; the flexor digitorum profundus (FDP) tendons pass through the FDS chiasm (Camper’s chiasm) and insert on the distal phalanges. The flexor pollicis longus (FPL) is the deep flexor of the thumb, inserting on the distal phalanx. The flexor pulley system maintains the tendons against the bone, preventing bowstringing during flexion. The annular pulleys (A1-A5) and the cruciate pulleys (C1- C3) form the pulley system. A2 (over the proximal phalanx) and A4 (over the middle phalanx) are the principal pulleys for biomechanical function; their preservation during surgery is essential to prevent bowstringing. The A1 pulley is the site of trigger finger (stenosing flexor tenosynovitis); release of A1 is the surgical treatment. The flexor tendon zones (Verdan) describe the location of injury for prognostic and treatment purposes: Zone I: Distal to the FDS insertion. Only FDP involved. Zone II (“no man’s land”): From the proximal A1 pulley to the FDS insertion. Both FDS and FDP within the synovial sheath. The most technically demanding zone for repair because of the synovial environment and risk of adhesions; outcomes have historically been disappointing but have improved with early protected motion protocols. Zone III: Between the carpal tunnel and the A1 pulley. Lumbrical region. Zone IV: Carpal tunnel. Zone V: Proximal to the carpal tunnel (distal forearm).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two pulleys, two zones: A2 (over the proximal phalanx) and A4 (over the middle phalanx) are the biomechanical critical pulleys — preserve them or bowstringing follows. Zone II ('no man's land') runs from the proximal A1 pulley to the FDS insertion and is the most demanding flexor zone for repair because both FDS and FDP share the synovial sheath.</p>
+</aside>
+
 ## Extensor Tendons
 
 <figure class="md-figure">
@@ -69,6 +74,11 @@ The flexor tendons pass through the carpal tunnel and into the digits through th
 The extensor tendons pass through the six dorsal extensor compartments at the wrist (from radial to ulnar): Compartment 1: Abductor pollicis longus (APL) and extensor pollicis brevis (EPB). Site of de Quervain’s tenosynovitis.
 
 Compartment 2: Extensor carpi radialis longus (ECRL) and extensor carpi radialis brevis (ECRB). Compartment 3: Extensor pollicis longus (EPL). Passes around Lister’s tubercle and is at risk in distal radius fractures (delayed rupture is a recognized complication). Compartment 4: Extensor digitorum communis (EDC) and extensor indicis proprius (EIP). Compartment 5: Extensor digiti minimi (EDM). Compartment 6: Extensor carpi ulnaris (ECU). In the digits, the extensor tendons form a complex extensor hood mechanism with the lumbricals and interossei. The central slip inserts on the dorsum of the middle phalangeal base, and the lateral bands continue distally to form the terminal extensor tendon inserting on the dorsum of the distal phalangeal base. The extensor tendon zones (Verdan) parallel the flexor zones: Zone I: DIP joint and distal. Site of mallet finger. Zone II: Middle phalanx. Zone III: PIP joint. Site of boutonnière injury (central slip disruption). Zone IV: Proximal phalanx. Zone V: MCP joint. Site of “fight bite” injuries. Zone VI: Dorsum of the hand. Zone VII: Wrist (extensor retinaculum). Zone VIII: Distal forearm.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Compartment 3 (EPL) hooks around Lister's tubercle and is at risk of delayed rupture after distal radius fracture — a classical late complication. Compartment 1 (APL/EPB) is the site of de Quervain tenosynovitis. Central slip disruption at the PIP (zone III) produces boutonnière deformity; terminal extensor disruption at DIP (zone I) produces mallet finger.</p>
+</aside>
 
 ## Intrinsic Hand Muscles
 
@@ -104,6 +114,11 @@ The digital nerves and arteries run along the lateral and medial aspects of each
 
 The deep palmar arch (formed by the radial artery with contribution from the ulnar artery) and the superficial palmar arch (formed by the ulnar artery with contribution from the radial artery) supply the digital arteries. The arches anastomose at the level of the metacarpal bases and provide rich vascular supply with redundancy. The Allen test assesses the patency of the radial and ulnar arteries by occluding both, exsanguinating the hand by clenching, then releasing one artery and observing the rate of refill. The test is performed before radial artery harvest or before procedures that may compromise one of the arteries.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two palmar arches with redundancy: deep arch (radial dominant) and superficial arch (ulnar dominant), anastomosing at the metacarpal bases. Allen's test confirms patency of both before any procedure that may compromise one of them (radial artery harvest, fistula creation, distal cannulation).</p>
+</aside>
+
 ## Principles of Hand Incisions
 
 The principles of hand incision design are essential to good outcomes: Avoid crossing flexion creases at right angles: This produces scar contracture across the crease, with subsequent loss of motion. Incisions should either parallel the creases or cross them at acute angles (typically less than 45 degrees), forming a “Z” or “step” pattern. Avoid longitudinal incisions on the volar surface of the digits: A straight longitudinal incision contracts and produces flexion contracture. The Bruner zig-zag incision (alternating diagonal incisions creating “Z” pattern over the volar digit) provides exposure while avoiding contracture. Mid-axial incisions on the digits: These straight longitudinal incisions along the lateral or medial mid-axis of the digit avoid crossing the volar creases entirely and provide good exposure for flexor tendon sheath and neurovascular work. The incision is placed at the most dorsal point of the volar flexion creases. Dorsal incisions: Generally have more flexibility but should respect the underlying extensor tendon and the venous and lymphatic drainage. Wrist incisions: The transverse wrist crease is generally avoided as a longitudinal incision site; the incision should either curve around the wrist or be placed proximal or distal to the crease.
@@ -129,6 +144,11 @@ Burn scar contracture release: Across flexion creases. Dupuytren’s contracture
 ## Carpal Tunnel Release
 
 The carpal tunnel release is the most commonly performed hand procedure. The approach uses a longitudinal incision in the palm parallel to the thenar crease, approximately 2 to 3 cm distal to the distal wrist crease. The incision is in line with the radial border of the ring finger, avoiding the superficial palmar arch distally and the palmar cutaneous branch of the median nerve proximally (which crosses the wrist crease at the radial side of the palmaris longus tendon). The palmar fascia is incised, and the transverse carpal ligament is identified and divided completely. The median nerve is identified and protected. The release proceeds proximally and distally until the ligament is completely divided. The procedure can also be performed endoscopically through a small proximal incision and an endoscopic blade, with reduced post-operative pain but similar long-term outcomes.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Place the carpal tunnel incision in line with the radial border of the ring finger and 2-3 cm distal to the wrist crease — too radial risks the palmar cutaneous branch of the median nerve (crossing the wrist crease at the radial side of palmaris longus); too distal risks the superficial palmar arch. Never cross the wrist crease longitudinally; use a Bruner zig-zag if extension is needed.</p>
+</aside>
 
 ## Trigger Finger Release
 

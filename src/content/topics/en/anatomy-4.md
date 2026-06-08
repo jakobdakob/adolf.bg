@@ -37,7 +37,12 @@ The elbow joint comprises three articulations within a single synovial capsule: 
   </figcaption>
 </figure>
 
-The medial collateral ligament (MCL) complex has three bundles: Anterior bundle: From the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid. The primary restraint to valgus stress in mid-range elbow flexion. Injured in throwing athletes (Tommy John surgery candidates). Posterior bundle: From the medial epicondyle posteriorly to the medial olecranon. Reinforces the medial joint capsule. Transverse bundle (Cooper’s ligament): Between the olecranon and the coronoid. Minor contribution to stability. The lateral collateral ligament (LCL) complex includes: Lateral ulnar collateral ligament (LUCL): From the lateral epicondyle posteriorly to the supinator crest of the ulna. The primary restraint to posterolateral rotatory instability — described by O’Driscoll in 1991 and central to the understanding of complex elbow injuries. Radial collateral ligament: From the lateral epicondyle to the annular ligament. Annular ligament: Around the radial head, attached to the anterior and posterior margins of the radial notch of the ulna. Accessory lateral collateral ligament: From the inferior aspect of the annular ligament to the supinator crest. Reinforces the LUCL.
+The medial collateral ligament (MCL) complex has three bundles: Anterior bundle: From the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid. The primary restraint to valgus stress in mid-range elbow flexion. Injured in throwing athletes (Tommy John surgery candidates). Posterior bundle: From the medial epicondyle posteriorly to the medial olecranon. Reinforces the medial joint capsule. Transverse bundle (Cooper’s ligament): Between the olecranon and the coronoid. Minor contribution to stability. The lateral collateral ligament (LCL) complex includes: Lateral ulnar collateral ligament (LUCL): From the lateral epicondyle posteriorly to the supinator crest of the ulna. The primary restraint to posterolateral rotatory instability — described by O’Driscoll in 1991 and central to the understanding of complex elbow injuries.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two stability rules: the anterior bundle of the MCL (medial epicondyle to sublime tubercle of coronoid) is the primary restraint to valgus at mid-flexion (the Tommy John ligament); the LUCL (lateral epicondyle to supinator crest) is the primary restraint to posterolateral rotatory instability (O'Driscoll, 1991).</p>
+</aside> Radial collateral ligament: From the lateral epicondyle to the annular ligament. Annular ligament: Around the radial head, attached to the anterior and posterior margins of the radial notch of the ulna. Accessory lateral collateral ligament: From the inferior aspect of the annular ligament to the supinator crest. Reinforces the LUCL.
 
 ## Neurovascular Structures
 
@@ -64,6 +69,11 @@ The median nerve and brachial artery pass through the cubital fossa, with the ar
 
 The radial nerve approaches the elbow anteriorly (after piercing the lateral intermuscular septum in the distal arm) and passes through the cubital fossa lateral to the biceps tendon, between the brachialis (medial) and the brachioradialis (lateral). At the level of the radial head, the nerve divides into: Superficial branch (sensory): Continues distally beneath the brachioradialis to the distal forearm, where it becomes superficial. Deep branch (posterior interosseous nerve, PIN): Passes through the arcade of Frohse (the fibrous proximal margin of the supinator) and through the supinator muscle to enter the posterior forearm. The PIN supplies the extensor compartment muscles. The PIN is at risk in lateral approaches to the proximal radius and the radial head, particularly during pronation of the forearm (which moves the nerve closer to the operative field; the forearm should be supinated during surgery to displace the nerve laterally). The PIN is also at risk in radial head dislocation and in surgical manipulation of the radial head.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Pronation brings the PIN closer to the lateral elbow; supinate the forearm during the Kocher approach to displace the nerve laterally away from the operative field. Forced lateral retraction of the supinator or aggressive dissection beyond the bicipital tuberosity puts the PIN at risk as it crosses the arcade of Frohse.</p>
+</aside>
+
 ## Cubital Vessels
 
 The cubital fossa contains the median nerve, brachial artery, and brachial veins, with the bicipital aponeurosis crossing the artery superficially. The superficial veins (median cubital vein, cephalic vein, basilic vein) traverse the cubital fossa subcutaneously.
@@ -85,6 +95,11 @@ The lateral epicondyle is the principal landmark. The skin incision extends from
 ## Approach
 
 The skin and subcutaneous tissue are incised. The fascia is opened in line with the skin incision. The Kocher interval between the anconeus (posterior, supplied by the radial nerve) and the extensor carpi ulnaris (ECU) (anterior, supplied by the PIN) is identified — this is the classical internervous plane that gives the Kocher approach its name. The interval is developed bluntly, with the dissection carried down to the lateral elbow capsule. The annular ligament is identified at the level of the radial head. For exposure of the radial head, the annular ligament can be incised and reflected. The radial head and capitellum are then visualized. For more proximal exposure (capitellum, lateral epicondyle, lateral column of the distal humerus), the incision can be extended proximally with elevation of the common extensor origin from the lateral epicondyle. For more distal exposure (proximal radius, supinator), the dissection extends distally with forearm supination to protect the PIN (which moves laterally away from the operative field with supination).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Kocher interval (anconeus posteriorly, radial nerve / ECU anteriorly, PIN) is a true internervous plane and the classical lateral elbow approach. Detaching the common extensor origin proximally extends the exposure to the lateral column and capitellum; incising the annular ligament exposes the radial head.</p>
+</aside>
 
 ## Complications
 
@@ -118,6 +133,11 @@ The medial epicondyle is the principal landmark. The skin incision extends from 
 The skin and subcutaneous tissue are incised, with attention to the medial antebrachial cutaneous nerve (branches typically cross the operative field and should be preserved). The medial intermuscular septum is identified proximally, and the ulnar nerve is identified posterior to the medial epicondyle. The ulnar nerve is mobilized and protected throughout the procedure. For MCL reconstruction (Tommy John surgery), the common flexor mass origin from the medial epicondyle is incised vertically (the “muscle-splitting” approach of Jobe) or the common flexor origin is detached (the “detachment” approach). The native MCL is exposed and the reconstruction proceeds (typically with a palmaris longus or hamstring tendon graft passing through bony tunnels). For medial coronoid fracture fixation (particularly the anteromedial facet pattern of O’Driscoll discussed in [Topic Trauma-15](/en/trauma/15/)), the medial approach with medial Hotchkiss “over the top” modification provides access to the coronoid.
 
 For ulnar nerve transposition, the nerve is mobilized from the cubital tunnel and transposed anteriorly (subcutaneously or submuscularly) anterior to the medial epicondyle.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On the medial approach the medial antebrachial cutaneous nerve crosses the operative field subcutaneously and is the source of painful neuroma if transected. The ulnar nerve must be identified posterior to the medial epicondyle and protected throughout; cubital tunnel decompression releases Osborne's ligament (the arcuate ligament between the two heads of FCU).</p>
+</aside>
 
 ## Complications
 

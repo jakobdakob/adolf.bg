@@ -31,6 +31,11 @@ The blood supply to the femoral head is the central anatomical concern of hip su
 
 Medial femoral circumflex artery (MFCA): A branch of the deep femoral artery. The principal supply to the femoral head (approximately 70 to 80 percent in most specimens). Courses posteriorly around the femoral neck and gives off retinacular branches that ascend within the capsular reflection along the posterior aspect of the femoral neck to enter the femoral head near the cartilage-bone junction. Surgical approaches that disrupt these retinacular vessels (particularly the posterior approach with disruption of the obturator internus and gemelli insertion) produce AVN risk. Lateral femoral circumflex artery (LFCA): Provides smaller anterior contribution. Artery of the ligamentum teres: A branch of the obturator artery (variable). Of importance in children but generally inadequate as the sole blood supply in adults. The Ganz trochanteric flip osteotomy preserves the deep branch of the medial femoral circumflex artery by maintaining the obturator externus insertion and the posterior capsular reflection, providing safe surgical hip dislocation without AVN.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The medial femoral circumflex artery (deep branch) supplies 70-80% of the femoral head via retinacular vessels ascending along the posterior femoral neck. The Ganz trochanteric flip protects this supply by keeping the obturator externus insertion intact — this is the anatomic basis for safe surgical hip dislocation without AVN.</p>
+</aside>
+
 ## Muscular Anatomy
 
 The principal hip muscles include: Anterior compartment: Iliopsoas (hip flexion), rectus femoris (hip flexion, knee extension), sartorius (hip flexion, knee flexion), pectineus. Lateral compartment: Gluteus medius and minimus (abduction, internal rotation in flexion), tensor fasciae latae. Posterior compartment: Gluteus maximus (extension, external rotation), piriformis (external rotation), short external rotators (gemelli, obturator internus and externus, quadratus femoris). Medial compartment: Adductor longus, brevis, magnus; gracilis. The gluteus medius and minimus are critical for normal gait (Trendelenburg gait develops with their dysfunction); their preservation is paramount in any approach.
@@ -62,6 +67,11 @@ Femoral nerve, artery, vein: Pass beneath the inguinal ligament. The femoral art
 </figure>
 
 The Smith-Petersen anterior approach uses the internervous interval between the sartorius (femoral nerve) medially and the tensor fasciae latae (superior gluteal nerve) laterally, and the deep interval between the rectus femoris (femoral nerve) medially and the gluteus medius (superior gluteal nerve) laterally.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Smith-Petersen is a true internervous plane at two levels: superficial between sartorius (femoral) and TFL (superior gluteal); deep between rectus femoris (femoral) and gluteus medius (superior gluteal). The lateral femoral cutaneous nerve crosses near the ASIS — meralgia paresthetica is the price of carelessness.</p>
+</aside>
 
 ## Indications
 
@@ -104,6 +114,11 @@ Total hip arthroplasty, hemiarthroplasty, femoral neck fracture fixation.
 
 Patient supine or lateral decubitus. Longitudinal lateral incision over the trochanter. Fascia lata opened. Gluteus medius split in line with its fibers (only as far proximal as 5 cm from the trochanter to protect the superior gluteal nerve). The anterior portion of the gluteus medius (with the gluteus minimus) is reflected anteriorly as a single flap, often in continuity with the vastus lateralis. The hip capsule is opened anteriorly.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On the Hardinge direct lateral approach, never split the gluteus medius more than 5 cm proximal to the greater trochanter — beyond that the superior gluteal nerve (between gluteus medius and minimus) is denervated and persistent abductor weakness with Trendelenburg gait follows.</p>
+</aside>
+
 ## Complications
 
 Superior gluteal nerve injury with extended proximal dissection (limiting the abductor split to 5 cm from the trochanter is critical). Abductor weakness even with appropriate technique; trochanteric pain and persistent limp are recognized concerns.
@@ -120,6 +135,11 @@ Total hip arthroplasty, hemiarthroplasty, open reduction of posterior hip disloc
 ## Technique
 
 Patient in lateral decubitus with the affected side up. Curved incision from the PSIS region, over the greater trochanter, extending distally into the proximal thigh. Fascia lata and gluteus maximus aponeurosis opened. Gluteus maximus split in line with its fibers (biased to avoid the inferior gluteal nerve). The short external rotators (piriformis, gemelli, obturator internus, quadratus femoris) are identified at their trochanteric insertions; the sciatic nerve is identified inferior to the piriformis. The short external rotators are detached from the trochanter and reflected medially to expose the posterior capsule. The capsule is opened and the joint is accessed.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On the posterior hip approach the sciatic nerve must be identified inferior to piriformis before detaching the short external rotators; injury runs 1-3% in elective THA and higher in posterior dislocation reduction. Meticulous capsule and short-rotator repair at closure is essential to bring posterior THA dislocation rates down from the historical 3-5%.</p>
+</aside>
 
 ## Complications
 

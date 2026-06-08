@@ -85,6 +85,11 @@ Aa. iliacae communes се отделят от аортата приблизит�
 
 Corona mortis („корона на смъртта“) е съдова анастомоза между arteria obturatoria (клон на arteria iliaca interna) и системата на arteria iliaca externa/arteria epigastrica inferior, преминаваща по ramus superior ossis pubis. Corona mortis се среща в 30-80% от хората и е изложена на значителен риск при илиоингвиналния и при предния интрапелвичен достъп; увреждането й причинява значимо кървене, което може да бъде трудно за овладяване, тъй като съдът се прибира в foramen obturatorium.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Corona mortis („корона на смъртта“) е анастомозата между arteria obturatoria и системата на arteria iliaca externa / arteria epigastrica inferior, пресичаща ramus superior ossis pubis. При 30-80% от пациентите; пресичане кърви обилно и пънчето се прибира в foramen obturatorium, правейки хемостазата трудна. Идентифицирайте и лигирайте преди ретракция на илиачните съдове при модифицирания Stoppa или третия прозорец на илиоингвиналния.</p>
+</aside>
+
 ## Лумбосакрален плексус
 
 <figure class="md-figure">
@@ -113,6 +118,11 @@ Nervus pudendus (S2-S4): Излиза от таза през foramen ischiadicum
 
 Nervus cutaneus femoris lateralis (L2-L3): Минава пред musculus iliacus и преминава под ligamentum inguinale приблизително 1-2 cm медиално от SIAS. Осигурява сетивна инервация на латералната повърхност на бедрото. Среща се (и е изложен на риск) при предните тазови достъпи; увреждането му причинява meralgia paresthetica.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Два предни тазови неврологични ориентира: nervus cutaneus femoris lateralis пресича под ligamentum inguinale на около 1-2 cm медиално от SIAS (увреждане дава meralgia paresthetica, много често след илиоингвинален достъп); nervus glutealis superior е единственият нерв, излизащ от foramen ischiadicum majus НАД musculus piriformis, и е застрашен при латерален достъп към тазобедрената става.</p>
+</aside>
+
 ## Поясен плексус в дебелината на musculus psoas
 
 Plexus lumbalis лежи в дебелината на musculus psoas и е особено изложен на риск при латералните трансмускулни (транспсоас) достъпи към поясния гръбнак (XLIF/LLIF, виж Тема Анатомия-1). Коренчето L4 е най-каудалното и е в най-голям риск на нивото L4-L5.
@@ -138,6 +148,11 @@ Plexus lumbalis лежи в дебелината на musculus psoas и е ос�
 Среден (втори) прозорец: Между musculus iliopsoas медиално (съдържащ nervus femoralis и nervus cutaneus femoris lateralis) и arteria и vena iliaca externa латерално. Прозорецът осигурява достъп до linea terminalis и до горната част на facies quadrilateralis.
 
 Медиален (трети) прозорец: Между илиачните съдове латерално и funiculus spermaticus (или ligamentum rotundum при жените) и musculus rectus abdominis медиално. Прозорецът осигурява достъп до ramus superior ossis pubis и до симфизата.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Трите прозореца по Letournel: страничен (между SIAS и musculus iliopsoas, с nervus cutaneus femoris lateralis в полето, към fossa iliaca и предната колона), среден (между musculus iliopsoas медиално и илиачните съдове, към linea terminalis и горната facies quadrilateralis), медиален (между илиачните съдове и funiculus spermaticus / rectus abdominis, към ramus superior ossis pubis и симфизата).</p>
+</aside>
 
 ## Критични структури
 
@@ -204,6 +219,11 @@ Trochanter major, SIPS и средната линия на musculus gluteus maxi
 Под musculus gluteus maximus се срещат късите външни ротатори (отгоре надолу: musculus piriformis, musculus gemellus superior, musculus obturator internus, musculus gemellus inferior, musculus quadratus femoris). Musculus piriformis се идентифицира — той е критичният анатомичен ориентир за nervus ischiadicus, който обикновено излиза от таза непосредствено под пириформиса. Нервът се идентифицира и предпазва до края на процедурата (някои хирурзи поставят vessel loop около нерва за ретракция).
 
 Късите външни ротатори се прерязват при трохантерните им залавяния и се ретрахират медиално. Задната ставна капсула се открива. При необходимост може да се извърши трохантерна остеотомия или трохантерна флип-остеотомия (по Ganz) за разширяване на достъпа проксимално към супраацетабуларната зона и за осигуряване на безопасна хирургична луксация на тазобедрената става.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>При Kocher-Langenbeck nervus ischiadicus типично излиза под musculus piriformis и е основната неврологична опасност — 10-30% имат постоперативна дисфункция, предимно перонеална. Разцепвайте musculus gluteus maximus с латерално отклонение (nervus glutealis inferior влиза медиално), за да запазите инервацията. Хетеротопична осификация достига 10-90% без профилактика с индометацин или ниска доза лъчетерапия.</p>
+</aside>
 
 
 ## Усложнения

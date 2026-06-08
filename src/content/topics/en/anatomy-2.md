@@ -46,6 +46,11 @@ The rotator cuff comprises four muscles forming a cuff around the humeral head: 
 
 The deltoid is the principal motor of shoulder abduction beyond the initial range provided by the supraspinatus. It has three heads: Anterior (clavicular) deltoid: From the lateral third of the clavicle, producing flexion and internal rotation. Middle (acromial) deltoid: From the acromion, producing abduction. Posterior (spinous) deltoid: From the spine of the scapula, producing extension and external rotation. The deltoid inserts on the deltoid tuberosity of the humerus. The axillary nerve innervates the deltoid (and teres minor) and runs through the quadrilateral space (bounded by teres minor superiorly, teres major inferiorly, long head of triceps medially, and humeral shaft laterally) — passing approximately 5 to 7 cm distal to the acromion along the deltoid undersurface, the critical anatomical relationship that limits the size of safe deltoid-splitting incisions.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The axillary nerve passes around the surgical neck of the humerus approximately 5-7 cm distal to the acromion along the deltoid undersurface, after traversing the quadrilateral space (teres minor, teres major, long head of triceps, humeral shaft). This limits any deltoid-splitting incision to about 5 cm distal to the acromion.</p>
+</aside>
+
 ## Periscapular Muscles
 
 The periscapular muscles stabilize the scapula on the chest wall: Trapezius: From the occiput and spinous processes, inserting on the scapular spine, acromion, and clavicle. Provides scapular elevation, retraction, and upward rotation.
@@ -59,10 +64,20 @@ Rhomboids major and minor: From the thoracic spinous processes to the medial bor
 
 The axillary nerve is the principal neurological structure at risk in shoulder surgery. It branches from the posterior cord of the brachial plexus, passes posteriorly through the quadrilateral space, and then winds around the surgical neck of the humerus deep to the deltoid, dividing into branches to the deltoid and to the teres minor, with a sensory branch (superior lateral cutaneous nerve of the arm) supplying the skin over the lateral deltoid. The proximity of the axillary nerve to the surgical neck of the humerus (approximately 5 to 7 cm distal to the acromion along the deltoid undersurface) is the critical surgical anatomical fact that limits the extent of deltoid-splitting incisions. The axillary nerve is injured in approximately 10 to 20 percent of anterior shoulder dislocations and in many proximal humerus fractures ([Topic Trauma-13](/en/trauma/13/)).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The axillary nerve carries the sensory branch (superior lateral cutaneous nerve of the arm) to the skin over the lateral deltoid; this is the patch to test for sensation after every anterior shoulder dislocation or proximal humerus fracture (10-20% have axillary nerve injury).</p>
+</aside>
+
 
 ## Musculocutaneous Nerve (C5-C7)
 
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus, pierces the coracobrachialis muscle (typically about 5 to 8 cm distal to the coracoid, the “safe zone” for retraction during anterior shoulder surgery is approximately 5 cm distal to the coracoid), and supplies the biceps brachii, brachialis, and coracobrachialis. It then continues as the lateral antebrachial cutaneous nerve.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The musculocutaneous nerve pierces coracobrachialis approximately 5-8 cm distal to the coracoid; vigorous retraction of the conjoint tendon beyond about 5 cm distal to the coracoid risks neuropraxia. The 'safe zone' is the proximal 5 cm below the coracoid tip.</p>
+</aside>
 
 ## Brachial Plexus and Axillary Vessels
 
@@ -102,6 +117,11 @@ The incision is along the deltopectoral groove, beginning just inferior to the c
 ## Approach
 
 The deltopectoral interval between the deltoid (axillary nerve) and the pectoralis major (medial and lateral pectoral nerves) is identified — the classical landmark is the cephalic vein running in the interval. The vein is typically taken either medially (with the pectoralis) or laterally (with the deltoid); the lateral retraction may be safer with respect to vein preservation. The deltoid is then retracted laterally and the pectoralis medially. The clavipectoral fascia is incised lateral to the conjoint tendon. The conjoint tendon (coracobrachialis and short head of biceps) is identified and retracted medially with attention to the musculocutaneous nerve entering coracobrachialis approximately 5 to 8 cm distal to the coracoid (this defines the safe zone for retraction). The subscapularis is now visualized, with the anterior humeral circumflex vessels (the “three sisters”) at its inferior border. These vessels are typically ligated or coagulated. The subscapularis is then incised (with various techniques, vertical incision, lesser tuberosity osteotomy, peel from the lesser tuberosity for shoulder arthroplasty) to expose the underlying capsule and joint.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>On the deltopectoral approach, the anterior humeral circumflex vessels (the 'three sisters') at the inferior border of subscapularis must be controlled before subscapularis takedown — uncontrolled bleeding obscures the field. Subscapularis disruption is a common postoperative concern; lesser tuberosity osteotomy or subscapularis peel with bone block may outperform the historical vertical tenotomy.</p>
+</aside>
 
 
 ## Variations

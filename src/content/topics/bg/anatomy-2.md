@@ -72,6 +72,11 @@ Musculus deltoideus е основният двигател на раменнат
 
 Musculus deltoideus се захваща за tuberositas deltoidea на раменната кост. Nervus axillaris инервира делтоида (и musculus teres minor) и преминава през квадрилатералното пространство (ограничено от musculus teres minor горе, musculus teres major долу, дългото сухожилие на triceps медиално и диафизата на humerus латерално) — минавайки на около 5-7 cm дистално от акромиона по дълбоката повърхност на делтоида, което е критичната анатомична връзка, ограничаваща размера на безопасните делтоид-разцепващи разрези.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Nervus axillaris обикаля хирургичната шийка на humerus на около 5-7 cm дистално от акромиона по дълбоката повърхност на делтоида, след преминаване през квадрилатералното пространство (teres minor, teres major, дълго сухожилие на triceps, диафиза на humerus). Това ограничава всеки делтоид-разцепващ разрез до около 5 cm дистално от акромиона.</p>
+</aside>
+
 ## Перискапуларни мускули
 
 Перискапуларните мускули стабилизират скапулата върху гръдната стена:
@@ -93,9 +98,19 @@ Nervus axillaris е основната неврологична структур
 
 Близостта на nervus axillaris до хирургичната шийка на humerus (около 5-7 cm дистално от акромиона по дълбоката повърхност на делтоида) е критичният хирургично-анатомичен факт, ограничаващ обхвата на делтоид-разцепващите разрези. Nervus axillaris е увреден при около 10-20% от предните луксации на рамото и при много фрактури на проксималния humerus (Тема Травматология-13).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Nervus axillaris носи сетивен клон (nervus cutaneus brachii lateralis superior) към кожата на латералния делтоид; това е зоната за проверка на сетивността след всяка предна луксация на рамото или фрактура на проксималния humerus (10-20% имат увреда на n. axillaris).</p>
+</aside>
+
 ## Nervus musculocutaneus (C5-C7)
 
 Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус, пробива musculus coracobrachialis (обикновено около 5-8 cm дистално от processus coracoideus, „безопасната зона“ за ретракция при предна раменна хирургия е около 5 cm дистално от coracoideus) и инервира musculus biceps brachii, musculus brachialis и musculus coracobrachialis. След това продължава като nervus cutaneus antebrachii lateralis.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Nervus musculocutaneus пробива musculus coracobrachialis на около 5-8 cm дистално от processus coracoideus; енергична ретракция на conjoint tendon отвъд около 5 cm дистално от coracoideus рискува невропраксия. „Безопасната зона“ са проксималните 5 cm под върха на coracoideus.</p>
+</aside>
 
 ## Брахиален плексус и аксиларни съдове
 
@@ -138,6 +153,11 @@ Nervus thoracicus longus преминава по латералната гръд
 Fascia clavipectoralis се разсича латерално от conjoint tendon. Conjoint tendon (musculus coracobrachialis и късото сухожилие на biceps) се идентифицира и ретрахира медиално, като се внимава за nervus musculocutaneus, навлизащ в coracobrachialis на около 5-8 cm дистално от coracoideus (това определя безопасната зона за ретракция).
 
 Musculus subscapularis вече е видим, като предните циркумфлексни съдове на humerus („трите сестри“) са на долния му ръб. Тези съдове обикновено се лигират или коагулират. Subscapularis след това се разсича (с различни техники, вертикален разрез, остеотомия на tuberculum minus, отслояване от tuberculum minus при артропластика на рамото) за излагане на подлежащата капсула и ставата.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>При делтопекторалния достъп предните циркумфлексни съдове на humerus („трите сестри“) на долния ръб на subscapularis трябва да бъдат контролирани преди отделянето на subscapularis — неконтролирано кървене закрива полето. Дисфункцията на subscapularis е честа следоперативна грижа; остеотомията на tuberculum minus или отслояването с костен блок могат да дават по-добри резултати в сравнение с историческата вертикална тенотомия.</p>
+</aside>
 
 
 ## Варианти

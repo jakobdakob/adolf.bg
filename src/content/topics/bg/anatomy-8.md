@@ -51,6 +51,11 @@ Arteria ligamenti capitis femoris (arteria teres): Клон на arteria obturat
 
 Трохантерната флип-остеотомия по Ganz запазва дълбокия клон на arteria circumflexa femoris medialis, като поддържа залавянето на musculus obturator externus и задната капсулна рефлексия, осигурявайки безопасна хирургична луксация на тазобедрената става без аваскуларна некроза.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Arteria circumflexa femoris medialis (дълбок клон) кръвоснабдява 70-80% от бедрената глава чрез ретинакуларни съдове, изкачващи се по задната повърхност на шийката. Флипът по Ganz запазва това кръвоснабдяване, като оставя залавянето на musculus obturator externus интактно — това е анатомичната основа за безопасна хирургична луксация без аваскуларна некроза.</p>
+</aside>
+
 ## Мускулна анатомия
 
 Основните мускули на тазобедрената става включват:
@@ -98,6 +103,11 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 </figure>
 
 Предният достъп по Smith-Petersen използва безнервния интервал между musculus sartorius (nervus femoralis) медиално и musculus tensor fasciae latae (nervus glutealis superior) латерално, и дълбокия интервал между musculus rectus femoris (nervus femoralis) медиално и musculus gluteus medius (nervus glutealis superior) латерално.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Smith-Petersen е истинска безнервна плоскост на две нива: повърхностно между musculus sartorius (femoralis) и musculus tensor fasciae latae (glutealis superior); дълбоко между musculus rectus femoris (femoralis) и musculus gluteus medius (glutealis superior). Nervus cutaneus femoris lateralis пресича близо до SIAS — meralgia paresthetica е цената на невниманието.</p>
+</aside>
 
 
 ## Показания
@@ -149,6 +159,11 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 Пациентът е в положение по гръб или в странично положение. Надлъжен латерален разрез над трохантера. Fascia lata се отваря. Musculus gluteus medius се разцепва по хода на влакната (само до 5 cm проксимално от трохантера, за да се предпази nervus glutealis superior). Предната порция на musculus gluteus medius (заедно с musculus gluteus minimus) се рефлектира напред като единно ламбо, нерядко в непрекъснатост с musculus vastus lateralis. Ставната капсула се отваря отпред.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>При директния латерален достъп по Hardinge никога не разцепвайте musculus gluteus medius повече от 5 cm проксимално от trochanter major — отвъд това nervus glutealis superior (между musculus gluteus medius и musculus gluteus minimus) се денервира и следва трайна слабост на абдукторите с походка на Тренделенбург.</p>
+</aside>
+
 
 ## Усложнения
 
@@ -167,6 +182,11 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 ## Техника
 
 Пациентът е в странично положение с засегнатата страна нагоре. Извит разрез от областта на SIPS, над trochanter major, с дистално удължение в проксималната бедрена област. Fascia lata и апоневрозата на musculus gluteus maximus се отварят. Musculus gluteus maximus се разцепва по хода на влакната (с латерално отклонение, за да се избегне nervus glutealis inferior). Идентифицират се залавянията на кратките външни ротатори (musculus piriformis, близнаците, musculus obturator internus, musculus quadratus femoris) за trochanter major; nervus ischiadicus се идентифицира под musculus piriformis. Кратките външни ротатори се откъсват от трохантера и се рефлектират медиално, откривайки задната капсула. Капсулата се отваря и ставата се влиза.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>При задния достъп до тазобедрената става nervus ischiadicus трябва да бъде идентифициран под musculus piriformis преди откъсване на кратките външни ротатори; увреждане се среща при 1-3% от плановите тотални артропластики и по-често при репозиция на задни луксации. Прецизното шиене на капсулата и кратките ротатори при затваряне е задължително за намаляване на задните луксации от историческите 3-5%.</p>
+</aside>
 
 
 ## Усложнения

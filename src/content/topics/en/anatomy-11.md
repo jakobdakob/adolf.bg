@@ -39,7 +39,17 @@ The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolu
 
 The anterior ankle structures, from medial to lateral, are: tibialis anterior, extensor hallucis longus (EHL), anterior tibial artery and deep peroneal nerve, extensor digitorum longus (EDL), peroneus tertius. The medial ankle contains the tarsal tunnel posterior to the medial malleolus, with the contents (deep to the flexor retinaculum, from anterior to posterior): tibialis posterior, flexor digitorum longus, posterior tibial artery and tibial nerve, flexor hallucis longus, the “Tom, Dick, And a Nervous Harry” mnemonic.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Tarsal tunnel contents posterior to the medial malleolus (anterior to posterior, deep to the flexor retinaculum): Tibialis posterior, flexor Digitorum longus, posterior tibial Artery, tibial Nerve, flexor Hallucis longus — 'Tom, Dick, And a Nervous Harry'. Decompression here treats tarsal tunnel syndrome.</p>
+</aside>
+
 The lateral ankle contains the peroneus brevis anteriorly and peroneus longus posteriorly behind the lateral malleolus, with the sural nerve running posterolaterally. The superficial peroneal nerve crosses the anterolateral ankle and dorsum of the foot subcutaneously, providing most of the dorsal foot sensation; injury produces a recognizable sensory deficit and is a recognized concern in anterolateral ankle approaches. The saphenous nerve descends along the medial side of the ankle and foot, providing medial sensation; injury produces medial dorsal sensory deficit.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The superficial peroneal nerve becomes subcutaneous and crosses the anterolateral ankle to supply most of the dorsum of the foot — identify and protect it during anterior and anterolateral ankle approaches. The deep peroneal nerve supplies first webspace sensation only; the sural nerve supplies the lateral border; the saphenous, the medial.</p>
+</aside>
 
 ## Anterior Ankle Approach
 
@@ -54,6 +64,11 @@ The lateral ankle contains the peroneus brevis anteriorly and peroneus longus po
 </figure>
 
 The anterior ankle approach is used for anterior ankle arthrodesis, total ankle arthroplasty, distal tibial osteotomy, tumor resection, and other anterior procedures. A longitudinal incision is made over the anterior ankle in the line of the second metatarsal, approximately 10 to 15 cm in length. The superficial peroneal nerve crosses the lateral aspect of the incision (most surgeons make the skin incision medial to the SPN crossings). The deep dissection develops the interval between the tibialis anterior (medial) and the extensor hallucis longus / extensor digitorum longus (lateral), with the anterior tibial artery and deep peroneal nerve retracted laterally. The ankle capsule is opened to access the joint.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Anterior ankle approach: skin incision in line with the second metatarsal, medial to the SPN crossings; deep interval between tibialis anterior (medial) and EHL/EDL (lateral) with anterior tibial vessels and deep peroneal nerve retracted laterally. Anterolateral approach for pilon fractures uses the interval between EHL/EDL and peroneus tertius.</p>
+</aside>
 
 ## Anterolateral Ankle Approach
 
@@ -76,6 +91,11 @@ The sinus tarsi approach has largely supplanted the extensile lateral approach f
 ## Extensile Lateral Approach to the Calcaneus
 
 The extensile lateral approach (Letournel/Benirschke) is the historical standard for calcaneal fracture fixation. An L-shaped or hockey-stick incision is made along the lateral calcaneus, with vertical and horizontal limbs. The skin and subcutaneous tissue are reflected, with the peroneal tendons elevated as a single soft-tissue flap. The lateral wall of the calcaneus is exposed for plating. The wound complication rates of 5 to 25 percent have led to the substantial preference for the sinus tarsi approach.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The extensile lateral L-shaped approach to the calcaneus carries 5-25% wound complications because the entire lateral flap with overlying skin is reflected on the lateral calcaneal artery — late-presenting fractures, smokers, diabetics, and open fractures should sway choice toward the smaller sinus tarsi approach.</p>
+</aside>
 
 ## Approaches to the Foot
 

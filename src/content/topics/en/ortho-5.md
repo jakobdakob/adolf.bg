@@ -13,6 +13,16 @@ The term “infantile osteoarthritis” — a translation of “кърмачес
 
 ## Infantile Osteoarthritis (Neonatal and Infantile Septic Arthritis)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-5/coxitis.jpg" data-figure-alt="Coxitis — septic arthritis of the hip in a child" aria-label="Enlarge">
+    <img src="/img/ortho-5/coxitis.jpg" alt="Coxitis — septic arthritis of the hip in a child" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Infantile septic arthritis — typical posturing of the affected limb in flexion, abduction, and external rotation, the position that maximises capsular volume in the presence of a painful effusion.</span>
+    <span class="md-figure-attribution"> — J. Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Coxitis.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -48,6 +58,16 @@ The treatment of confirmed or strongly suspected neonatal or infantile septic ar
 The complications of neonatal and infantile septic arthritis are among the most devastating in pediatric orthopedics. Avascular necrosis of the femoral head, with secondary collapse, deformity, premature physeal arrest, and lifelong shortening and arthritis, is the classical late consequence of inadequately treated neonatal hip sepsis. The “Tom Smith arthritis,” named after the nineteenth-century surgeon who first described its consequences, refers to the chronic dislocation, partial resorption, or complete loss of the femoral head following neonatal hip sepsis. Premature physeal arrest in any affected long bone produces shortening and angular deformity; in the hip, the typical residual deformity is coxa magna, coxa breva, coxa vara, or a combination of these. Chondrolysis of the joint surface can occur, producing severe stiffness and pain in childhood. Late reconstructive options for the destroyed neonatal hip include valgus osteotomy and pelvic support osteotomy in the older child, with arthrodesis or arthroplasty postponed until skeletal maturity.
 
 ## Transient (Toxic) Synovitis of the Hip
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-5/transient-synovitis-us.jpg" data-figure-alt="Ultrasound of joint effusion in transient synovitis" aria-label="Enlarge">
+    <img src="/img/ortho-5/transient-synovitis-us.jpg" alt="Ultrasound of joint effusion in transient synovitis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ultrasound of the hip in transient synovitis — anechoic joint effusion displacing the anterior capsule. Ultrasound is the gold standard for detecting the effusion and guiding aspiration.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Ultrasonography_of_joint_effusion_in_transient_synovitis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definition and Epidemiology

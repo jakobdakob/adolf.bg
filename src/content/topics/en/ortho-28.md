@@ -47,15 +47,55 @@ The long head of the biceps tendon traverses the bicipital groove of the proxima
 
 ## Lateral Epicondylitis (Tennis Elbow)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/tennis-elbow.jpg" data-figure-alt="Lateral epicondylitis — tennis elbow" aria-label="Enlarge">
+    <img src="/img/ortho-28/tennis-elbow.jpg" alt="Lateral epicondylitis — tennis elbow" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lateral epicondylitis — painful enthesopathy of the common extensor origin (especially extensor carpi radialis brevis) at the lateral epicondyle.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+  </figcaption>
+</figure>
+
 Lateral epicondylitis is a chronic tendinopathy at the origin of the wrist extensors, particularly extensor carpi radialis brevis (ECRB), at the lateral humeral epicondyle. The condition is the commonest cause of lateral elbow pain in adults, affecting approximately 1- 3% of the general population. The term “tennis elbow” reflects the association with the backhand stroke in tennis, but the great majority of cases occur in non-tennis players, typically with occupational repetitive wrist extension. Presentation is with lateral elbow pain provoked by activities requiring wrist extension or gripping. Examination reveals tenderness at the ECRB origin (approximately 1 cm distal to the lateral epicondyle) and reproduction of pain with resisted wrist extension and resisted middle finger extension (Maudsley test). The differential diagnosis includes radial tunnel syndrome (more distal tenderness, different provocative patterns), osteochondritis of the capitellum (in adolescent throwing athletes), and lateral collateral ligament insufficiency. Treatment is initially conservative: activity modification, eccentric exercise programs targeting the wrist extensors, counterforce bracing, NSAIDs, and selective corticosteroid injection (with evidence of short-term benefit but possible worse long-term outcomes). Newer treatments under investigation include extracorporeal shock-wave therapy, platelet-rich plasma injection, and other biological injections. Surgical management — open or arthroscopic ECRB release with possible debridement of pathological tissue — is reserved for the small fraction of patients who fail comprehensive conservative management over 6-12 months.
 
 Medial Epicondylitis (Golfer’s Elbow) Medial epicondylitis is the analogous condition at the origin of the wrist flexors and pronator teres at the medial epicondyle. Presentation is with medial elbow pain provoked by gripping and wrist flexion. The differential diagnosis includes ulnar collateral ligament insufficiency (particularly in throwing athletes) and ulnar neuritis. Treatment principles parallel those of lateral epicondylitis, with attention to the ulnar nerve in surgical procedures.
 
 ## Olecranon Bursitis
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/olecranon-bursitis.jpg" data-figure-alt="Olecranon bursitis" aria-label="Enlarge">
+    <img src="/img/ortho-28/olecranon-bursitis.jpg" alt="Olecranon bursitis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Olecranon bursitis — inflammation and swelling of the superficial olecranon bursa; the classic “student’s elbow”.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Olecranon bursitis is inflammation of the bursa overlying the olecranon process, with the classical “student’s elbow” or “miner’s elbow” presentation of a swollen mass over the posterior elbow. Causes include acute trauma, repetitive pressure, and septic infection (particularly Staphylococcus aureus). Aseptic bursitis is treated conservatively with rest, NSAIDs, and selective aspiration; septic bursitis requires antibiotic therapy and surgical drainage when needed.
 
 ## Wrist and Hand Overuse Syndromes
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/de-quervain.jpg" data-figure-alt="De Quervain tenosynovitis" aria-label="Enlarge">
+    <img src="/img/ortho-28/de-quervain.jpg" alt="De Quervain tenosynovitis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">De Quervain tenosynovitis — inflammation of the first dorsal extensor compartment (APL and EPB) with a positive Finkelstein test.</span>
+    <span class="md-figure-attribution"> — Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/trigger-finger.jpg" data-figure-alt="Trigger finger" aria-label="Enlarge">
+    <img src="/img/ortho-28/trigger-finger.jpg" alt="Trigger finger" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Trigger finger — stenosing tenosynovitis of the A1 pulley with mechanical catching of the flexor tendon on motion.</span>
+    <span class="md-figure-attribution"> — RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 De Quervain’s Tenosynovitis De Quervain’s tenosynovitis is inflammation of the first dorsal compartment of the wrist, containing the abductor pollicis longus (APL) and extensor pollicis brevis (EPB) tendons. The condition is more common in women, particularly in association with pregnancy and lactation (“new mother’s wrist,” from the repeated lifting of an infant with the wrist in radial deviation), and in patients with occupational repetitive thumb use. Presentation is with radial-sided wrist pain. The Finkelstein test (active flexion of the thumb into the palm with ulnar deviation of the wrist, reproducing the symptoms) is the classical clinical sign; the Eichhoff test (passive thumb flexion within the closed fist with ulnar deviation) is similar. Treatment is initially conservative with thumb spica splinting, NSAIDs, and corticosteroid injection (high success rate of 60-80%). Surgical release of the first dorsal compartment is reserved for refractory cases, with attention to identification and protection of accessory APL slips (which are present in many patients and require release of any septated subcompartments). Stenosing Tenosynovitis (Trigger Finger / Trigger Thumb) Stenosing tenosynovitis of the digital flexor tendons — trigger finger — is a common condition in which thickening of the A1 pulley at the level of the metacarpal head produces resistance to tendon excursion, with characteristic “triggering” of the affected digit as the tendon catches and then releases through the constricted pulley. The condition is more common in women, in middle age, and in patients with diabetes mellitus (with substantially elevated prevalence and lower response to conservative treatment). Presentation is with painful catching or locking of the affected digit, most commonly the long, ring, or thumb. Examination reveals tenderness and a palpable nodule at the A1
 

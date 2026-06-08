@@ -57,6 +57,16 @@ order: 28
 
 ## Латерален епикондилит (тенис-лакът)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/tennis-elbow.jpg" data-figure-alt="Латерален епикондилит — тенис-лакът" aria-label="Увеличи">
+    <img src="/img/ortho-28/tennis-elbow.jpg" alt="Латерален епикондилит — тенис-лакът" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Латерален епикондилит — болезнено прикрепване на общия екстензорен апоневроз (особено extensor carpi radialis brevis) към латералния епикондил.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Tennis_Elbow_Anatomy.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+  </figcaption>
+</figure>
+
 Латералният епикондилит е хронична тендинопатия в началото на мускулите — екстензори на китката, предимно m. extensor carpi radialis brevis (ECRB), при латералния хумерусен епикондил. Това е най-честата причина за болка по страничната страна на лакътя при възрастни, засягаща приблизително 1–3% от общото население. Названието „тенис-лакът" отразява връзката с бекхенд удара в тениса, но голямата част от случаите се
 
 срещат при хора, неиграещи тенис — типично при повтарящо се разгъване на китката в рамките на професионална дейност.
@@ -71,6 +81,16 @@ order: 28
 
 ## Олекраноновен бурсит
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/olecranon-bursitis.jpg" data-figure-alt="Олекраноновен бурсит" aria-label="Увеличи">
+    <img src="/img/ortho-28/olecranon-bursitis.jpg" alt="Олекраноновен бурсит" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Олекраноновен бурсит — възпаление и оток на повърхностната bursa olecranica; класическият „студентски лакът“.</span>
+    <span class="md-figure-attribution"> — Harrygouvas, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_bursitis_(3).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Олекраноновият бурсит е възпаление на бурсата над processus olecrani — класическото „студентски лакът" или „лакът на миньора" — с оток над задната страна на лакътя. Причините включват остра травма, повтарящ се натиск и септична инфекция (особено Staphylococcus aureus). Асептичният бурсит се лекува консервативно с покой, НСПВС и избирателна аспирация; септичният бурсит изисква антибиотична терапия и хирургичен дренаж при необходимост.
 
 ## Синдроми на претоварване на китката и ръката
@@ -79,6 +99,16 @@ order: 28
 
 ## Теносиновит на De Quervain
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/de-quervain.jpg" data-figure-alt="Теносиновит на De Quervain" aria-label="Увеличи">
+    <img src="/img/ortho-28/de-quervain.jpg" alt="Теносиновит на De Quervain" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Теносиновит на De Quervain — възпаление на сухожилните обвивки на първия дорзален екстензорен компартимент (APL и EPB); тест на Finkelstein е патогномоничен.</span>
+    <span class="md-figure-attribution"> — Romosquera, <a href="https://commons.wikimedia.org/wiki/File:Sindrome-de-quervain.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Теносиновитът на De Quervain е възпаление на първото дорзално отделение на китката, съдържащо сухожилията на m. abductor pollicis longus (APL) и m. extensor pollicis brevis
 
 (EPB). Състоянието е по-често при жени, особено при бременност и кърмене („китка на новата майка" — от многократното вдигане на бебе с китката в радиална девиация), и при пациенти с повтарящо се натоварване на палеца в рамките на работата.
@@ -86,6 +116,16 @@ order: 28
 Клиничната изява е с болка по радиалната страна на китката. Тестът на Finkelstein (активна флексия на палеца в дланта с улнарна девиация на китката, възпроизвеждаща симптомите) е класическият клиничен признак; тестът на Eichhoff (пасивна флексия на палеца в затвореното юмруче с улнарна девиация) е сходен. Лечението е първоначално консервативно — шина за палеца тип spica, НСПВС и кортикостероидна инжекция (висок процент на успех 60–80%). Хирургичното освобождаване на първото дорзално отделение се запазва за рефрактерни случаи, като се обръща внимание на идентифицирането и защитата на допълнителните сухожилни снопчета на APL (налични при много пациенти, изискващи освобождаване на всички прегради в субкомпартментите).
 
 ## Стенозиращ теносиновит (trigger finger / trigger thumb)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/trigger-finger.jpg" data-figure-alt="Trigger finger" aria-label="Увеличи">
+    <img src="/img/ortho-28/trigger-finger.jpg" alt="Trigger finger" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Trigger finger — стенозиращ теносиновит на A1 ремъка с механично заклещване на флексорното сухожилие при движение.</span>
+    <span class="md-figure-attribution"> — RCraig09, <a href="https://commons.wikimedia.org/wiki/File:20230326_Trigger_finger_-_right_middle_finger.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Стенозиращият теносиновит на флексорните сухожилия на пръстите — trigger finger — е честа патология, при която задебеляването на шивата А1 на нивото на главичката на metacarpalia предизвиква съпротивление на плъзгането на сухожилието, с характерно „прескачане" на засегнатия пръст при захващане и освобождаване на сухожилието от стеснената шива. Заболяването е по-често при жени, в средна възраст и при пациенти с захарен диабет (съществено повишена честота и по-слаб отговор на консервативното лечение).
 

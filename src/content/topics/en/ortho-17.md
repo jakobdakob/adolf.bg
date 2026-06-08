@@ -36,6 +36,16 @@ physis has matured), obesity (which increases this load), and genetic susceptibi
 
 ## Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount-xray.jpg" data-figure-alt="Blount disease" aria-label="Enlarge">
+    <img src="/img/ortho-17/blount-xray.jpg" alt="Blount disease" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Blount disease (tibia vara) on AP and lateral X-ray — medial proximal tibial epiphyseal-metaphyseal irregularity with varus deformity, graded by the Langenskiöld classification.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The Langenskiöld classification (1952), based on radiographic appearance of the medial proximal tibial epiphysis and metaphysis, recognizes six stages of increasing severity: Stage I: Medial metaphyseal beaking with no involvement of the epiphysis. Stage II: Wedging of the medial epiphysis with sharp metaphyseal beak. Stage III: Step-off at the medial epiphyseal margin with fragmentation. Stage IV: Occupation of the medial epiphyseal step by the metaphyseal beak. Stage V: Cleft of the medial epiphysis with separated medial fragment. Stage VI: Bony bridging across the medial physis with established bony bar. The classification has prognostic value (Stages V and VI rarely improve without surgical intervention; Stages I and II can resolve with conservative management) but inter-observer reliability is only moderate. The Drennan metaphyseal-diaphyseal angle is a quantitative measurement used to distinguish infantile Blount’s disease from physiological bowing. The angle is measured between (1) a line through the most prominent points of the proximal tibial metaphysis and (2) a line perpendicular to the long axis of the tibial diaphysis. Angles less than 11° suggest physiological bowing; angles greater than 16° suggest Blount’s disease; intermediate angles (11-16°) are equivocal and require further evaluation and follow-up.
 
 ## Clinical Features

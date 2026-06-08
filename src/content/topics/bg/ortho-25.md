@@ -70,6 +70,16 @@ order: 25
 
 ## Лумбална спинална стеноза
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/spinal-stenosis-mri.png" data-figure-alt="Лумбална спинална стеноза на MRI" aria-label="Увеличи">
+    <img src="/img/ortho-25/spinal-stenosis-mri.png" alt="Лумбална спинална стеноза на MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лумбална спинална стеноза на сагитална MRI — намалено сечение на спинния канал поради дегенеративна дискова херния, хипертрофия на жълтата връзка и фасетна артропатия.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Патофизиология и клинична картина
 

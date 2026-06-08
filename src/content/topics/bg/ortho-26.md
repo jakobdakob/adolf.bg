@@ -30,6 +30,16 @@ order: 26
 
 ## Класификация по ниво на увреждане
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-26/erb-palsy.jpg" data-figure-alt="Парализа на Erb" aria-label="Увеличи">
+    <img src="/img/ortho-26/erb-palsy.jpg" alt="Парализа на Erb" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Парализа на Erb (C5–C6) при новородено — характерна „поза на сервитьорска бакшиш" (waiter's tip): аддукция, вътрешна ротация на рамото, пронация и екстензия на лакъта.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Erb%27s_Palsy_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Брахиалният плексус произхожда от нервните корени C5, C6, C7, C8 и T1. АПБП се класифицира според засегнатите корени:
 
 Парализа на Erb (горен плексус, C5–C6, понякога включваща C7): Най-честият модел, представляващ около 70% от АПБП. Класическите клинични белези включват засегнатата ръка, държана в аддукция и вътрешна ротация в рамото, с екстензия в лакътя, пронация в предмишницата и лека флексия в китката и пръстите — позицията „бакшиш на сервитьор". Активната абдукция на рамото, външната ротация, флексията на лакътя и супинацията на предмишницата са слаби или липсват. Функцията на ръката и китката може да е запазена, ако C7 е пощаден.

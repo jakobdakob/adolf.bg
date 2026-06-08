@@ -59,6 +59,16 @@ The natural history of acute lumbar disc herniation with radiculopathy is favora
 
 ## Lumbar Spinal Stenosis
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-25/spinal-stenosis-mri.png" data-figure-alt="Lumbar spinal stenosis on MRI" aria-label="Enlarge">
+    <img src="/img/ortho-25/spinal-stenosis-mri.png" alt="Lumbar spinal stenosis on MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lumbar spinal stenosis on sagittal MRI — reduced cross-section of the spinal canal due to degenerative disc bulging, ligamentum flavum hypertrophy and facet arthropathy.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spinal_stenosis_3_8.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Pathophysiology and Clinical Features
 

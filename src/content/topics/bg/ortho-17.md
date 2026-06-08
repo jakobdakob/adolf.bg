@@ -42,6 +42,16 @@ order: 17
 
 ## Класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount-xray.jpg" data-figure-alt="Болест на Blount" aria-label="Увеличи">
+    <img src="/img/ortho-17/blount-xray.jpg" alt="Болест на Blount" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Болест на Blount (tibia vara) на AP и латерална рентгенография — медиална проксимална тибиална епифизарно-метафизарна неравност с вирусна деформация, класифицирана по Langenskiöld.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Langenskiöld (1952), основана на рентгенографската картина на медиалната проксимална тибиална епифиза и метафиза, разпознава шест стадия с нарастваща тежест:
 
 Стадий I: Медиално метафизарно „клюнене" без засягане на епифизата.

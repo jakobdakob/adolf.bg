@@ -30,6 +30,16 @@ The glenohumeral joint is a ball-and-socket articulation between the relatively 
 
 ## Rotator Cuff
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff.svg" data-figure-alt="Rotator cuff anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-2/rotator-cuff.svg" alt="Rotator cuff anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Rotator cuff — supraspinatus, infraspinatus, teres minor, subscapularis; the supraspinatus tendon is the most commonly torn in rotator cuff syndrome.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The rotator cuff comprises four muscles forming a cuff around the humeral head: Supraspinatus: Originates from the supraspinous fossa of the scapula, passes under the acromion, and inserts on the superior facet of the greater tuberosity. Function: initial 30 degrees of abduction; participates with deltoid throughout abduction range. Most commonly torn of the rotator cuff muscles. Infraspinatus: Originates from the infraspinous fossa, inserts on the middle facet of the greater tuberosity. Function: external rotation of the shoulder. Teres minor: Originates from the lateral border of the scapula, inserts on the inferior facet of the greater tuberosity. Function: external rotation, assists infraspinatus. Subscapularis: Originates from the subscapular fossa (anterior surface of the scapula), inserts on the lesser tuberosity. Function: internal rotation; the principal anterior stabilizer of the shoulder. The rotator cuff muscles function principally to compress the humeral head into the glenoid, providing dynamic stability, while permitting the deltoid to generate the principal abduction force.
 
 ## Deltoid

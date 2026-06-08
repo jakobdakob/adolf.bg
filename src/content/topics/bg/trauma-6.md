@@ -74,6 +74,16 @@ Damage control реанимация (DCR): Комбиниране на допу�
 
 ## Системният отговор на травмата
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-3d.png" data-figure-alt="3D CT при политравма" aria-label="Увеличи">
+    <img src="/img/trauma-6/polytrauma-3d.png" alt="3D CT при политравма" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Контрастно усилени 3D CT реконструкции при политравматичен пациент — едновременна оценка на множество анатомични региона; стандарт за бърза диагностика при стабилен полутравматичен пациент след primary survey.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Системният отговор на травмата включва сложно взаимодействие на възпалителни и противорегулаторни механизми.
 
 ## Теорията за двойния удар

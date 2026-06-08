@@ -39,6 +39,16 @@ Humeroradial articulation: Артикулация между capitellum на д�
 
 ## Лигаментна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-xray.jpg" data-figure-alt="Лакътна става на рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-4/elbow-xray.jpg" alt="Лакътна става на рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Нормална рентгенография на лакътя — латерален изглед: ясни кортикални контури на дисталния хумерус, проксималния radius и ulna; линията Cap-Radii-Capitellum (CRCl) трябва да минава през capitellum при всяка проекция.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
+
 Комплексът на медиалния колатерален лигамент (MCL) има три снопа:
 
 Преден сноп: От долната предна повърхност на mediale epicondylus до tuberculum sublime на processus coronoideus. Основен ограничител на валгусен стрес при средна флексия в лакъта. Уврежда се при спортисти, хвърлящи с голяма амплитуда (кандидати за „операция Tommy John").

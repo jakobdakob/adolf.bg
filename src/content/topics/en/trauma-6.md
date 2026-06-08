@@ -49,6 +49,16 @@ The lethal triad of trauma — hypothermia, acidosis, and coagulopathy — descr
 
 ## The Systemic Response to Trauma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-6/polytrauma-3d.png" data-figure-alt="3D CT of polytrauma patient" aria-label="Enlarge">
+    <img src="/img/trauma-6/polytrauma-3d.png" alt="3D CT of polytrauma patient" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Contrast-enhanced 3D CT reconstructions in a polytrauma patient — simultaneous evaluation of multiple anatomical regions; the standard for rapid diagnosis in the stable polytrauma patient after primary survey.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 The systemic response to trauma involves a complex interplay of inflammatory and counter-regulatory mechanisms.
 
 ## The Two-Hit Theory

@@ -42,6 +42,16 @@ coracohumerale. Processus coracoideus е източникът на костни�
 
 ## Ротаторен маншон
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff.svg" data-figure-alt="Ротаторен маншон" aria-label="Увеличи">
+    <img src="/img/anatomy-2/rotator-cuff.svg" alt="Ротаторен маншон" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ротаторен маншон — supraspinatus, infraspinatus, teres minor, subscapularis; супраспинатусното сухожилие е най-често разкъсваното при ротаторен синдром.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Ротаторният маншон включва четири мускула, образуващи маншон около главицата на раменната кост:
 
 Musculus supraspinatus: Произхожда от fossa supraspinata на скапулата, преминава под акромиона и се захваща за горната фасета на tuberculum majus. Функция: начален отрязък на абдукция до 30 градуса; участва заедно с делтоида в целия обхват на абдукция. Най-често скъсван от мускулите на ротаторния маншон.

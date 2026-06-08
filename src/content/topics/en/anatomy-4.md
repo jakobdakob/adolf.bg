@@ -27,6 +27,16 @@ The elbow joint comprises three articulations within a single synovial capsule: 
 
 ## Ligamentous Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-xray.jpg" data-figure-alt="Normal elbow X-ray" aria-label="Enlarge">
+    <img src="/img/anatomy-4/elbow-xray.jpg" alt="Normal elbow X-ray" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Normal lateral elbow X-ray — clear cortical contours of distal humerus, proximal radius and ulna; the radiocapitellar line should pass through the capitellum on every view.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:RightElbowXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
+
 The medial collateral ligament (MCL) complex has three bundles: Anterior bundle: From the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid. The primary restraint to valgus stress in mid-range elbow flexion. Injured in throwing athletes (Tommy John surgery candidates). Posterior bundle: From the medial epicondyle posteriorly to the medial olecranon. Reinforces the medial joint capsule. Transverse bundle (Cooper’s ligament): Between the olecranon and the coronoid. Minor contribution to stability. The lateral collateral ligament (LCL) complex includes: Lateral ulnar collateral ligament (LUCL): From the lateral epicondyle posteriorly to the supinator crest of the ulna. The primary restraint to posterolateral rotatory instability — described by O’Driscoll in 1991 and central to the understanding of complex elbow injuries. Radial collateral ligament: From the lateral epicondyle to the annular ligament. Annular ligament: Around the radial head, attached to the anterior and posterior margins of the radial notch of the ulna. Accessory lateral collateral ligament: From the inferior aspect of the annular ligament to the supinator crest. Reinforces the LUCL.
 
 ## Neurovascular Structures

@@ -19,6 +19,16 @@ typically protected from injury by their medial position, except in transverse o
 
 ## Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-14/humerus-spiral.png" data-figure-alt="Spiral humeral shaft fracture" aria-label="Enlarge">
+    <img src="/img/trauma-14/humerus-spiral.png" alt="Spiral humeral shaft fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spiral humeral shaft fracture — torsional injury; classically at risk for radial nerve injury in the spiral groove (Holstein-Lewis pattern at the distal third).</span>
+    <span class="md-figure-attribution"> — RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The AO/OTA classification for humeral shaft fractures (region 12) is the most widely used system. Type A is a simple fracture with two main fragments: A1 spiral, A2 oblique (>30 degrees), A3 transverse (<30 degrees). Type B is a wedge fracture with intact bridging contact between the main fragments after wedge reduction: B1 spiral wedge, B2 bending wedge, B3 fragmentary wedge. Type C is complex fracture with no contact between main proximal and distal fragments after reduction: C1 spiral complex, C2 segmental, C3 irregular comminuted. This morphological grading correlates roughly with treatment intensity and outcome. A useful clinical descriptive classification subdivides fractures by location (proximal third, middle third, distal third), by mechanism (low- versus high-energy), and by configuration (transverse, spiral, oblique, comminuted, segmental, butterfly). The Holstein-Lewis fracture, described by Holstein and Lewis in 1963, is a spiral oblique fracture of the distal third of the humerus with characteristic displacement that puts the radial nerve at particular risk of injury — the most clinically important of the named patterns.
 
 ## Clinical Assessment

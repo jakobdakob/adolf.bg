@@ -19,6 +19,16 @@ The combined effect produces shortening, varus angulation (apex lateral), and ex
 
 ## Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-23/femur-nail.png" data-figure-alt="Femoral shaft fracture stabilised with IM nail" aria-label="Enlarge">
+    <img src="/img/trauma-23/femur-nail.png" alt="Femoral shaft fracture stabilised with IM nail" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Femoral shaft fracture stabilised with an intramedullary nail — the standard of care in adults; a relatively stable construct that allows callus formation.</span>
+    <span class="md-figure-attribution"> — Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The AO/OTA classification (region 32) is the standard system: Type A (simple): A1 spiral, A2 oblique (>30 degrees), A3 transverse (<30 degrees). Type B (wedge): B1 spiral wedge, B2 bending wedge, B3 fragmentary wedge. Type C (complex): C1 spiral complex (segmental fracture with intact butterfly), C2 segmental, C3 irregular comminuted. The Winquist and Hansen classification (1980) specifically describes comminution patterns and remains useful for treatment planning: Type I: Minimal or no comminution. Type II: Large butterfly with greater than 50 percent cortical contact maintained. Type III: Large butterfly with less than 50 percent cortical contact maintained. Type IV: Segmental fracture with no cortical contact (length cannot be maintained by cortical apposition alone). The clinical importance of the Winquist-Hansen classification is the prediction of construct loading: types I and II permit some load sharing between bone and implant after reduction; types III and IV transfer all axial load through the implant until callus forms, requiring constructs (statically locked nails) that can bear this load.
 
 ## Clinical Assessment

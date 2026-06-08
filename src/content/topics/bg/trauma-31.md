@@ -46,6 +46,16 @@ order: 131
 
 ## Класификация на нервните увреждания
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/sedon-nerve.jpg" data-figure-alt="Класификация на Seddon на нервните увреждания" aria-label="Увеличи">
+    <img src="/img/trauma-31/sedon-nerve.jpg" alt="Класификация на Seddon на нервните увреждания" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класификация на Seddon: невропраксия (преходен блок на проводимостта), аксонотмеза (Walerianова дегенерация с интактна неврална тръба) и невротмеза (пълно прекъсване на нерва).</span>
+    <span class="md-figure-attribution"> — Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 
 ## Класификация на Seddon (1943)
 

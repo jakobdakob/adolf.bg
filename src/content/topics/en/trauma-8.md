@@ -13,6 +13,16 @@ The complications considered in this chapter share a final common pathway of dis
 
 ## Delayed Union and Nonunion — Definitions
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-8/nonunion.jpg" data-figure-alt="Nonunion" aria-label="Enlarge">
+    <img src="/img/trauma-8/nonunion.jpg" alt="Nonunion" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Nonunion — failure of union beyond 6–9 months with rounded/sclerotic fragment ends; the Weber-Cech classification subdivides into hypertrophic, oligotrophic, and atrophic types.</span>
+    <span class="md-figure-attribution"> — Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Nonunion.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The terminology around impaired fracture healing is variably applied across the literature, but a working set of definitions is useful. Delayed union is the clinical and radiographic state in which a fracture has not united within the time normally expected for that injury, but in which healing remains in progress. For most adult long-bone fractures, expected union time is 12 to 16 weeks; failure to progress by this point defines delayed union. Nonunion, by the most widely used FDA definition, is a fracture that has not healed and is not showing radiographic signs of progression for at least three consecutive months, having been at least nine months from the original injury. The European-derived definition is more permissive, considering nonunion present whenever the treating surgeon judges that healing will not occur without further intervention. In practice the distinction between delayed union and nonunion is operational rather than absolute. Both are diagnosed by a combination of clinical features (persistent pain at the fracture site, motion at the fracture on examination, inability to bear weight) and radiographic features (absent bridging callus, persistent fracture line, sclerosis or atrophy of the fracture ends, hardware failure). The decision to intervene with surgical revision is taken when the trajectory of healing on serial radiographs has plateaued and the clinical picture supports the diagnosis.
 
 ## Classification of Nonunion

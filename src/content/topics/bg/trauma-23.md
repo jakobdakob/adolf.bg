@@ -35,6 +35,16 @@ order: 123
 
 ## Класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-23/femur-nail.png" data-figure-alt="Фемурна фрактура с интрамедуларен пирон" aria-label="Увеличи">
+    <img src="/img/trauma-23/femur-nail.png" alt="Фемурна фрактура с интрамедуларен пирон" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Диафизарна фрактура на бедрената кост, стабилизирана с интрамедуларен пирон — стандартното лечение при възрастни.</span>
+    <span class="md-figure-attribution"> — Fry72 Karel Frydrýšek, <a href="https://commons.wikimedia.org/wiki/File:Femur-fractura-nail-artificial-bone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на AO/OTA (регион 32) е стандартна система:
 
 Тип A (проста): A1 спираловидна, A2 коса (над 30 градуса), A3 напречна (под 30 градуса).

@@ -25,6 +25,16 @@ The principal mechanisms of nerve injury include: Stretch (traction) injury: Elo
 
 ## Classification of Nerve Injuries
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/sedon-nerve.jpg" data-figure-alt="Seddon classification of nerve injuries" aria-label="Enlarge">
+    <img src="/img/trauma-31/sedon-nerve.jpg" alt="Seddon classification of nerve injuries" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Seddon classification: neurapraxia (transient conduction block), axonotmesis (Wallerian degeneration with intact endoneurium), and neurotmesis (complete nerve transection).</span>
+    <span class="md-figure-attribution"> — Davplast / Alaa Najjar, <a href="https://commons.wikimedia.org/wiki/File:Sedon%27s_classification_of_nerve_injuries-ar.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 Seddon Classification (1943) The classical Seddon classification organizes nerve injuries into three grades by the pathophysiological severity of injury: Neurapraxia (Grade I): The mildest injury, with localized conduction block but no axonal damage. The nerve fiber is structurally intact; conduction is impaired by transient demyelination at the site of injury. Recovery is typically complete within days to weeks (3 to 12 weeks for full recovery in most cases) as the myelin sheath repairs. Axonotmesis (Grade II): Disruption of the axon with preservation of the surrounding connective tissue layers (endoneurium, perineurium, epineurium). The distal axon undergoes Wallerian degeneration (the orderly distal-to-proximal degeneration of the axon and its myelin), with subsequent axonal regeneration from the proximal stump at approximately 1 mm per day (1 inch per month — useful for clinical prognostication). Recovery is generally complete because the endoneurial tubes provide guidance for regenerating axons back to their original targets. Neurotmesis (Grade III): Complete disruption of the nerve including the connective tissue layers. The endoneurial tubes are no longer continuous, and regenerating axons may fail to find their original targets or may form a neuroma at the site of injury. Spontaneous
 
 recovery is poor and surgical repair is required for any chance of meaningful functional recovery. Sunderland Classification (1951) The Sunderland classification refines Seddon’s neurotmesis category and provides a five-grade system: Grade I: Neurapraxia (corresponds to Seddon I). Grade II: Axonal disruption with intact endoneurium. Recovery by axonal regeneration through preserved endoneurial tubes; functional recovery is generally complete. Grade III: Disruption of axon and endoneurium with intact perineurium. Recovery is by axonal regeneration but is less complete because the endoneurial tubes are disrupted and regenerating axons may not reach the correct targets. Grade IV: Disruption of axon, endoneurium, and perineurium with intact epineurium. Recovery without surgical intervention is very poor because the regenerating axons form a neuroma rather than continuing distally. Grade V: Complete transection (corresponds to Seddon’s neurotmesis). The Mackinnon classification adds a Grade VI for mixed injuries with different grades in different fascicles within the same nerve.

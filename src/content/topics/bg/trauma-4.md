@@ -99,6 +99,16 @@ Tension band плака: Прилага се от страната на опъв
 
 ## Интрамедуларни пирони
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-4/im-nail.jpg" data-figure-alt="Интрамедуларен пирон на проксималния фемур" aria-label="Увеличи">
+    <img src="/img/trauma-4/im-nail.jpg" alt="Интрамедуларен пирон на проксималния фемур" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Проксимален феморален пирон — интрамедуларен имплант за пертрохантерни и подтрохантерни фрактури; функционира като носещ натоварването имплант с относителна стабилност.</span>
+    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Интрамедуларният пирон е дълъг имплант, въвеждан в медуларния канал на дълга кост, осигуряващ вътрешна шинираща фиксация на фрактурата. Основните приложения са при диафизарни фрактури на фемура, тибията и хумеруса, с избрани приложения при метафизарни фрактури на тези кости.
 
 ## Видове интрамедуларни пирони
@@ -124,6 +134,16 @@ Tension band плака: Прилага се от страната на опъв
 Недостатъците включват: техническите изисквания на процедурата (необходимост от фрактурна маса или подходящо позициониране, образна усилвателна скопия, специализирани инструменти); малкият, но реален риск от синдром на мастна емболия при разстъргване, особено при политравма; потенциалът за грешна репозиция (пиронът следва медуларния канал, който може да не съответства перфектно на желаната ос); и ограниченията в метафизарните области, при които пиронът осигурява по-малко надеждна фиксация.
 
 ## Външна фиксация
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-4/ex-fix.jpg" data-figure-alt="Външен фиксатор" aria-label="Увеличи">
+    <img src="/img/trauma-4/ex-fix.jpg" alt="Външен фиксатор" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Външен фиксатор — пиновете преминават през кожата и костта, свързани с външна рамка; ключов имплант при damage control orthopaedics и при тежки открити фрактури.</span>
+    <span class="md-figure-attribution"> — Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Външната фиксация включва щифтове или тели, поставени в костта над и под фрактурата, като щифтовете са свързани отвън с пръти, пръстени или рамки. Основните видове включват:
 

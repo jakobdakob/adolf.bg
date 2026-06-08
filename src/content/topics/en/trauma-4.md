@@ -55,6 +55,16 @@ The MIPO technique, developed in the 1990s, applies plates through small incisio
 
 ## Intramedullary Nails
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-4/im-nail.jpg" data-figure-alt="Proximal femoral intramedullary nail" aria-label="Enlarge">
+    <img src="/img/trauma-4/im-nail.jpg" alt="Proximal femoral intramedullary nail" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Proximal femoral nail — intramedullary implant for pertrochanteric and subtrochanteric fractures; functions as a load-bearing implant with relative stability.</span>
+    <span class="md-figure-attribution"> — Bullenwächter, <a href="https://commons.wikimedia.org/wiki/File:Proximal_femur_nail.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The intramedullary nail is a long implant inserted into the medullary canal of a long bone, providing internal splinting of the fracture. The principal applications are diaphyseal fractures of the femur, tibia, and humerus, with selected applications in metaphyseal fractures of these bones.
 
 ## Types of Intramedullary Nails
@@ -72,6 +82,16 @@ Intramedullary nails function as load-sharing devices when the fracture pattern 
 The advantages of intramedullary nailing include: preservation of the periosteal blood supply (the nail is inserted along the endosteum, which has lower vascular contribution than the periosteum for diaphyseal bone); biological fixation with healing by callus; the ability to start weight-bearing relatively early in many cases; cosmetic advantages over plate fixation; and lower rates of infection than open plate fixation in many settings. The disadvantages include: technical demands of the procedure (requirement for fracture table or appropriate positioning, image intensification, specialized instruments); the small but real risk of fat embolism syndrome with reaming, particularly in polytrauma; the potential for malreduction (the nail follows the medullary canal, which may not perfectly match the desired axis); and the limitations in metaphyseal regions where the nail provides less reliable fixation.
 
 ## External Fixation
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-4/ex-fix.jpg" data-figure-alt="External fixator" aria-label="Enlarge">
+    <img src="/img/trauma-4/ex-fix.jpg" alt="External fixator" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">External fixator — pins traverse skin and bone, connected to an external frame; the key implant for damage-control orthopaedics and severe open fractures.</span>
+    <span class="md-figure-attribution"> — Dekkanar, <a href="https://commons.wikimedia.org/wiki/File:External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 External fixation involves pins or wires inserted into bone above and below the fracture, with the pins connected externally by bars, rings, or frames. The principal types include: Linear (unilateral) external fixators: Pins inserted along one side of the limb, connected by external bars. Used for temporary stabilization of unstable fractures, definitive treatment of selected fractures, treatment of pelvic injuries, and other applications. Circular external fixators (Ilizarov, Taylor Spatial Frame): Thin wires or fine pins through bone in multiple planes, connected to circumferential rings. The configuration allows multiplanar correction and gradual adjustment. Used for limb deformity correction, limb lengthening, treatment of non-union, and complex fracture management. Hybrid fixators: Combining elements of linear and circular fixation, often with a ring at the periarticular region and linear bars in the diaphysis. Useful for periarticular fractures of the proximal and distal tibia. The principal indications for external fixation include: temporary stabilization of unstable fractures in polytrauma (“damage control orthopedics”); open fractures with extensive soft-tissue injury where internal fixation is contraindicated; pelvic ring injuries with hemodynamic instability; revision surgery with bone defects; complex non-union; deformity correction; and selected fracture types (paediatric femoral fractures in older children, certain tibial fractures with poor soft-tissue envelope). The complications of external fixation include pin-tract infection (the principal long-term concern, requiring meticulous pin-site care), pin loosening, malunion, joint stiffness, and patient discomfort with prolonged frame use.
 

@@ -23,6 +23,16 @@ order: 115
 
 ## Хирургична анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-15/olecranon-anatomy.png" data-figure-alt="Olecranon — анатомия" aria-label="Увеличи">
+    <img src="/img/trauma-15/olecranon-anatomy.png" alt="Olecranon — анатомия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Olecranon (заден изглед) — голям проксимален израстък на ulna, който формира задната половина на trochlear notch и служи като инсерция на m. triceps brachii.</span>
+    <span class="md-figure-attribution"> — Henry Vandyke Carter / Wikipedia, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_colored.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Дисталният хумерус включва две разходящи се колони — медиалната колона, завършваща с epicondylus medialis и trochlea, и латералната колона, завършваща с epicondylus lateralis и capitellum — свързани дистално от trochlea (шпулообразната артикулация с улната) и capitellum (закръгленото съчленяване с главата на радиуса). Колоните образуват приблизително 40-градусов ъгъл, видян от латерален аспект, като ставните повърхности са транслирани антериорно спрямо надлъжната ос на диафизата на хумеруса. Fossa olecrani задно и fossa coronoidea предно поемат съответните процеси при пълна флексия и екстензия на лакъта. Carrying angle на лакъта — обикновено 5 до 15 градуса valgus при разгъната предмишница — трябва да бъде възстановен по време на реконструкцията.
 
 Проксималната улна включва olecranon задно и processus coronoideus предно, заедно формиращи дълбоката полулунна трохлеарна вдлъбнатина (incisura trochlearis), която се съчленява с trochlea на хумеруса. Olecranon е основното място на прикрепване на сухожилието на m. triceps и доминиращият компонент на проксималната улна. Processus coronoideus е главният преден устой срещу задна сублуксация на улната върху хумеруса; нарушаването му превръща лакъта от ограничен шарнир в нестабилна става. Incisura radialis на улната се съчленява латерално с главата на радиуса, формирайки проксималната радиоулнарна става, стабилизирана от lig. anulare.

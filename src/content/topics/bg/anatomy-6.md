@@ -44,6 +44,16 @@ Interphalangeal (IP) стави: Проксималните IP (PIP) стави 
 
 ## Кожа и подкожна тъкан
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-bones.png" data-figure-alt="Карпални кости" aria-label="Увеличи">
+    <img src="/img/anatomy-6/carpal-bones.png" alt="Карпални кости" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Карпалните 8 кости в два реда — проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Волярната кожа е гладка (безкосмена), дебела и здраво прикрепена към подлежащата palmar fascia чрез кожни връзки. Дорзалната кожа е по-тънка, по-мобилна, с по-малко подкожна тъкан. Контрастът между волярната и дорзалната кожа определя принципите на разрезния дизайн — волярните разрези трябва да зачитат естествените огъвателни гънки и да избягват пресичането им под прав ъгъл; дорзалните разрези имат по-голяма гъвкавост, но трябва да зачитат подлежащата сухожилна анатомия.
 
 Огъвателните гънки на дланта и пръстите приблизително съответстват на подлежащите стави, но не винаги са директно над ставата:

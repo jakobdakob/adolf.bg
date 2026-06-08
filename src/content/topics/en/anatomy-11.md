@@ -43,6 +43,16 @@ The lateral ankle contains the peroneus brevis anteriorly and peroneus longus po
 
 ## Anterior Ankle Approach
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-ligaments.svg" data-figure-alt="Ankle ligamentous anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-11/ankle-ligaments.svg" alt="Ankle ligamentous anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ankle ligamentous anatomy — lateral complex (ATFL, CFL, PTFL) and medial deltoid ligament; the ATFL is the most commonly torn in an inversion sprain.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The anterior ankle approach is used for anterior ankle arthrodesis, total ankle arthroplasty, distal tibial osteotomy, tumor resection, and other anterior procedures. A longitudinal incision is made over the anterior ankle in the line of the second metatarsal, approximately 10 to 15 cm in length. The superficial peroneal nerve crosses the lateral aspect of the incision (most surgeons make the skin incision medial to the SPN crossings). The deep dissection develops the interval between the tibialis anterior (medial) and the extensor hallucis longus / extensor digitorum longus (lateral), with the anterior tibial artery and deep peroneal nerve retracted laterally. The ankle capsule is opened to access the joint.
 
 ## Anterolateral Ankle Approach

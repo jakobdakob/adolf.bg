@@ -64,6 +64,16 @@ For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typ
 
 ## Knee Arthroscopy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/meniscus.jpg" data-figure-alt="Knee menisci" aria-label="Enlarge">
+    <img src="/img/anatomy-9/meniscus.jpg" alt="Knee menisci" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Medial and lateral menisci of the knee — wedge-shaped fibrocartilage providing load distribution and joint conformity; visualised arthroscopically through standard portals.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Meniscus_of_the_Knee_Unlabeled.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Knee arthroscopy is one of the most commonly performed orthopedic procedures, with portals as detailed in Topic Trauma-26. The standard anterolateral and anteromedial portals provide access to the entire joint. The arthroscopic examination systematically visualizes the suprapatellar pouch, the patellofemoral joint, the medial and lateral gutters, the medial and lateral compartments (menisci and articular surfaces), the intercondylar notch (ACL, PCL), and the posteromedial and posterolateral compartments. The arthroscopic procedures include meniscectomy, meniscal repair, cartilage procedures (microfracture, OATS, ACI), ACL reconstruction, PCL reconstruction, loose body removal, and synovectomy.
 
 ## Compartment Syndrome of the Thigh and Knee

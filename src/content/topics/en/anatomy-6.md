@@ -29,6 +29,16 @@ The collateral ligaments of the MCP and IP joints have specific anatomical featu
 
 ## Skin and Subcutaneous Tissue
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-bones.png" data-figure-alt="Carpal bones" aria-label="Enlarge">
+    <img src="/img/anatomy-6/carpal-bones.png" alt="Carpal bones" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The 8 carpal bones in two rows — proximal (scaphoid, lunate, triquetrum, pisiform) and distal (trapezium, trapezoid, capitate, hamate); mnemonic "She Looks Too Pretty, Try To Catch Her".</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The palmar skin is glabrous (hairless), thick, and tightly bound to the underlying palmar fascia by skin ligaments. The dorsal skin is thinner, more mobile, with less subcutaneous tissue. The contrast between the palmar and dorsal skin determines the principles of incision design — palmar incisions should respect the natural flexion creases and avoid crossing them at right angles; dorsal incisions have more flexibility but should respect the underlying tendon anatomy. The flexion creases of the palm and digits correspond approximately to the underlying joints but are not always directly over the joint: Distal palmar crease: Approximately overlies the MCP joints. Proximal palmar crease: Approximately overlies the metacarpal heads. Distal interphalangeal crease: Overlies the DIP joint. Proximal interphalangeal crease: Overlies the PIP joint. Wrist crease: Overlies the radiocarpal joint.
 
 ## Palmar Fascia and Compartments

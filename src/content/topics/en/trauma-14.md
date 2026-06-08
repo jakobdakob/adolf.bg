@@ -94,6 +94,16 @@ Open reduction and internal fixation with a plate is the most common operative t
 
 ## Intramedullary Nailing
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-14/esin-humerus.jpg" data-figure-alt="ESIN of humeral shaft" aria-label="Enlarge">
+    <img src="/img/trauma-14/esin-humerus.jpg" alt="ESIN of humeral shaft" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Elastic stable intramedullary nailing (ESIN) of a humeral shaft fracture — particularly suited to paediatric and adolescent patients; reduces the risk to adjacent physes.</span>
+    <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
+  </figcaption>
+</figure>
+
 Intramedullary nailing of the humerus, using antegrade or retrograde nails, has its proponents and offers the theoretical advantages of indirect reduction, smaller exposures, and load-sharing fixation. The historical results have been somewhat variable, with concerns about shoulder pain after antegrade nailing (from the proximal insertion site through the rotator cuff or with prominence under the acromion), elbow stiffness after retrograde nailing, and technical difficulties with reduction and locking screw placement, particularly proximally where the axillary nerve is at risk. Modern straight humeral nails with multiplanar locking and improved insertion techniques have improved outcomes. The most appropriate indications for nailing include segmental fractures, pathological or impending pathological fractures (where the nail provides protection of the entire length of the bone), and selected diaphyseal fractures in patients with poor soft-tissue conditions for plating. The MIRTH trial (2014) and the Singisetti meta-analysis (2010) suggest broadly comparable outcomes between nailing and plating in selected cohorts, but plating remains the predominant technique in most centers.
 
 

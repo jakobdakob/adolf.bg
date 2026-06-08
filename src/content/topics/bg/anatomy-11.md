@@ -59,6 +59,16 @@ Nervus saphenus слиза по медиалната страна на глез�
 
 ## Преден достъп към глезена
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-ligaments.svg" data-figure-alt="Лигаментна анатомия на глезена" aria-label="Увеличи">
+    <img src="/img/anatomy-11/ankle-ligaments.svg" alt="Лигаментна анатомия на глезена" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лигаментна анатомия на глезена — латерален комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент; ATFL е най-често разкъсваният при инверзионно навяхване.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Предният достъп към глезена се използва при предна артродеза на глезена, тотална артропластика на глезена, дистална тибиална остеотомия, резекция на тумор и други предни интервенции. Надлъжен разрез се прави по предната повърхност на глезена по оста на втората метатарзална кост, с дължина приблизително 10–15 cm. Nervus peroneus superficialis пресича латералния аспект на разреза (повечето хирурзи правят кожния разрез медиално от пресечните точки на нерва). Дълбоката дисекция развива интервала между musculus tibialis anterior (медиално) и musculus extensor hallucis longus / musculus extensor digitorum longus (латерално), като arteria tibialis anterior и nervus peroneus profundus се ретрахират латерално. Ставната капсула се отваря за достъп до ставата.
 
 ## Антеролатерален достъп към глезена

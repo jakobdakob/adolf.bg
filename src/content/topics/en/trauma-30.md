@@ -26,6 +26,16 @@ Muscle and tendon injuries collectively represent a substantial portion of muscu
 
 ## Classification of Muscle Strains
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-30/calf-strain.svg" data-figure-alt="Gastrocnemius strain and tear" aria-label="Enlarge">
+    <img src="/img/trauma-30/calf-strain.svg" alt="Gastrocnemius strain and tear" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Gastrocnemius strain and tear — grade 1 (microtear), 2 (partial tear with haematoma), 3 (complete tear with palpable defect and functional loss).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Muscle strains are graded by the magnitude of the injury: Grade I (mild): Minor stretching of muscle fibers without macroscopic tear. Pain at rest or with use, but normal strength and range of motion. Resolution typically within 1 to 2 weeks. Grade II (moderate): Partial tear of the muscle with macroscopic disruption of some fibers. Significant pain, weakness, and reduced range of motion; palpable defect may be present. Recovery typically 4 to 8 weeks. Grade III (complete rupture): Complete tear of the muscle, often at the myotendinous junction. Inability to contract the muscle; palpable defect; substantial weakness. Recovery may be incomplete without surgical intervention in some sites. The classification by Mueller-Wohlfahrt et al. (2013) provides more sophisticated grading for elite athletes, distinguishing fatigue-induced injury, delayed-onset muscle soreness, functional muscle disorders, structural injury (minor partial muscle tear, moderate partial muscle tear, subtotal or complete muscle tear), and contusions.
 
 ## Common Sites and Mechanisms

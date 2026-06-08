@@ -23,6 +23,16 @@ The choice of bearing surface affects long-term implant survival and is one of t
 
 ## Methods of Fixation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-30/hip-replacement.jpg" data-figure-alt="Uncemented hip prosthesis" aria-label="Enlarge">
+    <img src="/img/ortho-30/hip-replacement.jpg" alt="Uncemented hip prosthesis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Uncemented hip prosthesis — porous/HA-coated stem and cup for biological osseointegration; the alternative to cemented fixation, favoured in younger active patients.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip-replacement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Two principal methods of fixing implants to bone are used: Cemented fixation: PMMA bone cement is interposed between the implant and the prepared bone surface, providing immediate stable fixation that allows immediate full weight-bearing. The cement-bone interface achieves micromechanical interlock with the trabecular bone. Modern third-generation cementing techniques include: thorough bone preparation with retrograde brushing and pulsatile lavage; canal plugging; vacuum mixing of cement; retrograde insertion of cement into the canal under pressurization; insertion of the implant before cement polymerization with maintenance of pressure during polymerization; and meticulous attention to cement-bone interface quality. Indications for cemented fixation include older patients with poor bone quality, hip fracture management with hemiarthroplasty, and certain knee designs. Uncemented (cementless, biologic) fixation: The implant has a surface texture (sintered beads, plasma-sprayed titanium, porous tantalum, mesh, or grit-blasted surface) that
 
 allows bone ingrowth or ongrowth, achieving stable biologic fixation over weeks to months. Immediate fixation is provided by mechanical press-fit between the implant and prepared bone surface. Bone-grafting materials (hydroxyapatite coatings, BMPs) are sometimes added to promote bone ingrowth. Indications for uncemented fixation include younger patients with good bone quality and the great majority of modern primary hip and knee arthroplasty in most centers. Hybrid fixation: Combines cemented and uncemented components, typically with uncemented acetabular cup and cemented femoral stem in hip arthroplasty.

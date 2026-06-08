@@ -65,6 +65,16 @@ Nervus interosseous posterior (PIN) преминава през musculus supinat
 
 ## Невроваскуларна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/median-nerve-sensory.png" data-figure-alt="Сензорна зона на n. medianus в ръката" aria-label="Увеличи">
+    <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Сензорна зона на n. medianus в ръката" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сензорна зона на n. medianus в ръката — палмарната повърхност на палеца, II, III и радиалната половина на IV пръст; характерна загуба при синдром на carpal tunnel или прерязване на нерва над китката.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Nervus radialis и неговите клонове
 

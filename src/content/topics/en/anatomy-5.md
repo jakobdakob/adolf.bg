@@ -46,6 +46,16 @@ The mobile wad consists of the brachioradialis, extensor carpi radialis longus (
 
 ## Neurovascular Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/median-nerve-sensory.png" data-figure-alt="Median nerve sensory distribution" aria-label="Enlarge">
+    <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Median nerve sensory distribution" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Median nerve sensory distribution of the hand — palmar surface of the thumb, index, middle and radial half of the ring finger; the characteristic loss in carpal tunnel syndrome or median nerve transection above the wrist.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Radial Nerve and Its Branches
 

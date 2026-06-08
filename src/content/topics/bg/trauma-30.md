@@ -26,6 +26,16 @@ order: 130
 
 ## Класификация на мускулните разтягания
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-30/calf-strain.svg" data-figure-alt="Разтягане и разкъсване на m. gastrocnemius" aria-label="Увеличи">
+    <img src="/img/trauma-30/calf-strain.svg" alt="Разтягане и разкъсване на m. gastrocnemius" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Разтягане и разкъсване на mm. gastrocnemius — степени 1 (микроразкъсване), 2 (частично разкъсване с хематом) и 3 (пълно разкъсване с палпируем дефект и функционална загуба).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Calf_muscle_strain_and_tear.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Мускулните разтягания се степенуват по тежестта на нараняването:
 
 •   Степен I (лека): Леко разтягане на мускулни влакна без макроскопско разкъсване.

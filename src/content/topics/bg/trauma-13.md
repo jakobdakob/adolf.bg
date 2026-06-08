@@ -49,6 +49,16 @@ Neer допълнително подразделя фрактурите по з�
 
 ## Диагностика и образна диагностика
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-13/greater-tuberosity-mri.jpg" data-figure-alt="Окултна фрактура на tuberculum majus на MRI" aria-label="Увеличи">
+    <img src="/img/trauma-13/greater-tuberosity-mri.jpg" alt="Окултна фрактура на tuberculum majus на MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Окултна фрактура на tuberculum majus на STIR (inversion recovery) MRI — рентгенографски не визуализирана фрактура с типичен оток на костния мозък; MRI е чувствителна при минимално изместени фрактури.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Клиничната картина е болен с болка в рамото след падък, с намалена активна и пасивна подвижност, хематом, проследяващ се надолу по ръката до лакътя в рамките на 24 до 48 часа, и палпируема нестабилност или крепитус в областта на проксималния хумерус. Неврологично-съдовият преглед, особено на n. axillaris, е задължителен: n. axillaris обикаля около хирургичната шийка и е най-честото нервно увреждане при фрактурите на проксималния хумерус (честота приблизително 10 до 30%, в зависимост от серията). Увреждането на a. axillaris е рядко (<1%) но трябва да бъде обмислено при модели на фрактура-луксация.
 
 ## Обзорните рентгенографии формират началната оценка. Минималната серия включва

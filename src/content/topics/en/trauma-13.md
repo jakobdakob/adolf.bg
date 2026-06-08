@@ -37,6 +37,16 @@ The AO/OTA classification provides a more elaborate hierarchical system that inc
 
 ## Diagnosis and Imaging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-13/greater-tuberosity-mri.jpg" data-figure-alt="Occult greater tuberosity fracture on MRI" aria-label="Enlarge">
+    <img src="/img/trauma-13/greater-tuberosity-mri.jpg" alt="Occult greater tuberosity fracture on MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Occult greater tuberosity fracture on STIR (inversion recovery) MRI — radiographically invisible fracture with typical marrow oedema; MRI is sensitive for minimally displaced fractures.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Occult_fracture_of_the_greater_tuberosity_on_inversion_recovery_MRI.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The clinical presentation is the patient with shoulder pain after a fall, with reduced active and passive motion, ecchymosis that typically tracks down the arm to the elbow over the first 24 to 48 hours, and palpable instability or crepitus at the proximal humerus. The
 
 neurovascular examination, particularly of the axillary nerve, is mandatory; the axillary nerve runs around the surgical neck and is the most commonly injured nerve in proximal humerus fractures (incidence approximately 10 to 30 percent, depending on series). Axillary artery injury is uncommon (<1 percent) but should be considered in fracture-dislocation patterns. Plain radiographs form the initial evaluation. The minimum series is AP, scapular Y (lateral), and axillary view. The axillary view is critical for assessing tuberosity position relative to the head and for excluding posterior dislocation; in the patient who cannot tolerate true axillary positioning, the Velpeau axillary view is a useful substitute. CT with 3D reconstruction is increasingly the standard for any fracture being considered for operative treatment, providing definitive assessment of fragment number, displacement, head-splitting components, and tuberosity comminution. MRI is rarely needed acutely but is occasionally useful to evaluate the integrity of the rotator cuff in the operative candidate, particularly when reverse arthroplasty is being considered.

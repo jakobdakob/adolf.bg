@@ -15,12 +15,7 @@ export default defineConfig({
   integrations: [
     mdx(),
     tailwind(),
-    sitemap({
-      i18n: {
-        defaultLocale: "bg",
-        locales: { bg: "bg-BG", en: "en-US" },
-      },
-    }),
+    sitemap(),
   ],
   build: {
     format: "directory",

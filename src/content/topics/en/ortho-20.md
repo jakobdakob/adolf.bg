@@ -18,7 +18,7 @@ Femoroacetabular impingement (FAI) is a clinical syndrome in which abnormal mech
     <img src="/img/ortho-20/fai-xray.png" alt="Femoroacetabular impingement" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Femoroacetabular impingement — asphericity of the femoral head (cam) and/or excessive acetabular coverage (pincer) produces mechanical contact during flexion and internal rotation.</span>
+    <span class="md-figure-caption">Femoroacetabular impingement: asphericity of the femoral head (cam) and/or excessive acetabular coverage (pincer) produces mechanical contact during flexion and internal rotation.</span>
     <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Femoroacetabulares_Impingement_-_67jw_-_Roe_ap_-_001.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -32,7 +32,7 @@ Three principal morphological subtypes of FAI are described, each with distinct 
     <img src="/img/ortho-20/fai-schema.svg" alt="FAI — cam and pincer" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Femoroacetabular impingement (FAI) — cam (non-spherical femoral head with "pistol-grip" deformity) and pincer (overcoverage of the acetabulum); the two patterns may coexist.</span>
+    <span class="md-figure-caption">Femoroacetabular impingement (FAI): cam (non-spherical femoral head with "pistol-grip" deformity) and pincer (overcoverage of the acetabulum); the two patterns may coexist.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Femoral_acetabular_impingement_FAI_de.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -45,7 +45,7 @@ Pincer impingement arises from excessive bony coverage of the femoral head by th
 
 ## Combined (Mixed) Impingement
 
-Combined impingement — features of both cam and pincer — is the commonest pattern in clinical practice, with most patients showing some degree of both abnormal femoral head-neck offset and abnormal acetabular coverage. The treatment must address both components.
+Combined impingement (features of both cam and pincer) is the commonest pattern in clinical practice, with most patients showing some degree of both abnormal femoral head-neck offset and abnormal acetabular coverage. The treatment must address both components.
 
 ## Pathophysiology and Natural History
 
@@ -53,7 +53,7 @@ The repeated mechanical impingement of the femur against the acetabulum during h
 
 ## Clinical Features
 
-The classical presentation is of an active young adult (most commonly in the third or fourth decade) with insidious onset of activity-related groin pain. The pain is typically worse with prolonged sitting (particularly in deep-seated chairs or driving for long periods), with hip flexion activities (squatting, sitting on the floor), and with athletic activities involving pivoting, rotation, or sustained flexion. The “C-sign” — the patient cups the affected hip with the fingers anteriorly and the thumb posteriorly to indicate the location of pain — is a characteristic gesture and pattern of pain localization. Mechanical symptoms (clicking, catching, locking) are common when labral tearing has occurred. The pain is often poorly localized initially; differentiation from lumbar radicular pain, sports hernia, athletic pubalgia, and other causes of hip and groin pain may require careful clinical assessment and targeted imaging. Examination reveals: decreased hip flexion (often by 10-20° compared with the contralateral side); decreased internal rotation in flexion (the most reliable single examination finding); pain on the anterior impingement test (FADIR — flexion, adduction, internal rotation — reproduces the patient’s symptoms); pain on the posterior impingement test (extension and external rotation) in pincer-pattern impingement involving the posterior rim; and sometimes tenderness over the anterior hip joint. Range of motion of the lumbar spine, sacroiliac joints, and femoral nerve should be assessed to exclude other sources of pain.
+The classical presentation is of an active young adult (most commonly in the third or fourth decade) with insidious onset of activity-related groin pain. The pain is typically worse with prolonged sitting (particularly in deep-seated chairs or driving for long periods), with hip flexion activities (squatting, sitting on the floor), and with athletic activities involving pivoting, rotation, or sustained flexion. The “C-sign” — the patient cups the affected hip with the fingers anteriorly and the thumb posteriorly to indicate the location of pain — is a characteristic gesture and pattern of pain localization. Mechanical symptoms (clicking, catching, locking) are common when labral tearing has occurred. The pain is often poorly localized initially; differentiation from lumbar radicular pain, sports hernia, athletic pubalgia, and other causes of hip and groin pain may require careful clinical assessment and targeted imaging. Examination reveals: decreased hip flexion (often by 10-20° compared with the contralateral side); decreased internal rotation in flexion (the most reliable single examination finding); pain on the anterior impingement test (FADIR, flexion, adduction, internal rotation, reproduces the patient’s symptoms); pain on the posterior impingement test (extension and external rotation) in pincer-pattern impingement involving the posterior rim; and sometimes tenderness over the anterior hip joint. Range of motion of the lumbar spine, sacroiliac joints, and femoral nerve should be assessed to exclude other sources of pain.
 
 ## Imaging
 
@@ -65,7 +65,7 @@ The classical presentation is of an active young adult (most commonly in the thi
     <img src="/img/ortho-20/alpha-angle.jpg" alt="Alpha angle in 45° Dunn view" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Alpha angle (Nötzli) — measure of femoral head asphericity; &gt;55° is pathological and suggests cam impingement.</span>
+    <span class="md-figure-caption">Alpha angle (Nötzli): measure of femoral head asphericity; &gt;55° is pathological and suggests cam impingement.</span>
     <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:Alpha_angle_measured_in_45_degrees_Dunn_view.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
@@ -124,7 +124,7 @@ The patient with borderline acetabular dysplasia (center-edge angle 20-25°) pre
 
 ## Hip Microinstability
 
-Hip microinstability — a syndrome of subtle multidirectional hip instability without frank dislocation — is increasingly recognized as a cause of hip pain that overlaps with FAI. Treatment combines physical therapy, capsular plication, and avoidance of capsular release or wide capsular dissection in arthroscopy.
+Hip microinstability (a syndrome of subtle multidirectional hip instability without frank dislocation) is increasingly recognized as a cause of hip pain that overlaps with FAI. Treatment combines physical therapy, capsular plication, and avoidance of capsular release or wide capsular dissection in arthroscopy.
 
 ## Summary and Take-Home Points
 

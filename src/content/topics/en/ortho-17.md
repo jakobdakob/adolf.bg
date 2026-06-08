@@ -18,7 +18,7 @@ This chapter addresses two distinct but classically grouped focal developmental 
     <img src="/img/ortho-17/blount.jpg" alt="Blount disease — bilateral tibia vara" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Blount disease — pathological tibia vara from a growth disturbance of the medial proximal tibial epiphysis; the classical beaked medial metaphyseal deformity.</span>
+    <span class="md-figure-caption">Blount disease: pathological tibia vara from a growth disturbance of the medial proximal tibial epiphysis; the classical beaked medial metaphyseal deformity.</span>
     <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -26,7 +26,7 @@ This chapter addresses two distinct but classically grouped focal developmental 
 
 ## Definition and Epidemiology
 
-Blount’s disease — proximal tibia vara — is a developmental disorder of the medial portion of the proximal tibial physis producing progressive varus deformity, internal tibial torsion, and procurvatum of the proximal tibia. The condition was first described by Walter Putnam Blount in 1937, who recognized that the disorder, although superficially resembling physiological bowing, had a distinct natural history of progression rather than spontaneous resolution. Two forms are recognized: infantile Blount’s disease (onset before age 4), which is the most common form; and adolescent Blount’s disease (onset between age 10 and skeletal maturity), which is less common but has distinct features. The infantile form has a strong association with early walking (the typical patient is a heavyset toddler who began walking before age 1), obesity, African descent (substantially higher prevalence than in European-descended children), and family history. The adolescent form is strongly associated with obesity and is more common in African American adolescents. The condition is bilateral in approximately 60-80% of infantile cases and 50% of adolescent cases. Other reported associations include vitamin D deficiency, hypocalcemia, and certain dietary factors.
+Blount’s disease (proximal tibia vara) is a developmental disorder of the medial portion of the proximal tibial physis producing progressive varus deformity, internal tibial torsion, and procurvatum of the proximal tibia. The condition was first described by Walter Putnam Blount in 1937, who recognized that the disorder, although superficially resembling physiological bowing, had a distinct natural history of progression rather than spontaneous resolution. Two forms are recognized: infantile Blount’s disease (onset before age 4), which is the most common form; and adolescent Blount’s disease (onset between age 10 and skeletal maturity), which is less common but has distinct features. The infantile form has a strong association with early walking (the typical patient is a heavyset toddler who began walking before age 1), obesity, African descent (substantially higher prevalence than in European-descended children), and family history. The adolescent form is strongly associated with obesity and is more common in African American adolescents. The condition is bilateral in approximately 60-80% of infantile cases and 50% of adolescent cases. Other reported associations include vitamin D deficiency, hypocalcemia, and certain dietary factors.
 
 ## Pathophysiology
 
@@ -39,7 +39,7 @@ The fundamental pathological process is a focal growth retardation of the medial
     <img src="/img/ortho-17/blount-xray.jpg" alt="Blount disease" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Blount disease (tibia vara) on AP and lateral X-ray — medial proximal tibial epiphyseal-metaphyseal irregularity with varus deformity, graded by the Langenskiöld classification.</span>
+    <span class="md-figure-caption">Blount disease (tibia vara) on AP and lateral X-ray: medial proximal tibial epiphyseal-metaphyseal irregularity with varus deformity, graded by the Langenskiöld classification.</span>
     <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_6W_-_CR_ap_und_seitlich_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -73,7 +73,7 @@ Complications of Blount’s disease and its treatment include: incomplete correc
     <img src="/img/ortho-17/madelung.jpg" alt="Madelung deformity" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Madelung deformity — ulno-palmar growth disturbance of the distal radial epiphysis with radial and ulnar deviation and a “bayonet” hand position.</span>
+    <span class="md-figure-caption">Madelung deformity: ulno-palmar growth disturbance of the distal radial epiphysis with radial and ulnar deviation and a “bayonet” hand position.</span>
     <span class="md-figure-attribution"> — Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>

@@ -26,7 +26,7 @@ Coxa vara is a deformity of the proximal femur in which the neck-shaft angle is 
 
 ## Definition and Epidemiology
 
-Developmental coxa vara — sometimes called infantile coxa vara — is a focal disorder of the proximal femoral physis in which a triangular fragment of bone separates from the inferomedial corner of the femoral neck along an oblique medial defect through the metaphysis. The condition is rare, with an incidence of approximately 1 in 25,000 live births. Both sexes are affected equally. Bilateral involvement occurs in approximately 30- 50% of cases.
+Developmental coxa vara (sometimes called infantile coxa vara) is a focal disorder of the proximal femoral physis in which a triangular fragment of bone separates from the inferomedial corner of the femoral neck along an oblique medial defect through the metaphysis. The condition is rare, with an incidence of approximately 1 in 25,000 live births. Both sexes are affected equally. Bilateral involvement occurs in approximately 30- 50% of cases.
 
 ## Etiology
 
@@ -34,7 +34,7 @@ The cause is unknown but is generally thought to represent a primary development
 
 ## Pathological Anatomy
 
-The characteristic pathology is a triangular fragment of bone — the “Fairbank triangle” — that separates from the medial corner of the femoral neck along an oblique line extending from the inferior aspect of the metaphysis upward and laterally toward the lateral cortex. The defect in the bone progressively widens as the child grows, producing increasing varus deformity and shortening of the neck. The physis appears widened and irregular on imaging, particularly on its inferior aspect, and may progress toward complete physeal failure with development of a pseudarthrosis through the femoral neck in severe cases.
+The characteristic pathology is a triangular fragment of bone (the “Fairbank triangle”) that separates from the medial corner of the femoral neck along an oblique line extending from the inferior aspect of the metaphysis upward and laterally toward the lateral cortex. The defect in the bone progressively widens as the child grows, producing increasing varus deformity and shortening of the neck. The physis appears widened and irregular on imaging, particularly on its inferior aspect, and may progress toward complete physeal failure with development of a pseudarthrosis through the femoral neck in severe cases.
 
 Tönnis described a “wandering” of the triangular fragment with growth that worsens the deformity over time.
 
@@ -50,11 +50,11 @@ Tönnis described a “wandering” of the triangular fragment with growth that 
   </figcaption>
 </figure>
 
-Presentation is typically in early childhood (age 2-6 years) with a painless limp, leg-length discrepancy, decreased hip abduction (often with abductor lurch — Trendelenburg gait), and apparent short stature on the affected side. Bilateral cases may present with waddling gait without obvious leg-length discrepancy. Examination reveals decreased hip abduction and internal rotation, with the limb in external rotation and adduction. There is typically no pain.
+Presentation is typically in early childhood (age 2-6 years) with a painless limp, leg-length discrepancy, decreased hip abduction (often with abductor lurch, Trendelenburg gait), and apparent short stature on the affected side. Bilateral cases may present with waddling gait without obvious leg-length discrepancy. Examination reveals decreased hip abduction and internal rotation, with the limb in external rotation and adduction. There is typically no pain.
 
 ## Radiographic Features and the Hilgenreiner-Epiphyseal Angle
 
-The plain AP pelvis radiograph is diagnostic. Features include: decreased neck-shaft angle (varus); short, wide femoral neck; the triangular Fairbank fragment in the inferomedial corner of the metaphysis; widened, irregular medial portion of the proximal femoral physis; and sometimes a clear vertical defect through the medial femoral neck. The Hilgenreiner-epiphyseal angle (the angle between Hilgenreiner’s line — through the triradiate cartilages — and a line along the proximal femoral physis) is the principal quantitative measurement and the strongest predictor of progression. The angle is normally less than 25°. An angle of 45° or greater predicts progression and is generally accepted as an indication for surgical correction; an angle between 25° and 45° is intermediate and requires observation or correction depending on additional features.
+The plain AP pelvis radiograph is diagnostic. Features include: decreased neck-shaft angle (varus); short, wide femoral neck; the triangular Fairbank fragment in the inferomedial corner of the metaphysis; widened, irregular medial portion of the proximal femoral physis; and sometimes a clear vertical defect through the medial femoral neck. The Hilgenreiner-epiphyseal angle (the angle between Hilgenreiner’s line, through the triradiate cartilages, and a line along the proximal femoral physis) is the principal quantitative measurement and the strongest predictor of progression. The angle is normally less than 25°. An angle of 45° or greater predicts progression and is generally accepted as an indication for surgical correction; an angle between 25° and 45° is intermediate and requires observation or correction depending on additional features.
 
 
 ## Treatment
@@ -63,7 +63,7 @@ The treatment of developmental coxa vara depends on the Hilgenreiner-epiphyseal 
 
 ## Outcomes and Complications
 
-The outcomes of valgus osteotomy for developmental coxa vara are generally good, with restoration of a near-normal neck-shaft angle, improvement in hip abductor function, and prevention of progressive deformity. The principal long-term concerns include: premature closure of the proximal femoral physis (greater trochanteric overgrowth from the relatively continued growth of the trochanteric apophysis after central physeal arrest — this is common and may require greater trochanteric advancement in adolescence to restore normal abductor mechanics); leg-length discrepancy from physeal disturbance; recurrence of varus in severe cases or with inadequate correction; and progressive degenerative arthritis of the hip in adulthood. The trochanteric overgrowth deserves particular attention: as the central physis closes prematurely while the apophysis of the greater trochanter continues to grow, the relative height of the trochanter rises above the femoral head, the abductor moment arm is shortened, and a persistent Trendelenburg gait results. Trochanteric advancement (lateral and distal transfer of the trochanter) restores the abductor mechanics.
+The outcomes of valgus osteotomy for developmental coxa vara are generally good, with restoration of a near-normal neck-shaft angle, improvement in hip abductor function, and prevention of progressive deformity. The principal long-term concerns include: premature closure of the proximal femoral physis (greater trochanteric overgrowth from the relatively continued growth of the trochanteric apophysis after central physeal arrest, this is common and may require greater trochanteric advancement in adolescence to restore normal abductor mechanics); leg-length discrepancy from physeal disturbance; recurrence of varus in severe cases or with inadequate correction; and progressive degenerative arthritis of the hip in adulthood. The trochanteric overgrowth deserves particular attention: as the central physis closes prematurely while the apophysis of the greater trochanter continues to grow, the relative height of the trochanter rises above the femoral head, the abductor moment arm is shortened, and a persistent Trendelenburg gait results. Trochanteric advancement (lateral and distal transfer of the trochanter) restores the abductor mechanics.
 
 ## Acquired Coxa Vara
 

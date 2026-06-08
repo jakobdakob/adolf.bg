@@ -22,7 +22,7 @@ The humeral shaft extends from the surgical neck proximally to the supracondylar
     <img src="/img/trauma-14/humerus-spiral.png" alt="Spiral humeral shaft fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Spiral humeral shaft fracture — torsional injury; classically at risk for radial nerve injury in the spiral groove (Holstein-Lewis pattern at the distal third).</span>
+    <span class="md-figure-caption">Spiral humeral shaft fracture: torsional injury; classically at risk for radial nerve injury in the spiral groove (Holstein-Lewis pattern at the distal third).</span>
     <span class="md-figure-attribution"> — RSJThompson, <a href="https://commons.wikimedia.org/wiki/File:Humerus_spiral_fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -35,9 +35,9 @@ The patient presents with pain, swelling, and gross deformity of the arm after t
 
 ## Radial Nerve Injury
 
-The radial nerve is injured in approximately 8 to 16 percent of humeral shaft fractures, the highest rate among the long bones. The classical association is with distal-third fractures, particularly the Holstein-Lewis spiral oblique pattern, where the radial nerve passes through the lateral intermuscular septum and is tethered relative to the displacing distal fragment. However, the majority of radial nerve injuries are neurapraxic — a stretching or contusion of the nerve without loss of continuity — and recover spontaneously, typically beginning within 3 to 4 weeks of injury and reaching maximum recovery by 4 to 6 months.
+The radial nerve is injured in approximately 8 to 16 percent of humeral shaft fractures, the highest rate among the long bones. The classical association is with distal-third fractures, particularly the Holstein-Lewis spiral oblique pattern, where the radial nerve passes through the lateral intermuscular septum and is tethered relative to the displacing distal fragment. However, the majority of radial nerve injuries are neurapraxic (a stretching or contusion of the nerve without loss of continuity) and recover spontaneously, typically beginning within 3 to 4 weeks of injury and reaching maximum recovery by 4 to 6 months.
 
-The management of the radial nerve palsy associated with closed humeral shaft fracture has been debated for decades. The expectant approach — observation with serial clinical examination and electrophysiological studies, with surgical exploration reserved for failure of recovery by 4 to 6 months — is supported by the high spontaneous recovery rate (~75 to 90 percent) and is the standard for closed injuries without other indications for operative fracture management. The early exploration approach — surgical exploration of the radial nerve at the time of fracture surgery in patients undergoing operative fixation for other indications, or in patients with open fractures — is reserved for the operative cohort. Secondary radial nerve palsy (palsy that develops after fracture reduction or manipulation) is more concerning than primary palsy and is generally considered an indication for surgical exploration, on the grounds that the nerve may have been entrapped between fragments during reduction. Electrophysiological studies (electromyography, nerve conduction studies) are typically performed at 6 weeks and again at 3 to 4 months if recovery has not occurred. The first electrophysiological signs of recovery are typically motor unit potentials in the brachioradialis (the most proximal radial-innervated muscle), advancing distally to the wrist and finger extensors and finally the thumb extensor. Failure of clinical and electrophysiological recovery by 4 to 6 months is an indication for surgical exploration with neurolysis, nerve grafting, or tendon transfer (pronator teres to ECRB, FCR to EDC, palmaris longus to EPL — the standard radial nerve palsy transfer pattern) as appropriate.
+The management of the radial nerve palsy associated with closed humeral shaft fracture has been debated for decades. The expectant approach — observation with serial clinical examination and electrophysiological studies, with surgical exploration reserved for failure of recovery by 4 to 6 months — is supported by the high spontaneous recovery rate (~75 to 90 percent) and is the standard for closed injuries without other indications for operative fracture management. The early exploration approach — surgical exploration of the radial nerve at the time of fracture surgery in patients undergoing operative fixation for other indications, or in patients with open fractures — is reserved for the operative cohort. Secondary radial nerve palsy (palsy that develops after fracture reduction or manipulation) is more concerning than primary palsy and is generally considered an indication for surgical exploration, on the grounds that the nerve may have been entrapped between fragments during reduction. Electrophysiological studies (electromyography, nerve conduction studies) are typically performed at 6 weeks and again at 3 to 4 months if recovery has not occurred. The first electrophysiological signs of recovery are typically motor unit potentials in the brachioradialis (the most proximal radial-innervated muscle), advancing distally to the wrist and finger extensors and finally the thumb extensor. Failure of clinical and electrophysiological recovery by 4 to 6 months is an indication for surgical exploration with neurolysis, nerve grafting, or tendon transfer (pronator teres to ECRB, FCR to EDC, palmaris longus to EPL, the standard radial nerve palsy transfer pattern) as appropriate.
 
 ## Non-Operative Management — The Sarmiento Functional Brace
 
@@ -46,7 +46,7 @@ The management of the radial nerve palsy associated with closed humeral shaft fr
     <img src="/img/trauma-14/humerus-callus.jpg" alt="Callus healing of humeral shaft fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Comminuted humeral shaft fracture with abundant callus — the typical result of non-operative treatment with a Sarmiento functional brace; the high biologic potential of this location accounts for the 95%+ union rate without surgery.</span>
+    <span class="md-figure-caption">Comminuted humeral shaft fracture with abundant callus: the typical result of non-operative treatment with a Sarmiento functional brace; the high biologic potential of this location accounts for the 95%+ union rate without surgery.</span>
     <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
   </figcaption>
 </figure>
@@ -66,7 +66,7 @@ substantial minority of patients. Recognized indications include:
     vascular reconstruction.
 •   Pathological fractures or impending pathological fractures, where biological union
     may not occur.
-•   Floating elbow — combined humeral and forearm fracture in the same limb — where
+•   Floating elbow (combined humeral and forearm fracture in the same limb) where
     rigid fixation of at least one component allows rehabilitation.
 •   Bilateral humeral fractures, by similar logic.
 •   Segmental fractures, where bracing is mechanically inferior.
@@ -95,7 +95,7 @@ Open reduction and internal fixation with a plate is the most common operative t
     <img src="/img/trauma-14/esin-humerus.jpg" alt="ESIN of humeral shaft" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Elastic stable intramedullary nailing (ESIN) of a humeral shaft fracture — particularly suited to paediatric and adolescent patients; reduces the risk to adjacent physes.</span>
+    <span class="md-figure-caption">Elastic stable intramedullary nailing (ESIN) of a humeral shaft fracture: particularly suited to paediatric and adolescent patients; reduces the risk to adjacent physes.</span>
     <span class="md-figure-attribution"> — Th. Zimmermann, <a href="https://commons.wikimedia.org/wiki/File:ESIN_Humerus_THWZ.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0 de</a></span>
   </figcaption>
 </figure>

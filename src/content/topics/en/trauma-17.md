@@ -14,7 +14,7 @@ order: 117
     <img src="/img/trauma-17/colles-fracture.jpg" alt="Colles fracture — dinner-fork deformity" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Colles fracture — extra-articular fracture of the distal radius with dorsal angulation and the classic “dinner-fork” deformity.</span>
+    <span class="md-figure-caption">Colles fracture: extra-articular fracture of the distal radius with dorsal angulation and the classic “dinner-fork” deformity.</span>
     <span class="md-figure-attribution"> — Dsprenkels, <a href="https://commons.wikimedia.org/wiki/File:Colles%27_Fracture_Dinner_Fork_Appearance.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -32,7 +32,7 @@ The distal radius accounts for approximately 80 percent of the load transmission
     <img src="/img/trauma-17/colles.jpg" alt="Colles fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Colles fracture — extra-articular distal radius fracture with dorsal displacement and angulation (the classic "dinner-fork" deformity); prototypical fall-on-outstretched-hand injury.</span>
+    <span class="md-figure-caption">Colles fracture: extra-articular distal radius fracture with dorsal displacement and angulation (the classic "dinner-fork" deformity); prototypical fall-on-outstretched-hand injury.</span>
     <span class="md-figure-attribution"> — Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
@@ -46,7 +46,7 @@ The historic eponymous descriptions remain in widespread use and capture meaning
     <img src="/img/trauma-17/distal-radius.jpg" alt="Displaced distal radius fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Displaced intra-articular distal radius fracture — radial height, inclination and volar tilt drive the AO/OTA classification and operative strategy.</span>
+    <span class="md-figure-caption">Displaced intra-articular distal radius fracture: radial height, inclination and volar tilt drive the AO/OTA classification and operative strategy.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -76,7 +76,7 @@ The indications for operative fixation of distal radius fracture have been an ac
 
 Volar locking plate fixation has been the dominant operative technique since the early 2000s, following the introduction of distal radius-specific locking plates by Orbay and others. The advantages over earlier dorsal plating include lower hardware prominence (avoiding the extensor tendon irritation that was the principal complication of dorsal plating), tendon-friendly contouring, and the ability to achieve a stable construct in osteoporotic bone with the locked screws. The approach is the modified Henry approach — a longitudinal incision over the FCR tendon, opening of the FCR sheath, retraction of the
 
-FCR ulnarly with the median nerve and tendon contents, and release of the pronator quadratus from the radius to expose the volar surface. The fracture is reduced, the plate is positioned at or just proximal to the watershed line (the transverse ridge marking the volar prominence of the distal radius, beyond which the plate produces flexor tendon irritation), and locking screws are placed into the distal fragment. The technical considerations include avoidance of dorsal screw penetration (the dorsal cortex is irregular and screws penetrating the dorsal cortex produce extensor tendon irritation and may rupture the EPL tendon at Lister’s tubercle), use of subchondral screws for support of the articular surface, and anatomical reduction of the lunate facet fragment (the “die-punch” fragment), which the standard volar plate does not directly buttress and may require a separate “lunate facet plate” or volar fragment-specific fixation in selected cases. Complications include flexor pollicis longus rupture (the most feared complication, from the plate or screws being too distal — the EPL rupture is the dorsal equivalent), extensor tendon irritation (from prominent screw tips), median nerve injury (during the volar approach), CRPS (in 2 to 8 percent — see Topic Trauma-8), and hardware-related symptoms that occasionally require plate removal.
+FCR ulnarly with the median nerve and tendon contents, and release of the pronator quadratus from the radius to expose the volar surface. The fracture is reduced, the plate is positioned at or just proximal to the watershed line (the transverse ridge marking the volar prominence of the distal radius, beyond which the plate produces flexor tendon irritation), and locking screws are placed into the distal fragment. The technical considerations include avoidance of dorsal screw penetration (the dorsal cortex is irregular and screws penetrating the dorsal cortex produce extensor tendon irritation and may rupture the EPL tendon at Lister’s tubercle), use of subchondral screws for support of the articular surface, and anatomical reduction of the lunate facet fragment (the “die-punch” fragment), which the standard volar plate does not directly buttress and may require a separate “lunate facet plate” or volar fragment-specific fixation in selected cases. Complications include flexor pollicis longus rupture (the most feared complication, from the plate or screws being too distal, the EPL rupture is the dorsal equivalent), extensor tendon irritation (from prominent screw tips), median nerve injury (during the volar approach), CRPS (in 2 to 8 percent, see Topic Trauma-8), and hardware-related symptoms that occasionally require plate removal.
 
 ## Dorsal Plating
 
@@ -84,7 +84,7 @@ Dorsal plate fixation is reserved for specific indications — primarily the dor
 
 ## K-Wire Fixation
 
-Closed reduction with K-wire fixation — the Kapandji intrafocal pinning technique or the simpler transverse K-wire fixation — is a useful alternative for selected fractures, particularly the young patient with simple extra-articular or minimally articular patterns. The Kapandji technique uses K-wires placed through the fracture line dorsally and dorsoradially, with the wires then deflected to act as buttresses against redisplacement, and subsequently advanced into the proximal cortex. Outcomes are generally good for appropriate fracture patterns, with the advantage of minimally invasive technique and easy hardware removal. The DRAFFT trial (Costa et al., 2014, 2020) compared K-wire fixation with volar plate fixation for extra-articular fractures in patients over 50 and found broadly similar functional outcomes at one and five years, with K-wire fixation being substantially less expensive and equally effective in this population.
+Closed reduction with K-wire fixation (the Kapandji intrafocal pinning technique or the simpler transverse K-wire fixation) is a useful alternative for selected fractures, particularly the young patient with simple extra-articular or minimally articular patterns. The Kapandji technique uses K-wires placed through the fracture line dorsally and dorsoradially, with the wires then deflected to act as buttresses against redisplacement, and subsequently advanced into the proximal cortex. Outcomes are generally good for appropriate fracture patterns, with the advantage of minimally invasive technique and easy hardware removal. The DRAFFT trial (Costa et al., 2014, 2020) compared K-wire fixation with volar plate fixation for extra-articular fractures in patients over 50 and found broadly similar functional outcomes at one and five years, with K-wire fixation being substantially less expensive and equally effective in this population.
 
 ## External Fixation
 

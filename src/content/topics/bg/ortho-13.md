@@ -17,6 +17,16 @@ order: 13
 
 ## Вродена сколиоза
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/scoliosis.png" data-figure-alt="Сколиоза" aria-label="Увеличи">
+    <img src="/img/ortho-13/scoliosis.png" alt="Сколиоза" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сколиоза — странично изкривяване на гръбначния стълб над 10° по Cobb с ротация на прешлените; конгениталната форма се дължи на анатомични аномалии (failure of formation или segmentation).</span>
+    <span class="md-figure-attribution"> — BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Класификация и патогенеза
 
@@ -73,6 +83,16 @@ order: 13
 
 ## Синдром на Klippel-Feil
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/klippel-feil.png" data-figure-alt="Синдром на Klippel-Feil" aria-label="Увеличи">
+    <img src="/img/ortho-13/klippel-feil.png" alt="Синдром на Klippel-Feil" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Синдром на Klippel-Feil — вродено сливане на два или повече шийни прешлена с класическата триада: къс врат, ниска коса по тила и ограничена подвижност на врата.</span>
+    <span class="md-figure-attribution"> — Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Определение и епидемиология
 
@@ -104,6 +124,16 @@ order: 13
 
 ## Цервикални ребра
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/cervical-rib.png" data-figure-alt="Цервикални ребра" aria-label="Увеличи">
+    <img src="/img/ortho-13/cervical-rib.png" alt="Цервикални ребра" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Цервикални ребра — свръхбройни ребра от седмия шиен прешлен; чести (~1% от населението) и обикновено асимптоматични, но могат да причинят синдром на торакалния изход.</span>
+    <span class="md-figure-attribution"> — KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 Цервикалното ребро е свръхбройно ребро, произтичащо от седмия шиен прешлен. Състоянието се среща в около 0,5–1,0% от населението и е двустранно в около 50%. Цервикалното ребро варира от малко костно пъкче до пълно ребро, артикулиращо с първото гръдно ребро. Повечето цервикални ребра са асимптоматични и се установяват случайно; клиничното значение се крие в малцинството, произвеждащо синдром на торакалния изход.
 
 ## Синдром на торакалния изход
@@ -119,6 +149,16 @@ order: 13
 корекции и намаляване на теглото. Хирургичната декомпресия е запазена за рефрактерни случаи или при съдов синдром с установена артериална или венозна компрометираност. Хирургичните варианти включват резекция на цервикалното ребро (трансаксиларният достъп е класически; супраклавикуларният осигурява по-добър достъп до брахиалния плексус), резекция на първото ребро, скаленектомия и комбинации от тези. Резултатите са непостоянни, като най-добри са при истинския неврогенен синдром с обективни находки (моторна слабост, електромиографски аномалии); при пациентите само с субективни сетивни симптоми хирургичните резултати нерядко са разочароващи.
 
 ## Спина бифида и дисрафичните състояния
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/spina-bifida.jpg" data-figure-alt="Спина бифида — спектър на дефектите" aria-label="Увеличи">
+    <img src="/img/ortho-13/spina-bifida.jpg" alt="Спина бифида — спектър на дефектите" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Спина бифида — спектър от вродени дефекти на затварянето на невралната тръба: spina bifida occulta, менингоцеле и миеломенингоцеле.</span>
+    <span class="md-figure-attribution"> — CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
 
 
 ## Определения и класификация

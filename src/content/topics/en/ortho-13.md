@@ -17,6 +17,16 @@ The vertebral column develops from the paraxial mesoderm, which forms paired som
 
 ## Congenital Scoliosis
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/scoliosis.png" data-figure-alt="Scoliosis" aria-label="Enlarge">
+    <img src="/img/ortho-13/scoliosis.png" alt="Scoliosis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Scoliosis — lateral spinal curvature of &gt;10° (Cobb) with vertebral rotation; the congenital form arises from anatomical anomalies (failure of formation or segmentation).</span>
+    <span class="md-figure-attribution"> — BruceBlaus / Blausen.com, <a href="https://commons.wikimedia.org/wiki/File:Blausen_0785_Scoliosis_01.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Classification and Pathogenesis
 
@@ -49,6 +59,16 @@ Type II — failure of segmentation — produces a slower, more predictable prog
 
 ## Klippel-Feil Syndrome
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/klippel-feil.png" data-figure-alt="Klippel-Feil syndrome" aria-label="Enlarge">
+    <img src="/img/ortho-13/klippel-feil.png" alt="Klippel-Feil syndrome" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Klippel-Feil syndrome — congenital fusion of two or more cervical vertebrae, classically with the triad of short neck, low posterior hairline, and limited cervical motion.</span>
+    <span class="md-figure-attribution"> — Sharma BL et al., <a href="https://commons.wikimedia.org/wiki/File:Klippel%E2%80%93Feil_syndrome.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -79,6 +99,16 @@ Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenit
 
 ## Cervical Ribs
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/cervical-rib.png" data-figure-alt="Cervical ribs" aria-label="Enlarge">
+    <img src="/img/ortho-13/cervical-rib.png" alt="Cervical ribs" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cervical ribs — supernumerary ribs arising from C7; common (~1% of the population) and usually asymptomatic, but a possible cause of thoracic outlet syndrome.</span>
+    <span class="md-figure-attribution"> — KanuUli, <a href="https://commons.wikimedia.org/wiki/File:Halsrippe.png" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
+
 A cervical rib is a supernumerary rib arising from the seventh cervical vertebra. The condition occurs in approximately 0.5-1.0% of the population and is bilateral in approximately 50%. The cervical rib varies from a small bony stump to a complete rib that articulates with the first thoracic rib. Most cervical ribs are asymptomatic and are discovered incidentally; the clinical importance lies in the small minority that produce thoracic outlet syndrome.
 
 ## Thoracic Outlet Syndrome (TOS)
@@ -88,6 +118,16 @@ Thoracic outlet syndrome is the constellation of neurological, vascular, or comb
 Neurogenic TOS (the commonest, accounting for >90% of TOS cases) involves compression of the lower trunk of the brachial plexus (C8 and T1 fibers) against a cervical rib, an anomalous fibrous band, or the scalene muscles. Presentation is with pain and paresthesia in the medial aspect of the arm and the ulnar nerve distribution of the hand, weakness of the intrinsic hand muscles, and occasionally atrophy. The classical clinical sign is the wasting of the thenar eminence with preservation of the hypothenar musculature in advanced disease, a pattern reflecting predominant compression of the C8-T1 motor fibers. Diagnostic provocative maneuvers include the Roos test (the patient holds the arms in the “stick-up” position with elbows flexed for 3 minutes, with reproduction of symptoms indicating positive test) and the Adson maneuver (loss of radial pulse on inspiration with the head turned to the affected side); these tests have substantial false-positive rates in normal subjects. Nerve conduction studies, MRI, and CT angiography refine the diagnosis. Vascular TOS involves compression of the subclavian artery (arterial TOS, often producing a post-stenotic aneurysm with distal embolization) or vein (venous TOS, producing the Paget-Schroetter syndrome of effort-induced subclavian vein thrombosis in young athletic patients). Vascular TOS is uncommon but consequential. Treatment of TOS is initially conservative for the great majority of cases: physiotherapy directed at posture correction, scalene stretching and strengthening of the lower trapezius and serratus anterior, ergonomic modifications, and weight loss. Surgical decompression is reserved for refractory cases or for vascular TOS with established arterial or venous compromise. Surgical options include cervical rib resection (transaxillary approach is classical; supraclavicular approach gives better access to the brachial plexus), first rib resection, scalenectomy, and combinations of these. The outcomes are variable, with the best results in true neurogenic TOS with objective findings (motor weakness, EMG abnormalities); the patient with subjective sensory symptoms only often has disappointing surgical results.
 
 ## Spina Bifida and the Dysraphic States
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-13/spina-bifida.jpg" data-figure-alt="Spina bifida — spectrum of defects" aria-label="Enlarge">
+    <img src="/img/ortho-13/spina-bifida.jpg" alt="Spina bifida — spectrum of defects" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spina bifida — spectrum of congenital neural-tube closure defects: spina bifida occulta, meningocele, and myelomeningocele.</span>
+    <span class="md-figure-attribution"> — CDC, <a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definitions and Classification

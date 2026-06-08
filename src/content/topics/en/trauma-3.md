@@ -17,7 +17,7 @@ The decision between non-operative and operative treatment is the cardinal decis
 
 ## Principles of Closed Reduction
 
-Closed reduction — the restoration of fracture fragments to acceptable position without surgical exposure — is the foundation of non-operative fracture treatment.
+Closed reduction (the restoration of fracture fragments to acceptable position without surgical exposure) is the foundation of non-operative fracture treatment.
 
 ## Goals of Reduction
 
@@ -36,7 +36,7 @@ Closed reduction techniques include: Direct manipulation: The classical approach
     <img src="/img/trauma-3/splint.png" alt="Splinting an arm" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Splint immobilisation — the initial measure for acute fractures, providing stabilisation, analgesia, and soft-tissue protection before definitive treatment.</span>
+    <span class="md-figure-caption">Splint immobilisation: the initial measure for acute fractures, providing stabilisation, analgesia, and soft-tissue protection before definitive treatment.</span>
     <span class="md-figure-attribution"> — Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
@@ -56,7 +56,7 @@ Aluminium and other malleable splints: Used for finger and toe splints. Pre-form
 
 ## Cast Application — Principles and Technique
 
-The principles of cast application include: Three-point fixation: The classical principle that any cast must apply pressure at three points along the bone — at the proximal fragment, at the distal fragment, and at the apex of the deformity — to maintain reduction. The points of pressure are critical to preventing displacement during the healing period. Immobilization of the joints above and below: The classical teaching that immobilization should extend across the joints proximal and distal to the fracture to prevent motion at the fracture site. Modern functional bracing challenges this for some fractures, recognizing that the joint motion can be permitted while the fracture itself is protected. Appropriate padding: Adequate padding over bony prominences and along the limb to prevent pressure sores, with sufficient additional padding to permit anticipated swelling.
+The principles of cast application include: Three-point fixation: The classical principle that any cast must apply pressure at three points along the bone (at the proximal fragment, at the distal fragment, and at the apex of the deformity) to maintain reduction. The points of pressure are critical to preventing displacement during the healing period. Immobilization of the joints above and below: The classical teaching that immobilization should extend across the joints proximal and distal to the fracture to prevent motion at the fracture site. Modern functional bracing challenges this for some fractures, recognizing that the joint motion can be permitted while the fracture itself is protected. Appropriate padding: Adequate padding over bony prominences and along the limb to prevent pressure sores, with sufficient additional padding to permit anticipated swelling.
 
 The principal vulnerable sites are the malleoli, the calcaneus, the patella, the olecranon, the dorsum of the wrist, and the bony prominences of the foot. Molding: Careful molding of the cast over the bony anatomy and at the points of three-point fixation to maintain reduction. The “interosseous space” must be preserved between the radius and ulna (and between the tibia and fibula) by appropriate molding. Adequate length: The cast must be long enough to permit effective three-point fixation but not so long as to immobilize unnecessary joints. Univalving or bivalving for swelling: In the acute fracture, the cast is typically univalved (cut longitudinally on one side) or bivalved (cut on both sides) to permit expansion as the limb swells. The cast is reapplied or replaced after swelling has resolved.
 

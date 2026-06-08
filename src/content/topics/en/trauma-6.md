@@ -18,7 +18,7 @@ Polytrauma is a clinical state in which a patient has sustained multiple injurie
     <img src="/img/trauma-6/polytrauma-ct.png" alt="Polytrauma — 3D CT" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Polytrauma — contrast-enhanced whole-body 3D CT reconstructions enabling rapid assessment of multiple injuries in the critically ill trauma patient.</span>
+    <span class="md-figure-caption">Polytrauma: contrast-enhanced whole-body 3D CT reconstructions enabling rapid assessment of multiple injuries in the critically ill trauma patient.</span>
     <span class="md-figure-attribution"> — Dappa et al., <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
@@ -36,7 +36,7 @@ Shock is the clinical state of inadequate tissue perfusion to meet metabolic dem
     <img src="/img/trauma-6/fast-algorithm.svg" alt="FAST algorithm in blunt trauma" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">FAST (Focused Assessment with Sonography for Trauma) — rapid bedside ultrasound for free fluid in the pericardium and four abdominal windows; a standard part of the primary survey in blunt trauma.</span>
+    <span class="md-figure-caption">FAST (Focused Assessment with Sonography for Trauma): rapid bedside ultrasound for free fluid in the pericardium and four abdominal windows; a standard part of the primary survey in blunt trauma.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:FAST_Algorithm.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
@@ -45,7 +45,7 @@ Modern trauma resuscitation has evolved substantially from the historic “aggre
 
 ## The Lethal Triad
 
-The lethal triad of trauma — hypothermia, acidosis, and coagulopathy — describes the self-perpetuating physiological deterioration that characterizes severe trauma. Each component worsens the others: hypothermia impairs coagulation function; acidosis impairs cardiac and clotting function; coagulopathy worsens hemorrhage which worsens acidosis. The triad is the principal reason for damage control rather than early definitive surgery in unstable patients.
+The lethal triad of trauma (hypothermia, acidosis, and coagulopathy) describes the self-perpetuating physiological deterioration that characterizes severe trauma. Each component worsens the others: hypothermia impairs coagulation function; acidosis impairs cardiac and clotting function; coagulopathy worsens hemorrhage which worsens acidosis. The triad is the principal reason for damage control rather than early definitive surgery in unstable patients.
 
 ## The Systemic Response to Trauma
 
@@ -54,7 +54,7 @@ The lethal triad of trauma — hypothermia, acidosis, and coagulopathy — descr
     <img src="/img/trauma-6/polytrauma-3d.png" alt="3D CT of polytrauma patient" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Contrast-enhanced 3D CT reconstructions in a polytrauma patient — simultaneous evaluation of multiple anatomical regions; the standard for rapid diagnosis in the stable polytrauma patient after primary survey.</span>
+    <span class="md-figure-caption">Contrast-enhanced 3D CT reconstructions in a polytrauma patient: simultaneous evaluation of multiple anatomical regions; the standard for rapid diagnosis in the stable polytrauma patient after primary survey.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Contrast-enhanced_3-D_CT_images_of_a_patient_with_polytrauma.png" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
@@ -63,7 +63,7 @@ The systemic response to trauma involves a complex interplay of inflammatory and
 
 ## The Two-Hit Theory
 
-The two-hit theory holds that the initial traumatic insult (“first hit”) produces a generalized inflammatory response, and that subsequent insults — surgery, infection, hypotension — represent “second hits” that can produce excessive inflammatory response leading to multi-organ dysfunction. The clinical implication is that timing of surgical interventions in the polytrauma patient must consider the patient’s overall physiological status, with delays of definitive surgery often being preferable to aggressive early intervention in the physiologically unstable patient.
+The two-hit theory holds that the initial traumatic insult (“first hit”) produces a generalized inflammatory response, and that subsequent insults (surgery, infection, hypotension) represent “second hits” that can produce excessive inflammatory response leading to multi-organ dysfunction. The clinical implication is that timing of surgical interventions in the polytrauma patient must consider the patient’s overall physiological status, with delays of definitive surgery often being preferable to aggressive early intervention in the physiologically unstable patient.
 
 ## The Inflammatory Cascade
 

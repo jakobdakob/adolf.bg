@@ -35,6 +35,12 @@ const t = ui[lang];
   data-t-try-again={t.tryAgain}
   data-t-back={t.backToTopic}
   data-t-loading={t.loading}
+  data-t-review={t.reviewLabel}
+  data-t-your-ans={t.yourAnswer}
+  data-t-correct-ans={t.correctAnswer}
+  data-t-view-topic={t.viewTopic}
+  data-t-retry-missed={t.retryMissed}
+  data-t-perfect={t.perfectScore}
 >
   <div class="quiz-intro" data-quiz-screen="intro">
     <h1 class="quiz-title">{title}</h1>
@@ -68,7 +74,12 @@ const t = ui[lang];
     <p class="quiz-score-percent" data-quiz-score-percent>—</p>
     <div class="quiz-score-actions">
       <button type="button" class="btn btn-primary" data-quiz-retry></button>
+      <button type="button" class="btn btn-ghost" data-quiz-retry-missed hidden></button>
       <a class="btn btn-ghost" data-quiz-back hidden></a>
+    </div>
+    <div class="quiz-review" data-quiz-review hidden>
+      <h3 class="quiz-review-heading" data-quiz-review-heading></h3>
+      <ol class="quiz-review-list" data-quiz-review-list></ol>
     </div>
   </div>
 </section>
@@ -92,6 +103,12 @@ const t = ui[lang];
     retry:    root.dataset.tTryAgain,
     back:     root.dataset.tBack,
     loading:  root.dataset.tLoading,
+    review:   root.dataset.tReview,
+    your:     root.dataset.tYourAns,
+    correct:  root.dataset.tCorrectAns,
+    viewTopic:root.dataset.tViewTopic,
+    retryMissed: root.dataset.tRetryMissed,
+    perfect:  root.dataset.tPerfect,
   };
 
   const screens = {
@@ -131,13 +148,15 @@ const t = ui[lang];
     return pool;
   }
 
-  function startSession() {
-    const picked = shuffle(pool).slice(0, Math.min(count, pool.length));
+  function startSession(subset) {
+    const source = subset && subset.length ? subset : pool;
+    const picked = shuffle(source).slice(0, Math.min(count, source.length));
     session = {
       questions: picked,
       idx: 0,
       score: 0,
       answered: false,
+      misses: [],   // { q, userAnswer, correct }
     };
     renderQuestion();
   }
@@ -168,7 +187,11 @@ const t = ui[lang];
     session.answered = true;
     const q = session.questions[session.idx];
     const correct = (q[lang] || q.en || q.bg).correct;
-    if (idx === correct) session.score += 1;
+    if (idx === correct) {
+      session.score += 1;
+    } else {
+      session.misses.push({ q: q, userAnswer: idx, correct: correct });
+    }
 
     elOptionBtns.forEach((btn, i) => {
       btn.setAttribute("disabled", "");
@@ -205,7 +228,11 @@ const t = ui[lang];
     const value = root.querySelector("[data-quiz-score-value]");
     const pct   = root.querySelector("[data-quiz-score-percent]");
     const retry = root.querySelector("[data-quiz-retry]");
+    const retryMissed = root.querySelector("[data-quiz-retry-missed]");
     const backA = root.querySelector("[data-quiz-back]");
+    const reviewSec = root.querySelector("[data-quiz-review]");
+    const reviewHead = root.querySelector("[data-quiz-review-heading]");
+    const reviewList = root.querySelector("[data-quiz-review-list]");
     label.textContent = T.yours;
     value.textContent = `${session.score} / ${session.questions.length}`;
     pct.textContent = `${Math.round((session.score / session.questions.length) * 100)}%`;
@@ -215,6 +242,47 @@ const t = ui[lang];
       backA.textContent = backLabel || T.back;
       backA.removeAttribute("hidden");
     }
+    // Wrong-answer review
+    const misses = session.misses || [];
+    if (misses.length) {
+      reviewSec.removeAttribute("hidden");
+      reviewHead.textContent = T.review;
+      reviewList.innerHTML = misses.map((m) => {
+        const loc = m.q[lang] || m.q.en || m.q.bg;
+        const userText = loc.options[m.userAnswer] ?? "";
+        const correctText = loc.options[m.correct] ?? "";
+        const sec = m.q.section;
+        const top = m.q.topic;
+        const href = `/${lang}/${sec}/${top}/`;
+        return (
+          '<li class="quiz-review-item">' +
+            '<div class="quiz-review-stem">' + escapeHtml(loc.stem) + '</div>' +
+            '<div class="quiz-review-row quiz-review-wrong">' +
+              '<span class="quiz-review-label">' + T.your + '</span>' +
+              '<span>' + escapeHtml(userText) + '</span>' +
+            '</div>' +
+            '<div class="quiz-review-row quiz-review-correct">' +
+              '<span class="quiz-review-label">' + T.correct + '</span>' +
+              '<span>' + escapeHtml(correctText) + '</span>' +
+            '</div>' +
+            '<a class="quiz-review-link" href="' + href + '">' + T.viewTopic + ' →</a>' +
+          '</li>'
+        );
+      }).join("");
+      retryMissed.textContent = T.retryMissed + " (" + misses.length + ")";
+      retryMissed.removeAttribute("hidden");
+    } else {
+      reviewSec.setAttribute("hidden", "");
+      retryMissed.setAttribute("hidden", "");
+      // Optionally annotate perfect score
+      label.textContent = T.perfect;
+    }
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    })[c]);
   }
 
   // Wire up
@@ -234,6 +302,11 @@ const t = ui[lang];
   root.querySelector("[data-quiz-retry]").addEventListener("click", () => {
     if (!pool) return;
     startSession();
+  });
+  root.querySelector("[data-quiz-retry-missed]").addEventListener("click", () => {
+    if (!session || !session.misses || !session.misses.length) return;
+    const onlyMissed = session.misses.map((m) => m.q);
+    startSession(onlyMissed);
   });
 })();
 </script>
@@ -387,4 +460,77 @@ const t = ui[lang];
      restore display:none so the empty back-link is invisible on the
      mega-mix screen. */
   .btn-ghost[hidden] { display: none; }
+
+  /* Wrong-answer review */
+  .quiz-review {
+    margin-top: var(--s-8);
+    text-align: left;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-6);
+  }
+  .quiz-review[hidden] { display: none; }
+  .quiz-review-heading {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--ink-muted);
+    letter-spacing: var(--tracking-eyebrow, 0.05em);
+    text-transform: uppercase;
+    margin: 0 0 var(--s-4);
+  }
+  .quiz-review-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--s-4);
+  }
+  .quiz-review-item {
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: var(--s-4);
+    display: grid;
+    gap: var(--s-2);
+  }
+  .quiz-review-stem {
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.4;
+  }
+  .quiz-review-row {
+    display: grid;
+    grid-template-columns: 6.5rem 1fr;
+    gap: var(--s-3);
+    align-items: baseline;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+  .quiz-review-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-faint, var(--ink-muted));
+  }
+  .quiz-review-wrong span:not(.quiz-review-label) {
+    color: #D14848;
+    text-decoration: line-through;
+    text-decoration-color: color-mix(in srgb, #D14848 50%, transparent);
+    text-decoration-thickness: 1px;
+  }
+  .quiz-review-correct span:not(.quiz-review-label) {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .quiz-review-link {
+    font-size: 0.85rem;
+    color: var(--accent);
+    text-decoration: none;
+    margin-top: var(--s-1);
+    justify-self: start;
+  }
+  .quiz-review-link:hover { text-decoration: underline; }
+  @media (max-width: 540px) {
+    .quiz-review-row { grid-template-columns: 1fr; gap: 0.2rem; }
+  }
 </style>

@@ -47,6 +47,13 @@ const links = [
       ))}
     </nav>
     <div style="flex:1"></div>
+    <button id="open-search" class="search-trigger" type="button" aria-label={t.search} title={`${t.search} (⌘K)`}>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <span class="search-trigger-kbd" aria-hidden="true">⌘K</span>
+    </button>
     <ThemeToggle lang={lang} />
     <LangToggle lang={lang} otherPath={otherPath} />
   </div>
@@ -60,4 +67,35 @@ const links = [
   @media (max-width: 1023px) {
     #open-drawer[style*="inline-flex"] { display: inline-flex; }
   }
+  .search-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.6rem;
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--ink-muted);
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 160ms var(--ease), color 160ms var(--ease);
+  }
+  .search-trigger:hover { color: var(--ink); border-color: var(--ink-muted); }
+  .search-trigger-kbd {
+    font-size: 0.7rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink-faint, var(--ink-muted));
+    padding: 0 0.15rem;
+  }
+  @media (max-width: 540px) {
+    .search-trigger-kbd { display: none; }
+    .search-trigger { padding: 0.35rem 0.4rem; }
+  }
 </style>
+
+<script is:inline>
+  (function () {
+    var b = document.getElementById("open-search");
+    if (b) b.addEventListener("click", function () { if (window.__openSearch) window.__openSearch(); });
+  })();
+</script>

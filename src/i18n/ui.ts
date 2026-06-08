@@ -39,6 +39,12 @@ type UIStrings = {
   tryAgain: string;
   backToTopic: string;
   loading: string;
+  reviewLabel: string;
+  yourAnswer: string;
+  correctAnswer: string;
+  viewTopic: string;
+  retryMissed: string;
+  perfectScore: string;
 };
 
 export const ui: Record<Lang, UIStrings> = {
@@ -80,6 +86,12 @@ export const ui: Record<Lang, UIStrings> = {
     tryAgain: "Опитай отново",
     backToTopic: "Към темата",
     loading: "Зарежда…",
+    reviewLabel: "Прегледай грешните отговори",
+    yourAnswer: "Твоят отговор",
+    correctAnswer: "Правилен",
+    viewTopic: "Виж темата",
+    retryMissed: "Тест само върху грешните",
+    perfectScore: "Перфектен резултат.",
   },
   en: {
     siteTitle: "adolf.bg",
@@ -119,6 +131,12 @@ export const ui: Record<Lang, UIStrings> = {
     tryAgain: "Try again",
     backToTopic: "Back to topic",
     loading: "Loading…",
+    reviewLabel: "Review wrong answers",
+    yourAnswer: "Your answer",
+    correctAnswer: "Correct",
+    viewTopic: "View topic",
+    retryMissed: "Retry only missed",
+    perfectScore: "Perfect score.",
   },
 };
 

@@ -19,7 +19,7 @@ Popliteal fossa: The posterior knee region bounded by the biceps femoris (supero
 
 ## Approaches to the Femoral Shaft
 
-The femoral shaft is approached for fracture fixation, tumor resection, and biopsy. The principal options: Anterolateral approach to the femur: Standard for plate fixation. Develops the interval between the vastus lateralis and the rectus femoris, with the rectus retracted medially. Provides good exposure with limited disruption of the principal blood supply. Posterolateral approach: Through the interval between the iliotibial band and the biceps femoris, providing posterolateral access to the femur. Used for plate fixation of distal femoral fractures (Topic Trauma-24). Posterior approach: Less commonly used; develops the interval between the medial and lateral hamstrings, with attention to the sciatic nerve. Provides access to the posterior femur. Antegrade and retrograde nailing entry: As described in Topic Trauma-23, antegrade nailing uses a piriformis or trochanteric entry, and retrograde nailing uses an intercondylar notch entry through a small parapatellar arthrotomy.
+The femoral shaft is approached for fracture fixation, tumor resection, and biopsy. The principal options: Anterolateral approach to the femur: Standard for plate fixation. Develops the interval between the vastus lateralis and the rectus femoris, with the rectus retracted medially. Provides good exposure with limited disruption of the principal blood supply. Posterolateral approach: Through the interval between the iliotibial band and the biceps femoris, providing posterolateral access to the femur. Used for plate fixation of distal femoral fractures ([Topic Trauma-24](/en/trauma/24/)). Posterior approach: Less commonly used; develops the interval between the medial and lateral hamstrings, with attention to the sciatic nerve. Provides access to the posterior femur. Antegrade and retrograde nailing entry: As described in [Topic Trauma-23](/en/trauma/23/), antegrade nailing uses a piriformis or trochanteric entry, and retrograde nailing uses an intercondylar notch entry through a small parapatellar arthrotomy.
 
 ## Knee Bony and Articular Anatomy
 
@@ -33,7 +33,7 @@ The femoral shaft is approached for fracture fixation, tumor resection, and biop
   </figcaption>
 </figure>
 
-The knee joint comprises: Tibiofemoral joint: Hinge joint between the distal femur (medial and lateral condyles) and the proximal tibia (medial and lateral plateaus). Patellofemoral joint: Between the patella and the trochlear groove of the distal femur. Proximal tibiofibular joint: Synovial joint between the lateral tibial condyle and the fibular head. The cruciate ligaments (ACL, PCL) lie within the joint, addressed in Topic Trauma-26. The menisci (medial and lateral) are fibrocartilaginous structures providing load distribution and joint conformity. The collateral ligaments (MCL medially, LCL with the posterolateral corner laterally) provide coronal-plane stability.
+The knee joint comprises: Tibiofemoral joint: Hinge joint between the distal femur (medial and lateral condyles) and the proximal tibia (medial and lateral plateaus). Patellofemoral joint: Between the patella and the trochlear groove of the distal femur. Proximal tibiofibular joint: Synovial joint between the lateral tibial condyle and the fibular head. The cruciate ligaments (ACL, PCL) lie within the joint, addressed in [Topic Trauma-26](/en/trauma/26/). The menisci (medial and lateral) are fibrocartilaginous structures providing load distribution and joint conformity. The collateral ligaments (MCL medially, LCL with the posterolateral corner laterally) provide coronal-plane stability.
 
 ## Knee Approaches
 
@@ -60,7 +60,7 @@ The posterior approach to the knee uses an S-shaped or hockey-stick incision in 
 
 ## Specific Approaches for Tibial Plateau Fractures
 
-For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typically through an anterolateral incision with a submeniscal arthrotomy to allow direct visualization of the articular surface (Topic Trauma-25). For medial tibial plateau fractures (Schatzker IV), a medial approach is used. For bicondylar fractures (Schatzker V, VI), dual approaches (medial and lateral) with separate incisions are preferred to avoid the central anterior incision and the associated soft-tissue compromise.
+For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typically through an anterolateral incision with a submeniscal arthrotomy to allow direct visualization of the articular surface ([Topic Trauma-25](/en/trauma/25/)). For medial tibial plateau fractures (Schatzker IV), a medial approach is used. For bicondylar fractures (Schatzker V, VI), dual approaches (medial and lateral) with separate incisions are preferred to avoid the central anterior incision and the associated soft-tissue compromise.
 
 ## Knee Arthroscopy
 
@@ -74,7 +74,7 @@ For lateral tibial plateau fractures (Schatzker I, II, III), the approach is typ
   </figcaption>
 </figure>
 
-Knee arthroscopy is one of the most commonly performed orthopedic procedures, with portals as detailed in Topic Trauma-26. The standard anterolateral and anteromedial portals provide access to the entire joint. The arthroscopic examination systematically visualizes the suprapatellar pouch, the patellofemoral joint, the medial and lateral gutters, the medial and lateral compartments (menisci and articular surfaces), the intercondylar notch (ACL, PCL), and the posteromedial and posterolateral compartments. The arthroscopic procedures include meniscectomy, meniscal repair, cartilage procedures (microfracture, OATS, ACI), ACL reconstruction, PCL reconstruction, loose body removal, and synovectomy.
+Knee arthroscopy is one of the most commonly performed orthopedic procedures, with portals as detailed in [Topic Trauma-26](/en/trauma/26/). The standard anterolateral and anteromedial portals provide access to the entire joint. The arthroscopic examination systematically visualizes the suprapatellar pouch, the patellofemoral joint, the medial and lateral gutters, the medial and lateral compartments (menisci and articular surfaces), the intercondylar notch (ACL, PCL), and the posteromedial and posterolateral compartments. The arthroscopic procedures include meniscectomy, meniscal repair, cartilage procedures (microfracture, OATS, ACI), ACL reconstruction, PCL reconstruction, loose body removal, and synovectomy.
 
 ## Compartment Syndrome of the Thigh and Knee
 
@@ -94,7 +94,7 @@ Thigh compartment syndrome is uncommon but described, particularly with high-ene
 
 The principal neurovascular concerns include: Femoral nerve: Descends through the femoral triangle. Vulnerable in retroperitoneal injuries and during anterior approaches. Femoral artery and vein: Pass through the femoral triangle, then through the adductor canal to become the popliteal vessels. Saphenous nerve: Branches from the femoral nerve in the femoral triangle, accompanies the femoral artery through the adductor canal, and emerges from the canal to descend along the medial side of the leg. Provides sensation to the medial leg. Sciatic nerve: Divides into tibial and common peroneal divisions at the apex of the popliteal fossa.
 
-Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here, Topic Trauma-31). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations (Topic Trauma-26) and distal femur/proximal tibia fractures.
+Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here, [Topic Trauma-31](/en/trauma/31/)). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations ([Topic Trauma-26](/en/trauma/26/)) and distal femur/proximal tibia fractures.
 
 ## Summary and Take-Home Points
 

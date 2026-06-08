@@ -58,7 +58,7 @@ Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle 
 
 ## Lumbar Plexus Within the Psoas
 
-The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in lateral transpsoas approaches to the lumbar spine (XLIF/LLIF, see Topic Anatomy-1). The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
+The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in lateral transpsoas approaches to the lumbar spine (XLIF/LLIF, see [Topic Anatomy-1](/en/anatomy/1/)). The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
 
 ## Ilioinguinal Approach (Letournel)
 

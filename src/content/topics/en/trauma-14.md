@@ -112,7 +112,7 @@ External fixation has a limited role in humeral shaft fracture, primarily as tem
 
 ## Pathological Fractures
 
-The humerus is the second most common site (after the femur) of metastatic disease and is a frequent site of pathological fracture in cancer patients. The Mirels scoring system for impending pathological fracture (covered in Topic Orth-3) applies; prophylactic stabilization is indicated for scores of 8 or higher. For established pathological fractures, the principles include rigid stabilization to allow immediate pain-free use of the limb, fixation of the entire length of the bone (typically by intramedullary nailing) to prevent subsequent fracture distal to the construct, and adjuvant local treatment (radiation, cementation) as indicated by the underlying pathology.
+The humerus is the second most common site (after the femur) of metastatic disease and is a frequent site of pathological fracture in cancer patients. The Mirels scoring system for impending pathological fracture (covered in [Topic Orth-3](/en/ortho/3/)) applies; prophylactic stabilization is indicated for scores of 8 or higher. For established pathological fractures, the principles include rigid stabilization to allow immediate pain-free use of the limb, fixation of the entire length of the bone (typically by intramedullary nailing) to prevent subsequent fracture distal to the construct, and adjuvant local treatment (radiation, cementation) as indicated by the underlying pathology.
 
 ## Pediatric Humeral Shaft Fractures
 

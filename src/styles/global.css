@@ -415,6 +415,8 @@ html[data-theme="dark"] .btn-viber:hover {
   border-bottom: 1px solid var(--rule);
   vertical-align: top;
   text-align: left;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .prose .classification thead th {
   font-size: var(--fs-eyebrow);
@@ -747,4 +749,145 @@ html[data-theme="dark"] .btn-viber:hover {
   gap: var(--s-4);
   font-size: var(--fs-meta);
   color: var(--ink-muted);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Print stylesheet
+   Hide chrome, expand prose to full width, expand figures inline, show
+   external URLs after their link text, force light-on-white regardless of
+   theme. Tested at A4 portrait.
+   ───────────────────────────────────────────────────────────────────────── */
+@media print {
+  :root, [data-theme="dark"] {
+    --bg: #ffffff;
+    --ink: #000000;
+    --ink-muted: #333333;
+    --ink-faint: #555555;
+    --rule: #cccccc;
+    --accent: #000000;
+  }
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+  /* Hide chrome */
+  .site-header, .site-footer, .skip-link,
+  .topic-sidebar, .sidebar-overlay, .menu-button,
+  .topic-toc, .section-progress,
+  .test-yourself, .topic-prev-next,
+  .hero-feedback, .qb-bottom-back,
+  .header-search, .header-lang, .header-menu-toggle,
+  .topic-eyebrow {
+    display: none !important;
+  }
+  /* Expand prose */
+  .topic-shell {
+    display: block !important;
+    grid-template-columns: none !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    gap: 0 !important;
+  }
+  .topic-article {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+  .prose {
+    max-width: 100% !important;
+    column-count: 1 !important;
+  }
+  /* Heading + figure handling */
+  h1, h2, h3 { page-break-after: avoid; break-after: avoid; }
+  h2 { page-break-before: auto; margin-top: 18pt; }
+  figure, table, .classification, .md-figure {
+    page-break-inside: avoid; break-inside: avoid;
+  }
+  .md-figure {
+    max-width: 100% !important;
+    margin: 12pt 0;
+  }
+  .md-figure img {
+    max-width: 100% !important;
+    max-height: none !important;
+    box-shadow: none !important;
+  }
+  /* Reveal hidden URLs for external links (skip internal anchors and
+     hash fragments). Inside-figure attribution links keep their text. */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.85em;
+    color: #555555;
+    word-break: break-all;
+  }
+  a[href^="http"].md-figure-attribution-link::after,
+  .md-figure-attribution a::after {
+    content: "";
+  }
+  /* Lightbox / interactive elements off */
+  .md-figure-zoom { cursor: default !important; }
+  .md-figure-lightbox { display: none !important; }
+  /* Better widows/orphans on long paragraphs */
+  p { orphans: 3; widows: 3; }
+  /* Background-free for code/inline boxes */
+  code, pre { background: #f7f7f7 !important; color: #000 !important; }
+  /* Page margins */
+  @page { margin: 16mm 14mm; }
+}
+
+/* end print stylesheet */
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Mobile audit fixes
+   - Allow long technical terms to wrap inside cells
+   - Tap-target floor for in-prose links + small UI affordances (≥44px)
+   - Code/pre blocks scroll-x instead of overflowing
+   - Sidebar drawer focus styling
+   ───────────────────────────────────────────────────────────────────────── */
+.prose code, .prose pre {
+  overflow-x: auto;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+.prose pre { padding: 0.75rem; border-radius: 6px; }
+
+@media (max-width: 540px) {
+  /* Larger tap targets on the topic landing TOC */
+  .toc-list a {
+    padding-top: 1.1rem;
+    padding-bottom: 1.1rem;
+  }
+  /* Hero cards get full-width comfortable padding on mobile */
+  .hero-card {
+    padding-top: 1.1rem;
+    padding-bottom: 1.1rem;
+  }
+  /* Prev/next nav buttons full width */
+  .topic-prev-next {
+    grid-template-columns: 1fr;
+  }
+  /* Tighter shell padding so prose breathes */
+  .topic-shell, .toc, .hero {
+    padding-left: var(--s-4) !important;
+    padding-right: var(--s-4) !important;
+  }
+  /* Classification table: scroll horizontally if it overflows */
+  .prose .classification {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Focus ring on interactive elements for keyboard nav (mobile assistive
+   keyboards trigger this too). */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* end mobile fixes */
+.print-only-class-tail-noop {
 }

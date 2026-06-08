@@ -104,7 +104,7 @@ Pediatric acetabular fractures are uncommon and have a substantially different a
 
 ## Postoperative Management
 
-Postoperative management includes VTE prophylaxis (high risk in this population, see Topic Trauma-7), early hip range of motion to prevent stiffness (typically beginning the day after surgery), protected weight bearing for 8 to 12 weeks (typically toe-touch or partial weight bearing depending on fixation stability), and heterotopic ossification prophylaxis in patients with extended approaches or high risk profiles.
+Postoperative management includes VTE prophylaxis (high risk in this population, see [Topic Trauma-7](/en/trauma/7/)), early hip range of motion to prevent stiffness (typically beginning the day after surgery), protected weight bearing for 8 to 12 weeks (typically toe-touch or partial weight bearing depending on fixation stability), and heterotopic ossification prophylaxis in patients with extended approaches or high risk profiles.
 
 ## Summary and Take-Home Points
 

@@ -23,7 +23,7 @@ The ankle and foot together form an intricate anatomical complex with 28 bones, 
   </figcaption>
 </figure>
 
-The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolus (distal fibula), and the talar dome (Topic Trauma-28). The subtalar joint is between the talus (superiorly) and the calcaneus (inferiorly), with three articular facets (anterior, middle, and posterior) separated by the tarsal canal. The midfoot comprises the navicular, cuboid, and three cuneiforms (Topic Trauma-29). The forefoot comprises the five metatarsals and the phalanges (similar to the hand pattern, with two phalanges in the great toe and three in the lesser toes). Key surgical landmarks include the medial and lateral malleoli, sustentaculum tali (medial calcaneus), tibialis anterior tubercle of the navicular, and the fifth metatarsal tuberosity.
+The ankle joint comprises the tibial plafond, medial malleolus, lateral malleolus (distal fibula), and the talar dome ([Topic Trauma-28](/en/trauma/28/)). The subtalar joint is between the talus (superiorly) and the calcaneus (inferiorly), with three articular facets (anterior, middle, and posterior) separated by the tarsal canal. The midfoot comprises the navicular, cuboid, and three cuneiforms ([Topic Trauma-29](/en/trauma/29/)). The forefoot comprises the five metatarsals and the phalanges (similar to the hand pattern, with two phalanges in the great toe and three in the lesser toes). Key surgical landmarks include the medial and lateral malleoli, sustentaculum tali (medial calcaneus), tibialis anterior tubercle of the navicular, and the fifth metatarsal tuberosity.
 
 ## Neurovascular Anatomy
 
@@ -57,7 +57,7 @@ The anterior ankle approach is used for anterior ankle arthrodesis, total ankle 
 
 ## Anterolateral Ankle Approach
 
-The anterolateral approach is the standard for lateral plafond (pilon) fractures (Topic Trauma-27). A longitudinal incision is made over the anterolateral ankle, between the EHL/EDL medially and the peroneus tertius laterally. The deep peroneal nerve and the anterior tibial vessels are identified and retracted medially. The ankle joint and the distal tibia are exposed. The approach provides excellent visualization of the anterior ankle joint and the distal tibial articular surface.
+The anterolateral approach is the standard for lateral plafond (pilon) fractures ([Topic Trauma-27](/en/trauma/27/)). A longitudinal incision is made over the anterolateral ankle, between the EHL/EDL medially and the peroneus tertius laterally. The deep peroneal nerve and the anterior tibial vessels are identified and retracted medially. The ankle joint and the distal tibia are exposed. The approach provides excellent visualization of the anterior ankle joint and the distal tibial articular surface.
 
 ## Posterolateral Ankle Approach
 
@@ -71,7 +71,7 @@ For medial malleolus fixation, a vertical incision over the malleolus provides d
 
 ## Sinus Tarsi Approach to the Calcaneus
 
-The sinus tarsi approach has largely supplanted the extensile lateral approach for calcaneal fracture fixation (Topic Trauma-29), because of substantially lower wound complication rates. A small oblique incision is made over the sinus tarsi (a depression palpable just anterior to the lateral malleolus). The peroneal tendons are retracted, and the calcaneocuboid joint and the posterior facet of the subtalar joint are exposed.
+The sinus tarsi approach has largely supplanted the extensile lateral approach for calcaneal fracture fixation ([Topic Trauma-29](/en/trauma/29/)), because of substantially lower wound complication rates. A small oblique incision is made over the sinus tarsi (a depression palpable just anterior to the lateral malleolus). The peroneal tendons are retracted, and the calcaneocuboid joint and the posterior facet of the subtalar joint are exposed.
 
 ## Extensile Lateral Approach to the Calcaneus
 

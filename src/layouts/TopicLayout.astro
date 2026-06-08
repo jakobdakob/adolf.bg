@@ -54,7 +54,7 @@ const eyebrow =
   <MobileDrawer lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
   <div class="topic-shell">
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
-    <article class="topic-article">
+    <article class="topic-article" data-pagefind-body>
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
       {entry.data.kind === "topic" && entry.data.topicNumber && sectionTopics.length > 1 && (
         <ol class="section-progress" aria-label={`Topic ${entry.data.topicNumber} of ${sectionTopics.length}`}>

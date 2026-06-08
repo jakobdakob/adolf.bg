@@ -1,0 +1,225 @@
+---
+import { type Lang, ui } from "../i18n/ui";
+import { url } from "../lib/topics";
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const t = ui[lang];
+const placeholder = lang === "bg" ? "Търси теми, ключови думи…" : "Search topics, keywords…";
+const closeLabel = lang === "bg" ? "Затвори" : "Close";
+const noResults = lang === "bg" ? "Няма резултати" : "No results";
+const hint = lang === "bg" ? "↑↓ навигация · Enter избор · Esc затваря" : "↑↓ navigate · Enter select · Esc close";
+const pagefindBase = url("/pagefind/pagefind.js");
+---
+<div id="search-modal" class="sm-overlay" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-label={t.search}>
+  <div class="sm-backdrop" data-sm-close></div>
+  <div class="sm-panel" role="document">
+    <div class="sm-input-row">
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="7"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input id="sm-input" type="search" autocomplete="off" autocorrect="off" spellcheck="false"
+             placeholder={placeholder} aria-label={t.search} />
+      <button type="button" class="sm-close" data-sm-close aria-label={closeLabel}>Esc</button>
+    </div>
+    <div id="sm-results" class="sm-results" role="listbox" aria-label={t.search}></div>
+    <div class="sm-hint" id="sm-hint">{hint}</div>
+  </div>
+</div>
+
+<script is:inline define:vars={{ pagefindBase, noResults }}>
+  (function () {
+    let pf = null;
+    let pfPromise = null;
+    let activeIndex = -1;
+    let lastResults = [];
+    let inFlight = 0;
+    const overlay = document.getElementById("search-modal");
+    const input = document.getElementById("sm-input");
+    const resultsEl = document.getElementById("sm-results");
+    if (!overlay || !input || !resultsEl) return;
+
+    function loadPagefind() {
+      if (pfPromise) return pfPromise;
+      pfPromise = import(pagefindBase).then(async (mod) => {
+        await mod.options({ excerptLength: 24 });
+        pf = mod;
+        return mod;
+      }).catch((e) => { console.warn("pagefind load failed", e); pfPromise = null; throw e; });
+      return pfPromise;
+    }
+
+    function open() {
+      overlay.hidden = false;
+      overlay.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+      requestAnimationFrame(() => { input.focus(); input.select(); });
+      loadPagefind();
+    }
+    function close() {
+      overlay.hidden = true;
+      overlay.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+      input.value = "";
+      resultsEl.innerHTML = "";
+      activeIndex = -1;
+    }
+    window.__openSearch = open;
+    window.__closeSearch = close;
+
+    overlay.addEventListener("click", (e) => {
+      const t = e.target;
+      if (t && (t.matches("[data-sm-close]") || t.closest("[data-sm-close]"))) close();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      const cmdK = (e.metaKey || e.ctrlKey) && (e.key === "k" || e.key === "K");
+      if (cmdK) { e.preventDefault(); overlay.hidden ? open() : close(); return; }
+      if (!overlay.hidden && e.key === "Escape") { e.preventDefault(); close(); return; }
+      if (overlay.hidden) return;
+      if (e.key === "ArrowDown") { e.preventDefault(); move(1); }
+      else if (e.key === "ArrowUp") { e.preventDefault(); move(-1); }
+      else if (e.key === "Enter") {
+        const row = resultsEl.querySelector(".sm-row.is-active") || resultsEl.querySelector(".sm-row");
+        if (row && row.dataset.href) { e.preventDefault(); window.location.assign(row.dataset.href); }
+      }
+    });
+
+    function move(delta) {
+      const rows = Array.from(resultsEl.querySelectorAll(".sm-row"));
+      if (!rows.length) return;
+      activeIndex = ((activeIndex < 0 ? -1 : activeIndex) + delta + rows.length) % rows.length;
+      rows.forEach((r, i) => r.classList.toggle("is-active", i === activeIndex));
+      rows[activeIndex].scrollIntoView({ block: "nearest" });
+    }
+
+    let debounceTimer = null;
+    input.addEventListener("input", () => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(runSearch, 120);
+    });
+
+    async function runSearch() {
+      const q = input.value.trim();
+      if (!q) { resultsEl.innerHTML = ""; activeIndex = -1; return; }
+      let pfMod;
+      try { pfMod = await loadPagefind(); } catch { renderError(); return; }
+      const myId = ++inFlight;
+      const search = await pfMod.search(q);
+      if (myId !== inFlight) return;
+      const results = await Promise.all(search.results.slice(0, 20).map((r) => r.data()));
+      lastResults = results;
+      render(results);
+    }
+
+    function render(results) {
+      if (!results.length) {
+        resultsEl.innerHTML = '<div class="sm-empty">' + noResults + '</div>';
+        activeIndex = -1;
+        return;
+      }
+      const html = results.map((r, i) => {
+        const title = (r.meta && r.meta.title) || r.url;
+        const excerpt = r.excerpt || "";
+        return '<a class="sm-row' + (i === 0 ? " is-active" : "") + '" href="' + r.url + '" data-href="' + r.url + '" role="option">' +
+          '<span class="sm-row-title">' + escape(title) + '</span>' +
+          '<span class="sm-row-excerpt">' + excerpt + '</span>' +
+          '<span class="sm-row-url">' + escape(r.url) + '</span>' +
+        '</a>';
+      }).join("");
+      resultsEl.innerHTML = html;
+      activeIndex = 0;
+    }
+
+    function renderError() {
+      resultsEl.innerHTML = '<div class="sm-empty">Search index unavailable</div>';
+    }
+    function escape(s) {
+      return String(s).replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[c]);
+    }
+  })();
+</script>
+
+<style is:global>
+  .sm-overlay {
+    position: fixed; inset: 0; z-index: 1000;
+    display: grid; place-items: start center;
+    padding: 8vh 1rem 0;
+    background: transparent;
+  }
+  .sm-overlay[hidden] { display: none; }
+  .sm-backdrop {
+    position: absolute; inset: 0;
+    background: rgba(0,0,0,0.4);
+    backdrop-filter: blur(4px);
+  }
+  .sm-panel {
+    position: relative;
+    width: min(640px, 100%);
+    background: var(--bg);
+    color: var(--ink);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.18);
+    overflow: hidden;
+  }
+  .sm-input-row {
+    display: flex; align-items: center; gap: 0.75rem;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .sm-input-row svg { color: var(--ink-faint, var(--ink-muted)); flex-shrink: 0; }
+  #sm-input {
+    flex: 1; border: 0; outline: 0; background: transparent;
+    font-size: 1.05rem; color: var(--ink);
+    font-family: inherit;
+  }
+  #sm-input::placeholder { color: var(--ink-faint, var(--ink-muted)); }
+  .sm-close {
+    border: 1px solid var(--rule);
+    background: transparent; color: var(--ink-muted);
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .sm-close:hover { color: var(--ink); border-color: var(--ink-muted); }
+  .sm-results {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  .sm-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .sm-row:last-child { border-bottom: 0; }
+  .sm-row.is-active { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+  .sm-row-title { font-weight: 600; font-size: 0.95rem; }
+  .sm-row-excerpt { font-size: 0.85rem; color: var(--ink-muted); }
+  .sm-row-excerpt mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: inherit; padding: 0 2px; border-radius: 3px; }
+  .sm-row-url { font-size: 0.72rem; color: var(--ink-faint, var(--ink-muted)); font-variant-numeric: tabular-nums; }
+  .sm-empty { padding: 1.2rem 1rem; color: var(--ink-muted); text-align: center; font-size: 0.9rem; }
+  .sm-hint {
+    padding: 0.55rem 1rem;
+    font-size: 0.72rem;
+    color: var(--ink-faint, var(--ink-muted));
+    border-top: 1px solid var(--rule);
+    text-align: center;
+  }
+  @media (max-width: 540px) {
+    .sm-overlay { padding-top: 4vh; }
+    .sm-input-row { padding: 0.7rem 0.85rem; }
+    #sm-input { font-size: 1rem; }
+    .sm-hint { display: none; }
+  }
+  @media print { .sm-overlay { display: none !important; } }
+</style>

@@ -49,7 +49,7 @@ Muscle contusions result from direct blunt trauma to the muscle, producing intra
 
 ## Compartment Syndrome After Muscle Injury
 
-Compartment syndrome can follow muscle injury, particularly in patients on anticoagulation, in those with severe contusion of a closed compartment (anterior thigh, posterior compartment of leg), and after eccentric loading injuries. The same principles of recognition and treatment apply as discussed for compartment syndrome in fracture care (Topic Trauma-32 for vascular injuries and compartment syndrome in detail).
+Compartment syndrome can follow muscle injury, particularly in patients on anticoagulation, in those with severe contusion of a closed compartment (anterior thigh, posterior compartment of leg), and after eccentric loading injuries. The same principles of recognition and treatment apply as discussed for compartment syndrome in fracture care ([Topic Trauma-32](/en/trauma/32/) for vascular injuries and compartment syndrome in detail).
 
 ## Achilles Tendon Rupture
 
@@ -112,7 +112,7 @@ Clinical assessment of suspected rotator cuff tear includes: Empty can test (Job
 
 Asymptomatic rotator cuff tears are common in the older population (incidence approximately 30 percent in patients over 60) and do not necessarily require treatment. Symptomatic partial thickness tears are typically treated with physical therapy, NSAIDs, and selective subacromial corticosteroid injection for 6 to 12 weeks before consideration of operative intervention. Symptomatic full thickness tears in patients with good muscle quality (Goutallier 0- 2) are candidates for arthroscopic repair. The technique uses suture anchors placed in the greater tuberosity bony footprint, with sutures passing through the tendon. Single-row versus double-row repair has been debated, with the double-row technique providing more anatomical footprint coverage but at greater complexity and cost; outcomes are broadly similar. Massive rotator cuff tears with reasonable muscle quality may be repairable with techniques including margin convergence (side-to-side suturing to reduce the tear size before footprint repair), superior capsule reconstruction (with fascia lata or allograft to reconstruct the cuff’s superior stabilizing effect on the humeral head), or tendon transfers (lower trapezius transfer for posterosuperior tears, latissimus dorsi for posterosuperior, pectoralis major for subscapularis tears).
 
-Massive irreparable tears with poor muscle quality (Goutallier 3-4), particularly with cuff tear arthropathy (advanced glenohumeral arthritis with proximal humeral migration), are typically managed with reverse total shoulder arthroplasty (Grammont design), which provides reliable restoration of elevation through deltoid leverage independent of the rotator cuff (see Topic Trauma-13 for the reverse arthroplasty discussion).
+Massive irreparable tears with poor muscle quality (Goutallier 3-4), particularly with cuff tear arthropathy (advanced glenohumeral arthritis with proximal humeral migration), are typically managed with reverse total shoulder arthroplasty (Grammont design), which provides reliable restoration of elevation through deltoid leverage independent of the rotator cuff (see [Topic Trauma-13](/en/trauma/13/) for the reverse arthroplasty discussion).
 
 ## Other Important Tendon Injuries
 

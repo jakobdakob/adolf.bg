@@ -4,6 +4,7 @@
 // redirections". Normal full-page loads instead.
 import { type Lang, ui } from "../i18n/ui";
 import Header from "../components/Header.astro";
+import SearchModal from "../components/SearchModal.astro";
 import { url } from "../lib/topics";
 import "../styles/global.css";
 
@@ -111,6 +112,7 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
     <main id="main">
       <slot />
     </main>
+    <SearchModal lang={lang} />
     <footer class="site-footer">
       <div class="site-footer-inner">
         <span>© 2026 · adolf.bg</span>

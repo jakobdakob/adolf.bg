@@ -135,7 +135,7 @@ The Bosworth fracture is a Weber B-pattern with the proximal fibular fragment tr
 
 ## Open Ankle Fractures
 
-Open ankle fractures (often Weber B or C with medial wound from displaced fragment) require the principles of open fracture management (Topic Trauma-5): urgent antibiotic administration, surgical debridement, anatomical reduction, and rigid fixation. The proximity of the joint to the skin in this region means that even small wounds may communicate with the joint and require careful management.
+Open ankle fractures (often Weber B or C with medial wound from displaced fragment) require the principles of open fracture management ([Topic Trauma-5](/en/trauma/5/)): urgent antibiotic administration, surgical debridement, anatomical reduction, and rigid fixation. The proximity of the joint to the skin in this region means that even small wounds may communicate with the joint and require careful management.
 
 
 ## Pediatric Ankle Fractures

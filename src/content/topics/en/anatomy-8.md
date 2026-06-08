@@ -110,7 +110,7 @@ Superior gluteal nerve injury with extended proximal dissection (limiting the ab
 
 ## Posterior (Southern, Kocher-Langenbeck modification, Moore) Approach
 
-The posterior approach is the workhorse for total hip arthroplasty in many centers and the standard for posterior pelvic and acetabular surgery (the Kocher-Langenbeck variant addressed in Topic Anatomy-7).
+The posterior approach is the workhorse for total hip arthroplasty in many centers and the standard for posterior pelvic and acetabular surgery (the Kocher-Langenbeck variant addressed in [Topic Anatomy-7](/en/anatomy/7/)).
 
 
 ## Indications

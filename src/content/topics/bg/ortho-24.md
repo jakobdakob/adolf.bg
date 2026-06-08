@@ -13,6 +13,16 @@ order: 24
 
 ## Ревматоиден артрит (РА)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/ra-hands.jpg" data-figure-alt="Ревматоиден артрит — деформирани ръце" aria-label="Увеличи">
+    <img src="/img/ortho-24/ra-hands.jpg" alt="Ревматоиден артрит — деформирани ръце" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ревматоиден артрит — типичните деформации на ръката: улнарна девиация, лебедова шия, бутониер, MCP-ставен оток.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Епидемиология и патогенеза
 

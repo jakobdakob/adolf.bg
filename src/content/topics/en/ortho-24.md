@@ -13,6 +13,16 @@ The arthropathies form a heterogeneous group of inflammatory and degenerative jo
 
 ## Rheumatoid Arthritis (RA)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-24/ra-hands.jpg" data-figure-alt="Rheumatoid arthritis — deformed hands" aria-label="Enlarge">
+    <img src="/img/ortho-24/ra-hands.jpg" alt="Rheumatoid arthritis — deformed hands" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Rheumatoid arthritis — characteristic hand deformities: ulnar deviation, swan-neck, boutonnière, and MCP-joint swelling.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Rheumatoid_Arthritis.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Pathogenesis
 

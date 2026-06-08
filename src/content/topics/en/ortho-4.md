@@ -13,6 +13,16 @@ Musculoskeletal infections constitute one of the great challenges of orthopedic 
 
 ## Acute Hematogenous Osteomyelitis
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-4/osteomyelitis.jpg" data-figure-alt="Osteomyelitis of a long bone" aria-label="Enlarge">
+    <img src="/img/ortho-4/osteomyelitis.jpg" alt="Osteomyelitis of a long bone" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteomyelitis of a long bone — lytic destruction with aggressive periosteal reaction and cortical erosion.</span>
+    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Osteomyelitis_(2).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Pathogenesis
 
@@ -41,6 +51,16 @@ The cornerstone of treatment is prompt antibiotic therapy guided by the most lik
 
 ## Subacute Osteomyelitis and Brodie’s Abscess
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-4/brodie-abscess.jpg" data-figure-alt="Brodie abscess of the tibia" aria-label="Enlarge">
+    <img src="/img/ortho-4/brodie-abscess.jpg" alt="Brodie abscess of the tibia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Brodie’s abscess — well-circumscribed lytic metaphyseal lesion with a surrounding sclerotic halo, representing localised subacute osteomyelitis.</span>
+    <span class="md-figure-attribution"> — Jto410, <a href="https://commons.wikimedia.org/wiki/File:BrodieAbscessRadiograph.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Subacute osteomyelitis represents an indolent, localized infection — most commonly with Staphylococcus aureus, although Kingella and other organisms are also implicated — in which the body’s immune response has partly contained the infection, producing a walled-off cavity rather than an aggressive spreading process. The Brodie’s abscess, described by Sir Benjamin Brodie in the nineteenth century, is the classical form: a circumscribed lytic lesion of the metaphysis of a long bone — typically the proximal or distal tibia in a child or adolescent — surrounded by a halo of sclerotic bone, with minimal systemic features and a long history of intermittent localized pain. Plain radiographs show the characteristic lytic lesion with sclerotic margin; MRI demonstrates a fluid-containing cavity with surrounding marrow edema and a “double-line” or “penumbra” sign that suggests infection rather than tumor. The differential diagnosis includes osteoid osteoma (smaller, more sclerotic, and with characteristic radial pain pattern), eosinophilic granuloma, and other lytic lesions of childhood. Treatment combines targeted antibiotic therapy and surgical debridement: the abscess is drained, cultured, and curetted; antibiotic therapy is continued for several weeks. Healing is usually uneventful, but recurrence has been described.
 
 ## Chronic Osteomyelitis and the Cierny-Mader Classification
@@ -65,6 +85,16 @@ method bone transport address segmental defects following debridement of diffuse
 Periprosthetic joint infection (PJI) is the most consequential complication of total joint arthroplasty and is dealt with extensively in the arthroplasty chapter; the principles relevant to general orthopedics are summarized here. The infection may be acute (within 4-6 weeks of surgery or hematogenous) or chronic (persistent infection of a mature implant). The Musculoskeletal Infection Society (MSIS) criteria — synovial fluid leukocyte count and neutrophil percentage, synovial fluid alpha-defensin, serum CRP and ESR, positive cultures, intraoperative purulence and histology — provide a validated diagnostic framework. The microbiological pattern reflects skin flora (coagulase-negative staphylococci, Staphylococcus aureus including MRSA, propionibacterium for shoulder arthroplasty) more than the hematogenous pattern of native osteomyelitis. Biofilm formation on the implant surface is the critical pathogenic feature: bacteria encased in extracellular polysaccharide become tolerant to antibiotics at concentrations many orders of magnitude above their planktonic MIC, which is why successful eradication of established infection typically requires implant removal. Treatment options include single-stage exchange, two-stage exchange (the standard of care in most centers for chronic infection), debridement, antibiotic therapy and implant retention (DAIR — appropriate for early postoperative or acute hematogenous infection with a well-fixed implant and a treatable organism), and chronic suppressive antibiotic therapy.
 
 ## Septic Arthritis
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-4/septic-arthritis-hip.jpg" data-figure-alt="Septic arthritis of the hip" aria-label="Enlarge">
+    <img src="/img/ortho-4/septic-arthritis-hip.jpg" alt="Septic arthritis of the hip" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Septic arthritis of the hip — widened joint space from effusion, joint erosion, and periarticular osteoporosis.</span>
+    <span class="md-figure-attribution"> — Ruiz Santiago et al., <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Acute Septic Arthritis in Children
@@ -93,6 +123,16 @@ Pseudomonas aeruginosa Pseudomonas is the classical organism of puncture wounds 
 Anaerobic osteomyelitis is uncommon but should be considered in chronic, foul-smelling, polymicrobial infections — particularly diabetic foot infections and infections of the pelvis after open pelvic trauma. Anaerobic culture techniques and prolonged incubation are required for diagnosis. Treatment combines surgical debridement with metronidazole or clindamycin in addition to the agents targeting any concurrent aerobic organisms.
 
 ## Tuberculosis of Bones and Joints
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-4/pott-disease.jpg" data-figure-alt="Pott’s disease — tuberculous spondylitis with gibbus deformity" aria-label="Enlarge">
+    <img src="/img/ortho-4/pott-disease.jpg" alt="Pott’s disease — tuberculous spondylitis with gibbus deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Pott’s disease — tuberculous spondylitis with the classic gibbus deformity (angular kyphosis) from destruction of vertebral bodies (historical clinical illustration).</span>
+    <span class="md-figure-attribution"> — Wellcome Collection, <a href="https://commons.wikimedia.org/wiki/File:Tuberculosis%3B_spine_of_boy_under_care_of_Mr_Pott_Wellcome_L0006118.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Epidemiology and Pathogenesis

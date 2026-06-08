@@ -85,7 +85,7 @@ Skin traction applies traction through adhesive strapping or specialized boots a
     <img src="/img/trauma-3/traction.jpg" alt="Skeletal traction" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Skeletal traction via a transosseous pin — standard pin sites: distal femur, proximal tibia, calcaneus; allows up to 10–15% of body weight to maintain reduction.</span>
+    <span class="md-figure-caption">Skeletal traction via a transosseous pin — standard pin sites: distal femur, proximal tibia, calcaneus; allows up to 10-15% of body weight to maintain reduction.</span>
     <span class="md-figure-attribution"> — Bob Galindo, <a href="https://commons.wikimedia.org/wiki/File:Traction_placement.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>

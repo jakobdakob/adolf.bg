@@ -27,7 +27,7 @@ Humerus е най-голямата дълга кост на горния кра�
 
 Мишницата има две основни мускулни отделения:
 
-Предното отделение съдържа musculus biceps brachii (с кратко сухожилие от processus coracoideus и дълго сухожилие от tuberculum supraglenoidale, захващащи се чрез aponeurosis bicipitalis за tuberositas radii), musculus coracobrachialis (от processus coracoideus до медиалния humerus) и musculus brachialis (от долния humerus до processus coronoideus ulnae). Отделението се инервира от nervus musculocutaneus (C5–C7) — пробиващ coracobrachialis на около 5–8 cm дистално от processus coracoideus, след което преминава между biceps и brachialis, за да излезе като nervus cutaneus antebrachii lateralis.
+Предното отделение съдържа musculus biceps brachii (с кратко сухожилие от processus coracoideus и дълго сухожилие от tuberculum supraglenoidale, захващащи се чрез aponeurosis bicipitalis за tuberositas radii), musculus coracobrachialis (от processus coracoideus до медиалния humerus) и musculus brachialis (от долния humerus до processus coronoideus ulnae). Отделението се инервира от nervus musculocutaneus (C5–C7) — пробиващ coracobrachialis на около 5-8 cm дистално от processus coracoideus, след което преминава между biceps и brachialis, за да излезе като nervus cutaneus antebrachii lateralis.
 
 Задното отделение съдържа musculus triceps brachii с три глави (дълга глава от tuberculum infraglenoidale, латерална глава от горния заден humerus, медиална глава от долния заден humerus). Triceps се захваща за olecranon ulnae. Отделението се инервира от nervus radialis (C5–T1), пресичащ спиралния жлеб на humerus от медиосупериорно към латероинферно, отдавайки клонове към triceps преди да стане повърхностен латерално и да премине напред през латералната интермускулна преграда.
 
@@ -52,7 +52,7 @@ Nervus radialis е основната неврологична структур�
 
 ## Nervus musculocutaneus
 
-Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус и пробива musculus coracobrachialis (обикновено 5–8 cm дистално от processus coracoideus). След това преминава между musculus biceps и musculus brachialis в предното отделение, инервирайки и двата мускула и coracobrachialis. Излиза от латералния ръб на biceps като nervus cutaneus antebrachii lateralis (сетивен) на ниво лакът.
+Nervus musculocutaneus се отделя от латералния сноп на брахиалния плексус и пробива musculus coracobrachialis (обикновено 5-8 cm дистално от processus coracoideus). След това преминава между musculus biceps и musculus brachialis в предното отделение, инервирайки и двата мускула и coracobrachialis. Излиза от латералния ръб на biceps като nervus cutaneus antebrachii lateralis (сетивен) на ниво лакът.
 
 ## Arteria brachialis и nervus medianus/ulnaris
 
@@ -109,7 +109,7 @@ Arteria brachialis слиза по медиалния бицепсов жлеб 
 
 ## Повърхностни ориентири и разрез
 
-Olecranon дистално и средната линия на задната мишница проксимално маркират линията на разреза. Кожният разрез се простира по средната линия на задната мишница от около 10–15 cm проксимално от olecranon до olecranon.
+Olecranon дистално и средната линия на задната мишница проксимално маркират линията на разреза. Кожният разрез се простира по средната линия на задната мишница от около 10-15 cm проксимално от olecranon до olecranon.
 
 ## Оперативна техника — разцепване на triceps
 

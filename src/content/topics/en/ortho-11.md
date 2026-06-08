@@ -49,7 +49,7 @@ The Pirani score, simpler and more widely used in Ponseti-method practice, score
     <img src="/img/ortho-11/clubfoot-brace.jpg" alt="Foot abduction brace" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Foot abduction brace (Denis Browne / Mitchell-Ponseti) — worn 23 hours/day for the first 3 months after correction, then at night for 4–5 years; non-compliance is the leading cause of recurrence.</span>
+    <span class="md-figure-caption">Foot abduction brace (Denis Browne / Mitchell-Ponseti) — worn 23 hours/day for the first 3 months after correction, then at night for 4-5 years; non-compliance is the leading cause of recurrence.</span>
     <span class="md-figure-attribution"> — Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>

@@ -35,7 +35,7 @@ The carpus consists of two rows of four bones each — the proximal row (scaphoi
     <img src="/img/trauma-18/scaphoid-occult.jpg" alt="Occult scaphoid fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Occult scaphoid waist fracture — barely visible on the initial X-ray; with clinical suspicion (snuffbox tenderness) — cast and repeat X-ray at 10–14 days or MRI.</span>
+    <span class="md-figure-caption">Occult scaphoid waist fracture — barely visible on the initial X-ray; with clinical suspicion (snuffbox tenderness) — cast and repeat X-ray at 10-14 days or MRI.</span>
     <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>

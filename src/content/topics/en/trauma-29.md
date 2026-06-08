@@ -85,7 +85,7 @@ Extra-articular calcaneal fractures (approximately 25 percent) include the anter
     <img src="/img/trauma-29/bohler-angle.jpg" alt="Böhler's angle" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Böhler's angle — measured between the tangent to the posterior facet tips and the tangent to the dorsal surface (normal 20–40°); reduced or reversed angle indicates depression of the posterior facet in calcaneal fracture.</span>
+    <span class="md-figure-caption">Böhler's angle — measured between the tangent to the posterior facet tips and the tangent to the dorsal surface (normal 20-40°); reduced or reversed angle indicates depression of the posterior facet in calcaneal fracture.</span>
     <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>

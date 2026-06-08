@@ -24,7 +24,7 @@ The transverse tibiofibular ligament. The medial collateral ligament (deltoid li
     <img src="/img/trauma-28/calcaneus.jpg" alt="Calcaneal fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Calcaneal fracture — typically from a fall from height; Böhler’s angle (normally 20–40°) is reduced in compression injuries.</span>
+    <span class="md-figure-caption">Calcaneal fracture — typically from a fall from height; Böhler’s angle (normally 20-40°) is reduced in compression injuries.</span>
     <span class="md-figure-attribution"> — Jojo, <a href="https://commons.wikimedia.org/wiki/File:Calcaneus_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -61,7 +61,7 @@ The Lauge-Hansen classification (1950) organizes ankle fractures by mechanism �
   <thead><tr><th>Pattern</th><th>Stages (in order)</th></tr></thead>
   <tbody>
     <tr><td>SA<br/><span style="font-weight:400">supination-adduction</span></td><td>1. Avulsion of the lateral malleolus or lateral ligament rupture (Weber A). 2. Vertical fracture of the medial malleolus.</td></tr>
-    <tr><td>SER<br/><span style="font-weight:400">supination-external rotation</span></td><td>The most common pattern (≈60–75%). 1. AITFL rupture. 2. Spiral fibular fracture (Weber B). 3. PITFL rupture or posterior malleolus fracture. 4. Medial malleolar transverse fracture or deltoid rupture.</td></tr>
+    <tr><td>SER<br/><span style="font-weight:400">supination-external rotation</span></td><td>The most common pattern (≈60-75%). 1. AITFL rupture. 2. Spiral fibular fracture (Weber B). 3. PITFL rupture or posterior malleolus fracture. 4. Medial malleolar transverse fracture or deltoid rupture.</td></tr>
     <tr><td>PA<br/><span style="font-weight:400">pronation-abduction</span></td><td>1. Medial malleolar transverse fracture or deltoid rupture. 2. AITFL rupture (often PITFL). 3. Short oblique fibular fracture at the syndesmosis level (Weber B).</td></tr>
     <tr><td>PER<br/><span style="font-weight:400">pronation-external rotation</span></td><td>1. Medial malleolar or deltoid disruption. 2. AITFL rupture. 3. High fibular fracture (Weber C; includes Maisonneuve). 4. PITFL rupture or posterior malleolus fracture.</td></tr>
   </tbody>

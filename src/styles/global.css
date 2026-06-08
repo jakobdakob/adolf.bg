@@ -196,8 +196,11 @@ a { color: inherit; text-decoration: none; }
    Figures (used by inline <figure class="md-figure"> in markdown)
    ───────────────────────────────────────────────────────────────────── */
 .md-figure {
-  margin: var(--s-6) 0;
+  margin: var(--s-6) auto;
   text-align: center;
+  /* Limit figure (image + caption) width to a comfortable reading column
+     so images don't blow up on very wide screens. */
+  max-width: 60ch;
 }
 .md-figure-zoom {
   display: flex;

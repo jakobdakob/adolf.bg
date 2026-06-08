@@ -42,6 +42,16 @@ recovery is poor and surgical repair is required for any chance of meaningful fu
 
 ## Clinical Implications of the Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/axonotmesis.svg" data-figure-alt="Axonotmesis — axonal disruption with intact endoneurium" aria-label="Enlarge">
+    <img src="/img/trauma-31/axonotmesis.svg" alt="Axonotmesis — axonal disruption with intact endoneurium" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Axonotmesis (Seddon II / Sunderland II) — axonal disruption with preserved endoneurial sheath; Wallerian degeneration occurs distally but regeneration follows the intact endoneurial tubes (~1 mm/day).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The classification is critical because it predicts recovery and guides treatment: Grades I-II (neurapraxia and axonotmesis with intact endoneurium) recover spontaneously without surgical intervention. Grade III recovery is intermediate, with some spontaneous recovery but typically incomplete; surgical exploration and selective repair may improve outcomes. Grades IV and V require surgical repair (anatomical end-to-end coaptation, or nerve graft for gaps that cannot be closed without tension) for any meaningful recovery. The clinical challenge is that at the time of acute injury, the grade is often unknown, and the distinction between recoverable axonotmesis (Grade II) and non-recoverable injury (Grade IV-V) cannot be made on examination alone. Time-based observation with periodic clinical and electrophysiological assessment over 3 to 6 months is often required to determine if recovery is occurring; failure of recovery prompts surgical exploration.
 
 ## Clinical Assessment of Nerve Injury

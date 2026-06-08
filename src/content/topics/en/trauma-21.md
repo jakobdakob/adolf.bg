@@ -68,6 +68,16 @@ The complications of internal fixation include nonunion (5 to 30 percent dependi
 
 ## Hemiarthroplasty
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-21/hemiarthroplasty.jpg" data-figure-alt="Hip hemiarthroplasty" aria-label="Enlarge">
+    <img src="/img/trauma-21/hemiarthroplasty.jpg" alt="Hip hemiarthroplasty" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Postoperative X-ray after bipolar hip hemiarthroplasty — the standard treatment for displaced femoral neck fractures (Garden III/IV) in the elderly.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Indications
 

@@ -59,6 +59,16 @@ order: 131
 
 ## Класификация на Seddon (1943)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-31/axonotmesis.svg" data-figure-alt="Аксонотмеза — увреждане на нервните аксони" aria-label="Увеличи">
+    <img src="/img/trauma-31/axonotmesis.svg" alt="Аксонотмеза — увреждане на нервните аксони" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Аксонотмеза по Seddon — увреждане на аксона при запазена ендоневрална обвивка; настъпва Wallerova дегенерация дистално, но регенерацията е възможна по непокътнатия ендоневрум.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Axonotmesis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класическата класификация на Seddon организира нервните увреждания в три степени според патофизиологичната тежест на увреждането:
 
 Неврапраксия (I степен): Най-лекото увреждане — локален блок на проводимостта без аксонална увреда. Нервното влакно е структурно интактно; проводимостта е нарушена от преходна демиелинизация на мястото на увреждането. Възстановяването е типично пълно

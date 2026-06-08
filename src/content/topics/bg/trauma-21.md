@@ -123,6 +123,16 @@ order: 121
 
 ## Хемиартропластика
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-21/hemiarthroplasty.jpg" data-figure-alt="Хемиартропластика на тазобедрената става" aria-label="Увеличи">
+    <img src="/img/trauma-21/hemiarthroplasty.jpg" alt="Хемиартропластика на тазобедрената става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Постоперативна рентгенография след биполярна хемиартропластика на тазобедрената става — стандартното лечение на изместени фрактури на шийката на бедрената кост при възрастни (Garden III/IV).</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hips_with_a_hemiarthroplasty.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Показания

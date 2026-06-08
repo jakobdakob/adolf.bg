@@ -43,7 +43,7 @@ Incisura ischiadica minor: Между spina ischiadica и tuber ischiadicum; п�
 
 Spina ischiadica: Костният израстък на границата между тялото и рамуса на os ischii.
 
-Tuber ischiadicum: „Седалищната кост" — долната натоварваща се част на os ischii. Начало на мускулите от групата на задната бедрена мускулатура (hamstrings).
+Tuber ischiadicum: „Седалищната кост“ — долната натоварваща се част на os ischii. Начало на мускулите от групата на задната бедрена мускулатура (hamstrings).
 
 Tuberculum pubicum: Костният израстък върху ramus superior ossis pubis, латерално от симфизата. Медиалният край на ligamentum inguinale се залавя тук.
 
@@ -83,7 +83,7 @@ Aa. iliacae communes се отделят от аортата приблизит�
 
 Вените вървят паралелно на артериите. Vv. iliacae communes се сливат, за да образуват vena cava inferior. Лявата vena iliaca communis е особено уязвима при предните достъпи поради медиалното си положение спрямо артерията.
 
-Corona mortis („корона на смъртта") е съдова анастомоза между arteria obturatoria (клон на arteria iliaca interna) и системата на arteria iliaca externa/arteria epigastrica inferior, преминаваща по ramus superior ossis pubis. Corona mortis се среща в 30–80% от хората и е изложена на значителен риск при илиоингвиналния и при предния интрапелвичен достъп; увреждането й причинява значимо кървене, което може да бъде трудно за овладяване, тъй като съдът се прибира в foramen obturatorium.
+Corona mortis („корона на смъртта“) е съдова анастомоза между arteria obturatoria (клон на arteria iliaca interna) и системата на arteria iliaca externa/arteria epigastrica inferior, преминаваща по ramus superior ossis pubis. Corona mortis се среща в 30–80% от хората и е изложена на значителен риск при илиоингвиналния и при предния интрапелвичен достъп; увреждането й причинява значимо кървене, което може да бъде трудно за овладяване, тъй като съдът се прибира в foramen obturatorium.
 
 ## Лумбосакрален плексус
 
@@ -131,7 +131,7 @@ Plexus lumbalis лежи в дебелината на musculus psoas и е ос�
 
 ## Достъп — трите прозореца
 
-Класическият достъп по Letournel използва три „прозореца" през коремната стена, като в процеса се преминава през canalis inguinalis:
+Класическият достъп по Letournel използва три „прозореца“ през коремната стена, като в процеса се преминава през canalis inguinalis:
 
 Страничен (първи) прозорец: Между SIAS и musculus iliopsoas. Nervus cutaneus femoris lateralis преминава в тази зона — той се идентифицира и предпазва. Musculus iliacus се отделя медиално от вътрешната кортикална повърхност на ilium, осигурявайки достъп до крилото на ilium, до fossa iliaca и до предната колона на ацетабулума.
 

@@ -90,7 +90,7 @@ PIN е застрашен при хирургичните достъпи до п
 
 Nervus medianus навлиза в предмишницата между двете глави на musculus pronator teres (където може да бъде компресиран при pronator syndrome), след което преминава дълбоко под арката на FDS, а след това — между FDS (повърхностно) и FDP (дълбоко) по средната линия на предмишницата. В областта на китката преминава дълбоко под retinaculum flexorum в карпалния тунел.
 
-Nervus interosseous anterior (AIN) се отделя от nervus medianus на около 5–8 cm дистално от mediale epicondylus и върви по волярната повърхност на membrana interossea, инервирайки FPL, радиалната половина на FDP (към показалеца и средния пръст) и musculus pronator quadratus. AIN е изцяло двигателен (без сетивен компонент); парезата на AIN се разпознава по невъзможността за изпълняване на знака „ОК" (загуба на FPL и FDP към показалеца).
+Nervus interosseous anterior (AIN) се отделя от nervus medianus на около 5–8 cm дистално от mediale epicondylus и върви по волярната повърхност на membrana interossea, инервирайки FPL, радиалната половина на FDP (към показалеца и средния пръст) и musculus pronator quadratus. AIN е изцяло двигателен (без сетивен компонент); парезата на AIN се разпознава по невъзможността за изпълняване на знака „ОК“ (загуба на FPL и FDP към показалеца).
 
 ## Nervus ulnaris
 

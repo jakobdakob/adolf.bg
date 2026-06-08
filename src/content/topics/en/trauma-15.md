@@ -56,6 +56,16 @@ Type III is unstable (associated with fracture-dislocation), requiring operative
 
 ## Operative Techniques for Olecranon Fracture
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-15/olecranon-tbw.jpg" data-figure-alt="Olecranon fracture pre- and postoperative X-rays" aria-label="Enlarge">
+    <img src="/img/trauma-15/olecranon-tbw.jpg" alt="Olecranon fracture pre- and postoperative X-rays" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Olecranon fracture — pre- and postoperative X-rays after tension-band wiring (Weber technique): two parallel K-wires and a figure-of-eight tension-band wire convert tensile forces into compression at the articular surface.</span>
+    <span class="md-figure-attribution"> — Michael Müller-Hillebrand, <a href="https://commons.wikimedia.org/wiki/File:Fracture_of_Olecranon_pre_and_post_typical_surgery.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Tension-band wiring (Weber technique) is the classical operative technique for transverse non-comminuted olecranon fractures. The principle, established by Pauwels and applied by Weber to the olecranon, is the conversion of tensile forces on the dorsal cortex of the olecranon (produced by triceps pull and elbow flexion) into compressive forces at the articular surface through a tension-band wire passed dorsal to the fracture and anchored distally. Two parallel K-wires are passed across the fracture from the olecranon tip into the anterior cortex of the ulna; a figure-of-eight tension-band wire is then passed through a transverse hole drilled distal to the fracture, around the K-wires, and tightened on each side. The construct creates a “dynamic compression” at the articular surface during elbow motion. Complications include hardware prominence (in 30 to 80 percent of patients, with frequent need for hardware removal), K-wire migration, and inadequate fixation in comminuted patterns. Plate fixation with a precontoured locking olecranon plate is preferred for comminuted olecranon fractures, fracture-dislocations, and proximal extensions that would compromise tension-band fixation. Modern plates are anatomically contoured to the proximal ulna with multiple locking screws into the proximal fragment. The complications include hardware prominence (similar to tension-band but generally less severe), and the plate is the standard of care in complex injuries. Intramedullary fixation with the more recent intramedullary olecranon nails has emerged as an option offering reduced hardware prominence; outcomes are reportedly comparable. Fragment excision and triceps advancement (Cabanela technique) is reserved for the very elderly patient with severely comminuted small proximal fragments that cannot be reconstructed; up to 50 percent of the olecranon can be excised with reasonable functional outcomes if the coronoid and articular trochlear notch are preserved.
 
 ## Radial Head and Radial Neck Fractures

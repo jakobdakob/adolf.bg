@@ -19,6 +19,16 @@ The neurovascular relationships of the forearm are complex. The radial artery an
 
 ## Both-Bone Forearm Shaft Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-16/both-bones.jpg" data-figure-alt="Both-bone forearm fracture" aria-label="Enlarge">
+    <img src="/img/trauma-16/both-bones.jpg" alt="Both-bone forearm fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Both-bone forearm fracture (AO/OTA 22) — simultaneous fracture of radius and ulna; adults require ORIF with dual-plate fixation to restore radial bow and forearm rotation.</span>
+    <span class="md-figure-attribution"> — Saraq, <a href="https://commons.wikimedia.org/wiki/File:Fracture_both_bones_of_the_left_arm.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The AO/OTA classification (region 22) structures both-bone forearm fractures by the morphology of each component bone. Type A is simple (A1 ulna only fractured with radius intact, A2 radius only fractured, A3 both bones simple); Type B is wedge fracture in one or both bones; Type C is complex multifragmentary fracture in one or both bones. The treatment of adult both-bone forearm shaft fractures is virtually always operative because of the requirement for anatomical restoration of length, rotation, and radial bow to preserve forearm rotation. The standard technique is open reduction and internal fixation with 3.5-mm dynamic compression plates (DCP) or locking compression plates (LCP) applied through separate Henry (volar) approach for the radius and a direct ulnar (subcutaneous) approach for the ulna. The plate length should provide at least six to eight cortical screws (three to four bicortical screws) on each side of each fracture. Anatomical reduction with compression is the goal for simple patterns; bridge plating with restoration of length, rotation, and alignment is the goal for comminuted patterns where direct anatomical reduction of each fragment is not feasible. The use of bone graft is largely reserved for comminuted patterns with bone loss or for non-union; primary bone grafting at the time of acute fracture fixation is now rarely performed. The Henry approach to the radius develops the interval between brachioradialis (radial nerve) and pronator teres / flexor carpi radialis (median nerve), exposing the volar aspect of the radius. Proximally, the supinator and pronator teres are released from the radius with attention to the posterior interosseous nerve; distally, the pronator quadratus is released. The volar approach has the advantages of muscular coverage of the plate, lower hardware prominence than dorsal plating, and excellent access to the entire length of the radius. The dorsal (Thompson) approach to the radius is reserved for selected indications — primarily proximal-third radial fractures where the volar approach risks the posterior interosseous nerve. The interval between extensor carpi radialis brevis (radial nerve) and extensor digitorum communis (PIN) is developed, with the supinator carefully reflected from the radius (with attention to the PIN within the supinator) to expose the proximal radius. The direct ulnar approach exposes the subcutaneous border of the ulna without development of a true intermuscular interval; the FCU is reflected ulnarly and the ECU radially.
 
 The reported outcomes of plate fixation of adult both-bone forearm fractures are generally excellent, with union rates above 95 percent and functional rotation outcomes correlated with restoration of the radial bow and the interosseous space.
@@ -33,6 +43,16 @@ Isolated Ulnar Shaft Fractures (“Nightstick” Fracture) The isolated ulnar sh
 True isolated radial shaft fractures are uncommon and must prompt the suspicion of an unrecognized Galeazzi injury (see below) with subtle DRUJ disruption. Definitive treatment of true isolated radial fractures follows the same plate fixation principles as both-bone forearm fractures, with restoration of radial length, rotation, and bow.
 
 ## The Monteggia Fracture-Dislocation
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-16/monteggia.jpg" data-figure-alt="Monteggia fracture-dislocation" aria-label="Enlarge">
+    <img src="/img/trauma-16/monteggia.jpg" alt="Monteggia fracture-dislocation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Monteggia injury — proximal ulnar fracture with anterior dislocation of the radial head (Bado type I); the radiocapitellar line should pass through the capitellum on every view.</span>
+    <span class="md-figure-attribution"> — Jane Wikipedian, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 The Monteggia injury — fracture of the ulna with dislocation of the radial head — was
 described by Giovanni Battista Monteggia of Milan in 1814. The pathophysiology is the

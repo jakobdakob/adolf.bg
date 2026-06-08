@@ -30,6 +30,16 @@ Clavicle fractures account for approximately 2 to 5 percent of all adult fractur
 
 ## Midshaft Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-11/clavicle-plate.jpg" data-figure-alt="Postoperative clavicle plate" aria-label="Enlarge">
+    <img src="/img/trauma-11/clavicle-plate.jpg" alt="Postoperative clavicle plate" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Postoperative X-ray after ORIF of a midshaft clavicle fracture with a precontoured plate — the preferred technique for displaced fractures in active patients.</span>
+    <span class="md-figure-attribution"> — James Heilman MD, <a href="https://commons.wikimedia.org/wiki/File:ClaviclePlatePostFrac.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 For decades, the orthodoxy was that virtually all midshaft clavicle fractures should be treated non-operatively in a sling or figure-of-eight bandage, with very few requiring operative fixation. This view rested on the often-quoted Neer 1960 and Rowe 1968 series reporting nonunion rates well under 1 percent in conservative treatment. The landmark Canadian Orthopaedic Trauma Society (COTS) trial (2007) challenged this position by demonstrating that completely displaced midshaft fractures (with no cortical contact at the fracture ends) had a 15 percent nonunion rate with non-operative treatment, compared to 2 percent with operative fixation, with corresponding improvements in functional outcome and time to return to work and sport. The subsequent literature has refined the picture: displacement greater than 100 percent (no cortical contact), comminution (Z-shaped fracture pattern), shortening greater than 1.5 to 2 cm, female sex, smoking, and old age have all been identified as risk factors for nonunion with non-operative management. The current consensus is that completely displaced or significantly shortened midshaft fractures in active patients are candidates for operative fixation; non-displaced or minimally displaced fractures are treated non-operatively. The standard operative technique is open reduction and internal fixation with a precontoured anatomic locking plate placed on the superior surface (mechanically advantageous but with greater hardware prominence) or anterior surface (slightly less mechanically optimal but with less hardware-related irritation). Intramedullary fixation (Hagie pin, titanium elastic nail, Knowles pin) has its proponents and offers smaller incisions and easier hardware removal but has higher rates of migration and is less robust in comminuted patterns.
 
 ## Lateral-End Fractures

@@ -53,6 +53,16 @@ N. radialis се уврежда приблизително в 8 до 16% от д
 
 ## Консервативно лечение — функционална ортеза на Sarmiento
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-14/humerus-callus.jpg" data-figure-alt="Калусно зарастване на хумерусна диафизна фрактура" aria-label="Увеличи">
+    <img src="/img/trauma-14/humerus-callus.jpg" alt="Калусно зарастване на хумерусна диафизна фрактура" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Раздробена диафизарна фрактура на хумеруса с обилен калус — типичен резултат при консервативно лечение с функционална ортеза на Sarmiento; високият биологичен потенциал на тази локализация обяснява високия процент зарастване (95+%) без операция.</span>
+    <span class="md-figure-attribution"> — Pulmonary Pathology (Flickr), <a href="https://commons.wikimedia.org/wiki/File:Communitive_midshaft_humeral_fracture_callus.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
+
 Функционалната ортеза за диафизарни фрактури на хумеруса, описана от Augusto Sarmiento от 1977 г. и непрекъснато усъвършенствана в следващите десетилетия, остава стандартното консервативно лечение на затворените диафизарни фрактури на хумеруса.
 
 ## Принципът е използването на циркулярна термопластична ортеза, прилагаща

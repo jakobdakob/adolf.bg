@@ -13,6 +13,16 @@ order: 17
 
 ## Болест на Blount (Tibia vara)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount.jpg" data-figure-alt="Болест на Blount — двустранна tibia vara" aria-label="Увеличи">
+    <img src="/img/ortho-17/blount.jpg" alt="Болест на Blount — двустранна tibia vara" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Болест на Blount — патологичен tibia vara от нарушение на медиалния отдел на проксималната тибиална епифиза; класическата клюнообразна медиална метафизарна деформация.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Дефиниция и епидемиология
 
@@ -84,6 +94,16 @@ order: 17
 Усложненията на болестта на Blount и нейното лечение включват: непълна корекция или рецидив на варуса (относително чест, особено при консервативно лечение на напреднало заболяване или при недостатъчна свръхкорекция при остеотомия); арест на растежа на проксималната тибиална физа; вътреставна деформация, водеща до ранна дегенеративна артроза на медиалния отдел на колянната става (основният дългосрочен проблем, при който ранната артроза при възрастни нерядко налага тотална артропластика на коляното до четвъртата или петата декада); разлика в дължината на крайниците от физеален арест; компартмент синдром след остеотомия (особено при остри корекции); и увреждане на перонеалния нерв (нервът е изложен на риск при проксималната тибиална остеотомия и трябва да бъде защитен, особено при фибуларна остеотомия, извършвана едновременно).
 
 ## Деформация на Madelung
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/madelung.jpg" data-figure-alt="Деформация на Madelung" aria-label="Увеличи">
+    <img src="/img/ortho-17/madelung.jpg" alt="Деформация на Madelung" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Деформация на Madelung — улно-палмарен дефект на растежа на дисталната радиална епифиза с радиална и улнарна девиация и „байонетна“ позиция на ръката.</span>
+    <span class="md-figure-attribution"> — Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Дефиниция и епидемиология

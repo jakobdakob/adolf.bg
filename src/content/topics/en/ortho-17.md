@@ -13,6 +13,16 @@ This chapter addresses two distinct but classically grouped focal developmental 
 
 ## Blount’s Disease (Tibia Vara)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/blount.jpg" data-figure-alt="Blount disease — bilateral tibia vara" aria-label="Enlarge">
+    <img src="/img/ortho-17/blount.jpg" alt="Blount disease — bilateral tibia vara" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Blount disease — pathological tibia vara from a growth disturbance of the medial proximal tibial epiphysis; the classical beaked medial metaphyseal deformity.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -49,6 +59,16 @@ Adolescent Blount’s disease: Treatment is principally surgical because bracing
 Complications of Blount’s disease and its treatment include: incomplete correction or recurrence of varus (relatively common, particularly with conservative treatment of advanced disease or with inadequate overcorrection at osteotomy); growth arrest of the proximal tibial physis; intra-articular deformity producing premature degenerative arthritis of the medial knee compartment (the principal long-term concern, with early adult arthritis often requiring total knee arthroplasty by the fourth or fifth decade); leg-length discrepancy from physeal arrest; compartment syndrome after osteotomy (particularly with acute corrections); and peroneal nerve injury (the nerve is at risk during proximal tibial osteotomy and should be protected, particularly with a fibular osteotomy that may be performed in conjunction).
 
 ## Madelung’s Deformity
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-17/madelung.jpg" data-figure-alt="Madelung deformity" aria-label="Enlarge">
+    <img src="/img/ortho-17/madelung.jpg" alt="Madelung deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Madelung deformity — ulno-palmar growth disturbance of the distal radial epiphysis with radial and ulnar deviation and a “bayonet” hand position.</span>
+    <span class="md-figure-attribution"> — Dr. Vijaya Chandar, <a href="https://commons.wikimedia.org/wiki/File:Madelung%27s_Deformity.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definition and Epidemiology

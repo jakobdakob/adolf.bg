@@ -23,6 +23,16 @@ The histopathology of Dupuytren’s disease passes through three stages describe
 
 ## Clinical Features
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-29/dupuytren.jpg" data-figure-alt="Dupuytren’s contracture" aria-label="Enlarge">
+    <img src="/img/ortho-29/dupuytren.jpg" alt="Dupuytren’s contracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Dupuytren’s contracture — nodular degeneration of the palmar aponeurosis producing progressive flexion of the MCP and PIP joints, most commonly of the ring and little fingers.</span>
+    <span class="md-figure-attribution"> — Frank C. Müller, <a href="https://commons.wikimedia.org/wiki/File:Morbus_dupuytren_1_(fcm).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The classical presentation is of a slowly developing nodule in the palm, typically at the level of the distal palmar crease and most commonly in the ring or little finger ray. The nodule is firm, mobile relative to deeper structures initially, and may be tender in early disease. Over months to years, the nodule extends distally as a palpable cord, and progressive flexion contracture develops at the MCP joint, then at the PIP joint. The DIP joint may develop hyperextension as a compensatory deformity. Patients typically present when the contracture interferes with function — inability to lay the hand flat on a table (the “tabletop test” of Hueston is the classical clinical sign — failure to place the entire palmar surface of the hand flat against a flat surface indicates a contracture requiring intervention), difficulty putting the hand in a pocket, difficulty washing the face. Pain is uncommon and severe pain should raise suspicion of an alternative diagnosis. Examination assesses: the location and size of palpable nodules and cords; the joints affected (MCP, PIP, DIP) and the degree of contracture at each joint (measured with a goniometer); the involvement of specific rays (the ring finger is most commonly affected, followed by the little, middle, index, and thumb); the involvement of the contralateral hand; the presence of Garrod’s pads (knuckle pads, characteristic of the Dupuytren diathesis); and the presence of associated ectopic disease. The classical clinical presentation has been classified into stages by various authors. Tubiana’s classification grades from Stage N (palpable nodule without contracture) through Stage 4 (greater than 135° total contracture).
 
 ## Treatment

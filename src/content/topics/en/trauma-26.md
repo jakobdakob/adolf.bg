@@ -62,6 +62,16 @@ The functional outcomes of knee dislocation are generally less than perfect, wit
 
 ## Chronic Knee Instability
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/meniscus-mri.jpg" data-figure-alt="Meniscal tear on MRI" aria-label="Enlarge">
+    <img src="/img/trauma-26/meniscus-mri.jpg" alt="Meniscal tear on MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Meniscal tear on MRI — linear high-signal line reaching the articular surface; a frequent associated injury in chronic ACL deficiency or acute rotational trauma.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+  </figcaption>
+</figure>
+
 The chronic knee instabilities represent a distinct topic with their own substantial literature. The principal entities relevant here are:
 
 ## Chronic ACL Deficiency

@@ -64,6 +64,16 @@ The natural history of adolescent idiopathic scoliosis is one of variable progre
 
 ## Treatment
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-14/scoliosis-xray.jpg" data-figure-alt="Pre-op scoliosis X-ray" aria-label="Enlarge">
+    <img src="/img/ortho-14/scoliosis-xray.jpg" alt="Pre-op scoliosis X-ray" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Adolescent idiopathic scoliosis, preoperative radiograph — severe right thoracic curve requiring posterior spinal fusion with instrumentation; curves &gt;45° generally require operative correction.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The treatment of adolescent idiopathic scoliosis follows a sliding scale based on curve
 magnitude, skeletal maturity, and progression risk.
 Observation: Curves under 20-25° in skeletally immature patients and curves under 50° at

@@ -131,6 +131,16 @@ The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF
 
 ## Anterior Retroperitoneal Approach
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/lumbar-mri.png" data-figure-alt="Lumbar spine MRI" aria-label="Enlarge">
+    <img src="/img/anatomy-1/lumbar-mri.png" alt="Lumbar spine MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sagittal T2 MRI of the lumbar spine — normal disc height and signal, physiological lordosis, spinal canal; the basis for planning an anterior retroperitoneal approach and assessing disc degeneration.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The standard approach to the L4-L5 and L5-S1 levels uses a transverse or oblique flank incision with retraction of the abdominal contents anteriorly and entry into the retroperitoneum without traversing the peritoneal cavity. The left-sided approach is preferred because the great vessels (aorta and inferior vena cava) bifurcate on the right of the spine, and approaching from the left allows the aorta to be retracted with less risk of venous injury (the aorta is more easily mobilized than the inferior vena cava).
 
 The structures encountered include: Skin and subcutaneous fat. External oblique, internal oblique, and transversus abdominis muscles — divided in line with their fibers or in the muscle-splitting plane. Transversalis fascia opened to enter the retroperitoneum. Peritoneum retracted anteromedially (the retroperitoneum is developed posterior to the peritoneal sac, preserving peritoneal integrity). Ureter identified and protected (running over the bifurcation of the iliac vessels in the typical position). Sympathetic chain identified along the lateral side of the vertebral bodies (injury produces a warm leg or altered ejaculation in males — retrograde ejaculation is a recognized complication). Common iliac vessels identified and retracted; the bifurcation typically lies at L4-L5, with the L5-S1 disc lying below the bifurcation. Anterior longitudinal ligament identified over the disc space and incised.

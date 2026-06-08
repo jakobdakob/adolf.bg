@@ -174,6 +174,16 @@ Ligamentum nuchae: Фиброзната преграда по средната �
 
 ## Преден ретроперитонеален достъп
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/lumbar-mri.png" data-figure-alt="Лумбален гръбначен стълб на MRI" aria-label="Увеличи">
+    <img src="/img/anatomy-1/lumbar-mri.png" alt="Лумбален гръбначен стълб на MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сагитална T2 MRI на лумбалния гръбначен стълб — нормална височина и сигнал на дисковете, физиологична лордоза, гръбначен канал; основа за планиране на преден ретроперитонеален достъп и оценка на дискова дегенерация.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Стандартният достъп до нивата L4–L5 и L5–S1 използва напречен или наклонен разрез в хълбочната област с ретракция на коремното съдържимо напред и влизане в ретроперитонеума без навлизане в перитонеалната кухина. Левостранният достъп е предпочитан, тъй като главните съдове (аорта и vena cava inferior) се разклоняват вдясно от гръбначния стълб, а подходът от ляво позволява ретракция на аортата с по-нисък риск от венозно нараняване (аортата е по-лесно мобилизируема от vena cava inferior).
 
 Структурите, с които се срещаме, включват:

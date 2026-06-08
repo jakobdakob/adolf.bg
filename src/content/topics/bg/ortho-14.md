@@ -70,6 +70,16 @@ order: 14
 
 ## Лечение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-14/scoliosis-xray.jpg" data-figure-alt="Сколиоза преди операция" aria-label="Увеличи">
+    <img src="/img/ortho-14/scoliosis-xray.jpg" alt="Сколиоза преди операция" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Адолесцентна идиопатична сколиоза, рентгенография преди операция — тежка дясна торакална крива, изискваща задна спинална фузия с инструментариум; кривите &gt;45° обикновено изискват оперативно лечение.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Wiki_pre-op.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Лечението на адолесцентната идиопатична сколиоза следва плъзгаща се скала, основана на величината на кривата, скелетната зрялост и риска от прогресия.
 
 Наблюдение: Криви под 20–25° при скелетно незрели пациенти и криви под 50° при скелетна зрялост се проследяват серийно с клинична и рентгенографска оценка на интервали от 4–12 месеца в зависимост от растежния статус.

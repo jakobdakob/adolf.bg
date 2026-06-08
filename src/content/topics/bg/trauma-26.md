@@ -132,6 +132,16 @@ KD-V: Луксация на коляното с периартикуларна �
 
 ## Хронична нестабилност на коляното
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-26/meniscus-mri.jpg" data-figure-alt="Разкъсване на менискус на MRI" aria-label="Увеличи">
+    <img src="/img/trauma-26/meniscus-mri.jpg" alt="Разкъсване на менискус на MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Разкъсване на менискуса на MRI — линейна хиперинтенсна сянка, достигаща ставната повърхност; често свързано увреждане при хронична ПКВ-дефицитарност или при остра ротационна травма.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:MRI_on_tear_of_meniscus.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+  </figcaption>
+</figure>
+
 Хроничните нестабилности на коляното представляват самостоятелна тема със собствена обширна литература. Основните клинични единици, релевантни тук, са:
 
 ## Хронична дефицитарност на ПКВ

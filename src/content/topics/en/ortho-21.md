@@ -40,6 +40,16 @@ The classical presentation is of insidious onset of groin pain, typically in mid
 
 ## Plain Radiographs
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/hip-dysplasia-oa.jpg" data-figure-alt="Secondary coxarthrosis with dysplasia" aria-label="Enlarge">
+    <img src="/img/ortho-21/hip-dysplasia-oa.jpg" alt="Secondary coxarthrosis with dysplasia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Secondary coxarthrosis on residual hip dysplasia — joint-space narrowing, osteophytes and subchondral sclerosis; the classic cause of early hip OA in a young adult.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The standard imaging assessment is bilateral AP pelvis and lateral views of the hip. The
 features of hip osteoarthritis follow the universal radiographic criteria of osteoarthritis
 with hip-specific manifestations:

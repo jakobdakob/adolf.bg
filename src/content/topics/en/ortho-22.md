@@ -50,6 +50,16 @@ Pharmacological treatment: Paracetamol for mild pain, NSAIDs (oral or topical) f
 
 ## High Tibial Osteotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-22/knee-oa-varus.jpg" data-figure-alt="Varus knee osteoarthritis" aria-label="Enlarge">
+    <img src="/img/ortho-22/knee-oa-varus.jpg" alt="Varus knee osteoarthritis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Varus knee osteoarthritis — narrowing of the medial joint space under load; the classical indication for high tibial osteotomy in the young active patient.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 High tibial osteotomy (HTO) is the classical joint-preserving operation for medial compartment knee osteoarthritis with varus deformity in the younger active patient. The principle is to realign the mechanical axis of the lower limb so that the load is transferred from the worn medial compartment to the relatively preserved lateral compartment, allowing the patient to continue with reasonable function for many years before requiring knee replacement. The classical patient for HTO is: young to middle-aged (typically 40-60 years); active and unwilling to accept the activity restrictions of knee arthroplasty; medial compartment OA with preserved lateral compartment and reasonably preserved patellofemoral compartment; varus alignment; good range of motion (typically full extension and flexion to at least 90°); and good ligamentous stability. Contraindications include: bicompartmental or tricompartmental disease; severe valgus deformity (relative contraindication for HTO, which produces medial-to-lateral transfer); inflammatory arthritis; obesity (relative contraindication — modest obesity is acceptable but severe obesity is associated with worse outcomes); flexion contracture or limited motion; and unrealistic expectations. The two principal techniques are: opening-wedge HTO (medial proximal tibial cut with gradual opening of the wedge, fixed with a plate) — favored in modern practice because of better control of correction, no fibular osteotomy needed (the fibula is “freed” by the opening), and no bone removal; and closing-wedge HTO (lateral proximal tibial closing wedge with removal of a triangular bone fragment) — the classical technique, with the
 
 advantage of immediate stability without need for bone graft but with the disadvantages of fibular osteotomy (with associated peroneal nerve risk) and shortening of the limb. The target alignment for HTO in medial compartment OA is typically slight valgus mechanical axis (3-5° valgus), which transfers load to the lateral compartment and “rests” the medial compartment. The procedure provides good symptom relief in 80-90% of well-selected patients at 5 years, dropping to 60-70% at 10 years, with progressive failure typically requiring conversion to TKA in the subsequent decade.

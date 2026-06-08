@@ -44,6 +44,16 @@ Anatomical reduction is critical and is assessed both clinically and radiographi
 
 ## Talar Body Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/talar-fracture.jpg" data-figure-alt="Talar fracture" aria-label="Enlarge">
+    <img src="/img/trauma-29/talar-fracture.jpg" alt="Talar fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Subtle anterior talar fracture — easily missed on the initial radiographs; CT is required when there is persistent pain and suspicion of occult talar injury.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Talar body fractures (involving the articular surface of the talar dome) are uncommon and are typically the result of severe axial loading. The fractures may be coronal, sagittal, or comminuted, with the principal concern being the articular involvement and the high rate of AVN. Treatment of displaced fractures is open reduction with cannulated screw fixation, with non-weight-bearing for prolonged periods.
 
 ## Osteochondral Lesions of the Talus

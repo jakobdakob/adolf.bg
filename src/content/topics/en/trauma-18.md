@@ -32,6 +32,16 @@ a small subset of patients (about 25 percent) having a single volar nutrient art
 
 ## Anatomy and Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/scaphoid-occult.jpg" data-figure-alt="Occult scaphoid fracture" aria-label="Enlarge">
+    <img src="/img/trauma-18/scaphoid-occult.jpg" alt="Occult scaphoid fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Occult scaphoid waist fracture — barely visible on the initial X-ray; with clinical suspicion (snuffbox tenderness) — cast and repeat X-ray at 10–14 days or MRI.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The classical Russe classification (1960) divides scaphoid fractures by the orientation of the fracture line: horizontal oblique, transverse, and vertical oblique. The vertical oblique pattern is the most unstable. The Herbert classification (1984) subdivides by displacement, location, and stability into types A (stable acute), B (unstable acute), C (delayed union), and D (nonunion), each with subtypes. The Mayo classification subdivides by location into distal pole (10 percent of fractures, generally heal well in cast), waist (70 percent, the most common, intermediate prognosis), and proximal pole (20 percent, high risk of AVN and nonunion).
 
 ## Clinical and Radiographic Diagnosis

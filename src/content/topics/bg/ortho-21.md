@@ -42,6 +42,16 @@ order: 21
 
 ## Нативни рентгенографии
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/hip-dysplasia-oa.jpg" data-figure-alt="Коксартроза при дисплазия" aria-label="Увеличи">
+    <img src="/img/ortho-21/hip-dysplasia-oa.jpg" alt="Коксартроза при дисплазия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Вторична коксартроза при остатъчна тазобедрена дисплазия — стеснение на ставната цепнатина, остеофити и субхондрална склероза; класическата причина за ранна коксартроза при млад възрастен.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Hip_dysplasia_with_arthritis_20060122.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Стандартната образна оценка е двустранна ПЗ рентгенография на таза и странична
 проекция на тазобедрената става. Характеристиките на тазобедрената остеоартроза
 следват универсалните рентгенографски критерии на остеоартрозата с тазобедрено-

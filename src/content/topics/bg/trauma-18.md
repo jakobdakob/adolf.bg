@@ -34,6 +34,16 @@ Lunatum е централната ключова кост на проксима�
 
 ## Анатомия и класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-18/scaphoid-occult.jpg" data-figure-alt="Окултна фрактура на scaphoid" aria-label="Увеличи">
+    <img src="/img/trauma-18/scaphoid-occult.jpg" alt="Окултна фрактура на scaphoid" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Окултна фрактура на талията на scaphoid — едва видима на първоначалната рентгенография; при клинична подозиция (болка в анатомичната табатиерка) — гипс и контрол след 10–14 дни или MRI.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_occult_scaphoid_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Класическата класификация на Russe (1960) разделя фрактурите на scaphoid по ориентацията на фрактурната линия: хоризонтално коса, трансверзална и вертикално коса. Вертикално косият модел е най-нестабилен. Класификацията на Herbert (1984) подразделя фрактурите по изместване, локализация и стабилност в типове A (стабилна остра), B (нестабилна остра), C (забавено срастване) и D (псевдоартроза), всеки с подтипове. Класификацията на Mayo подразделя по локализация на дистален полюс (10 процента от фрактурите, срастват добре в гипс), талия (70 процента, най-честата, средна прогноза) и проксимален полюс (20 процента, висок риск от АВН и псевдоартроза).
 
 ## Клинична и рентгенографска диагноза

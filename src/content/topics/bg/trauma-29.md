@@ -72,6 +72,16 @@ Talus е уникална кост — около 60% от нейната пов
 
 ## Фрактури на тялото на talus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/talar-fracture.jpg" data-figure-alt="Фрактура на talus" aria-label="Увеличи">
+    <img src="/img/trauma-29/talar-fracture.jpg" alt="Фрактура на talus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Субтилна предна фрактура на talus — лесно се пропуска на първоначалните рентгенографии; CT е необходим при персистираща болка и подозрение за окултна талусна травма.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Subtle_anterior_talar_fracture_-_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Фрактурите на тялото на talus (ангажиращи ставната повърхност на купола) са нечести и обикновено са резултат от тежко аксиално натоварване. Фрактурите могат да бъдат коронарни, сагитални или разтрошени, като основната грижа е ставният ангажимент и високата честота на аваскуларна некроза. Лечението на дислоцираните фрактури е открита репозиция с канюлирана винтова фиксация при продължителни периоди без натоварване.
 
 ## Остеохондрални лезии на talus

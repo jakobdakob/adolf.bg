@@ -9,6 +9,16 @@ order: 8
 
 ## Introduction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-8/perthes.jpg" data-figure-alt="Legg-Calvé-Perthes disease — right hip" aria-label="Enlarge">
+    <img src="/img/ortho-8/perthes.jpg" alt="Legg-Calvé-Perthes disease — right hip" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Legg-Calvé-Perthes disease — right femoral head with fragmentation and sclerosis, typical of the resorption and re-ossification phases.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Perthes_rechts_6W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Legg-Calvé-Perthes disease (LCPD) is an idiopathic avascular necrosis of the developing femoral head in the pediatric patient. First described independently by Arthur Legg in Boston, Jacques Calvé in France, and Georg Perthes in Germany in 1909-1910, the disease remains one of the most challenging entities in pediatric orthopedics: the etiology is incompletely understood, the natural history is highly variable, and the optimal treatment continues to be debated. The condition is characterized by an interruption of the blood supply to the femoral head, followed by a sequential process of necrosis, fragmentation, reossification, and remodeling that, depending on the extent of head involvement and the age at presentation, may produce a near-normal hip or a severely deformed and prematurely arthritic joint. This chapter synthesizes content from Tachdjian’s Pediatric Orthopaedics, Apley & Solomon’s, Miller’s Review, and Operative Hip Arthroscopy to cover the epidemiology, etiology, pathophysiology, stages of disease, clinical and radiographic features, classification systems, treatment principles, surgical procedures, and long-term outcomes of LCPD. The differential diagnosis with other childhood causes of femoral head osteonecrosis is also briefly addressed.
 
 ## Epidemiology and Risk Factors
@@ -24,6 +34,16 @@ The fundamental insult in LCPD is a vascular event that interrupts the blood sup
 The presentation is typically of a young child (4-8 years) with intermittent hip, groin, or referred knee pain, an antalgic gait, and a limp that worsens with activity. The pain may be exquisitely mild and easily attributed to growing pains or minor injury; many children present after weeks or months of symptoms when the limp becomes obvious to the family or a teacher. Examination reveals reduced hip abduction and internal rotation (the most consistent finding, with the contralateral hip serving as a normal control), a Trendelenburg gait pattern, mild hip joint tenderness, and a slight apparent shortening of the affected limb in some cases. The classical positions of the hip in LCPD are flexion, abduction, and external rotation when at rest. The differential diagnosis includes transient synovitis (which resolves within days, in contrast to weeks of symptoms in LCPD), septic arthritis (which presents acutely with systemic illness), juvenile inflammatory arthritis, leukemia and lymphoma, sickle cell disease (in appropriate populations), other causes of avascular necrosis (sickle cell, corticosteroid therapy, post-traumatic), and slipped capital femoral epiphysis (older children).
 
 ## Imaging
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-8/perthes-stages.png" data-figure-alt="Waldenström stages of Perthes disease" aria-label="Enlarge">
+    <img src="/img/ortho-8/perthes-stages.png" alt="Waldenström stages of Perthes disease" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Waldenström stages of Perthes disease — initial (avascular), fragmentation, re-ossification, and remodelling phases.</span>
+    <span class="md-figure-attribution"> — James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Plain radiographs (AP pelvis and frog-lateral views of both hips) are the standard initial imaging study and demonstrate the characteristic stages of disease. The earliest radiographic finding is a small ossific nucleus (compared with the unaffected side), followed by a thin crescent-shaped subchondral lucency representing subchondral fracture through the necrotic bone (the “Caffey sign” or “crescent sign,” best seen on frog-lateral views). As the disease progresses, the epiphysis becomes increasingly dense (the “white femoral head” of the avascular stage), then fragments with patchy lucencies (fragmentation stage), then progressively reossifies. The metaphysis may show changes — a small lateral metaphyseal cyst is a recognized sign — and the femoral neck may become wide and short (coxa magna and coxa breva) in the residual stage. MRI, particularly perfusion-weighted MRI with gadolinium, has become important for early diagnosis in the pre-radiographic stage and for assessment of the extent of femoral head involvement. The classical MRI signs are: marrow edema on T2-weighted images in the affected region; loss of normal enhancement on gadolinium-enhanced sequences corresponding to the avascular area; the “double-line” sign on T2-weighted images (a low-signal inner line of necrotic bone with a high-signal outer line of granulation tissue at the reactive interface); and the eventual appearance of the same morphological changes seen on plain radiographs as the disease progresses.
 

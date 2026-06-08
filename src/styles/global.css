@@ -371,14 +371,17 @@ html[data-theme="dark"] .btn-viber:hover {
   font-size: 1.0625rem;
   line-height: 1.72;
   color: var(--ink);
-  /* No reading-width cap — let the body span the available column width
-     so it adapts to screen size. The grid sidebars already keep things from
-     getting absurdly wide on huge displays. */
+  /* Cap line length on wide screens. Below lg+ the grid is the only constraint;
+     from lg+ we cap to ~72ch so sustained reading stays in the comfortable range
+     and the right scroll-spy TOC has room. */
   max-width: none;
   letter-spacing: -0.003em;
   overflow-wrap: break-word;
   hyphens: auto;
   -webkit-hyphens: auto;
+}
+@media (min-width: 1024px) {
+  .prose { max-width: 72ch; }
 }
 .prose h2,
 .prose h3 {
@@ -583,7 +586,7 @@ html[data-theme="dark"] .btn-viber:hover {
 .topic-toc {
   display: none;
 }
-@media (min-width: 1280px) {
+@media (min-width: 1180px) {
   .topic-toc {
     display: block;
     position: sticky;

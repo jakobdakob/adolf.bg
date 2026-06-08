@@ -44,6 +44,16 @@ Non-operative management of the pertrochanteric fracture is reserved for the non
 
 ## Operative Management — The General Principle
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-22/pertroch-ct.jpg" data-figure-alt="Pertrochanteric fracture on CT" aria-label="Enlarge">
+    <img src="/img/trauma-22/pertroch-ct.jpg" alt="Pertrochanteric fracture on CT" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">CT of a pertrochanteric fracture — detailed assessment of the medial calcar and posteromedial comminution, key to determining stability and selecting DHS versus intramedullary nail.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Operative management is indicated in virtually all medically appropriate patients. The principles of operative fixation are: anatomical or near-anatomical reduction (with restoration of the neck-shaft angle and rotation), stable internal fixation with implant choice based on fracture pattern, early mobilization with weight bearing as tolerated, and prompt surgery within 24 to 48 hours of presentation (with evidence supporting this from multiple studies, including the NICE guidelines).
 
 ## Sliding Hip Screw (Dynamic Hip Screw, DHS)

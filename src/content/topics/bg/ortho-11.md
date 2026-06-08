@@ -64,6 +64,16 @@ Calcaneus е ротиран медиално под talus (субталарна 
 
 ## Методът на Ponseti
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-11/clubfoot-brace.jpg" data-figure-alt="Брейс за абдукция на ходилото" aria-label="Увеличи">
+    <img src="/img/ortho-11/clubfoot-brace.jpg" alt="Брейс за абдукция на ходилото" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Foot abduction brace (Denis Browne / Mitchell-Ponseti) — носи се 23 часа дневно първите 3 месеца след корекцията, после нощно за 4–5 г.; пропускът да се носи е основна причина за рецидив.</span>
+    <span class="md-figure-attribution"> — Bassett, <a href="https://commons.wikimedia.org/wiki/File:Clubfoot_Foot_Abduction_Brace.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Принципи

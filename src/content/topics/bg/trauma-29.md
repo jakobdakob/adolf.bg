@@ -113,6 +113,16 @@ Calcaneus е най-голямата тарзална кост и поема о�
 
 ## Рентгенографска оценка
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/bohler-angle.jpg" data-figure-alt="Ъгъл на Böhler" aria-label="Увеличи">
+    <img src="/img/trauma-29/bohler-angle.jpg" alt="Ъгъл на Böhler" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ъгъл на Böhler — ъгълът между тангента на върховете на задната фасетка и тангента на дорзалната повърхност (нормално 20–40°); намален или обърнат ъгъл показва депресия на задната фасетка при калканеусна фрактура.</span>
+    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Получават се АП, профилна и аксиална (Harris) проекция на calcaneus. Ключовите рентгенографски измервания на профилната проекция:
 
 Ъгълът на Böhler е ъгълът между правата от най-високата точка на предния израстък до най-високата точка на задния фасет и правата от най-високата точка на задния фасет до най-високата точка на туберкулата. Нормалната стойност е 25–40°; намаляване на ъгъла на Böhler под 20° указва значима калканеална компресия (депресия на задния фасет).

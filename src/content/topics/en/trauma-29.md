@@ -70,6 +70,16 @@ Extra-articular calcaneal fractures (approximately 25 percent) include the anter
 
 ## Radiographic Assessment
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-29/bohler-angle.jpg" data-figure-alt="Böhler's angle" aria-label="Enlarge">
+    <img src="/img/trauma-29/bohler-angle.jpg" alt="Böhler's angle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Böhler's angle — measured between the tangent to the posterior facet tips and the tangent to the dorsal surface (normal 20–40°); reduced or reversed angle indicates depression of the posterior facet in calcaneal fracture.</span>
+    <span class="md-figure-attribution"> — Gilo1969, <a href="https://commons.wikimedia.org/wiki/File:Bohler%27s_angle.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The AP, lateral, and axial (Harris) views of the calcaneus are obtained. Key radiographic measurements on the lateral view: The Böhler’s angle is the angle between the line drawn from the highest point of the anterior process to the highest point of the posterior facet, and the line from the highest point of the posterior facet to the highest point of the tuberosity. The normal angle is 25 to 40 degrees; flattening of the Böhler angle below 20 degrees indicates significant calcaneal compression (depression of the posterior facet). The angle of Gissane (crucial angle) is the angle formed by the inferior aspect of the posterior facet and the dorsal cortical surface of the anterior process. The normal angle is 130 to 145 degrees; increased angle indicates depression of the posterior facet. CT is mandatory for any displaced calcaneal fracture being considered for operative intervention, providing detailed assessment of the posterior facet, the calcaneocuboid joint, and the lateral wall involvement.
 
 

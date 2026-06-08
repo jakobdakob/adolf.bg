@@ -58,6 +58,16 @@ order: 122
 
 ## Стабилност и класификациите на Boyd-Griffin и Evans
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-22/pertroch-ct.jpg" data-figure-alt="Пертрохантерна фрактура на CT" aria-label="Увеличи">
+    <img src="/img/trauma-22/pertroch-ct.jpg" alt="Пертрохантерна фрактура на CT" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">CT на пертрохантерна фрактура — детайлна оценка на медиалния калкар и задномедиалното раздробяване, ключови за определяне на стабилността и избор на DHS или интрамедуларно пироноване.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:CT_of_a_pertrochanteric_fracture.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Boyd-Griffin (1949) и класификацията на Evans (1949, модифицирана от Jensen, 1980) систематизират фрактурите според стабилност. Основният определящ фактор
 
 за стабилността е целостта на медиалния кортекс (медиалният опор, включително малкия трохантер) и наличието на разтрошеност. Стабилна е фрактурата с интактен или реконструируем медиален кортекс след репозиция; нестабилна — фрактурата с медиална разтрошеност, при която директен кортикален контакт след репозиция не е постижим и натоварването се предава преди всичко чрез импланта, а не чрез костен контакт.

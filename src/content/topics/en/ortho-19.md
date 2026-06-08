@@ -54,6 +54,16 @@ The classical presentation is of an obese adolescent with a limp and pain in the
 
 ## Imaging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-19/scfe-frog.jpg" data-figure-alt="SCFE on frog-leg view" aria-label="Enlarge">
+    <img src="/img/ortho-19/scfe-frog.jpg" alt="SCFE on frog-leg view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">SCFE on frog-leg lateral — posteromedial slip of the capital epiphysis relative to the metaphysis; the Klein line drawn along the superior femoral neck fails to intersect the epiphysis (positive sign).</span>
+    <span class="md-figure-attribution"> — Mikir, <a href="https://commons.wikimedia.org/wiki/File:SCFE_FROG_B%26W.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Plain radiographs are the standard initial imaging study, and the indispensable views are the AP pelvis and the frog-lateral (or true lateral) view of both hips. The AP pelvis alone is insufficient because the typical posterior slip of the epiphysis is best seen on the lateral view; many missed SCFEs reflect inadequate imaging rather than misinterpretation. The classical AP-pelvis findings are subtle in early SCFE: a widened, irregular, “fuzzy” appearance of the proximal femoral physis; the Klein line (a line drawn along the superior border of the femoral neck) failing to intersect the lateral aspect of the epiphysis (which it should normally cross); the “metaphyseal blanch sign” of Steel (a crescent-shaped area of increased density at the metaphyseal-physeal junction); and a relatively short or “atrophic” appearance of the femoral head as it slips posteriorly. The frog-lateral or true lateral view reveals the posterior slip of the epiphysis as a clear discontinuity between the femoral neck and the epiphysis, with the epiphysis tilted posteriorly. The Southwick angle (head-shaft angle, the angle between the long axis of the femoral neck and a line perpendicular to the line connecting the anterior and posterior
 
 aspects of the proximal femoral physis) is measured on this view and quantifies the severity of slip. MRI may be useful in two specific situations: early “pre-slip” SCFE, in which the physis shows widening and inflammatory changes but no obvious displacement on plain radiographs; and the unstable SCFE in which assessment of vascular compromise to the femoral head is required. CT may be used for surgical planning in severe deformity but is rarely required for initial diagnosis.

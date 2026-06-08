@@ -9,11 +9,21 @@ order: 105
 
 ## Въведение
 
-## Откритите фрактури, огнестрелните наранявания, контузионните увреждания и лечението
+Откритите фрактури, огнестрелните наранявания, контузионните увреждания и лечението
 
 на тежко увредените крайници представляват най-взискателните фрактурно-свързани състояния в ортопедичната практика. Принципите на лечение са се развили въз основа на обширен военен и цивилен травматичен опит и наблягат на ранната системна помощ, която адресира едновременно костното увреждане и — нерядко по-важните — мекотъканния и системния компонент. Настоящата тема синтезира съдържание от AO Principles of Fracture Management, Rockwood and Green's, Apley & Solomon's и Miller's Review.
 
 ## Открити фрактури
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-5/open-tibia.jpg" data-figure-alt="Открита фрактура на тибията" aria-label="Увеличи">
+    <img src="/img/trauma-5/open-tibia.jpg" alt="Открита фрактура на тибията" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Открита фрактура на диафизата на тибията — комуникация между фрактурата и външната среда; класифицира се по Gustilo-Anderson (I–IIIA/B/C).</span>
+    <span class="md-figure-attribution"> — Saltanat, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture_02.JPG" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Дефиниция и епидемиология

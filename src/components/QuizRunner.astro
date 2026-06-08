@@ -175,6 +175,9 @@ const t = ui[lang];
       btn.classList.add("is-locked");
       if (i === correct) {
         btn.classList.add("is-correct");
+      } else if (i === idx) {
+        // The user picked this one and it's wrong → red highlight.
+        btn.classList.add("is-wrong");
       } else {
         btn.classList.add("is-faded");
       }
@@ -315,6 +318,13 @@ const t = ui[lang];
     /* hairline tint to make the green pop without re-colouring text */
     background: color-mix(in srgb, var(--accent) 8%, transparent);
   }
+  .quiz-option.is-wrong {
+    /* User picked this option but it's wrong. */
+    --quiz-wrong: #D14848;
+    border-color: var(--quiz-wrong);
+    border-width: 2px;
+    background: color-mix(in srgb, var(--quiz-wrong) 8%, transparent);
+  }
   .quiz-option.is-faded {
     opacity: 0.35;
   }
@@ -368,4 +378,8 @@ const t = ui[lang];
     transition: border-color 160ms var(--ease, ease);
   }
   .btn-ghost:hover { border-color: var(--accent); }
+  /* The HTML5 `hidden` attribute is overridden by display:inline-block;
+     restore display:none so the empty back-link is invisible on the
+     mega-mix screen. */
+  .btn-ghost[hidden] { display: none; }
 </style>

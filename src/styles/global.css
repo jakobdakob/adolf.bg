@@ -207,6 +207,10 @@ a { color: inherit; text-decoration: none; }
               border-color 160ms var(--ease), transform 160ms var(--ease);
   white-space: nowrap;
 }
+/* The `display: inline-flex` above wins against the user-agent `[hidden]`
+   rule, so explicitly restore display:none for hidden buttons. */
+.btn[hidden],
+.btn-ghost[hidden] { display: none; }
 /* Outlined accent button — teal border + teal text, transparent bg.
    Hover lightly tints the background with the accent. */
 .btn-primary {

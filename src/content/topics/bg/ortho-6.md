@@ -13,6 +13,16 @@ order: 6
 
 ## Проксимален фокален бедрен дефицит (PFFD, вроден бедрен дефицит)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/pffd.jpg" data-figure-alt="Проксимален фокален бедрен дефицит" aria-label="Увеличи">
+    <img src="/img/ortho-6/pffd.jpg" alt="Проксимален фокален бедрен дефицит" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Проксимален фокален бедрен дефицит — клинична изява с поразително скъсяване на бедрото и флексия-абдукция-външна ротация на остатъчния крайник.</span>
+    <span class="md-figure-attribution"> — Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Дефиниция и епидемиология
 
@@ -65,6 +75,16 @@ order: 6
 
 ## Фибуларна хемимелия (постаксиален надлъжен дефицит на фибулата)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/fibular-hemimelia.jpg" data-figure-alt="Фибуларна хемимелия — десен крайник" aria-label="Увеличи">
+    <img src="/img/ortho-6/fibular-hemimelia.jpg" alt="Фибуларна хемимелия — десен крайник" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фибуларна хемимелия — частично или пълно отсъствие на фибулата с антеромедиална извивка на тибията, скъсяване и валгус на глезена/ходилото.</span>
+    <span class="md-figure-attribution"> — Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Дефиниция и епидемиология
 
@@ -100,6 +120,16 @@ order: 6
 Изявата при раждането показва характерния къс крайник с ходило във варус, отсъстващата или хипопластична тибия, палпируема като къс костен чукан или изобщо без тибия, фибула, изпъкнала латерално, и свързани аномалии на ръката в много случаи. Коляното функционира само когато проксималната тибия присъства (типове II и III по Jones); при заболяване тип I не съществува функционално коляно и реконструкцията трябва да адресира този дефицит. Терапевтичните решения следват типа по Jones. При заболяване тип I дезартикулацията на коляното с протеза е стандартното лечение, с разумни функционални резултати. При заболяване тип II и тип III може да се направи опит за фибуларна централизация (процедура на Brown, при която фибулата се централизира, за да функционира като тибия), но дългосрочните функционални резултати са разочароващи, тъй като централизираната фибула често не успява да понесе телесно тегло; често се предпочита подколянна ампутация с функционална глезенна протеза. При заболяване тип IV лечението е реконструкция на глезена с възстановяване на дисталното тибиофибуларно отношение и стабилизация на ходилото.
 
 ## Вродена псевдоартроза на тибията
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/pseudarthrosis-tibia.png" data-figure-alt="Вродена псевдоартроза на тибията" aria-label="Увеличи">
+    <img src="/img/ortho-6/pseudarthrosis-tibia.png" alt="Вродена псевдоартроза на тибията" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Вродена псевдоартроза на тибията — антеролатерална извивка с фрактура и неуспешно зарастване; типично свързана с неврофиброматоза тип 1.</span>
+    <span class="md-figure-attribution"> — Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Дефиниция, епидемиология и класификация

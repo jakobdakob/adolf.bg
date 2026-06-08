@@ -13,6 +13,16 @@ The congenital deficiencies of the lower limb constitute one of the most complex
 
 ## Proximal Focal Femoral Deficiency (PFFD, Congenital Femoral Deficiency)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/pffd.jpg" data-figure-alt="Proximal focal femoral deficiency" aria-label="Enlarge">
+    <img src="/img/ortho-6/pffd.jpg" alt="Proximal focal femoral deficiency" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Proximal focal femoral deficiency — striking thigh shortening with the residual limb in flexion, abduction, and external rotation.</span>
+    <span class="md-figure-attribution"> — Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Definition and Epidemiology
 
@@ -43,6 +53,16 @@ The fundamental treatment decision in PFFD rests on the predicted final limb-len
 Modern multidisciplinary management of PFFD produces good functional outcomes for most children. The Van Nes rotationplasty in particular has been the subject of long-term follow-up studies showing excellent functional outcomes, high participation in athletic and occupational activities, and reasonable cosmetic acceptance with appropriate prosthetic clothing. The lengthening protocols for Class A and B disease produce equivalent functional outcomes when successful, but at the cost of multiple operations, prolonged frame wear, and significant complication rates.
 
 ## Fibular Hemimelia (Postaxial Longitudinal Deficiency of the Fibula)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/fibular-hemimelia.jpg" data-figure-alt="Fibular hemimelia — right leg" aria-label="Enlarge">
+    <img src="/img/ortho-6/fibular-hemimelia.jpg" alt="Fibular hemimelia — right leg" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Fibular hemimelia — partial or complete absence of the fibula with anteromedial bowing of the tibia, limb shortening, and ankle/foot valgus.</span>
+    <span class="md-figure-attribution"> — Mosh, <a href="https://commons.wikimedia.org/wiki/File:Fibula_Hemimelia_on_right_leg_of_patient.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Definition and Epidemiology
@@ -78,6 +98,16 @@ Presentation at birth shows the characteristic short limb with the foot in varus
 with re-establishment of the distal tibiofibular relationship and foot stabilization is the treatment.
 
 ## Congenital Pseudarthrosis of the Tibia
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-6/pseudarthrosis-tibia.png" data-figure-alt="Congenital pseudarthrosis of the tibia" aria-label="Enlarge">
+    <img src="/img/ortho-6/pseudarthrosis-tibia.png" alt="Congenital pseudarthrosis of the tibia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Congenital pseudarthrosis of the tibia — anterolateral bowing with fracture and failure of union; typically associated with neurofibromatosis type 1.</span>
+    <span class="md-figure-attribution"> — Kinderradiologie Olgahospital, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Definition, Epidemiology, and Classification Congenital pseudarthrosis of the tibia (CPT) is a rare congenital condition characterized by anterolateral bowing of the tibia in infancy that progresses to spontaneous fracture, followed by failure of normal fracture healing — a true pseudarthrosis. The incidence is approximately 1 in 250,000 live births. Approximately half of cases are associated with neurofibromatosis type 1 (NF1), and CPT is one of the classical orthopedic manifestations of NF1; the remainder are sporadic or associated with fibrous dysplasia. The Crawford classification, the most widely used, divides CPT into four types based on the radiographic morphology of the affected tibia. Type I: Anterolateral bowing of the tibia with a thickened cortex and a normal or thickened medullary canal. The bowing has not yet progressed to fracture. Type II: Anterolateral bowing with a sclerotic, narrow, or absent medullary canal but no fracture. Type III: Anterolateral bowing with a cystic lesion of the tibial diaphysis. Type IV: Established pseudarthrosis with frank discontinuity of the tibia. The Boyd classification, an earlier scheme, uses descriptive categories from “constricted” (Type I) through “non-progressive” (Type V) and remains in occasional use.
 

@@ -28,10 +28,20 @@ Birth injuries to the musculoskeletal system encompass a range of conditions ari
 
 Obstetric brachial plexus palsy is a stretch or rupture injury to the brachial plexus during birth, with an incidence of approximately 1-3 per 1,000 live births. The principal risk factor is shoulder dystocia during vaginal delivery, in which the anterior shoulder becomes impacted behind the maternal pubic symphysis and traction on the head produces traction on the contralateral neck and plexus. Other risk factors include macrosomia (birth weight \>4 kg), prolonged second stage of labor, instrumental delivery (forceps, vacuum), maternal diabetes, breech presentation (typically producing a different injury pattern with the upper plexus), and previous OBPP in a sibling.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Shoulder dystocia in vaginal delivery is the principal mechanism of OBPP, with the anterior shoulder impacted behind the maternal pubic symphysis and traction on the head stretching the contralateral plexus. Macrosomia >4 kg, instrumental delivery, and maternal diabetes are the chief risk factors.</p>
+</aside>
+
 
 ## Classification by Level of Injury
 
 The brachial plexus arises from C5, C6, C7, C8, and T1 nerve roots. OBPP is classified by which roots are involved: Erb’s palsy (upper plexus, C5-C6, sometimes including C7): The commonest pattern, accounting for approximately 70% of OBPP. The classical clinical features include the affected arm held in adduction and internal rotation at the shoulder, extended at the elbow, pronated at the forearm, and with the wrist and fingers slightly flexed, the “waiter’s tip” position. Active shoulder abduction, external rotation, elbow flexion, and forearm supination are weak or absent. Hand and wrist function may be preserved if C7 is spared. Klumpke’s palsy (lower plexus, C8-T1): Rare in isolation (less than 1% of OBPP). The hand intrinsic muscles are weak, producing a claw-hand appearance, with sensory loss in the C8-T1 distribution. Horner’s syndrome (ipsilateral ptosis, miosis, anhidrosis) is associated and suggests a more severe pre-ganglionic injury at T1. Total plexus injury (C5-T1): The most severe pattern, with complete flaccid paralysis of the affected arm. Associated Horner’s syndrome and phrenic nerve injury (with hemidiaphragm paralysis) are markers of pre-ganglionic injury and worse prognosis.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Erb (C5-C6 ± C7) accounts for ~70% of OBPP and produces the 'waiter's tip' arm (adducted, internally rotated shoulder, extended elbow, pronated forearm). Klumpke (C8-T1) is rare in isolation, produces claw hand, and is flagged by Horner syndrome (ptosis, miosis, anhidrosis) pointing to a pre-ganglionic root avulsion.</p>
+</aside>
 
 
 ## Classification by Pathological Severity
@@ -52,6 +62,11 @@ the spinal cord, with no possibility of spontaneous recovery and limited surgica
 reconstruction options) and post-ganglionic injuries (injury distal to the dorsal root
 ganglion, with potential for spontaneous recovery and good results from surgical grafting).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Pre-ganglionic = root AVULSION from the cord (no spontaneous recovery possible, limited surgical options, pseudomeningoceles on MRI, Horner sign, phrenic palsy). Post-ganglionic = injury distal to the dorsal root ganglion (spontaneous recovery possible, good response to grafting). The distinction drives prognosis and strategy.</p>
+</aside>
+
 ## Clinical Features and Natural History
 
 Diagnosis is at birth or in the first days of life by observation of asymmetric arm movement, with the affected arm held in the characteristic position and showing reduced spontaneous movement. The Moro reflex on the affected side is asymmetric or absent. The differential diagnosis includes clavicle fracture (which may produce decreased arm movement from pain rather than nerve injury), proximal humeral fracture, and septic arthritis or osteomyelitis of the shoulder. The natural history of OBPP varies substantially with severity. Approximately 65-75% of cases recover spontaneously and completely within the first 6-12 months of life; the remainder have varying degrees of permanent deficit. The principal prognostic indicators are: extent of injury at presentation (with upper plexus injuries having better prognosis than lower or complete plexus injuries); presence of Horner’s syndrome (poor prognosis, suggesting pre-ganglionic injury); presence of phrenic nerve palsy (poor prognosis); rate of recovery (failure to recover biceps function by 3 months is a poor prognostic sign and is the classical indication for surgical exploration); and the specific neurological examination at 3-6 months.
@@ -64,6 +79,11 @@ Electrophysiological studies (EMG, nerve conduction) have a limited role in earl
 ## Treatment
 
 The initial management combines: parental education and reassurance about the favorable prognosis of most cases; physical therapy directed at maintaining shoulder, elbow, forearm, wrist, and finger range of motion to prevent contractures; close follow-up to monitor recovery; and serial assessment of motor function. The principal decision is whether and when to undertake surgical exploration and reconstruction. The historical practice was conservative observation for at least the first 6- 12 months, but more aggressive practice in recent decades has favored earlier intervention when recovery is incomplete. The current consensus is that absence of biceps function (with the elbow flexed against gravity) by 3-6 months of age is an indication for consideration of surgical exploration. Surgical options include: neurolysis of scarred nerves; nerve grafting (using the sural nerve or other donor nerves) for ruptures; nerve transfers (using accessory motor branches to power critical functions, for example, intercostal-to-musculocutaneous transfer for elbow flexion); and tendon transfers in older children for residual deformities. The Mallet score and other functional assessments quantify the function of the affected arm and are used to track outcomes over time. The principal long-term sequelae include: glenohumeral joint dysplasia (the affected shoulder may develop progressive bony deformity with internal rotation contracture, posterior subluxation of the humeral head, and acetabular-like remodeling of the glenoid); fixed internal rotation contracture of the shoulder (requiring tendon transfers, the L’Episcopo procedure, and humeral derotational osteotomy in selected cases); elbow flexion contracture and forearm pronation contracture; weakness of various muscles; and limited overall function compared with the unaffected arm.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>About 65-75% of OBPP cases recover fully within 6-12 months. The single most important decision-point is biceps function (elbow flexion against gravity) at 3-6 months; failure to recover by then is the classical indication for surgical exploration with neurolysis, nerve grafting, or nerve transfer.</p>
+</aside>
 
 ## Congenital Muscular Torticollis
 
@@ -82,6 +102,11 @@ The initial management combines: parental education and reassurance about the fa
 
 Congenital muscular torticollis (CMT) is a postural deformity of the head and neck arising from fibrosis and shortening of the sternocleidomastoid (SCM) muscle. The condition has an incidence of approximately 0.4-2% of live births and is the commonest cause of fixed head tilt in infancy. The etiology is not definitively established, with several theories proposed: intrauterine positional compression of the SCM; compartment syndrome of the SCM at birth; and a primary developmental disorder of the muscle. The condition is associated with intrauterine constraint, breech presentation, and difficult delivery, supporting at least some mechanical contribution. Associated conditions include developmental dysplasia of the hip (in 5-20% of cases, hip screening is mandatory in any infant with CMT), metatarsus adductus, plagiocephaly (skull deformity from prolonged positional preference), and facial asymmetry.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>DDH coexists with congenital muscular torticollis in 5-20% of cases. Hip screening (Ortolani/Barlow in newborns, ultrasound in those at risk) is MANDATORY in every infant with CMT, missing it is a recurrent malpractice claim.</p>
+</aside>
+
 ## Clinical Features
 
 Three principal presentations are recognized:
@@ -97,9 +122,19 @@ The differential diagnosis includes: congenital cervical spine abnormalities (Kl
 
 The principal treatment of CMT is passive stretching of the SCM, taught to parents and performed multiple times daily. The technique involves gently stretching the head into the directions of restricted motion — lateral flexion to the contralateral side and rotation to the ipsilateral side. With faithful performance, approximately 90-95% of cases resolve completely by 12-18 months of age. Physical therapy supervision improves outcomes and is recommended in moderate to severe cases. Helmet therapy may be added for associated plagiocephaly. Surgical management is reserved for cases that fail to respond to stretching by 12-18 months of age. The standard procedure is SCM tenotomy — release of the sternal head, the clavicular head, or both heads of the SCM at their distal insertions. The procedure can be performed open or endoscopically. Postoperative stretching and bracing prevent recurrence.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>CMT head posture: tilt TOWARD the affected SCM, chin rotated AWAY from it. Passive stretching, taught to parents and done multiple times daily, resolves 90-95% by 12-18 months. SCM tenotomy is reserved for failures after 12-18 months.</p>
+</aside>
+
 ## Perinatal Fractures
 
-Several fractures can occur during birth, particularly during difficult delivery. Clavicle fracture: The commonest perinatal fracture, with an incidence of approximately 0.4-3% of all births and substantially higher rates in macrosomic infants and difficult deliveries. Presentation is with decreased arm movement, palpable crepitus or step-off at the clavicle, and sometimes a palpable callus appearing within the first weeks. Most clavicle fractures heal rapidly with minimal treatment (a simple sleeve immobilization or pin to the shirt of the affected arm is sufficient). The differential diagnosis with OBPP is critical — clavicle fracture produces decreased arm movement from pain, with normal underlying nerve function returning as the fracture heals over 2-3 weeks. The diagnosis is by radiograph or by palpation of crepitus and callus. Humeral fracture: Less common than clavicle fracture. Mid-shaft or proximal humerus fractures can occur during difficult delivery, particularly with breech extraction. Healing is rapid; immobilization in a Velpeau dressing or similar is sufficient. Femoral fracture: Rare but well-described, particularly in breech delivery. The mid-shaft femur is the typical site. Treatment is by Pavlik harness immobilization (positioning the hip in flexion-abduction with the knee bent) or by traction-and-cast in selected cases. Healing is rapid in the neonate. Skull fracture: Most often a linear fracture from forceps delivery or pressure during the second stage of labor. Most heal without specific treatment. Depressed skull fractures are rarely true depression and more often represent the “ping-pong” plastic deformation typical of the soft infant skull. Spine fractures: Rare but described, particularly in difficult breech delivery with hyperextension of the cervical spine. These produce profound neurological injury and demand careful evaluation.
+Several fractures can occur during birth, particularly during difficult delivery. Clavicle fracture: The commonest perinatal fracture, with an incidence of approximately 0.4-3% of all births and substantially higher rates in macrosomic infants and difficult deliveries. Presentation is with decreased arm movement, palpable crepitus or step-off at the clavicle, and sometimes a palpable callus appearing within the first weeks. Most clavicle fractures heal rapidly with minimal treatment (a simple sleeve immobilization or pin to the shirt of the affected arm is sufficient). The differential diagnosis with OBPP is critical — clavicle fracture produces decreased arm movement from pain, with normal underlying nerve function returning as the fracture heals over 2-3 weeks. The diagnosis is by radiograph or by palpation of crepitus and callus.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Clavicle fracture and OBPP can look identical at the bedside: both produce a quiet arm. The clavicle fracture's reduced movement comes from PAIN with normal underlying nerve function, and resolves over 2-3 weeks as the fracture heals. Confirm with X-ray and palpation of crepitus/callus before committing to a brachial plexus diagnosis.</p>
+</aside> Humeral fracture: Less common than clavicle fracture. Mid-shaft or proximal humerus fractures can occur during difficult delivery, particularly with breech extraction. Healing is rapid; immobilization in a Velpeau dressing or similar is sufficient. Femoral fracture: Rare but well-described, particularly in breech delivery. The mid-shaft femur is the typical site. Treatment is by Pavlik harness immobilization (positioning the hip in flexion-abduction with the knee bent) or by traction-and-cast in selected cases. Healing is rapid in the neonate. Skull fracture: Most often a linear fracture from forceps delivery or pressure during the second stage of labor. Most heal without specific treatment. Depressed skull fractures are rarely true depression and more often represent the “ping-pong” plastic deformation typical of the soft infant skull. Spine fractures: Rare but described, particularly in difficult breech delivery with hyperextension of the cervical spine. These produce profound neurological injury and demand careful evaluation.
 
 ## Other Birth Injuries
 

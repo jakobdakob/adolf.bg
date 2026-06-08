@@ -32,6 +32,11 @@ The vertebral column develops from the paraxial mesoderm, which forms paired som
 
 Congenital scoliosis is scoliosis arising from anomalous vertebral development, in contrast to idiopathic scoliosis (in which the vertebrae form normally but become deformed by an unknown developmental process). The defects are classified into three categories: failures of formation, failures of segmentation, and mixed defects. Failures of formation: A wedge vertebra is a partially formed vertebra with only one ossification center developed, producing a hemivertebra. The hemivertebra is the commonest cause of congenital scoliosis and is classified by its relationship to adjacent vertebrae: a fully segmented hemivertebra has open disc spaces above and below and produces the greatest progressive deformity; a semi-segmented hemivertebra is fused above or below and produces less progression; an incarcerated hemivertebra is fused above and below within an otherwise intact vertebral column and produces minimal progression; a non-segmented hemivertebra (the “block hemivertebra”) rarely produces progressive deformity. Failures of segmentation: A block vertebra is the failure of separation of two adjacent vertebrae, with bilateral fusion of the disc and bony elements. An unilateral unsegmented bar is the failure of separation on one side of two or more adjacent vertebrae — and is the single most progressive anomaly because the unaffected side continues to grow while the affected side does not, producing rapid progressive scoliosis. Mixed defects: Combinations of failure of formation and failure of segmentation (particularly an unilateral unsegmented bar combined with a contralateral hemivertebra) produce the most rapidly progressive deformities and the greatest urgency for early surgical intervention.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>A unilateral unsegmented bar with a contralateral hemivertebra is the most progressive congenital scoliosis pattern, predicted progression 5-10° per year. The unaffected side keeps growing while the bar side cannot, so the curve worsens with every growth spurt. Recognize the pattern and operate before the deformity becomes structural.</p>
+</aside>
+
 ## Natural History
 
 The natural history depends on the specific anomaly. The risk of progressive scoliosis is greatest with unilateral unsegmented bars (especially combined with contralateral hemivertebrae, with predicted progression of 5-10° per year), moderate with isolated hemivertebrae (depending on segmentation status), and minimal with block vertebrae or unsegmented blocks. The progression is greatest during periods of rapid skeletal growth — infancy (0-3 years), juvenile years (4-9), and adolescent growth spurt (10-15). The mid-childhood years between rapid-growth periods are relatively quiescent.
@@ -39,6 +44,11 @@ The natural history depends on the specific anomaly. The risk of progressive sco
 ## Associated Anomalies
 
 Congenital scoliosis is associated with a substantial rate of additional anomalies that must be sought systematically: spinal cord anomalies (tethered cord, diastematomyelia, syringomyelia, intraspinal lipoma) in approximately 20-40%, renal anomalies in approximately 25-35% (because the kidney shares vertebral mesodermal origin), cardiac anomalies in approximately 10-15%, and other systemic anomalies including limb anomalies, anal atresia, and others. The acronym VACTERL (vertebral, anal, cardiac, tracheoesophageal, renal, limb) describes the most consequential of these associations. Every child with a congenital vertebral anomaly therefore requires investigation of all of these systems: total-spine MRI for the spinal cord, renal ultrasound for the kidneys, cardiac echocardiogram, and examination for limb and anorectal anomalies.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Congenital scoliosis carries intraspinal anomalies in 20-40% (tethered cord, diastematomyelia, syringomyelia), renal anomalies in 25-35% (shared mesodermal origin), and cardiac anomalies in 10-15%. Total-spine MRI, renal ultrasound, and echocardiogram are mandatory before any spinal surgery is planned.</p>
+</aside>
 
 ## Imaging
 
@@ -54,6 +64,11 @@ The treatment principles are: serial observation of deformities at low risk of p
 Congenital kyphosis is a sagittal-plane deformity produced by anomalous vertebral development. The classification, parallel to that of congenital scoliosis, recognizes failures of formation (anterior or anterolateral hemivertebrae producing anterior wedging) and failures of segmentation (anterior or anterolateral unsegmented bars producing anterior tethering). Type I (failure of formation) typically produces the most rapidly progressive deformity, particularly when the anterior vertebral body is absent. Progression is often >10° per year, and the high risk of paraplegia from progressive kyphosis with cord compression makes early surgical intervention essential.
 
 Type II (failure of segmentation) produces a slower, more predictable progression. Type III (mixed defects) varies according to the specific anomaly. Treatment principles emphasize early surgical correction of progressive Type I deformities, often with anterior plus posterior fusion to provide the necessary anterior support. The risks of paraplegia from progressive kyphosis are sufficient that surgical intervention is recommended even in the very young child with rapidly progressive disease.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Congenital kyphosis Type I (failure of formation) progresses >10° per year and threatens paraplegia from cord compression. Early anterior plus posterior fusion is recommended even in very young children, observation is not a safe strategy.</p>
+</aside>
 
 ## Klippel-Feil Syndrome
 
@@ -86,6 +101,11 @@ Klippel-Feil syndrome is strongly associated with multiple systemic anomalies th
 
 The cervical fusion itself is rarely symptomatic in childhood. The principal clinical concerns are: (1) progressive degenerative changes in the unfused segments adjacent to the fused segments, occurring decades earlier than in the normal cervical spine because of the increased motion demands; (2) C2-C3 fusion with adjacent occipito-C1 instability, which can produce catastrophic neurological injury after relatively minor trauma; (3) associated scoliosis requiring management; and (4) the management of associated systemic anomalies. The clinical implications for the orthopedic surgeon are: avoidance of high-impact activities that risk cervical injury (high-risk patients, particularly those with C2-C3 fusion combined with occipito-C1 abnormality, should be counseled to avoid contact sports and high-speed activities); careful preoperative airway assessment in patients requiring general anesthesia (intubation may be difficult or impossible without fiberoptic guidance because of the restricted cervical motion); imaging of the entire spine for associated congenital anomalies; and renal and cardiac evaluation. Surgical management is reserved for symptomatic adjacent-segment degeneration or instability and follows the principles of cervical spine surgery in general.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Klippel-Feil patients with C2-C3 fusion plus occipito-C1 abnormality can sustain catastrophic neurological injury after minor trauma and must be counseled away from contact and high-speed sports. General anesthesia requires fiberoptic intubation because the restricted cervical motion can make direct laryngoscopy impossible.</p>
+</aside>
+
 ## Sprengel Deformity
 
 Sprengel deformity, often associated with Klippel-Feil syndrome, is the congenital failure of normal descent of the scapula from the cervical region to its definitive thoracic position. The scapula is elevated, small, often rotated medially, and may be connected to the cervical vertebrae by a fibrous, cartilaginous, or osseous bar, the omovertebral bone. Presentation is with an elevated shoulder, neck asymmetry, and limited shoulder abduction. Imaging (particularly CT) defines the position of the scapula and the presence of an omovertebral bone. Treatment of severe symptomatic Sprengel deformity is surgical, with options including the Woodward procedure (release of the scapular medial-border muscles and downward translation of the scapula with reattachment of muscles), the Green procedure (similar with scapular morcellation), and the Mears procedure with resection of the superomedial corner of the scapula. The procedures should generally be performed before age 8 because of the high risk of brachial plexus injury with attempted late correction.
@@ -113,6 +133,11 @@ Thoracic outlet syndrome is the constellation of neurological, vascular, or comb
 
 Neurogenic TOS (the commonest, accounting for >90% of TOS cases) involves compression of the lower trunk of the brachial plexus (C8 and T1 fibers) against a cervical rib, an anomalous fibrous band, or the scalene muscles. Presentation is with pain and paresthesia in the medial aspect of the arm and the ulnar nerve distribution of the hand, weakness of the intrinsic hand muscles, and occasionally atrophy. The classical clinical sign is the wasting of the thenar eminence with preservation of the hypothenar musculature in advanced disease, a pattern reflecting predominant compression of the C8-T1 motor fibers. Diagnostic provocative maneuvers include the Roos test (the patient holds the arms in the “stick-up” position with elbows flexed for 3 minutes, with reproduction of symptoms indicating positive test) and the Adson maneuver (loss of radial pulse on inspiration with the head turned to the affected side); these tests have substantial false-positive rates in normal subjects. Nerve conduction studies, MRI, and CT angiography refine the diagnosis. Vascular TOS involves compression of the subclavian artery (arterial TOS, often producing a post-stenotic aneurysm with distal embolization) or vein (venous TOS, producing the Paget-Schroetter syndrome of effort-induced subclavian vein thrombosis in young athletic patients). Vascular TOS is uncommon but consequential. Treatment of TOS is initially conservative for the great majority of cases: physiotherapy directed at posture correction, scalene stretching and strengthening of the lower trapezius and serratus anterior, ergonomic modifications, and weight loss. Surgical decompression is reserved for refractory cases or for vascular TOS with established arterial or venous compromise. Surgical options include cervical rib resection (transaxillary approach is classical; supraclavicular approach gives better access to the brachial plexus), first rib resection, scalenectomy, and combinations of these. The outcomes are variable, with the best results in true neurogenic TOS with objective findings (motor weakness, EMG abnormalities); the patient with subjective sensory symptoms only often has disappointing surgical results.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Neurogenic TOS compresses the lower trunk (C8-T1), giving thenar wasting with a preserved hypothenar eminence, the opposite of ulnar neuropathy. Best surgical outcomes follow objective findings (motor weakness, EMG abnormalities); purely subjective sensory symptoms predict disappointing results.</p>
+</aside>
+
 ## Spina Bifida and the Dysraphic States
 
 <figure class="md-figure">
@@ -128,7 +153,12 @@ Neurogenic TOS (the commonest, accounting for >90% of TOS cases) involves compre
 
 ## Definitions and Classification
 
-The dysraphic states are a spectrum of congenital malformations of the spinal cord, vertebral column, and overlying tissues, resulting from failure of normal closure of the neural tube. The principal entities are: Spina bifida occulta: A bony defect in the posterior vertebral arch (typically L5 or S1) without external evidence of neurological involvement. Often asymptomatic and discovered incidentally on radiograph. May be associated with overlying skin findings (hair patch, dimple, hemangioma, lipoma) that signal underlying spinal cord tethering and warrant MRI investigation. Meningocele: A herniation of the meninges through the bony defect, containing cerebrospinal fluid but not neural elements. Typically presents with a sac protruding through the back; neurological function is usually preserved.
+The dysraphic states are a spectrum of congenital malformations of the spinal cord, vertebral column, and overlying tissues, resulting from failure of normal closure of the neural tube. The principal entities are: Spina bifida occulta: A bony defect in the posterior vertebral arch (typically L5 or S1) without external evidence of neurological involvement. Often asymptomatic and discovered incidentally on radiograph. May be associated with overlying skin findings (hair patch, dimple, hemangioma, lipoma) that signal underlying spinal cord tethering and warrant MRI investigation.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Midline dorsal cutaneous stigmata, hairy patch, dimple, hemangioma, or lipoma, over the lumbosacral spine are red flags for occult spinal dysraphism and tethered cord. They mandate MRI even when the child appears neurologically normal; deterioration from undiagnosed tethering is preventable.</p>
+</aside> Meningocele: A herniation of the meninges through the bony defect, containing cerebrospinal fluid but not neural elements. Typically presents with a sac protruding through the back; neurological function is usually preserved.
 
 Myelomeningocele: A herniation of the meninges and neural elements (spinal cord, nerve roots) through the bony defect, with severe neurological consequences. The neural placode lies open on the surface of the back in the newborn period. Tethered cord syndrome: Abnormally low position and fixation of the conus medullaris, often associated with a thickened or fatty filum terminale, intradural lipoma, dermal sinus tract, or split-cord malformation. The mechanical tension on the conus produces progressive neurological deterioration. Diastematomyelia (split-cord malformation): Splitting of the spinal cord into two hemicords, often divided by a bony or fibrocartilaginous bar. Myelocystocele, myeloschisis, and other rare variants complete the spectrum.
 
@@ -157,7 +187,12 @@ hydrocephalus and Arnold-Chiari II malformation — the latter being almost univ
 myelomeningocele and producing cerebellar tonsillar herniation; (6) tethered cord —
 symptomatic in many patients in late childhood and adolescence, requiring untethering
 surgery; (7) latex allergy — substantially elevated rate in patients with myelomeningocele,
-requiring latex-free environments in all medical and surgical care; (8) neurogenic bladder
+requiring latex-free environments in all medical and surgical care;
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Latex allergy is substantially over-represented in myelomeningocele patients and can cause intraoperative anaphylaxis. Every operative and anesthetic encounter must be latex-free from the start, never wait for a previous reaction to declare the allergy.</p>
+</aside> (8) neurogenic bladder
 and bowel, requiring lifelong management; (9) pressure sores — from insensate skin,
 particularly over bony prominences; (10) shortened life expectancy and complex medical
 comorbidity.

@@ -25,6 +25,11 @@ Congenital talipes equinovarus (CTEV) (clubfoot) is one of the commonest congeni
 
 The incidence of clubfoot varies with population: approximately 1.2 per 1,000 in white European-descended populations, 0.6 per 1,000 in East Asian populations, and as high as 6- 7 per 1,000 in Polynesian populations. The condition is twice as common in boys as girls. Bilateral involvement occurs in 50% of cases. A positive family history is present in approximately 25% of cases, supporting a genetic component, and twin studies show a substantially higher concordance in monozygotic than dizygotic twins. Despite this clear genetic contribution, no single major causative gene has been identified; the inheritance pattern is consistent with a multifactorial polygenic model with environmental contributions. Several environmental and obstetric factors are associated with increased risk: maternal cigarette smoking (particularly when combined with positive family history), oligohydramnios and intrauterine packing, amniocentesis, and intrauterine constraint. The associated conditions are important: clubfoot is a component of approximately 10-15% of cases of myelomeningocele, of arthrogryposis multiplex congenita (where it is characteristically severe and resistant to treatment), of distal arthrogryposis, of Larsen syndrome, of Streeter dysplasia (amniotic band syndrome), and of various chromosomal disorders. The systematic newborn examination of a child with clubfoot must include careful spinal examination, neurological examination, and assessment of all four limbs and the face for associated anomalies.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Clubfoot is a component of myelomeningocele, arthrogryposis multiplex congenita (severe and resistant), distal arthrogryposis, Larsen syndrome, Streeter dysplasia (amniotic band), and various chromosomal disorders. Every newborn clubfoot requires a spine, neurological, and four-limb plus face examination before being labelled idiopathic.</p>
+</aside>
+
 ## Pathological Anatomy
 
 The clubfoot deformity is fundamentally a deformity of the talocalcaneonavicular and talocalcaneal joints, with secondary changes in the ankle, midfoot, and forefoot.
@@ -59,6 +64,11 @@ The Pirani score, simpler and more widely used in Ponseti-method practice, score
 
 The Ponseti method, developed by Ignacio Ponseti at the University of Iowa in the 1940s- 1960s and globally popularized from the late 1990s, is based on serial casting that addresses the components of the clubfoot deformity in a specific sequence. The order of correction reflects the anatomical relationships of the deformity: cavus is corrected first by supinating the forefoot relative to the hindfoot; adductus, varus, and supination are then corrected simultaneously by abducting the forefoot under the talar head; and equinus is corrected last, by percutaneous Achilles tenotomy in approximately 90% of cases followed by serial casting in dorsiflexion. The fundamental insight of Ponseti was that the calcaneus rotates externally beneath the talus as the foot is abducted, simultaneously correcting heel varus and forefoot adductus — and that this rotation must be permitted by the technique, with the talar head serving as the fulcrum about which the rest of the foot rotates.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Order of Ponseti correction follows the anatomy: cavus first (forefoot supination), then adductus, varus and supination simultaneously by abducting the forefoot under the talar head, and equinus last by percutaneous Achilles tenotomy. The calcaneus rotates externally under the talus as the foot is abducted, correcting hindfoot varus and forefoot adductus together.</p>
+</aside>
+
 ## Technique
 
 Treatment is initiated as soon as possible after birth, ideally in the first week and certainly
@@ -88,6 +98,11 @@ technique involves:
     determinant of long-term success: discontinuation of the brace before age 4 produces recurrence rates of 80-100%, while consistent brace use through age 4 produces
     recurrence rates of 10-20%.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Brace compliance is the single most important determinant of long-term success after Ponseti correction. Discontinuation before age 4 produces 80-100% recurrence; consistent use through age 4 holds recurrence to 10-20%. The brace is worn 23 hours per day for 3 months, then nights and naps for 3-4 years.</p>
+</aside>
+
 ## Outcomes
 
 The Ponseti method, when applied correctly, produces excellent foot morphology and function in 95-98% of idiopathic clubfeet. Long-term follow-up by Ponseti’s own group, extending into the fifth and sixth decades of life, has shown sustained excellent results in the great majority of patients, with feet that look slightly smaller than normal but are functional, well-tolerated in normal shoe wear, and free of significant late deformity. The method is now the global standard of care for idiopathic clubfoot.
@@ -101,6 +116,11 @@ Despite the success of the Ponseti method, a minority of patients develop recurr
 
 The anterior tibialis tendon transfer to the lateral cuneiform (or third cuneiform) is the standard surgical procedure for the dynamic supination deformity that emerges after the age of 2-3 years. The procedure addresses the imbalance between the medially deviating anterior tibialis and the relatively weak lateral foot evertors by transferring the tendon laterally; the foot is held in a slight overcorrected position for several weeks postoperatively. The procedure is highly successful in the dynamic supination deformity, with long-term improvement in foot morphology and function. Caveat: the procedure should be deferred until the lateral cuneiform is ossified (typically age 3 years or older).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Anterior tibialis tendon transfer to the lateral (third) cuneiform is the standard procedure for dynamic supination deformity emerging after age 2-3. It must be deferred until the lateral cuneiform is ossified, typically at 3 years or older, otherwise there is no bony anchor for the transfer.</p>
+</aside>
+
 ## Recasting and Repeat Tenotomy
 
 Mild to moderate recurrence, particularly in the younger child, often responds to repeat Ponseti casting and, if needed, repeat Achilles tenotomy. The principles of the original Ponseti method apply, with careful sequential correction of the components.
@@ -108,6 +128,11 @@ Mild to moderate recurrence, particularly in the younger child, often responds t
 ## Posteromedial Release
 
 The traditional comprehensive posteromedial release surgery (PMR), the dominant treatment of clubfoot before the global adoption of the Ponseti method, involves extensive release of the posterior capsule of the ankle and subtalar joint, lengthening of the Achilles tendon and posterior tibial tendon, release of the spring ligament, and capsulotomies of the talonavicular and subtalar joints. The procedure achieves dramatic correction but at the cost of a stiff, painful foot with a high rate of late complications including overcorrection, secondary arthritis, and chronic stiffness. The procedure is now reserved for the severe rigid clubfoot that fails Ponseti management, with results substantially better when used as a salvage after Ponseti rather than as primary treatment.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Primary posteromedial release achieves dramatic intra-operative correction but leaves a stiff, painful foot with high rates of overcorrection, secondary arthritis and chronic stiffness. Reserve it as a salvage for Ponseti failure; results are substantially better when it follows Ponseti than when it replaces it.</p>
+</aside>
 
 
 ## Bony Procedures
@@ -136,6 +161,11 @@ A variety of less common conditions — distal arthrogryposis, Larsen syndrome, 
 ## Postural Equinovarus
 
 Postural equinovarus is a positional deformity of the newborn foot that resembles clubfoot but is fully passively correctable to a neutral position. The differentiation is by passive manipulation: postural deformities correct completely, while true clubfoot resists complete correction. Postural equinovarus typically resolves spontaneously over weeks with simple stretching and bandaging.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Postural equinovarus is fully passively correctable to neutral and resolves with stretching; true CTEV resists complete passive correction. Anchor the distinction on passive manipulation at the first examination, not on inspection alone, to avoid over-treating a benign positional deformity or under-treating a true clubfoot.</p>
+</aside>
 
 ## Skewfoot
 

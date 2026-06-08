@@ -18,9 +18,19 @@ The forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe d
 
 Hallux valgus is a complex three-dimensional deformity of the first ray characterized by lateral deviation (valgus) of the hallux at the first metatarsophalangeal joint and medial deviation (varus) of the first metatarsal — producing the characteristic medial prominence of the first metatarsal head (“bunion”) and the angulated great toe. Pronation of the hallux and abnormalities of the sesamoid complex are integral parts of the deformity. The prevalence rises markedly with age, affecting approximately 20-25% of adults aged 18-65 and 35% of those over 65. Women are affected approximately ten times more often than men, reflecting both intrinsic anatomical factors and the long-term effects of constrictive footwear.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hallux valgus is a three-dimensional deformity: lateral deviation of the hallux PLUS medial deviation (varus) of the first metatarsal PLUS pronation of the hallux PLUS lateral sesamoid migration. Treating only the medial bunion ignores the underlying first ray varus and sets up recurrence.</p>
+</aside>
+
 ## Etiology and Pathophysiology
 
 The etiology of hallux valgus is multifactorial. The principal contributing factors are: female sex; family history (the strongest single risk factor in many studies, suggesting substantial inherited predisposition); ligamentous laxity (general hypermobility or specific instability of the first tarsometatarsal joint); flatfoot with hindfoot valgus and forefoot abduction (the pronated foot mechanically predisposes to lateral force on the hallux); shoe wear (the long-term effects of high-heeled and pointed-toe shoes, although shoe wear cannot be the sole cause given the substantial prevalence in unshod populations); first ray-specific factors (metatarsus primus varus, a wide intermetatarsal angle between the first and second metatarsals, the round or convex shape of the first metatarsal head, and elevated intermetatarsal angle); and various neuromuscular and inflammatory conditions. The pathomechanics involve a self-perpetuating cycle: the initial medial deviation of the first metatarsal allows the proximal phalanx of the hallux to deviate laterally; the lateral pull of the adductor hallucis muscle (which inserts onto the lateral aspect of the proximal phalanx) becomes a deforming force; the medial collateral ligament of the MTP joint attenuates; the sesamoids migrate laterally relative to the metatarsal head, with the lateral sesamoid eroding into the intermetatarsal space; and the deformity progressively worsens.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Family history is the strongest single risk factor for hallux valgus, stronger than shoe wear (which cannot be the sole cause given the prevalence in unshod populations). The adductor hallucis becomes a deforming force once the metatarsal drifts medially, perpetuating the cycle.</p>
+</aside>
 
 ## Clinical Features
 
@@ -55,6 +65,11 @@ Several angles are measured and used in classification and surgical planning:
 (5) Sesamoid position: Quantified on the AP view by the position of the lateral border of
     the medial sesamoid relative to the central reference line of the first metatarsal.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hallux valgus angle cutoffs: normal <15°, mild 15-25°, moderate 25-40°, severe >40°. Intermetatarsal 1-2 angle: normal <9°, mild 9-13°, moderate 13-20°, severe >20°. Distal procedures handle mild deformities; proximal osteotomy or Lapidus addresses moderate-to-severe IMA.</p>
+</aside>
+
 ## Conservative Management
 
 Conservative management is appropriate for mild to moderate deformity without significant pain. Components include: footwear modification (wide toe box, soft uppers, low or no heel); orthotic devices (medial arch supports for associated flatfoot, lateral wedge or first-ray cutout for offloading); toe spacers and bunion pads to relieve pressure; analgesics; and weight loss when appropriate. Conservative measures do not correct the deformity but can produce satisfactory symptom relief in many patients.
@@ -63,11 +78,21 @@ Conservative management is appropriate for mild to moderate deformity without si
 
 The choice of surgical procedure depends on the magnitude of the deformity (mild, moderate, severe), the joint congruency, and the presence of associated arthritis. The standard procedures include: Mild deformity (HVA <25°, IMA <13°): Distal metatarsal osteotomy. The Chevron (Austin) osteotomy is the most commonly performed: a V-shaped osteotomy through the first metatarsal head with lateral displacement of the capital fragment, fixed with a single small screw or K-wire. The procedure is technically straightforward and has good outcomes for appropriate cases. Mitchell osteotomy (a step-cut osteotomy with lateral displacement) is an older alternative. Distal soft-tissue procedures (release of the lateral structures, adductor tendon, lateral capsule, and sometimes the deep transverse metatarsal ligament; medial capsular plication) are performed in combination. Moderate deformity (HVA 25-40°, IMA 13-20°): Proximal metatarsal osteotomy or first tarsometatarsal arthrodesis (Lapidus procedure). Proximal osteotomies include the crescentic, the proximal chevron, and the proximal opening-wedge osteotomies, with various fixation options. The Lapidus procedure is a fusion of the first tarsometatarsal joint with concurrent correction of metatarsus primus varus; it is the procedure of choice when first TMT instability is a major component of the deformity. Severe deformity (HVA >40°, IMA >20°): Lapidus procedure, proximal osteotomy combined with distal procedures (double osteotomy), or arthrodesis of the first MTP joint in cases with established arthritis. Hallux valgus with established arthritis: First MTP arthrodesis is the salvage procedure of choice, producing reliable pain relief and durable correction at the cost of loss of MTP motion. Arthrodesis is performed in approximately 15° of dorsiflexion relative to the floor and 10° of valgus. Hypermobility-associated hallux valgus: Lapidus procedure addresses the underlying first TMT instability. Congruent hallux valgus (elevated DMAA): Akin osteotomy of the proximal phalanx (a closing-wedge medial osteotomy) corrects the distal deformity without disrupting the congruent MTP joint. Often combined with a distal metatarsal procedure for the metatarsal component.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Hypermobility of the first TMT joint demands a Lapidus (first TMT arthrodesis), not a distal osteotomy: distal procedures cannot stabilize the proximal joint and recurrence is the rule. Congruent hallux valgus (elevated DMAA) is corrected by Akin osteotomy of the proximal phalanx, not by disrupting the congruent MTP joint.</p>
+</aside>
+
 ## Complications
 
 The principal complications of hallux valgus surgery include: recurrence (the commonest long-term concern, with rates of 5-15% depending on procedure and severity); hallux varus (over-correction, particularly with aggressive lateral release combined with proximal osteotomy); avascular necrosis of the first metatarsal head (rare, more common with combined distal procedures or with aggressive lateral release); transfer metatarsalgia
 
 (development of pain under the lesser metatarsal heads from continued offloading of the first ray, particularly after procedures that shorten the first metatarsal); nonunion (uncommon with modern fixation); infection; and stiffness of the first MTP joint.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Aggressive lateral release combined with proximal osteotomy is the classic recipe for hallux varus (over-correction) and for AVN of the first metatarsal head. Procedures that shorten the first metatarsal predictably produce transfer metatarsalgia.</p>
+</aside>
 
 ## Hallux Rigidus
 
@@ -86,6 +111,11 @@ The principal complications of hallux valgus surgery include: recurrence (the co
 
 Hallux rigidus is osteoarthritis of the first metatarsophalangeal joint, producing pain and progressive loss of motion (particularly dorsiflexion). The condition is the second commonest disorder of the first MTP joint after hallux valgus. The term “hallux limitus” refers to the early stages with limited rather than absent motion; “hallux rigidus” refers to advanced disease with severely restricted motion approaching ankylosis.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hallux rigidus pain is provoked by DORSIFLEXION-loading activities (push-off, uphill walking, rising from a chair) because the dorsal osteophyte impinges. Hattrup-Johnson grading drives treatment: Grades 1-2 (cheilectomy), Grade 3 (arthrodesis).</p>
+</aside>
+
 
 ## Etiology
 
@@ -100,6 +130,11 @@ The Hattrup-Johnson classification is the most widely used: Grade 0: No radiogra
 Conservative management includes footwear modification (stiff-soled shoes, rocker-bottom soles, increased toe-box volume to accommodate the dorsal osteophyte); orthotics (Morton extension to support the first MTP joint, stiff carbon-fiber inserts to limit motion); activity modification; analgesics; and intra-articular corticosteroid injection for inflammatory flares. Surgical management is graded to the severity:
 
 Grade 1-2 (early disease): Cheilectomy — resection of the dorsal osteophyte and the dorsal 20-30% of the first metatarsal head. The procedure removes the impingement at dorsiflexion and produces good results in early disease, with reported long-term success rates of 70-90%. Associated procedures (Moberg osteotomy, a closing-wedge dorsiflexion osteotomy of the proximal phalanx, which redirects available motion into dorsiflexion) may be combined for additional motion improvement. Grade 3 (advanced disease): Arthrodesis of the first MTP joint is the definitive treatment, producing reliable pain relief and durable function at the cost of loss of motion. The arthrodesis position is approximately 15° dorsiflexion, 10° valgus, neutral rotation. The procedure is the gold standard for advanced hallux rigidus with patient satisfaction rates of 90%+ in long-term follow-up. Joint replacement and interposition arthroplasty: Various joint replacement options (silicone implant, metal-polyethylene arthroplasty, ceramic resurfacing, hemiarthroplasty of the proximal phalanx, Cartiva synthetic cartilage implant in modern practice) preserve some motion but have less reliable long-term outcomes than arthrodesis. Interposition arthroplasty using soft tissue (joint capsule, tendon graft) is a salvage option. Joint replacement is generally reserved for selected patients with appropriate anatomy and realistic expectations.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>First MTP arthrodesis is the gold standard for advanced hallux rigidus (Hattrup-Johnson Grade 3) and for hallux valgus with established arthritis, with patient satisfaction above 90%. Fusion position: ~15° dorsiflexion relative to the floor, 10° valgus, neutral rotation.</p>
+</aside>
 
 ## Lesser Toe Deformities
 

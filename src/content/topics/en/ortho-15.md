@@ -28,6 +28,11 @@ Cerebral palsy (CP) is a non-progressive disorder of movement and posture arisin
 
 The causes of cerebral palsy vary by gestational age at the time of injury. Prematurity is the strongest single risk factor, with periventricular leukomalacia (white matter injury near the lateral ventricles) being the typical pathological substrate in very-low-birth-weight infants. Other causes include hypoxic-ischemic encephalopathy at term (cerebral palsy from acute intrapartum hypoxia accounts for approximately 10-20% of cases, less than was historically attributed), intracerebral hemorrhage, congenital brain malformations, intrauterine infections (TORCH organisms: toxoplasmosis, rubella, cytomegalovirus, herpes simplex, others), kernicterus, postnatal infection (meningitis, encephalitis), trauma, and the various rare genetic and metabolic causes. In a substantial fraction of cases, no clear cause can be identified, and the term “idiopathic CP” applies.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Prematurity is the single strongest risk factor for cerebral palsy, with periventricular leukomalacia as the typical substrate. Acute intrapartum hypoxia accounts for only 10-20% of cases, less than historical attribution suggested, an important counterweight in medicolegal discussions.</p>
+</aside>
+
 ## Classification by Motor Pattern
 
 Spastic CP (the commonest pattern) accounts for approximately 75% of cases. The clinical features include increased muscle tone, hyperreflexia, clonus, positive Babinski sign, and progressive contractures from continuous unopposed muscle pull on growing bones. The spastic pattern is further subdivided by distribution: spastic diplegia (predominant lower-limb involvement, the classical pattern of premature birth), spastic hemiplegia (one side of the body, often associated with focal lesions), spastic quadriplegia
@@ -37,6 +42,11 @@ Spastic CP (the commonest pattern) accounts for approximately 75% of cases. The 
 ## Gross Motor Function Classification System (GMFCS)
 
 The Gross Motor Function Classification System (GMFCS), introduced by Rosenbaum, Palisano, and others in the 1990s, has transformed pediatric orthopedic care for CP by providing a reproducible, prognostically useful classification of motor function. The five levels are: GMFCS Level I: Walks without limitations; can run, jump, navigate stairs, perform community ambulation without assistive devices. GMFCS Level II: Walks with limitations; can walk in most settings but with limitations on stairs, uneven surfaces, and long distances; may use a handrail for stairs. GMFCS Level III: Walks using a hand-held mobility device (cane, crutch, walker); uses wheeled mobility for long distances. GMFCS Level IV: Self-mobility with limitations; uses powered or pushed wheelchair for community mobility; may stand with support and take a few steps with assistance. GMFCS Level V: Transported in a manual wheelchair; no self-mobility; severe limitations in head and trunk control. The GMFCS level predicts the likely lifelong motor function (children at Level II at age 5 typically remain Level II throughout life) and informs treatment planning, particularly the decision-making for surgical intervention. Hip surveillance protocols, scoliosis surveillance, and the timing and type of orthopedic surgery are all guided by GMFCS level.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The GMFCS level set in childhood is the strongest single predictor of lifelong motor function, GMFCS II at age 5 typically remains GMFCS II for life. Hip surveillance frequency, scoliosis monitoring, and the entire surgical timeline follow from the GMFCS level.</p>
+</aside>
 
 ## Pathophysiology of Orthopedic Deformity in CP
 
@@ -83,12 +93,22 @@ Hip subluxation and dislocation are among the most consequential orthopedic comp
 
 Hip surveillance programs (systematic radiographic assessment of all children with CP) are now standard practice in many centers and have transformed the management of CP hip disease. The Australian Hip Surveillance program is one of the largest and best-documented, with clear protocols based on GMFCS level: children at GMFCS I require radiographic screening only if they show abnormal hip examination; GMFCS II require initial and intermittent screening; GMFCS III-V require radiographic assessment from age 2-3 years at intervals dictated by their level (every 6-12 months for GMFCS V). The Reimers migration percentage is the standard radiographic measurement: the percentage of the femoral head not covered by the acetabular roof, measured on the AP pelvis radiograph. A migration percentage of less than 33% is considered acceptable; 33- 50% indicates subluxation requiring monitoring and intervention; greater than 50% indicates significant subluxation requiring treatment; complete dislocation has migration percentage of 100%.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Reimers migration percentage drives CP hip surveillance: <33% acceptable, 33-50% subluxation needing monitoring or soft-tissue release, >50% needs reconstruction. GMFCS V carries a 70-90% lifetime hip dislocation risk and must be screened radiographically from 2-3 years onward, examination alone is inadequate.</p>
+</aside>
+
 
 ## Treatment of CP Hip Disease
 
 The principles of CP hip management are: prevention of dislocation (the dislocated hip is markedly more difficult to treat than the subluxing hip); muscle balance (adductor and iliopsoas tenotomy to release the pull of the spastic flexor-adductors); bony reconstruction (varus-derotation osteotomy of the proximal femur, pelvic osteotomy to deepen the acetabulum); and salvage procedures for the painful dislocated hip in the older non-ambulatory patient. Soft-tissue surgery alone (typically adductor tenotomy with or without iliopsoas tenotomy) is considered for early subluxation (migration percentage <40%) in the younger child. The procedure releases the spastic flexor-adductor pull and allows the hip to return to a more centered position, providing the bony anatomy permits.
 
 Bony reconstruction — varus-derotation femoral osteotomy combined with pelvic osteotomy (typically Dega or Pemberton for the bony defect of CP hip, both of which can correct posterior and lateral acetabular dysplasia) — is indicated for established subluxation (>40-50% migration) or for failed soft-tissue surgery. The combination of femoral and pelvic correction produces durable reduction in most cases, particularly when combined with adductor and iliopsoas releases. Salvage procedures for the painful dislocated hip in the non-ambulatory older patient include proximal femoral resection (Castle procedure) and valgus osteotomy with femoral head excision (Schanz, McHale procedures). Total hip arthroplasty has been performed in selected ambulatory patients with dislocation but is technically challenging and has higher complication rates than primary THA in non-CP patients.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The dislocated CP hip is markedly harder to manage than the subluxing hip, and salvage procedures (Castle, Schanz, McHale) trade away function for pain relief. Prevention through surveillance and timely soft-tissue or bony reconstruction is the only durable strategy.</p>
+</aside>
 
 ## Foot Deformities in CP
 
@@ -102,7 +122,12 @@ Bony reconstruction — varus-derotation femoral osteotomy combined with pelvic 
   </figcaption>
 </figure>
 
-The paralytic foot in CP varies with the underlying motor pattern. The principal deformities are: Equinus: Plantarflexed ankle from gastrocnemius-soleus spasticity or contracture. Treatment is initial conservative (stretching, ankle-foot orthosis), with botulinum toxin injection for spasticity, and surgical lengthening (gastrocnemius recession or formal Achilles tendon lengthening) for established contracture. The single most important principle is to avoid over-lengthening, which produces calcaneus gait and crouch — a calcaneus ankle is among the most disabling iatrogenic outcomes in CP orthopedics. Equinovarus: Plantarflexed and inverted foot, typically from spasticity of both the gastrocnemius-soleus and the tibialis posterior (or sometimes the tibialis anterior). The deformity is common in hemiplegic CP. Treatment combines lengthening of the contracted tendons (gastrocnemius recession, tibialis posterior or tibialis anterior lengthening or transfer) and bony correction in cases of established bony deformity. Equinoplanovalgus: Plantarflexed at the ankle but pronated at the subtalar joint, with hindfoot valgus and forefoot abduction. The deformity is common in diplegic CP. The combination produces a complex multi-axial problem requiring multi-component correction: Achilles or gastrocnemius lengthening for the equinus, peroneus brevis-to-longus tendon transfer or other muscle balancing for the valgus, calcaneal lengthening (Evans) or arthrodesis for the bony correction. Crouch foot: Calcaneus ankle from over-lengthened Achilles combined with knee flexion contracture, often progressing to bony deformity at the hindfoot. The deformity is among the most difficult to correct and emphasizes the importance of conservative initial intervention with the Achilles tendon.
+The paralytic foot in CP varies with the underlying motor pattern. The principal deformities are: Equinus: Plantarflexed ankle from gastrocnemius-soleus spasticity or contracture. Treatment is initial conservative (stretching, ankle-foot orthosis), with botulinum toxin injection for spasticity, and surgical lengthening (gastrocnemius recession or formal Achilles tendon lengthening) for established contracture. The single most important principle is to avoid over-lengthening, which produces calcaneus gait and crouch — a calcaneus ankle is among the most disabling iatrogenic outcomes in CP orthopedics.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Over-lengthening the Achilles tendon converts equinus into a calcaneus ankle and crouch gait, a far worse functional outcome than the original equinus. Prefer gastrocnemius recession to formal Achilles lengthening, and stop short of full passive dorsiflexion.</p>
+</aside> Equinovarus: Plantarflexed and inverted foot, typically from spasticity of both the gastrocnemius-soleus and the tibialis posterior (or sometimes the tibialis anterior). The deformity is common in hemiplegic CP. Treatment combines lengthening of the contracted tendons (gastrocnemius recession, tibialis posterior or tibialis anterior lengthening or transfer) and bony correction in cases of established bony deformity. Equinoplanovalgus: Plantarflexed at the ankle but pronated at the subtalar joint, with hindfoot valgus and forefoot abduction. The deformity is common in diplegic CP. The combination produces a complex multi-axial problem requiring multi-component correction: Achilles or gastrocnemius lengthening for the equinus, peroneus brevis-to-longus tendon transfer or other muscle balancing for the valgus, calcaneal lengthening (Evans) or arthrodesis for the bony correction. Crouch foot: Calcaneus ankle from over-lengthened Achilles combined with knee flexion contracture, often progressing to bony deformity at the hindfoot. The deformity is among the most difficult to correct and emphasizes the importance of conservative initial intervention with the Achilles tendon.
 
 ## Knee and Hip Deformities
 
@@ -134,6 +159,11 @@ Botulinum toxin type A, injected into spastic muscles, produces temporary chemod
 
 Selective dorsal rhizotomy (SDR) is a neurosurgical procedure in which a fraction of the dorsal sensory rootlets of the lumbosacral spinal cord are selectively transected, based on intraoperative electrophysiological identification of abnormal motor responses. The procedure reduces spasticity in the lower extremities permanently. The classical indication is the ambulatory diplegic patient (GMFCS II-III) aged 3-8 years with isolated lower-extremity spasticity and good underlying strength. The procedure is followed by intensive rehabilitation. The long-term outcomes in carefully selected patients are very good, with sustained reduction of spasticity and improved gait.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Selective dorsal rhizotomy is best in the ambulatory diplegic patient at GMFCS II-III, aged 3-8 years, with isolated lower-extremity spasticity and preserved underlying strength. The procedure permanently reduces tone; outside this profile (weak antagonists, dyskinetic component, GMFCS IV-V) results are disappointing.</p>
+</aside>
+
 ## Intrathecal Baclofen
 
 Intrathecal baclofen pump therapy delivers baclofen directly to the spinal cord via an implanted reservoir and catheter. The treatment is used for severe spasticity in non-ambulatory patients (GMFCS IV-V), reducing tone, facilitating positioning and care, and improving comfort. The pump requires refill every 1-3 months and replacement every 5-7 years; complications include catheter problems, infection, and pump dysfunction.
@@ -141,6 +171,11 @@ Intrathecal baclofen pump therapy delivers baclofen directly to the spinal cord 
 ## Single-Event Multilevel Surgery (SEMLS)
 
 Single-event multilevel surgery — the principle of addressing all the deformities of the lower extremity at a single operation rather than in serial operations — has become the standard for ambulatory CP children requiring orthopedic intervention. The procedure is typically planned in late childhood or early adolescence (age 7-12) after computerized gait analysis, and combines bony osteotomies (femoral derotational osteotomy for excessive anteversion, supramalleolar osteotomy for tibial torsion, calcaneal lengthening) with soft-tissue procedures (gastrocnemius lengthening, hamstring lengthening, psoas lengthening over the brim). The patient undergoes a single major operation followed by intensive rehabilitation over 6-12 months, with substantial gains in gait quality compared with serial operations performed over years (the “birthday-syndrome” of pre-SEMLS practice in which patients underwent annual operations through childhood and adolescence).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Single-event multilevel surgery (SEMLS) replaces the birthday-syndrome serial operations of the past. After computerized gait analysis at age 7-12, all bony and soft-tissue procedures are combined into one operation followed by intensive 6-12 month rehabilitation, gait quality is materially better than with annual piecemeal surgery.</p>
+</aside>
 
 ## Orthoses
 

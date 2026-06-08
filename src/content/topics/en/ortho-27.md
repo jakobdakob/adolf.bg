@@ -15,6 +15,11 @@ Peripheral nerve compression syndromes (entrapment neuropathies) are common cond
 
 The pathophysiology of nerve compression follows a stereotyped sequence. Initially, increased pressure on the nerve impairs venous outflow, producing intraneural edema and increased endoneurial fluid pressure. Continued compression compromises arterial inflow and produces nerve ischemia. With sustained compression, there is segmental demyelination at the compression site, followed by axonal injury (Wallerian degeneration) of progressively more axons. The earliest physiological consequence is reduced conduction velocity across the compression site; later, conduction block and reduction in compound muscle action potential amplitude develop. Initially the changes are reversible with relief of compression; with prolonged compression, the axonal damage produces irreversible deficits. The clinical presentation reflects this sequence: the earliest symptoms are intermittent paresthesias and dysesthesias in the nerve distribution, often nocturnal or activity-related; progressively, the symptoms become continuous, with persistent numbness and motor weakness; in established disease, atrophy of the innervated muscles develops. The investigation of suspected nerve compression includes: focused clinical examination of the nerve’s sensory and motor distribution; provocative tests (Tinel, Phalen, and various nerve-specific maneuvers); assessment for muscle wasting; assessment of the differential diagnosis (cervical or lumbar radiculopathy, more proximal nerve injury, neurological disease, systemic causes of polyneuropathy); and selective use of electrodiagnostic studies (nerve conduction studies and EMG, with the principal diagnostic features being slowed conduction velocity and prolonged latency at the compression site, with denervation potentials in the innervated muscles in advanced disease). Imaging (ultrasound, MRI) is increasingly used in selected cases.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The compression pathophysiology runs predictably: venous congestion → intraneural edema → ischemia → segmental demyelination → axonal loss. Early disease (paresthesias, intermittent) is fully reversible; established axonal damage with muscle atrophy is not, which is why timing surgery to symptoms matters.</p>
+</aside>
+
 ## Carpal Tunnel Syndrome
 
 <figure class="md-figure">
@@ -41,9 +46,19 @@ The pathophysiology of nerve compression follows a stereotyped sequence. Initial
 
 Carpal tunnel syndrome (CTS) is compression of the median nerve at the wrist beneath the transverse carpal ligament (flexor retinaculum). The condition is the commonest peripheral nerve compression syndrome, with a lifetime prevalence of approximately 10%. The carpal tunnel contains nine flexor tendons (four FDP, four FDS, one FPL) plus the median nerve, with the transverse carpal ligament forming the volar boundary and the carpal bones forming the dorsal and lateral boundaries. The volume of the tunnel is fixed; any increase in tendon volume (tenosynovitis) or in fluid content (fluid retention) raises the pressure on the median nerve. Risk factors include female sex (3:1 ratio), age 40-60 years, pregnancy and lactation, diabetes mellitus, rheumatoid arthritis, thyroid disease, obesity, occupational repetitive hand use (controversial as an isolated risk factor), and various uncommon causes including amyloidosis (particularly in dialysis patients) and acromegaly.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Carpal tunnel contents: 9 flexor tendons (4 FDP, 4 FDS, 1 FPL) plus the median nerve in a tunnel of FIXED volume. Anything that swells the contents (tenosynovitis, fluid retention in pregnancy, amyloid in dialysis patients) raises pressure. Women predominate 3:1.</p>
+</aside>
+
 ## Clinical Features
 
 The classical presentation is of intermittent paresthesia, numbness, and pain in the median nerve distribution of the hand (the palmar aspect of the thumb, index, middle, and radial half of the ring finger), typically worst at night and waking the patient from sleep. The patient often describes a need to shake the hand to relieve the symptoms (“flick sign”). Activities that maintain the wrist in flexion or extension (reading a book, driving, using a phone) provoke symptoms. As the condition progresses, the symptoms become more constant, with persistent numbness and reduced sensation. In advanced disease, motor symptoms develop with weakness of thumb abduction and opposition (the thenar muscles supplied by the recurrent motor branch) and visible thenar atrophy. Examination findings include: positive Tinel sign at the volar wrist (percussion over the median nerve producing distal paresthesia in the nerve distribution); positive Phalen test (sustained wrist flexion for 60 seconds producing distal paresthesia); positive carpal compression test (sustained pressure over the volar wrist producing paresthesia); reduced two-point discrimination in the median nerve distribution (a later finding); thenar atrophy and reduced abductor pollicis brevis strength (advanced disease).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Thenar atrophy in CTS signals established axonal damage and an unreliable response to surgery, decompress BEFORE atrophy develops. Nocturnal paresthesias relieved by shaking the hand (the 'flick sign') are an early and highly suggestive feature.</p>
+</aside>
 
 ## Investigations
 
@@ -68,13 +83,28 @@ Initial management is conservative: night-time wrist splinting in neutral positi
 
 Cubital tunnel syndrome is compression of the ulnar nerve at the elbow, specifically beneath the cubital tunnel retinaculum (the arcuate ligament of Osborne) connecting the medial epicondyle to the olecranon. The ulnar nerve passes through the cubital tunnel and is uniquely vulnerable to compression because of its superficial position behind the medial epicondyle and its passage through a narrow fibrous tunnel. Clinical features include numbness and paresthesia in the ulnar nerve distribution (the dorsal and palmar aspects of the little finger and the ulnar half of the ring finger), worse with elbow flexion (which stretches and compresses the ulnar nerve); medial elbow pain; and, in advanced disease, weakness of the ulnar-innervated intrinsic hand muscles with characteristic “claw hand” deformity (hyperextension at the MCP joints of the ring and little fingers with flexion at the PIP and DIP joints) and weakness of grip and pinch. The Tinel sign at the cubital tunnel and the elbow flexion test (sustained elbow flexion reproducing symptoms) support the diagnosis. The Froment sign (substitution of the adductor pollicis by the FPL during key pinch, producing flexion of the thumb IP joint) demonstrates weakness of the ulnar-innervated adductor pollicis.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Cubital tunnel: ulnar nerve under Osborne's ligament between medial epicondyle and olecranon. Symptoms worsen with elbow FLEXION (stretching and compression). Froment sign demonstrates weak adductor pollicis: the thumb IP flexes during key pinch as FPL substitutes.</p>
+</aside>
+
 Treatment is initially conservative: avoidance of sustained elbow flexion, particularly during sleep (with night-time elbow extension splinting or simple wrapping of a towel around the elbow to prevent flexion), NSAIDs, and physiotherapy. Surgical treatment is indicated for refractory disease or progressive motor deficit. Options include: Simple decompression (in situ release of the cubital tunnel retinaculum): The simplest procedure; good results in mild to moderate disease. Anterior transposition (subcutaneous, intramuscular, or submuscular): The ulnar nerve is moved from its position behind the medial epicondyle to a position anterior to it, eliminating the dynamic stretch with elbow flexion. Submuscular transposition (beneath the flexor-pronator origin) is preferred for revision procedures. Medial epicondylectomy: Resection of part of the medial epicondyle to allow the ulnar nerve to translate anteriorly without formal transposition. Outcomes vary substantially with severity at presentation, with mild disease having excellent outcomes and advanced disease with established motor deficit having less reliable improvement.
 
 ## Radial Nerve and Its Branches
 
 ## Radial Tunnel Syndrome and Posterior Interosseous Nerve Syndrome
 
-The radial nerve at the elbow gives rise to the posterior interosseous nerve (PIN, deep branch) and the superficial radial nerve. Compression of these structures produces two related but distinct syndromes: Radial tunnel syndrome: Compression of the PIN in the radial tunnel at the elbow, with five potential sites of compression — fibrous bands anterior to the radiocapitellar joint, recurrent radial vessels (the “leash of Henry”), the fibrous edge of the ECRB origin, the arcade of Frohse (proximal edge of the supinator), and the distal edge of the supinator. Presentation is principally with pain in the lateral elbow and forearm, often confused with lateral epicondylitis (“tennis elbow”). The diagnosis is made by exclusion of lateral epicondylitis and by the characteristic location of tenderness 3-5 cm distal to the lateral epicondyle. Treatment is initially conservative with avoidance of provoking activities; surgical release of the radial tunnel is reserved for refractory cases. Posterior interosseous nerve syndrome: Compression of the PIN producing motor symptoms — weakness of finger extension (with characteristic preserved wrist extension because the ECRL is innervated proximal to the compression). The sensory distribution is unaffected because the superficial radial nerve is not involved. Treatment is principally surgical with release of the compression sites.
+The radial nerve at the elbow gives rise to the posterior interosseous nerve (PIN, deep branch) and the superficial radial nerve. Compression of these structures produces two related but distinct syndromes: Radial tunnel syndrome: Compression of the PIN in the radial tunnel at the elbow, with five potential sites of compression — fibrous bands anterior to the radiocapitellar joint, recurrent radial vessels (the “leash of Henry”), the fibrous edge of the ECRB origin, the arcade of Frohse (proximal edge of the supinator), and the distal edge of the supinator. Presentation is principally with pain in the lateral elbow and forearm, often confused with lateral epicondylitis (“tennis elbow”). The diagnosis is made by exclusion of lateral epicondylitis and by the characteristic location of tenderness 3-5 cm distal to the lateral epicondyle. Treatment is initially conservative with avoidance of provoking activities; surgical release of the radial tunnel is reserved for refractory cases.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Radial tunnel syndrome is the great mimicker of lateral epicondylitis ('tennis elbow'). The tenderness is 3-5 cm DISTAL to the lateral epicondyle (not on it), and the symptom is PAIN without weakness. Failed 'tennis elbow' surgery often means missed radial tunnel.</p>
+</aside> Posterior interosseous nerve syndrome: Compression of the PIN producing motor symptoms — weakness of finger extension (with characteristic preserved wrist extension because the ECRL is innervated proximal to the compression). The sensory distribution is unaffected because the superficial radial nerve is not involved. Treatment is principally surgical with release of the compression sites.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Anterior interosseous (Kiloh-Nevin) syndrome is PURE MOTOR: weakness of FPL, FDP to index, and pronator quadratus produces the classic inability to make a true 'OK' sign (pinch with extended thumb IP and index DIP). Sensation is normal — that is the key differentiator from proximal median compression.</p>
+</aside>
 
 ## Wartenberg Syndrome
 
@@ -110,6 +140,11 @@ summarized briefly here for completeness:
 ## Tarsal Tunnel Syndrome
 
 Tarsal tunnel syndrome is compression of the posterior tibial nerve (or its branches, medial and lateral plantar nerves) behind the medial malleolus in the tarsal tunnel. Causes include space-occupying lesions (ganglia, lipomas, varicose veins, accessory muscles), trauma, foot deformity (pronation increasing tension on the nerve), and systemic conditions. Clinical features include burning, tingling, and numbness in the plantar foot (with the medial sole, lateral sole, or both involved depending on which branch is compressed), worse with prolonged standing or walking. Positive Tinel sign behind the medial malleolus and positive dorsiflexion-eversion test (sustained ankle dorsiflexion with eversion reproducing symptoms) support the diagnosis. Electrodiagnostic studies are less reliable than for upper extremity compression syndromes. Treatment is initially conservative with foot orthotics (correcting any associated pronation), NSAIDs, and corticosteroid injection. Surgical decompression is indicated for refractory cases or for clear mass lesions, with outcomes less reliable than for upper extremity compression releases.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Common peroneal nerve at the fibular neck is the classic 'positioning' palsy: crossed legs, prolonged anesthesia, tight casts. It presents as foot drop (weak dorsiflexion and eversion) with dorsal-foot sensory loss. Padding is prophylactic; release is reserved for refractory cases.</p>
+</aside>
 
 
 ## Common and Superficial Peroneal Nerve Compression

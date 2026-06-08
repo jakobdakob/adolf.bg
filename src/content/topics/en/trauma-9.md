@@ -9,305 +9,50 @@ order: 109
 
 ## Introduction
 
-Bacterial infection following orthopedic injury or surgery constitutes one of the most
-feared complications in the discipline, both for the morbidity of the immediate illness and
-for the long-term consequences when infection becomes chronic. The infectious
-complications considered in this chapter — septic arthritis, post-traumatic osteomyelitis,
-and the anaerobic infections including clostridial myonecrosis and necrotizing fasciitis —
-together account for a substantial proportion of orthopedic morbidity and mortality, and
-they form the local complement to the systemic complications considered in Topics
-Trauma-7 and Trauma-8. Each shares an underlying biology of bacterial proliferation in an
-environment where host defenses are impaired by altered local conditions (devitalized
-bone, hematoma, hardware) and yet each has a distinct clinical syndrome and a distinct
-management strategy. The chapter draws principally on AO Principles of Fracture
-Management, Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, Miller’s
-Review, and the bone-and-joint-infection chapter of the previous orthopedic topic on
-pyogenic disease (Topic Orth-4) for cross-reference.
+Bacterial infection following orthopedic injury or surgery constitutes one of the most feared complications in the discipline, both for the morbidity of the immediate illness and for the long-term consequences when infection becomes chronic. The infectious complications considered in this chapter — septic arthritis, post-traumatic osteomyelitis, and the anaerobic infections including clostridial myonecrosis and necrotizing fasciitis — together account for a substantial proportion of orthopedic morbidity and mortality, and they form the local complement to the systemic complications considered in Topics Trauma-7 and Trauma-8. Each shares an underlying biology of bacterial proliferation in an environment where host defenses are impaired by altered local conditions (devitalized bone, hematoma, hardware) and yet each has a distinct clinical syndrome and a distinct management strategy. The chapter draws principally on AO Principles of Fracture Management, Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, Miller’s Review, and the bone-and-joint-infection chapter of the previous orthopedic topic on pyogenic disease (Topic Orth-4) for cross-reference.
 
 ## Septic Arthritis — Definitions and Epidemiology
 
-Septic arthritis is the infection of a joint, most commonly by hematogenous seeding of
-synovium followed by proliferation in the joint cavity, but also by direct inoculation from
-penetrating trauma, joint injection, or contiguous spread from an adjacent infected source.
-In the adult, the most commonly affected joints are the knee (50 percent) and the hip (20
-percent); in children, the hip is disproportionately affected. The most commonly isolated
-organism in adults is Staphylococcus aureus (approximately 50 percent of cases, with
-methicillin-resistant strains accounting for an increasing proportion). Streptococcal
-species account for a further 20 percent. Neisseria gonorrhoeae remains an important
-consideration in sexually active young adults, classically presenting with the
-polyarthralgia-tenosynovitis-dermatitis triad and migratory polyarthropathy that
-crystallizes into a single septic joint. Gram-negative organisms (Escherichia coli,
-Pseudomonas) are seen in immunocompromised patients, intravenous drug users, and
-following lower urinary tract instrumentation. In children under two years old, Kingella
-kingae is now recognized as a more common organism than was historically appreciated,
-identifiable on blood culture bottles or by polymerase chain reaction of synovial fluid.
-The principal risk factors for septic arthritis are pre-existing joint disease (rheumatoid
-arthritis especially, with a relative risk approaching 10), age over 80, prosthetic joint,
-diabetes, immunosuppression (including HIV, chronic steroid therapy, and biological
-agents), recent joint surgery or injection, intravenous drug use, and skin or soft tissue
-infection adjacent to a joint.
+Septic arthritis is the infection of a joint, most commonly by hematogenous seeding of synovium followed by proliferation in the joint cavity, but also by direct inoculation from penetrating trauma, joint injection, or contiguous spread from an adjacent infected source. In the adult, the most commonly affected joints are the knee (50 percent) and the hip (20 percent); in children, the hip is disproportionately affected. The most commonly isolated organism in adults is Staphylococcus aureus (approximately 50 percent of cases, with methicillin-resistant strains accounting for an increasing proportion). Streptococcal species account for a further 20 percent. Neisseria gonorrhoeae remains an important consideration in sexually active young adults, classically presenting with the polyarthralgia-tenosynovitis-dermatitis triad and migratory polyarthropathy that crystallizes into a single septic joint. Gram-negative organisms (Escherichia coli, Pseudomonas) are seen in immunocompromised patients, intravenous drug users, and following lower urinary tract instrumentation. In children under two years old, Kingella kingae is now recognized as a more common organism than was historically appreciated, identifiable on blood culture bottles or by polymerase chain reaction of synovial fluid. The principal risk factors for septic arthritis are pre-existing joint disease (rheumatoid arthritis especially, with a relative risk approaching 10), age over 80, prosthetic joint, diabetes, immunosuppression (including HIV, chronic steroid therapy, and biological agents), recent joint surgery or injection, intravenous drug use, and skin or soft tissue infection adjacent to a joint.
 
 ## Clinical Features and Investigation
 
-The classical presentation of septic arthritis is the acutely painful, swollen, warm joint with
-restricted active and passive motion, accompanied by systemic features of fever, malaise,
-and leukocytosis. In the adult, monoarticular involvement is the rule (>80 percent of cases),
-with polyarticular involvement raising suspicion for gonococcal disease or rheumatoid
-coincidental flare. In the child, the picture is often less specific — irritability, refusal to bear
-weight, low-grade fever — and the diagnosis is more easily missed.
-The Kocher criteria (1999) were developed to distinguish pediatric septic hip arthritis
-from transient synovitis (see Topic Orth-5 for the broader pediatric pyogenic discussion).
-The four criteria are non-weight-bearing on the affected side, fever above 38.5°C,
-erythrocyte sedimentation rate above 40 mm/h, and serum white blood cell count above
-12,000/µL. The probability of septic arthritis was reported as 3 percent with no criteria, 40
-percent with one, 93 percent with three, and 99 percent with all four. The Caird
-modification (2006) added a fifth criterion, CRP greater than 20 mg/L, with similar
-predictive value.
-The diagnostic test is joint aspiration before initiation of antibiotics, with synovial fluid
-sent for cell count and differential, Gram stain, culture (including anaerobic and fungal
-media), and crystal analysis. Septic arthritis is characterized by a synovial fluid leukocyte
-count typically greater than 50,000/µL (and often >100,000), with neutrophil
-predominance (>75 percent). Synovial glucose is typically less than half the serum glucose.
-The presence of crystals does not exclude infection, since concurrent septic and crystal
-arthritis is well-described. Plain radiographs are unremarkable in the early phase but
-may show joint effusion (the obturator sign at the hip, the suprapatellar effusion at the
-knee). Ultrasound is the modality of choice for confirming and guiding aspiration of
-suspected hip effusion in children. MRI is sensitive for adjacent osteomyelitis and adjacent
-abscess collections.
+The classical presentation of septic arthritis is the acutely painful, swollen, warm joint with restricted active and passive motion, accompanied by systemic features of fever, malaise, and leukocytosis. In the adult, monoarticular involvement is the rule (>80 percent of cases), with polyarticular involvement raising suspicion for gonococcal disease or rheumatoid coincidental flare. In the child, the picture is often less specific — irritability, refusal to bear weight, low-grade fever — and the diagnosis is more easily missed. The Kocher criteria (1999) were developed to distinguish pediatric septic hip arthritis from transient synovitis (see Topic Orth-5 for the broader pediatric pyogenic discussion). The four criteria are non-weight-bearing on the affected side, fever above 38.5°C, erythrocyte sedimentation rate above 40 mm/h, and serum white blood cell count above 12,000/µL. The probability of septic arthritis was reported as 3 percent with no criteria, 40 percent with one, 93 percent with three, and 99 percent with all four. The Caird modification (2006) added a fifth criterion, CRP greater than 20 mg/L, with similar predictive value. The diagnostic test is joint aspiration before initiation of antibiotics, with synovial fluid sent for cell count and differential, Gram stain, culture (including anaerobic and fungal media), and crystal analysis. Septic arthritis is characterized by a synovial fluid leukocyte count typically greater than 50,000/µL (and often >100,000), with neutrophil predominance (>75 percent). Synovial glucose is typically less than half the serum glucose. The presence of crystals does not exclude infection, since concurrent septic and crystal arthritis is well-described. Plain radiographs are unremarkable in the early phase but may show joint effusion (the obturator sign at the hip, the suprapatellar effusion at the knee). Ultrasound is the modality of choice for confirming and guiding aspiration of suspected hip effusion in children. MRI is sensitive for adjacent osteomyelitis and adjacent abscess collections.
 
 ## Treatment of Septic Arthritis
 
-The treatment of septic arthritis has two essential components: urgent joint drainage and
-organism-directed antibiotic therapy. The native joint, once septic, cannot reliably be
-cleared by antibiotics alone — the avascular cartilage matrix offers a sanctuary that
-requires mechanical evacuation of the purulent material. The choice of drainage technique
-depends on the joint. Repeated needle aspiration is acceptable for small joints with easy
-access (knee, shoulder, ankle) and remains widely used in the adult patient. Arthroscopic
-lavage has become the preferred technique for accessible joints, allowing thorough
-evacuation, debridement of fibrinous loculations, and synovectomy under direct vision.
-Open arthrotomy is reserved for the hip, the difficult-to-access joint, the loculated
-infection that has failed arthroscopic drainage, and the joint with significant osteoarticular
-involvement requiring debridement of devitalized bone. In children, urgent open
-arthrotomy of the septic hip is mandatory because of the threat to the femoral head blood
-supply from intra-articular pressure and the proximity of the femoral neck to the joint
-space.
+The treatment of septic arthritis has two essential components: urgent joint drainage and organism-directed antibiotic therapy. The native joint, once septic, cannot reliably be cleared by antibiotics alone — the avascular cartilage matrix offers a sanctuary that requires mechanical evacuation of the purulent material. The choice of drainage technique depends on the joint. Repeated needle aspiration is acceptable for small joints with easy access (knee, shoulder, ankle) and remains widely used in the adult patient. Arthroscopic lavage has become the preferred technique for accessible joints, allowing thorough evacuation, debridement of fibrinous loculations, and synovectomy under direct vision. Open arthrotomy is reserved for the hip, the difficult-to-access joint, the loculated infection that has failed arthroscopic drainage, and the joint with significant osteoarticular involvement requiring debridement of devitalized bone. In children, urgent open arthrotomy of the septic hip is mandatory because of the threat to the femoral head blood supply from intra-articular pressure and the proximity of the femoral neck to the joint space.
 
-Empirical antibiotic therapy is started immediately after aspiration. For the adult with
-suspected staphylococcal infection, intravenous vancomycin or cefazolin is appropriate,
-with consideration of vancomycin in centers with high methicillin-resistant Staphylococcus
-aureus prevalence. For the immunocompromised patient and the intravenous drug user,
-broader coverage including Pseudomonas should be considered (piperacillin-tazobactam,
-cefepime). For suspected gonococcal disease, ceftriaxone is added. For the child with
-suspected Kingella, a third-generation cephalosporin is preferred. Antibiotics are then
-tailored to the culture results and continued for typically four to six weeks total, with
-conversion from intravenous to oral therapy when sensitivities and clinical response
-support it.
-The prognosis depends critically on the duration of symptoms before drainage. Joints
-drained within 24 hours of symptom onset show substantially better functional outcomes
-than those drained later, with the threshold of irreversible cartilage damage typically
-placed at three to seven days. In children, septic hip arthritis carries a meaningful risk of
-femoral head osteonecrosis, growth disturbance, and dislocation if treatment is delayed.
+Empirical antibiotic therapy is started immediately after aspiration. For the adult with suspected staphylococcal infection, intravenous vancomycin or cefazolin is appropriate, with consideration of vancomycin in centers with high methicillin-resistant Staphylococcus aureus prevalence. For the immunocompromised patient and the intravenous drug user, broader coverage including Pseudomonas should be considered (piperacillin-tazobactam, cefepime). For suspected gonococcal disease, ceftriaxone is added. For the child with suspected Kingella, a third-generation cephalosporin is preferred. Antibiotics are then tailored to the culture results and continued for typically four to six weeks total, with conversion from intravenous to oral therapy when sensitivities and clinical response support it. The prognosis depends critically on the duration of symptoms before drainage. Joints drained within 24 hours of symptom onset show substantially better functional outcomes than those drained later, with the threshold of irreversible cartilage damage typically placed at three to seven days. In children, septic hip arthritis carries a meaningful risk of femoral head osteonecrosis, growth disturbance, and dislocation if treatment is delayed.
 
 ## Post-Traumatic Osteomyelitis — Pathogenesis
 
-Post-traumatic osteomyelitis is osteomyelitis arising in the setting of preceding trauma or
-surgical fracture management, distinguishing it from the hematogenous osteomyelitis of
-childhood (covered in Topic Orth-4). The vast majority of cases follow open fractures or
-operative internal fixation, with the responsible organisms typically introduced at the time
-of the original injury or the original surgery. Approximately 30 to 50 percent of cases are
-caused by Staphylococcus aureus, with the remaining cases attributable to a broader
-range of organisms including coagulase-negative staphylococci, gram-negative rods, and
-polymicrobial infections.
-The pathogenesis follows a stereotyped sequence: bacterial inoculation, bacterial
-proliferation in devitalized tissue, biofilm formation on bone and hardware, host
-inflammatory response, ischemia of bone, and the formation of sequestrum (a fragment of
-dead, infected bone separated from viable bone) and involucrum (the surrounding shell of
-new periosteal bone). Once biofilm is established on hardware, the bacteria exist in a
-metabolically protected state that is largely impervious to antibiotics, with minimum
-inhibitory concentrations in the biofilm state several orders of magnitude higher than
-those for planktonic organisms. This is the biological basis for the surgical principle that
-established hardware-associated infection requires removal of the hardware for definitive
-cure.
-The Cierny-Mader classification (1985) structures the assessment of chronic
-osteomyelitis on two axes. The anatomic axis describes the extent of bone involvement:
-Stage I is medullary osteomyelitis; Stage II is superficial osteomyelitis; Stage III is
-localized full-thickness cortical involvement; Stage IV is diffuse osteomyelitis with
-mechanical instability. The physiological axis describes the host status: Host A is the
-normal host; Host B is the compromised host (Bs systemic compromise: diabetes,
-malnutrition; Bl local compromise: lymphedema, prior radiation, vascular insufficiency);
+Post-traumatic osteomyelitis is osteomyelitis arising in the setting of preceding trauma or surgical fracture management, distinguishing it from the hematogenous osteomyelitis of childhood (covered in Topic Orth-4). The vast majority of cases follow open fractures or operative internal fixation, with the responsible organisms typically introduced at the time of the original injury or the original surgery. Approximately 30 to 50 percent of cases are caused by Staphylococcus aureus, with the remaining cases attributable to a broader range of organisms including coagulase-negative staphylococci, gram-negative rods, and polymicrobial infections. The pathogenesis follows a stereotyped sequence: bacterial inoculation, bacterial proliferation in devitalized tissue, biofilm formation on bone and hardware, host inflammatory response, ischemia of bone, and the formation of sequestrum (a fragment of dead, infected bone separated from viable bone) and involucrum (the surrounding shell of new periosteal bone). Once biofilm is established on hardware, the bacteria exist in a metabolically protected state that is largely impervious to antibiotics, with minimum inhibitory concentrations in the biofilm state several orders of magnitude higher than those for planktonic organisms. This is the biological basis for the surgical principle that established hardware-associated infection requires removal of the hardware for definitive cure. The Cierny-Mader classification (1985) structures the assessment of chronic osteomyelitis on two axes. The anatomic axis describes the extent of bone involvement: Stage I is medullary osteomyelitis; Stage II is superficial osteomyelitis; Stage III is localized full-thickness cortical involvement; Stage IV is diffuse osteomyelitis with mechanical instability. The physiological axis describes the host status: Host A is the normal host; Host B is the compromised host (Bs systemic compromise: diabetes, malnutrition; Bl local compromise: lymphedema, prior radiation, vascular insufficiency);
 
-Host C is the patient in whom the treatment is worse than the disease and palliation is
-appropriate. The classification guides treatment intensity and predicts outcome.
+Host C is the patient in whom the treatment is worse than the disease and palliation is appropriate. The classification guides treatment intensity and predicts outcome.
 
 ## Diagnosis of Chronic Osteomyelitis
 
-The diagnosis of chronic osteomyelitis combines clinical, laboratory, and imaging features.
-Clinical features include persistent or recurrent drainage from a sinus tract, persistent
-pain, and persistent local warmth and swelling. Laboratory markers — leukocyte count,
-ESR, CRP — are non-specific but useful for monitoring response. CRP is particularly useful
-for trending; it should fall progressively after successful debridement.
-Plain radiographs show the classical features of chronic osteomyelitis: cortical thickening,
-periosteal new bone, lucent areas of bony destruction, and the sequestrum-involucrum
-pattern. The radiographic changes lag clinical disease by two to three weeks. MRI is the
-most sensitive modality for early detection and for delineation of the extent of bony and
-adjacent soft-tissue involvement. CT is superior to MRI for demonstrating sequestrum and
-cortical destruction and is useful in operative planning. Nuclear imaging — three-phase
-technetium bone scan, gallium scan, indium-labeled or technetium-labeled leukocyte scan
-— provides functional information but is largely superseded by MRI in modern practice
-except in the setting of indwelling hardware. PET-CT has emerging utility.
-The gold standard for microbiological diagnosis remains deep tissue cultures obtained at
-debridement, with multiple samples (typically five) sent for aerobic, anaerobic, and (in
-appropriate clinical settings) fungal and mycobacterial culture. Sinus tract swabs are
-notoriously unreliable, frequently growing colonizing organisms that do not represent the
-deep pathogen. Sonication of explanted hardware, which dislodges biofilm organisms
-into a sonication fluid, has improved the diagnostic yield in periprosthetic and post-
-traumatic implant infection.
+The diagnosis of chronic osteomyelitis combines clinical, laboratory, and imaging features. Clinical features include persistent or recurrent drainage from a sinus tract, persistent pain, and persistent local warmth and swelling. Laboratory markers — leukocyte count, ESR, CRP — are non-specific but useful for monitoring response. CRP is particularly useful for trending; it should fall progressively after successful debridement. Plain radiographs show the classical features of chronic osteomyelitis: cortical thickening, periosteal new bone, lucent areas of bony destruction, and the sequestrum-involucrum pattern. The radiographic changes lag clinical disease by two to three weeks. MRI is the most sensitive modality for early detection and for delineation of the extent of bony and adjacent soft-tissue involvement. CT is superior to MRI for demonstrating sequestrum and cortical destruction and is useful in operative planning. Nuclear imaging — three-phase technetium bone scan, gallium scan, indium-labeled or technetium-labeled leukocyte scan — provides functional information but is largely superseded by MRI in modern practice except in the setting of indwelling hardware. PET-CT has emerging utility. The gold standard for microbiological diagnosis remains deep tissue cultures obtained at debridement, with multiple samples (typically five) sent for aerobic, anaerobic, and (in appropriate clinical settings) fungal and mycobacterial culture. Sinus tract swabs are notoriously unreliable, frequently growing colonizing organisms that do not represent the deep pathogen. Sonication of explanted hardware, which dislodges biofilm organisms into a sonication fluid, has improved the diagnostic yield in periprosthetic and post-traumatic implant infection.
 
 ## Treatment of Post-Traumatic Osteomyelitis
 
-The treatment of chronic post-traumatic osteomyelitis combines radical surgical
-debridement with prolonged organism-directed antibiotic therapy. The cardinal
-surgical principle is excision of all infected, devitalized bone and soft tissue back to healthy,
-bleeding bone — the so-called “paprika sign” of punctate bleeding from cortical bone
-indicating viability. Inadequate debridement is the principal cause of recurrence, and the
-surgeon must accept the creation of a substantial bony defect rather than retain marginally
-viable tissue.
-The defects created by debridement require reconstruction. Small defects (less than two to
-three centimeters) may be filled with autograft or antibiotic-impregnated bone cement
-spacers. Larger segmental defects are managed by the Masquelet induced membrane
-technique described in the previous chapter, by bone transport with circular fixator
-(Ilizarov), or by vascularized fibular grafting. The soft-tissue envelope must be
-addressed simultaneously — adequate skin coverage by local rotation flap, regional flap, or
-free flap is essential to the success of the bony reconstruction. The collaboration between
-orthopedic and plastic surgery in the management of severe post-traumatic osteomyelitis
-is a defining feature of contemporary practice.
+The treatment of chronic post-traumatic osteomyelitis combines radical surgical debridement with prolonged organism-directed antibiotic therapy. The cardinal surgical principle is excision of all infected, devitalized bone and soft tissue back to healthy, bleeding bone — the so-called “paprika sign” of punctate bleeding from cortical bone indicating viability. Inadequate debridement is the principal cause of recurrence, and the surgeon must accept the creation of a substantial bony defect rather than retain marginally viable tissue. The defects created by debridement require reconstruction. Small defects (less than two to three centimeters) may be filled with autograft or antibiotic-impregnated bone cement spacers. Larger segmental defects are managed by the Masquelet induced membrane technique described in the previous chapter, by bone transport with circular fixator (Ilizarov), or by vascularized fibular grafting. The soft-tissue envelope must be addressed simultaneously — adequate skin coverage by local rotation flap, regional flap, or free flap is essential to the success of the bony reconstruction. The collaboration between orthopedic and plastic surgery in the management of severe post-traumatic osteomyelitis is a defining feature of contemporary practice.
 
-Antibiotic therapy is initially organism-directed parenteral therapy, with typically six
-weeks of intravenous antibiotics following adequate debridement. The duration is
-empirical — there is limited high-quality evidence that six weeks is superior to four weeks
-or to oral switch at two weeks, and the OVIVA trial (Li et al., 2019) demonstrated that
-oral antibiotic therapy was non-inferior to intravenous antibiotic therapy after the initial
-debridement, prompting some shift toward earlier oral switch in appropriate cases.
-Suppressive long-term oral antibiotics are reserved for cases where definitive cure
-cannot be achieved and the goal is control rather than eradication.
-When infected hardware is present, the central management question is whether the
-implant is essential to fracture stability. If the fracture is united, the hardware can be
-removed entirely and the infection treated as soft-tissue chronic osteomyelitis. If the
-fracture is not yet united, the surgeon must balance the desirability of hardware removal
-(which alone removes the biofilm sanctuary) against the need for fracture stability. Options
-include staged exchange (debridement and antibiotic spacer, prolonged antibiotics, then
-re-osteosynthesis) and “DAIR” — Debridement, Antibiotics, and Implant Retention — a
-strategy with limited but real evidence base for early infection (within three to six weeks of
-the original surgery, susceptible organism, intact soft tissues) with success rates of 30 to 70
-percent depending on patient selection.
-For post-traumatic septic nonunion, the strategy combines the principles of chronic
-osteomyelitis treatment with those of segmental defect reconstruction. The typical
-pathway involves an initial radical debridement, placement of an antibiotic cement spacer,
-six to eight weeks of organism-directed antibiotic therapy, and then a definitive
-reconstruction by Masquelet technique, bone transport, or vascularized graft as discussed
-in Topic Trauma-8.
+Antibiotic therapy is initially organism-directed parenteral therapy, with typically six weeks of intravenous antibiotics following adequate debridement. The duration is empirical — there is limited high-quality evidence that six weeks is superior to four weeks or to oral switch at two weeks, and the OVIVA trial (Li et al., 2019) demonstrated that oral antibiotic therapy was non-inferior to intravenous antibiotic therapy after the initial debridement, prompting some shift toward earlier oral switch in appropriate cases. Suppressive long-term oral antibiotics are reserved for cases where definitive cure cannot be achieved and the goal is control rather than eradication. When infected hardware is present, the central management question is whether the implant is essential to fracture stability. If the fracture is united, the hardware can be removed entirely and the infection treated as soft-tissue chronic osteomyelitis. If the fracture is not yet united, the surgeon must balance the desirability of hardware removal (which alone removes the biofilm sanctuary) against the need for fracture stability. Options include staged exchange (debridement and antibiotic spacer, prolonged antibiotics, then re-osteosynthesis) and “DAIR” — Debridement, Antibiotics, and Implant Retention — a strategy with limited but real evidence base for early infection (within three to six weeks of the original surgery, susceptible organism, intact soft tissues) with success rates of 30 to 70 percent depending on patient selection. For post-traumatic septic nonunion, the strategy combines the principles of chronic osteomyelitis treatment with those of segmental defect reconstruction. The typical pathway involves an initial radical debridement, placement of an antibiotic cement spacer, six to eight weeks of organism-directed antibiotic therapy, and then a definitive reconstruction by Masquelet technique, bone transport, or vascularized graft as discussed in Topic Trauma-8.
 
 ## Anaerobic Infections and Necrotizing Soft Tissue Infections
 
-The anaerobic infections form a small but historically important category of orthopedic
-infectious complications, encompassing clostridial gas gangrene (myonecrosis),
-necrotizing fasciitis, and tetanus.
-Clostridial myonecrosis is caused most commonly by Clostridium perfringens (90
-percent) and occasionally by Clostridium novyi, Clostridium septicum, or others. The
-classical setting is the contaminated open wound — historically the battlefield wound,
-today the heavily contaminated open fracture, the agricultural injury, or the wound
-contaminated with soil or fecal material. The spores of Clostridium germinate in the
-anaerobic environment of devitalized tissue, producing exotoxins (alpha-toxin, principally
-a phospholipase C) that destroy cell membranes and produce the rapidly advancing
-myonecrosis with characteristic gas formation. The clinical picture is dramatic: severe pain
-disproportionate to the wound appearance, rapidly advancing erythema and bronze-
-discoloration of the skin, palpable crepitus from subcutaneous gas, hemorrhagic bullae, and
-a thin watery exudate with a sweet rotten odor classically described as that of “mowed
-grass.” Systemic toxicity develops within hours, with high fever, tachycardia
-disproportionate to fever, and rapidly progressive shock.
+The anaerobic infections form a small but historically important category of orthopedic infectious complications, encompassing clostridial gas gangrene (myonecrosis), necrotizing fasciitis, and tetanus. Clostridial myonecrosis is caused most commonly by Clostridium perfringens (90 percent) and occasionally by Clostridium novyi, Clostridium septicum, or others. The classical setting is the contaminated open wound — historically the battlefield wound, today the heavily contaminated open fracture, the agricultural injury, or the wound contaminated with soil or fecal material. The spores of Clostridium germinate in the anaerobic environment of devitalized tissue, producing exotoxins (alpha-toxin, principally a phospholipase C) that destroy cell membranes and produce the rapidly advancing myonecrosis with characteristic gas formation. The clinical picture is dramatic: severe pain disproportionate to the wound appearance, rapidly advancing erythema and bronze-discoloration of the skin, palpable crepitus from subcutaneous gas, hemorrhagic bullae, and a thin watery exudate with a sweet rotten odor classically described as that of “mowed grass.” Systemic toxicity develops within hours, with high fever, tachycardia disproportionate to fever, and rapidly progressive shock.
 
-Treatment is a true surgical emergency. Aggressive surgical debridement of all involved
-tissue back to healthy bleeding muscle is the only definitive treatment; amputation is
-frequently required for limb-threatening involvement. High-dose penicillin G (24 million
-units daily) is the antibiotic of choice, typically combined with clindamycin (which has the
-additional benefit of suppressing toxin production). Hyperbaric oxygen therapy has a
-long-standing role and is supported by observational data, although prospective evidence
-is limited; the mechanism is through inhibition of clostridial growth and toxin production
-rather than through tissue oxygenation directly. The overall mortality of established
-clostridial myonecrosis is approximately 25 percent despite aggressive treatment, rising
-substantially with delays in surgical management.
-Necrotizing fasciitis, often termed “flesh-eating disease,” is the rapidly progressive
-infection of fascia and subcutaneous tissue with relative sparing of underlying muscle. The
-classical organism is group A streptococcus (Streptococcus pyogenes) producing “type
-II” necrotizing fasciitis, but most cases (type I) are polymicrobial, with a mixture of aerobic
-and anaerobic organisms including streptococci, staphylococci, gram-negative rods, and
-anaerobes. Vibrio vulnificus causes a particularly virulent form (type III) following marine
-injuries or seafood consumption in immunocompromised patients. The clinical picture
-combines disproportionate pain, rapid progression, systemic toxicity, and the
-characteristic “dishwater” gray-brown exudate. The skin may initially appear bland in
-proportion to the underlying infection. The LRINEC score (Wong et al., 2004) combines
-CRP, WBC, hemoglobin, sodium, creatinine, and glucose to stratify risk, with scores ≥6
-considered suggestive and ≥8 strongly predictive of necrotizing fasciitis. Treatment
-requires emergent surgical debridement with the surgeon often returning to the operating
-room every 24 hours for further debridement, combined with broad-spectrum antibiotics
-(carbapenem or piperacillin-tazobactam, plus vancomycin, plus clindamycin), and
-consideration of intravenous immunoglobulin in confirmed streptococcal toxic shock.
-Tetanus is caused by Clostridium tetani, an organism that produces the tetanospasmin
-neurotoxin, which interferes with inhibitory neurotransmission and produces the classical
-generalized muscular spasm and lockjaw. The condition is now rare in vaccinated
-populations but remains a consideration in patients with contaminated wounds and
-uncertain immunization status. Prophylaxis includes wound cleaning and debridement,
-tetanus toxoid booster (Tdap or Td) for those with incomplete or remote vaccination
-histories, and human tetanus immune globulin (HTIG) for tetanus-prone wounds in
-patients with fewer than three prior doses of toxoid. The general guideline is that tetanus
-toxoid is administered if the last dose was more than five years ago (for tetanus-prone
-wounds) or more than ten years ago (for clean minor wounds), and HTIG is reserved for
-tetanus-prone wounds in incompletely immunized patients.
+Treatment is a true surgical emergency. Aggressive surgical debridement of all involved tissue back to healthy bleeding muscle is the only definitive treatment; amputation is frequently required for limb-threatening involvement. High-dose penicillin G (24 million units daily) is the antibiotic of choice, typically combined with clindamycin (which has the additional benefit of suppressing toxin production). Hyperbaric oxygen therapy has a long-standing role and is supported by observational data, although prospective evidence is limited; the mechanism is through inhibition of clostridial growth and toxin production rather than through tissue oxygenation directly. The overall mortality of established clostridial myonecrosis is approximately 25 percent despite aggressive treatment, rising substantially with delays in surgical management. Necrotizing fasciitis, often termed “flesh-eating disease,” is the rapidly progressive infection of fascia and subcutaneous tissue with relative sparing of underlying muscle. The classical organism is group A streptococcus (Streptococcus pyogenes) producing “type II” necrotizing fasciitis, but most cases (type I) are polymicrobial, with a mixture of aerobic and anaerobic organisms including streptococci, staphylococci, gram-negative rods, and anaerobes. Vibrio vulnificus causes a particularly virulent form (type III) following marine injuries or seafood consumption in immunocompromised patients. The clinical picture combines disproportionate pain, rapid progression, systemic toxicity, and the characteristic “dishwater” gray-brown exudate. The skin may initially appear bland in proportion to the underlying infection. The LRINEC score (Wong et al., 2004) combines CRP, WBC, hemoglobin, sodium, creatinine, and glucose to stratify risk, with scores ≥6 considered suggestive and ≥8 strongly predictive of necrotizing fasciitis. Treatment requires emergent surgical debridement with the surgeon often returning to the operating room every 24 hours for further debridement, combined with broad-spectrum antibiotics (carbapenem or piperacillin-tazobactam, plus vancomycin, plus clindamycin), and consideration of intravenous immunoglobulin in confirmed streptococcal toxic shock. Tetanus is caused by Clostridium tetani, an organism that produces the tetanospasmin neurotoxin, which interferes with inhibitory neurotransmission and produces the classical generalized muscular spasm and lockjaw. The condition is now rare in vaccinated populations but remains a consideration in patients with contaminated wounds and uncertain immunization status. Prophylaxis includes wound cleaning and debridement, tetanus toxoid booster (Tdap or Td) for those with incomplete or remote vaccination histories, and human tetanus immune globulin (HTIG) for tetanus-prone wounds in patients with fewer than three prior doses of toxoid. The general guideline is that tetanus toxoid is administered if the last dose was more than five years ago (for tetanus-prone wounds) or more than ten years ago (for clean minor wounds), and HTIG is reserved for tetanus-prone wounds in incompletely immunized patients.
 
 ## Infection Prevention in Orthopedic Surgery
 
-Although a full review of surgical site infection prevention is beyond the scope of this
-chapter, several principles deserve emphasis. Preoperative antibiotic prophylaxis with
-cefazolin 2 g intravenously (3 g for patients above 120 kg) within 60 minutes of skin
-incision reduces surgical site infection rates after orthopedic surgery; for prolonged
-procedures, redosing every four hours is appropriate. Skin preparation with alcohol-
+Although a full review of surgical site infection prevention is beyond the scope of this chapter, several principles deserve emphasis. Preoperative antibiotic prophylaxis with cefazolin 2 g intravenously (3 g for patients above 120 kg) within 60 minutes of skin incision reduces surgical site infection rates after orthopedic surgery; for prolonged procedures, redosing every four hours is appropriate. Skin preparation with alcohol-
 
-based chlorhexidine has been shown to be superior to povidone-iodine in several large
-trials. Body warming maintains intraoperative normothermia and reduces infection rate.
-Strict glycemic control in the perioperative period (typically targeting blood glucose 110
-to 180 mg/dL) is associated with reduced infection rates, particularly in diabetic patients.
-Antibiotic-loaded cement (typically gentamicin or tobramycin) reduces infection rates in
-cemented joint arthroplasty and may be considered in primary procedures in high-risk
-patients. Operating room discipline — minimizing traffic, laminar flow ventilation with
-body exhaust suits in arthroplasty, careful adherence to scrub technique — completes the
-system of preventive measures.
+based chlorhexidine has been shown to be superior to povidone-iodine in several large trials. Body warming maintains intraoperative normothermia and reduces infection rate. Strict glycemic control in the perioperative period (typically targeting blood glucose 110 to 180 mg/dL) is associated with reduced infection rates, particularly in diabetic patients. Antibiotic-loaded cement (typically gentamicin or tobramycin) reduces infection rates in cemented joint arthroplasty and may be considered in primary procedures in high-risk patients. Operating room discipline — minimizing traffic, laminar flow ventilation with body exhaust suits in arthroplasty, careful adherence to scrub technique — completes the system of preventive measures.
 
 ## Summary and Take-Home Points
 
-Septic arthritis is a surgical emergency requiring urgent joint drainage combined with
-organism-directed antibiotic therapy. The classical organism is Staphylococcus aureus;
-gonococcal disease should be considered in sexually active young adults; Kingella kingae in
-young children. Joint aspiration with synovial fluid analysis (cell count >50,000/µL,
-neutrophil predominance) is the diagnostic procedure of choice. Drainage by arthroscopic
-lavage is preferred for most joints; open arthrotomy is reserved for the hip in children and
-for failures of less invasive drainage. The Kocher criteria stratify pediatric septic hip from
-transient synovitis. Outcome correlates closely with the interval from symptom onset to
-drainage.
-Post-traumatic osteomyelitis is structured by the Cierny-Mader classification on the
-anatomic and host-physiological axes. Treatment combines radical surgical debridement
-(the paprika sign of viable bone defines the boundary), reconstruction of bony and soft-
-tissue defects using the Masquelet, Ilizarov, or vascularized graft techniques, and prolonged
-organism-directed antibiotic therapy. Hardware in established infection generally must be
-removed; the DAIR strategy of debridement with implant retention is reserved for early,
-susceptible infections.
-The anaerobic and necrotizing infections — clostridial gas gangrene and necrotizing
-fasciitis — are surgical emergencies requiring immediate aggressive debridement
-(sometimes including amputation), broad-spectrum antibiotics with toxin-suppressing
-clindamycin, and in selected cases hyperbaric oxygen. The disproportionate pain, rapid
-progression, and systemic toxicity should prompt early surgical exploration when these
-diagnoses are entertained. Tetanus, now rare in immunized populations, is prevented by
-appropriate wound management combined with toxoid booster and tetanus immune
-globulin in tetanus-prone wounds. The chapter that follows, on spine fractures and
-dislocations without cord injury, addresses the first regional fracture topic in the trauma
-section and represents the transition from systemic complications to anatomically
-organized fracture management.
+Septic arthritis is a surgical emergency requiring urgent joint drainage combined with organism-directed antibiotic therapy. The classical organism is Staphylococcus aureus; gonococcal disease should be considered in sexually active young adults; Kingella kingae in young children. Joint aspiration with synovial fluid analysis (cell count >50,000/µL, neutrophil predominance) is the diagnostic procedure of choice. Drainage by arthroscopic lavage is preferred for most joints; open arthrotomy is reserved for the hip in children and for failures of less invasive drainage. The Kocher criteria stratify pediatric septic hip from transient synovitis. Outcome correlates closely with the interval from symptom onset to drainage. Post-traumatic osteomyelitis is structured by the Cierny-Mader classification on the anatomic and host-physiological axes. Treatment combines radical surgical debridement (the paprika sign of viable bone defines the boundary), reconstruction of bony and soft-tissue defects using the Masquelet, Ilizarov, or vascularized graft techniques, and prolonged organism-directed antibiotic therapy. Hardware in established infection generally must be removed; the DAIR strategy of debridement with implant retention is reserved for early, susceptible infections. The anaerobic and necrotizing infections — clostridial gas gangrene and necrotizing fasciitis — are surgical emergencies requiring immediate aggressive debridement (sometimes including amputation), broad-spectrum antibiotics with toxin-suppressing clindamycin, and in selected cases hyperbaric oxygen. The disproportionate pain, rapid progression, and systemic toxicity should prompt early surgical exploration when these diagnoses are entertained. Tetanus, now rare in immunized populations, is prevented by appropriate wound management combined with toxoid booster and tetanus immune globulin in tetanus-prone wounds. The chapter that follows, on spine fractures and dislocations without cord injury, addresses the first regional fracture topic in the trauma section and represents the transition from systemic complications to anatomically organized fracture management.

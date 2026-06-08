@@ -23,6 +23,4 @@ This compendium synthesizes content from the following reference works to addres
 
 ## Tachdjian’s Pediatric Orthopaedics
 
-Each topic is written as flowing prose (Fliesstext) organized by subtopic — anatomy,
-pathophysiology, clinical presentation, imaging, treatment, complications — with content
-synthesized across all relevant sources.
+Each topic is written as flowing prose (Fliesstext) organized by subtopic — anatomy, pathophysiology, clinical presentation, imaging, treatment, complications — with content synthesized across all relevant sources.

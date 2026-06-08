@@ -9,474 +9,129 @@ order: 4
 
 ## Introduction
 
-Musculoskeletal infections constitute one of the great challenges of orthopedic practice.
-They cross the entire spectrum from acute hematogenous osteomyelitis of childhood,
-through implant-related infections of contemporary joint replacement, to the persistent
-chronic osteomyelitis that follows open fracture and the indolent osteoarticular
-tuberculosis still endemic in much of the world. Successful management depends on rapid
-recognition, accurate microbiological diagnosis, appropriate antibiotic therapy guided by
-culture and sensitivity, and — in many cases — definitive surgical debridement. This
-chapter synthesizes content from Apley & Solomon’s, Miller’s Review, Tachdjian’s Pediatric
-Orthopaedics, Rockwood and Green’s Fractures in Adults, and Rothman-Simeone The
-Spine, organized as follows: acute hematogenous osteomyelitis (predominantly a pediatric
-condition); subacute and chronic osteomyelitis (including the Cierny-Mader classification
-and the staged management of chronic infection); septic arthritis in children and in adults;
-specific organisms of orthopedic importance; tuberculosis of bones and joints (Pott’s
-disease, tuberculosis of the hip and knee, peripheral tuberculous arthritis); and the
-principles of antibiotic therapy and surgical debridement.
+Musculoskeletal infections constitute one of the great challenges of orthopedic practice. They cross the entire spectrum from acute hematogenous osteomyelitis of childhood, through implant-related infections of contemporary joint replacement, to the persistent chronic osteomyelitis that follows open fracture and the indolent osteoarticular tuberculosis still endemic in much of the world. Successful management depends on rapid recognition, accurate microbiological diagnosis, appropriate antibiotic therapy guided by culture and sensitivity, and — in many cases — definitive surgical debridement. This chapter synthesizes content from Apley & Solomon’s, Miller’s Review, Tachdjian’s Pediatric Orthopaedics, Rockwood and Green’s Fractures in Adults, and Rothman-Simeone The Spine, organized as follows: acute hematogenous osteomyelitis (predominantly a pediatric condition); subacute and chronic osteomyelitis (including the Cierny-Mader classification and the staged management of chronic infection); septic arthritis in children and in adults; specific organisms of orthopedic importance; tuberculosis of bones and joints (Pott’s disease, tuberculosis of the hip and knee, peripheral tuberculous arthritis); and the principles of antibiotic therapy and surgical debridement.
 
 ## Acute Hematogenous Osteomyelitis
 
 
 ## Epidemiology and Pathogenesis
 
-Acute hematogenous osteomyelitis is predominantly a disease of children, with the peak
-incidence in the first decade and a male predominance of approximately 2:1. The
-metaphysis of the long bones — particularly the distal femur, proximal tibia, distal tibia,
-and proximal humerus — is the characteristic site. The pathogenetic basis of this
-metaphyseal predilection is the anatomy of the metaphyseal vascular supply: in the
-immature skeleton, the metaphyseal arteries terminate in slow, hairpin loops adjacent to
-the growth plate, with limited collateral flow and a paucity of reticuloendothelial elements;
-circulating bacteria readily lodge in this stagnant capillary bed, where the local hypoxia and
-the absence of phagocytic clearance permit rapid proliferation. Once established, the
-infection produces inflammation, edema, and the release of cytokines and prostaglandins;
-the rising intramedullary pressure compromises the marrow vasculature, and bacteria can
-spread through the cortex into the subperiosteal space, where elevation of the periosteum
-produces the characteristic clinical periosteal pain and tenderness. From the subperiosteal
-abscess, infection can extend further into the surrounding soft tissues or, in young children
-whose metaphysis lies within the joint capsule (notably the hip), directly into the joint to
-produce a concurrent septic arthritis.
-The pattern of bone destruction in established acute osteomyelitis follows a well-described
-sequence. Within the first week the infection is purely cellulitic; by 7-10 days bony
-destruction becomes visible, with focal trabecular resorption and patchy radiographic
-lucency. As the inflammatory exudate compresses the local arteries, segments of bone
+Acute hematogenous osteomyelitis is predominantly a disease of children, with the peak incidence in the first decade and a male predominance of approximately 2:1. The metaphysis of the long bones — particularly the distal femur, proximal tibia, distal tibia, and proximal humerus — is the characteristic site. The pathogenetic basis of this metaphyseal predilection is the anatomy of the metaphyseal vascular supply: in the immature skeleton, the metaphyseal arteries terminate in slow, hairpin loops adjacent to the growth plate, with limited collateral flow and a paucity of reticuloendothelial elements; circulating bacteria readily lodge in this stagnant capillary bed, where the local hypoxia and the absence of phagocytic clearance permit rapid proliferation. Once established, the infection produces inflammation, edema, and the release of cytokines and prostaglandins; the rising intramedullary pressure compromises the marrow vasculature, and bacteria can spread through the cortex into the subperiosteal space, where elevation of the periosteum produces the characteristic clinical periosteal pain and tenderness. From the subperiosteal abscess, infection can extend further into the surrounding soft tissues or, in young children whose metaphysis lies within the joint capsule (notably the hip), directly into the joint to produce a concurrent septic arthritis. The pattern of bone destruction in established acute osteomyelitis follows a well-described sequence. Within the first week the infection is purely cellulitic; by 7-10 days bony destruction becomes visible, with focal trabecular resorption and patchy radiographic lucency. As the inflammatory exudate compresses the local arteries, segments of bone
 
-become avascular; this dead bone is termed the sequestrum and remains embedded within
-the infected tissue. The periosteum, elevated by the subperiosteal abscess, lays down new
-bone — the involucrum — which surrounds the sequestrum like a sleeve. Sinus tracks, the
-cloacae, communicate the inner cavity with the skin, permitting drainage of pus and small
-bony fragments. Without effective treatment, the disease becomes chronic, with persistent
-infection within the dead bone of the sequestrum that no systemic antibiotic can reach.
+become avascular; this dead bone is termed the sequestrum and remains embedded within the infected tissue. The periosteum, elevated by the subperiosteal abscess, lays down new bone — the involucrum — which surrounds the sequestrum like a sleeve. Sinus tracks, the cloacae, communicate the inner cavity with the skin, permitting drainage of pus and small bony fragments. Without effective treatment, the disease becomes chronic, with persistent infection within the dead bone of the sequestrum that no systemic antibiotic can reach.
 
 
 ## Microbiology
 
-Staphylococcus aureus is the causative organism in approximately 70-90% of pediatric
-acute hematogenous osteomyelitis, with methicillin-resistant strains (MRSA) increasingly
-prominent in the developed world over the past two decades. In neonates, group B
-streptococcus and enteric Gram-negative organisms must also be considered. Kingella
-kingae has emerged as an important pathogen of bone and joint infections in children aged
-6 months to 4 years, often producing subtle clinical presentations with unimpressive
-inflammatory markers; molecular detection by PCR of joint fluid has substantially
-improved diagnostic yield. Group A streptococcus, Streptococcus pneumoniae, and
-Haemophilus influenzae type b (now rare since universal vaccination) are less common
-pathogens. In patients with sickle cell disease, Salmonella species predominate alongside
-Staphylococcus aureus, and this combination is one of the classical exam-relevant pairings
-in pediatric orthopedics. Atypical organisms — Bartonella henselae, Borrelia burgdorferi,
-mycobacteria, fungi — should be considered in immunocompromised children, in those
-with relevant exposure histories, and in indolent infections that fail to respond to empirical
-antibiotic therapy.
+Staphylococcus aureus is the causative organism in approximately 70-90% of pediatric acute hematogenous osteomyelitis, with methicillin-resistant strains (MRSA) increasingly prominent in the developed world over the past two decades. In neonates, group B streptococcus and enteric Gram-negative organisms must also be considered. Kingella kingae has emerged as an important pathogen of bone and joint infections in children aged 6 months to 4 years, often producing subtle clinical presentations with unimpressive inflammatory markers; molecular detection by PCR of joint fluid has substantially improved diagnostic yield. Group A streptococcus, Streptococcus pneumoniae, and Haemophilus influenzae type b (now rare since universal vaccination) are less common pathogens. In patients with sickle cell disease, Salmonella species predominate alongside Staphylococcus aureus, and this combination is one of the classical exam-relevant pairings in pediatric orthopedics. Atypical organisms — Bartonella henselae, Borrelia burgdorferi, mycobacteria, fungi — should be considered in immunocompromised children, in those with relevant exposure histories, and in indolent infections that fail to respond to empirical antibiotic therapy.
 
 ## Clinical Features
 
-The classical presentation is of a young child with fever, irritability, and reluctance to move
-or bear weight on the affected limb. Older children describe localized pain. Examination
-reveals tenderness over the affected metaphysis, often with overlying warmth and
-erythema; the adjacent joint may show a sympathetic effusion without true septic arthritis,
-but in the hip and other joints with intra-articular metaphysis the differentiation between
-sympathetic effusion and concurrent septic arthritis is critical. Systemic features — fever,
-raised heart rate, malaise — are usual. The infant may be relatively well-appearing,
-however, particularly when subacute organisms such as Kingella kingae are responsible; a
-high index of suspicion is essential in this age group.
+The classical presentation is of a young child with fever, irritability, and reluctance to move or bear weight on the affected limb. Older children describe localized pain. Examination reveals tenderness over the affected metaphysis, often with overlying warmth and erythema; the adjacent joint may show a sympathetic effusion without true septic arthritis, but in the hip and other joints with intra-articular metaphysis the differentiation between sympathetic effusion and concurrent septic arthritis is critical. Systemic features — fever, raised heart rate, malaise — are usual. The infant may be relatively well-appearing, however, particularly when subacute organisms such as Kingella kingae are responsible; a high index of suspicion is essential in this age group.
 
 ## Investigations
 
-Laboratory investigation reveals leukocytosis with neutrophilia, elevated ESR (typically
-peaking at 3-5 days), and elevated CRP (peaking earlier, at 1-2 days, and falling more
-rapidly with successful treatment). CRP is the most useful single marker for assessing
-response to therapy. Blood cultures should be obtained before antibiotic administration in
-every case and yield a causative organism in 30-60% of cases. Plain radiographs are
-typically normal in the first 7-10 days, with bony changes — focal lucency, periosteal new
-bone — appearing later. MRI is the imaging modality of choice for early diagnosis: it
-identifies marrow edema within 1-3 days of symptom onset, accurately delineates the
+Laboratory investigation reveals leukocytosis with neutrophilia, elevated ESR (typically peaking at 3-5 days), and elevated CRP (peaking earlier, at 1-2 days, and falling more rapidly with successful treatment). CRP is the most useful single marker for assessing response to therapy. Blood cultures should be obtained before antibiotic administration in every case and yield a causative organism in 30-60% of cases. Plain radiographs are typically normal in the first 7-10 days, with bony changes — focal lucency, periosteal new bone — appearing later. MRI is the imaging modality of choice for early diagnosis: it identifies marrow edema within 1-3 days of symptom onset, accurately delineates the
 
-extent of bone involvement, identifies adjacent soft-tissue abscess, and distinguishes
-osteomyelitis from cellulitis. Bone scan is sensitive but less specific than MRI. Aspiration of
-any subperiosteal pus or adjacent joint effusion, performed under ultrasound guidance
-where appropriate, is essential both for diagnosis and for definitive microbiology.
+extent of bone involvement, identifies adjacent soft-tissue abscess, and distinguishes osteomyelitis from cellulitis. Bone scan is sensitive but less specific than MRI. Aspiration of any subperiosteal pus or adjacent joint effusion, performed under ultrasound guidance where appropriate, is essential both for diagnosis and for definitive microbiology.
 
 ## Treatment
 
-The cornerstone of treatment is prompt antibiotic therapy guided by the most likely
-organisms, modified according to culture results. Empirical regimens vary by age and local
-resistance patterns: in regions of low MRSA prevalence, an intravenous β-lactamase-
-resistant penicillin (flucloxacillin) or a first-generation cephalosporin is standard; in
-regions of high MRSA prevalence, vancomycin or clindamycin is added or substituted; in
-neonates, broader coverage including a third-generation cephalosporin is appropriate; in
-children with sickle cell disease, coverage for Salmonella with a third-generation
-cephalosporin should be added. The duration of therapy is typically a total of 4-6 weeks,
-with conversion from intravenous to oral therapy once clinical response is established and
-CRP is trending toward normal. Surgical drainage is indicated when imaging or aspiration
-demonstrates a subperiosteal abscess, when there is concurrent septic arthritis, when
-clinical response to appropriate antibiotic therapy is inadequate at 48-72 hours, and when
-chronic osteomyelitis with sequestrum or involucrum has developed. The surgical principle
-is straightforward: drain pus, debride necrotic tissue, obtain microbiological samples, and
-irrigate. Open drainage of an intraosseous abscess or subperiosteal collection is typically
-performed through a small cortical window; the bone is left open for healing by secondary
-intention or filled with antibiotic-loaded bone substitute.
+The cornerstone of treatment is prompt antibiotic therapy guided by the most likely organisms, modified according to culture results. Empirical regimens vary by age and local resistance patterns: in regions of low MRSA prevalence, an intravenous β-lactamase-resistant penicillin (flucloxacillin) or a first-generation cephalosporin is standard; in regions of high MRSA prevalence, vancomycin or clindamycin is added or substituted; in neonates, broader coverage including a third-generation cephalosporin is appropriate; in children with sickle cell disease, coverage for Salmonella with a third-generation cephalosporin should be added. The duration of therapy is typically a total of 4-6 weeks, with conversion from intravenous to oral therapy once clinical response is established and CRP is trending toward normal. Surgical drainage is indicated when imaging or aspiration demonstrates a subperiosteal abscess, when there is concurrent septic arthritis, when clinical response to appropriate antibiotic therapy is inadequate at 48-72 hours, and when chronic osteomyelitis with sequestrum or involucrum has developed. The surgical principle is straightforward: drain pus, debride necrotic tissue, obtain microbiological samples, and irrigate. Open drainage of an intraosseous abscess or subperiosteal collection is typically performed through a small cortical window; the bone is left open for healing by secondary intention or filled with antibiotic-loaded bone substitute.
 
 ## Subacute Osteomyelitis and Brodie’s Abscess
 
-Subacute osteomyelitis represents an indolent, localized infection — most commonly with
-Staphylococcus aureus, although Kingella and other organisms are also implicated — in
-which the body’s immune response has partly contained the infection, producing a walled-
-off cavity rather than an aggressive spreading process. The Brodie’s abscess, described by
-Sir Benjamin Brodie in the nineteenth century, is the classical form: a circumscribed lytic
-lesion of the metaphysis of a long bone — typically the proximal or distal tibia in a child or
-adolescent — surrounded by a halo of sclerotic bone, with minimal systemic features and a
-long history of intermittent localized pain. Plain radiographs show the characteristic lytic
-lesion with sclerotic margin; MRI demonstrates a fluid-containing cavity with surrounding
-marrow edema and a “double-line” or “penumbra” sign that suggests infection rather than
-tumor. The differential diagnosis includes osteoid osteoma (smaller, more sclerotic, and
-with characteristic radial pain pattern), eosinophilic granuloma, and other lytic lesions of
-childhood. Treatment combines targeted antibiotic therapy and surgical debridement: the
-abscess is drained, cultured, and curetted; antibiotic therapy is continued for several
-weeks. Healing is usually uneventful, but recurrence has been described.
+Subacute osteomyelitis represents an indolent, localized infection — most commonly with Staphylococcus aureus, although Kingella and other organisms are also implicated — in which the body’s immune response has partly contained the infection, producing a walled-off cavity rather than an aggressive spreading process. The Brodie’s abscess, described by Sir Benjamin Brodie in the nineteenth century, is the classical form: a circumscribed lytic lesion of the metaphysis of a long bone — typically the proximal or distal tibia in a child or adolescent — surrounded by a halo of sclerotic bone, with minimal systemic features and a long history of intermittent localized pain. Plain radiographs show the characteristic lytic lesion with sclerotic margin; MRI demonstrates a fluid-containing cavity with surrounding marrow edema and a “double-line” or “penumbra” sign that suggests infection rather than tumor. The differential diagnosis includes osteoid osteoma (smaller, more sclerotic, and with characteristic radial pain pattern), eosinophilic granuloma, and other lytic lesions of childhood. Treatment combines targeted antibiotic therapy and surgical debridement: the abscess is drained, cultured, and curetted; antibiotic therapy is continued for several weeks. Healing is usually uneventful, but recurrence has been described.
 
 ## Chronic Osteomyelitis and the Cierny-Mader Classification
 
 
 ## Pathogenesis
 
-Chronic osteomyelitis is the persistent or recurrent infection of bone in which dead bone
-(sequestrum) maintains a focus of bacterial colonization that is largely inaccessible to
-systemic antibiotics and that periodically produces clinical flares of pain, drainage, or
-systemic illness. The conversion from acute to chronic osteomyelitis follows inadequate
-treatment of the acute episode — typically inadequate surgical debridement, inadequate
-duration or selection of antibiotic therapy, or both. In the modern era, chronic
-osteomyelitis is largely a complication of open fractures, internal fixation hardware, and
-other trauma rather than a primary hematogenous condition. Implant-related infection —
-discussed separately under “implant-related infection” below — represents the most
-common contemporary form of chronic bone infection in the orthopedic clinic.
+Chronic osteomyelitis is the persistent or recurrent infection of bone in which dead bone (sequestrum) maintains a focus of bacterial colonization that is largely inaccessible to systemic antibiotics and that periodically produces clinical flares of pain, drainage, or systemic illness. The conversion from acute to chronic osteomyelitis follows inadequate treatment of the acute episode — typically inadequate surgical debridement, inadequate duration or selection of antibiotic therapy, or both. In the modern era, chronic osteomyelitis is largely a complication of open fractures, internal fixation hardware, and other trauma rather than a primary hematogenous condition. Implant-related infection — discussed separately under “implant-related infection” below — represents the most common contemporary form of chronic bone infection in the orthopedic clinic.
 
 ## The Cierny-Mader Classification
 
-The Cierny-Mader system, developed in the 1980s, classifies chronic osteomyelitis
-according to two axes: the anatomical type of bone involvement and the physiological
-status of the host. The four anatomical types are: Type 1, medullary osteomyelitis
-(intramedullary infection, e.g., post-IM nail infection); Type 2, superficial osteomyelitis
-(contiguous infection from overlying soft-tissue defect); Type 3, localized osteomyelitis
-(full-thickness cortical involvement but with a stable bone); and Type 4, diffuse
-osteomyelitis (segmental bony destruction with mechanical instability). The host classes
-are: A, normal physiological status (no significant systemic or local compromise); B,
-compromised host (B-systemic for systemic factors such as malnutrition, diabetes,
-immunosuppression, tobacco use, or B-local for local factors such as previous radiation,
-lymphedema, chronic venous insufficiency, or major vascular disease); and C, treatment
-more morbid than the disease (the host is so compromised, or the limb so non-functional,
-that aggressive treatment is contraindicated and palliation or amputation is preferable).
-The combination of anatomical type and host class — for example, Type 4-B(L) — guides
-treatment decisions: simple medullary infection in a healthy host responds well to limited
-debridement and antibiotics, while diffuse infection in a compromised host may require
-staged limb reconstruction or amputation.
+The Cierny-Mader system, developed in the 1980s, classifies chronic osteomyelitis according to two axes: the anatomical type of bone involvement and the physiological status of the host. The four anatomical types are: Type 1, medullary osteomyelitis (intramedullary infection, e.g., post-IM nail infection); Type 2, superficial osteomyelitis (contiguous infection from overlying soft-tissue defect); Type 3, localized osteomyelitis (full-thickness cortical involvement but with a stable bone); and Type 4, diffuse osteomyelitis (segmental bony destruction with mechanical instability). The host classes are: A, normal physiological status (no significant systemic or local compromise); B, compromised host (B-systemic for systemic factors such as malnutrition, diabetes, immunosuppression, tobacco use, or B-local for local factors such as previous radiation, lymphedema, chronic venous insufficiency, or major vascular disease); and C, treatment more morbid than the disease (the host is so compromised, or the limb so non-functional, that aggressive treatment is contraindicated and palliation or amputation is preferable). The combination of anatomical type and host class — for example, Type 4-B(L) — guides treatment decisions: simple medullary infection in a healthy host responds well to limited debridement and antibiotics, while diffuse infection in a compromised host may require staged limb reconstruction or amputation.
 
 ## Treatment
 
-The fundamental principle is that chronic osteomyelitis cannot be cured by antibiotics
-alone; surgical debridement is necessary to remove the dead bone that harbors the
-persistent infection. The standard sequence is: thorough surgical debridement to excise all
-dead and infected tissue back to bleeding bone (the “Paprika sign” of punctate bleeding
-from cortical bone is the surgical end-point); obtain multiple intraoperative samples for
-microbiology; manage the resulting dead space with bone-graft substitutes, antibiotic-
-loaded cement spacers, or vascularized tissue transfer; restore skeletal stability with
-internal or external fixation as appropriate; and administer organism-directed parenteral
-antibiotic therapy for typically 4-6 weeks, followed by oral therapy for an additional period
-as clinical course dictates. The Masquelet (induced membrane) technique and Ilizarov-
+The fundamental principle is that chronic osteomyelitis cannot be cured by antibiotics alone; surgical debridement is necessary to remove the dead bone that harbors the persistent infection. The standard sequence is: thorough surgical debridement to excise all dead and infected tissue back to bleeding bone (the “Paprika sign” of punctate bleeding from cortical bone is the surgical end-point); obtain multiple intraoperative samples for microbiology; manage the resulting dead space with bone-graft substitutes, antibiotic-loaded cement spacers, or vascularized tissue transfer; restore skeletal stability with internal or external fixation as appropriate; and administer organism-directed parenteral antibiotic therapy for typically 4-6 weeks, followed by oral therapy for an additional period as clinical course dictates. The Masquelet (induced membrane) technique and Ilizarov-
 
-method bone transport address segmental defects following debridement of diffuse
-osteomyelitis. Modern adjuncts include vacuum-assisted closure of soft-tissue defects,
-antibiotic-loaded bioabsorbable cement, and free flap reconstruction for skeletal coverage.
-Amputation remains a legitimate option for patients with extensive limb destruction, poor
-functional potential, or compromised hosts in whom limb salvage is unrealistic.
+method bone transport address segmental defects following debridement of diffuse osteomyelitis. Modern adjuncts include vacuum-assisted closure of soft-tissue defects, antibiotic-loaded bioabsorbable cement, and free flap reconstruction for skeletal coverage. Amputation remains a legitimate option for patients with extensive limb destruction, poor functional potential, or compromised hosts in whom limb salvage is unrealistic.
 
 ## Implant-Related Infections
 
-Periprosthetic joint infection (PJI) is the most consequential complication of total joint
-arthroplasty and is dealt with extensively in the arthroplasty chapter; the principles
-relevant to general orthopedics are summarized here. The infection may be acute (within
-4-6 weeks of surgery or hematogenous) or chronic (persistent infection of a mature
-implant). The Musculoskeletal Infection Society (MSIS) criteria — synovial fluid leukocyte
-count and neutrophil percentage, synovial fluid alpha-defensin, serum CRP and ESR,
-positive cultures, intraoperative purulence and histology — provide a validated diagnostic
-framework. The microbiological pattern reflects skin flora (coagulase-negative
-staphylococci, Staphylococcus aureus including MRSA, propionibacterium for shoulder
-arthroplasty) more than the hematogenous pattern of native osteomyelitis. Biofilm
-formation on the implant surface is the critical pathogenic feature: bacteria encased in
-extracellular polysaccharide become tolerant to antibiotics at concentrations many orders
-of magnitude above their planktonic MIC, which is why successful eradication of
-established infection typically requires implant removal. Treatment options include single-
-stage exchange, two-stage exchange (the standard of care in most centers for chronic
-infection), debridement, antibiotic therapy and implant retention (DAIR — appropriate for
-early postoperative or acute hematogenous infection with a well-fixed implant and a
-treatable organism), and chronic suppressive antibiotic therapy.
+Periprosthetic joint infection (PJI) is the most consequential complication of total joint arthroplasty and is dealt with extensively in the arthroplasty chapter; the principles relevant to general orthopedics are summarized here. The infection may be acute (within 4-6 weeks of surgery or hematogenous) or chronic (persistent infection of a mature implant). The Musculoskeletal Infection Society (MSIS) criteria — synovial fluid leukocyte count and neutrophil percentage, synovial fluid alpha-defensin, serum CRP and ESR, positive cultures, intraoperative purulence and histology — provide a validated diagnostic framework. The microbiological pattern reflects skin flora (coagulase-negative staphylococci, Staphylococcus aureus including MRSA, propionibacterium for shoulder arthroplasty) more than the hematogenous pattern of native osteomyelitis. Biofilm formation on the implant surface is the critical pathogenic feature: bacteria encased in extracellular polysaccharide become tolerant to antibiotics at concentrations many orders of magnitude above their planktonic MIC, which is why successful eradication of established infection typically requires implant removal. Treatment options include single-stage exchange, two-stage exchange (the standard of care in most centers for chronic infection), debridement, antibiotic therapy and implant retention (DAIR — appropriate for early postoperative or acute hematogenous infection with a well-fixed implant and a treatable organism), and chronic suppressive antibiotic therapy.
 
 ## Septic Arthritis
 
 
 ## Acute Septic Arthritis in Children
 
-Septic arthritis is a surgical emergency. Cartilage destruction begins within 8 hours of
-bacterial colonization of the joint, driven by bacterial proteases and the host inflammatory
-cascade including matrix metalloproteinases and cathepsins; delay in treatment is the
-single greatest determinant of joint destruction. The hip, knee, and ankle are the most
-commonly affected joints in children. The pathogenic route is hematogenous in the
-majority of pediatric cases, with the occasional direct extension from adjacent
-osteomyelitis — particularly in the hip and shoulder, where the metaphysis is intra-
-articular.
-Presentation is with acute joint pain, fever, refusal to bear weight or move the affected
-limb, and a held-fixed antalgic position (flexion-abduction-external rotation of the hip;
-flexion of the knee). Examination reveals warmth, swelling, restricted range of motion, and
-exquisite tenderness on attempted joint motion. The Kocher criteria, developed for the
-differentiation of septic arthritis of the hip from transient synovitis in the pediatric patient,
-comprise four clinical findings: refusal to bear weight, fever >38.5 °C, ESR >40 mm/h, and
-WBC >12,000/mm³. Probability of true septic arthritis is <0.2% with zero criteria, 3% with
+Septic arthritis is a surgical emergency. Cartilage destruction begins within 8 hours of bacterial colonization of the joint, driven by bacterial proteases and the host inflammatory cascade including matrix metalloproteinases and cathepsins; delay in treatment is the single greatest determinant of joint destruction. The hip, knee, and ankle are the most commonly affected joints in children. The pathogenic route is hematogenous in the majority of pediatric cases, with the occasional direct extension from adjacent osteomyelitis — particularly in the hip and shoulder, where the metaphysis is intra-articular. Presentation is with acute joint pain, fever, refusal to bear weight or move the affected limb, and a held-fixed antalgic position (flexion-abduction-external rotation of the hip; flexion of the knee). Examination reveals warmth, swelling, restricted range of motion, and exquisite tenderness on attempted joint motion. The Kocher criteria, developed for the differentiation of septic arthritis of the hip from transient synovitis in the pediatric patient, comprise four clinical findings: refusal to bear weight, fever >38.5 °C, ESR >40 mm/h, and WBC >12,000/mm³. Probability of true septic arthritis is <0.2% with zero criteria, 3% with
 
-one, 40% with two, 93% with three, and 99% with four. CRP >2 mg/dL has been added in
-subsequent refinements as a single additional powerful predictor. Aspiration of the joint
-under appropriate analgesia and sterile conditions — under ultrasound guidance in the hip
-— is the diagnostic gold standard: synovial fluid examination of cell count (typically
-\>50,000 WBC/mm³ with >75% neutrophils), Gram stain, culture, and PCR for Kingella in
-the relevant age group establishes the diagnosis.
-Treatment is urgent surgical drainage — open, arthroscopic, or, in selected cases of
-accessible joints with prompt presentation, repeated aspiration — combined with
-empirical antibiotic therapy adjusted by culture results. The total duration of antibiotic
-therapy is typically 3-4 weeks, with intravenous administration for the first 5-10 days
-followed by oral therapy once clinical response is established and CRP is falling.
+one, 40% with two, 93% with three, and 99% with four. CRP >2 mg/dL has been added in subsequent refinements as a single additional powerful predictor. Aspiration of the joint under appropriate analgesia and sterile conditions — under ultrasound guidance in the hip — is the diagnostic gold standard: synovial fluid examination of cell count (typically \>50,000 WBC/mm³ with >75% neutrophils), Gram stain, culture, and PCR for Kingella in the relevant age group establishes the diagnosis. Treatment is urgent surgical drainage — open, arthroscopic, or, in selected cases of accessible joints with prompt presentation, repeated aspiration — combined with empirical antibiotic therapy adjusted by culture results. The total duration of antibiotic therapy is typically 3-4 weeks, with intravenous administration for the first 5-10 days followed by oral therapy once clinical response is established and CRP is falling.
 
 ## Adult Septic Arthritis
 
-In adults, septic arthritis arises by hematogenous spread, direct inoculation (intra-articular
-injection, surgery), or extension from adjacent infection. The classical organisms are
-Staphylococcus aureus (50-60% of cases overall, including MRSA in increasing proportion)
-and the streptococci. Gonococcal arthritis remains an important cause of polyarticular
-oligoarthritis in sexually active young adults, with a characteristic clinical picture of
-migratory arthralgia, tenosynovitis, and dermatitis; synovial cultures are positive in less
-than half of cases and urethral, cervical, and pharyngeal swabs are usually more useful for
-diagnosis. The treatment principles parallel those for children, with urgent drainage and
-culture-directed antibiotic therapy.
+In adults, septic arthritis arises by hematogenous spread, direct inoculation (intra-articular injection, surgery), or extension from adjacent infection. The classical organisms are Staphylococcus aureus (50-60% of cases overall, including MRSA in increasing proportion) and the streptococci. Gonococcal arthritis remains an important cause of polyarticular oligoarthritis in sexually active young adults, with a characteristic clinical picture of migratory arthralgia, tenosynovitis, and dermatitis; synovial cultures are positive in less than half of cases and urethral, cervical, and pharyngeal swabs are usually more useful for diagnosis. The treatment principles parallel those for children, with urgent drainage and culture-directed antibiotic therapy.
 
 ## Specific Organisms and Their Implications
 
-Methicillin-Resistant Staphylococcus aureus (MRSA)
-MRSA — both healthcare-associated and community-acquired — has become a dominant
-pathogen in bone and joint infection in many regions over the past two decades. The
-Panton-Valentine leucocidin toxin produced by certain community-acquired strains is
-associated with particularly severe, multifocal, and aggressive infections in healthy
-children and young adults. Vancomycin, clindamycin (in regions with low inducible
-resistance), and linezolid are the standard agents; daptomycin, ceftaroline, and tedizolid
-are alternatives.
-Kingella kingae
-Kingella kingae is a Gram-negative coccobacillus that has emerged as the leading cause of
-bone and joint infection in children aged 6 months to 4 years in many series. Presentation
-is often more indolent than staphylococcal infection, with subtle clinical findings and
-modestly elevated inflammatory markers. PCR of synovial fluid and oropharyngeal swabs
-has substantially improved diagnostic detection. The organism is intrinsically susceptible
-to β-lactam antibiotics and the prognosis is excellent with appropriate therapy.
+Methicillin-Resistant Staphylococcus aureus (MRSA) MRSA — both healthcare-associated and community-acquired — has become a dominant pathogen in bone and joint infection in many regions over the past two decades. The Panton-Valentine leucocidin toxin produced by certain community-acquired strains is associated with particularly severe, multifocal, and aggressive infections in healthy children and young adults. Vancomycin, clindamycin (in regions with low inducible resistance), and linezolid are the standard agents; daptomycin, ceftaroline, and tedizolid are alternatives. Kingella kingae Kingella kingae is a Gram-negative coccobacillus that has emerged as the leading cause of bone and joint infection in children aged 6 months to 4 years in many series. Presentation is often more indolent than staphylococcal infection, with subtle clinical findings and modestly elevated inflammatory markers. PCR of synovial fluid and oropharyngeal swabs has substantially improved diagnostic detection. The organism is intrinsically susceptible to β-lactam antibiotics and the prognosis is excellent with appropriate therapy.
 
 
 ## Salmonella
 
-Salmonella is the characteristic pathogen of bone and joint infection in patients with sickle
-cell disease, alongside Staphylococcus aureus, and produces a particularly aggressive
-osteomyelitis that may be multifocal and is notoriously prone to relapse. Empirical
-antibiotic therapy in this population should include a third-generation cephalosporin.
+Salmonella is the characteristic pathogen of bone and joint infection in patients with sickle cell disease, alongside Staphylococcus aureus, and produces a particularly aggressive osteomyelitis that may be multifocal and is notoriously prone to relapse. Empirical antibiotic therapy in this population should include a third-generation cephalosporin.
 
-Pseudomonas aeruginosa
-Pseudomonas is the classical organism of puncture wounds of the foot through rubber-
-soled shoes, producing a characteristic osteochondritis of the metatarsal heads and tarsal
-bones; piperacillin-tazobactam, ceftazidime, and ciprofloxacin (in older patients) are
-standard agents.
+Pseudomonas aeruginosa Pseudomonas is the classical organism of puncture wounds of the foot through rubber-soled shoes, producing a characteristic osteochondritis of the metatarsal heads and tarsal bones; piperacillin-tazobactam, ceftazidime, and ciprofloxacin (in older patients) are standard agents.
 
 ## Anaerobic Infection
 
-Anaerobic osteomyelitis is uncommon but should be considered in chronic, foul-smelling,
-polymicrobial infections — particularly diabetic foot infections and infections of the pelvis
-after open pelvic trauma. Anaerobic culture techniques and prolonged incubation are
-required for diagnosis. Treatment combines surgical debridement with metronidazole or
-clindamycin in addition to the agents targeting any concurrent aerobic organisms.
+Anaerobic osteomyelitis is uncommon but should be considered in chronic, foul-smelling, polymicrobial infections — particularly diabetic foot infections and infections of the pelvis after open pelvic trauma. Anaerobic culture techniques and prolonged incubation are required for diagnosis. Treatment combines surgical debridement with metronidazole or clindamycin in addition to the agents targeting any concurrent aerobic organisms.
 
 ## Tuberculosis of Bones and Joints
 
 
 ## Epidemiology and Pathogenesis
 
-Bone and joint tuberculosis accounts for approximately 10-15% of extra-pulmonary
-tuberculosis. The disease is endemic in much of Africa, Asia, and parts of Eastern Europe,
-and has resurged in the developed world with HIV/AIDS, increased immigration, and the
-emergence of drug-resistant tuberculosis. The pathogenic mechanism is hematogenous
-spread of Mycobacterium tuberculosis from a primary pulmonary or gastrointestinal focus,
-with deposition in the metaphyses of long bones or the subchondral bone of joints. The
-granulomatous response — caseous necrosis surrounded by epithelioid macrophages,
-Langhans giant cells, and a lymphocytic cuff — is characteristic; with time, central
-caseation, cold abscess formation, and bony destruction develop. Unlike pyogenic infection,
-the response is indolent: months to years of progressive destruction without the systemic
-features of acute infection.
-Tuberculosis of the Spine (Pott’s Disease)
-Spinal tuberculosis, originally described by Sir Percival Pott in 1779, is the most common
-form of skeletal tuberculosis, accounting for approximately 50% of cases. The
-thoracolumbar junction is the most frequently affected region. The infection typically
-begins in the anterior aspect of the vertebral body, spreads under the anterior longitudinal
-ligament to involve adjacent vertebrae (in contrast to pyogenic spondylitis, which more
-commonly spreads through the disc to the adjacent vertebra), and progresses to
-destruction of the disc and adjacent endplates with collapse of the vertebral body. The
-characteristic gibbus deformity — a sharp angular kyphosis — results from anterior wedge
+Bone and joint tuberculosis accounts for approximately 10-15% of extra-pulmonary tuberculosis. The disease is endemic in much of Africa, Asia, and parts of Eastern Europe, and has resurged in the developed world with HIV/AIDS, increased immigration, and the emergence of drug-resistant tuberculosis. The pathogenic mechanism is hematogenous spread of Mycobacterium tuberculosis from a primary pulmonary or gastrointestinal focus, with deposition in the metaphyses of long bones or the subchondral bone of joints. The granulomatous response — caseous necrosis surrounded by epithelioid macrophages, Langhans giant cells, and a lymphocytic cuff — is characteristic; with time, central caseation, cold abscess formation, and bony destruction develop. Unlike pyogenic infection, the response is indolent: months to years of progressive destruction without the systemic features of acute infection. Tuberculosis of the Spine (Pott’s Disease) Spinal tuberculosis, originally described by Sir Percival Pott in 1779, is the most common form of skeletal tuberculosis, accounting for approximately 50% of cases. The thoracolumbar junction is the most frequently affected region. The infection typically begins in the anterior aspect of the vertebral body, spreads under the anterior longitudinal ligament to involve adjacent vertebrae (in contrast to pyogenic spondylitis, which more commonly spreads through the disc to the adjacent vertebra), and progresses to destruction of the disc and adjacent endplates with collapse of the vertebral body. The characteristic gibbus deformity — a sharp angular kyphosis — results from anterior wedge
 
-collapse of the affected vertebrae. Cold abscess formation in the prevertebral, paraspinal,
-psoas, or retropharyngeal spaces is typical; the psoas abscess may present as a flank or
-groin mass remote from the spinal level of disease. Neurological compromise — Pott’s
-paraplegia — occurs in 10-20% of cases, by direct compression from the abscess and
-necrotic debris (the so-called “early-onset” paraplegia, which is generally reversible with
-treatment) or by progressive bony deformity producing late-onset paraplegia.
-Diagnosis combines clinical suspicion in the appropriate epidemiological setting,
-characteristic imaging (MRI showing anterior vertebral destruction with subligamentous
-spread, paraspinal abscess with smooth thick-walled rim, and disc preservation early in
-disease followed by disc destruction later), positive interferon-gamma release assay or
-tuberculin skin testing, and definitive microbiological or histological diagnosis from CT-
-guided biopsy of the affected vertebra or abscess. Acid-fast staining is positive in only a
-minority of cases; culture (4-8 weeks) and PCR-based molecular diagnostics (GeneXpert)
-are more sensitive and provide drug-resistance information.
-Treatment is principally medical: four-drug antituberculous therapy (rifampicin, isoniazid,
-pyrazinamide, ethambutol) for 2 months followed by rifampicin and isoniazid for 7-10
-additional months — total duration 9-12 months — with extension for multidrug-resistant
-disease. Surgery is indicated for progressive neurological deficit, instability with severe
-deformity, large abscesses producing mass effect or persistent constitutional symptoms,
-and failure of medical therapy. The Hong Kong operation — radical anterior debridement,
-anterior strut grafting, and combined posterior instrumentation — has been the
-cornerstone of surgical management for advanced thoracolumbar disease, and more
-recently global pathology has shifted toward earlier MRI diagnosis with primary medical
-management and surgery reserved for specific indications.
+collapse of the affected vertebrae. Cold abscess formation in the prevertebral, paraspinal, psoas, or retropharyngeal spaces is typical; the psoas abscess may present as a flank or groin mass remote from the spinal level of disease. Neurological compromise — Pott’s paraplegia — occurs in 10-20% of cases, by direct compression from the abscess and necrotic debris (the so-called “early-onset” paraplegia, which is generally reversible with treatment) or by progressive bony deformity producing late-onset paraplegia. Diagnosis combines clinical suspicion in the appropriate epidemiological setting, characteristic imaging (MRI showing anterior vertebral destruction with subligamentous spread, paraspinal abscess with smooth thick-walled rim, and disc preservation early in disease followed by disc destruction later), positive interferon-gamma release assay or tuberculin skin testing, and definitive microbiological or histological diagnosis from CT-guided biopsy of the affected vertebra or abscess. Acid-fast staining is positive in only a minority of cases; culture (4-8 weeks) and PCR-based molecular diagnostics (GeneXpert) are more sensitive and provide drug-resistance information. Treatment is principally medical: four-drug antituberculous therapy (rifampicin, isoniazid, pyrazinamide, ethambutol) for 2 months followed by rifampicin and isoniazid for 7-10 additional months — total duration 9-12 months — with extension for multidrug-resistant disease. Surgery is indicated for progressive neurological deficit, instability with severe deformity, large abscesses producing mass effect or persistent constitutional symptoms, and failure of medical therapy. The Hong Kong operation — radical anterior debridement, anterior strut grafting, and combined posterior instrumentation — has been the cornerstone of surgical management for advanced thoracolumbar disease, and more recently global pathology has shifted toward earlier MRI diagnosis with primary medical management and surgery reserved for specific indications.
 
 ## Tuberculosis of the Hip
 
-Tuberculosis of the hip accounts for approximately 15% of osteoarticular tuberculosis. The
-infection may begin in the acetabulum, the femoral head, or the synovium; without
-treatment, progressive destruction of the joint surfaces with bony fusion or fibrous
-ankylosis is the natural history. Presentation is with insidious progressive hip pain, antalgic
-gait, and progressive loss of motion, with the limb classically held in flexion, adduction, and
-external rotation. Radiographs early in disease may show only osteopenia and joint-space
-narrowing; later, irregular destruction of the femoral head and acetabulum with reactive
-osteolysis but minimal sclerosis is characteristic — the so-called “wandering acetabulum”
-appearance. Treatment combines antituberculous chemotherapy, joint debridement when
-active disease is present, and reconstructive arthroplasty when active disease has been
-controlled and the joint is destroyed; reactivation of disease around a total hip arthroplasty
-has been described and is mitigated by continuation of chemotherapy throughout the
-perioperative period.
+Tuberculosis of the hip accounts for approximately 15% of osteoarticular tuberculosis. The infection may begin in the acetabulum, the femoral head, or the synovium; without treatment, progressive destruction of the joint surfaces with bony fusion or fibrous ankylosis is the natural history. Presentation is with insidious progressive hip pain, antalgic gait, and progressive loss of motion, with the limb classically held in flexion, adduction, and external rotation. Radiographs early in disease may show only osteopenia and joint-space narrowing; later, irregular destruction of the femoral head and acetabulum with reactive osteolysis but minimal sclerosis is characteristic — the so-called “wandering acetabulum” appearance. Treatment combines antituberculous chemotherapy, joint debridement when active disease is present, and reconstructive arthroplasty when active disease has been controlled and the joint is destroyed; reactivation of disease around a total hip arthroplasty has been described and is mitigated by continuation of chemotherapy throughout the perioperative period.
 
 
 ## Tuberculosis of the Knee
 
-Tuberculosis of the knee accounts for approximately 10% of osteoarticular tuberculosis
-and presents with progressive monoarticular pain, swelling, restricted motion, and often a
+Tuberculosis of the knee accounts for approximately 10% of osteoarticular tuberculosis and presents with progressive monoarticular pain, swelling, restricted motion, and often a
 
-positional flexion deformity. Radiographs show the classical Phemister triad of juxta-
-articular osteopenia, peripheral osseous erosions, and gradual narrowing of the joint space.
-Treatment combines antituberculous chemotherapy and synovectomy in active disease;
-arthrodesis or arthroplasty addresses end-stage joint destruction.
+positional flexion deformity. Radiographs show the classical Phemister triad of juxta-articular osteopenia, peripheral osseous erosions, and gradual narrowing of the joint space. Treatment combines antituberculous chemotherapy and synovectomy in active disease; arthrodesis or arthroplasty addresses end-stage joint destruction.
 
 ## Peripheral Tuberculous Arthritis and Tenosynovitis
 
-Tuberculous involvement of the wrist (carpal bones, tendons), ankle, elbow, and shoulder
-is less common but well described. The classical “compound palmar ganglion” —
-tuberculous tenosynovitis of the wrist flexors with a dumbbell-shaped swelling on either
-side of the flexor retinaculum — is a historical description still occasionally encountered.
-Tenosynovectomy combined with antituberculous chemotherapy is curative when applied
-at an early stage.
+Tuberculous involvement of the wrist (carpal bones, tendons), ankle, elbow, and shoulder is less common but well described. The classical “compound palmar ganglion” — tuberculous tenosynovitis of the wrist flexors with a dumbbell-shaped swelling on either side of the flexor retinaculum — is a historical description still occasionally encountered. Tenosynovectomy combined with antituberculous chemotherapy is curative when applied at an early stage.
 
 ## Principles of Antibiotic Therapy
 
-Antibiotic therapy for bone and joint infection follows several principles. First, samples for
-microbiology — joint aspirate, blood culture, deep tissue culture from surgical
-debridement — should be obtained before antibiotic administration whenever possible;
-the diagnostic yield falls precipitously after even a single dose. Second, empirical therapy
-should be guided by the most likely organisms in the relevant clinical context, with
-attention to age, host status, exposure history, and local resistance patterns; coverage is
-typically broad initially and narrowed once culture and sensitivity results return. Third, the
-route of administration is initially intravenous in nearly all cases of bone and joint
-infection, with conversion to oral therapy guided by clinical response, antimicrobial
-susceptibility, and oral agent bioavailability; the OVIVA trial demonstrated that early
-conversion to oral therapy is non-inferior to prolonged intravenous therapy in many bone
-and joint infections, and modern practice has progressively shortened intravenous courses.
-Fourth, the total duration of therapy varies by infection type and host: 4-6 weeks for acute
-hematogenous osteomyelitis, 6 weeks or more for chronic osteomyelitis after adequate
-debridement, 3-4 weeks for septic arthritis, 9-12 months for tuberculosis, and prolonged or
-lifelong suppression for some periprosthetic infections that cannot be definitively cleared.
-Fifth, monitoring of response uses clinical features, inflammatory markers (CRP and ESR),
-and where appropriate imaging; failure of CRP to fall by 50% within 5-7 days of
-appropriate therapy suggests inadequate debridement, unsuspected adjacent infection, or
-resistant organisms, and merits reinvestigation.
+Antibiotic therapy for bone and joint infection follows several principles. First, samples for microbiology — joint aspirate, blood culture, deep tissue culture from surgical debridement — should be obtained before antibiotic administration whenever possible; the diagnostic yield falls precipitously after even a single dose. Second, empirical therapy should be guided by the most likely organisms in the relevant clinical context, with attention to age, host status, exposure history, and local resistance patterns; coverage is typically broad initially and narrowed once culture and sensitivity results return. Third, the route of administration is initially intravenous in nearly all cases of bone and joint infection, with conversion to oral therapy guided by clinical response, antimicrobial susceptibility, and oral agent bioavailability; the OVIVA trial demonstrated that early conversion to oral therapy is non-inferior to prolonged intravenous therapy in many bone and joint infections, and modern practice has progressively shortened intravenous courses. Fourth, the total duration of therapy varies by infection type and host: 4-6 weeks for acute hematogenous osteomyelitis, 6 weeks or more for chronic osteomyelitis after adequate debridement, 3-4 weeks for septic arthritis, 9-12 months for tuberculosis, and prolonged or lifelong suppression for some periprosthetic infections that cannot be definitively cleared. Fifth, monitoring of response uses clinical features, inflammatory markers (CRP and ESR), and where appropriate imaging; failure of CRP to fall by 50% within 5-7 days of appropriate therapy suggests inadequate debridement, unsuspected adjacent infection, or resistant organisms, and merits reinvestigation.
 
 ## Surgical Principles of Debridement
 
-Surgical debridement is the foundation of management for any deep-seated bone or joint
-infection beyond the acute hematogenous case in which prompt antibiotic therapy can
-sterilize the focus. The principles, articulated by Cierny and others, are: thorough exposure
-of the affected region; identification and excision of all dead and infected tissue back to
-bleeding healthy tissue — the “Paprika sign”; obtain multiple representative samples for
-microbiology and histology; copious irrigation with sterile saline (the volume and pressure
-of irrigation are matters of ongoing debate, with high-pressure pulsatile lavage no longer
-favored in many centers because of concerns about tissue damage); management of the
+Surgical debridement is the foundation of management for any deep-seated bone or joint infection beyond the acute hematogenous case in which prompt antibiotic therapy can sterilize the focus. The principles, articulated by Cierny and others, are: thorough exposure of the affected region; identification and excision of all dead and infected tissue back to bleeding healthy tissue — the “Paprika sign”; obtain multiple representative samples for microbiology and histology; copious irrigation with sterile saline (the volume and pressure of irrigation are matters of ongoing debate, with high-pressure pulsatile lavage no longer favored in many centers because of concerns about tissue damage); management of the
 
-dead space created by debridement, by primary closure where soft-tissue coverage
-permits, by local muscle flap or rotational flap, by free vascularized tissue transfer for
-major defects, or by staged management with antibiotic-loaded cement spacer or vacuum-
-assisted closure; restoration of skeletal stability where required, by internal or external
-fixation as appropriate to the situation; and continuation of organism-directed antibiotic
-therapy for an adequate duration. Repeat debridement at 48-72 hours is appropriate for
-any major debridement in which all infected tissue cannot be confidently excised at the
-index procedure; the practice of “second-look” debridement is well established in implant-
-related infections, in heavily contaminated open fractures, and in necrotizing soft-tissue
-infections.
+dead space created by debridement, by primary closure where soft-tissue coverage permits, by local muscle flap or rotational flap, by free vascularized tissue transfer for major defects, or by staged management with antibiotic-loaded cement spacer or vacuum-assisted closure; restoration of skeletal stability where required, by internal or external fixation as appropriate to the situation; and continuation of organism-directed antibiotic therapy for an adequate duration. Repeat debridement at 48-72 hours is appropriate for any major debridement in which all infected tissue cannot be confidently excised at the index procedure; the practice of “second-look” debridement is well established in implant-related infections, in heavily contaminated open fractures, and in necrotizing soft-tissue infections.
 
 ## Necrotizing Soft-Tissue Infections
 
-Although technically not a bone or joint infection, necrotizing fasciitis must be addressed as
-a true orthopedic emergency in any review of musculoskeletal infection. The disease —
-Group A streptococcal in approximately half of cases, polymicrobial in much of the
-remainder, and clostridial gas gangrene in a small but historically important fraction —
-produces rapidly progressive necrosis of the subcutaneous fat and fascia with relative
-sparing of muscle and skin. Presentation is often deceptively benign: localized erythema
-and tenderness, with pain disproportionate to the apparent clinical findings, progressing
-within hours to systemic toxicity, hypotension, and multi-organ failure. The LRINEC score
-(Laboratory Risk Indicator for Necrotizing Fasciitis), based on serum CRP, WBC,
-hemoglobin, sodium, creatinine, and glucose, supports the clinical suspicion. Treatment is
-immediate aggressive surgical debridement of all involved tissue — often requiring serial
-debridements over several days — combined with broad-spectrum antibiotic therapy
-including clindamycin (which suppresses streptococcal toxin production), penicillin,
-vancomycin or linezolid for MRSA coverage, and an aminoglycoside or quinolone for Gram-
-negative coverage. Mortality remains 20-30% even with optimal management; the single
-most important determinant of survival is the time from presentation to the first surgical
-debridement.
+Although technically not a bone or joint infection, necrotizing fasciitis must be addressed as a true orthopedic emergency in any review of musculoskeletal infection. The disease — Group A streptococcal in approximately half of cases, polymicrobial in much of the remainder, and clostridial gas gangrene in a small but historically important fraction — produces rapidly progressive necrosis of the subcutaneous fat and fascia with relative sparing of muscle and skin. Presentation is often deceptively benign: localized erythema and tenderness, with pain disproportionate to the apparent clinical findings, progressing within hours to systemic toxicity, hypotension, and multi-organ failure. The LRINEC score (Laboratory Risk Indicator for Necrotizing Fasciitis), based on serum CRP, WBC, hemoglobin, sodium, creatinine, and glucose, supports the clinical suspicion. Treatment is immediate aggressive surgical debridement of all involved tissue — often requiring serial debridements over several days — combined with broad-spectrum antibiotic therapy including clindamycin (which suppresses streptococcal toxin production), penicillin, vancomycin or linezolid for MRSA coverage, and an aminoglycoside or quinolone for Gram-negative coverage. Mortality remains 20-30% even with optimal management; the single most important determinant of survival is the time from presentation to the first surgical debridement.
 
 ## Summary and Take-Home Points
 
-The bone and joint infections form a critical area of orthopedic practice in which the
-principles of diagnosis, antibiotic selection, and surgical debridement together determine
-outcomes that range from full recovery to limb-threatening or life-threatening sepsis. Acute
-hematogenous osteomyelitis in the child is most often staphylococcal and responds well to
-prompt antibiotic therapy with selective surgical drainage; subacute and chronic
-osteomyelitis require systematic debridement and prolonged organism-directed therapy
-guided by the Cierny-Mader framework. Septic arthritis is a surgical emergency in which
-the Kocher criteria, urgent aspiration, and prompt drainage with parenteral antibiotic
-therapy preserve cartilage and joint function. The contemporary microbiological landscape
-is dominated by Staphylococcus aureus, increasingly MRSA, with Kingella kingae as the
-leading pediatric pathogen and specific organisms — Salmonella in sickle cell disease,
-Pseudomonas in plantar puncture wounds, anaerobes in diabetic foot infections — relevant
-to specific contexts. Tuberculosis of bones and joints remains an important global cause of
+The bone and joint infections form a critical area of orthopedic practice in which the principles of diagnosis, antibiotic selection, and surgical debridement together determine outcomes that range from full recovery to limb-threatening or life-threatening sepsis. Acute hematogenous osteomyelitis in the child is most often staphylococcal and responds well to prompt antibiotic therapy with selective surgical drainage; subacute and chronic osteomyelitis require systematic debridement and prolonged organism-directed therapy guided by the Cierny-Mader framework. Septic arthritis is a surgical emergency in which the Kocher criteria, urgent aspiration, and prompt drainage with parenteral antibiotic therapy preserve cartilage and joint function. The contemporary microbiological landscape is dominated by Staphylococcus aureus, increasingly MRSA, with Kingella kingae as the leading pediatric pathogen and specific organisms — Salmonella in sickle cell disease, Pseudomonas in plantar puncture wounds, anaerobes in diabetic foot infections — relevant to specific contexts. Tuberculosis of bones and joints remains an important global cause of
 
-indolent musculoskeletal destruction, with Pott’s disease of the spine, tuberculous hip
-arthritis, and tuberculous knee arthritis as the principal forms; treatment is principally
-medical, with multidrug antituberculous chemotherapy continued for 9-12 months and
-surgery reserved for specific indications of neurological deficit, mechanical instability, and
-end-stage joint destruction. Across all of these conditions, the principles of early diagnosis,
-appropriate microbiological sampling, organism-directed antibiotic therapy, adequate
-surgical debridement when indicated, and careful long-term follow-up determine the
-difference between cure and chronic suppression.
+indolent musculoskeletal destruction, with Pott’s disease of the spine, tuberculous hip arthritis, and tuberculous knee arthritis as the principal forms; treatment is principally medical, with multidrug antituberculous chemotherapy continued for 9-12 months and surgery reserved for specific indications of neurological deficit, mechanical instability, and end-stage joint destruction. Across all of these conditions, the principles of early diagnosis, appropriate microbiological sampling, organism-directed antibiotic therapy, adequate surgical debridement when indicated, and careful long-term follow-up determine the difference between cure and chronic suppression.

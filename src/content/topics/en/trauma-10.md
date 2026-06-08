@@ -9,360 +9,91 @@ order: 110
 
 ## Introduction
 
-The spinal column is unique among the orthopedic regions in combining a mechanical
-function — load transmission between the skull, the trunk, and the pelvis — with a
-protective function for the neural elements that lie within. Fractures and dislocations of the
-spine therefore carry two parallel concerns at every stage of management: the mechanical
-stability of the bony column, and the actual or potential injury to the neural elements. The
-present chapter focuses on the management of spinal fractures and dislocations occurring
-without neurological injury, recognizing that absence of neurological deficit at
-presentation does not exclude either occult cord injury or the potential for delayed
-deterioration if instability is unrecognized. The principles of management for cord-injury
-cases — corticosteroid debates, surgical timing, rehabilitation — are a substantial subject
-in their own right and are not addressed here.
-The chapter is organized regionally — craniocervical junction, subaxial cervical,
-thoracolumbar — because the anatomical considerations and classification systems differ
-at each level. It draws principally on Rothman-Simeone The Spine, AO Principles of
-Fracture Management, Rockwood and Green’s, and Miller’s Review of Orthopaedics, and
-synthesizes the contemporary classifications (AO Spine, TLICS) that have largely replaced
-their predecessors (Denis three-column theory, Magerl-Gertzbein) in routine clinical
-practice while building on their conceptual foundations.
+The spinal column is unique among the orthopedic regions in combining a mechanical function — load transmission between the skull, the trunk, and the pelvis — with a protective function for the neural elements that lie within. Fractures and dislocations of the spine therefore carry two parallel concerns at every stage of management: the mechanical stability of the bony column, and the actual or potential injury to the neural elements. The present chapter focuses on the management of spinal fractures and dislocations occurring without neurological injury, recognizing that absence of neurological deficit at presentation does not exclude either occult cord injury or the potential for delayed deterioration if instability is unrecognized. The principles of management for cord-injury cases — corticosteroid debates, surgical timing, rehabilitation — are a substantial subject in their own right and are not addressed here. The chapter is organized regionally — craniocervical junction, subaxial cervical, thoracolumbar — because the anatomical considerations and classification systems differ at each level. It draws principally on Rothman-Simeone The Spine, AO Principles of Fracture Management, Rockwood and Green’s, and Miller’s Review of Orthopaedics, and synthesizes the contemporary classifications (AO Spine, TLICS) that have largely replaced their predecessors (Denis three-column theory, Magerl-Gertzbein) in routine clinical practice while building on their conceptual foundations.
 
 ## Initial Assessment of the Spine-Injured Patient
 
-The patient with suspected spinal injury arrives in the trauma bay with a spinal precaution
-package — rigid cervical collar, log-roll handling, backboard transfer — that should be
-maintained until the spine has been cleared. Clearance of the cervical spine in the awake,
-neurologically intact, cooperative patient without distracting injury and without midline
-tenderness can be achieved clinically using the NEXUS criteria (Hoffman et al., 2000) or
-the Canadian C-Spine Rule (Stiell et al., 2001), which together have been validated in
-large populations as effective at identifying patients who can have their collars safely
-removed without imaging. The Canadian rule applies to alert, stable trauma patients aged
-16 and over; high-risk factors (age over 65, dangerous mechanism, paresthesias in
-extremities) mandate imaging, while the presence of low-risk factors (simple rear-end
-collision, sitting position in ED, ambulatory at any time, delayed onset of neck pain, absence
-of midline tenderness) permits assessment of active rotation — if the patient can rotate the
-neck 45 degrees in each direction, the collar can be removed.
-The patient who fails clinical clearance, or who is obtunded or unable to be examined,
-requires imaging. CT is now the imaging modality of choice for spinal trauma in adults,
-having replaced plain radiographs in most trauma centers because of substantially
-improved sensitivity, particularly at the craniocervical junction and the cervicothoracic
-junction. MRI is reserved for the patient with neurological deficit out of proportion to the
+The patient with suspected spinal injury arrives in the trauma bay with a spinal precaution package — rigid cervical collar, log-roll handling, backboard transfer — that should be maintained until the spine has been cleared. Clearance of the cervical spine in the awake, neurologically intact, cooperative patient without distracting injury and without midline tenderness can be achieved clinically using the NEXUS criteria (Hoffman et al., 2000) or the Canadian C-Spine Rule (Stiell et al., 2001), which together have been validated in large populations as effective at identifying patients who can have their collars safely removed without imaging. The Canadian rule applies to alert, stable trauma patients aged 16 and over; high-risk factors (age over 65, dangerous mechanism, paresthesias in extremities) mandate imaging, while the presence of low-risk factors (simple rear-end collision, sitting position in ED, ambulatory at any time, delayed onset of neck pain, absence of midline tenderness) permits assessment of active rotation — if the patient can rotate the neck 45 degrees in each direction, the collar can be removed. The patient who fails clinical clearance, or who is obtunded or unable to be examined, requires imaging. CT is now the imaging modality of choice for spinal trauma in adults, having replaced plain radiographs in most trauma centers because of substantially improved sensitivity, particularly at the craniocervical junction and the cervicothoracic junction. MRI is reserved for the patient with neurological deficit out of proportion to the
 
-bony findings, for suspected discoligamentous injury without bony injury, and for the
-obtunded patient with negative CT in whom occult ligamentous injury remains a concern;
-the role of MRI in this last setting remains debated and varies by institutional protocol.
-The neurological examination, performed and documented systematically using the ASIA
-(American Spinal Injury Association) impairment scale, establishes baseline
-neurological status. A normal neurological examination, however, does not exclude occult
-injury — the absence of deficit reflects integrity of the cord as tested but does not address
-the structural stability of the column. The decision to operate is guided as much by
-structural instability as by neurological involvement.
+bony findings, for suspected discoligamentous injury without bony injury, and for the obtunded patient with negative CT in whom occult ligamentous injury remains a concern; the role of MRI in this last setting remains debated and varies by institutional protocol. The neurological examination, performed and documented systematically using the ASIA (American Spinal Injury Association) impairment scale, establishes baseline neurological status. A normal neurological examination, however, does not exclude occult injury — the absence of deficit reflects integrity of the cord as tested but does not address the structural stability of the column. The decision to operate is guided as much by structural instability as by neurological involvement.
 
 ## Craniocervical Junction Injuries
 
-The occipitocervical junction (occiput, atlas, axis) accounts for approximately one-third
-of all cervical fractures and is the site of several injuries with characteristic mechanisms
-and characteristic management.
+The occipitocervical junction (occiput, atlas, axis) accounts for approximately one-third of all cervical fractures and is the site of several injuries with characteristic mechanisms and characteristic management.
 
 ## Occipital Condyle Fractures
 
-The Anderson and Montesano classification (1988) divides occipital condyle fractures
-into three types. Type I is a comminuted impacted condylar fracture from axial load; the
-alar ligaments and tectorial membrane are intact and the injury is stable. Type II is a
-basilar skull fracture that extends into the condyle; stability depends on the integrity of the
-alar ligaments. Type III is an avulsion of the condyle by the alar ligament from a rotation-
-distraction mechanism; this is the unstable pattern. Type I and most type II injuries are
-treated with a rigid cervical orthosis for 6 to 12 weeks; type III injuries with evidence of
-craniocervical instability require occipitocervical fusion.
+The Anderson and Montesano classification (1988) divides occipital condyle fractures into three types. Type I is a comminuted impacted condylar fracture from axial load; the alar ligaments and tectorial membrane are intact and the injury is stable. Type II is a basilar skull fracture that extends into the condyle; stability depends on the integrity of the alar ligaments. Type III is an avulsion of the condyle by the alar ligament from a rotation-distraction mechanism; this is the unstable pattern. Type I and most type II injuries are treated with a rigid cervical orthosis for 6 to 12 weeks; type III injuries with evidence of craniocervical instability require occipitocervical fusion.
 
 ## Atlanto-Occipital Dissociation
 
-Atlanto-occipital dissociation, historically a near-uniformly fatal injury, has become a more
-frequent diagnosis with improved imaging and improved field care. The Traynelis
-classification (1986) describes anterior, vertical, and posterior dissociation patterns. The
-Powers ratio (the ratio of the distance from the basion to the posterior arch of C1 to the
-distance from the opisthion to the anterior arch of C1) greater than 1.0 is suggestive of
-anterior dissociation but lacks sensitivity. CT measurements of the basion-dens interval
-(BDI, normal <12 mm) and basion-axial interval (BAI, normal <12 mm) are more
-reliable. Confirmation is by MRI demonstration of tectorial membrane and alar ligament
-disruption. Treatment is occipitocervical fusion in virtually every case, with the patient
-managed in a halo until definitive stabilization.
+Atlanto-occipital dissociation, historically a near-uniformly fatal injury, has become a more frequent diagnosis with improved imaging and improved field care. The Traynelis classification (1986) describes anterior, vertical, and posterior dissociation patterns. The Powers ratio (the ratio of the distance from the basion to the posterior arch of C1 to the distance from the opisthion to the anterior arch of C1) greater than 1.0 is suggestive of anterior dissociation but lacks sensitivity. CT measurements of the basion-dens interval (BDI, normal <12 mm) and basion-axial interval (BAI, normal <12 mm) are more reliable. Confirmation is by MRI demonstration of tectorial membrane and alar ligament disruption. Treatment is occipitocervical fusion in virtually every case, with the patient managed in a halo until definitive stabilization.
 
 ## C1 (Atlas) Fractures — The Jefferson Fracture
 
-The Jefferson fracture, named after Geoffrey Jefferson’s 1920 description, is the burst
-fracture of the atlas — typically a four-part fracture with breaks in both the anterior and
-posterior arches produced by axial load. The Levine and Edwards classification of atlas
-fractures recognizes posterior arch fracture, isolated anterior arch fracture, lateral mass
-fracture, and Jefferson burst fracture. Stability is determined by the integrity of the
+The Jefferson fracture, named after Geoffrey Jefferson’s 1920 description, is the burst fracture of the atlas — typically a four-part fracture with breaks in both the anterior and posterior arches produced by axial load. The Levine and Edwards classification of atlas fractures recognizes posterior arch fracture, isolated anterior arch fracture, lateral mass fracture, and Jefferson burst fracture. Stability is determined by the integrity of the
 
-transverse atlantal ligament (TAL), which holds the dens against the anterior arch of C1.
-The rule of Spence holds that combined lateral mass displacement on the open-mouth
-odontoid radiograph (total displacement of both C1 lateral masses relative to C2) greater
-than 7 mm indicates TAL disruption and an unstable injury. The Dickman classification of
-TAL injury distinguishes type I (intraligamentous, requires fusion) from type II (bony
-avulsion, treatable in a rigid collar). Stable Jefferson fractures heal in a rigid cervical
-orthosis for 8 to 12 weeks; unstable Jefferson fractures with TAL disruption require C1-C2
-or occipitocervical fusion.
-C2 (Axis) Fractures — Odontoid and Hangman’s Fractures
-The Anderson and D’Alonzo classification (1974) of odontoid (dens) fractures has been
-the cornerstone of management for half a century. Type I is an oblique fracture of the
-upper part of the dens, generally an avulsion of the alar ligament; these are rare, usually
-stable, and treated in a rigid collar, though atlanto-occipital instability must be excluded.
-Type II is a fracture at the base of the dens, at the junction with the body of C2; these are
-the most common odontoid fractures and have a notoriously high rate of nonunion (30 to
-50 percent with conservative treatment) because of the watershed blood supply at the base
-of the dens and the high mechanical demand. Type III extends into the cancellous body of
-C2 and has a much better healing rate (~90 percent) with conservative treatment.
-The treatment of type II odontoid fractures is the central management decision. Risk
-factors for nonunion include age over 50, displacement greater than 5 mm, angulation
-greater than 10 degrees, and posterior displacement. The treatment options are halo vest
-immobilization, anterior odontoid screw fixation (described by Böhler in 1982; preserves
-rotation by avoiding C1-C2 fusion), and posterior C1-C2 fusion (Magerl transarticular
-screws or Harms-Goel C1 lateral mass / C2 pars screws). Anterior screw fixation is
-contraindicated by oblique fracture line orientation (anterior-superior to posterior-
-inferior, which makes screw purchase impossible), comminuted fracture, displacement
-greater than 6 mm, established nonunion, barrel chest with thoracic kyphosis preventing
-instrument trajectory, and short neck. The elderly patient with a type II fracture poses a
-particular dilemma — halo vest morbidity is high in this population (pulmonary
-complications, mortality), and many centers now favor posterior C1-C2 fusion or even non-
-operative treatment with simple rigid collar for the very elderly with displaced type II
-fractures, accepting nonunion in exchange for tolerable morbidity.
-The Hangman’s fracture — the traumatic spondylolisthesis of C2 — is named after the
-historical judicial hanging mechanism but more commonly results today from motor
-vehicle accidents and falls. The Levine and Edwards classification (1985) recognizes
-four types. Type I is a non-displaced fracture (less than 3 mm displacement, no angulation)
-treated in a rigid collar. Type II has more than 3 mm displacement with significant
-angulation; treated in halo. Type IIA is a variant with significant angulation but minimal
-translation, produced by flexion-distraction; treated in halo (traction is contraindicated
-because it worsens the deformity). Type III has the C2-3 facet dislocation in addition to the
-pars fracture; this is the unstable pattern that frequently presents with neurological deficit
-and requires open reduction and posterior fusion.
+transverse atlantal ligament (TAL), which holds the dens against the anterior arch of C1. The rule of Spence holds that combined lateral mass displacement on the open-mouth odontoid radiograph (total displacement of both C1 lateral masses relative to C2) greater than 7 mm indicates TAL disruption and an unstable injury. The Dickman classification of TAL injury distinguishes type I (intraligamentous, requires fusion) from type II (bony avulsion, treatable in a rigid collar). Stable Jefferson fractures heal in a rigid cervical orthosis for 8 to 12 weeks; unstable Jefferson fractures with TAL disruption require C1-C2 or occipitocervical fusion. C2 (Axis) Fractures — Odontoid and Hangman’s Fractures The Anderson and D’Alonzo classification (1974) of odontoid (dens) fractures has been the cornerstone of management for half a century. Type I is an oblique fracture of the upper part of the dens, generally an avulsion of the alar ligament; these are rare, usually stable, and treated in a rigid collar, though atlanto-occipital instability must be excluded. Type II is a fracture at the base of the dens, at the junction with the body of C2; these are the most common odontoid fractures and have a notoriously high rate of nonunion (30 to 50 percent with conservative treatment) because of the watershed blood supply at the base of the dens and the high mechanical demand. Type III extends into the cancellous body of C2 and has a much better healing rate (~90 percent) with conservative treatment. The treatment of type II odontoid fractures is the central management decision. Risk factors for nonunion include age over 50, displacement greater than 5 mm, angulation greater than 10 degrees, and posterior displacement. The treatment options are halo vest immobilization, anterior odontoid screw fixation (described by Böhler in 1982; preserves rotation by avoiding C1-C2 fusion), and posterior C1-C2 fusion (Magerl transarticular screws or Harms-Goel C1 lateral mass / C2 pars screws). Anterior screw fixation is contraindicated by oblique fracture line orientation (anterior-superior to posterior-inferior, which makes screw purchase impossible), comminuted fracture, displacement greater than 6 mm, established nonunion, barrel chest with thoracic kyphosis preventing instrument trajectory, and short neck. The elderly patient with a type II fracture poses a particular dilemma — halo vest morbidity is high in this population (pulmonary complications, mortality), and many centers now favor posterior C1-C2 fusion or even non-operative treatment with simple rigid collar for the very elderly with displaced type II fractures, accepting nonunion in exchange for tolerable morbidity. The Hangman’s fracture — the traumatic spondylolisthesis of C2 — is named after the historical judicial hanging mechanism but more commonly results today from motor vehicle accidents and falls. The Levine and Edwards classification (1985) recognizes four types. Type I is a non-displaced fracture (less than 3 mm displacement, no angulation) treated in a rigid collar. Type II has more than 3 mm displacement with significant angulation; treated in halo. Type IIA is a variant with significant angulation but minimal translation, produced by flexion-distraction; treated in halo (traction is contraindicated because it worsens the deformity). Type III has the C2-3 facet dislocation in addition to the pars fracture; this is the unstable pattern that frequently presents with neurological deficit and requires open reduction and posterior fusion.
 
 ## Subaxial Cervical Spine (C3 to C7)
 
-The subaxial cervical spine extends from C3 to C7 and is the most common site of cervical
-spinal injury overall. The AO Spine Subaxial Cervical Spine Injury Classification
-(Vaccaro et al., 2016) has largely replaced the older Allen-Ferguson classification. The AO
-system organizes injuries into three morphologic categories — A: compression injuries;
-B: tension-band injuries; C: translation/dislocation injuries — graded by severity
-within each category, supplemented by facet injury subtype and neurological grade.
-Modifiers describe additional injury features.
+The subaxial cervical spine extends from C3 to C7 and is the most common site of cervical spinal injury overall. The AO Spine Subaxial Cervical Spine Injury Classification (Vaccaro et al., 2016) has largely replaced the older Allen-Ferguson classification. The AO system organizes injuries into three morphologic categories — A: compression injuries; B: tension-band injuries; C: translation/dislocation injuries — graded by severity within each category, supplemented by facet injury subtype and neurological grade. Modifiers describe additional injury features.
 
 
 ## Compression Injuries (A)
 
-A0 is a minor non-structural fracture (e.g., transverse process). A1 is a wedge compression
-of the endplate. A2 is a coronal split (pincer) fracture without retropulsion. A3 is an
-incomplete burst (one endplate involved with retropulsion of fragments). A4 is a complete
-burst with both endplates involved. Treatment of A1-A2 injuries is typically non-operative
-in a cervical orthosis for 8 to 12 weeks; A3-A4 injuries may require operative stabilization
-if there is significant retropulsion, angular deformity, or neurological involvement, typically
-by anterior cervical corpectomy with cage reconstruction and plate fixation.
+A0 is a minor non-structural fracture (e.g., transverse process). A1 is a wedge compression of the endplate. A2 is a coronal split (pincer) fracture without retropulsion. A3 is an incomplete burst (one endplate involved with retropulsion of fragments). A4 is a complete burst with both endplates involved. Treatment of A1-A2 injuries is typically non-operative in a cervical orthosis for 8 to 12 weeks; A3-A4 injuries may require operative stabilization if there is significant retropulsion, angular deformity, or neurological involvement, typically by anterior cervical corpectomy with cage reconstruction and plate fixation.
 
 ## Tension-Band Injuries (B)
 
-B1 is a transosseous tension-band disruption (the bony Chance equivalent). B2 is a
-posterior ligamentous tension-band disruption. B3 is an anterior tension-band disruption
-— the hyperextension injury typical of the elderly with pre-existing ankylosing
-spondylitis or diffuse idiopathic skeletal hyperostosis (DISH), where the rigid spine fails
-through the anterior column. The B3 hyperextension injury in the ankylosed spine is
-particularly treacherous; despite frequently subtle radiographic appearance, instability is
-profound, and many such patients are misdiagnosed and worsen with mobilization.
-Operative stabilization is the rule for tension-band injuries with displacement.
-Translation/Dislocation Injuries (C)
-Type C injuries include the perched and locked facets, unilateral and bilateral facet
-dislocations, and frank translation. Unilateral facet dislocation typically produces
-approximately 25 percent translation at the involved level; bilateral facet dislocation
-produces 50 percent or more. Treatment requires reduction (closed reduction with
-traction in the awake, neurologically examinable patient, after careful MRI evaluation for
-traumatic disc herniation that could cause cord compromise with reduction — the “Vaccaro
-question” debated in the late 1990s), followed by surgical stabilization. The choice between
-anterior cervical discectomy and fusion (ACDF) and posterior fusion depends on the
-configuration: posterior facet capsule disruption and locked facets that fail closed
-reduction typically require posterior open reduction; significant disc disruption is treated
-by ACDF; the most disrupted injuries with combined facet and disc involvement require
-combined anterior-posterior fusion.
+B1 is a transosseous tension-band disruption (the bony Chance equivalent). B2 is a posterior ligamentous tension-band disruption. B3 is an anterior tension-band disruption — the hyperextension injury typical of the elderly with pre-existing ankylosing spondylitis or diffuse idiopathic skeletal hyperostosis (DISH), where the rigid spine fails through the anterior column. The B3 hyperextension injury in the ankylosed spine is particularly treacherous; despite frequently subtle radiographic appearance, instability is profound, and many such patients are misdiagnosed and worsen with mobilization. Operative stabilization is the rule for tension-band injuries with displacement. Translation/Dislocation Injuries (C) Type C injuries include the perched and locked facets, unilateral and bilateral facet dislocations, and frank translation. Unilateral facet dislocation typically produces approximately 25 percent translation at the involved level; bilateral facet dislocation produces 50 percent or more. Treatment requires reduction (closed reduction with traction in the awake, neurologically examinable patient, after careful MRI evaluation for traumatic disc herniation that could cause cord compromise with reduction — the “Vaccaro question” debated in the late 1990s), followed by surgical stabilization. The choice between anterior cervical discectomy and fusion (ACDF) and posterior fusion depends on the configuration: posterior facet capsule disruption and locked facets that fail closed reduction typically require posterior open reduction; significant disc disruption is treated by ACDF; the most disrupted injuries with combined facet and disc involvement require combined anterior-posterior fusion.
 
 ## Thoracolumbar Spine — Classification Systems
 
 
 ## Denis Three-Column Theory
 
-The Denis three-column theory (1983), although largely superseded by more recent
-classifications, remains conceptually important and is still widely referenced. The columns
-are: anterior column (anterior longitudinal ligament, anterior half of vertebral body and
-disc), middle column (posterior half of vertebral body and disc, posterior longitudinal
-ligament), and posterior column (pedicles, lamina, facets, spinous process, supraspinous
-and interspinous ligaments, ligamentum flavum). Stability requires intact middle column
-plus at least one of the other two — disruption of two columns indicates an unstable injury.
-Denis classified fractures into compression (anterior column failure in compression,
-posterior column failure in tension; middle column intact), burst (anterior and middle
-column failure in compression), seatbelt or Chance (posterior or all-column failure in
-flexion-distraction), and fracture-dislocation (all three columns disrupted with
-translation). The system was clinically useful but has been criticized for the operational
-difficulty of assessing middle-column status from imaging alone and for its limited ability to
-predict outcome in borderline injuries.
+The Denis three-column theory (1983), although largely superseded by more recent classifications, remains conceptually important and is still widely referenced. The columns are: anterior column (anterior longitudinal ligament, anterior half of vertebral body and disc), middle column (posterior half of vertebral body and disc, posterior longitudinal ligament), and posterior column (pedicles, lamina, facets, spinous process, supraspinous and interspinous ligaments, ligamentum flavum). Stability requires intact middle column plus at least one of the other two — disruption of two columns indicates an unstable injury. Denis classified fractures into compression (anterior column failure in compression, posterior column failure in tension; middle column intact), burst (anterior and middle column failure in compression), seatbelt or Chance (posterior or all-column failure in flexion-distraction), and fracture-dislocation (all three columns disrupted with translation). The system was clinically useful but has been criticized for the operational difficulty of assessing middle-column status from imaging alone and for its limited ability to predict outcome in borderline injuries.
 
 ## The TLICS System
 
-The Thoracolumbar Injury Classification and Severity Score (TLICS; Vaccaro et al.,
-2005) was developed to address these limitations by combining injury morphology,
-neurological status, and integrity of the posterior ligamentous complex into a quantitative
-score that directs management. Injury morphology: compression (1 point), burst (2
-points), translation/rotation (3 points), distraction (4 points). Neurological status: intact
-(0), nerve root (2), incomplete cord or conus (3), complete cord (2), cauda equina (3).
-Posterior ligamentous complex (PLC) integrity: intact (0), suspected/indeterminate (2),
-disrupted (3). Total score ≤3 indicates non-operative management; ≥5 indicates operative
-management; 4 is a “gray zone” with surgeon discretion. The system has been validated
-extensively and is now widely used. The PLC component is critical and is best assessed on
-MRI; clues on plain imaging include widening of the interspinous distance (“fanning”),
-kyphosis greater than 20 to 30 degrees, and frank dislocation.
+The Thoracolumbar Injury Classification and Severity Score (TLICS; Vaccaro et al., 2005) was developed to address these limitations by combining injury morphology, neurological status, and integrity of the posterior ligamentous complex into a quantitative score that directs management. Injury morphology: compression (1 point), burst (2 points), translation/rotation (3 points), distraction (4 points). Neurological status: intact (0), nerve root (2), incomplete cord or conus (3), complete cord (2), cauda equina (3). Posterior ligamentous complex (PLC) integrity: intact (0), suspected/indeterminate (2), disrupted (3). Total score ≤3 indicates non-operative management; ≥5 indicates operative management; 4 is a “gray zone” with surgeon discretion. The system has been validated extensively and is now widely used. The PLC component is critical and is best assessed on MRI; clues on plain imaging include widening of the interspinous distance (“fanning”), kyphosis greater than 20 to 30 degrees, and frank dislocation.
 
 ## AO Spine Thoracolumbar Classification
 
-The AO Spine Thoracolumbar Classification (Vaccaro et al., 2013), parallel in structure
-to the subaxial cervical classification, has gained increasing use. The morphologic types are
-A: compression, B: tension-band, C: translation. Compression injuries are subdivided A0
-(minor), A1 (wedge), A2 (split), A3 (incomplete burst), A4 (complete burst). Tension-band
-injuries are B1 (bony Chance), B2 (PLC disruption with bony involvement), B3 (anterior
-tension-band disruption in ankylosed spine). Translation injuries are C (any translation in
-any plane). The neurological status modifier (N0–N4) and patient-specific modifiers (M1:
-indeterminate PLC; M2: comorbidity) supplement the morphologic grade.
+The AO Spine Thoracolumbar Classification (Vaccaro et al., 2013), parallel in structure to the subaxial cervical classification, has gained increasing use. The morphologic types are A: compression, B: tension-band, C: translation. Compression injuries are subdivided A0 (minor), A1 (wedge), A2 (split), A3 (incomplete burst), A4 (complete burst). Tension-band injuries are B1 (bony Chance), B2 (PLC disruption with bony involvement), B3 (anterior tension-band disruption in ankylosed spine). Translation injuries are C (any translation in any plane). The neurological status modifier (N0–N4) and patient-specific modifiers (M1: indeterminate PLC; M2: comorbidity) supplement the morphologic grade.
 
 ## Specific Thoracolumbar Injuries
 
-Compression Fractures (A1, A2)
-Compression fractures involve anterior column failure with preserved middle column. The
-classical mechanism is axial loading combined with flexion, producing an anterior wedge
-deformity. The vast majority are stable and treated non-operatively. Loss of vertebral
-body height >50%, kyphosis >30°, multiple adjacent levels with cumulative kyphosis,
-or evidence of posterior ligamentous involvement may shift management toward
-operative stabilization. Most patients are managed in a Jewett or Cash brace (extension
-orthosis) or thoracolumbosacral orthosis (TLSO) for 8 to 12 weeks, with early mobilization
-and progressive weight bearing.
-Osteoporotic vertebral compression fractures, although technically a separate entity,
-deserve mention. The natural history is generally favorable, with most patients improving
-with analgesics and bracing within 6 to 12 weeks. Vertebroplasty (percutaneous PMMA
-injection) and kyphoplasty (balloon tamp followed by PMMA injection) were initially
-enthusiastically adopted but have had a more difficult course since the two 2009 NEJM
-trials (Buchbinder et al.; Kallmes et al.) showed no superiority of vertebroplasty over sham
-procedure for chronic pain. Subsequent trials including VAPOUR (2016) have
-demonstrated benefit in carefully selected patients with severe pain and acute fractures
-(<6 weeks). The technique remains in regular use but is no longer the default treatment for
-all osteoporotic compression fractures.
+Compression Fractures (A1, A2) Compression fractures involve anterior column failure with preserved middle column. The classical mechanism is axial loading combined with flexion, producing an anterior wedge deformity. The vast majority are stable and treated non-operatively. Loss of vertebral body height >50%, kyphosis >30°, multiple adjacent levels with cumulative kyphosis, or evidence of posterior ligamentous involvement may shift management toward operative stabilization. Most patients are managed in a Jewett or Cash brace (extension orthosis) or thoracolumbosacral orthosis (TLSO) for 8 to 12 weeks, with early mobilization and progressive weight bearing. Osteoporotic vertebral compression fractures, although technically a separate entity, deserve mention. The natural history is generally favorable, with most patients improving with analgesics and bracing within 6 to 12 weeks. Vertebroplasty (percutaneous PMMA injection) and kyphoplasty (balloon tamp followed by PMMA injection) were initially enthusiastically adopted but have had a more difficult course since the two 2009 NEJM trials (Buchbinder et al.; Kallmes et al.) showed no superiority of vertebroplasty over sham procedure for chronic pain. Subsequent trials including VAPOUR (2016) have demonstrated benefit in carefully selected patients with severe pain and acute fractures (<6 weeks). The technique remains in regular use but is no longer the default treatment for all osteoporotic compression fractures.
 
-Burst Fractures (A3, A4)
-The burst fracture involves axial load through anterior and middle columns with
-retropulsion of fragments into the spinal canal. Treatment is determined by neurological
-status, posterior ligamentous complex integrity, and degree of kyphosis. The neurologically
-intact burst fracture without PLC injury (TLICS score 2: morphology 2, neurology 0, PLC 0)
-is treated non-operatively in a TLSO for 12 weeks, with early mobilization. The patient with
-PLC disruption, neurological deficit, or significant kyphosis (>25-30 degrees) requires
-operative stabilization. The AOSpine Knowledge Forum Trauma, in a series of high-
-quality studies, has shown that even substantial canal compromise without neurological
-deficit need not mandate decompression. Operative management is typically by posterior
-pedicle screw instrumentation, with anterior reconstruction reserved for cases with
-substantial vertebral body comminution and inadequate anterior column support.
+Burst Fractures (A3, A4) The burst fracture involves axial load through anterior and middle columns with retropulsion of fragments into the spinal canal. Treatment is determined by neurological status, posterior ligamentous complex integrity, and degree of kyphosis. The neurologically intact burst fracture without PLC injury (TLICS score 2: morphology 2, neurology 0, PLC 0) is treated non-operatively in a TLSO for 12 weeks, with early mobilization. The patient with PLC disruption, neurological deficit, or significant kyphosis (>25-30 degrees) requires operative stabilization. The AOSpine Knowledge Forum Trauma, in a series of high-quality studies, has shown that even substantial canal compromise without neurological deficit need not mandate decompression. Operative management is typically by posterior pedicle screw instrumentation, with anterior reconstruction reserved for cases with substantial vertebral body comminution and inadequate anterior column support.
 
 
 ## Chance Fractures and Flexion-Distraction Injuries (B-type)
 
-The Chance fracture, described by George Q. Chance in 1948 as a horizontal splitting of
-the vertebra through bone — pedicles, lamina, and body — is the prototypical flexion-
-distraction injury. The classical mechanism in the modern era is the lap-belt seatbelt injury
-in a passenger restrained without a shoulder belt, with sudden deceleration causing flexion
-over the belt. Pure bony Chance fractures may heal in a TLSO if reducible to less than 15
-degrees of kyphosis. Soft-tissue or mixed bony-ligamentous Chance variants are unstable
-and require operative stabilization. The orthopedic surgeon should remember the high
-association with intra-abdominal injury (small bowel perforation, mesenteric injury,
+The Chance fracture, described by George Q. Chance in 1948 as a horizontal splitting of the vertebra through bone — pedicles, lamina, and body — is the prototypical flexion-distraction injury. The classical mechanism in the modern era is the lap-belt seatbelt injury in a passenger restrained without a shoulder belt, with sudden deceleration causing flexion over the belt. Pure bony Chance fractures may heal in a TLSO if reducible to less than 15 degrees of kyphosis. Soft-tissue or mixed bony-ligamentous Chance variants are unstable and require operative stabilization. The orthopedic surgeon should remember the high association with intra-abdominal injury (small bowel perforation, mesenteric injury,
 
-pancreatic injury) — the “seat-belt sign” of abdominal wall ecchymosis combined with a
-Chance fracture mandates careful abdominal evaluation.
+pancreatic injury) — the “seat-belt sign” of abdominal wall ecchymosis combined with a Chance fracture mandates careful abdominal evaluation.
 
 ## Translational Injuries (C-type)
 
-Fracture-dislocations with translation in any plane represent the most unstable injuries,
-with virtually all such injuries requiring operative stabilization regardless of neurological
-status. The mechanism is severe — typically high-energy motor vehicle crash, fall from
-height, or crush injury. Posterior segmental pedicle screw fixation with rod constructs,
-often spanning multiple levels above and below the injury, is the standard treatment.
+Fracture-dislocations with translation in any plane represent the most unstable injuries, with virtually all such injuries requiring operative stabilization regardless of neurological status. The mechanism is severe — typically high-energy motor vehicle crash, fall from height, or crush injury. Posterior segmental pedicle screw fixation with rod constructs, often spanning multiple levels above and below the injury, is the standard treatment.
 
 ## Operative Techniques — Brief Overview
 
-For thoracolumbar trauma, pedicle screw instrumentation is the workhorse. The fixation
-construct typically spans two levels above and one or two levels below the injured
-segment, although short-segment fixation (one level above, one below, with screws in the
-fractured vertebra when feasible) is gaining favor for selected burst fractures. The load-
-sharing classification (McCormack, Karaikovic, Gaines, 1994) quantifies anterior
-column comminution and has been used to identify burst fractures likely to fail short-
-segment posterior fixation and benefit from anterior column reconstruction; scores ≥7
-traditionally suggest anterior support is needed, though improvements in fixation devices
-have softened this threshold.
-For cervical spine trauma, the approach is chosen according to the location and nature of
-the pathology. Anterior cervical discectomy and fusion (ACDF) addresses disc-level
-pathology and is the typical approach to subaxial burst fractures and herniation associated
-with facet injuries. Posterior cervical instrumented fusion addresses bony and
-ligamentous posterior column injuries and is the approach of choice for facet dislocations
-that fail closed reduction. Combined anterior-posterior approaches are used for the
-most disrupted injuries.
+For thoracolumbar trauma, pedicle screw instrumentation is the workhorse. The fixation construct typically spans two levels above and one or two levels below the injured segment, although short-segment fixation (one level above, one below, with screws in the fractured vertebra when feasible) is gaining favor for selected burst fractures. The load-sharing classification (McCormack, Karaikovic, Gaines, 1994) quantifies anterior column comminution and has been used to identify burst fractures likely to fail short-segment posterior fixation and benefit from anterior column reconstruction; scores ≥7 traditionally suggest anterior support is needed, though improvements in fixation devices have softened this threshold. For cervical spine trauma, the approach is chosen according to the location and nature of the pathology. Anterior cervical discectomy and fusion (ACDF) addresses disc-level pathology and is the typical approach to subaxial burst fractures and herniation associated with facet injuries. Posterior cervical instrumented fusion addresses bony and ligamentous posterior column injuries and is the approach of choice for facet dislocations that fail closed reduction. Combined anterior-posterior approaches are used for the most disrupted injuries.
 
 ## Pediatric Considerations
 
-Pediatric spine injuries are uncommon but distinct. Several features deserve mention. The
-fulcrum of cervical injury in young children is higher than in adults — approximately C2-
-C3 in infants and toddlers, descending toward the adult position of C5-C6 by adolescence
-— reflecting the relatively larger head and the underdeveloped cervical musculature. The
-phenomenon of SCIWORA (spinal cord injury without radiographic abnormality, Pang and
-Wilberger, 1982) is more common in children because of the increased elasticity of the
-immature spine relative to the cord, with neurological injury possible without bony or
-radiographic disruption. Children require MRI for any suspected cord injury regardless of
-plain imaging findings. Atlantoaxial rotatory subluxation (Fielding and Hawkins
-classification) is a uniquely pediatric entity that may follow minor trauma or upper
-respiratory infection (Grisel’s syndrome) and is treated with traction and orthosis followed
-by fusion only in refractory or recurrent cases. Pediatric thoracolumbar trauma is
-otherwise managed by adult principles, although the lower threshold for non-operative
+Pediatric spine injuries are uncommon but distinct. Several features deserve mention. The fulcrum of cervical injury in young children is higher than in adults — approximately C2- C3 in infants and toddlers, descending toward the adult position of C5-C6 by adolescence — reflecting the relatively larger head and the underdeveloped cervical musculature. The phenomenon of SCIWORA (spinal cord injury without radiographic abnormality, Pang and Wilberger, 1982) is more common in children because of the increased elasticity of the immature spine relative to the cord, with neurological injury possible without bony or radiographic disruption. Children require MRI for any suspected cord injury regardless of plain imaging findings. Atlantoaxial rotatory subluxation (Fielding and Hawkins classification) is a uniquely pediatric entity that may follow minor trauma or upper respiratory infection (Grisel’s syndrome) and is treated with traction and orthosis followed by fusion only in refractory or recurrent cases. Pediatric thoracolumbar trauma is otherwise managed by adult principles, although the lower threshold for non-operative
 
-management in the growing skeleton, and the avoidance of fusion across growth plates
-where possible, are important considerations.
+management in the growing skeleton, and the avoidance of fusion across growth plates where possible, are important considerations.
 
 ## Postoperative Management and Complications
 
-Postoperative management following spinal stabilization includes early mobilization with
-appropriate orthotic protection when needed, neurological monitoring, deep vein
-thrombosis prophylaxis (which should not be omitted despite the historical concern about
-epidural hematoma — the evidence supports beginning LMWH within 24 to 48 hours of
-surgery in stable patients, see Topic Trauma-7), and progressive rehabilitation.
-Complications specific to spinal trauma surgery include adjacent segment degeneration
-(particularly with longer fusion constructs), pseudarthrosis, hardware failure, dural tear
-with cerebrospinal fluid leak, and surgical site infection (with rates of approximately 2 to 5
-percent in elective spinal surgery rising to 5 to 10 percent in trauma). The infectious
-complications addressed in Topic Trauma-9 apply with particular force to spinal hardware
-because of the consequences of deep infection in this region.
+Postoperative management following spinal stabilization includes early mobilization with appropriate orthotic protection when needed, neurological monitoring, deep vein thrombosis prophylaxis (which should not be omitted despite the historical concern about epidural hematoma — the evidence supports beginning LMWH within 24 to 48 hours of surgery in stable patients, see Topic Trauma-7), and progressive rehabilitation. Complications specific to spinal trauma surgery include adjacent segment degeneration (particularly with longer fusion constructs), pseudarthrosis, hardware failure, dural tear with cerebrospinal fluid leak, and surgical site infection (with rates of approximately 2 to 5 percent in elective spinal surgery rising to 5 to 10 percent in trauma). The infectious complications addressed in Topic Trauma-9 apply with particular force to spinal hardware because of the consequences of deep infection in this region.
 
 ## Summary and Take-Home Points
 
-Spinal injuries without cord involvement nonetheless demand careful structural
-assessment because instability — not neurological status alone — drives management. The
-cervical spine is cleared clinically in the alert, examinable, asymptomatic patient by the
-NEXUS or Canadian C-Spine Rule; imaging is by CT for any patient who fails clinical
-clearance. The craniocervical junction has its own classifications (Anderson-Montesano for
-condyles, Levine-Edwards for atlas and hangman’s, Anderson-D’Alonzo for odontoid) with
-the type II odontoid fracture being the central management decision in adults — anterior
-screw fixation, posterior C1-C2 fusion, or halo immobilization, with the increasingly elderly
-population favoring non-halo management. The subaxial cervical spine is classified by the
-AO Spine Subaxial system (A compression, B tension-band, C translation) with C-type facet
-dislocations and ankylosed-spine B3 hyperextension injuries being the principal operative
-indications. The thoracolumbar spine is classified by the TLICS score and the parallel AO
-Spine Thoracolumbar system, both built on the same three-pillar morphology and
-incorporating PLC integrity as a critical operative determinant. Compression and isolated
-burst fractures without neurological involvement are largely treated non-operatively;
-translational injuries and tension-band injuries are largely treated operatively; the gray
-zone is the burst fracture with intact neurology but possible PLC involvement. Pediatric
-spine trauma is distinct in mechanism, level, and the importance of MRI for SCIWORA. The
-orthopedic surgeon’s task in spinal trauma is fundamentally one of recognizing instability
-and addressing it before secondary neurological injury can occur — a task that requires
-familiarity with the regional classifications and the modern imaging-based decision-making
-framework. The chapters that follow turn to the regional fractures of the upper extremity,
-beginning with the clavicle and the chest wall.
+Spinal injuries without cord involvement nonetheless demand careful structural assessment because instability — not neurological status alone — drives management. The cervical spine is cleared clinically in the alert, examinable, asymptomatic patient by the NEXUS or Canadian C-Spine Rule; imaging is by CT for any patient who fails clinical clearance. The craniocervical junction has its own classifications (Anderson-Montesano for condyles, Levine-Edwards for atlas and hangman’s, Anderson-D’Alonzo for odontoid) with the type II odontoid fracture being the central management decision in adults — anterior screw fixation, posterior C1-C2 fusion, or halo immobilization, with the increasingly elderly population favoring non-halo management. The subaxial cervical spine is classified by the AO Spine Subaxial system (A compression, B tension-band, C translation) with C-type facet dislocations and ankylosed-spine B3 hyperextension injuries being the principal operative indications. The thoracolumbar spine is classified by the TLICS score and the parallel AO Spine Thoracolumbar system, both built on the same three-pillar morphology and incorporating PLC integrity as a critical operative determinant. Compression and isolated burst fractures without neurological involvement are largely treated non-operatively; translational injuries and tension-band injuries are largely treated operatively; the gray zone is the burst fracture with intact neurology but possible PLC involvement. Pediatric spine trauma is distinct in mechanism, level, and the importance of MRI for SCIWORA. The orthopedic surgeon’s task in spinal trauma is fundamentally one of recognizing instability and addressing it before secondary neurological injury can occur — a task that requires familiarity with the regional classifications and the modern imaging-based decision-making framework. The chapters that follow turn to the regional fractures of the upper extremity, beginning with the clavicle and the chest wall.

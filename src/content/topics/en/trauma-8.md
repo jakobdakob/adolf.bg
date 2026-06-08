@@ -9,321 +9,69 @@ order: 108
 
 ## Introduction
 
-The complications considered in this chapter share a final common pathway of disturbed
-mechanobiology — the disrupted balance between bone formation, soft-tissue equilibrium,
-and limb function that the orthopedic surgeon must restore in the wake of fracture and
-operation. Some are properly considered failures of the healing process itself (delayed
-union, nonunion, malunion); others are sequelae of the injury or of its treatment
-(Volkmann’s ischemic contracture, complex regional pain syndrome); and one — the
-periprosthetic fracture — describes a new fracture event that occurs around an existing
-implant, generating problems that span the entire spectrum of fracture management. Each
-has a recognized classification, a body of evidence around its treatment, and recurring
-high-yield exam content. This chapter, building on the principles of fracture healing
-established earlier (see Topic Trauma-2) and the principles of operative osteosynthesis
-(Topic Trauma-4), synthesizes the contemporary management of these five complications
-principally from Rockwood and Green’s Fractures in Adults, AO Principles of Fracture
-Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s.
+The complications considered in this chapter share a final common pathway of disturbed mechanobiology — the disrupted balance between bone formation, soft-tissue equilibrium, and limb function that the orthopedic surgeon must restore in the wake of fracture and operation. Some are properly considered failures of the healing process itself (delayed union, nonunion, malunion); others are sequelae of the injury or of its treatment (Volkmann’s ischemic contracture, complex regional pain syndrome); and one — the periprosthetic fracture — describes a new fracture event that occurs around an existing implant, generating problems that span the entire spectrum of fracture management. Each has a recognized classification, a body of evidence around its treatment, and recurring high-yield exam content. This chapter, building on the principles of fracture healing established earlier (see Topic Trauma-2) and the principles of operative osteosynthesis (Topic Trauma-4), synthesizes the contemporary management of these five complications principally from Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Miller’s Review of Orthopaedics, and Apley & Solomon’s.
 
 ## Delayed Union and Nonunion — Definitions
 
-The terminology around impaired fracture healing is variably applied across the literature,
-but a working set of definitions is useful. Delayed union is the clinical and radiographic
-state in which a fracture has not united within the time normally expected for that injury,
-but in which healing remains in progress. For most adult long-bone fractures, expected
-union time is 12 to 16 weeks; failure to progress by this point defines delayed union.
-Nonunion, by the most widely used FDA definition, is a fracture that has not healed and is
-not showing radiographic signs of progression for at least three consecutive months,
-having been at least nine months from the original injury. The European-derived definition
-is more permissive, considering nonunion present whenever the treating surgeon judges
-that healing will not occur without further intervention.
-In practice the distinction between delayed union and nonunion is operational rather than
-absolute. Both are diagnosed by a combination of clinical features (persistent pain at the
-fracture site, motion at the fracture on examination, inability to bear weight) and
-radiographic features (absent bridging callus, persistent fracture line, sclerosis or atrophy
-of the fracture ends, hardware failure). The decision to intervene with surgical revision is
-taken when the trajectory of healing on serial radiographs has plateaued and the clinical
-picture supports the diagnosis.
+The terminology around impaired fracture healing is variably applied across the literature, but a working set of definitions is useful. Delayed union is the clinical and radiographic state in which a fracture has not united within the time normally expected for that injury, but in which healing remains in progress. For most adult long-bone fractures, expected union time is 12 to 16 weeks; failure to progress by this point defines delayed union. Nonunion, by the most widely used FDA definition, is a fracture that has not healed and is not showing radiographic signs of progression for at least three consecutive months, having been at least nine months from the original injury. The European-derived definition is more permissive, considering nonunion present whenever the treating surgeon judges that healing will not occur without further intervention. In practice the distinction between delayed union and nonunion is operational rather than absolute. Both are diagnosed by a combination of clinical features (persistent pain at the fracture site, motion at the fracture on examination, inability to bear weight) and radiographic features (absent bridging callus, persistent fracture line, sclerosis or atrophy of the fracture ends, hardware failure). The decision to intervene with surgical revision is taken when the trajectory of healing on serial radiographs has plateaued and the clinical picture supports the diagnosis.
 
 ## Classification of Nonunion
 
-The widely accepted classification system is the Weber and Cech classification (1976),
-which divides nonunion by the radiographic and biological character of the fracture ends
+The widely accepted classification system is the Weber and Cech classification (1976), which divides nonunion by the radiographic and biological character of the fracture ends
 
-into hypertrophic, oligotrophic, and atrophic patterns. Hypertrophic nonunion is
-characterized by abundant callus formation that fails to bridge (“elephant foot” or “horse
-hoof” appearance); the biology is intact but the mechanical environment is inadequate,
-with excessive interfragmentary motion preventing bony bridging. The biology of these
-nonunions is preserved, and treatment requires stabilization rather than biological
-augmentation. Atrophic nonunion shows little or no callus, with osteoporotic, often
-tapered fracture ends and a clear radiographic gap. The biology is deficient — the cellular
-and vascular supply have been exhausted — and treatment requires biological stimulation
-(bone graft, BMP) in addition to stabilization. Oligotrophic nonunion is intermediate, with
-minimal callus despite preserved fragment apposition, suggesting both biological and
-mechanical issues.
-Other useful descriptors include the infected versus aseptic dichotomy (infection must be
-excluded before any revision surgery is planned), and the gap versus contact distinction
-(segmental bone loss exceeding approximately 3 cm requires reconstructive techniques
-such as bone transport or vascularized fibular graft). The Paley classification of tibial
-nonunion adds quantification of deformity (length, angulation, translation, rotation) and is
-particularly useful when external fixation reconstruction is planned.
+into hypertrophic, oligotrophic, and atrophic patterns. Hypertrophic nonunion is characterized by abundant callus formation that fails to bridge (“elephant foot” or “horse hoof” appearance); the biology is intact but the mechanical environment is inadequate, with excessive interfragmentary motion preventing bony bridging. The biology of these nonunions is preserved, and treatment requires stabilization rather than biological augmentation. Atrophic nonunion shows little or no callus, with osteoporotic, often tapered fracture ends and a clear radiographic gap. The biology is deficient — the cellular and vascular supply have been exhausted — and treatment requires biological stimulation (bone graft, BMP) in addition to stabilization. Oligotrophic nonunion is intermediate, with minimal callus despite preserved fragment apposition, suggesting both biological and mechanical issues. Other useful descriptors include the infected versus aseptic dichotomy (infection must be excluded before any revision surgery is planned), and the gap versus contact distinction (segmental bone loss exceeding approximately 3 cm requires reconstructive techniques such as bone transport or vascularized fibular graft). The Paley classification of tibial nonunion adds quantification of deformity (length, angulation, translation, rotation) and is particularly useful when external fixation reconstruction is planned.
 
 ## Etiology and Risk Factors
 
-The contributors to nonunion partition cleanly into patient factors, fracture factors, and
-surgeon (treatment) factors. Patient factors include increasing age, smoking (which
-approximately doubles nonunion risk in tibial shaft fractures), diabetes, malnutrition,
-chronic corticosteroid or NSAID use, vitamin D deficiency, hyperparathyroidism, vascular
-disease, and use of certain bisphosphonates in atypical settings. Fracture factors include
-high-energy mechanism, open injury, segmental bone loss, soft-tissue stripping, infection,
-and certain anatomically vulnerable sites (clavicle middle third, humeral shaft, tibial
-diaphysis, scaphoid waist and proximal pole, femoral neck, talar neck, fifth metatarsal
-proximal diaphysis). Surgeon factors include over-distraction, inadequate stability,
-periosteal stripping during exposure, and infection arising from surgery. The “diamond
-concept” of Giannoudis frames successful healing as requiring four corners —
-osteoconductive scaffold, osteoinductive signals, osteogenic cells, and a stable mechanical
-environment — and treats deficiency in any single corner as a candidate cause of nonunion.
+The contributors to nonunion partition cleanly into patient factors, fracture factors, and surgeon (treatment) factors. Patient factors include increasing age, smoking (which approximately doubles nonunion risk in tibial shaft fractures), diabetes, malnutrition, chronic corticosteroid or NSAID use, vitamin D deficiency, hyperparathyroidism, vascular disease, and use of certain bisphosphonates in atypical settings. Fracture factors include high-energy mechanism, open injury, segmental bone loss, soft-tissue stripping, infection, and certain anatomically vulnerable sites (clavicle middle third, humeral shaft, tibial diaphysis, scaphoid waist and proximal pole, femoral neck, talar neck, fifth metatarsal proximal diaphysis). Surgeon factors include over-distraction, inadequate stability, periosteal stripping during exposure, and infection arising from surgery. The “diamond concept” of Giannoudis frames successful healing as requiring four corners — osteoconductive scaffold, osteoinductive signals, osteogenic cells, and a stable mechanical environment — and treats deficiency in any single corner as a candidate cause of nonunion.
 
 ## Treatment of Delayed Union and Nonunion
 
-For delayed union, conservative measures are often appropriate. Functional bracing and
-weight-bearing apply axial compressive load to the fracture, stimulating healing in
-selected fractures (tibial and humeral shaft particularly). Low-intensity pulsed
-ultrasound (LIPUS) delivers low-energy ultrasound to the fracture site and has shown
-modest evidence of acceleration in some trials, although recent large pragmatic studies
-have been less supportive. Electrical stimulation (pulsed electromagnetic fields, direct
-current, capacitive coupling) has a long history with mixed evidence; it retains a role in
-selected cases, particularly with retained hardware. Adjustment of dynamization (e.g.,
-removal of static interlocking screws from an intramedullary nail) can convert a static
-construct to a compression-permissive one and accelerate healing.
+For delayed union, conservative measures are often appropriate. Functional bracing and weight-bearing apply axial compressive load to the fracture, stimulating healing in selected fractures (tibial and humeral shaft particularly). Low-intensity pulsed ultrasound (LIPUS) delivers low-energy ultrasound to the fracture site and has shown modest evidence of acceleration in some trials, although recent large pragmatic studies have been less supportive. Electrical stimulation (pulsed electromagnetic fields, direct current, capacitive coupling) has a long history with mixed evidence; it retains a role in selected cases, particularly with retained hardware. Adjustment of dynamization (e.g., removal of static interlocking screws from an intramedullary nail) can convert a static construct to a compression-permissive one and accelerate healing.
 
-For established hypertrophic nonunion, the underlying biology is preserved and the
-treatment is rigid stabilization. Conversion of an inadequate fixation construct to a stiffer
-construct — exchange of a small-diameter nail for a larger reamed nail, augmentation of a
-plate construct, application of compression — typically results in rapid union without the
-need for bone graft. The “exchange nailing” technique, particularly successful in the tibia
-and femur, involves removal of the existing nail, sequential reaming to one or two
-millimeters larger than the original, and placement of a larger nail.
-For atrophic nonunion, both stabilization and biological augmentation are required. Iliac
-crest autograft remains the historical gold standard, providing osteoconductive scaffold,
-osteoinductive growth factors, and osteogenic cells in a single graft. Harvest morbidity
-(chronic donor site pain in 5 to 30 percent, nerve injury, fracture) has driven the use of
-alternative sources, particularly the Reamer-Irrigator-Aspirator (RIA) harvest from the
-femur, which produces large quantities of autograft with reportedly lower donor-site
-morbidity. Allograft provides scaffold but limited biological activity. Bone morphogenetic
-proteins (BMP-2, BMP-7) are recombinant osteoinductive growth factors with FDA
-approval for tibial nonunion (BMP-7/OP-1) and for tibial open fractures and anterior
-lumbar interbody fusion (BMP-2); their use is reserved for selected cases because of cost
-and concern about heterotopic ossification and other off-target effects. The Masquelet
-induced membrane technique, described by Alain-Charles Masquelet in 1986 and
-popularized in the 2000s, manages segmental bone loss by first placing a cement spacer at
-the defect (inducing a vascularized membrane), then at six to eight weeks removing the
-spacer and replacing it with autograft within the preserved membrane.
-For segmental defects exceeding three to four centimeters, more extensive
-reconstruction is required. Bone transport (the Ilizarov technique, popularized by Gavriil
-Ilizarov in the 1950s and 1960s) uses a circular external fixator to perform corticotomy
-proximal to the defect, then progressively transports a bone segment across the defect at
-approximately one millimeter per day in four daily fractions, with subsequent docking and
-consolidation. Vascularized fibular grafting provides a living bone graft for large defects,
-particularly in the upper extremity and lower femur. The Capanna technique combines a
-vascularized fibula within a structural allograft for large femoral defects.
-Infected nonunion requires a distinct strategy. The principles are debridement of all
-devitalized bone and soft tissue, identification of the organism, prolonged organism-
-directed antibiotic therapy, and reconstruction. Most commonly this proceeds as a staged
-approach: thorough debridement, placement of an antibiotic cement spacer (which
-becomes the inducing surface for a Masquelet membrane), six to eight weeks of antibiotics,
-and then a second-stage reconstruction with autograft within the membrane.
+For established hypertrophic nonunion, the underlying biology is preserved and the treatment is rigid stabilization. Conversion of an inadequate fixation construct to a stiffer construct — exchange of a small-diameter nail for a larger reamed nail, augmentation of a plate construct, application of compression — typically results in rapid union without the need for bone graft. The “exchange nailing” technique, particularly successful in the tibia and femur, involves removal of the existing nail, sequential reaming to one or two millimeters larger than the original, and placement of a larger nail. For atrophic nonunion, both stabilization and biological augmentation are required. Iliac crest autograft remains the historical gold standard, providing osteoconductive scaffold, osteoinductive growth factors, and osteogenic cells in a single graft. Harvest morbidity (chronic donor site pain in 5 to 30 percent, nerve injury, fracture) has driven the use of alternative sources, particularly the Reamer-Irrigator-Aspirator (RIA) harvest from the femur, which produces large quantities of autograft with reportedly lower donor-site morbidity. Allograft provides scaffold but limited biological activity. Bone morphogenetic proteins (BMP-2, BMP-7) are recombinant osteoinductive growth factors with FDA approval for tibial nonunion (BMP-7/OP-1) and for tibial open fractures and anterior lumbar interbody fusion (BMP-2); their use is reserved for selected cases because of cost and concern about heterotopic ossification and other off-target effects. The Masquelet induced membrane technique, described by Alain-Charles Masquelet in 1986 and popularized in the 2000s, manages segmental bone loss by first placing a cement spacer at the defect (inducing a vascularized membrane), then at six to eight weeks removing the spacer and replacing it with autograft within the preserved membrane. For segmental defects exceeding three to four centimeters, more extensive reconstruction is required. Bone transport (the Ilizarov technique, popularized by Gavriil Ilizarov in the 1950s and 1960s) uses a circular external fixator to perform corticotomy proximal to the defect, then progressively transports a bone segment across the defect at approximately one millimeter per day in four daily fractions, with subsequent docking and consolidation. Vascularized fibular grafting provides a living bone graft for large defects, particularly in the upper extremity and lower femur. The Capanna technique combines a vascularized fibula within a structural allograft for large femoral defects. Infected nonunion requires a distinct strategy. The principles are debridement of all devitalized bone and soft tissue, identification of the organism, prolonged organism-directed antibiotic therapy, and reconstruction. Most commonly this proceeds as a staged approach: thorough debridement, placement of an antibiotic cement spacer (which becomes the inducing surface for a Masquelet membrane), six to eight weeks of antibiotics, and then a second-stage reconstruction with autograft within the membrane.
 
 ## Malunion
 
-Malunion is healing in a malposition — too much angulation, malrotation, shortening, or
-translation. The clinical significance of malunion depends on its location, the magnitude of
-the deformity, and the patient’s functional demands. The general principles are that the
-spine and lower extremity tolerate sagittal-plane malunion better than coronal-plane
-malunion; that the upper extremity tolerates angulation better than malrotation (which
+Malunion is healing in a malposition — too much angulation, malrotation, shortening, or translation. The clinical significance of malunion depends on its location, the magnitude of the deformity, and the patient’s functional demands. The general principles are that the spine and lower extremity tolerate sagittal-plane malunion better than coronal-plane malunion; that the upper extremity tolerates angulation better than malrotation (which
 
-interferes with hand function); and that joints adjacent to the malunion bear the brunt of
-the secondary degenerative consequences. Distal radius fractures with more than 10
-degrees of dorsal tilt or more than 5 mm of shortening produce ulnocarpal impingement
-and DRUJ dysfunction. Tibial shaft malunion of more than 5 degrees of valgus or 10 degrees
-of varus produces adjacent ankle and knee arthrosis. Femoral malrotation of more than 15
-degrees produces gait and hip discomfort. Acetabular malunion with residual articular
-step-off of more than 2 mm produces accelerated post-traumatic arthrosis of the hip.
-The treatment of established malunion is corrective osteotomy, performed at the apex of
-the deformity, with internal fixation and bone graft as needed. The planning of osteotomies
-is increasingly aided by three-dimensional CT reconstruction, computer-assisted
-preoperative planning, and patient-specific cutting guides. The acute correction by
-osteotomy and rigid fixation is suitable for moderate deformity; severe deformity or
-deformity involving leg-length discrepancy is amenable to gradual correction with a
-hexapod external fixator (e.g., the Taylor Spatial Frame), where the deformity is reduced by
-computer-directed strut adjustment over days to weeks.
+interferes with hand function); and that joints adjacent to the malunion bear the brunt of the secondary degenerative consequences. Distal radius fractures with more than 10 degrees of dorsal tilt or more than 5 mm of shortening produce ulnocarpal impingement and DRUJ dysfunction. Tibial shaft malunion of more than 5 degrees of valgus or 10 degrees of varus produces adjacent ankle and knee arthrosis. Femoral malrotation of more than 15 degrees produces gait and hip discomfort. Acetabular malunion with residual articular step-off of more than 2 mm produces accelerated post-traumatic arthrosis of the hip. The treatment of established malunion is corrective osteotomy, performed at the apex of the deformity, with internal fixation and bone graft as needed. The planning of osteotomies is increasingly aided by three-dimensional CT reconstruction, computer-assisted preoperative planning, and patient-specific cutting guides. The acute correction by osteotomy and rigid fixation is suitable for moderate deformity; severe deformity or deformity involving leg-length discrepancy is amenable to gradual correction with a hexapod external fixator (e.g., the Taylor Spatial Frame), where the deformity is reduced by computer-directed strut adjustment over days to weeks.
 
 ## Volkmann’s Ischemic Contracture
 
-Volkmann’s ischemic contracture, described by Richard von Volkmann in 1881, is the
-end stage of untreated forearm compartment syndrome — fibrosis and shortening of the
-deep flexor muscles of the forearm (flexor digitorum profundus and flexor pollicis longus
-most severely affected, with the more superficial flexors variably involved). The classical
-mechanism is the supracondylar humerus fracture in a child, with brachial artery injury
-and uncorrected forearm compartment syndrome producing irreversible muscle infarction
-and fibrosis. The condition stands as the historical exemplar of compartment syndrome
-and its dire end-stage consequences when prevention or early decompression fails.
-The clinical picture, once established, is a fixed flexion contracture of the fingers and wrist
-that is partially relieved by wrist flexion (the Volkmann test of muscle shortening, where
-passive extension of the fingers worsens with simultaneous wrist extension and improves
-with wrist flexion). Sensory loss in the median and ulnar nerve distributions is common
-because of ischemic nerve injury, and intrinsic hand wasting follows. The Tsuge
-classification (1975) divides Volkmann’s contracture into mild (mild contracture of two
-to three fingers, no sensory deficit), moderate (contracture of all fingers, sensory deficit),
-and severe (contracture of all flexors and extensors of fingers and wrist with marked
-sensory deficit and intrinsic involvement).
-Prevention is by far the most effective treatment — recognition and decompression of
-acute compartment syndrome, careful reduction of supracondylar humerus fractures with
-vascular monitoring, and avoidance of tight casting. For established mild contracture,
-splinting and physiotherapy may suffice. Moderate contracture is treated by myotendinous
-lengthening, neurolysis, and tendon transfer (e.g., flexor-to-extensor transfer described by
-Page-Scaglietti). Severe contracture may require extensive flexor excision, free functioning
-muscle transfer (gracilis to restore finger flexion, described by Tamai, Ikuta, and
-Manktelow in the 1970s), and adjunctive procedures. The functional outcomes of
+Volkmann’s ischemic contracture, described by Richard von Volkmann in 1881, is the end stage of untreated forearm compartment syndrome — fibrosis and shortening of the deep flexor muscles of the forearm (flexor digitorum profundus and flexor pollicis longus most severely affected, with the more superficial flexors variably involved). The classical mechanism is the supracondylar humerus fracture in a child, with brachial artery injury and uncorrected forearm compartment syndrome producing irreversible muscle infarction and fibrosis. The condition stands as the historical exemplar of compartment syndrome and its dire end-stage consequences when prevention or early decompression fails. The clinical picture, once established, is a fixed flexion contracture of the fingers and wrist that is partially relieved by wrist flexion (the Volkmann test of muscle shortening, where passive extension of the fingers worsens with simultaneous wrist extension and improves with wrist flexion). Sensory loss in the median and ulnar nerve distributions is common because of ischemic nerve injury, and intrinsic hand wasting follows. The Tsuge classification (1975) divides Volkmann’s contracture into mild (mild contracture of two to three fingers, no sensory deficit), moderate (contracture of all fingers, sensory deficit), and severe (contracture of all flexors and extensors of fingers and wrist with marked sensory deficit and intrinsic involvement). Prevention is by far the most effective treatment — recognition and decompression of acute compartment syndrome, careful reduction of supracondylar humerus fractures with vascular monitoring, and avoidance of tight casting. For established mild contracture, splinting and physiotherapy may suffice. Moderate contracture is treated by myotendinous lengthening, neurolysis, and tendon transfer (e.g., flexor-to-extensor transfer described by Page-Scaglietti). Severe contracture may require extensive flexor excision, free functioning muscle transfer (gracilis to restore finger flexion, described by Tamai, Ikuta, and Manktelow in the 1970s), and adjunctive procedures. The functional outcomes of
 
-established Volkmann’s contracture remain disappointing — a permanent reminder of the
-importance of compartment syndrome prevention.
+established Volkmann’s contracture remain disappointing — a permanent reminder of the importance of compartment syndrome prevention.
 
 ## Complex Regional Pain Syndrome
 
-Complex regional pain syndrome (CRPS) is a chronic pain syndrome characterized by
-disproportionate, regional pain with sensory, motor, autonomic, and trophic changes. The
-condition has had a long and confused nomenclature — described by Silas Weir Mitchell in
-Civil War veterans as causalgia, named reflex sympathetic dystrophy by Evans in 1946,
-and known in the German literature as Sudeck’s atrophy after Paul Sudeck’s 1900
-description of post-traumatic osteoporosis. The current nomenclature, established by an
-IASP consensus in 1994 and refined in the Budapest criteria of 2007, divides the
-syndrome into CRPS type I (without identifiable nerve injury, formerly RSD) and CRPS
-type II (with identifiable nerve injury, formerly causalgia).
-The pathophysiology involves a combination of peripheral and central sensitization,
-neurogenic inflammation, sympathetic dysfunction, and disordered cortical reorganization.
-Why some patients develop CRPS after a relatively trivial injury while others tolerate
-severe trauma without it remains incompletely understood, although genetic and
-psychological factors are implicated. The incidence after distal radius fracture, the
-orthopedic injury most strongly associated with CRPS, is reported in the range of 5 to 25
-percent, with substantial variation depending on diagnostic criteria.
-The Budapest diagnostic criteria require continuing pain disproportionate to any inciting
-event, plus at least one symptom in each of three of four categories (sensory:
-hyperesthesia, allodynia; vasomotor: temperature asymmetry, skin color changes;
-sudomotor/edema: edema, sweating changes; motor/trophic: decreased range of motion,
-motor dysfunction, trophic changes in hair, nails, skin), plus at least one sign at evaluation
-in each of two of these categories, and no other diagnosis better explaining the signs and
-symptoms.
-The traditional three-stage description (acute warm phase, dystrophic phase, atrophic
-phase) is now considered descriptive rather than prognostic. Triple-phase bone scan
-classically shows increased uptake in the delayed (mineralization) phase. Plain
-radiographs demonstrate patchy “Sudeck’s atrophy” — periarticular osteoporosis —
-typically four to six weeks into the syndrome.
-Treatment requires a multidisciplinary approach. Aggressive physical and occupational
-therapy with desensitization, graded motor imagery, and mirror visual feedback (the
-Moseley protocol) form the cornerstone. Pharmacological agents include gabapentin and
-pregabalin for neuropathic pain, low-dose tricyclics (amitriptyline), NMDA antagonists
-(ketamine in selected cases), and bisphosphonates (particularly intravenous pamidronate
-or oral alendronate, which have a small evidence base for early CRPS). Sympathetic blocks
-(stellate ganglion block for upper limb, lumbar sympathetic block for lower limb) have a
-long history and provide diagnostic and short-term therapeutic value, although their long-
-term effect on the natural history is unclear. Spinal cord stimulation is reserved for
-refractory cases. Preventive use of high-dose vitamin C (500 mg daily for 50 days) after
+Complex regional pain syndrome (CRPS) is a chronic pain syndrome characterized by disproportionate, regional pain with sensory, motor, autonomic, and trophic changes. The condition has had a long and confused nomenclature — described by Silas Weir Mitchell in Civil War veterans as causalgia, named reflex sympathetic dystrophy by Evans in 1946, and known in the German literature as Sudeck’s atrophy after Paul Sudeck’s 1900 description of post-traumatic osteoporosis. The current nomenclature, established by an IASP consensus in 1994 and refined in the Budapest criteria of 2007, divides the syndrome into CRPS type I (without identifiable nerve injury, formerly RSD) and CRPS type II (with identifiable nerve injury, formerly causalgia). The pathophysiology involves a combination of peripheral and central sensitization, neurogenic inflammation, sympathetic dysfunction, and disordered cortical reorganization. Why some patients develop CRPS after a relatively trivial injury while others tolerate severe trauma without it remains incompletely understood, although genetic and psychological factors are implicated. The incidence after distal radius fracture, the orthopedic injury most strongly associated with CRPS, is reported in the range of 5 to 25 percent, with substantial variation depending on diagnostic criteria. The Budapest diagnostic criteria require continuing pain disproportionate to any inciting event, plus at least one symptom in each of three of four categories (sensory: hyperesthesia, allodynia; vasomotor: temperature asymmetry, skin color changes; sudomotor/edema: edema, sweating changes; motor/trophic: decreased range of motion, motor dysfunction, trophic changes in hair, nails, skin), plus at least one sign at evaluation in each of two of these categories, and no other diagnosis better explaining the signs and symptoms. The traditional three-stage description (acute warm phase, dystrophic phase, atrophic phase) is now considered descriptive rather than prognostic. Triple-phase bone scan classically shows increased uptake in the delayed (mineralization) phase. Plain radiographs demonstrate patchy “Sudeck’s atrophy” — periarticular osteoporosis — typically four to six weeks into the syndrome. Treatment requires a multidisciplinary approach. Aggressive physical and occupational therapy with desensitization, graded motor imagery, and mirror visual feedback (the Moseley protocol) form the cornerstone. Pharmacological agents include gabapentin and pregabalin for neuropathic pain, low-dose tricyclics (amitriptyline), NMDA antagonists (ketamine in selected cases), and bisphosphonates (particularly intravenous pamidronate or oral alendronate, which have a small evidence base for early CRPS). Sympathetic blocks (stellate ganglion block for upper limb, lumbar sympathetic block for lower limb) have a long history and provide diagnostic and short-term therapeutic value, although their long-term effect on the natural history is unclear. Spinal cord stimulation is reserved for refractory cases. Preventive use of high-dose vitamin C (500 mg daily for 50 days) after
 
-distal radius fracture has shown modest efficacy in a French multicenter trial (Zollinger et
-al., 1999, 2007) and is now widely recommended.
+distal radius fracture has shown modest efficacy in a French multicenter trial (Zollinger et al., 1999, 2007) and is now widely recommended.
 
 ## Periprosthetic Fractures
 
-Periprosthetic fractures are fractures occurring around an existing total joint
-replacement. They constitute one of the fastest-growing categories of orthopedic injury,
-reflecting the aging arthroplasty population and the cumulative number of implants in
-service. Their management requires simultaneous attention to fracture healing and to the
-stability and integrity of the underlying implant.
+Periprosthetic fractures are fractures occurring around an existing total joint replacement. They constitute one of the fastest-growing categories of orthopedic injury, reflecting the aging arthroplasty population and the cumulative number of implants in service. Their management requires simultaneous attention to fracture healing and to the stability and integrity of the underlying implant.
 
 ## Periprosthetic Hip Fractures — The Vancouver Classification
 
-For total hip arthroplasty, the Vancouver classification (Duncan and Masri, 1995) is
-universally used and structures management. The classification considers three variables:
-location, implant stability, and bone stock.
-Type A fractures involve the trochanteric region. A-G is a greater trochanter fracture; A-L
-is a lesser trochanter fracture. Most A fractures are treated non-operatively unless there is
-substantial trochanteric displacement (>2 cm) producing abductor insufficiency, in which
-case open reduction and tension-band wiring or claw-plate fixation is performed.
-Type B fractures involve the bone around or just distal to the stem and are subdivided by
-stem stability and bone stock. B1 is a fracture around a well-fixed stem with adequate bone
-stock; treatment is open reduction and internal fixation, typically with a long locking plate
-plus cerclage cables. B2 is a fracture around a loose stem with adequate bone stock;
-treatment is revision stem (typically an extensively porous-coated or modular tapered
-fluted titanium stem that bypasses the fracture by at least two cortical diameters) plus
-fracture fixation. B3 is a fracture around a loose stem with deficient bone stock; treatment
-is revision with allograft prosthetic composite, tumor megaprosthesis, or in some cases
-impaction grafting. Recognition of which type one is dealing with requires careful
-intraoperative assessment of stem fixation — preoperative imaging is often misleading.
-Type C fractures are distal to the implant tip and are treated as ordinary distal femur
-fractures, with the prosthesis ignored fixation-wise but with attention to plate length and
-the principle of avoiding stress risers between plate and implant tip.
+For total hip arthroplasty, the Vancouver classification (Duncan and Masri, 1995) is universally used and structures management. The classification considers three variables: location, implant stability, and bone stock. Type A fractures involve the trochanteric region. A-G is a greater trochanter fracture; A-L is a lesser trochanter fracture. Most A fractures are treated non-operatively unless there is substantial trochanteric displacement (>2 cm) producing abductor insufficiency, in which case open reduction and tension-band wiring or claw-plate fixation is performed. Type B fractures involve the bone around or just distal to the stem and are subdivided by stem stability and bone stock. B1 is a fracture around a well-fixed stem with adequate bone stock; treatment is open reduction and internal fixation, typically with a long locking plate plus cerclage cables. B2 is a fracture around a loose stem with adequate bone stock; treatment is revision stem (typically an extensively porous-coated or modular tapered fluted titanium stem that bypasses the fracture by at least two cortical diameters) plus fracture fixation. B3 is a fracture around a loose stem with deficient bone stock; treatment is revision with allograft prosthetic composite, tumor megaprosthesis, or in some cases impaction grafting. Recognition of which type one is dealing with requires careful intraoperative assessment of stem fixation — preoperative imaging is often misleading. Type C fractures are distal to the implant tip and are treated as ordinary distal femur fractures, with the prosthesis ignored fixation-wise but with attention to plate length and the principle of avoiding stress risers between plate and implant tip.
 
 ## Periprosthetic Knee Fractures
 
-The Su classification is the most widely used for periprosthetic supracondylar femur
-fractures around a total knee arthroplasty. Type 1 is proximal to the femoral component;
-type 2 is at the level of the femoral component, extending proximally; type 3 is distal to the
-upper edge of the femoral flange with extension into the component. Treatment principles
-parallel those for the Vancouver B fractures — well-fixed component with adequate bone
-stock receives locked plating or retrograde nailing (provided the femoral component is
-“nail-compatible” with an open box); loose component or fracture extending through the
-component requires revision arthroplasty.
+The Su classification is the most widely used for periprosthetic supracondylar femur fractures around a total knee arthroplasty. Type 1 is proximal to the femoral component; type 2 is at the level of the femoral component, extending proximally; type 3 is distal to the upper edge of the femoral flange with extension into the component. Treatment principles parallel those for the Vancouver B fractures — well-fixed component with adequate bone stock receives locked plating or retrograde nailing (provided the femoral component is “nail-compatible” with an open box); loose component or fracture extending through the component requires revision arthroplasty.
 
 
 ## Periprosthetic Tibia Fractures
 
-Felix classification divides periprosthetic tibial fractures by location (type I plateau, type
-II adjacent to stem, type III distal to stem, type IV around the tibial tubercle) and timing
-(intraoperative versus postoperative) and stability (well-fixed versus loose). Treatment
-principles again parallel Vancouver — type II loose components require revision, type II
-well-fixed accept plating, and types I, III, and IV are treated by location-appropriate
-techniques.
+Felix classification divides periprosthetic tibial fractures by location (type I plateau, type II adjacent to stem, type III distal to stem, type IV around the tibial tubercle) and timing (intraoperative versus postoperative) and stability (well-fixed versus loose). Treatment principles again parallel Vancouver — type II loose components require revision, type II well-fixed accept plating, and types I, III, and IV are treated by location-appropriate techniques.
 
 ## Principles Common to All Periprosthetic Fractures
 
-Several principles span all periprosthetic fractures. Plate length should extend at least two
-to three cortical diameters proximal to the implant tip to avoid creating a stress riser; the
-use of locking plates with cerclage cables for proximal fixation around the implant has
-become standard. Cable plate constructs can fail by progressive cerclage loosening —
-careful surgical technique with controlled tensioning is required. Indirect reduction
-techniques are preferred over open reduction with periosteal stripping, particularly in the
-elderly osteoporotic patient. Postoperative weight-bearing is individualized but is
-typically protected for 6 to 12 weeks. Mortality following periprosthetic hip fracture is
-comparable to that of native hip fracture (approximately 25 to 30 percent at one year),
-reflecting the frailty of this elderly patient population, and the orthopedic team must
-remember to address the patient’s overall medical state including the recurrent VTE and
-FES risks discussed in the preceding chapter.
+Several principles span all periprosthetic fractures. Plate length should extend at least two to three cortical diameters proximal to the implant tip to avoid creating a stress riser; the use of locking plates with cerclage cables for proximal fixation around the implant has become standard. Cable plate constructs can fail by progressive cerclage loosening — careful surgical technique with controlled tensioning is required. Indirect reduction techniques are preferred over open reduction with periosteal stripping, particularly in the elderly osteoporotic patient. Postoperative weight-bearing is individualized but is typically protected for 6 to 12 weeks. Mortality following periprosthetic hip fracture is comparable to that of native hip fracture (approximately 25 to 30 percent at one year), reflecting the frailty of this elderly patient population, and the orthopedic team must remember to address the patient’s overall medical state including the recurrent VTE and FES risks discussed in the preceding chapter.
 
 ## Summary and Take-Home Points
 
-The five complications considered in this chapter together represent the bulk of the late
-and chronic complications following orthopedic injury. Delayed union and nonunion arise
-when the diamond corners of healing — mechanical stability, osteoconductive scaffold,
-osteoinductive signals, and osteogenic cells — are deficient, and treatment requires the
-diagnosis of which corners are missing and the targeted restoration of each. The Weber-
-Cech classification (hypertrophic, oligotrophic, atrophic) directs treatment to mechanical
-stiffening, biological augmentation, or both. Malunion is treated by corrective osteotomy
-planned to the apex of deformity, with internal fixation or gradual correction by hexapod
-external fixator depending on the magnitude of the correction required. Volkmann’s
-ischemic contracture, the historical paradigm of compartment syndrome end-stage, is
-prevented by recognition and prompt decompression of acute forearm compartment
-syndrome and is treated when established by stages from splinting through tendon
-lengthening to free functioning muscle transfer. Complex regional pain syndrome,
-diagnosed by the Budapest criteria, requires early recognition, aggressive multidisciplinary
-therapy, and patience — the natural history is variable and the long-term outcome depends
-heavily on the trajectory of the first few months. Vitamin C prophylaxis after distal radius
-fracture is a simple measure with reasonable evidence of benefit. Periprosthetic fractures,
-increasingly common in the aging arthroplasty population, are stratified by the Vancouver
-(hip) and Su (knee) classifications around the central question of implant stability — well-
-fixed components are bypassed by locked plate fixation, loose components are revised, and
-bone stock dictates the use of allograft, megaprosthesis, or impaction grafting in the most
+The five complications considered in this chapter together represent the bulk of the late and chronic complications following orthopedic injury. Delayed union and nonunion arise when the diamond corners of healing — mechanical stability, osteoconductive scaffold, osteoinductive signals, and osteogenic cells — are deficient, and treatment requires the diagnosis of which corners are missing and the targeted restoration of each. The Weber- Cech classification (hypertrophic, oligotrophic, atrophic) directs treatment to mechanical stiffening, biological augmentation, or both. Malunion is treated by corrective osteotomy planned to the apex of deformity, with internal fixation or gradual correction by hexapod external fixator depending on the magnitude of the correction required. Volkmann’s ischemic contracture, the historical paradigm of compartment syndrome end-stage, is prevented by recognition and prompt decompression of acute forearm compartment syndrome and is treated when established by stages from splinting through tendon lengthening to free functioning muscle transfer. Complex regional pain syndrome, diagnosed by the Budapest criteria, requires early recognition, aggressive multidisciplinary therapy, and patience — the natural history is variable and the long-term outcome depends heavily on the trajectory of the first few months. Vitamin C prophylaxis after distal radius fracture is a simple measure with reasonable evidence of benefit. Periprosthetic fractures, increasingly common in the aging arthroplasty population, are stratified by the Vancouver (hip) and Su (knee) classifications around the central question of implant stability — well-fixed components are bypassed by locked plate fixation, loose components are revised, and bone stock dictates the use of allograft, megaprosthesis, or impaction grafting in the most
 
-severe cases. The infectious complications addressed in the next chapter share with this
-group of complications a common requirement: vigilance, early recognition, and a strategy
-that combines local fracture or implant management with attention to the patient’s overall
-systemic state.
+severe cases. The infectious complications addressed in the next chapter share with this group of complications a common requirement: vigilance, early recognition, and a strategy that combines local fracture or implant management with attention to the patient’s overall systemic state.

@@ -72,6 +72,16 @@ Sleeve фрактура: Педиатричен вариант с авулзия
 
 ## Оперативно лечение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/patella-fracture.jpg" data-figure-alt="Напречна фрактура на патела" aria-label="Увеличи">
+    <img src="/img/trauma-25/patella-fracture.jpg" alt="Напречна фрактура на патела" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Напречна фрактура на патела на латерална рентгенография — класическа индикация за tension-band wiring при нарушен активен екстензорен механизъм.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Patella_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Оперативното лечение е показано при разместени фрактури с нарушен екстензорен механизъм, ставна стъпенка над 2 mm, мултифрагментни фрактури с изразено разместване, открити фрактури и остеохондрални фрактури, изискващи хирургична обработка на фрагментите.
 
 Класическата оперативна техника при напречни фрактури на патела е тензионно-бандажна остеосинтеза (tension-band wiring), прилагаща същия принцип, описан при фрактури на olecranon (вж. Тема Травматология-15). Два успоредни К-телчета се прекарват надлъжно в патела от горния към долния полюс, след което фигура-8 тензионен тел се поставя в предната кортикала, преминавайки дорзално от К-телчетата и пресичайки предната повърхност. При флексия на коляното тензионните сили по предната кортикала се преобразуват от тензионния тел в компресионни сили на ставната (задна) повърхност. Конструкцията осигурява динамична компресия по време на флексия, стимулираща срастването.
@@ -131,6 +141,16 @@ Nervus peroneus communis преминава около шийката на фи�
 Класификацията AO/OTA (регион 41) е паралелна с тази на Schatzker: тип A — екстраартикуларна, тип B — частично артикуларна, тип C — пълно артикуларна фрактура.
 
 ## Клинична оценка и образна диагностика при фрактури на plateau tibiae
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-25/tibial-plateau.jpg" data-figure-alt="Депресивна фрактура на латералния plateau tibiae" aria-label="Увеличи">
+    <img src="/img/trauma-25/tibial-plateau.jpg" alt="Депресивна фрактура на латералния plateau tibiae" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Депресивна фрактура на латералния plateau tibiae (Schatzker тип II/III) — клиновидно разцепване с депресия на ставната повърхност; CT е задължителен за квантифициране на депресията.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lateral_Tibial_Plateau_fracture_XRay_with_Depression.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Клиничната картина включва болка, оток, хемартроз и невъзможност за натоварване, като механизмът е типично пътнотранспортно произшествие или падане от височина (висока енергия) или нискоенергийно падане при остеопороза. Прегледът оценява:
 

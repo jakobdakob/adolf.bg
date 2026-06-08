@@ -82,6 +82,16 @@ The risk of recurrence after a first-time anterior shoulder dislocation correlat
 
 ## Posterior Dislocation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/shoulder-dislocation.jpg" data-figure-alt="Shoulder dislocation AP" aria-label="Enlarge">
+    <img src="/img/trauma-12/shoulder-dislocation.jpg" alt="Shoulder dislocation AP" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Shoulder dislocation — AP radiograph before reduction: typical loss of normal glenohumeral relationship; an axillary view or CT is required to reliably distinguish anterior from posterior dislocation.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_before_reduction.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Posterior dislocation accounts for 2 to 4 percent of shoulder dislocations and is notoriously easy to miss. The classical mechanisms are seizure, electric shock, and posteriorly directed force on the flexed and adducted arm. The clinical picture is subtle — the arm is held in adduction and internal rotation (typically across the body), the shoulder appears flat, there is a posterior prominence, and external rotation is markedly limited (the most useful clinical sign). Plain AP radiographs may appear nearly normal — the classical “lightbulb sign” of internal rotation of the humeral head, or the “rim sign” with widened glenohumeral space, may be subtle. The axillary view is essential and diagnostic. CT defines associated bony injury, particularly the reverse Hill-Sachs lesion (anteromedial humeral head impression fracture) and any posterior glenoid rim fracture. Closed reduction is performed by axial traction with the arm adducted, combined with gentle anteriorly directed pressure on the posterior humeral head. The reduction should be performed gently to avoid converting a posterior dislocation with a small reverse Hill- Sachs into a humeral head fracture. Post-reduction, the arm is immobilized in slight external rotation (or in a gunslinger brace) for 4 to 6 weeks. The patient with chronic locked posterior dislocation (missed and presenting weeks to months after injury) requires individualized management. A reverse Hill-Sachs lesion involving less than 25 percent of the humeral head can be addressed by open reduction with subscapularis transfer into the defect (McLaughlin procedure, 1952; or its bone-block modification, the modified McLaughlin). Defects of 25 to 50 percent require osteochondral allograft or rotational osteotomy. Defects greater than 50 percent, or in the
 
 elderly with osteoarthritic changes, are addressed by hemiarthroplasty or reverse total shoulder arthroplasty.

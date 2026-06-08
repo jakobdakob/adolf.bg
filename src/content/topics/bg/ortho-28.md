@@ -19,6 +19,16 @@ order: 28
 
 ## Синдроми на претоварване на рамото
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-28/cuff-tear.jpg" data-figure-alt="Разкъсване на сухожилието на m. supraspinatus" aria-label="Увеличи">
+    <img src="/img/ortho-28/cuff-tear.jpg" alt="Разкъсване на сухожилието на m. supraspinatus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Разкъсване на сухожилието на m. supraspinatus — крайният стадий на subacromial impingement; характерна болка по латералния делтоид и слабост при абдукция, потвърдено с MRI.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Supraspinatussehnenruptur.jpg" target="_blank" rel="noopener noreferrer">Attribution</a></span>
+  </figcaption>
+</figure>
+
 
 Субакромиален синдром на impingement и заболяване на ротаторния маншон Субакромиалният синдром на impingement е най-честият източник на болка в рамото при възрастни. Състоянието включва механично притискане на ротаторния маншон (особено сухожилието на m. supraspinatus) и субакромиалната бурса срещу долната повърхност на акромиона при елевация на рамото. Класификацията на Neer разграничава три стадия:
 

@@ -13,6 +13,16 @@ The pelvic ring is uniquely positioned in orthopedic trauma as both a structural
 
 ## Surgical Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-19/pelvis-pubis.svg" data-figure-alt="Pelvic ring schematic" aria-label="Enlarge">
+    <img src="/img/trauma-19/pelvis-pubis.svg" alt="Pelvic ring schematic" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Pelvic ring — two innominate bones and the sacrum joined anteriorly at the pubic symphysis and posteriorly at the SI joints; structural stability depends on the posterior sacroiliac ligaments, the strongest in the body.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The pelvic ring is formed by the two innominate bones (each comprising the fused ilium, ischium, and pubis) and the sacrum, connected anteriorly at the pubic symphysis and posteriorly at the two sacroiliac (SI) joints. The structural integrity of the ring depends not on the bony anatomy alone but on the ligamentous complex that holds the ring together. The principal ligaments are: The posterior SI ligaments (interosseous and short posterior), which are the strongest ligaments in the body and are the principal restraint to vertical translation of the hemipelvis. Disruption of these ligaments produces vertically unstable injuries. The anterior SI ligaments, which restrain external rotation of the hemipelvis but are weaker than the posterior complex. The sacrospinous ligament (sacrum to ischial spine), which resists external rotation. The sacrotuberous ligament (sacrum to ischial tuberosity), which resists vertical and rotational displacement. The pubic symphysis with its fibrocartilaginous disc, restraining anterior diastasis. The pelvic floor ligaments (anterior and posterior ligaments of the pubic symphysis and the sacral plexus). The vascular supply of the pelvis includes the iliac vessels (common, internal, external) with their many branches; the superior gluteal artery (a branch of the internal iliac that emerges through the greater sciatic notch); the internal pudendal artery (emerging through the lesser sciatic notch); and the presacral venous plexus posteriorly, which is a major source of hemorrhage in pelvic ring disruption because of the difficulty of controlling venous bleeding in this region. The lumbosacral plexus lies anterior to the sacrum, with
 
 the L5 nerve root descending across the sacral ala — vulnerable to traction in vertical shear injuries — and the S1-S4 roots exiting the anterior sacral foramina. The principal anatomical lines on radiographs that the surgeon must interpret are the iliopectineal line (the anterior column of the acetabulum), the ilioischial line (the posterior column), Shenton’s line (the smooth arc from the femoral neck to the obturator foramen), and the anterior and posterior rim of the acetabulum seen on the obturator and iliac oblique (Judet) views.

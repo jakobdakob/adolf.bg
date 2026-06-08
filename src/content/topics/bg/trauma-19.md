@@ -13,6 +13,16 @@ order: 119
 
 ## Хирургична анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-19/pelvis-pubis.svg" data-figure-alt="Тазов пръстен — схема" aria-label="Увеличи">
+    <img src="/img/trauma-19/pelvis-pubis.svg" alt="Тазов пръстен — схема" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тазов пръстен — двете безимени кости и сакрум, свързани отпред чрез симфизата на пубиса и отзад в SI-ставите; структурната стабилност зависи от задните сакроилиачни лигаменти, които са най-силните в тялото.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Skeletal_pelvis-pubis.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Тазовият пръстен се образува от двете безимени кости (всяка представляваща сраснати ilium, ischium и pubis) и от сакрума, свързани отпред в симфизата на пубиса и отзад в двете сакроилиачни (SI) стави. Структурният интегритет на пръстена зависи не само от костната анатомия, но и от лигаментарния комплекс, удържащ пръстена в цяло. Основните връзки са:
 
 •   Задните SI връзки (интерасеозна и кратка задна) — най-здравите връзки в тялото,

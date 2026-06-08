@@ -13,6 +13,15 @@ Benign bone tumors are clonal neoplastic proliferations of bone-derived or matri
 
 ## Osteoid Osteoma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/osteoid-osteoma.png" data-figure-alt="Osteoid osteoma — radiograph and MRI of the nidus" aria-label="Enlarge">
+    <img src="/img/ortho-2/osteoid-osteoma.png" alt="Osteoid osteoma — radiograph and MRI of the nidus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteoid osteoma — the central vascular nidus is visible on MRI; on radiography it appears as a small lucency surrounded by extensive reactive sclerosis.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Osteoidosteom_Roentgen-MRT.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 ## Epidemiology and Pathology
 
@@ -37,14 +46,47 @@ Osteoblastoma is a benign bone-forming tumor that resembles osteoid osteoma hist
 
 ## Osteochondroma
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/osteochondroma.jpg" data-figure-alt="Osteochondroma of the distal femur" aria-label="Enlarge">
+    <img src="/img/ortho-2/osteochondroma.jpg" alt="Osteochondroma of the distal femur" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Solitary osteochondroma — pedunculated metaphyseal outgrowth pointing away from the adjacent joint; the medullary cavity is continuous with the parent bone.</span>
+    <span class="md-figure-attribution"> — Carmont, Davies, Gey van Pittius, Rees, <a href="https://commons.wikimedia.org/wiki/File:Osteochondroma_X-ray.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
 
 ## Solitary Osteochondroma (Exostosis)
 
 The solitary osteochondroma — also called osteocartilaginous exostosis — is the commonest benign tumor of bone, accounting for perhaps 35-50% of all benign bone tumors and arising in approximately 1-2% of the general population. It is best understood as a developmental lesion: a fragment of physeal cartilage herniates through the perichondrial fibrocartilaginous ring of LaCroix during skeletal growth, gives rise to a bony outgrowth covered by a cartilaginous cap, and is continuous with the medullary cavity of the underlying bone — the latter feature being the radiographic hallmark that distinguishes the osteochondroma from any surface neoplasm. The lesion grows by enchondral ossification at its cartilaginous cap and ceases to grow at skeletal maturity. Continued growth of an osteochondroma after closure of the growth plates, or the development of pain in a previously asymptomatic lesion in an adult, must raise concern for malignant transformation to secondary chondrosarcoma. The lesion arises in the metaphysis of any long bone formed by enchondral ossification, with a strong predilection for the distal femur, proximal humerus, proximal tibia, and proximal fibula. Two morphological subtypes are recognized: the pedunculated (stalked) osteochondroma, which classically points away from the adjacent joint because of the directionality imparted by physeal growth; and the sessile (broad-based) osteochondroma. The cartilaginous cap is typically 1-3 mm thick in adults; a cap greater than 1-2 cm in adulthood is a worrisome feature suggestive of chondrosarcomatous transformation. Apley
 
-and Miller agree that risk of malignant transformation in a solitary osteochondroma is approximately 1%. Most osteochondromas are asymptomatic and discovered incidentally. Symptomatic lesions may produce a painless or painful palpable bony mass, mechanical impingement on tendons or neurovascular structures (especially in the popliteal fossa, where popliteal artery pseudoaneurysm has been reported), bursitis overlying the cap, or fracture through the stalk of a pedunculated lesion. Indications for surgical excision are persistent pain, mechanical or neurovascular impingement, cosmetic concern, fracture, and any concern for malignant transformation. Excision must include the bony stalk, the entire cartilaginous cap, and the overlying perichondrium to avoid recurrence; piecemeal removal leaving cartilaginous remnants predictably leads to local recurrence. Hereditary Multiple Exostoses (HME, Multiple Osteochondromatosis) Hereditary multiple exostoses, also known as multiple hereditary osteochondromatosis or diaphyseal aclasis, is an autosomal-dominant disorder characterized by the development of multiple osteochondromas throughout the metaphyses of the long bones. Causative mutations have been identified in the EXT1 gene on 8q24, the EXT2 gene on 11p11, or, less commonly, EXT3; these genes encode glycosyltransferases involved in heparan sulfate proteoglycan synthesis in the cartilaginous matrix. Patients typically present in childhood with multiple palpable bony lumps, often associated with short stature, limb-length discrepancy, forearm deformity (most characteristically a short ulna with bowing of the radius, a Madelung-like wrist, and ulnar deviation of the hand), genu valgum, ankle valgus, and occasional spinal deformity. The risk of malignant transformation to chondrosarcoma is significantly higher than in solitary disease — quoted variably between 1% and 10% lifetime, with EXT1 mutations carrying a higher risk than EXT2. Management involves surveillance, excision of symptomatic individual lesions, correction of secondary skeletal deformities (forearm osteotomies, hemiepiphysiodesis for genu valgum), and lifelong monitoring for the development of pain or growth in a previously stable lesion.
+and Miller agree that risk of malignant transformation in a solitary osteochondroma is approximately 1%. Most osteochondromas are asymptomatic and discovered incidentally. Symptomatic lesions may produce a painless or painful palpable bony mass, mechanical impingement on tendons or neurovascular structures (especially in the popliteal fossa, where popliteal artery pseudoaneurysm has been reported), bursitis overlying the cap, or fracture through the stalk of a pedunculated lesion. Indications for surgical excision are persistent pain, mechanical or neurovascular impingement, cosmetic concern, fracture, and any concern for malignant transformation. Excision must include the bony stalk, the entire cartilaginous cap, and the overlying perichondrium to avoid recurrence; piecemeal removal leaving cartilaginous remnants predictably leads to local recurrence.
+
+## Hereditary Multiple Exostoses (HME, Multiple Osteochondromatosis)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/hme-knee.jpg" data-figure-alt="Multiple osteochondromas around the knee in HME" aria-label="Enlarge">
+    <img src="/img/ortho-2/hme-knee.jpg" alt="Multiple osteochondromas around the knee in HME" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hereditary multiple exostoses — multiple metaphyseal osteochondromas around the knee, typically with secondary deformity of the limb axis.</span>
+    <span class="md-figure-attribution"> — Bovée JV., <a href="https://commons.wikimedia.org/wiki/File:Multiple_osteochondromas_around_the_knee.jpg" target="_blank" rel="noopener noreferrer">CC BY 2.0</a></span>
+  </figcaption>
+</figure>
+
+Hereditary multiple exostoses, also known as multiple hereditary osteochondromatosis or diaphyseal aclasis, is an autosomal-dominant disorder characterized by the development of multiple osteochondromas throughout the metaphyses of the long bones. Causative mutations have been identified in the EXT1 gene on 8q24, the EXT2 gene on 11p11, or, less commonly, EXT3; these genes encode glycosyltransferases involved in heparan sulfate proteoglycan synthesis in the cartilaginous matrix. Patients typically present in childhood with multiple palpable bony lumps, often associated with short stature, limb-length discrepancy, forearm deformity (most characteristically a short ulna with bowing of the radius, a Madelung-like wrist, and ulnar deviation of the hand), genu valgum, ankle valgus, and occasional spinal deformity. The risk of malignant transformation to chondrosarcoma is significantly higher than in solitary disease — quoted variably between 1% and 10% lifetime, with EXT1 mutations carrying a higher risk than EXT2. Management involves surveillance, excision of symptomatic individual lesions, correction of secondary skeletal deformities (forearm osteotomies, hemiepiphysiodesis for genu valgum), and lifelong monitoring for the development of pain or growth in a previously stable lesion.
 
 ## Enchondroma and the Enchondromatoses
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/enchondroma.jpg" data-figure-alt="Enchondroma of a phalanx" aria-label="Enlarge">
+    <img src="/img/ortho-2/enchondroma.jpg" alt="Enchondroma of a phalanx" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Enchondroma of a phalanx — central well-circumscribed lytic lesion with punctate or “popcorn” mineralisation.</span>
+    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Enchondroma_2.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 
 ## Solitary Enchondroma
@@ -72,6 +114,16 @@ Chondromyxoid fibroma is a rare benign tumor, the rarest of the chondrogenic tum
 
 ## Giant Cell Tumor of Bone
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/gct.jpg" data-figure-alt="Giant cell tumour of the distal radius" aria-label="Enlarge">
+    <img src="/img/ortho-2/gct.jpg" alt="Giant cell tumour of the distal radius" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Giant cell tumour — eccentric epiphyseal lytic lesion with subarticular location, typically in skeletally mature young adults.</span>
+    <span class="md-figure-attribution"> — Sameem Arif, <a href="https://commons.wikimedia.org/wiki/File:Giant_cell_tumor_bone_1.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Epidemiology and Pathology
 
@@ -88,6 +140,16 @@ The most common locations are the distal femur, proximal tibia, distal radius, a
 Extended intralesional curettage with high-speed burring and adjuvant therapy (phenol, hydrogen peroxide, cryotherapy, or polymethylmethacrylate cement, which provides both mechanical stabilization and a local cytotoxic effect from the heat of polymerization) is the standard treatment, achieving local control in 70-90% of cases. Wide en-bloc resection is reserved for Campanacci III lesions, lesions with extensive soft-tissue extension, recurrent disease in expendable bones, and lesions in the distal radius or proximal fibula where resection is well tolerated. Denosumab, a monoclonal antibody against RANKL, has revolutionized the medical management of GCT: it stops the osteolytic process driven by the recruited osteoclasts and switches the balance toward bone formation. It is used preoperatively to facilitate resection of difficult lesions, as a primary medical treatment for unresectable spinal and pelvic lesions, and occasionally in metastatic disease. Side effects include hypocalcemia, osteonecrosis of the jaw, and atypical fractures. The “denosumab dilemma” of recurrence after discontinuation in primary tumors has prompted protocols of short preoperative courses followed by definitive surgery rather than prolonged primary medical therapy. Approximately 2% of GCTs metastasize, almost always to the lung as slow-growing, biologically benign “benign pulmonary metastases” that often respond to local resection or even observation.
 
 ## Hemangioma of Bone
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-2/vertebral-hemangioma.jpg" data-figure-alt="Vertebral hemangioma" aria-label="Enlarge">
+    <img src="/img/ortho-2/vertebral-hemangioma.jpg" alt="Vertebral hemangioma" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Vertebral hemangioma — characteristic vertical-striation (“corduroy” / “jail-bar”) appearance on CT of the vertebral body.</span>
+    <span class="md-figure-attribution"> — Eco-mus, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_hemangioma_01.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 Hemangioma of bone is a benign vascular lesion that occurs most commonly in the vertebral bodies (where it accounts for the great majority of incidentally noted vertebral lesions) and the skull. The lesion consists of thin-walled vascular channels — capillary, cavernous, or mixed — within bone. In the spine, the characteristic radiographic appearance is a vertebral body with prominent vertical trabeculae (“corduroy” or “honeycomb” appearance on plain radiographs, “polka-dot” appearance on axial CT); on MRI the lesion typically demonstrates high signal on both T1 and T2 sequences because of the fat content. The vast majority are asymptomatic and require no treatment. Symptomatic or aggressive hemangiomas — characterized by extra-osseous extension, soft-tissue mass, or neurological compression — can be treated with vertebroplasty (which obliterates the vascular spaces and provides mechanical reinforcement), embolization, or — rarely — radiotherapy.
 

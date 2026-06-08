@@ -5,6 +5,7 @@
 import { type Lang, ui } from "../i18n/ui";
 import Header from "../components/Header.astro";
 import SearchModal from "../components/SearchModal.astro";
+import SiteDrawer from "../components/SiteDrawer.astro";
 import { url } from "../lib/topics";
 import "../styles/global.css";
 
@@ -15,8 +16,14 @@ interface Props {
   otherPath: string;
   currentSection?: "ortho" | "trauma" | "anatomy" | "preface" | "qbank" | "home";
   showMenuButton?: boolean;
+  /** Pre-select this section's tab in the drawer. */
+  drawerSection?: "ortho" | "trauma" | "anatomy";
+  /** Slug of the current topic (for active state in drawer). */
+  activeSlug?: string;
 }
-const { lang, title, description, otherPath, currentSection = "home", showMenuButton = false } = Astro.props;
+const { lang, title, description, otherPath, currentSection = "home", showMenuButton = true, drawerSection, activeSlug } = Astro.props;
+const initialSection: "ortho" | "trauma" | "anatomy" =
+  drawerSection ?? (currentSection === "trauma" || currentSection === "anatomy" ? currentSection : "ortho");
 const t = ui[lang];
 const pageTitle = title ? `${title} · ${t.siteTitle}` : `${t.siteTitle} · ${t.siteTagline}`;
 const desc = description ?? t.siteTagline;
@@ -109,6 +116,7 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
   <body>
     <a href="#main" class="skip-link">Skip to main content</a>
     <Header lang={lang} otherPath={otherPath} currentSection={currentSection} showMenuButton={showMenuButton} />
+    <SiteDrawer lang={lang} active={activeSlug} section={initialSection} />
     <main id="main">
       <slot />
     </main>

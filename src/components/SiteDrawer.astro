@@ -1,0 +1,97 @@
+---
+import { type Lang, ui } from "../i18n/ui";
+import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+
+type Section = "ortho" | "trauma" | "anatomy";
+
+interface Props {
+  lang: Lang;
+  active?: string;
+  /** Pre-select this section's tab. Defaults to ortho if not on a topic page. */
+  section?: Section;
+}
+const { lang, active, section: initial = "ortho" } = Astro.props;
+const t = ui[lang];
+const all = await getTopicsByLang(lang);
+const { ortho, trauma, anatomy } = groupTopics(all);
+
+const sections: { key: Section; label: string; topics: TopicEntry[] }[] = [
+  { key: "ortho",   label: t.sectionOrtho,   topics: ortho },
+  { key: "trauma",  label: t.sectionTrauma,  topics: trauma },
+  { key: "anatomy", label: t.sectionAnatomy, topics: anatomy },
+];
+---
+<div id="drawer" class="drawer" data-open="false">
+  <div class="drawer-backdrop" data-drawer-close></div>
+  <aside class="drawer-panel" aria-label={t.contents}>
+    <div class="drawer-tabs" role="tablist">
+      {sections.map((s) => (
+        <button
+          type="button"
+          class:list={["drawer-tab", s.key === initial && "is-active"]}
+          data-drawer-tab={s.key}
+          role="tab"
+          aria-selected={s.key === initial ? "true" : "false"}
+        >
+          <span>{s.label}</span>
+          <span class="drawer-tab-count">{s.topics.length}</span>
+        </button>
+      ))}
+    </div>
+    {sections.map((s) => (
+      <nav
+        class:list={["drawer-list", s.key === initial && "is-active"]}
+        data-drawer-section={s.key}
+        aria-label={s.label}
+      >
+        {s.topics.map((e) => (
+          <a
+            href={topicPath(lang, e)}
+            class:list={["drawer-link", e.slug === active && "is-active"]}
+          >
+            <span class="drawer-link-num">{e.data.topicNumber}</span>
+            <span class="drawer-link-title">{e.data.title}</span>
+          </a>
+        ))}
+      </nav>
+    ))}
+  </aside>
+</div>
+
+<script is:inline>
+  (function () {
+    function setOpen(open) {
+      var d = document.getElementById("drawer");
+      if (!d) return;
+      d.setAttribute("data-open", open ? "true" : "false");
+      document.body.style.overflow = open ? "hidden" : "";
+    }
+    document.addEventListener("click", function (e) {
+      var t = e.target;
+      if (!(t instanceof Element)) return;
+      if (t.closest("#open-drawer")) { setOpen(true); return; }
+      if (t.closest("[data-drawer-close]")) { setOpen(false); return; }
+      var tab = t.closest("[data-drawer-tab]");
+      if (tab) {
+        var key = tab.getAttribute("data-drawer-tab");
+        document.querySelectorAll("[data-drawer-tab]").forEach(function (el) {
+          var isActive = el.getAttribute("data-drawer-tab") === key;
+          el.classList.toggle("is-active", isActive);
+          el.setAttribute("aria-selected", isActive ? "true" : "false");
+        });
+        document.querySelectorAll("[data-drawer-section]").forEach(function (el) {
+          el.classList.toggle("is-active", el.getAttribute("data-drawer-section") === key);
+        });
+        return;
+      }
+      if (t.closest(".drawer-link")) {
+        // Navigation will close the drawer on page load anyway, but close
+        // explicitly for SPA-like feel.
+        setOpen(false);
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") setOpen(false);
+    });
+  })();
+</script>

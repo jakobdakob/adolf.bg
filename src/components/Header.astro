@@ -22,21 +22,18 @@ const links = [
 ---
 <header class="site-header">
   <div class="site-header-inner">
-    {showMenuButton && (
-      <button
-        id="open-drawer"
-        class="icon-btn"
-        aria-label={t.openMenu}
-        type="button"
-        style="display:inline-flex;"
-      >
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <line x1="3" y1="6" x2="21" y2="6"/>
-          <line x1="3" y1="12" x2="21" y2="12"/>
-          <line x1="3" y1="18" x2="21" y2="18"/>
-        </svg>
-      </button>
-    )}
+    <button
+      id="open-drawer"
+      class="icon-btn"
+      aria-label={t.openMenu}
+      type="button"
+    >
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <line x1="3" y1="6" x2="21" y2="6"/>
+        <line x1="3" y1="12" x2="21" y2="12"/>
+        <line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
     <a href={url(`/${lang}/`)} class="brand">
       <span class="brand-name">adolf<span class="accent-dot">.</span>bg</span>
       <span class="brand-sub">{lang === "bg" ? "Държавен изпит" : "State board"}</span>
@@ -63,10 +60,7 @@ const links = [
   @media (max-width: 879px) {
     .nav-links { display: none; }
   }
-  #open-drawer { display: none; }
-  @media (max-width: 1023px) {
-    #open-drawer[style*="inline-flex"] { display: inline-flex; }
-  }
+  #open-drawer { display: inline-flex; }
   .search-trigger {
     display: inline-flex;
     align-items: center;

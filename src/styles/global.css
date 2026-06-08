@@ -707,9 +707,77 @@ html[data-theme="dark"] .btn-viber:hover {
   width: min(86vw, 340px);
   background: var(--bg);
   border-right: 1px solid var(--rule);
-  padding: var(--s-5) var(--s-3);
+  padding: var(--s-5) 0;
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
 }
+.drawer-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 4px;
+  padding: 0 var(--s-3) var(--s-4);
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: var(--s-3);
+}
+.drawer-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 0.55rem 0.4rem;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink-muted);
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 160ms var(--ease), color 160ms var(--ease), background 160ms var(--ease);
+}
+.drawer-tab:hover { color: var(--ink); border-color: var(--ink-muted); }
+.drawer-tab.is-active {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+.drawer-tab-count {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--ink-faint, var(--ink-muted));
+  font-variant-numeric: tabular-nums;
+}
+.drawer-tab.is-active .drawer-tab-count { color: var(--accent); }
+.drawer-list {
+  display: none;
+  padding: 0 var(--s-3);
+}
+.drawer-list.is-active { display: block; }
+.drawer-link {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0.5rem;
+  align-items: baseline;
+  padding: 0.65rem 0.5rem;
+  color: var(--ink);
+  text-decoration: none;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+.drawer-link:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.drawer-link.is-active {
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  color: var(--accent);
+}
+.drawer-link-num {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.78rem;
+  color: var(--ink-faint, var(--ink-muted));
+  font-weight: 600;
+}
+.drawer-link.is-active .drawer-link-num { color: var(--accent); }
+.drawer-link-title { font-size: 0.92rem; }
 
 /* ───────────────────────────────────────────────────────────────────────
    Scroll reveal — subtle fade-in on enter
@@ -886,6 +954,30 @@ html[data-theme="dark"] .btn-viber:hover {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
   border-radius: 4px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Prose link affordance
+   Inline anchor tags inside body prose get a subtle accent-tinted
+   background so users see they are clickable, with stronger background on
+   hover. Skips figures, captions, and attribution-link chrome.
+   ───────────────────────────────────────────────────────────────────────── */
+.prose a:not(.md-figure-attribution a) {
+  color: var(--accent);
+  text-decoration: none;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  padding: 0.05em 0.25em;
+  border-radius: 4px;
+  transition: background 160ms var(--ease), color 160ms var(--ease);
+  font-weight: 500;
+}
+.prose a:not(.md-figure-attribution a):hover {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+}
+.md-figure a, .md-figure-attribution a {
+  /* Caption links stay subtle — they're not the main content. */
+  background: transparent;
+  padding: 0;
 }
 
 /* end mobile fixes */

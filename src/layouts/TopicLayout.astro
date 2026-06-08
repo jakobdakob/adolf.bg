@@ -2,7 +2,6 @@
 import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
 import TopicTOC from "../components/TopicTOC.astro";
-import MobileDrawer from "../components/MobileDrawer.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
 
@@ -49,9 +48,9 @@ const eyebrow =
   title={entry.data.title}
   otherPath={otherPath}
   currentSection={section as any}
-  showMenuButton={true}
+  activeSlug={entry.slug}
+  drawerSection={(section === "preface" ? "ortho" : section) as any}
 >
-  <MobileDrawer lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
   <div class="topic-shell">
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article" data-pagefind-body>

@@ -37,6 +37,16 @@ forces in Pauwels III patterns (often a sliding hip screw with anti-rotation scr
 
 ## Anatomic Location
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-21/comminuted-hip.jpg" data-figure-alt="Comminuted hip fracture" aria-label="Enlarge">
+    <img src="/img/trauma-21/comminuted-hip.jpg" alt="Comminuted hip fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Comminuted femoral neck fracture — an unstable pattern (Garden III/IV) in an elderly woman; typically an indication for hemiarthroplasty.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Femoral neck fractures are further classified by location: subcapital (just below the femoral head), transcervical (mid-neck), and basicervical (at the junction of the neck and the intertrochanteric region — sometimes grouped with extracapsular fractures because of the different blood supply and more reliable healing).
 
 ## Clinical Assessment

@@ -62,6 +62,16 @@ order: 27
 
 ## Лечение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/ctr-surgery.jpg" data-figure-alt="Операция за carpal tunnel release" aria-label="Увеличи">
+    <img src="/img/ortho-27/ctr-surgery.jpg" alt="Операция за carpal tunnel release" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Открита carpal tunnel release — надлъжен разрез по карпалната склонност; flexor retinaculum се разкъсва за декомпресия на n. medianus.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Началното лечение е консервативно: нощна шина за китката в неутрална позиция (предотвратяваща флексията-екстензията на китката, влошаваща симптомите); корекция на активността; перорални или инжекционни кортикостероиди (с кортикостероидната инжекция, осигуряваща изразено краткосрочно облекчение при много пациенти, въпреки че дългосрочните резултати нерядко са разочароващи без отстраняване на подлежащите фактори); и лечение на допринасящи системни заболявания.
 
 Оперативното лечение — освобождаване на карпалния тунел — е показано при симптоми, рефрактерни на консервативното лечение, при наличие на двигателни симптоми или тенарна атрофия и при напреднало заболяване. Използват се две техники:

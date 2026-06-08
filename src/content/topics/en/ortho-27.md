@@ -54,6 +54,16 @@ Electrodiagnostic studies are the gold-standard objective test, demonstrating sl
 
 ## Treatment
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/ctr-surgery.jpg" data-figure-alt="Carpal tunnel release surgery" aria-label="Enlarge">
+    <img src="/img/ortho-27/ctr-surgery.jpg" alt="Carpal tunnel release surgery" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Open carpal tunnel release — longitudinal palmar incision; the flexor retinaculum is divided to decompress the median nerve.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_Tunnel_Syndrome,_Operation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Initial management is conservative: night-time wrist splinting in neutral position (which prevents the wrist flexion-extension that exacerbates symptoms); activity modification; oral or injected corticosteroids (with corticosteroid injection providing dramatic short-term relief in many cases, although the long-term outcomes are often disappointing without addressing underlying factors); and management of contributing systemic conditions. Surgical management — carpal tunnel release — is indicated for symptoms refractory to conservative care, for the presence of motor symptoms or thenar atrophy, and for advanced disease. Two techniques are used: Open carpal tunnel release: A small palmar incision over the carpal tunnel, with direct visualization and complete transection of the transverse carpal ligament. Excellent outcomes, low complication rate, and substantial decompression of the median nerve. Endoscopic carpal tunnel release: A 1-2 portal endoscopic approach to the carpal tunnel from proximal to distal, with a specialized blade transecting the transverse carpal ligament under endoscopic visualization. Theoretical advantages include smaller incision and faster recovery; disadvantages include the small but real risk of incomplete release or injury to the median nerve or palmar cutaneous branch. Outcomes are generally excellent with either technique, with substantial symptom relief in 80-95% of patients and high patient satisfaction. The principal predictors of poor outcome are advanced disease with established axonal damage (thenar atrophy at presentation) and the presence of confounding conditions (cervical radiculopathy, systemic neuropathy).
 
 ## Cubital Tunnel Syndrome

@@ -39,6 +39,16 @@ order: 121
 
 ## Класификация на Garden (1961)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-21/comminuted-hip.jpg" data-figure-alt="Раздробена фрактура на тазобедрена става" aria-label="Увеличи">
+    <img src="/img/trauma-21/comminuted-hip.jpg" alt="Раздробена фрактура на тазобедрена става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Раздробена фрактура на шийката на бедрената кост — нестабилен модел (Garden III/IV) при възрастна пациентка; обикновено индикация за хемиартропластика.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_a_comminuted_hip_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Класификацията на Garden разделя фрактурите на шийката на бедрото на четири типа по разместването на AP рентгенографията:
 
 •   Garden I: Непълна или импактирана валгусна фрактура. Трабекуларният модел на

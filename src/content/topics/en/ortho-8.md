@@ -49,6 +49,16 @@ Plain radiographs (AP pelvis and frog-lateral views of both hips) are the standa
 
 ## Classification Systems
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-8/perthes-xray.jpg" data-figure-alt="Legg-Calvé-Perthes disease" aria-label="Enlarge">
+    <img src="/img/ortho-8/perthes-xray.jpg" alt="Legg-Calvé-Perthes disease" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Legg-Calvé-Perthes disease — characteristic fragmentation and collapse of the femoral head epiphysis; classification is by extent of involvement (Catterall) or lateral pillar (Herring).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Multiple classification systems address two distinct questions in LCPD: the extent of femoral head involvement (which predicts prognosis), and the morphological outcome at skeletal maturity (which determines long-term arthritis risk).
 
 ## Catterall Classification

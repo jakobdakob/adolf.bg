@@ -59,6 +59,16 @@ order: 8
 
 ## Класификационни системи
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-8/perthes-xray.jpg" data-figure-alt="Болест на Legg-Calvé-Perthes" aria-label="Увеличи">
+    <img src="/img/ortho-8/perthes-xray.jpg" alt="Болест на Legg-Calvé-Perthes" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Болест на Legg-Calvé-Perthes — характерна фрагментация и колапс на епифизата на бедрената глава; класификацията се основава на степента на засягане (Catterall) или латералния стълб (Herring).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:LeggCalvePerthes1.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Множество класификационни системи адресират два различни въпроса при ЛКПБ: степента на засягане на бедрената глава (предсказваща прогнозата) и морфологичния изход при скелетна зрялост (определящ дългосрочния риск от артроза).
 
 

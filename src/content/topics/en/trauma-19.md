@@ -45,6 +45,16 @@ plexus (a frequent and difficult-to-control source), the branches of the interna
 
 ## Mechanical Stabilization
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-19/pelvic-exfix.png" data-figure-alt="Pelvic external fixator" aria-label="Enlarge">
+    <img src="/img/trauma-19/pelvic-exfix.png" alt="Pelvic external fixator" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior pelvic external fixator — emergency stabilization for unstable pelvic ring fracture with ongoing haemorrhage; reduces pelvic volume and tamponades the pelvic haematoma.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:External-External-Fixator-Pelvis-Acetabulum.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The pelvic binder — a circumferential constraining device positioned at the level of the greater trochanters (not the iliac crests) — applies compression to the pelvic ring and reduces the pelvic volume. The binder is the appropriate first-line mechanical stabilization in any patient with suspected unstable pelvic injury, applied at the scene or in the trauma bay. The binder is typically a commercial device (T-POD, SAM Pelvic Sling) but can be improvised with a sheet folded tightly. Application is at the level of the greater trochanters; positioning over the iliac crests is ineffective and can worsen injuries. For more definitive mechanical stabilization, the anterior external fixator (with pins in the iliac crests or supra-acetabular bone) provides a rigid construct that can be applied in the operating room or, in some centers, in the trauma bay. The pelvic C-clamp (Ganz / Browner clamp) is a more aggressive stabilization device with pins placed posteriorly in the iliac bone just posterior to the SI joints, providing direct posterior compression — useful for the unstable C-type injury with posterior disruption. The C-clamp is less commonly used in modern practice as resuscitative options have expanded.
 
 ## Resuscitative Surgery and Angiographic Embolization

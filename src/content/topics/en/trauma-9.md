@@ -17,6 +17,16 @@ Septic arthritis is the infection of a joint, most commonly by hematogenous seed
 
 ## Clinical Features and Investigation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-9/septic-arthritis-hip.jpg" data-figure-alt="Septic arthritis of the hip" aria-label="Enlarge">
+    <img src="/img/trauma-9/septic-arthritis-hip.jpg" alt="Septic arthritis of the hip" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Septic arthritis of the hip — X-ray: widened joint space from effusion with early juxta-articular osteopenia; urgent aspiration is performed before starting antibiotics.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_septic_arthritis_of_the_hip.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 The classical presentation of septic arthritis is the acutely painful, swollen, warm joint with restricted active and passive motion, accompanied by systemic features of fever, malaise, and leukocytosis. In the adult, monoarticular involvement is the rule (>80 percent of cases), with polyarticular involvement raising suspicion for gonococcal disease or rheumatoid coincidental flare. In the child, the picture is often less specific — irritability, refusal to bear weight, low-grade fever — and the diagnosis is more easily missed. The Kocher criteria (1999) were developed to distinguish pediatric septic hip arthritis from transient synovitis (see Topic Orth-5 for the broader pediatric pyogenic discussion). The four criteria are non-weight-bearing on the affected side, fever above 38.5°C, erythrocyte sedimentation rate above 40 mm/h, and serum white blood cell count above 12,000/µL. The probability of septic arthritis was reported as 3 percent with no criteria, 40 percent with one, 93 percent with three, and 99 percent with all four. The Caird modification (2006) added a fifth criterion, CRP greater than 20 mg/L, with similar predictive value. The diagnostic test is joint aspiration before initiation of antibiotics, with synovial fluid sent for cell count and differential, Gram stain, culture (including anaerobic and fungal media), and crystal analysis. Septic arthritis is characterized by a synovial fluid leukocyte count typically greater than 50,000/µL (and often >100,000), with neutrophil predominance (>75 percent). Synovial glucose is typically less than half the serum glucose. The presence of crystals does not exclude infection, since concurrent septic and crystal arthritis is well-described. Plain radiographs are unremarkable in the early phase but may show joint effusion (the obturator sign at the hip, the suprapatellar effusion at the knee). Ultrasound is the modality of choice for confirming and guiding aspiration of suspected hip effusion in children. MRI is sensitive for adjacent osteomyelitis and adjacent abscess collections.
 
 ## Treatment of Septic Arthritis

@@ -37,6 +37,11 @@ The principal mechanisms of nerve injury include: Stretch (traction) injury: Elo
 
 Seddon Classification (1943) The classical Seddon classification organizes nerve injuries into three grades by the pathophysiological severity of injury: Neurapraxia (Grade I): The mildest injury, with localized conduction block but no axonal damage. The nerve fiber is structurally intact; conduction is impaired by transient demyelination at the site of injury. Recovery is typically complete within days to weeks (3 to 12 weeks for full recovery in most cases) as the myelin sheath repairs. Axonotmesis (Grade II): Disruption of the axon with preservation of the surrounding connective tissue layers (endoneurium, perineurium, epineurium). The distal axon undergoes Wallerian degeneration (the orderly distal-to-proximal degeneration of the axon and its myelin), with subsequent axonal regeneration from the proximal stump at approximately 1 mm per day (1 inch per month, useful for clinical prognostication). Recovery is generally complete because the endoneurial tubes provide guidance for regenerating axons back to their original targets. Neurotmesis (Grade III): Complete disruption of the nerve including the connective tissue layers. The endoneurial tubes are no longer continuous, and regenerating axons may fail to find their original targets or may form a neuroma at the site of injury. Spontaneous recovery is poor and surgical repair is required for any chance of meaningful functional recovery. Sunderland Classification (1951) The Sunderland classification refines Seddon’s neurotmesis category and provides a five-grade system: Grade I: Neurapraxia (corresponds to Seddon I). Grade II: Axonal disruption with intact endoneurium. Recovery by axonal regeneration through preserved endoneurial tubes; functional recovery is generally complete. Grade III: Disruption of axon and endoneurium with intact perineurium. Recovery is by axonal regeneration but is less complete because the endoneurial tubes are disrupted and regenerating axons may not reach the correct targets. Grade IV: Disruption of axon, endoneurium, and perineurium with intact epineurium. Recovery without surgical intervention is very poor because the regenerating axons form a neuroma rather than continuing distally. Grade V: Complete transection (corresponds to Seddon’s neurotmesis). The Mackinnon classification adds a Grade VI for mixed injuries with different grades in different fascicles within the same nerve.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Seddon and Sunderland mapped: neurapraxia (Seddon I, Sunderland I) is a conduction block that recovers in 3-12 weeks; axonotmesis (Seddon II, Sunderland II) shows Wallerian degeneration but the endoneurial tubes guide regeneration at about 1 mm per day; neurotmesis (Seddon III, Sunderland III-V) disrupts the connective-tissue scaffold and requires surgical repair.</p>
+</aside>
+
 
 ## Clinical Implications of the Classification
 
@@ -52,6 +57,11 @@ Seddon Classification (1943) The classical Seddon classification organizes nerve
 
 The classification is critical because it predicts recovery and guides treatment: Grades I-II (neurapraxia and axonotmesis with intact endoneurium) recover spontaneously without surgical intervention. Grade III recovery is intermediate, with some spontaneous recovery but typically incomplete; surgical exploration and selective repair may improve outcomes. Grades IV and V require surgical repair (anatomical end-to-end coaptation, or nerve graft for gaps that cannot be closed without tension) for any meaningful recovery. The clinical challenge is that at the time of acute injury, the grade is often unknown, and the distinction between recoverable axonotmesis (Grade II) and non-recoverable injury (Grade IV-V) cannot be made on examination alone. Time-based observation with periodic clinical and electrophysiological assessment over 3 to 6 months is often required to determine if recovery is occurring; failure of recovery prompts surgical exploration.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>At presentation you usually cannot distinguish axonotmesis (will recover) from grade IV-V (will not). Serial clinical and electrophysiological assessment over 3-6 months is essential, and an advancing Tinel sign distally is the most encouraging bedside marker of axonal regeneration.</p>
+</aside>
+
 ## Clinical Assessment of Nerve Injury
 
 The assessment of suspected nerve injury follows a systematic approach:
@@ -62,6 +72,11 @@ History: The mechanism of injury (sharp laceration suggesting neurotmesis; stret
 
 Electrophysiological studies (electromyography and nerve conduction studies) provide objective evidence of nerve injury and recovery: Nerve conduction studies (NCS) measure conduction velocity and amplitude across segments of the nerve, distinguishing conduction block (suggesting neurapraxia) from absent response (suggesting more severe injury). Electromyography (EMG) assesses muscle electrical activity at rest and with voluntary contraction, with fibrillation potentials appearing approximately 2 to 3 weeks after denervation (axonal injury) and disappearing as reinnervation occurs. Compound motor action potentials (CMAPs) measure the response to nerve stimulation distal to the site of injury; absent CMAP with preserved proximal response indicates conduction block, while absent CMAP with absent proximal response indicates more severe injury. Initial studies are typically performed at 3 to 4 weeks after injury, with serial studies at 3- month intervals to monitor recovery. The studies provide objective evidence of recovery in advance of clinical signs and may help determine the need for surgical exploration.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Electrodiagnostic timing: NCS and EMG are typically performed 3-4 weeks after injury, when fibrillation potentials of denervation have appeared (2-3 weeks), with serial studies at 3-month intervals. Conduction block with preserved CMAP suggests neurapraxia; absent CMAP with absent proximal response suggests more severe injury.</p>
+</aside>
+
 ## Treatment Principles
 
 
@@ -71,9 +86,19 @@ For the patient with acute peripheral nerve injury:
 
 Documentation of the nerve injury at presentation is essential, both for medical reasons (to monitor recovery) and for medicolegal reasons. Protection of the limb in a functional position with appropriate splinting to prevent contracture during the recovery period. Surgical exploration for acute laceration injuries with suspected complete transection (Sunderland V). The exploration should occur within 72 hours for the cleanest results, although delayed primary repair within 3 weeks is acceptable in selected cases. Surgical exploration for displaced fractures or dislocations with new nerve deficit that did not respond to reduction. The principle is that an irreducible fracture-dislocation with neurological deficit suggests interposed neural tissue or compression requiring direct intervention.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Sharp laceration with a complete deficit (Sunderland V) and an irreducible fracture-dislocation with a new nerve deficit are surgical indications, not observation problems. Aim to explore sharp lacerations within 72 hours; delayed primary repair within 3 weeks is acceptable in selected cases.</p>
+</aside>
+
 ## Delayed Management
 
 For nerve injuries that do not recover spontaneously: Serial clinical and electrophysiological assessment over 3 to 6 months establishes the trajectory. Failure of recovery by 4 to 6 months (depending on the nerve and the distance to the most distal target muscle) prompts surgical exploration. The principle is that time-dependent muscle changes — first reversible muscle atrophy, then progressive irreversible loss of motor end plates and muscle fibrosis, limit the window of opportunity for successful reinnervation. The classical figure is that 18 to 24 months is the limit beyond which motor reinnervation produces poor results, and surgery should be performed well in advance of this limit.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Motor end plates become irreversibly lost over 18-24 months: that is the upper boundary on the window for successful reinnervation. Explore non-recovering injuries at 4-6 months, and for late presentations choose nerve transfers (which shorten the regenerative distance) or tendon transfers (which bypass denervation entirely).</p>
+</aside>
 
 
 ## Surgical Techniques
@@ -120,6 +145,11 @@ The femoral nerve is at risk in surgical approaches to the hip and acetabulum (p
 ## Nerve Injuries in Children
 
 Pediatric nerve injuries deserve specific consideration because of several features that distinguish them from adult injuries: Birth-related brachial plexus injuries are the prototype, with the classical Erb’s palsy (upper trunk injury from traction during difficult delivery) being the most common pattern. Spontaneous recovery in newborn brachial plexus palsy is excellent in the majority of cases, with 80 to 95 percent achieving complete or near-complete recovery without surgical intervention. Failure of antigravity biceps function by 3 to 6 months is the principal indication for surgical exploration (microsurgical reconstruction with nerve grafting or transfer). Pediatric peripheral nerve injuries generally recover better than equivalent adult injuries because of the greater regenerative capacity and the shorter distance to target muscles. Surgical management follows similar principles to adult injuries, with attention to the open growth plates and the rehabilitation considerations in growing children.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Newborn brachial plexus palsy recovers spontaneously in 80-95% of cases. The decision point is antigravity biceps function (elbow flexion) by 3-6 months: failure prompts microsurgical exploration with nerve grafting or transfer.</p>
+</aside>
 
 The supracondylar humerus fracture in children has specific nerve injury patterns — the anterior interosseous nerve (AIN) palsy is the most common (loss of FPL and FDP to the index finger, producing inability to perform the “OK” sign), typically neurapraxic, and recovers spontaneously over 3 to 6 months. The median nerve, radial nerve, and ulnar nerve can all be affected; the classical association of ulnar nerve injury with flexion-type supracondylar fractures (much less common than extension type) is well-recognized.
 

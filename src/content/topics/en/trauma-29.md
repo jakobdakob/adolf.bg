@@ -25,13 +25,28 @@ The fractures of the hindfoot and midfoot — talus, calcaneus, navicular, cuboi
 
 The talus is unique among the bones in having approximately 60 percent of its surface covered by articular cartilage, with three major articulations (talocrural with the tibia/fibula superiorly, subtalar with the calcaneus inferiorly, talonavicular with the navicular anteriorly). The bone has no muscular or tendinous attachments. The principal regions are the head, neck, body, and posterior process (with medial and lateral tubercles, and os trigonum as a variable accessory ossification center posterior to the lateral tubercle). The blood supply to the talus is critical to the understanding of its fractures and is principally through three sources: The artery of the tarsal canal (a branch of the posterior tibial artery), which enters between the medial and middle facets and supplies the body of the talus (the principal supply). The artery of the tarsal sinus (anastomosing branches from the dorsalis pedis and peroneal arteries), which enters at the tarsal sinus and supplies the head and neck. The deltoid artery (a branch of the posterior tibial), supplying the medial body. The vascular pattern is such that the talar body is supplied predominantly through the inferior surface via the artery of the tarsal canal, and disruption of this supply through neck fracture displacement produces high rates of avascular necrosis of the body, the central concern in talar neck fractures.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The talar body is supplied predominantly from below through the artery of the tarsal canal (a branch of the posterior tibial artery). Avoid extensive posterior dissection at operation, and remember that 60% of the talar surface is articular with no muscular or tendinous attachments to bring in alternative blood supply.</p>
+</aside>
+
 ## Talar Neck Fractures — The Hawkins Classification
 
 Talar neck fractures account for approximately 50 percent of all talar fractures. The mechanism is forced dorsiflexion with axial load, classically the “aviator’s astragalus” of historical pilot crashes (rudder bar driving up the neck), and today most commonly seen in motor vehicle accidents and falls from height. The Hawkins classification (Lee Hawkins, 1970) organizes talar neck fractures by displacement and associated joint dislocation, with each higher type associated with a substantially higher AVN risk: Type I: Non-displaced talar neck fracture. AVN risk approximately 0 to 13 percent. Type II: Talar neck fracture with subtalar dislocation (ankle joint intact). AVN risk approximately 20 to 50 percent. Type III: Talar neck fracture with subtalar AND ankle joint dislocation. AVN risk approximately 80 to 100 percent. Type IV (Canale and Kelly modification, 1978): Talar neck fracture with subtalar, ankle, AND talonavicular dislocation. AVN risk approaching 100 percent. The increasing AVN risk reflects the progressive disruption of the talar blood supply with each level of dislocation. The implication is that urgent reduction is critical to preserving the chance of avoiding AVN — the displaced fracture-dislocation should be reduced as soon as possible after presentation.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hawkins for talar neck fractures: I non-displaced (AVN around 0-13%), II with subtalar dislocation (20-50%), III with subtalar and ankle dislocation (80-100%), IV with talonavicular dislocation added (approaching 100%). Each step of dislocation peels off another vascular source, so urgent reduction of displaced patterns is the central principle.</p>
+</aside>
+
 ## The Hawkins Sign
 
 The Hawkins sign is a band of subchondral lucency in the talar dome visible at 6 to 8 weeks post-injury, indicating preserved vascularity through disuse osteopenia of the talar body. The presence of the Hawkins sign predicts adequate blood supply and low AVN risk. The absence of the Hawkins sign (particularly when the patient has been bearing weight after fixation) is concerning for AVN, although it does not definitively confirm it.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Hawkins sign is a band of subchondral lucency in the talar dome at 6-8 weeks, produced by disuse osteopenia in a vascularized body. Its presence predicts preserved vascularity and low AVN risk; its absence in a weight-bearing patient is concerning but not diagnostic.</p>
+</aside>
 
 ## Treatment of Talar Neck Fractures
 
@@ -92,6 +107,11 @@ Extra-articular calcaneal fractures (approximately 25 percent) include the anter
 
 The AP, lateral, and axial (Harris) views of the calcaneus are obtained. Key radiographic measurements on the lateral view: The Böhler’s angle is the angle between the line drawn from the highest point of the anterior process to the highest point of the posterior facet, and the line from the highest point of the posterior facet to the highest point of the tuberosity. The normal angle is 25 to 40 degrees; flattening of the Böhler angle below 20 degrees indicates significant calcaneal compression (depression of the posterior facet). The angle of Gissane (crucial angle) is the angle formed by the inferior aspect of the posterior facet and the dorsal cortical surface of the anterior process. The normal angle is 130 to 145 degrees; increased angle indicates depression of the posterior facet. CT is mandatory for any displaced calcaneal fracture being considered for operative intervention, providing detailed assessment of the posterior facet, the calcaneocuboid joint, and the lateral wall involvement.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two angles to read on the lateral calcaneal radiograph: Bohler 25-40 degrees (flattens below 20 with posterior facet depression) and the angle of Gissane 130-145 degrees (widens with depression). Both flag the calcaneal compression that the Sanders CT classification then characterizes for surgical planning.</p>
+</aside>
+
 
 ## Treatment of Calcaneal Fractures
 
@@ -133,7 +153,12 @@ The mechanism is typically axial loading with the foot in plantar flexion (the c
 dashboard injury or athletic injury). The injury is often missed on initial evaluation because
 the displacement may be subtle and the patient may be able to bear weight.
 
-Clinical features include midfoot pain, swelling, and ecchymosis; the plantar ecchymosis sign (Ross, 1996) (bruising on the plantar surface of the midfoot) is a specific indicator of Lisfranc injury. Inability to bear weight is common. Imaging includes AP, lateral, and oblique views of the foot, with weight-bearing views being critical for diagnosis (non-weight-bearing views may appear normal, with displacement only evident under load). The key radiographic findings include: Diastasis greater than 2 mm between the first and second metatarsal bases on AP view, indicating disruption of the Lisfranc ligament. The “fleck sign” (Myerson) — a small fleck of bone between the medial cuneiform and the second metatarsal base, representing avulsion of the Lisfranc ligament. Loss of alignment between the medial border of the second metatarsal and the medial border of the middle cuneiform on AP view, or between the medial border of the fourth metatarsal and the medial border of the cuboid on oblique view. CT with weight-bearing if possible is increasingly used for definitive characterization, and MRI is used when ligamentous injury is suspected without bony displacement.
+Clinical features include midfoot pain, swelling, and ecchymosis; the plantar ecchymosis sign (Ross, 1996) (bruising on the plantar surface of the midfoot) is a specific indicator of Lisfranc injury. Inability to bear weight is common. Imaging includes AP, lateral, and oblique views of the foot, with weight-bearing views being critical for diagnosis (non-weight-bearing views may appear normal, with displacement only evident under load).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Do not exclude a Lisfranc injury on non-weight-bearing radiographs alone: displacement may only appear under load. Weight-bearing views, the plantar ecchymosis sign (Ross), the fleck sign (Myerson), and CT or MRI for subtle ligamentous patterns are required to avoid missing a diagnosis that produces lifelong midfoot arthritis.</p>
+</aside> The key radiographic findings include: Diastasis greater than 2 mm between the first and second metatarsal bases on AP view, indicating disruption of the Lisfranc ligament. The “fleck sign” (Myerson) — a small fleck of bone between the medial cuneiform and the second metatarsal base, representing avulsion of the Lisfranc ligament. Loss of alignment between the medial border of the second metatarsal and the medial border of the middle cuneiform on AP view, or between the medial border of the fourth metatarsal and the medial border of the cuboid on oblique view. CT with weight-bearing if possible is increasingly used for definitive characterization, and MRI is used when ligamentous injury is suspected without bony displacement.
 
 ## Treatment of Lisfranc Injuries
 
@@ -148,6 +173,11 @@ Cuboid fractures are uncommon but may be produced by direct trauma or by nutcrac
 ## Metatarsal Fractures
 
 Metatarsal fractures are common and represent a separate category in many discussions. They are not addressed here in detail (typically discussed in the foot and ankle subspecialty literature), but several patterns deserve brief mention: The fifth metatarsal base fracture has three classical patterns: the tuberosity avulsion (peroneus brevis avulsion, the “dancer’s fracture”, heals well with conservative management), the Jones fracture (metaphyseal-diaphyseal junction, high-risk fracture with nonunion rate of 25 to 30 percent with conservative management, frequently treated by percutaneous screw fixation in athletes), and the proximal diaphyseal stress fracture (similar to Jones in management). Lesser metatarsal stress fractures (“march fractures”) are common in military recruits and runners, typically affecting the second metatarsal. Treatment is relative rest and protected weight bearing for 4 to 6 weeks. Metatarsal shaft and neck fractures typically heal well with cast or boot immobilization. Operative fixation is reserved for severely displaced fractures, multiple metatarsal fractures, or open injuries.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Distinguish the three fifth metatarsal base patterns: tuberosity avulsion (dancer's fracture, heals with conservative care), Jones fracture at the metaphyseal-diaphyseal junction (25-30% nonunion rate, often fixed percutaneously in athletes), and proximal diaphyseal stress fracture (managed like Jones). The Jones territory is a watershed and tolerates conservative management poorly.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

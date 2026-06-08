@@ -34,6 +34,11 @@ The Gustilo-Anderson classification, originally described in 1976 and refined in
 
 Type IIIB: Extensive soft-tissue damage requiring free flap or rotational flap reconstruction. Bone is exposed and requires soft-tissue coverage. Type IIIC: Vascular injury requiring repair, regardless of other features. The injuries with vascular involvement have the highest amputation rates. The classification is most reliable when applied after surgical exploration, since the apparent wound on initial assessment can substantially underestimate the actual injury. The “small wound, large injury” of a high-energy gunshot or crush injury can produce dramatically more soft-tissue damage than the skin wound suggests.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Memorize Gustilo-Anderson by infection risk: I (wound under 1 cm, clean) 0-2%; II (1-10 cm, moderate damage) 2-7%; III (over 10 cm OR extensive damage OR high-energy OR contamination OR farm/gunshot/segmental) 7-25%. IIIA has adequate coverage, IIIB needs a flap, IIIC has vascular injury needing repair. Classify after debridement, not before.</p>
+</aside>
+
 ## Initial Management
 
 
@@ -63,6 +68,11 @@ immunization or with a contaminated wound and uncertain immunization status. Tet
 immunoglobulin for patients who have never been immunized.
 Definitive surgical management: Early surgical debridement and stabilization.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Antibiotics within one hour of presentation are the single most important intervention for reducing infection in open fractures. The first-generation cephalosporin (cefazolin) covers Types I-II; add an aminoglycoside for Type III; add penicillin for anaerobic coverage in farm injuries or grossly contaminated wounds.</p>
+</aside>
+
 ## Surgical Management
 
 <figure class="md-figure">
@@ -79,6 +89,11 @@ The principles of surgical management of open fractures include:
 
 Timing: Historically the “6-hour rule” suggested debridement within 6 hours of injury. Modern evidence supports the principle of early debridement but suggests that the absolute timing is less critical than the immediate administration of antibiotics. Most centers aim for debridement within 12-24 hours of injury, with grossly contaminated or vascular-injury cases being treated more urgently. Debridement: Thorough surgical debridement is the cornerstone of management. The principles include: extension of the traumatic wound as needed for adequate exposure; identification and excision of all devitalized tissue including skin edges, fat, fascia, muscle, and bone; preservation of all viable tissue; identification and protection of major neurovascular structures; copious irrigation with sterile saline (with the volume traditionally cited as 3 L for Type I, 6 L for Type II, 9 L for Type III, though more recent evidence has questioned the importance of large irrigation volumes); and assessment of muscle viability (the “4 Cs”, color, consistency, contractility, capacity to bleed). The FLOW trial (Fluid Lavage of Open Wounds, 2015) demonstrated that low-pressure pulsatile lavage was non-inferior to high-pressure lavage, and that saline irrigation was superior to soap solution; current practice favors gentle low-pressure saline irrigation. Fracture stabilization: The choice of stabilization depends on the fracture pattern, the soft-tissue injury, and the contamination level. Type I and many Type II fractures can be managed by internal fixation (intramedullary nailing, plate fixation) at the time of debridement. Type III fractures often require external fixation initially with conversion to internal fixation after wound healing and resolution of soft-tissue injury (the “fix and flap” approach for Type IIIB). Wound management: The traditional approach left the wound open for delayed primary closure or healing by secondary intention; modern approaches increasingly favor primary closure when feasible, with use of negative-pressure wound therapy (vacuum-assisted closure, VAC) for wounds that cannot be primarily closed. Vacuum-assisted closure has been shown to facilitate wound contraction, reduce infection rates, and prepare wounds for definitive closure. Soft-tissue coverage: Type IIIB fractures require coverage by rotational or free flap. The principle of “fix and flap” — definitive bone fixation and soft-tissue coverage in a single combined orthopedic-plastic surgical procedure within 5-7 days of injury, produces better outcomes than serial operations. The choice of flap depends on the location, the size of the defect, and the available donor sites.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The classical 6-hour debridement rule has softened: timing of antibiotics matters more than the timing of debridement, with 12-24 hours acceptable in most centers. The FLOW trial showed low-pressure saline irrigation is non-inferior to high-pressure lavage and superior to soap; assess muscle by the four Cs (color, consistency, contractility, capacity to bleed).</p>
+</aside>
+
 ## Long-Term Issues
 
 The principal long-term concerns after open fracture include: infection (acute, chronic, with biofilm-associated implant infection being particularly difficult to manage); non-union (substantially elevated rates compared with closed fractures); soft-tissue compromise; and limb-length discrepancy from bone loss.
@@ -94,6 +109,11 @@ Gunshot injuries are classified by the energy of the projectile: Low-velocity (t
 
 Low-velocity gunshot fractures are managed as: local wound care (irrigation, debridement of necrotic tissue at the wound margins, retention or removal of the bullet according to clinical considerations); intravenous antibiotics (cefazolin for 24-48 hours in most protocols); tetanus prophylaxis; fracture management appropriate to the fracture pattern. The bullet itself is generally left in place unless it is in a problematic location (intra-articular, in a major nerve or vessel, in subcutaneous tissue producing symptoms). High-velocity and close-range gunshot fractures are managed as Gustilo Type III injuries with formal debridement, longer courses of broad-spectrum antibiotics, and external fixation in many cases. The classical orthopedic implication is that low-velocity gunshot fractures should not be assumed to be “minor” wounds — careful assessment and standard open fracture management is required.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Velocity, not caliber, determines management. Low-velocity (under 600 m/s) handgun wounds are usually Gustilo I-II with local wound care, IV cephalosporin, and tetanus; high-velocity rifle wounds and close-range shotgun blasts are Gustilo III injuries demanding formal debridement and broad antibiotics.</p>
+</aside>
+
 ## Crush Syndrome
 
 Crush syndrome is the systemic syndrome that follows release of a crushed limb from prolonged compression. The condition was first described in the London Blitz of 1941 and has been encountered in earthquakes, mining accidents, motor vehicle accidents with prolonged extrication, building collapses, and other disasters.
@@ -101,6 +121,11 @@ Crush syndrome is the systemic syndrome that follows release of a crushed limb f
 ## Pathophysiology
 
 The pathophysiology involves the systemic effects of muscle ischemia and reperfusion injury. During the period of compression, the affected muscle is rendered ischemic, with progressive accumulation of intracellular contents and inflammatory mediators. Upon release of the compression, the affected tissue is reperfused, and the massive release of these contents into the circulation produces the systemic syndrome. The principal systemic consequences include: Hyperkalemia: Released from damaged muscle cells; can produce cardiac arrhythmia and arrest, particularly with reperfusion. Myoglobinuria and acute kidney injury: Myoglobin released from damaged muscle precipitates in the renal tubules, producing acute tubular necrosis. The classical “tea-colored urine” indicates myoglobinuria. Metabolic acidosis: From anaerobic metabolism and release of intracellular acids. Hypocalcemia: From precipitation in damaged muscle and other mechanisms. Compartment syndrome: Of the affected limb, requiring fasciotomy. DIC and other systemic complications: From the massive inflammatory release.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Crush syndrome on reperfusion presents with hyperkalemia (cardiac arrest risk), myoglobinuria producing acute tubular necrosis (the classic tea-colored urine), metabolic acidosis, hypocalcemia, and compartment syndrome of the affected limb. Start large-volume crystalloid before extrication when possible and aim for urine output of 200-300 mL/h.</p>
+</aside>
 
 ## Management
 
@@ -119,11 +144,21 @@ The principal indications for amputation include: Vascular injury without recons
 
 The MESS scores four factors: Skeletal/soft-tissue injury: 1 point for low-energy injury, 2 for medium-energy, 3 for high-energy, 4 for very high-energy/crush. Limb ischemia: 1 point for reduced pulse with normal perfusion, 2 for absent pulse with reduced perfusion, 3 for cool/pale/paralyzed limb. Doubled if ischemia >6 hours. Shock: 0 points for normotensive, 1 for transient hypotension, 2 for persistent hypotension. Age: 0 points for <30 years, 1 for 30-50 years, 2 for >50 years. A score ≥7 has historically been considered predictive of amputation; however, the MESS has limitations, and modern practice emphasizes individualized assessment rather than rigid score-based decisions.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>MESS scores skeletal/soft-tissue injury (1-4), limb ischemia (1-3, doubled if over 6 hours), shock (0-2), and age (0-2). A score 7 or higher has historically been considered predictive of amputation, but modern practice treats this as one input rather than a binary rule.</p>
+</aside>
+
 ## Amputation Levels
 
 The principal amputation levels in the lower extremity include: Foot: Toe amputations, ray resections (involving the metatarsal), transmetatarsal amputation, Lisfranc amputation (through the tarsometatarsal joints), Chopart amputation (through the midtarsal joints, preserves heel pad with associated equinus tendency),
 
 Boyd amputation (calcaneotibial fusion preserving heel pad), Symes amputation (disarticulation at the ankle preserving the heel pad). Below-knee (transtibial): The standard amputation for severe foot or distal leg pathology with viable proximal tissue. Preserves the knee joint and provides excellent prosthetic function. The recommended stump length is 10-15 cm below the knee joint. Through-knee (knee disarticulation): Preserves the femoral length and provides an end-bearing stump. Less commonly used than transtibial or above-knee amputation. Above-knee (transfemoral): Performed when below-knee amputation is not feasible. Preserves the hip joint. Functional outcomes are less good than transtibial because of the loss of the knee joint. Hip disarticulation and hemipelvectomy: Rarely required, reserved for proximal limb tumors or extensive infection. In the upper extremity, amputation levels include digital and ray amputations, partial hand amputation, wrist disarticulation, below-elbow (transradial) amputation, elbow disarticulation, above-elbow (transhumeral) amputation, shoulder disarticulation, and forequarter amputation.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Do not underestimate the functional cost of each more proximal amputation level. Transtibial (10-15 cm below the knee) preserves the knee and gives excellent prosthetic function; above-knee amputation loses the knee and yields markedly worse functional outcomes, so preserve length whenever the soft-tissue envelope permits.</p>
+</aside>
 
 ## Principles of Amputation Surgery
 

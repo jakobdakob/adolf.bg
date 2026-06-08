@@ -17,6 +17,11 @@ The ankle (talocrural) joint is a true hinge joint between the tibial plafond (t
 
 The transverse tibiofibular ligament. The medial collateral ligament (deltoid ligament) complex includes a superficial component (broad fan-shaped ligament originating from the medial malleolus and inserting onto the navicular, sustentaculum tali, and talar tubercle) and a deep component (the deep deltoid, the principal restraint to lateral talar shift). The integrity of the deep deltoid is critical to mortise stability. The lateral ankle ligaments include the anterior talofibular ligament (ATFL) (the most commonly injured ankle ligament in lateral sprain) the calcaneofibular ligament (CFL), and the posterior talofibular ligament (PTFL). The ATFL is the primary restraint to anterior translation of the talus in plantar flexion and to inversion.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Ramsey and Hamilton (1976): as little as 1 mm of lateral talar shift increases tibiotalar contact pressure by 42% and accelerates post-traumatic arthritis. Anatomic restoration of fibular length, rotation and lateral position is therefore the central operative task in ankle fracture management.</p>
+</aside>
+
 ## Ankle Fracture Classification
 
 <figure class="md-figure">
@@ -73,9 +78,19 @@ The clinical utility of Lauge-Hansen is in predicting expected associated injuri
 
 In clinical practice, the Weber classification is more commonly used because of its simplicity and direct correlation with treatment (Weber A typically non-operative, Weber B variable, Weber C operative with syndesmotic attention). The Lauge-Hansen classification provides conceptual understanding of the injury complex and predicts the associated injuries that should be specifically sought.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Use Weber for treatment selection and Lauge-Hansen for what to look for. Supination-external rotation (SER) accounts for 60-75% of ankle fractures and progresses AITFL, spiral fibula, PITFL/posterior malleolus, then medial malleolus or deltoid: the next stage in the sequence tells you which structure to examine.</p>
+</aside>
+
 ## Clinical Assessment
 
 The clinical presentation includes ankle pain, swelling, deformity (in displaced fractures), and inability to bear weight. The examination assesses: Bony tenderness at the lateral malleolus, medial malleolus, syndesmosis, posterior malleolus, and proximal fibula (to identify Maisonneuve variants). Ligamentous tenderness at the deltoid, ATFL, and CFL. Neurovascular status of the foot. Skin integrity with attention to open fractures and impending skin compromise from displaced fractures. The Ottawa Ankle Rules (Stiell et al., 1992) identify patients with ankle injury who require radiographs versus those who can be safely cleared clinically. Indications for ankle radiographs include any pain in the malleolar zone PLUS one of: bony tenderness at the posterior edge or tip of the lateral malleolus, bony tenderness at the posterior edge or tip of the medial malleolus, or inability to bear weight (4 steps) both immediately and in the emergency department. The rules have sensitivity approaching 100 percent for clinically significant ankle fractures, with specificity of 30 to 50 percent. Imaging consists of AP, lateral, and mortise views (15-degree internal rotation oblique) of the ankle. The mortise view best demonstrates the relationship between the talus and the malleoli (the “talocrural angle”, approximately 8 to 15 degrees on the mortise view, lost in shortened or rotated fibula) and the medial clear space (the distance between the medial talar dome and the medial malleolus, normally less than 4 mm; widening indicates lateral talar shift). Full-length tibia-fibula radiographs are added when proximal fibular tenderness suggests a Maisonneuve fracture. CT is reserved for complex patterns, particularly those with posterior malleolar involvement, and for operative planning.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>On the mortise view, look for the talocrural angle (8-15 degrees) and the medial clear space (less than 4 mm). A medial clear space wider than 4 mm or a positive stress view in an isolated Weber B indicates deltoid disruption and a functional bimalleolar equivalent that requires operative management.</p>
+</aside>
 
 ## Treatment Principles — Stable Versus Unstable
 
@@ -129,9 +144,19 @@ The syndesmosis must be stabilized in any ankle fracture pattern where the synde
 
 The Maisonneuve fracture (Maisonneuve, 1840) is a proximal fibular fracture (often near the fibular neck) with associated syndesmotic disruption and medial-sided ankle injury (either medial malleolar fracture or deltoid disruption). The pattern represents the pronation-external rotation stage 3-4 injury with continuation of the force up the fibula to fracture at its weakest point. The proximal fibular fracture is often missed if not specifically sought — palpation of the entire fibular length and dedicated proximal fibular radiographs are essential in any pronation-external rotation pattern. Treatment involves fixation of the medial side (medial malleolus or deltoid management), syndesmotic stabilization (the principal mechanical concern), and typically non-fixation of the proximal fibular fracture (which heals well with syndesmotic stabilization restoring the mortise).
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The Maisonneuve fracture is missed unless the entire fibula is palpated and dedicated proximal radiographs are obtained. Suspect it in any pronation-external rotation pattern with medial-side injury but no obvious distal fibular fracture; fix the medial side and the syndesmosis and leave the proximal fibula alone.</p>
+</aside>
+
 ## Bosworth Fracture-Dislocation
 
 The Bosworth fracture is a Weber B-pattern with the proximal fibular fragment trapped posteriorly behind the tibia, preventing reduction. The injury requires open reduction to disengage the trapped fibula and is one of the few absolute indications for emergent operative intervention in ankle fractures (because the ongoing displacement compromises the skin and the syndesmotic ligaments).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The Bosworth fracture-dislocation has the proximal fibular fragment trapped posteriorly behind the tibia and cannot be reduced closed. It is a true emergency: continued displacement threatens the skin and the syndesmotic ligaments, so open reduction is mandatory.</p>
+</aside>
 
 ## Open Ankle Fractures
 
@@ -159,6 +184,11 @@ Chronic lateral ankle instability with recurrent giving-way affects approximatel
 ## Syndesmotic Injuries Without Fracture
 
 The high ankle sprain or isolated syndesmotic injury is the syndesmotic disruption without fibular fracture, typically produced by external rotation of the dorsiflexed foot. The injury is more disabling than the lateral ankle sprain and has a more prolonged recovery course. The grading parallels the lateral ankle sprain: Grade I: Stretching of the AITFL without macroscopic tear. No widening on stress imaging. Grade II: Partial tear of the AITFL with stable mortise. Grade III: Complete syndesmotic disruption with widening of the mortise on stress imaging. Grade I and II are treated non-operatively with progressive return to activity, typically requiring 6 to 12 weeks; Grade III requires syndesmotic stabilization (screw or suture-button) similar to fracture-associated syndesmotic injuries.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Quality of syndesmotic reduction (not the choice of fixation device) is the dominant outcome predictor. The suture-button (TightRope) permits physiologic micromotion and eliminates the need for hardware removal; consider CT to confirm reduction given the recognized difficulty of judging it intraoperatively.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

@@ -15,6 +15,11 @@ A fracture is a discontinuity in the structural integrity of bone. The understan
 
 Fractures are extremely common, with the lifetime risk of at least one fracture approaching 50% in many populations. The principal patterns of fracture epidemiology are: bimodal age distribution, with peaks in young adults (high-energy trauma) and in older adults (low-energy fragility fractures); male predominance in young adults, female predominance in older adults; and the increasing burden of fragility fractures as the population ages. The principal fragility fractures (distal radius, proximal humerus, vertebral body, hip) produce substantial morbidity and mortality in older adults, with the hip fracture in particular producing 1-year mortality of 20-30% in elderly patients with comorbidities.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The four classical fragility fractures are distal radius, proximal humerus, vertebral body, and hip. Hip fracture in the elderly carries a 1-year mortality of 20-30%, a marker of frailty as much as of the bony injury itself.</p>
+</aside>
+
 ## Biomechanics of Fractures
 
 The biomechanical analysis of fractures considers the mechanical properties of bone, the forces applied to it, and the resulting patterns of failure.
@@ -23,14 +28,29 @@ The biomechanical analysis of fractures considers the mechanical properties of b
 
 Bone is an anisotropic material — its mechanical properties differ in different directions of loading. Compressive strength along the long axis of the bone is substantially greater than tensile strength (bone is approximately twice as strong in compression as in tension) or shear strength. The Young’s modulus of cortical bone is approximately 15-20 GPa, intermediate between metals (much stiffer) and tendons (much more compliant). Cancellous bone has substantially lower stiffness and strength than cortical bone, reflecting its trabecular structure and the role of the marrow in load-sharing. Bone is a viscoelastic material, its mechanical properties depend on the rate of loading. At high strain rates (high-energy trauma), bone behaves in a more brittle manner, with relatively little energy absorbed before fracture. At low strain rates, more energy is absorbed before failure. This property explains the different patterns of fracture seen in high-energy versus low-energy injuries.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Bone is anisotropic (about twice as strong in compression as in tension) and viscoelastic (more brittle at high strain rate). Young's modulus of cortical bone is roughly 15-20 GPa, between metals and tendons. High-energy injuries produce more comminuted, energy-rich fracture patterns.</p>
+</aside>
+
 
 ## Modes of Failure
 
 Bone can fail under several different loading modes, producing characteristic fracture patterns: Tension produces transverse fractures perpendicular to the long axis of the bone. Pure tension fractures are uncommon in clinical practice; they typically arise at sites of muscular insertion (avulsion fractures). Compression produces oblique fractures (at approximately 45° to the long axis) along the lines of maximum shear stress in compressive loading. Pure compression typically produces wedge-type vertebral compression fractures or compression fractures of metaphyseal bone (proximal tibial plateau). Bending produces a combination of tension on the convex side and compression on the concave side of the bend, with a characteristic transverse fracture on the tension side that may progress to a butterfly fragment on the compression side. The classical “boxer’s fracture” of the fifth metacarpal neck and many torus (buckle) fractures of children are examples of bending failures. Torsion produces spiral fractures around the long axis of the bone. The spiral fracture is highly characteristic of torsional failure and is seen classically in ski-related tibial fractures (with the ski as a long lever arm rotating the foot) and in non-accidental injuries in children (with rotational force applied to the limb). Shear produces fractures parallel to the loading direction. Pure shear fractures are uncommon as a single mode of loading. Combined loading in clinical reality produces fractures with components of multiple loading modes. The pattern of the fracture provides useful information about the mechanism of injury.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Read mechanism off the pattern: transverse equals tension (often avulsion at a muscle insertion), oblique at about 45 degrees equals compression, spiral equals torsion (classic ski tibia, suspicious in a child), and the bending wedge (butterfly) indicates bending with the wedge on the compression side.</p>
+</aside>
+
 ## Energy Considerations
 
 The energy delivered to the bone during the injury is a critical determinant of fracture severity and complexity. Low-energy injuries (a simple fall, a sports collision) typically produce simple fracture patterns with limited soft-tissue injury. High-energy injuries (motor vehicle accident, fall from height) produce comminuted fractures with extensive soft-tissue injury. The kinetic energy of an injury follows the equation E = (1/2)mv², emphasizing that velocity is the dominant determinant of energy — small increases in velocity produce dramatic increases in energy delivered to tissues. The classical example is the difference between a low-velocity gunshot wound (handgun) and a high-velocity gunshot wound (military rifle): the soft-tissue damage in the high-velocity injury is dramatically greater and extends far beyond the apparent wound track.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Kinetic energy follows E = (1/2)mv squared, so velocity dominates. A high-velocity gunshot delivers far more energy than a handgun wound and produces soft-tissue damage extending well beyond the visible wound track; treat the cavity, not the entry hole.</p>
+</aside>
 
 ## Pathological Fractures
 
@@ -77,6 +97,11 @@ Many specific classifications are used for particular fracture types, and these 
 
 The classification of soft-tissue injury accompanying fractures is at least as important as the bony classification, since the soft-tissue damage often determines the complications and the ultimate outcome. Two principal classifications are used: Gustilo-Anderson classification of open fractures: Type I (clean wound <1 cm), Type II (wound 1-10 cm, no extensive soft-tissue damage), Type IIIA (extensive soft-tissue laceration with adequate bone coverage by soft tissues), Type IIIB (extensive soft-tissue damage requiring flap coverage), Type IIIC (vascular injury requiring repair). The classification correlates with infection rate and is the standard for open fracture management. Tscherne classification of closed fracture soft-tissue injury: Grade 0 (no soft-tissue injury), Grade I (superficial abrasion or contusion), Grade II (deep contused abrasion or focal skin or muscle contusion), Grade III (extensive skin contusion, muscle damage, severe degloving, compartment syndrome). The classification is useful for closed injuries and informs the timing of definitive surgery and the choice of fixation.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two soft-tissue classifications drive trauma decisions: Gustilo-Anderson grades open fractures I, II, IIIA, IIIB (flap needed), IIIC (vascular repair needed), and predicts infection. Tscherne grades closed-injury soft tissue 0-III and informs timing of definitive fixation, with grade III often demanding staged management.</p>
+</aside>
+
 ## Dislocations and Subluxations
 
 A dislocation is the complete loss of normal articular relationship between the joint surfaces. A subluxation is a partial loss of articular contact with persistent partial articular relationship. The classification of dislocations is generally by the direction of displacement (anterior, posterior, etc.) and by whether they are simple (without associated fracture) or complex (with associated fracture, fracture-dislocation). Specific classifications apply to specific joints: anterior, posterior, inferior shoulder dislocation; anterior, posterior, central hip dislocation; etc. The management principles of dislocations include: prompt reduction (delayed reduction increases the risk of avascular necrosis and other complications); assessment of associated injuries (fractures, neurovascular injury); and post-reduction immobilization and rehabilitation appropriate to the joint and the underlying injury.
@@ -106,6 +131,11 @@ The classical clinical features of fracture include: pain (well-localized to the
 
 Plain radiographs remain the foundation of fracture imaging. The general principles include: Two orthogonal views: A single view can conceal substantial deformity in the perpendicular plane; two views at right angles to each other are mandatory for adequate assessment of any fracture. Include the joints above and below: A fracture in the diaphysis may have associated injury at the adjacent joints (the classical “Monteggia equivalent” of radius shaft fracture with proximal radioulnar dislocation, or the “Galeazzi equivalent” with distal radioulnar dislocation, are examples of why this principle matters). Apply standard projections appropriate to the region: Each anatomical region has specific projections that optimize visualization (mortise view for the ankle, Judet views for the acetabulum, etc.). Compare with the contralateral side when in doubt: Particularly useful in pediatric fractures where physeal lines can be confusing. Reassess as needed: Follow-up radiographs at 7-10 days can reveal initially occult fractures as fracture line resorption makes them more visible.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>A single radiographic view can hide substantial deformity at right angles to it. Always obtain two orthogonal views and include the joints above and below, otherwise a Monteggia or Galeazzi equivalent (radioulnar dislocation accompanying a forearm shaft fracture) is easy to miss.</p>
+</aside>
+
 ## CT and MRI
 
 CT is the imaging modality of choice for complex articular fractures (acetabulum, tibial plateau, distal radius, calcaneus), for fractures of complex anatomical regions (pelvis, spine), for assessment of fracture morphology when plain radiographs are inadequate, and increasingly as a primary imaging modality in major trauma. Three-dimensional reconstruction provides additional information for surgical planning.
@@ -119,6 +149,11 @@ Bone scintigraphy is useful for occult fractures, stress fractures, and metastat
 ## The Tertiary Survey
 
 The tertiary survey (a comprehensive systematic examination of the trauma patient 24- 72 hours after admission) is a critical concept in trauma care. The principle is that injuries can be missed in the chaos of the initial trauma resuscitation, and a deliberate systematic re-examination after the patient is stable identifies these missed injuries. The tertiary survey includes head-to-toe examination, review of all imaging, and consideration of any new symptoms. Missed orthopedic injuries (rib fractures, hand fractures, foot fractures, vertebral fractures) are particularly common findings on tertiary survey.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The tertiary survey 24-72 hours after admission is designed to catch injuries missed in the chaos of resuscitation. Rib, hand, foot, and vertebral fractures are the classical missed injuries, so re-examine head-to-toe once the patient is stable.</p>
+</aside>
 
 ## General Principles of Fracture Management
 

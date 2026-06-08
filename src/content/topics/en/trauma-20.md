@@ -15,17 +15,37 @@ The hip is the deepest and most constrained ball-and-socket joint in the human b
 
 The acetabulum is formed by the fusion of three bones (ilium, ischium, and pubis) that come together at the triradiate cartilage (which fuses by age 14 to 16 years). The articular surface forms a horseshoe-shaped lunate surface with an inferior gap (the acetabular notch) covered by the transverse acetabular ligament. The acetabulum is supported by two columns of bone as described by Robert Judet and Émile Letournel in the 1960s — the anterior column (pubic and iliac components, extending from the iliac crest through the pelvic brim to the symphysis) and the posterior column (ischial and iliac components, extending from the greater sciatic notch through the ischium to the lesser sciatic notch). These two columns converge at the acetabular roof (the superior dome that bears the weight-bearing load). The columns are connected by the transverse anatomic strut of bone formed by the quadrilateral surface (the medial wall of the acetabulum). The femoral head is approximately spherical, covered with articular cartilage except for the fovea capitis (the central pit for the ligamentum teres). The blood supply to the femoral head is principally through the medial femoral circumflex artery (its deep branch ascending posteriorly along the femoral neck, the “retinacular vessels”), with smaller contributions from the lateral femoral circumflex and the ligamentum teres vessels (the latter important particularly in children). The retinacular vessels are vulnerable to disruption with hip dislocation and femoral neck fracture, producing the high rates of avascular necrosis associated with these injuries.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Femoral head perfusion is dominated by the medial femoral circumflex artery — its deep branch ascends posteriorly along the femoral neck as the retinacular vessels. Hip dislocation and femoral neck fracture both disrupt these vessels, which is why AVN is the dreaded complication of both.</p>
+</aside>
+
 The sciatic nerve descends behind the acetabulum and posterior femur, exiting the pelvis through the greater sciatic foramen and passing beneath the piriformis. The nerve lies in close proximity to the posterior column and posterior wall of the acetabulum, making it vulnerable to traction or compression injury in posterior hip dislocations and during operative exposure of the posterior column. The obturator nerve and vessels pass through the obturator foramen and are vulnerable in fractures involving the quadrilateral surface and the medial wall. The femoral nerve and vessels descend anterior to the pelvic brim and are vulnerable in anterior column fractures and during the ilioinguinal approach to the acetabulum.
 
 ## Hip Dislocation — Classification and Mechanism
 
 The Thompson and Epstein classification (1951) of posterior hip dislocations divides them by associated fracture: Type I: Simple dislocation without significant associated fracture. Type II: Dislocation with a single large posterior wall fragment. Type III: Dislocation with comminuted posterior wall fracture. Type IV: Dislocation with fracture of the acetabular floor. Type V: Dislocation with fracture of the femoral head. The mechanism of posterior hip dislocation is most commonly the dashboard injury — flexed, adducted hip struck by anteriorly directed force on the femur during a motor vehicle accident — producing posterior translation of the femoral head out of the acetabulum, typically with associated posterior wall fracture. The mechanism of anterior dislocation is forced external rotation and abduction, with the hip dislocated anteroinferiorly (obturator type) or anterosuperiorly (pubic type). The clinical presentation of posterior dislocation is the lower extremity held in flexion, internal rotation, and adduction with apparent shortening. Anterior dislocation presents with the limb in abduction and external rotation, also with apparent shortening. Inferior dislocation (luxatio erecta of the hip) is rare and presents with the limb in marked flexion with the foot pointing toward the head. The sciatic nerve is injured in approximately 10 to 20 percent of posterior hip dislocations, typically a peroneal-division injury producing foot drop with preserved tibial function. Documentation of neurological status before reduction is mandatory.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Sciatic nerve injury complicates 10-20% of posterior hip dislocations, classically peroneal-division (foot drop) with preserved tibial function. Document before reduction so a post-reduction palsy is not blamed on the maneuver.</p>
+</aside>
+
 ## Treatment of Hip Dislocation
 
 The hip dislocation is an orthopedic emergency because of the time-dependent risk of avascular necrosis. The classical teaching is that reduction within 6 hours substantially reduces AVN risk, while delays beyond 12 hours predict high rates of AVN (up to 50 percent or more).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Hip dislocation is a time-dependent orthopedic emergency: reduce within 6 hours to minimize AVN, delays beyond 12 hours predict AVN rates up to 50% or more. The clock starts at the injury, not at presentation.</p>
+</aside>
+
 Closed reduction is attempted urgently in the emergency department with appropriate analgesia and muscle relaxation. The Allis maneuver is most commonly used: with the patient supine and an assistant stabilizing the pelvis, the surgeon stands on a stool over the bed and applies upward traction on the flexed knee while gently rotating the hip — bringing the femoral head over the posterior acetabular rim and into the joint. The Stimson technique with the patient prone and traction on the hanging leg is an alternative. The Bigelow and East Baltimore maneuvers describe other reduction methods. Post-reduction, the joint is reassessed clinically (range of motion testing) and radiographically. CT scan is mandatory after reduction in all hip dislocations to assess for: associated femoral head fracture, intra-articular loose bodies (which require operative removal), posterior wall fracture (with or without displacement), and concentric reduction (with attention to widening of the joint space suggesting interposed soft tissue). Indications for operative intervention after closed reduction include: irreducible dislocation, intra-articular loose bodies, displaced posterior wall fracture greater than 20 percent of the wall, persistent instability after reduction, and associated femoral head fracture with displaced fragments. Closed reduction failure is uncommon but requires urgent open reduction through a posterior (Kocher-Langenbeck) approach for posterior dislocations or an anterior approach for anterior dislocations. Post-reduction management for simple stable dislocations consists of brief immobilization (a few days for comfort) followed by progressive weight bearing. There is no convincing evidence that prolonged non-weight-bearing or hip precautions affect AVN risk, although many protocols still impose these restrictions in some form.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Post-reduction CT is mandatory in every hip dislocation — not optional. It detects intra-articular loose bodies (an indication for arthrotomy), occult posterior wall fracture, femoral head injury, and non-concentric reduction (joint widening from interposed soft tissue). Walking the patient out of the ED on a non-concentric reduction is a path to early arthrosis.</p>
+</aside>
 
 ## Femoral Head Fractures — The Pipkin Classification
 
@@ -35,6 +55,11 @@ Femoral head fractures, classically associated with posterior hip dislocation, a
 ## Treatment of Femoral Head Fractures
 
 The treatment of Pipkin fractures is individualized: Pipkin I with a small inferior fragment: closed reduction of the dislocation typically reduces the fragment as well. Small displaced fragments below the weight-bearing surface can be excised; larger fragments are reduced and fixed with screws (headless compression screws to bury below the articular surface). Pipkin II: Anatomical reduction and fixation are essential. Approach options include the Smith-Petersen anterior approach (better visualization of the antero-superior weight-bearing surface, although the anterior capsulotomy and surgical hip dislocation may compromise the femoral head blood supply) and the Kocher-Langenbeck posterior approach with or without trochanteric flip osteotomy (Ganz approach) to allow safe surgical hip dislocation. Fixation is with headless compression screws. Pipkin III: Treatment depends on patient age. In younger patients, attempts at fixation of both the femoral head fracture and the femoral neck fracture are made, despite high AVN risk. In older patients, primary arthroplasty (total hip arthroplasty rather than hemiarthroplasty because of the acetabular injury) is increasingly favored. Pipkin IV: The femoral head fracture and the acetabular fracture must be addressed in a coordinated manner. The acetabular fracture is reduced and stabilized first; the femoral head fracture is then addressed, often through the same approach. The prognosis of femoral head fractures is dominated by the AVN risk, which approaches 20 to 50 percent in Pipkin II fractures with delayed reduction or extensive dissection.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Pipkin femoral head fractures, key idea — relationship to the fovea drives weight-bearing relevance. I (below fovea, often excisable), II (above fovea, weight-bearing surface, demands anatomical fixation), III (head + neck fracture, very high AVN), IV (head + acetabulum, coordinated reduction). The fovea is the anatomical hinge of the classification.</p>
+</aside>
 
 ## Acetabular Fractures — The Letournel Classification
 
@@ -70,6 +95,11 @@ Anterior column fracture: Fracture extending from the iliac crest through the an
 
 T-shaped fracture: A transverse fracture with an additional inferior vertical extension through the ischium and pubis, a transverse plus inferior split. Posterior column with posterior wall: Posterior column fracture combined with posterior wall fracture. Transverse with posterior wall: The most common associated pattern, combining a transverse fracture with posterior wall involvement. Anterior column with posterior hemitransverse: Anterior column fracture with a partial transverse component crossing the posterior column. Both-column fracture: The most complex pattern, with the entire acetabular component (both columns) dissociated from the iliac wing. The articular surface is no longer continuous with the intact ilium. The classical radiographic finding is the spur sign on the obturator oblique view.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Letournel structure in five plus five: elementary patterns are posterior wall (most common, ~25%), posterior column, anterior wall, anterior column, transverse. Associated patterns combine them — T-shaped, posterior column + wall, transverse + posterior wall (most common associated), anterior column + posterior hemitransverse, and both-column (the only pattern where no acetabular fragment stays attached to the iliac wing — look for the spur sign on the obturator oblique).</p>
+</aside>
+
 ## Imaging and Surgical Planning for Acetabular Fractures
 
 Acetabular fractures require comprehensive imaging: AP pelvis radiograph: Identifies the principal radiographic lines of the acetabulum and detects the major fracture pattern. Judet views: The obturator oblique (the affected hemipelvis rotated 45 degrees away from the X-ray beam) demonstrates the anterior column, the posterior wall, and the obturator foramen. The iliac oblique (the affected hemipelvis rotated 45 degrees toward the X-ray beam) demonstrates the posterior column, the anterior wall, and the iliac wing. CT scan with 3D reconstruction is now the standard for definitive characterization, surgical planning, and the identification of marginal impaction (depressed articular surface fragments that may require elevation and grafting during reduction).
@@ -84,11 +114,21 @@ The ilioinguinal approach (Letournel) through three windows (lateral over the il
 
 The principles of acetabular fracture surgery are anatomical reduction of the articular surface and rigid fixation to permit early motion. Reduction is achieved with reduction clamps, ball-spike pushers, and bone hooks, with intraoperative fluoroscopy confirming column reduction. Fixation is typically with reconstruction plates contoured to the column anatomy plus interfragmentary screws. Specific to the posterior wall, buttress plate fixation along the posterior column with screws into the posterior column body is the standard. The Matta criteria for reduction quality assess residual displacement: anatomical (≤1 mm), imperfect (2 to 3 mm), and poor (>3 mm). Anatomical reduction correlates with good long-term outcomes; imperfect or poor reductions have substantially worse outcomes.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Matta criteria for acetabular reduction quality: anatomical ≤1 mm, imperfect 2-3 mm, poor >3 mm. Letournel's classical data — 80% good/excellent outcomes with anatomical reduction versus 30% with imperfect. Reduction quality is the strongest single predictor of long-term outcome.</p>
+</aside>
+
 ## Outcomes and Complications
 
 The functional outcomes of acetabular fracture surgery correlate with several factors: Quality of reduction: Anatomical reduction is the strongest predictor of good outcome. Letournel’s classic data demonstrated 80 percent good or excellent outcomes with anatomical reduction versus 30 percent with imperfect reduction. Patient age: Older patients have worse outcomes, particularly with severe fracture patterns. The 60-year-old patient with comminuted acetabular fracture has substantially worse outcomes than the 25-year-old with the same pattern. Fracture pattern: Posterior wall fractures with marginal impaction, both-column fractures with significant comminution, and patterns with associated femoral head injury all have poorer prognoses. Associated injuries: AVN of the femoral head, post-traumatic arthritis, sciatic nerve injury, all reduce functional outcomes.
 
 The principal complications include post-traumatic arthritis (the most common long-term consequence, with rates of 10 to 30 percent at 10 to 20 years), avascular necrosis (3 to 9 percent), heterotopic ossification (10 to 90 percent depending on approach and prophylaxis, much higher with extended iliofemoral than Kocher-Langenbeck; prophylaxis with single-dose radiation or indomethacin can reduce incidence), sciatic nerve injury (10 to 30 percent in posterior approaches, often transient peroneal-division injury), infection (1 to 5 percent, higher with combined approaches), and vascular injury (rare but potentially catastrophic, particularly to the corona mortis, an anastomotic vessel between the obturator and external iliac systems crossing the superior pubic ramus, encountered in the ilioinguinal approach).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The corona mortis ('crown of death') is an anastomotic vessel between the obturator and external iliac systems crossing the superior pubic ramus, present in roughly 1 in 3 patients. Encountered during the ilioinguinal or modified Stoppa approach, an injury can produce catastrophic hemorrhage in a difficult-to-access location — identify, ligate, and divide it proactively.</p>
+</aside>
 
 ## Special Considerations
 

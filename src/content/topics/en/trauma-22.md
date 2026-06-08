@@ -9,11 +9,26 @@ order: 122
 
 ## Introduction
 
-The pertrochanteric fracture (sometimes called the intertrochanteric fracture) is the extracapsular cousin of the femoral neck fracture and shares the epidemiology of the fragility hip fracture: elderly osteoporotic patient, low-energy mechanism, substantial mortality, and the requirement for prompt operative intervention to restore mobility. The two principal anatomical and clinical distinctions from femoral neck fractures are fundamental to management. First, the pertrochanteric fracture is extracapsular, with the fracture line outside the hip joint capsule; the blood supply to the femoral head is therefore largely preserved, and avascular necrosis is uncommon (in contrast to the high AVN rates of displaced femoral neck fractures). Second, the healing potential is favorable because the fracture is through cancellous trochanteric bone with abundant vascular supply, in contrast to the watershed neck region; nonunion is uncommon. The treatment is therefore almost always internal fixation rather than arthroplasty, with the central management question being the choice of construct rather than fixation versus replacement. This chapter, drawing principally on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics, addresses the contemporary management of pertrochanteric fractures.
+The pertrochanteric fracture (sometimes called the intertrochanteric fracture) is the extracapsular cousin of the femoral neck fracture and shares the epidemiology of the fragility hip fracture: elderly osteoporotic patient, low-energy mechanism, substantial mortality, and the requirement for prompt operative intervention to restore mobility. The two principal anatomical and clinical distinctions from femoral neck fractures are fundamental to management. First, the pertrochanteric fracture is extracapsular, with the fracture line outside the hip joint capsule; the blood supply to the femoral head is therefore largely preserved, and avascular necrosis is uncommon (in contrast to the high AVN rates of displaced femoral neck fractures). Second, the healing potential is favorable because the fracture is through cancellous trochanteric bone with abundant vascular supply, in contrast to the watershed neck region; nonunion is uncommon.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Do not assume an externally rotated, shortened, painful hip after a fall is a femoral neck fracture. The pertrochanteric fracture often shows 90-degree external rotation (foot flat on the bed) and trochanteric ecchymosis; the distinction drives implant selection.</p>
+</aside> The treatment is therefore almost always internal fixation rather than arthroplasty, with the central management question being the choice of construct rather than fixation versus replacement. This chapter, drawing principally on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics, addresses the contemporary management of pertrochanteric fractures.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The pertrochanteric fracture is extracapsular: the medial femoral circumflex retinacular vessels are largely spared, AVN is uncommon, and healing through cancellous trochanteric bone is excellent. The management question is therefore implant choice, not fixation versus arthroplasty.</p>
+</aside>
 
 ## Surgical Anatomy
 
 The pertrochanteric region extends from the femoral neck-shaft junction (the intertrochanteric line anteriorly and intertrochanteric crest posteriorly) to a horizontal level approximately 5 cm distal to the lesser trochanter. The region is bounded superiorly by the greater trochanter (insertion of the gluteus medius and minimus, with the piriformis fossa as the insertion of the piriformis posteriorly), inferiorly by the proximal femoral shaft, and includes the lesser trochanter medially (insertion of the iliopsoas tendon). The calcar femorale, a vertically oriented condensation of bone deep within the medial proximal femur extending from the medial cortex into the lesser trochanter region, is a critical structural element that determines fracture stability when intact. The blood supply to the proximal femur is principally through the medial and lateral femoral circumflex arteries, both branches of the deep femoral. The branches that contribute to the pertrochanteric region include direct branches into the cancellous trochanteric bone, with abundant supply that supports rapid healing. The principal deforming forces on the pertrochanteric fracture include the abductor pull on the greater trochanter (producing abduction and external rotation of the proximal fragment), the iliopsoas pull on the lesser trochanter fragment (medializing displacement of this fragment when separated, with consequent loss of medial cortical buttress), and the adductor pull on the femoral shaft (producing adduction of the shaft and varus angulation at the fracture).
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Stability is determined by the integrity of the medial cortex (lesser trochanter and calcar femorale). A reconstructible medial buttress permits dynamic compression along the implant; medial comminution forces load through the implant and demands a construct that resists collapse.</p>
+</aside>
 
 ## Classification
 
@@ -68,6 +83,11 @@ The sliding hip screw (SHS, dynamic hip screw, DHS) is the historical workhorse 
 
 The most important technical consideration in SHS fixation is lag screw position, quantified by the tip-apex distance (TAD) described by Baumgaertner (1995). The TAD is the sum, measured in millimeters and corrected for radiographic magnification, of the distance from the tip of the lag screw to the apex of the femoral head on both AP and lateral radiographs. A TAD less than 25 mm is the goal; TAD greater than 25 mm is strongly associated with screw cut-out and fixation failure. The lag screw should be deep and central in the femoral head, with central position on both AP and lateral views, and with the tip approximately 5 to 10 mm from the subchondral surface. The calcar tip-apex distance (CalTAD) has been proposed as an alternative, measuring from the tip of the screw to the apex along a line through the inferior calcar; this measure may better predict cut-out in some patterns.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Tip-apex distance (Baumgaertner, 1995) is the single most important technical parameter: sum the AP and lateral tip-to-apex distances and aim for less than 25 mm. TAD greater than 25 mm is the dominant predictor of lag-screw cut-out regardless of whether the construct is SHS or cephalomedullary nail.</p>
+</aside>
+
 ## Outcomes and Failure Modes
 
 SHS fixation produces reliable union in stable pertrochanteric fractures with appropriately positioned hardware. The principal failure modes include: Cut-out of the lag screw through the superior cortex of the femoral head — the most common failure mode, related to TAD greater than 25 mm, varus malreduction, and unstable fracture patterns. Excessive sliding with consequent limb shortening, lateral hardware prominence, and abductor weakness — related to medial comminution and the use of SHS in unstable patterns better treated with alternative constructs. Implant failure with breakage at the plate-barrel junction, uncommon with modern implants but described. The stable pertrochanteric fracture (AO 31-A1 and selected A2.1) remains an excellent indication for SHS fixation, with cost-effectiveness and reliable outcomes.
@@ -87,11 +107,21 @@ The technique requires careful entry point selection (typically tip of greater t
 
 The choice between short (typically 240 mm or less, ending in the proximal femur above the diaphyseal isthmus) and long (typically 340 mm or longer, extending to the distal metaphysis) nails is a practical consideration. Short nails are easier to insert and produce fewer technical complications; long nails provide more comprehensive protection of the femur against subsequent fracture and are favored in patients at risk for atypical femoral fracture or with extension of the fracture line into the subtrochanteric region. The peri-implant fracture at the tip of a short nail (a recognized complication) has driven some advocacy for long nails in selected patients, though the routine use of long nails carries its own concerns (longer surgical time, more radiation exposure).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Atypical femoral fractures on long-term bisphosphonate or denosumab therapy show lateral cortical thickening, a transverse fracture line and a medial spike, and are often preceded by prodromal thigh pain. An incomplete radiographic finding warrants urgent CT or MRI and prophylactic nailing, with a drug holiday or transition to teriparatide as part of overall management.</p>
+</aside>
+
 ## SHS Versus Cephalomedullary Nail — The Active Debate
 
 The choice between SHS and CMN for pertrochanteric fractures has been the subject of extensive investigation, with the following broad consensus: Stable fractures (AO 31-A1 and selected A2.1): Both SHS and CMN produce reliable outcomes. The SHS has been the historical standard with cost-effectiveness and long track record; the CMN is increasingly used because of efficiency and applicability across pattern types. The Cochrane reviews and large registry studies generally show no significant difference in major outcomes for these stable patterns. Unstable fractures (AO 31-A2.2 and A2.3): The CMN has gained favor on the basis of biomechanical advantages, with several trials showing reduced sliding, reduced shortening, and better functional outcomes. The HEMI trial and other studies have provided supporting evidence, although results remain mixed in some series. Reverse oblique and transverse fractures (AO 31-A3): The CMN is the standard of care; SHS fixation in this pattern is biomechanically inadequate because the fracture line is essentially parallel to the screw, with shear force unable to be neutralized by the sliding mechanism. The use of SHS for A3 patterns is strongly discouraged.
 
-Subtrochanteric extension: CMN with long nail is the standard; SHS is inadequate. The practical trend in many centers has been progressive shift toward CMN for all pertrochanteric fractures, with SHS reserved for stable simple patterns. The cost of CMN is higher, but the broader applicability and the avoidance of failures in unstable patterns have favored this transition.
+Subtrochanteric extension: CMN with long nail is the standard; SHS is inadequate.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Sliding hip screw fixation of a reverse oblique (AO 31-A3) pattern is biomechanically inadequate because the fracture line runs parallel to the lag screw and shear cannot be neutralized by the sliding mechanism. A3 patterns and subtrochanteric extensions are cephalomedullary nail territory.</p>
+</aside> The practical trend in many centers has been progressive shift toward CMN for all pertrochanteric fractures, with SHS reserved for stable simple patterns. The cost of CMN is higher, but the broader applicability and the avoidance of failures in unstable patterns have favored this transition.
 
 ## Specific Considerations
 

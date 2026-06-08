@@ -9,13 +9,23 @@ order: 126
 
 ## Introduction
 
-The knee dislocation is one of the most dramatic and most dangerous injuries in orthopedic practice, combining the disruption of the principal ligamentous restraints of the joint with the immediate threat of popliteal artery injury and limb loss. The classical incidence is reported as low (less than 0.2 percent of orthopedic admissions in older series) but the true incidence is substantially higher than historical figures suggest, with as many as 50 percent of knee dislocations reducing spontaneously before presentation and being missed unless specifically considered. The knee instability spectrum extends from this acute multiligamentous disruption to the chronic instabilities (ACL deficiency, PCL deficiency, posterolateral corner instability) that are the principal subject of contemporary sports medicine. Arthroscopy of the knee, the diagnostic and therapeutic modality that revolutionized knee surgery in the 1970s and 1980s, deserves brief consideration here as both a diagnostic tool in the trauma setting and the platform for reconstructive surgery in chronic instability. This chapter draws on Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s Orthopaedic Examination.
+The knee dislocation is one of the most dramatic and most dangerous injuries in orthopedic practice, combining the disruption of the principal ligamentous restraints of the joint with the immediate threat of popliteal artery injury and limb loss. The classical incidence is reported as low (less than 0.2 percent of orthopedic admissions in older series) but the true incidence is substantially higher than historical figures suggest, with as many as 50 percent of knee dislocations reducing spontaneously before presentation and being missed unless specifically considered.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Up to half of knee dislocations reduce spontaneously before presentation, so the diagnosis is missed when not specifically considered. Multiligamentous instability on examination after significant knee trauma should be treated as a reduced dislocation until proven otherwise, with full neurovascular workup.</p>
+</aside> The knee instability spectrum extends from this acute multiligamentous disruption to the chronic instabilities (ACL deficiency, PCL deficiency, posterolateral corner instability) that are the principal subject of contemporary sports medicine. Arthroscopy of the knee, the diagnostic and therapeutic modality that revolutionized knee surgery in the 1970s and 1980s, deserves brief consideration here as both a diagnostic tool in the trauma setting and the platform for reconstructive surgery in chronic instability. This chapter draws on Rockwood and Green’s Fractures in Adults, Apley & Solomon’s, Miller’s Review of Orthopaedics, and Dutton’s Orthopaedic Examination.
 
 ## Knee Stability — The Principal Restraints
 
 The knee is stabilized by a complex of structures that the orthopedic surgeon must understand to evaluate ligamentous injury: The anterior cruciate ligament (ACL) is the primary restraint to anterior tibial translation on the femur (95 percent of restraint to anterior translation) and a secondary restraint to internal tibial rotation. The ACL has two functional bundles: the anteromedial bundle (tight in flexion) and the posterolateral bundle (tight in extension). The posterior cruciate ligament (PCL) is the primary restraint to posterior tibial translation on the femur (94 percent of restraint to posterior translation at 90 degrees of flexion). The PCL has anterolateral (larger, tight in flexion) and posteromedial (smaller, tight in extension) bundles. The medial collateral ligament (MCL) complex includes a superficial component (the principal valgus restraint) and deep components (the meniscofemoral and meniscotibial portions of the deep MCL). The lateral collateral ligament (LCL, also called fibular collateral ligament) is the primary varus restraint and is part of the broader posterolateral corner (PLC) complex, which also includes the popliteus tendon and muscle, the popliteofibular ligament, and the arcuate ligament complex. PLC injury is critical to recognize because untreated PLC injury produces ACL or PCL reconstruction failure as the secondary stabilizer overloading. The menisci contribute to stability as secondary stabilizers and shock absorbers, but their primary role is load distribution.
 
 The iliotibial band anterolaterally and the pes anserinus tendons medially contribute dynamic stability through their muscular attachments.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>PLC injury is the silent killer of cruciate reconstructions: an untreated posterolateral corner produces graft failure of the ACL or PCL through secondary stabilizer overload. Identify and reconstruct the PLC anatomically (LCL, popliteus tendon, popliteofibular ligament) at the same time as the cruciates.</p>
+</aside>
 
 ## Knee Dislocation — Classification and Mechanism
 
@@ -31,6 +41,11 @@ The iliotibial band anterolaterally and the pes anserinus tendons medially contr
 
 The Schenck anatomic classification (1992) organizes knee dislocations by the pattern of ligamentous injury, which is more clinically useful than the older positional classification (anterior, posterior, medial, lateral, rotatory): KD-I: Multiligamentous injury with one cruciate intact (ACL + collateral injury with PCL intact, or PCL + collateral with ACL intact). KD-II: Bicruciate injury with both collaterals intact (rare). KD-III: Bicruciate injury plus one collateral injury. Subdivided into KD-IIIM (medial-sided injury, more common) and KD-IIIL (lateral-sided injury, with PLC component). KD-IV: Bicruciate injury plus both collateral injuries. KD-V: Knee dislocation with periarticular fracture. The Schenck classification correlates with management complexity, with KD-IV and KD-V injuries having the most challenging reconstruction needs and the highest rates of complications. The classical positional classification (anterior, posterior, medial, lateral, rotatory) describes the direction of tibial displacement and provides additional information about mechanism but is less useful for treatment planning. The mechanism of knee dislocation includes high-energy injuries (motor vehicle accident, fall from height, sporting injury, particularly contact sports) and low-energy or “ultra-low-energy” injuries in obese patients (where the substantial body mass produces force sufficient to dislocate the knee with relatively minor mechanism). The obese patient with knee dislocation has been recognized as a distinct entity with particularly high rates of complications.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Schenck anatomic scheme: KD-I one cruciate intact, KD-II both cruciates torn with intact collaterals (rare), KD-III bicruciate plus one collateral (M medial or L lateral with PLC), KD-IV bicruciate plus both collaterals, KD-V dislocation with periarticular fracture. KD-IV and KD-V are the highest-complexity reconstructions.</p>
+</aside>
+
 ## Acute Evaluation of the Dislocated Knee
 
 The clinical examination of the obviously dislocated knee identifies the position of the tibia relative to the femur and assesses for the immediate concerns of vascular injury, neurological injury, and skin compromise. The spontaneously reduced knee (which may be the more common presentation) is more difficult to recognize but should be considered in any patient with significant knee trauma and multiligamentous instability on examination. The neurovascular examination is central and must be repeated serially: Vascular examination: Distal pulses (anterior tibial, posterior tibial, dorsalis pedis), capillary refill, skin color and temperature, and the appearance of the foot. The ankle-brachial index (ABI) with a value less than 0.9 has been validated as predicting vascular injury and is a strong indication for further evaluation. Bilateral asymmetry of pulses is similarly concerning.
@@ -40,6 +55,11 @@ Neurological examination: Specifically the common peroneal nerve (motor: dorsifl
 ## Vascular Evaluation — The Central Concern
 
 The popliteal artery is at substantial risk in knee dislocation because of its tethering at the adductor hiatus proximally and at the entry into the anterior compartment distally; the artery has limited capacity to “give” with the displacement and is consequently injured in 5 to 60 percent of knee dislocations (depending on series and direction of dislocation, with posterior dislocations historically considered the highest-risk pattern). The injury can range from intimal disruption (with delayed thrombosis), to partial laceration (with continuing or recurring hemorrhage), to complete transection. The classical teaching was that routine angiography was indicated in all knee dislocations because of the high incidence of arterial injury and the catastrophic consequences of missed injury. The contemporary approach is more nuanced: Hard signs of vascular injury (absent pulses, expanding hematoma, pulsatile bleeding, bruit, distal ischemia) mandate immediate operative exploration and vascular surgery consultation, with intraoperative angiography or direct exploration of the popliteal artery. Soft signs or abnormal ABI (less than 0.9) mandate CT angiography or formal angiography for definitive evaluation. Normal pulses with normal ABI in the awake examinable patient permit serial examination as the principal monitoring strategy, with CT angiography reserved for changes in clinical status. The NORMAL pulse with NORMAL ABI combined with serial examination over 24 to 48 hours has been validated as appropriate in carefully selected patients. The clinical principle is the time-dependent nature of vascular injury — limb salvage rates after popliteal artery injury fall dramatically with delays exceeding 6 to 8 hours. The orthopedic surgeon’s threshold for vascular surgery consultation should be low in any patient with concerning examination findings.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Vascular triage: hard signs (absent pulses, expanding hematoma, pulsatile bleeding, bruit, distal ischemia) demand immediate operative exploration; ABI less than 0.9 mandates CT or formal angiography; normal pulses with normal ABI permit serial examination. Limb salvage falls sharply after 6-8 hours of ischemia.</p>
+</aside>
 
 ## Operative Management of Knee Dislocation
 
@@ -59,6 +79,11 @@ For the patient with knee dislocation and severe soft-tissue compromise, vascula
 ## Outcomes and Complications
 
 The functional outcomes of knee dislocation are generally less than perfect, with most patients retaining some level of pain, stiffness, or instability despite optimal management. Patient-reported outcome scores (Lysholm, IKDC, KOOS) are typically 60 to 80 percent of normal in well-managed multiligamentous knee dislocations. The principal complications include: Vascular complications: Limb loss (5 to 15 percent in classic series, lower with prompt recognition and treatment in contemporary practice), delayed thrombosis with subsequent ischemia, compartment syndrome secondary to reperfusion injury. Neurological complications: Permanent peroneal nerve injury (50 to 80 percent of acute peroneal nerve injuries do not recover satisfactorily); peroneal nerve recovery, when it occurs, takes 6 to 12 months. Arthrofibrosis and stiffness: A substantial concern with knee dislocation, particularly with prolonged immobilization. Aggressive early protected range of motion, manipulation under anesthesia, and arthroscopic lysis of adhesions are used to address stiffness. Ligamentous reconstruction failures: Particularly common in PLC reconstructions; secondary stabilizer loading can produce ACL or PCL graft failure. Post-traumatic arthritis: Common in the long term, particularly with associated articular injury or persistent instability.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Acute peroneal nerve injury after knee dislocation recovers satisfactorily in only 20-50% of complete cases, and recovery (when it happens) takes 6-12 months. Counsel the patient early and consider tendon transfers or AFO for residual deficits.</p>
+</aside>
 
 ## Chronic Knee Instability
 
@@ -101,6 +126,11 @@ Untreated PLC injury produces varus and external rotation instability with poor 
 ## Recurrent Patellar Instability
 
 Recurrent patellar instability after first dislocation depends on the underlying anatomical risk factors — patella alta (high-riding patella, measured by Insall-Salvati or Caton- Deschamps ratio), trochlear dysplasia (Dejour classification), increased TT-TG distance (tibial tuberosity to trochlear groove), and rotational malalignment of the tibia or femur. Management is MPFL reconstruction (medial patellofemoral ligament reconstruction with hamstring graft) for primary instability without other anatomical anomalies; addition of tibial tuberosity transfer (Fulkerson osteotomy, anteromedialization) or trochleoplasty for more complex anatomical situations.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Recurrent patellar instability is driven by anatomic risk factors: patella alta (Insall-Salvati or Caton-Deschamps), trochlear dysplasia (Dejour), increased TT-TG distance and rotational malalignment. MPFL reconstruction addresses primary soft-tissue instability; bony procedures (Fulkerson, trochleoplasty) are added when these anatomic risk factors are present.</p>
+</aside>
 
 ## Knee Arthroscopy — Principles
 

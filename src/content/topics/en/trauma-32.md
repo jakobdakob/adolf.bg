@@ -17,6 +17,11 @@ The principal mechanisms of vascular injury in orthopedic trauma include: Penetr
 
 The pattern of vascular injury includes: Complete transection with active hemorrhage (or, in some cases, vasospasm and clot formation that limits the immediate bleeding). Partial transection with continuing or recurring hemorrhage. Intimal disruption with potential delayed thrombosis — the most insidious pattern because the initial vascular examination may be misleadingly normal. Pseudoaneurysm formation: A contained hematoma with persistent arterial communication, typically presenting days to weeks after the original injury. Arteriovenous fistula: Direct communication between artery and vein, often presenting late with bruit, thrill, and limb swelling.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Intimal disruption with delayed thrombosis is the most insidious vascular injury: the initial examination may be falsely reassuring, with deterioration over hours. Maintain serial vascular checks in any high-risk pattern (knee dislocation, supracondylar humerus, brachial in elbow dislocation) even when the first examination is normal.</p>
+</aside>
+
 ## Clinical Assessment of Vascular Injury
 
 The classical “hard” and “soft” signs of vascular injury structure the assessment:
@@ -57,6 +62,11 @@ The ankle-brachial index (ABI) in lower extremity injury, or the injured extremi
 
 For patients with hard signs or with abnormal ABI: CT angiography (CTA) is the imaging modality of choice in most centers because of its widespread availability, rapid acquisition, and ability to image both bony and vascular structures simultaneously. The sensitivity and specificity for clinically significant vascular injury are both above 95 percent. Conventional angiography is reserved for ambiguous cases or for therapeutic intervention (embolization, stenting). The “operative angiography” performed in the operating room provides real-time information during exploration. Duplex ultrasonography can be useful for evaluation of the more accessible vessels but is operator-dependent and less practical for many orthopedic settings.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Triage: hard signs (active bleeding, expanding or pulsatile hematoma, absent pulses, distal ischemia, bruit/thrill) go straight to the operating room; soft signs or ABI/IEI less than 0.9 go to CT angiography. Conventional angiography is reserved for ambiguous cases or for embolization/stenting.</p>
+</aside>
+
 ## Management of Vascular Injuries
 
 
@@ -71,6 +81,11 @@ The principles of vascular repair in the orthopedic context:
 
 Sequencing with orthopedic fixation: The classical sequence is temporary vascular shunting to restore inflow rapidly, followed by orthopedic fracture stabilization (with external fixation for rapid stabilization providing a stable platform for definitive vascular repair), followed by definitive vascular repair with interposition graft (typically reversed saphenous vein) or primary repair as the injury permits. This sequence (sometimes called the “shunt-fix-repair” approach) allows restoration of inflow within minutes while permitting careful fracture stabilization and meticulous vascular repair. Heparinization of the patient or selective limb heparinization is part of the protocol. Definitive vascular repair is by primary anastomosis when the gap is small and tension-free, or by interposition graft (reversed saphenous vein graft from the contralateral leg being the standard for most peripheral arterial repairs; prosthetic graft acceptable for larger vessels and contaminated wounds where vein graft is inferior). Fasciotomy is routinely performed for vascular injuries with prolonged ischemia time (typically more than 4 to 6 hours) because of the substantial risk of reperfusion-induced compartment syndrome.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>In a combined orthopedic-vascular injury follow shunt-fix-repair: a temporary intraluminal shunt restores inflow within minutes, external fixation gives the orthopedic platform, then definitive repair (reversed saphenous vein interposition is the standard). Add prophylactic fasciotomy when ischemia exceeds 4-6 hours.</p>
+</aside>
+
 ## Adjuncts
 
 Anticoagulation is given selectively, balancing the risk of thrombosis at the repair site against the bleeding concerns in the polytrauma patient. Typical protocols use heparin during the operative procedure with conversion to oral anticoagulation or antiplatelet agents postoperatively. Postoperative monitoring by serial pulse checks, ABIs, and Doppler studies identifies recurrent or delayed thrombosis. Re-exploration is performed promptly for any concern about graft thrombosis.
@@ -81,6 +96,11 @@ The mangled extremity (the limb with severe combined injuries to bone, soft tiss
 
 Other scoring systems include the Mangled Extremity Syndrome Index (MESI), the Predictive Salvage Index (PSI), and the Limb Salvage Index (LSI). The general finding from contemporary research is that no single score reliably predicts outcomes with sufficient accuracy to drive amputation decisions, and the decision must be individualized based on the full clinical picture. The LEAP trial (Lower Extremity Assessment Project, Bosse et al., 2002), a landmark prospective observational study, found that limb salvage and amputation produced broadly similar functional outcomes at 2 and 7 years, with the principal determinants of outcome being patient socioeconomic factors and psychological state rather than the specific orthopedic treatment. This finding has substantially shaped contemporary thinking about the limb salvage decision, with the recognition that aggressive salvage of marginal limbs may produce worse outcomes than well-performed primary amputation with appropriate prosthetic management. The factors that favor early amputation include warm ischemia exceeding 6 to 8 hours with severe muscle and tissue injury (irreversibly damaged tissue), complete loss of plantar sensation (although this has been controversially used as an absolute indication and may not always indicate poor outcome), severe combined nerve and vascular injury in older patients, and the polytrauma patient where prolonged salvage attempts could worsen overall outcome. The factors that favor limb salvage include preserved sensation, viable proximal muscle, vascular injury amenable to reconstruction, the young patient with strong motivation for limb preservation, and the availability of microsurgical and soft-tissue reconstructive resources.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The LEAP trial: at 2 and 7 years, salvage and amputation produced broadly similar functional outcomes in mangled limbs, with patient psychological and socioeconomic factors driving outcome more than the orthopedic choice. MESS and related scores guide but do not dictate the decision; aggressive salvage of a marginal limb can be worse than well-performed primary amputation.</p>
+</aside>
+
 ## Compartment Syndrome — Definition and Pathophysiology
 
 Acute compartment syndrome is the clinical condition resulting from elevated pressure within a fascial compartment, with consequent compromise of capillary perfusion and progressive ischemia of the contained tissue (muscle, nerve). The condition is a surgical emergency with limited tolerance for delay — irreversible muscle necrosis and nerve damage develop after approximately 6 to 8 hours of unrelieved compartment syndrome, with permanent consequences (Volkmann’s ischemic contracture, persistent neurological deficit, chronic pain).
@@ -90,6 +110,11 @@ Acute compartment syndrome is the clinical condition resulting from elevated pre
 The pathophysiology follows a self-perpetuating cycle: Initial insult (fracture, crush injury, hemorrhage, prolonged ischemia with reperfusion) produces accumulation of fluid, blood, or edema within the closed fascial compartment. Increasing intracompartmental pressure rises above the capillary perfusion pressure (typically 25 to 30 mmHg). Capillary collapse occurs, with cessation of perfusion to the capillary beds despite continued arterial inflow at higher pressures.
 
 Tissue ischemia produces cell membrane dysfunction, intracellular edema, and further increase in compartmental pressure, creating the self-perpetuating cycle. Muscle necrosis and nerve injury progress with continuing ischemia, with the rate of damage being faster for nerves than for muscles (nerve damage may occur within 1 to 2 hours of severe pressure elevation; muscle damage begins by 2 to 4 hours and is largely irreversible by 6 to 8 hours). The critical concept is that compartment syndrome can occur without occlusion of major arterial inflow — distal pulses may be preserved while the microcirculation is compromised. Reliance on the presence of pulses to exclude compartment syndrome is a classical pitfall.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Compartment syndrome can occur with intact distal pulses, because the microcirculation fails before the macrocirculation. Pulselessness, paralysis and pallor are late signs of established necrosis; treat pain out of proportion to injury, pain on passive stretch, a tense compartment, and progressive paresthesias as the diagnostic clinical picture.</p>
+</aside>
 
 ## Specific Risk Factors
 
@@ -111,6 +136,11 @@ The early reliable signs of compartment syndrome are: Pain out of proportion to 
 When clinical signs are equivocal or the patient cannot be reliably examined, direct measurement of intracompartmental pressure provides objective information. Methods include: Whitesides technique: A needle is introduced into the compartment with saline filling tubing; the pressure required to displace saline back into the tubing is the compartment pressure. The technique is simple but somewhat imprecise. Slit catheter or wick catheter: More sophisticated indwelling catheters provide continuous monitoring. Solid-state pressure transducer: Specialized devices (Stryker, Synthes) provide rapid and accurate single measurements.
 
 Continuous monitoring: An indwelling catheter connected to a pressure transducer allows continuous pressure measurement, useful in the obtunded patient or postoperative monitoring. The threshold for fasciotomy is debated. The classical absolute threshold was 30 mmHg. The more refined perfusion pressure threshold (Δp = diastolic BP − compartment pressure) of less than 30 mmHg accounts for the patient’s blood pressure and is now generally preferred. Some authors advocate even lower thresholds (Δp < 20 mmHg) in particular settings. The rate of rise of compartment pressure and the duration of elevated pressure are also clinically important — sustained elevation requires more urgent intervention than brief peaks.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Use perfusion pressure rather than absolute pressure: delta-p (diastolic minus compartment pressure) less than 30 mmHg is the contemporary threshold for fasciotomy and accounts for the patient's blood pressure. Continuous monitoring with an indwelling catheter is essential in the obtunded patient who cannot report pain.</p>
+</aside>
 
 ## Treatment of Compartment Syndrome — Fasciotomy
 

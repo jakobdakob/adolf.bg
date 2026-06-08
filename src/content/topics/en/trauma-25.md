@@ -11,9 +11,19 @@ order: 125
 
 The patella and the proximal tibial articular surfaces are the two principal components of the bony skeleton at the knee, and their fractures share several thematic concerns despite their distinct anatomical roles. Both are intra-articular fractures requiring anatomical reduction to preserve joint function; both have a tendency toward post-traumatic osteoarthritis when imperfectly reduced; both demand attention to soft-tissue injury (the extensor mechanism for the patella, the meniscal and ligamentous structures for the tibial plateau); and both have evolved substantially in management over the past several decades as operative techniques have improved. The patella fracture is approached through the prism of extensor mechanism integrity — the principal functional question is whether the patient can extend the knee against gravity, which guides operative decision-making. The tibial plateau fracture is approached through the prism of articular congruity and limb mechanical axis — the principal functional concerns are the post-traumatic arthritis that follows from articular incongruity and the limb malalignment that follows from inadequate reduction of the metaphyseal component. This chapter draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Two intra-articular knee fractures with shared themes: the patella fracture is governed by extensor mechanism integrity (can the patient extend against gravity?), while the tibial plateau fracture is governed by articular congruity and limb mechanical axis. Imperfect reduction in either drives post-traumatic arthritis.</p>
+</aside>
+
 ## Patella Anatomy and Biomechanics
 
 The patella is the largest sesamoid bone in the body, formed in the substance of the quadriceps tendon and serving to increase the moment arm of the extensor mechanism by approximately 30 percent at full extension. The bone is roughly triangular with the apex distal and the base (and the bulk of the quadriceps insertion) proximal. The articular surface on the posterior aspect of the patella is divided by a vertical ridge into medial and lateral facets, with the odd facet at the extreme medial border articulating with the femoral condyle only in deep flexion. The patellar tendon extends from the inferior pole (apex) to the tibial tuberosity; the medial and lateral patellar retinacula are the lateral expansions of the extensor mechanism that maintain extensor continuity across the knee even with patellar disruption. The functional importance of the retinacula is critical: in patellar fracture with intact retinacula, the patient may retain the ability to extend the knee against gravity (partial extensor function); in patellar fracture with disrupted retinacula or with widely separated patellar fragments, active extension is lost. The blood supply to the patella is through an anastomotic ring of vessels around the periphery, with the principal contribution from the inferior pole through small arteries entering from the patellar tendon. This pattern produces a relative watershed in the central body of the patella that contributes to nonunion and avascular necrosis risk in transverse fractures, particularly with separation of the fragments.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The retinacula are the lateral expansions of the extensor mechanism. With intact retinacula a patient with a patellar fracture may still perform a straight-leg raise; with disrupted retinacula or widely separated fragments, active extension is lost. The straight-leg raise is therefore the bedside operative decision.</p>
+</aside>
 
 ## Patella Fractures — Classification and Mechanism
 
@@ -28,6 +38,11 @@ The patella is the largest sesamoid bone in the body, formed in the substance of
 </figure>
 
 Patella fractures account for approximately 1 percent of all skeletal injuries. The mechanism is typically a direct blow to the patella (fall on the knee, dashboard injury) or an eccentric contraction of the quadriceps against resistance (sudden eccentric load with the foot planted, producing a transverse fracture through tension forces). The classification is morphological: Transverse fracture: The most common pattern (50 to 80 percent of patellar fractures), typically located through the middle or distal third of the patella, with displacement of the upper fragment proximally by quadriceps pull and the lower fragment held by the patellar tendon. Vertical (longitudinal) fracture: Less common, with the fracture line in the sagittal plane. Generally less displaced because the fragments are not pulled apart by the muscle and tendon attachments. Comminuted (stellate): Multiple fragments, often from direct high-energy trauma. Osteochondral fracture: Pure cartilaginous or osteochondral fragments, often from patellar dislocation rather than from a discrete fracture mechanism. Polar fracture: Avulsion fracture of the upper pole (insertion of quadriceps tendon) or, more commonly, the lower pole (origin of patellar tendon). Sleeve fracture: A pediatric variant with avulsion of the cartilaginous sleeve from the inferior pole of the patella; can be missed on radiographs as the avulsed cartilage is non-ossified. The bipartite patella — a normal anatomic variant with an accessory ossification center, typically at the superolateral aspect, must not be confused with fracture. Bipartite patella has smooth corticated edges, is typically bilateral (60 percent), and is asymptomatic in most cases.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Do not call a bipartite patella a fracture. Smooth corticated margins, superolateral location and frequent bilaterality (about 60%) distinguish it from an acute fracture; the pediatric sleeve fracture, by contrast, avulses non-ossified cartilage and is easily missed on radiographs.</p>
+</aside>
 
 ## Clinical Assessment and Imaging of Patella Fractures
 
@@ -56,9 +71,19 @@ Operative management is indicated for displaced fractures with disrupted extenso
 
 Cerclage wire fixation alone may be used for highly comminuted fractures where individual fragment fixation is impossible — a circumferential wire around the patella to hold the fragments together as they consolidate. Partial patellectomy with excision of a non-reconstructible polar fragment and tendon advancement is reserved for cases where reconstruction is not feasible. The inferior pole fragment can be excised with patellar tendon advancement; less commonly the superior pole fragment with quadriceps advancement. Outcomes after partial patellectomy are inferior to those of reconstruction; total patellectomy (now rarely performed) has substantially worse functional outcomes. The rehabilitation after patellar fracture fixation emphasizes early protected range of motion to prevent stiffness, with progressive extension and flexion exercises beginning within the first postoperative week. The knee is typically immobilized only when the fracture pattern or fixation construct demands it; for tension-band fixation, immediate motion is generally permitted, with cylinder cast or hinged knee brace used during ambulation.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Tension-band wiring of the patella has very high hardware-related symptom rates (up to 30-50% require removal because of K-wire migration). Plate fixation with mini-fragment or mesh plates produces lower hardware-related complications in comminuted patterns where tension-band wiring is biomechanically inadequate.</p>
+</aside>
+
 ## Proximal Tibia (Tibial Plateau) Anatomy
 
 The proximal tibia comprises the medial and lateral tibial plateaus (separated by the intercondylar eminence with the cruciate ligament insertions), the tibial tubercle (the patellar tendon insertion on the anterior aspect), and the fibular head articulation on the lateral aspect. The articular surfaces are not flat but have a slight slope: the medial plateau slopes posteriorly approximately 5 to 10 degrees, the lateral plateau slopes posteriorly approximately 5 to 10 degrees (the posterior tibial slope), and the lateral plateau is also slightly convex compared with the concave medial plateau. The mechanical alignment of the knee places approximately 60 percent of the load on the medial compartment in normal stance, with the relative load distributions changing during gait and activities. The medial cortical bone is denser than the lateral; consequently, the medial plateau fractures less commonly and through a more vertical mechanism, while the lateral plateau fractures more commonly and through a depression mechanism. The menisci (medial and lateral) overlie the plateaus and increase the effective articular contact area; they are critical structures for load distribution. The anterior and posterior cruciate ligaments insert on the intercondylar eminence; their bony insertions can be avulsed in fracture patterns. The collateral ligaments (medial and lateral) provide coronal-plane stability and are at risk in tibial plateau injuries. The vascular structures around the proximal tibia include the popliteal artery in the popliteal fossa, dividing into the anterior tibial, posterior tibial, and peroneal arteries; the anterior tibial artery crosses the interosseous membrane just distal to the proximal tibial-fibular joint to enter the anterior compartment of the leg. Vascular injury in tibial plateau fractures is uncommon but reported, particularly in Schatzker types IV through VI with significant displacement.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The Schatzker scheme: I split lateral, II split-depression lateral (most common), III pure depression lateral, IV medial (higher energy with vascular, peroneal and meniscal injury risk), V bicondylar, VI bicondylar with metaphyseal-diaphyseal dissociation. Approximately 50% of plateau fractures have associated ligamentous injury.</p>
+</aside>
 
 The common peroneal nerve courses around the neck of the fibula and is at risk in lateral approaches to the tibial plateau.
 
@@ -117,6 +142,11 @@ Schatzker I: Open reduction and lag screw fixation, often with a buttress plate.
 ## Knee Spanning External Fixation
 
 For the high-energy Schatzker V or VI with severe soft-tissue compromise (open fracture, severe contusion, blistering), the damage control approach with knee spanning external fixation is appropriate. The fixator is applied across the knee from femur to tibia, providing immediate stabilization and protection of the soft-tissue envelope; definitive internal fixation is delayed until the soft tissues permit (typically 7 to 21 days).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>For bicondylar Schatzker V/VI, do not use a single midline anterior incision: the proximal medial tibia is a watershed and skin necrosis is common. Use dual medial and lateral incisions, and span across the knee with an external fixator first when the soft-tissue envelope is compromised.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

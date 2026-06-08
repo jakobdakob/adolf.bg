@@ -25,9 +25,19 @@ The goal of reduction varies with the specific fracture. The four principal para
 
 Length: Restoration of normal bone length. Substantial shortening produces functional disability and is generally unacceptable. Alignment (angulation): Restoration of normal angular alignment in both the sagittal (apex-anterior/posterior) and coronal (apex-medial/lateral) planes. The acceptable angulation varies with the bone, the age of the patient, and the proximity of the fracture to a joint. Children tolerate substantial angulation with remodeling; angulation in adults is generally less well tolerated. Rotation: Rotational malalignment is poorly tolerated functionally and does not remodel over time. Rotational reduction must be achieved at the time of treatment. Translation: Side-to-side displacement of fragments. Some translation is acceptable in many diaphyseal fractures provided length and alignment are restored. The phrase “acceptable reduction” implies that not every fracture requires anatomical reduction. Articular fractures generally require anatomical reduction (gaps and steps of more than 1-2 mm typically demanding surgical management); diaphyseal fractures tolerate more imperfect reduction with adequate functional outcomes.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The four reduction parameters are length, alignment (angulation), rotation, and translation. Rotation does not remodel and must be corrected at the time of treatment; articular fractures generally require anatomic reduction (gaps/steps above 1-2 mm usually demand surgery), while diaphyseal fractures tolerate more imperfect alignment.</p>
+</aside>
+
 ## Techniques of Reduction
 
 Closed reduction techniques include: Direct manipulation: The classical approach. The bone is palpated, the displacement is assessed, and direct manual pressure is applied to restore alignment. Adequate analgesia (often regional or general anesthesia, particularly for major fractures or for older children) is essential. The technique of “exaggerating the deformity” — first exaggerating the deformity to disengage the fragments, then reversing the deformity to reduce them — is the classical maneuver for many fractures (typified by the reduction of distal radius fractures). Traction-countertraction: Continuous longitudinal traction along the long axis of the bone, combined with countertraction in the opposite direction, gradually realigns the fragments. The technique is essential for many lower limb fractures and is often combined with direct manipulation. The fracture table, with its specific traction and positioning features, is used for many lower limb fractures. Continuous traction: Various forms of traction (skin traction with adhesive strapping, skeletal traction with pins through bone) are used for both initial reduction and for definitive treatment of certain fractures (historically the principal method for femoral shaft fractures in adults; still used in selected paediatric femoral fractures and as a temporizing measure in some adult fractures). The selection of reduction technique depends on the specific fracture, the patient’s medical condition, and the available facilities.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Exaggerate before you reduce. The classical maneuver, particularly for distal radius fractures, is first to exaggerate the deformity to disengage interlocked fragments and only then reverse it; combined with traction-countertraction this is the foundation of most closed reductions.</p>
+</aside>
 
 ## Materials of Immobilization
 
@@ -50,6 +60,11 @@ Plaster of Paris (calcium sulfate hemihydrate) is the classical material for cas
 
 Fiberglass casting materials, introduced in the 1980s, have largely replaced plaster of Paris in modern practice for many applications. Advantages include lighter weight, greater strength, water resistance, and faster setting. Disadvantages include higher cost, less plastic moulding ability, and the difficulty of removal in some emergencies (though specialized cast saws address this).
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Plaster of Paris is calcium sulfate hemihydrate that sets through an exothermic reaction (rare risk of thermal injury with hot water or thick layers); fiberglass is lighter, stronger, and water-resistant but has less plastic moulding and is more expensive.</p>
+</aside>
+
 ## Other Materials
 
 Aluminium and other malleable splints: Used for finger and toe splints. Pre-formed orthoses: Functional braces for various fractures (the Sarmiento functional brace for humeral shaft and tibial fractures is the classical example), with the brace allowing controlled motion while supporting the fracture. Air casts and walking boots: Used for stable ankle and foot fractures, with the advantage of being removable for bathing and skin care. Bandages and strapping: For specific applications (figure-of-eight strapping for clavicle fractures, buddy strapping for stable finger fractures).
@@ -59,6 +74,11 @@ Aluminium and other malleable splints: Used for finger and toe splints. Pre-form
 The principles of cast application include: Three-point fixation: The classical principle that any cast must apply pressure at three points along the bone (at the proximal fragment, at the distal fragment, and at the apex of the deformity) to maintain reduction. The points of pressure are critical to preventing displacement during the healing period. Immobilization of the joints above and below: The classical teaching that immobilization should extend across the joints proximal and distal to the fracture to prevent motion at the fracture site. Modern functional bracing challenges this for some fractures, recognizing that the joint motion can be permitted while the fracture itself is protected. Appropriate padding: Adequate padding over bony prominences and along the limb to prevent pressure sores, with sufficient additional padding to permit anticipated swelling.
 
 The principal vulnerable sites are the malleoli, the calcaneus, the patella, the olecranon, the dorsum of the wrist, and the bony prominences of the foot. Molding: Careful molding of the cast over the bony anatomy and at the points of three-point fixation to maintain reduction. The “interosseous space” must be preserved between the radius and ulna (and between the tibia and fibula) by appropriate molding. Adequate length: The cast must be long enough to permit effective three-point fixation but not so long as to immobilize unnecessary joints. Univalving or bivalving for swelling: In the acute fracture, the cast is typically univalved (cut longitudinally on one side) or bivalved (cut on both sides) to permit expansion as the limb swells. The cast is reapplied or replaced after swelling has resolved.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Three-point fixation is the mechanical basis of any cast: pressure at the proximal fragment, at the distal fragment, and at the apex of the deformity. The cast must immobilize the joints above and below, and the acute cast is univalved or bivalved to allow for swelling.</p>
+</aside>
 
 ## Specific Cast Types
 
@@ -70,6 +90,11 @@ The complications of cast treatment are well-documented and largely preventable 
 
 Cast-induced peripheral nerve injury: From direct compression of nerves at superficial locations (peroneal nerve at the fibular neck; ulnar nerve at the elbow; radial nerve in the spiral groove). Adequate padding and careful inspection at follow-up visits are essential. Joint stiffness: Particularly of joints immobilized by the cast, with shoulder stiffness (“frozen shoulder”) and finger stiffness being recognized concerns after upper limb casts. Disuse atrophy: Of muscles within the cast, requiring rehabilitation after cast removal. Cast disease (cast syndrome): A historical term for the constellation of nausea, vomiting, and abdominal distention sometimes seen with hip spica casts in adolescents, attributed to superior mesenteric artery compression of the duodenum. Skin maceration: From moisture trapped within the cast, particularly with plaster casts that become wet. Cast loosening: As swelling reduces, the cast becomes loose and ineffective; cast replacement or reapplication may be required.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Pain disproportionate to the injury under a cast is compartment syndrome until proven otherwise. The first response is urgent univalving (or full removal) of the cast, followed by fasciotomy if pressures and exam remain unchanged. Splitting only the padding is inadequate.</p>
+</aside>
+
 ## Traction
 
 Traction is the application of pulling force along the long axis of a limb to restore length and alignment.
@@ -77,6 +102,11 @@ Traction is the application of pulling force along the long axis of a limb to re
 ## Skin Traction
 
 Skin traction applies traction through adhesive strapping or specialized boots attached to the skin. The amount of traction is limited (typically less than 5 kg in adults) and is therefore suitable principally for temporary stabilization, for paediatric applications, and for selected definitive treatment in certain situations. Russell’s traction and the various paediatric traction systems are examples.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Skin traction is limited to about 5 kg in adults and is therefore a temporary or pediatric measure; skeletal traction through a transosseous pin allows up to 10-15% of body weight. Standard pin sites are distal femur, proximal tibia, and calcaneus.</p>
+</aside>
 
 ## Skeletal Traction
 
@@ -101,6 +131,11 @@ Definitive treatment with traction alone is now uncommon but is still occasional
 ## Functional Bracing
 
 Functional bracing, popularized by Augusto Sarmiento and others from the 1960s, uses a prefabricated brace that permits motion at the joints adjacent to the fracture while supporting the fracture itself through hydraulic principles of soft-tissue compression. The classical applications include humeral shaft fractures (the Sarmiento humeral brace) and tibial fractures (the Sarmiento PTB brace). The advantages of functional bracing include: maintenance of joint motion and muscle strength during fracture healing; better patient acceptance than rigid casts; faster return to function; and reduced rates of joint stiffness. The disadvantages include the need for cooperative patients, the requirement for skilled application and follow-up, and the limited application to specific fracture types.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Sarmiento functional bracing uses hydraulic soft-tissue compression to support a fracture while allowing adjacent joint motion. Its classical indications are humeral shaft fractures and tibial shaft fractures, though intramedullary nailing has displaced it for most displaced tibial shaft injuries.</p>
+</aside>
 
 ## Closed Reduction Under Anesthesia
 

@@ -15,7 +15,17 @@ Proximal humerus fractures are the third most common fragility fracture in the e
 
 The proximal humerus comprises four anatomical regions defined by the Codman description of the 1930s: the humeral head (articular surface, above the anatomical neck), the greater tuberosity (insertion of the supraspinatus, infraspinatus, and teres minor), the lesser tuberosity (insertion of the subscapularis), and the humeral shaft (below the surgical neck). The anatomical neck is the narrow region just below the articular surface; the surgical neck is the wider region below the tuberosities where fractures more commonly occur because of the changing cross-section from cancellous metaphysis to cortical diaphysis. The blood supply to the humeral head is a critical consideration in fracture management. The principal arterial supply is the anterolateral branch of the anterior humeral circumflex artery (the “arcuate artery of Laing”), entering the head along the lateral aspect of the bicipital groove. The contribution of the posterior humeral circumflex artery, through the posterior medial calcar, has been increasingly recognized as substantial — in many specimens it may be the dominant supplier, as demonstrated by the work of Hertel and others. The implication for fracture management is that fractures with intact medial calcar (the inferomedial portion of the surgical neck) typically retain perfusion through the posterior circumflex contribution, whereas fractures that disrupt the medial calcar and dislocate the head place the head at risk of avascular necrosis. The Hertel criteria identify radiographic features predicting head ischemia: anatomical neck fracture, posteromedial metaphyseal extension of less than 8 mm, and disruption of the medial hinge are the most predictive.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The posterior humeral circumflex artery, not the anterior, dominates head perfusion in most specimens (Hertel). Hertel's three strongest radiographic predictors of head ischemia: anatomical neck fracture, posteromedial metaphyseal extension less than 8 mm, and disruption of the medial hinge. Intact medial calcar protects the head.</p>
+</aside>
+
 The rotator cuff insertions on the tuberosities translate fracture displacement into pulled-apart fragments through their muscular attachments. The supraspinatus displaces the greater tuberosity superiorly and posteriorly; the subscapularis pulls the lesser tuberosity medially; the unopposed pectoralis major displaces the shaft fragment medially when the surgical neck is fractured.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Know which muscle pulls which fragment where: supraspinatus drags the greater tuberosity superiorly and posteriorly, subscapularis pulls the lesser tuberosity medially, and the unopposed pectoralis major drags the shaft medially after surgical neck fracture. These deforming forces are the targets of reduction.</p>
+</aside>
 
 ## Classification — Neer Classification
 
@@ -30,6 +40,11 @@ The rotator cuff insertions on the tuberosities translate fracture displacement 
 </figure>
 
 The Neer classification (Charles Neer, 1970) has structured proximal humerus fracture management for over five decades and remains the most widely used system in clinical practice. The classification builds on the four Codman fragments (articular head, greater tuberosity, lesser tuberosity, and shaft) and defines a fragment as displaced if it is separated by more than 1 centimeter or angulated by more than 45 degrees relative to the other fragments. A “part” in Neer terminology is a displaced fragment; the number of parts ranges from one (non-displaced or minimally displaced) to four (all four fragments displaced). Neer further subdivides fractures by the involvement of specific fragments and by associated dislocation. Anatomical neck fractures (rare) separate the humeral head from the tuberosities at the anatomical neck and carry a high risk of avascular necrosis. Surgical neck fractures (the most common type) separate the head and tuberosities from the shaft. Greater tuberosity fractures are isolated fractures of this fragment, frequently associated with anterior glenohumeral dislocation. Lesser tuberosity fractures are uncommon in isolation, more often part of complex patterns or seen with posterior dislocation. Fracture-dislocations combine fracture with glenohumeral dislocation. Head-splitting fractures are intra-articular fractures of the humeral head. The Neer classification has been criticized for limited inter- and intra-observer reliability, multiple studies have demonstrated kappa values in the 0.3 to 0.5 range — but its conceptual structure remains useful, and modern imaging (3D CT reconstruction) has improved reliability when used systematically.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Neer (1970) builds on the four Codman fragments (head, greater tuberosity, lesser tuberosity, shaft); a fragment is a 'part' only if displaced more than 1 cm or angulated more than 45°. Inter-observer reliability is weak on plain films (kappa 0.3-0.5) but improves substantially with systematic 3D CT.</p>
+</aside>
 
 ## Classification — AO/OTA System
 
@@ -49,9 +64,19 @@ The AO/OTA classification provides a more elaborate hierarchical system that inc
 
 The clinical presentation is the patient with shoulder pain after a fall, with reduced active and passive motion, ecchymosis that typically tracks down the arm to the elbow over the first 24 to 48 hours, and palpable instability or crepitus at the proximal humerus. The neurovascular examination, particularly of the axillary nerve, is mandatory; the axillary nerve runs around the surgical neck and is the most commonly injured nerve in proximal humerus fractures (incidence approximately 10 to 30 percent, depending on series). Axillary artery injury is uncommon (<1 percent) but should be considered in fracture-dislocation patterns. Plain radiographs form the initial evaluation. The minimum series is AP, scapular Y (lateral), and axillary view. The axillary view is critical for assessing tuberosity position relative to the head and for excluding posterior dislocation; in the patient who cannot tolerate true axillary positioning, the Velpeau axillary view is a useful substitute. CT with 3D reconstruction is increasingly the standard for any fracture being considered for operative treatment, providing definitive assessment of fragment number, displacement, head-splitting components, and tuberosity comminution. MRI is rarely needed acutely but is occasionally useful to evaluate the integrity of the rotator cuff in the operative candidate, particularly when reverse arthroplasty is being considered.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The axillary nerve runs around the surgical neck and is injured in 10-30% of proximal humerus fractures — always document its function before and after any reduction or surgery. Axillary artery injury is rare (<1%) but should be actively considered in fracture-dislocation patterns.</p>
+</aside>
+
 ## Non-Operative Management
 
 The default treatment for the vast majority of proximal humerus fractures, including many displaced patterns, is non-operative. The PROFHER trial (Rangan et al., 2015), a multicenter pragmatic randomized trial of 250 patients with displaced proximal humerus fractures, demonstrated no functional difference at two years between operative and non-operative treatment — a result that has fundamentally shifted practice patterns toward non-operative management of fractures that would previously have been operated. Subsequent trials and large series have largely confirmed this finding for the elderly patient with two- and three-part fractures. The non-operative protocol consists of sling immobilization for 1 to 3 weeks (depending on stability), followed by early initiation of passive pendulum exercises in the second week, progressing to active-assisted and active range-of-motion exercises by week 4 to 6 as fracture stability allows, and to resistance exercises at 12 weeks. Repeat radiographs at 1, 2, 6, and 12 weeks allow monitoring of fracture position. Acceptable healed positions in the elderly tolerate considerable displacement; varus malunion of up to 30 degrees, modest tuberosity displacement, and shortening are generally well-tolerated functionally. Complications of non-operative treatment include malunion, nonunion (uncommon, 1 to 7 percent), avascular necrosis (in three- and four-part fractures, 3 to 15 percent), and persistent stiffness.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>The PROFHER trial (Rangan 2015, 250 patients) found no functional difference at two years between operative and non-operative management of displaced proximal humerus fractures in the elderly — the single result that has most reshaped current practice toward conservative treatment. Even varus malunion up to 30° is generally functionally well tolerated.</p>
+</aside>
 
 ## Operative Management — Indications
 
@@ -72,6 +97,11 @@ The narrowing list of clear indications for operative intervention includes:
     displacement produces functional impairment in active patients).
 •   Open fractures, fractures with neurovascular compromise, and pathological
     fractures.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Modern displacement threshold for the greater tuberosity is 5 mm (3 mm in overhead athletes and laborers), not the historical Neer 1 cm. Superior displacement produces subacromial impingement; posterior displacement narrows the supraspinatus outlet — both compromise function in the active patient.</p>
+</aside>
 In the elderly patient with displaced three- or four-part fractures, the choice is between
 non-operative management (the increasing preference) and arthroplasty
 (hemiarthroplasty or reverse), with ORIF being increasingly reserved for the relatively
@@ -84,6 +114,11 @@ younger and bone-stock-preserved patient.
 
 The standard technique is anatomical locking plate fixation through a deltopectoral approach. Modern proximal humerus locking plates (e.g., PHILOS, S3) have multiple converging locking screws into the humeral head plus shaft fixation; the fixed-angle construct accommodates osteoporotic bone better than traditional plates. The key technical considerations include preservation of the soft-tissue attachments to the tuberosities to maintain their blood supply, anatomical reduction of the head into the shaft, reconstruction of the medial calcar (often with an oblique medial calcar screw, a critical determinant of construct stability), and avoidance of varus malreduction. The most common complications are screw cut-out (where superior migration of the head produces screws penetrating the joint, particularly in osteoporotic bone, the use of cement augmentation has been described to reduce this), fixation failure with varus collapse, avascular necrosis with secondary screw protrusion, stiffness, and infection. Intramedullary nailing has had a smaller role in proximal humerus fixation, with the modern straight nails (e.g., Multiloc, T2) providing reasonable fixation for two-part and selected three-part fractures, particularly those with diaphyseal extension. The advantages include smaller exposure and potentially better fixation in the osteoporotic shaft; disadvantages include the risk of subacromial impingement from the entry site and the limited ability to achieve fixation of the tuberosities. Tension-band wiring, percutaneous K-wire fixation, and minimally invasive plate osteosynthesis (MIPO) have niche roles for selected fracture patterns, particularly in younger patients with good bone quality and minimal comminution.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Medial calcar reconstruction (often with an oblique calcar screw) is the single most important determinant of locking-plate construct stability. Varus malreduction and a missing inferomedial calcar buttress are the recipe for screw cut-out and secondary varus collapse, especially in osteoporotic bone.</p>
+</aside>
+
 
 ## Hemiarthroplasty
 
@@ -92,6 +127,11 @@ Hemiarthroplasty (replacement of the humeral head with a prosthesis while leavin
 ## Reverse Total Shoulder Arthroplasty
 
 Reverse total shoulder arthroplasty (RTSA) — with the spherical component on the glenoid and the concave socket on the humerus, reversing the native anatomy — has revolutionized the management of displaced proximal humerus fractures in the elderly. The design of Paul Grammont, popularized in the 2000s, restores active forward elevation through deltoid leverage rather than rotator cuff function, making it ideally suited to the patient with osteoporotic four-part fracture in whom tuberosity healing and rotator cuff function cannot be reliably restored. RTSA produces more predictable outcomes than hemiarthroplasty in the elderly fracture patient and has supplanted hemiarthroplasty in most centers for patients over 70 with severe fracture patterns. Outcomes show reliable restoration of forward elevation (typically to 110 to 130 degrees), although external rotation may remain compromised, particularly if tuberosity healing is incomplete. Specific complications include scapular notching (impingement of the humeral component on the scapular neck in adduction, producing progressive bone loss, design modifications and surgical technique have reduced this), instability, acromial stress fracture, and infection. The choice between hemiarthroplasty and RTSA in proximal humerus fracture has been the subject of several trials. The general direction has been toward RTSA in patients over 65 to 70, with hemiarthroplasty reserved for the younger patient with reasonable bone quality and intact rotator cuff in whom RTSA is to be avoided because of longevity concerns.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Reverse total shoulder arthroplasty (Grammont design) restores active elevation through deltoid leverage, bypassing the need for a functional rotator cuff and for tuberosity healing — exactly the failure mode of hemiarthroplasty in the elderly four-part. Typical postoperative elevation 110-130°; external rotation remains the weak point if tuberosities do not heal.</p>
+</aside>
 
 ## Specific Fracture Patterns
 

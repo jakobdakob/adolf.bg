@@ -13,7 +13,12 @@ The forearm is unique in the orthopedic skeleton in that it is functionally not 
 
 ## Surgical Anatomy and Functional Considerations
 
-The radius describes a characteristic lateral bow (“radial bow”), with its maximum prominence at the junction of the proximal and middle thirds; the magnitude and location of this bow are essential to the normal rotational arc of the forearm. The Schemitsch and Richards (1992) analysis of fracture treatment outcomes demonstrated that restoration of the radial bow within 5 percent of the contralateral side, in both magnitude and location, was the single most important determinant of good functional outcome after forearm shaft fracture fixation. Loss of bow or apex translation produces restricted pronation and supination — the classical functional consequence of inadequate forearm fracture reduction. The ulna is essentially straight along its length, providing a stable axis around which the radius rotates. The interosseous membrane runs between the radius and ulna with a characteristic obliquity that transmits axial load from the radius (at the wrist) to the ulna (at the elbow), permitting effective load sharing; disruption of the interosseous membrane in Essex-Lopresti injuries (covered in part in [Topic Trauma-15](/en/trauma/15/)) produces proximal migration of the radius with axial load. The proximal radioulnar joint (PRUJ) is stabilized by the annular ligament, the quadrate ligament, and the interosseous membrane. The distal radioulnar joint (DRUJ) is stabilized by the dorsal and palmar radioulnar ligaments (the principal stabilizers), the triangular fibrocartilage complex (TFCC), the ulnocarpal ligaments, the interosseous membrane, the pronator quadratus, and the ulnar collateral ligament. The orthopedic surgeon must understand that disruption of either radioulnar joint represents a fundamental compromise of forearm function.
+The radius describes a characteristic lateral bow (“radial bow”), with its maximum prominence at the junction of the proximal and middle thirds; the magnitude and location of this bow are essential to the normal rotational arc of the forearm. The Schemitsch and Richards (1992) analysis of fracture treatment outcomes demonstrated that restoration of the radial bow within 5 percent of the contralateral side, in both magnitude and location, was the single most important determinant of good functional outcome after forearm shaft fracture fixation. Loss of bow or apex translation produces restricted pronation and supination — the classical functional consequence of inadequate forearm fracture reduction.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Schemitsch and Richards (1992): restoration of the radial bow within 5% of the contralateral side (in both magnitude AND location) is the single most important determinant of good functional outcome after forearm shaft fixation. The forearm fracture in the adult must be treated as if it were intra-articular.</p>
+</aside> The ulna is essentially straight along its length, providing a stable axis around which the radius rotates. The interosseous membrane runs between the radius and ulna with a characteristic obliquity that transmits axial load from the radius (at the wrist) to the ulna (at the elbow), permitting effective load sharing; disruption of the interosseous membrane in Essex-Lopresti injuries (covered in part in [Topic Trauma-15](/en/trauma/15/)) produces proximal migration of the radius with axial load. The proximal radioulnar joint (PRUJ) is stabilized by the annular ligament, the quadrate ligament, and the interosseous membrane. The distal radioulnar joint (DRUJ) is stabilized by the dorsal and palmar radioulnar ligaments (the principal stabilizers), the triangular fibrocartilage complex (TFCC), the ulnocarpal ligaments, the interosseous membrane, the pronator quadratus, and the ulnar collateral ligament. The orthopedic surgeon must understand that disruption of either radioulnar joint represents a fundamental compromise of forearm function.
 
 The neurovascular relationships of the forearm are complex. The radial artery and the superficial branch of the radial nerve run along the radial side of the forearm; the ulnar artery and the ulnar nerve run along the ulnar side. The median nerve runs centrally, between the two bones. The posterior interosseous nerve (PIN) crosses the proximal radius around the arcade of Frohse at the proximal edge of the supinator and is vulnerable during exposures of the proximal radius and during reduction maneuvers in proximal forearm fractures. The anterior interosseous nerve (AIN) runs anterior to the interosseous membrane and supplies the deep volar compartment muscles.
 
@@ -33,14 +38,29 @@ The AO/OTA classification (region 22) structures both-bone forearm fractures by 
 
 The reported outcomes of plate fixation of adult both-bone forearm fractures are generally excellent, with union rates above 95 percent and functional rotation outcomes correlated with restoration of the radial bow and the interosseous space.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Standard fixation for adult both-bone forearm fractures: 3.5-mm DCP or LCP through Henry (volar) approach for the radius and a direct subcutaneous approach for the ulna. At least 6-8 cortices (3-4 bicortical screws) on each side of each fracture. Union rates exceed 95% when length, rotation, and radial bow are restored.</p>
+</aside>
+
 ## Isolated Ulnar and Radial Shaft Fractures
 
 Isolated Ulnar Shaft Fractures (“Nightstick” Fracture) The isolated ulnar shaft fracture, classically associated with a defensive injury where the forearm is raised to deflect a blow (the “nightstick” fracture), is approached differently from the both-bone forearm fracture. The functional consequences of isolated ulnar shortening and angulation are less severe than for both-bone fractures, and the ulnar shaft can tolerate moderate residual angulation. The classical Sarmiento criteria for non-operative management of isolated ulnar shaft fractures are: angulation less than 10 degrees, displacement less than 50 percent of bone diameter, fracture distal to the insertion of the pronator teres (avoiding proximal-third fractures where Monteggia variants must be excluded), and no proximal or distal radioulnar joint instability. Within these limits, non-operative management with a functional brace (similar in concept to the Sarmiento brace for the humerus) produces excellent outcomes. Outside these limits, plate fixation is indicated. Intramedullary nailing has had a small role in isolated ulnar fractures but is generally less favored than plate fixation.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Sarmiento criteria for non-operative management of the isolated ulnar (nightstick) fracture: angulation under 10°, displacement under 50% of bone diameter, fracture distal to the pronator teres insertion, and no PRUJ/DRUJ instability. Outside these limits — plate.</p>
+</aside>
 
 
 ## Isolated Radial Shaft Fractures
 
 True isolated radial shaft fractures are uncommon and must prompt the suspicion of an unrecognized Galeazzi injury (see below) with subtle DRUJ disruption. Definitive treatment of true isolated radial fractures follows the same plate fixation principles as both-bone forearm fractures, with restoration of radial length, rotation, and bow.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>A 'true' isolated radial shaft fracture is rare — assume an occult Galeazzi until proven otherwise. Specifically inspect the DRUJ on lateral wrist views, measure ulnar variance, and look for an ulnar styloid base fracture before declaring it isolated.</p>
+</aside>
 
 ## The Monteggia Fracture-Dislocation
 
@@ -81,6 +101,11 @@ equivalent of the radius”).
 
 The treatment of the adult Monteggia injury is open reduction and internal fixation of the ulnar fracture with reduction of the radial head dislocation, almost always operative. The principle is that anatomic reduction and rigid fixation of the ulna typically reduces the radial head; if the radial head does not reduce after anatomic ulnar fixation, an obstruction to reduction (interposed annular ligament, soft tissue, or radial head fragment) must be sought and addressed. Open reduction of the radial head with annular ligament reconstruction is occasionally needed. The pediatric Monteggia injury has more nuanced management — in children under 6 to 8 years, closed reduction of the ulnar greenstick or plastic deformation may be sufficient to reduce the radial head, with cast immobilization in supination (Bado type I) or pronation (Bado type II); operative management is reserved for irreducible or unstable injuries. Missed Monteggia injuries — radial head dislocation persisting because the ulnar fracture was inadequately reduced or the dislocation unrecognized, represent a challenging late presentation. Reconstruction options include open reduction of the radial head with annular ligament reconstruction, ulnar osteotomy with re-fixation in proper alignment, and (in chronic cases with degenerative changes) radial head excision or arthroplasty. The longer the delay between injury and reconstruction, the worse the outcome, emphasis on initial recognition is critical.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Bado Monteggia by direction of radial head dislocation: I anterior (60-70% in adults), II posterior/posterolateral (often with radial head fracture, more common in elderly), III lateral (almost exclusively pediatric), IV both bones with anterior radial head dislocation. Anatomic ulnar fixation usually reduces the radial head — if it does not, hunt for an interposed annular ligament or fragment.</p>
+</aside>
+
 ## The Galeazzi Fracture-Dislocation
 
 <figure class="md-figure">
@@ -94,6 +119,11 @@ The treatment of the adult Monteggia injury is open reduction and internal fixat
 </figure>
 
 The Galeazzi injury (fracture of the radial shaft with dislocation of the distal radioulnar joint) was described by Riccardo Galeazzi of Milan in 1934, although the injury was recognized earlier (Astley Cooper described it in the early 19th century). The pathophysiology is the disruption of the distal radioulnar coupling, with the DRUJ dislocating because of the loss of radial length or rotational alignment. The classical features of Galeazzi injury include the radial shaft fracture (usually at the junction of the middle and distal thirds, the “Galeazzi point”), associated with one or more of: dislocation of the ulnar head from the sigmoid notch (visible on lateral wrist radiograph), shortening of the radius greater than 5 mm (with positive ulnar variance), fracture of the ulnar styloid base, and widening of the DRUJ on the AP wrist radiograph. The clinical aphorism that the Galeazzi injury is the “fracture of necessity” (meaning that operative management is required for good outcomes) captures the fundamental treatment principle. Closed reduction and casting of the radial fracture, even with reasonable initial alignment, results in unacceptable outcomes (radial shortening, recurrent angulation, DRUJ subluxation) in the adult patient. The treatment is open reduction and internal fixation of the radial fracture with restoration of length and rotation, followed by assessment of DRUJ stability in pronation, supination, and the neutral position. If the DRUJ is stable after radial fixation (the most common outcome with anatomical fixation), no further surgery is needed and the forearm is immobilized in the position of greatest stability (typically full supination) for 4 to 6 weeks. If the DRUJ remains unstable, additional management is required: open or arthroscopic TFCC repair, ulnar styloid base fixation (when present), or transverse K-wire fixation across the DRUJ in addition to the cast immobilization. The wire is removed at 6 weeks and DRUJ stability is reassessed. The Galeazzi-equivalent injuries include distal radial physeal fractures in children with associated DRUJ disruption (treated by reduction of the physis with assessment of DRUJ) and isolated dorsal or volar dislocations of the DRUJ with associated radial deformity.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Galeazzi is the 'fracture of necessity' — closed treatment fails in the adult. After ORIF of the radius, test DRUJ stability in pronation, neutral, and supination. If unstable: TFCC repair, ulnar styloid base fixation, or transverse K-wire across the DRUJ; immobilize in the position of greatest stability (typically full supination) for 4-6 weeks.</p>
+</aside>
 
 ## Special Patterns
 
@@ -111,6 +141,11 @@ The pediatric greenstick fracture (incomplete fracture of one cortex with intact
 
 Refracture after plate removal from the forearm is a recognized complication, with rates of 5 to 25 percent in older series and lower rates with modern protocols. The risk is associated with early removal (less than 12 to 18 months postoperatively), young patients, large plates with extensive bone-plate contact, and persistent radiolucent areas at the screw holes after removal. Recommendations include deferral of hardware removal until at least 18 to 24 months postoperatively (or only with definite indication), use of LCP-style plates that minimize cortical bone contact, and patient counseling and gradual return to full activity after hardware removal.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Refracture after forearm plate removal runs 5-25% in older series. Defer removal until at least 18-24 months postoperatively (and only with a definite indication), prefer LCP-style plates that minimize cortical contact, and counsel the patient on a gradual return to load.</p>
+</aside>
+
 
 ## Forearm Compartment Syndrome
 
@@ -123,6 +158,11 @@ Pediatric forearm fractures form a substantial category in their own right and a
 ## Complications
 
 Specific complications of adult forearm fracture management include nonunion (1 to 5 percent with plate fixation, generally amenable to plate revision with bone graft), malunion with loss of forearm rotation (treated by corrective osteotomy with attention to the radial bow), radioulnar synostosis (heterotopic bone formation between radius and ulna producing complete loss of forearm rotation, risk factors include high-energy injury, both-bone fracture at the same level, head injury, and operative approach close to the interosseous membrane; treatment is surgical excision with interposition of soft tissue or with radiation prophylaxis), infection (1 to 3 percent), iatrogenic nerve injury (particularly PIN with proximal radial exposures), and chronic DRUJ instability or arthrosis (the long-term consequence of inadequately treated Galeazzi injury).
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Radioulnar synostosis is the dreaded complication of both-bone forearm fracture at the same level, head injury, high-energy mechanism, or operative approach close to the interosseous membrane. Prevention is the goal: separate approaches for radius and ulna, careful soft-tissue handling, and consider radiation or indomethacin prophylaxis in high-risk patients.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

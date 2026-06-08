@@ -11,11 +11,26 @@ order: 124
 
 The distal femur fracture occupies an intermediate position between the diaphyseal femoral shaft fracture and the intra-articular knee injury, with anatomical and biomechanical considerations distinct from either. The distal femur fracture has a bimodal age distribution: high-energy injuries in young adults (motorcycle, motor vehicle, fall from height) and low-energy fragility fractures in elderly osteoporotic patients (often around an existing total knee arthroplasty as a periprosthetic fracture). The proximity to the knee joint, the wide metaphyseal-diaphyseal transition with thin cortices, and the substantial soft-tissue envelope all combine to produce fractures that are challenging to reduce and to fix securely, with a long history of disappointing outcomes from inadequate fixation methods. The advent of locked plating in the 1990s and 2000s and the parallel development of retrograde intramedullary nailing have substantially improved outcomes, although nonunion and malunion remain meaningful problems and the active debate concerns the relative merits of these two principal constructs. This chapter draws on Rockwood and Green’s Fractures in Adults, AO Principles of Fracture Management, Apley & Solomon’s, and Miller’s Review of Orthopaedics.
 
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Distal femur fractures are bimodal: high-energy injuries in young adults and low-energy fragility fractures in elderly osteoporotic patients (often periprosthetic around a TKA). The wide metaphyseal transition with thin cortices explains the comminution and the historical difficulty of stable fixation.</p>
+</aside>
+
 ## Surgical Anatomy
 
 The distal femur comprises the region from approximately 9 to 15 cm proximal to the joint line to the articular surface. The bone transitions in this region from the relatively narrow cylindrical diaphysis to the wide flared metaphysis, with substantially thinner cortices and predominantly cancellous bone — a transition that contributes to the heightened risk of comminution and the technical difficulty of fixation. The medial and lateral femoral condyles form the distal articular surface, with the intercondylar notch between them; the trochlea at the anterior aspect articulates with the patella. The anatomical axis of the distal femur is approximately 7 to 9 degrees of valgus relative to the mechanical axis, a relationship that must be restored in operative reduction to avoid varus or valgus malunion that produces secondary knee arthritis. The distal femoral joint line in the coronal plane is in approximately 3 degrees of valgus relative to the femoral mechanical axis; the sagittal alignment has approximately 5 degrees of flexion relative to the diaphyseal axis. These parameters are the targets of reduction. The neurovascular structures in the distal femoral region include the superficial femoral artery descending through the adductor canal and emerging into the popliteal space as the popliteal artery, the superficial femoral vein running with the artery, and the sciatic nerve descending through the posterior thigh and dividing into the common peroneal and tibial branches just proximal to the popliteal fossa. The popliteal vessels lie directly posterior to the distal femoral metaphysis and are vulnerable in fractures with significant posterior displacement; vascular injury must be excluded by careful examination of distal pulses and, when in doubt, CT angiography or formal angiography.
 
 The deforming forces on the distal femur fracture are predictable: the gastrocnemius insertions on the posterior aspect of the condyles pull the distal fragment posteriorly (extension) and proximally (shortening); the hamstrings add to the proximal pull; the adductor magnus adducts the proximal fragment; and the iliotibial band and vastus lateralis can add to lateral displacement. The classical resulting deformity is shortening, varus, and extension of the distal fragment (relative to the proximal, or alternatively, the proximal fragment displaces anteriorly and proximally), although the precise direction depends on the fracture pattern and adjacent fragment behaviors.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Gastrocnemius pulls the distal fragment into extension and shortening; adductor magnus tilts the proximal fragment into varus. The predictable malreduction is therefore varus and recurvatum (apex anterior) and must be actively corrected at reduction, not simply assumed away.</p>
+</aside>
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Gastrocnemius pulls the distal fragment into extension and shortening; adductor magnus tilts the proximal fragment into varus. The predictable malreduction is therefore varus and recurvatum (apex anterior) and must be actively corrected at reduction, not simply assumed away.</p>
+</aside>
 
 ## Classification
 
@@ -31,6 +46,16 @@ The deforming forces on the distal femur fracture are predictable: the gastrocne
 
 The AO/OTA classification (region 33) structures distal femur fractures by articular involvement: Type A (extra-articular): The fracture does not involve the articular surface. A1 simple metaphyseal, A2 metaphyseal with wedge fragment, A3 multifragmentary metaphyseal. Type B (partial articular): One condyle is fractured but a portion of the articular surface remains in continuity with the diaphysis. B1 lateral condyle sagittal (Hoffa fragment when in the coronal plane), B2 medial condyle sagittal, B3 frontal/coronal (Hoffa-type fracture in the coronal plane). Type C (complete articular): Both condyles are separated from the diaphysis, with the articular surface itself often comminuted. C1 simple intra-articular and metaphyseal, C2 simple articular with multifragmentary metaphyseal, C3 multifragmentary articular and metaphyseal. The Hoffa fracture (Albert Hoffa, 1904) deserves specific mention: it is a coronal-plane fracture of the femoral condyle (most commonly the lateral) producing a posterior osteochondral fragment. The injury is missed on standard AP and lateral views; CT is essential for diagnosis and operative planning. Treatment is open reduction with anterior-to-posterior screw fixation through a small arthrotomy. The historical Neer classification is largely superseded by the AO/OTA system. The Müller classification of supracondylar fractures (with extracondylar, intercondylar, and intracondylar variations) preceded the AO/OTA system and provides similar conceptual organization.
 
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The Hoffa fragment, a coronal-plane condylar fracture (most often lateral), is missed on standard AP and lateral views. CT is essential for diagnosis and operative planning; missed Hoffa fragments produce persistent pain and progressive arthritis from the displaced articular surface.</p>
+</aside>
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>The Hoffa fragment, a coronal-plane condylar fracture (most often lateral), is missed on standard AP and lateral views. CT is essential for diagnosis and operative planning; missed Hoffa fragments produce persistent pain and progressive arthritis from the displaced articular surface.</p>
+</aside>
+
 ## Clinical Assessment
 
 The clinical presentation depends on energy: the high-energy distal femur fracture in a young adult presents with gross deformity, swelling, pain, and often associated injuries; the low-energy fragility fracture in the elderly may present with subtler findings of pain and inability to bear weight after a fall. The examination assesses neurovascular status of the lower leg with particular attention to distal pulses (the popliteal vessels are at risk in posteriorly displaced fractures), motor and sensory function of the peroneal and tibial divisions of the sciatic nerve, and the integrity of the soft-tissue envelope (with attention to open wounds, contamination, and impending skin compromise). Compartment syndrome of the thigh or proximal leg should be considered, particularly in high-energy injuries; the leg compartments are at greater risk than the thigh, but both should be assessed. Imaging consists of standard AP and lateral radiographs of the entire femur (including the hip and knee), with additional traction views often helpful in defining the fracture morphology before CT. CT is the standard for operative planning in any intra-articular fracture, providing detailed assessment of articular fragments, Hoffa fragments, and the orientation of fracture lines. The CT angiography is added when vascular injury is suspected.
@@ -43,6 +68,16 @@ The clinical presentation depends on energy: the high-energy distal femur fractu
 Lateral locked plating is the predominant operative technique for distal femur fractures and has produced the substantial improvement in outcomes that has characterized this region over the past two decades. The construct uses a precontoured anatomic locking plate (Less Invasive Stabilization System, LISS, or distal femoral locking plate) applied to the lateral aspect of the distal femur with multiple converging locking screws into the distal condylar fragment plus shaft fixation. The mechanical principle is fixed-angle bridge plating: the locking screws create a stable construct in the distal fragment that maintains the fixed angle relationships even in osteoporotic bone, allowing the plate to function as an “internal external fixator” in spanning the metaphyseal comminution. The construct is intended to permit controlled motion at the fracture site (allowing callus formation) while resisting the typical varus and recurvatum deforming forces. The technical considerations include: Reduction is the critical first step. The classical malreduction is varus and recurvatum (apex anterior) because of the deforming forces; specific attention to restoring valgus alignment and to extending the distal fragment is required. Indirect reduction techniques using traction, percutaneous reduction tools, and provisional K-wire fixation are typically used; open reduction through a lateral or anterolateral approach (developing the interval between the vastus lateralis and the iliotibial band) is reserved for intra-articular fractures requiring direct articular reduction. Articular reduction in type C fractures is performed first, with lag screws securing the articular block before plate application. The Hoffa fragment, when present, requires specific attention with separate anterior-to-posterior screw fixation through a small arthrotomy. Plate length should be substantial — at least 6 to 8 cortical screws in the proximal (diaphyseal) segment, to spread the load and provide adequate working length. The
 
 “working length” concept — the distance between the most distal proximal screw and the most proximal screw of the distal fragment, is critical to construct flexibility and load distribution. Screw distribution in the distal fragment should provide multiple converging screws into the condylar bone, with attention to avoiding screws that penetrate the joint or the intercondylar notch. The complications of lateral locked plating include valgus or varus malreduction, nonunion (5 to 15 percent in series, substantially higher than for femoral shaft fractures, reflecting the metaphyseal comminution and the cantilever construct), implant failure with plate breakage at the working zone, and hardware-related symptoms. The “too stiff” plate construct has been recognized as a concern — excessive construct stiffness may inhibit the callus formation that is the principal healing mechanism in bridge plating, contributing to delayed union and implant failure. Strategies to address this include far cortical locking screws (with their threaded engagement only in the far cortex, permitting controlled near cortical motion) and longer working lengths.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Lateral locked plating acts as an internal external fixator bridging metaphyseal comminution. Construct flexibility is governed by working length (distance between the most distal proximal screw and most proximal distal screw); too-stiff constructs inhibit callus and drive nonunion, so favor long plates, longer working length, and (selectively) far cortical locking.</p>
+</aside>
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Lateral locked plating acts as an internal external fixator bridging metaphyseal comminution. Construct flexibility is governed by working length (distance between the most distal proximal screw and most proximal distal screw); too-stiff constructs inhibit callus and drive nonunion, so favor long plates, longer working length, and (selectively) far cortical locking.</p>
+</aside>
 
 ## Medial Plate Augmentation
 
@@ -63,6 +98,16 @@ The technique parallels femoral shaft retrograde nailing (see [Topic Trauma-23](
 ## Plate vs Nail — The Active Debate
 
 The choice between lateral locked plating and retrograde intramedullary nailing for distal femur fractures has been investigated through several randomized trials and meta-analyses. The general consensus is: Extra-articular fractures (AO 33-A): Either construct produces similar outcomes; retrograde nail may have advantages of load sharing and smaller exposure. Partial articular fractures (AO 33-B) with simple condyle pattern: Either construct is appropriate, with the choice depending on surgeon preference and the specific articular pattern. Complete articular fractures (AO 33-C) with simple condylar component: Locked plating provides better articular fixation; retrograde nailing requires preliminary articular reconstruction with separate fixation. Complete articular fractures with significant comminution (33-C2, 33-C3): Locked plating, often with medial augmentation, is the standard. Periprosthetic fractures around total knee arthroplasty: Discussed below; choice depends on the femoral component design and the position of the fracture.
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Retrograde nailing requires an open-box (nail-compatible) femoral component; closed-box designs preclude it. The Vancouver principles transfer: well-fixed components are retained with fixation around them, loose components require revision arthroplasty.</p>
+</aside>
+
+<aside class="callout callout-pitfall">
+  <span class="callout-label">Pitfall</span>
+  <p>Retrograde nailing requires an open-box (nail-compatible) femoral component; closed-box designs preclude it. The Vancouver principles transfer: well-fixed components are retained with fixation around them, loose components require revision arthroplasty.</p>
+</aside>
 
 ## Periprosthetic Distal Femur Fractures
 
@@ -108,6 +153,11 @@ Distal femur fractures with associated vascular injury (popliteal artery or vein
 ## Rehabilitation and Outcomes
 
 The rehabilitation after distal femur fracture fixation emphasizes early protected weight bearing (often toe-touch or 25 percent partial weight bearing for 6 to 8 weeks, progressing to full weight bearing as tolerated by 10 to 12 weeks) and early knee range of motion. The risk of knee stiffness is substantial because of the proximity to the joint, the surgical exposure, and the prolonged period of partial weight bearing. Continuous passive motion (CPM) machines, formal physiotherapy, and early aggressive motion protocols are used to mitigate stiffness; manipulation under anesthesia or arthroscopic lysis of adhesions may be needed in severe stiffness. The functional outcomes depend on multiple factors: quality of articular reduction (the most important predictor in C-type fractures), maintenance of mechanical axis (varus malalignment of more than 5 degrees produces medial compartment arthritis; valgus malalignment more than 7 degrees produces lateral arthritis), maintenance of knee range of motion (a flexion arc less than 90 to 110 degrees produces functional impairment), and the patient’s pre-fracture functional level.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Mechanical-axis maintenance is the long-term predictor: varus malalignment greater than 5 degrees drives medial-compartment arthritis and valgus greater than 7 degrees drives lateral arthritis. A flexion arc less than 90-110 degrees produces functional impairment, so early protected motion is as important as the construct itself.</p>
+</aside>
 
 ## Summary and Take-Home Points
 

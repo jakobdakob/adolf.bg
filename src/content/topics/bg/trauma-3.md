@@ -55,6 +55,16 @@ order: 103
 
 ## Материали за обездвижване
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-3/splint.png" data-figure-alt="Поставяне на шина" aria-label="Увеличи">
+    <img src="/img/trauma-3/splint.png" alt="Поставяне на шина" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Обездвижване с шина — началната мярка при остри фрактури за стабилизиране, аналгезия и защита на меките тъкани преди дефинитивно лечение.</span>
+    <span class="md-figure-attribution"> — Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Гипс (Plaster of Paris)

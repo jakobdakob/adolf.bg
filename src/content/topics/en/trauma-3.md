@@ -31,6 +31,16 @@ Closed reduction techniques include: Direct manipulation: The classical approach
 
 ## Materials of Immobilization
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-3/splint.png" data-figure-alt="Splinting an arm" aria-label="Enlarge">
+    <img src="/img/trauma-3/splint.png" alt="Splinting an arm" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Splint immobilisation — the initial measure for acute fractures, providing stabilisation, analgesia, and soft-tissue protection before definitive treatment.</span>
+    <span class="md-figure-attribution"> — Baedr-9439, <a href="https://commons.wikimedia.org/wiki/File:Splinting-an-arm.png" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Plaster of Paris
 

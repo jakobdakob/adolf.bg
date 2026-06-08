@@ -58,6 +58,16 @@ Operative management is indicated in virtually all medically appropriate patient
 
 ## Sliding Hip Screw (Dynamic Hip Screw, DHS)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-22/dhs-construct.jpg" data-figure-alt="DHS construct" aria-label="Enlarge">
+    <img src="/img/trauma-22/dhs-construct.jpg" alt="DHS construct" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">DHS construct — large lag screw in the femoral neck that slides within the side plate; controlled collapse under load generates interfragmentary compression (sliding-screw principle).</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Principle and Construct
 

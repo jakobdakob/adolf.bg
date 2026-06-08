@@ -43,6 +43,16 @@ The historic eponymous descriptions remain in widespread use and capture meaning
 
 ## Classifications
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/distal-radius.jpg" data-figure-alt="Displaced distal radius fracture" aria-label="Enlarge">
+    <img src="/img/trauma-17/distal-radius.jpg" alt="Displaced distal radius fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Displaced intra-articular distal radius fracture — radial height, inclination and volar tilt drive the AO/OTA classification and operative strategy.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Multiple classification systems have been developed for distal radius fractures, reflecting both the heterogeneity of fracture patterns and the historical pursuit of systems that meaningfully guide treatment. The Frykman classification (1967) divides distal radius fractures by the presence of intra-articular involvement (radiocarpal joint, DRUJ, both, or neither) and the presence of ulnar styloid fracture. The classification has eight types but limited correlation with treatment decisions.
 
 The Fernandez classification (1993) is mechanism-based and organizes fractures into five types: type I bending (Colles, Smith), type II shearing (Barton, chauffeur), type III compression (intra-articular impaction, die-punch), type IV avulsion of carpal ligament insertions (ulnar styloid, radial styloid avulsion), and type V combined/high-energy. The AO/OTA classification (region 23) is the most comprehensive and is increasingly used. Type A is extra-articular (A1 isolated ulna, A2 simple radius, A3 complex radius); Type B is partial articular (B1 sagittal, B2 dorsal Barton, B3 volar Barton); Type C is complete articular (C1 simple articular with simple metaphyseal, C2 simple articular with complex metaphyseal, C3 complex articular and metaphyseal). The Lafontaine criteria (1989) identify fractures at risk for redisplacement after closed reduction: dorsal angulation greater than 20 degrees, dorsal comminution, intra-articular involvement, associated ulnar styloid fracture, and patient age over 60. The presence of three or more criteria predicts a high likelihood of secondary displacement and may inform earlier operative intervention.

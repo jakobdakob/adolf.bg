@@ -62,6 +62,16 @@ order: 111
 
 ## Травми на акромиоклавикуларната става
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-11/ac-separation.png" data-figure-alt="АК-сепарация на рентгенография" aria-label="Увеличи">
+    <img src="/img/trauma-11/ac-separation.png" alt="АК-сепарация на рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">АК-сепарация — изместване на латералния край на ключицата нагоре спрямо акромиона при разкъсване на АК- и CC-връзките; високата степен (Rockwood IV-VI) се определя по посоката на изместване и изисква оперативно лечение.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+  </figcaption>
+</figure>
+
 Акромиоклавикуларната (АК) става е стабилизирана статично от АК-връзките (осигуряват хоризонтална стабилност), коракоклавикуларните връзки (lig. conoideum и lig. trapezoideum — осигуряват вертикална стабилност) и динамично от делтоида и трапециуса. Класификацията на Rockwood (1989) за АК-ставни увреждания — надграждаща по-ранната класификация на Tossy — описва шест степени по механизъм и степен на изместване.
 
 Тип I: навяхване на АК-връзките без руптура; без рентгенологично изместване. Превръзка за удобство и ранно движение.

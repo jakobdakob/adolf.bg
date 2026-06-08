@@ -52,6 +52,16 @@ Medial clavicle fractures are rare and are typically treated non-operatively unl
 
 ## Acromioclavicular Joint Injuries
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-11/ac-separation.png" data-figure-alt="AC joint separation X-ray" aria-label="Enlarge">
+    <img src="/img/trauma-11/ac-separation.png" alt="AC joint separation X-ray" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">AC joint separation — superior displacement of the lateral clavicle relative to the acromion with rupture of AC and CC ligaments; high-grade (Rockwood IV-VI) injuries are defined by displacement direction and require operative repair.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+  </figcaption>
+</figure>
+
 The acromioclavicular (AC) joint is stabilized statically by the AC ligaments (providing horizontal stability), the coracoclavicular ligaments (conoid and trapezoid — providing vertical stability), and dynamically by the deltoid and trapezius. The Rockwood classification (1989) of AC joint injuries — building on the earlier Tossy classification — describes six grades by mechanism and degree of displacement. Type I: AC ligament sprain without disruption; no radiographic displacement. Sling for comfort and early motion. Type II: AC ligament rupture with CC ligaments intact; widening of AC joint but normal CC distance. Sling for comfort, return to activity at 4 to 6 weeks. Type III: Both AC and CC ligaments ruptured; clavicle displaced superiorly by 25 to 100 percent. The classic “Tossy 3” or “high-grade” injury. Management remains controversial — operative versus non-operative produces broadly equivalent functional outcomes in many series, with the trend favoring non-operative management in most patients (sling, early motion, gradual progression). Operative fixation may be considered in heavy laborers, overhead athletes, or those with prolonged symptoms after non-operative trial. Type IV: Posterior displacement of the clavicle through the trapezius. Operative reduction and stabilization required. Type V: Severe superior displacement (>100 to 300 percent) with disruption of the deltotrapezial fascia and clavicle “buttonholing” through the fascia. Operative fixation indicated. Type VI: Inferior displacement of the clavicle beneath the coracoid (extremely rare). Operative fixation. The choice of operative technique for the higher grades (III in selected cases, IV, V, VI) includes hook plate fixation, CC ligament reconstruction with screw fixation (Bosworth screw — largely historical), suture-button devices (TightRope, Endobutton), tendon graft reconstruction (modified Weaver-Dunn using the coracoacromial ligament, or anatomic reconstruction with semitendinosus graft through bone tunnels), and combined hook plate with ligament reconstruction.
 
 ## Sternoclavicular Joint Injuries

@@ -100,6 +100,16 @@ The syndesmosis must be stabilized in any ankle fracture pattern where the synde
 
 ## Maisonneuve Fracture
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-28/maisonneuve.jpg" data-figure-alt="Maisonneuve fracture" aria-label="Enlarge">
+    <img src="/img/trauma-28/maisonneuve.jpg" alt="Maisonneuve fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Maisonneuve fracture — proximal fibular fracture with associated syndesmotic disruption and medial ankle injury; missed without palpating the full length of the fibula and ordering proximal radiographs.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Maisonneuve_fracture_Fibula.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The Maisonneuve fracture (Maisonneuve, 1840) is a proximal fibular fracture (often near the fibular neck) with associated syndesmotic disruption and medial-sided ankle injury (either medial malleolar fracture or deltoid disruption). The pattern represents the
 
 pronation-external rotation stage 3-4 injury with continuation of the force up the fibula to fracture at its weakest point. The proximal fibular fracture is often missed if not specifically sought — palpation of the entire fibular length and dedicated proximal fibular radiographs are essential in any pronation-external rotation pattern. Treatment involves fixation of the medial side (medial malleolus or deltoid management), syndesmotic stabilization (the principal mechanical concern), and typically non-fixation of the proximal fibular fracture (which heals well with syndesmotic stabilization restoring the mortise).

@@ -93,6 +93,16 @@ order: 122
 
 ## Динамичен тазобедрен винт (Dynamic Hip Screw, DHS)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-22/dhs-construct.jpg" data-figure-alt="DHS — динамичен тазобедрен винт" aria-label="Увеличи">
+    <img src="/img/trauma-22/dhs-construct.jpg" alt="DHS — динамичен тазобедрен винт" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">DHS конструкция — голям тилт-винт в шийката на бедрената кост, който скользи в страничната плака; контролираното свиване при натоварване генерира интерфрагментарна компресия (принцип на „шейната").</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:DHS_Klinge.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Принцип и конструкция
 

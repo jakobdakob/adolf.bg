@@ -59,6 +59,16 @@ order: 117
 
 ## Класификации
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/distal-radius.jpg" data-figure-alt="Изместена фрактура на дисталния radius" aria-label="Увеличи">
+    <img src="/img/trauma-17/distal-radius.jpg" alt="Изместена фрактура на дисталния radius" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Изместена вътреставна фрактура на дисталния radius — често рентгенографско съображение: радиална височина, наклон и волярен tilt; параметрите определят AO/OTA класификацията и оперативната стратегия.</span>
+    <span class="md-figure-attribution"> — Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Displaced_distal_radius_fracture.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Разработени са множество класификационни системи за фрактурите на дисталния radius, отразяващи хетерогенността на фрактурните модели и историческото стремление към системи, значимо насочващи лечението.
 
 Класификацията на Frykman (1967) разделя фрактурите на дисталния radius по наличието на вътреставна ангажираност (радиокарпална става, DRUJ, двете или нито едната) и по наличието на фрактура на стилоида на ulna. Класификацията има осем типа, но ограничена корелация с терапевтичните решения.

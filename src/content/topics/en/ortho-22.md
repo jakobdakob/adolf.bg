@@ -27,6 +27,16 @@ characteristic and improves with gentle motion. Functional limitations include d
 
 ## Imaging
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-22/knee-oa.jpg" data-figure-alt="Varus knee osteoarthritis on plain radiograph" aria-label="Enlarge">
+    <img src="/img/ortho-22/knee-oa.jpg" alt="Varus knee osteoarthritis on plain radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Varus gonarthrosis — asymmetric medial-compartment joint-space narrowing with subchondral sclerosis and osteophytes; the classic medial wear pattern.</span>
+    <span class="md-figure-attribution"> — NP2025, <a href="https://commons.wikimedia.org/wiki/File:Varus_Knee_Osteoarthritis_Xray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Standardized weight-bearing radiographs are essential, since the joint-space narrowing of knee OA is reliably demonstrated only with axial loading. The standard views include: AP weight-bearing view with knees in extension (or with knees in 30-45° flexion — the Rosenberg view, which is more sensitive for posterior compartment disease); lateral view; sunrise (Merchant) view for the patellofemoral joint; and standing long-leg alignment view for measurement of mechanical and anatomical axes. The Kellgren-Lawrence classification, applied to the knee, has the same grades as for the hip (0-4); the Ahlbäck classification is an alternative knee-specific system with five grades emphasizing joint-space narrowing and subchondral changes. MRI provides additional information when needed: assessment of meniscal pathology, ligament injury, subchondral bone marrow lesions (which have prognostic significance for symptom progression and surgical outcome), early cartilage damage, and alternative diagnoses such as spontaneous osteonecrosis of the knee (SONK), pigmented villonodular synovitis, and intra-articular tumors. MRI is not routinely required for the diagnosis of knee OA but is valuable in atypical presentations.
 
 ## Non-Operative Management

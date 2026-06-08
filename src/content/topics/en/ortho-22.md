@@ -70,6 +70,16 @@ Modern UKA produces excellent functional outcomes — frequently superior to TKA
 
 ## Total Knee Arthroplasty (TKA)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-22/tka-postop.svg" data-figure-alt="Postoperative X-ray after TKA" aria-label="Enlarge">
+    <img src="/img/ortho-22/tka-postop.svg" alt="Postoperative X-ray after TKA" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Postoperative X-ray after total knee arthroplasty — lateral view with femoral and tibial components and polyethylene insert; annotated anatomical landmarks.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Indications
 

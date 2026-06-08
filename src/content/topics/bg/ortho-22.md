@@ -88,6 +88,16 @@ order: 22
 
 ## Тотална артропластика на коляното (ТАК)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-22/tka-postop.svg" data-figure-alt="Постоперативна рентгенография на ТАК" aria-label="Увеличи">
+    <img src="/img/ortho-22/tka-postop.svg" alt="Постоперативна рентгенография на ТАК" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Постоперативна рентгенография след тотална артропластика на коляното — латерална проекция с феморален и тибиален компонент и полиетиленова вложка; означени анатомични ориентири.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Postoperative_X-ray_of_normal_knee_prosthesis,_lateral_view,_annotated.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Показания

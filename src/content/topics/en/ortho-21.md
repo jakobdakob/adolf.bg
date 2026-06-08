@@ -74,6 +74,16 @@ For appropriate younger patients with pre-arthritic or early arthritic hip disea
 
 ## Total Hip Arthroplasty (THA)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/tha-postop.jpg" data-figure-alt="Postoperative X-ray after THA" aria-label="Enlarge">
+    <img src="/img/ortho-21/tha-postop.jpg" alt="Postoperative X-ray after THA" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Postoperative X-ray after total hip arthroplasty — anteroposterior view with acetabular cup, femoral stem and femoral head in situ.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 ## Indications
 

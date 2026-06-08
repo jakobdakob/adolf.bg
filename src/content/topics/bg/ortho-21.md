@@ -98,6 +98,16 @@ order: 21
 
 ## Тотална артропластика на тазобедрената става (ТАС)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-21/tha-postop.jpg" data-figure-alt="Постоперативна рентгенография на ТАС" aria-label="Увеличи">
+    <img src="/img/ortho-21/tha-postop.jpg" alt="Постоперативна рентгенография на ТАС" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Постоперативна рентгенография след тотална артропластика на тазобедрената става — антеропостериорна проекция с ацетабулна купа, феморален стем и феморална глава in situ.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:X-ray_of_hip_with_total_arthroplasty_-_Anteroposterior.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 
 ## Показания

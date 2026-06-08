@@ -35,6 +35,16 @@ order: 117
 
 ## Епоними и модели
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles.jpg" data-figure-alt="Фрактура на Colles" aria-label="Увеличи">
+    <img src="/img/trauma-17/colles.jpg" alt="Фрактура на Colles" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на Colles — екстраартикуларна фрактура на дисталния радиус с дорзално изместване и ангулация („dinner-fork" деформация); класическата травма при падане върху изпъната ръка.</span>
+    <span class="md-figure-attribution"> — Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Историческите епонимни описания остават в широка употреба и носят съдържателна информация за механизма и конфигурацията.
 
 Фрактура на Colles (Abraham Colles, 1814): Класическата дорзално разместена извънставна фрактура на дисталния radius около 2–3 cm проксимално от ставната повърхност, предизвикана от падане на изпъната ръка с китката в екстензия. Деформацията класически се описва като вид „сервировъчна вилица" в профилна проекция. Увреждането е прототипната нискоенергийна фрактура на остеопоротичната възрастна жена.

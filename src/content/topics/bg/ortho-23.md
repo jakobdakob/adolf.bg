@@ -42,6 +42,16 @@ Hallux valgus е сложна триизмерна деформация на п�
 
 ## Образна диагностика и класификация
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus с нормативни ъгли" aria-label="Увеличи">
+    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus с нормативни ъгли" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux valgus при натоварване — измерени HVA (hallux valgus angle, нормално &lt;15°), IMA (intermetatarsal angle 1–2, нормално &lt;9°) и DMAA; основа за избор на остеотомия.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Стандартната образна оценка се извършва с рентгенографии в AP и латерална проекция при натоварване. Измерват се няколко ъгъла, използвани в класификацията и планирането на оперативното лечение:
 
 (1) Ъгъл hallux valgus (HVA): ъгъл между надлъжните оси на първата метатарзална кост и

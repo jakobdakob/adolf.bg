@@ -66,6 +66,16 @@ examination is mandatory. The arm is placed in a sling (or, in some protocols, i
 rotation brace following a 2007 trial by Itoi et al. that suggested improved capsular healing
 position) for 3 to 6 weeks, followed by progressive rehabilitation.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/bankart-hillsachs.jpg" data-figure-alt="Bankart and Hill-Sachs lesions after anterior dislocation" aria-label="Enlarge">
+    <img src="/img/trauma-12/bankart-hillsachs.jpg" alt="Bankart and Hill-Sachs lesions after anterior dislocation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Post-reduction X-ray after anterior shoulder dislocation — labelled Bankart lesion (anterior glenoid rim) and Hill-Sachs lesion (impression fracture of posterolateral humeral head); the two principal determinants of recurrence.</span>
+    <span class="md-figure-attribution"> — Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_anteroposterior_after_reduction,_with_Bankart_and_Hill-Sachs_lesions,_with_labels.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 ## The Question of Recurrence and Surgical Intervention After First Dislocation
 
 The risk of recurrence after a first-time anterior shoulder dislocation correlates most strongly with age at first dislocation. The classical figure from the Hovelius series and confirmed by multiple subsequent studies is that patients under 20 years have a recurrence rate exceeding 60 percent (approaching 80 to 90 percent in active populations of military or contact-sport athletes), while patients over 40 have recurrence rates below 20 percent. Other predictive factors include male sex, high-demand sport or occupation, the presence of bony defects (Hill-Sachs lesion, glenoid bone loss), and the duration of immobilization (which has little proven effect on recurrence). The traditional teaching that all first-time dislocations should be treated non-operatively has been challenged by the arthroscopic Bankart repair after first dislocation literature. Trials including those by Kirkley (2005) and Robinson (2006) have shown that early arthroscopic stabilization in young athletes substantially reduces recurrence rate (approximately 10 to 15 percent) compared with non-operative management (60 to 80 percent), with associated improvements in function and return to sport. The current treatment paradigm in young active patients (under 25 to 30, depending on the source) is increasingly to offer early arthroscopic Bankart repair after the first dislocation, particularly in collision and overhead athletes; in older or less active patients, non-operative management with selective stabilization for recurrence remains standard.

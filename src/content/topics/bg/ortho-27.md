@@ -34,6 +34,16 @@ order: 27
 
 ## Анатомия и етиология
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/carpal-tunnel.svg" data-figure-alt="Карпален тунел и nervus medianus" aria-label="Увеличи">
+    <img src="/img/ortho-27/carpal-tunnel.svg" alt="Карпален тунел и nervus medianus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Карпален тунел — напречен лигамент (flexor retinaculum) воларно, карпални кости дорзално и латерално; вътре 9 флексорни сухожилия + n. medianus. Компресията на нерва произвежда класическия синдром.</span>
+    <span class="md-figure-attribution"> — DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Синдромът на carpal tunnel (СКТ) е компресия на nervus medianus при китката под напречния лигамент на карпуса (flexor retinaculum). Заболяването е най-честият синдром на компресия на периферен нерв с доживотна честота около 10%. Карпалният тунел съдържа девет флексорни сухожилия (четири musculus flexor digitorum profundus, четири musculus flexor digitorum superficialis, един musculus flexor pollicis longus) плюс nervus medianus, като напречният лигамент на карпуса образува воларната граница, а карпалните кости — дорзалната и латералните граници. Обемът на тунела е фиксиран; всяко увеличение на сухожилния обем (тендосиновит) или на флуидното съдържание (задържане на течност) повишава налягането върху nervus medianus.
 
 Рисковите фактори включват женски пол (съотношение 3:1), възраст 40–60 години, бременност и кърмене, захарен диабет, ревматоиден артрит, тиреоидно заболяване, затлъстяване, трудова повтаряща се употреба на ръцете (спорно като изолиран рисков фактор) и различни редки причини, включително амилоидоза (особено при пациенти на хемодиализа) и акромегалия.

@@ -31,6 +31,16 @@ potentials in the innervated muscles in advanced disease). Imaging (ultrasound, 
 
 ## Anatomy and Etiology
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-27/carpal-tunnel.svg" data-figure-alt="Carpal tunnel and median nerve" aria-label="Enlarge">
+    <img src="/img/ortho-27/carpal-tunnel.svg" alt="Carpal tunnel and median nerve" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Carpal tunnel — transverse carpal ligament (flexor retinaculum) volarly, carpal bones dorsally and laterally; contains 9 flexor tendons + median nerve. Compression of the nerve produces the classic syndrome.</span>
+    <span class="md-figure-attribution"> — DoctorPharaoh, <a href="https://commons.wikimedia.org/wiki/File:Carpal-Tunnel.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Carpal tunnel syndrome (CTS) is compression of the median nerve at the wrist beneath the transverse carpal ligament (flexor retinaculum). The condition is the commonest peripheral nerve compression syndrome, with a lifetime prevalence of approximately 10%. The carpal tunnel contains nine flexor tendons (four FDP, four FDS, one FPL) plus the median nerve, with the transverse carpal ligament forming the volar boundary and the carpal bones forming the dorsal and lateral boundaries. The volume of the tunnel is fixed; any increase in tendon volume (tenosynovitis) or in fluid content (fluid retention) raises the pressure on the median nerve. Risk factors include female sex (3:1 ratio), age 40-60 years, pregnancy and lactation, diabetes mellitus, rheumatoid arthritis, thyroid disease, obesity, occupational repetitive hand use (controversial as an isolated risk factor), and various uncommon causes including amyloidosis (particularly in dialysis patients) and acromegaly.
 
 ## Clinical Features

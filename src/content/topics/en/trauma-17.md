@@ -29,6 +29,16 @@ during volar surgical approaches and to compression from external fixator pins),
 
 ## Eponyms and Patterns
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-17/colles.jpg" data-figure-alt="Colles fracture" aria-label="Enlarge">
+    <img src="/img/trauma-17/colles.jpg" alt="Colles fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Colles fracture — extra-articular distal radius fracture with dorsal displacement and angulation (the classic "dinner-fork" deformity); prototypical fall-on-outstretched-hand injury.</span>
+    <span class="md-figure-attribution"> — Ashish Anand MD, <a href="https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The historic eponymous descriptions remain in widespread use and capture meaningful information about mechanism and configuration. Colles fracture (Abraham Colles, 1814): The classic dorsally displaced extra-articular fracture of the distal radius approximately 2 to 3 cm proximal to the articular surface, produced by a fall on the outstretched hand with the wrist in extension. The deformity has been classically described as the “dinner fork” appearance from the lateral view. The injury is the prototypical low-energy fracture of the osteoporotic elderly woman. Smith fracture (Robert Smith, 1854): The volarly displaced fracture of the distal radius, sometimes called the “reverse Colles,” produced by a fall on the flexed wrist or by direct trauma. The Smith fracture is generally more unstable than the Colles fracture and more often requires operative fixation. Barton fracture (John Rhea Barton, 1838): The intra-articular shear fracture of the distal radius with the volar or dorsal articular fragment displaced together with the carpus, representing a fracture-dislocation pattern. Volar Barton is more common than dorsal; both are unstable and require open reduction and buttress plating of the displaced articular fragment. Chauffeur fracture (Hutchinson fracture): The intra-articular oblique fracture of the radial styloid, classically associated with the historical injury of motorcar drivers from cranking the engine and produced by axial impact through the scaphoid into the radial styloid. The pattern is frequently associated with scapholunate ligament injury and perilunate dislocation in higher-energy mechanisms. Die-punch fracture: An intra-articular fracture in which an isolated lunate facet fragment is depressed into the distal radius by impaction from the lunate, producing an articular step-off. The pattern is functionally important because the depressed lunate facet fragment (“die-punch fragment”) is difficult to elevate by ligamentotaxis alone and frequently requires open reduction.
 
 ## Classifications

@@ -40,6 +40,16 @@ Presentation is with the characteristic medial bunion deformity, pain over the m
 
 ## Imaging and Classification
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-23/hallux-valgus.jpg" data-figure-alt="Hallux valgus with normative angles" aria-label="Enlarge">
+    <img src="/img/ortho-23/hallux-valgus.jpg" alt="Hallux valgus with normative angles" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Weight-bearing hallux valgus — measured HVA (hallux valgus angle, normal &lt;15°), IMA (intermetatarsal 1–2 angle, normal &lt;9°) and DMAA; the basis for osteotomy selection.</span>
+    <span class="md-figure-attribution"> — Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Hallux_valgus_Normwerte.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Weight-bearing AP and lateral foot radiographs provide the standard imaging assessment.
 Several angles are measured and used in classification and surgical planning:
 (1) Hallux valgus angle (HVA): Angle between the longitudinal axes of the first

@@ -154,7 +154,7 @@ const t = ui[lang];
     elProgress.textContent = `${T.question} ${session.idx + 1} ${T.outOf} ${session.questions.length}`;
     elStem.textContent = localized.stem;
     elOptionBtns.forEach((btn, i) => {
-      btn.classList.remove("is-correct", "is-faded", "is-locked");
+      btn.classList.remove("is-correct", "is-wrong", "is-faded", "is-locked");
       btn.removeAttribute("disabled");
       const text = btn.querySelector(".quiz-text");
       if (text) text.textContent = localized.options[i] ?? "";

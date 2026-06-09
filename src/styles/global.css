@@ -814,9 +814,12 @@ html[data-theme="dark"] .btn-viber:hover {
   padding-bottom: var(--s-3);
   display: flex;
   flex-wrap: wrap;
-  gap: var(--s-4);
+  justify-content: center;
+  align-items: center;
+  gap: var(--s-3);
   font-size: var(--fs-meta);
   color: var(--ink-muted);
+  text-align: center;
 }
 /* Two extra nav rows below the main footer line — Account + Legal.
  * Centered, dot-separated via border-right, muted color, same font size. */

@@ -80,6 +80,13 @@ const t = lang === "en" ? {
     line-height: 1.45;
     color: var(--ink);
   }
+  /* The HTML `hidden` attribute is supposed to hide the element via
+   * `display: none`, but the `display: grid` above wins specificity-wise.
+   * Re-assert `display: none` for the hidden state so the JS toggle
+   * actually hides the banner. */
+  .adolf-cookie-banner[hidden] {
+    display: none !important;
+  }
   @media (max-width: 540px) {
     .adolf-cookie-banner {
       grid-template-columns: 1fr;

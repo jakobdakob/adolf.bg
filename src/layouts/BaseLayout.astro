@@ -129,6 +129,10 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
         <span aria-hidden="true">·</span>
         <span>{t.siteTagline}</span>
       </div>
+      <nav class="site-footer-legal" aria-label={lang === "bg" ? "Акаунт" : "Account"}>
+        <a href="/portal">{lang === "bg" ? "Моят абонамент" : "My subscription"}</a>
+        <a href="/login">{lang === "bg" ? "Вход" : "Sign in"}</a>
+      </nav>
       <nav class="site-footer-legal" aria-label="Legal">
         <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
         <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>

@@ -6,7 +6,9 @@ import { type Lang, ui } from "../i18n/ui";
 import Header from "../components/Header.astro";
 import SearchModal from "../components/SearchModal.astro";
 import SiteDrawer from "../components/SiteDrawer.astro";
+import CookieBanner from "../components/CookieBanner.astro";
 import { url } from "../lib/topics";
+import { legalNav } from "../i18n/legal";
 import "../styles/global.css";
 
 interface Props {
@@ -127,7 +129,14 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
         <span aria-hidden="true">·</span>
         <span>{t.siteTagline}</span>
       </div>
+      <nav class="site-footer-legal" aria-label="Legal">
+        <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
+        <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>
+        <a href={`/${lang}/legal/refund/`}>{legalNav[lang].refund}</a>
+        <a href={`/${lang}/legal/imprint/`}>{legalNav[lang].imprint}</a>
+      </nav>
     </footer>
+    <CookieBanner lang={lang} />
 
     <script is:inline>
       // Subtle scroll-reveal — opt-in by JS marking elements 'pending',

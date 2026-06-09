@@ -1,0 +1,79 @@
+name = "adolf-gate"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Route Worker on adolf.bg traffic.
+# Uncomment AFTER DNS migration to Cloudflare is complete.
+# [[routes]]
+# pattern = "adolf.bg/*"
+# zone_name = "adolf.bg"
+
+# KV namespace. Create with:
+#   wrangler kv:namespace create "ADOLF_SUBS"
+#   wrangler kv:namespace create "ADOLF_SUBS" --preview
+# Then paste the IDs returned here.
+[[kv_namespaces]]
+binding = "ADOLF_SUBS"
+id = "TODO_RUN_WRANGLER_KV_NAMESPACE_CREATE"
+preview_id = "TODO_RUN_WRANGLER_KV_NAMESPACE_CREATE_PREVIEW"
+
+# Service binding to the Cloudflare Pages project that serves the static site.
+# Uncomment AFTER the `adolf-bg-pages` Pages project is created tonight.
+# This binding lets the Worker fetch the origin internally — no public DNS,
+# so direct browser access to the Pages URL can be blocked via Access.
+# [[services]]
+# binding = "SITE"
+# service = "adolf-bg-pages"
+
+[vars]
+# Canonical public origin — used in absolute URLs, success/cancel URLs, etc.
+PUBLIC_ORIGIN = "https://adolf.bg"
+
+# Fallback HTTP origin used ONLY if the SITE service binding is missing.
+# Set to the `.pages.dev` URL once CF Pages is live; or to the GH Pages URL
+# while migration is pending (insecure — anyone can hit the GH Pages URL
+# directly and bypass the gate; documented in SECURITY.md).
+ORIGIN_URL = "https://jakobdakob.github.io/adolf.bg"
+
+# Free showcase topics — `section/n` pairs, comma-separated. These pass
+# through to the origin unmodified regardless of auth state.
+SHOWCASE_PATHS = "ortho/22,trauma/1,anatomy/8,ortho/11"
+
+# Words of prose shown to non-authed visitors on locked topics.
+WORD_PREVIEW_LIMIT = "300"
+
+# Stripe price IDs (recurring). Test-mode placeholders — replace with the
+# real IDs after creating products in the Stripe dashboard tonight.
+STRIPE_PRICE_3MO  = "price_TODO_TEST_3MO"
+STRIPE_PRICE_6MO  = "price_TODO_TEST_6MO"
+STRIPE_PRICE_12MO = "price_TODO_TEST_12MO"
+
+# JWT cookie config
+COOKIE_NAME    = "adolf_auth"
+COOKIE_DOMAIN  = ".adolf.bg"
+
+# Sender for magic-link / welcome emails
+EMAIL_FROM = "adolf.bg <noreply@adolf.bg>"
+
+# Postmark template aliases. Create these in the Postmark dashboard tonight.
+POSTMARK_MAGIC_LINK_TEMPLATE = "adolf-magic-link"
+POSTMARK_WELCOME_TEMPLATE    = "adolf-welcome"
+
+# ---------------------------------------------------------------------------
+# Secrets — set with `wrangler secret put NAME` (NOT in this file).
+# Generate each with:
+#   openssl rand -hex 64   → JWT_SECRET
+#   openssl rand -hex 32   → EMAIL_SALT, FP_SALT, ORIGIN_SECRET
+# Stripe + Postmark values come from their dashboards.
+#
+#   STRIPE_SECRET_KEY        sk_test_...  → sk_live_... on go-live
+#   STRIPE_WEBHOOK_SECRET    whsec_...
+#   POSTMARK_SERVER_TOKEN    (from Postmark transactional stream)
+#   JWT_SECRET               (64 hex bytes, rotate as needed)
+#   EMAIL_SALT               (32 hex bytes, NEVER rotate post-launch)
+#   FP_SALT                  (32 hex bytes — for UA fingerprint hashing)
+#   ORIGIN_SECRET            (32 hex bytes — sent to origin to validate request
+#                             came via Worker; only needed when SITE binding
+#                             is NOT set)
+# ---------------------------------------------------------------------------

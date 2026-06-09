@@ -1,0 +1,131 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { type Lang } from "../i18n/ui";
+import { legalNav, type LegalPage } from "../i18n/legal";
+
+interface Props {
+  lang: Lang;
+  page: LegalPage;
+  /** The slug of THIS legal page — used to compute the OtherPath link. */
+  slug: "terms" | "privacy" | "refund" | "imprint";
+}
+const { lang, page, slug } = Astro.props as Props;
+const otherLang: Lang = lang === "bg" ? "en" : "bg";
+const otherPath = `/${otherLang}/legal/${slug}/`;
+const t = legalNav[lang];
+---
+<BaseLayout
+  lang={lang}
+  title={page.title}
+  description={page.title}
+  otherPath={otherPath}
+  currentSection="home"
+  showMenuButton={true}
+>
+  <article class="legal-article">
+    <header class="legal-header">
+      <p class="legal-eyebrow">
+        <a href={`/${lang}/`}>adolf.bg</a> · {page.title}
+      </p>
+      <h1 class="legal-title">{page.title}</h1>
+      <p class="legal-updated">{t.lastUpdated}: {page.updated}</p>
+      {page.draftNotice && (
+        <p class="legal-draft" role="status">{page.draftNotice}</p>
+      )}
+      {page.intro && <p class="legal-intro">{page.intro}</p>}
+    </header>
+
+    {page.sections.map((sec) => (
+      <section class="legal-section">
+        <h2>{sec.heading}</h2>
+        {sec.paragraphs.map((p) => <p>{p}</p>)}
+        {sec.bullets && (
+          <ul>
+            {sec.bullets.map((b) => <li>{b}</li>)}
+          </ul>
+        )}
+      </section>
+    ))}
+
+    <nav class="legal-pager" aria-label="Legal pages">
+      <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
+      <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>
+      <a href={`/${lang}/legal/refund/`}>{legalNav[lang].refund}</a>
+      <a href={`/${lang}/legal/imprint/`}>{legalNav[lang].imprint}</a>
+    </nav>
+  </article>
+</BaseLayout>
+
+<style>
+  .legal-article {
+    max-width: 64ch;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 4rem;
+    color: var(--ink);
+  }
+  .legal-eyebrow {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin: 0 0 0.5rem;
+  }
+  .legal-eyebrow a { color: inherit; text-decoration: none; }
+  .legal-eyebrow a:hover { color: var(--accent); }
+  .legal-title {
+    font-size: clamp(1.75rem, 3vw, 2.25rem);
+    line-height: 1.2;
+    margin: 0 0 0.35rem;
+  }
+  .legal-updated {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin: 0 0 1.25rem;
+  }
+  .legal-draft {
+    margin: 0 0 1.25rem;
+    padding: 0.6rem 0.9rem;
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+    border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+    border-radius: 8px;
+    font-size: 0.9rem;
+  }
+  .legal-intro {
+    font-size: 1.05rem;
+    color: var(--ink-soft);
+    line-height: 1.6;
+    margin: 0 0 1.5rem;
+  }
+  .legal-section {
+    margin: 0 0 1.75rem;
+  }
+  .legal-section h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+  }
+  .legal-section p {
+    margin: 0 0 0.75rem;
+    line-height: 1.65;
+  }
+  .legal-section ul {
+    margin: 0.4rem 0 1rem 1.4rem;
+    padding: 0;
+  }
+  .legal-section li {
+    margin: 0 0 0.35rem;
+    line-height: 1.55;
+  }
+  .legal-pager {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.9rem;
+  }
+  .legal-pager a {
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+  .legal-pager a:hover { color: var(--accent); }
+</style>

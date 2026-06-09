@@ -1,0 +1,17 @@
+{
+  "name": "adolf-gate",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cloudflare Worker for adolf.bg paywall: subscription gating, Stripe checkout, magic-link auth.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250109.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^3.95.0"
+  }
+}

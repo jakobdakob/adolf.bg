@@ -1,0 +1,52 @@
+<!--
+  Postmark template body — paste into the Postmark dashboard when creating
+  the `adolf-welcome` template. Template aliases used:
+    {{product_url}}     — https://adolf.bg/bg/
+    {{product_url_en}}  — https://adolf.bg/en/
+    {{portal_url}}      — https://adolf.bg/portal
+    {{login_url}}       — https://adolf.bg/login
+
+  Subject line:
+    Добре дошли в adolf.bg • Welcome to adolf.bg
+-->
+<!doctype html>
+<html lang="bg">
+<head><meta charset="utf-8"></head>
+<body style="margin:0;background:#FAF9F7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#14110F;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#FAF9F7;padding:32px 16px;">
+    <tr><td align="center">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:480px;background:#fff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;">
+        <tr><td style="padding:32px 28px;">
+          <p style="font-size:14px;color:#5b524b;margin:0 0 12px;">adolf.bg</p>
+
+          <h1 style="font-size:22px;line-height:1.3;margin:0 0 12px;">Добре дошли!</h1>
+          <p style="font-size:15px;line-height:1.55;margin:0 0 16px;">
+            Абонаментът ви е активен. Вече имате достъп до всички теми по ортопедия, травматология и анатомия.
+          </p>
+          <p style="margin:0 0 20px;">
+            <a href="{{product_url}}" style="display:inline-block;background:#14110F;color:#FAF9F7;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;">Към темите</a>
+          </p>
+          <p style="font-size:14px;line-height:1.55;margin:0 0 18px;color:#5b524b;">
+            Вход по всяко време от друго устройство: <a href="{{login_url}}" style="color:#14110F;">{{login_url}}</a><br>
+            Управление на абонамента: <a href="{{portal_url}}" style="color:#14110F;">{{portal_url}}</a>
+          </p>
+
+          <hr style="border:0;border-top:1px solid rgba(0,0,0,0.1);margin:24px 0;">
+
+          <h2 style="font-size:18px;line-height:1.3;margin:0 0 10px;color:#14110F;">Welcome!</h2>
+          <p style="font-size:15px;line-height:1.55;margin:0 0 16px;">
+            Your subscription is active. You now have access to every topic across orthopedics, traumatology, and anatomy.
+          </p>
+          <p style="margin:0 0 20px;">
+            <a href="{{product_url_en}}" style="display:inline-block;background:#14110F;color:#FAF9F7;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;">Go to topics</a>
+          </p>
+          <p style="font-size:14px;line-height:1.55;margin:0;color:#5b524b;">
+            Sign in from any device: <a href="{{login_url}}" style="color:#14110F;">{{login_url}}</a><br>
+            Manage your subscription: <a href="{{portal_url}}" style="color:#14110F;">{{portal_url}}</a>
+          </p>
+        </td></tr>
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>

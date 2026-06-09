@@ -1,0 +1,54 @@
+<!--
+  Postmark template body — paste into the Postmark dashboard when creating
+  the `adolf-magic-link` template. Template aliases used:
+    {{magic_link_url}}      — the full /auth?token=… URL
+    {{expires_in_minutes}}  — integer, default 15
+    {{site_url}}            — https://adolf.bg
+
+  Subject line (configure in Postmark, NOT here):
+    Вашата връзка за достъп • Your access link
+-->
+<!doctype html>
+<html lang="bg">
+<head><meta charset="utf-8"></head>
+<body style="margin:0;background:#FAF9F7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#14110F;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#FAF9F7;padding:32px 16px;">
+    <tr><td align="center">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:480px;background:#fff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;">
+        <tr><td style="padding:32px 28px;">
+          <p style="font-size:14px;color:#5b524b;margin:0 0 12px;">adolf.bg</p>
+
+          <h1 style="font-size:22px;line-height:1.3;margin:0 0 12px;">Вашата връзка за достъп</h1>
+          <p style="font-size:15px;line-height:1.55;margin:0 0 20px;">
+            Натиснете бутона по-долу, за да влезете. Връзката изтича след {{expires_in_minutes}} минути и може да се използва само веднъж.
+          </p>
+          <p style="margin:0 0 24px;">
+            <a href="{{magic_link_url}}" style="display:inline-block;background:#14110F;color:#FAF9F7;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;">Вход</a>
+          </p>
+
+          <hr style="border:0;border-top:1px solid rgba(0,0,0,0.1);margin:24px 0;">
+
+          <h2 style="font-size:18px;line-height:1.3;margin:0 0 10px;color:#14110F;">Your access link</h2>
+          <p style="font-size:15px;line-height:1.55;margin:0 0 18px;">
+            Click the button below to sign in. The link expires in {{expires_in_minutes}} minutes and can only be used once.
+          </p>
+          <p style="margin:0 0 24px;">
+            <a href="{{magic_link_url}}" style="display:inline-block;background:#14110F;color:#FAF9F7;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;">Sign in</a>
+          </p>
+
+          <p style="font-size:12px;color:#9b938b;line-height:1.5;margin:24px 0 0;">
+            Не сте поискали тази връзка? Игнорирайте писмото — без действие от ваша страна не се случва нищо.<br>
+            Didn't request this link? You can safely ignore this email.
+          </p>
+          <p style="font-size:12px;color:#9b938b;margin:8px 0 0;word-break:break-all;">
+            {{magic_link_url}}
+          </p>
+        </td></tr>
+      </table>
+      <p style="font-size:12px;color:#9b938b;margin:16px 0 0;">
+        <a href="{{site_url}}" style="color:#9b938b;text-decoration:none;">{{site_url}}</a>
+      </p>
+    </td></tr>
+  </table>
+</body>
+</html>

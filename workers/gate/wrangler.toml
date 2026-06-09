@@ -66,8 +66,12 @@ STRIPE_PRICE_12MO = "price_1TgSHpJc1XsepFSSTRZAq3Wv"
 COOKIE_NAME    = "adolf_auth"
 COOKIE_DOMAIN  = ".adolf.bg"
 
-# Sender for magic-link / welcome emails
-EMAIL_FROM = "adolf.bg <noreply@adolf.bg>"
+# Sender for magic-link / welcome emails. Currently `adolf@hin.ch` because
+# `adolf.bg` domain isn't verified in Postmark yet (DKIM/Return-Path
+# records are live in CF but adolf.bg DNS hasn't propagated to .BG
+# registry — so Postmark can't verify the records yet). Switch back to
+# `noreply@adolf.bg` once the domain shows green in Postmark.
+EMAIL_FROM = "adolf.bg <adolf@hin.ch>"
 
 # Postmark template aliases. Create these in the Postmark dashboard tonight.
 POSTMARK_MAGIC_LINK_TEMPLATE = "adolf-magic-link"

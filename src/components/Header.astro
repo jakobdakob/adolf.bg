@@ -53,6 +53,14 @@ const links = [
     </button>
     <ThemeToggle lang={lang} />
     <LangToggle lang={lang} otherPath={otherPath} />
+    <a href="/login" class="header-login-btn" aria-label={lang === "bg" ? "Вход" : "Sign in"}>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+        <polyline points="10 17 15 12 10 7"/>
+        <line x1="15" y1="12" x2="3" y2="12"/>
+      </svg>
+      <span>{lang === "bg" ? "Вход" : "Sign in"}</span>
+    </a>
   </div>
 </header>
 
@@ -75,6 +83,33 @@ const links = [
     transition: border-color 160ms var(--ease), color 160ms var(--ease);
   }
   .search-trigger:hover { color: var(--ink); border-color: var(--ink-muted); }
+  .header-login-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.85rem;
+    border-radius: 8px;
+    background: var(--accent);
+    color: var(--bg);
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-decoration: none;
+    letter-spacing: 0.01em;
+    transition: background 160ms var(--ease), transform 160ms var(--ease), color 160ms var(--ease);
+    white-space: nowrap;
+  }
+  .header-login-btn:hover {
+    background: var(--ink);
+    color: var(--bg);
+    transform: translateY(-1px);
+  }
+  .header-login-btn svg {
+    flex-shrink: 0;
+  }
+  @media (max-width: 559px) {
+    .header-login-btn span { display: none; }
+    .header-login-btn { padding: 0.4rem 0.55rem; }
+  }
   .search-trigger-kbd {
     font-size: 0.7rem;
     font-variant-numeric: tabular-nums;

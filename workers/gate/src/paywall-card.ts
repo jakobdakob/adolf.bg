@@ -133,8 +133,8 @@ const SHARED_CSS = `<style>
   border: 1px solid var(--rule, rgba(0,0,0,0.12));
   border-radius: 16px;
   background: var(--bg, #FAF9F7);
-  padding: 2rem 1.5rem 1.75rem;
-  text-align: center;
+  padding: 1.25rem 1.5rem 1.25rem;
+  text-align: center !important;
   box-shadow: 0 20px 50px -15px rgba(0,0,0,0.25),
               0 8px 20px -5px rgba(0,0,0,0.10),
               0 1px 0 rgba(255,255,255,0.6) inset;
@@ -147,17 +147,21 @@ const SHARED_CSS = `<style>
                 0 1px 0 rgba(255,255,255,0.04) inset;
   }
 }
+.adolf-paywall-card * {
+  text-align: center !important;
+}
 .adolf-pw-heading {
-  margin: 0 0 0.5rem;
-  font-size: 1.5rem;
+  margin: 0 0 0.35rem;
+  font-size: 1.35rem;
   line-height: 1.2;
   font-weight: 600;
 }
 .adolf-pw-lede {
-  margin: 0 auto 1.5rem;
+  margin: 0 auto 1.1rem;
   max-width: 38ch;
   color: var(--ink-soft, #444);
-  line-height: 1.55;
+  line-height: 1.5;
+  font-size: 0.95rem;
 }
 .adolf-pw-plans {
   display: grid;

@@ -111,14 +111,20 @@ function stripProse(html: string, cfg: GateConfig): string {
   }
 
   const preserved = inner.slice(0, splice);
-  // Insert a fade overlay that visually dims the last bit of preserved prose,
-  // then the paywall card. The fade is purely cosmetic — the bytes past the
-  // splice are still not present in the response.
+  // Find the end of the </div> that closes .prose so the paywall card can
+  // be injected OUTSIDE the prose container — this lets the card escape
+  // prose's typography rules (text-align: left, etc.) so our centered
+  // layout actually wins, and lets it sticky-position relative to the
+  // article instead of a constrained sub-container.
+  const closeMatch = html.slice(innerEnd).match(/^<\/div\s*>/);
+  const closeEnd = innerEnd + (closeMatch ? closeMatch[0].length : 6);
   return (
     html.slice(0, innerStart) +
     preserved +
-    `\n<div class="adolf-prose-fade" aria-hidden="true"></div>\n${paywallCard(cfg)}\n` +
-    html.slice(innerEnd)
+    `\n<div class="adolf-prose-fade" aria-hidden="true"></div>\n` +
+    html.slice(innerEnd, closeEnd) +
+    `\n${paywallCard(cfg)}\n` +
+    html.slice(closeEnd)
   );
 }
 

@@ -95,17 +95,15 @@ function escapeHtml(s: string): string {
 // pages that don't load global CSS.
 const SHARED_CSS = `<style>
 /* Fade overlay over the last bit of preserved prose. Tall + aggressive
- * so the bottom 60% of the visible prose dissolves into the background
- * — gives the impression that there's more content underneath without
- * actually shipping any of the stripped bytes. */
+ * so the last several paragraphs dissolve into the background. */
 .adolf-prose-fade {
   position: relative;
-  height: 360px;
-  margin-top: -300px;
-  margin-bottom: -200px;
+  height: 520px;
+  margin-top: -480px;
+  margin-bottom: -340px;
   background: linear-gradient(to bottom,
     transparent 0%,
-    var(--bg, #FAF9F7) 55%,
+    var(--bg, #FAF9F7) 50%,
     var(--bg, #FAF9F7) 100%);
   pointer-events: none;
   z-index: 1;
@@ -114,17 +112,18 @@ const SHARED_CSS = `<style>
   .adolf-prose-fade {
     background: linear-gradient(to bottom,
       transparent 0%,
-      var(--bg, #0F0F12) 55%,
+      var(--bg, #0F0F12) 50%,
       var(--bg, #0F0F12) 100%);
   }
 }
-/* Paywall pulled UP into the fade region via negative top margin —
- * floats VISUALLY IN FRONT of the dissolving prose. Solid card bg + a
- * heavier shadow so it reads as a separate floating surface. */
+/* Paywall floats over the fade region with sticky bottom positioning
+ * — so as you scroll past, the card stays anchored to the viewport
+ * bottom (with a comfortable gap from the cookie banner). */
 .adolf-paywall {
-  position: relative;
+  position: sticky;
+  bottom: 1.5rem;
   z-index: 10;
-  margin: 0 auto 1rem;
+  margin: 0 auto 2rem;
   padding: 0 0.5rem;
   max-width: 600px;
 }

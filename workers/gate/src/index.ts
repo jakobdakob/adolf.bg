@@ -182,7 +182,9 @@ async function route(req: Request, env: Env): Promise<Response> {
   if (qbankMatch) {
     const auth = await checkAuth(req, env);
     if (!auth.ok) {
-      return Response.redirect(`${env.PUBLIC_ORIGIN}/${qbankMatch[1]}/`, 302);
+      // Use the actual request origin so testing on workers.dev doesn't
+      // bounce the user to adolf.bg.
+      return Response.redirect(`${url.origin}/${qbankMatch[1]}/`, 302);
     }
     const r = await fetchOrigin(req, env);
     const h = new Headers(r.headers);

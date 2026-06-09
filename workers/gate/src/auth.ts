@@ -137,7 +137,7 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
   if (!isActive(sub)) {
     // Logged-in attempt for an email without an active sub. Send them to
     // the home page; they can subscribe.
-    return Response.redirect(`${env.PUBLIC_ORIGIN}/${lang}/`, 302);
+    return Response.redirect(`${url.origin}/${lang}/`, 302);
   }
 
   // Issue auth cookie. Cap cookie expiry at the subscription period end.
@@ -158,8 +158,8 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
   const jwt = await signJwt({ sub: emailHash, iat: now, exp, fp, jti }, env.JWT_SECRET);
 
   const headers = new Headers();
-  headers.set("Location", `${env.PUBLIC_ORIGIN}/${lang}/`);
-  headers.append("Set-Cookie", buildCookie(env, jwt, exp - now));
+  headers.set("Location", `${url.origin}/${lang}/`);
+  headers.append("Set-Cookie", buildCookie(env, jwt, exp - now, url.hostname));
   return new Response(null, { status: 302, headers });
 }
 
@@ -170,8 +170,8 @@ export async function handleLogout(req: Request, env: Env): Promise<Response> {
   const url = new URL(req.url);
   const lang = url.pathname.startsWith("/en") ? "en" : "bg";
   const headers = new Headers();
-  headers.set("Location", `${env.PUBLIC_ORIGIN}/${lang}/`);
-  headers.append("Set-Cookie", clearCookie(env));
+  headers.set("Location", `${url.origin}/${lang}/`);
+  headers.append("Set-Cookie", clearCookie(env, url.hostname));
   return new Response(null, { status: 302, headers });
 }
 
@@ -187,10 +187,17 @@ export async function handleWelcome(req: Request, env: Env): Promise<Response> {
 // ---------------------------------------------------------------------------
 // Cookie helpers
 
-export function buildCookie(env: Env, value: string, maxAgeSec: number): string {
+/** Build the auth cookie. If the request host is the production
+ *  apex (adolf.bg or *.adolf.bg) we pin the Domain to .adolf.bg so the
+ *  cookie is shared across subdomains. For any other host (e.g. the
+ *  workers.dev test URL) we omit Domain so the cookie is host-scoped —
+ *  otherwise the browser would reject a Domain attribute that doesn't
+ *  match the current host. */
+export function buildCookie(env: Env, value: string, maxAgeSec: number, host?: string): string {
+  const useApexDomain = !host || host === "adolf.bg" || host.endsWith(".adolf.bg");
   const parts = [
     `${env.COOKIE_NAME}=${value}`,
-    `Domain=${env.COOKIE_DOMAIN}`,
+    ...(useApexDomain ? [`Domain=${env.COOKIE_DOMAIN}`] : []),
     `Path=/`,
     `HttpOnly`,
     `Secure`,
@@ -200,10 +207,11 @@ export function buildCookie(env: Env, value: string, maxAgeSec: number): string 
   return parts.join("; ");
 }
 
-export function clearCookie(env: Env): string {
+export function clearCookie(env: Env, host?: string): string {
+  const useApexDomain = !host || host === "adolf.bg" || host.endsWith(".adolf.bg");
   return [
     `${env.COOKIE_NAME}=`,
-    `Domain=${env.COOKIE_DOMAIN}`,
+    ...(useApexDomain ? [`Domain=${env.COOKIE_DOMAIN}`] : []),
     `Path=/`,
     `HttpOnly`,
     `Secure`,

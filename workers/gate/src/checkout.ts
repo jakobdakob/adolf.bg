@@ -42,10 +42,13 @@ export async function handleCheckout(req: Request, env: Env): Promise<Response> 
   else if (/\/bg\//.test(ref)) locale = "bg";
 
   try {
+    // Use the actual request origin so testing on workers.dev returns
+    // back to workers.dev, not to the (still-pending) adolf.bg.
+    const origin = url.origin;
     const session = await createCheckoutSession({
       priceId,
-      successUrl: `${env.PUBLIC_ORIGIN}/welcome?session={CHECKOUT_SESSION_ID}`,
-      cancelUrl: `${env.PUBLIC_ORIGIN}/`,
+      successUrl: `${origin}/welcome?session={CHECKOUT_SESSION_ID}`,
+      cancelUrl: `${origin}/`,
       locale,
       collectWithdrawalWaiver: true,
     }, env.STRIPE_SECRET_KEY);

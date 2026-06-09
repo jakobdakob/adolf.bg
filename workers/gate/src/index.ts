@@ -149,14 +149,21 @@ async function route(req: Request, env: Env): Promise<Response> {
       return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
     }
 
-    // Locked. If this is the /test/ sub-route (the per-topic quiz), redirect
-    // to the topic page where the prose-strip paywall renders. Stripping
-    // the test page directly is a no-op (it has no `.prose` container).
-    // Use the request origin so a workers.dev test doesn't bounce to the
-    // (still-pending) adolf.bg.
+    // Locked + /test/ sub-route (per-topic quiz): show the paywall card
+    // directly on the test page — overlay variant, no redirect — so the
+    // user who clicked through from the Q-Bank list sees the lock with
+    // context instead of being bounced to the topic page.
     if (/\/test\/?$/.test(path)) {
-      const topicPath = path.replace(/\/test\/?$/, "/");
-      return Response.redirect(url.origin + topicPath, 302);
+      const upstream = await fetchOrigin(req, env);
+      if (upstream.status >= 300) return upstream;
+      return lockQbankHtmlResponse(upstream, {
+        wordPreviewLimit: parseInt(env.WORD_PREVIEW_LIMIT, 10) || 300,
+        publicOrigin: env.PUBLIC_ORIGIN,
+        lang: detectLang(path),
+        showcasePath: showcase[0] ?? "ortho/1",
+        kicked: auth.kicked,
+        qbank: true,
+      });
     }
 
     // Locked variant: fetch, then strip bytes server-side + inject paywall.

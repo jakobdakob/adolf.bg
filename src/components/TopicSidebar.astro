@@ -1,6 +1,7 @@
 ---
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+import { isShowcase } from "../config/showcase";
 
 type Section = "ortho" | "trauma" | "anatomy";
 
@@ -27,15 +28,32 @@ const sectionLabel =
                           t.sectionOrtho;
 
 function isActive(e: TopicEntry) { return e.slug === active; }
+// Pass B: no visible lock icons in the sidebar — every topic renders
+// uniformly. Gating happens at the Worker layer when the topic page is
+// fetched. Keeping the helper as a no-op preserves the JSX shape.
+function isLocked(_e: TopicEntry): boolean {
+  return false;
+}
 ---
 <aside class={drawer ? "drawer-panel" : "sidebar hidden lg:block"}>
   <nav aria-label={t.contents}>
     <div class="sidebar-section-label">{sectionLabel}</div>
-    {sectionList.map((e) => (
-      <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
-        <span class="num">{e.data.topicNumber}</span>
-        <span>{e.data.title}</span>
-      </a>
-    ))}
+    {sectionList.map((e) => {
+      const locked = isLocked(e) && !isActive(e);
+      return (
+        <a href={topicPath(lang, e)} class:list={["sidebar-link", isActive(e) && "is-active"]}>
+          <span class="num">{e.data.topicNumber}</span>
+          {locked && (
+            <span class="sidebar-lock" aria-hidden="true" title={lang === "bg" ? "Платена тема" : "Premium topic"}>
+              <svg viewBox="0 0 12 12" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2.5" y="5.5" width="7" height="5" rx="0.9" />
+                <path d="M4 5.5V3.7a2 2 0 0 1 4 0v1.8" />
+              </svg>
+            </span>
+          )}
+          <span class="sidebar-link-title">{e.data.title}</span>
+        </a>
+      );
+    })}
   </nav>
 </aside>

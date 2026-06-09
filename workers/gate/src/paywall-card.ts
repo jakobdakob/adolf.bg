@@ -116,15 +116,19 @@ const SHARED_CSS = `<style>
       var(--bg, #0F0F12) 100%);
   }
 }
-/* Paywall sits in natural document flow, no sticky/scroll behavior.
- * Lands roughly where the prose visually ends, in the centre of the
- * article column. */
+/* Paywall fixed-positioned, vertically and horizontally centered in the
+ * viewport — true modal-overlay feel. Sits in front of the prose
+ * regardless of scroll position. */
 .adolf-paywall {
-  position: relative;
-  z-index: 10;
-  margin: 2rem auto 3rem;
-  padding: 0 0.5rem;
-  max-width: 600px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  width: calc(100vw - 2rem);
+  max-width: 560px;
+  margin: 0;
+  padding: 0;
 }
 .adolf-paywall-card {
   position: relative;

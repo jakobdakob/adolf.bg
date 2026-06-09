@@ -39,8 +39,14 @@ const t = lang === "en" ? {
     }
     function ack() {
       var d = new Date(); d.setFullYear(d.getFullYear() + 1);
+      // Use the apex domain only when actually on adolf.bg — otherwise
+      // (workers.dev, localhost) the browser rejects the domain attribute
+      // and the cookie is never stored, so the banner reappears on reload.
+      var host = location.hostname;
+      var useApex = host === "adolf.bg" || host.indexOf(".adolf.bg") === host.length - 9;
+      var domainAttr = useApex ? "; domain=.adolf.bg" : "";
       try {
-        document.cookie = KEY + "=1; path=/; domain=.adolf.bg; expires=" + d.toUTCString() + "; SameSite=Lax";
+        document.cookie = KEY + "=1; path=/" + domainAttr + "; expires=" + d.toUTCString() + "; SameSite=Lax";
       } catch (_) { /* localhost / no-domain dev → ignore */ }
       var el = document.getElementById("adolf-cookie-banner");
       if (el) el.hidden = true;

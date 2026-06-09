@@ -18,7 +18,7 @@ import {
   sha256Hex,
   genJti,
 } from "./crypto";
-import { getSubByEmail, isActive, setActiveDevice } from "./kv";
+import { getSubByEmail, isActive, setActiveDevice, mergeSubByEmail } from "./kv";
 import { sendTemplate } from "./postmark";
 import { loginFormPage, checkEmailPage, welcomePage, errorPage } from "./pages";
 import type { Env } from "./index";
@@ -136,6 +136,17 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
     return htmlResponse(errorPage(lang, "invalid-or-expired"), 400);
   }
 
+  // Single-use enforcement: refuse a magic-link whose nonce we've already
+  // honored. Stops bot-prefetched links (Microsoft Defender ATP, antivirus
+  // URL scanners, Gmail's link expansion) from silently consuming the
+  // user's one and only login.
+  const nonceKey = `ml:used:${claims.nonce}`;
+  if (await env.ADOLF_SUBS.get(nonceKey)) {
+    return htmlResponse(errorPage(lang, "invalid-or-expired"), 400);
+  }
+  // 900s ≥ the magic-link TTL so the marker outlives the token.
+  await env.ADOLF_SUBS.put(nonceKey, "1", { expirationTtl: 900 });
+
   const sub = await getSubByEmail(env, claims.email);
   if (!isActive(sub)) {
     // Logged-in attempt for an email without an active sub. Send them to
@@ -172,10 +183,49 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
 export async function handleLogout(req: Request, env: Env): Promise<Response> {
   const url = new URL(req.url);
   const lang = url.pathname.startsWith("/en") ? "en" : "bg";
+
+  // Best-effort: if the request still carries a valid cookie, clear the
+  // active_device_* fields in KV so the JWT can't be re-presented on
+  // another device after logout. (Cookie clear alone is client-side only.)
+  try {
+    const token = pickCookieFromHeader(req.headers.get("Cookie") ?? "", env.COOKIE_NAME);
+    if (token) {
+      const { verifyJwt } = await import("./crypto");
+      const claims = await verifyJwt(token, env.JWT_SECRET);
+      if (claims) {
+        // We don't have the email plaintext, only sha256 of it. We can't
+        // recompute the KV key without the salt+email. So look up by
+        // sub-hash: that's our KV key already.
+        const raw = await env.ADOLF_SUBS.get(claims.sub);
+        if (raw) {
+          const rec = JSON.parse(raw);
+          rec.active_device_fp = null;
+          rec.active_device_jti = null;
+          rec.active_device_last_seen = new Date().toISOString();
+          await env.ADOLF_SUBS.put(claims.sub, JSON.stringify(rec));
+        }
+      }
+    }
+  } catch {
+    // Logout must never fail noisily.
+  }
+
   const headers = new Headers();
   headers.set("Location", `${url.origin}/${lang}/`);
   headers.append("Set-Cookie", clearCookie(env, url.hostname));
   return new Response(null, { status: 302, headers });
+}
+
+function pickCookieFromHeader(header: string, name: string): string | null {
+  for (const p of header.split(";")) {
+    const idx = p.indexOf("=");
+    if (idx < 0) continue;
+    if (p.slice(0, idx).trim() === name) {
+      try { return decodeURIComponent(p.slice(idx + 1).trim()); }
+      catch { return p.slice(idx + 1).trim(); }
+    }
+  }
+  return null;
 }
 
 // ---------------------------------------------------------------------------

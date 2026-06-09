@@ -107,3 +107,29 @@ export function deviceMatchesActive(rec: SubRecord | null, jti: string): boolean
   if (!rec.active_device_jti) return false; // no active device yet → not a valid session
   return rec.active_device_jti === jti;
 }
+
+/** Merge `partial` into the existing record (or create a new one). Crucially
+ *  preserves `active_device_fp/jti/last_seen` and `current_period_end_iso`
+ *  unless the partial explicitly sets them. This makes webhook handlers
+ *  idempotent — a re-delivered Stripe event no longer wipes the active
+ *  device or the future period_end. */
+export async function mergeSubByEmail(
+  env: { ADOLF_SUBS: KVNamespace; EMAIL_SALT: string },
+  email: string,
+  partial: Partial<SubRecord>,
+): Promise<void> {
+  const existing = await getSubByEmail(env, email);
+  const merged: SubRecord = {
+    stripe_customer_id: partial.stripe_customer_id ?? existing?.stripe_customer_id ?? "",
+    stripe_subscription_id: partial.stripe_subscription_id ?? existing?.stripe_subscription_id,
+    current_period_end_iso:
+      partial.current_period_end_iso ?? existing?.current_period_end_iso ?? new Date(0).toISOString(),
+    status: partial.status ?? existing?.status ?? "unknown",
+    updated_at_iso: partial.updated_at_iso ?? new Date().toISOString(),
+    // Preserve single-device fields unless explicitly overwritten.
+    active_device_fp: partial.active_device_fp ?? existing?.active_device_fp,
+    active_device_jti: partial.active_device_jti ?? existing?.active_device_jti,
+    active_device_last_seen: partial.active_device_last_seen ?? existing?.active_device_last_seen,
+  };
+  await putSubByEmail(env, email, merged);
+}

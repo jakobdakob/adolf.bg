@@ -5,8 +5,8 @@
 // knows the endpoint URL must fail the HMAC check.
 
 import { verifyStripeSignature } from "./crypto";
-import { putSubByEmail } from "./kv";
-import { retrieveSubscription, retrieveCheckoutSession } from "./stripe";
+import { mergeSubByEmail } from "./kv";
+import { retrieveSubscription, retrieveCheckoutSession, retrieveCustomer } from "./stripe";
 import { sendTemplate } from "./postmark";
 import type { Env } from "./index";
 
@@ -98,24 +98,29 @@ async function onSubscriptionUpserted(evt: StripeEvent, env: Env): Promise<void>
   const sub = evt.data.object;
   const customerId = (sub.customer as string) ?? "";
   if (!customerId) return;
-  // Customer object isn't expanded here; we need the email. Fall back to
-  // metadata or skip if absent — the checkout.session.completed handler is
-  // the canonical creation point.
-  const email = (sub as any).customer_email as string | undefined;
+  // Subscription events don't usually include the customer email — we
+  // resolve it via Stripe's /customers/:id endpoint. This used to be a
+  // silent dropper; with the lookup, Portal cancellations / plan switches
+  // now flow into KV correctly.
+  let email = (sub as any).customer_email as string | undefined;
   if (!email) {
-    // Without the email we can't compute the KV key. Webhook arrives just
-    // after checkout.session.completed which DOES include the email, so
-    // most updates within the same period are fine. For later edits
-    // (cancellations etc.), tie via stripe_subscription_id by scanning KV
-    // (not implemented v1; document as known limitation).
+    try {
+      const cust = await retrieveCustomer(customerId, env.STRIPE_SECRET_KEY);
+      email = (cust.email as string | undefined) ?? undefined;
+    } catch (e) {
+      console.warn("customer lookup failed for subscription update:", e instanceof Error ? e.message : String(e));
+    }
+  }
+  if (!email) {
+    console.warn("subscription.updated without email; skipping KV update (sub=" + (sub.id as string) + ")");
     return;
   }
-  const periodEnd = (sub.current_period_end as number) ?? 0;
+  const periodEnd = pickPeriodEnd(sub);
   const status = (sub.status as string) ?? "unknown";
-  await putSubByEmail(env, email, {
+  await mergeSubByEmail(env, email, {
     stripe_customer_id: customerId,
     stripe_subscription_id: (sub.id as string) ?? "",
-    current_period_end_iso: new Date(periodEnd * 1000).toISOString(),
+    ...(periodEnd ? { current_period_end_iso: new Date(periodEnd * 1000).toISOString() } : {}),
     status,
     updated_at_iso: new Date().toISOString(),
   });
@@ -124,15 +129,23 @@ async function onSubscriptionUpserted(evt: StripeEvent, env: Env): Promise<void>
 async function onSubscriptionDeleted(evt: StripeEvent, env: Env): Promise<void> {
   const sub = evt.data.object;
   const customerId = (sub.customer as string) ?? "";
-  const email = (sub as any).customer_email as string | undefined;
+  let email = (sub as any).customer_email as string | undefined;
+  if (!email && customerId) {
+    try {
+      const cust = await retrieveCustomer(customerId, env.STRIPE_SECRET_KEY);
+      email = (cust.email as string | undefined) ?? undefined;
+    } catch (e) {
+      console.warn("customer lookup failed for subscription.deleted:", e instanceof Error ? e.message : String(e));
+    }
+  }
   if (!email || !customerId) return;
   // Mark canceled; preserve period end so the user keeps access until the
   // end of what they paid for.
-  const periodEnd = (sub.current_period_end as number) ?? Math.floor(Date.now() / 1000);
-  await putSubByEmail(env, email, {
+  const periodEnd = pickPeriodEnd(sub);
+  await mergeSubByEmail(env, email, {
     stripe_customer_id: customerId,
     stripe_subscription_id: (sub.id as string) ?? "",
-    current_period_end_iso: new Date(periodEnd * 1000).toISOString(),
+    ...(periodEnd ? { current_period_end_iso: new Date(periodEnd * 1000).toISOString() } : {}),
     status: "canceled",
     updated_at_iso: new Date().toISOString(),
   });
@@ -145,12 +158,12 @@ async function onInvoicePaid(evt: StripeEvent, env: Env): Promise<void> {
   if (!customerEmail || !subId) return;
   const sub = await retrieveSubscription(subId, env.STRIPE_SECRET_KEY);
   const customerId = (sub.customer as string) ?? "";
-  const periodEnd = (sub.current_period_end as number) ?? 0;
+  const periodEnd = pickPeriodEnd(sub);
   const status = (sub.status as string) ?? "active";
-  await putSubByEmail(env, customerEmail, {
+  await mergeSubByEmail(env, customerEmail, {
     stripe_customer_id: customerId,
     stripe_subscription_id: subId,
-    current_period_end_iso: new Date(periodEnd * 1000).toISOString(),
+    ...(periodEnd ? { current_period_end_iso: new Date(periodEnd * 1000).toISOString() } : {}),
     status,
     updated_at_iso: new Date().toISOString(),
   });
@@ -166,11 +179,11 @@ async function onInvoiceFailed(evt: StripeEvent, env: Env): Promise<void> {
   // current period actually ends.
   const sub = await retrieveSubscription(subId, env.STRIPE_SECRET_KEY);
   const customerId = (sub.customer as string) ?? "";
-  const periodEnd = (sub.current_period_end as number) ?? 0;
-  await putSubByEmail(env, customerEmail, {
+  const periodEnd = pickPeriodEnd(sub);
+  await mergeSubByEmail(env, customerEmail, {
     stripe_customer_id: customerId,
     stripe_subscription_id: subId,
-    current_period_end_iso: new Date(periodEnd * 1000).toISOString(),
+    ...(periodEnd ? { current_period_end_iso: new Date(periodEnd * 1000).toISOString() } : {}),
     status: "past_due",
     updated_at_iso: new Date().toISOString(),
   });
@@ -186,15 +199,31 @@ async function upsertFromSubscription(
   env: Env,
 ): Promise<void> {
   const sub = await retrieveSubscription(subId, env.STRIPE_SECRET_KEY);
-  const periodEnd = (sub.current_period_end as number) ?? 0;
+  const periodEnd = pickPeriodEnd(sub);
   const status = (sub.status as string) ?? "active";
-  await putSubByEmail(env, email, {
+  // Merge — preserves any existing active_device_* fields the user has
+  // already established via magic-link login, so a re-delivered webhook
+  // doesn't kick them off their device.
+  await mergeSubByEmail(env, email, {
     stripe_customer_id: customerId,
     stripe_subscription_id: subId,
-    current_period_end_iso: new Date(periodEnd * 1000).toISOString(),
+    ...(periodEnd ? { current_period_end_iso: new Date(periodEnd * 1000).toISOString() } : {}),
     status,
     updated_at_iso: new Date().toISOString(),
   });
+}
+
+/** Pull current_period_end from a Stripe subscription object, falling back
+ *  through the item-level field that newer API versions surface. Returns
+ *  0 if none found — caller should treat that as "do not overwrite". */
+function pickPeriodEnd(sub: Record<string, unknown>): number {
+  const direct = sub.current_period_end as number | null | undefined;
+  if (typeof direct === "number" && direct > 0) return direct;
+  const items = (sub.items as { data?: Array<{ current_period_end?: number }> } | undefined)?.data;
+  if (items && items[0] && typeof items[0].current_period_end === "number") {
+    return items[0].current_period_end;
+  }
+  return 0;
 }
 
 function pickEmail(obj: Record<string, unknown>): string | undefined {

@@ -38,8 +38,12 @@ export async function sendTemplate(
     body: JSON.stringify(body),
   });
   const txt = await res.text().catch(() => "");
-  console.log("[postmark]", res.status, "from=" + params.from, "to=" + params.to,
-              "tpl=" + params.templateAlias, "body=" + txt.slice(0, 300));
+  // Don't log the recipient email — log only the template alias, status,
+  // and the Postmark MessageID if present. PII in tail logs is avoidable.
+  let messageId = "";
+  try { messageId = (JSON.parse(txt).MessageID as string) ?? ""; } catch {}
+  console.log("[postmark]", res.status, "tpl=" + params.templateAlias,
+              messageId ? `msg=${messageId}` : `body=${txt.slice(0, 200)}`);
   if (!res.ok) {
     throw new Error(`Postmark error: HTTP ${res.status} ${txt}`);
   }

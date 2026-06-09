@@ -152,9 +152,11 @@ async function route(req: Request, env: Env): Promise<Response> {
     // Locked. If this is the /test/ sub-route (the per-topic quiz), redirect
     // to the topic page where the prose-strip paywall renders. Stripping
     // the test page directly is a no-op (it has no `.prose` container).
+    // Use the request origin so a workers.dev test doesn't bounce to the
+    // (still-pending) adolf.bg.
     if (/\/test\/?$/.test(path)) {
       const topicPath = path.replace(/\/test\/?$/, "/");
-      return Response.redirect(env.PUBLIC_ORIGIN + topicPath, 302);
+      return Response.redirect(url.origin + topicPath, 302);
     }
 
     // Locked variant: fetch, then strip bytes server-side + inject paywall.
@@ -242,17 +244,28 @@ function parseCookies(header: string): Record<string, string> {
     if (idx < 0) continue;
     const k = part.slice(0, idx).trim();
     const v = part.slice(idx + 1).trim();
-    if (k) out[k] = decodeURIComponent(v);
+    if (!k) continue;
+    // Cookie values shouldn't contain percent-encoded bytes but a
+    // malformed Cookie header with stray % must not crash the route.
+    try {
+      out[k] = decodeURIComponent(v);
+    } catch {
+      out[k] = v;
+    }
   }
   return out;
 }
 
-/** Fetch the origin (CF Pages via service binding, falling back to HTTP). */
+/** Fetch the origin (CF Pages via service binding, falling back to HTTP).
+ *  Any `Location` header from the origin is rewritten to use the public
+ *  origin so the underlying CF Pages URL (`adolf-bg.pages.dev`) is never
+ *  leaked back to the browser — a redirect to that URL would bypass the
+ *  gate entirely. */
 async function fetchOrigin(req: Request, env: Env): Promise<Response> {
   if (env.SITE) {
     // Service binding — request goes directly to the Pages project without
     // hitting public DNS. This is the secure path.
-    return env.SITE.fetch(req);
+    return rewriteOriginLocation(await env.SITE.fetch(req), req, env);
   }
   // HTTP fallback. Sends ORIGIN_SECRET so a Pages project (configured to
   // require it) can refuse direct browser hits. Until Pages is set up this
@@ -264,10 +277,34 @@ async function fetchOrigin(req: Request, env: Env): Promise<Response> {
   // Drop the cookie when proxying to origin — origin doesn't need it and
   // GH Pages can't read it anyway, but it leaks fewer details.
   headers.delete("Cookie");
-  return fetch(target.toString(), {
+  const r = await fetch(target.toString(), {
     method: req.method,
     headers,
     body: ["GET", "HEAD"].includes(req.method) ? undefined : req.body,
     redirect: "manual",
   });
+  return rewriteOriginLocation(r, req, env);
+}
+
+function rewriteOriginLocation(r: Response, req: Request, env: Env): Response {
+  if (r.status < 300 || r.status >= 400) return r;
+  const loc = r.headers.get("Location");
+  if (!loc) return r;
+  let originHost: string;
+  try {
+    originHost = new URL(env.ORIGIN_URL).host;
+  } catch {
+    return r;
+  }
+  let parsed: URL;
+  try {
+    parsed = new URL(loc, env.ORIGIN_URL);
+  } catch {
+    return r;
+  }
+  if (parsed.host !== originHost) return r;
+  const publicOrigin = new URL(req.url).origin;
+  const h = new Headers(r.headers);
+  h.set("Location", publicOrigin + parsed.pathname + parsed.search + parsed.hash);
+  return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
 }

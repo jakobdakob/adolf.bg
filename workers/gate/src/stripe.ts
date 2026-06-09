@@ -141,3 +141,10 @@ export async function retrieveCheckoutSession(
 ): Promise<Record<string, unknown>> {
   return stripeGet(`/checkout/sessions/${encodeURIComponent(sessionId)}?expand[]=subscription`, secretKey);
 }
+
+export async function retrieveCustomer(
+  customerId: string,
+  secretKey: string,
+): Promise<Record<string, unknown>> {
+  return stripeGet(`/customers/${encodeURIComponent(customerId)}`, secretKey);
+}

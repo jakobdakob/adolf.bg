@@ -17,6 +17,10 @@ export interface GateConfig {
    *  newer login on another device. Changes the paywall card to a
    *  "kicked" message + login link instead of subscribe options. */
   kicked: boolean;
+  /** True when this is the Q-Bank gate variant (showed on /qbank/ pages
+   *  for non-authed visitors). Swaps the heading + lede to lean hard
+   *  into the "all topics + 7400 questions" sell. */
+  qbank?: boolean;
 }
 
 // ---------------------------------------------------------------------------
@@ -50,6 +54,44 @@ export async function lockHtmlResponse(
   headers.set("X-Frame-Options", "SAMEORIGIN");
 
   return new Response(transformed, {
+    status: upstream.status,
+    statusText: upstream.statusText,
+    headers,
+  });
+}
+
+/** Wraps a Q-Bank origin response with the paywall overlay. Doesn't strip
+ *  prose (there isn't any worth previewing on the Q-Bank landing) — just
+ *  drops the test-yourself CTA, adds noindex, and injects the paywall
+ *  card with the qbank variant of the copy so the value prop is clear. */
+export async function lockQbankHtmlResponse(
+  upstream: Response,
+  cfg: GateConfig,
+): Promise<Response> {
+  const ct = upstream.headers.get("content-type") ?? "";
+  if (!ct.toLowerCase().includes("text/html")) return upstream;
+
+  let html = await upstream.text();
+  html = withNoindex(html);
+  // Drop any quiz-runner blocks so the page doesn't try (and fail) to
+  // fetch /quizzes/all.json behind the paywall.
+  html = html.replace(/<section\b[^>]*\bclass=["'][^"']*\bquiz\b[^"']*["'][^>]*>[\s\S]*?<\/section>/gi, "");
+  html = html.replace(/<aside\b[^>]*\bclass=["'][^"']*\btest-yourself\b[^"']*["'][^>]*>[\s\S]*?<\/aside>/gi, "");
+  // Inject the paywall card just before </body> so it overlays whatever
+  // teaser content the Q-Bank landing still has above the fold.
+  const card = paywallCard({ ...cfg, qbank: true });
+  html = html.replace(/<\/body>/i, `${card}\n</body>`);
+
+  const headers = new Headers(upstream.headers);
+  headers.set("Content-Type", "text/html; charset=utf-8");
+  headers.delete("Content-Length");
+  headers.delete("Etag");
+  headers.set("Cache-Control", "private, no-store, must-revalidate");
+  headers.set("X-Adolf-Variant", "qbank-locked");
+  headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
+  headers.set("X-Frame-Options", "SAMEORIGIN");
+
+  return new Response(html, {
     status: upstream.status,
     statusText: upstream.statusText,
     headers,

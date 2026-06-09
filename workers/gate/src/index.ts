@@ -17,7 +17,7 @@
 //   If env.SITE service binding is present, use it (zero-trust internal call).
 //   Otherwise fall back to env.ORIGIN_URL with ORIGIN_SECRET header.
 
-import { matchTopicPath, topicKey, detectLang, lockHtmlResponse } from "./gate";
+import { matchTopicPath, topicKey, detectLang, lockHtmlResponse, lockQbankHtmlResponse } from "./gate";
 import { handleCheckout } from "./checkout";
 import { handleStripeWebhook } from "./webhook";
 import { handleLogin, handleAuthExchange, handleLogout, handleWelcome } from "./auth";
@@ -176,22 +176,30 @@ async function route(req: Request, env: Env): Promise<Response> {
 
   // ------------------------------ Q-bank landing page
   // /<lang>/qbank/ and /<lang>/qbank/mixed/ are the cross-topic quiz pages.
-  // Their HTML loads /quizzes/all.json which is already gated above, so for
-  // non-authed visitors the runner will fail to fetch and show empty. For a
-  // cleaner UX, redirect non-authed to the home page where they can
-  // navigate to a showcase topic or subscribe. Authed visitors pass through.
+  // The Q-Bank is the headline value prop, so non-authed visitors get the
+  // Q-Bank-specific paywall card injected onto the page — not a silent
+  // redirect — so they actually see what they'd be subscribing for.
   const qbankMatch = path.match(/^\/(bg|en)\/qbank\b/);
   if (qbankMatch) {
     const auth = await checkAuth(req, env);
-    if (!auth.ok) {
-      // Use the actual request origin so testing on workers.dev doesn't
-      // bounce the user to adolf.bg.
-      return Response.redirect(`${url.origin}/${qbankMatch[1]}/`, 302);
+    const qbankLang = qbankMatch[1] === "en" ? "en" : "bg";
+    if (auth.ok) {
+      const r = await fetchOrigin(req, env);
+      const h = new Headers(r.headers);
+      h.set("Cache-Control", "private, no-store");
+      return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
     }
-    const r = await fetchOrigin(req, env);
-    const h = new Headers(r.headers);
-    h.set("Cache-Control", "private, no-store");
-    return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
+    const showcase = (env.SHOWCASE_PATHS || "").split(",").map((s) => s.trim()).filter(Boolean);
+    const upstream = await fetchOrigin(req, env);
+    if (upstream.status >= 300) return upstream;
+    return lockQbankHtmlResponse(upstream, {
+      wordPreviewLimit: parseInt(env.WORD_PREVIEW_LIMIT, 10) || 300,
+      publicOrigin: env.PUBLIC_ORIGIN,
+      lang: qbankLang,
+      showcasePath: showcase[0] ?? "ortho/1",
+      kicked: auth.kicked,
+      qbank: true,
+    });
   }
 
   // ------------------------------ Everything else: pass through

@@ -26,6 +26,10 @@ interface Strings {
   kickedHeading: string;
   kickedLede: string;
   kickedCta: string;
+  /** Q-Bank variant copy — same plan tiles, different headline/lede so
+   *  the sell leans on the "all topics, all questions" volume. */
+  qbankHeading: string;
+  qbankLede: string;
 }
 
 const BG: Strings = {
@@ -52,6 +56,8 @@ const BG: Strings = {
   kickedHeading: "Излязохте от това устройство",
   kickedLede: "Излязохте от това устройство, защото влязохте от друго. Поискайте нов вход тук.",
   kickedCta: "Нов вход с email",
+  qbankHeading: "Достъп до всичките 74 теми и 7 400 въпроса",
+  qbankLede: "Q-Bank пуска 20 случайни въпроса от пула на всяка тема, плюс смесен режим с въпроси от всички 74 теми. Изберете план — отписване по всяко време от профила.",
 };
 
 const EN: Strings = {
@@ -78,6 +84,8 @@ const EN: Strings = {
   kickedHeading: "You've been signed out of this device",
   kickedLede: "You've been signed out because you signed in on another device. Get a new sign-in link here.",
   kickedCta: "Send me a new sign-in link",
+  qbankHeading: "Access all 74 topics and 7,400 questions",
+  qbankLede: "Q-Bank pulls 20 random questions from each topic's curated pool, plus a mixed mode that draws across all 74 topics. Pick a plan — cancel any time from your account.",
 };
 
 function escapeHtml(s: string): string {
@@ -282,11 +290,16 @@ export function paywallCard(cfg: GateConfig): string {
 ${SHARED_CSS}`.trim();
   }
 
+  // Q-Bank variant: same plan tiles + footer; different headline/lede.
+  const heading = cfg.qbank ? s.qbankHeading : s.heading;
+  const lede = cfg.qbank ? s.qbankLede : s.lede;
+  const variantAttr = cfg.qbank ? ' data-pw-reason="qbank"' : '';
+
   return `
-<aside class="adolf-paywall" data-pw-server-locked="1" aria-labelledby="adolf-pw-heading">
+<aside class="adolf-paywall" data-pw-server-locked="1"${variantAttr} aria-labelledby="adolf-pw-heading">
   <div class="adolf-paywall-card">
-    <h2 id="adolf-pw-heading" class="adolf-pw-heading">${escapeHtml(s.heading)}</h2>
-    <p class="adolf-pw-lede">${escapeHtml(s.lede)}</p>
+    <h2 id="adolf-pw-heading" class="adolf-pw-heading">${escapeHtml(heading)}</h2>
+    <p class="adolf-pw-lede">${escapeHtml(lede)}</p>
     <div class="adolf-pw-plans">
       <a class="adolf-pw-plan" href="/checkout?plan=3">
         <div class="adolf-pw-plan-title">${escapeHtml(s.plan3Title)}</div>

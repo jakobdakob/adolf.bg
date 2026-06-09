@@ -149,20 +149,22 @@ async function route(req: Request, env: Env): Promise<Response> {
       return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
     }
 
-    // Locked + /test/ sub-route (per-topic quiz): show the paywall card
-    // directly on the test page — overlay variant, no redirect — so the
-    // user who clicked through from the Q-Bank list sees the lock with
-    // context instead of being bounced to the topic page.
+    // Locked + /test/ sub-route (per-topic quiz): render the PARENT topic
+    // content at this URL — gives the user real context (topic title +
+    // 300-word preview + paywall) instead of a stripped test page with
+    // a floating modal. URL stays at /test/, no client-visible redirect.
     if (/\/test\/?$/.test(path)) {
-      const upstream = await fetchOrigin(req, env);
+      const parentPath = path.replace(/\/test\/?$/, "/");
+      const parentUrl = new URL(parentPath + url.search, url);
+      const parentReq = new Request(parentUrl.toString(), req);
+      const upstream = await fetchOrigin(parentReq, env);
       if (upstream.status >= 300) return upstream;
-      return lockQbankHtmlResponse(upstream, {
+      return lockHtmlResponse(upstream, {
         wordPreviewLimit: parseInt(env.WORD_PREVIEW_LIMIT, 10) || 300,
         publicOrigin: env.PUBLIC_ORIGIN,
         lang: detectLang(path),
         showcasePath: showcase[0] ?? "ortho/1",
         kicked: auth.kicked,
-        qbank: true,
       });
     }
 

@@ -37,8 +37,21 @@ export async function sendTemplate(
     },
     body: JSON.stringify(body),
   });
+  const txt = await res.text().catch(() => "");
+  console.log("[postmark]", res.status, "from=" + params.from, "to=" + params.to,
+              "tpl=" + params.templateAlias, "body=" + txt.slice(0, 300));
   if (!res.ok) {
-    const txt = await res.text().catch(() => "");
     throw new Error(`Postmark error: HTTP ${res.status} ${txt}`);
+  }
+  // Postmark can return 200 with a non-zero ErrorCode in the JSON body
+  // (e.g. inactive recipient, sender not approved). Surface those too.
+  try {
+    const j = JSON.parse(txt);
+    if (j && typeof j.ErrorCode === "number" && j.ErrorCode !== 0) {
+      throw new Error(`Postmark API error ${j.ErrorCode}: ${j.Message ?? "unknown"}`);
+    }
+  } catch (e) {
+    if (e instanceof Error && e.message.startsWith("Postmark API error")) throw e;
+    // Not JSON or no ErrorCode — fall through.
   }
 }

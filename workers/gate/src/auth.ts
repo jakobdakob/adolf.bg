@@ -93,7 +93,10 @@ export async function handleLogin(req: Request, env: Env): Promise<Response> {
   // (Sending to addresses that don't have a sub is fine: the click leads
   // to /checkout instead of unlocking.)
   const token = await signMagicToken(normalized, env.JWT_SECRET, 900);
-  const linkUrl = `${env.PUBLIC_ORIGIN}/auth?token=${encodeURIComponent(token)}`;
+  // Use the actual request origin so a /login submitted via workers.dev
+  // sends a magic link that points back to workers.dev (instead of the
+  // production adolf.bg domain that hasn't propagated yet).
+  const linkUrl = `${url.origin}/auth?token=${encodeURIComponent(token)}`;
 
   try {
     await sendTemplate({
@@ -181,7 +184,10 @@ export async function handleLogout(req: Request, env: Env): Promise<Response> {
 export async function handleWelcome(req: Request, env: Env): Promise<Response> {
   const url = new URL(req.url);
   const lang = url.searchParams.get("lang") === "en" ? "en" : "bg";
-  return htmlResponse(welcomePage(lang, env.PUBLIC_ORIGIN));
+  // Pass the request's actual origin so the "Sign in" link on the welcome
+  // page works from whatever host completed checkout (workers.dev or
+  // adolf.bg) — env.PUBLIC_ORIGIN would always send to adolf.bg.
+  return htmlResponse(welcomePage(lang, url.origin));
 }
 
 // ---------------------------------------------------------------------------

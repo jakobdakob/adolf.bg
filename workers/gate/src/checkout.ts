@@ -14,7 +14,7 @@ const PLAN_LIMITS: Record<string, { months: number }> = {
 };
 
 export async function handleCheckout(req: Request, env: Env): Promise<Response> {
-  if (req.method !== "GET" && req.method !== "POST") {
+  if (req.method !== "GET" && req.method !== "POST" && req.method !== "HEAD") {
     return new Response("Method not allowed", { status: 405 });
   }
   const url = new URL(req.url);

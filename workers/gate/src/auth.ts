@@ -53,7 +53,9 @@ export async function handleLogin(req: Request, env: Env): Promise<Response> {
   const url = new URL(req.url);
   const lang = url.searchParams.get("lang") === "en" ? "en" : "bg";
 
-  if (req.method === "GET") {
+  // HEAD = GET semantics; Workers runtime strips body for HEAD responses.
+  // Accept both so monitors and crawlers can probe the route.
+  if (req.method === "GET" || req.method === "HEAD") {
     return htmlResponse(loginFormPage(lang));
   }
   if (req.method !== "POST") {
@@ -121,7 +123,7 @@ export async function handleLogin(req: Request, env: Env): Promise<Response> {
 // /auth — exchange magic token for cookie
 
 export async function handleAuthExchange(req: Request, env: Env): Promise<Response> {
-  if (req.method !== "GET") {
+  if (req.method !== "GET" && req.method !== "HEAD") {
     return new Response("Method not allowed", { status: 405 });
   }
   const url = new URL(req.url);

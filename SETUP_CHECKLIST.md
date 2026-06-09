@@ -1,5 +1,34 @@
 # Pass B — Setup checklist for tonight
 
+## Status as of 2026-06-09 evening
+
+**Already done autonomously (commits `ee66ef2` + `a79cb48` on `paywall-pass-b`, not pushed):**
+
+- ✅ Imprint filled with your real data (Jakob Adolf, Sofia, BG, adolf@hin.ch).
+- ✅ CF zone `adolf.bg` created via API. Zone ID `9bf918e73951afb5b1f9be0ef28ab3c6`. Status currently `pending` until propagation completes.
+- ✅ CF nameservers assigned: `aisha.ns.cloudflare.com`, `luke.ns.cloudflare.com`.
+- ✅ Netim nameservers swapped to those two via your Netim Direct account ("BEING UPDATED" confirmed at registrar). Propagation typically 10–60 min — re-check with `dig +short NS adolf.bg` or look at the CF zone status.
+- ✅ 8 DNS records added to the CF zone via API: 4× A records to GH Pages IPs, `www` CNAME, SPF TXT (`v=spf1 include:spf.mtasv.net ~all`), Postmark DKIM TXT, Postmark Return-Path CNAME.
+- ✅ Postmark server `adolf-bg` created. Two templates created via Postmark API: `adolf-magic-link`, `adolf-welcome` (both Active). Server token saved at `/tmp/adolf_external_secrets/POSTMARK_SERVER_TOKEN`.
+- ✅ Node 22.11 + wrangler 3.114 installed userspace at `~/.local/node` (no admin, no Homebrew).
+- ✅ KV namespace `ADOLF_SUBS` created. IDs already filled into `wrangler.toml`: `8fdaff24f9fb41e9a0fb18a512b8c862` (regular), `1853458dae7444729270abe331f30bc3` (preview).
+- ✅ 5 Worker secrets uploaded via `wrangler secret put`: `JWT_SECRET`, `EMAIL_SALT`, `FP_SALT`, `ORIGIN_SECRET`, `POSTMARK_SERVER_TOKEN`. (Worker `adolf-gate` was auto-created as an empty placeholder; tonight's deploy overwrites with real code.)
+- ✅ Single-device enforcement shipped (JWT.jti + KV active_device_jti + kicked variant + ToS clause + per-IP rate limit). Showcase reshuffle (ortho/1, trauma/1, anatomy/1). Quiz-JSON gating + /test/ redirect.
+
+**Heads-up (do these tonight before going further):**
+
+1. **Rotate the Postmark server token.** It briefly appeared in a screenshot during automation. Postmark → Servers → adolf-bg → API Tokens → Generate another token, then re-pipe with `printf '%s' "<new>" | npx wrangler secret put POSTMARK_SERVER_TOKEN`.
+2. **Rotate the GitHub PAT** (`github_pat_11CFIM…`) — it's been in chat history since this morning. New token only goes to your terminal, never back into chat.
+3. **CF API token** at `/tmp/adolf_external_secrets/CF_API_TOKEN` expires 2026-06-11 — you can revoke it at `dash.cloudflare.com/profile/api-tokens` whenever you want.
+
+**Still TODO tonight (~25 min of your time):**
+
+The big remaining items are **Stripe (everything — MCP browser refused dashboard.stripe.com)**, **the final `wrangler deploy`**, **the worker route binding to `adolf.bg/*`**, and the **end-to-end test purchase** (test card has to be your hand on the keyboard).
+
+The blocks below are still accurate for those. Skip blocks 1 (CF setup) and 4 (Postmark) — they're done. The numbered steps in block 5 are now mostly done too; only the **`STRIPE_*` price IDs** and `STRIPE_SECRET_KEY` / `STRIPE_WEBHOOK_SECRET` need to be set, then `wrangler deploy`.
+
+---
+
 Read this on your phone before sitting down at the PC. The code is already written and committed on the `paywall-pass-b` branch (not pushed). Tonight is dashboard work + secrets + first deploy.
 
 **Order matters.** Don't skip ahead — later steps depend on identifiers from earlier ones.

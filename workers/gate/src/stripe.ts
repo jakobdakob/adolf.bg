@@ -76,7 +76,13 @@ export async function createCheckoutSession(
   body.set("locale", params.locale ?? "auto");
   // Discount codes intentionally disabled (Jakob's decision).
   body.set("allow_promotion_codes", "false");
-  body.set("consent_collection[terms_of_service]", "required");
+  // Stripe rejects consent_collection[terms_of_service]=required unless a
+  // ToS URL is set in the Dashboard. Either set the URL there (Settings →
+  // Public details) or drop the ToS consent collection from Stripe and
+  // rely on our own Terms page (linked from the paywall card and footer)
+  // for ToS exposure. Until Jakob sets the URL, we skip the consent line
+  // to avoid the 400. The withdrawal-waiver custom_field below still
+  // gives us explicit consent for the more important EU waiver.
   body.set("billing_address_collection", "required");
   if (params.customerEmail) body.set("customer_email", params.customerEmail);
 

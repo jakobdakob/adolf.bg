@@ -339,8 +339,8 @@ const REFUND_BG: LegalPage = {
     {
       heading: "2. Изключение за цифрово съдържание",
       paragraphs: [
-        "Когато при поръчката давате изрично съгласие изпълнението на договора да започне веднага (т.е. незабавен достъп до съдържанието) и същевременно потвърждавате, че знаете, че ще загубите правото на отказ при пълно изпълнение, правото на отказ отпада за вече консумирано съдържание.",
-        "Тъй като в момента at adolf.bg НЕ изискваме отделно такова съгласие, пълното 14-дневно право на отказ се прилага. Можете да поискате пълно възстановяване в първите 14 дни от абонамента, дори ако вече сте чели темите.",
+        "При поръчката Ви се изисква изрично съгласие изпълнението на договора да започне веднага (незабавен достъп до съдържанието) и потвърждение, че знаете, че губите правото на отказ за вече консумирано съдържание (чл. 16, буква „м“ от Директива 2011/83/ЕС).",
+        "Това означава: можете да поискате възстановяване в рамките на 14 дни за съдържание, до което НЕ сте имали достъп, но не и за материали, които вече сте прочели. Това съгласие се събира и записва от Stripe при плащането (поле „withdrawal_waiver = yes“).",
       ],
     },
     {
@@ -375,8 +375,8 @@ const REFUND_EN: LegalPage = {
     {
       heading: "2. Digital-content exception",
       paragraphs: [
-        "When at checkout you give explicit consent that performance begins immediately (i.e. immediate access to the content) and you acknowledge that you will lose the right to withdraw once performance is complete, the right of withdrawal lapses for content already consumed.",
-        "Because adolf.bg does NOT currently collect such a separate consent, the full 14-day withdrawal right applies. You may request a full refund within the first 14 days of the subscription, even if you have already read topics.",
+        "At checkout you are required to give explicit consent that performance begins immediately (i.e. immediate access to the content) and to acknowledge that you lose the right to withdraw for content already consumed (Article 16(m) of Directive 2011/83/EU).",
+        "This means: you may request a refund within 14 days for content you have NOT yet accessed, but not for material you have already read. Stripe collects and records this consent at payment time (the `withdrawal_waiver = yes` field on the checkout session).",
       ],
     },
     {

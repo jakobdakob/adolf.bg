@@ -54,6 +54,10 @@ export interface CreateCheckoutSessionParams {
   cancelUrl: string;
   customerEmail?: string;
   locale?: string;
+  /** Add a required custom field where the buyer confirms they want
+   *  immediate access and waive the 14-day EU withdrawal right for
+   *  content they consume. EU CRD 2011/83 art.16(m). */
+  collectWithdrawalWaiver?: boolean;
 }
 
 export async function createCheckoutSession(
@@ -74,12 +78,26 @@ export async function createCheckoutSession(
   body.set("consent_collection[terms_of_service]", "required");
   body.set("billing_address_collection", "required");
   if (params.customerEmail) body.set("customer_email", params.customerEmail);
-  // EU consumer law: digital-content 14-day withdrawal right must be either
-  // honored OR explicitly waived with consumer acknowledgment. Stripe's ToS
-  // checkbox alone is not enough. Until Jakob picks the policy (see
-  // SETUP_CHECKLIST.md "Withdrawal right"), we leave the standard 14-day
-  // window in place by NOT auto-fulfilling immediately and NOT asking for a
-  // separate waiver. The refund policy page documents this.
+
+  if (params.collectWithdrawalWaiver) {
+    // Required custom field. Single-option dropdown — the buyer can't
+    // proceed without selecting "Yes". Stripe records the choice on the
+    // session object (custom_fields[].dropdown.value) so we have evidence
+    // of consent for the EU withdrawal-right waiver.
+    body.set("custom_fields[0][key]", "withdrawal_waiver");
+    body.set("custom_fields[0][type]", "dropdown");
+    body.set("custom_fields[0][label][type]", "custom");
+    body.set(
+      "custom_fields[0][label][custom]",
+      "Start immediately + waive 14-day right of withdrawal for content you read",
+    );
+    body.set(
+      "custom_fields[0][dropdown][options][0][label]",
+      "Yes — I want immediate access and acknowledge that I lose the 14-day withdrawal right for content I have read",
+    );
+    body.set("custom_fields[0][dropdown][options][0][value]", "yes");
+    body.set("custom_fields[0][optional]", "false");
+  }
 
   const json = await stripePost("/checkout/sessions", body, secretKey);
   const id = json.id as string;

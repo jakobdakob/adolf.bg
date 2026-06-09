@@ -811,12 +811,45 @@ html[data-theme="dark"] .btn-viber:hover {
   padding-left: var(--page-pad);
   padding-right: var(--page-pad);
   padding-top: var(--s-6);
-  padding-bottom: var(--s-6);
+  padding-bottom: var(--s-3);
   display: flex;
   flex-wrap: wrap;
   gap: var(--s-4);
   font-size: var(--fs-meta);
   color: var(--ink-muted);
+}
+/* Two extra nav rows below the main footer line — Account + Legal.
+ * Centered, dot-separated via border-right, muted color, same font size. */
+.site-footer-legal {
+  max-width: var(--shell-width);
+  margin: 0 auto;
+  padding: 0 var(--page-pad) var(--s-3);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--fs-meta);
+  color: var(--ink-muted);
+  line-height: 1.9;
+}
+.site-footer-legal a {
+  color: var(--ink-muted);
+  text-decoration: none;
+  padding: 0 var(--s-3);
+  border-right: 1px solid var(--ink-faint, var(--rule));
+  transition: color 160ms;
+}
+.site-footer-legal a:last-child {
+  border-right: 0;
+}
+.site-footer-legal a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.site-footer-legal + .site-footer-legal {
+  padding-top: 0;
+  padding-bottom: var(--s-6);
 }
 
 /* ─────────────────────────────────────────────────────────────────────────

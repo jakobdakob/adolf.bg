@@ -47,6 +47,7 @@ export async function handleCheckout(req: Request, env: Env): Promise<Response> 
       successUrl: `${env.PUBLIC_ORIGIN}/welcome?session={CHECKOUT_SESSION_ID}`,
       cancelUrl: `${env.PUBLIC_ORIGIN}/`,
       locale,
+      collectWithdrawalWaiver: true,
     }, env.STRIPE_SECRET_KEY);
     return Response.redirect(session.url, 303);
   } catch (e: unknown) {

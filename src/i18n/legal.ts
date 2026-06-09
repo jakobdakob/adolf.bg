@@ -97,9 +97,10 @@ const TERMS_BG: LegalPage = {
       ],
     },
     {
-      heading: "8. Интелектуална собственост",
+      heading: "8. Интелектуална собственост и едно активно устройство",
       paragraphs: [
         "Цялото съдържание е защитено с авторско право и се предоставя за лична, нетърговска употреба от абоната. Препродажба, споделяне на акаунт, или масово копиране са забранени и могат да доведат до прекратяване на абонамента без възстановяване.",
+        "Абонаментът е лицензиран за един активен потребител и едно устройство по едно и също време. Влизането на ново устройство автоматично прекратява сесията на предишното. Споделянето на достъп нарушава условията и води до отнемане без възстановяване на сумата.",
       ],
     },
     {
@@ -178,9 +179,10 @@ const TERMS_EN: LegalPage = {
       ],
     },
     {
-      heading: "8. Intellectual property",
+      heading: "8. Intellectual property and single active device",
       paragraphs: [
         "All content is copyrighted and licensed for personal, non-commercial use by the subscriber. Resale, account sharing, and bulk copying are prohibited and may lead to termination without refund.",
+        "Subscription is licensed for one active user and one device at a time. Signing in on a new device automatically ends the previous device's session. Sharing credentials violates these terms and results in revocation without refund.",
       ],
     },
     {

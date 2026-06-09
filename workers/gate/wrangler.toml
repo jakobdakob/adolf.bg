@@ -15,8 +15,8 @@ compatibility_flags = ["nodejs_compat"]
 # Then paste the IDs returned here.
 [[kv_namespaces]]
 binding = "ADOLF_SUBS"
-id = "TODO_RUN_WRANGLER_KV_NAMESPACE_CREATE"
-preview_id = "TODO_RUN_WRANGLER_KV_NAMESPACE_CREATE_PREVIEW"
+id = "8fdaff24f9fb41e9a0fb18a512b8c862"
+preview_id = "1853458dae7444729270abe331f30bc3"
 
 # Service binding to the Cloudflare Pages project that serves the static site.
 # Uncomment AFTER the `adolf-bg-pages` Pages project is created tonight.
@@ -38,7 +38,9 @@ ORIGIN_URL = "https://jakobdakob.github.io/adolf.bg"
 
 # Free showcase topics — `section/n` pairs, comma-separated. These pass
 # through to the origin unmodified regardless of auth state.
-SHOWCASE_PATHS = "ortho/22,trauma/1,anatomy/8,ortho/11"
+# Intuitive entry points: first topic of each section. Keep in sync with
+# src/config/showcase.ts on the Astro side.
+SHOWCASE_PATHS = "ortho/1,trauma/1,anatomy/1"
 
 # Words of prose shown to non-authed visitors on locked topics.
 WORD_PREVIEW_LIMIT = "300"

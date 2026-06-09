@@ -101,19 +101,47 @@ async function route(req: Request, env: Env): Promise<Response> {
     return fetchOrigin(req, env);
   }
 
+  // ------------------------------ Quiz JSON gating
+  // Each topic has a /quizzes/<section>-<n>.json question pool. The bundled
+  // QuizRunner fetches these client-side, so the JSON URL is the actual
+  // protected resource — gating only the /test/ HTML would still leak
+  // questions to anyone who curls the JSON directly.
+  const quizJsonMatch = path.match(/^\/quizzes\/(ortho|trauma|anatomy)-(\d+)\.json$/);
+  if (quizJsonMatch) {
+    const showcase = (env.SHOWCASE_PATHS || "").split(",").map((s) => s.trim()).filter(Boolean);
+    const key = `${quizJsonMatch[1]}/${quizJsonMatch[2]}`;
+    if (showcase.includes(key)) return fetchOrigin(req, env);
+    const auth = await checkAuth(req, env);
+    if (auth.ok) return fetchOrigin(req, env);
+    return new Response(JSON.stringify({ error: "subscription_required" }), {
+      status: 403,
+      headers: { "Content-Type": "application/json", "Cache-Control": "private, no-store" },
+    });
+  }
+  // /quizzes/all.json — the mixed Q-bank pool. Fully gated; no showcase
+  // exception (it would otherwise leak the full 7,400-question library).
+  if (path === "/quizzes/all.json") {
+    const auth = await checkAuth(req, env);
+    if (auth.ok) return fetchOrigin(req, env);
+    return new Response(JSON.stringify({ error: "subscription_required" }), {
+      status: 403,
+      headers: { "Content-Type": "application/json", "Cache-Control": "private, no-store" },
+    });
+  }
+
   // ------------------------------ Topic gating
   const topic = matchTopicPath(path);
   if (topic) {
     const showcase = (env.SHOWCASE_PATHS || "").split(",").map((s) => s.trim()).filter(Boolean);
     if (showcase.includes(topicKey(topic))) {
-      // Free showcase — pass through, full content.
+      // Free showcase — pass through, full content (incl. its /test/ page).
       return fetchOrigin(req, env);
     }
 
     // Auth check.
-    const authed = await isRequestAuthed(req, env);
-    if (authed) {
-      // Subscriber — full content, no rewrites.
+    const auth = await checkAuth(req, env);
+    if (auth.ok) {
+      // Subscriber on the active device — full content, no rewrites.
       const r = await fetchOrigin(req, env);
       // Strip caches so an attacker can't pin a cached "authed" variant.
       const h = new Headers(r.headers);
@@ -121,15 +149,45 @@ async function route(req: Request, env: Env): Promise<Response> {
       return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
     }
 
+    // Locked. If this is the /test/ sub-route (the per-topic quiz), redirect
+    // to the topic page where the prose-strip paywall renders. Stripping
+    // the test page directly is a no-op (it has no `.prose` container).
+    if (/\/test\/?$/.test(path)) {
+      const topicPath = path.replace(/\/test\/?$/, "/");
+      return Response.redirect(env.PUBLIC_ORIGIN + topicPath, 302);
+    }
+
     // Locked variant: fetch, then strip bytes server-side + inject paywall.
+    // `kicked` distinguishes "valid cookie superseded by another device"
+    // from "no cookie / never logged in" so the paywall can show a
+    // tailored message.
     const upstream = await fetchOrigin(req, env);
     if (upstream.status >= 300) return upstream; // pass through redirects/errors
     return lockHtmlResponse(upstream, {
       wordPreviewLimit: parseInt(env.WORD_PREVIEW_LIMIT, 10) || 300,
       publicOrigin: env.PUBLIC_ORIGIN,
       lang: detectLang(path),
-      showcasePath: showcase[0] ?? "ortho/22",
+      showcasePath: showcase[0] ?? "ortho/1",
+      kicked: auth.kicked,
     });
+  }
+
+  // ------------------------------ Q-bank landing page
+  // /<lang>/qbank/ and /<lang>/qbank/mixed/ are the cross-topic quiz pages.
+  // Their HTML loads /quizzes/all.json which is already gated above, so for
+  // non-authed visitors the runner will fail to fetch and show empty. For a
+  // cleaner UX, redirect non-authed to the home page where they can
+  // navigate to a showcase topic or subscribe. Authed visitors pass through.
+  const qbankMatch = path.match(/^\/(bg|en)\/qbank\b/);
+  if (qbankMatch) {
+    const auth = await checkAuth(req, env);
+    if (!auth.ok) {
+      return Response.redirect(`${env.PUBLIC_ORIGIN}/${qbankMatch[1]}/`, 302);
+    }
+    const r = await fetchOrigin(req, env);
+    const h = new Headers(r.headers);
+    h.set("Cache-Control", "private, no-store");
+    return new Response(r.body, { status: r.status, statusText: r.statusText, headers: h });
   }
 
   // ------------------------------ Everything else: pass through
@@ -139,27 +197,40 @@ async function route(req: Request, env: Env): Promise<Response> {
 // ---------------------------------------------------------------------------
 // Auth + origin helpers
 
-async function isRequestAuthed(req: Request, env: Env): Promise<boolean> {
+/** Result of auth check: either ok (active session on the active device),
+ *  or not-ok with a `kicked` flag indicating whether the cookie was valid
+ *  but the device was superseded by a newer login on another device. */
+type AuthCheck = { ok: true } | { ok: false; kicked: boolean };
+
+async function checkAuth(req: Request, env: Env): Promise<AuthCheck> {
   const cookieHeader = req.headers.get("Cookie") ?? "";
   const cookies = parseCookies(cookieHeader);
   const token = cookies[env.COOKIE_NAME];
-  if (!token) return false;
+  if (!token) return { ok: false, kicked: false };
   const claims = await verifyJwt(token, env.JWT_SECRET);
-  if (!claims) return false;
+  if (!claims) return { ok: false, kicked: false };
 
-  // Fingerprint binding: cookie is valid only on the device that minted it.
+  // Fingerprint binding: cookie is valid only on the device family that
+  // minted it (UA + Accept-Language). Mismatch = treat as no cookie.
   const ua = req.headers.get("User-Agent") ?? "";
   const al = req.headers.get("Accept-Language") ?? "";
   const fpNow = await fingerprintHash(ua, al, env.FP_SALT);
-  if (fpNow !== claims.fp) return false;
+  if (fpNow !== claims.fp) return { ok: false, kicked: false };
 
-  // Defense in depth: re-check KV. Cookie exp is capped at the period end
+  // Defense in depth: re-check KV. Cookie exp is capped at period end
   // already, but a webhook may have downgraded status to canceled/past_due
   // earlier than expected.
   const rec = await getSubByEmailHash(env, claims.sub);
-  if (!isActive(rec)) return false;
+  if (!isActive(rec)) return { ok: false, kicked: false };
 
-  return true;
+  // Single-device enforcement. The cookie's jti must equal the active
+  // device id stored in KV. If they differ, the user logged in elsewhere
+  // and this device's session was silently superseded. Surface that to
+  // the renderer so the paywall can show a tailored message.
+  if (rec!.active_device_jti !== claims.jti) {
+    return { ok: false, kicked: true };
+  }
+  return { ok: true };
 }
 
 function parseCookies(header: string): Record<string, string> {

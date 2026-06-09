@@ -21,6 +21,11 @@ interface Strings {
   termsLink: string;
   refundLink: string;
   privacyLink: string;
+  /** Kicked-out variant copy — shown when the cookie's jti has been
+   *  superseded by a login on another device. */
+  kickedHeading: string;
+  kickedLede: string;
+  kickedCta: string;
 }
 
 const BG: Strings = {
@@ -44,6 +49,9 @@ const BG: Strings = {
   termsLink: "Общи условия",
   refundLink: "Право на отказ",
   privacyLink: "Поверителност",
+  kickedHeading: "Излязохте от това устройство",
+  kickedLede: "Излязохте от това устройство, защото влязохте от друго. Поискайте нов вход тук.",
+  kickedCta: "Нов вход с email",
 };
 
 const EN: Strings = {
@@ -67,6 +75,9 @@ const EN: Strings = {
   termsLink: "Terms",
   refundLink: "Refunds",
   privacyLink: "Privacy",
+  kickedHeading: "You've been signed out of this device",
+  kickedLede: "You've been signed out because you signed in on another device. Get a new sign-in link here.",
+  kickedCta: "Send me a new sign-in link",
 };
 
 function escapeHtml(s: string): string {
@@ -78,47 +89,11 @@ function escapeHtml(s: string): string {
     .replace(/'/g, "&#39;");
 }
 
-export function paywallCard(cfg: GateConfig): string {
-  const s = cfg.lang === "en" ? EN : BG;
-  const langPrefix = cfg.lang === "en" ? "/en" : "/bg";
-
-  return `
-<aside class="adolf-paywall" data-pw-server-locked="1" aria-labelledby="adolf-pw-heading">
-  <div class="adolf-paywall-card">
-    <h2 id="adolf-pw-heading" class="adolf-pw-heading">${escapeHtml(s.heading)}</h2>
-    <p class="adolf-pw-lede">${escapeHtml(s.lede)}</p>
-    <div class="adolf-pw-plans">
-      <a class="adolf-pw-plan" href="/checkout?plan=3">
-        <div class="adolf-pw-plan-title">${escapeHtml(s.plan3Title)}</div>
-        <div class="adolf-pw-plan-price">${escapeHtml(s.plan3Price)}</div>
-        <div class="adolf-pw-plan-note">${escapeHtml(s.plan3Note)}</div>
-      </a>
-      <a class="adolf-pw-plan is-recommended" href="/checkout?plan=6">
-        <div class="adolf-pw-plan-title">${escapeHtml(s.plan6Title)}</div>
-        <div class="adolf-pw-plan-price">${escapeHtml(s.plan6Price)}</div>
-        <div class="adolf-pw-plan-note">${escapeHtml(s.plan6Note)}</div>
-      </a>
-      <a class="adolf-pw-plan" href="/checkout?plan=12">
-        <div class="adolf-pw-plan-title">${escapeHtml(s.plan12Title)}</div>
-        <div class="adolf-pw-plan-price">${escapeHtml(s.plan12Price)}</div>
-        <div class="adolf-pw-plan-note">${escapeHtml(s.plan12Note)}</div>
-      </a>
-    </div>
-    <p class="adolf-pw-login">
-      ${escapeHtml(s.alreadySub)} <a href="/login">${escapeHtml(s.loginCta)}</a>
-    </p>
-    <p class="adolf-pw-preview">
-      ${escapeHtml(s.preview)} <a href="${langPrefix}/${cfg.showcasePath}/">${escapeHtml(s.previewCta)}</a>
-    </p>
-    <p class="adolf-pw-legal">
-      ${escapeHtml(s.legalNote)}<br>
-      <a href="${langPrefix}/legal/terms/">${escapeHtml(s.termsLink)}</a>
-      · <a href="${langPrefix}/legal/refund/">${escapeHtml(s.refundLink)}</a>
-      · <a href="${langPrefix}/legal/privacy/">${escapeHtml(s.privacyLink)}</a>
-    </p>
-  </div>
-</aside>
-<style>
+// Single CSS block shared by both the regular and the "kicked" variants.
+// Variables (--bg, --rule, --accent, --ink-soft) are inherited from the
+// site's stylesheet; fallbacks kept so the card is functional even on
+// pages that don't load global CSS.
+const SHARED_CSS = `<style>
 .adolf-paywall {
   margin: 2.5rem 0 1rem;
   padding: 0;
@@ -199,6 +174,24 @@ export function paywallCard(cfg: GateConfig): string {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+.adolf-pw-kicked-cta {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.05rem;
+}
+.adolf-pw-kicked-link {
+  display: inline-block;
+  padding: 0.7rem 1.25rem;
+  border: 1.5px solid var(--accent, #b58a3a);
+  border-radius: 999px;
+  color: var(--accent, #b58a3a) !important;
+  text-decoration: none !important;
+  font-weight: 600;
+  transition: background 160ms, color 160ms;
+}
+.adolf-pw-kicked-link:hover {
+  background: var(--accent, #b58a3a);
+  color: var(--bg, #fff) !important;
+}
 .adolf-pw-legal {
   margin: 1.25rem auto 0;
   max-width: 42ch;
@@ -210,6 +203,70 @@ export function paywallCard(cfg: GateConfig): string {
   color: inherit;
   text-decoration: underline;
 }
-</style>
+</style>`;
+
+export function paywallCard(cfg: GateConfig): string {
+  const s = cfg.lang === "en" ? EN : BG;
+  const langPrefix = cfg.lang === "en" ? "/en" : "/bg";
+
+  // Kicked-out variant — the user had a valid cookie but their session
+  // was superseded by another device. Don't show subscribe tiles; show
+  // the kicked message + a single "get a new sign-in link" CTA.
+  if (cfg.kicked) {
+    return `
+<aside class="adolf-paywall adolf-paywall-kicked" data-pw-server-locked="1" data-pw-reason="kicked" aria-labelledby="adolf-pw-heading">
+  <div class="adolf-paywall-card">
+    <h2 id="adolf-pw-heading" class="adolf-pw-heading">${escapeHtml(s.kickedHeading)}</h2>
+    <p class="adolf-pw-lede">${escapeHtml(s.kickedLede)}</p>
+    <p class="adolf-pw-login adolf-pw-kicked-cta">
+      <a class="adolf-pw-kicked-link" href="/login?lang=${cfg.lang}">${escapeHtml(s.kickedCta)} →</a>
+    </p>
+    <p class="adolf-pw-legal">
+      <a href="${langPrefix}/legal/terms/">${escapeHtml(s.termsLink)}</a>
+      · <a href="${langPrefix}/legal/refund/">${escapeHtml(s.refundLink)}</a>
+      · <a href="${langPrefix}/legal/privacy/">${escapeHtml(s.privacyLink)}</a>
+    </p>
+  </div>
+</aside>
+${SHARED_CSS}`.trim();
+  }
+
+  return `
+<aside class="adolf-paywall" data-pw-server-locked="1" aria-labelledby="adolf-pw-heading">
+  <div class="adolf-paywall-card">
+    <h2 id="adolf-pw-heading" class="adolf-pw-heading">${escapeHtml(s.heading)}</h2>
+    <p class="adolf-pw-lede">${escapeHtml(s.lede)}</p>
+    <div class="adolf-pw-plans">
+      <a class="adolf-pw-plan" href="/checkout?plan=3">
+        <div class="adolf-pw-plan-title">${escapeHtml(s.plan3Title)}</div>
+        <div class="adolf-pw-plan-price">${escapeHtml(s.plan3Price)}</div>
+        <div class="adolf-pw-plan-note">${escapeHtml(s.plan3Note)}</div>
+      </a>
+      <a class="adolf-pw-plan is-recommended" href="/checkout?plan=6">
+        <div class="adolf-pw-plan-title">${escapeHtml(s.plan6Title)}</div>
+        <div class="adolf-pw-plan-price">${escapeHtml(s.plan6Price)}</div>
+        <div class="adolf-pw-plan-note">${escapeHtml(s.plan6Note)}</div>
+      </a>
+      <a class="adolf-pw-plan" href="/checkout?plan=12">
+        <div class="adolf-pw-plan-title">${escapeHtml(s.plan12Title)}</div>
+        <div class="adolf-pw-plan-price">${escapeHtml(s.plan12Price)}</div>
+        <div class="adolf-pw-plan-note">${escapeHtml(s.plan12Note)}</div>
+      </a>
+    </div>
+    <p class="adolf-pw-login">
+      ${escapeHtml(s.alreadySub)} <a href="/login">${escapeHtml(s.loginCta)}</a>
+    </p>
+    <p class="adolf-pw-preview">
+      ${escapeHtml(s.preview)} <a href="${langPrefix}/${cfg.showcasePath}/">${escapeHtml(s.previewCta)}</a>
+    </p>
+    <p class="adolf-pw-legal">
+      ${escapeHtml(s.legalNote)}<br>
+      <a href="${langPrefix}/legal/terms/">${escapeHtml(s.termsLink)}</a>
+      · <a href="${langPrefix}/legal/refund/">${escapeHtml(s.refundLink)}</a>
+      · <a href="${langPrefix}/legal/privacy/">${escapeHtml(s.privacyLink)}</a>
+    </p>
+  </div>
+</aside>
+${SHARED_CSS}
 `.trim();
 }

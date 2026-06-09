@@ -155,7 +155,17 @@ export interface JwtClaims {
   sub: string;     // email_hash
   iat: number;     // issued at (unix seconds)
   exp: number;     // expires at (unix seconds)
-  fp: string;      // fingerprint hash
+  fp: string;      // fingerprint hash (UA + Accept-Language)
+  jti: string;     // unique session id — must match KV.active_device_jti
+                   // for the request to be authenticated (single-device).
+}
+
+/** Random 128-bit hex string. Used as JWT `jti` and to identify the device
+ *  that currently holds the single active session. */
+export function genJti(): string {
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+  return bytesToHex(bytes);
 }
 
 export async function signJwt(claims: JwtClaims, secret: string): Promise<string> {
@@ -188,7 +198,7 @@ export async function verifyJwt(token: string, secret: string): Promise<JwtClaim
     return null;
   }
   if (typeof claims.exp !== "number" || claims.exp < Math.floor(Date.now() / 1000)) return null;
-  if (typeof claims.sub !== "string" || typeof claims.fp !== "string") return null;
+  if (typeof claims.sub !== "string" || typeof claims.fp !== "string" || typeof claims.jti !== "string") return null;
   return claims;
 }
 

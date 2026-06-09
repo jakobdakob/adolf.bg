@@ -26,6 +26,12 @@ export async function handlePortal(req: Request, env: Env): Promise<Response> {
   if (!rec || !rec.stripe_customer_id) {
     return new Response("No subscription on record.", { status: 404 });
   }
+
+  // Single-device enforcement: portal requires an active session, not a
+  // kicked one.
+  if (rec.active_device_jti !== claims.jti) {
+    return Response.redirect(`${env.PUBLIC_ORIGIN}/login?lang=${lang}`, 302);
+  }
   try {
     const session = await createPortalSession({
       customerId: rec.stripe_customer_id,

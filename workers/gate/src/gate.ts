@@ -13,6 +13,10 @@ export interface GateConfig {
   lang: "bg" | "en";
   /** Where the "Try a free preview" CTA links to. */
   showcasePath: string;
+  /** True when the visitor had a valid cookie that was superseded by a
+   *  newer login on another device. Changes the paywall card to a
+   *  "kicked" message + login link instead of subscribe options. */
+  kicked: boolean;
 }
 
 // ---------------------------------------------------------------------------

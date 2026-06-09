@@ -21,6 +21,18 @@ export interface SubRecord {
   status: string;
   /** Optional ISO timestamp for last update — debugging only. */
   updated_at_iso: string;
+
+  // ----- Single-device enforcement -----
+  /** Fingerprint hash (UA + Accept-Language) of the device that currently
+   *  holds the active session. Null/undefined = no active session yet. */
+  active_device_fp?: string | null;
+  /** JWT jti of the active session. The gate matches the cookie's jti
+   *  claim against this; mismatch = the session was superseded by a
+   *  newer login on another device. */
+  active_device_jti?: string | null;
+  /** ISO timestamp when the active session last hit the gate. Updated on
+   *  /auth (login) but NOT on every request, to keep KV writes cheap. */
+  active_device_last_seen?: string;
 }
 
 export async function getSubByEmail(
@@ -69,4 +81,29 @@ export function isActive(rec: SubRecord | null): boolean {
   const t = Date.parse(rec.current_period_end_iso);
   if (!Number.isFinite(t)) return false;
   return t > Date.now();
+}
+
+/** Set the active device fields on a sub record. Overwrites any previous
+ *  active device — the previous device's cookie is now stale (its jti no
+ *  longer matches) and silently treated as locked. */
+export async function setActiveDevice(
+  env: { ADOLF_SUBS: KVNamespace; EMAIL_SALT: string },
+  email: string,
+  fp: string,
+  jti: string,
+): Promise<void> {
+  const rec = await getSubByEmail(env, email);
+  if (!rec) return; // no sub → /auth wouldn't have unlocked anyway
+  rec.active_device_fp = fp;
+  rec.active_device_jti = jti;
+  rec.active_device_last_seen = new Date().toISOString();
+  await putSubByEmail(env, email, rec);
+}
+
+/** True iff the cookie's `jti` claim matches what KV says is the currently
+ *  active session. Used by the gate to enforce single-device. */
+export function deviceMatchesActive(rec: SubRecord | null, jti: string): boolean {
+  if (!rec) return false;
+  if (!rec.active_device_jti) return false; // no active device yet → not a valid session
+  return rec.active_device_jti === jti;
 }

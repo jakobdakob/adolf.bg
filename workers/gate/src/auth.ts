@@ -16,11 +16,35 @@ import {
   verifyMagicToken,
   fingerprintHash,
   sha256Hex,
+  genJti,
 } from "./crypto";
-import { getSubByEmail, isActive } from "./kv";
+import { getSubByEmail, isActive, setActiveDevice } from "./kv";
 import { sendTemplate } from "./postmark";
 import { loginFormPage, checkEmailPage, welcomePage, errorPage } from "./pages";
 import type { Env } from "./index";
+
+// ---------------------------------------------------------------------------
+// Per-IP rate limit for /login.
+//
+// Goal: stop a script from using /login as an open-relay magic-link spammer
+// against arbitrary email addresses. Per-IP, not per-email — with
+// single-device enforcement there is no sharing-advantage gained by
+// flooding magic links, so per-email limits would only hurt legitimate
+// users (cleared cookies, switched browsers, lost phone).
+//
+// 30 requests per IP per rolling minute. Real users never approach this.
+async function checkLoginRateLimit(req: Request, env: Env): Promise<boolean> {
+  const ip = req.headers.get("CF-Connecting-IP") ?? "unknown";
+  const bucket = Math.floor(Date.now() / 60000);
+  const key = `rl:login:${ip}:${bucket}`;
+  const cur = parseInt((await env.ADOLF_SUBS.get(key)) ?? "0", 10);
+  if (cur >= 30) return false;
+  // expirationTtl 70s so the bucket disappears shortly after the minute
+  // ends. KV is eventually consistent; bursts can slip through. That's OK
+  // here — the threshold is a DoS safeguard, not a security boundary.
+  await env.ADOLF_SUBS.put(key, String(cur + 1), { expirationTtl: 70 });
+  return true;
+}
 
 // ---------------------------------------------------------------------------
 // /login
@@ -57,6 +81,13 @@ export async function handleLogin(req: Request, env: Env): Promise<Response> {
   }
 
   const normalized = email.trim().toLowerCase();
+
+  // Per-IP rate limit. If exceeded, silently return the same check-email
+  // page so we don't leak the rate limit to spammers.
+  if (!(await checkLoginRateLimit(req, env))) {
+    return htmlResponse(checkEmailPage(lang), 200);
+  }
+
   // We send the magic link regardless of whether the account exists —
   // the link only unlocks if the email is associated with an active sub.
   // (Sending to addresses that don't have a sub is fine: the click leads
@@ -118,7 +149,13 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
   const fp = await fingerprintHash(ua, al, env.FP_SALT);
   const emailHash = await sha256Hex(claims.email + "::" + env.EMAIL_SALT);
 
-  const jwt = await signJwt({ sub: emailHash, iat: now, exp, fp }, env.JWT_SECRET);
+  // Single-device enforcement: generate a fresh jti and overwrite the
+  // active device record in KV. Any previously-issued cookie for this
+  // email now has a stale jti; the gate treats it as kicked.
+  const jti = genJti();
+  await setActiveDevice(env, claims.email, fp, jti);
+
+  const jwt = await signJwt({ sub: emailHash, iat: now, exp, fp, jti }, env.JWT_SECRET);
 
   const headers = new Headers();
   headers.set("Location", `${env.PUBLIC_ORIGIN}/${lang}/`);

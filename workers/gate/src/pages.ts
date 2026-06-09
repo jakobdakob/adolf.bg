@@ -44,12 +44,15 @@ const COMMON_HEAD = `
       border: 0; background: var(--ink); color: var(--bg); cursor: pointer;
     }
     .muted { font-size: 0.85rem; color: var(--ink-soft); }
+    .single-device-note { margin: -0.25rem 0 0.25rem; line-height: 1.4; }
     .home-link { display: inline-block; margin-top: 1.25rem; }
   </style>
 `;
 
 interface S {
   loginTitle: string; loginLede: string; emailLabel: string; submit: string;
+  /** Note about single-device enforcement shown under the login input. */
+  singleDeviceNote: string;
   checkTitle: string; checkLede: string;
   welcomeTitle: string; welcomeLede: string; toLogin: string;
   errMissing: string; errInvalid: string; backHome: string;
@@ -60,6 +63,7 @@ const BG: S = {
   loginLede: "Въведете email-а на вашия абонамент. Ще получите връзка за достъп.",
   emailLabel: "Email",
   submit: "Изпрати връзката",
+  singleDeviceNote: "Един активен достъп на абонамент. Вход тук ще излезе от другите ви устройства.",
   checkTitle: "Проверете пощата",
   checkLede: "Изпратихме връзка за достъп, ако имате активен абонамент с този email. Връзката изтича след 15 минути.",
   welcomeTitle: "Благодарим!",
@@ -75,6 +79,7 @@ const EN: S = {
   loginLede: "Enter the email on your subscription. We'll send you an access link.",
   emailLabel: "Email",
   submit: "Send link",
+  singleDeviceNote: "One active session per subscription. Signing in here will sign out your other devices.",
   checkTitle: "Check your email",
   checkLede: "If you have an active subscription with this email, we've sent a link. It expires in 15 minutes.",
   welcomeTitle: "Thanks!",
@@ -107,6 +112,7 @@ export function loginFormPage(lang: "bg" | "en"): string {
       <form method="POST" action="/login?lang=${lang}">
         <label for="email">${escapeHtml(s.emailLabel)}</label>
         <input id="email" name="email" type="email" required autocomplete="email" autofocus>
+        <p class="muted single-device-note">${escapeHtml(s.singleDeviceNote)}</p>
         <button type="submit">${escapeHtml(s.submit)}</button>
       </form>
     </div>

@@ -70,9 +70,15 @@ npm run dev   # local Worker against the live origin
 ## Cookie + JWT
 
 - `adolf_auth=<HS256 JWT>; Domain=.adolf.bg; Path=/; HttpOnly; Secure; SameSite=Lax`
-- Claims: `sub` (email hash), `iat`, `exp` (capped at subscription period end), `fp` (UA + Accept-Language fingerprint).
+- Claims: `sub` (email hash), `iat`, `exp` (capped at subscription period end), `fp` (UA + Accept-Language fingerprint), `jti` (session id matched against KV).
 - Cookie expiry caps at subscription period end so cancelled subscriptions stop unlocking at period end.
-- Fingerprint mismatch → cookie ignored. Mitigates trivial cross-device cookie sharing; doesn't prevent a determined sharer with the same browser-family signature.
+- **Fingerprint binding (`fp`)**: cookies presented from a different UA family / Accept-Language are silently ignored.
+- **Single-device enforcement (`jti`)**: KV record carries `active_device_jti`. The gate accepts a cookie only when `claim.jti === rec.active_device_jti`. Each `/auth` (magic-link consumption) generates a fresh jti and overwrites the KV record — so a second device logging in silently invalidates the previously active device. The kicked device sees a tailored "you've been signed out because you signed in on another device" paywall variant on its next gated request. Concurrent sessions are effectively capped at one per subscription; the legitimate subscriber can always reclaim by signing in again.
+
+## Rate limits
+
+- `/login` POST: **per-IP, 30 req/rolling minute** (KV-tracked). Returns the same generic "check your email" page when over the cap. Prevents `/login` from being abused as an open-relay magic-link spammer against arbitrary inboxes.
+- No per-email rate limit. With single-device enforcement in place, flooding magic links offers no sharing advantage; a per-email limit would only hurt legitimate users (cleared cookies, switched browsers, lost phone).
 
 ## Webhook events handled
 

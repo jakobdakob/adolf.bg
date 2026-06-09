@@ -3,11 +3,15 @@ main = "src/index.ts"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
 
-# Route Worker on adolf.bg traffic.
-# Uncomment AFTER DNS migration to Cloudflare is complete.
-# [[routes]]
-# pattern = "adolf.bg/*"
-# zone_name = "adolf.bg"
+# Route Worker on adolf.bg traffic. Active as soon as the CF zone status
+# transitions from `pending` to `active` (i.e. nameserver propagation
+# completes). Until then the route is registered but receives no traffic.
+[[routes]]
+pattern = "adolf.bg/*"
+zone_name = "adolf.bg"
+[[routes]]
+pattern = "www.adolf.bg/*"
+zone_name = "adolf.bg"
 
 # KV namespace. Create with:
 #   wrangler kv:namespace create "ADOLF_SUBS"
@@ -45,11 +49,11 @@ SHOWCASE_PATHS = "ortho/1,trauma/1,anatomy/1"
 # Words of prose shown to non-authed visitors on locked topics.
 WORD_PREVIEW_LIMIT = "300"
 
-# Stripe price IDs (recurring). Test-mode placeholders — replace with the
-# real IDs after creating products in the Stripe dashboard tonight.
-STRIPE_PRICE_3MO  = "price_TODO_TEST_3MO"
-STRIPE_PRICE_6MO  = "price_TODO_TEST_6MO"
-STRIPE_PRICE_12MO = "price_TODO_TEST_12MO"
+# Stripe price IDs (recurring, EUR, VAT-inclusive). TEST mode. Replace with
+# live IDs (and rotate STRIPE_SECRET_KEY + STRIPE_WEBHOOK_SECRET) at go-live.
+STRIPE_PRICE_3MO  = "price_1TgSHmJc1XsepFSSE76UIK5U"
+STRIPE_PRICE_6MO  = "price_1TgSHnJc1XsepFSSlZ6AIHhm"
+STRIPE_PRICE_12MO = "price_1TgSHpJc1XsepFSSTRZAq3Wv"
 
 # JWT cookie config
 COOKIE_NAME    = "adolf_auth"

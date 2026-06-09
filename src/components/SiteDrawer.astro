@@ -1,6 +1,7 @@
 ---
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, groupTopics, topicPath, type TopicEntry } from "../lib/topics";
+import { isShowcase } from "../config/showcase";
 
 type Section = "ortho" | "trauma" | "anatomy";
 
@@ -20,6 +21,14 @@ const sections: { key: Section; label: string; topics: TopicEntry[] }[] = [
   { key: "trauma",  label: t.sectionTrauma,  topics: trauma },
   { key: "anatomy", label: t.sectionAnatomy, topics: anatomy },
 ];
+
+function isLocked(e: TopicEntry, activeSlug?: string): boolean {
+  if (e.slug === activeSlug) return false;
+  if (e.data.kind !== "topic" || !e.data.section || !e.data.topicNumber) return false;
+  return !isShowcase(e.data.section, e.data.topicNumber);
+}
+
+const lockTitle = lang === "bg" ? "Платена тема" : "Premium topic";
 ---
 <div id="drawer" class="drawer" data-open="false">
   <div class="drawer-backdrop" data-drawer-close></div>
@@ -44,15 +53,26 @@ const sections: { key: Section; label: string; topics: TopicEntry[] }[] = [
         data-drawer-section={s.key}
         aria-label={s.label}
       >
-        {s.topics.map((e) => (
-          <a
-            href={topicPath(lang, e)}
-            class:list={["drawer-link", e.slug === active && "is-active"]}
-          >
-            <span class="drawer-link-num">{e.data.topicNumber}</span>
-            <span class="drawer-link-title">{e.data.title}</span>
-          </a>
-        ))}
+        {s.topics.map((e) => {
+          const locked = isLocked(e, active);
+          return (
+            <a
+              href={topicPath(lang, e)}
+              class:list={["drawer-link", e.slug === active && "is-active"]}
+            >
+              <span class="drawer-link-num">{e.data.topicNumber}</span>
+              {locked && (
+                <span class="drawer-link-lock" aria-hidden="true" title={lockTitle}>
+                  <svg viewBox="0 0 12 12" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="2.5" y="5.5" width="7" height="5" rx="0.9" />
+                    <path d="M4 5.5V3.7a2 2 0 0 1 4 0v1.8" />
+                  </svg>
+                </span>
+              )}
+              <span class="drawer-link-title">{e.data.title}</span>
+            </a>
+          );
+        })}
       </nav>
     ))}
   </aside>

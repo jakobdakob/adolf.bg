@@ -325,36 +325,36 @@ const PRIVACY_EN: LegalPage = {
 // Refund (14-day withdrawal)
 
 const REFUND_BG: LegalPage = {
-  title: "Право на отказ",
+  title: "Политика за възстановявания",
   updated: "2026-06-09",
-  intro: "Информация съгласно Директива 2011/83/ЕС за правата на потребителите.",
+  intro: "Кратко резюме: абонаментите за adolf.bg не подлежат на възстановяване. Можете да прекратите подновяванията по всяко време от профила си.",
   sections: [
     {
-      heading: "1. Право на отказ в 14-дневен срок",
+      heading: "1. Не предлагаме възстановявания",
       paragraphs: [
-        "Имате право на отказ от настоящия договор в срок от 14 дни, без да посочвате причина. Срокът тече от деня на сключване на договора.",
-        "За да упражните това право, изпратете недвусмислено заявление на имейл noreply@adolf.bg или с писмо до адреса, посочен в Импресума.",
+        "Абонаментите за adolf.bg представляват цифрово съдържание с незабавен достъп. Съгласно чл. 16, буква „м“ от Директива 2011/83/ЕС 14-дневното право на отказ отпада за такова съдържание, когато потребителят даде изрично съгласие изпълнението да започне веднага и потвърди, че губи правото на отказ.",
+        "При всяко плащане през Stripe Ви се изисква да изберете в задължителното поле „Yes — start now, waive withdrawal right“ (стойност `withdrawal_waiver = yes`). Това съгласие се записва от Stripe като доказателство.",
+        "След завършване на плащането възстановявания не са възможни.",
       ],
     },
     {
-      heading: "2. Изключение за цифрово съдържание",
+      heading: "2. Прекратяване на абонамента",
       paragraphs: [
-        "При поръчката Ви се изисква изрично съгласие изпълнението на договора да започне веднага (незабавен достъп до съдържанието) и потвърждение, че знаете, че губите правото на отказ за вече консумирано съдържание (чл. 16, буква „м“ от Директива 2011/83/ЕС).",
-        "Това означава: можете да поискате възстановяване в рамките на 14 дни за съдържание, до което НЕ сте имали достъп, но не и за материали, които вече сте прочели. Това съгласие се събира и записва от Stripe при плащането (поле „withdrawal_waiver = yes“).",
+        "Можете да прекратите бъдещите подновявания по всяко време от профила си (/portal — Stripe Customer Portal). Прекратяването спира следващата фактура — запазвате достъп до края на текущия платен период.",
+        "Не предлагаме частични възстановявания за неизползвани дни от текущия период.",
       ],
     },
     {
-      heading: "3. Последици от отказа",
+      heading: "3. Технически проблеми / грешки във фактурирането",
       paragraphs: [
-        "При отказ Ви възстановяваме всички плащания не по-късно от 14 дни след получаване на заявлението за отказ. Възстановяването се извършва по същия платежен метод, освен ако не сте се съгласили на друго; не понасяте никакви такси.",
+        "Ако сте били таксувани два пъти, имате технически проблем или друг изключителен случай, пишете на adolf@hin.ch. Преглеждаме всеки случай индивидуално и можем по преценка да върнем сумата извън общата политика.",
       ],
     },
     {
-      heading: "4. Образец на формуляр за отказ",
+      heading: "4. Образец на формуляр за отказ (формално)",
       paragraphs: [
-        "До: [името на доставчика, имейл адресът, посочени в Импресума]",
-        "С настоящото уведомявам/уведомяваме, че се отказвам/отказваме от сключения от мен/нас договор за предоставяне на услуга: абонамент за adolf.bg.",
-        "Поръчано на: ___; Получено на: ___; Име на потребителя/ите: ___; Адрес на потребителя/ите: ___; Подпис на потребителя/ите (само ако настоящият формуляр е на хартия): ___; Дата: ___.",
+        "Този образец се предоставя в съответствие с чл. 11 от Директива 2011/83/ЕС и се прилага САМО ако не сте упражнили отказа от правото на оттегляне при поръчката. На практика всеки наш абонамент изисква този отказ.",
+        "До: Якоб Адолф, ул. Панагюрище 38, София, България. С настоящото уведомявам, че се отказвам от сключения договор за абонамент за adolf.bg. Поръчано на: ___; Име: ___; Адрес: ___; Дата: ___.",
       ],
     },
   ],
@@ -363,34 +363,34 @@ const REFUND_BG: LegalPage = {
 const REFUND_EN: LegalPage = {
   title: "Refund Policy",
   updated: "2026-06-09",
-  intro: "Information pursuant to EU Directive 2011/83/EU on consumer rights.",
+  intro: "Short summary: adolf.bg subscriptions are non-refundable. You can cancel future renewals at any time from your account.",
   sections: [
     {
-      heading: "1. 14-day right of withdrawal",
+      heading: "1. No refunds",
       paragraphs: [
-        "You have the right to withdraw from this contract within 14 days without giving any reason. The period runs from the day of contract conclusion.",
-        "To exercise this right, send an unambiguous statement by email to noreply@adolf.bg or by letter to the address in the Imprint.",
+        "adolf.bg subscriptions are digital content with immediate access. Under Article 16(m) of EU Directive 2011/83/EU the 14-day right of withdrawal is waived for such content when the consumer gives explicit consent that performance begins immediately AND acknowledges that the withdrawal right is lost.",
+        "On every Stripe checkout we require you to select \"Yes — start now, waive withdrawal right\" in a mandatory field (recorded as `withdrawal_waiver = yes` on the Stripe session). This evidences your consent.",
+        "Once checkout completes, refunds are not available.",
       ],
     },
     {
-      heading: "2. Digital-content exception",
+      heading: "2. Cancellation",
       paragraphs: [
-        "At checkout you are required to give explicit consent that performance begins immediately (i.e. immediate access to the content) and to acknowledge that you lose the right to withdraw for content already consumed (Article 16(m) of Directive 2011/83/EU).",
-        "This means: you may request a refund within 14 days for content you have NOT yet accessed, but not for material you have already read. Stripe collects and records this consent at payment time (the `withdrawal_waiver = yes` field on the checkout session).",
+        "You can cancel future renewals at any time from your account (/portal — Stripe Customer Portal). Cancellation stops the next billing cycle — you keep access through the end of the current paid period.",
+        "We do not offer partial refunds for unused days of the current period.",
       ],
     },
     {
-      heading: "3. Effects of withdrawal",
+      heading: "3. Billing errors / technical issues",
       paragraphs: [
-        "On withdrawal we refund all payments within 14 days of receiving your withdrawal notice. The refund is issued via the same payment method unless you agree otherwise; no fees are charged to you.",
+        "If you were charged twice, hit a genuine technical problem, or another exceptional circumstance, write to adolf@hin.ch. We review case by case and may issue a discretionary refund outside the standard policy.",
       ],
     },
     {
-      heading: "4. Model withdrawal form",
+      heading: "4. Model withdrawal form (statutory boilerplate)",
       paragraphs: [
-        "To: [provider name, email address from the Imprint]",
-        "I/We hereby give notice that I/we withdraw from my/our contract of sale of the following service: adolf.bg subscription.",
-        "Ordered on: ___; Received on: ___; Name of consumer(s): ___; Address of consumer(s): ___; Signature of consumer(s) (only if this form is on paper): ___; Date: ___.",
+        "This form is provided pursuant to Art. 11 of Directive 2011/83/EU and applies ONLY if you did NOT waive your right of withdrawal at checkout. In practice every adolf.bg checkout requires that waiver.",
+        "To: Jakob Adolf, Panagyurishte 38, Sofia, Bulgaria. I/We hereby give notice that I/we withdraw from the contract for adolf.bg subscription. Ordered on: ___; Name: ___; Address: ___; Date: ___.",
       ],
     },
   ],

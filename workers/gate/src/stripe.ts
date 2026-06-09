@@ -71,7 +71,8 @@ export async function createCheckoutSession(
   body.set("success_url", params.successUrl);
   body.set("cancel_url", params.cancelUrl);
   body.set("automatic_tax[enabled]", "true");
-  body.set("customer_creation", "always");
+  // `customer_creation` only applies in `mode=payment`; subscription mode
+  // always creates a customer implicitly. Setting it explicitly → 400.
   body.set("locale", params.locale ?? "auto");
   // Discount codes intentionally disabled (Jakob's decision).
   body.set("allow_promotion_codes", "false");

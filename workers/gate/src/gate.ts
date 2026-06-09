@@ -111,10 +111,13 @@ function stripProse(html: string, cfg: GateConfig): string {
   }
 
   const preserved = inner.slice(0, splice);
+  // Insert a fade overlay that visually dims the last bit of preserved prose,
+  // then the paywall card. The fade is purely cosmetic — the bytes past the
+  // splice are still not present in the response.
   return (
     html.slice(0, innerStart) +
     preserved +
-    `\n${paywallCard(cfg)}\n` +
+    `\n<div class="adolf-prose-fade" aria-hidden="true"></div>\n${paywallCard(cfg)}\n` +
     html.slice(innerEnd)
   );
 }

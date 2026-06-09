@@ -3,6 +3,12 @@ main = "src/index.ts"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
 
+# Expose the Worker at adolf-gate.adolf-bg.workers.dev too — useful while
+# DNS propagation to Cloudflare is still pending. Once adolf.bg is fully
+# routed through CF, the route binding below carries traffic and this can
+# stay on or be flipped off.
+workers_dev = true
+
 # Route Worker on adolf.bg traffic. Active as soon as the CF zone status
 # transitions from `pending` to `active` (i.e. nameserver propagation
 # completes). Until then the route is registered but receives no traffic.
@@ -34,11 +40,12 @@ preview_id = "1853458dae7444729270abe331f30bc3"
 # Canonical public origin — used in absolute URLs, success/cancel URLs, etc.
 PUBLIC_ORIGIN = "https://adolf.bg"
 
-# Fallback HTTP origin used ONLY if the SITE service binding is missing.
-# Set to the `.pages.dev` URL once CF Pages is live; or to the GH Pages URL
-# while migration is pending (insecure — anyone can hit the GH Pages URL
-# directly and bypass the gate; documented in SECURITY.md).
-ORIGIN_URL = "https://jakobdakob.github.io/adolf.bg"
+# Origin URL — the Worker fetches the static site from here. CF Pages
+# project `adolf-bg` serves the build (auto-uploaded with `wrangler pages
+# deploy dist`). Doesn't 301-redirect, unlike GH Pages with the custom
+# domain, so the Worker can proxy cleanly even after adolf.bg DNS lands
+# on Cloudflare.
+ORIGIN_URL = "https://adolf-bg.pages.dev"
 
 # Free showcase topics — `section/n` pairs, comma-separated. These pass
 # through to the origin unmodified regardless of auth state.

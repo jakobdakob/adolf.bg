@@ -94,17 +94,51 @@ function escapeHtml(s: string): string {
 // site's stylesheet; fallbacks kept so the card is functional even on
 // pages that don't load global CSS.
 const SHARED_CSS = `<style>
+/* Fade overlay over the last bit of preserved prose — communicates
+ * "there's more content behind this" without re-introducing the actual
+ * stripped bytes. Height pulled UP into the preceding paragraph via
+ * negative margin so the gradient sits on top of the last line. */
+.adolf-prose-fade {
+  position: relative;
+  height: 220px;
+  margin-top: -220px;
+  margin-bottom: -40px;
+  background: linear-gradient(to bottom,
+    transparent 0%,
+    var(--bg, #FAF9F7) 78%);
+  pointer-events: none;
+  z-index: 1;
+}
+@media (prefers-color-scheme: dark) {
+  .adolf-prose-fade {
+    background: linear-gradient(to bottom,
+      transparent 0%,
+      var(--bg, #0F0F12) 78%);
+  }
+}
 .adolf-paywall {
-  margin: 2.5rem 0 1rem;
+  position: relative;
+  z-index: 2;
+  margin: 0 0 1rem;
   padding: 0;
   border: 0;
 }
 .adolf-paywall-card {
+  position: relative;
+  z-index: 2;
   border: 1px solid var(--rule, rgba(0,0,0,0.12));
   border-radius: 14px;
-  background: var(--card, #fafafa);
-  padding: 1.75rem 1.5rem;
+  background: var(--card, var(--bg, #fafafa));
+  padding: 2rem 1.5rem 1.75rem;
   text-align: center;
+  box-shadow: 0 10px 40px -10px rgba(0,0,0,0.18),
+              0 2px 8px -2px rgba(0,0,0,0.08);
+}
+@media (prefers-color-scheme: dark) {
+  .adolf-paywall-card {
+    box-shadow: 0 10px 40px -10px rgba(0,0,0,0.6),
+                0 2px 8px -2px rgba(0,0,0,0.4);
+  }
 }
 .adolf-pw-heading {
   margin: 0 0 0.5rem;
@@ -167,6 +201,7 @@ const SHARED_CSS = `<style>
   margin: 0.25rem 0;
   font-size: 0.92rem;
   color: var(--ink-soft, #555);
+  text-align: center;
 }
 .adolf-pw-login a,
 .adolf-pw-preview a {
@@ -197,11 +232,13 @@ const SHARED_CSS = `<style>
   max-width: 42ch;
   font-size: 0.75rem;
   color: var(--ink-soft, #777);
-  line-height: 1.5;
+  line-height: 1.6;
+  text-align: center;
 }
 .adolf-pw-legal a {
   color: inherit;
   text-decoration: underline;
+  white-space: nowrap;
 }
 </style>`;
 

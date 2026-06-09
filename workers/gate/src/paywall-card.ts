@@ -94,18 +94,19 @@ function escapeHtml(s: string): string {
 // site's stylesheet; fallbacks kept so the card is functional even on
 // pages that don't load global CSS.
 const SHARED_CSS = `<style>
-/* Fade overlay over the last bit of preserved prose — communicates
- * "there's more content behind this" without re-introducing the actual
- * stripped bytes. Height pulled UP into the preceding paragraph via
- * negative margin so the gradient sits on top of the last line. */
+/* Fade overlay over the last bit of preserved prose. Tall + aggressive
+ * so the bottom 60% of the visible prose dissolves into the background
+ * — gives the impression that there's more content underneath without
+ * actually shipping any of the stripped bytes. */
 .adolf-prose-fade {
   position: relative;
-  height: 220px;
-  margin-top: -220px;
-  margin-bottom: -40px;
+  height: 360px;
+  margin-top: -300px;
+  margin-bottom: -200px;
   background: linear-gradient(to bottom,
     transparent 0%,
-    var(--bg, #FAF9F7) 78%);
+    var(--bg, #FAF9F7) 55%,
+    var(--bg, #FAF9F7) 100%);
   pointer-events: none;
   z-index: 1;
 }
@@ -113,31 +114,38 @@ const SHARED_CSS = `<style>
   .adolf-prose-fade {
     background: linear-gradient(to bottom,
       transparent 0%,
-      var(--bg, #0F0F12) 78%);
+      var(--bg, #0F0F12) 55%,
+      var(--bg, #0F0F12) 100%);
   }
 }
+/* Paywall pulled UP into the fade region via negative top margin —
+ * floats VISUALLY IN FRONT of the dissolving prose. Solid card bg + a
+ * heavier shadow so it reads as a separate floating surface. */
 .adolf-paywall {
   position: relative;
-  z-index: 2;
-  margin: 0 0 1rem;
-  padding: 0;
-  border: 0;
+  z-index: 10;
+  margin: 0 auto 1rem;
+  padding: 0 0.5rem;
+  max-width: 600px;
 }
 .adolf-paywall-card {
   position: relative;
-  z-index: 2;
+  z-index: 10;
   border: 1px solid var(--rule, rgba(0,0,0,0.12));
-  border-radius: 14px;
-  background: var(--card, var(--bg, #fafafa));
+  border-radius: 16px;
+  background: var(--bg, #FAF9F7);
   padding: 2rem 1.5rem 1.75rem;
   text-align: center;
-  box-shadow: 0 10px 40px -10px rgba(0,0,0,0.18),
-              0 2px 8px -2px rgba(0,0,0,0.08);
+  box-shadow: 0 20px 50px -15px rgba(0,0,0,0.25),
+              0 8px 20px -5px rgba(0,0,0,0.10),
+              0 1px 0 rgba(255,255,255,0.6) inset;
 }
 @media (prefers-color-scheme: dark) {
   .adolf-paywall-card {
-    box-shadow: 0 10px 40px -10px rgba(0,0,0,0.6),
-                0 2px 8px -2px rgba(0,0,0,0.4);
+    background: var(--bg, #0F0F12);
+    box-shadow: 0 20px 50px -15px rgba(0,0,0,0.7),
+                0 8px 20px -5px rgba(0,0,0,0.5),
+                0 1px 0 rgba(255,255,255,0.04) inset;
   }
 }
 .adolf-pw-heading {

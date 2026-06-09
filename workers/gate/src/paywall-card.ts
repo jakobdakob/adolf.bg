@@ -116,14 +116,13 @@ const SHARED_CSS = `<style>
       var(--bg, #0F0F12) 100%);
   }
 }
-/* Paywall floats over the fade region with sticky bottom positioning
- * — so as you scroll past, the card stays anchored to the viewport
- * bottom (with a comfortable gap from the cookie banner). */
+/* Paywall sits in natural document flow, no sticky/scroll behavior.
+ * Lands roughly where the prose visually ends, in the centre of the
+ * article column. */
 .adolf-paywall {
-  position: sticky;
-  bottom: 1.5rem;
+  position: relative;
   z-index: 10;
-  margin: 0 auto 2rem;
+  margin: 2rem auto 3rem;
   padding: 0 0.5rem;
   max-width: 600px;
 }

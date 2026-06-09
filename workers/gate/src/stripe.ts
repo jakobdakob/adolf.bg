@@ -82,19 +82,13 @@ export async function createCheckoutSession(
   if (params.collectWithdrawalWaiver) {
     // Required custom field. Single-option dropdown — the buyer can't
     // proceed without selecting "Yes". Stripe records the choice on the
-    // session object (custom_fields[].dropdown.value) so we have evidence
-    // of consent for the EU withdrawal-right waiver.
+    // session object so we have evidence of consent for the EU
+    // withdrawal-right waiver. Stripe caps labels at 50 chars.
     body.set("custom_fields[0][key]", "withdrawal_waiver");
     body.set("custom_fields[0][type]", "dropdown");
     body.set("custom_fields[0][label][type]", "custom");
-    body.set(
-      "custom_fields[0][label][custom]",
-      "Start immediately + waive 14-day right of withdrawal for content you read",
-    );
-    body.set(
-      "custom_fields[0][dropdown][options][0][label]",
-      "Yes — I want immediate access and acknowledge that I lose the 14-day withdrawal right for content I have read",
-    );
+    body.set("custom_fields[0][label][custom]", "Immediate access (waive 14-day refund right)");
+    body.set("custom_fields[0][dropdown][options][0][label]", "Yes — start now, waive withdrawal right");
     body.set("custom_fields[0][dropdown][options][0][value]", "yes");
     body.set("custom_fields[0][optional]", "false");
   }

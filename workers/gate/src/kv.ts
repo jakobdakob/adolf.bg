@@ -1,6 +1,7 @@
 // KV namespace ADOLF_SUBS
 //
-// Key  : email_sha256(email + EMAIL_SALT) — hex
+// Key  : sha256_hex(lower(trim(email)) + "::" + EMAIL_SALT)
+//        (computed by emailKey() in crypto.ts — keep both in sync)
 // Value: JSON SubRecord
 //
 // Why the salted hash? KV keys are visible to anyone with the CF dashboard.

@@ -15,7 +15,7 @@ import {
   signMagicToken,
   verifyMagicToken,
   fingerprintHash,
-  sha256Hex,
+  emailKey,
   genJti,
 } from "./crypto";
 import { getSubByEmail, isActive, setActiveDevice, mergeSubByEmail } from "./kv";
@@ -163,7 +163,9 @@ export async function handleAuthExchange(req: Request, env: Env): Promise<Respon
   const ua = req.headers.get("User-Agent") ?? "";
   const al = req.headers.get("Accept-Language") ?? "";
   const fp = await fingerprintHash(ua, al, env.FP_SALT);
-  const emailHash = await sha256Hex(claims.email + "::" + env.EMAIL_SALT);
+  // Use the same emailKey() helper as kv.ts so the derivation is identical
+  // — never re-implement key derivation inline.
+  const emailHash = await emailKey(claims.email, env.EMAIL_SALT);
 
   // Single-device enforcement: generate a fresh jti and overwrite the
   // active device record in KV. Any previously-issued cookie for this

@@ -2,7 +2,6 @@
 import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
 import TopicTOC from "../components/TopicTOC.astro";
-import PaywallCard from "../components/PaywallCard.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
 
@@ -79,7 +78,6 @@ const toastText = "Stripe Checkout е в процес на интегриран�
       <div class="prose" data-topic-prose>
         <slot />
       </div>
-      <PaywallCard lang={lang} />
       {entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
         <aside class="test-yourself">
           <a

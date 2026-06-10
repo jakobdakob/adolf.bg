@@ -1,4 +1,4 @@
-name: Deploy adolf.bg to GitHub Pages
+name: Deploy adolf.bg
 
 on:
   push:
@@ -9,9 +9,10 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  deployments: write
 
 concurrency:
-  group: "pages"
+  group: "adolf-bg-deploy"
   cancel-in-progress: false
 
 jobs:
@@ -38,12 +39,19 @@ jobs:
         with:
           enablement: true
 
-      - name: Upload artifact
+      - name: Upload artifact (for GitHub Pages)
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
-  deploy:
+      - name: Upload dist (for Cloudflare Pages job)
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: ./dist
+          retention-days: 1
+
+  deploy-gh-pages:
     needs: build
     environment:
       name: github-pages
@@ -53,3 +61,20 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-cf-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download dist
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: ./dist
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ./dist --project-name=adolf-bg --branch=main --commit-hash=${{ github.sha }}

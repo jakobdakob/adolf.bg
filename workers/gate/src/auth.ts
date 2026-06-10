@@ -21,6 +21,7 @@ import {
 import { getSubByEmail, isActive, setActiveDevice, mergeSubByEmail } from "./kv";
 import { sendTemplate } from "./postmark";
 import { loginFormPage, checkEmailPage, welcomePage, errorPage } from "./pages";
+import { retrieveCheckoutSession, retrieveSubscription } from "./stripe";
 import type { Env } from "./index";
 
 // ---------------------------------------------------------------------------
@@ -234,14 +235,97 @@ function pickCookieFromHeader(header: string, name: string): string | null {
 
 // ---------------------------------------------------------------------------
 // /welcome — landing after Stripe checkout success
+//
+// Auto-login: if the URL carries a Stripe Checkout session_id, we retrieve
+// the session, verify it's paid, set up the KV record (idempotent with the
+// webhook), and issue the auth cookie immediately — so the user is unlocked
+// the second they land here, without needing to wait for the magic-link
+// email. The magic-link flow is still the path for re-login from another
+// device or after the cookie expires.
 
 export async function handleWelcome(req: Request, env: Env): Promise<Response> {
   const url = new URL(req.url);
   const lang = url.searchParams.get("lang") === "en" ? "en" : "bg";
-  // Pass the request's actual origin so the "Sign in" link on the welcome
-  // page works from whatever host completed checkout (workers.dev or
-  // adolf.bg) — env.PUBLIC_ORIGIN would always send to adolf.bg.
-  return htmlResponse(welcomePage(lang, url.origin));
+  const sessionId = url.searchParams.get("session");
+
+  // No session_id → static welcome page with manual sign-in CTA.
+  if (!sessionId) {
+    return htmlResponse(welcomePage(lang, url.origin));
+  }
+
+  let email: string | null = null;
+  let customerId: string | null = null;
+  let subscriptionId: string | null = null;
+  try {
+    const session = await retrieveCheckoutSession(sessionId, env.STRIPE_SECRET_KEY) as {
+      payment_status?: string;
+      customer_email?: string;
+      customer_details?: { email?: string };
+      customer?: string;
+      subscription?: string | { id?: string };
+    };
+    if (session && session.payment_status === "paid") {
+      email = session.customer_email
+        ?? session.customer_details?.email
+        ?? null;
+      customerId = session.customer ?? null;
+      subscriptionId = typeof session.subscription === "string"
+        ? session.subscription
+        : session.subscription?.id ?? null;
+    }
+  } catch (e: unknown) {
+    console.error("welcome: session retrieve failed:", e instanceof Error ? e.message : String(e));
+  }
+
+  // Couldn't authenticate from the session — fall back to manual flow.
+  if (!email || !customerId || !subscriptionId) {
+    return htmlResponse(welcomePage(lang, url.origin));
+  }
+
+  let periodEndIso: string | null = null;
+  try {
+    const sub = await retrieveSubscription(subscriptionId, env.STRIPE_SECRET_KEY) as {
+      current_period_end?: number;
+    };
+    if (typeof sub?.current_period_end === "number") {
+      periodEndIso = new Date(sub.current_period_end * 1000).toISOString();
+    }
+  } catch (e: unknown) {
+    console.error("welcome: sub retrieve failed:", e instanceof Error ? e.message : String(e));
+  }
+
+  if (!periodEndIso) {
+    return htmlResponse(welcomePage(lang, url.origin));
+  }
+
+  // Upsert KV (idempotent with webhook). Single-device enforcement: issuing
+  // a cookie here generates a fresh jti that overwrites any prior active
+  // device for this email.
+  const normalized = email.trim().toLowerCase();
+  const ua = req.headers.get("User-Agent") ?? "";
+  const al = req.headers.get("Accept-Language") ?? "";
+  const fp = await fingerprintHash(ua, al, env.FP_SALT);
+  const jti = genJti();
+
+  await mergeSubByEmail(env, normalized, {
+    stripe_customer_id: customerId,
+    current_period_end_iso: periodEndIso,
+  });
+  await setActiveDevice(env, normalized, fp, jti);
+
+  // Issue cookie. Cap at the subscription period end (with 30-day max).
+  const periodEnd = Math.floor(Date.parse(periodEndIso) / 1000);
+  const now = Math.floor(Date.now() / 1000);
+  const exp = Math.min(periodEnd, now + 60 * 60 * 24 * 30);
+  const emailHash = await emailKey(normalized, env.EMAIL_SALT);
+  const jwt = await signJwt({ sub: emailHash, iat: now, exp, fp, jti }, env.JWT_SECRET);
+
+  // Redirect to the language home so the user immediately sees they're
+  // unlocked. Set-Cookie carries the new auth cookie.
+  const headers = new Headers();
+  headers.set("Location", `${url.origin}/${lang}/`);
+  headers.append("Set-Cookie", buildCookie(env, jwt, exp - now, url.hostname));
+  return new Response(null, { status: 302, headers });
 }
 
 // ---------------------------------------------------------------------------

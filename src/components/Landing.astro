@@ -44,26 +44,20 @@ const viberChat = "viber://chat?number=%2B41768150804";
       { id: "trauma",  label: t.sectionTrauma,  topics: trauma },
       { id: "anatomy", label: t.sectionAnatomy, topics: anatomy },
     ] as const).map((group) => {
-      const half = Math.ceil(group.topics.length / 2);
-      const left = group.topics.slice(0, half);
-      const right = group.topics.slice(half);
+      const rows = Math.ceil(group.topics.length / 2);
       return (
         <div id={group.id} class="toc-group reveal">
           <div class="toc-group-label">{group.label}</div>
-          <div class="toc-cols">
-            {[left, right].map((col, i) => (
-              <ol class="toc-list" start={i === 0 ? 1 : half + 1}>
-                {col.map((e) => (
-                  <li>
-                    <a href={topicPath(lang, e)}>
-                      <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
-                      <span class="toc-title">{e.data.title}</span>
-                    </a>
-                  </li>
-                ))}
-              </ol>
+          <ol class="toc-grid" style={`--rows: ${rows}`}>
+            {group.topics.map((e) => (
+              <li>
+                <a href={topicPath(lang, e)}>
+                  <span class="toc-num">{String(e.data.topicNumber).padStart(2, "0")}</span>
+                  <span class="toc-title">{e.data.title}</span>
+                </a>
+              </li>
             ))}
-          </div>
+          </ol>
         </div>
       );
     })}
@@ -147,46 +141,48 @@ const viberChat = "viber://chat?number=%2B41768150804";
     color: var(--accent);
     margin-bottom: var(--s-4);
   }
-  .toc-cols {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0;
-  }
-  @media (min-width: 760px) {
-    .toc-cols {
-      grid-template-columns: 1fr 1fr;
-      column-gap: var(--s-7);
-    }
-  }
-  .toc-list {
+  .toc-grid {
     list-style: none;
     margin: 0;
     padding: 0;
     border-top: 1px solid var(--rule);
   }
-  .toc-list li {
+  .toc-grid > li {
     border-bottom: 1px solid var(--rule);
   }
-  /* When the two columns stack on mobile, suppress the second list's
-   * border-top so it doesn't double-up with the previous list's last
-   * row border-bottom (visible as a thicker divider). Also drop the
-   * very last row's border so the list flows cleanly into the footer. */
+  @media (min-width: 760px) {
+    /* Desktop: place all items in one CSS grid so corresponding rows
+     * across the two columns share a row track. That makes every row's
+     * height equal to the tallest item in that row — i.e. all rows
+     * align bündig. `auto-flow: column` fills col 1 top-to-bottom first,
+     * then col 2. */
+    .toc-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: repeat(var(--rows, 15), auto);
+      grid-auto-flow: column;
+      column-gap: var(--s-7);
+    }
+  }
+  /* Mobile: single column. Drop the last row's bottom border so the
+   * list flows cleanly into the footer. */
   @media (max-width: 759px) {
-    .toc-cols > .toc-list + .toc-list { border-top: 0; }
-    .toc-group:last-child .toc-list:last-child > li:last-child {
+    .toc-group:last-child .toc-grid > li:last-child {
       border-bottom: 0;
     }
     .toc { padding-bottom: 0; }
   }
-  .toc-list a {
+  .toc-grid > li > a {
     display: grid;
     grid-template-columns: 3.2rem 1fr;
     gap: var(--s-3);
     padding: 0.95rem 0;
+    height: 100%;
+    align-content: start;
     color: var(--ink);
     transition: color 160ms var(--ease), transform 220ms var(--ease);
   }
-  .toc-list a:hover {
+  .toc-grid > li > a:hover {
     color: var(--accent);
     transform: translateX(var(--s-2));
   }
@@ -196,6 +192,6 @@ const viberChat = "viber://chat?number=%2B41768150804";
     color: var(--ink-faint);
     padding-top: 0.1rem;
   }
-  .toc-list a:hover .toc-num { color: var(--accent); }
+  .toc-grid > li > a:hover .toc-num { color: var(--accent); }
   .toc-title { font-size: 1rem; line-height: 1.5; }
 </style>

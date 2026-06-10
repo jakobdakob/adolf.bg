@@ -22,22 +22,9 @@ const heroSubtitle = lang === "bg"
   ? "Свързан учебен текст по 74 теми, обхващащ ортопедията, травматологията и хирургичната анатомия — синтезиран от 14 справочни издания за подготовка за държавния изпит."
   : "A connected exam-prep text across 74 topics covering orthopedics, traumatology, and surgical anatomy — synthesised from 14 reference textbooks for the Bulgarian state board.";
 
-const ctaOrtho    = lang === "bg" ? "Ортопедия"    : "Orthopedics";
-const ctaTrauma   = lang === "bg" ? "Травматология" : "Traumatology";
-const ctaAnatomy  = lang === "bg" ? "Анатомия"      : "Anatomy";
 const ctaFeedback = lang === "bg" ? "Обратна връзка?"   : "Feedback?";
 
-const ctaOrthoDesc   = lang === "bg" ? `${ortho.length} теми` : `${ortho.length} topics`;
-const ctaTraumaDesc  = lang === "bg" ? `${trauma.length} теми` : `${trauma.length} topics`;
-const ctaAnatomyDesc = lang === "bg" ? `${anatomy.length} теми` : `${anatomy.length} topics`;
-
 const viberChat = "viber://chat?number=%2B41768150804";
-
-const contentsLabel = lang === "bg" ? "Съдържание" : "Contents";
-const contentsTitle = lang === "bg" ? "Темите." : "The topics.";
-const contentsLede = lang === "bg"
-  ? "Тридесет теми по ортопедия, тридесет и две по травматология, дванадесет по хирургична анатомия. Кликни произволна, за да започнеш."
-  : "Thirty topics in orthopedics, thirty-two in traumatology, twelve in surgical anatomy. Click any to begin.";
 ---
 <BaseLayout lang={lang} otherPath={otherPath}>
   <section class="hero">
@@ -45,23 +32,6 @@ const contentsLede = lang === "bg"
       <span class="eyebrow">{heroEyebrow}</span>
       <h1 class="hero-display">{heroTitle}</h1>
       <p class="hero-subtitle">{heroSubtitle}</p>
-      <div class="hero-cards">
-        <a href="#ortho" class="hero-card">
-          <div class="hero-card-num">01</div>
-          <div class="hero-card-title">{ctaOrtho}</div>
-          <div class="hero-card-meta">{ctaOrthoDesc}</div>
-        </a>
-        <a href="#trauma" class="hero-card">
-          <div class="hero-card-num">02</div>
-          <div class="hero-card-title">{ctaTrauma}</div>
-          <div class="hero-card-meta">{ctaTraumaDesc}</div>
-        </a>
-        <a href="#anatomy" class="hero-card">
-          <div class="hero-card-num">03</div>
-          <div class="hero-card-title">{ctaAnatomy}</div>
-          <div class="hero-card-meta">{ctaAnatomyDesc}</div>
-        </a>
-      </div>
       <div class="hero-feedback">
         <a href={viberChat} class="btn btn-viber" rel="external">{ctaFeedback}</a>
       </div>
@@ -69,12 +39,6 @@ const contentsLede = lang === "bg"
   </section>
 
   <section id="contents" class="toc">
-    <div class="toc-head reveal">
-      <span class="eyebrow">{contentsLabel}</span>
-      <h2 class="section-title">{contentsTitle}</h2>
-      <p class="section-lede">{contentsLede}</p>
-    </div>
-
     {([
       { id: "ortho",   label: t.sectionOrtho,   topics: ortho },
       { id: "trauma",  label: t.sectionTrauma,  topics: trauma },
@@ -170,11 +134,11 @@ const contentsLede = lang === "bg"
     margin: 0 auto;
     padding-left: var(--page-pad);
     padding-right: var(--page-pad);
-    padding-top: var(--s-9);
-    padding-bottom: var(--s-10);
+    padding-top: var(--s-6);
+    padding-bottom: var(--s-7);
   }
-  .toc-head { margin-bottom: var(--s-8); max-width: 720px; }
-  .toc-group { margin-bottom: var(--s-8); }
+  .toc-group { margin-bottom: var(--s-6); }
+  .toc-group:last-child { margin-bottom: 0; }
   .toc-group-label {
     font-size: var(--fs-eyebrow);
     font-weight: 600;
@@ -202,6 +166,12 @@ const contentsLede = lang === "bg"
   }
   .toc-list li {
     border-bottom: 1px solid var(--rule);
+  }
+  /* When the two columns stack on mobile, suppress the second list's
+   * border-top so it doesn't double-up with the previous list's last
+   * row border-bottom (visible as a thicker divider). */
+  @media (max-width: 759px) {
+    .toc-cols > .toc-list + .toc-list { border-top: 0; }
   }
   .toc-list a {
     display: grid;

@@ -169,9 +169,14 @@ const viberChat = "viber://chat?number=%2B41768150804";
   }
   /* When the two columns stack on mobile, suppress the second list's
    * border-top so it doesn't double-up with the previous list's last
-   * row border-bottom (visible as a thicker divider). */
+   * row border-bottom (visible as a thicker divider). Also drop the
+   * very last row's border so the list flows cleanly into the footer. */
   @media (max-width: 759px) {
     .toc-cols > .toc-list + .toc-list { border-top: 0; }
+    .toc-group:last-child .toc-list:last-child > li:last-child {
+      border-bottom: 0;
+    }
+    .toc { padding-bottom: 0; }
   }
   .toc-list a {
     display: grid;

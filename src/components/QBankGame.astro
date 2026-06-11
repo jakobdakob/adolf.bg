@@ -47,6 +47,13 @@ const t = lang === "bg"
       extraLife: "+ЖИВОТ",
       vs: "СРЕЩУ",
       timeUp: "ВРЕМЕТО ИЗТЕЧЕ",
+      streak: "СЕРИЯ",
+      multiplier: "x",
+      bossIncoming: "БОС!",
+      doubleDamage: "-2 ЖИВОТА",
+      worstTopics: "Най-слаби теми",
+      wrongOf: "грешни от",
+      practiceLink: "практикувай →",
     }
   : {
       title:  "ORTHOPAEDIC KOMBAT",
@@ -83,21 +90,45 @@ const t = lang === "bg"
       extraLife: "+LIFE",
       vs: "VS",
       timeUp: "TIME UP",
+      streak: "STREAK",
+      multiplier: "x",
+      bossIncoming: "BOSS!",
+      doubleDamage: "-2 LIVES",
+      worstTopics: "Weakest topics",
+      wrongOf: "wrong out of",
+      practiceLink: "practice →",
     };
 
 // Germ roster — same in both languages (Latin names).
-// hp: how many right answers it takes to defeat them.
+//
+//   hp:       how many right answers it takes to defeat them
+//   boss:     spawned every 5 rounds; +50% HP, wrong answer costs 2 lives
+//   topicPat: regex source string matched (case-insensitively) against topic
+//             titles in BG and EN. Questions from matching topics form this
+//             germ's draw pool. If <40 questions match, the game falls back to
+//             the full pool so the player never starves. Patterns are kept as
+//             strings (not RegExp objects) so they survive JSON serialisation.
 const germs = [
-  { name: "STAPH AUREUS",      hp: 4, color: "#E76F51", icon: "🦠" },
-  { name: "M. R. S. A.",       hp: 6, color: "#E63946", icon: "💀" },
-  { name: "STREP PYOGENES",    hp: 4, color: "#F4A261", icon: "🟠" },
-  { name: "E. COLI",           hp: 4, color: "#52B788", icon: "🟢" },
-  { name: "PSEUDOMONAS",       hp: 5, color: "#2A9D8F", icon: "🦠" },
-  { name: "C. DIFFICILE",      hp: 5, color: "#8D6E63", icon: "💩" },
-  { name: "KLEBSIELLA",        hp: 5, color: "#A06CD5", icon: "🦠" },
-  { name: "ACINETOBACTER",     hp: 6, color: "#FFB703", icon: "⚡" },
-  { name: "ENTEROCOCCUS",      hp: 5, color: "#4DA8DA", icon: "🦠" },
-  { name: "M. TUBERCULOSIS",   hp: 7, color: "#6D597A", icon: "☠️" },
+  { name: "STAPH AUREUS",    hp: 4, color: "#E76F51", icon: "🦠",
+    topicPat: "(pyogen|septic|osteomyel|infect|инфекц|остеомиел|септ)" },
+  { name: "M. R. S. A.",     hp: 6, color: "#E63946", icon: "💀", boss: true,
+    topicPat: "(pyogen|septic|osteomyel|infect|prosth|arthroplast|инфекц|остеомиел|септ|артропласт|ендопрот)" },
+  { name: "STREP PYOGENES",  hp: 4, color: "#F4A261", icon: "🟠",
+    topicPat: "(pyogen|septic|wound|cellul|инфекц|септ|рана|гной)" },
+  { name: "E. COLI",         hp: 4, color: "#52B788", icon: "🟢",
+    topicPat: "(spine|spondyl|pelvi|sacr|спин|спондил|тазов|сакр|гръбнач)" },
+  { name: "PSEUDOMONAS",     hp: 5, color: "#2A9D8F", icon: "🦠",
+    topicPat: "(osteomyel|arthroplast|prosth|complication|остеомиел|артропласт|ендопрот|усложнен)" },
+  { name: "C. DIFFICILE",    hp: 5, color: "#8D6E63", icon: "💩",
+    topicPat: "(complication|nonunion|delayed|sudeck|volkmann|усложнен|неконсолид|забавен)" },
+  { name: "KLEBSIELLA",      hp: 5, color: "#A06CD5", icon: "🦠",
+    topicPat: "(infect|wound|polytrauma|инфекц|рана|политравм)" },
+  { name: "ACINETOBACTER",   hp: 6, color: "#FFB703", icon: "⚡",
+    topicPat: "(gunshot|wound|polytraum|amput|crush|огнестрел|рана|политравм|ампут)" },
+  { name: "ENTEROCOCCUS",    hp: 5, color: "#4DA8DA", icon: "🦠",
+    topicPat: "(arthroplast|prosth|coxarthros|gonarthros|артропласт|ендопрот|коксартроз|гонартроз)" },
+  { name: "M. TUBERCULOSIS", hp: 7, color: "#6D597A", icon: "☠️", boss: true,
+    topicPat: "(tubercul|spondyliti|ankylosing|spine|туберкул|спондил|спин|гръбнач)" },
 ];
 const germsJson = JSON.stringify(germs);
 const tJson = JSON.stringify(t);
@@ -192,6 +223,12 @@ const tJson = JSON.stringify(t);
     <!-- Help screen -->
     <div class="kombat-screen kombat-help" data-kombat-screen="help" hidden>
       <h2 class="kombat-screen-title">{t.helpTitle}</h2>
+      <div class="kombat-wasd-diagram" aria-hidden="true">
+        <div class="kombat-wasd-key kombat-wasd-key-w">W</div>
+        <div class="kombat-wasd-key kombat-wasd-key-a">A</div>
+        <div class="kombat-wasd-key kombat-wasd-key-s">S</div>
+        <div class="kombat-wasd-key kombat-wasd-key-d">D</div>
+      </div>
       <ol class="kombat-help-list">
         {t.help.map((line) => <li>{line}</li>)}
       </ol>
@@ -213,6 +250,7 @@ const tJson = JSON.stringify(t);
       <div class="kombat-gameover-row"><span class="kombat-gameover-label">{t.yourScore}</span><span class="kombat-gameover-val" data-kombat-final-score>0</span></div>
       <div class="kombat-gameover-row"><span class="kombat-gameover-label">{t.yourEnemies}</span><span class="kombat-gameover-val" data-kombat-final-kills>0</span></div>
       <div class="kombat-gameover-highscore" data-kombat-newrec hidden>★ {t.newHighscore} ★</div>
+      <div class="kombat-weakness" data-kombat-weakness hidden></div>
       <div class="kombat-gameover-name" data-kombat-name-row>
         <label for="kombat-name">{t.enterName}</label>
         <input id="kombat-name" type="text" maxlength="14" autocomplete="off" />
@@ -258,6 +296,7 @@ const tJson = JSON.stringify(t);
     finalScore: root.querySelector("[data-kombat-final-score]"),
     finalKills: root.querySelector("[data-kombat-final-kills]"),
     newRec:     root.querySelector("[data-kombat-newrec]"),
+    weakness:   root.querySelector("[data-kombat-weakness]"),
     nameInput:  root.querySelector("#kombat-name"),
     nameRow:    root.querySelector("[data-kombat-name-row]"),
     saveBtn:    root.querySelector("[data-kombat-save]"),
@@ -305,9 +344,40 @@ const tJson = JSON.stringify(t);
     return "";
   }
 
+  // Per-germ pre-filtered question pools, computed once after loadPool.
+  // Map keyed by germ name → array of questions, plus a "*" key for the full pool.
+  let germPools = null;
+  function buildGermPools() {
+    if (germPools || !pool || !pool.length) return;
+    germPools = { "*": pool };
+    for (const g of GERMS) {
+      if (!g.topicPat) { germPools[g.name] = pool; continue; }
+      let re;
+      try { re = new RegExp(g.topicPat, "i"); }
+      catch (e) { germPools[g.name] = pool; continue; }
+      // Resolve topic titles for filtering; we accept a hit in either language.
+      const matchedTopicKeys = new Set();
+      if (topicTitles) {
+        for (const sect of Object.keys(topicTitles)) {
+          for (const n of Object.keys(topicTitles[sect])) {
+            const t = topicTitles[sect][n];
+            if (re.test(t.en || "") || re.test(t.bg || "")) {
+              matchedTopicKeys.add(sect + ":" + n);
+            }
+          }
+        }
+      }
+      const sub = pool.filter((q) => matchedTopicKeys.has(q.section + ":" + q.topic));
+      // Fall back to the full pool if the filter is too narrow.
+      germPools[g.name] = sub.length >= 40 ? sub : pool;
+    }
+  }
+
   function pickQuestion() {
     if (!pool || !pool.length) return null;
-    return pool[Math.floor(Math.random() * pool.length)];
+    const germName = state && state.currentGerm && state.currentGerm.name;
+    const p = (germName && germPools && germPools[germName]) || pool;
+    return p[Math.floor(Math.random() * p.length)];
   }
 
   // -- Game state --------------------------------------------------------
@@ -321,29 +391,53 @@ const tJson = JSON.stringify(t);
       kills: 0,
       correctSinceLife: 0,
       streak: 0,
+      bestStreak: 0,
       currentGerm: null,
+      currentGermHpMax: 0,
       currentGermHpLeft: 0,
       currentQ: null,
       currentLocale: null,
       currentCorrect: -1,
       busy: false,
+      // Per-topic stats for the post-game weakness report.
+      // Keyed "section:topic" → {correct, wrong}.
+      topicStats: Object.create(null),
     };
   }
 
+  function pickGerm(round) {
+    // Every 5th round (5, 10, 15…) summons a boss.
+    if (round > 0 && round % 5 === 0) {
+      const bosses = GERMS.filter((g) => g.boss);
+      if (bosses.length) return bosses[Math.floor(Math.random() * bosses.length)];
+    }
+    const normals = GERMS.filter((g) => !g.boss);
+    const pool = normals.length ? normals : GERMS;
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+
   function nextGerm() {
-    const g = GERMS[Math.floor(Math.random() * GERMS.length)];
+    const g = pickGerm(state.round);
     state.currentGerm = g;
-    state.currentGermHpLeft = g.hp;
-    els.germName.textContent = g.name;
-    els.germLabel.textContent = g.name;
+    // Bosses are +50% HP (rounded up) so they hit harder visually + difficulty.
+    const hpMax = g.boss ? Math.ceil(g.hp * 1.5) : g.hp;
+    state.currentGermHpMax = hpMax;
+    state.currentGermHpLeft = hpMax;
+    const tag = g.boss ? " ★" : "";
+    els.germName.textContent = g.name + tag;
+    els.germLabel.textContent = g.name + tag;
     els.germIcon.textContent = g.icon;
     els.germIcon.style.color = g.color;
     els.germHp.style.background = g.color;
+    if (g.boss) {
+      toast(T.bossIncoming, "boss");
+      flash("is-hit-foe");
+    }
     drawGermHp();
   }
 
   function drawGermHp() {
-    const pct = Math.max(0, state.currentGermHpLeft / state.currentGerm.hp) * 100;
+    const pct = Math.max(0, state.currentGermHpLeft / state.currentGermHpMax) * 100;
     els.germHp.style.width = pct + "%";
   }
   function drawHeroHp() {
@@ -411,13 +505,38 @@ const tJson = JSON.stringify(t);
     else onWrong();
   }
 
+  // Score multiplier ramps with streak: 1× → 1.5× (≥5) → 2× (≥10) → 3× (≥15).
+  function streakMultiplier(streak) {
+    if (streak >= 15) return 3;
+    if (streak >= 10) return 2;
+    if (streak >= 5)  return 1.5;
+    return 1;
+  }
+
+  function recordTopicStat(q, ok) {
+    if (!q || !q.section || q.topic == null) return;
+    const key = q.section + ":" + q.topic;
+    const slot = state.topicStats[key] || (state.topicStats[key] = { correct: 0, wrong: 0, section: q.section, topic: q.topic });
+    if (ok) slot.correct += 1; else slot.wrong += 1;
+  }
+
   function onCorrect() {
-    state.score += 100;
+    recordTopicStat(state.currentQ, true);
+    const prevStreak = state.streak;
+    state.streak += 1;
+    if (state.streak > state.bestStreak) state.bestStreak = state.streak;
+    const mult = streakMultiplier(state.streak);
+    state.score += Math.round(100 * mult);
     state.currentGermHpLeft -= 1;
     state.correctSinceLife += 1;
-    state.streak += 1;
     drawGermHp();
     drawScore();
+    // Fire a streak toast on milestones (5, 10, 15…) without spamming.
+    if (state.streak !== prevStreak &&
+        (state.streak === 5 || state.streak === 10 || state.streak === 15 ||
+         (state.streak > 15 && state.streak % 5 === 0))) {
+      toast(state.streak + " " + T.streak + " (" + mult + T.multiplier + ")", "streak");
+    }
     els.foe.classList.add("is-hit");
     flash("is-hit-foe");
     setTimeout(() => els.foe.classList.remove("is-hit"), 250);
@@ -450,12 +569,15 @@ const tJson = JSON.stringify(t);
   }
 
   function onWrong() {
-    state.lives -= 1;
+    recordTopicStat(state.currentQ, false);
+    // Bosses punish harder.
+    const penalty = state.currentGerm && state.currentGerm.boss ? 2 : 1;
+    state.lives = Math.max(0, state.lives - penalty);
     state.streak = 0;
     drawHeroHp();
     flash("is-hit-hero");
     els.hero.classList.add("is-hit");
-    toast(T.ouch, "ouch");
+    toast(penalty > 1 ? T.doubleDamage : T.ouch, penalty > 1 ? "boss" : "ouch");
     setTimeout(() => els.hero.classList.remove("is-hit"), 250);
     if (state.lives <= 0) {
       setTimeout(gameOver, 900);
@@ -465,10 +587,45 @@ const tJson = JSON.stringify(t);
   }
 
   // -- Game over + leaderboard ------------------------------------------
+  function topicTitleFor(section, topic) {
+    if (topicTitles && topicTitles[section]) {
+      const entry = topicTitles[section][topic] || topicTitles[section][String(topic)];
+      if (entry) return entry[lang] || entry.en || entry.bg || "";
+    }
+    return section + " " + topic;
+  }
+
+  function renderWeakness() {
+    if (!els.weakness) return;
+    const rows = Object.values(state.topicStats)
+      .filter((s) => (s.correct + s.wrong) >= 2)
+      .map((s) => ({ ...s, total: s.correct + s.wrong, rate: s.wrong / (s.correct + s.wrong) }))
+      .filter((s) => s.wrong > 0)
+      .sort((a, b) => b.rate - a.rate || b.wrong - a.wrong)
+      .slice(0, 3);
+    if (!rows.length) {
+      els.weakness.innerHTML = "";
+      els.weakness.setAttribute("hidden", "");
+      return;
+    }
+    els.weakness.removeAttribute("hidden");
+    const items = rows.map((r) => {
+      const title = topicTitleFor(r.section, r.topic);
+      return '<li class="kombat-weak-row">' +
+        '<span class="kombat-weak-title">' + escapeHtml(title) + '</span>' +
+        '<span class="kombat-weak-count">' + r.wrong + " / " + r.total + ' ' + escapeHtml(T.wrongOf) + '</span>' +
+        '</li>';
+    }).join("");
+    els.weakness.innerHTML =
+      '<div class="kombat-weak-title-row">' + escapeHtml(T.worstTopics) + '</div>' +
+      '<ol class="kombat-weak-list">' + items + '</ol>';
+  }
+
   function gameOver() {
     showScreen("gameover");
     els.finalScore.textContent = state.score;
     els.finalKills.textContent = state.kills;
+    renderWeakness();
     const board = loadBoard();
     const lowest = board.length < 10 ? 0 : board[board.length - 1].score;
     const qualifies = state.score > 0 && (board.length < 10 || state.score > lowest);
@@ -567,6 +724,7 @@ const tJson = JSON.stringify(t);
   async function startGame() {
     try {
       await loadPool();
+      buildGermPools();
     } catch (e) {
       console.error(e);
       return;
@@ -779,6 +937,9 @@ const tJson = JSON.stringify(t);
     grid-template-columns: 28px 1fr;
     align-items: center;
     gap: 8px;
+    min-height: 48px;            /* WCAG tap-target floor for touch */
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;  /* kill 300ms tap delay on iOS */
     backdrop-filter: blur(3px);
     -webkit-backdrop-filter: blur(3px);
     transition: transform 120ms ease, background-color 120ms ease, border-color 120ms ease;
@@ -858,6 +1019,14 @@ const tJson = JSON.stringify(t);
   .kombat-toast-ko { color: var(--kombat-accent); }
   .kombat-toast-ouch { color: var(--kombat-danger); }
   .kombat-toast-life { color: var(--kombat-life); }
+  .kombat-toast-streak {
+    color: #ffd864;
+    text-shadow: 0 3px 0 #000, 0 0 24px rgba(255, 216, 100, 0.7);
+  }
+  .kombat-toast-boss {
+    color: #ff4b6b;
+    text-shadow: 0 3px 0 #000, 0 0 28px rgba(255, 75, 107, 0.7);
+  }
   @keyframes kombat-toast-pop {
     0% { opacity: 0; transform: translate(-50%, -50%) scale(0.4); }
     20% { opacity: 1; transform: translate(-50%, -50%) scale(1.2); }
@@ -992,6 +1161,73 @@ const tJson = JSON.stringify(t);
     letter-spacing: 0.1em;
     text-shadow: 0 2px 0 #000;
   }
+  .kombat-weakness {
+    width: min(500px, 100%);
+    margin-top: 4px;
+    padding: 10px 14px;
+    background: rgba(230, 57, 70, 0.10);
+    border: 1px solid rgba(230, 57, 70, 0.35);
+    border-radius: 6px;
+  }
+  .kombat-weakness[hidden] { display: none; }
+  .kombat-weak-title-row {
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--kombat-danger);
+    margin-bottom: 6px;
+    text-align: center;
+  }
+  .kombat-weak-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.86rem;
+  }
+  .kombat-weak-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    padding: 4px 0;
+    align-items: baseline;
+  }
+  .kombat-weak-title {
+    color: var(--kombat-fg);
+    opacity: 0.92;
+    line-height: 1.25;
+  }
+  .kombat-weak-count {
+    color: var(--kombat-danger);
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  /* WASD diagram on help screen ─────────────────────────────── */
+  .kombat-wasd-diagram {
+    display: grid;
+    grid-template-columns: 38px 38px 38px;
+    grid-template-rows: 38px 38px;
+    grid-template-areas:
+      ".  w  ."
+      "a  s  d";
+    gap: 4px;
+    margin: 4px 0 8px;
+  }
+  .kombat-wasd-key {
+    background: rgba(245, 184, 46, 0.22);
+    border: 1.5px solid rgba(245, 184, 46, 0.6);
+    border-radius: 5px;
+    color: var(--kombat-accent);
+    font-weight: 900;
+    font-size: 1.1rem;
+    display: grid;
+    place-items: center;
+  }
+  .kombat-wasd-key-w { grid-area: w; }
+  .kombat-wasd-key-a { grid-area: a; }
+  .kombat-wasd-key-s { grid-area: s; }
+  .kombat-wasd-key-d { grid-area: d; }
   .kombat-gameover-name {
     display: grid;
     grid-template-columns: 1fr;

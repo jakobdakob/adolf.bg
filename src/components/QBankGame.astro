@@ -1464,6 +1464,14 @@ const tJson = JSON.stringify(t);
     text-shadow: 2px 2px 0 #000, 0 0 12px rgba(255, 224, 0, 0.3);
     margin: 0 0 6px;
     letter-spacing: 0.08em;
+    /* Center the title across the whole overlay width. align-self
+     * handles the case where the overlay is a flex/grid parent that
+     * lays children out by start; text-align centers the wrapped
+     * lines (BOYCHEV KOMBAT / ТОП 10 often wraps to two lines on
+     * narrow iPhones). */
+    text-align: center;
+    align-self: center;
+    width: 100%;
   }
 
   .kombat-logo {
@@ -1660,6 +1668,9 @@ const tJson = JSON.stringify(t);
     color: var(--kg-red);
     text-shadow: 4px 4px 0 #000, 0 0 24px var(--kg-blood);
     letter-spacing: 0.08em;
+    text-align: center;
+    align-self: center;
+    width: 100%;
   }
   .kombat-gameover-title.is-victorious {
     background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 55%, var(--kg-red) 100%);

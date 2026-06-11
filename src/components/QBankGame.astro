@@ -1771,25 +1771,26 @@ const tJson = JSON.stringify(t);
    * - Safe-area-inset-bottom respects iPhone home indicator.
    * ============================================================ */
   @media (max-width: 759px), (pointer: coarse) {
-    /* Mobile cabinet: portrait 5:7 like an MK arena screen, centered with
-     * a black margin so it floats inside the body padding (safe-area top
-     * + bottom, 16 px sides). Width-driven aspect-ratio gives a concrete
-     * height — the bug we just fixed was that without a real height the
-     * bezel collapsed and html's --bg showed through as white.
+    /* Mobile cabinet now fills the viewport instead of locking to a
+     * 5:7 aspect-ratio (which left ~30% black dead-space at the bottom
+     * of short rounds). It still floats inside the body padding
+     * (safe-area top/bottom, 16 px sides) with a 4dvh margin so the
+     * MK arcade-cabinet framing reads, but its height is computed:
      *
-     * Math on a 390×844 iPhone 14 Pro:
-     *   body width  = 390 − 32 (sides)            = 358 px
-     *   cabinet width  = min(358, 92dvh×5/7=554) = 358 px
-     *   cabinet height = 358 × 7/5                = 501 px (≤92dvh)
-     *   internal vertical: marquee ~20 + bezel 481
-     *     playing: screen ~220 + deck ~261
-     *       question max ~80 + 4 × 48 cards + 3 × 6 gaps = ~290 → tight,
-     *       so cards use min-height 44 px in this rule (still WCAG OK). */
+     *   cabinet height = 100dvh − safe-area-top − safe-area-bottom − 8dvh
+     *                  (8dvh = 4dvh top margin + 4dvh bottom margin)
+     *
+     * On a 390×844 iPhone 14 Pro (safe-area 59 + 34):
+     *   cabinet = 358 × 683 px (vs 358 × 501 px under the old 5:7 lock).
+     *
+     * Internal flex (see further down) distributes that height between
+     * screen + deck, and the answer cards' grid-auto-rows now uses
+     * minmax(44 px, 1fr) so each card grows when there's room rather
+     * than leaving a black gap below them. */
     .kombat-cabinet {
       width: 100%;
-      max-width: min(96vw, calc(92dvh * 5 / 7));
-      aspect-ratio: 5 / 7;
-      max-height: 92dvh;
+      max-width: 100%;
+      height: calc(100dvh - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px) - 8dvh);
       margin: 4dvh auto;
       padding: 0;
       border-radius: 12px;
@@ -1900,15 +1901,18 @@ const tJson = JSON.stringify(t);
       gap: 5px;
     }
     /* Retro question dialog: yellow border, black bg, hard 3px drop-
-     * shadow. Takes ALL remaining deck height after the four 44 px
-     * answer rows (forced grid below) — so a 4-6 line Cyrillic stem
-     * is fully visible. Internal scroll kicks in only for genuinely
-     * giant stems. */
+     * shadow. Now sized to its content with bounds:
+     *  - min-height 80 px so a 1-line question doesn't collapse;
+     *  - max-height 40% of the deck so a giant stem can't push the
+     *    answer cards off screen (internal scroll catches the rest).
+     * flex: 0 1 auto = take content size, don't grow into spare space
+     * (that's what the answer cards do instead). */
     .kombat-q {
       margin-bottom: 0;
       padding: 6px 9px;
-      flex: 1 1 0;
-      min-height: 80px;            /* never smaller than ~4 lines */
+      flex: 0 1 auto;
+      min-height: 80px;
+      max-height: 40%;
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       background: #000;
@@ -1926,24 +1930,27 @@ const tJson = JSON.stringify(t);
       letter-spacing: 0.02em;
       text-shadow: 1px 1px 0 #000;
     }
-    /* Answers form a fixed 4×44 px row block (≈191 px including 4 px
-     * gaps) so the question can flex-grow upward into the remaining
-     * deck space. grid-auto-rows clamps each card to exactly 44 px. */
+    /* Answers grow with the deck — grid-auto-rows minmax(44 px, 1fr)
+     * means each card is at least the WCAG tap floor but expands to
+     * fill any leftover space when the question is short. flex: 1 1 0
+     * makes the answers row consume all height the question doesn't,
+     * killing the dead-space-below-cards bug. */
     .kombat-answers {
       grid-template-columns: 1fr;
-      grid-auto-rows: 44px;
-      gap: 4px;
-      flex: 0 0 auto;
+      grid-auto-rows: minmax(44px, 1fr);
+      gap: 6px;
+      flex: 1 1 0;
+      min-height: 0;
     }
-    /* Retro answer cards: yellow border, hard 4px drop-shadow, gradient
-     * panel, Press-Start-2P digit + pixel-font answer text. Locked at
-     * 44 px tall by the grid above (still on the WCAG tap-target floor)
-     * so a 4-card block always lands ≈191 px and the question can flex
-     * upward to take the remaining ~140 px of deck space. */
+    /* Retro answer cards: yellow border, hard 3px drop-shadow, gradient
+     * panel, Press-Start-2P digit + pixel-font answer text. Height is
+     * now driven by the grid-auto-rows minmax(44 px, 1fr) above — cards
+     * are at least 44 px tall and grow when the question doesn't claim
+     * the deck. */
     .kombat-key {
       grid-template-columns: 22px 1fr;
-      min-height: 0;            /* grid-auto-rows controls the height */
-      height: 44px;
+      min-height: 44px;
+      height: auto;
       padding: 4px 8px;
       gap: 7px;
       background: linear-gradient(180deg, #2a2a2a 0%, #0a0a0a 100%);

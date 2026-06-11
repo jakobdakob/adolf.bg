@@ -173,18 +173,12 @@ const tJson = JSON.stringify(t);
   data-t={tJson}
 >
   <div class="kombat-cabinet" data-kombat-cabinet data-kombat-state="menu">
-    <!-- Mobile fullscreen toggle. Tries the real Fullscreen API first,
-         falls back to a CSS pseudo-fullscreen mode (position:fixed) on
-         iPhone Safari which doesn't support the API on non-video els.
-         The button is hidden on desktop via CSS. -->
-    <button
-      type="button"
-      class="kombat-fs-toggle"
-      data-kombat-fs-toggle
-      aria-label="Fullscreen"
-    >
-      <span data-kombat-fs-icon>⛶</span>
-    </button>
+    {/* User-clickable fullscreen toggle removed — iOS Safari doesn't
+        honour requestFullscreen() on non-PWA contexts cleanly so the
+        button was essentially decorative and overlapped the marquee.
+        The silent tryAutoFullscreen() on PUSH START still runs (it
+        no-ops where the browser refuses), and the pseudo-fs CSS path
+        is preserved for the Add-to-Home-Screen launch case. */}
 
     <div class="kombat-marquee" aria-hidden="true">
       <span class="kombat-marquee-dot" />
@@ -903,37 +897,30 @@ const tJson = JSON.stringify(t);
   }
 
   // -- Fullscreen (touch-first; iPhone-friendly fallback) -------------
-  // iPhone Safari does NOT implement the Fullscreen API on non-video
-  // elements, so for it we use a CSS pseudo-fullscreen: the cabinet gets
-  // position:fixed; inset:0; z-index: 9999; with an ✕ EXIT button.
-  const fsToggle = root.querySelector("[data-kombat-fs-toggle]");
-  const cabinet  = root.querySelector("[data-kombat-cabinet]");
-  const fsIcon   = root.querySelector("[data-kombat-fs-icon]");
+  // The user-clickable fullscreen toggle was removed (it overlapped the
+  // marquee and iOS Safari doesn't honour requestFullscreen() on non-PWA
+  // contexts anyway). The silent attempt on PUSH START stays — it
+  // no-ops where the browser refuses — and ESC still exits the pseudo-fs
+  // state if the player ever gets pushed into it via the API path.
+  const cabinet = root.querySelector("[data-kombat-cabinet]");
 
   function isFullscreenActive() {
     return !!(document.fullscreenElement || document.webkitFullscreenElement) ||
-           cabinet.classList.contains("is-pseudo-fs");
-  }
-  function setFsIcon() {
-    if (fsIcon) fsIcon.textContent = isFullscreenActive() ? "✕" : "⛶";
-    if (fsToggle) fsToggle.setAttribute(
-      "aria-label",
-      isFullscreenActive() ? "Exit fullscreen" : "Fullscreen",
-    );
+           (cabinet && cabinet.classList.contains("is-pseudo-fs"));
   }
   function enterPseudoFs() {
+    if (!cabinet) return;
     cabinet.classList.add("is-pseudo-fs");
     document.body.classList.add("kombat-fs-lock");
-    setFsIcon();
   }
   function enterFullscreen() {
     const el = cabinet;
+    if (!el) return;
     if (el.requestFullscreen) {
       el.requestFullscreen().catch(enterPseudoFs);
     } else if (el.webkitRequestFullscreen) {
       try { el.webkitRequestFullscreen(); } catch (e) { enterPseudoFs(); }
     } else {
-      // iPhone Safari path
       enterPseudoFs();
     }
   }
@@ -943,16 +930,8 @@ const tJson = JSON.stringify(t);
     } else if (document.webkitFullscreenElement && document.webkitExitFullscreen) {
       try { document.webkitExitFullscreen(); } catch (e) {}
     }
-    cabinet.classList.remove("is-pseudo-fs");
+    if (cabinet) cabinet.classList.remove("is-pseudo-fs");
     document.body.classList.remove("kombat-fs-lock");
-    setFsIcon();
-  }
-  if (fsToggle) {
-    fsToggle.addEventListener("click", (ev) => {
-      ev.stopPropagation();
-      if (isFullscreenActive()) exitFullscreen();
-      else enterFullscreen();
-    });
   }
 
   // Auto-FS on PUSH START: only on touch-class viewports, only when not
@@ -961,16 +940,13 @@ const tJson = JSON.stringify(t);
   function tryAutoFullscreen() {
     if (isFullscreenActive()) return;
     if (window.matchMedia && !window.matchMedia("(pointer: coarse), (max-width: 759px)").matches) return;
-    // If launched from home-screen (PWA standalone), iOS already hides chrome.
     if (window.navigator.standalone === true) return;
     if (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) return;
     enterFullscreen();
   }
-  document.addEventListener("fullscreenchange", setFsIcon);
-  document.addEventListener("webkitfullscreenchange", setFsIcon);
   // ESC exits the pseudo-fs too (browser won't fire fullscreenchange for it).
   document.addEventListener("keydown", (ev) => {
-    if (ev.key === "Escape" && cabinet.classList.contains("is-pseudo-fs")) {
+    if (ev.key === "Escape" && cabinet && cabinet.classList.contains("is-pseudo-fs")) {
       exitFullscreen();
     }
   });
@@ -1012,7 +988,6 @@ const tJson = JSON.stringify(t);
 
   setDeck(false);
   showOverlay("menu");
-  setFsIcon();
 })();
 </script>
 
@@ -1696,34 +1671,12 @@ const tJson = JSON.stringify(t);
     border-color: #ff4040;
   }
 
-  /* Fullscreen toggle (mobile-first; hidden on desktop) ----------- */
-  .kombat-fs-toggle {
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    z-index: 50;
-    appearance: none;
-    background: rgba(10, 10, 10, 0.75);
-    border: 2px solid var(--kg-yellow);
-    color: var(--kg-yellow);
-    font-family: inherit;
-    font-size: 16px;
-    line-height: 1;
-    width: 40px;
-    height: 40px;
-    display: none;            /* desktop default — hidden */
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
-    touch-action: manipulation;
-    text-shadow: 1px 1px 0 #000;
-    box-shadow: 0 3px 0 #000;
-  }
-  .kombat-fs-toggle:active { transform: translateY(2px); box-shadow: 0 1px 0 #000; }
+  /* (.kombat-fs-toggle rules removed — the user-clickable toggle was
+   * deleted from the cabinet. The :fullscreen / pseudo-fs styles below
+   * still apply because the silent PUSH START auto-FS attempt can land
+   * a true fullscreen on browsers that allow it.) */
 
-  /* Native :fullscreen state — neutralise the absolute toggle so it
-     stays in the screen corner inside the FS viewport */
+  /* Native :fullscreen state — keep the cabinet unwrapped for true FS */
   .kombat-cabinet:fullscreen,
   .kombat-cabinet:-webkit-full-screen {
     background: #000;
@@ -1810,7 +1763,6 @@ const tJson = JSON.stringify(t);
    * - Safe-area-inset-bottom respects iPhone home indicator.
    * ============================================================ */
   @media (max-width: 759px), (pointer: coarse) {
-    .kombat-fs-toggle { display: flex; }
     /* Mobile cabinet: portrait 5:7 like an MK arena screen, centered with
      * a black margin so it floats inside the body padding (safe-area top
      * + bottom, 16 px sides). Width-driven aspect-ratio gives a concrete

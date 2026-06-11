@@ -130,19 +130,25 @@ body {
 
 /* Chromeless pages (e.g. the game) — kill default body margin and run
  * a #000 background so the content can host its own framed container.
- * On phones the body adds a thin gutter (16 px sides, safe-area top +
- * bottom) so the game cabinet visually floats inside iOS's chrome
- * instead of jamming against the status bar / URL bar. */
+ * min-height:100dvh is critical: without it the body collapses to the
+ * cabinet's natural height, html's --bg (cream-white in light mode)
+ * shows through the rest of the viewport, and the game appears to be
+ * "broken on white". */
 body.no-chrome {
   margin: 0;
   padding: 0;
   background: #000;
+  min-height: 100dvh;
   overscroll-behavior: contain;
   box-sizing: border-box;
 }
+/* Belt + braces: paint html itself black on game pages too, so even a
+ * hypothetical body-collapse can't expose the light theme bg. */
+html:has(body.no-chrome) { background: #000; }
 body.no-chrome #main {
   margin: 0;
   padding: 0;
+  min-height: 100dvh;
 }
 @media (max-width: 759px), (pointer: coarse) {
   body.no-chrome {

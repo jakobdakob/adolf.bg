@@ -1,0 +1,31 @@
+---
+import { LANGS, type Lang, ui } from "../../../i18n/ui";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import QBankGame from "../../../components/QBankGame.astro";
+import { url as pathUrl } from "../../../lib/topics";
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = ui[lang];
+
+const dataUrl = pathUrl(`/quizzes/all.json`);
+const back = pathUrl(`/${lang}/qbank/`);
+const otherPath = pathUrl(`/${lang === "bg" ? "en" : "bg"}/qbank/game/`);
+
+const title = lang === "bg" ? "Ортопедичен батъл" : "Orthopaedic Kombat";
+const description = lang === "bg"
+  ? "Игрово допълнение към Q-bank — Бойчев срещу патогените, WASD-управление."
+  : "Game mode for the Q-bank — Boychev vs. the pathogens, WASD controls.";
+---
+<BaseLayout
+  lang={lang}
+  title={title}
+  description={description}
+  otherPath={otherPath}
+  currentSection="home"
+>
+  <QBankGame lang={lang} src={dataUrl} back={back} />
+</BaseLayout>

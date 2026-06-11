@@ -56,6 +56,15 @@ Tension (разтегляне) поражда напречни фрактури,
   <p>Разчитайте механизма по модела: напречна означава разтегляне (често авулзия в мускулно захващане), коса под около 45° означава компресия, спираловидна означава торзия (класическа при ски-фрактура на тибията, подозрителна при дете), а клиновидният (пеперудообразен) фрагмент при огъване сочи компресивната страна.</p>
 </aside>
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класически глас — Малгень 1847, директна срещу контра-удар механика</span>
+  <blockquote lang="fr">
+    <p>« Quand la fracture a lieu sur le point même où la force a été appliquée, on l'appelle fracture <em>directe</em> ou par cause directe ; quand elle se fait plus loin, fracture <em>par contre-coup</em> ou par cause indirecte. … Bien qu'en général les chocs extérieurs brisent l'os dans le lieu frappé, et que les chutes produisent plus souvent des contre-coups, il se rencontre tant d'exceptions, qu'il est impossible de classer les causes extérieures des fractures autrement que par leur ordre présumé de fréquence. »</p>
+  </blockquote>
+  <p><strong>Превод (BG):</strong> „Когато фрактурата възниква в самата точка, върху която е била приложена силата, тя се нарича <em>директна</em> фрактура или такава с директна причина; когато се появи по-далеч — фрактура <em>чрез контра-удар</em> или с индиректна причина. … Макар че по принцип външните удари чупят костта на удареното място, а паданията по-често пораждат контра-удари, изключенията са толкова многобройни, че е невъзможно външните причини на фрактурите да бъдат класифицирани другояче освен по предполагаемия им ред на честота."</p>
+  <p class="callout-source">— Joseph-François Malgaigne, <em>Traité des fractures et des luxations</em>, том 1 (Paris: Baillière, 1847), § III „Des causes déterminantes des fractures", стр. 23–24. Разграничението директна/индиректна причина, което Малгень тук артикулира, е концептуалният прародител на модерното четене на фрактурния модел по механизъм — спираловидната тибия при ски, метакарпалната шийка на боксьора, FOOSH-фрактурата на дисталния радиус — всяка е contre-coup фрактура в неговия смисъл. <a href="https://archive.org/details/BIUSante_32985x01" target="_blank" rel="noopener noreferrer">Факсимиле в Internet Archive →</a></p>
+</aside>
+
 ## Енергийни съображения
 
 Енергията, доставена на костта по време на нараняването, е критичен определящ фактор за тежестта и сложността на фрактурата. Нискоенергийните наранявания (обикновено падане, спортен сблъсък) обикновено пораждат прости фрактурни модели с ограничено меко-тъканно увреждане. Високоенергийните наранявания (пътнотранспортна катастрофа, падане от височина) пораждат разтрошени фрактури с обширно меко-тъканно увреждане.

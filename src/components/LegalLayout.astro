@@ -7,7 +7,7 @@ interface Props {
   lang: Lang;
   page: LegalPage;
   /** The slug of THIS legal page — used to compute the OtherPath link. */
-  slug: "terms" | "privacy" | "refund" | "imprint";
+  slug: "terms" | "privacy" | "imprint";
 }
 const { lang, page, slug } = Astro.props as Props;
 const otherLang: Lang = lang === "bg" ? "en" : "bg";
@@ -50,7 +50,6 @@ const t = legalNav[lang];
     <nav class="legal-pager" aria-label="Legal pages">
       <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
       <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>
-      <a href={`/${lang}/legal/refund/`}>{legalNav[lang].refund}</a>
       <a href={`/${lang}/legal/imprint/`}>{legalNav[lang].imprint}</a>
     </nav>
   </article>

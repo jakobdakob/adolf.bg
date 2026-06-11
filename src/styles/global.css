@@ -128,6 +128,19 @@ body {
   letter-spacing: -0.005em;
 }
 
+/* Chromeless pages (e.g. the game) — kill default body margin so the
+ * <main> can fill the dynamic viewport edge-to-edge. */
+body.no-chrome {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  overscroll-behavior: contain;
+}
+body.no-chrome #main {
+  margin: 0;
+  padding: 0;
+}
+
 a { color: inherit; text-decoration: none; }
 
 ::selection {

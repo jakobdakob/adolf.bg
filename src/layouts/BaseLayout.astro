@@ -28,8 +28,14 @@ interface Props {
    * their normal Safari chrome and pinch-to-zoom behaviour.
    */
   appShell?: boolean;
+  /**
+   * Hide ALL site chrome (header, drawer, search modal, footer). Used by
+   * truly fullscreen pages like the game so the cabinet can run edge-to-
+   * edge. Implies appShell behaviour visually but not the meta tags.
+   */
+  hideChrome?: boolean;
 }
-const { lang, title, description, otherPath, currentSection = "home", showMenuButton = true, drawerSection, activeSlug, appShell = false } = Astro.props;
+const { lang, title, description, otherPath, currentSection = "home", showMenuButton = true, drawerSection, activeSlug, appShell = false, hideChrome = false } = Astro.props;
 const initialSection: "ortho" | "trauma" | "anatomy" =
   drawerSection ?? (currentSection === "trauma" || currentSection === "anatomy" ? currentSection : "ortho");
 const t = ui[lang];
@@ -138,26 +144,28 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
       })();
     </script>
   </head>
-  <body>
-    <a href="#main" class="skip-link">Skip to main content</a>
-    <Header lang={lang} otherPath={otherPath} currentSection={currentSection} showMenuButton={showMenuButton} />
-    <SiteDrawer lang={lang} active={activeSlug} section={initialSection} />
+  <body class:list={[hideChrome && "no-chrome"]}>
+    {!hideChrome && <a href="#main" class="skip-link">Skip to main content</a>}
+    {!hideChrome && <Header lang={lang} otherPath={otherPath} currentSection={currentSection} showMenuButton={showMenuButton} />}
+    {!hideChrome && <SiteDrawer lang={lang} active={activeSlug} section={initialSection} />}
     <main id="main">
       <slot />
     </main>
-    <SearchModal lang={lang} />
-    <footer class="site-footer">
-      <div class="site-footer-inner">
-        <span>© 2026 · adolf.bg</span>
-        <span aria-hidden="true">·</span>
-        <span>{t.siteTagline}</span>
-      </div>
-      <nav class="site-footer-legal" aria-label="Legal">
-        <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
-        <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>
-        <a href={`/${lang}/legal/imprint/`}>{legalNav[lang].imprint}</a>
-      </nav>
-    </footer>
+    {!hideChrome && <SearchModal lang={lang} />}
+    {!hideChrome && (
+      <footer class="site-footer">
+        <div class="site-footer-inner">
+          <span>© 2026 · adolf.bg</span>
+          <span aria-hidden="true">·</span>
+          <span>{t.siteTagline}</span>
+        </div>
+        <nav class="site-footer-legal" aria-label="Legal">
+          <a href={`/${lang}/legal/terms/`}>{legalNav[lang].terms}</a>
+          <a href={`/${lang}/legal/privacy/`}>{legalNav[lang].privacy}</a>
+          <a href={`/${lang}/legal/imprint/`}>{legalNav[lang].imprint}</a>
+        </nav>
+      </footer>
+    )}
 
     <script is:inline>
       // Subtle scroll-reveal — opt-in by JS marking elements 'pending',

@@ -18,9 +18,7 @@ const mixedCtaTitle = lang === "bg" ? "Смесен тест" : "Mixed quiz";
 const mixedCtaMeta  = lang === "bg" ? "20 въпроса · от всички теми" : "20 questions · across all topics";
 const mixedCtaStart = lang === "bg" ? "Започни" : "Start";
 
-const gameCtaTitle = lang === "bg" ? "Игрови режим — Ортопедичен батъл" : "Game mode — Orthopaedic Kombat";
-const gameCtaMeta  = lang === "bg" ? "Бойчев срещу патогените · WASD · класиране" : "Boychev vs. the pathogens · WASD · leaderboard";
-const gameCtaStart = lang === "bg" ? "Старт" : "Start";
+const gameCtaStart = lang === "bg" ? "Играй" : "Play";
 
 const sectionTitle  = lang === "bg" ? "По раздел" : "By section";
 const sectionLede   = lang === "bg"
@@ -49,11 +47,6 @@ function testPath(e: typeof ortho[number]) {
     <h1 class="qb-title">{mixedCtaTitle}</h1>
     <p class="qb-lede">{mixedCtaMeta}</p>
     <a class="qb-start" href={pathUrl(`/${lang}/qbank/mixed/`)}>{mixedCtaStart} →</a>
-  </section>
-
-  <section class="qb-hero qb-hero-game">
-    <span class="eyebrow">▶ {gameCtaTitle}</span>
-    <p class="qb-lede">{gameCtaMeta}</p>
     <a class="qb-start qb-start-game" href={pathUrl(`/${lang}/qbank/game/`)}>{gameCtaStart} →</a>
   </section>
 

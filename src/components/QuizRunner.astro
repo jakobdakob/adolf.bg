@@ -82,6 +82,14 @@ const t = ui[lang];
       <ol class="quiz-review-list" data-quiz-review-list></ol>
     </div>
   </div>
+
+  <div class="quiz-celebration" data-quiz-celebration hidden>
+    <div class="quiz-celebration-rain" data-quiz-celebration-rain aria-hidden="true"></div>
+    <div class="quiz-celebration-card">
+      <div class="quiz-celebration-text" data-quiz-celebration-text></div>
+      <button type="button" class="quiz-celebration-close" data-quiz-celebration-close>OK</button>
+    </div>
+  </div>
 </section>
 
 <script is:inline>
@@ -148,8 +156,15 @@ const t = ui[lang];
     return pool;
   }
 
+  // Count of full attempts (a "fresh" startSession with the whole pool).
+  // Doesn't increment for retry-missed runs. We use this to trigger the
+  // first-try perfect-score celebration.
+  let attemptCount = 0;
+
   function startSession(subset) {
     const source = subset && subset.length ? subset : pool;
+    const isFreshAttempt = !subset || !subset.length;
+    if (isFreshAttempt) attemptCount += 1;
     const picked = shuffle(source).slice(0, Math.min(count, source.length));
     session = {
       questions: picked,
@@ -157,6 +172,8 @@ const t = ui[lang];
       score: 0,
       answered: false,
       misses: [],   // { q, userAnswer, correct }
+      isFreshAttempt,
+      attemptAtStart: attemptCount,
     };
     renderQuestion();
   }
@@ -289,6 +306,123 @@ const t = ui[lang];
       // Optionally annotate perfect score
       label.textContent = T.perfect;
     }
+
+    maybeCelebrate();
+  }
+
+  // ──────────────────────────────────────────────────────────────────
+  // Celebration / shame screen — confetti for a perfect first try,
+  // poop-rain for a score below half. Pure JS, no libraries.
+
+  const CELEB_COPY = {
+    bg: {
+      perfect: "20 / 20\nбраво!",
+      bad: "е, това беше гадно.\nможе би остави медицината\nи започни нещо ново?",
+    },
+    en: {
+      perfect: "20 / 20\ngood job!",
+      bad: "well that was shit.\nmaybe leave medicine\nand start fresh?",
+    },
+  };
+
+  const elCelebration = root.querySelector("[data-quiz-celebration]");
+  const elCelebrationText = root.querySelector("[data-quiz-celebration-text]");
+  const elCelebrationRain = root.querySelector("[data-quiz-celebration-rain]");
+  const elCelebrationClose = root.querySelector("[data-quiz-celebration-close]");
+
+  function maybeCelebrate() {
+    if (!session) return;
+    const total = session.questions.length;
+    const isFirstAttempt = session.attemptAtStart === 1 && session.isFreshAttempt;
+    const perfect = session.score === total && total >= 5;
+    const bad = session.score < total / 2; // < half is "shit"
+    const langKey = lang === "bg" ? "bg" : "en";
+    if (perfect && isFirstAttempt) {
+      showCelebration(CELEB_COPY[langKey].perfect, "confetti");
+    } else if (bad) {
+      showCelebration(CELEB_COPY[langKey].bad, "poop");
+    }
+  }
+
+  let rainTimer = null;
+  function clearRain() {
+    if (rainTimer) { clearInterval(rainTimer); rainTimer = null; }
+    if (elCelebrationRain) elCelebrationRain.innerHTML = "";
+  }
+
+  function showCelebration(text, kind) {
+    if (!elCelebration || !elCelebrationText || !elCelebrationRain) return;
+    elCelebrationText.textContent = text;
+    elCelebration.classList.remove("is-poop", "is-confetti");
+    elCelebration.classList.add(kind === "poop" ? "is-poop" : "is-confetti");
+    elCelebration.removeAttribute("hidden");
+    document.body.style.overflow = "hidden";
+    clearRain();
+    if (kind === "confetti") spawnConfettiRain();
+    else spawnPoopRain();
+  }
+
+  function closeCelebration() {
+    if (!elCelebration) return;
+    elCelebration.setAttribute("hidden", "");
+    document.body.style.overflow = "";
+    clearRain();
+  }
+  if (elCelebrationClose) elCelebrationClose.addEventListener("click", closeCelebration);
+  if (elCelebration) elCelebration.addEventListener("click", (ev) => {
+    if (ev.target === elCelebration) closeCelebration();
+  });
+
+  function spawnConfettiRain() {
+    // Burst then trickle for ~6s.
+    const COLORS = ["#0F8C7A", "#F5B82E", "#E76F51", "#264653", "#E9C46A", "#2A9D8F", "#FF6B6B"];
+    const SHAPES = ["square", "rect", "circle"];
+    let elapsed = 0;
+    const TICK = 80;
+    const DURATION = 6000;
+    const burst = 60;
+    for (let i = 0; i < burst; i++) addConfetti(COLORS, SHAPES);
+    rainTimer = setInterval(() => {
+      elapsed += TICK;
+      if (elapsed > DURATION) { clearInterval(rainTimer); rainTimer = null; return; }
+      for (let i = 0; i < 4; i++) addConfetti(COLORS, SHAPES);
+    }, TICK);
+  }
+
+  function addConfetti(colors, shapes) {
+    const el = document.createElement("span");
+    el.className = "quiz-confetti quiz-confetti-" + shapes[Math.floor(Math.random() * shapes.length)];
+    el.style.left = Math.random() * 100 + "vw";
+    el.style.background = colors[Math.floor(Math.random() * colors.length)];
+    el.style.setProperty("--dur", (2.5 + Math.random() * 2.5).toFixed(2) + "s");
+    el.style.setProperty("--rot", (Math.random() * 720 - 360).toFixed(0) + "deg");
+    el.style.setProperty("--drift", ((Math.random() - 0.5) * 30).toFixed(1) + "vw");
+    elCelebrationRain.appendChild(el);
+    setTimeout(() => { el.remove(); }, 6000);
+  }
+
+  function spawnPoopRain() {
+    const TICK = 110;
+    const DURATION = 7000;
+    let elapsed = 0;
+    for (let i = 0; i < 25; i++) addPoop();
+    rainTimer = setInterval(() => {
+      elapsed += TICK;
+      if (elapsed > DURATION) { clearInterval(rainTimer); rainTimer = null; return; }
+      for (let i = 0; i < 3; i++) addPoop();
+    }, TICK);
+  }
+
+  function addPoop() {
+    const el = document.createElement("span");
+    el.className = "quiz-poop";
+    el.textContent = "💩";
+    el.style.left = Math.random() * 100 + "vw";
+    el.style.setProperty("--dur", (3 + Math.random() * 3).toFixed(2) + "s");
+    el.style.setProperty("--rot", (Math.random() * 720 - 360).toFixed(0) + "deg");
+    el.style.setProperty("--size", (1.4 + Math.random() * 1.6).toFixed(1) + "rem");
+    elCelebrationRain.appendChild(el);
+    setTimeout(() => { el.remove(); }, 7000);
   }
 
   function escapeHtml(s) {
@@ -582,5 +716,104 @@ const t = ui[lang];
     .quiz-review-pair .quiz-review-label { grid-column: 2; }
     .quiz-review-pair .quiz-review-value { grid-column: 2; }
     .quiz-review-pair .quiz-review-icon { grid-row: span 2; }
+  }
+
+  /* ────────────────────────────────────────────────────────────
+     Celebration overlay (perfect score = confetti, bad = poop)
+     ──────────────────────────────────────────────────────────── */
+  .quiz-celebration {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: grid;
+    place-items: center;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+  .quiz-celebration[hidden] { display: none; }
+  .quiz-celebration-rain {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+  }
+  .quiz-celebration-card {
+    position: relative;
+    z-index: 2;
+    background: var(--bg, #fff);
+    color: var(--ink, #14110F);
+    border-radius: 18px;
+    padding: 2.25rem 2rem 1.75rem;
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.28);
+    max-width: min(440px, 90vw);
+    text-align: center;
+    animation: quiz-celeb-pop 360ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  }
+  .quiz-celebration-text {
+    font-size: clamp(1.4rem, 4.5vw, 2rem);
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: pre-line;
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.01em;
+  }
+  .quiz-celebration.is-confetti .quiz-celebration-text { color: #0F8C7A; }
+  .quiz-celebration.is-poop .quiz-celebration-text {
+    color: #6b3a1f;
+    font-style: italic;
+  }
+  .quiz-celebration-close {
+    appearance: none;
+    border: 0;
+    background: var(--ink, #14110F);
+    color: var(--bg, #fff);
+    padding: 0.7rem 1.6rem;
+    border-radius: 999px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+  }
+  .quiz-celebration-close:hover { opacity: 0.9; }
+
+  @keyframes quiz-celeb-pop {
+    0%   { transform: scale(0.7); opacity: 0; }
+    100% { transform: scale(1);   opacity: 1; }
+  }
+
+  .quiz-confetti {
+    position: absolute;
+    top: -2rem;
+    width: 10px;
+    height: 14px;
+    will-change: transform;
+    animation: quiz-confetti-fall var(--dur, 4s) linear forwards;
+  }
+  .quiz-confetti-square { border-radius: 1px; }
+  .quiz-confetti-rect   { width: 6px; height: 18px; border-radius: 1px; }
+  .quiz-confetti-circle { width: 10px; height: 10px; border-radius: 50%; }
+
+  @keyframes quiz-confetti-fall {
+    0%   { transform: translate3d(0, -10vh, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate3d(var(--drift, 0), 110vh, 0) rotate(var(--rot, 540deg)); opacity: 0.85; }
+  }
+
+  .quiz-poop {
+    position: absolute;
+    top: -3rem;
+    font-size: var(--size, 2rem);
+    will-change: transform;
+    animation: quiz-poop-fall var(--dur, 4s) linear forwards;
+    line-height: 1;
+  }
+  @keyframes quiz-poop-fall {
+    0%   { transform: translate3d(0, -10vh, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate3d(0, 110vh, 0) rotate(var(--rot, 540deg)); opacity: 0.9; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .quiz-confetti, .quiz-poop { animation-duration: 1s; }
+    .quiz-celebration-card { animation: none; }
   }
 </style>

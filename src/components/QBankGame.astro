@@ -1831,12 +1831,13 @@ const tJson = JSON.stringify(t);
       min-height: 0;
     }
     /* Cabinet now has a finite height (≈501 px on iPhone 14 Pro because
-     * width-driven aspect 5:7). dvh-based screen sizing is misleading
-     * here, so screen + deck share bezel by flex weight. Screen at
-     * weight 5, deck at 6 → ~45/55 split, prioritising the answer cards.
-     * Bezel ≈ 481 px → screen ≈ 218 px, deck ≈ 263 px. */
+     * width-driven aspect 5:7). Screen + deck share bezel by flex
+     * weight, with the deck getting the lion's share so a multi-line
+     * question stem + the four answer cards all fit without scroll.
+     * Screen 2, deck 5 → ~29/71 split. Bezel ≈ 481 px → screen ≈ 137 px
+     * (HUD + small fighters), deck ≈ 344 px. */
     .kombat-cabinet[data-kombat-state="playing"] .kombat-screen {
-      flex: 5 1 0;
+      flex: 2 1 0;
       min-height: 0;
       max-height: none;
     }
@@ -1882,29 +1883,32 @@ const tJson = JSON.stringify(t);
     .kombat-banner.is-life,
     .kombat-banner.is-ouch { font-size: clamp(0.9rem, 4.5vw, 1.3rem); }
 
-    /* Deck shares the bezel with the screen at flex weight 6 (vs 5 on
-     * the screen), giving the four answer cards the slightly larger
-     * slice. Compact retro styling: gradient panel with a faint orange
-     * inset highlight at the top. */
+    /* Deck takes the larger ~71% of the bezel (weight 5 vs screen 2)
+     * so a multi-line question stem and the four answer cards both
+     * fit. min-height:0 + the flex children below ensure correct
+     * sharing inside this column. */
     .kombat-deck {
       background: linear-gradient(180deg, #14110a 0%, #050402 100%);
       border: 0;
       border-radius: 0;
-      padding: 8px 8px 10px;
+      padding: 6px 8px 8px;
       min-height: 0;
-      flex: 6 1 0;
+      flex: 5 1 0;
       box-shadow: inset 0 3px 0 rgba(255, 224, 0, 0.10);
       display: flex;
       flex-direction: column;
       gap: 5px;
     }
     /* Retro question dialog: yellow border, black bg, hard 3px drop-
-     * shadow. Caps at ~30% of the deck so 4 answer cards stay above the
-     * cabinet fold. */
+     * shadow. Takes ALL remaining deck height after the four 44 px
+     * answer rows (forced grid below) — so a 4-6 line Cyrillic stem
+     * is fully visible. Internal scroll kicks in only for genuinely
+     * giant stems. */
     .kombat-q {
       margin-bottom: 0;
-      padding: 7px 10px;
-      max-height: 32%;
+      padding: 6px 9px;
+      flex: 1 1 0;
+      min-height: 80px;            /* never smaller than ~4 lines */
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       background: #000;
@@ -1922,25 +1926,32 @@ const tJson = JSON.stringify(t);
       letter-spacing: 0.02em;
       text-shadow: 1px 1px 0 #000;
     }
+    /* Answers form a fixed 4×44 px row block (≈191 px including 4 px
+     * gaps) so the question can flex-grow upward into the remaining
+     * deck space. grid-auto-rows clamps each card to exactly 44 px. */
     .kombat-answers {
       grid-template-columns: 1fr;
-      gap: 5px;
-      flex: 1;                 /* take all remaining deck height */
+      grid-auto-rows: 44px;
+      gap: 4px;
+      flex: 0 0 auto;
     }
     /* Retro answer cards: yellow border, hard 4px drop-shadow, gradient
-     * panel, Press-Start-2P digit + pixel-font answer text. On :active
-     * the button "presses in" via inset shadow + translate. */
+     * panel, Press-Start-2P digit + pixel-font answer text. Locked at
+     * 44 px tall by the grid above (still on the WCAG tap-target floor)
+     * so a 4-card block always lands ≈191 px and the question can flex
+     * upward to take the remaining ~140 px of deck space. */
     .kombat-key {
-      grid-template-columns: 24px 1fr;
-      min-height: 48px;        /* slightly taller — pixel text wraps more */
-      padding: 7px 10px;
-      gap: 8px;
+      grid-template-columns: 22px 1fr;
+      min-height: 0;            /* grid-auto-rows controls the height */
+      height: 44px;
+      padding: 4px 8px;
+      gap: 7px;
       background: linear-gradient(180deg, #2a2a2a 0%, #0a0a0a 100%);
       border: 2px solid var(--kg-yellow);
       color: var(--kg-text);
-      box-shadow: 4px 4px 0 #000;
-      font-size: clamp(7px, 2.4vw, 10px);
-      line-height: 1.75;
+      box-shadow: 3px 3px 0 #000;
+      font-size: clamp(7px, 2.2vw, 9px);
+      line-height: 1.6;
       letter-spacing: 0.02em;
       text-shadow: 1px 1px 0 #000;
       align-items: center;

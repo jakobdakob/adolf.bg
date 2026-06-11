@@ -139,6 +139,13 @@ Distal radius fractures are frequently accompanied by injuries that may be misse
   <p>Up to 50% of high-energy distal radius fractures have scapholunate ligament injury (gap >3 mm, 'Terry Thomas sign'). Look specifically — intraoperative arthroscopy or stress fluoroscopy after radial fixation. Missed scapholunate injury produces chronic dorsal intercalated segmental instability (DISI) and SLAC wrist arthritis years later.</p>
 </aside>
 
+## Sources and Classical Literature
+
+The eponymic density of the distal radius is unusually thick. Colles (1814) described the dorsal displacement in *Edinb. Med. Surg. J.* (a paper of minimal original corpus — two pages); Smith (1854) the reverse, volar-displaced variant in *Pathology and Treatment of Fracture of the Forearm*. Malgaigne in his *Traité* (1847) gathers the then-known fractures of the lower end of the radius, confirms, contests, or re-interprets each eponymous category, and shapes the anatomical vocabulary that still governs the terminology today.
+
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 1 (Paris: Baillière). Detailed treatment and critique of the Pouteau-Colles and Smith fractures. · [Facsimile (BIU Santé)](https://archive.org/details/BIUSante_32985x01)
+- **Dupuytren** (1832): *Leçons orales*, vol. 4, lecture on fracture of the lower end of the radius — Colles’s contemporary, with his own clinical series. · [Facsimile](https://archive.org/details/leonsoralesdec04dupu)
+
 ## Summary and Take-Home Points
 
 The distal radius fracture is the most common adult fracture, with a bimodal age distribution dominated by the low-energy osteoporotic fracture in the elderly woman. The historic eponyms (Colles, Smith, Barton, chauffeur, die-punch) capture meaningful information about mechanism and configuration; the modern Fernandez and AO/OTA classifications provide more systematic frameworks for treatment planning. The treatment of choice for the majority of distal radius fractures remains closed reduction and cast immobilization, with acceptable position parameters (volar tilt, radial inclination, radial length, articular step-off) that vary by patient age and functional demand. The Lafontaine criteria identify fractures at risk for redisplacement and may inform earlier operative intervention.

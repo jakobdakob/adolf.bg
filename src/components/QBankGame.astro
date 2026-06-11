@@ -1982,13 +1982,10 @@ const tJson = JSON.stringify(t);
       font-size: 1.05rem;
       font-family: "Press Start 2P", monospace;
     }
-    .kombat-key:hover { border-color: #000; }   /* hover is a phantom on touch */
-    .kombat-key:active,
-    .kombat-key:focus-visible {
-      border-color: var(--kg-yellow);
-      transform: translateY(2px);
-      box-shadow: 0 1px 0 #000, inset 0 0 0 1px #444;
-    }
+    /* (Older mobile :hover / :active+focus-visible duplicate removed —
+     * superseded by the retro answer-card rules higher in this @media
+     * block, which already gate :hover via (hover:hover) and drop the
+     * sticky :focus state.) */
     .kombat-deck-hint { padding: 24px 0; font-size: 0.6rem; }
 
     /* Overlays: top-aligned, scrollable, safe-area aware. The menu screen

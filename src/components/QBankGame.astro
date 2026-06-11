@@ -247,6 +247,16 @@ const tJson = JSON.stringify(t);
             <button type="button" class="kombat-cab-btn" data-kombat-menu="help">{t.menuHelp}</button>
             <a class="kombat-cab-btn kombat-cab-btn-ghost" href={back}>← {t.menuBack}</a>
           </div>
+          {/* iOS Safari users get a once-per-device hint that adding the
+              page to home screen unlocks proper standalone (no URL bar). */}
+          <div class="kombat-a2hs" data-kombat-a2hs hidden>
+            <span class="kombat-a2hs-text">
+              {lang === "bg"
+                ? "Натисни ↑ Share → Добави към началния екран за пълен екран."
+                : "Tap ↑ Share → Add to Home Screen for fullscreen."}
+            </span>
+            <button type="button" class="kombat-a2hs-dismiss" data-kombat-a2hs-dismiss aria-label="Dismiss">✕</button>
+          </div>
         </div>
 
         <div class="kombat-overlay kombat-help" data-kombat-screen="help" hidden>
@@ -793,9 +803,14 @@ const tJson = JSON.stringify(t);
   }
 
   root.querySelectorAll("[data-kombat-menu]").forEach((btn) => {
-    btn.addEventListener("click", async () => {
+    btn.addEventListener("click", async (ev) => {
       const action = btn.dataset.kombatMenu;
       if (action === "play") {
+        // CRITICAL: requestFullscreen MUST be called synchronously inside
+        // the click handler so the browser counts it as a user gesture.
+        // We don't await it; native FS resolves async and the game starts
+        // in parallel. On iPhone Safari this throws → catch into pseudo-FS.
+        tryAutoFullscreen();
         await startGame();
       } else if (action === "leaderboard") {
         renderBoard();
@@ -898,6 +913,18 @@ const tJson = JSON.stringify(t);
       else enterFullscreen();
     });
   }
+
+  // Auto-FS on PUSH START: only on touch-class viewports, only when not
+  // already in fullscreen / standalone. The actual API call must be
+  // synchronous within the gesture handler — caller is responsible.
+  function tryAutoFullscreen() {
+    if (isFullscreenActive()) return;
+    if (window.matchMedia && !window.matchMedia("(pointer: coarse), (max-width: 759px)").matches) return;
+    // If launched from home-screen (PWA standalone), iOS already hides chrome.
+    if (window.navigator.standalone === true) return;
+    if (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) return;
+    enterFullscreen();
+  }
   document.addEventListener("fullscreenchange", setFsIcon);
   document.addEventListener("webkitfullscreenchange", setFsIcon);
   // ESC exits the pseudo-fs too (browser won't fire fullscreenchange for it).
@@ -906,6 +933,41 @@ const tJson = JSON.stringify(t);
       exitFullscreen();
     }
   });
+
+  // -- iOS Add-to-Home-Screen hint -------------------------------------
+  // Only shown on iOS Safari that hasn't already been added to the home
+  // screen. Dismissal is remembered per-device in localStorage.
+  const A2HS_KEY = "kombat-a2hs-dismissed-v1";
+  const a2hsEl = root.querySelector("[data-kombat-a2hs]");
+  const a2hsDismiss = root.querySelector("[data-kombat-a2hs-dismiss]");
+
+  function isIosSafari() {
+    const ua = navigator.userAgent || "";
+    const isIos = /iPhone|iPad|iPod/i.test(ua) ||
+                  (/(Mac)/i.test(ua) && "ontouchend" in document);  // iPadOS UA spoofs Mac
+    if (!isIos) return false;
+    // Exclude in-app browsers (Twitter, FB, etc.) — they can't A2HS.
+    if (/(CriOS|FxiOS|EdgiOS|OPiOS|GSA)/i.test(ua)) return false;
+    return true;
+  }
+  function isStandalone() {
+    if (window.navigator.standalone === true) return true;
+    if (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) return true;
+    return false;
+  }
+
+  if (a2hsEl) {
+    let dismissed = false;
+    try { dismissed = localStorage.getItem(A2HS_KEY) === "1"; } catch (e) {}
+    if (isIosSafari() && !isStandalone() && !dismissed) {
+      a2hsEl.removeAttribute("hidden");
+    }
+    a2hsDismiss && a2hsDismiss.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      a2hsEl.setAttribute("hidden", "");
+      try { localStorage.setItem(A2HS_KEY, "1"); } catch (e) {}
+    });
+  }
 
   setDeck(false);
   showOverlay("menu");
@@ -952,7 +1014,47 @@ const tJson = JSON.stringify(t);
       0 30px 80px rgba(0, 0, 0, 0.55),
       inset 0 0 0 4px #1a1a1a,
       inset 0 0 0 6px #2a2a2a;
+    /* Stop iOS rubber-band scroll from yanking the URL bar back into view
+     * while playing. Contained on the cabinet so the rest of the page can
+     * still scroll normally if the user exits fullscreen. */
+    overscroll-behavior: contain;
   }
+
+  /* iOS "Add to Home Screen" hint — shown once on iOS Safari that hasn't
+   * yet added the game to the home screen. Hidden everywhere else. */
+  .kombat-a2hs {
+    margin-top: var(--s-3, 14px);
+    width: min(360px, 92%);
+    background: rgba(10, 10, 12, 0.78);
+    border: 1.5px solid var(--kg-yellow);
+    color: var(--kg-text);
+    padding: 10px 12px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .kombat-a2hs[hidden] { display: none; }
+  .kombat-a2hs-text { color: var(--kg-text); }
+  .kombat-a2hs-dismiss {
+    appearance: none;
+    background: transparent;
+    border: 1px solid var(--kg-text-dim);
+    color: var(--kg-text-dim);
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 1;
+    display: grid;
+    place-items: center;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .kombat-a2hs-dismiss:active { background: rgba(255, 255, 255, 0.08); }
   .kombat-marquee {
     display: flex; justify-content: center; align-items: center;
     gap: 14px; padding: 6px 0 12px;

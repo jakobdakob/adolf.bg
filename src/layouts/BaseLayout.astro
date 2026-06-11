@@ -21,8 +21,15 @@ interface Props {
   drawerSection?: "ortho" | "trauma" | "anatomy";
   /** Slug of the current topic (for active state in drawer). */
   activeSlug?: string;
+  /**
+   * "App-shell" mode — emit the iOS standalone / PWA meta tags so the
+   * page (e.g. the game) can run chromeless when added to home screen.
+   * Defaults to false so the standard topic / qbank / landing pages keep
+   * their normal Safari chrome and pinch-to-zoom behaviour.
+   */
+  appShell?: boolean;
 }
-const { lang, title, description, otherPath, currentSection = "home", showMenuButton = true, drawerSection, activeSlug } = Astro.props;
+const { lang, title, description, otherPath, currentSection = "home", showMenuButton = true, drawerSection, activeSlug, appShell = false } = Astro.props;
 const initialSection: "ortho" | "trauma" | "anatomy" =
   drawerSection ?? (currentSection === "trauma" || currentSection === "anatomy" ? currentSection : "ortho");
 const t = ui[lang];
@@ -39,11 +46,28 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
 <html lang={lang}>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    {appShell ? (
+      <Fragment>
+        {/* App-shell pages opt into a chromeless viewport: viewport-fit=cover
+            so the canvas extends into the iPhone safe areas, and
+            user-scalable=no so accidental pinch-zoom mid-game doesn't break
+            the layout. */}
+        <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="apple-mobile-web-app-title" content="Boychev Kombat" />
+        <meta name="theme-color" content="#0a0d12" />
+      </Fragment>
+    ) : (
+      <Fragment>
+        <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+        <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#0F0F12" media="(prefers-color-scheme: dark)" />
+      </Fragment>
+    )}
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
-    <meta name="theme-color" content="#FAF9F7" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#0F0F12" media="(prefers-color-scheme: dark)" />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang={lang} href={canonical} />
     <link rel="alternate" hreflang={lang === "bg" ? "en" : "bg"} href={otherAbs} />

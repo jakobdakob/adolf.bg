@@ -195,6 +195,17 @@ The complications of the posterior cervical approach include vertebral artery in
 
 ## Occipito-C1–C2 Fusion and Atlantoaxial Instability
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical lineage — cranio-cervical surgery</span>
+  <p>The surgery of the skull and cervical spinal cord in its modern form is the product of the late 19th century, when Listerian antiseptic wound management turned trepanation from a life-threatening risk into a routine intervention. The textbook source is *Die chirurgische Behandlung von Hirnkrankheiten* by Ernst von Bergmann (Berlin, 1889) — the first systematic presentation of the surgery of the skull and brain as a discipline in its own right.</p>
+  <ul>
+    <li><strong>Bergmann 1889</strong> — *Die chirurgische Behandlung von Hirnkrankheiten*; cranio-cervical approaches, antisepsis of trepanation (<a href="https://archive.org/details/diechirurgische00berggoog">Facsimile</a>).</li>
+    <li><strong>Krause 1900s</strong> — posterior cranio-cervical approaches, cerebellar tumours.</li>
+    <li><strong>Cushing 1910s</strong> — suboccipital approach with sparing of the vertebral artery.</li>
+    <li><strong>Gallie 1939</strong> → <strong>Brooks-Jenkins 1978</strong> → <strong>Magerl 1987</strong> → <strong>Harms 2001</strong> — the evolution of posterior C1–C2 fixation from cable systems through pedicle and lateral mass screws.</li>
+  </ul>
+</aside>
+
 Atlantoaxial instability (from trauma, os odontoideum, hypoplastic or non-united dens, rheumatoid arthritis, local infection, congenital syndromes such as Down syndrome) requires C1–C2 arthrodesis; with involvement of the occipitocervical junction, an occipito-C1–C2 fusion is required. Classic posterior techniques — Gallie (1939, single sublaminar cable through the C1 arch and around the C2 spinous process) and Brooks-Jenkins (1978, paired biconcave bone blocks fixed with paired cables) — use cable or wire fixation with interposition of cortico-cancellous bone graft from the tibia or iliac crest. The modern standard is the Magerl technique (transarticular C1–C2 screws across the joint) or the Harms technique (C1 lateral mass screws and C2 pedicle/pars screws connected by a rod) — both are biomechanically more stable than cable-only constructs and do not require an intact C1 lamina. Occipitocervical fixation adds screws to the occiput (midline in the dense median occipital crest or laterally in the occipital condyles) with a plate or rod linked to the C1–C2 construct.
 
 The anatomical hazard during suboccipital dissection is the vertebral artery in its third segment (V3): the artery runs along the upper border of the posterior arch of the atlas in a characteristic loop over the lateral mass of C1, and in a vertical groove on C2 just over the lateral third of the axis lamina. Exceeding 1.5 cm lateral to the midline during subperiosteal dissection of the C1 arch is a direct hazard to the artery. The posterior branch of C2 (third occipital nerve) runs over the C1 arch and supplies the semispinalis capitis — injury produces localized posterior cervical anesthesia.
@@ -448,6 +459,15 @@ Triradiate-like anatomy at the vertebral level: The neurocentral synchondrosis b
     <span class="md-figure-attribution"> · Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
+
+## Sources and Classical Literature
+
+Spinal and cranio-cervical surgery have classical textbook sources from the turn of the 19th to the 20th century whose evolution and modern standards still bear a kinship with the following original works:
+
+- **Bergmann** (1889): *Die chirurgische Behandlung von Hirnkrankheiten* (Berlin: Hirschwald). The first systematic presentation of cranio-cerebral and cranio-cervical surgery. · [Facsimile](https://archive.org/details/diechirurgische00berggoog)
+- **Bier / Braun / Kümmell** (1920): *Chirurgische Operationslehre*, vol. 1 — general surgery and the cranio-cervical field. · [Facsimile](https://archive.org/details/chirurgischeoperationslehre1920v1)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* (Stuttgart: Enke) — chapters on scoliosis, thoracic curvature, and orthopaedic treatment of the spine before the industrial era of instrumented fusion. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Langenbeck-Archiv für klinische Chirurgie** (from 1860): first descriptions of many cranio-cervical procedures and eponyms. · [Series on Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)
 
 ## Summary and Take-Home Points
 

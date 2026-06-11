@@ -35,7 +35,7 @@ const playUrl = `/${lang}/qbank/game/`;
       <h1 class="hero-display">{heroTitle}</h1>
       <p class="hero-subtitle">{heroSubtitle}</p>
       <div class="hero-feedback">
-        <a href={playUrl} class="btn btn-play hero-mobile-only">{ctaPlay} ▶</a>
+        <a href={playUrl} class="btn btn-play">{ctaPlay} ▶</a>
         <a href={viberChat} class="btn btn-viber" rel="external">{ctaFeedback}</a>
       </div>
     </div>
@@ -125,11 +125,8 @@ const playUrl = `/${lang}/qbank/game/`;
     align-items: flex-start;
     gap: var(--s-3);
   }
-  /* The mobile-only Play CTA stays hidden on desktop. */
-  .hero-mobile-only { display: none; }
-  @media (max-width: 759px) {
-    .hero-mobile-only { display: inline-flex; }
-  }
+  /* (Play CTA used to be mobile-only via .hero-mobile-only — now shown on
+   * every viewport above the Viber button.) */
   .btn-play {
     background: #14110F;
     color: #FAF9F7;

@@ -167,7 +167,20 @@ const tJson = JSON.stringify(t);
   data-enemies={enemiesJson}
   data-t={tJson}
 >
-  <div class="kombat-cabinet">
+  <div class="kombat-cabinet" data-kombat-cabinet>
+    <!-- Mobile fullscreen toggle. Tries the real Fullscreen API first,
+         falls back to a CSS pseudo-fullscreen mode (position:fixed) on
+         iPhone Safari which doesn't support the API on non-video els.
+         The button is hidden on desktop via CSS. -->
+    <button
+      type="button"
+      class="kombat-fs-toggle"
+      data-kombat-fs-toggle
+      aria-label="Fullscreen"
+    >
+      <span data-kombat-fs-icon>⛶</span>
+    </button>
+
     <div class="kombat-marquee" aria-hidden="true">
       <span class="kombat-marquee-dot" />
       <span class="kombat-marquee-text">BOYCHEV KOMBAT · 100% MED-CERTIFIED</span>
@@ -833,8 +846,70 @@ const tJson = JSON.stringify(t);
     nextEnemy();
   }
 
+  // -- Fullscreen (touch-first; iPhone-friendly fallback) -------------
+  // iPhone Safari does NOT implement the Fullscreen API on non-video
+  // elements, so for it we use a CSS pseudo-fullscreen: the cabinet gets
+  // position:fixed; inset:0; z-index: 9999; with an ✕ EXIT button.
+  const fsToggle = root.querySelector("[data-kombat-fs-toggle]");
+  const cabinet  = root.querySelector("[data-kombat-cabinet]");
+  const fsIcon   = root.querySelector("[data-kombat-fs-icon]");
+
+  function isFullscreenActive() {
+    return !!(document.fullscreenElement || document.webkitFullscreenElement) ||
+           cabinet.classList.contains("is-pseudo-fs");
+  }
+  function setFsIcon() {
+    if (fsIcon) fsIcon.textContent = isFullscreenActive() ? "✕" : "⛶";
+    if (fsToggle) fsToggle.setAttribute(
+      "aria-label",
+      isFullscreenActive() ? "Exit fullscreen" : "Fullscreen",
+    );
+  }
+  function enterPseudoFs() {
+    cabinet.classList.add("is-pseudo-fs");
+    document.body.classList.add("kombat-fs-lock");
+    setFsIcon();
+  }
+  function enterFullscreen() {
+    const el = cabinet;
+    if (el.requestFullscreen) {
+      el.requestFullscreen().catch(enterPseudoFs);
+    } else if (el.webkitRequestFullscreen) {
+      try { el.webkitRequestFullscreen(); } catch (e) { enterPseudoFs(); }
+    } else {
+      // iPhone Safari path
+      enterPseudoFs();
+    }
+  }
+  function exitFullscreen() {
+    if (document.fullscreenElement && document.exitFullscreen) {
+      document.exitFullscreen().catch(() => {});
+    } else if (document.webkitFullscreenElement && document.webkitExitFullscreen) {
+      try { document.webkitExitFullscreen(); } catch (e) {}
+    }
+    cabinet.classList.remove("is-pseudo-fs");
+    document.body.classList.remove("kombat-fs-lock");
+    setFsIcon();
+  }
+  if (fsToggle) {
+    fsToggle.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      if (isFullscreenActive()) exitFullscreen();
+      else enterFullscreen();
+    });
+  }
+  document.addEventListener("fullscreenchange", setFsIcon);
+  document.addEventListener("webkitfullscreenchange", setFsIcon);
+  // ESC exits the pseudo-fs too (browser won't fire fullscreenchange for it).
+  document.addEventListener("keydown", (ev) => {
+    if (ev.key === "Escape" && cabinet.classList.contains("is-pseudo-fs")) {
+      exitFullscreen();
+    }
+  });
+
   setDeck(false);
   showOverlay("menu");
+  setFsIcon();
 })();
 </script>
 
@@ -909,12 +984,18 @@ const tJson = JSON.stringify(t);
     position: relative;
     aspect-ratio: 16 / 9;
     background:
-      /* dark gradient veil so the HUD/fighters stay readable */
-      linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.25) 45%, rgba(0,0,0,0.78) 100%),
-      /* hospital photo — staged at public/game/hospital-bg.jpg; falls through to gradient if missing */
-      url("/game/hospital-bg.jpg") center 35% / cover no-repeat,
-      radial-gradient(110% 90% at 50% 30%, rgba(20,42,40,0.65) 0%, rgba(0,0,0,0) 60%),
-      linear-gradient(180deg, var(--kg-screen-a), var(--kg-screen-b));
+      /* dark veil so the HUD + fighters stay readable on top of the photo */
+      linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.22) 42%, rgba(0,0,0,0.82) 100%),
+      /* hospital photo — drop the JPG at public/game/hospital-bg.jpg
+       * (the screenshot you sent). CSS layers fall through to the
+       * procedural stormy-stage gradient below until the file exists. */
+      url("/game/hospital-bg.jpg") center 38% / cover no-repeat,
+      /* procedural fallback: distant treeline silhouette + wet pavement
+       * reflection + stormy sky, evoking the photo's mood */
+      radial-gradient(ellipse 90% 30% at 50% 95%, rgba(60, 70, 80, 0.4) 0%, rgba(0,0,0,0) 60%),
+      radial-gradient(ellipse 60% 8% at 15% 65%, rgba(20, 25, 18, 0.8) 0%, rgba(0,0,0,0) 70%),
+      radial-gradient(ellipse 60% 8% at 85% 65%, rgba(20, 25, 18, 0.8) 0%, rgba(0,0,0,0) 70%),
+      linear-gradient(180deg, #0a0e16 0%, #1c2433 38%, #2a3540 60%, #14181c 78%, #050709 100%);
     border: 2px solid #000;
     border-radius: 6px;
     overflow: hidden;
@@ -1455,6 +1536,107 @@ const tJson = JSON.stringify(t);
     border-color: #ff4040;
   }
 
+  /* Fullscreen toggle (mobile-first; hidden on desktop) ----------- */
+  .kombat-fs-toggle {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 50;
+    appearance: none;
+    background: rgba(10, 10, 10, 0.75);
+    border: 2px solid var(--kg-yellow);
+    color: var(--kg-yellow);
+    font-family: inherit;
+    font-size: 16px;
+    line-height: 1;
+    width: 40px;
+    height: 40px;
+    display: none;            /* desktop default — hidden */
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    text-shadow: 1px 1px 0 #000;
+    box-shadow: 0 3px 0 #000;
+  }
+  .kombat-fs-toggle:active { transform: translateY(2px); box-shadow: 0 1px 0 #000; }
+
+  /* Native :fullscreen state — neutralise the absolute toggle so it
+     stays in the screen corner inside the FS viewport */
+  .kombat-cabinet:fullscreen,
+  .kombat-cabinet:-webkit-full-screen {
+    background: #000;
+    border-radius: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+  }
+  .kombat-cabinet:fullscreen .kombat-marquee,
+  .kombat-cabinet:-webkit-full-screen .kombat-marquee { display: none; }
+  .kombat-cabinet:fullscreen .kombat-bezel,
+  .kombat-cabinet:-webkit-full-screen .kombat-bezel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .kombat-cabinet:fullscreen .kombat-screen,
+  .kombat-cabinet:-webkit-full-screen .kombat-screen {
+    flex: 1;
+    aspect-ratio: auto;
+    border: 0;
+    border-radius: 0;
+  }
+
+  /* Pseudo-fullscreen — used on iPhone Safari which can't FS arbitrary
+     elements. Lift the whole cabinet over everything. */
+  .kombat-cabinet.is-pseudo-fs {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    width: 100vw;
+    height: 100vh;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    background: #000;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    display: flex;
+    flex-direction: column;
+  }
+  .kombat-cabinet.is-pseudo-fs .kombat-marquee { display: none; }
+  .kombat-cabinet.is-pseudo-fs .kombat-bezel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+  }
+  .kombat-cabinet.is-pseudo-fs .kombat-screen {
+    flex: 1;
+    aspect-ratio: auto;
+    min-height: 50vh;
+    border: 0;
+    border-radius: 0;
+  }
+  /* Lock page scroll behind the pseudo-fs cabinet */
+  :global(body.kombat-fs-lock) {
+    overflow: hidden !important;
+    height: 100vh !important;
+    touch-action: none;
+  }
+
   /* ============================================================
    * iPhone / touch-first layout
    * Triggered on small viewports or coarse pointers (any touch device).
@@ -1466,6 +1648,7 @@ const tJson = JSON.stringify(t);
    * - Safe-area-inset-bottom respects iPhone home indicator.
    * ============================================================ */
   @media (max-width: 759px), (pointer: coarse) {
+    .kombat-fs-toggle { display: flex; }
     .kombat-cabinet {
       max-width: 100%;
       margin: 0 auto;
@@ -1473,6 +1656,7 @@ const tJson = JSON.stringify(t);
       border-radius: 0;
       background: #000;
       box-shadow: none;
+      position: relative;
     }
     .kombat-marquee { padding: 8px 6px 6px; font-size: 0.5rem; }
     .kombat-bezel {

@@ -17,6 +17,16 @@ The radius is the lateral bone of the forearm and the principal weight-bearing b
 
 The distal radioulnar joint (DRUJ) between the ulnar head and the sigmoid notch of the radius is stabilized by the palmar and dorsal radioulnar ligaments, the triangular fibrocartilage complex (TFCC), the interosseous membrane, the pronator quadratus, and the ulnar collateral ligament.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-ulna-supination.svg" data-figure-alt="Radius and ulna in supination" aria-label="Enlarge">
+    <img src="/img/anatomy-5/radius-ulna-supination.svg" alt="Radius and ulna in supination" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Right radius and ulna in supination (3D rendering from DBCLS): the two bones lie parallel; pronation requires the radius to swing around the ulna in the proximal and distal radioulnar joints, while the interosseous membrane redistributes load. Loss of radial bow after a diaphyseal fracture ([Topic Trauma-16](/en/trauma/16/)) limits rotation, and is the principal reason for the rigour of classical AO compression plating (Müller-Allgöwer-Schneider) in both-bone forearm fractures.</span>
+    <span class="md-figure-attribution"> · DataBase Center for Life Science (DBCLS), <a href="https://commons.wikimedia.org/wiki/File:202202_Anterior_view_of_right_radius_and_ulna_in_supination.svg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 ## Muscular Compartments
 
 <figure class="md-figure">
@@ -33,9 +43,39 @@ The forearm has two principal compartments — the volar (flexor-pronator) and d
 
 ## Volar (Flexor) Compartment
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/pronator-teres.png" data-figure-alt="Pronator teres and superficial volar layer" aria-label="Enlarge">
+    <img src="/img/anatomy-5/pronator-teres.png" alt="Pronator teres and superficial volar layer" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Superficial volar layer of the forearm (Gray's plate): pronator teres, FCR, palmaris longus, and FCU from the common flexor origin on the medial epicondyle. The two heads of pronator teres (humeral and ulnar) form the upper-ulnar border of the cubital fossa and compress the median nerve in pronator-teres syndrome — a classical indication for neurolysis through the Konforti-Paneva fascial-tunnel release.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-flexors-deep.png" data-figure-alt="Deep volar flexor layer" aria-label="Enlarge">
+    <img src="/img/anatomy-5/forearm-flexors-deep.png" alt="Deep volar flexor layer" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Deep flexor layer: FDP, FPL, and pronator quadratus with the median nerve and AIN deep against the interosseous membrane. This is the working plane of the Henry approach to the mid- and distal third of the radius — between FCR and the radial artery, with pronator quadratus detached from its radial insertion to expose the volar surface of the distal third for plate fixation of distal radius fractures ([Topic Trauma-17](/en/trauma/17/)).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray419.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The volar compartment is organized in three layers: Superficial layer: From radial to ulnar — pronator teres, flexor carpi radialis (FCR), palmaris longus (PL, absent in approximately 14 percent of population), flexor carpi ulnaris (FCU). These muscles originate from the medial epicondyle of the humerus (the common flexor origin) and pass distally to their insertions. Intermediate layer: Flexor digitorum superficialis (FDS) — originating from the medial epicondyle and proximal radius and ulna, with tendons to the middle phalanges of the fingers. Deep layer: Flexor digitorum profundus (FDP), flexor pollicis longus (FPL), and pronator quadratus. FDP originates from the ulna and interosseous membrane, FPL from the radius and interosseous membrane, and pronator quadratus distally from the ulna to the radius. The median nerve runs in the volar compartment between the FDS and FDP layers along the midline; the anterior interosseous nerve (AIN) is a deep branch running along the interosseous membrane. The ulnar nerve runs ulnar to the FDP, deep to the FCU. The radial artery runs along the radial side, deep to the brachioradialis. The ulnar artery runs along the ulnar side, deep to the FCU.
 
 ## Dorsal (Extensor) Compartment
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-extensors.png" data-figure-alt="Dorsal forearm extensors" aria-label="Enlarge">
+    <img src="/img/anatomy-5/forearm-extensors.png" alt="Dorsal forearm extensors" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Dorsal extensors of the forearm: superficial layer (EDC, EDM, ECU from the lateral epicondyle) and deep layer (APL, EPB, EPL, EI, supinator). The outcropping muscle bellies of APL and EPB cross over ECRL right at the anatomical snuffbox — the anatomical substrate of de Quervain's tenosynovitis, treated by classical release of the first dorsal extensor compartment.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray422.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The dorsal compartment is organized into: Superficial layer: From radial to ulnar — extensor digitorum communis (EDC), extensor digiti minimi (EDM), extensor carpi ulnaris (ECU). These muscles originate from the lateral epicondyle (the common extensor origin). Deep layer: Abductor pollicis longus (APL), extensor pollicis brevis (EPB), extensor pollicis longus (EPL), extensor indicis (EI), supinator. These deep muscles arise variously from the radius, ulna, and interosseous membrane. The posterior interosseous nerve (PIN) passes through the supinator (via the arcade of Frohse) and runs along the posterior surface of the interosseous membrane, supplying the dorsal compartment muscles. The posterior interosseous artery runs with the nerve.
 
@@ -97,6 +137,16 @@ In the deep volar compartment lies the space of Pirogov (spatium antebrachii pro
 
 ## The Henry Approach to the Radius (Volar Approach)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/henry-volar-anatomy.png" data-figure-alt="Volar forearm anatomy — Henry approach" aria-label="Enlarge">
+    <img src="/img/anatomy-5/henry-volar-anatomy.png" alt="Volar forearm anatomy — Henry approach" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Superficial volar forearm musculature with brachioradialis laterally and FCR medially — the interval used by the Henry approach for exposure of the entire length of the radius. The radial artery runs between the two, slightly to the ulnar side.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray418.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The Henry approach (A. K. Henry, 1927) is the classical volar approach to the radius, providing access for plate fixation of radial shaft fractures, biopsy of the radius, exposure of the radial artery, and anterior approach to forearm tumors.
 
 ## Patient Positioning
@@ -124,6 +174,16 @@ The brachioradialis is retracted laterally; the FCR is retracted medially. In th
 The complications of the Henry approach include PIN injury (the principal concern; minimized by forearm supination and careful subperiosteal elevation of the supinator), superficial radial nerve injury (with painful neuroma if branches are damaged), radial artery injury (rare but can occur with vigorous retraction), and median nerve injury (uncommon, more likely with proximal extension of the dissection).
 
 ## The Thompson Approach to the Radius (Dorsal Approach)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/thompson-dorsal-anatomy.png" data-figure-alt="Dorsal forearm anatomy — Thompson approach" aria-label="Enlarge">
+    <img src="/img/anatomy-5/thompson-dorsal-anatomy.png" alt="Dorsal forearm anatomy — Thompson approach" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Dorsal forearm musculature: the interval between ECRB (radial nerve) and EDC (PIN) used by the Thompson approach, with the course of the PIN through the supinator at the arcade of Frohse — the structure at greatest risk during dissection.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray421.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The Thompson approach (J. E. Thompson, 1918) provides dorsal access to the radius, used for plate fixation of proximal-third radial fractures (where the volar Henry approach risks the PIN), exposure of the proximal radius in selected pathologies, and dorsal approach to forearm tumors.
 
@@ -263,6 +323,16 @@ Classical principles (formulated by Jaschar/Chaklar):
 3. Active extension of the proximal phalanges (II–V) and of the thumb distal phalanx must be restored — EDC and EPL can be activated by a single motor as they are synergistic.
 4. EPL and EPB are extension synergists but adduction–abduction antagonists; therefore separate motors are recommended for EPB and APL.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radial-nerve-anatomy.png" data-figure-alt="Radial nerve and PIN anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-5/radial-nerve-anatomy.png" alt="Radial nerve and PIN anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Course of the radial nerve and PIN in the proximal forearm — the anatomical basis for understanding levels of palsy and for planning the Jaschar/Chaklar, Boyes, and Franke transfers (PT → ECRB; FCR/FCU → EDC; PL → EPL).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray420.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Jaschar/Chaklar transfers: pronator teres → wrist extensors (ECRL/ECRB); FCU → EDC + EPL; PL (or FDS of middle/ring finger if PL absent) → APL + EPB.
 
 Boyes transfers: PT → ECRB (wrist extension); FCR → APL + EPB; FDS III through the interosseous membrane → EDC; FDS IV through the membrane → EPL + EIP. Technically demanding but provides independent thumb extension and fine segmental control, especially useful for skilled-handed patients and musicians.
@@ -275,6 +345,36 @@ Low radial palsy (PIN syndrome with finger extension loss but preserved wrist ex
 </aside>
 
 ## Plate Osteosynthesis of the Forearm Bones (Paneva)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-fracture.png" data-figure-alt="Radial shaft fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-5/radius-fracture.png" alt="Radial shaft fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Two-view (AP + lateral) radiograph of a displaced radial shaft fracture: the classical indication for compression plate osteosynthesis (Müller-Allgöwer-Schneider, AO standard 1969) — reconstruction of the radial bow is critical for restoring pronation and supination.</span>
+    <span class="md-figure-attribution"> · Laboratoires Servier, <a href="https://commons.wikimedia.org/wiki/File:Forearm_fracture_-_Radius_fracture_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/galeazzi-fracture.jpg" data-figure-alt="Galeazzi fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-5/galeazzi-fracture.jpg" alt="Galeazzi fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Galeazzi fracture (pre and post): a distal-third radius fracture with DRUJ dislocation. Classical Bulgarian and AO practice is plate osteosynthesis of the radius through a volar Henry approach, followed by DRUJ assessment with immobilisation of the forearm in supination for 4–6 weeks when the DRUJ is stable; an unstable DRUJ requires a trans-ulnoradial K-wire for 6 weeks.</span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi-Fraktur_Roentgen_ap_und_seitlich_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/monteggia-fracture.jpg" data-figure-alt="Monteggia fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-5/monteggia-fracture.jpg" alt="Monteggia fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Monteggia fracture (Bado type I): diaphyseal ulnar fracture with anterior dislocation of the radial head — described by Giovanni Battista Monteggia (1814) and classified by Bado (1967) into four types by the direction of the radial head. Treatment principle is stable osteosynthesis of the ulna, which usually reduces the radial head; persistent dislocation is the indication for open reduction and possible annular ligament reconstruction.</span>
+    <span class="md-figure-attribution"> · Jane Agnes, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Classical indications for compression plating of both radius and ulna in the Bulgarian tradition (Paneva and colleagues) are transverse and slightly oblique fresh diaphyseal fractures that are difficult to reduce and maintain reduced, old non-displaced fractures, malunions, and atrophic nonunions. The radius is approached predominantly by Henry (anterolateral); Thompson (dorsal) is preferred in mid-shaft fractures where the volar soft tissues are compromised.
 
@@ -315,6 +415,16 @@ For old Monteggia injuries with unreduced radial head (especially in children wh
 When the radial head reduces freely with ulnar alignment alone (instability due only to ulnar shortening and angulation), simple ulnar osteosynthesis with confirmation of stability at 120° of elbow flexion suffices, without separate annular reconstruction. In old injuries in adults with irreducible radial head (chronic head deformity or articular surface destruction), radial head excision is considered, with the load transfer to the wrist compensated by pronator quadratus tenodesis or distal Sauvé–Kapandji procedure.
 
 ## Madelung Deformity Correction
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/madelung-deformity.jpg" data-figure-alt="Madelung deformity radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-5/madelung-deformity.jpg" alt="Madelung deformity radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Madelung deformity radiograph: volar-ulnar growth arrest of the distal radius with dorsal subluxation of the distal ulna and characteristic "bayonet" wrist contour — indication for Darrach resection, Vickers physiolysis, or Sauvé–Kapandji procedure.</span>
+    <span class="md-figure-attribution"> · Otto Madelung (1878), <a href="https://commons.wikimedia.org/wiki/File:Diagrams_of_Madelung%27s_deformation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The Madelung deformity (congenital or acquired volar-ulnar subsidence of the distal radius from dysfunction of the volar-ulnar epiphysis with intact dorso-radial half and tethering by the Vickers ligament) is surgically corrected for significant functional or cosmetic deformity. The classical Bulgarian correction (Darrach) combines two elements: distal ulna resection (to unload the DRUJ and restore rotation) and wedge osteotomy of the distal radius with K-wire fixation. The ulnar resection follows the original Darrach technique: dorsal incision over the distal ulnar end, interval between ECU and EDM, DRUJ opened, ulna sectioned transversely or slightly obliquely 1.5–2 cm proximal to the styloid tip; the distal fragment is mobilized, the DRUJ capsule released, the styloid kept attached to the ulnar collateral ligament, and capsule with periosteum reattached over the remaining ulnar stump.
 
@@ -359,6 +469,16 @@ Alternative variants: lazy-S incision between 3rd and 4th compartments with a "1
 In severe trauma, tumor, or gangrene the forearm amputation must be performed as distally as possible to maximize stump function and future kinematization potential. Particularly unfavorable are very short stumps (less than 6 cm from the cubital crease), where prosthetic fitting is technically difficult and Krukenberg cineplasty is impossible.
 
 Classical technique: roughly equal volar and dorsal flaps (larger in more proximal amputations as soft tissues are bulkier). The radial, ulnar, and interosseous arteries are ligated; the three nerves (median, ulnar, radial) are exposed and sectioned sharply, then allowed to retract into the soft tissues (to avoid superficial neuromas). Flexor and extensor tendons are distributed roughly evenly between the two bones.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/krukenberg.svg" data-figure-alt="Krukenberg cineplasty" aria-label="Enlarge">
+    <img src="/img/anatomy-5/krukenberg.svg" alt="Krukenberg cineplasty" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Krukenberg-kineplastic forearm: the separated radial and ulnar pillars of the stump, each with autonomous muscular control, form a functional pincer grip with tactile feedback from the patient's own skin — particularly valuable in the blind amputee or in bilateral amputation.</span>
+    <span class="md-figure-attribution"> · Egmason, <a href="https://commons.wikimedia.org/wiki/File:Krukenburg.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Krukenberg cineplasty (F. Krukenberg, 1917) — one of the most elegant functional reconstructions of an amputated forearm: the stump is split into two pillars (radial and ulnar), each with autonomous muscle control, forming a functional "tweezers" grip without a prosthesis. The original indication is the blind amputee (bilateral amputation in a patient with visual impairment), where tactile feedback from the patient's own pillars provides a proprioceptive function unmatched by any prosthesis. The available muscles — pronator teres, brachialis, FCR, supinator (radial pillar) and FCU, FDS/FDP (ulnar pillar) — are distributed between the two pillars. The radial pillar is covered with the volar skin flap; the defect on the volar surface of the ulnar pillar is covered with a full-thickness perforated skin graft.
 

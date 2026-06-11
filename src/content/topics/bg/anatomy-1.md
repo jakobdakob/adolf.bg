@@ -33,6 +33,46 @@ order: 201
 
 Сакрум (S1-S5): Слети прешлени, формиращи задния пояс на таза; ala (латералната маса), сакралните отвори (предни и задни) и hiatus sacralis са ключовите ориентири; crista sacralis mediana е сливането на бодестите израстъци.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/atlas-c1.png" data-figure-alt="Атлас (C1) — първи шиен прешлен" aria-label="Увеличи">
+    <img src="/img/anatomy-1/atlas-c1.png" alt="Атлас (C1) — първи шиен прешлен" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Атлас (C1): пръстен без тяло, със странични маси, носещи горните ставни ямки за окципиталните кондили; foramen transversarium съдържа V3 сегмента на arteria vertebralis, който описва характерния „loop" над задния аркус — критичен ориентир при заден шиен достъп и окципито-цервикална фиксация.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray86.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/axis-c2.png" data-figure-alt="Аксис (C2) — втори шиен прешлен с dens" aria-label="Увеличи">
+    <img src="/img/anatomy-1/axis-c2.png" alt="Аксис (C2) — втори шиен прешлен с dens" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Аксис (C2) с одонтоидния израстък (dens): уникална морфология, осигуряваща ос на ротация на главата; ligamentum transversum atlantis задържа dens към предната дъга на C1. Фрактурата на dens (Anderson-D'Alonzo II) е една от най-честите краниоцервикални травми и определя оперативната тактика — заден C1-C2 спондилосинтез или преден винт по Böhler.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray87.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/cervical-vertebrae-lateral.png" data-figure-alt="Шийни прешлени, страничен изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-1/cervical-vertebrae-lateral.png" alt="Шийни прешлени, страничен изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Шийни прешлени (C1–C7), страничен изглед: тялата малки и плоски, бодестите израстъци раздвоени (C3–C6), C7 с особено дълъг неразделен бодест израстък (vertebra prominens); processus uncinati на горната повърхност на C3–C7 образуват унковертебралните стави (на Luschka); foramina transversaria съдържат arteria vertebralis от C6 (вход) до C2.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray91.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/sacral-plexus.svg" data-figure-alt="Сакрален плексус" aria-label="Увеличи">
+    <img src="/img/anatomy-1/sacral-plexus.svg" alt="Сакрален плексус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сакрален плексус (L4–S4): образува се от предните клонове на L4–L5 (lumbosacral trunk) и S1–S4, лежи върху m. piriformis в малкия таз и излъчва клонове, включително n. ischiadicus (S1–S3), n. gluteus superior (L4–S1) и n. pudendus (S2–S4); познаването на топографията му е критично при сакрални фрактури и при предни и постеролатерални достъпи до сакрума.</span>
+    <span class="md-figure-attribution"> · Mcstrother, <a href="https://commons.wikimedia.org/wiki/File:Sacral_plexus_schematic.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 ## Преден шиен достъп (достъп по Smith-Robinson)
 
 Предният шиен достъп — разработен от Smith и Robinson (1958) и усъвършенстван от Cloward и други — е основният достъп до предния шиен отдел на гръбначния стълб при предна цервикална дискектомия и фузия (ACDF), корпектомия, предна цервикална плочна остеосинтеза и достъп при тумори или инфекция.
@@ -50,6 +90,16 @@ order: 201
   <figcaption>
     <span class="md-figure-caption">Диаграматичен напречен срез на гръбначния мозък и обвивките му: dura mater, arachnoidea, pia mater, предно и задно коренче; ключово при достъпи към гръбначния канал и при оценка на спинална травма.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray770.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/spinal-cord-segments.png" data-figure-alt="Гръбначен мозък със спинални коренчета" aria-label="Увеличи">
+    <img src="/img/anatomy-1/spinal-cord-segments.png" alt="Гръбначен мозък със спинални коренчета" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Гръбначен мозък в обвивката си с двойките предни и задни коренчета, формиращи спиналните нерви: cervical (8 двойки), thoracic (12), lumbar (5), sacral (5) и coccygeal; conus medullaris завършва обикновено на ниво L1–L2, под което продължава cauda equina — анатомична основа за безопасна лумбална пункция и за поясни хирургични достъпи под нивото на конуса.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray793.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -90,6 +140,26 @@ Musculi longi colli: Двустранни мускули, покриващи п�
 </aside>
 
 ## Достъпи до краниоцервикалния преход (C1–C2)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-artery.png" data-figure-alt="Сегменти на arteria vertebralis" aria-label="Увеличи">
+    <img src="/img/anatomy-1/vertebral-artery.png" alt="Сегменти на arteria vertebralis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ход на arteria vertebralis през четирите ѝ сегмента: V1 (преди foramen transversarium, в ъгъла между m. longus colli и m. scalenus anterior), V2 (през foramina transversaria от C6 до C2), V3 (характерен „loop" над страничната маса на C1 и задния аркус на атласа) и V4 (интрадурален, обединяващ се с противоположния в a. basilaris); основа за разбирането на хирургичния риск при заден шиен достъп, окципито-цервикална фиксация и латерален цервикален достъп.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_artery.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/atlas-axis-from-above.png" data-figure-alt="Атлас и аксис, поглед отгоре" aria-label="Увеличи">
+    <img src="/img/anatomy-1/atlas-axis-from-above.png" alt="Атлас и аксис, поглед отгоре" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Атлас и аксис, поглед отгоре: dens на C2 артикулира с предната дъга на C1, фиксиран дорзално от ligamentum transversum atlantis; ротацията на главата (≈50% от общата шийна ротация) се осъществява в C1–C2; foramina transversaria на C1 показват извития ход на arteria vertebralis преди V3-сегмента — обяснява защо винтовете в страничната маса на C1 трябва да бъдат поставени по конвергираща, краниално насочена траектория.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray308.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Зоната C1–C2 (атлантоаксиална става, dens, преден аркус на атласа, кливус) е извън обхвата на стандартния преден достъп по Smith-Robinson и изисква специализирани достъпи, формирани в края на 50-те и 60-те години на ХХ в. от Robinson и Smith (1955), Bailey–Badgley, Dereymaeker и Müller (1956), Cloward (1958), Fang и Hodgson (1962) и техните последователи. Изборът между трансорален, преден ретрофарингеален субмандибуларен, трансхиоиден, латерален или заден достъп се определя от локализацията на патологията (предна versus задна колона), от това дали се изисква достъп до кливуса или само до тялото на аксиса, и от наличието на нестабилност, изискваща съчетана задна стабилизация — която при повечето предни горноцервикални процедури е задължителна като втори етап.
 
@@ -179,6 +249,26 @@ Ligamentum nuchae: Фиброзната преграда по средната �
 
 Класическият първи етап при шийна фрактура-луксация е затворена редукция чрез скелетна тракция. Скобите за директна екстензия — въведени от G. Smith, но запазили името на Crutchfield (с алтернативи Barton, Blackburn и Vinke) — се поставят над париеталните туберкули на разстояние около 10–11 см между двата винта, проникнал в страничната кортикала на черепа на дълбочина 4 мм. Винтовете не трябва да пронизват вътрешната кортикала (опасност от епидурален хематом или пробив в синусите). Прилага се прогресивно тегло от 2.5 кг до 6–8 кг (около 1 кг на ниво при долните шийни нива) под рентгенологичен контрол на всеки 30 минути.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/halo-brace.png" data-figure-alt="Halo апарат за шийна имобилизация" aria-label="Увеличи">
+    <img src="/img/anatomy-1/halo-brace.png" alt="Halo апарат за шийна имобилизация" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Halo апарат за шийна тракция и стабилизация: четирипунктна фиксация на черепа (два париетални и два фронтални винта) с пръстен, свързан с гръдна жилетка чрез вертикални пръти; класическата българска конструкция на Каймакчиев, Танчев и Стефанов (1982) използва пръстен с по-малък горен от долен диаметър, позволяващ перпендикулярно завинтване с по-стабилно захващане.</span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Halo_Brace.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/cervical-spine-mri.jpg" data-figure-alt="Сагитална MRI на шиен отдел" aria-label="Увеличи">
+    <img src="/img/anatomy-1/cervical-spine-mri.jpg" alt="Сагитална MRI на шиен отдел" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сагитална MRI на шиен отдел (T2-претеглена) — изобразяват се прешленните тела, дисковете, гръбначният мозък в обвивката си и краниоцервикалният преход; задължителен образ след тежка шийна травма за откриване на гръбначно-мозъчен оток, дисково увреждане и лигаментарно нараняване (синдром на SCIWORA).</span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Cervical_MRI_R_T1WFSE_G_T2WfrFSE_STIR_B_07.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Halo-тракцията осигурява четирипунктна фиксация (двата париетални винта плюс два фронтални винта над веждите, в страничната трета от веждата за избягване на nervi supraorbitalis и supratrochlearis). В България халото е въведено от Г. Каймакчиев, П. Танчев и Л. Стефанов (1982) в конструкция с по-малък горен от долен диаметър, която позволява винтовете да се завинтват перпендикулярно на черепната повърхност с по-стабилно захващане.
 
 Тракционният тест за разграничаване на скъсана от блокирана ставна фасета: прогресивна тракция до 8 кг в продължение на 24 часа репозиционира фрактурирана фасета (елементите се връщат при разтоварване на блокиращата геометрия), но не репозиционира блокирана (заключена) фасета — последната изисква отворена редукция или директна манипулация под флуороскопия. Допустимото остатъчно скъсяване след редукция е под 3 мм с цел запазване на сагиталния диаметър на канала.
@@ -218,6 +308,16 @@ Halo-тракцията осигурява четирипунктна фикса
 
 
 ## Торакотомия
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/thoracic-vertebra.png" data-figure-alt="Гръден прешлен, страничен изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-1/thoracic-vertebra.png" alt="Гръден прешлен, страничен изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Типичен гръден прешлен, страничен изглед: ребрените ямки (полуямки на горния и долния ръб на тялото за главичките на ребрата; пълна ямка на напречния израстък за туберкулума на реброто); дългите, наклонени каудално бодести израстъци (T5–T8 проектират ~1 ниво под собственото тяло) — важно при планиране на торакотомен разрез, костотрансверзектомия и при идентификация на ниво интраоперативно.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray112.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Класическият торакотомен достъп до гръдния гръбнак използва странично положение с изпъкналата страна на деформацията (или страната на патологията) нагоре. Кожният разрез е успореден на реброто (обикновено две ребра над желаното ниво, тъй като ребрата са наклонени каудално). Musculus latissimus dorsi, musculus trapezius и musculi rhomboidei се разсичат или ретрахират; musculus serratus anterior се разсича за излагане на гръдната стена. Субпериостална резекция на реброто (или разпъване на ребра без резекция при някои процедури) осигурява влизане в гръдната кухина. Белият дроб се изпуска (с използване на двулуменна ендотрахеална тръба за селективна вентилация). Parietal pleura се отваря над прешленното тяло, сегментните съдове се идентифицират и лигират, след което прешленното тяло се излага.
 
@@ -259,6 +359,16 @@ Halo-тракцията осигурява четирипунктна фикса
   <figcaption>
     <span class="md-figure-caption">Сагитална T2 MRI на лумбалния гръбначен стълб: нормална височина и сигнал на дисковете, физиологична лордоза, гръбначен канал; основа за планиране на преден ретроперитонеален достъп и оценка на дискова дегенерация.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/disc-herniation-mri.svg" data-figure-alt="Лумбална дискова херния, схема MRI" aria-label="Увеличи">
+    <img src="/img/anatomy-1/disc-herniation-mri.svg" alt="Лумбална дискова херния, схема MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лумбална дискова херния, схематична MRI представа: екструдиран дисков фрагмент компресира преминаващ нервен корен в страничния рецесус и/или невралния отвор. Хирургичните показания за дискектомия (от Caspar 1977 микродискектомия до Yasargil 1968 микрохирургия) се основават на корелация между клиничната радикулопатия и образа; чисто аксиална лумбална болка без радикулопатия рядко изисква дискектомия.</span>
+    <span class="md-figure-attribution"> · Tonbi_ko, <a href="https://commons.wikimedia.org/wiki/File:Spinal_disc_herniation_MRI.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -413,6 +523,16 @@ Fascia thoracolumbalis: Дебелият фасциален слой, покри
 Трирадиатоподобна анатомия на ниво прешлен: Невроцентралната синхондроза между тялото и задните елементи е основната растежна зона на спиналния канал; ятрогенното й увреждане предизвиква стеноза на канала.
 
 Корекция на сколиоза: Педиатричната корекция на сколиоза (Тема Ортопедия-14) използва както предни, така и задни достъпи, като задните педикуларни конструкции са съвременният стандарт. Предните достъпи са запазени за избрани показания (ригидна деформация, изискваща предна мобилизация; много малки пациенти, нуждаещи се от обширна модулация на растежа).
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/scoliosis-cobb.svg" data-figure-alt="Ъгъл на Cobb при сколиоза" aria-label="Увеличи">
+    <img src="/img/anatomy-1/scoliosis-cobb.svg" alt="Ъгъл на Cobb при сколиоза" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Метод на Cobb (1948) за измерване на сколиотичната кривина: горната крайна пластинка на най-наклонения горен прешлен и долната крайна пластинка на най-наклонения долен прешлен дефинират ъгъла между перпендикулярите им. Кривини над 50° (зрял скелет) или над 45° (растящ скелет) са показани за оперативна корекция; стандартен показатели и в българската школа на В. Танчев и Г. Каймакчиев за индикацията на инструментирана спондилодеза при идиопатична юношеска сколиоза.</span>
+    <span class="md-figure-attribution"> · Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Vertebra plana: При деца еозинофилният гранулом (хистиоцитоза на Лангерхансовите клетки) предизвиква класическата деформация vertebra plana, която обикновено оздравява с наблюдение.
 

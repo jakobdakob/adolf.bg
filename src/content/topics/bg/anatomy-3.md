@@ -23,6 +23,36 @@ order: 203
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-posterior.png" data-figure-alt="Humerus, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-3/humerus-posterior.png" alt="Humerus, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ляв humerus, заден изглед: ясно се виждат sulcus radialis (спирален жлеб) пресичащ диафизата от медио-горно към латеро-долно, fossa olecrani дистално и epicondylus medialis с жлеба на n. ulnaris — основни ориентири при заден достъп до диафизата и при дистална хумерусна остеосинтеза.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray208.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-longitudinal.png" data-figure-alt="Надлъжен срез на главата на humerus" aria-label="Увеличи">
+    <img src="/img/anatomy-3/humerus-longitudinal.png" alt="Надлъжен срез на главата на humerus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Надлъжен срез през главата на левия humerus: дебелата субхондрална кост и трабекуларната ориентация по натоварващите оси — анатомична основа на класификацията на проксималните хумерусни фрактури (Neer 1970) и на риска от аваскуларна некроза при четирифрагментни счупвания.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray209.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-epiphyses.png" data-figure-alt="Епифизарни линии на humerus" aria-label="Увеличи">
+    <img src="/img/anatomy-3/humerus-epiphyses.png" alt="Епифизарни линии на humerus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Епифизарни линии на humerus при млад възрастен: проксималната епифизарна плоча допринася ~80% за надлъжния растеж на хумеруса; растежна арест след травма или ятрогенна увреда (Salter-Harris) е една от класическите причини за разлика в дължината на крайниците — ключова за педиатричната хирургия (Тема Анатомия-12).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray211.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Humerus е най-голямата дълга кост на горния крайник, простираща се от гленохумералната става проксимално до лакътната става дистално. Основните анатомични области са проксималният humerus (главица, анатомична шийка, tuberculum majus и tuberculum minus, хирургична шийка; вж. Тема Травматология-13 за фрактурната анатомия), диафизата на humerus с характерната предна извивка и спиралния жлеб по задната повърхност, и дисталният humerus (медиална и латерална колона, trochlea, capitellum; вж. Тема Травматология-15).
 
 Мишницата има две основни мускулни отделения:
@@ -49,6 +79,16 @@ Humerus е най-голямата дълга кост на горния кра�
   <figcaption>
     <span class="md-figure-caption">Sulcus radialis (спирален жлеб) на задната повърхност на хумеруса: n. radialis пресича костта медиосупериорно към латероинферно, в непосредствена близост до периоста; основа за честата увреда при фрактури на диафизата.</span>
     <span class="md-figure-attribution"> · Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-groove-photo.jpg" data-figure-alt="Анатомски препарат на radial sulcus" aria-label="Увеличи">
+    <img src="/img/anatomy-3/radial-groove-photo.jpg" alt="Анатомски препарат на radial sulcus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Анатомски препарат на десен humerus със spiralиран ход на n. radialis по sulcus radialis: жлебът се продължава дистално в латералния ръб на диафизата и завършва с пробив на латералната интермускулна преграда — анатомичен субстрат на „средно-дисталната зона на риск" при поставяне на плоча по задно-латералната повърхност.</span>
+    <span class="md-figure-attribution"> · Doctor Jana, <a href="https://commons.wikimedia.org/wiki/File:Radial-groove-continuing-as-lateral-border-of-shaft.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -86,11 +126,41 @@ Nervus musculocutaneus се отделя от латералния сноп на
 
 Arteria brachialis слиза по медиалния бицепсов жлеб между biceps и медиалната интермускулна преграда, придружена от nervus medianus (преминаващ латерално от артерията проксимално и пресичащ я медиално при лакътя). Nervus ulnaris е в задното отделение по-голямата част от мишницата, но е по-медиален от nervus radialis и обикновено не е в риск при стандартните хумерусни достъпи.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/cutaneous-nerves-upper-anterior.png" data-figure-alt="Кожна инервация на горния крайник, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-3/cutaneous-nerves-upper-anterior.png" alt="Кожна инервация на горния крайник, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Кожна инервация на десния горен крайник, преден изглед: nn. cutaneus brachii medialis (от медиалния сноп), n. cutaneus brachii lateralis superior (от n. axillaris), n. cutaneus antebrachii lateralis (краен сетивен клон на n. musculocutaneus). Сетивната карта е първият инструмент за топична диагностика на постганглионарните плексусни увреди и при родова брахиална парализа.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray811.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/cutaneous-nerves-upper-posterior.png" data-figure-alt="Кожна инервация на горния крайник, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-3/cutaneous-nerves-upper-posterior.png" alt="Кожна инервация на горния крайник, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Кожна инервация на горния крайник, заден изглед: nn. cutaneus brachii posterior и cutaneus brachii lateralis inferior (от n. radialis), допълнени от n. cutaneus antebrachii posterior. Появата на n. cutaneus brachii posterior през фасцията на нивото на пресичането на дългата трицепсова глава с долния ръб на m. teres major / m. latissimus dorsi е класическият ориентир за избягване на болезнени неврологични белези при заден достъп.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray813.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 ## Латерална и медиална интермускулна преграда
 
 Латералната интермускулна преграда разделя предното и задното отделение латерално и преминава от tuberositas deltoidea до латералния епикондил. Медиалната интермускулна преграда е медиалният й аналог от захващането на coracobrachialis до медиалния епикондил. Nervus radialis пробива латералната интермускулна преграда на прехода между средната и дисталната третина на humerus — критичен анатомичен ориентир за идентифициране на нерва при хирургичните достъпи.
 
 ## Антеролатерален достъп до humerus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/anterior-arm-muscles.png" data-figure-alt="Преден отдел на мишницата" aria-label="Увеличи">
+    <img src="/img/anatomy-3/anterior-arm-muscles.png" alt="Преден отдел на мишницата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Мускули на предния отдел на мишницата (по Gray): m. biceps brachii (повърхностно), m. brachialis (дълбоко, директно върху диафизата на хумеруса) и m. coracobrachialis; антеролатералният достъп използва безсъдовата плоскост по латералния ръб на biceps и срединно разцепване на brachialis (латералните две трети — n. musculocutaneus; медиалната — n. radialis), запазващо поне частична инервация на двете половини.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray411.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Антеролатералният достъп осигурява достъп до проксималната и средната третина на диафизата на humerus при плочна остеосинтеза на фрактури, туморна резекция, дренаж на инфекция и биопсия. Достъпът използва естествената плоскост между musculus biceps и musculus brachialis.
 
@@ -159,6 +229,16 @@ Arteria brachialis слиза по медиалния бицепсов жлеб 
 </aside>
 
 ## Заден достъп до humerus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-nerve.png" data-figure-alt="N. radialis по задната повърхност" aria-label="Увеличи">
+    <img src="/img/anatomy-3/radial-nerve.png" alt="N. radialis по задната повърхност" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класическа Gray's-плата на nervus radialis: ходът на нерва от задния сноп на брахиалния плексус, през canalis humeromuscularis с a. profunda brachii, пробиването на латералната интермускулна преграда и крайното разделяне на повърхностен сетивен клон и nervus interosseus posterior — анатомичната основа за честата увреда при фрактури на диафизата на humerus и за ограничението на разцепването на triceps при задния достъп.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray818.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Задният достъп осигурява достъп до средната и дисталната третина на humerus при плочна остеосинтеза на фрактури на дисталната третина, ревизия на nervus radialis, остеосинтеза на фрактури на дисталния humerus, процедури на сухожилието на triceps и достъп при тумори или инфекция. Достъпът използва естествената плоскост между латералната и медиалната глава на triceps или техниката на разцепване на triceps в зависимост от желаната експозиция.
 
@@ -237,6 +317,16 @@ Nervus radialis в дисталната третина на humerus (къдет�
 
 ## Руптура на musculus biceps brachii — оперативно лечение
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/biceps-brachii.png" data-figure-alt="M. biceps brachii" aria-label="Увеличи">
+    <img src="/img/anatomy-3/biceps-brachii.png" alt="M. biceps brachii" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">M. biceps brachii (3D рендериране, BodyParts3D / DBCLS): двете глави (caput longum от tuberculum supraglenoidale през bicipital groove; caput breve от processus coracoideus заедно с m. coracobrachialis) и общата дистална инсерция към tuberositas radii. Проксималните руптури засягат най-често caput longum (Christeas-Bunnell зашиване; модерна sub-pectoral tenodesis); дисталните руптури са от tuberositas radii и се възстановяват с единичен или двоен достъп с анкер или бутон.</span>
+    <span class="md-figure-attribution"> · Anatomography (BodyParts3D), <a href="https://commons.wikimedia.org/wiki/File:Biceps_brachii_muscle06.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.1 JP</a></span>
+  </figcaption>
+</figure>
+
 При непълно разкъсване на musculus biceps brachii и при ранна диагноза консервативното лечение с превръзка по Velpeau при флексия на лакътя над 90° обикновено е достатъчно. Оперативно лечение е показано при пълно разкъсване с палпируема бразда в мускулния релеф, при неуспех на консервативния опит и при застаряли руптури с фиброзиране на краищата.
 
 Оперативната техника използва антеролатерален разрез, успореден на латералния ръб на бицепса, специално избран с цел избягване на сраствания на мускула с кожата. Краищата на руптурата се мобилизират, апроксимират се и се зашиват с отделни копринени или съвременни синтетични „матрешен" шевове (тип Bunnell или Krackow за сухожилни краища, „дюшекчийски" matrass-шевове за мускулния търбух). При застарели руптури с фиброзирани краища тези краища трябва да бъдат опреснени до здрави, кървящи влакна преди зашиването.
@@ -246,6 +336,16 @@ Nervus radialis в дисталната третина на humerus (къдет�
 Следоперативното лечение включва превръзка по Velpeau при сгънат лакът за 3 седмици, последвана от активни и пасивни упражнения с прогресивно увеличаване на обема на движение и съпротивлението до възстановяване на пълната функция към 8–12-та седмица.
 
 ## Оперативно лечение при счупвания на диафизата на humerus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-fracture.jpg" data-figure-alt="Рентгенова находка на хумеро-диафизарна фрактура с остеосинтеза" aria-label="Увеличи">
+    <img src="/img/anatomy-3/humerus-fracture.jpg" alt="Рентгенова находка на хумеро-диафизарна фрактура с остеосинтеза" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Преден-заден рентгенов изглед на остеосинтезирана хумеро-диафизарна фрактура с плоча и винтове: класическо показание за антеролатерален достъп при средно-горната третина и заден достъп при средно-долната третина, с интраоперативна идентификация и защита на n. radialis при преминаване през латералната интермускулна преграда (~7–8 cm проксимално от латералния епикондил).</span>
+    <span class="md-figure-attribution"> · Ivtorov, <a href="https://commons.wikimedia.org/wiki/File:2016-Humerus_fracture_fix.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Индикациите за оперативно лечение на диафизарните счупвания на humerus са относително по-стеснени в сравнение с повечето други дълги тръбести кости, тъй като консервативните методи — висящ гипс по Caldwell, мишнична шина по Sarmiento, U-образен сплинт — дават обикновено отлични функционални резултати със скрит висок процент на консолидация. Абсолютни показания за кръвно наместване и остеосинтеза при затворените счупвания са: неотстранимо консервативно отклонение над функционално приемливите граници (повече от 20° антериорна ангулация, повече от 30° варусна ангулация, скъсяване над 3 cm), сегментни счупвания, патологични фрактури, политравмени пациенти, „плаващ лакът" с ипсилатерална фрактура на предмишницата, билатерални хумерусни счупвания и фрактури с първична или вторична радиална пареза, изискваща ревизия. Откритите фрактури представляват самостоятелна индикация за оперативен дебридиран и стабилизация.
 
@@ -352,6 +452,16 @@ Arteria и vena brachialis се отпрепарират и двойно се л
 ## Транспозиции и мускулни трансфери при загуба на функция
 
 При необратима пълна радиална пареза с неуспех на реконструкцията на самия нерв (след 12–18 месеца на наблюдение без признаци на реинервация по електромиография), функционалното възстановяване се извършва чрез сухожилни трансфери — стандартният набор включва трансфер на musculus pronator teres към extensor carpi radialis brevis за разгъване на китката, на flexor carpi radialis или flexor carpi ulnaris към общия разгъвач на пръстите (EDC) за разгъване на пръстите и на palmaris longus към extensor pollicis longus за разгъване на палеца. Тези процедури са детайлно обсъдени в темата за предмишницата.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/latissimus-dorsi.png" data-figure-alt="M. latissimus dorsi" aria-label="Увеличи">
+    <img src="/img/anatomy-3/latissimus-dorsi.png" alt="M. latissimus dorsi" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Musculus latissimus dorsi: широк ветрилообразен мускул със собствено съдово-нервно снопче (a. et n. thoracodorsalis от задния сноп на брахиалния плексус), което осигурява достатъчна дължина за педикулиран трансфер от гръбната стена към предната или задната повърхност на мишницата — основа на класическия трансфер за възстановяване на флексия (бицепсова заместителна функция) или екстензия (трицепсова заместителна функция) при плексусни увреди.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Latissimus_dorsi.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 При комбинирани увреди с пареза на musculus biceps brachii (от увреда на nervus musculocutaneus или комбинирана C5–C6 плексусна лезия) класическите трансфери включват: транспозиция на m. latissimus dorsi като бипидикулиран мускулен ламбоформен трансфер с реинсерция на acromion и бицепсово сухожилие за възстановяване на лакътна флексия; транспозиция на m. pectoralis major (по Clark/Schottstaedt) — мускулният търбух се мобилизира с дълга съдово-нервна дръжка от nervus pectoralis lateralis и се реинсертира на дисталното бицепсово сухожилие; транспозиция на flexor-pronator origin от медиалния епикондил към coracoid (по Steindler — операция, която „превръща" сгъвачите на китката и пръстите във вторичен сгъвач на лакътя, давайки около 15–20° флексия на лакътя). При тежки парализи без живи донорни мускули, свободният мускулен трансфер с микросъдова анастомоза (типично gracilis от подбедрицата с реинервация от nervi intercostales или от спинален акцесорен нерв) остава последна реконструктивна опция.
 

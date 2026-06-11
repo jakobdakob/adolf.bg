@@ -27,6 +27,26 @@ The elbow region is bounded by transverse lines 4 cm above and 4 cm below the el
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-capsule-anterior.png" data-figure-alt="Elbow joint capsule, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-4/elbow-capsule-anterior.png" alt="Elbow joint capsule, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Elbow joint capsule (distended for demonstration), anterior view: a thin and pliable anterior capsule — the reason the anterior approach passes through brachialis and arthroscopic anterior portals threaten the median nerve / brachial artery if intra-capsular distension is inadequate.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray331.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-capsule-posterior.png" data-figure-alt="Elbow joint capsule, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-4/elbow-capsule-posterior.png" alt="Elbow joint capsule, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Elbow joint capsule, posterior view: the posterior capsule crosses the olecranon fossa — the anatomical basis for the recesses, cysts and restriction in posteriorly expanding joint processes (arthrofibrosis, myositis). Posterior portals (proximal and transhumeral) are placed in immediate access to this capsule.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray332.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The elbow joint comprises three articulations within a single synovial capsule: Humeroulnar joint: Hinge articulation between the trochlea of the distal humerus and the trochlear notch of the proximal ulna. Provides flexion-extension (normal range approximately 0 to 145 degrees of flexion; functional range 30 to 130 degrees). Humeroradial joint: Articulation between the capitellum of the distal humerus and the radial head. Participates in flexion-extension and forearm rotation. Proximal radioulnar joint: Pivot articulation between the radial head and the radial notch of the ulna, with the annular ligament holding the radial head in position. Provides forearm rotation (normal supination approximately 85 degrees, pronation approximately 85 degrees). The carrying angle of the extended elbow is approximately 11 degrees of valgus in females and 7 to 11 degrees in males. Loss of carrying angle (e.g., from supracondylar malunion) produces cubitus varus (gunstock deformity); excessive carrying angle produces cubitus valgus. The distal humerus anatomy was detailed in [Topic Trauma-15](/en/trauma/15/): divergent medial and lateral columns, trochlea (spool-shaped), capitellum (rounded), olecranon and coronoid fossae. The proximal ulna comprises the olecranon (with triceps insertion), coronoid process (anterior buttress), and trochlear notch. The proximal radius has the disc-shaped radial head (with the annular ligament around it), radial neck, and radial tuberosity (biceps insertion).
 
 ## Ligamentous Anatomy
@@ -41,12 +61,34 @@ The elbow joint comprises three articulations within a single synovial capsule: 
   </figcaption>
 </figure>
 
-The medial collateral ligament (MCL) complex has three bundles: Anterior bundle: From the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid. The primary restraint to valgus stress in mid-range elbow flexion. Injured in throwing athletes (Tommy John surgery candidates). Posterior bundle: From the medial epicondyle posteriorly to the medial olecranon. Reinforces the medial joint capsule. Transverse bundle (Cooper’s ligament): Between the olecranon and the coronoid. Minor contribution to stability. The lateral collateral ligament (LCL) complex includes: Lateral ulnar collateral ligament (LUCL): From the lateral epicondyle posteriorly to the supinator crest of the ulna. The primary restraint to posterolateral rotatory instability — described by O’Driscoll in 1991 and central to the understanding of complex elbow injuries.
+The medial collateral ligament (MCL) complex has three bundles: Anterior bundle: From the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid. The primary restraint to valgus stress in mid-range elbow flexion. Injured in throwing athletes (Tommy John surgery candidates). Posterior bundle: From the medial epicondyle posteriorly to the medial olecranon. Reinforces the medial joint capsule. Transverse bundle (Cooper's ligament): Between the olecranon and the coronoid. Minor contribution to stability.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-mri-ucl.jpg" data-figure-alt="MRI of the medial ulnar collateral ligament" aria-label="Enlarge">
+    <img src="/img/anatomy-4/elbow-mri-ucl.jpg" alt="MRI of the medial ulnar collateral ligament" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Coronal T2-weighted MRI of the elbow — normal anterior bundle of the medial collateral ligament: a thin hypo-intense band from the inferior anterior surface of the medial epicondyle to the sublime tubercle. The standard study for diagnosing chronic micro-tears in overhead throwing athletes and for planning UCL reconstruction (Jobe / Konforti-Paneva) with palmaris longus or gracilis autograft.</span>
+    <span class="md-figure-attribution"> · RSatUSZ, <a href="https://commons.wikimedia.org/wiki/File:MRI._elbow._ulnar_collateral_ligament.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+The lateral collateral ligament (LCL) complex includes: Lateral ulnar collateral ligament (LUCL): From the lateral epicondyle posteriorly to the supinator crest of the ulna. The primary restraint to posterolateral rotatory instability — described by O'Driscoll in 1991 and central to the understanding of complex elbow injuries.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
   <p>Two stability rules: the anterior bundle of the MCL (medial epicondyle to sublime tubercle of coronoid) is the primary restraint to valgus at mid-flexion (the Tommy John ligament); the LUCL (lateral epicondyle to supinator crest) is the primary restraint to posterolateral rotatory instability (O'Driscoll, 1991).</p>
 </aside> Radial collateral ligament: From the lateral epicondyle to the annular ligament. Annular ligament: Around the radial head, attached to the anterior and posterior margins of the radial notch of the ulna. Accessory lateral collateral ligament: From the inferior aspect of the annular ligament to the supinator crest. Reinforces the LUCL.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/annular-ligament.png" data-figure-alt="Annular ligament of the radius" aria-label="Enlarge">
+    <img src="/img/anatomy-4/annular-ligament.png" alt="Annular ligament of the radius" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Annular ligament of the radius, viewed from above with the radial head removed: a V-shaped fibrous sling attached to the anterior and posterior margins of the radial notch of the ulna, holding the radial head within the proximal radio-ulnar joint. The classical Kocher approach (between anconeus and extensor carpi ulnaris) crosses the ligament above its equator to avoid iatrogenic posterolateral rotatory instability of the LUCL.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray333.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 ## Neurovascular Structures
 
@@ -83,6 +125,16 @@ The radial nerve approaches the elbow anteriorly (after piercing the lateral int
 The cubital fossa contains the median nerve, brachial artery, and brachial veins, with the bicipital aponeurosis crossing the artery superficially. The superficial veins (median cubital vein, cephalic vein, basilic vein) traverse the cubital fossa subcutaneously.
 
 ## The Kocher Approach (Lateral)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/lcl-anatomy.png" data-figure-alt="Lateral collateral ligament complex" aria-label="Enlarge">
+    <img src="/img/anatomy-4/lcl-anatomy.png" alt="Lateral collateral ligament complex" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lateral collateral ligament complex (Gray): radial collateral ligament from the lateral epicondyle to the annular ligament, the annular ligament around the radial head, and the lateral ulnar collateral ligament (LUCL) from the lateral epicondyle to the supinator crest — the basis for understanding the Kocher interval (between anconeus and extensor carpi ulnaris) and for avoiding iatrogenic posterolateral rotatory instability when the annular ligament is incised.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray330.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The Kocher approach is the classical lateral approach to the elbow joint, providing access to the radial head, capitellum, coronoid process (from the lateral side), lateral collateral ligament complex, and posterolateral elbow capsule.
 
@@ -215,6 +267,16 @@ Before reliable elbow replacement, motion was restored in the stiff elbow by int
 
 ## Collateral Ligament Reconstruction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/mcl-anatomy.png" data-figure-alt="Medial collateral ligament of the elbow" aria-label="Enlarge">
+    <img src="/img/anatomy-4/mcl-anatomy.png" alt="Medial collateral ligament of the elbow" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Medial collateral ligament complex of the elbow (anterior, posterior, and transverse bundles, Gray): the anterior bundle — from the inferior anterior surface of the medial epicondyle to the sublime tubercle of the coronoid — is the primary restraint to valgus stress at mid-flexion and is the ligament reconstructed in Tommy John surgery (Jobe, 1974) and in the classical Bulgarian Konforti-Paneva technique.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray329.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The classical Konforti-Paneva technique for reconstructing the medial collateral ligament in a loose elbow after resection or arthroplasty uses a free tendon graft passed through a transverse drill channel in the distal humeral metaphysis and through two slightly oblique channels in the proximal ulna (anteromedial and posteromedial). The graft is tensioned at 90 degrees flexion and neutral rotation. The principle is the same as the modern Tommy John operation described by F. W. Jobe in 1974 for baseball pitchers: reconstruction of the anterior bundle of the MCL with a free graft of palmaris longus or gracilis/semitendinosus, passed in a figure-of-eight configuration through bone tunnels in the medial epicondyle and the sublime tubercle. Success in both approaches depends on locating the isometric anterior bundle insertion — the posteroinferior medial epicondyle, just above the rotation axis. For lateral instability after LUCL injury (posterolateral rotatory instability, O'Driscoll), a free graft is passed from the isometric point on the lateral epicondyle to the supinator crest in a similar figure-of-eight configuration.
 
 ## Elbow Endoprosthesis
@@ -227,6 +289,16 @@ Linked semi-constrained hinge implants of the Coonrad-Morrey type are the modern
 
 ## Classical Olecranon Fixation
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/olecranon-fracture.jpg" data-figure-alt="Olecranon fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-4/olecranon-fracture.jpg" alt="Olecranon fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lateral radiograph of a displaced transverse olecranon fracture: the classical indication for tension-band wiring (Weber-AO; two parallel K-wires + figure-of-eight wire that converts the tractive pull of triceps into compression across the fracture line). For comminuted fractures — excision (Boyd) with Speed-modification triceps reinsertion, or plate osteosynthesis after Müller.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Tension-band wiring of the olecranon (Weber, AO, 1969) is the standard for simple transverse and short oblique olecranon fractures with displacement. Through a posterior incision over the olecranon tip the fracture is exposed and reduced; two parallel Kirschner wires are driven through the triceps insertion site so that their tips just engage the opposite cortex distal to the fracture. A transverse drill channel is made through the distal fragment approximately 3-4 cm distal to the fracture, and a stainless steel wire is passed through this channel and around the proximal ends of the K-wires in a figure-of-eight configuration. Twisting the wire tightens the construct, converting triceps flexion forces into compression at the articular surface (Pauwels tension principle). K-wires are bent caudally and rotated to prevent skin penetration on flexion. The alternative Nachev technique uses an intramedullary compression screw introduced through the olecranon tip into the ulnar medullary canal — applicable when the distal fragment has sufficient metaphyseal bone. For comminuted fractures or small tip fragments (involving no more than one-third of the olecranon), the fragments are excised and the triceps reattached directly to the freshened bony bed with transosseous sutures or anchors. Resection is contraindicated for distal fragments compromising anteroposterior stability.
 
 ## Pediatric Distal Humerus Fractures
@@ -237,9 +309,29 @@ Unlocking of an incarcerated medial epicondyle (a "locked" pediatric elbow dislo
 
 ## Correction of Cubitus Varus and Cubitus Valgus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/supracondylar-fracture.jpg" data-figure-alt="Pediatric supracondylar fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-4/supracondylar-fracture.jpg" alt="Pediatric supracondylar fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Displaced pediatric supracondylar humerus fracture — the most common elbow fracture in childhood; malunion with a medialized angulated distal fragment produces the classical cubitus varus ("gunstock") deformity, requiring a later corrective supracondylar osteotomy through a lateral approach.</span>
+    <span class="md-figure-attribution"> · Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Healing_supracondylar_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Cubitus varus (gunstock deformity) is the classic late sequel of malreduced supracondylar or transcondylar fracture in childhood. Cubitus valgus most often arises from nonunion of the lateral condyle or growth arrest of the distal humerus. Corrective supracondylar osteotomy is performed through a lateral approach for varus and a medial approach for valgus. After subperiosteal exposure of the distal humerus (approximately 4 cm) at a standardized point above the olecranon fossa, a wedge osteotomy is fashioned — laterally based open wedge for varus, medially based open (or laterally based closed) wedge for valgus. A slightly broader dorsal wedge corrects accompanying extension deficit. Fixation is with 1-2 Kirschner wires with tips left under the skin (in children, special care to avoid the growth plate). For cubitus valgus correction, the ulnar nerve must be identified, its bed opened, and the nerve retracted before osteotomy — the indication is often tardy ulnar nerve palsy prophylaxis, not just cosmetic correction. Comparative radiographs of both elbows are required for accurate planning.
 
 ## Radial Head: Excision and Repair of Chronic Dislocation
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/radial-head-fracture.png" data-figure-alt="Radial head fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-4/radial-head-fracture.png" alt="Radial head fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Comminuted radial head fracture (Mason III): indication for ORIF (Herbert screws or mini-plates), excision (Speed) for an isolated injury when reconstruction is not feasible, or arthroplasty with a metal head when there is concurrent interosseous membrane injury (Essex-Lopresti). The classical approach is the Kocher; alternatively, the posterolateral Boyd interval is used when the olecranon is involved.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:RadHeadFrac.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 The classical indication for radial head excision is a comminuted Mason III-IV fracture in an adult, without significant Essex-Lopresti or concomitant instability (which requires preserving the radial buttress through reconstruction or replacement). Through a Kocher approach, the annular ligament is opened or resected and the radial head excised at the level of the neck. Contraindications include interosseous membrane injury (Essex-Lopresti), MCL insufficiency, and skeletally immature patients.
 
@@ -258,6 +350,16 @@ For fixed flexion contracture of soft-tissue origin (without shortened collatera
 Elbow synovectomy is indicated in chronic rheumatoid inflammation with persistent pain, failed medical management, and relatively preserved articular surfaces (Larsen I-II). The approach is usually lateral via Kocher, supplemented as needed by posterior or medial incisions for complete synovectomy. The radial head is routinely resected — it is often substantially damaged and resection eases access to the radiocarpal gutter and proximal radioulnar joint. Early mobilization (24-48 hours postoperatively) is critical to preserve range of motion.
 
 ## Volkmann Contracture — Classical Release
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/volkmann-contracture.jpg" data-figure-alt="Volkmann ischemic contracture" aria-label="Enlarge">
+    <img src="/img/anatomy-4/volkmann-contracture.jpg" alt="Volkmann ischemic contracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Volkmann ischemic contracture: the classical claw-like hand and finger deformity from ischemic necrosis of the forearm flexor mass (mainly flexor digitorum profundus and flexor pollicis longus) following untreated compartment ischemia — typically after a pediatric supracondylar humerus fracture or prolonged tourniquet ischemia. Prophylactic fasciotomy in the acute phase remains far more important than late reconstructive release (Page-Scaglietti, Seddon).</span>
+    <span class="md-figure-attribution"> · Internet Archive (The practice of surgery, 1910), <a href="https://commons.wikimedia.org/wiki/File:The_practice_of_surgery_(1910)_(14756898256).jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Volkmann ischemic contracture of the forearm flexor mass is the late sequel of unrecognized or undertreated ischemia after pediatric supracondylar fracture, post-traumatic brachial artery compression, or prolonged tourniquet ischemia. The classical Page-Scaglietti release uses an extensive medial approach with sliding origin advancement of flexor digitorum profundus and flexor pollicis longus off the radius and ulna, with distal slide of the entire flexor mass. Seddon's approach adds excision of the ischemic central muscle segment in severe cases. Median nerve decompression at pronator teres and the carpal tunnel, and ulnar nerve transposition for accompanying cubitus valgus, are routine adjuncts. Prevention through prompt reduction or fasciotomy in acute ischemia (see Trauma chapter) remains far more important than late reconstructive treatment.
 

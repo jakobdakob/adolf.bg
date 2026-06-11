@@ -23,6 +23,16 @@ order: 207
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-anatomy.png" data-figure-alt="Тазов пръстен с ацетабулум, илиум, ишиум, пубис, сакроилиачна става" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvis-anatomy.png" alt="Тазов пръстен с ацетабулум, илиум, ишиум, пубис, сакроилиачна става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Преден изглед на тазовия пръстен: os ilium, os ischii и os pubis, слети в ацетабулума през triradiate cartilage; сакрум и сакроилиачни стави отзад; symphysis pubis отпред. Анатомичната основа за класификациите на тазовите и ацетабуларните фрактури по AO/Tile и Letournel.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray241.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Тазовият пръстен се образува от двете безименни кости (всяка от тях е резултат от сливането на os ilium, os ischii и os pubis в областта на triradiate cartilage) и от сакрума, свързани отпред чрез symphysis pubis и отзад чрез сакроилиачните (СИ) стави. Подробната анатомия е разгледана в Теми Травма-19 (тазов пръстен) и Травма-20 (ацетабулум).
 
 Основните костни ориентири, имащи значение за оперативните достъпи, включват:
@@ -52,6 +62,36 @@ Eminentia iliopectinea: Костното издигане на границат�
 Linea terminalis (ръб на малкия таз): Непрекъснатата линия от promontorium sacralis по linea iliopectinea до tuberculum pubicum, разделяща малкия таз (cavum pelvis, долу) от големия таз (pelvis major, горе).
 
 Facies quadrilateralis: Плоската кост на медиалната ацетабуларна стена, ориентирана към малкия таз. Визуализира се чрез предния интрапелвичен достъп.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvic-inlet.png" data-figure-alt="Тазов вход (горна апертура)" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvic-inlet.png" alt="Тазов вход (горна апертура)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тазов вход (apertura pelvis superior) с класическите диаметри: антеропостериорен („conjugata vera" от promontorium sacralis до горния ръб на симфизата), трансверзален и кос. Линията на pelvic brim (linea terminalis = arcuata + pectinea + crista pubica + symphysis) дефинира хирургичните граници между големия и малкия таз и е ключовият ориентир при илиоингвиналния достъп на Letournel.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray238.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-anterior-articulations.png" data-figure-alt="Предни тазови съединения" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvis-anterior-articulations.png" alt="Предни тазови съединения" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Предни съединения на таза (по Quain): symphysis pubica с lig. arcuatum pubis и lig. pubicum superius — анатомичната основа за класификациите на тазовите фрактури по Tile (B1 — симфизарно отваряне „open book" с разкъсване на ligg. sacrospinale/sacrotuberale; B2 — закрита книга с ротация навътре).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray319.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/sacroiliac-joint.svg" data-figure-alt="Сакроилиачна става" aria-label="Увеличи">
+    <img src="/img/anatomy-7/sacroiliac-joint.svg" alt="Сакроилиачна става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сакроилиачна става — основният заден компонент на тазовия пръстен. Предният сакроилиачен лигамент, късите задни сакроилиачни лигаменти, дългият заден сакроилиачен лигамент, lig. iliolumbale и комплексът sacrotuberale/sacrospinale определят стабилността. Тяхното разкъсване (Tile C) изисква перкутанна или открита фиксация с илиосакрални винтове по техниката на Zatsepin или модифициран заден достъп по Berglezov.</span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Sacroiliac-joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 ## Топография на таза в българската класическа школа
 
@@ -101,6 +141,16 @@ Corona mortis („корона на смъртта“) е съдова анас�
 ## Лумбосакрален плексус
 
 <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbar-plexus.svg" data-figure-alt="Лумбален плексус" aria-label="Увеличи">
+    <img src="/img/anatomy-7/lumbar-plexus.svg" alt="Лумбален плексус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лумбален плексус (T12–L4) в дебелината на m. psoas: n. iliohypogastricus, n. ilioinguinalis, n. genitofemoralis, n. cutaneus femoris lateralis, n. femoralis, n. obturatorius. Лумбосакралният труп (L4–L5) обединява плексусите. Внимание към n. cutaneus femoris lateralis при достъпа към crista iliaca (Smith-Petersen) и към обтураторния нерв при предния интрапелвичен достъп (Stoppa, Letournel).</span>
+    <span class="md-figure-attribution"> · Gray's Anatomy plate via Wikimedia, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_plexus.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbosacral-plexus.png" data-figure-alt="Лумбосакрален плексус" aria-label="Увеличи">
     <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Лумбосакрален плексус" loading="lazy" decoding="async" />
   </button>
@@ -136,6 +186,27 @@ Nervus cutaneus femoris lateralis (L2-L3): Минава пред musculus iliacu
 Plexus lumbalis лежи в дебелината на musculus psoas и е особено изложен на риск при латералните трансмускулни (транспсоас) достъпи към поясния гръбнак (XLIF/LLIF, виж Тема Анатомия-1). Коренчето L4 е най-каудалното и е в най-голям риск на нивото L4-L5.
 
 ## Илиоингвинален достъп (Letournel)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-vertical-section.png" data-figure-alt="Вертикален срез на таза" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvis-vertical-section.png" alt="Вертикален срез на таза" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Вертикален срез на таза с ацетабулума: илюстрира отношенията между ацетабуларната купа, vasa iliaca externa отпред и n. ischiadicus отзад. Тази визуализация е основа за разбирането на трите прозореца на илиоингвиналния достъп (странично от m. iliopsoas, между m. iliopsoas и съдовия сноп, медиално от съдовия сноп) и за избора на единствен или комбиниран достъп при сложни двуколонни ацетабуларни фрактури.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray240.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/acetabulum-letournel.png" data-figure-alt="Колонна анатомия на ацетабулума – основа на класификацията на Letournel" aria-label="Увеличи">
+    <img src="/img/anatomy-7/acetabulum-letournel.png" alt="Колонна анатомия на ацетабулума – основа на класификацията на Letournel" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Двуколонна архитектура на ацетабулума (предна и задна колона, предна и задна стена) — анатомичната основа на класификацията на Letournel и Judet за ацетабуларни фрактури (елементарни: предна стена, предна колона, задна стена, задна колона, трансверзална; асоциирани: двуколонна и др.).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray235.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 Илиоингвиналният достъп (Letournel, 1960-те години) е класическият преден достъп до таза и ацетабулума, осигуряващ достъп до цялата предна колона на ацетабулума, до крилото на ilium, до linea terminalis, до facies quadrilateralis (отпред) и до symphysis pubis. Достъпът се прилага при фиксация на ацетабуларни фрактури (предна колона, предна стена, предна колона с задна полутрансверзална компонента, двуколонни фрактури), при фиксация на фрактури на крилото на ilium, при фиксация на фрактури на тазовия пръстен (в комбинация с други достъпи), при резекция на тумори и при избрани ревизионни тазови процедури.
 
@@ -208,6 +279,17 @@ Linea terminalis, facies quadrilateralis, медиалната стена на �
 Усложненията включват съдово увреждане (corona mortis, илиачни съдове), увреждане на пикочния мехур (ако той не е адекватно дрениран преди операцията), увреждане на nervus obturatorius и ингвинална/феморална херния (по-рядко, отколкото при илиоингвиналния достъп).
 
 ## Достъп по Kocher-Langenbeck (заден)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/gluteal-anatomy.png" data-figure-alt="Глутеална анатомия и n. ischiadicus" aria-label="Увеличи">
+    <img src="/img/anatomy-7/gluteal-anatomy.png" alt="Глутеална анатомия и n. ischiadicus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дълбока глутеална дисекция: m. piriformis преминаващ през foramen ischiadicum majus, n. ischiadicus излизащ под него и късите външни ротатори по протежение на crista intertrochanterica — анатомичната основа на достъпа по Kocher-Langenbeck и неговите рискове.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 Достъпът по Kocher-Langenbeck е класическият заден достъп до таза и ацетабулума, осигуряващ достъп до задната стена, задната колона и исхиалната област. Прилага се при фиксация на фрактури на задната стена и задната колона на ацетабулума, при фиксация на трансверзални и Т-образни фрактури (когато задната колона е доминираща), при открита репозиция на задни луксации на тазобедрената става и при резекция на тумори на задния таз.
 
@@ -381,11 +463,33 @@ A. et v. glutealis superior et inferior се идентифицират, пре�
 
 ## Бележки върху периацетабуларните и тазови остеотомии
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvic-osteotomies.png" data-figure-alt="Линии на тазовите остеотомии Salter, Pemberton, Chiari" aria-label="Увеличи">
+    <img src="/img/anatomy-7/pelvic-osteotomies.png" alt="Линии на тазовите остеотомии Salter, Pemberton, Chiari" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сравнителна схема на тазовите остеотомии при дисплазия на тазобедрената става: Salter (единичен срез от incisura ischiadica major до tuberculum innominatum), Pemberton (перикапсуларна с шарнир в triradiate cartilage), Chiari (медиализираща над капсулата) и тройната по Steel.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 Класическите периацетабуларни остеотомии за лечение на остатъчна детска дисплазия на тазобедрената става (DDH) се изпълняват от тазова страна и са разгледани систематично в Тема Ортопедия-1. От тазово-анатомичен поглед основните понятия са: остеотомия на безименната кост по Salter (1961) — единичен напречен срез от incisura ischiadica major до tuberculum innominatum, с ротиране на дисталния фрагмент антеролатерално около симфизата като шарнир, постига 15–25° латерално покритие и е оптимална за деца на 18 месеца до 6 години; остеотомия по Pemberton (1965) — иncomplete (запазваща задната кортикала) перикапсуларна остеотомия с шарнир в triradiate cartilage, постигаща 25–35° латерално покритие при ремоделиране на ацетабуларната ямка — приложима до сливане на triradiate cartilage (около 10 г.); остеотомия по Steel (1973) — тройна остеотомия (ilium + ramus superior pubis + ramus inferior ischii), позволяваща пълна ротация на ацетабулума у юноши и млади възрастни със зрял или почти зрял скелет; остеотомия по Dega — incomplete стволова остеотомия с шарнир в задната кортикала, концептуален аналог на Pemberton, предпочитан в полската школа; остеотомия на Chiari — медиално-смукающа остеотомия над ставната капсула, формираща костен покрив над главата като ставен заместител — последна линия на спасение при възрастни с зрял скелет, при които PAO не е възможна; периацетабуларна остеотомия по Ganz (1988) — четирикратна остеотомия (ramus superior pubis, ramus inferior ischii, ramus inferior ilium, задна стълбична остеотомия), позволяваща пълна ротация на ацетабулума при запазване на задния тазов пръстен — съвременният златен стандарт при възрастни с симптоматична дисплазия и зрял скелет.
 
 От тазово-анатомичен поглед всички тези остеотомии работят в три взаимосвързани зони: пред-горната, която съдържа n. femoralis в m. iliopsoas (изтегляният при ретракция); средната, която съдържа n. obturatorius при изхода от foramen obturatum; и задно-долната, която съдържа n. ischiadicus при изхода под m. piriformis. PAO по Ganz, която е единствената истинска тазова остеотомия от пелвичен достъп (предният част на достъпа Smith-Petersen с подключална остеотомия), изисква интраоперативна флуороскопия за потвърждаване, че задните стълбични срезове остават в безопасната зона (поне 1 cm от incisura ischiadica major за защита на a. glutealis superior и на n. ischiadicus).
 
 ## Технически бележки върху събирането на костен присадък от crista iliaca
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/iliac-crest-graft.png" data-figure-alt="Crista iliaca като донорно място за костен присадък" aria-label="Увеличи">
+    <img src="/img/anatomy-7/iliac-crest-graft.png" alt="Crista iliaca като донорно място за костен присадък" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Crista iliaca в напречен и косо изобразен вариант — донорно място за трикортикален или cortico-cancellous автоприсадък. Разрезът минимум 2 cm зад SIAS защитава n. cutaneus femoris lateralis и n. ilioinguinalis; дълбочината на резекцията ≤2 cm запазва тазовия пръстен.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray242.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 Crista iliaca е класическото донорско място за автоложен костен присадък в ортопедията. Главните технически принципи са: разрезът върви по ръба на crista iliaca, минимум 2 cm зад spina iliaca anterior superior — за избягване на n. cutaneus femoris lateralis (преминава под ligamentum inguinale 1–2 cm медиално от SIAS, увреждане → meralgia paresthetica) и на n. ilioinguinalis. При преден достъп може да се вземе трикортикален блок (за рекоструктивни тазови или гръбначни операции) или само cortico-cancellous chips; при заден достъп (за гръбначни фузии) разрезът върви по протежение на crista iliaca от spina iliaca posterior superior, със защита на n. cluneus superior (преминава над crista iliaca приблизително 7–8 cm латерално от средната линия). Дълбочината на резекцията е ограничена до около 2 cm под повърхността на crista iliaca, за да се запази тазовият пръстен и да се избегне пробив в малкия таз; обикновено събирането от вътрешната таблица е по-проблемно поради m. iliacus и съдово-нервните структури. Усложненията на присадково взимане: хронична болка в донорното място (5–25%, най-честото усложнение), meralgia paresthetica, фрактура на SIAS, херния през crista iliaca-дефект (рядко, но описано) и хематом.
 

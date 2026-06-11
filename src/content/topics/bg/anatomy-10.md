@@ -13,9 +13,49 @@ order: 210
 
 ## Костна анатомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/tibia-fibula-anterior.jpg" data-figure-alt="Тибия и фибула, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-10/tibia-fibula-anterior.jpg" alt="Тибия и фибула, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Tibia и fibula в анатомична позиция, преден изглед: tibia с подкожна предна повърхност от tuberositas tibiae до медиалния малеол — анатомична основа за лесния, но кожно-неблагоприятен преден достъп; fibula е защитена от mm. peronei латерално и осигурява до 25 cm васкуларизиран присадък от свободна fibula (Taylor, 1975) за реконструкция на дефекти.</span>
+    <span class="md-figure-attribution"> · MAKY.OREL, <a href="https://commons.wikimedia.org/wiki/File:Tibia,_fibula_(anterior).jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 Тибията е главната кост, носеща телесното тегло в подбедрицата, с анатомични особености, описани подробно в Тема Травма-27 (диафиза на тибията) и Тема Травма-28 (глезен): триъгълен напречен разрез с антеромедиална подкожна повърхност, провлак в средната трета на диафизата и характерна предна дъга. Фибулата е тънката латерална кост, ставно свързана с тибията в проксималната тибиофибуларна става и в дисталната тибиофибуларна синдесмоза, като дистално формира латералната стена на глезенното мортизно съединение.
 
 ## Мускулни компартменти
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-cross-section.png" data-figure-alt="Напречен срез на средата на подбедрицата" aria-label="Увеличи">
+    <img src="/img/anatomy-10/leg-cross-section.png" alt="Напречен срез на средата на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Напречен срез на средата на подбедрицата (Gray): четирите класически компартмента — преден (tibialis anterior, EDL, EHL, peroneus tertius; n. peroneus profundus), латерален (peroneus longus и brevis; n. peroneus superficialis), дълбок заден (tibialis posterior, FDL, FPL; n. tibialis с a. tibialis posterior) и повърхностен заден (gastrocnemius, soleus, plantaris). Интракомпартментно налягане >30 mmHg е индикация за фасциотомия по Mubarak-Hargens.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-muscles-anterior.png" data-figure-alt="Предни мускули на подбедрицата" aria-label="Увеличи">
+    <img src="/img/anatomy-10/leg-muscles-anterior.png" alt="Предни мускули на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Предни и латерални мускули на подбедрицата (Gray): m. tibialis anterior, m. extensor digitorum longus, m. extensor hallucis longus и mm. peronei. Дефицитът на дорзифлексия при увреждане на n. peroneus profundus (компресия в caput fibulae или travmatique) предизвиква „крак-стъпало" (drop foot) — класическа индикация за заместителни процедури по Чаклин-Каплан, Watkins-Barr.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray442.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-muscles-posterior.png" data-figure-alt="Задни мускули на подбедрицата" aria-label="Увеличи">
+    <img src="/img/anatomy-10/leg-muscles-posterior.png" alt="Задни мускули на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Задни мускули на подбедрицата (Gray): повърхностен заден компартмент (gastrocnemius, soleus с aрcus tendineus, plantaris) и дълбок заден компартмент (tibialis posterior, FDL, FPL, popliteus). Класически удължаващи процедури на ахилесово сухожилие — Z-удължаване, Hoke 1931 perкутанна тройна тенотомия, Strayer 1950 gastrocnemius recession, Silfverskiold 1923 — намират чест приложение при еквинусна контрактура.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray443.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-compartments.svg" data-figure-alt="Фасциални компартменти на подбедрицата" aria-label="Увеличи">
@@ -61,6 +101,16 @@ Arteria tibialis anterior и nervus peroneus profundus: Навлизат в пр
 Nervus peroneus superficialis: Отклонява се от nervus peroneus communis и слиза в латералния компартмент, инервирайки перонеалните мускули, след което на границата между средната и дисталната трета на подбедрицата преминава подкожно, осигурявайки сетивност на по-голямата част от гърба на стъпалото.
 
 Arteria tibialis posterior и nervus tibialis: Навлизат в дълбокия заден компартмент, преминавайки през проксималното тибиофибуларно интерозеозно пространство. Нервът и артерията слизат по задната повърхност на дълбокия заден компартмент до медиалния малеол, където навлизат в стъпалото дълбоко под retinaculum flexorum (в тарзалния канал).
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/posterior-tibial-artery.png" data-figure-alt="Заден тибиален съдово-нервен сноп" aria-label="Увеличи">
+    <img src="/img/anatomy-10/posterior-tibial-artery.png" alt="Заден тибиален съдово-нервен сноп" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Заден изглед на подбедрицата с дисектирани повърхностни флексори: a. tibialis posterior и a. peronea, разклоняващи се от truncus tibioperoneus на 2–3 cm дистално от arcus tendineus m. solei, и n. tibialis преминават в canalis cruropopliteus между повърхностните и дълбоките задни мускули. Тази класическа топография обяснява задно-латералния достъп по Harmon и медиалния достъп за лигатура при артериално увреждане.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray554.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Nervus suralis: Формира се в подколянната ямка от клонове на nervus tibialis (medial sural cutaneous) и nervus peroneus communis (lateral sural cutaneous). Nervus suralis слиза подкожно по постеролатералната повърхност на подбедрицата, осигурявайки сетивност на латералното стъпало. Nervus suralis е класическият донорен нерв за нервни присадки (Тема Травма-31) поради минималния сетивен дефицит при неговото вземане.
 
@@ -138,6 +188,26 @@ A. tibialis posterior и n. tibialis се проектират по линия, 
 
 ## Фасциотомия на подбедрицата
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/compartment-syndrome.jpg" data-figure-alt="Компартмент синдром на подбедрицата" aria-label="Увеличи">
+    <img src="/img/anatomy-10/compartment-syndrome.jpg" alt="Компартмент синдром на подбедрицата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Остър компартмент синдром на подбедрицата с напрегнат и блестящ кожен покрив: класическата „петтe P" (pain, pallor, paresthesia, paralysis, pulselessness — последното е късен и злокачествен знак) поставят диагнозата клинично. Незабавна фасциотомия е стандартът; забавяне над 8 часа води до некроза на флексорната маса и Volkmann-аналогична контрактура.</span>
+    <span class="md-figure-attribution"> · CarrieRocks, <a href="https://commons.wikimedia.org/wiki/File:Compartment_Syndrome_Picture_Wikipedia.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/fasciotomy-mubarak.jpg" data-figure-alt="Фасциотомия с двоен разрез по Mubarak-Hargens" aria-label="Увеличи">
+    <img src="/img/anatomy-10/fasciotomy-mubarak.jpg" alt="Фасциотомия с двоен разрез по Mubarak-Hargens" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класическа двойна декомпресионна фасциотомия по Mubarak–Hargens (1977): латерален разрез 2 cm пред диафизата на фибулата освобождава предния и латералния компартмент (с защита на n. peroneus superficialis), медиален разрез 2 cm зад медиалния тибиален ръб освобождава повърхностния и дълбокия заден компартмент (с защита на v. saphena magna и n. saphenus). И четирите компартмента се отварят по цялата дължина при остър компартмент синдром на подбедрицата.</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Compartment_syndrome_with_fasciotomy_procedure_00.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Подбедрицата е най-честото място на компартмент синдром, а фасциотомията на подбедрицата е една от най-честите ортопедични спешни операции. Историческият стандарт от 70-те години на ХХ век остава техниката с двоен разрез на S. J. Mubarak и A. R. Hargens (1977), при която два надлъжни кожни разреза (латерален и медиален) осигуряват пълна декомпресия на четирите компартмента. Алтернативната техника с единичен латерален разрез — описана от Davey и Rorabeck (1984) — извършва пълна четирикомпартментна декомпресия през един обширен латерален разрез с пасаж зад fibula до дълбокия заден компартмент; индикациите ѝ са ограничени до случаите, в които медиалните меки тъкани са компрометирани (тежки изгаряния, инфекция, обширна предходна хирургия). При остър компартмент синдром повсеместно се предпочита двойният разрез поради по-надеждната визуализация и сигурност за пълна декомпресия:
 
 ## Латерален разрез
@@ -200,7 +270,17 @@ Nervus peroneus communis около шийката на фибулата се д
 
 Удължаването чрез директна екстензия през петата е алтернативната класическа техника при липса на компресионно-дистракционен апарат.
 
-Монолатералният дистракционен апарат на Wagner (1971, Германия) за удължаване на подбедрицата използва диафизарна остеотомия, последваща плакова остеосинтеза и спонгиозно присаждане в дистракционния хиатус; техниката е ефективна за удължавания до 4–6 cm и остава актуална при селекционирани случаи. Илизаровият циркулярен апарат (Г. А. Илизаров, Курган, 1951–1971) приложен в подбедрицата с класически монтаж от два полукръга (¾ от окръжност) през проксималната и два цели кръга през дисталната метафиза, осигурява стабилна осова фиксация и контролирано извличане. Ежедневната дистракция е по 1 mm на четири стъпки от ¼ mm дневно — режим, при който костният регенерат се развива оптимално. След достигане на желаната дължина апаратът се държи до пълна консолидация на регенерата (приблизително 1 месец на сантиметър удължаване), последван при необходимост от гипсова превръзка. Илизаровият принцип на „напрегнато-стрес дистракционна остеогенеза" остава фундаментален и е концептуалната основа на по-късните вътрешни удължители (Albizzia, ISKD, PRECICE).
+Монолатералният дистракционен апарат на Wagner (1971, Германия) за удължаване на подбедрицата използва диафизарна остеотомия, последваща плакова остеосинтеза и спонгиозно присаждане в дистракционния хиатус; техниката е ефективна за удължавания до 4–6 cm и остава актуална при селекционирани случаи. <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/ilizarov-frame.jpg" data-figure-alt="Илизаров циркулярен външен фиксатор" aria-label="Увеличи">
+    <img src="/img/anatomy-10/ilizarov-frame.jpg" alt="Илизаров циркулярен външен фиксатор" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Илизаров циркулярен външен фиксатор, монтиран върху подбедрицата: напречни киршнерови спици, опънати в кръгове и полукръгове и свързани с резбовани щанги; характерна конфигурация с два пръстена в проксималната и два в дисталната метафиза за стабилна осова фиксация, костна транспортация (дефекти 4–12 cm) и удължаване със скорост 1 mm на ден (4 × ¼ mm) — реализация на принципа на „напрегнато-стресовата дистракционна остеогенеза".</span>
+    <span class="md-figure-attribution"> · Pagemaker787, <a href="https://commons.wikimedia.org/wiki/File:Ilizarov_Apparatus_External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+Илизаровият циркулярен апарат (Г. А. Илизаров, Курган, 1951–1971) приложен в подбедрицата с класически монтаж от два полукръга (¾ от окръжност) през проксималната и два цели кръга през дисталната метафиза, осигурява стабилна осова фиксация и контролирано извличане. Ежедневната дистракция е по 1 mm на четири стъпки от ¼ mm дневно — режим, при който костният регенерат се развива оптимално. След достигане на желаната дължина апаратът се държи до пълна консолидация на регенерата (приблизително 1 месец на сантиметър удължаване), последван при необходимост от гипсова превръзка. Илизаровият принцип на „напрегнато-стрес дистракционна остеогенеза" остава фундаментален и е концептуалната основа на по-късните вътрешни удължители (Albizzia, ISKD, PRECICE).
 
 Дистракционната епифизиолиза в детска възраст се изпълнява чрез прокарване на по две дебели киршнерови игли през проксималната епифиза и дисталната метафиза на tibia, които се захващат с дистракционен апарат. Преди прекарване на иглите кожната покривка се изтегля в проксималния отдел надолу, а в дисталния — нагоре. Прилага се начална сила с дистрактора, индивидуално за пациента, за получаване на епифизиолиза; дистракцията започва на 2–3-ия ден от вкарване на иглите и не трябва да надминава 1 mm дневно. Методът е практически изоставен в полза на по-модерни хемиепифизиодезни и вътрешни удължителни системи.
 
@@ -224,6 +304,16 @@ Nervus peroneus communis около шийката на фибулата се д
 
 ## Вродена псевдоартроза на tibia
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/cong-pseudoarthrosis.png" data-figure-alt="Вродена псевдоартроза на tibia — антеролатерално изкривяване" aria-label="Увеличи">
+    <img src="/img/anatomy-10/cong-pseudoarthrosis.png" alt="Вродена псевдоартроза на tibia — антеролатерално изкривяване" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Вродена псевдоартроза на големия пищял с типично антеролатерално изкривяване и стеснение на диафизата (класификация на Boyd/Crawford), почти винаги асоциирана с неврофиброматоза тип 1. Класически лечебни варианти: интрамедуларен пирон с автоложна спонгиозна присадка (Sofield), васкуларизирана fibula от срещуположния крайник, костна транспортация по Илизаров, или техниката „fibula pro tibia" по Hahn–Huntington–Codivilla.</span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital Klinikum Stuttgart, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Вродената псевдоартроза на големия пищял (типично свързана с неврофиброматоза тип 1) е една от най-сложните клинични проблеми в детската ортопедия — срастването при никое друго състояние не е така трудно. В много ранна детска възраст оперативните резултати са по-лоши, докато с напредването на възрастта се развиват тежки деформации (изкривяване на подбедрицата, pes calcaneus, скъсяване). Класическата българска литература описва три типа операции: с педикулирани присадъци, със свободни присадъци и комбинирани.
 
 Методът на Hahn–Huntington–Codivilla (концепционно от V. Hahn 1880-те, развит от T. W. Huntington 1905 и A. Codivilla 1911) използва fibula вместо tibia („fibula pro tibia"). След прерязване на fibula в долната и горната ѝ част тя се остеосинтезира с останалите части на големия пищял; операцията може да се извърши на два етапа (горна и долна инсерция последователно) или едноетапно. След присаждането fibula поема функцията на tibia и силно надебелява компенсаторно. Класическите показания са големи псевдоартрози на tibia — вродени или придобити — с дължина на дефекта над 4–5 cm.
@@ -240,6 +330,16 @@ Nervus peroneus communis около шийката на фибулата се д
 
 ## Голям диафизарен дефект на tibia — fibula pro tibia и реконструктивни варианти
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/inlay-grafting-tibia.jpg" data-figure-alt="Inlay костна пластика при дефект на tibia" aria-label="Увеличи">
+    <img src="/img/anatomy-10/inlay-grafting-tibia.jpg" alt="Inlay костна пластика при дефект на tibia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класически метод на inlay-присаждане при дефект на тибията (Albee, Phemister, Boyd dual onlay): кортикална кост от crista iliaca или fibula, монтирана като „rail" по дължината на дефекта, премоставя несъответствието и осигурява механичен носещ елемент. Историческата техника на Hahn–Huntington–Codivilla „fibula pro tibia" — мобилизирана от противоположния крайник или ипсилатерално с педикул — е дала на българската школа на Карчинов (1974/1975) основата за подмостване на големи диафизарни дефекти.</span>
+    <span class="md-figure-attribution"> · Dulcie Mary Pillers, <a href="https://commons.wikimedia.org/wiki/File:Method_of_inlay_grafting_for_a_gap_fracture_of_the_tibia.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Възстановяването на дефекти на tibia с fibula („fibula pro tibia") има най-много привърженици в класическата българска и съветска литература. Създадени са множество варианти, включително прехвърляне на цяла фибуларна диафиза, остеосинтеза с винтове или пирони, и комбинация със спонгиозни автоприсадъци. Виенската техника използва ротация на фибуларни сегменти, а руската школа добавя двуетапна имплантация (горна и долна) с период на интеграция между тях.
 
 Пластичното заместване на цялата tibia с fibula по Putti се прилага при aplasia tibiae congenita, при състояния след тотална екстирпация на големия пищял поради тумори, и при много широки костни дефекти с останали само полюси на tibia. Операцията е двуетапна. В първия етап — външен въдицовиден кожен разрез от границата между средната и долната трета на бедрото през caput fibulae до границата между средната и долната трета на подбедрицата. Срязва се fascia lata, идентифицират се m. biceps femoris и зад него n. peroneus communis (задължителна защита). Мускулът се дезинсерира от caput fibulae, която се освобождава от всички страни; tibia (или нейните полюси) се ексцизира субпериостално. След абдукция и сгъване на подбедрицата caput fibulae се измества във fossa intercondylaris femoris с интерпозиция на меки тъкани. Възможни са два варианта: създаване на нова femuro-фибуларна става или артродеза на fibula с латералния кондил на femur. Стъпалото се имобилизира при максимален еквинизъм, за да поеме тежестта на тялото върху главичките на metatarsalia. След 6 месеца гипсът се сменя със специален ортопедичен апарат. Във втория етап (най-рано 1 година след първата операция) дисталният край на fibula се артродезира с talus или (при липса на talus) с calcaneus през предно-страничен 7 cm разрез.
@@ -255,6 +355,16 @@ Nervus peroneus communis около шийката на фибулата се д
 Пресните счупвания на подбедрицата се остеосинтезират, когато затворената репозиция е неуспешна или не може да задържи нагласата. Обикновено се остеосинтезира само големият пищял; fibula се пречупва или остеотомира при необходимост за намаляване на ротационна стабилност на tibia и за постигане на междуфрагментен контакт. Безметалните методи (костна присадка, кетгутови или сухожилни конци) са с историческа стойност; стандартът е металната остеосинтеза.
 
 Класическата плакова остеосинтеза на tibia (за напречни и леко коси счупвания с интактни меки тъкани) се изпълнява чрез 12–15 cm разрез малко извън crista tibiae, леко изпъкнал навън, със средата на нивото на счупването. След надлъжно срязване на fascia cruris и периост цялата предна мускулна група се отслоява от tibia и се издърпва навън. Краищата на фрагментите се оголват по възможност най-икономично; костните клещи на Lambotte или Lowmann задържат фрагментите във временно положение. Фиксацията се извършва по няколко начина: стягане с тел (cerclage, най-малко два теловидни серклажа на няколко сантиметра един от друг — подходящо само за коси счупвания); пристягане с метални ленти на Putti–Parnham (изоставен поради нарушаване на хранителното кръвоснабдяване на костта); фиксиране с няколко винта за коси счупвания (минимум два винта през двата кортикалии с няколко сантиметра разстояние); и фиксиране с метална плака и винтове за напречни счупвания (които дават най-голям процент на несрастване поради остеолиза на краищата на фрагментите). При напречно счупване на tibia с интактна fibula класическата препоръка е коса остеотомия на fibula на няколко сантиметра по-проксимално или по-дистално от нивото на тибиалното счупване чрез малък страничен разрез между m. soleus и фибуларната мускулатура — за да позволи плътен междуфрагментен контакт на tibia.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/tibial-fracture.jpg" data-figure-alt="Интрамедуларен тибиален пирон — рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-10/tibial-fracture.jpg" alt="Интрамедуларен тибиален пирон — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Антеградно блокиран интрамедуларен пирон в тибиалната диафиза: точка на влизане медиално от ligamentum patellae проксимално (инфрапателарен класически достъп) или супрапателарен с интраартикуларна водеща тръба; проксимални и дистални интерлокинг винтове. Концептуален наследник на пирона на Спижарни–Küntscher (1939) и на метода на Zucman (1965) през медиалното плато с българската модификация на Желев (1975).</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Интрамедуларната остеосинтеза на големия пищял по Спижарни–Küntscher (G. Küntscher, Германия 1939; В. М. Спижарни, СССР) е стандартът за напречни и леко коси счупвания с разместване, лъжливи стави и сегментна остеотомия. Прилага се закрита или открита техника. При затвореното заковаване подбедрицата се намества на апарата на Böhler или ортопедична операционна маса с интраоперативна флуороскопия. Прави се 5 cm разрез около tuberositas tibiae по вътрешния ѝ ръб; костта се пробива и през трепанационното отвърстие в медуларния канал се вкарва водещ тел с направление към счупването. След рентгенов контрол на положението на фрагментите телът се набива в периферния фрагмент, по него се прокарва кюнчеровият пирон с предварително определена дължина и широчина, и фрактурата се стабилизира. Откритото заковаване на tibia е индицирано при ненаместими напречни и леко коси счупвания. Операцията се провежда в две времена: открито наместване на счупването през полулунен 10 cm разрез върху счупената кост (субпериостална отпрепарация на костните късове, адаптиране с лостове, костни куки или екартьори на Hass), последвано от остеосинтеза през малък разрез около tuberositas tibiae с прокарване на водещ тел по диафизата и набиване на специалния пирон.
 

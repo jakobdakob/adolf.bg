@@ -13,9 +13,49 @@ The lower leg, extending from the knee to the ankle, contains the tibia and fibu
 
 ## Bony Anatomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/tibia-fibula-anterior.jpg" data-figure-alt="Tibia and fibula, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-10/tibia-fibula-anterior.jpg" alt="Tibia and fibula, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Tibia and fibula in anatomic position, anterior view: the tibia has a subcutaneous anterior surface from the tibial tuberosity to the medial malleolus — the anatomical basis for the simple but skin-unfavorable anterior approach; the fibula is protected by peronei laterally and provides up to 25 cm of vascularized free fibula (Taylor, 1975) for defect reconstruction.</span>
+    <span class="md-figure-attribution"> · MAKY.OREL, <a href="https://commons.wikimedia.org/wiki/File:Tibia,_fibula_(anterior).jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 The tibia is the principal weight-bearing bone of the lower leg, with the anatomical features detailed in [Topic Trauma-27](/en/trauma/27/) (tibial shaft) and [Topic Trauma-28](/en/trauma/28/) (ankle): triangular cross-section with anteromedial subcutaneous surface, isthmus in mid-shaft, and characteristic anterior bow. The fibula is the slender lateral bone, articulating with the tibia at the proximal tibiofibular joint and at the distal tibiofibular syndesmosis, forming the lateral wall of the ankle mortise distally.
 
 ## Muscular Compartments
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-cross-section.png" data-figure-alt="Cross-section of the middle leg" aria-label="Enlarge">
+    <img src="/img/anatomy-10/leg-cross-section.png" alt="Cross-section of the middle leg" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cross-section through the middle of the leg (Gray): the four classical compartments — anterior (tibialis anterior, EDL, EHL, peroneus tertius; deep peroneal nerve), lateral (peroneus longus and brevis; superficial peroneal nerve), deep posterior (tibialis posterior, FDL, FPL; tibial nerve with posterior tibial artery), and superficial posterior (gastrocnemius, soleus, plantaris). Intracompartmental pressure >30 mmHg is the indication for Mubarak-Hargens fasciotomy.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray440.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-muscles-anterior.png" data-figure-alt="Anterior leg muscles" aria-label="Enlarge">
+    <img src="/img/anatomy-10/leg-muscles-anterior.png" alt="Anterior leg muscles" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior and lateral leg muscles (Gray): tibialis anterior, extensor digitorum longus, extensor hallucis longus, and the peronei. Loss of dorsiflexion from deep peroneal nerve injury (compression at the fibular head or traumatic) produces drop foot — the classical indication for substitution procedures of Chaklin-Kaplan and Watkins-Barr.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray442.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-muscles-posterior.png" data-figure-alt="Posterior leg muscles" aria-label="Enlarge">
+    <img src="/img/anatomy-10/leg-muscles-posterior.png" alt="Posterior leg muscles" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior leg muscles (Gray): superficial posterior compartment (gastrocnemius, soleus with its tendinous arch, plantaris) and deep posterior compartment (tibialis posterior, FDL, FPL, popliteus). Classical Achilles lengthening procedures — Z-lengthening, Hoke 1931 percutaneous triple tenotomy, Strayer 1950 gastrocnemius recession, Silfverskiold 1923 — are commonly used in equinus contracture.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray443.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/leg-compartments.svg" data-figure-alt="Fascial compartments of the leg" aria-label="Enlarge">
@@ -48,7 +88,17 @@ The compartments are separated by intermuscular septa attached to the bones and 
   </figcaption>
 </figure>
 
-Anterior tibial artery and deep peroneal nerve: Enter the anterior compartment by passing through the proximal interosseous membrane (the artery is a branch of the popliteal artery; the nerve is a branch of the common peroneal nerve). Descend along the anterior interosseous membrane to the ankle, where they emerge anterior to the ankle to enter the foot as the dorsalis pedis vessels and the deep peroneal nerve (supplying the first webspace sensation). Superficial peroneal nerve: Branches from the common peroneal nerve and descends in the lateral compartment, supplying the peroneal muscles, then becomes subcutaneous at the junction of the middle and distal thirds of the leg, providing sensation to most of the dorsum of the foot. Posterior tibial artery and tibial nerve: Enter the deep posterior compartment by passing through the proximal tibial-fibular interosseous space. The nerve and artery descend along the posterior aspect of the deep posterior compartment to the medial malleolus, where they enter the foot deep to the flexor retinaculum (in the tarsal tunnel). Sural nerve: Forms in the popliteal fossa from contributions of the tibial nerve (medial sural cutaneous) and the common peroneal nerve (lateral sural cutaneous). The sural nerve runs subcutaneously down the posterolateral leg, providing sensation to the lateral foot. The sural nerve is the classical donor nerve for nerve grafting ([Topic Trauma-31](/en/trauma/31/)) because of its minimal sensory deficit when harvested. Saphenous vein and nerve: The great saphenous vein runs subcutaneously up the medial aspect of the leg from the medial malleolus to the femoral triangle. The saphenous nerve (a branch of the femoral nerve) accompanies the vein in the distal leg, providing sensation to the medial leg.
+Anterior tibial artery and deep peroneal nerve: Enter the anterior compartment by passing through the proximal interosseous membrane (the artery is a branch of the popliteal artery; the nerve is a branch of the common peroneal nerve). Descend along the anterior interosseous membrane to the ankle, where they emerge anterior to the ankle to enter the foot as the dorsalis pedis vessels and the deep peroneal nerve (supplying the first webspace sensation). Superficial peroneal nerve: Branches from the common peroneal nerve and descends in the lateral compartment, supplying the peroneal muscles, then becomes subcutaneous at the junction of the middle and distal thirds of the leg, providing sensation to most of the dorsum of the foot. Posterior tibial artery and tibial nerve: Enter the deep posterior compartment by passing through the proximal tibial-fibular interosseous space. The nerve and artery descend along the posterior aspect of the deep posterior compartment to the medial malleolus, where they enter the foot deep to the flexor retinaculum (in the tarsal tunnel).
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/posterior-tibial-artery.png" data-figure-alt="Posterior tibial neurovascular bundle" aria-label="Enlarge">
+    <img src="/img/anatomy-10/posterior-tibial-artery.png" alt="Posterior tibial neurovascular bundle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior view of the leg with the superficial flexors dissected away: the posterior tibial and peroneal arteries arise from the tibioperoneal trunk 2–3 cm distal to the soleus arcus tendineus, and the tibial nerve descends in canalis cruropopliteus between the superficial and deep posterior muscles. This classical topography explains the Harmon posterolateral approach and the medial approach for arterial ligation in vascular injury.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray554.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure> Sural nerve: Forms in the popliteal fossa from contributions of the tibial nerve (medial sural cutaneous) and the common peroneal nerve (lateral sural cutaneous). The sural nerve runs subcutaneously down the posterolateral leg, providing sensation to the lateral foot. The sural nerve is the classical donor nerve for nerve grafting ([Topic Trauma-31](/en/trauma/31/)) because of its minimal sensory deficit when harvested. Saphenous vein and nerve: The great saphenous vein runs subcutaneously up the medial aspect of the leg from the medial malleolus to the femoral triangle. The saphenous nerve (a branch of the femoral nerve) accompanies the vein in the distal leg, providing sensation to the medial leg.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
@@ -114,6 +164,26 @@ The lateral approach to the distal fibula is the standard for ORIF of ankle frac
 
 ## Fasciotomy of the Leg
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/compartment-syndrome.jpg" data-figure-alt="Leg compartment syndrome" aria-label="Enlarge">
+    <img src="/img/anatomy-10/compartment-syndrome.jpg" alt="Leg compartment syndrome" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Acute compartment syndrome of the leg with tense, shiny skin: the classical "five Ps" (pain, pallor, paresthesia, paralysis, pulselessness — the last a late and ominous sign) make the diagnosis clinical. Immediate fasciotomy is the standard; delay beyond 8 hours leads to flexor mass necrosis and a Volkmann-analogous contracture.</span>
+    <span class="md-figure-attribution"> · CarrieRocks, <a href="https://commons.wikimedia.org/wiki/File:Compartment_Syndrome_Picture_Wikipedia.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/fasciotomy-mubarak.jpg" data-figure-alt="Double-incision fasciotomy after Mubarak-Hargens" aria-label="Enlarge">
+    <img src="/img/anatomy-10/fasciotomy-mubarak.jpg" alt="Double-incision fasciotomy after Mubarak-Hargens" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical double-incision decompressive fasciotomy after Mubarak–Hargens (1977): a lateral incision 2 cm anterior to the fibular shaft releases the anterior and lateral compartments (protecting the superficial peroneal nerve); a medial incision 2 cm posterior to the medial tibial border releases the superficial and deep posterior compartments (protecting the great saphenous vein and saphenous nerve). All four compartments are opened along their full length in acute leg compartment syndrome.</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Compartment_syndrome_with_fasciotomy_procedure_00.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The leg is the most common site of compartment syndrome, and leg fasciotomy is one of the most commonly performed orthopedic emergency procedures. The historical standard since the 1970s is the double-incision technique of S. J. Mubarak and A. R. Hargens (1977), in which two longitudinal skin incisions (lateral and medial) provide complete four-compartment decompression. The alternative single-incision technique described by Davey and Rorabeck (1984) performs the full decompression through one extensive lateral incision passing posterior to the fibula to reach the deep posterior compartment; its indications are limited to cases in which the medial soft tissues are compromised (severe burns, infection, extensive prior surgery). In acute compartment syndrome the double-incision technique is universally preferred for more reliable visualization and certainty of complete decompression:
 
 ## Lateral Incision
@@ -175,7 +245,17 @@ Decortication osteoclasis to disrupt tibial continuity while preserving soft tis
 
 Lengthening through direct traction on the heel is the alternative classical technique when no compression-distraction apparatus is available.
 
-The monolateral distraction apparatus of Wagner (1971, Germany) for leg lengthening uses diaphyseal osteotomy, subsequent plate osteosynthesis, and cancellous grafting in the distraction gap; the technique is effective for lengthenings up to 4–6 cm and remains current in selected cases. The Ilizarov circular apparatus (G. A. Ilizarov, Kurgan, 1951–1971) applied to the leg with a classical mount of two half-rings (¾ rings) on the proximal metaphysis and two full rings on the distal metaphysis provides stable axial fixation and controlled distraction. The daily distraction is 1 mm in four steps of ¼ mm — a regime under which the bone regenerate develops optimally. After the desired length is achieved the apparatus is maintained until full regenerate consolidation (approximately 1 month per centimeter of lengthening), followed if needed by plaster. The Ilizarov principle of "tension-stress distraction osteogenesis" remains fundamental and is the conceptual basis of later internal lengthening devices (Albizzia, ISKD, PRECICE).
+The monolateral distraction apparatus of Wagner (1971, Germany) for leg lengthening uses diaphyseal osteotomy, subsequent plate osteosynthesis, and cancellous grafting in the distraction gap; the technique is effective for lengthenings up to 4–6 cm and remains current in selected cases. <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/ilizarov-frame.jpg" data-figure-alt="Ilizarov circular external fixator" aria-label="Enlarge">
+    <img src="/img/anatomy-10/ilizarov-frame.jpg" alt="Ilizarov circular external fixator" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ilizarov circular external fixator mounted on the leg: transverse tensioned Kirschner wires anchored to full and half rings connected by threaded rods; the classic configuration uses two rings proximally and two distally for stable axial fixation, bone transport (defects of 4–12 cm), and lengthening at 1 mm per day (4 × ¼ mm) — the clinical realisation of "tension-stress distraction osteogenesis".</span>
+    <span class="md-figure-attribution"> · OpenClinical/Wikimedia user, <a href="https://commons.wikimedia.org/wiki/File:Ilizarov_Apparatus_External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+The Ilizarov circular apparatus (G. A. Ilizarov, Kurgan, 1951–1971) applied to the leg with a classical mount of two half-rings (¾ rings) on the proximal metaphysis and two full rings on the distal metaphysis provides stable axial fixation and controlled distraction. The daily distraction is 1 mm in four steps of ¼ mm — a regime under which the bone regenerate develops optimally. After the desired length is achieved the apparatus is maintained until full regenerate consolidation (approximately 1 month per centimeter of lengthening), followed if needed by plaster. The Ilizarov principle of "tension-stress distraction osteogenesis" remains fundamental and is the conceptual basis of later internal lengthening devices (Albizzia, ISKD, PRECICE).
 
 Distraction epiphysiolysis in children is performed by passing two thick Kirschner wires through the proximal tibial epiphysis and distal metaphysis, anchored to a distraction apparatus. Before pin passage the skin is shifted distally in the proximal segment and proximally in the distal — to provide for subsequent lengthening. An initial dynamic force is applied with the distractor (individual for each patient) to achieve epiphysiolysis; distraction begins on day 2–3 after pin insertion and must not exceed 1 mm per day. The method is largely abandoned in favor of modern hemiepiphyseodesis and internal lengthening systems.
 
@@ -199,6 +279,16 @@ Open cancellous grafting after Papineau (J.-P. Papineau, 1973, Canada) is applie
 
 ## Congenital Pseudoarthrosis of the Tibia
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/cong-pseudoarthrosis.png" data-figure-alt="Congenital pseudarthrosis of the tibia — anterolateral bowing" aria-label="Enlarge">
+    <img src="/img/anatomy-10/cong-pseudoarthrosis.png" alt="Congenital pseudarthrosis of the tibia — anterolateral bowing" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Congenital pseudarthrosis of the tibia with the characteristic anterolateral bowing and diaphyseal narrowing (Boyd/Crawford classification), almost always associated with neurofibromatosis type 1. Classical treatment options: intramedullary rod with cancellous autograft (Sofield), free vascularised fibula from the contralateral leg, Ilizarov bone transport, or "fibula pro tibia" after Hahn–Huntington–Codivilla.</span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital Klinikum Stuttgart, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Congenital pseudoarthrosis of the tibia (typically associated with neurofibromatosis type 1) is one of the most complex problems in pediatric orthopaedics — union in no other condition is so difficult to achieve. In very early childhood operative results are poorer, while with advancing age severe deformities develop (leg curvature, pes calcaneus, shortening). Classical Bulgarian literature describes three categories of operations: with pedicled grafts, with free grafts, and combined.
 
 The Hahn–Huntington–Codivilla method (conceptually from V. Hahn in the 1880s, developed by T. W. Huntington 1905 and A. Codivilla 1911) uses the fibula in place of the tibia ("fibula pro tibia"). After dividing fibula in its lower and upper parts it is osteosynthesized with the remaining parts of the tibia; the operation may be performed in two stages (sequential upper and lower insertion) or in one. After insertion fibula assumes tibial function and hypertrophies compensatorily. Classical indications are large pseudoarthroses of tibia — congenital or acquired — with defects greater than 4–5 cm.
@@ -215,6 +305,16 @@ The classical Sofield–Millar technique (F. A. Sofield and E. A. Millar) of mul
 
 ## Large Diaphyseal Tibial Defect — Fibula pro Tibia and Reconstructive Variants
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/inlay-grafting-tibia.jpg" data-figure-alt="Inlay grafting for a tibial defect" aria-label="Enlarge">
+    <img src="/img/anatomy-10/inlay-grafting-tibia.jpg" alt="Inlay grafting for a tibial defect" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical inlay-grafting method for a tibial defect (Albee, Phemister, Boyd dual onlay): cortical bone from the iliac crest or fibula, set as a rail along the length of the defect, bridges the discontinuity and provides a load-bearing element. The historical Hahn–Huntington–Codivilla "fibula pro tibia" — mobilized from the contralateral limb or ipsilaterally on a pedicle — is the foundation on which the Bulgarian Karchinov method (1974/1975) builds for bridging large diaphyseal defects.</span>
+    <span class="md-figure-attribution"> · Dulcie Mary Pillers, <a href="https://commons.wikimedia.org/wiki/File:Method_of_inlay_grafting_for_a_gap_fracture_of_the_tibia.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Reconstruction of tibial defects with fibula ("fibula pro tibia") has the largest body of advocates in the classical Bulgarian and Soviet literature. Numerous variants have been developed, including transfer of an entire fibular shaft, osteosynthesis with screws or nails, and combination with cancellous autografts. The Viennese variant uses rotation of fibular segments, while the Russian school adds two-stage implantation (upper and lower) with an integration interval.
 
 Plastic replacement of the entire tibia with fibula after Putti is applied for aplasia tibiae congenita, after total extirpation of the tibia for tumors, and for very wide bone defects with only tibial poles preserved. The operation is in two stages. In the first — a lateral fishing-line skin incision from the lower middle thigh through caput fibulae to the junction of the middle and distal thirds of the leg. Fascia lata is divided, m. biceps femoris and the underlying n. peroneus communis are identified (mandatory protection). The muscle is detached from caput fibulae which is freed circumferentially; the tibia (or its poles) is excised subperiosteally. After abduction and flexion of the leg, caput fibulae is displaced into fossa intercondylaris femoris with soft-tissue interposition. Two variants are possible: creation of a new femuro-fibular joint, or arthrodesis of fibula with the lateral femoral condyle. The foot is immobilized in maximal equinus so weight is borne on the metatarsal heads. After 6 months the plaster is replaced by a special orthopaedic apparatus. In the second stage (no earlier than 1 year after the first) the distal end of fibula is arthrodesed with talus or (in its absence) calcaneus through an anterolateral 7 cm incision.
@@ -230,6 +330,16 @@ For absent fibula without other deformity (retroposition of the fibular malleolu
 Fresh leg fractures are treated by osteosynthesis when closed reduction fails or cannot be held. Usually only tibia is fixed; fibula is fractured or osteotomized when needed to reduce its rotational stability and ensure interfragmentary contact. Non-metallic methods (bone graft, catgut or tendon sutures) have historical value; the standard is metallic osteosynthesis.
 
 Classical plate osteosynthesis of the tibia (for transverse and slightly oblique fractures with intact soft tissues) is performed through a 12–15 cm incision slightly lateral to the crista tibiae, mildly convex laterally, centered on the fracture. After longitudinal division of fascia cruris and periosteum the entire anterior muscle group is stripped from tibia and retracted laterally. Fragment ends are exposed as economically as possible; Lambotte or Lowmann bone forceps hold the reduction. Fixation is by several methods: wire cerclage (at least two cerclages several cm apart — suited only to oblique fractures); Putti–Parnham metal band fixation (abandoned for compromising bone vascularity); fixation with several screws for oblique fractures (minimum two screws engaging both cortices spaced several cm apart); and plate-and-screw fixation for transverse fractures (which have the highest nonunion rate due to osteolysis at fragment ends). For transverse tibial fractures with intact fibula the classical recommendation is oblique fibular osteotomy several cm proximal or distal to the tibial fracture level through a small lateral incision between m. soleus and the peroneal musculature — to allow tight interfragmentary contact of tibia.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-10/tibial-fracture.jpg" data-figure-alt="Tibial intramedullary nail — radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-10/tibial-fracture.jpg" alt="Tibial intramedullary nail — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Antegrade locked intramedullary nail in the tibial shaft: entry medial to the patellar tendon proximally (classical infrapatellar approach) or via a suprapatellar guide tube; proximal and distal interlocking screws. The conceptual successor of the Spizharni–Küntscher nail (1939) and of the Zucman method (1965) through the medial plateau with Zhelev's Bulgarian modification (1975).</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Tibia_(Shinbone)_Shaft_Fracture.JPG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Intramedullary osteosynthesis of the tibia after Spizharni–Küntscher (G. Küntscher, Germany 1939; V. M. Spizharni, USSR) is the standard for transverse and slightly oblique fractures with displacement, false joints, and segmental osteotomy. Both closed and open techniques are used. In closed nailing the leg is reduced on a Böhler apparatus or orthopedic operating table with intraoperative fluoroscopy. A 5 cm incision is made around tuberositas tibiae along its medial border; the bone is drilled and through the trephination hole a guide wire is advanced toward the fracture. After fluoroscopic confirmation of fragment position the wire is driven into the peripheral fragment, the Küntscher nail of pre-measured length and width is advanced over it, and the fracture is stabilized. Open nailing is indicated for irreducible transverse and slightly oblique fractures. The operation is performed in two stages: open reduction through a semilunar 10 cm incision over the fracture (subperiosteal exposure of bone ends, reduction with levers, bone hooks, or Hass retractors), followed by osteosynthesis through a small incision around tuberositas tibiae with guide wire advancement along the diaphysis and nail driving.
 

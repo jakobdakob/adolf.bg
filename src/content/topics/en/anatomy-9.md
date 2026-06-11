@@ -13,6 +13,16 @@ The thigh and knee region contains the longest bone in the body (femur), the lar
 
 ## Thigh Anatomy and Compartments
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/thigh-cross-section.svg" data-figure-alt="Thigh cross-section — compartments" aria-label="Enlarge">
+    <img src="/img/anatomy-9/thigh-cross-section.svg" alt="Thigh cross-section — compartments" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cross-section through the middle third of the thigh: anterior compartment (quadriceps + sartorius, femoral nerve), medial compartment (adductors, obturator nerve), and posterior compartment (hamstrings, sciatic nerve). The intermuscular septa attach to the linea aspera and define the boundaries for classical thigh fasciotomy.</span>
+    <span class="md-figure-attribution"> · Marshall Strother, <a href="https://commons.wikimedia.org/wiki/File:Thigh_cross_section.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 The thigh has three principal muscular compartments separated by intermuscular septa attached to the linea aspera of the femur: Anterior compartment: Contains the quadriceps femoris (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius), the sartorius, the iliacus and psoas (proximally), and the pectineus. Innervated principally by the femoral nerve (L2-L4). Functions principally as knee extension and hip flexion. Medial compartment: Contains the adductor longus, brevis, and magnus; the gracilis; the obturator externus. Innervated principally by the obturator nerve (L2-L4). Functions as hip adduction. Posterior compartment: Contains the hamstrings (biceps femoris with long and short heads, semitendinosus, semimembranosus). Innervated by the sciatic nerve (tibial portion for most; common peroneal portion for the short head of biceps). Functions as hip extension and knee flexion. The principal landmarks and neurovascular structures include: Femoral triangle: Bounded by the inguinal ligament superiorly, the sartorius laterally, and the adductor longus medially. Contains the femoral artery (laterally to medially: NAVEL, Nerve, Artery, Vein, Empty space, Lymphatic). Adductor canal (Hunter’s canal): A tunnel in the middle third of the thigh through which the femoral vessels pass deep to the sartorius. The artery becomes the popliteal artery as it emerges through the adductor hiatus into the popliteal fossa.
 
 Popliteal fossa: The posterior knee region bounded by the biceps femoris (superolateral), the semimembranosus/semitendinosus (superomedial), and the two heads of gastrocnemius (inferiorly). Contains the popliteal artery, popliteal vein, and tibial/common peroneal nerves (the sciatic nerve divides at the apex of the fossa).
@@ -93,7 +103,57 @@ Classical skeletal traction through the greater trochanter is indicated for cent
 
 The knee joint comprises: Tibiofemoral joint: Hinge joint between the distal femur (medial and lateral condyles) and the proximal tibia (medial and lateral plateaus). Patellofemoral joint: Between the patella and the trochlear groove of the distal femur. Proximal tibiofibular joint: Synovial joint between the lateral tibial condyle and the fibular head. The cruciate ligaments (ACL, PCL) lie within the joint, addressed in [Topic Trauma-26](/en/trauma/26/). The menisci (medial and lateral) are fibrocartilaginous structures providing load distribution and joint conformity. The collateral ligaments (MCL medially, LCL with the posterolateral corner laterally) provide coronal-plane stability.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-ligaments.png" data-figure-alt="Ligaments of the knee — anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee-ligaments.png" alt="Ligaments of the knee — anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical anterior view of the right knee with capsule removed: anterior cruciate (ACL) and posterior cruciate (PCL) ligaments in the intercondylar notch, medial and lateral menisci, tibial (MCL) and fibular (LCL) collateral ligaments. This schematic is the basis for understanding ligament reconstruction after Hey-Groves, Jones, Lemaire and Shoylev.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray348.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-menisci.png" data-figure-alt="Menisci of the right tibia — top view" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee-menisci.png" alt="Menisci of the right tibia — top view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Superior view of the tibial plateau: C-shaped medial meniscus (longer, narrower, firmly tethered to the deep layer of the MCL — and therefore more vulnerable in rotation on a planted foot) and the more circular, more mobile lateral meniscus, with the meniscofemoral ligaments of Humphrey (anterior) and Wrisberg (posterior). The bow-tie configuration is seen on sagittal MRI slices.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray349.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 ## Knee Region Topography
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-sagittal.png" data-figure-alt="Sagittal section of the knee joint" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee-sagittal.png" alt="Sagittal section of the knee joint" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sagittal section of the right knee (Gray): the patellofemoral articulation, ACL and PCL in the intercondylar notch, infrapatellar Hoffa fat pad, and the suprapatellar pouch. The classical medial parapatellar approach of Pütti opens this architecture; the mid-vastus approach spares the vastus medialis obliquus and is favored in the Bulgarian school for minimally invasive total knee arthroplasty.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray350.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-capsule-posterior.png" data-figure-alt="Knee joint capsule, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee-capsule-posterior.png" alt="Knee joint capsule, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior capsule of the right knee (distended for demonstration): oblique popliteal and arcuate popliteal ligaments, posterolateral corner with popliteus tendon and the short head of biceps femoris. This is the working field for the posterior popliteal approach (Henderson-Burks-Schaffer) for synovial haemangioma resection, popliteal vein exposure, and acute PCL repair.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray352.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/patella-posterior.png" data-figure-alt="Posterior surface of the patella" aria-label="Enlarge">
+    <img src="/img/anatomy-9/patella-posterior.png" alt="Posterior surface of the patella" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Posterior (articular) surface of the right patella: divided by a central ridge into medial and lateral facets (with cartilage trophism reflecting load distribution), and a separate "odd" facet of Wiberg medially. This architecture guides the operative tactic in patellar osteochondral lesions, partial facetectomy, and Maquet-Bardot elevation of the tibial tubercle to offload the patellofemoral contact.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray353.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The classical Bulgarian topographic school divides the regio genu into anterior and posterior areas with a boundary defined by two longitudinal lines descending in a slight curve behind the femoral condyles; the lateral line crosses the biceps femoris tendon at the joint line. The proximal border of the region is a circumferential line 4 cm above the base of the patella (anteriorly) and 11–12 cm above the inferior popliteal fold (posteriorly); the distal border is the level of the tibial tuberosity anteriorly and 7–8 cm below the popliteal fold posteriorly.
 
@@ -176,6 +236,26 @@ The classical Smillie/Boychev technique for medial meniscectomy uses two approac
 
 ## Knee Arthroscopy — Portals and Principles
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/arthroscopic-portals.jpg" data-figure-alt="Typical knee arthroscopic portals" aria-label="Enlarge">
+    <img src="/img/anatomy-9/arthroscopic-portals.jpg" alt="Typical knee arthroscopic portals" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical arthroscopic portals of the knee (Watanabe 1959; modernised by Jackson and DeHaven): anterolateral (below the patellar tip, lateral to the patellar tendon — the main camera portal), anteromedial (mirror image, main instrument portal) and posteromedial / posterolateral (for posterior compartments, Gillquist transseptal). On the field, the patognomonic Bulgarian transtendinous Karagyozov portals reach the posterolateral corner.</span>
+    <span class="md-figure-attribution"> · Tim1965, <a href="https://commons.wikimedia.org/wiki/File:Typical_arthroscopic_surgery_incisions_-_knee.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/meniscus-mri.jpg" data-figure-alt="MRI of a torn medial meniscus" aria-label="Enlarge">
+    <img src="/img/anatomy-9/meniscus-mri.jpg" alt="MRI of a torn medial meniscus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Proton-density MRI of the knee — grade 2 tear of the posterior horn of the medial meniscus: linear hyperintense signal reaching the articular surface. The Stoller classification (grades 1–3) and the geometric types (horizontal, radial, bucket-handle, flap) determine the surgical tactic — partial meniscectomy for non-repairable tears in the white (avascular) zone, or inside-out meniscal repair (Henning) in the red or red-white zone.</span>
+    <span class="md-figure-attribution"> · Lefevre/Naouri et al., <a href="https://commons.wikimedia.org/wiki/File:Proton_density_MRI_of_a_grade_2_medial_meniscal_tear.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Knee arthroscopy was introduced by Masaki Watanabe (Japan, 1959 — Watanabe Arthroscope No. 21) and developed by Robert Jackson, John Joyce, Lanny Johnson, Richard O'Connor, and Heshmat Shahriaree in the 1970s. The classical portals remain the main standard:
 
 — Standard anterior portals: anterolateral (1 cm above the joint line, lateral to the patellar tendon; the standard viewing portal) and anteromedial (1 cm above the joint line, medial to the patellar tendon; the working portal). The anteromedial portal is typically localized by an "outside-in" needle technique under direct arthroscopic visualisation for precise positioning relative to the medial meniscus and the ACL anterior footprint at reconstruction.
@@ -203,6 +283,16 @@ For medial capsular ligament (MCL) lesions: femoral-end lesions are reinserted w
 For acute posterolateral instability (traumatic disruption of LCL, popliteus, popliteofibular ligament, or biceps tendon) an anterolateral incision (12–14 cm) is made, beginning 3–4 cm above the patella, along the line of the iliotibial tract, and ending 3 cm below the Gerdy tubercle. The common peroneal nerve is identified and protected. Reinsertion of the popliteus and LCL to the lateral epicondyle is performed "up and forward" with transosseous sutures, gently tensioned at 30° of flexion and external rotation of the tibia — a position that ensures proper tensioning. Posterior to the LCL the posterior capsule and arcuate ligament are reinserted to the tibia through transosseous tunnels. After repair a long-leg cast at 70° flexion and external tibial rotation is applied for 6 weeks.
 
 ## ACL Reconstruction — Classical Techniques
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/acl-reconstruction.jpg" data-figure-alt="ACL reconstruction with hamstring autograft" aria-label="Enlarge">
+    <img src="/img/anatomy-9/acl-reconstruction.jpg" alt="ACL reconstruction with hamstring autograft" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Arthroscopic ACL reconstruction with a four-strand hamstring autograft (gracilis + semitendinosus): femoral and tibial bone tunnels in a single-bundle pattern, with EndoButton (Mitek) or Bio-Tenodesis screw fixation. The classical historical line is Hey-Groves 1917 fascia lata, Jones 1963 central third patellar tendon, Lemaire 1967 lateral extra-articular tenodesis, MacIntosh, Kennedy-Insall and the Bulgarian Landa modification of 1947.</span>
+    <span class="md-figure-attribution"> · Shannon Moore, <a href="https://commons.wikimedia.org/wiki/File:ACL_reconstruction_hamstring_autograft.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
 
 ACL reconstruction has a century-long history; the literature describes over 200 techniques in three categories: intra-articular (replacement along the anatomical path of the ACL), extra-articular (dynamic stabilisation by posterolateral tenodesis), and combined (central reconstruction + lateral augmentation).
 
@@ -254,6 +344,16 @@ In acute patellar dislocation with disruption of the medial patellofemoral ligam
 
 ## High Tibial Osteotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-from-front.png" data-figure-alt="Right knee joint from the front with the capsule opened" aria-label="Enlarge">
+    <img src="/img/anatomy-9/knee-from-front.png" alt="Right knee joint from the front with the capsule opened" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Right knee joint from the front with the capsule opened: anterior cruciate ligament (ACL), posterior cruciate ligament (PCL), medial meniscus, patellar ligament. Joint-preserving surgery — Coventry HTO (1965), Maquet-Bardot, Puddu, Holevich HTO — is guided by this architecture: a lateral closing wedge (~1 mm per 1° correction) unloads the medial compartment in varus gonarthrosis.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray347.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 High tibial osteotomy was first described by Jackson (1958) and standardised by Coventry (Mayo, 1965) as a lateral closing wedge for varus gonarthrosis with medial unicompartmental arthritis. The classical Coventry technique: a horseshoe incision below the fibular head, osteotomy of the fibular shaft to permit release (or fibular head resection for severe valgus correction), outlining and gradual removal of a wedge with a base of 1 mm per 1° correction; the medial cortex is perforated with small osteotomes without fracture (hinge stability), and after valgisation the two fragments are fixed with staples anterior to the fibula. Two parallel tunnels are drilled through the fibular head and two more through the tibial fragments, into which a Greifensteiner or Charnley compression clamp is incorporated for compression. Long-leg cast for 6 weeks. The Holevich, Dzherov, and Vladimirov modification (Bulgaria, 1970s) preserves the fibular head, osteotomises the fibula at the level of the diaphyseal beginning with resection of a 1–1.5 cm segment, and fixes the two fibular fragments with a long cancellous AO screw with washer, using the fibular head as a lever to put the lateral collateral ligament and biceps femoris tendon under tension — a real advantage in associated joint instability.
 
 The high ovoid (dome) osteotomy of Maquet–Bardot was performed by an anterior longitudinal approach, periosteal stripping of the tibia on each side of the patellar tendon, dome-shaped osteotomy with an oscillating saw (concavity superiorly), correction to the desired valgus position, and compression fixation with Steinmann pins and a compressor. The high opening-wedge osteotomy after Maquet and Puddu (1990s, with the Puddu plate) opens a medial wedge by gradual distraction and inserts a dedicated plate with a wedge "foot"; classical fillers are tricortical iliac allograft wedges or autografts from the crest. For corrections over 15–20°, the fibula is first osteotomised. Distal femoral varising osteotomy (medial opening-wedge or lateral closing-wedge) is the analogue for valgus gonarthrosis with lateral compartment arthritis in young patients, where HTO would create an oblique joint line.
@@ -271,6 +371,16 @@ For resistant joint infection, severe Charcot destruction, failed total knee art
 Knee arthrodesis is contraindicated in children under 6–7 years of age because of growth. The fusion position is critical — 10° flexion and 10° external tibial rotation (for optimal gait).
 
 ## Total Knee Arthroplasty
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/tka.jpg" data-figure-alt="Total knee arthroplasty — postoperative radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-9/tka.jpg" alt="Total knee arthroplasty — postoperative radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Total knee arthroplasty (Insall–Burstein posterior-stabilized design): cobalt–chrome femoral component on resected condyles (95–97° to the mechanical axis), tibial metal tray with polyethylene insert (90° to the tibial mechanical axis), and patellar resurfacing. The standard exposure is medial parapatellar with a 1–2 cm quadriceps tendon cuff for closure.</span>
+    <span class="md-figure-attribution"> · fpjacquot, <a href="https://commons.wikimedia.org/wiki/File:PTG_F.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Total knee arthroplasty evolved from Walldius (1951, hinged total replacement), Insall–Burstein (1974, condylar — basis of the modern standard), Charnley (1958, polycentric), the geometric prosthesis (Geomedic, 1973), and the semi-total Robert Brigham (1976). The classical medial parapatellar approach, distal femoral osteotomies (95° or 97° to the mechanical axis), proximal tibial osteotomy (90° to the tibial mechanical axis), and resection of the menisci and cruciate ligaments (in posterior-stabilized designs) are standard. The Bandl approach (Walter Bandl, described in the Bulgarian curriculum) uses an arched incision starting from the medial epicondyle, crossing the tibial tuberosity, and ending at the lateral epicondyle — an alternative to the midline anterior incision in difficult closure scenarios.
 

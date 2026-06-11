@@ -13,6 +13,16 @@ order: 209
 
 ## Анатомия на бедрото и мускулни компартменти
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/thigh-cross-section.svg" data-figure-alt="Напречен срез на бедрото — компартменти" aria-label="Увеличи">
+    <img src="/img/anatomy-9/thigh-cross-section.svg" alt="Напречен срез на бедрото — компартменти" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Напречен срез на средната трета на бедрото: преден компартмент (m. quadriceps femoris + sartorius, n. femoralis), медиален компартмент (аддуктори, n. obturatorius) и заден компартмент (hamstrings, n. ischiadicus); интермускулните прегради се прикрепят за linea aspera и определят границите на класическата фасциотомия.</span>
+    <span class="md-figure-attribution"> · Marshall Strother, <a href="https://commons.wikimedia.org/wiki/File:Thigh_cross_section.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 Бедрото има три основни мускулни компартмента, разделени от интермускулни прегради, залавени за linea aspera на бедрената кост:
 
 Преден компартмент: Съдържа musculus quadriceps femoris (musculus rectus femoris, musculus vastus lateralis, musculus vastus medialis, musculus vastus intermedius), musculus sartorius, musculus iliacus и musculus psoas (проксимално) и musculus pectineus. Инервиран предимно от nervus femoralis (L2-L4). Функционира главно като екстензия на коляното и флексия в тазобедрената става.
@@ -121,7 +131,57 @@ A. femoralis се проектира по линията между средна
 
 Кръстните връзки (предна кръстна връзка, ПКВ, и задна кръстна връзка, ЗКВ) лежат вътреставно и са разгледани в Тема Травма-26. Менискусите (медиален и латерален) са фиброхрущялни структури, осигуряващи разпределение на натоварването и съответствие на ставните повърхности. Страничните връзки (медиалната, medial collateral ligament, МКВ, и латералната, lateral collateral ligament, ЛКВ, с постеролатералния ъгъл) осигуряват стабилност в коронарната равнина.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-ligaments.png" data-figure-alt="Връзки на коленната става — преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee-ligaments.png" alt="Връзки на коленната става — преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класически преден изглед на дясната коленна става с разрязана капсула: ligamentum cruciatum anterius (ПКВ) и posterius (ЗКВ) в интеркондиларния notch, медиален и латерален менискус, ligamentum collaterale tibiale (МКВ) и fibulare (ЛКВ). Тази класическа схема е основа за разбиране на лигаментната реконструкция по Hey-Groves, Jones, Lemaire и Шойлев.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray348.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-menisci.png" data-figure-alt="Менискуси на дясната тибия — горен изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee-menisci.png" alt="Менискуси на дясната тибия — горен изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Горен изглед на тибиалното плато: C-образен медиален менискус (по-дълъг, по-тесен, плътно залавен за дълбокия слой на МКВ — затова по-уязвим при ротация на фиксирано стъпало) и почти кръгъл латерален менискус с по-голяма мобилност, ligg. meniscofemoralia Humphrey (отпред) и Wrisberg (отзад). Bow-tie-конфигурацията се вижда при сагитални MRI срезове.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray349.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 ## Топография на коленната област
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-sagittal.png" data-figure-alt="Сагитален срез на коленна става" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee-sagittal.png" alt="Сагитален срез на коленна става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сагитален срез на дясната коленна става (Gray): пателофеморалното съчленение, ПКВ и ЗКВ в интеркондиларния notch, инфра-пателарна Hoffa-мастна тъкан и горната супрапателарна торба. Класическият медиален парапателарен достъп на Pütti отваря тази архитектура; mid-vastus достъпът щади m. vastus medialis obliquus и е застъпен в българската школа за минимално инвазивно тотално колянно ендопротезиране.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray350.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-capsule-posterior.png" data-figure-alt="Капсула на коленна става, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee-capsule-posterior.png" alt="Капсула на коленна става, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Задна капсула на дясната коленна става (раздута за демонстрация): включва lig. popliteum obliquum и lig. popliteum arcuatum, постеролатерален ъгъл с popliteus тендон и късите глави на m. biceps femoris. Това е работното поле при задния попитеален достъп на Henderson-Burks-Schaffer за резекция на синовиален hemangiom, при достъп до v. poplitea и при остра ПКВ-репарация.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray352.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/patella-posterior.png" data-figure-alt="Задна повърхност на пателата" aria-label="Увеличи">
+    <img src="/img/anatomy-9/patella-posterior.png" alt="Задна повърхност на пателата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Задна (ставна) повърхност на дясната патела: разделена от централен ръб на медиална и латерална фасета (със следата на хрущялен трофизъм според натоварването), плюс „странична" фасета на Wiberg медиално. Тази архитектура определя оперативната тактика при пателарна остеохондрална лезия, частична фасетектомия и Maquet-Bardot елевация на tuberositas tibiae за разтоварване на пателофеморалния контакт.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray353.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Класическата българска топографска школа разделя regio genu на предна и задна област с граница, определена от две надлъжни линии, спускащи се леко дъговидно покрай задните ръбове на бедрените кондили; латералната линия пресича сухожилието на m. biceps femoris на нивото на ставната междина. Проксималната граница на областта е циркулярна линия на 4 cm над основата на patella (отпред) и 11–12 cm над долната напречна гънка на fossa poplitea (отзад); дисталната — нивото на tuberositas tibiae отпред и 7–8 cm под подколянната гънка отзад.
 
@@ -207,6 +267,26 @@ U-образният („подковообразен") достъп на Textor
 
 ## Артроскопия на коляното — портали и принципи
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/arthroscopic-portals.jpg" data-figure-alt="Типични артроскопски портали на коляното" aria-label="Увеличи">
+    <img src="/img/anatomy-9/arthroscopic-portals.jpg" alt="Типични артроскопски портали на коляното" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Класически артроскопски портали на коляното (Watanabe 1959, модернизация от Jackson и DeHaven): антеролатерален (под върха на пателата, страничен от lig. patellae — основният за камерата), антеромедиален (огледален отляво, основен инструментален портал) и постеромедиален/постеролатерален (за задни отсеци, Gillquist transseptal). На терен — патогномоничните допълнителни Bulgarian transtendineous портали на Карагьозов за достъп до постеролатералния ъгъл.</span>
+    <span class="md-figure-attribution"> · Tim1965, <a href="https://commons.wikimedia.org/wiki/File:Typical_arthroscopic_surgery_incisions_-_knee.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/meniscus-mri.jpg" data-figure-alt="MRI на скъсан медиален менискус" aria-label="Увеличи">
+    <img src="/img/anatomy-9/meniscus-mri.jpg" alt="MRI на скъсан медиален менискус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Протонна MRI на колянна става — степен 2 разкъсване на задния рог на медиалния менискус: линеен хиперинтензен сигнал, достигащ до ставната повърхност. Класификацията по Stoller (степени 1–3) и геометричните типове (хоризонтален, радиален, „bucket handle", flap) определят хирургичната тактика — частична менисектомия за нерепарируеми лезии в бялата (аваскуларна) зона или менискорафия inside-out по Henning при червената или red-white зона.</span>
+    <span class="md-figure-attribution"> · Lefevre/Naouri et al., <a href="https://commons.wikimedia.org/wiki/File:Proton_density_MRI_of_a_grade_2_medial_meniscal_tear.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 Артроскопията на коляното е въведена от Masaki Watanabe (Япония, 1959 — Watanabe Arthroscope No. 21), доразвита от Robert Jackson, John Joyce, Lanny Johnson, Richard O'Connor и Heshmat Shahriaree през 70-те. Класическите портали остават основният стандарт:
 
 — Стандартни предни портали: антеро-латерален (1 cm над ставната линия, латерално от ligamentum patellae; стандартен оптичен портал) и антеро-медиален (1 cm над ставната линия, медиално от ligamentum patellae; работен портал). Антеро-медиалният портал обикновено се локализира иглена с „outside-in" техника под директна артроскопска визуализация за прецизно позициониране спрямо медиалния менискус и предната пресовка на ПКВ при реконструкция.
@@ -234,6 +314,16 @@ U-образният („подковообразен") достъп на Textor
 При остри постеролатерални нестабилности (травматично разкъсване на ЛКВ, popliteus, popliteofibular ligament или биципиталното сухожилие) се прави предно-латерален разрез (12–14 cm), започващ 3–4 cm над patella, по линията на fibrae на tractus iliotibialis, и завършващ 3 cm под tuberculum Gerdy. N. peroneus communis се идентифицира и предпазва. Реинсерациите на m. popliteus и ЛКВ към латералния епикондил се извършват „нагоре и напред" с трансосални шевове, лекoо натегнати, при коляно във флексия 30° и външна ротация на подбедрицата — позиция, гарантираща правилно нанасяне на тенсиограмата. Зад ЛКВ задната капсула и lig. arcuatum се реинсерират към тибията през трансосални тунели. След възстановяването гипсов ботуш при флексия 70° и външна ротация на подбедрицата за 6 седмици.
 
 ## Реконструкция на предна кръстосана връзка — класически техники
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/acl-reconstruction.jpg" data-figure-alt="Реконструкция на ПКВ с хамстринг автотрансплантат" aria-label="Увеличи">
+    <img src="/img/anatomy-9/acl-reconstruction.jpg" alt="Реконструкция на ПКВ с хамстринг автотрансплантат" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Артроскопска ПКВ-реконструкция с четирилентов хамстринг автотрансплантат (gracilis + semitendinosus): феморална и тибиална костна tunнели по single-bundle стандарт; фиксация с EndoButton (Mitek) или Bio-Tenodesis винт. Класическата историческа линия: Hey-Groves 1917 fascia lata, Jones 1963 централна третина на lig. patellae, Lemaire 1967 латерална екстра-артикуларна тенодеза, MacIntosh, Kennedy-Insall и българската модификация на Ланда 1947.</span>
+    <span class="md-figure-attribution"> · Shannon Moore, <a href="https://commons.wikimedia.org/wiki/File:ACL_reconstruction_hamstring_autograft.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
 
 Реконструкцията на ПКВ има над век история; в ортопедичната литература са описани повече от 200 техники, групирани в три категории: интраартикуларни (заместване по анатомичния път на ПКВ), екстраартикуларни (динамична стабилизация чрез задно-латерална тенодеза) и комбинирани (централна реконструкция + латерално подсилване).
 
@@ -285,6 +375,16 @@ Hey-Groves (1917, Англия) е първият с интраартикула�
 
 ## Високи остеотомии на tibia
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-from-front.png" data-figure-alt="Дясна коленна става отпред с разрязана капсула" aria-label="Увеличи">
+    <img src="/img/anatomy-9/knee-from-front.png" alt="Дясна коленна става отпред с разрязана капсула" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дясна коленна става отпред с разрязана капсула: предна кръстна връзка (ПКВ), задна кръстна връзка (ЗКВ), медиален менискус, lig. patellae. Класическата ставо-съхраняваща хирургия — висока тибиална остеотомия по Coventry (1965), Maquet-Bardot, Puddu, Holevich HTO — се ръководи от тази архитектура: латерален затварящ клин (~1 mm на 1° корекция) разтоварва медиалния компартмент при варусна гонартроза.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray347.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Високата остеотомия на проксималната tibia е първоначално описана от Jackson (1958) и стандартизирана от Coventry (Мейо, 1965) като клиновидна латерална компресионна остеотомия за варусна гонартроза с медиален едноотделен артрит. Класическата техника по Coventry: латерален подковообразен разрез под главата на fibula, остеотомия на фибуларната диафиза за освобождаване (или резекция на главата при тежка валгусна корекция), очертаване и постепенно изваждане на клиновиден костен сегмент с основа 1° корекция на 1 mm ширина; медиалният кортикален слой се перфорира с малки длета, без да се пречупва (за пантова стабилност), и след валгизация двата фрагмента се фиксират със скоби пред фибулата. През фибуларната глава се прокарват два успоредни канала и през тибиалните фрагменти — други два, в които се включва скоба за директна екстензия по Charnley или Greifensteiner, създаваща компресия. Гипсов крачол за 6 седмици. Модификацията на Холевич, Джеров и Владимиров (България, 1970-те) запазва фибуларната глава, остеотомира фибулата на нивото на началото на диафизата с резекция на сегмент 1–1,5 cm и фиксира двата фибуларни фрагмента с дълъг спонгиозен AO винт с шайба, ползвайки и фибуларната глава като лост за поставяне на латералния колатерален лигамент и сухожилието на m. biceps femoris под напрежение — съществено предимство при синтропатия с ставна нестабилност.
 
 Високата овоидна (dome) остеотомия по Maquet–Bardot е изпълнявана като преден надлъжен достъп, депериостиране на tibia от двете страни на ligamentum patellae, остеотомия с осцилиращ трион в полукръгла форма с конкавност нагоре, корекция в желаната валгусна позиция и компресионна фиксация с щайнманови пирони и компресор. Високата отварящаща се клиновидна (opening wedge) остеотомия по Maquet и Puddu (1990-те, с „Puddu plate") отваря медиална клиновидна остеотомия с постепенно разклиняване и поставяне на специализирана плака с „крак" в клина; класическите присадъци за запълване са трикортикални клиновидни алографти от crista iliaca или ауто-присадъци от crista. При корекция над 15–20° първо се остеотомира fibula. Дисталната феморална варизираща остеотомия (отварящаща се медиална или затваряща се латерална клиновидна) е аналог за валгусна гонартроза с латерален едноотделен артрит при млади пациенти, при които HTO би създал косо ставно ниво.
@@ -302,6 +402,16 @@ Hey-Groves (1917, Англия) е първият с интраартикула�
 Артродезата при деца под 6–7 години е противопоказана поради растеж. Положението на сливане е критично — 10° флексия и 10° външна ротация на подбедрицата спрямо бедрото (за оптимален gait).
 
 ## Тотална артропластика на коляното
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/tka.jpg" data-figure-alt="Тотална колянна ендопротеза — постоперативна рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-9/tka.jpg" alt="Тотална колянна ендопротеза — постоперативна рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тотална колянна ендопротеза (тип Insall–Burstein, posterior-stabilized): феморален кобалт-хромов компонент върху резецираните бедрени кондили (95–97° спрямо механичната ос), тибиален метален поднос с полиетиленова вложка (90° спрямо тибиалната механична ос) и пателарно резурфейсиране. Стандартен достъп — медиален парапателарен с 1–2 cm маншет от tendo quadricipitis.</span>
+    <span class="md-figure-attribution"> · fpjacquot, <a href="https://commons.wikimedia.org/wiki/File:PTG_F.jpeg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Тоталната артропластика на коляното еволюира от Walldius (1951, шарнирна тотална замяна), Insall–Burstein (1974, кондиларна — основа на съвременния стандарт), Charnley (1958, polycentric), геометричната ендопротеза (Geomedic, 1973) и Cемитоталната Robert Brigham (1976). Класическите медиал парапателарен достъп, остеотомии на дисталния фемур (95° или 97° спрямо механичната ос) и проксимална tibia (90° спрямо тибиалната механична ос) и резекция на менисците и кръстосаните връзки (при posterior-stabilized протези) са стандартни. Достъпът по Bandl (Walter Bandl, описан в българската школа) използва дъговиден разрез започващ от медиалния епикондил, пресичащ tuberositas tibiae и завършващ на латералния епикондил — алтернативa на стандартния среден надлъжен преден разрез при затрудено затваряне.
 

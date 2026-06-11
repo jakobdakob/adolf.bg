@@ -25,6 +25,26 @@ The vascular supply to the physis is unique: separate vessels supply the epiphys
 ## Salter-Harris Classification of Physeal Injuries
 
 <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris-types.svg" data-figure-alt="Salter-Harris types" aria-label="Enlarge">
+    <img src="/img/anatomy-12/salter-harris-types.svg" alt="Salter-Harris types" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The five Salter-Harris types (1963, Robert B. Salter and W. Robert Harris): I — through the physis, II — through physis and metaphysis (Thurston-Holland fragment; commonest, ~75%), III — through physis and epiphysis, IV — through metaphysis-physis-epiphysis (requires anatomic reduction to avoid a bony bridge), V — physeal compression (rare, poor prognosis for growth arrest). The classification determines the risk of growth arrest and the tactic — closed reduction for I/II versus open anatomic reduction for III/IV.</span>
+    <span class="md-figure-attribution"> · Llywelyn2000, <a href="https://commons.wikimedia.org/wiki/File:Salter_Harris_Fracture_Types.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris-iii.jpg" data-figure-alt="Salter-Harris III distal tibia — radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-12/salter-harris-iii.jpg" alt="Salter-Harris III distal tibia — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Radiograph of a Salter-Harris III fracture of the distal tibia (juvenile Tillaux fracture): avulsion of the lateral epiphyseal fragment in the setting of asymmetric physeal closure between 12–15 years, when the medial half of the physis closes before the lateral. Displacement >2 mm requires ORIF to restore the articular surface and prevent post-traumatic arthritis.</span>
+    <span class="md-figure-attribution"> · Kyonghun Chong, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris_III_Fracture_Distal_Tibia_.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris.svg" data-figure-alt="Salter-Harris classification" aria-label="Enlarge">
     <img src="/img/anatomy-12/salter-harris.svg" alt="Salter-Harris classification" loading="lazy" decoding="async" />
   </button>
@@ -139,6 +159,16 @@ The remodeling potential of the pediatric bone is substantial and is a critical 
 
 ## Growth Arrest and Its Management
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/blount-disease.jpg" data-figure-alt="Blount's disease — varus deformity" aria-label="Enlarge">
+    <img src="/img/anatomy-12/blount-disease.jpg" alt="Blount's disease — varus deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Blount's disease (tibia vara, 1937): a disorder of the proximal medial tibial physis with progressive varus deformity. Infantile form (1–3 yrs) — bilateral, typically in early-walking, overweight children; adolescent form — usually unilateral. Langenskiöld classification (stages I–VI). Treatment: orthotic bracing in early stages, valgising proximal tibial osteotomy (Bogoraz segmental-angulation or modern Maquet lateralising), and 8-plate guided growth (Stevens) in younger patients.</span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Growth arrest following physeal injury occurs when bony bridges form across the physis, tethering the epiphysis to the metaphysis and preventing further growth. The incidence of growth arrest varies by fracture type and location: Salter-Harris I and II: Less than 10 percent risk. Salter-Harris III: 20 to 30 percent risk depending on location and quality of reduction.
 
 Salter-Harris IV: 30 to 50 percent risk. Salter-Harris V: Essentially 100 percent risk. Distal femur and proximal tibia physeal injuries have the highest risk of clinically significant growth arrest because of the substantial contribution of these physes to lower extremity length (the distal femur contributes approximately 9 mm/year of growth; the proximal tibia approximately 6 mm/year). Management of growth arrest depends on the location, the size of the bony bridge, and the remaining growth potential: Observation with serial radiographic follow-up for at least the first year after injury, with attention to leg-length discrepancy and angular deformity. Bar excision (Langenskiöld procedure): Removal of the bony bridge between the epiphysis and metaphysis with interposition of fat or other material to prevent reformation. Indicated for small (<50 percent of the physis) bridges in patients with significant remaining growth potential. Success rates are approximately 50 to 70 percent. Limb lengthening or shortening procedures for established leg-length discrepancy. Corrective osteotomy for established angular deformity. Contralateral epiphysiodesis to equalize leg lengths by stopping growth of the unaffected side at the appropriate time.
@@ -175,6 +205,16 @@ The Bowen percutaneous epiphysiodesis (Bowen, 1985) simplified the technique thr
 
 Between permanent epiphysiodesis and observation lies the concept of temporary growth retardation, which originated from Müller's experimental work showing that sustained compression at the physeal zone disrupts the normal structure of the cartilage and reversibly slows growth. Haas (1922) proposed metal pins transversely across the physis; Blount (W. P. Blount, 1949) developed this idea into "staples" — paired U-shaped staples placed percutaneously or through a small incision across the physis on both sides of the limb, bridging the epiphysis and metaphysis. The Blount system permits theoretically reversible epiphysiodesis through staple removal; in practice, because of dislodgement, inflammation, and unpredictable rebound, Blount staples are rarely used today.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/8plate-tension-band.png" data-figure-alt="8-plate guided growth — radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-12/8plate-tension-band.png" alt="8-plate guided growth — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The Hueter–Volkmann principle in action: a figure-of-eight tension-band plate (Stevens, 2007) is placed extraperiosteally with one screw in the epiphysis and one in the metaphysis, bridging the physis on one side. Compression at the plated side slows local growth while the opposite side continues to grow — permitting directional correction of genu valgum/varum or uniform retardation when placed bilaterally. After plate removal, growth resumes ("reversible epiphysiodesis"), in contrast to permanent percutaneous Bowen epiphysiodesis.</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Staples_for_epiphysiodesis,_Blount%27s_disease_-_rtg._and_experiments.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 The contemporary standard for reversible and graduated growth retardation is guided growth with a tension-band plate (Stevens, "8-plate," 2007). A small figure-of-eight plate with two screws (one in the epiphysis, one in the metaphysis) is placed extraperiosteally, modulates growth as a tension band (Hueter–Volkmann principle), and allows directional correction of angular deformity (genu valgum, genu varum) simultaneously with uniform growth retardation when placed bilaterally for length correction. Removal of the plate restores normal growth within weeks. The method has almost displaced the classical Phemister and Bowen epiphysiodesis for discrepancies of 2–4 cm with concurrent angular deformity.
 
 <aside class="callout callout-pearl">
@@ -190,7 +230,27 @@ The contemporary standard for femoral shortening is the closed intramedullary te
 
 ## Operative Lengthening of the Shorter Limb
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/ilizarov-portrait.jpg" data-figure-alt="Gavriil Ilizarov" aria-label="Enlarge">
+    <img src="/img/anatomy-12/ilizarov-portrait.jpg" alt="Gavriil Ilizarov" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Gavriil Abramovich Ilizarov (1921–1992) — creator of the principle of distraction osteogenesis. Beginning in 1951 in Kurgan, he described the laws of bone regeneration under controlled mechanical traction at 1 mm/day in 4 fractions, which permit limb lengthening up to 25 cm in selected clinical settings, treatment of large bony defects by bone transport, and correction of complex deformities. The principle remains the foundation of modern hexapod systems (Taylor Spatial Frame) and of intramedullary magnetic lengthening nails (PRECICE).</span>
+    <span class="md-figure-attribution"> · Prof. B.-D. Partecke, <a href="https://commons.wikimedia.org/wiki/File:G.A._Ilisarow_(1991).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 When the patient has passed the age for distraction epiphysiolysis or contraindications are present (closed physis, infectious involvement of the epiphysis), lengthening is performed in the diaphyseal or metaphyseal region of the affected bone. In principle one distinguishes one-stage (acute) and gradual lengthening. One-stage lengthening — developed by Putti, Magnuson, Merle d'Aubigné, Coucholx, Pol le Coeur, and in the Bulgarian school by Iliev (Iliev apparatus for acute lengthening, illustrated in Boychev) — allows an immediate length increase of up to 4–5 cm through resection, displacement, and bone-graft compensation. The drawbacks are substantial neurovascular loading with risk of ischemia and nerve traction, the limited magnitude of lengthening, and a difficult postoperative immobilization. For these reasons one-stage lengthening has been almost completely replaced in contemporary practice by gradual methods.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/ilizarov-lengthening.jpg" data-figure-alt="Ilizarov circular fixator for limb lengthening" aria-label="Enlarge">
+    <img src="/img/anatomy-12/ilizarov-lengthening.jpg" alt="Ilizarov circular fixator for limb lengthening" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ilizarov circular fixator for pediatric limb lengthening: minimally invasive metaphyseal corticotomy, a latency period of 5–7 days, distraction at 1 mm per day in four increments, and regenerate consolidation in the fixator for 2–3 times the duration of distraction (the "consolidation index"). The same principle underlies distraction epiphysiolysis at an open physis (10–14 years) and modern six-axis hexapod systems (Taylor Spatial Frame, TrueLok Hex).</span>
+    <span class="md-figure-attribution"> · Pagemaker787, <a href="https://commons.wikimedia.org/wiki/File:Ilizarov_Apparatus_External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Gradual lengthening — based on the principle of distraction osteogenesis (callotasis) — provides plastic stretching of the vessels, nerves, and tendon-muscle apparatus, and permits substantially greater lengthening. The classical Wagner technique (H. Wagner, 1971) uses a monoaxial threaded distractor after diaphyseal osteotomy; lengthening at 1.5 mm/24 h continues to the target, after which a second-stage bone graft and plate fixation of the defect is performed. The technique has been displaced by the Ilizarov method (G. A. Ilizarov, Kurgan): a ring external fixator with transverse Kirschner wires, corticotomy preserving the medullary blood supply and the periosteum, a latency period of 5–7 days before distraction begins, and gradual lengthening at 1 mm/24 h in four increments. The regenerate consolidates in the fixator for a period equal to about 2–3 times the duration of distraction (the so-called "consolidation index"). Ilizarov demonstrated the biological law of tension stimulation of osteogenesis, and his approach remains the gold standard for complex lengthening, particularly with simultaneous correction of angular deformity, rotation, and translation (the so-called six-axis correction realized in contemporary hexapod systems, Taylor Spatial Frame, TrueLok Hex).
 
@@ -205,11 +265,61 @@ The consensus is that bones tolerate lengthening up to about 10% (occasionally 1
 
 ## Classical Principles of Pediatric Fracture Surgery — The Bulgarian and Soviet School
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/perthes-disease.png" data-figure-alt="Legg-Calvé-Perthes disease" aria-label="Enlarge">
+    <img src="/img/anatomy-12/perthes-disease.png" alt="Legg-Calvé-Perthes disease" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Legg-Calvé-Perthes disease (LCP): idiopathic avascular necrosis of the femoral head in children aged 4–8. Classifications: Catterall (I–IV), Herring lateral pillar (A/B/C — the principal prognostic tool), Salter-Thompson "crescent sign". Stages: 1) ischemia and necrosis, 2) fragmentation, 3) reossification, 4) remodelling. Treatment by age and Herring grade: containment bracing in mild forms, varising femoral osteotomy (Salter, Sugioka, Trumble), Salter innominate osteotomy — the Bulgarian school of Iliev, Ivanov and Dikers.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/scfe.jpg" data-figure-alt="Slipped capital femoral epiphysis" aria-label="Enlarge">
+    <img src="/img/anatomy-12/scfe.jpg" alt="Slipped capital femoral epiphysis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Slipped capital femoral epiphysis (SCFE): posteromedial slip of the femoral head relative to the neck through the hypertrophic zone of the physis. Classification: stable vs unstable (Loder — weight-bearing ability); chronic, acute, acute-on-chronic. Standard treatment — in-situ pinning with a single cannulated screw (Southwick); corrective osteotomies (Imhauser, Sugioka, Dunn) for severe cases. AVN is the critical complication, especially in unstable slips.</span>
+    <span class="md-figure-attribution"> · Dr. Jochen Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/cong-pseudoarthrosis-tibia.png" data-figure-alt="Congenital pseudoarthrosis of the tibia" aria-label="Enlarge">
+    <img src="/img/anatomy-12/cong-pseudoarthrosis-tibia.png" alt="Congenital pseudoarthrosis of the tibia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Congenital pseudoarthrosis of the tibia with typical anterolateral bowing (Boyd/Crawford classification), nearly always associated with neurofibromatosis type 1. Classical treatment options: Sofield intramedullary nail with autologous cancellous bone, vascularised fibula from the contralateral limb (Taylor), bone transport (Ilizarov), and the Hahn–Huntington–Codivilla "fibula pro tibia". The Bulgarian Karchinov school (1974/1975) adds two-stage bone bridges for larger defects.</span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital Klinikum Stuttgart, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/rickets-xray.jpg" data-figure-alt="Rickets — radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-12/rickets-xray.jpg" alt="Rickets — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Rickets: widened physes with "rachitic rosary" costochondral prominences, splayed metaphyseal edges, and generalised osteopenia. The classical metabolic disease of vitamin D deficiency, most common at 6 months to 2 years in unsupplemented breastfed infants. The classical Bulgarian school describes corrective valgising femoral osteotomy (Bogoraz) after medical stabilisation for residual genu varum after rickets healing.</span>
+    <span class="md-figure-attribution"> · Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:RicketsXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 The classical Bulgarian and Soviet school developed specific techniques for the management of complex pediatric fractures that remain in the curriculum. The Volkov-Oganesyan elbow distractor (M. V. Volkov, O. V. Oganesyan) — a combined hinged external fixator providing simultaneous joint distraction, early mobilization, and controlled restoration of joint congruency — is the historical predecessor of contemporary hinged elbow external fixators for complex flexion-extension contractures and for rehabilitation after severe elbow fracture-dislocations (particularly in adolescent complex patterns). The concept combines joint distraction (unloading the articular cartilage and facilitating remodeling) with passive and active mobilization through the joint axes, and persists in contemporary practice realized in Compass- and Mayo-type external fixators.
 
 In the management of pediatric hematogenous osteomyelitis the Bulgarian wartime and postwar school championed the principle of early emergent decompression: a metaphyseal drill hole evacuating intramedullary pus, copious lavage, local antibiotic application, and subsequent systemic antibiotic therapy by sensitivity, with the aim of preventing spread to the joint (septic arthritis) and to the physis (post-infectious partial or complete growth arrest). The classical "blind" (physis-disregarding) drilling technique has been replaced by modern physis-sparing decompression with imaging guidance. Chronic osteomyelitis with sequestrum requires sequestrectomy with reconstructive osteosynthesis or Masquelet induced-membrane technique — the latter, though modern, realizes the principle of two-stage (debridement → reconstruction) management already embedded in the classical Soviet school.
 
 Congenital pseudarthrosis of the tibia (Crawford type IIb, most commonly associated with neurofibromatosis type 1) is among the most difficult conditions in pediatric orthopedics. The classical approaches include: 1) intramedullary rod with iliac crest autograft (Sofield method); 2) free vascularized fibula with microvascular anastomosis (Pho); 3) Ilizarov circular external fixator with compression-distraction at the pseudarthrosis site; 4) Masquelet induced-membrane technique with two-stage bone grafting. Contemporary protocols combine an intramedullary rod (stabilization) with Ilizarov compression or with a vascularized fibular graft; biological augmentation with BMP-2 is experimental but promising. The classical fibular transfer technique with a pedicled cortico-periosteal flap (the method of Hahn, Taylor, and in the Bulgarian school championed by the UMHATO schools) retains a clinical role in severe segmental tibial defects and in distal phalangeal reconstruction in childhood.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/osteogenesis-imperfecta.jpg" data-figure-alt="Osteogenesis imperfecta — radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-12/osteogenesis-imperfecta.jpg" alt="Osteogenesis imperfecta — radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteogenesis imperfecta with multiple fractures and long-bone deformity (the typical sabre-shaped bowing of femur and tibia). The classical Sofield–Millar technique (1959) performs multiple segmental osteotomies of the affected bone, threads the fragments in correct alignment onto an intramedullary rod, and provides passive stabilisation — the modern equivalents are the Bailey–Dubow and Fassier–Duval telescoping rods, which elongate with the growing child without need for repeat exchange.</span>
+    <span class="md-figure-attribution"> · ShakataGaNai, <a href="https://commons.wikimedia.org/wiki/File:XrayOITypeV-Kid.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
 
 The Sofield-Millar intramedullary rod for osteogenesis imperfecta (H. A. Sofield, E. A. Millar, 1959) consists of multiple segmental osteotomies of the long bone with three or more fragments threaded longitudinally onto a telescoping rod — the technique for the tibia, femur, and humerus provides passive stabilization of the fragile bone and prevents recurrent fractures in patients with severe OI. The modern equivalent is the Bailey-Dubow telescoping rod and its successors (Sheffield Telescopic Rod, Fassier-Duval), which grow with the patient and do not require repeated surgical revision with growth.
 

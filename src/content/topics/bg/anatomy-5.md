@@ -23,6 +23,16 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
 
 Дисталната radioulnar articulation (DRUJ) между главата на ulna и incisura ulnaris на radius се стабилизира от ligamentum radioulnare palmare и ligamentum radioulnare dorsale, комплекса на триъгълния фиброхрущял (TFCC), membrana interossea, musculus pronator quadratus и улнарния колатерален лигамент.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-ulna-supination.svg" data-figure-alt="Radius и ulna в супинация" aria-label="Увеличи">
+    <img src="/img/anatomy-5/radius-ulna-supination.svg" alt="Radius и ulna в супинация" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Десен radius и ulna в супинация (3D от DBCLS): двете кости са успоредни; пронацията изисква radius да описва кръг около ulna в проксималната и дисталната радиоулнарна стави, докато интеросалната мембрана преразпределя натоварването. Загубата на радиалната дъга след диафизарна фрактура (Тема Травма-16) ограничава ротацията и е основна причина за оперативната ригорност на класическите AO компресивни плочи (Müller-Allgöwer-Schneider) при двукостни фрактури на предмишницата.</span>
+    <span class="md-figure-attribution"> · DataBase Center for Life Science (DBCLS), <a href="https://commons.wikimedia.org/wiki/File:202202_Anterior_view_of_right_radius_and_ulna_in_supination.svg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
 ## Мускулни компартменти
 
 <figure class="md-figure">
@@ -39,6 +49,26 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
 
 ## Волярен (флексорен) компартмент
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/pronator-teres.png" data-figure-alt="M. pronator teres и повърхностен флексорен слой" aria-label="Увеличи">
+    <img src="/img/anatomy-5/pronator-teres.png" alt="M. pronator teres и повърхностен флексорен слой" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Повърхностен волярен слой на предмишницата (по Gray): pronator teres, FCR, palmaris longus и FCU от общия флексорен произход на mediale epicondylus. Двете глави на pronator teres (humeralis и ulnaris) формират горно-улнарната граница на cubital fossa и притискат n. medianus при синдрома на pronator-teres — класическа индикация за невролиза по класическата българска техника на Конфорти-Панева с долен достъп през фасциалния тунел.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-flexors-deep.png" data-figure-alt="Дълбок флексорен слой на предмишницата" aria-label="Увеличи">
+    <img src="/img/anatomy-5/forearm-flexors-deep.png" alt="Дълбок флексорен слой на предмишницата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дълбок флексорен слой: FDP, FPL и pronator quadratus с n. medianus и AIN дълбоко върху membrana interossea. Тук минава достъпът по Henry до средната и дисталната третина на radius — между FCR и a. radialis, с дезинсерция на pronator quadratus от прикрепването му към radius (за достъп до волярната повърхност на дисталната костна третина за плочна остеосинтеза на фрактура на дисталния radius — Тема Травма-17).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray419.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Волярният компартмент е организиран в три слоя:
 
 Повърхностен слой: От радиалната към улнарната страна — musculus pronator teres, musculus flexor carpi radialis (FCR), musculus palmaris longus (отсъства при около 14% от популацията), musculus flexor carpi ulnaris (FCU). Тези мускули произхождат от mediale epicondylus humeri (общ флексорен произход) и вървят дистално до инсерциите си.
@@ -50,6 +80,16 @@ Membrana interossea свързва radius и ulna по цялата им дъл�
 Nervus medianus върви в волярния компартмент между слоевете на FDS и FDP по средната линия; nervus interosseous anterior (AIN) е дълбок клон, вървящ по membrana interossea. Nervus ulnaris върви улнарно спрямо FDP, дълбоко под FCU. Arteria radialis върви по радиалната страна, дълбоко под musculus brachioradialis. Arteria ulnaris върви по улнарната страна, дълбоко под FCU.
 
 ## Дорзален (екстензорен) компартмент
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-extensors.png" data-figure-alt="Дорзални екстензори на предмишницата" aria-label="Увеличи">
+    <img src="/img/anatomy-5/forearm-extensors.png" alt="Дорзални екстензори на предмишницата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дорзални екстензори на предмишницата: повърхностен слой (EDC, EDM, ECU от laterale epicondylus) и дълбок слой (APL, EPB, EPL, EI, supinator). Външното косо коремче на APL и EPB прекосява сухожилието на ECRL — точно в проекцията на „табактерата" — анатомичният субстрат на тендинит на de Quervain, лекуван с класическо освобождаване на първия дорзален екстензорен компартмент.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray422.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Дорзалният компартмент е организиран в:
 
@@ -129,6 +169,16 @@ Arteria interossea communis се отделя от arteria ulnaris и се ра�
 
 ## Достъп по Henry до radius (волярен достъп)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/henry-volar-anatomy.png" data-figure-alt="Волярна анатомия на предмишницата – основа на достъпа по Henry" aria-label="Увеличи">
+    <img src="/img/anatomy-5/henry-volar-anatomy.png" alt="Волярна анатомия на предмишницата – основа на достъпа по Henry" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Повърхностна волярна мускулна анатомия на предмишницата с m. brachioradialis латерално и FCR медиално — интервалът, използван от достъпа по Henry за експозиция на цялата дължина на radius. A. radialis върви между двата мускула, леко улнарно.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray418.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Достъпът по Henry (A. K. Henry, 1927) е класическият волярен достъп до radius, осигуряващ достъп за плаково фиксиране на фрактури на диафизата на лъча, биопсия на radius, експозиция на arteria radialis и предна хирургия при тумори на предмишницата.
 
 ## Позициониране на пациента
@@ -160,6 +210,16 @@ Radius се експонира субпериостално и се извърш
 Усложненията на достъпа по Henry включват увреждане на PIN (основна грижа; минимизира се чрез супинация на предмишницата и внимателна субпериостална елевация на musculus supinator), увреждане на повърхностния клон на nervus radialis (с болезнена неврома при увреждане на клоновете), увреждане на arteria radialis (рядко, но възможно при енергична ретракция) и увреждане на nervus medianus (по-рядко, по-вероятно при проксимално удължаване на дисекцията).
 
 ## Достъп по Thompson до radius (дорзален достъп)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/thompson-dorsal-anatomy.png" data-figure-alt="Дорзална анатомия на предмишницата – основа на достъпа по Thompson" aria-label="Увеличи">
+    <img src="/img/anatomy-5/thompson-dorsal-anatomy.png" alt="Дорзална анатомия на предмишницата – основа на достъпа по Thompson" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дорзална мускулна анатомия на предмишницата: интервалът между ECRB (n. radialis) и EDC (PIN), използван от достъпа по Thompson, и ходът на PIN през m. supinator при аркадата на Frohse — структурата с най-висок риск при дисекцията.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray421.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Достъпът по Thompson (J. E. Thompson, 1918) осигурява дорзален достъп до radius и се използва при плаково фиксиране на фрактури на проксималната третина на лъча (при които волярният достъп по Henry крие риск за PIN), при избрани патологии на проксималния radius и при дорзален достъп до тумори на предмишницата.
 
@@ -306,6 +366,16 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 3. Да се възстанови активното разгъване на основните фаланги на II–V пръст и на дисталната фаланга на палеца — общият разгъвач на пръстите и дългият разгъвач на палеца могат да се мобилизират чрез един общ двигател.
 4. Дългият и късият разгъвач на палеца са синергисти за екстензия, но антагонисти за абдукция-аддукция; затова се препоръчват отделни двигатели за късия разгъвач и абдуктора.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radial-nerve-anatomy.png" data-figure-alt="Анатомия на n. radialis и PIN" aria-label="Увеличи">
+    <img src="/img/anatomy-5/radial-nerve-anatomy.png" alt="Анатомия на n. radialis и PIN" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ход на n. radialis и PIN в горната част на предмишницата — анатомичната основа за разбирането на нивата на парализата и за планирането на транспозициите по Jaschar/Чаклар, Boyes и Franke (PT → ECRB; FCR/FCU → EDC; PL → EPL).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray420.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Транспозициите по Jaschar/Чаклар: m. pronator teres → екстензорите на китката (ECRL/ECRB); m. flexor carpi ulnaris → m. extensor digitorum communis + m. extensor pollicis longus; m. palmaris longus (или повърхностен флексор на III или IV пръст при липса на PL) → m. abductor pollicis longus + m. extensor pollicis brevis.
 
 Транспозиции по Boyes: m. pronator teres → ECRB (екстензия на китка); m. flexor carpi radialis → m. abductor pollicis longus + m. extensor pollicis brevis; повърхностен флексор на III пръст (през отвор в membrana interossea) → m. extensor digitorum communis; повърхностен флексор на IV пръст (също през интероссеалния отвор) → m. extensor pollicis longus + m. extensor indicis proprius. Boyes е технически по-взискателна, но осигурява независимо разгъване на палеца и сегментно фино управление, особено полезно за тренирани пациенти и музиканти.
@@ -318,6 +388,36 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 </aside>
 
 ## Компресивна остеосинтеза с плака на двете кости на предмишницата
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-fracture.png" data-figure-alt="Диафизарна фрактура на radius" aria-label="Увеличи">
+    <img src="/img/anatomy-5/radius-fracture.png" alt="Диафизарна фрактура на radius" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Двупроекционна (AP + латерална) рентгенография на изместена диафизарна фрактура на radius: класическо показание за компресивна плочна остеосинтеза по Müller-Allgöwer-Schneider (AO стандарт от 1969) — реконструкция на радиалната дъга е критична за възстановяване на пронацията и супинацията.</span>
+    <span class="md-figure-attribution"> · Laboratoires Servier, <a href="https://commons.wikimedia.org/wiki/File:Forearm_fracture_-_Radius_fracture_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/galeazzi-fracture.jpg" data-figure-alt="Фрактура на Galeazzi" aria-label="Увеличи">
+    <img src="/img/anatomy-5/galeazzi-fracture.jpg" alt="Фрактура на Galeazzi" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на Galeazzi (преди и след): фрактура на дисталната третина на radius с дислокация в DRUJ. Класическата българска и AO практика е плочна остеосинтеза на radius чрез волярен достъп по Henry, последвана от ревизия на DRUJ и обездвижване на предмишницата в супинация за 4–6 седмици при стабилна редукция; нестабилна DRUJ изисква транс-улно-радиална Киршнерова игла за 6 седмици.</span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi-Fraktur_Roentgen_ap_und_seitlich_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/monteggia-fracture.jpg" data-figure-alt="Фрактура на Monteggia" aria-label="Увеличи">
+    <img src="/img/anatomy-5/monteggia-fracture.jpg" alt="Фрактура на Monteggia" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Фрактура на Monteggia (Bado тип I): диафизарна фрактура на ulna с предна дислокация на главичката на radius — описана от Giovanni Battista Monteggia (1814) и класифицирана от Bado (1967) в 4 типа според посоката на главичката. Принципът на лечението е стабилна остеосинтеза на ulna, която обикновено редуцира главичката на radius; ако последната остане изместена, индикация за отворена редукция и евентуална реконструкция на ligamentum anulare.</span>
+    <span class="md-figure-attribution"> · Jane Agnes, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Класическата индикация за компресивна плака на radius и ulna в българската ортопедична традиция (по Панева и сътр.) са напречни и леко коси „трудни за наместване и задържане на репозицията“ свежи диафизарни счупвания, застарели нерепонирани счупвания, лошо зараснали счупвания и атрофични псевдартрози. Достъпът до радиуса е предимно по Henry (предно-страничен); дорзалният (по Thompson) се предпочита при счупвания в средната трета, когато волярната страна е компрометирана от меките тъкани.
 
@@ -368,6 +468,16 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 
 ## Корекция на деформацията на Madelung
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/madelung-deformity.jpg" data-figure-alt="Рентгенография при деформация на Madelung" aria-label="Увеличи">
+    <img src="/img/anatomy-5/madelung-deformity.jpg" alt="Рентгенография при деформация на Madelung" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Рентгенография при деформация на Madelung: волярно-улнарно изоставане в растежа на дисталния radius с дорзално луксиране на дисталната ulna и характерен „щик“-силует — индикация за резекция по Darrach, физиолиза по Vickers или Sauvé–Kapandji процедура.</span>
+    <span class="md-figure-attribution"> · Otto Madelung (1878), <a href="https://commons.wikimedia.org/wiki/File:Diagrams_of_Madelung%27s_deformation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Деформацията на Madelung (вродено или придобито volar-ulnar субсиденция на дисталния radius поради дисфункция на воларно-улнарната епифизарна плоча с интактна дорзо-радиална половина и стягане от Vickers-лигамент) се коригира оперативно при значителна функционална или козметична деформация. Класическата корекция в българската традиция (Дарах) комбинира два елемента: резекция на дисталната ulna (за разтоварване на DRUJ и възстановяване на ротацията) и клиновидна остеотомия на дисталния radius с фиксация с Киршнерови игли. Резекцията на ulna следва оригиналната техника на Darrach: дорзален разрез по локализацията на дисталния край на ulna, отделяне между сухожилията на ECU и EDM, отваряне на DRUJ, напречно или леко косо прерязване на ulna на разстояние 1,5–2 cm проксимално от върха на processus styloideus ulnae. Дисталният фрагмент се мобилизира при срязване на капсулата на DRUJ, докато увисне на ulnar collateral ligament; processus styloideus се прерязва, като се оставя залepен за латералния лигаментен комплекс, а капсулата с периоста и периост-сухожилните връзки се възстановяват над дисталния край на остатъчната ulna за стабилизация.
 
 Алтернатива на резекцията при млад пациент с все още активна растежна зона е процедурата по Vickers (физиолиза — резекция на „моста“ от анормална епифизарна плочка) комбинирана с улнарна скъсяваща остеотомия за изравняване на дължините. При тежки деформации в зряла възраст с напреднала артроза на DRUJ съвременният стандарт е процедурата на Sauvé–Kapandji (артродеза на DRUJ + проксимална ulnar pseudoarthrosis с резекция на 1–2 cm сегмент) — техника, която запазва ulnar buttress на дисталния radius и е биомеханично по-стабилна от Darrach при тежки степени.
@@ -411,6 +521,16 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 При тежки травматични увреждания, тумори или гангрена ампутацията на предмишницата трябва да бъде извършена колкото може по-дистално с цел запазване на функционални възможности на чуканчето и на потенциала за бъдеща кинематизация. Това е важно както за протезирането, така и за специфичните функционални реконструкции. Особено неблагоприятни са много късите чуканчета (под 6 cm от лакътната гънка), при които протезирането е технически проблемно и кинематизацията — невъзможна.
 
 Класическата техника на ампутация: волярно и дорзално ламбо с приблизително еднакъв размер (по-големи в проксималните ампутации, защото меките тъкани са по-обемисти). Лигират се a. radialis, a. ulnaris и a. interossea; идентифицират се и се прерязват остро трите нерва (n. medianus, n. ulnaris, n. radialis), след което се пускат, за да се скрият в меките тъкани (за избягване на болезнена неврома в подкожието). Сухожилията на флексорите и екстензорите се разпределят приблизително по равно между двете кости.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/krukenberg.svg" data-figure-alt="Кинематизация на чуканчето по Krukenberg" aria-label="Увеличи">
+    <img src="/img/anatomy-5/krukenberg.svg" alt="Кинематизация на чуканчето по Krukenberg" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Кинематизирана предмишница по Krukenberg: разделените радиален и улнарен бранш на чуканчето, всеки с автономно мускулно управление, образуват функционален пинцетен захват с тактилна обратна връзка от собствената кожа — особено ценно при сляп ампутант или при двустранна ампутация.</span>
+    <span class="md-figure-attribution"> · Egmason, <a href="https://commons.wikimedia.org/wiki/File:Krukenburg.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Кинематизация по Krukenberg (Krukenberg, 1917, F. Krukenberg) — една от най-елегантните функционални реконструкции на ампутирана предмишница: чуканчето се разделя на два бранша (радиален и улнарен), всеки с автономно мускулно управление, оформящи функционален „пинцетен“ захват без необходимост от протеза. Първоначалното индикационно поле е сляп ампутант (двустранна ампутация при пациент с увредено зрение), при който тактилната обратна връзка от собствените браншове предоставя проприоцептивна функция, недостижима от протеза. Достъпните мускули — m. pronator teres, m. brachialis, m. flexor carpi radialis, m. supinator (радиална страна) и m. flexor carpi ulnaris, m. flexor digitorum (улнарна страна) — се разпределят между двата бранша. Радиалният бранш се покрива с волярното кожно ламбо, дефектът по волярната страна на улнарния бранш — с перфориран кожен присадък в пълна дебелина.
 

@@ -27,11 +27,51 @@ order: 202
 
 Гленоидният лабрум е фиброхрущялен пръстен около гленоидната ямка, задълбочаващ чашката с около 50% и осигуряващ прикрепване на капсулните връзки и на дългото сухожилие на biceps brachii.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/glenoid-fossa.png" data-figure-alt="Гленоидна ямка, дясна страна" aria-label="Увеличи">
+    <img src="/img/anatomy-2/glenoid-fossa.png" alt="Гленоидна ямка, дясна страна" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Гленоидна ямка на дясната скапула: крушовидна, плитка ставна повърхност с ретроверзия 5–7° и инфериорен наклон 4–5°; гленоидният лабрум — триъгълен фиброхрущялен пръстен с основа към ръба на гленоида — задълбочава чашката с около 50% и служи като прикрепване на капсулолабралния комплекс. Авулсията му от ръба представлява Bankart-овата лезия, патогномонично свързана с предна рамена нестабилност.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray328.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/humerus-anterior.png" data-figure-alt="Лява раменна кост, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-2/humerus-anterior.png" alt="Лява раменна кост, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лява раменна кост, преден изглед: caput humeri (ставен хрущял ~120°, ретроверзия 25–30°), collum anatomicum, tuberculum majus (фасети за supraspinatus, infraspinatus, teres minor), tuberculum minus (захващане на subscapularis), sulcus intertubercularis (за дългото сухожилие на m. biceps brachii), collum chirurgicum (типична локализация на фрактури на проксималния хумерус и място, около което обикаля n. axillaris).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-capsule.png" data-figure-alt="Капсула на раменната става" aria-label="Увеличи">
+    <img src="/img/anatomy-2/shoulder-capsule.png" alt="Капсула на раменната става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Капсула на гленохумералната става (раздута за демонстрация), преден изглед: ligamenta glenohumeralia superius, medius и inferius определят предната стабилност; средното гленохумерално ligament е особено важно при отворен Bankart, Putti-Platt и Boychev (предна капсулолабрална реконструкция с дублиране на капсулата).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray327.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Акромионът образува латералния покрив на ставата, като анатомичните му варианти имат хирургично значение — акромиалната морфология, класифицирана като тип I (плосък), тип II (извит), тип III (с кукообразен ръб, по Bigliani), е свързана с импинджмънт на ротаторния маншон, особено при тип III. Os acromiale е нарушено сливане на акромиалния осификационен център (среща се при 1-8% от популацията), като мезоакромионът (между средния и задния акромиален осификационен център) е най-честият тип и призната причина за импинджмънт и патология на ротаторния маншон.
 
 Processus coracoideus се проектира напред и осигурява прикрепване на conjoint tendon (късото сухожилие на biceps и musculus coracobrachialis), ligamentum coracoacromiale, ligamenta coracoclavicularia (lig. conoideum и lig. trapezoideum) и ligamentum coracohumerale. Processus coracoideus е източникът на костния трансплантат при процедурата Latarjet при костен дефект на гленоида (Тема Травматология-12).
 
 Ключицата завършва раменния пояс, ставно свързана с акромиона латерално (АК-става) и с гръдната кост медиално (СК-става). Нейната анатомия и патология бяха разгледани в Тема Травматология-11.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/scapula-posterior.jpg" data-figure-alt="Лопатка, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-2/scapula-posterior.jpg" alt="Лопатка, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Лопатка, заден изглед: spina scapulae разделя fossa supraspinata от fossa infraspinata; акромионът се вижда странично; ъглите (горен, долен, страничен) и медиалният ръб служат като ориентири при задни достъпи до рамото и при перискапуларни мускулни транспозиции (Sprengel, Léo Mayer, Bateman).</span>
+    <span class="md-figure-attribution"> · MAKY.OREL, <a href="https://commons.wikimedia.org/wiki/File:Scapula_-_posterior_view.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 ## Подключична и подмишнична топография
 
@@ -56,6 +96,16 @@ Processus coracoideus се проектира напред и осигурява
   <figcaption>
     <span class="md-figure-caption">Ротаторен маншон: supraspinatus, infraspinatus, teres minor, subscapularis; супраспинатусното сухожилие е най-често разкъсваното при ротаторен синдром.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-muscles-posterior.png" data-figure-alt="Гръбна мускулатура на рамото и triceps brachii" aria-label="Увеличи">
+    <img src="/img/anatomy-2/shoulder-muscles-posterior.png" alt="Гръбна мускулатура на рамото и triceps brachii" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дорзални мускули на лопатката (supraspinatus, infraspinatus, teres minor, teres major) и triceps brachii: показва квадрилатералното пространство (teres minor горе, teres major долу, дълга глава на triceps медиално, диафиза на humerus странично), през което преминава n. axillaris и a. circumflexa humeri posterior — основен ориентир при заден достъп към рамото.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray412.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -301,6 +351,16 @@ T-образният (хеджианският) разширен достъп к
 
 ## Оперативно лечение на акромио-клавикуларни и стерно-клавикуларни луксации
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/ac-separation-xray.png" data-figure-alt="Рентгенова находка при акромио-клавикуларна луксация" aria-label="Увеличи">
+    <img src="/img/anatomy-2/ac-separation-xray.png" alt="Рентгенова находка при акромио-клавикуларна луксация" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Рентгенография на дясно рамо с тежка акромио-клавикуларна луксация (Rockwood тип III–V): латералният край на ключицата лежи над акромиона; разширеното корако-клавикуларно разстояние (>13 mm или >50% разлика спрямо контралатерала) отразява пълно разкъсване на conoid и trapezoid лигаментите — индикация за оперативна стабилизация (Bosworth, Weaver-Dunn, Heyzlauer, Dewar-Barrington).</span>
+    <span class="md-figure-attribution"> · Root4(one), <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+  </figcaption>
+</figure>
+
 За оперативно лечение на пресни акромио-клавикуларни луксации са описани над 30 техники. Класическите варианти, систематизирани в българската школа, включват:
 
 Техника на Bosworth — Луксираният акромиален край се намества и с борер се прави канал вертикално през диафизата на ключицата над processus coracoideus; през канала се вкарва винт, фиксиращ ключицата към coracoideus. Допълнителна перкутанна фиксация с Киршнерова игла през акромиона е препоръчителна; иглата се отстранява на 3–4 седмица.
@@ -323,6 +383,16 @@ T-образният (хеджианският) разширен достъп к
 </aside>
 
 ## Оперативно лечение на конгенитална висока лопатка (деформация на Sprengel)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/sprengel-deformity.png" data-figure-alt="Деформация на Sprengel" aria-label="Увеличи">
+    <img src="/img/anatomy-2/sprengel-deformity.png" alt="Деформация на Sprengel" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Конгенитална висока лопатка (деформация на Sprengel): клинично видимо асиметрично високо стоене и медиална ротация на лопатката от страната на патологията, нерядко съчетано с omovertebral костна връзка към шийни прешлени; рентгеновата находка определя избора между оперативно смъкване (Green, Woodward, Schrock) и наблюдение.</span>
+    <span class="md-figure-attribution"> · Kariminasab et al., <a href="https://commons.wikimedia.org/wiki/File:Sprengel%27s_deformity.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
 
 Конгениталната висока лопатка (Sprengel) е резултат от недоспускане на скапулата по време на ембрионалното развитие, често свързано с omovertebral bone — съединителнотъканна, хрущялна или костна връзка между горно-медиалния ъгъл на лопатката и шийните прешлени. Оперативните цели са: 1) освобождаване на омовертебралната връзка; 2) смъкване на лопатката; 3) корекция на функционалния и козметичен дефект. Най-подходяща за оперативно лечение е възрастта над 10 години — при възрастни намесата е голяма, а резултатите неблагоприятни поради вече настъпилите промени в шийните прешлени.
 
@@ -375,6 +445,16 @@ T-образният (хеджианският) разширен достъп к
 
 ## Класически техники при патология на ротаторния маншон
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff-muscles.svg" data-figure-alt="Мускули на ротаторния маншон" aria-label="Увеличи">
+    <img src="/img/anatomy-2/rotator-cuff-muscles.svg" alt="Мускули на ротаторния маншон" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Залавянията на четирите мускула на ротаторния маншон (supraspinatus и infraspinatus към tuberculum majus, teres minor към долната фасета, subscapularis към tuberculum minus): анатомична основа за широкия достъп по Debeyre с временна остеотомия на акромиона при масивни ретрахирани разкъсвания и за реинсерционните техники с трансоси шевове или анкери.</span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_muscles.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 При неуспех на консервативно лечение на периартрит с блокиране на движенията на раменната става (>1 година системно безкръвно лечение, което в 85–98% от случаите дава резултат) се прилагат класически открити техники с акцент върху широка експозиция и резекция на компресиращи структури.
 
 Достъп по Debeyre — Саблевиден разрез над акромиона; периостът се срязва надлъжно между инсерциите на m. trapezius и m. deltoideus към акромиона. Костта се депериостира двустранно: m. deltoideus се дезинсерира напълно, а от страната на m. trapezius се повдига периостално-сухожилно ламбо. С длето се резецира част от акромиона или дори целият акромион заедно с АК-ставата и латералната ключица до lig. coracoclaviculare. След ремонт на разкъсания маншон акромионът се възстановява чрез реостеосинтеза или периостално зашиване. Техниката осигурява максимална визуализация при масивни ретрахирани разкъсвания, инциден сцепнатост на маншона и при отстраняване на калцификати и осификати при периартрит. При възможност за достатъчна резекция без пълна акромионектомия достъпът осигурява запазване на функцията на делтоида.
@@ -401,6 +481,26 @@ T-образният (хеджианският) разширен достъп к
 </aside>
 
 ## Рецидивиращи предни луксации на рамото — класически техники
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/bankart-hill-sachs.svg" data-figure-alt="Bankart и Hill-Sachs лезии" aria-label="Увеличи">
+    <img src="/img/anatomy-2/bankart-hill-sachs.svg" alt="Bankart и Hill-Sachs лезии" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Предна луксация на рамото с Bankart-лезия (отлепване на предно-долния лабрум и периост от ръба на гленоида) и Hill-Sachs-ова импресия по задно-латералната част на caput humeri — патоанатомичният субстрат на повечето рецидивиращи предни нестабилности и основа за избора между капсулолабрална реконструкция (Bankart, Boychev, Putti-Platt) и костен блок/Latarjet при костен дефект.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation_with_Bankart_and_Hill-Sachs_lesion,_before_and_after_reduction.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-mri.png" data-figure-alt="MRI на рамото" aria-label="Увеличи">
+    <img src="/img/anatomy-2/shoulder-mri.png" alt="MRI на рамото" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">MRI на рамото (T1-претеглена) — изобразява нормалната caput humeri, гленоидния лабрум, ротаторния маншон и подакромиалното пространство; основа за класификация на разкъсванията на маншона (пълнодебелинно vs частично) и за предоперативно стадиране на лабралните лезии (Bankart, SLAP, ALPSA).</span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_MRI_124712_rgbcb.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Хроничната предна нестабилност след първа травматична луксация се проявява с рецидивиращи или хабитуални луксации; патоанатомично най-чест е Bankart-ният субстрат (отлепване на лабрума и периоста от предния ръб на гленоида), често съчетан с Hill-Sachs-ова бразда по задно-латералната част на caput humeri. По-рядко се наблюдава хабитуална луксация вследствие на преразтегната предна капсула без други патологични изменения — находка при вродени предни хабитуални луксации, понякога съчетана с хипоплазия на предния ръб на гленоида. Класическите оперативни процедури целят: 1) тенодеза/капсулорафия за ограничение на външната ротация; 2) костна реконструкция/блок при дефект на гленоида; 3) реинсерция на лабрума и капсулата към костта.
 

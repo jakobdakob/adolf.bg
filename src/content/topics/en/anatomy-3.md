@@ -23,6 +23,36 @@ The arm (extending from the shoulder to the elbow) contains the humerus and its 
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-posterior.png" data-figure-alt="Humerus, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-3/humerus-posterior.png" alt="Humerus, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Left humerus, posterior view: the radial sulcus (spiral groove) crosses the shaft from supero-medial to infero-lateral; the olecranon fossa lies distally; the medial epicondyle with the ulnar groove is visible — the main landmarks for the posterior approach to the shaft and for distal humeral osteosynthesis.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray208.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-longitudinal.png" data-figure-alt="Longitudinal section of the humeral head" aria-label="Enlarge">
+    <img src="/img/anatomy-3/humerus-longitudinal.png" alt="Longitudinal section of the humeral head" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Longitudinal section through the head of the left humerus: the dense subchondral bone and trabecular orientation aligned with the principal weight-bearing axes — the anatomical basis for the Neer (1970) proximal humeral fracture classification and for the risk of avascular necrosis in four-part fractures.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray209.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-epiphyses.png" data-figure-alt="Epiphyseal lines of the humerus" aria-label="Enlarge">
+    <img src="/img/anatomy-3/humerus-epiphyses.png" alt="Epiphyseal lines of the humerus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Epiphyseal lines of the humerus in a young adult: the proximal physis contributes ~80% of the longitudinal growth of the humerus; post-traumatic or iatrogenic growth arrest (Salter-Harris) is a classical cause of limb-length discrepancy — key for paediatric surgery ([Topic Anatomy-12](/en/anatomy/12/)).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray211.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The humerus is the largest long bone of the upper extremity, extending from the glenohumeral joint proximally to the elbow joint distally. The principal anatomical regions are the proximal humerus (head, anatomical neck, greater and lesser tuberosities, surgical neck; see [Topic Trauma-13](/en/trauma/13/) for fracture anatomy), the humeral shaft (diaphysis) with its characteristic anterior bow and the spiral groove on the posterior surface, and the distal humerus (medial and lateral columns, trochlea, capitellum; see [Topic Trauma-15](/en/trauma/15/)). The arm has two principal muscular compartments: The anterior compartment contains the biceps brachii (with its short head from the coracoid and long head from the supraglenoid tubercle, both inserting via the bicipital aponeurosis on the radial tuberosity), the coracobrachialis (from the coracoid to the medial humerus), and the brachialis (from the lower humerus to the coronoid process of the ulna). The compartment is supplied by the musculocutaneous nerve (C5-C7) — which pierces coracobrachialis approximately 5 to 8 cm distal to the coracoid, then runs between biceps and brachialis to emerge as the lateral antebrachial cutaneous nerve. The posterior compartment contains the triceps brachii with three heads (long head from the infraglenoid tubercle, lateral head from the upper posterior humerus, medial head from the lower posterior humerus). The triceps inserts on the olecranon process of the ulna. The compartment is supplied by the radial nerve (C5-T1), which crosses through the spiral groove of the humerus from medial-superior to lateral-inferior, supplying branches to the triceps before becoming superficial laterally and passing anterior through the lateral intermuscular septum.
 
 ## Regional Borders and Surface Landmarks
@@ -41,6 +71,16 @@ Classical anatomy defines the proximal border of the regio brachii as the arcuat
   <figcaption>
     <span class="md-figure-caption">Radial sulcus (spiral groove) on the posterior surface of the humerus: the radial nerve crosses from medial-superior to lateral-inferior, immediately adjacent to periosteum; the basis for frequent nerve injury with diaphyseal fractures.</span>
     <span class="md-figure-attribution"> · Anatomist90 / Henry Vandyke Carter, <a href="https://commons.wikimedia.org/wiki/File:Radial_sulcus.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-groove-photo.jpg" data-figure-alt="Anatomic specimen of the radial groove" aria-label="Enlarge">
+    <img src="/img/anatomy-3/radial-groove-photo.jpg" alt="Anatomic specimen of the radial groove" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anatomic specimen of a right humerus showing the spiral course of the radial nerve along the radial sulcus: the groove continues distally as the lateral border of the shaft and terminates at the lateral intermuscular septum — the anatomic substrate of the "mid-distal danger zone" when placing a plate on the postero-lateral surface.</span>
+    <span class="md-figure-attribution"> · Doctor Jana, <a href="https://commons.wikimedia.org/wiki/File:Radial-groove-continuing-as-lateral-border-of-shaft.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
@@ -71,6 +111,26 @@ Classical Bulgarian anatomy describes the posterior osseo-muscular course of the
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/cutaneous-nerves-upper-anterior.png" data-figure-alt="Cutaneous innervation of the upper limb, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-3/cutaneous-nerves-upper-anterior.png" alt="Cutaneous innervation of the upper limb, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cutaneous innervation of the right upper limb, anterior view: medial brachial cutaneous nerve (from the medial cord), superior lateral brachial cutaneous nerve (from the axillary), and lateral antebrachial cutaneous nerve (terminal sensory branch of the musculocutaneous). The sensory map is the first instrument for topographical diagnosis of post-ganglionic plexus injuries and obstetric brachial palsy.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray811.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/cutaneous-nerves-upper-posterior.png" data-figure-alt="Cutaneous innervation of the upper limb, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-3/cutaneous-nerves-upper-posterior.png" alt="Cutaneous innervation of the upper limb, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cutaneous innervation of the upper limb, posterior view: posterior and inferior lateral brachial cutaneous nerves (from the radial), supplemented by the posterior antebrachial cutaneous. The posterior brachial cutaneous nerve emerges through the fascia at the crossing of the long head of triceps with the lower border of teres major / latissimus dorsi — the classical landmark for avoiding painful neuromas in posterior approaches.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray813.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus and pierces the coracobrachialis muscle (typically 5 to 8 cm distal to the coracoid). It then runs between the biceps and brachialis muscles in the anterior compartment, supplying both muscles and the coracobrachialis. It emerges from the lateral aspect of the biceps as the lateral antebrachial cutaneous nerve (sensory) at the level of the elbow. Brachial Artery and Median/Ulnar Nerves The brachial artery descends along the medial bicipital groove between the biceps and the medial intermuscular septum, accompanied by the median nerve (which runs lateral to the artery proximally and crosses to the medial side at the elbow). The ulnar nerve is in the posterior compartment for most of the arm but is more medial than the radial nerve and is generally not at risk in standard humeral approaches.
 
 ## Lateral and Medial Intermuscular Septa
@@ -78,6 +138,16 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
 The lateral intermuscular septum separates the anterior and posterior compartments laterally and runs from the deltoid tuberosity to the lateral epicondyle. The medial intermuscular septum is the medial counterpart from the coracobrachialis insertion to the medial epicondyle. The radial nerve pierces the lateral intermuscular septum at the junction of the middle and distal thirds of the humerus, a critical anatomical landmark for identifying the nerve during surgical approaches.
 
 ## The Anterolateral Approach to the Humerus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/anterior-arm-muscles.png" data-figure-alt="Anterior compartment of the arm" aria-label="Enlarge">
+    <img src="/img/anatomy-3/anterior-arm-muscles.png" alt="Anterior compartment of the arm" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Muscles of the anterior arm (Gray): biceps brachii (superficial), brachialis (deep, directly on the humeral shaft), and coracobrachialis; the anterolateral approach uses the avascular plane along the lateral border of biceps and a midline brachialis split (lateral two-thirds musculocutaneous, medial third radial), preserving at least partial innervation to both halves.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray411.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The anterolateral approach provides access to the proximal and middle thirds of the humeral shaft for plate fixation of fractures, tumor resection, infection drainage, and biopsy. The approach uses the natural plane between the biceps and brachialis muscles.
 
@@ -134,6 +204,16 @@ The Karagyozov approach is a Bulgarian modification exposing the radial nerve fr
 </aside>
 
 ## The Posterior Approach to the Humerus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/radial-nerve.png" data-figure-alt="Radial nerve on the posterior arm" aria-label="Enlarge">
+    <img src="/img/anatomy-3/radial-nerve.png" alt="Radial nerve on the posterior arm" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical Gray's plate of the radial nerve on the back of the arm: course from the posterior cord through the quadrilateral space, spiraling around the humerus in the radial sulcus with the profunda brachii artery, and piercing the lateral intermuscular septum — the anatomical basis for frequent nerve injury in shaft fractures and for the limit on triceps split during the posterior approach.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray821.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The posterior approach provides access to the middle and distal thirds of the humerus for plate fixation of distal-third fractures, radial nerve exploration, distal humerus fracture fixation, triceps tendon procedures, and tumor or infection access. The approach uses the natural plane between the lateral and medial heads of the triceps, or the triceps-splitting approach, depending on the desired exposure.
 
@@ -202,9 +282,29 @@ The radial nerve in the distal third of the humerus (where it pierces the latera
 
 ## Biceps Brachii Rupture — Operative Repair
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/biceps-brachii.png" data-figure-alt="Biceps brachii muscle" aria-label="Enlarge">
+    <img src="/img/anatomy-3/biceps-brachii.png" alt="Biceps brachii muscle" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Biceps brachii (3D rendering, BodyParts3D / DBCLS): the two heads (long head from the supraglenoid tubercle through the bicipital groove; short head from the coracoid with coracobrachialis) and the common distal insertion on the radial tuberosity. Proximal ruptures most often involve the long head (Christeas-Bunnell repair; modern subpectoral tenodesis); distal ruptures detach from the radial tuberosity and are repaired through a single- or two-incision technique with anchors or cortical button.</span>
+    <span class="md-figure-attribution"> · Anatomography (BodyParts3D), <a href="https://commons.wikimedia.org/wiki/File:Biceps_brachii_muscle06.png" target="_blank" rel="noopener noreferrer">CC BY-SA 2.1 JP</a></span>
+  </figcaption>
+</figure>
+
 For incomplete rupture and early-diagnosed partial tears, conservative management with a Velpeau dressing at flexion above 90° is usually adequate. Operative repair is indicated for complete rupture with a palpable groove in the muscle belly, failure of conservative trial, and chronic ruptures with fibrosed ends. The technique uses an anterolateral incision parallel to the lateral border of biceps (specifically chosen to avoid skin-muscle adhesions). The torn ends are mobilised, approximated, and sutured with interrupted heavy silk or modern synthetic mattress sutures (Bunnell or Krackow type for tendon ends, mattress sutures for muscle belly). For chronic ruptures with fibrosed ends, freshening of the ends to healthy bleeding fibres is required before repair. The classical Christeas reinforcement adds a transversely applied patch of fascia lata across the defect — a fascial bridge that bears part of the tensile load while the muscle regenerates. For complete proximal long-head avulsions modern practice favours subpectoral tenodesis; for distal avulsions from the radial tuberosity — reinsertion through a single or two-incision technique with suture anchors or cortical button. Postoperatively a Velpeau dressing at flexed elbow is maintained for 3 weeks before progressive active and passive mobilisation.
 
 ## Operative Management of Humeral Shaft Fractures
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/humerus-fracture.jpg" data-figure-alt="Radiograph of humeral shaft fracture after plate osteosynthesis" aria-label="Enlarge">
+    <img src="/img/anatomy-3/humerus-fracture.jpg" alt="Radiograph of humeral shaft fracture after plate osteosynthesis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">AP radiograph of an osteosynthesised humeral shaft fracture with plate and screws: the classical indication for an anterolateral approach in the mid-upper third and a posterior approach in the mid-lower third, with intra-operative identification and protection of the radial nerve where it pierces the lateral intermuscular septum (~7–8 cm proximal to the lateral epicondyle).</span>
+    <span class="md-figure-attribution"> · Ivtorov, <a href="https://commons.wikimedia.org/wiki/File:2016-Humerus_fracture_fix.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 The indications for operative treatment of humeral shaft fractures are relatively narrow compared with most other long bones, because conservative methods (Caldwell hanging cast, Sarmiento functional brace, U-shaped coaptation splint) usually give excellent functional results with a high union rate. Absolute indications for ORIF are: unacceptable conservative alignment (>20° anterior angulation, >30° varus, >3 cm shortening), segmental fractures, pathological fractures, polytrauma patients, floating elbow with ipsilateral forearm fracture, bilateral humeral fractures, and fractures with primary or secondary radial palsy requiring exploration. Open fractures are an independent indication for debridement and stabilisation.
 
@@ -285,6 +385,16 @@ The cineplastic amputation (after the Krukenberg/Sauerbruch tradition) creates a
 ## Tendon Transfers and Muscle Transpositions for Functional Loss
 
 For irreversible complete radial palsy without recovery after 12–18 months of monitoring and electromyography, function is restored by tendon transfers — the standard set comprises pronator teres to extensor carpi radialis brevis (wrist extension), flexor carpi radialis or flexor carpi ulnaris to extensor digitorum communis (finger extension), and palmaris longus to extensor pollicis longus (thumb extension); these procedures are addressed in detail in the forearm topic.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-3/latissimus-dorsi.png" data-figure-alt="Latissimus dorsi" aria-label="Enlarge">
+    <img src="/img/anatomy-3/latissimus-dorsi.png" alt="Latissimus dorsi" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Latissimus dorsi: a broad fan-shaped muscle with its own neurovascular pedicle (thoracodorsal artery and nerve from the posterior cord), which provides sufficient pedicle length for transfer from the chest wall to the anterior or posterior arm — the anatomical basis for the classical pedicled transfer to restore elbow flexion (biceps substitute) or extension (triceps substitute) in plexus injuries.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Latissimus_dorsi.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 For combined injuries with biceps palsy (musculocutaneous nerve injury or combined C5–C6 plexus lesion) the classical transfers include: pedicled latissimus dorsi transfer with reinsertion at the acromion and biceps tendon to restore elbow flexion; pedicled pectoralis major transfer (Clark/Schottstaedt), mobilised on the lateral pectoral nerve pedicle and reinserted on the distal biceps tendon; the Steindler flexor-pronator origin transfer (medial epicondyle to coracoid), converting wrist and finger flexors into a secondary elbow flexor giving 15–20° of flexion. In severe palsy without viable donor muscles, free muscle transfer with microvascular anastomosis (typically gracilis with reinnervation from intercostal nerves or spinal accessory) is the final reconstructive option.
 

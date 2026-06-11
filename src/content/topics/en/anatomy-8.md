@@ -25,6 +25,36 @@ The hip joint, the deepest and most constrained ball-and-socket articulation in 
 
 The hip joint comprises the femoral head (covered by approximately 70 percent articular cartilage in the typical adult) articulating with the acetabulum (the cup formed by the fused ilium, ischium, and pubis). The detailed anatomy was addressed in Topics Trauma-20 (acetabulum) and Orth-7 (DDH). Key surgical landmarks include: Greater trochanter: The principal lateral landmark, insertion of the gluteus medius (lateral facet), gluteus minimus (anterior facet), piriformis (superior facet), and other short rotators. Lesser trochanter: Medial; insertion of the iliopsoas. Femoral head and neck: With the typical neck-shaft angle of 130 degrees and anteversion of 10 to 15 degrees. Intertrochanteric line (anteriorly) and intertrochanteric crest (posteriorly): The hip capsule attaches along these lines. ASIS and AIIS: The anterior landmarks for anterior approaches. The hip capsule is a strong fibrous structure with thickenings forming the iliofemoral (Y-ligament of Bigelow), pubofemoral, and ischiofemoral ligaments. The iliofemoral ligament is the strongest ligament in the body and the principal anterior restraint.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-joint-anterior.png" data-figure-alt="Hip joint, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-8/hip-joint-anterior.png" alt="Hip joint, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Right hip joint from the front (Spalteholz): the Y-shaped iliofemoral ligament of Bigelow — the strongest ligament in the body, the principal anterior restraint, and the technical obstacle in the anterior approach. Classical Smith-Petersen dissection requires transverse division of the iliofemoral ligament after detachment of the iliopsoas from the lesser trochanter.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray339.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-capsule-reflected.png" data-figure-alt="Hip joint with capsule reflected" aria-label="Enlarge">
+    <img src="/img/anatomy-8/hip-capsule-reflected.png" alt="Hip joint with capsule reflected" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hip joint with the capsule reflected, anterior view: the head with the fovea capitis for the ligamentum teres and its branch artery (acetabular artery), the acetabular labrum, and the transverse acetabular ligament. The Smith-Petersen dissection of the capsule exposes this architecture for bony resection (Murphy-Lexer-Balchev) or for vitallium-cup arthroplasty.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray342.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-capsule-posterior.png" data-figure-alt="Hip joint capsule, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-8/hip-capsule-posterior.png" alt="Hip joint capsule, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Capsule of the right hip joint (distended for demonstration), posterior view: the zona orbicularis — a circular thickening encircling the neck; the ischiofemoral ligament as the principal posterior restraint. The posterior approach (Moore, Kocher-Langenbeck) divides the capsule transversely, with preservation of the circular zona orbicularis for closure stability.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray343.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 ## Topography — Anterior Femoral and Gluteal Regions
 
 The classical Bulgarian and Russian orthopaedic schools describe the hip joint as lying in two topographical regions — anterior femoral and gluteal — with detailed external landmarks used for approach planning and interpretation of palpatory findings. The external landmarks are the anterior superior iliac spine (ASIS), the pubic tubercle, the apex of the greater trochanter, and the ischial tuberosity. On the anterior aspect of the thigh, the most superior point of the femoral head lies at the midpoint between ASIS and pubic tubercle (Lubotsky, 1953). The line connecting that midpoint with the base of the greater trochanter averages 11 cm and divides the head and neck into two near-equal parts — useful in planning percutaneous neck instrumentation.
@@ -110,6 +140,16 @@ The approach has historically been used for hip arthrodesis, open reduction of f
 
 ## Technique
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/smith-petersen-incision.png" data-figure-alt="Smith-Petersen approach landmarks and incision" aria-label="Enlarge">
+    <img src="/img/anatomy-8/smith-petersen-incision.png" alt="Smith-Petersen approach landmarks and incision" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Surface landmarks of the Smith-Petersen anterior approach: ASIS proximally, line toward the lateral patella, and the internervous interval between sartorius (femoral nerve) and tensor fasciae latae (superior gluteal nerve). Deep — between rectus femoris and gluteus medius.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray430.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Patient supine, often on a specialized table (Hana table) with traction. Incision from approximately 2 cm distal to the ASIS, extending distally for 8 to 15 cm in the line between the sartorius and the tensor fasciae latae. The interval is developed; the lateral femoral cutaneous nerve is identified and protected. The interval between rectus femoris and gluteus medius is developed. The hip capsule is opened, with reflection or excision of the capsule providing joint access.
 
 ## Complications
@@ -185,6 +225,17 @@ The Ludloff medial approach (K. Ludloff, 1908) uses the interval between the ant
 
 ## Posterior (Southern, Kocher-Langenbeck modification, Moore) Approach
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/posterior-hip-approach.png" data-figure-alt="Posterior hip approach — gluteal anatomy" aria-label="Enlarge">
+    <img src="/img/anatomy-8/posterior-hip-approach.png" alt="Posterior hip approach — gluteal anatomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Deep gluteal dissection, basis of the posterior (Kocher-Langenbeck / Moore) approach: gluteus maximus split along its fibers, the short external rotators (piriformis, gemelli, obturator internus, quadratus femoris), and the sciatic nerve emerging beneath piriformis — the main neurological hazard.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 The posterior approach is the workhorse for total hip arthroplasty in many centers and the standard for posterior pelvic and acetabular surgery (the Kocher-Langenbeck variant addressed in [Topic Anatomy-7](/en/anatomy/7/)).
 
 
@@ -259,6 +310,17 @@ Proximal femoral osteotomies are classified by correction type (varus, valgus, r
 
 ## Varus Intertrochanteric Osteotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/pauwels-angles.png" data-figure-alt="Pauwels angle and valgus/varus osteotomy" aria-label="Enlarge">
+    <img src="/img/anatomy-8/pauwels-angles.png" alt="Pauwels angle and valgus/varus osteotomy" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Pauwels biomechanical principle: the angle between the fracture line and the horizontal determines the loading at the neck (type I &lt;30°, type II 30–70°, type III &gt;70°). Valgus osteotomy converts shear into compressive forces — the basis of the McMurray osteotomy and of the Pauwels varus osteotomy with the Holevich compression blade plate.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray244.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 Varus intertrochanteric osteotomy is indicated in adult congenital subluxation (prophylactic for slowing coxarthrosis), coxa valga following Perthes disease with incongruity, paralytic dislocation for stabilisation, and in childhood with combined derotation for residual antetorsion after DDH treatment. The classical Pauwels technique removes a medial-based wedge from the distal fragment with the lateral apex angled to match the desired correction, followed by surface adaptation — at the cost of shortening. Alternatively, omitting the wedge and translating-adducting the distal fragment so the medial portion of the proximal fragment seats in the central distal cut reduces shortening. Fixation with a 90° AO blade plate after seating-chisel guide insertion (with instruments for precise neck orientation) gives stability that obviates postoperative casting and allows assisted standing from day 3. The Holevich–Vladimirov compression blade (three sizes — wide, medium, narrow) uses an adapting L-shaped jig and a compression bolt through a cortical channel of the distal fragment — generating compression between fragments without a rigid plate.
 
 ## Valgus Intertrochanteric Osteotomy
@@ -306,6 +368,16 @@ Watson-Jones arthrodesis (1937) uses an anterior iliofemoral approach with head 
 
 ## Compressive Arthrodesis — Holevich, Müller, Ilizarov
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/ilizarov-portrait.jpg" data-figure-alt="Gavriil Ilizarov" aria-label="Enlarge">
+    <img src="/img/anatomy-8/ilizarov-portrait.jpg" alt="Gavriil Ilizarov" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Gavriil Abramovich Ilizarov (1921–1992), photograph from 1991. A surgeon from Kurgan (RSFSR), inventor of the ring external fixator and the principle of distraction osteogenesis, which revolutionised the management of bone loss, limb lengthening, non-union and infection. In the Bulgarian school the Ilizarov apparatus is used in compressive hip arthrodesis, in Bogoraz-Iliev segmental hip distraction and in tibial/femoral reconstruction.</span>
+    <span class="md-figure-attribution"> · Prof. B.-D. Partecke, <a href="https://commons.wikimedia.org/wiki/File:G.A._Ilisarow_(1991).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Holevich's compressive arthrodesis (Bulgarian school) uses dedicated instrumentation — nails of varying length (15–22 cm), a channel-centering jig, an 8 mm drill, and a tightener — to place two nails: the first through trochanter, neck, and head into the ilium; the second more proximally and crossed with the first — generating mean compression of 14–16 kg, sufficient stability for standing on day 5–7 without a cast. Nails removed at 6–8 months. Müller's compressive arthrodesis (M. E. Müller) uses a lateral approach with abductor detachment between TFL and gluteus medius, surface preparation of head and neck, and a dedicated compression plate — allows assisted standing on day 5 and full loading at 3 months. Compressive arthrodesis with an Ilizarov external fixator uses bilateral skeletal traction with rings (two distal femoral rings and two proximal — one with wires through the iliac wing above the acetabulum, the second through the iliac crest below the ASIS) with threaded rods for compression — particularly useful with significant bone loss or active infection contraindicating internal metal fixation.
 
 ## Extra-articular Iliotrochanteric and Ischiofemoral Arthrodeses
@@ -342,6 +414,37 @@ Vitallium mould arthroplasty (Smith-Petersen, 1939) used a metal Vitallium cup p
 Hemiarthroplasty was introduced by F. A. Moore (1945) — subsequently modified by Thompson and others. Indications today are limited to: femoral neck fractures in patients above 75 with limited life expectancy; pseudarthroses or AVN with an intact acetabulum; failed osteosynthesis in elderly patients at high reoperation risk. The two principal models are: Moore-Austin (with a long fenestrated stem and collar) — for press-fit fixation; and Thompson (with a shorter collared stem) — usually cemented. The approach is most often Moore's posterior. Head size is measured in the acetabulum; orientation 10–15° anteversion (parallel to a 90°-flexed knee). In osteoporotic bone or an oversized canal, cementation is preferred; otherwise press-fit. External rotators repaired. Standing with crutches from a few days, full loading at 3–4 months.
 
 ## Total Hip Arthroplasty — Charnley, McKee–Farrar, Müller, Wagner, Ring, Sivash, Gerchev
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/charnley-lathe.jpg" data-figure-alt="Sir John Charnley's lathe" aria-label="Enlarge">
+    <img src="/img/anatomy-8/charnley-lathe.jpg" alt="Sir John Charnley's lathe" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The original lathe of Sir John Charnley (≈1960), used by hand to fashion the early acetabular cups from polyoxymethylene (later UHMWPE) for the low-friction arthroplasty concept. The instrument marks the birth of the modern standard for total hip replacement and of the biomechanical principle on which all subsequent systems (McKee-Farrar 1951, Müller 1968, Wagner 1978, Sivash 1958, Gerchev BG) are built.</span>
+    <span class="md-figure-attribution"> · Museumjack, <a href="https://commons.wikimedia.org/wiki/File:Lathe_used_by_Sir_John_Charnley_to_make_cups_for_hip_replacements.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-surrounding-structures.png" data-figure-alt="Structures surrounding the hip" aria-label="Enlarge">
+    <img src="/img/anatomy-8/hip-surrounding-structures.png" alt="Structures surrounding the hip" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Structures surrounding the right hip joint (Gray): iliopsoas, femoral vascular bundle and femoral nerve anteriorly; the short rotators and the sciatic nerve posteriorly; the abductors laterally. This architecture defines the anatomical hazards of the three classical THA approaches — anterior (lateral femoral cutaneous nerve), lateral (superior gluteal nerve), posterior (sciatic nerve).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray344.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/tha-zones.svg" data-figure-alt="DeLee-Charnley and Gruen zones for THA evaluation" aria-label="Enlarge">
+    <img src="/img/anatomy-8/tha-zones.svg" alt="DeLee-Charnley and Gruen zones for THA evaluation" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">DeLee–Charnley acetabular cup zones (three regions) and Gruen femoral stem zones (seven regions) — the standardized radiographic framework for evaluating loosening, osteolysis, and radiolucent lines around a total hip arthroplasty; the biomechanical legacy of Charnley's low-friction concept (1962).</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_prosthesis_zones_by_DeLee_and_Charnley_system,_and_Gruen_system.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 The first total replacements are tied to Wiles (1936), McKee (1951), Sivash (1958), and Charnley (1960). Charnley introduced the fundamental low-friction concept: a small 22 mm metal head against a high-density polyethylene cup, both fixed with acrylic cement. McKee–Farrar used metal-on-metal articulation (metal head against metal cup with screw fixation in the three acetabular bones); abandoned in the late 1970s due to aseptic loosening and metal-ion concerns. Müller introduced the self-fixing acetabular cup and standardised orientation (45° inclination, 10–20° anteversion). Ring developed the metal acetabular capsule with slots for bony ingrowth (1970s) — a precursor of the cementless standard. Wagner developed the conical stem (Zweimüller-type) and later hip resurfacing. Sivash (Moscow) combined stem and acetabulum into a single Soviet-standard total hip implant — widely used throughout the Eastern Bloc.
 
@@ -426,6 +529,17 @@ Surgical intervention for traumatic hip dislocation is required for: irreducible
 For irreducible dislocation: Moore posterior approach with blunt splitting of gluteus maximus fibres; sciatic nerve identification and protection; capsule opening; direct manipulation; skeletal traction 45–60 days. For unreduced posterior wall: posterior approach with reduction and two-screw fixation of the fragment (see also Topic Trauma-12 for Letournel classification). For unreduced head fracture (Pipkin): anterolateral approach between sartorius and TFL with rectus femoris release and protection of the medial femoral circumflex artery; visualisation with rotation and flexion; fragment fixation with countersunk screws, or excision of a small non-weight-bearing fragment. For central dislocation (luxatio coxae centralis): the Tenev technique uses a dedicated 12–13 cm screw with two threads via the trochanter into the femoral head, with external fixation in a cast for head lateralisation.
 
 ## Femoral Neck Fractures — Osteosynthesis
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-neck-osteosynthesis.jpg" data-figure-alt="Cannulated screws and DHS for femoral neck fracture" aria-label="Enlarge">
+    <img src="/img/anatomy-8/femoral-neck-osteosynthesis.jpg" alt="Cannulated screws and DHS for femoral neck fracture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Osteosynthesis of a femoral neck fracture: three cannulated screws in a perfect inverted triangle (the modern evolution of Smith-Petersen's tri-flanged nail concept) or a dynamic hip screw (DHS) for basicervical and stable intertrochanteric fractures.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 Adduction (varus, Pauwels III) femoral neck fractures always require operative treatment because of 100% nonunion risk with conservative management. Abduction (valgus, Pauwels I) fractures may be treated conservatively, but the risk of secondary displacement in a cast warrants osteosynthesis. In children, fixation with K-wires is preferred because of redislocation risk in a cast.
 

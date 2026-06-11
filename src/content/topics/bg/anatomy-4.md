@@ -29,6 +29,26 @@ order: 204
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-capsule-anterior.png" data-figure-alt="Капсула на лакътна става, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-4/elbow-capsule-anterior.png" alt="Капсула на лакътна става, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Капсула на лакътната става (раздута за демонстрация), преден изглед: тънка и подвижна предна капсула — обяснение защо предният достъп изисква преминаване през m. brachialis, а артроскопските предни портали застрашават n. medianus / a. brachialis при недостатъчна интракапсулна дистензия.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray331.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-capsule-posterior.png" data-figure-alt="Капсула на лакътна става, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-4/elbow-capsule-posterior.png" alt="Капсула на лакътна става, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Капсула на лакътната става, заден изглед: задната капсула пресича fossa olecrani — анатомична основа за рецесусите, кистите и рестрикцията при заденно-разширяващи се ставни процеси (артрофиброза, миозит). Задните портали (proximal и transhumeral) се поставят с непосредствен достъп до тази капсула.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray332.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Лакътната става включва три артикулации в обща синовиална капсула:
 
 Humeroulnar articulation: Шарнирна артикулация между trochlea на дисталния humerus и incisura trochlearis на проксималната ulna. Осигурява флексия-екстензия (нормален обем около 0-145° флексия; функционален обем 30-130°).
@@ -66,6 +86,16 @@ Humeroradial articulation: Артикулация между capitellum на д�
 
 Напречен сноп (Cooper's ligament): Между olecranon и processus coronoideus. Незначителен принос за стабилност.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/elbow-mri-ucl.jpg" data-figure-alt="MRI на медиалния колатерален лигамент" aria-label="Увеличи">
+    <img src="/img/anatomy-4/elbow-mri-ucl.jpg" alt="MRI на медиалния колатерален лигамент" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">MRI на лакъта (коронарна T2 равнина) — нормален преден сноп на медиалния колатерален лигамент: тънка хипо-интензна лента от долната предна повърхност на mediale epicondylus до tuberculum sublime. Образът е стандартът за диагностика на хроничните микро-разкъсвания при горнокрайни хвърлящи спортисти и за планиране на реконструкция на UCL по Jobe / Конфорти-Панева с palmaris longus или гракцилисов автотрансплантат.</span>
+    <span class="md-figure-attribution"> · RSatUSZ, <a href="https://commons.wikimedia.org/wiki/File:MRI._elbow._ulnar_collateral_ligament.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Комплексът на латералния колатерален лигамент (LCL) включва:
 
 Lateral ulnar collateral ligament (LUCL): От laterale epicondylus назад до crista supinatoris на ulna. Основен ограничител на posterolateral rotatory instability, описан от O'Driscoll през 1991 г. и ключов за разбирането на сложните наранявания на лакъта.
@@ -73,6 +103,16 @@ Lateral ulnar collateral ligament (LUCL): От laterale epicondylus назад �
 Radial collateral ligament: От laterale epicondylus до ligamentum anulare.
 
 Ligamentum anulare: Около главичката на лъча, прикрепено към предния и задния ръб на incisura radialis на ulna.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/annular-ligament.png" data-figure-alt="Ligamentum anulare radii" aria-label="Увеличи">
+    <img src="/img/anatomy-4/annular-ligament.png" alt="Ligamentum anulare radii" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Ligamentum anulare на лъча, поглед отгоре с отстранена главичка: V-образна фиброзна примка, прикрепена към предния и задния ръб на incisura radialis на ulna, удържаща главичката на лъча в проксималната радиоулнарна става. Класическият достъп по Kocher (между m. anconeus и m. extensor carpi ulnaris) пресича лигамента над екватора му, за да се избегне ятрогенна posterolateral rotatory instability на LUCL.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray333.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Accessory lateral collateral ligament: От долната повърхност на ligamentum anulare до crista supinatoris. Укрепва LUCL.
 
@@ -122,6 +162,16 @@ PIN е застрашен при латералните достъпи до пр
 Cubital fossa съдържа nervus medianus, arteria brachialis и вените на brachialis, като lacertus fibrosus пресича артерията повърхностно. Повърхностните вени (vena mediana cubiti, vena cephalica, vena basilica) преминават подкожно.
 
 ## Достъп по Kocher (латерален)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/lcl-anatomy.png" data-figure-alt="Латерален колатерален лигамент на лакъта" aria-label="Увеличи">
+    <img src="/img/anatomy-4/lcl-anatomy.png" alt="Латерален колатерален лигамент на лакъта" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Латерален колатерален лигаментен комплекс (по Gray): radial collateral ligament от laterale epicondylus до ligamentum anulare, ligamentum anulare около главичката на лъча и lateral ulnar collateral ligament (LUCL) от laterale epicondylus до crista supinatoris — основа за разбирането на достъпа по Kocher (между m. anconeus и m. extensor carpi ulnaris) и за избягване на ятрогенна posterolateral rotatory instability при инцизия на ануларния лигамент.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray330.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Достъпът по Kocher е класическият латерален достъп до лакътната става, осигуряващ достъп до главичката на лъча, capitellum, processus coronoideus (от латералната страна), комплекса на латералния колатерален лигамент и posterolateral ставна капсула.
 
@@ -293,6 +343,16 @@ Cubital tunnel се достига чрез надлъжен разрез зад
 
 ## Пластично възстановяване на колатералните връзки
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/mcl-anatomy.png" data-figure-alt="Медиален колатерален лигамент на лакъта" aria-label="Увеличи">
+    <img src="/img/anatomy-4/mcl-anatomy.png" alt="Медиален колатерален лигамент на лакъта" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Медиалният колатерален лигамент на лакътната става (комплекс с преден, заден и напречен сноп, по Gray): предният сноп — от долната предна повърхност на mediale epicondylus до tuberculum sublime на coronoid — е основният ограничител на валгусен стрес при средна флексия и е лигаментът, реконструиран при операция Tommy John (Jobe, 1974) и при класическата българска техника на Конфорти-Панева.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray329.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 Класическата техника на Конфорти-Панева за пластично възстановяване на медиалния колатерален лигамент при халтав лакът след резекция или артропластика използва свободен сухожилен присадък, прокаран през напречен боререн канал в дисталната метафиза на хумеруса и през два леко коси канала в проксималната ulna — по предно-вътрешната и по задно-вътрешната ѝ повърхност. Присадъкът се закрепва под напрежение при флексия 90° и средна позиция на ротацията. Принципът е сходен с класическата операция Tommy John, описана от F. W. Jobe през 1974 г. при бейзболни питчъри: реконструкция на предния сноп на MCL с свободен присадък от palmaris longus или сухожилие на gracilis/semitendinosus, прокарван през костни тунели в mediale epicondylus и в tuberculum sublime на coronoid в осморкова конфигурация. При двата подхода успехът зависи от точното идентифициране на изометричната зона на инсерцията на предния сноп — задно-долната част на mediale epicondylus, точно над оста на въртене на лакътя.
 
 При латерална нестабилност след посттравматична увреда на LUCL (posterolateral rotatory instability по O'Driscoll) реконструкцията използва свободен присадък, прокаран от изометричната точка на laterale epicondylus до crista supinatoris в подобна осморкова конфигурация.
@@ -307,6 +367,16 @@ Cubital tunnel се достига чрез надлъжен разрез зад
 
 ## Класически фиксации на olecranon
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/olecranon-fracture.jpg" data-figure-alt="Фрактура на olecranon" aria-label="Увеличи">
+    <img src="/img/anatomy-4/olecranon-fracture.jpg" alt="Фрактура на olecranon" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Латерална рентгенография на изместена напречна фрактура на olecranon: класическо показание за tension-band wiring по Weber-AO (две успоредни Киршнерови игли + 8-образен телен мост, конвертиращ теглителната сила на triceps в компресия върху фрактурната линия). При раздробени фрактури — резекция (Boyd) с реинсерция на triceps в Speed модификация, или плочна остеосинтеза по Müller.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Olecranon_Fracture_X-Ray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Остеосинтезата на olecranon с тел под напрежение (tension band wiring) по Weber (M. E. Müller, M. Allgöwer, R. Schneider, H. Willenegger, AO, 1969) е стандартното лечение за прости напречни и късо косо фрактури на olecranon с разместване. Чрез заден разрез по върха на olecranon мястото на счупването се открива, репозицията се проверява, и през инсерционното място на m. triceps се прокарват две паралелни Kirschner игли, чиито върхове леко пробиват противоположния кортикален слой на ulna дистално от линията на фрактурата. През дисталния фрагмент се пробива напречен боререн канал на около 3–4 cm дистално от линията на фрактурата; през него и около проксималните краища на иглите се прокарва тел от неръждаема стомана в осморкова конфигурация. Заусуква се напречно с „осморка“ напрежение — флексионните сили на m. triceps се превръщат в компресивни сили върху ставната повърхност (тензионен принцип на Pauwels). Иглите се извиват каудално и се завъртват, за да не убодат кожата при флексия. Алтернативната техника на Начев използва интрамедуларен компресивен винт — едно проксимално отваряне на olecranon, разширяване на канала, и косо вбиване на дълъг компресивен винт от върха на olecranon в медуларния канал на ulna; техниката е приложима при по-голям дистален фрагмент с достатъчно метафизна костна маса.
 
 При раздробени фрактури или фрактури с малки фрагменти от върха на olecranon (засягащи не повече от ⅓ от костта), фрагментите се изваждат и m. triceps се пришива директно към опресненото остатъчно костно ложе с трансоосален шев или с анкер. Подобна резекционна стратегия е недопустима при дистални фрагменти, които биха застрашили предно-задната стабилност на ulnohumeral ставата.
@@ -319,11 +389,31 @@ Cubital tunnel се достига чрез надлъжен разрез зад
 
 ## Корекция на cubitus varus и cubitus valgus
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/supracondylar-fracture.jpg" data-figure-alt="Supracondylar фрактура у дете" aria-label="Увеличи">
+    <img src="/img/anatomy-4/supracondylar-fracture.jpg" alt="Supracondylar фрактура у дете" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Изместена supracondylar фрактура на хумеруса при дете — най-честата лакътна фрактура в детска възраст; лошото срастване с медиализиран ангулиран дистален фрагмент води до класическата cubitus varus („gunstock") деформация, която изисква по-късна коригираща суперкондиларна остеотомия чрез латерален достъп.</span>
+    <span class="md-figure-attribution"> · Lindsaydavidson, <a href="https://commons.wikimedia.org/wiki/File:Healing_supracondylar_fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Деформацията cubitus varus (gunstock deformity) е класическо късно усложнение на лошо репониран supracondylar или транскондиларен счупване в детска възраст. Cubitus valgus най-често е резултат от nonunion на латералния кондил или нарушено растене на дисталния хумерус. Корекциращата suprаcondylar остеотомия се изпълнява през латерален достъп при варус и през медиален при валгус. След субпериостално отваряне на дисталния хумерус (около 4 cm), на стандартизирано разстояние над olecranon fossa, се изчертава клиновидна остеотомия — латерално отворен клин при варус и медиално отворен (или латерално затворен) клин при валгус. Колкото клинът се направи малко по-широк дорзално, толкова повече се коригира съпътстващото ограничение на разгъването. Фиксацията е с 1–2 Kirschner игли с върхове, оставени под кожата (особено внимание при детска възраст да не пробият хрущяла на растеж). При корекция на cubitus valgus nervus ulnaris трябва да се идентифицира, отвори ложето и ретрахира преди остеотомията — мотивът за корекцията е често именно профилактика на „tardy ulnar nerve palsy“, а не само козметичен.
 
 Сравнителна рентгенография на двата лакътя е задължителна за точно планиране на ъгъла на корекция.
 
 ## Радиална глава: екстирпация и реконструкция на застаряло изкълчване
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/radial-head-fracture.png" data-figure-alt="Фрактура на главичката на радиус" aria-label="Увеличи">
+    <img src="/img/anatomy-4/radial-head-fracture.png" alt="Фрактура на главичката на радиус" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Раздробена фрактура на главичката на радиуса (Mason III): индикация за ORIF (винтове Herbert или мини-плочи), за резекция (Speed) при невъзможна реконструкция при изолирани увреди или за артропластика с метална главичка при съчетано увреждане на интеросалната мембрана (Essex-Lopresti). Класическият достъп е по Kocher; алтернативно — задно-латерален интервал на Boyd при едновременно засягане на olecranon.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:RadHeadFrac.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Класическата индикация за екстирпация на главичката на лъча е раздробена Mason III–IV фрактура у възрастен с раздробяване, което прави репозиция и фиксация невъзможна, и без сериозна Essex-Lopresti или съпътстваща нестабилност (която изисква запазване на radial buttress чрез реконструкция или ендопротеза). Достъпът е по Kocher; ligamentum anulare се отваря или резецира, главичката се ексцизира на нивото на collum radii. Контраиндикации: придружаваща увреда на membrana interossea (Essex-Lopresti), MCL несъстоятелност, незрял скелет.
 
@@ -342,6 +432,16 @@ Cubital tunnel се достига чрез надлъжен разрез зад
 Синовектомия на лакъта е показана при хронично ревматоидно възпаление с упорита болка, неуспешно консервативно лечение и относително запазени ставни повърхности (Larsen I–II). Достъпът е обикновено латерален по Kocher, при необходимост допълнен от заден или медиален разрез за пълна синовектомия. Главичката на лъча се резецира рутинно — тя често е значително повредена и резекцията улеснява достъпа до радиокарпалния улей и проксималната radioulnar става. Ранно мобилизиране (24–48 часа постоперативно) е критично за поддържане на обема на движение.
 
 ## Volkmann контрактура — класическо освобождаване
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-4/volkmann-contracture.jpg" data-figure-alt="Volkmann исхемична контрактура" aria-label="Увеличи">
+    <img src="/img/anatomy-4/volkmann-contracture.jpg" alt="Volkmann исхемична контрактура" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Volkmann исхемична контрактура: класическата „canra"-образна деформация на ръката и пръстите от исхемична некроза на флексорната маса на предмишницата (главно m. flexor digitorum profundus и m. flexor pollicis longus), след нелекувана компартмент-исхемия — често след супракондиларна фрактура у дете или продължителна турникетна исхемия. Профилактиката чрез фасциотомия в острата фаза остава по-важна от късното реконструктивно лечение (Page-Scaglietti, Seddon).</span>
+    <span class="md-figure-attribution"> · Internet Archive (The practice of surgery, 1910), <a href="https://commons.wikimedia.org/wiki/File:The_practice_of_surgery_(1910)_(14756898256).jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 Volkmann исхемична контрактура на флексорната маса е късно усложнение на неразпозната или недостатъчно лекувана исхемия на предмишницата след супракондиларна фрактура у дете, посттравматична компресия на arteria brachialis или продължителна турникетна исхемия. Класическата операция на освобождаване по Page-Scaglietti използва обширен медиален достъп — отдалечаване на m. flexor digitorum profundus и m. flexor pollicis longus от ulna и radius, с „slide“ дистално на цялата флексорна маса. Класическият подход по Seddon добавя ексцизия на исхемичния централен мускулен сегмент при тежки случаи. Декомпресията на nervus medianus в pronator teres и carpal tunnel и transposition на nervus ulnaris при cubitus valgus са рутинни допълващи стъпки. Превенцията на Volkmann чрез своевременна репозиция и/или фасциотомия при острата исхемия (виж глава Травма-15) остава по-важна от късното реконструкционно лечение.
 

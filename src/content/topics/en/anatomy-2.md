@@ -23,7 +23,49 @@ The shoulder girdle, comprising the glenohumeral joint, the acromioclavicular jo
   </figcaption>
 </figure>
 
-The glenohumeral joint is a ball-and-socket articulation between the relatively small, slightly retroverted glenoid (typical retroversion 5 to 7 degrees, with inferior tilt of about 4 to 5 degrees) and the substantially larger humeral head (covered by approximately 120 degrees of articular surface). The size mismatch produces the characteristic mobility-stability trade-off; only 25 to 30 percent of the humeral head is in contact with the glenoid at any time. The glenoid labrum is a fibrocartilaginous ring around the glenoid that deepens the socket by approximately 50 percent and provides attachment for the capsular ligaments and the long head of the biceps tendon. The acromion forms the lateral roof of the joint, with anatomical variants relevant to surgery — the acromial morphology classified as type I flat, type II curved, type III hooked (Bigliani) is associated with rotator cuff impingement, particularly in type III. The os acromiale is a failure of fusion of the acromial ossification center (occurring in 1 to 8 percent of the population), with the meso-acromion (between the middle and posterior acromial ossification centers) being the most common type and a recognized cause of impingement and rotator cuff pathology. The coracoid process projects anteriorly and provides attachment for the conjoint tendon (short head of biceps and coracobrachialis), the coracoacromial ligament, the coracoclavicular ligaments (conoid and trapezoid), and the coracohumeral ligament. The coracoid is the source of the bony graft in the Latarjet procedure for glenoid bone loss ([Topic Trauma-12](/en/trauma/12/)). The clavicle completes the shoulder girdle, articulating with the acromion laterally (AC joint) and the sternum medially (SC joint). Its anatomy and pathology were addressed in [Topic Trauma-11](/en/trauma/11/).
+The glenohumeral joint is a ball-and-socket articulation between the relatively small, slightly retroverted glenoid (typical retroversion 5 to 7 degrees, with inferior tilt of about 4 to 5 degrees) and the substantially larger humeral head (covered by approximately 120 degrees of articular surface). The size mismatch produces the characteristic mobility-stability trade-off; only 25 to 30 percent of the humeral head is in contact with the glenoid at any time. The glenoid labrum is a fibrocartilaginous ring around the glenoid that deepens the socket by approximately 50 percent and provides attachment for the capsular ligaments and the long head of the biceps tendon.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/glenoid-fossa.png" data-figure-alt="Glenoid fossa, right side" aria-label="Enlarge">
+    <img src="/img/anatomy-2/glenoid-fossa.png" alt="Glenoid fossa, right side" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Glenoid fossa of the right scapula: a pear-shaped, shallow articular surface with 5–7° retroversion and 4–5° inferior tilt; the glenoid labrum — a triangular fibrocartilaginous ring fixed to the rim — deepens the socket by ~50% and anchors the capsulolabral complex. Avulsion from the rim is the Bankart lesion, pathognomonic for anterior shoulder instability.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray328.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/humerus-anterior.png" data-figure-alt="Left humerus, anterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-2/humerus-anterior.png" alt="Left humerus, anterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Left humerus, anterior view: humeral head (articular surface ~120°, 25–30° retroversion), anatomical neck, greater tuberosity (facets for supraspinatus, infraspinatus, teres minor), lesser tuberosity (subscapularis), bicipital groove (long head of biceps), surgical neck (typical location of proximal humeral fractures and the level around which the axillary nerve courses).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray207.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-capsule.png" data-figure-alt="Glenohumeral joint capsule" aria-label="Enlarge">
+    <img src="/img/anatomy-2/shoulder-capsule.png" alt="Glenohumeral joint capsule" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Capsule of the glenohumeral joint (distended for demonstration), anterior view: the superior, middle, and inferior glenohumeral ligaments determine anterior stability; the middle glenohumeral ligament is particularly important in open Bankart, Putti-Platt, and Boychev (anterior capsulolabral reconstruction with capsular overlap).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray327.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+The acromion forms the lateral roof of the joint, with anatomical variants relevant to surgery — the acromial morphology classified as type I flat, type II curved, type III hooked (Bigliani) is associated with rotator cuff impingement, particularly in type III. The os acromiale is a failure of fusion of the acromial ossification center (occurring in 1 to 8 percent of the population), with the meso-acromion (between the middle and posterior acromial ossification centers) being the most common type and a recognized cause of impingement and rotator cuff pathology. The coracoid process projects anteriorly and provides attachment for the conjoint tendon (short head of biceps and coracobrachialis), the coracoacromial ligament, the coracoclavicular ligaments (conoid and trapezoid), and the coracohumeral ligament. The coracoid is the source of the bony graft in the Latarjet procedure for glenoid bone loss ([Topic Trauma-12](/en/trauma/12/)). The clavicle completes the shoulder girdle, articulating with the acromion laterally (AC joint) and the sternum medially (SC joint). Its anatomy and pathology were addressed in [Topic Trauma-11](/en/trauma/11/).
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/scapula-posterior.jpg" data-figure-alt="Scapula, posterior view" aria-label="Enlarge">
+    <img src="/img/anatomy-2/scapula-posterior.jpg" alt="Scapula, posterior view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Scapula, posterior view: the scapular spine separates the supraspinous from the infraspinous fossa; the acromion is seen laterally; the superior, inferior, and lateral angles and the medial border serve as landmarks for posterior shoulder approaches and for periscapular muscle transfers (Sprengel, Léo Mayer, Bateman).</span>
+    <span class="md-figure-attribution"> · MAKY.OREL, <a href="https://commons.wikimedia.org/wiki/File:Scapula_-_posterior_view.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
 
 ## Infraclavicular and Axillary Topography
 
@@ -42,12 +84,22 @@ In the pectoral triangle the neurovascular bundle sits between pectoralis minor 
 ## Rotator Cuff
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff.svg" data-figure-alt="Rotator cuff anatomy" aria-label="Enlarge">
-    <img src="/img/anatomy-2/rotator-cuff.svg" alt="Rotator cuff anatomy" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff.svg" data-figure-alt="Rotator cuff" aria-label="Enlarge">
+    <img src="/img/anatomy-2/rotator-cuff.svg" alt="Rotator cuff" loading="lazy" decoding="async" />
   </button>
   <figcaption>
     <span class="md-figure-caption">Rotator cuff: supraspinatus, infraspinatus, teres minor, subscapularis; the supraspinatus tendon is the most commonly torn in rotator cuff syndrome.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_injury.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-muscles-posterior.png" data-figure-alt="Dorsal shoulder muscles and triceps brachii" aria-label="Enlarge">
+    <img src="/img/anatomy-2/shoulder-muscles-posterior.png" alt="Dorsal shoulder muscles and triceps brachii" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Dorsal scapular muscles (supraspinatus, infraspinatus, teres minor, teres major) and the triceps brachii: demonstrates the quadrilateral space (teres minor above, teres major below, long head of triceps medially, humeral shaft laterally) through which the axillary nerve and posterior circumflex humeral artery pass — a key landmark for the posterior shoulder approach.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray412.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -232,6 +284,16 @@ For clavicular pseudarthrosis (congenital or traumatic) the principles are prese
 
 ## Acromio-Clavicular and Sterno-Clavicular Instability
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/ac-separation-xray.png" data-figure-alt="Acromioclavicular separation, radiograph" aria-label="Enlarge">
+    <img src="/img/anatomy-2/ac-separation-xray.png" alt="Acromioclavicular separation, radiograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Radiograph of a right shoulder with severe acromioclavicular separation (Rockwood type III–V): the distal clavicle sits above the acromion; the widened coracoclavicular distance (>13 mm or >50% asymmetry vs. the contralateral side) reflects complete disruption of the conoid and trapezoid ligaments — an indication for operative stabilization (Bosworth, Weaver-Dunn, Heyzlauer, Dewar-Barrington).</span>
+    <span class="md-figure-attribution"> · Root4(one), <a href="https://commons.wikimedia.org/wiki/File:AC_Separation_XRAY_(enhanced).png" target="_blank" rel="noopener noreferrer">CC BY 2.5</a></span>
+  </figcaption>
+</figure>
+
 Over 30 techniques have been described for acute acromioclavicular dislocations. The classical Bulgarian-systematized variants include: **Bosworth technique** — the displaced acromial end is reduced and a drill makes a vertical channel through the clavicle above the coracoid; a screw is then passed through the channel into the coracoid; supplementary percutaneous Kirschner wire through the acromion is recommended and removed at 3-4 weeks. **AO/Weber technique** — cancellous screw plus Weber tension-band, with reconstruction of the disrupted coracoclavicular ligaments using half the coracobrachialis tendon passed around the clavicle and sutured back to itself. **Heyzlauer technique** — transposition of the coracoclavicular ligament to form a new acromioclavicular ligament, avoiding screw or wire fixation that limits clavicular rotation. **Dewar-Barrington technique** — osteotomy of the coracoid tip with the attached conjoint muscles (coracobrachialis and short head of biceps) and screw fixation to the clavicle — dynamic depression of the lateral clavicle through the pull of the conjoint muscles. Preservation of 1 cm of coracoid length and pre-drilling before osteotomy are technically critical to prevent fragmentation. **Bunnell technique** — passive fascia lata reconstruction passed through bone holes in the clavicle and beneath the coracoid using a Deschamps needle; supplementary short K-wires across the AC joint until graft healing. **Rowe technique** — longitudinal incision over the AC ligament; oblique osteotomy of the distal clavicle so that the inferior cut ends at the insertion of the AC ligament; after fragment removal the two ligament ends are sutured with overlap.
 
 For SC joint resection (chronic infection and tumour) the most important step is restoration of the interclavicular ligament along with fixation of the intra-articular disc; resection of the sternal end of the clavicle alone is not recommended by most authors. For acute anterior or posterior SC dislocation a transverse incision over the joint is used; posterior dislocation may compress the trachea and great vessels and requires emergent surgery (the literature describes approximately 41 cases, with Beckman 1923 describing bilateral). Pre-operative tomography is mandatory (Kennedy 1949, Holmdahl 1954). Stabilization with a Kirschner wire across the joint carries a risk of intrathoracic migration and is not recommended by many authors; the Lownan variant uses a fascia lata graft through two central holes in the joint.
@@ -242,6 +304,16 @@ For SC joint resection (chronic infection and tumour) the most important step is
 </aside>
 
 ## Sprengel Deformity (Congenital High-Riding Scapula)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/sprengel-deformity.png" data-figure-alt="Sprengel deformity" aria-label="Enlarge">
+    <img src="/img/anatomy-2/sprengel-deformity.png" alt="Sprengel deformity" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sprengel deformity (congenital high-riding scapula): clinically visible asymmetric elevation and medial rotation of the affected scapula, often with an omovertebral bony bridge to the cervical spine; radiographic appearance guides the choice between operative descent (Green, Woodward, Schrock) and observation.</span>
+    <span class="md-figure-attribution"> · Kariminasab et al., <a href="https://commons.wikimedia.org/wiki/File:Sprengel%27s_deformity.png" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
 
 Sprengel deformity results from failure of scapular descent during embryonic development, often associated with an omovertebral bone — a fibrous, cartilaginous or osseous bridge between the supero-medial angle of the scapula and the cervical spine. The surgical aims are: 1) release of the omovertebral attachment; 2) descent of the scapula; 3) functional and cosmetic correction. The optimal age for operation is over 10 years — in adults the procedure is extensive and the results poor because of established cervical changes. Operations fall into four groups: excision of the omovertebral bone (as a stand-alone procedure); excision of the supero-medial corner of the scapula; subtotal scapulectomy; and scapular translocation.
 
@@ -270,6 +342,16 @@ For tenosynovitis with degeneration of the long head of biceps a tenodesis is pe
 
 ## Classical Rotator Cuff Repair (Debeyre Approach)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/rotator-cuff-muscles.svg" data-figure-alt="Rotator cuff muscle insertions" aria-label="Enlarge">
+    <img src="/img/anatomy-2/rotator-cuff-muscles.svg" alt="Rotator cuff muscle insertions" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Footprints of the four rotator cuff muscles (supraspinatus and infraspinatus on the greater tuberosity, teres minor on the inferior facet, subscapularis on the lesser tuberosity): the anatomical basis for the wide Debeyre approach with temporary acromial osteotomy for massive retracted tears and for tendon-to-bone repair using transosseous sutures or suture anchors.</span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Rotator_cuff_muscles.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 After failed conservative care for shoulder periarthritis with movement blockade (over 1 year of systematic conservative treatment, which is successful in 85-98% of cases), classical open techniques emphasize wide exposure and resection of impinging structures. **Debeyre approach** — Saber-shaped incision over the acromion; the periosteum is split longitudinally between the trapezius and deltoid attachments. The bone is subperiosteally exposed on both sides: deltoid is fully detached while a periosteal-tendinous flap is raised from the trapezius side. Using an osteotome, a portion of the acromion or the entire acromion plus the AC joint and lateral clavicle up to the coracoclavicular ligament is resected. After cuff repair the acromion is reconstructed by osteosynthesis or periosteal suture. The technique provides maximal visualization for massive retracted tears, irreducible cuff fragmentation, and removal of calcifications and ossifications in periarthritis. Where adequate resection without total acromionectomy is feasible, the approach preserves deltoid function. Supraspinatus repair classically uses temporary acromial osteotomy as described by Debeyre for wide exposure; the cuff is sutured into a bone-periosteal bed and the acromion is then re-osteosynthesised. Immobilization in chest-arm cast at 70° abduction and 20-30° antepulsion for 4 weeks.
 
 ## Resection and Reconstruction of the Proximal Humerus
@@ -290,6 +372,26 @@ For tumour resection the work is supraperiosteal and en bloc with the involved m
 </aside>
 
 ## Recurrent Anterior Shoulder Dislocation — Classical Techniques
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/bankart-hill-sachs.svg" data-figure-alt="Bankart and Hill-Sachs lesions" aria-label="Enlarge">
+    <img src="/img/anatomy-2/bankart-hill-sachs.svg" alt="Bankart and Hill-Sachs lesions" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior shoulder dislocation with Bankart lesion (anteroinferior labrum and periosteum stripped from the glenoid rim) and Hill-Sachs impression on the posterolateral humeral head — the pathoanatomical substrate of most recurrent anterior instability and the basis for choosing between capsulolabral repair (Bankart, Boychev, Putti-Platt) and bone block / Latarjet for glenoid bone loss.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_dislocation_with_Bankart_and_Hill-Sachs_lesion,_before_and_after_reduction.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-2/shoulder-mri.png" data-figure-alt="Shoulder MRI" aria-label="Enlarge">
+    <img src="/img/anatomy-2/shoulder-mri.png" alt="Shoulder MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">T1-weighted MRI of the shoulder — shows the normal humeral head, glenoid labrum, rotator cuff, and subacromial space; the basis for classifying cuff tears (full- vs partial-thickness) and for preoperative staging of labral lesions (Bankart, SLAP, ALPSA).</span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Shoulder_MRI_124712_rgbcb.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 Chronic anterior instability after the first traumatic dislocation manifests as recurrent or habitual dislocations; the pathoanatomical substrate is most commonly Bankart (avulsion of labrum and periosteum from the anterior glenoid rim), often combined with a Hill-Sachs groove on the postero-lateral humeral head. Less frequently a habitual dislocation occurs from anterior capsular over-stretching without other pathology — a finding in congenital habitual dislocations, sometimes with anterior glenoid hypoplasia. Classical procedures aim at: 1) capsulorrhaphy/tenodesis to limit external rotation; 2) bone reconstruction/block for glenoid defect; 3) labrum-capsule reattachment to bone.
 

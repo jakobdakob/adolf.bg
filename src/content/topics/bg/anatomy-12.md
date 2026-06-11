@@ -43,6 +43,26 @@ order: 212
 ## Класификация на Salter-Harris на физисните увреждания
 
 <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris-types.svg" data-figure-alt="Типове Salter-Harris" aria-label="Увеличи">
+    <img src="/img/anatomy-12/salter-harris-types.svg" alt="Типове Salter-Harris" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Петтe типа на Salter-Harris (1963, Robert B. Salter и W. Robert Harris): I — през физиса (SH-I), II — през физиса и метафизата (Thurston-Holland фрагмент; най-чест тип, ~75%), III — през физиса и епифизата, IV — през метафиза-физис-епифиза (изисква анатомична реконструкция за избягване на bony bridge), V — компресия на физиса (рядък, лош прогноза за растежен арест). Класификацията определя риска от растежен арест и тактиката — затворена репозиция за I/II срещу отворена анатомична за III/IV.</span>
+    <span class="md-figure-attribution"> · Llywelyn2000, <a href="https://commons.wikimedia.org/wiki/File:Salter_Harris_Fracture_Types.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris-iii.jpg" data-figure-alt="Salter-Harris III на дистална тибия — рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-12/salter-harris-iii.jpg" alt="Salter-Harris III на дистална тибия — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Рентгенография на Salter-Harris III фрактура на дистална тибия (juvenile Tillaux fracture): авулзия на латералния епифизарен фрагмент при асиметрично затваряне на физиса между 12–15-годишна възраст, когато медиалната половина се затваря преди латералната. Изисква ORIF при изместване >2 mm за възстановяване на ставната повърхност и предотвратяване на посттравматичен артрит.</span>
+    <span class="md-figure-attribution"> · Kyonghun Chong, <a href="https://commons.wikimedia.org/wiki/File:Salter-Harris_III_Fracture_Distal_Tibia_.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/salter-harris.svg" data-figure-alt="Класификация на Salter-Harris" aria-label="Увеличи">
     <img src="/img/anatomy-12/salter-harris.svg" alt="Класификация на Salter-Harris" loading="lazy" decoding="async" />
   </button>
@@ -191,6 +211,16 @@ order: 212
 
 ## Спиране на растежа и лечението му
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/blount-disease.jpg" data-figure-alt="Болест на Blount — варусна деформация" aria-label="Увеличи">
+    <img src="/img/anatomy-12/blount-disease.jpg" alt="Болест на Blount — варусна деформация" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Болест на Blount (tibia vara, 1937): нарушение на проксималния медиален тибиален физис с прогресивна варусна деформация. Инфантилна форма (1–3 г.) — двустранна, типично при деца с ранно прохождане и затлъстяване; адолесцентна форма — обикновено едностранна. Класификация на Langenskiöld (степени I–VI). Лечение: ортотични апарати в ранните стадии, валгизираща остеотомия на проксимална тибия (Bogoraz сегментно-ангулационна, или съвременна Maquet-латерализираща) и насочван растеж с 8-плака по Stevens при по-млади пациенти.</span>
+    <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Morbus_Blount_beidseits_5W_-_CR_ap_-_001.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Спирането на растежа след физисно увреждане настъпва, когато се образуват костни мостове над физиса, закотвящи епифизата към метафизата и предотвратявайки нататъшния растеж. Честотата на спиране на растежа варира според типа фрактура и локализацията:
 
 •   Salter-Harris I и II: Под 10 процента риск.
@@ -250,6 +280,16 @@ order: 212
 
 Между трайната епифизиодеза и наблюдението стои концепцията за временно задържане на растежа, изхождаща от експерименталните работи на Müller, който доказва че дълготрайната компресия в епифизната област нарушава нормалната структура на хрущяла и обратимо забавя растежа. Haas (1922) предлага метални спици напречно през физиса; Blount (W. P. Blount, 1949) развива тази идея с т.нар. „staples" — двойни U-образни скоби, поставяни перкутанно или с малък разрез през физиса от двете страни на крайника, мостосвящи епифизата и метафизата. Системата на Blount позволява теоретично обратима епифизиодеза с премахване на скобите; на практика, поради риск от изместване, инфламация и непредсказуемо нарастване, Blount-стейпълсите се прилагат рядко.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/8plate-tension-band.png" data-figure-alt="8-plate насочван растеж — рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-12/8plate-tension-band.png" alt="8-plate насочван растеж — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Принципът на Hueter–Volkmann в действие: 8-образна тензионна плака (Stevens, 2007) се поставя екстрапериостално с по един винт в епифизата и метафизата, мостосвайки физиса от едната страна. Компресията от страната на плаката забавя локалния растеж, а противоположната страна продължава да расте — позволявайки насочвана корекция на genu valgum/varum или равномерно задържане при двустранно поставяне. След отстраняване на плаката растежът се възобновява („реверзибилна епифизиодеза"), за разлика от трайната перкутанна процедура по Bowen.</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Staples_for_epiphysiodesis,_Blount%27s_disease_-_rtg._and_experiments.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Съвременният стандарт за обратимо и градуирано задържане на растежа е насочваният растеж със система за тензионна плака (Stevens, „8-plate", 2007). Малка осемобразна плака с два винта (един в епифизата, един в метафизата) се поставя екстрапериостално, моделира растежа чрез ефект на тенсионна лента (принцип на Hueter–Volkmann) и позволява насочена корекция на ъглова деформация (genu valgum, genu varum) едновременно с равномерно задържане на растежа при двустранно поставяне за корекция на дължинна разлика. Премахването на плаката възстановява нормалния растеж в рамките на седмици. Методът е почти изместил класическата епифизиодеза по Phemister и Bowen при показанията 2–4 cm разлика и едновременна ъглова деформация.
 
 <aside class="callout callout-pearl">
@@ -265,7 +305,27 @@ order: 212
 
 ## Оперативно удължаване на по-късия крайник
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/ilizarov-portrait.jpg" data-figure-alt="Гавриил Илизаров" aria-label="Увеличи">
+    <img src="/img/anatomy-12/ilizarov-portrait.jpg" alt="Гавриил Илизаров" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Гавриил Абрамович Илизаров (1921–1992) — създател на принципа на дистракционна остеогенеза. Започвайки от 1951 г. в Курган, той описва закономерностите на регенерация на костта при контролирана механична тракция със скорост 1 mm/ден в 4 фракции, които позволяват удължаване на крайниците до 25 cm при определени клинични ситуации, лечение на големи костни дефекти чрез костна транспортация и корекция на сложни деформации. Принципът остава основа на съвременните хексаподни системи (Taylor Spatial Frame) и на интрамедуларните магнитни удължители (PRECICE).</span>
+    <span class="md-figure-attribution"> · Prof. B.-D. Partecke, <a href="https://commons.wikimedia.org/wiki/File:G.A._Ilisarow_(1991).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Когато възрастта за дистракционна епифизиолиза е преминала или налице са противопоказания (затворен физис, инфекциозно засягане на епифизата), удължаването се извършва в диафизарната или метафизарната област на засегнатата кост. Принципно различаваме едноетапно (едномоментно) и постепенно удължаване. Едноетапното удължаване, развито от Putti, Magnuson, Merle d'Aubigné, Coucholx, Pol le Coeur и в българската школа от Илиев (Илиеви апарати за едномоментно удължаване по Илиев, ил. в Бойчева), позволява моментно увеличение на дължината до 4–5 cm чрез резекция, разместване и компенсация с костен присадък. Недостатъците са значителното натоварване на съдово-нервния пакет с риск от исхемия и нервна тракция, ограничената величина на удължаването и тежката следоперативна имобилизация. Поради тези причини в съвременната практика едноетапното удължаване е заменено почти изцяло от постепенното.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/ilizarov-lengthening.jpg" data-figure-alt="Илизаров циркулярен фиксатор за удължаване на крайник" aria-label="Увеличи">
+    <img src="/img/anatomy-12/ilizarov-lengthening.jpg" alt="Илизаров циркулярен фиксатор за удължаване на крайник" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Илизаров циркулярен апарат за педиатрично удължаване на крайник: щадяща метафизарна кортикотомия, латентен период 5–7 дни, дистракция 1 mm дневно в 4 стъпки и консолидация на регенерата в апарата 2–3 пъти продължителността на дистракцията („консолидационен индекс"). Същият принцип лежи в основата на дистракционната епифизиолиза при отворен физис (10–14 г) и на съвременните шесткоординатни хексаподни системи (Taylor Spatial Frame, TrueLok Hex).</span>
+    <span class="md-figure-attribution"> · Pagemaker787, <a href="https://commons.wikimedia.org/wiki/File:Ilizarov_Apparatus_External_Fixator.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Постепенното удължаване — основано на принципа на дистракционната остеогенеза (callotasis) — осигурява пластично разтегляне на съдовете, нервите и сухожилно-мускулния апарат и позволява значително по-големи удължавания. Класическата техника на Wagner (H. Wagner, 1971) използва моноаксиален дистрактор с винтова резба след диафизарна остеотомия; удължаването на 1.5 mm/24 h продължава до целта, след което се извършва втори етап за костно присадане и плакова фиксация на дефекта. Техниката е изместена от метода на Илизаров (Г. А. Илизаров, Курган): кръгов външен фиксатор с напречни спици тип Киршнер, кортикотомия с щадене на медуларния кровоснабдяване и периоста, латентен период от 5–7 дни преди старта на дистракцията, и постепенно удължаване от 1 mm/24 h в 4 етапа. Регенератът се консолидира в апарата за период, равен на около 2–3 пъти продължителността на дистракционния период (т. нар. „консолидационен индекс"). Илизаров доказва биологичния закон за тензионната стимулация на остеогенезата и до днес остава златен стандарт за сложно удължаване, особено при едновременна корекция на ъглова деформация, ротация и транслация (т.нар. шесткоординатна корекция, реализирана в съвременните хексаподни системи Taylor Spatial Frame, TrueLok Hex).
 
@@ -280,11 +340,61 @@ order: 212
 
 ## Класически принципи на детската фрактурна хирургия — българска и руска школа
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/perthes-disease.png" data-figure-alt="Болест на Legg-Calvé-Perthes" aria-label="Увеличи">
+    <img src="/img/anatomy-12/perthes-disease.png" alt="Болест на Legg-Calvé-Perthes" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Болест на Legg-Calvé-Perthes (LCP): идиопатична аваскуларна некроза на caput femoris при деца 4–8 г. Класификации: Catterall (степени I–IV), Herring lateral pillar (A/B/C — главният прогностичен инструмент), Salter-Thompson „crescent sign". Стадии: 1) исхемия и некроза, 2) фрагментация, 3) реосификация, 4) ремоделиране. Лечение според възраст и Herring: containment с абдукционна шина при леки форми, варизираща бедрена остеотомия (Salter, Sugioka, Trumble), Salter иликвална остеотомия — българска школа на Илиев, Иванов и Дикерс.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LCPdisease2015.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/scfe.jpg" data-figure-alt="Slipped capital femoral epiphysis" aria-label="Увеличи">
+    <img src="/img/anatomy-12/scfe.jpg" alt="Slipped capital femoral epiphysis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Епифизиолиза на главата на бедрото (slipped capital femoral epiphysis, SCFE): постериомедиално приплъзване на caput femoris спрямо шийката през хипертрофичната зона на физиса. Класификация: стабилна vs. нестабилна (по Loder — възможност за натоварване); chronic, acute, acute-on-chronic. Стандартно лечение — in situ пинуване с един канюлиран винт по Southwick; коригиращи остеотомии (Imhauser, Sugioka, Dunn) при тежки случаи. AVN е критичното усложнение, особено при нестабилни slips.</span>
+    <span class="md-figure-attribution"> · Dr. Jochen Lengerke, <a href="https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/cong-pseudoarthrosis-tibia.png" data-figure-alt="Вродена псевдоартроза на тибия" aria-label="Увеличи">
+    <img src="/img/anatomy-12/cong-pseudoarthrosis-tibia.png" alt="Вродена псевдоартроза на тибия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Вродена псевдоартроза на тибия с типично антеролатерално изкривяване (Boyd/Crawford класификация), почти винаги асоциирана с неврофиброматоза тип 1. Класически лечебни варианти: Sofield интрамедуларен пирон с автоложна спонгиоза, васкуларизирана fibula от контралатералния крайник (Taylor), костна транспортация по Илизаров, и техниката „fibula pro tibia" по Hahn–Huntington–Codivilla. Българската школа на Карчинов (1974/1975) добавя двукамерни костни мостове за големи дефекти.</span>
+    <span class="md-figure-attribution"> · Kinderradiologie Olgahospital Klinikum Stuttgart, <a href="https://commons.wikimedia.org/wiki/File:TP_NF.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/rickets-xray.jpg" data-figure-alt="Rachitis (rickets) — рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-12/rickets-xray.jpg" alt="Rachitis (rickets) — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Rахитис: разширени физиси с „rachitic rosary" костохондрални издатини, изправени метафизарни ръбове и генерализирана остеопения. Класическо метаболитно заболяване от недостиг на витамин D, най-чест от 6 мес.–2 г. при кърмени деца без суплементация. Класическата българска ортопедична школа описва коригираща валгизираща бедрена остеотомия по Bogoraz след медикаментозна стабилизация при остатъчни деформации тип varus genu след зарастване на rахитита.</span>
+    <span class="md-figure-attribution"> · Frank Gaillard, <a href="https://commons.wikimedia.org/wiki/File:RicketsXray.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Класическата българска и руска школа разработва специфични техники за лечение на сложни детски фрактури, които остават в курикулума. Дистракторът за лакътя на Волков-Оганесян (М. В. Волков, О. В. Оганесян) — комбинирана шарнирна външна фиксаторна рамка, осигуряваща едновременно дистракция, ранна мобилизация и контролирано възстановяване на ставната конгруентност — е историческият предшественик на съвременните шарнирни лакътни външни фиксатори при сложни флексионно-екстензионни контрактури и при възстановяване след тежки лакътни фрактури-дислокации (преди всичко при сложни моделове в подрастваща възраст). Концепцията съчетава ставната дистракция (разтоварване на ставния хрущял и улесняване на ремоделирането) с пасивна и активна мобилизация през осите на ставата, и остава в съвременната практика реализирана с външни фиксатори тип Compass или Mayo.
 
 При лечението на детския хематогенен остеомиелит българската военновременна и следвоенна школа застъпва принципа на ранна спешна декомпресия: фрезов отвор в метафизата с евакуация на интрамедуларния гной, обилен лаваж, локална антибиотична апликация и последваща системна антибиотична терапия по чувствителност, с цел предотвратяване на разпространението към ставата (септичен артрит) и към физиса (постинфекциозно частично или тотално спиране на растежа). Класическата техника на „меко" (без отчитане на физиса) дрилиране е заменена от модерната, физис-щадяща декомпресия с навигация по образно изследване. Хронифициращият остеомиелит със секвестър изисква секвестректомия с туморна заместителна остеосинтеза или индукционна мембрана на Masquelet — последната, макар модерна, реализира принципа на двустъпално (debridement → реконструкция) лечение, заложен още в класическата руска школа.
 
 Конгениталната псевдартроза на тибията (тип IIb по класификацията на Crawford, най-често свързана с неврофиброматоза тип 1) е едно от най-сложните състояния в детската ортопедия. Класическите подходи включват: 1) интрамедуларно пироно с автоложен костен присадък от илиачен гребен (метод на Sofield); 2) свободна васкуларизирана фибула с микрохирургична анастомоза (Pho); 3) циркулярен външен фиксатор на Илизаров с компресия-дистракция в зоната на псевдартрозата; 4) индукционна мембрана на Masquelet с двустъпално костно присадане. Съвременните протоколи комбинират интрамедуларен щифт (стабилизация) с компресия по Илизаров или с присадка на васкуларизирана фибула; биологичното допълване с BMP-2 е експериментално, но обещаващо. Класическата техника на фибулен трансфер с педикулиран кортико-периостален пълнеж (метод на Хан, Тейлър, в българската школа застъпен от ортопедичните школи в УСБАЛО) запазва клинична роля при тежки сегментни дефекти на тибията и при дисталната фалангова реконструкция в детска възраст.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-12/osteogenesis-imperfecta.jpg" data-figure-alt="Остеогенезис имперфекта — рентгенография" aria-label="Увеличи">
+    <img src="/img/anatomy-12/osteogenesis-imperfecta.jpg" alt="Остеогенезис имперфекта — рентгенография" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Остеогенезис имперфекта с множество фрактури и деформации на дългите кости (типично сабел-видно изкривяване на фемур и тибия). Класическата техника на Sofield–Millar (1959) изпълнява многократна сегментна остеотомия на засегнатата кост, „нанизва" фрагментите по правилна ос върху интрамедуларен пирон и осигурява пасивна стабилизация — съвременният еквивалент са телескопичните пирони на Bailey–Dubow и Fassier–Duval, които растат с детето без необходимост от повторна смяна.</span>
+    <span class="md-figure-attribution"> · ShakataGaNai, <a href="https://commons.wikimedia.org/wiki/File:XrayOITypeV-Kid.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a></span>
+  </figcaption>
+</figure>
 
 Sofield-Millar интрамедуларното пироно за остеогенезис имперфекта (H. A. Sofield, E. A. Millar, 1959) представлява многократно сегментно остеотомиране на дългата кост с трите или повече фрагмента, надлъжно нанизани върху телескопичен пирон — техниката за тибия, фемур и хумерус осигурява пасивна стабилизация на крехката кост и предотвратява повтарящи се фрактури при пациенти с тежък OI. Съвременният еквивалент е телескопичният пирон на Bailey-Dubow и неговите наследници (Sheffield Telescopic Rod, Fassier-Duval), които растат с пациента и не изискват повторни хирургични интервенции при нарастване.
 

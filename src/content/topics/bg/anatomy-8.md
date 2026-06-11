@@ -39,6 +39,36 @@ SIAS и SIAI: Предните ориентири за предните дост
 
 Ставната капсула е здрава фиброзна структура с удебелявания, образуващи ligamentum iliofemorale (Y-образна връзка на Bigelow), ligamentum pubofemorale и ligamentum ischiofemorale. Ligamentum iliofemorale е най-здравата връзка в тялото и главният преден стабилизатор на ставата.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-joint-anterior.png" data-figure-alt="Тазобедрена става, преден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip-joint-anterior.png" alt="Тазобедрена става, преден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дясна тазобедрена става отпред (Spalteholz): Y-образната връзка на Bigelow (ligamentum iliofemorale) — най-якият лигамент в тялото, основен преден стабилизатор и техническо препятствие при предния достъп. Класическата дисекция при Smith-Petersen изисква напречно прерязване на lig. iliofemorale след дезинсерция на m. iliopsoas от lesser trochanter.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray339.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-capsule-reflected.png" data-figure-alt="Капсула на тазобедрената става отпрепарирана" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip-capsule-reflected.png" alt="Капсула на тазобедрената става отпрепарирана" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Тазобедрена става с отпрепарирана капсула, преден изглед: главата с fovea capitis за lig. capitis femoris и неговата клонова артерия (a. acetabuli), ацетабуларният лабрум, lig. transversum acetabuli. Дисекцията на капсулата по Smith-Petersen разкрива тази архитектура за костна резекция при Murphy-Lexer-Балчев или за артропластика с витална чашка.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray342.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-capsule-posterior.png" data-figure-alt="Капсула на тазобедрена става, заден изглед" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip-capsule-posterior.png" alt="Капсула на тазобедрена става, заден изглед" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Капсула на дясната тазобедрена става (раздута за демонстрация), заден изглед: zona orbicularis — пръстен-удебеляване, опасващ шийката; ligamentum ischiofemorale като основен заден стабилизатор. Задният достъп (Moore, Kocher-Langenbeck) пресича капсулата напречно, със запазване на циркулярната zona orbicularis за стабилност след закриване.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray343.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 ## Топография — предна бедрена и седалищна област
 
 Класическата българска и руска ортопедична школа описва тазобедрената става в две топографски области — предна бедрена и седалищна — с подробно изброени външни ориентири, използвани при планиране на достъпи и интерпретация на палпаторни находки. Външните ориентири са spina iliaca anterior superior, tuberculum pubicum, върхът на trochanter major и tuber ischiadicum. По предната повърхност на бедрото най-горната точка на главата на бедрената кост лежи на средата на разстоянието между spina iliaca anterior superior и tuberculum pubicum; перпендикулярът, спуснат от тази точка, разделя главата на две почти равни части (Д. Л. Лубоцкий, 1953). Линията, свързваща средата на разстоянието spina iliaca anterior superior — tuberculum pubicum с основата на големия трохантер, е средно 11 cm и разделя главата и шийката на две почти равни части — съображение, полезно при перкутанна перфорация на шийката.
@@ -122,6 +152,17 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 Достъпът по Hueter използва задния ръб на m. sartorius — кожният разрез започва от spina iliaca anterior superior и слиза дистално по външния ръб на мускула с дължина около 15 cm. Прониква се между m. sartorius (медиално) и m. tensor fasciae latae (латерално), а в проксималния край m. tensor fasciae latae се дезинсерира остеопластично от spina iliaca anterior superior и от m. gluteus medius на 1 cm под хълбочния гребен. С распатор m. gluteus medius и m. gluteus minimus се отделят от външната повърхност на хълбочното крило и се екартират назад и надолу, при което се излага широко горната и предната част на ставната капсула. Hueter е концептуалният предшественик на съвременния директен преден достъп (DAA) — разликата е, че Hueter включва дезинсерция на тензора и на абдукторите от хълбочното крило, докато DAA запазва тензора като мускулна стена.
 
 ## Преден достъп по Smith-Petersen
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/smith-petersen-incision.png" data-figure-alt="Ориентири и разрез на достъпа по Smith-Petersen" aria-label="Увеличи">
+    <img src="/img/anatomy-8/smith-petersen-incision.png" alt="Ориентири и разрез на достъпа по Smith-Petersen" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Повърхностни ориентири на предния достъп по Smith-Petersen: SIAS отгоре, линията към латералната патела, и безнервният интервал между m. sartorius (n. femoralis) и m. tensor fasciae latae (n. glutealis superior). Дълбоко — между m. rectus femoris и m. gluteus medius.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray430.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Преден достъп на бедрото, m. tensor fasciae latae" aria-label="Увеличи">
@@ -231,6 +272,17 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 ## Заден достъп (Southern, Moore, модификация по Kocher-Langenbeck)
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/posterior-hip-approach.png" data-figure-alt="Заден достъп до тазобедрената става – глутеална анатомия" aria-label="Увеличи">
+    <img src="/img/anatomy-8/posterior-hip-approach.png" alt="Заден достъп до тазобедрената става – глутеална анатомия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дълбока глутеална дисекция, основа на задния достъп (Kocher-Langenbeck / Moore): m. gluteus maximus разцепен по влакна, късите външни ротатори (piriformis, gemelli, obturator internus, quadratus femoris) и n. ischiadicus излизащ под piriformis — основната неврологична опасност.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 Задният достъп е стандартният работен достъп за тотална артропластика на тазобедрената става в много центрове и е стандарт при задната тазова и ацетабуларна хирургия (вариантът по Kocher-Langenbeck, разгледан в Тема Анатомия-7).
 
 
@@ -310,6 +362,17 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 ## Варизираща интертрохантерна остеотомия
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/pauwels-angles.png" data-figure-alt="Ъгъл на Pauwels и валгизираща/варизираща остеотомия" aria-label="Увеличи">
+    <img src="/img/anatomy-8/pauwels-angles.png" alt="Ъгъл на Pauwels и валгизираща/варизираща остеотомия" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Биомеханичен принцип на Pauwels: ъгълът между линията на фрактурата и хоризонталата определя натоварването в шийката (тип I &lt;30°, тип II 30–70°, тип III &gt;70°). Валгизиращата остеотомия преобразува режещите сили в компресивни — основа на McMurray-остеотомия и на варизиращата остеотомия по Pauwels с компресивна кама на Холевич.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray244.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 Варизиращата интертрохантерна остеотомия е показана при вродена сублуксация на тазобедрената става в зряла възраст (профилактично за забавяне на коксартрозата), при coxa valga след болест на Перте с инконгруентност, при паралитична луксация за стабилизация и в детска възраст в комбинация с деротация при остатъчна антеверзия след лечение на ВДТС. Класическата техника на Pauwels изважда от дисталния фрагмент клин с медиална основа и латерален връх с ъгъл, равен на необходимата корекция, последван от адаптация на двете срезни повърхности — за сметка на скъсяване. Алтернативно, без изваждане на клин, дисталният фрагмент се медиализира и аддуцира, като медиалната част на проксималния фрагмент ляга в централната зона на дисталния — намалено скъсяване. Остеосинтезата с 90° АО Г-образна пирон-плака след поставяне на длето-водач (с инструменти за прецизно ориентиране в шийката) осигурява стабилност, която прави следоперативната гипсова имобилизация ненужна и разрешава ставане с помощни средства от 3-ия ден. Компресивната камера на Холевич–Владимиров (3 размера — широка, средна, тясна) използва нагаждащ Г-образен скоба-насочвач и компресивен щифт през канал в кортикалния слой на дисталния фрагмент — постига компресия между фрагментите без необходимост от ригидна плака.
 
 ## Валгизираща интертрохантерна остеотомия
@@ -357,6 +420,16 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 ## Компресивна артродеза по Холевич, по Müller и по Илизаров
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/ilizarov-portrait.jpg" data-figure-alt="Гавриил Илизаров" aria-label="Увеличи">
+    <img src="/img/anatomy-8/ilizarov-portrait.jpg" alt="Гавриил Илизаров" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Гавриил Абрамович Илизаров (1921–1992), фотография 1991. Хирург от Курган (РСФСР), изобретател на пръстеновидния външен фиксатор и принципа на дистракционна остеогенеза, който революционизира лечението на костна загуба, удължаване на крайниците, псевдоартроза и инфекция. В българската школа апаратът намира приложение в компресивната тазобедрена артродеза, в Bogoraz-Iliev сегментна тазобедрена дистракция и при тибиална/феморална реконструкция.</span>
+    <span class="md-figure-attribution"> · Prof. B.-D. Partecke, <a href="https://commons.wikimedia.org/wiki/File:G.A._Ilisarow_(1991).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Компресивната артродеза по Холевич (българска школа) използва специален инструментариум — пирони с различна дължина (15–22 cm), центриращ канала инструмент, борер 8 mm и натягач — за поставяне на два пирона: единият през трохантера, шийката и главата в os ilium, вторият по-проксимално, кръстосан с първия — постигат се средно 14–16 kg компресия и стабилност, позволяваща ставане на 5–7-ия ден без гипс. Пироните се изваждат след 6–8 месеца. Компресивната артродеза по Müller (M. E. Müller) използва латерален достъп с дезинсерция на абдукторите и проникване между m. tensor fasciae latae и m. gluteus medius, обработка на шийката и главата и поставяне на специална пластина за компресивна синтеза — позволява ставане с патерици от 5-ия ден и пълно натоварване след 3-ия месец. Компресивната артродеза с външен фиксатор по Илизаров използва двустранна костна тракция с обръчи (два дистални обръча на бедрото и два проксимални — единият със спици през хълбочната кост над ацетабулума, втория през crista iliaca под spina iliaca anterior superior) с шпилки за компресия — особено полезна при значителна костна загуба или активна инфекция, при които вътрешна метална фиксация е противопоказана.
 
 ## Извънставни илио-трохантерни и ишио-феморални артродези
@@ -393,6 +466,37 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 Еднополюсното ендопротезиране е въведено от F. A. Moore (1945) — модифицирано впоследствие от Thompson и други автори. Показанията днес са ограничени до: фрактури на бедрената шийка при пациенти над 75 г. с ограничена очаквана продължителност на живота; псевдоартрози или асептични некрози на бедрената глава с интактен ацетабулум; неуспех на остеосинтеза при възрастни пациенти с висок риск за повторна операция. Двата основни модела са: Moore-Austin (с дълго стъбло с фенестрации и яка) — за механична фиксация; и Thompson (с по-къс стъбло и яка) — обикновено циментирана. Достъпът най-често е заден тип Moore. Главата се избира по размер с измерване в ацетабулума; ориентация — 10–15° антеверзия (паралелно на сгънато под 90° коляно). При остеопоротична кост или твърде широк канал протезата се циментира — иначе се вклинява механично. Външните ротатори се пришиват обратно на мястото си. Ставане с две помощни средства от няколко дни, пълно натоварване — 3–4 месеца следоперативно.
 
 ## Тотално ендопротезиране — Charnley, McKee–Farrar, Müller, Wagner, Ring, Sivash, Герчев
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/charnley-lathe.jpg" data-figure-alt="Стругът на Sir John Charnley" aria-label="Увеличи">
+    <img src="/img/anatomy-8/charnley-lathe.jpg" alt="Стругът на Sir John Charnley" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Оригиналният струг на Sir John Charnley (≈1960), използван за ръчно изработване на ранните ацетабуларни чашки от полиоксиметилен (по-късно UHMWPE) за концепцията „нискотрение" (low-friction arthroplasty). Този инструмент бележи раждането на съвременния стандарт за тотално тазобедрено ендопротезиране и за биомеханичния принцип, върху който всички последвали системи (McKee-Farrar 1951, Müller 1968, Wagner 1978, Sivash 1958, Герчев BG) се изграждат.</span>
+    <span class="md-figure-attribution"> · Museumjack, <a href="https://commons.wikimedia.org/wiki/File:Lathe_used_by_Sir_John_Charnley_to_make_cups_for_hip_replacements.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-surrounding-structures.png" data-figure-alt="Структури около тазобедрената става" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip-surrounding-structures.png" alt="Структури около тазобедрената става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Структури, заобикалящи дясната тазобедрена става (Gray): m. iliopsoas, бедрен съдов сноп и n. femoralis отпред; късите ротатори и n. ischiadicus отзад; abductors латерално. Тази архитектура определя анатомичните рискове на трите класически достъпа за тотално ендопротезиране — преден (n. cutaneus femoris lateralis), латерален (n. gluteus superior), заден (n. ischiadicus).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray344.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/tha-zones.svg" data-figure-alt="DeLee–Charnley и Gruen зони за оценка на ТБС-ендопротезата" aria-label="Увеличи">
+    <img src="/img/anatomy-8/tha-zones.svg" alt="DeLee–Charnley и Gruen зони за оценка на ТБС-ендопротезата" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Зоните по DeLee и Charnley (ацетабуларна чашка — 3 зони) и по Gruen (бедрено стъбло — 7 зони) за стандартизирана рентгенографска оценка на разхлабване, остеолиза и тънка лустеcent линия около тоталната ТБС-ендопротеза — биомеханичното наследство на нискотрението на Charnley (1962).</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_prosthesis_zones_by_DeLee_and_Charnley_system,_and_Gruen_system.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 Първите опити за заместване и на ацетабулума, и на главата с ендопротеза са свързани с имената на Wiles (1936), McKee (1951), Sivash (1958) и Charnley (1960). Charnley въвежда фундаменталната концепция за нискотрение (low-friction arthroplasty): малка метална глава 22 mm срещу полиетиленова чашка с висока плътност, фиксирани с акрилен цимент. McKee–Farrar използва метално-метална артикулация (метална главичка срещу метална чашка с винтова фиксация в трите ацетабуларни кости — os pubis, os ischii, os ilium); техниката е изоставена в края на 1970-те поради асептично разхлабване и проблеми с металните йони. Müller въвежда самофиксиращата ацетабуларна чашка и стандартизира стандартите за ориентация (45° на чашката в наклон, 10–20° антеверзия). Ring разработва металната ацетабуларна капсула с прорези за костна интеграция (1970-те) — предшественик на безциментния стандарт. Wagner разработва коничното стъбло (Zweimüller-тип) и по-късно — повърхностното ендопротезиране (resurfacing). Сиваш (Москва) комбинира стъбло и ацетабулум в обща стандартна тазобедрена ендопротеза — широко използвана в Източния блок.
 
@@ -477,6 +581,17 @@ Wagner разработва (1978) ендопротезирането без о�
 При ненаместена луксация: заден достъп тип Moore с тъпо разделяне на влакната на m. gluteus maximus; идентифициране на n. ischiadicus и защита; откриване на разкъсаната капсула; репозиция чрез директна манипулация; директна екстензия за 45–60 дни. При ненаместен заден ръб на ацетабулума: заден достъп, репозиция и фиксация на фрагмента с два винта (виж и Тема Травма-12 за класификацията по Letournel). При ненаместена фрактура на главата (тип Pipkin): предно-страничен достъп между m. sartorius и m. tensor fasciae latae с прерязване на m. rectus femoris и подбутване на a. circumflexa femoris medialis; визуализация на главата при ротация и флексия; фиксация на фрагмента с винтове, потопени под хрущяла, или ексцизия при малък ненатоварващ фрагмент. При централна луксация (luxatio coxae centralis) — пробиване на дъното на ацетабулума с медиализация на главата — техниката на Тенев използва специален винт 12–13 cm с два нареза през трохантера до бедрената глава с външно фиксиране в гипсова превръзка за латерализация на главата.
 
 ## Фрактури на бедрената шийка — остеосинтеза
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-neck-osteosynthesis.jpg" data-figure-alt="Канюлирани винтове и DHS за фрактура на бедрената шийка" aria-label="Увеличи">
+    <img src="/img/anatomy-8/femoral-neck-osteosynthesis.jpg" alt="Канюлирани винтове и DHS за фрактура на бедрената шийка" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Остеосинтеза на фрактура на бедрената шийка: три канюлирани винта в перфектен триъгълник (концепцията на Smith-Petersen с тригранен пирон и нейната съвременна еволюция) или динамичен тазобедрен винт (DHS) при базиоцервикални и стабилни интертрохантерни фрактури.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_fracture_classification.jpg" target="_blank" rel="noopener noreferrer">CC0</a></span>
+  </figcaption>
+</figure>
+
 
 Аддукционният (варусен, Pauwels III) тип счупване на бедрената шийка винаги изисква оперативно лечение поради 100% риск от псевдоартроза при консервативно лечение. Абдукционният (валгусен, Pauwels I) тип може да се лекува консервативно, но рискът от вторично разклиняване в гипса диктува остеосинтеза. В детската възраст счупванията се остеосинтезират с киршнерови игли поради риск от редислокация в гипса.
 

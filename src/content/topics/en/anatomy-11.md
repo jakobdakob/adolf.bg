@@ -14,6 +14,36 @@ The ankle and foot together form an intricate anatomical complex with 28 bones, 
 ## Bony Anatomy
 
 <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/foot-bones-dorsal.svg" data-figure-alt="Bones of the foot, dorsal view" aria-label="Enlarge">
+    <img src="/img/anatomy-11/foot-bones-dorsal.svg" alt="Bones of the foot, dorsal view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Bones of the right foot, dorsal view (DBCLS): the tarsals (talus, calcaneus, navicular, cuboid, three cuneiforms), 5 metatarsals, and 14 phalanges. The tarsometatarsal joint line (Lisfranc) is an arch-stabilising articulation; the Chopart joint (talonavicular + calcaneocuboid) is the disarticulation point of the classical Chopart amputation.</span>
+    <span class="md-figure-attribution"> · DataBase Center for Life Science (DBCLS), <a href="https://commons.wikimedia.org/wiki/File:202110_Dorsal_view_of_bones_of_right_foot.svg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/subtalar-joint.svg" data-figure-alt="Subtalar joint" aria-label="Enlarge">
+    <img src="/img/anatomy-11/subtalar-joint.svg" alt="Subtalar joint" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Subtalar (talocalcaneal) joint — three articular facets: anterior, middle and posterior. Henke axis of rotation (42° in the sagittal plane, 16° in the transverse plane) allows triplanar pronation-supination. The classical Grice-Green (1952) extra-articular subtalar arthrodesis — a tricortical iliac graft between cancellous blocks in calcaneus and talus — is standard for paediatric pes plano-valgus from polio and cerebral palsy.</span>
+    <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Subtalar_Joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/foot-bones-gray.png" data-figure-alt="Foot bones — classical Gray plate" aria-label="Enlarge">
+    <img src="/img/anatomy-11/foot-bones-gray.png" alt="Foot bones — classical Gray plate" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Classical Gray plate (1918) of the foot bones: dorsal view showing the navicular tuberosity, the Chopart joint line, and the projection of the tibialis posterior tendon onto the navicular tuberosity — the anatomical substrate of acquired flatfoot from tibialis posterior dysfunction (Watkins-Barr transfer).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray446.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-foot.jpg" data-figure-alt="Ankle and foot anatomy" aria-label="Enlarge">
     <img src="/img/anatomy-11/ankle-foot.jpg" alt="Ankle and foot anatomy" loading="lazy" decoding="async" />
   </button>
@@ -197,6 +227,16 @@ The foot has 9 compartments (medial, central, lateral, calcaneal, and four inter
 
 ## Lateral Ankle Instability Surgery
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/deltoid-ligament-stress.jpg" data-figure-alt="Stress radiograph of the ankle with deltoid ligament tear" aria-label="Enlarge">
+    <img src="/img/anatomy-11/deltoid-ligament-stress.jpg" alt="Stress radiograph of the ankle with deltoid ligament tear" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Stress radiograph of the ankle with a deltoid ligament tear: medial shift of the talus relative to the medial malleolus >4 mm confirms medial instability. In a Lauge-Hansen SER-IV rotational lateral malleolar fracture this dictates stable osteosynthesis of the lateral malleolus plus assessment of the deltoid ligament. Classical lateral instability reconstructions: Watson-Jones, Chrisman-Snook, Brostrom-Gould, Staples-Black-Brostrom, and the Bulgarian Kopchev modification.</span>
+    <span class="md-figure-attribution"> · Maulik S Patel, Radiopaedia, <a href="https://commons.wikimedia.org/wiki/File:Stress-view-of-ankle-with-deltoid-ligament-tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 For acute lateral ligament injury, operative indication is based on stress radiographs: lateral talar tilt of more than 10° or anterior subluxation of the talus. The classical Bulgarian criterion of Hackenbruch and Hoesterberg (1966) requires more than 6 mm of lateral joint opening.
 
 The Staples-Black-Brostrom technique uses an L-shaped skin incision over the lateral malleolus; the ATFL and CFL are repaired directly with non-absorbable sutures through bone tunnels in the fibula for pure avulsion injuries. The Brostrom-Gould modification adds augmentation with the lateral extensor retinaculum, transferred proximally over the repair.
@@ -238,6 +278,16 @@ For severely comminuted pilon fractures the principle of M. E. Müller (1970) is
 
 ## Talar Fractures
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/talus-anatomy.jpg" data-figure-alt="Talus — posterior face, anatomic specimen" aria-label="Enlarge">
+    <img src="/img/anatomy-11/talus-anatomy.jpg" alt="Talus — posterior face, anatomic specimen" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Talus, posterior face — anatomic specimen: the posterior process with medial and lateral tubercles (the site of the os trigonum), the posteroinferior facet for the calcaneus, and the non-articulating neck where retrograde branches of the posterior tibial (artery of the tarsal canal), dorsalis pedis (artery of the tarsal sinus), and peroneal arteries enter. Hawkins classification of talar neck fractures (I–IV) — AVN risk rises from 0% in I to almost 100% in IV; the "Hawkins sign" (a subchondral lucent line at 6–8 weeks) excludes AVN.</span>
+    <span class="md-figure-attribution"> · Danvasilis, <a href="https://commons.wikimedia.org/wiki/File:Talus,_posterior_face.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 For talar neck fracture a medial osteotomy approach or combined dual approach (anteromedial + anterolateral) is used; anatomic reduction and fixation with two cancellous screws or a screw-and-wire combination (Ikonomov technique) — from medial-distal toward dorsal into the trochlea. The approach spares the medial and plantar nutrient branches of the posterior tibial artery and the tarsal branch of the dorsalis pedis. For talar body fractures — a medial trans-malleolar approach with osteotomy of the medial malleolus and screw or K-wire fixation. For posterior process fractures — a posterolateral incision between the Achilles and peroneal tendons with dorsal capsulotomy and fixation with microscrews or K-wire.
 
 For comminuted talar fracture, primary astragalectomy is classically performed. To prevent shortening and instability, H. C. Blair (1943) proposed a tibiotalar arthrodesis with a cortical graft from the anterior distal tibia, slid into a preformed slot in the talar neck — Blair's technique remains a historical option, clinically applicable when the talar head and neck are relatively preserved.
@@ -273,6 +323,16 @@ Relative contraindications: severe deformity (>20° varus or valgus), prior infe
 
 ### Plantar Fasciotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/plantar-fascia.svg" data-figure-alt="Plantar fascia and arches of the foot" aria-label="Enlarge">
+    <img src="/img/anatomy-11/plantar-fascia.svg" alt="Plantar fascia and arches of the foot" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Plantar aponeurosis with medial, central, and lateral bands radiating from the calcaneal tuber to the bases of the proximal phalanges. The plantar fascia is the static supporter of the medial longitudinal arch; its contracture contributes to pes cavus and is the target of Steindler stripping, while the dropped medial arch (pes planus) and the high medial arch (pes cavus) are the anatomical end-points guiding indications for calcaneal osteotomy (Dwyer), arthrodesis, and tendon transfers.</span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Plantar_fascia.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 Transverse plantar fasciotomy (Steindler stripping in its classical form) is used in pes cavus as part of soft-tissue correction. A 3–4 cm incision is made along the plantar-medial border in the middle third of the foot; the medial border of the fascia is identified, separated from the subcutaneous tissue and underlying muscles, and at passive dorsiflexion (which tightens the fascia) it is transected across its full width. Experienced surgeons may perform a closed fasciotomy with a tenotome.
 
 Detachment of the plantar fascia and short plantar flexors from the calcaneal tuberosity per Steindler is the key step in operative correction of rigid pes cavus. Through a medial incision curving toward the calcaneal tuberosity (no more than 3–4 cm to avoid injuring the medial plantar nerve), a scalpel and periosteal elevator are advanced along the medial and plantar surfaces of the calcaneus. The muscles are elevated with a retractor, the scalpel slides along the bone, and the plantar fascia plus the short plantar muscles (abductor hallucis, flexor digitorum brevis, abductor digiti minimi) are detached as a single muscle-fascial block from the tuber.
@@ -303,6 +363,16 @@ Posterior tenodesis of Zatsepin: a flap from the medial half of the Achilles is 
 
 ## Achilles Tendon Lengthening
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/achilles-rupture.jpg" data-figure-alt="Achilles tendon rupture" aria-label="Enlarge">
+    <img src="/img/anatomy-11/achilles-rupture.jpg" alt="Achilles tendon rupture" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spontaneous Achilles tendon rupture, typically 4–6 cm proximal to the calcaneal insertion — characteristic in men aged 40–50 during sporting activity. Palpable gap sign and a positive Thompson test (absent plantar flexion on triceps surae compression). Operative treatment: percutaneous suture (Cuneo-Bunnell-Ma), open Krackow-Mayo repair, or V–Y advancement (Abraham-Pankovich) for chronic ruptures with a defect.</span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
 For fixed equinus deformity in pes equinus, recurrent clubfoot, spastic cerebral palsy without fibrotic triceps surae, residual polio deformities, and congenital shortening.
 
 Open Z-lengthening: a 10 cm posteromedial incision; the Achilles is dissected and Z-cut in the sagittal or frontal plane, the distal cut in the posteromedial half (protecting the medial vascular supply) and the proximal in the posterolateral. After passive dorsiflexion the two limbs are sutured at controlled lengthening with horizontal mattress sutures.
@@ -320,6 +390,16 @@ Phelps' tibial nerve neurectomy is an alternative in spastic equinus deformity w
 Stoffel described selective peripheral motor neurectomy on the same principle — only the hyperactive motor branches are cut, the test performed with bipolar stimulation and visible contraction.
 
 ## Correction of Pes Excavatus and Pes Equino-Varus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/clubfoot.jpg" data-figure-alt="Congenital pes equino-varus (clubfoot) — clinical photograph" aria-label="Enlarge">
+    <img src="/img/anatomy-11/clubfoot.jpg" alt="Congenital pes equino-varus (clubfoot) — clinical photograph" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Congenital pes equino-varus (clubfoot): the four components by the CAVE mnemonic — Cavus (a high medial arch from plantar flexion of the first metatarsal), Adductus (forefoot adduction), Varus (hindfoot varus), and Equinus (subtalar and ankle equinus). The classical Ponseti corrective sequence follows exactly this hierarchy: cavus first, then adductus and varus by serial casting, and finally equinus by percutaneous Achilles tenotomy.</span>
+    <span class="md-figure-attribution"> · Dr. Rajatsubhra, <a href="https://commons.wikimedia.org/wiki/File:CTEV_pre_management.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
+  </figcaption>
+</figure>
 
 The classical Codivilla method (1906) is staged in three. Stage I: a medial longitudinal incision from the first metatarsal, curving around the medial malleolus and continuing proximally along the leg; lengthening of the tibialis posterior and flexor digitorum longus, opening of the talonavicular, naviculocuneiform and cuneo-metatarsal joints from the medial side, transection of the contracted deltoid ligament. Stage II: lateral opening of the calcaneocuboid joint and, when necessary, of the subtalar joint; if resistance is encountered — Z-lengthening of the Achilles and posterior capsulotomy. Stage III: passive correction of the foot into neutral, followed by anatomic restoration of the tendons with appropriate lengthening. Immobilisation for 4–6 weeks.
 
@@ -339,6 +419,16 @@ The Stöffel staged correction is indicated in adolescents and adults with very 
 </aside>
 
 ## Correction of Pes Plano-Valgus
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/flat-feet.jpg" data-figure-alt="Pes planus — clinical view" aria-label="Enlarge">
+    <img src="/img/anatomy-11/flat-feet.jpg" alt="Pes planus — clinical view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Bilateral pes plano-valgus — collapse of the medial longitudinal arch with heel valgus. Classification: flexible (paediatric; rarely requires surgery) vs. rigid (tarsal coalition, post-traumatic, neurogenic). Treatment ladder: orthotic insole → Achilles lengthening → medial soft-tissue procedures (Karchinov-Young, Lowman, Miller-Niedereker), calcaneal osteotomy (Evans lengthening, Koutsogiannis medialising), silicon/screw arthroereisis (MBA) in paediatric cases; Grice-Green extra-articular subtalar arthrodesis for rigid paediatric pes plano-valgus.</span>
+    <span class="md-figure-attribution"> · Χαράλαμπος Γκούβας, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 In true congenital pes plano-valgus (vertical talus, congenital "rocker-bottom"), the talus is rotated plantar-medially, its head dislocated medioplantar from the navicular. Classical open reduction requires repositioning the talus in the mortise, replacing the navicular in front of the talar head, and correcting calcaneal pronation.
 
@@ -402,6 +492,16 @@ Haglund's disease (posterior superolateral calcaneal exostosis with retrocalcane
 
 ## Hallux Valgus Correction
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/hallux-valgus.jpg" data-figure-alt="Hallux valgus — radiographic HVA and IMA angles" aria-label="Enlarge">
+    <img src="/img/anatomy-11/hallux-valgus.jpg" alt="Hallux valgus — radiographic HVA and IMA angles" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Hallux valgus: anteroposterior radiograph of the foot with a dorsomedial exostosis ("bunion"), lateral deviation of the great toe, and medial deviation of the first metatarsal. Key angles: the hallux valgus angle (HVA, between the longitudinal axes of the proximal phalanx and first metatarsal; normal &lt;15°) and the intermetatarsal angle (IMA, between the first and second metatarsals; normal &lt;9°). Choice of osteotomy (chevron, scarf, basal closing-wedge after Boychev, opening-wedge medial cuneiform after Tchokanov, Lapidus) is guided by the magnitude of the IMA.</span>
+    <span class="md-figure-attribution"> · Personalo, <a href="https://commons.wikimedia.org/wiki/File:Painful_hallux_valgus.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Hallux valgus correction requires elimination of the first metatarsal varus, correction of the hallux valgus angle, potential sesamoid repositioning, and preservation of muscle balance.
 
 Boychev method (fig. 353): for mild deformities that are passively correctible. A medial longitudinal incision from the hallux to the navicular, around the dorsal exostosis. The bursa is excised, the MTP-1 is opened, the exostosis is resected from the sagittal sulcus separating it from the head. Just below the metatarsal head a medially based closing wedge is excised, sized to fully correct the valgus. Arcuate closing of the osteotomy corrects the hallux. Stabilisation — a single transverse suture between the I and II MTP capsules, with K-wire or splint fixation.
@@ -453,6 +553,16 @@ Sharp transmetatarsal amputation: longer plantar flap covering the stump; metata
 Chopart disarticulation (between the midtarsal and tarsal bones): removes the dorsiflexor function while preserving the Achilles insertion, causing the residual foot to drift progressively into equinus deformity. Technical approach — transverse incision along the projection of Chopart's joint; opening of the talonavicular and calcaneocuboid joints; division of capsules and plantar ligaments. Concurrent Achilles transfer anteriorly to the talar neck is recommended for neutralisation (Boyd adds talocalcaneal arthrodesis for added stability). Because of the equinus and plantar ulcer risk, Chopart is often abandoned in favour of transmetatarsal or Syme amputation.
 
 Lisfranc disarticulation (between the tarsals and metatarsals): on the Hey-Lisfranc principle, with a longer plantar flap; division of Lisfranc's ligament and resection of the second metatarsal base if preserved.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/lisfranc-line.png" data-figure-alt="Lisfranc line — radiographic analysis" aria-label="Enlarge">
+    <img src="/img/anatomy-11/lisfranc-line.png" alt="Lisfranc line — radiographic analysis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anatomy of the Lisfranc joint: the medial border of the second metatarsal should align with the medial border of the intermediate cuneiform, and the lateral border of the fourth metatarsal with the lateral border of the cuboid. Any displacement greater than 2 mm requires reduction and fixation. Classical treatment of Lisfranc injury: ORIF with screws or a bridge plate (Eisenstadt), or primary arthrodesis in severe cases.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LisFranc_line.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 Syme transankle amputation (1842): essential prerequisite — the plantar heel skin must be fully preserved and vascularised. The incision begins at one malleolus, encircles the heel from the plantar surface, and ends at the tip of the other malleolus; from here it turns over the anterior ankle and joins the start. The anterior half of the joint is opened; the foot is forced into maximal plantar flexion and the joint opened panoramically; the talofibular, deltoid and Achilles ligaments are sequentially divided. The foot is removed together with the talus and calcaneus, preserving the cutaneous-fat heel pad with full vascular supply from plantar branches of the posterior tibial artery. Both malleoli are transversely cut at their bases, leaving a small cartilage-bearing tibial articular zone. The skin flap is rotated upward and anteriorly and sutured to the anterior flap. The alternative "high Syme" resects the tibia above its articular surface. Syme is convenient, reliable, and provides a limb with natural heel support for prosthetic fitting — the standard for diabetic forefoot gangrene with intact plantar circulation and for severe congenital deformities.
 

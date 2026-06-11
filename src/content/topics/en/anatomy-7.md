@@ -23,11 +23,51 @@ The pelvis presents the orthopedic surgeon with one of the most complex regional
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-anatomy.png" data-figure-alt="Pelvic ring with acetabulum, ilium, ischium, pubis, sacroiliac joint" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvis-anatomy.png" alt="Pelvic ring with acetabulum, ilium, ischium, pubis, sacroiliac joint" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior view of the pelvic ring: ilium, ischium and pubis fused at the acetabulum through the triradiate cartilage; sacrum and sacroiliac joints posteriorly; pubic symphysis anteriorly. The anatomical basis for the AO/Tile and Letournel classifications of pelvic and acetabular fractures.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray241.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The pelvic ring comprises two innominate bones (each formed by the fusion of the ilium, ischium, and pubis at the triradiate cartilage) and the sacrum, joined anteriorly at the pubic symphysis and posteriorly at the sacroiliac (SI) joints. The detailed anatomy was addressed in Topics Trauma-19 (pelvic ring) and Trauma-20 (acetabulum). The principal bony landmarks relevant to surgical approaches include: Iliac crest: The superior margin of the ilium, palpable from the ASIS anteriorly to the PSIS posteriorly. The crest provides the bony graft donor site classically used for bone harvesting. Anterior superior iliac spine (ASIS): The anterior projection at the anterior end of the iliac crest. The origin of the sartorius and the inguinal ligament. The lateral end of the inguinal ligament attaches here. Anterior inferior iliac spine (AIIS): Just below the ASIS. The origin of the direct head of the rectus femoris. Posterior superior iliac spine (PSIS): The posterior projection at the posterior end of the iliac crest. Often marked by a dimple in the overlying skin. Posterior inferior iliac spine (PIIS): Just below the PSIS. Greater sciatic notch: The large posterior notch between the PIIS and the ischial spine, transmitting the sciatic nerve and other structures. Lesser sciatic notch: Between the ischial spine and the ischial tuberosity, transmitting the obturator internus, pudendal nerve, and pudendal vessels.
 
 Ischial spine: The bony projection at the junction of the body and ramus of the ischium. Ischial tuberosity: The “sit bone”, the inferior weight-bearing portion of the ischium. The origin of the hamstrings. Pubic tubercle: The bony projection on the superior pubic ramus, lateral to the symphysis. The medial end of the inguinal ligament attaches here. Iliopectineal eminence: The bony prominence at the junction of the ilium and the superior pubic ramus, marking the location of the iliopectineal line on the pelvic brim. Pelvic brim (linea terminalis): The continuous line from the sacral promontory across the iliopectineal line to the pubic tubercle, separating the true pelvis (below) from the false pelvis (above). Quadrilateral surface: The flat bone of the medial acetabular wall facing into the true pelvis. Visualized through the anterior intrapelvic approach.
 
 ## Pelvic Topography in the Classical Bulgarian School
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvic-inlet.png" data-figure-alt="Pelvic inlet (superior aperture)" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvic-inlet.png" alt="Pelvic inlet (superior aperture)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Pelvic inlet (apertura pelvis superior) with the classical diameters: anteroposterior ("conjugata vera" from sacral promontory to the upper border of the symphysis), transverse and oblique. The pelvic brim (linea terminalis = arcuate + pectineal line + pubic crest + symphysis) defines the surgical boundary between greater and lesser pelvis and is the key landmark of the ilioinguinal approach of Letournel.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray238.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-anterior-articulations.png" data-figure-alt="Anterior pelvic articulations" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvis-anterior-articulations.png" alt="Anterior pelvic articulations" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Anterior articulations of the pelvis (after Quain): the pubic symphysis with the arcuate ligament of the pubis and the superior pubic ligament — the anatomic basis for the Tile classification of pelvic ring injuries (B1 — symphyseal "open book" with disruption of sacrospinous/sacrotuberous ligaments; B2 — closed book with internal rotation).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray319.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/sacroiliac-joint.svg" data-figure-alt="Sacroiliac joint" aria-label="Enlarge">
+    <img src="/img/anatomy-7/sacroiliac-joint.svg" alt="Sacroiliac joint" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sacroiliac joint — the principal posterior component of the pelvic ring. The anterior SI ligament, the short posterior SI ligaments, the long posterior SI ligament, the iliolumbar ligament and the sacrotuberous/sacrospinous complex determine stability. Their disruption (Tile C) demands percutaneous or open iliosacral screw fixation by Zatsepin's technique or the modified posterior Berglezov approach.</span>
+    <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Sacroiliac-joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
 
 The classical Bulgarian topographic-anatomical concept, as set out in B. Boychev's *Operative Orthopaedics and Traumatology*, divides the pelvis into the greater pelvis (pelvis major) and the lesser pelvis (pelvis minor), separated by the linea terminalis. The greater pelvis is bounded by the iliac wings and the last lumbar vertebra; the lesser pelvis is bounded by the bodies of the pubis, ilium, and ischium, the sacrum, and the coccyx. The soft tissues covering the pelvis externally belong to the gluteal and femoral regions. The external muscles of the pelvic girdle (glutei, tensor fasciae latae) insert on the proximal femur and drive gait, while the internal muscles — iliopsoas (in the greater pelvis), piriformis, and obturator internus (in the lesser pelvis) — pass through pelvic foramina and also insert on the proximal femur.
 
@@ -56,6 +96,16 @@ The common iliac arteries branch from the abdominal aorta at approximately the l
 ## Lumbosacral Plexus
 
 <figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbar-plexus.svg" data-figure-alt="Lumbar plexus" aria-label="Enlarge">
+    <img src="/img/anatomy-7/lumbar-plexus.svg" alt="Lumbar plexus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lumbar plexus (T12–L4) within the psoas major: iliohypogastric, ilioinguinal, genitofemoral, lateral femoral cutaneous, femoral and obturator nerves. The lumbosacral trunk (L4–L5) connects the two plexuses. Care must be taken with the lateral femoral cutaneous nerve at the iliac crest (Smith-Petersen) and with the obturator nerve in the anterior intrapelvic approach (Stoppa, Letournel).</span>
+    <span class="md-figure-attribution"> · Gray's Anatomy plate via Wikimedia, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_plexus.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/lumbosacral-plexus.png" data-figure-alt="Lumbosacral plexus" aria-label="Enlarge">
     <img src="/img/anatomy-7/lumbosacral-plexus.png" alt="Lumbosacral plexus" loading="lazy" decoding="async" />
   </button>
@@ -79,6 +129,27 @@ Lateral femoral cutaneous nerve (L2-L3): Crosses anterior to the iliacus muscle 
 The lumbar plexus lies within the substance of the psoas muscle and is at particular risk in lateral transpsoas approaches to the lumbar spine (XLIF/LLIF, see [Topic Anatomy-1](/en/anatomy/1/)). The L4 nerve root is the most caudal and is at greatest risk at the L4-L5 level.
 
 ## Ilioinguinal Approach (Letournel)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvis-vertical-section.png" data-figure-alt="Vertical section of the pelvis" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvis-vertical-section.png" alt="Vertical section of the pelvis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Vertical section of the pelvis through the acetabulum: shows the relationship of the acetabular cup to the external iliac vessels anteriorly and the sciatic nerve posteriorly. This visualisation is the basis for understanding the three windows of the ilioinguinal approach (lateral to iliopsoas; between iliopsoas and the vascular bundle; medial to the vascular bundle) and for choosing a single or combined approach in complex both-column acetabular fractures.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray240.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/acetabulum-letournel.png" data-figure-alt="Acetabular column anatomy — Letournel classification basis" aria-label="Enlarge">
+    <img src="/img/anatomy-7/acetabulum-letournel.png" alt="Acetabular column anatomy — Letournel classification basis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Two-column architecture of the acetabulum (anterior and posterior columns, anterior and posterior walls) — the anatomical basis of the Letournel–Judet classification of acetabular fractures (elementary: anterior wall, anterior column, posterior wall, posterior column, transverse; associated: both-column and others).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray235.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 The ilioinguinal approach (Letournel, 1960s) is the classical anterior approach to the pelvis and acetabulum, providing access to the entire anterior column of the acetabulum, the iliac wing, the pelvic brim, the quadrilateral surface (from anterior), and the symphysis pubis. The approach is used for acetabular fracture fixation (anterior column, anterior wall, anterior column with posterior hemitransverse, both-column patterns), iliac wing fracture fixation, pelvic ring fracture fixation (combined with other approaches), tumor resection, and selected revision pelvic procedures.
 
@@ -131,6 +202,17 @@ The skin and subcutaneous tissue are incised. The rectus abdominis is divided in
 The complications include vascular injury (corona mortis, iliac vessels), bladder injury (if the bladder is not adequately drained), obturator nerve injury, and inguinal/femoral hernia (less common than with the ilioinguinal approach).
 
 ## Kocher-Langenbeck (Posterior) Approach
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/gluteal-anatomy.png" data-figure-alt="Gluteal anatomy and sciatic nerve" aria-label="Enlarge">
+    <img src="/img/anatomy-7/gluteal-anatomy.png" alt="Gluteal anatomy and sciatic nerve" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Deep gluteal dissection: piriformis passing through the greater sciatic foramen, sciatic nerve emerging beneath it, and the short external rotators along the intertrochanteric crest — the anatomical basis of the Kocher-Langenbeck approach and its risks.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray434.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 The Kocher-Langenbeck approach is the classical posterior approach to the pelvis and acetabulum, providing access to the posterior wall, posterior column, and the ischial region. The approach is used for posterior wall and posterior column acetabular fracture fixation, transverse and T-shaped fracture fixation (when the posterior column is dominant), open reduction of posterior hip dislocations, and tumor resection of the posterior pelvis.
 
@@ -294,11 +376,33 @@ The superior and inferior gluteal vessels are isolated, ligated well proximally,
 
 ## Notes on Periacetabular and Pelvic Osteotomies
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/pelvic-osteotomies.png" data-figure-alt="Pelvic osteotomy lines (Salter, Pemberton, Chiari)" aria-label="Enlarge">
+    <img src="/img/anatomy-7/pelvic-osteotomies.png" alt="Pelvic osteotomy lines (Salter, Pemberton, Chiari)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Comparative diagram of pelvic osteotomies for hip dysplasia: Salter (single cut from greater sciatic notch to AIIS), Pemberton (pericapsular, hinging on the triradiate cartilage), Chiari (medializing osteotomy above the capsule), and the Steel triple osteotomy.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray236.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+
 The classical periacetabular osteotomies for residual developmental hip dysplasia (DDH) are executed from the pelvic side and are systematically reviewed in Topic Ortho-1. From the pelvic anatomy perspective, the key concepts are: innominate osteotomy after Salter (1961) — a single transverse cut from the greater sciatic notch to the iliopectineal eminence, rotating the distal fragment anterolaterally around the symphysis as a hinge, yielding 15–25° of lateral coverage; ideal in children 18 months to 6 years. Pemberton osteotomy (1965) — incomplete (sparing posterior cortex) pericapsular osteotomy hinging on triradiate cartilage, yielding 25–35° of lateral coverage by remodelling the acetabular cavity itself; applicable until triradiate closure (around 10 years). Steel osteotomy (1973) — triple (ilium + superior pubic ramus + inferior ischial ramus), permitting full acetabular rotation in adolescents and young adults with mature or near-mature skeleton. Dega osteotomy — incomplete inferiorly-based osteotomy hinging on the posterior cortex, conceptually analogous to Pemberton and favoured in the Polish school. Chiari osteotomy — medially-displacing osteotomy above the joint capsule, forming a bony roof over the head as a joint replacement — a salvage in skeletally mature adults where PAO is unsuitable. Ganz periacetabular osteotomy (1988) — quadruple osteotomy (superior pubic ramus, inferior ischial ramus, inferior ilial ramus, posterior columnar cut), allowing full acetabular rotation while preserving the posterior pelvic ring — the modern gold standard in skeletally mature adults with symptomatic dysplasia.
 
 From the pelvic anatomy perspective, all these osteotomies traverse three interrelated zones: the anterosuperior zone containing the femoral nerve within iliopsoas (at risk during retraction); the middle zone containing the obturator nerve at its emergence from the obturator foramen; and the posteroinferior zone containing the sciatic nerve at its emergence below piriformis. The Ganz PAO, the only one performed through a true pelvic approach (anterior part of the Smith-Petersen with infrapelvic osteotomy), demands intra-operative fluoroscopy to confirm that the posterior columnar cuts remain in the safe zone (at least 1 cm from the greater sciatic notch to protect the superior gluteal artery and sciatic nerve).
 
 ## Notes on Iliac Crest Bone Graft Harvesting
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-7/iliac-crest-graft.png" data-figure-alt="Iliac crest as bone graft donor site" aria-label="Enlarge">
+    <img src="/img/anatomy-7/iliac-crest-graft.png" alt="Iliac crest as bone graft donor site" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cross-section and topographic view of the iliac crest — the classical donor site for tricortical and cortico-cancellous autograft. Incision at least 2 cm posterior to the ASIS protects the lateral femoral cutaneous and ilioinguinal nerves; harvest depth ≤2 cm preserves the pelvic ring integrity.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray242.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 
 The iliac crest is the classical donor site for autograft in orthopaedics. The principal technical points: the incision lies along the crest, at least 2 cm posterior to the ASIS — to avoid the lateral femoral cutaneous nerve (passing under the inguinal ligament 1–2 cm medial to ASIS, injury → meralgia paresthetica) and the ilioinguinal nerve. With an anterior approach, a tricortical block (for reconstructive pelvic or spinal procedures) or cortico-cancellous chips may be harvested; with a posterior approach (for spinal fusion), the incision runs along the crest from the PSIS, protecting the superior cluneal nerves (crossing the crest approximately 7–8 cm lateral to midline). Resection depth is limited to about 2 cm below the crest surface, preserving the pelvic ring and avoiding breach into the lesser pelvis; the inner table harvest is typically more problematic owing to iliacus and the neurovascular structures. Harvest-site complications: chronic donor-site pain (5–25%, the most common), meralgia paresthetica, ASIS fracture, herniation through the crest defect (rare but reported), and haematoma.
 

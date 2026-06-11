@@ -25,6 +25,46 @@ The spine, traversing from the base of the skull to the sacrum, presents the ort
 
 The general vertebral pattern includes the vertebral body anteriorly, the vertebral arch posteriorly (with pedicles, lamina, transverse processes, spinous process, and articular processes), and the vertebral foramen between, transmitting the spinal cord and its coverings. The regional variations along the spine reflect functional adaptation: Cervical vertebrae (C1-C7): The bodies are small and shallow; the spinous processes (except C1) are typically short and bifid; the transverse processes contain the foramen transversarium transmitting the vertebral artery (typically C1 through C6, with the artery typically entering at C6); the uncinate processes on the superior surface of C3-C7 form the uncovertebral (Luschka) joints; C1 (atlas) is a ring without a body, articulating superiorly with the occipital condyles; C2 (axis) has the dens (odontoid process) projecting superiorly to articulate with the anterior arch of C1; C7 has a particularly long spinous process (vertebra prominens). Thoracic vertebrae (T1-T12): The bodies are intermediate in size with costal facets (demifacets on the superior and inferior aspects for the heads of the ribs, and a single facet on the transverse process for the tubercle of the rib); the spinous processes are long and angled inferiorly (T5-T8 are the most caudally angled, projecting roughly one vertebral body below their level); the orientation of the facet joints permits limited rotation but restricts flexion-extension. Lumbar vertebrae (L1-L5): The bodies are large; the spinous processes are stout and project posteriorly; mammillary and accessory processes are useful surgical landmarks; the facets are oriented sagittally (permitting flexion-extension) but with progressively more coronal orientation toward L5-S1; L5 has the most caudal position with significant transitional anomalies (lumbarization, sacralization) in approximately 5 percent of the population. Sacrum (S1-S5): Fused vertebrae forming the posterior pelvic ring; the ala (lateral mass), sacral foramina (anterior and posterior), and sacral hiatus are key landmarks; the medial sacral crest is the fusion of the spinous processes.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/atlas-c1.png" data-figure-alt="Atlas (C1) — first cervical vertebra" aria-label="Enlarge">
+    <img src="/img/anatomy-1/atlas-c1.png" alt="Atlas (C1) — first cervical vertebra" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Atlas (C1): a ring without a body, with paired lateral masses bearing the superior facets for the occipital condyles; the foramen transversarium transmits the V3 segment of the vertebral artery, which describes the characteristic suboccipital loop over the posterior arch — a critical landmark for posterior cervical approaches and occipito-cervical fixation.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray86.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/axis-c2.png" data-figure-alt="Axis (C2) with odontoid process (dens)" aria-label="Enlarge">
+    <img src="/img/anatomy-1/axis-c2.png" alt="Axis (C2) with odontoid process (dens)" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Axis (C2) with the odontoid process (dens): a unique morphology that provides the axis of rotation for the head; the transverse ligament of the atlas holds the dens against the anterior arch of C1. Odontoid fracture (Anderson-D'Alonzo type II) is one of the most common craniocervical injuries and dictates operative tactic — posterior C1–C2 fusion or anterior odontoid screw (Böhler).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray87.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/cervical-vertebrae-lateral.png" data-figure-alt="Cervical vertebrae, lateral view" aria-label="Enlarge">
+    <img src="/img/anatomy-1/cervical-vertebrae-lateral.png" alt="Cervical vertebrae, lateral view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cervical vertebrae (C1–C7), lateral view: small, shallow bodies; bifid spinous processes (C3–C6); C7 with a particularly long, single (non-bifid) spinous process (vertebra prominens); the uncinate processes on the superior surface of C3–C7 form the uncovertebral (Luschka) joints; foramina transversaria transmit the vertebral artery from C6 (entry) up to C2.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray91.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/sacral-plexus.svg" data-figure-alt="Sacral plexus" aria-label="Enlarge">
+    <img src="/img/anatomy-1/sacral-plexus.svg" alt="Sacral plexus" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sacral plexus (L4–S4): formed by the anterior rami of L4–L5 (lumbosacral trunk) and S1–S4, lying on piriformis within the lesser pelvis and giving off the sciatic nerve (S1–S3), superior gluteal nerve (L4–S1), and pudendal nerve (S2–S4); knowledge of its topography is critical in sacral fracture management and in anterior or posterolateral sacral approaches.</span>
+    <span class="md-figure-attribution"> · Mcstrother, <a href="https://commons.wikimedia.org/wiki/File:Sacral_plexus_schematic.svg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
+  </figcaption>
+</figure>
+
 ## Anterior Cervical Approach (Smith-Robinson Approach)
 
 The anterior cervical approach — developed by Smith and Robinson (1958) and refined by Cloward and others — is the workhorse approach to the anterior cervical spine for anterior cervical discectomy and fusion (ACDF), corpectomy, anterior cervical plating, and tumor or infection access.
@@ -46,6 +86,16 @@ The patient is supine with the head extended (often supported by a roll under th
   </figcaption>
 </figure>
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/spinal-cord-segments.png" data-figure-alt="Spinal cord with paired spinal roots" aria-label="Enlarge">
+    <img src="/img/anatomy-1/spinal-cord-segments.png" alt="Spinal cord with paired spinal roots" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Spinal cord within its meninges, with the paired anterior and posterior rootlets forming the spinal nerves: cervical (8 pairs), thoracic (12), lumbar (5), sacral (5), and coccygeal; the conus medullaris typically ends at L1–L2, below which the cauda equina continues — the anatomical basis for safe lumbar puncture and for posterior lumbar exposures performed below the conus.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray793.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The key structures encountered include: Skin and platysma muscle: The transverse skin incision is centered on the desired level (using surface landmarks: hyoid bone at C3, thyroid cartilage at C4-C5, cricoid cartilage at C6). Sternocleidomastoid muscle (SCM) retracted laterally. Carotid sheath (containing common carotid artery, internal jugular vein, vagus nerve) retracted laterally with the SCM. Strap muscles (sternohyoid, sternothyroid, omohyoid) retracted medially with the trachea and esophagus. Pretracheal fascia is opened, and the prevertebral fascia is exposed. Esophagus lies posterior to the trachea and must be protected during retraction. Recurrent laryngeal nerve (RLN): The right RLN ascends from the right vagus around the subclavian artery and is more variable in course; the left RLN ascends from the left vagus around the aortic arch and is more consistent. The RLN runs in the tracheoesophageal groove and supplies the intrinsic muscles of the larynx (except the cricothyroid, supplied by the superior laryngeal nerve). RLN injury produces hoarseness and dysphagia; preservation of the RLN is the principal nerve concern in the approach. Sympathetic chain: Lateral to the longus colli muscles, vulnerable to injury during over-lateral dissection. Injury produces Horner’s syndrome (miosis, ptosis, anhidrosis). Longus colli muscles: Bilateral muscles overlying the anterior cervical vertebral bodies; subperiosteal elevation provides access to the bone.
 
 <aside class="callout callout-pearl">
@@ -63,6 +113,26 @@ The incision is transverse along a skin crease at the appropriate level (or long
 </aside>
 
 ## Approaches to the Craniocervical Junction (C1–C2)
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-artery.png" data-figure-alt="Vertebral artery segments" aria-label="Enlarge">
+    <img src="/img/anatomy-1/vertebral-artery.png" alt="Vertebral artery segments" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">The four segments of the vertebral artery: V1 (preforaminal, between longus colli and scalenus anterior), V2 (through the transverse foramina C6–C2), V3 (the characteristic suboccipital loop over the lateral mass of C1 and the posterior arch of the atlas), and V4 (intradural, merging with the contralateral artery to form the basilar artery); the anatomical basis for surgical risk at posterior cervical, occipito-cervical, and lateral cervical approaches.</span>
+    <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Vertebral_artery.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/atlas-axis-from-above.png" data-figure-alt="Atlas and axis viewed from above" aria-label="Enlarge">
+    <img src="/img/anatomy-1/atlas-axis-from-above.png" alt="Atlas and axis viewed from above" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Atlas and axis viewed from above: the dens of C2 articulates with the anterior arch of C1, held dorsally by the transverse ligament of the atlas; head rotation (≈50% of total cervical rotation) occurs at C1–C2; the foramina transversaria of C1 show the curved course of the vertebral artery before the V3 segment — explaining why lateral-mass screws in C1 must follow a convergent, cranially angled trajectory.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray308.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
 The C1–C2 region (atlantoaxial joint, dens, anterior arch of the atlas, clivus) lies beyond the reach of the standard anterior Smith-Robinson approach and demands specialized exposures developed in the late 1950s and 1960s by Robinson and Smith (1955), Bailey-Badgley, Dereymaeker and Müller (1956), Cloward (1958), Fang and Hodgson (1962), and their successors. The choice between transoral, anterior retropharyngeal submandibular, transthyrohyoid, lateral, or posterior access is determined by the location of the pathology (anterior versus posterior column), by whether access to the clivus or only to the body of the axis is required, and by the presence of instability requiring concurrent posterior stabilization — which for most anterior upper-cervical procedures is mandatory as a second stage.
 
@@ -138,6 +208,26 @@ The anatomical hazard during suboccipital dissection is the vertebral artery in 
 
 The classical first stage in cervical fracture-dislocation is closed reduction by skeletal traction. The tongs for direct extension — introduced by G. Smith but bearing the name of Crutchfield (with Barton, Blackburn, and Vinke as alternatives) — are placed over the parietal eminences with about 10–11 cm between the two pins, each penetrating the lateral cortex of the skull to a depth of about 4 mm. The pins must not perforate the inner cortex (risk of epidural hematoma or sinus penetration). Progressive weight is applied from 2.5 kg to 6–8 kg (about 1 kg per cervical level for the lower cervical injuries) under radiographic check every 30 minutes.
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/halo-brace.png" data-figure-alt="Halo brace for cervical immobilization" aria-label="Enlarge">
+    <img src="/img/anatomy-1/halo-brace.png" alt="Halo brace for cervical immobilization" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Halo apparatus for cervical traction and stabilization: four-point skull fixation (two parietal and two frontal pins) with a ring connected to a chest vest by vertical uprights; the classical Bulgarian Kaimakchiev-Tanchev-Stefanov design (1982) uses a tapered ring (smaller upper than lower diameter) that allows perpendicular pin insertion for more stable purchase.</span>
+    <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Halo_Brace.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/cervical-spine-mri.jpg" data-figure-alt="Sagittal cervical spine MRI" aria-label="Enlarge">
+    <img src="/img/anatomy-1/cervical-spine-mri.jpg" alt="Sagittal cervical spine MRI" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Sagittal T2-weighted MRI of the cervical spine — shows the vertebral bodies, intervertebral discs, spinal cord within its meningeal sheath, and the craniocervical junction; a mandatory study after severe cervical trauma to detect cord edema, disc injury, and ligamentous injury (SCIWORA syndrome).</span>
+    <span class="md-figure-attribution"> · Nevit Dilmen, <a href="https://commons.wikimedia.org/wiki/File:Cervical_MRI_R_T1WFSE_G_T2WfrFSE_STIR_B_07.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
 Halo traction provides four-point fixation (the two parietal pins plus two frontal pins above the eyebrows, placed in the lateral third of the brow to avoid the supraorbital and supratrochlear nerves). In Bulgaria, the halo was introduced by G. Kaimakchiev, P. Tanchev, and L. Stefanov (1982) in a design with a smaller upper than lower diameter, allowing the pins to be inserted perpendicular to the skull surface for more stable purchase.
 
 The traction-response test distinguishes a torn from a locked facet: progressive traction up to 8 kg over 24 hours reduces a fractured facet (the elements return as the blocking geometry is unloaded) but does not reduce a locked (jumped) facet — the latter almost always requires open reduction or direct manipulation under fluoroscopy. The acceptable residual shortening after reduction is under 3 mm in order to preserve the sagittal canal diameter.
@@ -177,6 +267,16 @@ The anterior thoracic spine is accessed primarily for vertebral body pathology (
 
 ## Thoracotomy
 
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/thoracic-vertebra.png" data-figure-alt="Thoracic vertebra, lateral view" aria-label="Enlarge">
+    <img src="/img/anatomy-1/thoracic-vertebra.png" alt="Thoracic vertebra, lateral view" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Typical thoracic vertebra, lateral view: costal facets (demifacets on the superior and inferior edge of the body for the rib heads; a single facet on the transverse process for the rib tubercle); long, caudally angled spinous processes (T5–T8 project ~1 level below their own body) — important for thoracotomy incision planning, costotransversectomy, and intra-operative level identification.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray112.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
 The classical thoracotomy approach to the thoracic spine uses a lateral position with the convex side of the deformity (or the side of pathology) up. The skin incision parallels a rib
 
 (typically two ribs above the desired level, since the ribs angle caudally). The latissimus dorsi, trapezius, and rhomboid muscles are divided or retracted; the serratus anterior is divided to expose the chest wall. A subperiosteal rib resection (or rib spreader without resection for some procedures) provides chest entry. The lung is deflated (using a double-lumen endotracheal tube for selective ventilation). The parietal pleura is opened over the vertebral body, with the segmental vessels identified and ligated, and the vertebral body is exposed. The right-sided approach is generally preferred for the upper and middle thoracic spine because the heart is away from the operative field; the left-sided approach is preferred for the thoracolumbar junction (T11-L2) because the diaphragm is more accessible on the left and the aorta provides a more pulsatile and identifiable landmark than the inferior vena cava on the right. The complications of the thoracotomy approach include chest wall pain (a substantial concern with the muscle-splitting approach; muscle-sparing thoracotomy has been developed to reduce this), pleural effusion (managed with chest drain), pneumonia and atelectasis, chylothorax (with thoracic duct injury at the upper levels), and intercostal nerve injury (with persistent pain).
@@ -214,6 +314,16 @@ The anterior lumbar spine is accessed for anterior lumbar interbody fusion (ALIF
   <figcaption>
     <span class="md-figure-caption">Sagittal T2 MRI of the lumbar spine: normal disc height and signal, physiological lordosis, spinal canal; the basis for planning an anterior retroperitoneal approach and assessing disc degeneration.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Lumbar_spine_140439_rgbca.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/disc-herniation-mri.svg" data-figure-alt="Lumbar disc herniation MRI schematic" aria-label="Enlarge">
+    <img src="/img/anatomy-1/disc-herniation-mri.svg" alt="Lumbar disc herniation MRI schematic" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Lumbar disc herniation, schematic MRI representation: an extruded disc fragment compresses a transiting nerve root in the lateral recess and/or neural foramen. The surgical indication for discectomy (from Caspar 1977 microdiscectomy through Yasargil 1968 microsurgery to the modern endoscopic era) rests on a strict correlation between the clinical radiculopathy and the image; pure axial low-back pain without radiculopathy rarely warrants discectomy.</span>
+    <span class="md-figure-attribution"> · Tonbi_ko, <a href="https://commons.wikimedia.org/wiki/File:Spinal_disc_herniation_MRI.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
@@ -328,6 +438,16 @@ Postoperative principles include antituberculous chemotherapy by contemporary re
 The pediatric spine introduces specific approach considerations: Smaller anatomy: The smaller anatomical scale demands precise technique and appropriate instrumentation. Open growth plates: The cartilaginous endplates and ring apophyses must be respected, particularly in young children. The vertebral body growth occurs at the endplate; the posterior elements grow at the synchondroses (between the lamina, pedicles, and body).
 
 Triradiate-like anatomy at the vertebral level: The neurocentral synchondrosis between the body and the posterior elements is the principal growth zone for the spinal canal; iatrogenic injury produces canal stenosis. Scoliosis correction: The pediatric scoliosis correction ([Topic Orth-14](/en/ortho/14/)) uses both anterior and posterior approaches, with posterior pedicle screw constructs being the modern standard. Anterior approaches are reserved for selected indications (rigid deformity requiring anterior release, very young patients requiring extensive growth modulation). Vertebra plana: In children, eosinophilic granuloma (Langerhans cell histiocytosis) produces the classical vertebra plana deformity that usually heals with observation.
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/scoliosis-cobb.svg" data-figure-alt="Cobb angle measurement in scoliosis" aria-label="Enlarge">
+    <img src="/img/anatomy-1/scoliosis-cobb.svg" alt="Cobb angle measurement in scoliosis" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Cobb method (1948) for measuring scoliotic curvature: the superior endplate of the most-tilted upper end vertebra and the inferior endplate of the most-tilted lower end vertebra define the angle between their perpendiculars. Curves above 50° (skeletally mature) or 45° (skeletally immature) are indications for surgical correction — the same threshold used by the Bulgarian school of V. Tanchev and G. Kaimakchiev for instrumented fusion in adolescent idiopathic scoliosis.</span>
+    <span class="md-figure-attribution"> · Skoliose-Info-Forum.de, <a href="https://commons.wikimedia.org/wiki/File:Scoliosis_cobb.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
 
 ## Summary and Take-Home Points
 

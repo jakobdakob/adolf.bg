@@ -172,7 +172,7 @@ const tJson = JSON.stringify(t);
   data-enemies={enemiesJson}
   data-t={tJson}
 >
-  <div class="kombat-cabinet" data-kombat-cabinet>
+  <div class="kombat-cabinet" data-kombat-cabinet data-kombat-state="menu">
     <!-- Mobile fullscreen toggle. Tries the real Fullscreen API first,
          falls back to a CSS pseudo-fullscreen mode (position:fixed) on
          iPhone Safari which doesn't support the API on non-video els.
@@ -391,14 +391,27 @@ const tJson = JSON.stringify(t);
   };
 
   const overlays = root.querySelectorAll("[data-kombat-screen]");
+  const cabinetEl = root.querySelector("[data-kombat-cabinet]");
+
+  // The cabinet's data-kombat-state drives CSS that decides whether the
+  // HUD + deck render at all. In any non-playing state ("menu", "help",
+  // "leaderboard", "gameover") the screen fills the whole cabinet so the
+  // overlay covers it edge-to-edge — no HUD bleed, no dead black deck.
+  function setCabinetState(name) {
+    if (cabinetEl) cabinetEl.setAttribute("data-kombat-state", name);
+  }
 
   function showOverlay(name) {
     overlays.forEach((o) => {
       if (o.dataset.kombatScreen === name) o.removeAttribute("hidden");
       else o.setAttribute("hidden", "");
     });
+    setCabinetState(name);
   }
-  function hideOverlay() { overlays.forEach((o) => o.setAttribute("hidden", "")); }
+  function hideOverlay() {
+    overlays.forEach((o) => o.setAttribute("hidden", ""));
+    setCabinetState("playing");
+  }
 
   function setDeck(visible) {
     if (els.question) els.question.toggleAttribute("hidden", !visible);
@@ -1108,6 +1121,16 @@ const tJson = JSON.stringify(t);
     box-shadow:
       inset 0 0 22px rgba(0, 0, 0, 0.85),
       inset 0 0 0 2px #000;
+  }
+
+  /* HUD + deck are only meaningful while the player is in a question
+   * round. In menu / help / leaderboard / gameover the cabinet is a
+   * full-bleed overlay container: hide HUD and deck so the menu doesn't
+   * have a dark deck strip below it and the HUD doesn't bleed through
+   * a translucent overlay. */
+  .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-hud,
+  .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-deck {
+    display: none;
   }
 
   .kombat-screen {
@@ -1820,16 +1843,24 @@ const tJson = JSON.stringify(t);
       min-height: 0;
     }
     /* Stage uses 100dvh (dynamic-viewport) so iOS URL-bar resize doesn't
-     * push the answer cards off-screen. The whole cabinet becomes a column
-     * of fixed-height regions that sum to roughly 100dvh so all 4 answers
-     * fit above the fold on a 390×844 iPhone viewport. */
+     * push the answer cards off-screen. Behaviour depends on state:
+     *  - non-playing (menu / help / leaderboard / gameover): screen
+     *    flex:1, fills the whole bezel so the overlay covers cabinet
+     *    edge-to-edge with no dead deck.
+     *  - playing: screen is bounded so the deck has room for the
+     *    question + 4 answer cards underneath. */
     .kombat-screen {
       aspect-ratio: auto;
-      min-height: 44dvh;        /* shrunk from 56vh — fighters get less room */
-      max-height: 48dvh;
       border: 0;
       border-radius: 0;
       box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.85);
+      flex: 1;
+      min-height: 0;
+    }
+    .kombat-cabinet[data-kombat-state="playing"] .kombat-screen {
+      flex: 0 1 auto;
+      min-height: 44dvh;
+      max-height: 48dvh;
     }
     .kombat-hud {
       inset: 4px 6px auto 6px;

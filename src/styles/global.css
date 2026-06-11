@@ -1063,6 +1063,33 @@ html[data-theme="dark"] .btn-viber:hover {
 [data-theme="dark"] .prose .callout-pitfall {
   --pitfall: #E69547;
 }
+.prose .callout-historical {
+  --historical: #6F5A36;
+  border-left-color: var(--historical);
+  background: color-mix(in srgb, var(--historical) 6%, transparent);
+}
+.prose .callout-historical .callout-label { color: var(--historical); }
+[data-theme="dark"] .prose .callout-historical {
+  --historical: #C4A971;
+}
+.prose .callout-historical blockquote {
+  margin: 0.4em 0;
+  padding: 0.2em 0 0.2em 0.9em;
+  border-left: 2px solid color-mix(in srgb, var(--historical) 35%, transparent);
+  font-style: italic;
+  color: var(--ink);
+}
+.prose .callout-historical blockquote p {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.6;
+}
+.prose .callout-historical .callout-source {
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  margin-top: 0.6em;
+  line-height: 1.45;
+}
 .prose .callout > :first-child { margin-top: 0; }
 .prose .callout > :last-child  { margin-bottom: 0; }
 .prose .callout .source {

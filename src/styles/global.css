@@ -128,17 +128,26 @@ body {
   letter-spacing: -0.005em;
 }
 
-/* Chromeless pages (e.g. the game) — kill default body margin so the
- * <main> can fill the dynamic viewport edge-to-edge. */
+/* Chromeless pages (e.g. the game) — kill default body margin and run
+ * a #000 background so the content can host its own framed container.
+ * On phones the body adds a thin gutter (16 px sides, safe-area top +
+ * bottom) so the game cabinet visually floats inside iOS's chrome
+ * instead of jamming against the status bar / URL bar. */
 body.no-chrome {
   margin: 0;
   padding: 0;
   background: #000;
   overscroll-behavior: contain;
+  box-sizing: border-box;
 }
 body.no-chrome #main {
   margin: 0;
   padding: 0;
+}
+@media (max-width: 759px), (pointer: coarse) {
+  body.no-chrome {
+    padding: env(safe-area-inset-top, 0px) 16px env(safe-area-inset-bottom, 0px);
+  }
 }
 
 a { color: inherit; text-decoration: none; }

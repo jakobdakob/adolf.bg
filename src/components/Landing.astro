@@ -127,17 +127,19 @@ const playUrl = `/${lang}/qbank/game/`;
   }
   /* (Play CTA used to be mobile-only via .hero-mobile-only — now shown on
    * every viewport above the Viber button.) */
+  /* Outlined pill — same family as .btn-viber, accent-coloured instead
+   * of purple, so the two CTAs read as a matching pair. Inherits the
+   * base .btn padding / radius / font, no overrides. */
   .btn-play {
-    background: #14110F;
-    color: #FAF9F7;
-    border-radius: 999px;
-    padding: 0.7rem 1.4rem;
-    text-decoration: none;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-    transition: opacity 160ms ease;
+    background: transparent;
+    color: var(--accent);
+    border: 1.5px solid var(--accent);
   }
-  .btn-play:hover { opacity: 0.88; }
+  .btn-play:hover {
+    background: var(--accent);
+    color: var(--bg);
+    transform: translateY(-1px);
+  }
 
   #ortho, #trauma, #anatomy { scroll-margin-top: 72px; }
 

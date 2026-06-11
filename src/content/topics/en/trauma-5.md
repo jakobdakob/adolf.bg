@@ -24,6 +24,15 @@ Open fractures, gunshot injuries, crushing injuries, and the management of sever
 </figure>
 
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Larrey 1812, the flying ambulances</span>
+  <blockquote lang="fr">
+    <p>« … le contre-temps me détermina à proposer au général en chef … l'établissement d'une ambulance capable de suivre tous les mouvemens de l'avant-garde, à l'instar de l'artillerie volante. Ma proposition fut acceptée, et je fus autorisé à organiser cette ambulance, que je nommai <em>ambulance volante</em>. … Cette institution fit une grande sensation chez les soldats; ils étaient tous déjà persuadés d'être secourus au même instant qu'ils seraient blessés. »</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "The misfortune led me to propose to the commander-in-chief … the establishment of an ambulance capable of following every movement of the vanguard, on the model of the flying artillery. My proposal was accepted and I was authorised to organise it — I called it the <em>flying ambulance</em>. … This institution made a great impression on the soldiers; every one of them was already convinced he would be aided in the very moment he was wounded."</p>
+  <p class="callout-source">— Dominique-Jean Larrey, <em>Mémoires de chirurgie militaire et campagnes</em>, vol. 1 (Paris: Smith, 1812), p. 65. Larrey here describes the founding moment in the Army of the Rhine (1792, “l’an III de la République”). The doctrine of early forward evacuation of the wounded is the historical root of the modern trauma survival chain. <a href="https://archive.org/details/mmoiresdechiru01larr" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive →</a></p>
+</aside>
+
 ## Definition and Epidemiology
 
 An open fracture is one in which the fracture site communicates with the external environment through a break in the skin and soft tissues. The terminology “compound fracture” is largely historical and has been replaced by “open fracture.” The principal complications of open fractures arise from the contamination of the wound and the underlying tissues — infection (acute and chronic osteomyelitis), delayed healing, non-union, and limb loss. Open fractures range in severity from a tiny puncture wound communicating with an underlying simple transverse fracture to a massive contaminated wound with extensive soft-tissue loss, bone loss, and vascular injury. The principal classifications and management principles reflect this enormous range of severity.
@@ -63,6 +72,16 @@ rates. The standard regimens vary by Gustilo grade:
 The trend in modern practice has been toward shorter antibiotic courses (24 hours rather
 than 72 hours for most Type III fractures), with the emphasis on appropriate surgical
 debridement rather than prolonged antibiotic prophylaxis.
+
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Esmarch 1877, "artificial bloodlessness"</span>
+  <blockquote lang="de">
+    <p>„Mit Hilfe der elastischen Einwickelung lässt sich nun auch das Blut aus ganzen Körpertheilen vollständig verdrängen, und wenn man dann die arterielle Zufuhr absperrt, so kann man grosse und langdauernde Operationen ganz ohne Blutverlust ausführen. … Dies Verfahren, welches ich ‚künstliche Blutleere' genannt habe (blutloses Operiren, blutsparende Methode, temporäre Ischaemie), ist von mir schon seit dem Jahre 1855 bei allen Amputationen angewandt und gelehrt worden."</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "With the elastic wrap one can now also force the blood completely out of whole body parts; and if one then occludes the arterial inflow, one can perform large and prolonged operations entirely without blood loss. … This procedure, which I have called 'artificial bloodlessness' (bloodless operating, blood-sparing method, temporary ischaemia), I have used and taught for all amputations since 1855."</p>
+  <p class="callout-source">— Friedrich von Esmarch, <em>Handbuch der kriegschirurgischen Technik</em> (Hannover: Hahn, 1877), p. 205 ff. — the chapter on artificial bloodlessness, with his own priority footnote pointing to Volkmann’s <em>Sammlung klinischer Vorträge</em>, no. 58 (Leipzig 1873). The rubber "Schnürschlauch" (today’s Esmarch bandage) is still the conceptual basis of every surgical tourniquet. <a href="https://archive.org/details/b28065906" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive →</a></p>
+</aside>
+
 Tetanus prophylaxis: Tetanus toxoid booster for any patient with incomplete prior
 immunization or with a contaminated wound and uncertain immunization status. Tetanus
 immunoglobulin for patients who have never been immunized.
@@ -171,6 +190,15 @@ The outcomes of amputation depend on the level (more proximal amputations produc
 ## Phantom Limb Pain
 
 Phantom limb pain (pain felt in the missing limb) affects approximately 50-80% of amputees. The condition is poorly understood and often difficult to treat. Multiple pharmacological agents (gabapentin, pregabalin, tricyclic antidepressants, opioids), interventional procedures (peripheral nerve blocks, stump revision for symptomatic neuromas, targeted muscle reinnervation, peripheral nerve interface electrodes), and other therapies are used with variable success.
+
+## Sources and Classical Literature
+
+The doctrine of treating gunshot and open fractures was built over four centuries. Paré (1545) displaced cauterization with a digestive ointment — an observation made under necessity after his supply of boiling oil ran out on the battlefield of Turin in 1536. Larrey (*Mémoires*, 1812) systematized forward evacuation through the ambulances volantes and the doctrine of early amputation within the first 24 hours. Esmarch (1877) gave the post-Listerian standard of the rubber-band tourniquet and the principle of "künstliche Blutleere" — the conceptual forerunner of the modern tactical tourniquet.
+
+- **Paré** (1545): *La méthode de traicter les playes faictes par hacquebutes et aultres bastons à feu* (Paris). Treatment of firearm wounds without boiling oil. · [Facsimile](https://archive.org/details/BIUSante_35186)
+- **Larrey** (1812): *Mémoires de chirurgie militaire et campagnes*, vols. 1–3 (Paris: Smith). The flying ambulances and the doctrine of early amputation. · [Facsimile vol. 1](https://archive.org/details/mmoiresdechiru01larr) · [vol. 2](https://archive.org/details/02larr) · [vol. 3](https://archive.org/details/03larr)
+- **Esmarch** (1877): *Handbuch der kriegschirurgischen Technik* (Hannover: Hahn). The tourniquet doctrine and artificial bloodlessness. · [Facsimile](https://archive.org/details/b28065906)
+- **Lucas-Championnière** (1876): *Chirurgie antiseptique* (Paris). The French reception of Lister’s antisepsis. · [Facsimile](https://archive.org/details/chirurgieantisep00luca)
 
 ## Summary and Take-Home Points
 

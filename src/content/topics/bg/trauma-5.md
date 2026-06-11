@@ -24,6 +24,15 @@ order: 105
 </figure>
 
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класически глас — Лярей 1812, амбулансовете волантес</span>
+  <blockquote lang="fr">
+    <p>« … le contre-temps me détermina à proposer au général en chef … l'établissement d'une ambulance capable de suivre tous les mouvemens de l'avant-garde, à l'instar de l'artillerie volante. Ma proposition fut acceptée, et je fus autorisé à organiser cette ambulance, que je nommai <em>ambulance volante</em>. … Cette institution fit une grande sensation chez les soldats; ils étaient tous déjà persuadés d'être secourus au même instant qu'ils seraient blessés. »</p>
+  </blockquote>
+  <p><strong>Превод (BG):</strong> „Премеждието ме накара да предложа на главнокомандващия да се създаде амбуланс, способен да следва всички движения на авангарда, по подобие на летящата артилерия. Предложението ми беше прието и получих разрешение да я организирам — нарекох я <em>летяща амбуланс</em>. … Институцията направи голямо впечатление на войниците; всеки от тях беше вече убеден, че ще получи помощ в самия момент на раняването."</p>
+  <p class="callout-source">— Dominique-Jean Larrey, <em>Mémoires de chirurgie militaire et campagnes</em>, том 1 (Paris: Smith, 1812), стр. 65. Лярей описва основополагащия момент в Рейнската армия (1792, „l'an III de la République"). Доктрината на ранна полева евакуация на ранените е историческият корен на съвременната верига на травматологично оцеляване. <a href="https://archive.org/details/mmoiresdechiru01larr" target="_blank" rel="noopener noreferrer">Факсимиле в Internet Archive →</a></p>
+</aside>
+
 ## Дефиниция и епидемиология
 
 Открита фрактура е тази, при която фрактурното огнище комуникира с външната среда чрез нарушаване на кожата и меките тъкани. Терминът „compound fracture“ е до голяма степен исторически и е заменен от „открита фрактура“. Основните усложнения на откритите фрактури произтичат от контаминацията на раната и подлежащите тъкани — инфекция (остър и хроничен остеомиелит), забавено зарастване, псевдоартроза и загуба на крайника.
@@ -76,6 +85,15 @@ order: 105
     наранявания от ферма или грубо контаминирани рани.
 
 Тенденцията в съвременната практика е към по-кратки антибиотични курсове (24 часа вместо 72 часа при повечето фрактури от тип III), с акцент върху подходящия хирургичен дебридман вместо продължителна антибиотична профилактика.
+
+<aside class="callout callout-historical">
+  <span class="callout-label">Класически глас — Есмарх 1877, „изкуствената обезкръвеност"</span>
+  <blockquote lang="de">
+    <p>„Mit Hilfe der elastischen Einwickelung lässt sich nun auch das Blut aus ganzen Körpertheilen vollständig verdrängen, und wenn man dann die arterielle Zufuhr absperrt, so kann man grosse und langdauernde Operationen ganz ohne Blutverlust ausführen. … Dies Verfahren, welches ich ‚künstliche Blutleere' genannt habe (blutloses Operiren, blutsparende Methode, temporäre Ischaemie), ist von mir schon seit dem Jahre 1855 bei allen Amputationen angewandt und gelehrt worden."</p>
+  </blockquote>
+  <p><strong>Превод (BG):</strong> „С помощта на еластичното увиване кръвта може да бъде напълно изтласкана от цели части на тялото; и ако след това артериалното кръвоснабдяване се прекъсне, могат да се извършват големи и продължителни операции без никаква загуба на кръв. … Този метод, който нарекох ‚изкуствена обезкръвеност' (безкръвно опериране, кръвоспестяваща методика, временна исхемия), използвам и преподавам при всички ампутации още от 1855 г."</p>
+  <p class="callout-source">— Friedrich von Esmarch, <em>Handbuch der kriegschirurgischen Technik</em> (Hannover: Hahn, 1877), стр. 205 и сл. — главата за изкуствената обезкръвеност, със собствена бележка-приоритет в Volkmann’s <em>Sammlung klinischer Vorträge</em>, Nr. 58 (Leipzig 1873). Каучуковият „шнюр-шлаух" („бинт на Есмарх") и до днес е основополагащият принцип на хирургичното турникетиране. <a href="https://archive.org/details/b28065906" target="_blank" rel="noopener noreferrer">Факсимиле в Internet Archive →</a></p>
+</aside>
 
 Тетанусна профилактика: Тетанусен токсоид при всеки пациент с непълна предшестваща имунизация или с контаминирана рана и неизвестен имунизационен статус. Тетанусен имуноглобулин при пациенти, изобщо неимунизирани.
 
@@ -271,6 +289,15 @@ Crush синдромът е системният синдром, следващ 
 ## Болка в липсващия крайник (phantom limb pain)
 
 Болката в липсващия крайник (phantom limb pain) (болка, усещана в липсващия крайник) засяга приблизително 50-80% от ампутираните. Състоянието е слабо разбрано и нерядко трудно за лечение. Множество фармакологични средства (габапентин, прегабалин, трициклични антидепресанти, опиоиди), интервенционални процедури (периферни нервни блокади, ревизия на пъна при симптоматични невроми, целева мускулна реинервация, електроди на интерфейса на периферния нерв) и други терапии се прилагат с различен успех.
+
+## Източници и класическа литература
+
+Доктрината за лечение на огнестрелните и открити фрактури е изградена в продължение на четири века. Раннитнят Парé (1545) измества кауторизацията със смес „дигестив" — наблюдение, направено по принуда след изчерпване на врящото масло на бойното поле край Турин 1536 г. Лярей (Mémoires, 1812) систематизира полевата евакуация чрез амбулансовете волантес и доктрината на ранната ампутация в първите 24 часа. Есмарх (1877) дава следобласкаващото стандартизиране на турникета с каучуковата лента и принципа на „künstliche Blutleere" — концептуалната предтеча на съвременния тактически турникет.
+
+- **Парé** (1545): *La méthode de traicter les playes faictes par hacquebutes et aultres bastons à feu* (Paris). Лекуване на огнестрелните рани без врящо масло. · [Факсимиле](https://archive.org/details/BIUSante_35186)
+- **Лярей** (1812): *Mémoires de chirurgie militaire et campagnes*, томове 1–3 (Paris: Smith). Амбулансовете волантес, доктрината на ранната ампутация. · [Факсимиле том 1](https://archive.org/details/mmoiresdechiru01larr) · [том 2](https://archive.org/details/02larr) · [том 3](https://archive.org/details/03larr)
+- **Есмарх** (1877): *Handbuch der kriegschirurgischen Technik* (Hannover: Hahn). Турникетна доктрина и изкуствена обезкръвеност. · [Факсимиле](https://archive.org/details/b28065906)
+- **Лукас-Шампониер** (1876): *Chirurgie antiseptique* (Paris). Френското приемане на Listeровата антисептика. · [Факсимиле](https://archive.org/details/chirurgieantisep00luca)
 
 ## Обобщение и ключови изводи
 

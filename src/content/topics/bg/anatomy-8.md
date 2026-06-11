@@ -151,6 +151,19 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
 
 Достъпът по Hueter използва задния ръб на m. sartorius — кожният разрез започва от spina iliaca anterior superior и слиза дистално по външния ръб на мускула с дължина около 15 cm. Прониква се между m. sartorius (медиално) и m. tensor fasciae latae (латерално), а в проксималния край m. tensor fasciae latae се дезинсерира остеопластично от spina iliaca anterior superior и от m. gluteus medius на 1 cm под хълбочния гребен. С распатор m. gluteus medius и m. gluteus minimus се отделят от външната повърхност на хълбочното крило и се екартират назад и надолу, при което се излага широко горната и предната част на ставната капсула. Hueter е концептуалният предшественик на съвременния директен преден достъп (DAA) — разликата е, че Hueter включва дезинсерция на тензора и на абдукторите от хълбочното крило, докато DAA запазва тензора като мускулна стена.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класическа линия — преден достъп до ТБС</span>
+  <p>Анатомичният интервал между m. sartorius и m. tensor fasciae latae е документиран в немската ортопедична литература за повече от век и половина. Линията на еволюция:</p>
+  <ul>
+    <li><strong>Хютер 1880</strong> — първа систематична публикация в <a href="https://archive.org/details/archivfrklinisc11unkngoog">Langenbeck-Archiv für klinische Chirurgie</a>; класическият анатомичен интервал.</li>
+    <li><strong>Хофа 1890-те</strong> — кървавата репозиция при ВДТС и оперативната хирургия на тазобедрената става (<a href="https://archive.org/details/lehrbuchderortho00hoff">Lehrbuch 1905</a>).</li>
+    <li><strong>Лудлоф 1908</strong> — медиалният достъп (Zentralblatt für Chirurgie, Jg. 35) — алтернатива за по-малките кърмачета.</li>
+    <li><strong>Лоренц 1900</strong> — безкръвната репозиция (<a href="https://archive.org/details/b21290441">монография 1895 г.</a> като патоанатомична основа).</li>
+    <li><strong>Smith-Petersen 1917</strong> — модерният преден достъп със запазване на тензора.</li>
+    <li><strong>Watson-Jones 1936 → Hardinge 1982 → Ganz 2001</strong> — еволюцията на латералните и трохантерно-флип достъпите със запазване на a. circumflexa femoris medialis.</li>
+  </ul>
+</aside>
+
 ## Преден достъп по Smith-Petersen
 
 <figure class="md-figure">
@@ -634,6 +647,15 @@ Wagner разработва (1978) ендопротезирането без о�
 ## Артроскопското изследване на централния компартмент (вътреставно) и периферния
 
 компартмент (между капсулата и шийката на бедрената кост) изисква дистракция на тазобедрената става (типично с тракционна маса) за достъп до централния компартмент.
+
+## Източници и класическа литература
+
+Хирургичната анатомия на тазобедрената става е документирана в немската, австрийската, френската и руско-съветската ортопедична литература на ХIХ и ХХ век. Първоописанията на еспонимните достъпи и техники, които и днес формират лексикона на ставата, са свободно достъпни в Internet Archive:
+
+- **Хофа** (1905): *Lehrbuch der orthopädischen Chirurgie*, 4. изд. (Stuttgart: Enke). Систематика на оперативната ортопедия на ТБС — кървавата репозиция, артропластиката, артродезата. · [Факсимиле](https://archive.org/details/lehrbuchderortho00hoff)
+- **Лоренц** (1895): *Pathologie und Therapie der angeborenen Hüftverrenkung* (Wien: Hölder). Анатомо-патологична основа на безкръвната репозиция; илюстрирани сечения на дисплатичната ставна капсула, лабрумна инверсия и pulvinar. · [Факсимиле](https://archive.org/details/b21290441)
+- **Langenbeck-Archiv für klinische Chirurgie** (от 1860): първоописанията на много еспоними — Хютер за предния анатомичен интервал, Мадeлунг за карпалната деформация, Лудлоф за медиалния достъп, Krukenberg за подбедрицата. · [Поредица в Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)
+- **Бир / Браун / Кюммел** (1920): *Chirurgische Operationslehre*, бд. 3 — хирургия на таза и долния крайник. · [Факсимиле](https://archive.org/details/chirurgischeoperationslehre1920v1)
 
 ## Обобщение и ключови изводи
 

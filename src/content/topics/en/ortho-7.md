@@ -117,6 +117,24 @@ Pavlik Harness (0-6 months) The Pavlik harness, invented by Arnold Pavlik in 194
 
 Open reduction is indicated when closed reduction fails or when secondary changes preclude closed reduction. The standard approaches are: the anterior (Smith-Petersen) approach, the most common in the older infant and toddler; the medial (Ludloff) approach, useful in the younger infant (6-12 months) and providing direct access to the obstacles in the medial aspect of the joint without the morbidity of the anterior approach but without access to acetabular reconstruction; and combined approaches when concurrent acetabular reconstruction is planned. The principles of open reduction are: capsulotomy to enter the joint, identification and excision of the obstacles (limbus, pulvinar, hypertrophied transverse ligament), lengthening or release of the contracted iliopsoas tendon and adductor tendon, capsulorraphy to tighten the redundant joint capsule, and reduction of the femoral head into the deepened acetabulum. After open reduction, hip spica casting follows for 6-12 weeks, with continued bracing or part-time bracing for further months.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Hoffa 1905, the “bloody reduction”</span>
+  <blockquote lang="de">
+    <p>„Dies gelungene Resultat erstrebt die unblutige Reposition des luxierten Hüftgelenkes. Französische Orthopäden waren die ersten, die den Schenkelkopf wirklich wieder in die verlassene Pfanne zurückzuführen suchten. … Ich habe jetzt nur noch zu erwähnen, daß die Methode der blutigen Reposition der angeborenen Hüftverrenkung außer von Lorenz und mir auch schon von vielen anderen Chirurgen erfolgreich ausgeführt wurde."</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "This successful result is the goal of the bloodless reduction of the dislocated hip joint. French orthopaedists were the first who really attempted to return the femoral head to its abandoned socket. … It remains for me to mention that the method of bloody reduction of congenital hip dislocation has been successfully practised not only by Lorenz and myself, but also by many other surgeons."</p>
+  <p class="callout-source">— Albert Hoffa, <em>Lehrbuch der orthopädischen Chirurgie</em>, 4th ed. (Stuttgart: Enke, 1905), pp. 565 and 595, in the chapter “Die operative Behandlung der angeborenen Hüftverrenkung.” <a href="https://archive.org/details/lehrbuchderortho00hoff" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive →</a></p>
+</aside>
+
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Lorenz 1895, methodological preface</span>
+  <blockquote lang="de">
+    <p>„Mit meiner ersten Publication über die operative Therapie der angeborenen Hüftverrenkung (Centralbl. f. Chir. 1892, 31) habe ich leider der weitverbreiteten Unsitte gehuldigt, auf Grundlage von wenigen und unvollständig beobachteten Fällen eine vorläufige Mittheilung ergehen zu lassen. … habe mir auferlegt, meine Erfahrungen nicht eher zusammen zu fassen, bevor meine Methode nicht wenigstens hundertfach erprobt sein würde. Schneller als ich hoffen durfte, hat sich dies erfüllt, da ich dieselbe bis nun fast anderthalbhundertmal geübt habe."</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "With my first publication on the operative therapy of congenital hip dislocation (Centralbl. f. Chir. 1892, no. 31) I yielded, regrettably, to the widespread bad habit of releasing a preliminary report on the basis of a few imperfectly observed cases. … I imposed on myself not to put my experience together until my method had been tested at least a hundred times. Faster than I had dared to hope, this came to pass, for I have now performed it almost one hundred and fifty times."</p>
+  <p class="callout-source">— Adolf Lorenz, <em>Pathologie und Therapie der angeborenen Hüftverrenkung</em> (Wien: Hölder, 1895), Vorwort, p. V. The bloodless reduction (“repositio cruenta”) was published in definitive form by Lorenz in 1900; this 1895 monograph lays the patho-anatomical foundation. <a href="https://archive.org/details/b21290441" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive →</a></p>
+</aside>
+
 ## Concomitant Femoral and Pelvic Osteotomies
 
 In the older child (typically over 18-24 months) with persistent dysplasia or with neglected dislocation, concurrent femoral and pelvic osteotomies are required to achieve and maintain reduction. The choice of procedure depends on the age of the child, the morphology of the dysplastic acetabulum, the femoral anteversion, and the soft-tissue contractures.
@@ -153,6 +171,14 @@ The neglected DDH presents as a unilateral or bilateral dislocation in an older 
 ## Outcomes and Adolescent / Adult Sequelae
 
 The long-term outcome of DDH depends on the age at diagnosis, the success of initial treatment, and the development of residual dysplasia. Early diagnosis and successful Pavlik harness treatment produces near-normal hips in 90-95% of cases. Late diagnosis or failed initial treatment with subsequent open reduction and osteotomy produces less favorable outcomes, with residual dysplasia, AVN, and early osteoarthritis as the principal long-term sequelae. Adolescent and adult hip dysplasia presents with groin pain, hip impingement symptoms, and progressive arthritis, and is managed by periacetabular osteotomy in the appropriate candidate or by total hip arthroplasty in advanced disease.
+
+## Sources and Classical Literature
+
+The operative era of DDH begins in the late 19th century with two German-language schools whose debate — bloody versus bloodless reduction — shaped hip surgery for the following century. Albert Hoffa (Würzburg, later Berlin) described the **bloody reduction** in 1890: open approach to the dislocated head, removal of the obstacles to reduction, and reconstruction of the roof. His *Lehrbuch der orthopädischen Chirurgie* (4th ed. 1905) systematized the technique and the five classical obstacles that still define the open procedure today. Adolf Lorenz (Vienna), originally a pupil of Albert, opposed Hoffa with the **bloodless reduction** ("repositio cruenta," definitive publication 1900): closed reduction under anesthesia and prolonged spica immobilization. Lorenz’s 1895 monograph lays the patho-anatomical foundation; the bracing and physiological development of the infant hip in the first months (the later Pavlik innovation of 1944) is conceptually a third phase that unifies Hoffa’s and Lorenz’s approaches via early correction before secondary changes form. Karl Ludloff (1908, Zentralbl. f. Chir.) described the medial approach that remains the technique of choice in the younger infant.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*, 4th ed. (Stuttgart: Enke). Chapter on congenital dislocation — the bloody reduction and the five classical obstacles. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Lorenz** (1895): *Pathologie und Therapie der angeborenen Hüftverrenkung* (Wien: Hölder). The patho-anatomical foundation of the bloodless reduction. · [Facsimile](https://archive.org/details/b21290441)
+- **Langenbeck-Archiv** (from 1860): the first descriptions of Hueter’s anatomical anterior approach and many other 19th-century eponyms. · [Series in Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)
 
 ## Summary and Take-Home Points
 

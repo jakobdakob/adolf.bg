@@ -115,6 +115,19 @@ The anterior approach along the anterior border of sartorius (also called the "v
 
 The Hueter approach uses the posterior border of sartorius — the skin incision begins at the ASIS and descends along the lateral border of the muscle for about 15 cm. The interval between sartorius (medially) and TFL (laterally) is developed, and proximally the TFL is detached osteoplastically from the ASIS and from gluteus medius 1 cm below the iliac crest. With a periosteal elevator, gluteus medius and minimus are reflected off the lateral surface of the iliac wing and retracted posteriorly and inferiorly, exposing the superior and anterior aspects of the joint capsule broadly. Hueter is the conceptual predecessor of the modern direct anterior approach (DAA) — the difference being that Hueter includes detachment of the TFL and the abductors from the iliac wing, whereas DAA preserves the TFL as a muscular wall.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical lineage — anterior approach to the hip</span>
+  <p>The anatomical interval between sartorius and tensor fasciae latae is documented in the German orthopaedic literature for more than a century and a half. The line of evolution:</p>
+  <ul>
+    <li><strong>Hueter 1880</strong> — first systematic publication in <a href="https://archive.org/details/archivfrklinisc11unkngoog">Langenbeck-Archiv für klinische Chirurgie</a>; the classical anatomical interval.</li>
+    <li><strong>Hoffa 1890s</strong> — bloody reduction of congenital hip dislocation and operative hip surgery (<a href="https://archive.org/details/lehrbuchderortho00hoff">Lehrbuch 1905</a>).</li>
+    <li><strong>Ludloff 1908</strong> — the medial approach (Zentralblatt für Chirurgie, vol. 35) — the alternative for the younger infant.</li>
+    <li><strong>Lorenz 1900</strong> — bloodless reduction (<a href="https://archive.org/details/b21290441">1895 monograph</a> as patho-anatomical foundation).</li>
+    <li><strong>Smith-Petersen 1917</strong> — the modern anterior approach preserving the tensor.</li>
+    <li><strong>Watson-Jones 1936 → Hardinge 1982 → Ganz 2001</strong> — the evolution of the lateral and trochanteric-flip approaches with preservation of the medial femoral circumflex artery.</li>
+  </ul>
+</aside>
+
 ## Anterior Approach (Smith-Petersen)
 
 <figure class="md-figure">
@@ -572,6 +585,15 @@ Typical open reduction: Hueter anterior approach; attention to the lateral femor
 Hip arthroscopy has emerged as the platform for management of FAI, labral tears, and other intra-articular hip pathology. The principal portals include: Anterolateral portal: Approximately 1 to 2 cm anterior and 2 cm distal to the greater trochanter tip. The principal viewing portal. Anterior portal: Established under fluoroscopic guidance, with attention to the lateral femoral cutaneous nerve. Posterolateral portal: Posterior to the trochanter. Mid-anterior portal: An accessory portal for specific procedures.
 
 The arthroscopic examination of the central compartment (within the joint) and the peripheral compartment (between the capsule and the femoral neck) requires hip distraction (typically with a traction table) for central compartment access.
+
+## Sources and Classical Literature
+
+The surgical anatomy of the hip is documented in the German, Austrian, French, and Russo-Soviet orthopaedic literature of the 19th and 20th centuries. The original descriptions of the eponymous approaches and techniques that still constitute the lexicon of the joint are freely available on the Internet Archive:
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*, 4th ed. (Stuttgart: Enke). The systematic treatment of operative hip orthopaedics — bloody reduction, arthroplasty, arthrodesis. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Lorenz** (1895): *Pathologie und Therapie der angeborenen Hüftverrenkung* (Wien: Hölder). Patho-anatomical foundation of the bloodless reduction; illustrated sections of the dysplastic capsule, labral inversion, and pulvinar. · [Facsimile](https://archive.org/details/b21290441)
+- **Langenbeck-Archiv für klinische Chirurgie** (from 1860): the first descriptions of many eponyms — Hueter for the anterior anatomical interval, Madelung for the carpal deformity, Ludloff for the medial approach, Krukenberg for the forearm. · [Series on Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)
+- **Bier / Braun / Kümmell** (1920): *Chirurgische Operationslehre*, vol. 3 — pelvis and lower-extremity surgery. · [Facsimile](https://archive.org/details/chirurgischeoperationslehre1920v1)
 
 ## Summary and Take-Home Points
 

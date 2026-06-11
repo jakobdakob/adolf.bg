@@ -293,6 +293,23 @@ order: 128
   <p>Качеството на синдесмотичната репозиция (а не изборът на фиксиращо устройство) е доминиращият предиктор на изхода. Suture-button (TightRope) позволява физиологично микродвижение и елиминира нуждата от отстраняване на импланта; обмислете КТ за потвърждение на репозицията предвид общопризнатата трудност при интраоперативната й преценка.</p>
 </aside>
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класически глас — Pott 1768, фрактурата-луксация на глезена</span>
+  <blockquote lang="en">
+    <p>"… the fracture of the fibula attended with a dislocation of the tibia. Whoever will take a view of the leg of a skeleton, will see that although the fibula be a very small and slender bone, and very inconsiderable in strength, when compared with the tibia, yet the support of the lower joint of that limb, (the ancle) depends so much on this slender bone, that without it the body would not be upheld, nor locomotion performed, without hazard of dislocation every moment. The lower extremity of this bone … is by strong and inelastic ligaments firmly connected with the last-named bone, and with the astragalus … upon the due and natural state of the joint of the ancle … depend the just disposition and proper action of the foot."</p>
+  </blockquote>
+  <p><strong>Превод (BG):</strong> „… фрактурата на fibula, придружена с луксация на tibia. Който и да погледне крака на скелет, ще види, че макар fibula да е много малка и тънка кост, незначителна по сила в сравнение с tibia, опората на долната става на крайника (глезенът) зависи толкова много от тази тънка кост, че без нея тялото не би се поддържало, нито движение би било извършвано, без опасност от луксация всеки миг. Долният край на тази кост … е свързан със здрави и нееластични връзки с tibia и astragalus … от правилното и естествено състояние на ставата на глезена … зависят правилното разположение и действие на стъпалото."</p>
+  <p class="callout-source">— Percivall Pott, <em>Some Few General Remarks on Fractures and Dislocations</em> (London: Hawes, Clarke, &amp; Collins, 1768), стр. 52–54. Това е основополагащият пасаж на фрактурата на Pott: косо счупване на fibula над латералния малеолус, при което talus следва fibula латерално в явна луксация, щом deltoid връзката отстъпи. Механичното прозрение на Pott — че тънкият fibula е ключовият камък на ankle mortise — е концептуалният корен на модерната Weber-AO класификация (нивото на fibular фрактурата спрямо синдесмозата) и на правилото, че fibula трябва да бъде репозиционирана по дължина, ротация и подравняване за стабилен mortise. <a href="https://archive.org/details/b30549188" target="_blank" rel="noopener noreferrer">Факсимиле в Internet Archive →</a></p>
+</aside>
+
+## Източници и класическа литература
+
+Модерното лечение на фрактурите на глезена почива на 250-годишна клинична литература. Pott (1768) дава първото систематично описание на фрактурата-луксация, която носи неговото име — косо счупване на fibula с дислокация на talus — и механичното прозрение, че fibula е ключовият камък на mortise. *Leçons orales* на Дюпюитрен (1832) съдържа лекцията му за глезена, включително вариантната фрактура, която стана известна като „фрактура на Дюпюитрен на глезена" (фрактура на диафизата на fibula с разкъсване на deltoid връзката — прекурсор на Maisonneuve-нараняването и Weber C). Малгень (1847) консолидира английските и френските описания от XVIII и началото на XIX век и добавя признаването, че медиалната страна на ставата — чрез фрактура на малеолуса или разкъсване на deltoid — трябва да бъде адресирана за стабилност. Механистичната схема на Lauge-Hansen (1950) и анатомичната схема на Weber (1972) са модерните потомци на тези класически наблюдения.
+
+- **Pott** (1768): *Some Few General Remarks on Fractures and Dislocations* (London). Основополагащият пасаж за глезена. · [Факсимиле](https://archive.org/details/b30549188)
+- **Дюпюитрен** (1832): *Leçons orales de clinique chirurgicale*, том 2 — лекцията за глезена и вариантната фрактура. · [Факсимиле](https://archive.org/details/leonsoralesdec02dupu)
+- **Малгень** (1847): *Traité des fractures et des luxations*, том 2 — глава за малеоларните фрактури. · [Факсимиле](https://archive.org/details/BIUSante_32985x02)
+
 ## Обобщение и ключови изводи
 
 Фрактурата на глезена е сред най-честите фрактури при възрастния, като класификацията на Weber (A, инфрасиндесмотична, B, трансиндесмотична, C, супрасиндесмотична) осигурява най-полезната клинична рамка, а класификацията на Lauge-Hansen (супинация-аддукция, супинация-външна ротация, пронация-абдукция, пронация-външна ротация) — концептуалното разбиране на механизма на травмата и асоциираните структури.

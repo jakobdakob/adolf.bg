@@ -1154,12 +1154,14 @@ const tJson = JSON.stringify(t);
       inset 0 0 0 2px #000;
   }
 
-  /* HUD + deck are only meaningful while the player is in a question
-   * round. In menu / help / leaderboard / gameover the cabinet is a
-   * full-bleed overlay container: hide HUD and deck so the menu doesn't
-   * have a dark deck strip below it and the HUD doesn't bleed through
-   * a translucent overlay. */
+  /* HUD + deck + arena fighters + banners only render in 'playing'.
+   * In menu / help / leaderboard / gameover the cabinet is a full-bleed
+   * overlay container — without this rule the rgba(0,0,0,0.82) overlay
+   * bg let the RESIDENT and germ emoji peek through at ~18 % opacity
+   * behind the menu/leaderboard/gameover content. */
   .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-hud,
+  .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-arena,
+  .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-banner,
   .kombat-cabinet:not([data-kombat-state="playing"]) .kombat-deck {
     display: none;
   }
@@ -1536,12 +1538,15 @@ const tJson = JSON.stringify(t);
   }
   /* Shared column grid: rank | name | score | round. The leading
    * px values give the rank/score/round fixed widths so the name
-   * column flexes between them. */
+   * column flexes between them. column-gap (not shorthand gap) makes
+   * the column separation explicit — some iOS Safari versions ignore
+   * the shorthand on grid rows when only the row-gap default is 0. */
   .kombat-board-head,
   .kombat-board-row {
     display: grid;
-    grid-template-columns: 36px 1fr 64px 56px;
-    gap: 8px;
+    grid-template-columns: 28px 1fr 64px 56px;
+    column-gap: 10px;
+    row-gap: 0;
     padding: 10px 12px;
     align-items: baseline;
     font-variant-numeric: tabular-nums;
@@ -2135,18 +2140,24 @@ const tJson = JSON.stringify(t);
     .kombat-overlay-title { font-size: clamp(0.95rem, 4.5vw, 1.3rem); }
     .kombat-help-list { font-size: 0.6rem; }
     /* Tighten the high-score table for the ~330 px wide cabinet — the
-     * desktop 36/64/56 column widths would overflow. */
+     * desktop 28/64/56 column widths would overflow. display: grid is
+     * re-stated so a future CSS audit doesn't accidentally drop it
+     * through the cascade. */
     .kombat-board-frame { width: 100%; box-shadow: 3px 3px 0 #000; }
     .kombat-board-head,
     .kombat-board-row {
-      grid-template-columns: 26px 1fr 50px 44px;
-      gap: 6px;
-      padding: 7px 8px;
+      display: grid;
+      grid-template-columns: 24px 1fr 50px 48px;
+      column-gap: 8px;
+      row-gap: 0;
+      padding: 7px 9px;
+      align-items: center;
     }
-    .kombat-board-head { font-size: 7px; letter-spacing: 0.1em; }
-    .kombat-board-list { font-size: 7px; }
-    .kombat-board-col-name { font-size: 8px; }
-    .kombat-board-col-score, .kombat-board-col-round { font-size: 8px; }
+    .kombat-board-head { font-size: 8px; letter-spacing: 0.06em; }
+    .kombat-board-list { font-size: 9px; line-height: 1.4; }
+    .kombat-board-col-name  { font-size: 9px; }
+    .kombat-board-col-score,
+    .kombat-board-col-round { font-size: 9px; }
     .kombat-gameover-title { font-size: clamp(1.4rem, 7vw, 2rem); }
     .kombat-gameover-stats { font-size: 0.7rem; }
     .kombat-gameover-name input { font-size: 1rem; min-height: 48px; }

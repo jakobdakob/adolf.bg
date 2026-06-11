@@ -173,6 +173,15 @@ DRUJ нестабилността след фиксация на radius изис
   <p>До 50% от високоенергийните фрактури на дисталния radius имат увреждане на scapholunate лигамента (>3 mm, „знак на Terry Thomas“). Търсете специфично — интраоперативна артроскопия или стрес-флуороскопия след радиална фиксация. Пропуснатото scapholunate увреждане води до хронична дорзално-интеркалирана сегментарна нестабилност (DISI) и SLAC-артроза на китката години по-късно.</p>
 </aside>
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класически глас — Малгень 1847, обяснение на дорзалното изместване</span>
+  <blockquote lang="fr">
+    <p>« Le déplacement en question tient essentiellement, selon moi, au renversement en arrière et en haut du fragment inférieur, avec pénétration profonde du fragment supérieur en arrière, les deux fragments demeurant en contact en avant. … La saillie du fragment supérieur en avant est beaucoup moins forte que celle du fragment inférieur en arrière ; … il faut que le déjettement en arrière du fragment inférieur soit bien considérable pour qu'on sente la petite tête du cubitus proéminer en avant. »</p>
+  </blockquote>
+  <p><strong>Превод (BG):</strong> „Въпросното изместване се дължи по същество, според мен, на обръщането назад и нагоре на долния фрагмент, с дълбоко вклиняване на горния фрагмент отзад, като двата фрагмента остават в контакт отпред. … Предната проекция на горния фрагмент е много по-слаба от задната проекция на долния; … изместването на долния фрагмент назад трябва да е твърде значително, за да се усети малката глава на улната, изпъкваща напред."</p>
+  <p class="callout-source">— Joseph-François Malgaigne, <em>Traité des fractures et des luxations</em>, том 1 (Paris: Baillière, 1847), § IV „Fractures de l'extrémité inférieure du radius", стр. 605–607. Анализът на Малгень за механизма на вклиняване и дорзално накланяне — включително наблюдението му, че видимата проминираща дистална глава на улната е вторичен феномен от колапса на радиуса — е структурната логика зад модерните рентгенографски параметри (radial inclination, volar tilt, ulnar variance), задаващи цели за репозицията. Протестът му срещу твърдението на Pouteau, че pronator quadratus тегли дисталния фрагмент медиално, предвижда кинематичните преанализи на FOOSH-механизма от XX век. <a href="https://archive.org/details/BIUSante_32985x01" target="_blank" rel="noopener noreferrer">Факсимиле в Internet Archive →</a></p>
+</aside>
+
 ## Източници и класическа литература
 
 Епонимната носталгия на дисталния radius е особено гъсто маркирана. Колес (1814) описва дорзалното изместване в *Edinb. Med. Surg. J.* (статия с минимален оригинален корпус — две страници); Смит (1854) — обратната, воларно разместена фрактура в *Pathology and Treatment of Fracture of the Forearm*. Малгань в своя *Traité* (1847) събира известните дотогава фрактури на долния край на лъчевата кост, потвърждава, оспорва или преинтерпретира всяка епонимна категория и оформя анатомичния речник, който и днес владее термините.

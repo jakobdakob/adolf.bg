@@ -278,13 +278,31 @@ const tJson = JSON.stringify(t);
 
   // -- Question pool -----------------------------------------------------
   let pool = null;
+  let topicTitles = null;  // { section: { [topicNum]: { bg, en } } } — from game.json
   async function loadPool() {
     if (pool) return pool;
     const res = await fetch(src, { cache: "force-cache" });
     if (!res.ok) throw new Error("Pool fetch failed: " + res.status);
     const data = await res.json();
     pool = data.questions || [];
+    topicTitles = data.topicTitles || null;
     return pool;
+  }
+
+  function topicLabel(q) {
+    // Prefer the lookup-table title; fall back to whatever's on the question.
+    if (topicTitles && q && q.section && q.topic != null) {
+      const sect = topicTitles[q.section];
+      if (sect) {
+        const entry = sect[q.topic] || sect[String(q.topic)];
+        if (entry) return entry[lang] || entry.en || entry.bg || "";
+      }
+    }
+    if (q && q.topicTitle) {
+      if (typeof q.topicTitle === "string") return q.topicTitle;
+      return q.topicTitle[lang] || q.topicTitle.en || q.topicTitle.bg || "";
+    }
+    return "";
   }
 
   function pickQuestion() {
@@ -351,7 +369,8 @@ const tJson = JSON.stringify(t);
     const loc = q[lang] || q.en || q.bg;
     state.currentLocale = loc;
     state.currentCorrect = (typeof loc.correct === "number") ? loc.correct : loc.answer;
-    els.qMeta.textContent = "Q" + " · " + (q.topicTitle || "");
+    const meta = topicLabel(q);
+    els.qMeta.textContent = meta ? ("Q · " + meta) : "Q";
     els.qStem.textContent = loc.stem;
     const labels = ["W", "A", "S", "D"];
     els.optionBtns.forEach((btn, i) => {

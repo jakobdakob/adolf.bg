@@ -11,7 +11,10 @@ export async function getStaticPaths() {
 const { lang } = Astro.params as { lang: Lang };
 const t = ui[lang];
 
-const dataUrl = pathUrl(`/quizzes/all.json`);
+// Game uses its own data file (built by `npm run build:game-data`) which adds
+// a topicTitles lookup and pre-shuffles. Standard /test/ pages keep using
+// all.json.
+const dataUrl = pathUrl(`/quizzes/game.json`);
 const back = pathUrl(`/${lang}/qbank/`);
 const otherPath = pathUrl(`/${lang === "bg" ? "en" : "bg"}/qbank/game/`);
 

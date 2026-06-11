@@ -44,6 +44,11 @@ const t = lang === "bg"
       yourScore:  "ТОЧКИ",
       yourEnemies: "ПОБЕДЕНИ",
       noLeaderboard: "ВСЕ ОЩЕ НЯМА РЕЗУЛТАТИ.",
+      boardTitle: "ТОП 10",
+      boardRank:  "РАНГ",
+      boardName:  "ИМЕ",
+      boardScore: "ТОЧКИ",
+      boardRound: "КРЪГ",
       lives:      "ЖИВОТИ",
       score:      "ТОЧКИ",
       round:      "КРЪГ",
@@ -93,6 +98,11 @@ const t = lang === "bg"
       yourScore:  "SCORE",
       yourEnemies: "DEFEATED",
       noLeaderboard: "NO SCORES YET.",
+      boardTitle: "TOP 10",
+      boardRank:  "RANK",
+      boardName:  "NAME",
+      boardScore: "SCORE",
+      boardRound: "ROUND",
       lives:      "LIVES",
       score:      "SCORE",
       round:      "ROUND",
@@ -273,10 +283,16 @@ const tJson = JSON.stringify(t);
         </div>
 
         <div class="kombat-overlay kombat-board" data-kombat-screen="leaderboard" hidden>
-          <h2 class="kombat-overlay-title">{t.menuLeaderboard}</h2>
-          <ol class="kombat-board-list" data-kombat-board-list>
-            <li class="kombat-board-empty">{t.noLeaderboard}</li>
-          </ol>
+          <h2 class="kombat-overlay-title">BOYCHEV KOMBAT {t.boardTitle}</h2>
+          <div class="kombat-board-frame">
+            <div class="kombat-board-head">
+              <span class="kombat-board-col kombat-board-col-rank">{t.boardRank}</span>
+              <span class="kombat-board-col kombat-board-col-name">{t.boardName}</span>
+              <span class="kombat-board-col kombat-board-col-score">{t.boardScore}</span>
+              <span class="kombat-board-col kombat-board-col-round">{t.boardRound}</span>
+            </div>
+            <ol class="kombat-board-list" data-kombat-board-list></ol>
+          </div>
           <button type="button" class="kombat-cab-btn" data-kombat-menu="menu">{t.backToMenu}</button>
         </div>
 
@@ -811,19 +827,45 @@ const tJson = JSON.stringify(t);
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(board.slice(0, 10))); }
     catch (e) { /* ignore */ }
   }
+  // The total rounds in a full game (10 germs + Prof Boychev) — used for
+  // the "round X / 11" column. Recomputed instead of hard-coded so it
+  // tracks ENEMIES.length if the roster ever grows.
+  const TOTAL_ROUNDS = ENEMIES.length;
+  // Stamp set inside commitName(); renderBoard highlights the row whose
+  // .at matches so the player can pick themselves out at a glance.
+  let lastSavedAt = 0;
+
+  function pad2(n) { return n < 10 ? "0" + n : String(n); }
   function renderBoard() {
     const board = loadBoard();
-    if (!board.length) {
-      els.boardList.innerHTML = '<li class="kombat-board-empty">' + escapeHtml(T.noLeaderboard) + '</li>';
-      return;
+    const rows = [];
+    for (let i = 0; i < 10; i++) {
+      const e = board[i];
+      if (e) {
+        const round = (typeof e.round === "number") ? e.round
+                    : (typeof e.kills === "number") ? Math.min(e.kills + 1, TOTAL_ROUNDS)
+                    : 1;
+        const isMe = lastSavedAt && e.at === lastSavedAt;
+        rows.push(
+          '<li class="kombat-board-row' + (isMe ? ' is-me' : '') + '">' +
+            '<span class="kombat-board-col kombat-board-col-rank">' + pad2(i + 1) + '</span>' +
+            '<span class="kombat-board-col kombat-board-col-name">' + escapeHtml(e.name) + '</span>' +
+            '<span class="kombat-board-col kombat-board-col-score">' + String(e.score).padStart(4, "0") + '</span>' +
+            '<span class="kombat-board-col kombat-board-col-round">' + pad2(round) + "/" + pad2(TOTAL_ROUNDS) + '</span>' +
+          '</li>'
+        );
+      } else {
+        rows.push(
+          '<li class="kombat-board-row kombat-board-row-empty">' +
+            '<span class="kombat-board-col kombat-board-col-rank">' + pad2(i + 1) + '</span>' +
+            '<span class="kombat-board-col kombat-board-col-name">---</span>' +
+            '<span class="kombat-board-col kombat-board-col-score">----</span>' +
+            '<span class="kombat-board-col kombat-board-col-round">--/--</span>' +
+          '</li>'
+        );
+      }
     }
-    els.boardList.innerHTML = board.map((entry, i) =>
-      '<li class="kombat-board-row">' +
-        '<span class="kombat-board-rank">' + (i + 1) + '</span>' +
-        '<span class="kombat-board-name">' + escapeHtml(entry.name) + '</span>' +
-        '<span class="kombat-board-score">' + entry.score + '</span>' +
-      '</li>'
-    ).join("");
+    els.boardList.innerHTML = rows.join("");
   }
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, (c) => ({
@@ -835,9 +877,17 @@ const tJson = JSON.stringify(t);
     const raw = (els.nameInput.value || "").trim().slice(0, 14);
     if (!raw) return;
     const board = loadBoard();
-    board.push({ name: raw, score: state.score, kills: state.kills, at: Date.now() });
+    const now = Date.now();
+    board.push({
+      name: raw,
+      score: state.score,
+      kills: state.kills,
+      round: Math.min(state.round || 1, TOTAL_ROUNDS),
+      at: now,
+    });
     board.sort((a, b) => b.score - a.score);
     saveBoard(board);
+    lastSavedAt = now;
     els.nameRow.setAttribute("hidden", "");
     els.newRec.setAttribute("hidden", "");
   }
@@ -1474,23 +1524,72 @@ const tJson = JSON.stringify(t);
   }
   .kombat-help-list li { margin-bottom: 6px; }
 
-  .kombat-board-list {
-    list-style: none; padding: 0;
-    width: min(420px, 100%);
-    margin: 0 0 12px;
-    font-size: 0.65rem;
+  /* MK arcade high-score table ---------------------------------- */
+  .kombat-board-frame {
+    width: min(500px, 96%);
+    max-width: 100%;
+    border: 2px solid var(--kg-yellow);
+    background: rgba(0, 0, 0, 0.78);
+    box-shadow: 4px 4px 0 #000;
+    padding: 0;
+    margin: 0 0 14px;
   }
+  /* Shared column grid: rank | name | score | round. The leading
+   * px values give the rank/score/round fixed widths so the name
+   * column flexes between them. */
+  .kombat-board-head,
   .kombat-board-row {
     display: grid;
-    grid-template-columns: 28px 1fr auto;
-    gap: 12px;
-    padding: 8px 10px;
-    border-bottom: 1px solid #1a1a1a;
+    grid-template-columns: 36px 1fr 64px 56px;
+    gap: 8px;
+    padding: 10px 12px;
     align-items: baseline;
+    font-variant-numeric: tabular-nums;
   }
-  .kombat-board-rank { color: var(--kg-yellow); }
-  .kombat-board-name { color: var(--kg-text); }
-  .kombat-board-score { color: var(--kg-yellow); font-variant-numeric: tabular-nums; }
+  .kombat-board-head {
+    border-bottom: 2px solid var(--kg-yellow);
+    color: var(--kg-yellow);
+    font-size: 0.55rem;
+    letter-spacing: 0.14em;
+    text-shadow: 1px 1px 0 #000;
+    background: linear-gradient(180deg, rgba(255, 224, 0, 0.10), rgba(0, 0, 0, 0));
+  }
+  .kombat-board-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.55rem;
+    line-height: 1.4;
+  }
+  .kombat-board-row {
+    border-bottom: 1px solid rgba(255, 224, 0, 0.10);
+    color: var(--kg-text);
+    text-shadow: 1px 1px 0 #000;
+  }
+  .kombat-board-row:last-child { border-bottom: 0; }
+  .kombat-board-col-rank  { text-align: center; color: var(--kg-yellow); }
+  .kombat-board-col-name  { text-align: left;   overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .kombat-board-col-score { text-align: right;  color: var(--kg-yellow); }
+  .kombat-board-col-round { text-align: right;  color: var(--kg-text-dim); }
+  /* Empty (yet-to-be-claimed) slots — dim dashes so the table always
+   * reads as a full top-10. */
+  .kombat-board-row-empty .kombat-board-col-rank,
+  .kombat-board-row-empty .kombat-board-col-name,
+  .kombat-board-row-empty .kombat-board-col-score,
+  .kombat-board-row-empty .kombat-board-col-round {
+    color: rgba(245, 241, 216, 0.32);
+    text-shadow: none;
+  }
+  /* Highlight the row the player just submitted. */
+  .kombat-board-row.is-me {
+    background: rgba(255, 224, 0, 0.18);
+    box-shadow: inset 0 0 0 2px var(--kg-yellow);
+    color: var(--kg-yellow);
+  }
+  .kombat-board-row.is-me .kombat-board-col-name,
+  .kombat-board-row.is-me .kombat-board-col-round { color: var(--kg-yellow); }
+  /* Legacy "no scores yet" rule retained as a defensive no-op in case
+   * any older code path still pushes that li. */
   .kombat-board-empty {
     text-align: center;
     color: var(--kg-text-dim);
@@ -2035,7 +2134,19 @@ const tJson = JSON.stringify(t);
     }
     .kombat-overlay-title { font-size: clamp(0.95rem, 4.5vw, 1.3rem); }
     .kombat-help-list { font-size: 0.6rem; }
-    .kombat-board-list { font-size: 0.65rem; }
+    /* Tighten the high-score table for the ~330 px wide cabinet — the
+     * desktop 36/64/56 column widths would overflow. */
+    .kombat-board-frame { width: 100%; box-shadow: 3px 3px 0 #000; }
+    .kombat-board-head,
+    .kombat-board-row {
+      grid-template-columns: 26px 1fr 50px 44px;
+      gap: 6px;
+      padding: 7px 8px;
+    }
+    .kombat-board-head { font-size: 7px; letter-spacing: 0.1em; }
+    .kombat-board-list { font-size: 7px; }
+    .kombat-board-col-name { font-size: 8px; }
+    .kombat-board-col-score, .kombat-board-col-round { font-size: 8px; }
     .kombat-gameover-title { font-size: clamp(1.4rem, 7vw, 2rem); }
     .kombat-gameover-stats { font-size: 0.7rem; }
     .kombat-gameover-name input { font-size: 1rem; min-height: 48px; }

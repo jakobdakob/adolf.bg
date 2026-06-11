@@ -46,6 +46,15 @@ Two principal classification systems are in widespread use, each with its own cl
 
 (B2 ipsilateral, B3 contralateral or “bucket-handle”). The pelvic floor and posterior tension band remain intact, preventing vertical displacement. Type C, Rotationally and vertically unstable. The posterior tension band is completely disrupted; both rotational and vertical instability are present. Subtypes: C1 unilateral, C2 bilateral, C3 with associated acetabular fracture. The AO/OTA classification (region 61) substantially mirrors Tile with additional subtype detail.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Malgaigne 1847, the eponymous pelvic fracture</span>
+  <blockquote lang="fr">
+    <p>« Les fractures du bassin sont fort rares … Pour mettre plus d'ordre et de clarté dans cette étude, je décrirai d'abord les fractures propres à chacune des pièces osseuses du bassin … puis les fractures qui, affectant le bassin entier, présentent des phénomènes spéciaux importants à connaître, et que j'appellerai <em>doubles fractures verticales du bassin</em>. »</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "Fractures of the pelvis are very rare … To bring more order and clarity to this study, I shall first describe the fractures peculiar to each of the bony pieces of the pelvis … and then the fractures which, involving the whole pelvis, present special phenomena worth knowing, and which I shall call <em>double vertical fractures of the pelvis</em>."</p>
+  <p class="callout-source">— Joseph-François Malgaigne, <em>Traité des fractures et des luxations</em>, vol. 1, Chapter XV: « Des fractures du bassin » (Paris: Baillière, 1847), pp. 634–635. Malgaigne himself names the construct “<em>double fracture verticale</em>” — today’s <strong>Malgaigne fracture</strong> = Tile C / Young-Burgess VS. <a href="https://archive.org/details/BIUSante_32985x01" target="_blank" rel="noopener noreferrer">Facsimile on BIU Santé / Internet Archive →</a></p>
+</aside>
+
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
   <p>Two systems in one breath: Young-Burgess (1986) classifies by mechanism (LC, APC, VS, CM) and predicts hemorrhage patterns; Tile (1980) classifies by stability (A stable, B rotationally unstable, C completely unstable) and directs operative decisions. Tile/AO is what dictates fixation strategy; Young-Burgess is what shapes the resuscitation.</p>
@@ -164,6 +173,14 @@ Pediatric pelvic ring injuries are uncommon and have a substantially different p
 ## Postoperative Considerations and Complications
 
 The complications of operative pelvic ring fixation include infection (1 to 5 percent, higher with open fractures), neurological injury (typically L5 or S1 traction-related; iatrogenic injury from misplaced screws should be specifically considered), fixation failure with malunion or loss of reduction, chronic pain at the SI joints or symphysis, and sexual or urological dysfunction. Long-term outcomes correlate with the quality of reduction — patients with malreduction (residual asymmetry, leg-length discrepancy from vertical malreduction) have worse functional outcomes and higher rates of chronic pain. VTE prophylaxis (see [Topic Trauma-7](/en/trauma/7/)) is particularly important in pelvic ring injuries because of the very high baseline VTE risk; mechanical and pharmacological prophylaxis are typically begun within 24 hours of injury or surgery as discussed.
+
+## Sources and Classical Literature
+
+The 19th-century orthopaedic literature documents pelvic ring injuries in detail in the context of the then-dominant view of vertical stability and the rarity of survival-stage unstable fractures — so late observations of dysfunction from malunited pelvic fractures are more numerous than acute operative treatment. Malgaigne (Hôtel-Dieu, Paris) systematized fractures by location and introduced the construct of the “double vertical fracture,” which today bears his name and corresponds to Tile C / Young-Burgess VS — a label added a century later with the rise of osteosynthesis.
+
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 1, Chapter XV: « Des fractures du bassin » (Paris: Baillière). The original description of the Malgaigne fracture. · [Facsimile (BIU Santé)](https://archive.org/details/BIUSante_32985x01)
+- **Malgaigne — Atlas** to the Traité, illustrations of complex pelvic deformities. · [Facsimile](https://archive.org/details/BIUSante_00612)
+- **Larrey** (1812): *Mémoires de chirurgie militaire*, vol. 2, descriptions of battlefield pelvic injuries from the Napoleonic campaigns. · [Facsimile](https://archive.org/details/02larr)
 
 ## Summary and Take-Home Points
 

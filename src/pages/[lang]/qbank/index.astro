@@ -46,8 +46,10 @@ function testPath(e: typeof ortho[number]) {
     <span class="eyebrow">{t.qbankIntroTitle}</span>
     <h1 class="qb-title">{mixedCtaTitle}</h1>
     <p class="qb-lede">{mixedCtaMeta}</p>
-    <a class="qb-start" href={pathUrl(`/${lang}/qbank/mixed/`)}>{mixedCtaStart} →</a>
-    <a class="qb-start qb-start-game" href={pathUrl(`/${lang}/qbank/game/`)}>{gameCtaStart} →</a>
+    <div class="qb-cta-stack">
+      <a class="qb-start" href={pathUrl(`/${lang}/qbank/mixed/`)}>{mixedCtaStart} →</a>
+      <a class="qb-start qb-start-game" href={pathUrl(`/${lang}/qbank/game/`)}>{gameCtaStart} →</a>
+    </div>
   </section>
 
   <section class="qb-sections">
@@ -91,6 +93,12 @@ function testPath(e: typeof ortho[number]) {
     font-size: 1.0625rem;
     max-width: 60ch;
     margin: 0 0 var(--s-5);
+  }
+  .qb-cta-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s-3);
   }
   .qb-start {
     display: inline-flex;

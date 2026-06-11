@@ -3,286 +3,342 @@ import type { Lang } from "../i18n/ui";
 
 interface Props {
   lang: Lang;
-  /** URL of the merged question JSON the existing /test/ page also uses. */
+  /** URL of the curated game-data JSON (built by `npm run build:game-data`). */
   src: string;
   /** URL of the qbank index, used for the "back to Q-bank" link. */
   back: string;
 }
 const { lang, src, back } = Astro.props;
 
-// All copy lives here, both languages. Component-internal — not shared.
+/* ------------------------------------------------------------------ */
+/* Localised copy — every visible string in both languages.            */
+/* ------------------------------------------------------------------ */
 const t = lang === "bg"
   ? {
-      title:  "ОРТОПЕДИЧЕН БАТЪЛ",
-      subtitle: "Бойчо Бойчев срещу патогените",
-      menuPlay: "Започни",
-      menuLeaderboard: "Класиране",
-      menuHelp: "Как се играе",
-      menuBack: "Назад към Q-bank",
-      helpTitle: "Как се играе",
+      title:      "БОЙЧЕВ КОМБАТ",
+      subtitle:   "Изпит при професора",
+      pushStart:  "НАТИСНИ START",
+      menuPlay:   "ИГРАЙ",
+      menuLeaderboard: "КЛАСИРАНЕ",
+      menuHelp:   "КАК СЕ ИГРАЕ",
+      menuBack:   "Q-BANK",
+      helpTitle:  "КАК СЕ ИГРАЕ",
       help: [
-        "Въпросът се появява горе. Под него — 4 отговора, разположени в W A S D кръст.",
-        "Натисни клавиша W, A, S или D, за да избереш съответния отговор.",
-        "Верен отговор: +100 точки, ударяш патогена.",
-        "Грешен отговор: губиш един живот.",
-        "Имаш 3 живота. След всеки 10 верни отговора печелиш 1 живот (макс. 3).",
-        "При 0 живота — край на играта. Въведи името си за класирането.",
+        "Изпитът започва. W/A/S/D или 1/2/3/4 — избираш отговор.",
+        "Верен — удряш противника. Грешен — губиш живот.",
+        "5-и и 10-и кръг са МИНИ-БОСОВЕ: +HP, грешка = -2 живота.",
+        "Победи 10 патогена и ще се изправиш срещу ПРОФ. БОЙЧЕВ.",
+        "5 верни поред = 1.5×, 10 = 2×, 15 = 3× точки.",
+        "0 живота → КРАЙ НА ИГРАТА.",
       ],
-      backToMenu: "Назад към менюто",
-      gameOver: "КРАЙ",
+      backToMenu: "← НАЗАД",
+      gameOver:   "КРАЙ НА ИГРАТА",
+      fight:      "БОЙ!",
+      victory:    "ПОБЕДА!",
+      flawless:   "БЕЗУПРЕЧНА ПОБЕДА!",
+      finishHim:  "ДОВЪРШИ ГО!",
+      continueP:  "ПРОДЪЛЖИ?",
       newHighscore: "НОВ РЕКОРД!",
-      enterName: "Въведи името си",
-      save: "Запази",
-      yourScore: "Твоят резултат",
-      yourEnemies: "Победени патогени",
-      noLeaderboard: "Все още няма резултати.",
-      lives: "Животи",
-      score: "Точки",
-      round: "Рунд",
-      hero: "БОЙЧЕВ",
-      ko: "K. O.",
-      keepGoing: "Продължи",
-      restart: "Нова битка",
-      ouch: "ОЙ!",
-      extraLife: "+ЖИВОТ",
-      vs: "СРЕЩУ",
-      timeUp: "ВРЕМЕТО ИЗТЕЧЕ",
-      streak: "СЕРИЯ",
-      multiplier: "x",
-      bossIncoming: "БОС!",
+      enterName:  "ВЪВЕДИ ИМЕТО",
+      save:       "ЗАПАЗИ",
+      yourScore:  "ТОЧКИ",
+      yourEnemies: "ПОБЕДЕНИ",
+      noLeaderboard: "ВСЕ ОЩЕ НЯМА РЕЗУЛТАТИ.",
+      lives:      "ЖИВОТИ",
+      score:      "ТОЧКИ",
+      round:      "КРЪГ",
+      hero:       "СПЕЦИАЛИЗАНТ",
+      bossPrefix: "ПРОФ. ",
+      ouch:       "ОЙ!",
+      extraLife:  "+ЖИВОТ",
+      vs:         "СРЕЩУ",
+      streak:     "СЕРИЯ",
+      multiplier: "×",
+      bossIncoming: "МИНИ-БОС!",
+      finalIncoming: "ФИНАЛЕН БОС!",
       doubleDamage: "-2 ЖИВОТА",
-      worstTopics: "Най-слаби теми",
-      wrongOf: "грешни от",
-      practiceLink: "практикувай →",
+      worstTopics: "НАЙ-СЛАБИ ТЕМИ",
+      wrongOf:    "грешни от",
+      restart:    "НОВ БОЙ",
+      finalVictory: "ИЗДЪРЖА ИЗПИТА!",
+      bestStreak: "НАЙ-ДЪЛГА СЕРИЯ",
     }
   : {
-      title:  "ORTHOPAEDIC KOMBAT",
-      subtitle: "Boycho Boychev vs. the pathogens",
-      menuPlay: "Start",
-      menuLeaderboard: "Leaderboard",
-      menuHelp: "How to play",
-      menuBack: "Back to Q-bank",
-      helpTitle: "How to play",
+      title:      "BOYCHEV KOMBAT",
+      subtitle:   "The professor's exam",
+      pushStart:  "PUSH START",
+      menuPlay:   "START",
+      menuLeaderboard: "LEADERBOARD",
+      menuHelp:   "HOW TO PLAY",
+      menuBack:   "Q-BANK",
+      helpTitle:  "HOW TO PLAY",
       help: [
-        "A question appears at the top. Below — 4 answers arranged in a W A S D cross.",
-        "Press W, A, S, or D to pick that answer.",
-        "Right answer: +100 score, hit the pathogen.",
-        "Wrong answer: lose a life.",
-        "You start with 3 lives. Every 10 right answers earns +1 life (cap 3).",
-        "0 lives = game over. Enter your name to make the leaderboard.",
+        "Exam in session. Press W/A/S/D or 1/2/3/4 to answer.",
+        "Right answer hits your opponent. Wrong — you lose a life.",
+        "Rounds 5 & 10 are MINI-BOSSES: more HP, wrong = -2 lives.",
+        "Defeat 10 pathogens, then face PROF. BOYCHEV — the final boss.",
+        "5 in a row = 1.5×, 10 = 2×, 15 = 3× score.",
+        "0 lives → GAME OVER.",
       ],
-      backToMenu: "Back to menu",
-      gameOver: "GAME OVER",
+      backToMenu: "← BACK",
+      gameOver:   "GAME OVER",
+      fight:      "FIGHT!",
+      victory:    "VICTORY!",
+      flawless:   "FLAWLESS VICTORY!",
+      finishHim:  "FINISH HIM!",
+      continueP:  "CONTINUE?",
       newHighscore: "NEW HIGHSCORE!",
-      enterName: "Enter your name",
-      save: "Save",
-      yourScore: "Your score",
-      yourEnemies: "Pathogens defeated",
-      noLeaderboard: "No scores yet.",
-      lives: "Lives",
-      score: "Score",
-      round: "Round",
-      hero: "BOYCHEV",
-      ko: "K. O.",
-      keepGoing: "Keep going",
-      restart: "Fight again",
-      ouch: "OUCH",
-      extraLife: "+LIFE",
-      vs: "VS",
-      timeUp: "TIME UP",
-      streak: "STREAK",
-      multiplier: "x",
-      bossIncoming: "BOSS!",
+      enterName:  "ENTER YOUR NAME",
+      save:       "SAVE",
+      yourScore:  "SCORE",
+      yourEnemies: "DEFEATED",
+      noLeaderboard: "NO SCORES YET.",
+      lives:      "LIVES",
+      score:      "SCORE",
+      round:      "ROUND",
+      hero:       "RESIDENT",
+      bossPrefix: "PROF. ",
+      ouch:       "OUCH",
+      extraLife:  "+LIFE",
+      vs:         "VS",
+      streak:     "STREAK",
+      multiplier: "×",
+      bossIncoming: "MINI-BOSS!",
+      finalIncoming: "FINAL BOSS!",
       doubleDamage: "-2 LIVES",
-      worstTopics: "Weakest topics",
-      wrongOf: "wrong out of",
-      practiceLink: "practice →",
+      worstTopics: "WEAKEST TOPICS",
+      wrongOf:    "wrong of",
+      restart:    "FIGHT AGAIN",
+      finalVictory: "EXAM PASSED!",
+      bestStreak: "LONGEST STREAK",
     };
 
-// Germ roster — same in both languages (Latin names).
-//
-//   hp:       how many right answers it takes to defeat them
-//   boss:     spawned every 5 rounds; +50% HP, wrong answer costs 2 lives
-//   topicPat: regex source string matched (case-insensitively) against topic
-//             titles in BG and EN. Questions from matching topics form this
-//             germ's draw pool. If <40 questions match, the game falls back to
-//             the full pool so the player never starves. Patterns are kept as
-//             strings (not RegExp objects) so they survive JSON serialisation.
-const germs = [
-  { name: "STAPH AUREUS",    hp: 4, color: "#E76F51", icon: "🦠",
+/* ------------------------------------------------------------------ */
+/* Wave roster — 10 germs in fixed order + Prof. Boychev (final).      */
+/*                                                                    */
+/*  hp          how many right answers to defeat                       */
+/*  topicPat    regex source (case-insensitive) matched against BG+EN  */
+/*              topic titles; questions from matching topics form this  */
+/*              enemy's draw pool. <40 matches falls back to full pool. */
+/*  boss        mini-boss: wrong answer costs 2 lives                   */
+/*  final       Prof. Boychev — same -2 penalty, much higher HP         */
+/* ------------------------------------------------------------------ */
+const enemies = [
+  { name: "STAPH AUREUS",    hp: 4,  color: "#39ff14", icon: "🦠",
     topicPat: "(pyogen|septic|osteomyel|infect|инфекц|остеомиел|септ)" },
-  { name: "M. R. S. A.",     hp: 6, color: "#E63946", icon: "💀", boss: true,
-    topicPat: "(pyogen|septic|osteomyel|infect|prosth|arthroplast|инфекц|остеомиел|септ|артропласт|ендопрот)" },
-  { name: "STREP PYOGENES",  hp: 4, color: "#F4A261", icon: "🟠",
+  { name: "STREP PYOGENES",  hp: 4,  color: "#39ff14", icon: "🟠",
     topicPat: "(pyogen|septic|wound|cellul|инфекц|септ|рана|гной)" },
-  { name: "E. COLI",         hp: 4, color: "#52B788", icon: "🟢",
+  { name: "E. COLI",         hp: 4,  color: "#39ff14", icon: "🟢",
     topicPat: "(spine|spondyl|pelvi|sacr|спин|спондил|тазов|сакр|гръбнач)" },
-  { name: "PSEUDOMONAS",     hp: 5, color: "#2A9D8F", icon: "🦠",
+  { name: "PSEUDOMONAS",     hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(osteomyel|arthroplast|prosth|complication|остеомиел|артропласт|ендопрот|усложнен)" },
-  { name: "C. DIFFICILE",    hp: 5, color: "#8D6E63", icon: "💩",
-    topicPat: "(complication|nonunion|delayed|sudeck|volkmann|усложнен|неконсолид|забавен)" },
-  { name: "KLEBSIELLA",      hp: 5, color: "#A06CD5", icon: "🦠",
+  { name: "M. R. S. A.",     hp: 6,  color: "#ffe000", icon: "💀", boss: true,
+    topicPat: "(pyogen|septic|osteomyel|infect|prosth|arthroplast|инфекц|остеомиел|септ|артропласт|ендопрот)" },
+  { name: "KLEBSIELLA",      hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(infect|wound|polytrauma|инфекц|рана|политравм)" },
-  { name: "ACINETOBACTER",   hp: 6, color: "#FFB703", icon: "⚡",
+  { name: "ACINETOBACTER",   hp: 5,  color: "#39ff14", icon: "⚡",
     topicPat: "(gunshot|wound|polytraum|amput|crush|огнестрел|рана|политравм|ампут)" },
-  { name: "ENTEROCOCCUS",    hp: 5, color: "#4DA8DA", icon: "🦠",
+  { name: "ENTEROCOCCUS",    hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(arthroplast|prosth|coxarthros|gonarthros|артропласт|ендопрот|коксартроз|гонартроз)" },
-  { name: "M. TUBERCULOSIS", hp: 7, color: "#6D597A", icon: "☠️", boss: true,
+  { name: "C. DIFFICILE",    hp: 5,  color: "#39ff14", icon: "💩",
+    topicPat: "(complication|nonunion|delayed|sudeck|volkmann|усложнен|неконсолид|забавен)" },
+  { name: "M. TUBERCULOSIS", hp: 6,  color: "#ffe000", icon: "☠️", boss: true,
     topicPat: "(tubercul|spondyliti|ankylosing|spine|туберкул|спондил|спин|гръбнач)" },
+  // Round 11 — final boss. Pulls questions from anywhere in the pool.
+  { name: "БОЙЧО БОЙЧЕВ",    hp: 12, color: "#e01010", icon: "🥼", final: true,
+    topicPat: "" },
 ];
-const germsJson = JSON.stringify(germs);
+
+const enemiesJson = JSON.stringify(enemies);
 const tJson = JSON.stringify(t);
 ---
+
+<!-- Google Font: Press Start 2P. Harmless if already cached. -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" />
+
 <section
   class="kombat"
   data-kombat
   data-lang={lang}
   data-src={src}
   data-back={back}
-  data-germs={germsJson}
+  data-enemies={enemiesJson}
   data-t={tJson}
 >
-  <!-- Stage / background -->
-  <div class="kombat-stage" data-kombat-stage>
+  <div class="kombat-cabinet">
+    <div class="kombat-marquee" aria-hidden="true">
+      <span class="kombat-marquee-dot" />
+      <span class="kombat-marquee-text">BOYCHEV KOMBAT · 100% MED-CERTIFIED</span>
+      <span class="kombat-marquee-dot" />
+    </div>
 
-    <!-- Top HUD: score / round / lives -->
-    <div class="kombat-hud">
-      <div class="kombat-hud-side kombat-hud-left">
-        <div class="kombat-hud-label">{t.hero}</div>
-        <div class="kombat-hp-bar"><div class="kombat-hp-fill kombat-hp-fill-hero" data-kombat-hero-hp></div></div>
-        <div class="kombat-lives" data-kombat-lives>
-          <span class="kombat-life">♥</span>
-          <span class="kombat-life">♥</span>
-          <span class="kombat-life">♥</span>
+    <div class="kombat-bezel">
+      <div class="kombat-screen" data-kombat-screen-wrap>
+
+        <div class="kombat-hud">
+          <div class="kombat-hud-side kombat-hud-left">
+            <div class="kombat-hud-label">{t.hero}</div>
+            <div class="kombat-hp-bar"><div class="kombat-hp-fill kombat-hp-hero" data-kombat-hero-hp></div></div>
+            <div class="kombat-lives" data-kombat-lives>
+              <span class="kombat-life">♥</span>
+              <span class="kombat-life">♥</span>
+              <span class="kombat-life">♥</span>
+            </div>
+          </div>
+          <div class="kombat-hud-center">
+            <div class="kombat-hud-label">{t.score}</div>
+            <div class="kombat-hud-score" data-kombat-score>0000</div>
+            <div class="kombat-hud-meta">
+              <span>{t.round}</span>
+              <span data-kombat-round>1</span>
+              <span class="kombat-hud-sep">/</span>
+              <span>11</span>
+            </div>
+            <div class="kombat-hud-streak" data-kombat-streak hidden>
+              <span data-kombat-streak-val>0</span> {t.streak}
+              <span class="kombat-hud-mult" data-kombat-streak-mult></span>
+            </div>
+          </div>
+          <div class="kombat-hud-side kombat-hud-right">
+            <div class="kombat-hud-label" data-kombat-foe-name>STAPH AUREUS</div>
+            <div class="kombat-hp-bar"><div class="kombat-hp-fill kombat-hp-foe" data-kombat-foe-hp></div></div>
+            <div class="kombat-hud-vs">{t.vs}</div>
+          </div>
+        </div>
+
+        <div class="kombat-arena">
+          <div class="kombat-fighter kombat-fighter-hero" data-kombat-hero>
+            <img class="kombat-portrait" src="/game/boychev.png" alt={t.hero} onerror="this.style.display='none'" />
+            <div class="kombat-portrait-fallback kombat-portrait-fallback-hero">🧑‍⚕️</div>
+            <div class="kombat-fighter-name">{t.hero}</div>
+          </div>
+          <div class="kombat-fighter kombat-fighter-foe" data-kombat-foe>
+            <div class="kombat-foe-emoji" data-kombat-foe-icon>🦠</div>
+            <div class="kombat-fighter-name" data-kombat-foe-label>STAPH AUREUS</div>
+          </div>
+        </div>
+
+        <div class="kombat-crt" aria-hidden="true"></div>
+        <div class="kombat-banner" data-kombat-banner hidden></div>
+        <div class="kombat-fx" data-kombat-fx aria-hidden="true"></div>
+
+        <div class="kombat-overlay kombat-menu" data-kombat-screen="menu">
+          <div class="kombat-logo">{t.title}</div>
+          <div class="kombat-logo-sub">{t.subtitle}</div>
+          <div class="kombat-push" data-kombat-push>{t.pushStart}</div>
+          <div class="kombat-menu-buttons">
+            <button type="button" class="kombat-cab-btn kombat-cab-btn-primary" data-kombat-menu="play">{t.menuPlay} ▶</button>
+            <button type="button" class="kombat-cab-btn" data-kombat-menu="leaderboard">{t.menuLeaderboard}</button>
+            <button type="button" class="kombat-cab-btn" data-kombat-menu="help">{t.menuHelp}</button>
+            <a class="kombat-cab-btn kombat-cab-btn-ghost" href={back}>← {t.menuBack}</a>
+          </div>
+        </div>
+
+        <div class="kombat-overlay kombat-help" data-kombat-screen="help" hidden>
+          <h2 class="kombat-overlay-title">{t.helpTitle}</h2>
+          <div class="kombat-wasd-diagram" aria-hidden="true">
+            <div class="kombat-wasd-key kombat-wasd-key-w">W</div>
+            <div class="kombat-wasd-key kombat-wasd-key-a">A</div>
+            <div class="kombat-wasd-key kombat-wasd-key-s">S</div>
+            <div class="kombat-wasd-key kombat-wasd-key-d">D</div>
+          </div>
+          <ol class="kombat-help-list">
+            {t.help.map((line) => <li>{line}</li>)}
+          </ol>
+          <button type="button" class="kombat-cab-btn" data-kombat-menu="menu">{t.backToMenu}</button>
+        </div>
+
+        <div class="kombat-overlay kombat-board" data-kombat-screen="leaderboard" hidden>
+          <h2 class="kombat-overlay-title">{t.menuLeaderboard}</h2>
+          <ol class="kombat-board-list" data-kombat-board-list>
+            <li class="kombat-board-empty">{t.noLeaderboard}</li>
+          </ol>
+          <button type="button" class="kombat-cab-btn" data-kombat-menu="menu">{t.backToMenu}</button>
+        </div>
+
+        <div class="kombat-overlay kombat-gameover" data-kombat-screen="gameover" hidden>
+          <div class="kombat-gameover-title" data-kombat-gameover-title>{t.gameOver}</div>
+          <div class="kombat-gameover-stats">
+            <div class="kombat-gameover-row"><span>{t.yourScore}</span><span class="kombat-gameover-val" data-kombat-final-score>0</span></div>
+            <div class="kombat-gameover-row"><span>{t.yourEnemies}</span><span class="kombat-gameover-val" data-kombat-final-kills>0</span></div>
+            <div class="kombat-gameover-row"><span>{t.bestStreak}</span><span class="kombat-gameover-val" data-kombat-final-streak>0</span></div>
+          </div>
+          <div class="kombat-gameover-highscore" data-kombat-newrec hidden>★ {t.newHighscore} ★</div>
+          <div class="kombat-weakness" data-kombat-weakness hidden></div>
+          <div class="kombat-gameover-name" data-kombat-name-row hidden>
+            <label for="kombat-name">{t.enterName}</label>
+            <input id="kombat-name" type="text" maxlength="14" autocomplete="off" />
+            <button type="button" class="kombat-cab-btn kombat-cab-btn-primary" data-kombat-save>{t.save}</button>
+          </div>
+          <div class="kombat-gameover-actions">
+            <button type="button" class="kombat-cab-btn kombat-cab-btn-primary" data-kombat-menu="play">{t.restart} ▶</button>
+            <button type="button" class="kombat-cab-btn" data-kombat-menu="menu">{t.backToMenu}</button>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="kombat-deck" data-kombat-deck>
+        <div class="kombat-q" data-kombat-question hidden>
+          <div class="kombat-q-meta" data-kombat-q-meta></div>
+          <div class="kombat-q-stem" data-kombat-q-stem></div>
+        </div>
+        <div class="kombat-answers" data-kombat-options hidden>
+          <button type="button" class="kombat-key" data-kombat-option="0">
+            <span class="kombat-key-letter">W</span>
+            <span class="kombat-key-num">1</span>
+            <span class="kombat-key-text"></span>
+          </button>
+          <button type="button" class="kombat-key" data-kombat-option="1">
+            <span class="kombat-key-letter">A</span>
+            <span class="kombat-key-num">2</span>
+            <span class="kombat-key-text"></span>
+          </button>
+          <button type="button" class="kombat-key" data-kombat-option="2">
+            <span class="kombat-key-letter">S</span>
+            <span class="kombat-key-num">3</span>
+            <span class="kombat-key-text"></span>
+          </button>
+          <button type="button" class="kombat-key" data-kombat-option="3">
+            <span class="kombat-key-letter">D</span>
+            <span class="kombat-key-num">4</span>
+            <span class="kombat-key-text"></span>
+          </button>
+        </div>
+        <div class="kombat-deck-hint" data-kombat-deck-hint>
+          {t.pushStart}
         </div>
       </div>
-      <div class="kombat-hud-center">
-        <div class="kombat-hud-meta">{t.score}</div>
-        <div class="kombat-hud-score" data-kombat-score>0000</div>
-        <div class="kombat-hud-meta">{t.round} <span data-kombat-round>1</span></div>
-      </div>
-      <div class="kombat-hud-side kombat-hud-right">
-        <div class="kombat-hud-label" data-kombat-germ-name>STAPH AUREUS</div>
-        <div class="kombat-hp-bar"><div class="kombat-hp-fill kombat-hp-fill-foe" data-kombat-germ-hp></div></div>
-        <div class="kombat-vs">{t.vs}</div>
-      </div>
     </div>
-
-    <!-- Fighters -->
-    <div class="kombat-arena">
-      <div class="kombat-fighter kombat-fighter-hero" data-kombat-hero>
-        <img class="kombat-portrait" src="/game/boychev.png" alt={t.hero} onerror="this.style.display='none'" />
-        <div class="kombat-portrait-fallback">👨‍⚕️</div>
-        <div class="kombat-fighter-name">{t.hero}</div>
-      </div>
-      <div class="kombat-fighter kombat-fighter-foe" data-kombat-foe>
-        <div class="kombat-foe-emoji" data-kombat-germ-icon>🦠</div>
-        <div class="kombat-fighter-name" data-kombat-germ-label>STAPH AUREUS</div>
-      </div>
-    </div>
-
-    <!-- Question dialog -->
-    <div class="kombat-question" data-kombat-question hidden>
-      <div class="kombat-question-meta" data-kombat-q-meta></div>
-      <div class="kombat-question-stem" data-kombat-q-stem></div>
-    </div>
-
-    <!-- WASD cross of answers -->
-    <div class="kombat-wasd" data-kombat-options hidden>
-      <button type="button" class="kombat-key kombat-key-w" data-kombat-option="0">
-        <span class="kombat-key-letter">W</span>
-        <span class="kombat-key-text"></span>
-      </button>
-      <button type="button" class="kombat-key kombat-key-a" data-kombat-option="1">
-        <span class="kombat-key-letter">A</span>
-        <span class="kombat-key-text"></span>
-      </button>
-      <button type="button" class="kombat-key kombat-key-s" data-kombat-option="2">
-        <span class="kombat-key-letter">S</span>
-        <span class="kombat-key-text"></span>
-      </button>
-      <button type="button" class="kombat-key kombat-key-d" data-kombat-option="3">
-        <span class="kombat-key-letter">D</span>
-        <span class="kombat-key-text"></span>
-      </button>
-    </div>
-
-    <!-- Flash effects layer -->
-    <div class="kombat-fx" data-kombat-fx aria-hidden="true"></div>
-
-    <!-- Menu screen -->
-    <div class="kombat-screen kombat-menu" data-kombat-screen="menu">
-      <div class="kombat-menu-title">{t.title}</div>
-      <div class="kombat-menu-subtitle">{t.subtitle}</div>
-      <button type="button" class="kombat-menu-item kombat-menu-item-primary" data-kombat-menu="play">{t.menuPlay} ▶</button>
-      <button type="button" class="kombat-menu-item" data-kombat-menu="leaderboard">{t.menuLeaderboard}</button>
-      <button type="button" class="kombat-menu-item" data-kombat-menu="help">{t.menuHelp}</button>
-      <a class="kombat-menu-item kombat-menu-item-back" href={back}>← {t.menuBack}</a>
-    </div>
-
-    <!-- Help screen -->
-    <div class="kombat-screen kombat-help" data-kombat-screen="help" hidden>
-      <h2 class="kombat-screen-title">{t.helpTitle}</h2>
-      <div class="kombat-wasd-diagram" aria-hidden="true">
-        <div class="kombat-wasd-key kombat-wasd-key-w">W</div>
-        <div class="kombat-wasd-key kombat-wasd-key-a">A</div>
-        <div class="kombat-wasd-key kombat-wasd-key-s">S</div>
-        <div class="kombat-wasd-key kombat-wasd-key-d">D</div>
-      </div>
-      <ol class="kombat-help-list">
-        {t.help.map((line) => <li>{line}</li>)}
-      </ol>
-      <button type="button" class="kombat-menu-item" data-kombat-menu="menu">← {t.backToMenu}</button>
-    </div>
-
-    <!-- Leaderboard screen -->
-    <div class="kombat-screen kombat-board" data-kombat-screen="leaderboard" hidden>
-      <h2 class="kombat-screen-title">{t.menuLeaderboard}</h2>
-      <ol class="kombat-board-list" data-kombat-board-list>
-        <li class="kombat-board-empty">{t.noLeaderboard}</li>
-      </ol>
-      <button type="button" class="kombat-menu-item" data-kombat-menu="menu">← {t.backToMenu}</button>
-    </div>
-
-    <!-- Game over screen -->
-    <div class="kombat-screen kombat-gameover" data-kombat-screen="gameover" hidden>
-      <div class="kombat-gameover-title">{t.gameOver}</div>
-      <div class="kombat-gameover-row"><span class="kombat-gameover-label">{t.yourScore}</span><span class="kombat-gameover-val" data-kombat-final-score>0</span></div>
-      <div class="kombat-gameover-row"><span class="kombat-gameover-label">{t.yourEnemies}</span><span class="kombat-gameover-val" data-kombat-final-kills>0</span></div>
-      <div class="kombat-gameover-highscore" data-kombat-newrec hidden>★ {t.newHighscore} ★</div>
-      <div class="kombat-weakness" data-kombat-weakness hidden></div>
-      <div class="kombat-gameover-name" data-kombat-name-row>
-        <label for="kombat-name">{t.enterName}</label>
-        <input id="kombat-name" type="text" maxlength="14" autocomplete="off" />
-        <button type="button" data-kombat-save>{t.save}</button>
-      </div>
-      <button type="button" class="kombat-menu-item kombat-menu-item-primary" data-kombat-menu="play">{t.restart} ▶</button>
-      <button type="button" class="kombat-menu-item" data-kombat-menu="menu">← {t.backToMenu}</button>
-    </div>
-
   </div>
 </section>
 
-<script is:inline define:vars={{ tJson, germsJson }}>
+<script is:inline define:vars={{ tJson, enemiesJson }}>
 (function () {
   const root = document.querySelector("[data-kombat]");
   if (!root) return;
   const lang = root.dataset.lang;
   const src = root.dataset.src;
   const T = JSON.parse(tJson);
-  const GERMS = JSON.parse(germsJson);
-
+  const ENEMIES = JSON.parse(enemiesJson);
+  const FINAL_IDX = ENEMIES.length - 1;
   const STORAGE_KEY = "kombat-leaderboard-v1";
 
-  // -- Cache DOM refs ----------------------------------------------------
   const els = {
-    stage:      root.querySelector("[data-kombat-stage]"),
+    screenWrap: root.querySelector("[data-kombat-screen-wrap]"),
+    deck:       root.querySelector("[data-kombat-deck]"),
+    deckHint:   root.querySelector("[data-kombat-deck-hint]"),
     score:      root.querySelector("[data-kombat-score]"),
     round:      root.querySelector("[data-kombat-round]"),
-    germName:   root.querySelector("[data-kombat-germ-name]"),
-    germLabel:  root.querySelector("[data-kombat-germ-label]"),
-    germIcon:   root.querySelector("[data-kombat-germ-icon]"),
-    germHp:     root.querySelector("[data-kombat-germ-hp]"),
+    streakHud:  root.querySelector("[data-kombat-streak]"),
+    streakVal:  root.querySelector("[data-kombat-streak-val]"),
+    streakMult: root.querySelector("[data-kombat-streak-mult]"),
+    foeName:    root.querySelector("[data-kombat-foe-name]"),
+    foeLabel:   root.querySelector("[data-kombat-foe-label]"),
+    foeIcon:    root.querySelector("[data-kombat-foe-icon]"),
+    foeHp:      root.querySelector("[data-kombat-foe-hp]"),
     heroHp:     root.querySelector("[data-kombat-hero-hp]"),
     lives:      root.querySelector("[data-kombat-lives]"),
     hero:       root.querySelector("[data-kombat-hero]"),
@@ -293,8 +349,11 @@ const tJson = JSON.stringify(t);
     options:    root.querySelector("[data-kombat-options]"),
     optionBtns: root.querySelectorAll("[data-kombat-option]"),
     fx:         root.querySelector("[data-kombat-fx]"),
+    banner:     root.querySelector("[data-kombat-banner]"),
     finalScore: root.querySelector("[data-kombat-final-score]"),
     finalKills: root.querySelector("[data-kombat-final-kills]"),
+    finalStreak:root.querySelector("[data-kombat-final-streak]"),
+    gameoverTitle: root.querySelector("[data-kombat-gameover-title]"),
     newRec:     root.querySelector("[data-kombat-newrec]"),
     weakness:   root.querySelector("[data-kombat-weakness]"),
     nameInput:  root.querySelector("#kombat-name"),
@@ -303,21 +362,26 @@ const tJson = JSON.stringify(t);
     boardList:  root.querySelector("[data-kombat-board-list]"),
   };
 
-  const screens = root.querySelectorAll("[data-kombat-screen]");
+  const overlays = root.querySelectorAll("[data-kombat-screen]");
 
-  function showScreen(name) {
-    screens.forEach((s) => {
-      if (s.dataset.kombatScreen === name) s.removeAttribute("hidden");
-      else s.setAttribute("hidden", "");
+  function showOverlay(name) {
+    overlays.forEach((o) => {
+      if (o.dataset.kombatScreen === name) o.removeAttribute("hidden");
+      else o.setAttribute("hidden", "");
     });
-    const isPlaying = name === "playing";
-    if (els.question) els.question.toggleAttribute("hidden", !isPlaying);
-    if (els.options) els.options.toggleAttribute("hidden", !isPlaying);
+  }
+  function hideOverlay() { overlays.forEach((o) => o.setAttribute("hidden", "")); }
+
+  function setDeck(visible) {
+    if (els.question) els.question.toggleAttribute("hidden", !visible);
+    if (els.options) els.options.toggleAttribute("hidden", !visible);
+    if (els.deckHint) els.deckHint.toggleAttribute("hidden", visible);
   }
 
-  // -- Question pool -----------------------------------------------------
   let pool = null;
-  let topicTitles = null;  // { section: { [topicNum]: { bg, en } } } — from game.json
+  let topicTitles = null;
+  let enemyPools = null;
+
   async function loadPool() {
     if (pool) return pool;
     const res = await fetch(src, { cache: "force-cache" });
@@ -328,8 +392,31 @@ const tJson = JSON.stringify(t);
     return pool;
   }
 
+  function buildEnemyPools() {
+    if (enemyPools || !pool || !pool.length) return;
+    enemyPools = { "*": pool };
+    for (const e of ENEMIES) {
+      if (!e.topicPat) { enemyPools[e.name] = pool; continue; }
+      let re;
+      try { re = new RegExp(e.topicPat, "i"); }
+      catch (err) { enemyPools[e.name] = pool; continue; }
+      const matchedTopicKeys = new Set();
+      if (topicTitles) {
+        for (const sect of Object.keys(topicTitles)) {
+          for (const n of Object.keys(topicTitles[sect])) {
+            const tt = topicTitles[sect][n];
+            if (re.test(tt.en || "") || re.test(tt.bg || "")) {
+              matchedTopicKeys.add(sect + ":" + n);
+            }
+          }
+        }
+      }
+      const sub = pool.filter((q) => matchedTopicKeys.has(q.section + ":" + q.topic));
+      enemyPools[e.name] = sub.length >= 40 ? sub : pool;
+    }
+  }
+
   function topicLabel(q) {
-    // Prefer the lookup-table title; fall back to whatever's on the question.
     if (topicTitles && q && q.section && q.topic != null) {
       const sect = topicTitles[q.section];
       if (sect) {
@@ -337,50 +424,24 @@ const tJson = JSON.stringify(t);
         if (entry) return entry[lang] || entry.en || entry.bg || "";
       }
     }
-    if (q && q.topicTitle) {
-      if (typeof q.topicTitle === "string") return q.topicTitle;
-      return q.topicTitle[lang] || q.topicTitle.en || q.topicTitle.bg || "";
-    }
     return "";
   }
 
-  // Per-germ pre-filtered question pools, computed once after loadPool.
-  // Map keyed by germ name → array of questions, plus a "*" key for the full pool.
-  let germPools = null;
-  function buildGermPools() {
-    if (germPools || !pool || !pool.length) return;
-    germPools = { "*": pool };
-    for (const g of GERMS) {
-      if (!g.topicPat) { germPools[g.name] = pool; continue; }
-      let re;
-      try { re = new RegExp(g.topicPat, "i"); }
-      catch (e) { germPools[g.name] = pool; continue; }
-      // Resolve topic titles for filtering; we accept a hit in either language.
-      const matchedTopicKeys = new Set();
-      if (topicTitles) {
-        for (const sect of Object.keys(topicTitles)) {
-          for (const n of Object.keys(topicTitles[sect])) {
-            const t = topicTitles[sect][n];
-            if (re.test(t.en || "") || re.test(t.bg || "")) {
-              matchedTopicKeys.add(sect + ":" + n);
-            }
-          }
-        }
-      }
-      const sub = pool.filter((q) => matchedTopicKeys.has(q.section + ":" + q.topic));
-      // Fall back to the full pool if the filter is too narrow.
-      germPools[g.name] = sub.length >= 40 ? sub : pool;
+  function topicTitleFor(section, topic) {
+    if (topicTitles && topicTitles[section]) {
+      const entry = topicTitles[section][topic] || topicTitles[section][String(topic)];
+      if (entry) return entry[lang] || entry.en || entry.bg || "";
     }
+    return section + " " + topic;
   }
 
   function pickQuestion() {
     if (!pool || !pool.length) return null;
-    const germName = state && state.currentGerm && state.currentGerm.name;
-    const p = (germName && germPools && germPools[germName]) || pool;
+    const eName = state && state.currentEnemy && state.currentEnemy.name;
+    const p = (eName && enemyPools && enemyPools[eName]) || pool;
     return p[Math.floor(Math.random() * p.length)];
   }
 
-  // -- Game state --------------------------------------------------------
   let state = null;
 
   function freshState() {
@@ -392,73 +453,109 @@ const tJson = JSON.stringify(t);
       correctSinceLife: 0,
       streak: 0,
       bestStreak: 0,
-      currentGerm: null,
-      currentGermHpMax: 0,
-      currentGermHpLeft: 0,
+      currentEnemy: null,
+      currentEnemyIdx: -1,
+      currentHpMax: 0,
+      currentHpLeft: 0,
+      damageThisRound: 0,
+      finishHimShown: false,
       currentQ: null,
       currentLocale: null,
       currentCorrect: -1,
       busy: false,
-      // Per-topic stats for the post-game weakness report.
-      // Keyed "section:topic" → {correct, wrong}.
       topicStats: Object.create(null),
     };
   }
 
-  function pickGerm(round) {
-    // Every 5th round (5, 10, 15…) summons a boss.
-    if (round > 0 && round % 5 === 0) {
-      const bosses = GERMS.filter((g) => g.boss);
-      if (bosses.length) return bosses[Math.floor(Math.random() * bosses.length)];
+  function banner(text, kind, duration) {
+    if (!els.banner) return;
+    els.banner.className = "kombat-banner is-" + (kind || "default");
+    els.banner.textContent = text;
+    els.banner.removeAttribute("hidden");
+    void els.banner.offsetWidth;
+    els.banner.classList.add("is-shown");
+    const dur = duration == null ? 1500 : duration;
+    if (dur > 0) {
+      clearTimeout(banner._t);
+      banner._t = setTimeout(() => {
+        els.banner.classList.remove("is-shown");
+        els.banner.setAttribute("hidden", "");
+      }, dur);
     }
-    const normals = GERMS.filter((g) => !g.boss);
-    const pool = normals.length ? normals : GERMS;
-    return pool[Math.floor(Math.random() * pool.length)];
   }
 
-  function nextGerm() {
-    const g = pickGerm(state.round);
-    state.currentGerm = g;
-    // Bosses are +50% HP (rounded up) so they hit harder visually + difficulty.
-    const hpMax = g.boss ? Math.ceil(g.hp * 1.5) : g.hp;
-    state.currentGermHpMax = hpMax;
-    state.currentGermHpLeft = hpMax;
-    const tag = g.boss ? " ★" : "";
-    els.germName.textContent = g.name + tag;
-    els.germLabel.textContent = g.name + tag;
-    els.germIcon.textContent = g.icon;
-    els.germIcon.style.color = g.color;
-    els.germHp.style.background = g.color;
-    if (g.boss) {
-      toast(T.bossIncoming, "boss");
-      flash("is-hit-foe");
-    }
-    drawGermHp();
+  function flash(kind) {
+    els.fx.classList.remove("is-hit-hero", "is-hit-foe", "is-life-up");
+    void els.fx.offsetWidth;
+    els.fx.classList.add(kind);
   }
 
-  function drawGermHp() {
-    const pct = Math.max(0, state.currentGermHpLeft / state.currentGermHpMax) * 100;
-    els.germHp.style.width = pct + "%";
+  function nextEnemy() {
+    const idx = Math.min(state.round - 1, FINAL_IDX);
+    const e = ENEMIES[idx];
+    state.currentEnemy = e;
+    state.currentEnemyIdx = idx;
+    state.currentHpMax = e.hp;
+    state.currentHpLeft = e.hp;
+    state.damageThisRound = 0;
+    state.finishHimShown = false;
+    drawEnemy();
+    drawHp();
+    const showFight = () => banner(T.fight, "fight", 900);
+    if (e.final) {
+      banner(T.finalIncoming, "boss", 1300);
+      setTimeout(showFight, 1350);
+      setTimeout(showQuestion, 2350);
+    } else if (e.boss) {
+      banner(T.bossIncoming, "boss", 1100);
+      setTimeout(showFight, 1150);
+      setTimeout(showQuestion, 2100);
+    } else {
+      showFight();
+      setTimeout(showQuestion, 950);
+    }
+  }
+
+  function drawEnemy() {
+    const e = state.currentEnemy;
+    const labelName = e.final ? (T.bossPrefix + e.name) : (e.boss ? (e.name + " ★") : e.name);
+    els.foeName.textContent = labelName;
+    els.foeLabel.textContent = labelName;
+    els.foeIcon.textContent = e.icon;
+    els.foeIcon.style.color = e.color;
+    els.foeHp.style.background = "linear-gradient(180deg, " + e.color + " 0%, #0a0a0a 100%)";
+    els.foe.classList.toggle("kombat-fighter-final", !!e.final);
+    els.foe.classList.toggle("kombat-fighter-boss", !!e.boss && !e.final);
+  }
+
+  function drawHp() {
+    const pct = Math.max(0, state.currentHpLeft / state.currentHpMax) * 100;
+    els.foeHp.style.width = pct + "%";
   }
   function drawHeroHp() {
-    // Hero "HP" bar tracks lives proportionally (3 = full).
     const pct = (state.lives / 3) * 100;
     els.heroHp.style.width = pct + "%";
-    // Re-render hearts row
     const hearts = els.lives.querySelectorAll(".kombat-life");
-    hearts.forEach((h, i) => {
-      h.style.opacity = i < state.lives ? "1" : "0.18";
-    });
+    hearts.forEach((h, i) => { h.style.opacity = i < state.lives ? "1" : "0.18"; });
   }
   function drawScore() {
     els.score.textContent = String(state.score).padStart(4, "0");
     els.round.textContent = state.round;
   }
+  function drawStreak() {
+    if (state.streak >= 5) {
+      els.streakHud.removeAttribute("hidden");
+      els.streakVal.textContent = state.streak;
+      const m = streakMultiplier(state.streak);
+      els.streakMult.textContent = " (" + m + T.multiplier + ")";
+    } else {
+      els.streakHud.setAttribute("hidden", "");
+    }
+  }
 
-  // -- Question rendering -----------------------------------------------
   function showQuestion() {
     const q = pickQuestion();
-    if (!q) { gameOver(); return; }
+    if (!q) { gameOver(false); return; }
     state.currentQ = q;
     const loc = q[lang] || q.en || q.bg;
     state.currentLocale = loc;
@@ -466,33 +563,33 @@ const tJson = JSON.stringify(t);
     const meta = topicLabel(q);
     els.qMeta.textContent = meta ? ("Q · " + meta) : "Q";
     els.qStem.textContent = loc.stem;
-    const labels = ["W", "A", "S", "D"];
     els.optionBtns.forEach((btn, i) => {
       btn.classList.remove("is-correct", "is-wrong");
       btn.disabled = false;
-      const t = btn.querySelector(".kombat-key-text");
-      if (t) t.textContent = loc.options[i] ?? "";
+      const tt = btn.querySelector(".kombat-key-text");
+      if (tt) tt.textContent = loc.options[i] != null ? loc.options[i] : "";
     });
     state.busy = false;
   }
 
-  function flash(kind) {
-    els.fx.classList.remove("is-hit-hero", "is-hit-foe", "is-life-up");
-    // force reflow so the class re-application re-triggers the animation
-    void els.fx.offsetWidth;
-    els.fx.classList.add(kind);
+  function streakMultiplier(streak) {
+    if (streak >= 15) return 3;
+    if (streak >= 10) return 2;
+    if (streak >= 5)  return 1.5;
+    return 1;
   }
 
-  function toast(text, kind) {
-    const el = document.createElement("div");
-    el.className = "kombat-toast kombat-toast-" + kind;
-    el.textContent = text;
-    els.stage.appendChild(el);
-    setTimeout(() => el.remove(), 1300);
+  function recordTopicStat(q, ok) {
+    if (!q || !q.section || q.topic == null) return;
+    const key = q.section + ":" + q.topic;
+    const slot = state.topicStats[key] ||
+      (state.topicStats[key] = { correct: 0, wrong: 0, section: q.section, topic: q.topic });
+    if (ok) slot.correct += 1; else slot.wrong += 1;
   }
 
   function handleAnswer(idx) {
-    if (state.busy) return;
+    if (!state || state.busy) return;
+    if (els.question.hasAttribute("hidden")) return;
     state.busy = true;
     const correct = idx === state.currentCorrect;
     const chosen = els.optionBtns[idx];
@@ -505,21 +602,6 @@ const tJson = JSON.stringify(t);
     else onWrong();
   }
 
-  // Score multiplier ramps with streak: 1× → 1.5× (≥5) → 2× (≥10) → 3× (≥15).
-  function streakMultiplier(streak) {
-    if (streak >= 15) return 3;
-    if (streak >= 10) return 2;
-    if (streak >= 5)  return 1.5;
-    return 1;
-  }
-
-  function recordTopicStat(q, ok) {
-    if (!q || !q.section || q.topic == null) return;
-    const key = q.section + ":" + q.topic;
-    const slot = state.topicStats[key] || (state.topicStats[key] = { correct: 0, wrong: 0, section: q.section, topic: q.topic });
-    if (ok) slot.correct += 1; else slot.wrong += 1;
-  }
-
   function onCorrect() {
     recordTopicStat(state.currentQ, true);
     const prevStreak = state.streak;
@@ -527,42 +609,55 @@ const tJson = JSON.stringify(t);
     if (state.streak > state.bestStreak) state.bestStreak = state.streak;
     const mult = streakMultiplier(state.streak);
     state.score += Math.round(100 * mult);
-    state.currentGermHpLeft -= 1;
+    state.currentHpLeft -= 1;
     state.correctSinceLife += 1;
-    drawGermHp();
+    drawHp();
     drawScore();
-    // Fire a streak toast on milestones (5, 10, 15…) without spamming.
+    drawStreak();
+    els.foe.classList.add("is-hit");
+    flash("is-hit-foe");
+    setTimeout(() => els.foe.classList.remove("is-hit"), 240);
+
     if (state.streak !== prevStreak &&
         (state.streak === 5 || state.streak === 10 || state.streak === 15 ||
          (state.streak > 15 && state.streak % 5 === 0))) {
-      toast(state.streak + " " + T.streak + " (" + mult + T.multiplier + ")", "streak");
+      banner(state.streak + "× " + T.streak, "streak", 900);
     }
-    els.foe.classList.add("is-hit");
-    flash("is-hit-foe");
-    setTimeout(() => els.foe.classList.remove("is-hit"), 250);
 
-    // Extra life every 10 correct in a row, capped at 3
+    if (state.currentHpLeft === 1 && !state.finishHimShown) {
+      state.finishHimShown = true;
+      setTimeout(() => banner(T.finishHim, "finish", 1100), 80);
+    }
+
     if (state.correctSinceLife >= 10) {
       state.correctSinceLife = 0;
       if (state.lives < 3) {
         state.lives += 1;
         drawHeroHp();
-        toast(T.extraLife, "life");
+        banner(T.extraLife, "life", 900);
         flash("is-life-up");
       }
     }
 
-    if (state.currentGermHpLeft <= 0) {
+    if (state.currentHpLeft <= 0) {
       state.kills += 1;
-      state.round += 1;
-      toast(T.ko, "ko");
       els.foe.classList.add("is-dead");
+      const wasFlawless = state.damageThisRound === 0;
+      const e = state.currentEnemy;
+      const isFinal = !!e.final;
+      const victoryText = isFinal ? T.finalVictory : (wasFlawless ? T.flawless : T.victory);
+      const victoryKind = isFinal ? "flawless" : (wasFlawless ? "flawless" : "victory");
+      setTimeout(() => banner(victoryText, victoryKind, 1500), 120);
       setTimeout(() => {
         els.foe.classList.remove("is-dead");
-        nextGerm();
-        drawScore();
-        showQuestion();
-      }, 900);
+        if (isFinal) {
+          gameOver(true);
+        } else {
+          state.round += 1;
+          drawScore();
+          nextEnemy();
+        }
+      }, 1700);
     } else {
       setTimeout(showQuestion, 700);
     }
@@ -570,36 +665,55 @@ const tJson = JSON.stringify(t);
 
   function onWrong() {
     recordTopicStat(state.currentQ, false);
-    // Bosses punish harder.
-    const penalty = state.currentGerm && state.currentGerm.boss ? 2 : 1;
+    const e = state.currentEnemy;
+    const penalty = (e && (e.boss || e.final)) ? 2 : 1;
     state.lives = Math.max(0, state.lives - penalty);
+    state.damageThisRound += penalty;
     state.streak = 0;
     drawHeroHp();
+    drawStreak();
     flash("is-hit-hero");
     els.hero.classList.add("is-hit");
-    toast(penalty > 1 ? T.doubleDamage : T.ouch, penalty > 1 ? "boss" : "ouch");
-    setTimeout(() => els.hero.classList.remove("is-hit"), 250);
+    if (penalty > 1) banner(T.doubleDamage, "boss", 900);
+    else banner(T.ouch, "ouch", 700);
+    setTimeout(() => els.hero.classList.remove("is-hit"), 240);
     if (state.lives <= 0) {
-      setTimeout(gameOver, 900);
+      setTimeout(() => gameOver(false), 1100);
     } else {
-      setTimeout(showQuestion, 900);
+      setTimeout(showQuestion, 1100);
     }
   }
 
-  // -- Game over + leaderboard ------------------------------------------
-  function topicTitleFor(section, topic) {
-    if (topicTitles && topicTitles[section]) {
-      const entry = topicTitles[section][topic] || topicTitles[section][String(topic)];
-      if (entry) return entry[lang] || entry.en || entry.bg || "";
+  function gameOver(victorious) {
+    setDeck(false);
+    showOverlay("gameover");
+    els.finalScore.textContent = state.score;
+    els.finalKills.textContent = state.kills;
+    els.finalStreak.textContent = state.bestStreak;
+    if (els.gameoverTitle) {
+      els.gameoverTitle.textContent = victorious ? T.finalVictory : T.gameOver;
+      els.gameoverTitle.classList.toggle("is-victorious", !!victorious);
     }
-    return section + " " + topic;
+    renderWeakness();
+    const board = loadBoard();
+    const lowest = board.length < 10 ? 0 : board[board.length - 1].score;
+    const qualifies = state.score > 0 && (board.length < 10 || state.score > lowest);
+    if (qualifies) {
+      els.newRec.removeAttribute("hidden");
+      els.nameRow.removeAttribute("hidden");
+      if (els.nameInput) els.nameInput.focus();
+    } else {
+      els.newRec.setAttribute("hidden", "");
+      els.nameRow.setAttribute("hidden", "");
+    }
   }
 
   function renderWeakness() {
     if (!els.weakness) return;
     const rows = Object.values(state.topicStats)
       .filter((s) => (s.correct + s.wrong) >= 2)
-      .map((s) => ({ ...s, total: s.correct + s.wrong, rate: s.wrong / (s.correct + s.wrong) }))
+      .map((s) => ({ correct: s.correct, wrong: s.wrong, section: s.section, topic: s.topic,
+                     total: s.correct + s.wrong, rate: s.wrong / (s.correct + s.wrong) }))
       .filter((s) => s.wrong > 0)
       .sort((a, b) => b.rate - a.rate || b.wrong - a.wrong)
       .slice(0, 3);
@@ -614,29 +728,11 @@ const tJson = JSON.stringify(t);
       return '<li class="kombat-weak-row">' +
         '<span class="kombat-weak-title">' + escapeHtml(title) + '</span>' +
         '<span class="kombat-weak-count">' + r.wrong + " / " + r.total + ' ' + escapeHtml(T.wrongOf) + '</span>' +
-        '</li>';
+      '</li>';
     }).join("");
     els.weakness.innerHTML =
       '<div class="kombat-weak-title-row">' + escapeHtml(T.worstTopics) + '</div>' +
       '<ol class="kombat-weak-list">' + items + '</ol>';
-  }
-
-  function gameOver() {
-    showScreen("gameover");
-    els.finalScore.textContent = state.score;
-    els.finalKills.textContent = state.kills;
-    renderWeakness();
-    const board = loadBoard();
-    const lowest = board.length < 10 ? 0 : board[board.length - 1].score;
-    const qualifies = state.score > 0 && (board.length < 10 || state.score > lowest);
-    if (qualifies) {
-      els.newRec.removeAttribute("hidden");
-      els.nameRow.style.display = "";
-      if (els.nameInput) els.nameInput.focus();
-    } else {
-      els.newRec.setAttribute("hidden", "");
-      els.nameRow.style.display = "none";
-    }
   }
 
   function loadBoard() {
@@ -679,23 +775,23 @@ const tJson = JSON.stringify(t);
     board.push({ name: raw, score: state.score, kills: state.kills, at: Date.now() });
     board.sort((a, b) => b.score - a.score);
     saveBoard(board);
-    els.nameRow.style.display = "none";
+    els.nameRow.setAttribute("hidden", "");
     els.newRec.setAttribute("hidden", "");
   }
 
-  // -- Wire up ----------------------------------------------------------
   root.querySelectorAll("[data-kombat-menu]").forEach((btn) => {
-    btn.addEventListener("click", async (ev) => {
+    btn.addEventListener("click", async () => {
       const action = btn.dataset.kombatMenu;
       if (action === "play") {
         await startGame();
       } else if (action === "leaderboard") {
         renderBoard();
-        showScreen("leaderboard");
+        showOverlay("leaderboard");
       } else if (action === "help") {
-        showScreen("help");
+        showOverlay("help");
       } else if (action === "menu") {
-        showScreen("menu");
+        setDeck(false);
+        showOverlay("menu");
       }
     });
   });
@@ -704,506 +800,430 @@ const tJson = JSON.stringify(t);
     btn.addEventListener("click", () => handleAnswer(parseInt(btn.dataset.kombatOption, 10)));
   });
 
-  // Keyboard: WASD
   document.addEventListener("keydown", (ev) => {
     if (!state || state.busy) return;
-    if (els.question.hasAttribute("hidden")) return;
+    if (!els.options || els.options.hasAttribute("hidden")) return;
     const k = ev.key.toLowerCase();
-    const map = { w: 0, a: 1, s: 2, d: 3 };
+    const map = { w: 0, a: 1, s: 2, d: 3, "1": 0, "2": 1, "3": 2, "4": 3 };
     if (k in map) {
       ev.preventDefault();
       handleAnswer(map[k]);
     }
   });
 
-  els.saveBtn?.addEventListener("click", commitName);
-  els.nameInput?.addEventListener("keydown", (ev) => {
+  els.saveBtn && els.saveBtn.addEventListener("click", commitName);
+  els.nameInput && els.nameInput.addEventListener("keydown", (ev) => {
     if (ev.key === "Enter") { ev.preventDefault(); commitName(); }
   });
 
   async function startGame() {
     try {
       await loadPool();
-      buildGermPools();
+      buildEnemyPools();
     } catch (e) {
       console.error(e);
       return;
     }
     state = freshState();
-    nextGerm();
     drawHeroHp();
     drawScore();
-    showScreen("playing");
-    showQuestion();
+    drawStreak();
+    hideOverlay();
+    setDeck(true);
+    nextEnemy();
   }
 
-  // Init: show menu
-  showScreen("menu");
+  setDeck(false);
+  showOverlay("menu");
 })();
 </script>
 
 <style>
   .kombat {
-    --kombat-bg: #0a0d12;
-    --kombat-fg: #f4f1eb;
-    --kombat-accent: #f5b82e;
-    --kombat-danger: #e63946;
-    --kombat-life: #2a9d8f;
-  }
-  .kombat-stage {
-    position: relative;
-    width: 100%;
-    max-width: 1100px;
-    aspect-ratio: 16 / 10;
-    margin: var(--s-7) auto;
-    border-radius: 12px;
-    overflow: hidden;
-    background:
-      linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.75) 100%),
-      url("/game/hospital-bg.jpg") center/cover no-repeat,
-      linear-gradient(180deg, #1a2025 0%, #2a3540 60%, #0e1216 100%);
-    color: var(--kombat-fg);
-    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.45);
-    font-family: "Trebuchet MS", "Arial Black", sans-serif;
+    --kg-cabinet:   #0a0a0a;
+    --kg-bezel:     #050505;
+    --kg-bezel-rim: #1a1a1a;
+    --kg-screen-a:  #0e1a16;
+    --kg-screen-b:  #050a0c;
+    --kg-deck:      #19120a;
+    --kg-deck-trim: #2a1f10;
+    --kg-yellow:    #ffe000;
+    --kg-yellow-h:  #ffce58;
+    --kg-orange:    #ff7a18;
+    --kg-red:       #e01010;
+    --kg-blood:     #9a0000;
+    --kg-green:     #39ff14;
+    --kg-green-d:   #063b00;
+    --kg-text:      #f5f1d8;
+    --kg-text-dim:  rgba(245, 241, 216, 0.7);
+    --kg-key-bg-1:  #2a2a2a;
+    --kg-key-bg-2:  #0a0a0a;
+    --kg-key-shadow: 0 4px 0 #000, inset 0 0 0 1px #444;
+    font-family: "Press Start 2P", "Courier New", ui-monospace, monospace;
+    color: var(--kg-text);
+    line-height: 1.4;
     user-select: none;
   }
-  @media (max-width: 600px) {
-    .kombat-stage { aspect-ratio: 4 / 5; }
+
+  .kombat-cabinet {
+    max-width: 1100px;
+    margin: var(--s-7, 32px) auto;
+    background:
+      radial-gradient(120% 80% at 50% -20%, #2a2a2a 0%, #0a0a0a 60%),
+      var(--kg-cabinet);
+    border-radius: 22px;
+    padding: 18px 22px 26px;
+    box-shadow:
+      0 30px 80px rgba(0, 0, 0, 0.55),
+      inset 0 0 0 4px #1a1a1a,
+      inset 0 0 0 6px #2a2a2a;
+  }
+  .kombat-marquee {
+    display: flex; justify-content: center; align-items: center;
+    gap: 14px; padding: 6px 0 12px;
+    color: var(--kg-yellow);
+    font-size: 0.55rem;
+    letter-spacing: 0.18em;
+    text-shadow: 0 0 8px rgba(255, 224, 0, 0.4);
+  }
+  .kombat-marquee-dot {
+    width: 8px; height: 8px;
+    background: var(--kg-red);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--kg-red), 0 0 16px var(--kg-blood);
+    animation: kombat-blink 1.4s steps(2) infinite;
+  }
+  .kombat-marquee-text { white-space: nowrap; }
+
+  .kombat-bezel {
+    background: var(--kg-bezel);
+    border: 4px solid var(--kg-bezel-rim);
+    border-radius: 12px;
+    padding: 14px;
+    box-shadow:
+      inset 0 0 22px rgba(0, 0, 0, 0.85),
+      inset 0 0 0 2px #000;
   }
 
-  /* HUD ────────────────────────────────────────────────────────────── */
+  .kombat-screen {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    background:
+      /* dark gradient veil so the HUD/fighters stay readable */
+      linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.25) 45%, rgba(0,0,0,0.78) 100%),
+      /* hospital photo — staged at public/game/hospital-bg.jpg; falls through to gradient if missing */
+      url("/game/hospital-bg.jpg") center 35% / cover no-repeat,
+      radial-gradient(110% 90% at 50% 30%, rgba(20,42,40,0.65) 0%, rgba(0,0,0,0) 60%),
+      linear-gradient(180deg, var(--kg-screen-a), var(--kg-screen-b));
+    border: 2px solid #000;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow:
+      inset 0 0 30px rgba(0, 0, 0, 0.85),
+      inset 0 0 80px rgba(0, 200, 120, 0.06);
+  }
+
+  .kombat-crt {
+    position: absolute; inset: 0;
+    pointer-events: none;
+    z-index: 30;
+    background:
+      repeating-linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.30) 0px, rgba(0,0,0,0.30) 1px,
+        rgba(0,0,0,0) 1px, rgba(0,0,0,0) 3px),
+      radial-gradient(ellipse 100% 100% at center, transparent 50%, rgba(0,0,0,0.55) 100%);
+    mix-blend-mode: multiply;
+  }
+
   .kombat-hud {
     position: absolute;
-    inset: 12px 12px auto 12px;
+    inset: 12px 14px auto 14px;
     display: grid;
     grid-template-columns: 1fr auto 1fr;
-    gap: 1rem;
+    gap: 12px;
     z-index: 6;
     pointer-events: none;
   }
-  .kombat-hud-side { display: flex; flex-direction: column; gap: 6px; }
-  .kombat-hud-right { align-items: flex-end; }
+  .kombat-hud-side { display: flex; flex-direction: column; gap: 5px; }
+  .kombat-hud-right { align-items: flex-end; text-align: right; }
   .kombat-hud-label {
-    font-size: 0.85rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    color: var(--kombat-accent);
-    text-shadow: 0 1px 2px #000, 0 0 6px rgba(0,0,0,0.6);
+    font-size: 0.55rem;
+    letter-spacing: 0.14em;
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000;
+    max-width: 220px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
   .kombat-hp-bar {
-    width: clamp(120px, 25vw, 320px);
+    width: clamp(120px, 26vw, 320px);
     height: 14px;
-    background: rgba(255,255,255,0.18);
-    border: 1.5px solid rgba(0,0,0,0.55);
-    border-radius: 3px;
+    background: #000;
+    border: 2px solid #000;
+    box-shadow: inset 0 0 0 1px #2a2a2a;
     overflow: hidden;
+    border-radius: 0;
   }
-  .kombat-hp-fill { height: 100%; width: 100%; transition: width 320ms ease; }
-  .kombat-hp-fill-hero { background: var(--kombat-life); }
+  .kombat-hp-fill {
+    height: 100%; width: 100%;
+    transition: width 280ms ease;
+    box-shadow: inset 0 0 0 2px var(--kg-green-d);
+  }
+  .kombat-hp-hero,
+  .kombat-hp-foe {
+    background: linear-gradient(180deg, var(--kg-green) 0%, var(--kg-green-d) 100%);
+  }
   .kombat-lives {
-    display: flex;
-    gap: 4px;
-    font-size: 1.1rem;
-    color: var(--kombat-danger);
-    text-shadow: 0 1px 1px #000;
+    display: flex; gap: 4px;
+    font-size: 0.9rem;
+    color: var(--kg-red);
+    text-shadow: 2px 2px 0 #000;
   }
-  .kombat-hud-center {
-    text-align: center;
-    color: var(--kombat-fg);
-    text-shadow: 0 1px 2px #000;
+  .kombat-hud-center { text-align: center; color: var(--kg-text); }
+  .kombat-hud-score {
+    font-size: clamp(1.1rem, 2.8vw, 1.8rem);
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000, 0 0 10px rgba(255, 224, 0, 0.4);
+    letter-spacing: 0.06em;
+    margin: 4px 0;
   }
   .kombat-hud-meta {
-    font-size: 0.7rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    opacity: 0.85;
+    font-size: 0.55rem;
+    color: var(--kg-text-dim);
+    letter-spacing: 0.14em;
+    display: inline-flex; gap: 6px;
   }
-  .kombat-hud-score {
-    font-size: clamp(1.4rem, 3.2vw, 2.2rem);
-    font-weight: 900;
-    color: var(--kombat-accent);
-    letter-spacing: 0.05em;
+  .kombat-hud-sep { opacity: 0.5; }
+  .kombat-hud-streak {
+    margin-top: 6px;
+    font-size: 0.55rem;
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000;
+    animation: kombat-pulse 800ms ease-in-out infinite;
   }
-  .kombat-vs {
-    font-size: 0.75rem;
+  .kombat-hud-mult { color: var(--kg-orange); }
+  .kombat-hud-vs {
+    font-size: 0.55rem;
+    color: var(--kg-text-dim);
     letter-spacing: 0.2em;
-    opacity: 0.6;
   }
 
-  /* Fighters ───────────────────────────────────────────────────────── */
   .kombat-arena {
     position: absolute;
-    inset: 90px 16px 220px;
+    inset: 110px 16px 24px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: end;
     z-index: 3;
   }
-  .kombat-fighter {
-    text-align: center;
-    transition: transform 220ms ease;
-  }
-  .kombat-fighter.is-hit { animation: kombat-shake 220ms; }
+  .kombat-fighter { text-align: center; transition: transform 200ms ease; }
+  .kombat-fighter.is-hit { animation: kombat-shake 240ms; }
   .kombat-fighter.is-dead { animation: kombat-die 800ms forwards; }
+  .kombat-fighter-final .kombat-foe-emoji {
+    text-shadow: 0 0 14px var(--kg-red), 0 6px 0 var(--kg-blood);
+    animation: kombat-pulse 900ms ease-in-out infinite;
+  }
+  .kombat-fighter-boss .kombat-foe-emoji {
+    text-shadow: 0 0 14px var(--kg-yellow), 0 6px 0 #000;
+  }
   .kombat-portrait {
-    width: clamp(140px, 30vw, 280px);
-    height: auto;
-    object-fit: contain;
-    filter: drop-shadow(0 8px 16px rgba(0,0,0,0.6));
+    width: clamp(120px, 26vw, 220px);
+    height: auto; object-fit: contain;
+    filter: drop-shadow(0 6px 0 #000) drop-shadow(0 0 14px rgba(57, 255, 20, 0.18));
   }
   .kombat-portrait-fallback {
-    font-size: clamp(5rem, 12vw, 9rem);
+    font-size: clamp(4.5rem, 11vw, 8rem);
     line-height: 1;
+    text-shadow: 0 4px 0 #000, 0 0 12px rgba(57, 255, 20, 0.4);
   }
-  /* Hide fallback if real img loads — but onerror in HTML hides img.
-   * If img not present (CSS-only check), fallback shows. */
   .kombat-fighter-name {
-    font-size: 0.85rem;
-    letter-spacing: 0.1em;
-    color: var(--kombat-accent);
-    text-shadow: 0 1px 2px #000;
-    margin-top: 6px;
+    font-size: 0.6rem;
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000;
+    margin-top: 8px;
+    letter-spacing: 0.06em;
   }
   .kombat-foe-emoji {
-    font-size: clamp(5rem, 13vw, 11rem);
+    font-size: clamp(5rem, 13vw, 10rem);
     line-height: 1;
-    text-shadow: 0 6px 20px rgba(0,0,0,0.6);
+    text-shadow: 0 6px 0 #000;
   }
 
-  /* Question ───────────────────────────────────────────────────────── */
-  .kombat-question {
+  .kombat-banner {
     position: absolute;
-    left: 50%;
-    top: 100px;
-    transform: translateX(-50%);
-    max-width: min(720px, calc(100% - 32px));
-    background: rgba(0,0,0,0.78);
-    border: 2px solid rgba(245, 184, 46, 0.55);
-    border-radius: 8px;
-    padding: 12px 16px;
-    z-index: 7;
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
-    width: 90%;
-  }
-  .kombat-question[hidden] { display: none; }
-  .kombat-question-meta {
-    font-size: 0.7rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--kombat-accent);
-    margin-bottom: 4px;
-  }
-  .kombat-question-stem {
-    font-size: clamp(0.92rem, 1.7vw, 1.05rem);
-    line-height: 1.4;
-    color: var(--kombat-fg);
-  }
-
-  /* WASD cross of answer keys ───────────────────────────────────── */
-  .kombat-wasd {
-    position: absolute;
-    bottom: 16px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: grid;
-    grid-template-columns: minmax(80px, 1fr) minmax(80px, 1fr) minmax(80px, 1fr);
-    grid-template-rows: 1fr 1fr;
-    grid-template-areas:
-      ".  w  ."
-      "a  s  d";
-    gap: 6px;
-    width: min(820px, calc(100% - 24px));
-    z-index: 8;
-  }
-  .kombat-wasd[hidden] { display: none; }
-  .kombat-key-w { grid-area: w; }
-  .kombat-key-a { grid-area: a; }
-  .kombat-key-s { grid-area: s; }
-  .kombat-key-d { grid-area: d; }
-  .kombat-key {
-    appearance: none;
-    border: 2px solid rgba(245, 184, 46, 0.65);
-    background: rgba(15, 18, 22, 0.85);
-    color: var(--kombat-fg);
-    border-radius: 8px;
-    padding: 10px 12px;
-    text-align: left;
-    font-family: inherit;
-    font-size: clamp(0.78rem, 1.4vw, 0.95rem);
-    line-height: 1.25;
-    cursor: pointer;
-    display: grid;
-    grid-template-columns: 28px 1fr;
-    align-items: center;
-    gap: 8px;
-    min-height: 48px;            /* WCAG tap-target floor for touch */
-    -webkit-tap-highlight-color: transparent;
-    touch-action: manipulation;  /* kill 300ms tap delay on iOS */
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
-    transition: transform 120ms ease, background-color 120ms ease, border-color 120ms ease;
-  }
-  .kombat-key:hover { background: rgba(245, 184, 46, 0.15); }
-  .kombat-key:active { transform: scale(0.97); }
-  .kombat-key-letter {
-    font-size: 1.1rem;
-    font-weight: 900;
-    color: var(--kombat-accent);
+    left: 50%; top: 38%;
+    transform: translate(-50%, -50%);
+    font-size: clamp(1.6rem, 5vw, 3.2rem);
+    color: var(--kg-yellow);
+    text-shadow: 4px 4px 0 #000, 0 0 24px rgba(255, 224, 0, 0.5);
+    z-index: 25;
+    pointer-events: none;
     text-align: center;
-    background: rgba(245, 184, 46, 0.18);
-    border: 1.5px solid rgba(245, 184, 46, 0.45);
-    border-radius: 6px;
-    padding: 2px 0;
+    line-height: 1.1;
+    opacity: 0;
+    transition: opacity 180ms ease;
   }
-  .kombat-key.is-correct {
-    background: rgba(42, 157, 143, 0.4);
-    border-color: var(--kombat-life);
+  .kombat-banner.is-shown { animation: kombat-banner-pop 1300ms ease-out forwards; }
+  .kombat-banner.is-fight {
+    color: var(--kg-yellow);
+    text-shadow: 4px 4px 0 #000, 0 0 24px var(--kg-orange);
   }
-  .kombat-key.is-wrong {
-    background: rgba(230, 57, 70, 0.4);
-    border-color: var(--kombat-danger);
+  .kombat-banner.is-victory {
+    color: var(--kg-green);
+    text-shadow: 4px 4px 0 #000, 0 0 24px var(--kg-green);
+  }
+  .kombat-banner.is-flawless {
+    background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 60%, var(--kg-red) 100%);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent; color: transparent;
+    text-shadow: none;
+    filter: drop-shadow(4px 4px 0 #000) drop-shadow(0 0 18px rgba(255, 122, 24, 0.6));
+  }
+  .kombat-banner.is-finish {
+    color: var(--kg-red);
+    text-shadow: 4px 4px 0 #000, 0 0 28px var(--kg-blood);
+    animation-duration: 1100ms;
+  }
+  .kombat-banner.is-gameover,
+  .kombat-banner.is-boss {
+    color: var(--kg-red);
+    text-shadow: 4px 4px 0 #000, 0 0 28px var(--kg-blood);
+  }
+  .kombat-banner.is-streak {
+    color: var(--kg-orange);
+    text-shadow: 4px 4px 0 #000, 0 0 18px var(--kg-yellow);
+    font-size: clamp(1.2rem, 3.6vw, 2.2rem);
+  }
+  .kombat-banner.is-life {
+    color: var(--kg-green);
+    text-shadow: 4px 4px 0 #000, 0 0 18px var(--kg-green);
+    font-size: clamp(1.2rem, 3.6vw, 2.2rem);
+  }
+  .kombat-banner.is-ouch {
+    color: var(--kg-red);
+    text-shadow: 3px 3px 0 #000;
+    font-size: clamp(1.1rem, 3.2vw, 2rem);
+  }
+  @keyframes kombat-banner-pop {
+    0%   { opacity: 0; transform: translate(-50%, -50%) scale(0.5); }
+    18%  { opacity: 1; transform: translate(-50%, -50%) scale(1.18); }
+    35%  { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    80%  { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    100% { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
   }
 
-  /* FX layer ───────────────────────────────────────────────────── */
   .kombat-fx {
-    position: absolute;
-    inset: 0;
+    position: absolute; inset: 0;
     pointer-events: none;
     z-index: 5;
   }
-  .kombat-fx.is-hit-hero { animation: kombat-flash-red 350ms; }
-  .kombat-fx.is-hit-foe { animation: kombat-flash-gold 350ms; }
-  .kombat-fx.is-life-up { animation: kombat-flash-green 600ms; }
+  .kombat-fx.is-hit-hero { animation: kombat-flash-red 320ms; }
+  .kombat-fx.is-hit-foe  { animation: kombat-flash-white 220ms; }
+  .kombat-fx.is-life-up  { animation: kombat-flash-green 600ms; }
 
-  @keyframes kombat-flash-red {
-    0%   { background: rgba(230, 57, 70, 0); }
-    25%  { background: rgba(230, 57, 70, 0.45); }
-    100% { background: rgba(230, 57, 70, 0); }
-  }
-  @keyframes kombat-flash-gold {
-    0%   { background: rgba(245, 184, 46, 0); }
-    25%  { background: rgba(245, 184, 46, 0.45); }
-    100% { background: rgba(245, 184, 46, 0); }
-  }
-  @keyframes kombat-flash-green {
-    0%   { background: rgba(42, 157, 143, 0); }
-    50%  { background: rgba(42, 157, 143, 0.5); }
-    100% { background: rgba(42, 157, 143, 0); }
-  }
+  @keyframes kombat-flash-red   { 0%,100% {background:rgba(224,16,16,0);} 25% {background:rgba(224,16,16,0.45);} }
+  @keyframes kombat-flash-white { 0%,100% {background:rgba(255,255,255,0);} 25% {background:rgba(255,255,255,0.55);} }
+  @keyframes kombat-flash-green { 0%,100% {background:rgba(57,255,20,0);} 50% {background:rgba(57,255,20,0.45);} }
   @keyframes kombat-shake {
     0%, 100% { transform: translateX(0); }
-    25% { transform: translateX(-6px); }
-    50% { transform: translateX(6px); }
-    75% { transform: translateX(-4px); }
+    25% { transform: translateX(-7px); }
+    50% { transform: translateX(7px); }
+    75% { transform: translateX(-5px); }
   }
   @keyframes kombat-die {
     0% { opacity: 1; transform: translateY(0) scale(1); }
     100% { opacity: 0; transform: translateY(40px) scale(0.7) rotate(20deg); }
   }
+  @keyframes kombat-blink { 50% { opacity: 0.25; } }
+  @keyframes kombat-pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.08); } }
 
-  /* Toast text ───────────────────────────────────────────────── */
-  .kombat-toast {
-    position: absolute;
-    left: 50%;
-    top: 40%;
-    transform: translate(-50%, -50%);
-    font-size: clamp(2rem, 6vw, 3.6rem);
-    font-weight: 900;
-    letter-spacing: 0.06em;
-    z-index: 10;
-    text-shadow: 0 3px 0 #000, 0 6px 20px rgba(0,0,0,0.6);
-    animation: kombat-toast-pop 1300ms forwards;
-    pointer-events: none;
-  }
-  .kombat-toast-ko { color: var(--kombat-accent); }
-  .kombat-toast-ouch { color: var(--kombat-danger); }
-  .kombat-toast-life { color: var(--kombat-life); }
-  .kombat-toast-streak {
-    color: #ffd864;
-    text-shadow: 0 3px 0 #000, 0 0 24px rgba(255, 216, 100, 0.7);
-  }
-  .kombat-toast-boss {
-    color: #ff4b6b;
-    text-shadow: 0 3px 0 #000, 0 0 28px rgba(255, 75, 107, 0.7);
-  }
-  @keyframes kombat-toast-pop {
-    0% { opacity: 0; transform: translate(-50%, -50%) scale(0.4); }
-    20% { opacity: 1; transform: translate(-50%, -50%) scale(1.2); }
-    50% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
-    100% { opacity: 0; transform: translate(-50%, -100%) scale(0.95); }
-  }
-
-  /* Screens (menu / help / leaderboard / game over) ──────────── */
-  .kombat-screen {
-    position: absolute;
-    inset: 0;
+  .kombat-overlay {
+    position: absolute; inset: 0;
     z-index: 20;
-    display: grid;
-    place-content: center;
-    place-items: center;
-    gap: 12px;
-    padding: 24px;
-    background: rgba(8, 10, 14, 0.78);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
+    display: grid; place-content: center; place-items: center;
+    gap: 12px; padding: 24px;
+    background: rgba(0, 0, 0, 0.82);
   }
-  .kombat-screen[hidden] { display: none; }
-  .kombat-menu-title {
-    font-size: clamp(1.6rem, 4vw, 2.6rem);
-    font-weight: 900;
-    color: var(--kombat-accent);
+  .kombat-overlay[hidden] { display: none; }
+  .kombat-overlay-title {
+    font-size: clamp(0.95rem, 2.4vw, 1.4rem);
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000, 0 0 12px rgba(255, 224, 0, 0.3);
+    margin: 0 0 6px;
     letter-spacing: 0.08em;
-    text-shadow: 0 3px 0 #000, 0 6px 20px rgba(0,0,0,0.6);
-    text-align: center;
   }
-  .kombat-menu-subtitle {
-    font-size: 0.95rem;
-    color: var(--kombat-fg);
-    opacity: 0.8;
-    text-align: center;
-    margin-bottom: 8px;
-  }
-  .kombat-menu-item {
-    appearance: none;
-    background: rgba(245, 184, 46, 0.08);
-    border: 2px solid rgba(245, 184, 46, 0.4);
-    color: var(--kombat-fg);
-    padding: 0.7rem 1.4rem;
-    border-radius: 6px;
-    font-family: inherit;
-    font-size: 0.95rem;
-    font-weight: 700;
+
+  .kombat-logo {
+    font-size: clamp(1.8rem, 5.2vw, 3.4rem);
+    line-height: 1;
     letter-spacing: 0.06em;
+    background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 55%, var(--kg-red) 100%);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent; color: transparent;
+    filter: drop-shadow(4px 4px 0 #000) drop-shadow(0 0 20px rgba(255, 122, 24, 0.45));
+    text-align: center;
+  }
+  .kombat-logo-sub {
+    font-size: 0.6rem;
+    color: var(--kg-text-dim);
+    letter-spacing: 0.16em;
+    text-shadow: 2px 2px 0 #000;
+    text-align: center;
+    margin-top: 4px;
+  }
+  .kombat-push {
+    margin-top: 16px;
+    font-size: 0.85rem;
+    color: var(--kg-yellow);
+    text-shadow: 2px 2px 0 #000;
+    letter-spacing: 0.14em;
+    animation: kombat-blink 1.1s steps(2) infinite;
+  }
+  .kombat-menu-buttons {
+    display: grid; gap: 8px;
+    margin-top: 14px;
+    width: min(320px, 90%);
+  }
+
+  .kombat-cab-btn {
+    appearance: none;
+    display: inline-block;
+    background: linear-gradient(180deg, var(--kg-key-bg-1) 0%, var(--kg-key-bg-2) 100%);
+    border: 2px solid #000;
+    color: var(--kg-text);
+    font-family: inherit;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    padding: 11px 14px;
     cursor: pointer;
     text-decoration: none;
     text-align: center;
-    min-width: 240px;
-    transition: background-color 160ms ease, border-color 160ms ease;
+    box-shadow: var(--kg-key-shadow);
+    transition: transform 90ms ease, background 120ms ease, border-color 120ms ease;
   }
-  .kombat-menu-item:hover { background: rgba(245, 184, 46, 0.25); border-color: var(--kombat-accent); }
-  .kombat-menu-item-primary {
-    background: var(--kombat-accent);
-    color: #14110F;
-    border-color: var(--kombat-accent);
+  .kombat-cab-btn:hover { border-color: var(--kg-yellow); }
+  .kombat-cab-btn:active {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 #000, inset 0 0 0 1px #444;
   }
-  .kombat-menu-item-primary:hover { background: #ffce58; }
-  .kombat-menu-item-back { font-size: 0.8rem; opacity: 0.75; }
+  .kombat-cab-btn-primary {
+    background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 100%);
+    color: #14110a;
+    border-color: #000;
+  }
+  .kombat-cab-btn-primary:hover {
+    background: linear-gradient(180deg, var(--kg-yellow-h) 0%, var(--kg-yellow) 100%);
+  }
+  .kombat-cab-btn-ghost {
+    background: transparent;
+    box-shadow: none;
+    color: var(--kg-text-dim);
+    border-color: #1a1a1a;
+  }
+  .kombat-cab-btn-ghost:hover { color: var(--kg-yellow); }
 
-  .kombat-screen-title {
-    font-size: clamp(1.3rem, 3vw, 2rem);
-    color: var(--kombat-accent);
-    letter-spacing: 0.05em;
-    margin: 0 0 12px;
-  }
-  .kombat-help-list {
-    max-width: 600px;
-    padding-left: 1.5rem;
-    color: var(--kombat-fg);
-    line-height: 1.5;
-  }
-  .kombat-help-list li { margin-bottom: 8px; }
-
-  .kombat-board-list {
-    list-style: none;
-    padding: 0;
-    width: min(420px, 100%);
-    margin: 0 0 12px;
-  }
-  .kombat-board-row {
-    display: grid;
-    grid-template-columns: 28px 1fr auto;
-    gap: 12px;
-    padding: 8px 12px;
-    border-bottom: 1px solid rgba(255,255,255,0.12);
-    align-items: baseline;
-  }
-  .kombat-board-rank { color: var(--kombat-accent); font-weight: 900; }
-  .kombat-board-name { font-weight: 700; }
-  .kombat-board-score {
-    color: var(--kombat-accent);
-    font-variant-numeric: tabular-nums;
-    font-weight: 900;
-  }
-  .kombat-board-empty {
-    text-align: center;
-    opacity: 0.7;
-    padding: 16px;
-  }
-
-  .kombat-gameover-title {
-    font-size: clamp(2rem, 5vw, 3rem);
-    color: var(--kombat-danger);
-    font-weight: 900;
-    letter-spacing: 0.1em;
-    text-shadow: 0 3px 0 #000, 0 6px 24px rgba(230,57,70,0.4);
-    margin-bottom: 12px;
-  }
-  .kombat-gameover-row {
-    display: flex;
-    gap: 12px;
-    align-items: baseline;
-    font-size: 1rem;
-  }
-  .kombat-gameover-label {
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    opacity: 0.85;
-  }
-  .kombat-gameover-val {
-    color: var(--kombat-accent);
-    font-weight: 900;
-    font-size: 1.4rem;
-  }
-  .kombat-gameover-highscore {
-    color: var(--kombat-accent);
-    font-weight: 900;
-    letter-spacing: 0.1em;
-    text-shadow: 0 2px 0 #000;
-  }
-  .kombat-weakness {
-    width: min(500px, 100%);
-    margin-top: 4px;
-    padding: 10px 14px;
-    background: rgba(230, 57, 70, 0.10);
-    border: 1px solid rgba(230, 57, 70, 0.35);
-    border-radius: 6px;
-  }
-  .kombat-weakness[hidden] { display: none; }
-  .kombat-weak-title-row {
-    font-size: 0.78rem;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--kombat-danger);
-    margin-bottom: 6px;
-    text-align: center;
-  }
-  .kombat-weak-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 0.86rem;
-  }
-  .kombat-weak-row {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 10px;
-    padding: 4px 0;
-    align-items: baseline;
-  }
-  .kombat-weak-title {
-    color: var(--kombat-fg);
-    opacity: 0.92;
-    line-height: 1.25;
-  }
-  .kombat-weak-count {
-    color: var(--kombat-danger);
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
-    white-space: nowrap;
-  }
-
-  /* WASD diagram on help screen ─────────────────────────────── */
   .kombat-wasd-diagram {
     display: grid;
     grid-template-columns: 38px 38px 38px;
@@ -1215,63 +1235,397 @@ const tJson = JSON.stringify(t);
     margin: 4px 0 8px;
   }
   .kombat-wasd-key {
-    background: rgba(245, 184, 46, 0.22);
-    border: 1.5px solid rgba(245, 184, 46, 0.6);
-    border-radius: 5px;
-    color: var(--kombat-accent);
-    font-weight: 900;
-    font-size: 1.1rem;
-    display: grid;
-    place-items: center;
+    background: linear-gradient(180deg, var(--kg-key-bg-1), var(--kg-key-bg-2));
+    border: 2px solid var(--kg-yellow);
+    color: var(--kg-yellow);
+    font-size: 0.85rem;
+    display: grid; place-items: center;
+    box-shadow: 0 3px 0 #000;
   }
   .kombat-wasd-key-w { grid-area: w; }
   .kombat-wasd-key-a { grid-area: a; }
   .kombat-wasd-key-s { grid-area: s; }
   .kombat-wasd-key-d { grid-area: d; }
-  .kombat-gameover-name {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 8px;
-    width: 100%;
-    max-width: 320px;
+  .kombat-help-list {
+    max-width: 640px;
+    padding-left: 1.5rem;
+    color: var(--kg-text);
+    line-height: 1.6;
+    font-size: 0.6rem;
   }
-  .kombat-gameover-name label {
-    font-size: 0.75rem;
+  .kombat-help-list li { margin-bottom: 6px; }
+
+  .kombat-board-list {
+    list-style: none; padding: 0;
+    width: min(420px, 100%);
+    margin: 0 0 12px;
+    font-size: 0.65rem;
+  }
+  .kombat-board-row {
+    display: grid;
+    grid-template-columns: 28px 1fr auto;
+    gap: 12px;
+    padding: 8px 10px;
+    border-bottom: 1px solid #1a1a1a;
+    align-items: baseline;
+  }
+  .kombat-board-rank { color: var(--kg-yellow); }
+  .kombat-board-name { color: var(--kg-text); }
+  .kombat-board-score { color: var(--kg-yellow); font-variant-numeric: tabular-nums; }
+  .kombat-board-empty {
+    text-align: center;
+    color: var(--kg-text-dim);
+    padding: 16px;
+  }
+
+  .kombat-gameover-title {
+    font-size: clamp(1.4rem, 4.2vw, 2.4rem);
+    color: var(--kg-red);
+    text-shadow: 4px 4px 0 #000, 0 0 24px var(--kg-blood);
+    letter-spacing: 0.08em;
+  }
+  .kombat-gameover-title.is-victorious {
+    background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 55%, var(--kg-red) 100%);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent; color: transparent;
+    text-shadow: none;
+    filter: drop-shadow(4px 4px 0 #000) drop-shadow(0 0 22px rgba(255, 122, 24, 0.55));
+  }
+  .kombat-gameover-stats { display: grid; gap: 8px; font-size: 0.7rem; }
+  .kombat-gameover-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 18px;
+    align-items: baseline;
+  }
+  .kombat-gameover-val { color: var(--kg-yellow); font-size: 1rem; }
+  .kombat-gameover-highscore {
+    color: var(--kg-yellow);
     letter-spacing: 0.12em;
-    text-transform: uppercase;
-    opacity: 0.85;
+    text-shadow: 2px 2px 0 #000;
+    font-size: 0.7rem;
+  }
+  .kombat-gameover-name { display: grid; gap: 8px; width: 100%; max-width: 320px; }
+  .kombat-gameover-name[hidden] { display: none; }
+  .kombat-gameover-name label {
+    font-size: 0.55rem;
+    color: var(--kg-text-dim);
+    letter-spacing: 0.12em;
+    text-align: center;
   }
   .kombat-gameover-name input {
     appearance: none;
-    background: rgba(245, 184, 46, 0.08);
-    border: 2px solid rgba(245, 184, 46, 0.4);
-    color: var(--kombat-fg);
-    padding: 0.5rem 0.75rem;
-    border-radius: 6px;
+    background: #000;
+    border: 2px solid var(--kg-yellow);
+    color: var(--kg-yellow);
+    padding: 10px 12px;
     font-family: inherit;
-    font-size: 1rem;
+    font-size: 0.85rem;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-radius: 0;
   }
-  .kombat-gameover-name input:focus {
-    outline: none;
-    border-color: var(--kombat-accent);
+  .kombat-gameover-name input:focus { outline: none; box-shadow: 0 0 0 2px var(--kg-orange); }
+  .kombat-gameover-actions { display: grid; gap: 8px; width: min(320px, 90%); margin-top: 4px; }
+
+  .kombat-weakness {
+    width: min(520px, 100%);
+    margin-top: 4px;
+    padding: 10px 12px;
+    background: rgba(224, 16, 16, 0.08);
+    border: 2px solid var(--kg-blood);
+    font-size: 0.55rem;
   }
-  .kombat-gameover-name button {
+  .kombat-weakness[hidden] { display: none; }
+  .kombat-weak-title-row {
+    text-align: center;
+    color: var(--kg-red);
+    letter-spacing: 0.14em;
+    margin-bottom: 6px;
+    text-shadow: 2px 2px 0 #000;
+  }
+  .kombat-weak-list { list-style: none; padding: 0; margin: 0; line-height: 1.55; }
+  .kombat-weak-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    padding: 4px 0;
+    align-items: baseline;
+    color: var(--kg-text);
+  }
+  .kombat-weak-count { color: var(--kg-red); white-space: nowrap; }
+
+  .kombat-deck {
+    background:
+      linear-gradient(180deg, var(--kg-deck) 0%, #0a0603 100%);
+    border: 4px solid var(--kg-deck-trim);
+    border-top: 0;
+    border-radius: 0 0 12px 12px;
+    padding: 14px 16px 18px;
+    box-shadow:
+      inset 0 0 30px rgba(0, 0, 0, 0.7),
+      inset 0 4px 0 rgba(255, 122, 24, 0.18);
+    min-height: 220px;
+  }
+  .kombat-q {
+    background: #000;
+    border: 2px solid var(--kg-yellow);
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    box-shadow: inset 0 0 0 1px #1a1a1a, 4px 4px 0 #000;
+  }
+  .kombat-q[hidden] { display: none; }
+  .kombat-q-meta {
+    font-size: 0.5rem;
+    color: var(--kg-yellow);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-bottom: 4px;
+  }
+  .kombat-q-stem {
+    font-size: clamp(0.65rem, 1.4vw, 0.8rem);
+    line-height: 1.55;
+    color: var(--kg-text);
+  }
+  .kombat-answers {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .kombat-answers[hidden] { display: none; }
+  .kombat-deck-hint {
+    text-align: center;
+    color: var(--kg-yellow);
+    font-size: 0.7rem;
+    letter-spacing: 0.18em;
+    padding: 60px 0;
+    text-shadow: 2px 2px 0 #000;
+    animation: kombat-blink 1.1s steps(2) infinite;
+  }
+  .kombat-deck-hint[hidden] { display: none; }
+
+  .kombat-key {
     appearance: none;
-    background: var(--kombat-accent);
-    color: #14110F;
-    border: 0;
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    font-weight: 800;
+    display: grid;
+    grid-template-columns: 28px 22px 1fr;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(180deg, var(--kg-key-bg-1) 0%, var(--kg-key-bg-2) 100%);
+    border: 2px solid #000;
+    color: var(--kg-text);
+    padding: 12px 14px;
+    font-family: inherit;
+    font-size: 0.6rem;
+    line-height: 1.45;
+    text-align: left;
     cursor: pointer;
+    box-shadow: var(--kg-key-shadow);
+    transition: transform 90ms ease, background 120ms ease, border-color 120ms ease;
+    min-height: 64px;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+  .kombat-key:hover { border-color: var(--kg-yellow); }
+  .kombat-key:active {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 #000, inset 0 0 0 1px #444;
+  }
+  .kombat-key-letter {
+    color: var(--kg-yellow);
+    font-size: 0.85rem;
+    text-align: center;
+    text-shadow: 2px 2px 0 #000;
+  }
+  .kombat-key-num {
+    color: var(--kg-text-dim);
+    font-size: 0.55rem;
+    text-align: center;
+  }
+  .kombat-key-text {
+    color: var(--kg-text);
+    overflow-wrap: anywhere;
+  }
+  .kombat-key.is-correct {
+    background: linear-gradient(180deg, #0e5a0e 0%, #052f05 100%);
+    border-color: var(--kg-green);
+  }
+  .kombat-key.is-wrong {
+    background: linear-gradient(180deg, #6a0e0e 0%, #2f0505 100%);
+    border-color: #ff4040;
   }
 
-  /* Mobile compaction ─────────────────────────────────────────── */
-  @media (max-width: 600px) {
-    .kombat-arena { inset: 110px 8px 280px; }
-    .kombat-question { top: 80px; padding: 8px 12px; }
-    .kombat-wasd { gap: 4px; bottom: 12px; }
-    .kombat-key { padding: 8px 10px; }
-    .kombat-hp-bar { width: 100px; height: 10px; }
+  /* ============================================================
+   * iPhone / touch-first layout
+   * Triggered on small viewports or coarse pointers (any touch device).
+   * - Cabinet/bezel chrome dropped: arcade vibe survives via CRT + photo.
+   * - Stage uses min-height instead of aspect-ratio so it never clips.
+   * - Answers stack 1-col, ≥56px tap targets, no WASD letters.
+   * - Question stem + answer text in a system sans (pixel font is unreadable
+   *   for long Cyrillic). Press Start 2P stays on HUD / banners / logo.
+   * - Safe-area-inset-bottom respects iPhone home indicator.
+   * ============================================================ */
+  @media (max-width: 759px), (pointer: coarse) {
+    .kombat-cabinet {
+      max-width: 100%;
+      margin: 0 auto;
+      padding: 0;
+      border-radius: 0;
+      background: #000;
+      box-shadow: none;
+    }
+    .kombat-marquee { padding: 8px 6px 6px; font-size: 0.5rem; }
+    .kombat-bezel {
+      background: transparent;
+      border: 0;
+      border-radius: 0;
+      padding: 0;
+      box-shadow: none;
+    }
+    .kombat-screen {
+      aspect-ratio: auto;
+      min-height: 56vh;
+      border: 0;
+      border-radius: 0;
+      box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.85);
+    }
+    .kombat-hud {
+      inset: 6px 6px auto 6px;
+      gap: 6px;
+      grid-template-columns: 1fr 1fr;  /* drop center column; round in arena */
+    }
+    .kombat-hud-center {
+      grid-column: 1 / -1;
+      order: -1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 2px 0 4px;
+    }
+    .kombat-hud-vs { display: none; }       /* redundant on mobile */
+    .kombat-hud-score { font-size: clamp(0.85rem, 4.5vw, 1.2rem); margin: 0; }
+    .kombat-hud-label { font-size: clamp(8px, 2.4vw, 11px); max-width: 46vw; }
+    .kombat-hp-bar { width: 100%; height: 8px; }
+    .kombat-hud-meta { font-size: clamp(7px, 2.2vw, 10px); }
+    .kombat-lives { font-size: 0.8rem; }
+    .kombat-arena { inset: 92px 6px 6px; }
+    .kombat-portrait-fallback { font-size: clamp(3.5rem, 14vw, 6rem); }
+    .kombat-foe-emoji { font-size: clamp(4rem, 16vw, 7rem); }
+    .kombat-fighter-name { font-size: clamp(8px, 2.2vw, 11px); }
+    .kombat-banner { top: 40%; font-size: clamp(1.2rem, 7vw, 2rem); }
+    .kombat-banner.is-streak,
+    .kombat-banner.is-life,
+    .kombat-banner.is-ouch { font-size: clamp(1rem, 5vw, 1.4rem); }
+
+    /* Question + answers stack below the stage, NOT inside the cabinet deck */
+    .kombat-deck {
+      background: linear-gradient(180deg, #0c0a06 0%, #050402 100%);
+      border: 0;
+      border-radius: 0;
+      padding: 10px 10px calc(16px + env(safe-area-inset-bottom, 0px));
+      min-height: 0;
+      box-shadow: inset 0 4px 0 rgba(255, 122, 24, 0.18);
+    }
+    .kombat-q {
+      margin-bottom: 10px;
+      padding: 10px 12px;
+      box-shadow: inset 0 0 0 1px #1a1a1a, 2px 2px 0 #000;
+    }
+    .kombat-q-meta { font-size: clamp(8px, 2.2vw, 10px); }
+    .kombat-q-stem {
+      /* System sans for legibility — Press Start 2P is unreadable for long Cyrillic */
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: clamp(14px, 4vw, 16px);
+      line-height: 1.45;
+      letter-spacing: 0;
+    }
+    .kombat-answers { grid-template-columns: 1fr; gap: 8px; }
+    .kombat-key {
+      grid-template-columns: 28px 1fr;
+      min-height: 56px;
+      padding: 12px 14px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: clamp(13px, 3.8vw, 15px);
+      line-height: 1.4;
+    }
+    .kombat-key-letter { display: none; }  /* WASD label is meaningless on touch */
+    .kombat-key-num {
+      color: var(--kg-yellow);
+      font-size: 1.05rem;
+      font-family: "Press Start 2P", monospace;
+    }
+    .kombat-key:hover { border-color: #000; }   /* hover is a phantom on touch */
+    .kombat-key:active,
+    .kombat-key:focus-visible {
+      border-color: var(--kg-yellow);
+      transform: translateY(2px);
+      box-shadow: 0 1px 0 #000, inset 0 0 0 1px #444;
+    }
+    .kombat-deck-hint { padding: 24px 0; font-size: 0.6rem; }
+
+    /* Overlays: scrollable, top-aligned, safe-area aware */
+    .kombat-overlay {
+      align-content: start;
+      align-items: start;
+      gap: 14px;
+      padding: 28px 18px calc(28px + env(safe-area-inset-bottom, 0px));
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .kombat-logo { font-size: clamp(1.8rem, 9vw, 2.8rem); }
+    .kombat-logo-sub { font-size: 0.55rem; }
+    .kombat-push { font-size: 0.75rem; }
+    .kombat-cab-btn { min-height: 48px; padding: 14px 16px; font-size: 0.7rem; }
+    .kombat-cab-btn:hover { border-color: #000; }
+    .kombat-cab-btn:active,
+    .kombat-cab-btn:focus-visible { border-color: var(--kg-yellow); }
+    .kombat-cab-btn-primary:hover {
+      background: linear-gradient(180deg, var(--kg-yellow) 0%, var(--kg-orange) 100%);
+    }
+    .kombat-overlay-title { font-size: clamp(0.95rem, 4.5vw, 1.3rem); }
+    .kombat-help-list { font-size: 0.6rem; }
+    .kombat-board-list { font-size: 0.65rem; }
+    .kombat-gameover-title { font-size: clamp(1.4rem, 7vw, 2rem); }
+    .kombat-gameover-stats { font-size: 0.7rem; }
+    .kombat-gameover-name input { font-size: 1rem; min-height: 48px; }
+    .kombat-weakness {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 12px;
+    }
+    .kombat-weak-title-row {
+      font-family: "Press Start 2P", monospace;
+      font-size: 9px;
+    }
+    .kombat-weak-count { font-size: 11px; }
+  }
+
+  /* Landscape phones: layout breaks; nudge user toward portrait */
+  @media (max-width: 759px) and (orientation: landscape) {
+    .kombat::before {
+      content: "↻ ROTATE TO PORTRAIT";
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      display: grid;
+      place-items: center;
+      background: rgba(0, 0, 0, 0.92);
+      color: var(--kg-yellow);
+      font-family: "Press Start 2P", monospace;
+      font-size: clamp(0.8rem, 4vw, 1.2rem);
+      letter-spacing: 0.1em;
+      text-shadow: 2px 2px 0 #000;
+      padding: 24px;
+      text-align: center;
+    }
+  }
+
+  /* Reduced-motion: kill the heaviest animations */
+  @media (prefers-reduced-motion: reduce) {
+    .kombat-marquee-dot,
+    .kombat-push,
+    .kombat-deck-hint,
+    .kombat-fighter-final .kombat-foe-emoji,
+    .kombat-hud-streak { animation: none; }
+    .kombat-banner.is-shown { animation-duration: 600ms; }
   }
 </style>

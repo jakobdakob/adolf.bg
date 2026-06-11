@@ -156,6 +156,18 @@ The musculocutaneous nerve branches from the lateral cord of the brachial plexus
 
 The brachial plexus lies medial to the coracoid and posterior to the pectoralis minor. The axillary artery and vein travel with the plexus. These structures are at risk in deeper dissection medial to the coracoid and in high-energy shoulder dislocations.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical lineage — brachial plexus anaesthesia</span>
+  <p>Regional anaesthesia of the upper limb has a well-documented pedigree whose textbook source remains Heinrich Braun’s *Die Lokalanästhesie* (Leipzig, 1907). Braun systematizes the American experiments of Crile (1887) and Cushing with endoneural injections in the open plexus and introduces the terms "endoneurale" and "perineurale" injection (credited to Matas).</p>
+  <ul>
+    <li><strong>Crile 1887</strong> — first endoneural cocaine injections during below-knee and upper-limb amputation after surgical exposure of the sciatic / femoral / brachial plexus.</li>
+    <li><strong>Matas, Cushing</strong> — endoneural / perineural terminology; brachial plexus exposed by scalpel.</li>
+    <li><strong>Heinrich Braun 1907</strong> — *Die Lokalanästhesie*, 2nd edition; the systematic presentation of conduction anaesthesia in the German literature (<a href="https://archive.org/details/dielokalansthe00brau">Facsimile</a>).</li>
+    <li><strong>Kulenkampff 1911</strong> — the first true percutaneous supraclavicular brachial block.</li>
+    <li><strong>Winnie 1970s</strong> → <strong>Ultrasound-guided ISB / SCB / ICB / AXB</strong> today — modern routine blocks at the interscalene (ISB), supraclavicular (SCB), infraclavicular (ICB), and axillary level.</li>
+  </ul>
+</aside>
+
 ## Suprascapular Nerve (C5-C6)
 
 The suprascapular nerve passes through the suprascapular notch (deep to the transverse scapular ligament) and supplies the supraspinatus, then continues around the spinoglenoid notch to supply the infraspinatus. Compression or traction at these notches produces suprascapular neuropathy with weakness of the supraspinatus and/or infraspinatus.

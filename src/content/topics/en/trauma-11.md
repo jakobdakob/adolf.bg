@@ -32,6 +32,14 @@ Clavicle fractures account for approximately 2 to 5 percent of all adult fractur
 
 ## Treatment of Clavicle Fractures
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Desault 1798, the Desault bandage</span>
+  <blockquote lang="fr">
+    <p>« Le mode de réduction étant trouvé, il falloit en déduire le bandage propre à assurer le contact des fragmens. Desault pensa qu'on pourroit, dans un même procédé, réunir ces deux temps du traitement, c'est-à-dire réduire à la fois &amp; maintenir réduite la fracture. Ici l'art lui doit des progrès voisins, j'ose le dire, de la perfection. »</p>
+  </blockquote>
+  <p><strong>Translation:</strong> "Once the mode of reduction had been found, it remained to derive the bandage proper to assure contact between the fragments. Desault thought that in a single procedure one might combine the two stages of treatment, that is, reduce and maintain the fracture reduced at the same time. Here the art owes him progress that I dare call close to perfection."</p>
+  <p class="callout-source">— Pierre-Joseph Desault, <em>Œuvres chirurgicales</em>, vol. 1 (Paris: an VI / 1798), p. 68 of the chapter on clavicle fractures. The principle of the Desault bandage — a pad in the axilla, a strap pulling the elbow backward, and a second strap fixing the arm to the chest — established the three simultaneous vectors that still define non-operative management and largely the design of modern shoulder immobilisers. <a href="https://archive.org/details/BIUSante_30626x01" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive →</a></p>
+</aside>
 
 ## Midshaft Fractures
 
@@ -133,6 +141,14 @@ Pediatric clavicle fractures heal reliably with non-operative treatment because 
 ## Operative Complications
 
 Plate fixation of midshaft clavicle fractures carries a defined complication profile: hardware prominence and irritation (10 to 30 percent of patients eventually request hardware removal), refracture after hardware removal (uncommon but recognized), nonunion (1 to 3 percent), infection (1 to 2 percent), and rare injury to the supraclavicular nerve branches producing localized anesthesia of the chest wall. Patients should be counseled about hardware prominence preoperatively.
+
+## Sources and Classical Literature
+
+The Desault bandage remains a part of the surgical lexicon for two centuries — an eponym introduced by Desault at the Hôtel-Dieu in late 18th-century Paris, systematized in the posthumous *Œuvres chirurgicales* and documentarily improved by Malgaigne in mid-19th century. Velpeau contributes an alternative in *Médecine opératoire* (1832) — the "hand to opposite shoulder" bandage still used today in selected shoulder dislocation variants. Malgaigne (1847) devotes a full chapter to clavicle fractures with a critical assessment of the Desault technique and the introduction of corrective modifications.
+
+- **Desault** (1798): *Œuvres chirurgicales*, vol. 1 (Paris). Original description of the Desault bandage for clavicle fracture. · [Facsimile (BIU Santé)](https://archive.org/details/BIUSante_30626x01)
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 1 (Paris). Alternative shoulder-girdle bandages. · [Facsimile](https://archive.org/details/BIUSante_43901x01)
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 1, chapter on the clavicle — critique and modification of the Desault bandage. · [Facsimile](https://archive.org/details/BIUSante_32985x01)
 
 ## Summary and Take-Home Points
 

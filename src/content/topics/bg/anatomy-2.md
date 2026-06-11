@@ -187,6 +187,18 @@ Nervus musculocutaneus се отделя от латералния сноп на
 
 Брахиалният плексус лежи медиално от processus coracoideus и зад musculus pectoralis minor. Arteria axillaris и vena axillaris преминават заедно с плексуса. Тези структури са в риск при по-дълбока дисекция медиално от coracoideus и при високоенергийни луксации на рамото.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Класическа линия — Анестезия на брахиалния плексус</span>
+  <p>Регионалната анестезия на горния крайник има добре документирана родословна линия, чийто учебникарски първоизточник остава *Die Lokalanästhesie* на Хайнрих Браун (Лайпциг, 1907). Браун систематизира американските експерименти на Crile (1887) и Cushing с ендоневрални инжекции в открития плексус и въвежда термините „endoneurale" и „perineurale" injection (приписани на Matas).</p>
+  <ul>
+    <li><strong>Crile 1887</strong> — първите ендоневрални инжекции на кокаин при ампутация на подбедрица и горен крайник след открито излагане на n. ischiadicus / n. femoralis / plexus brachialis.</li>
+    <li><strong>Matas, Cushing</strong> — endoneural / perineural терминология; брахиален плексус, излаган със скалпел.</li>
+    <li><strong>Хайнрих Браун 1907</strong> — *Die Lokalanästhesie*, 2-ро издание; системно представяне на проводниковата анестезия в немската литература (<a href="https://archive.org/details/dielokalansthe00brau">Факсимиле</a>).</li>
+    <li><strong>Куленкампф 1911</strong> — първият истински перкутанен супраклавикуларен брахиален блок.</li>
+    <li><strong>Winnie 1970-те</strong> → <strong>Ultrasound-guided ISB / SCB / ICB / AXB</strong> днес — модерни рутинни блокове на междулъсцепно (ISB), супраклавикуларно (SCB), инфраклавикуларно (ICB) и аксиларно ниво.</li>
+  </ul>
+</aside>
+
 ## Nervus suprascapularis (C5-C6)
 
 Nervus suprascapularis преминава през incisura scapulae (дълбоко от ligamentum transversum scapulae superius) и инервира musculus supraspinatus, след което продължава около incisura spinoglenoidalis, за да инервира musculus infraspinatus. Компресия или тракция на тези места предизвикват невропатия на nervus suprascapularis със слабост на supraspinatus и/или infraspinatus.

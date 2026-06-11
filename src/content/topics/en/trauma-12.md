@@ -76,6 +76,13 @@ examination is mandatory. The arm is placed in a sling (or, in some protocols, i
 rotation brace following a 2007 trial by Itoi et al. that suggested improved capsular healing
 position) for 3 to 6 weeks, followed by progressive rehabilitation.
 
+<aside class="callout callout-historical">
+  <span class="callout-label">Classical voice — Velpeau 1832, the shoulder bandage</span>
+  <p>Velpeau describes in *Médecine opératoire* (1832) the bandage that bears his name — the hand of the injured side is placed on the opposite shoulder, the elbow points anteriorly and inferiorly, and a series of circular turns secures the whole construct to the chest. The principle — complete immobilisation of the arm against the trunk in maximum internal rotation — is conceptually opposite to the later Itoi external-rotation brace (2007) and is still used in selected dislocations with tight postero-inferior capsule, in some proximal humeral fractures with an unstable head, and in paediatrics.</p>
+  <p>The axillary view for suspected dislocation in a patient who cannot tolerate standard abduction is called the <strong>Velpeau view</strong> — described by him for the same bandage geometry, with the arm strapped to the chest wall.</p>
+  <p class="callout-source">— Alfred Velpeau, <em>Nouveaux éléments de médecine opératoire</em>, vol. 1 (Paris: J.-B. Baillière, 1832). The bandage is described in the chapter on upper-limb dislocations. <a href="https://archive.org/details/BIUSante_43901x01" target="_blank" rel="noopener noreferrer">Facsimile on Internet Archive (BIU Santé) →</a></p>
+</aside>
+
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/trauma-12/bankart-hillsachs.jpg" data-figure-alt="Bankart and Hill-Sachs lesions after anterior dislocation" aria-label="Enlarge">
     <img src="/img/trauma-12/bankart-hillsachs.jpg" alt="Bankart and Hill-Sachs lesions after anterior dislocation" loading="lazy" decoding="async" />
@@ -166,6 +173,14 @@ Multidirectional instability (MDI), characterized by symptomatic instability in 
   <span class="callout-label">Pitfall</span>
   <p>Surgery for voluntary or habitual dislocation in a patient with psychogenic features uniformly does badly — stabilization in this group has a near-universal failure profile. Treat with physiotherapy, periscapular and rotator cuff strengthening (Rockwood protocol), and psychological evaluation; reserve surgery only for true structural multidirectional instability that has failed at least 6 months of dedicated rehabilitation.</p>
 </aside>
+
+## Sources and Classical Literature
+
+The systematic reduction of shoulder dislocation traces back to Guy de Chauliac (14th century) and the Roman surgeons; the Velpeau bandage (1832) remains an eponymous label today — both in surgical lexicon and as the name of the radiographic view for a patient unable to abduct. Dupuytren in *Leçons orales* devotes a full lecture to dislocations of the head of the humerus, and Malgaigne in *Traité des fractures et des luxations* (1847) collects the then-current literature on shoulder dislocation with a classical critique of the Kocher manoeuvre (before it received the name "Kocher" in 1870).
+
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 1 (Paris: Baillière). The Velpeau bandage for shoulder dislocation. · [Facsimile (BIU Santé)](https://archive.org/details/BIUSante_43901x01)
+- **Dupuytren** (1832): *Leçons orales de clinique chirurgicale*, vol. 2 (Paris: Baillière), lectures on upper-limb dislocations. · [Facsimile](https://archive.org/details/leonsoralesdec02dupu)
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 2 (Paris: Baillière), chapter on shoulder dislocations. · [Facsimile](https://archive.org/details/BIUSante_32985x01)
 
 ## Summary and Take-Home Points
 

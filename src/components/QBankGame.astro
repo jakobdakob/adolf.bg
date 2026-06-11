@@ -1073,7 +1073,20 @@ const tJson = JSON.stringify(t);
 })();
 </script>
 
-<style>
+<style is:global>
+  /* IMPORTANT: this block is is:global on purpose. Astro's default
+   * scoping tags each rule with a [data-astro-cid-…] attribute selector,
+   * and that attribute is only injected onto elements in the static
+   * template at build time — NOT onto elements created at runtime in
+   * JS (e.g. renderBoard's <li class="kombat-board-row"> nodes, or
+   * renderWeakness's <li class="kombat-weak-row">). With scoping on,
+   * those JS-created rows silently lost `display: grid`, the four
+   * leaderboard columns collapsed into one stream of text, and the
+   * weakness rows lost their two-column layout.
+   *
+   * The `.kombat-*` prefix is unique to this component (verified via
+   * grep across src/ and public/), so promoting the whole block to
+   * global has no collision risk. */
   .kombat {
     --kg-cabinet:   #0a0a0a;
     --kg-bezel:     #050505;

@@ -123,29 +123,34 @@ const t = lang === "bg"
 /*  boss        mini-boss: wrong answer costs 2 lives                   */
 /*  final       Prof. Boychev — same -2 penalty, much higher HP         */
 /* ------------------------------------------------------------------ */
+// Names are bilingual ({en, bg}) so a Bulgarian reader doesn't see Latin
+// glyphs through a Press Start 2P pixel font and misread them as Cyrillic
+// (e.g. STAPH AUREUS → СТАРН AUREUS). The HUD uses the lang-appropriate
+// string; the foe-name elements get a CSS rule that switches to a Latin
+// system-sans italic when the name renders as a Latin scientific name.
 const enemies = [
-  { name: "STAPH AUREUS",    hp: 4,  color: "#39ff14", icon: "🦠",
+  { name: { en: "STAPH AUREUS",    bg: "Стафилокок ауреус" },     hp: 4,  color: "#39ff14", icon: "🦠",
     topicPat: "(pyogen|septic|osteomyel|infect|инфекц|остеомиел|септ)" },
-  { name: "STREP PYOGENES",  hp: 4,  color: "#39ff14", icon: "🟠",
+  { name: { en: "STREP PYOGENES",  bg: "Стрептокок пиоген" },     hp: 4,  color: "#39ff14", icon: "🟠",
     topicPat: "(pyogen|septic|wound|cellul|инфекц|септ|рана|гной)" },
-  { name: "E. COLI",         hp: 4,  color: "#39ff14", icon: "🟢",
+  { name: { en: "E. COLI",         bg: "Ешерихия коли" },         hp: 4,  color: "#39ff14", icon: "🟢",
     topicPat: "(spine|spondyl|pelvi|sacr|спин|спондил|тазов|сакр|гръбнач)" },
-  { name: "PSEUDOMONAS",     hp: 5,  color: "#39ff14", icon: "🦠",
+  { name: { en: "PSEUDOMONAS",     bg: "Псевдомонас" },           hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(osteomyel|arthroplast|prosth|complication|остеомиел|артропласт|ендопрот|усложнен)" },
-  { name: "M. R. S. A.",     hp: 6,  color: "#ffe000", icon: "💀", boss: true,
+  { name: { en: "M.R.S.A.",        bg: "MRSA" },                  hp: 6,  color: "#ffe000", icon: "💀", boss: true,
     topicPat: "(pyogen|septic|osteomyel|infect|prosth|arthroplast|инфекц|остеомиел|септ|артропласт|ендопрот)" },
-  { name: "KLEBSIELLA",      hp: 5,  color: "#39ff14", icon: "🦠",
+  { name: { en: "KLEBSIELLA",      bg: "Клебсиела" },             hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(infect|wound|polytrauma|инфекц|рана|политравм)" },
-  { name: "ACINETOBACTER",   hp: 5,  color: "#39ff14", icon: "⚡",
+  { name: { en: "ACINETOBACTER",   bg: "Ацинетобактер" },         hp: 5,  color: "#39ff14", icon: "⚡",
     topicPat: "(gunshot|wound|polytraum|amput|crush|огнестрел|рана|политравм|ампут)" },
-  { name: "ENTEROCOCCUS",    hp: 5,  color: "#39ff14", icon: "🦠",
+  { name: { en: "ENTEROCOCCUS",    bg: "Ентерокок" },             hp: 5,  color: "#39ff14", icon: "🦠",
     topicPat: "(arthroplast|prosth|coxarthros|gonarthros|артропласт|ендопрот|коксартроз|гонартроз)" },
-  { name: "C. DIFFICILE",    hp: 5,  color: "#39ff14", icon: "💩",
+  { name: { en: "C. DIFFICILE",    bg: "Кл. дифицил" },           hp: 5,  color: "#39ff14", icon: "💩",
     topicPat: "(complication|nonunion|delayed|sudeck|volkmann|усложнен|неконсолид|забавен)" },
-  { name: "M. TUBERCULOSIS", hp: 6,  color: "#ffe000", icon: "☠️", boss: true,
+  { name: { en: "M. TUBERCULOSIS", bg: "М. туберкулоза" },        hp: 6,  color: "#ffe000", icon: "☠️", boss: true,
     topicPat: "(tubercul|spondyliti|ankylosing|spine|туберкул|спондил|спин|гръбнач)" },
   // Round 11 — final boss. Pulls questions from anywhere in the pool.
-  { name: "БОЙЧО БОЙЧЕВ",    hp: 12, color: "#e01010", icon: "🥼", final: true,
+  { name: { en: "BOYCHO BOYCHEV",  bg: "БОЙЧО БОЙЧЕВ" },          hp: 12, color: "#e01010", icon: "🥼", final: true,
     topicPat: "" },
 ];
 
@@ -415,14 +420,30 @@ const tJson = JSON.stringify(t);
     return pool;
   }
 
+  // Stable pool key — always the EN name. Names are now {en, bg} objects;
+  // we don't want the pool to depend on the current display language.
+  function poolKey(e) {
+    if (!e) return "*";
+    if (typeof e.name === "string") return e.name;
+    return e.name.en || e.name.bg || "*";
+  }
+
+  // Lang-appropriate display name. Falls back to EN, then BG.
+  function nameFor(e) {
+    if (!e) return "";
+    if (typeof e.name === "string") return e.name;
+    return e.name[lang] || e.name.en || e.name.bg || "";
+  }
+
   function buildEnemyPools() {
     if (enemyPools || !pool || !pool.length) return;
     enemyPools = { "*": pool };
     for (const e of ENEMIES) {
-      if (!e.topicPat) { enemyPools[e.name] = pool; continue; }
+      const key = poolKey(e);
+      if (!e.topicPat) { enemyPools[key] = pool; continue; }
       let re;
       try { re = new RegExp(e.topicPat, "i"); }
-      catch (err) { enemyPools[e.name] = pool; continue; }
+      catch (err) { enemyPools[key] = pool; continue; }
       const matchedTopicKeys = new Set();
       if (topicTitles) {
         for (const sect of Object.keys(topicTitles)) {
@@ -435,7 +456,7 @@ const tJson = JSON.stringify(t);
         }
       }
       const sub = pool.filter((q) => matchedTopicKeys.has(q.section + ":" + q.topic));
-      enemyPools[e.name] = sub.length >= 40 ? sub : pool;
+      enemyPools[key] = sub.length >= 40 ? sub : pool;
     }
   }
 
@@ -460,8 +481,8 @@ const tJson = JSON.stringify(t);
 
   function pickQuestion() {
     if (!pool || !pool.length) return null;
-    const eName = state && state.currentEnemy && state.currentEnemy.name;
-    const p = (eName && enemyPools && enemyPools[eName]) || pool;
+    const key = state && state.currentEnemy ? poolKey(state.currentEnemy) : null;
+    const p = (key && enemyPools && enemyPools[key]) || pool;
     return p[Math.floor(Math.random() * p.length)];
   }
 
@@ -541,7 +562,8 @@ const tJson = JSON.stringify(t);
 
   function drawEnemy() {
     const e = state.currentEnemy;
-    const labelName = e.final ? (T.bossPrefix + e.name) : (e.boss ? (e.name + " ★") : e.name);
+    const display = nameFor(e);
+    const labelName = e.final ? (T.bossPrefix + display) : (e.boss ? (display + " ★") : display);
     els.foeName.textContent = labelName;
     els.foeLabel.textContent = labelName;
     els.foeIcon.textContent = e.icon;
@@ -549,6 +571,12 @@ const tJson = JSON.stringify(t);
     els.foeHp.style.background = "linear-gradient(180deg, " + e.color + " 0%, #0a0a0a 100%)";
     els.foe.classList.toggle("kombat-fighter-final", !!e.final);
     els.foe.classList.toggle("kombat-fighter-boss", !!e.boss && !e.final);
+    // Detect Latin-only name (no Cyrillic) and add a class so CSS can
+    // render it in a Latin system-sans italic instead of the pixel font
+    // (Press Start 2P → ASCII Latin looks like Cyrillic to BG readers).
+    const isLatin = !/[Ѐ-ӿ]/.test(display);
+    els.foeName.classList.toggle("is-latin", isLatin);
+    els.foeLabel.classList.toggle("is-latin", isLatin);
   }
 
   function drawHp() {
@@ -1139,6 +1167,17 @@ const tJson = JSON.stringify(t);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+  }
+  /* Latin scientific names: switch out of the pixel font (which makes
+   * STAPH AUREUS look like СТАРН AUREUS to a Cyrillic reader) into a
+   * system sans italic — the convention for binomial Latin names. */
+  .kombat-hud-label.is-latin,
+  .kombat-fighter-name.is-latin {
+    font-family: -apple-system, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+    font-style: italic;
+    font-size: 0.78rem;
+    letter-spacing: 0;
+    font-weight: 600;
   }
   .kombat-hp-bar {
     width: clamp(120px, 26vw, 320px);
@@ -1751,33 +1790,50 @@ const tJson = JSON.stringify(t);
    * ============================================================ */
   @media (max-width: 759px), (pointer: coarse) {
     .kombat-fs-toggle { display: flex; }
+    /* Cabinet is a flex-column the height of the dynamic viewport. Children
+     * (marquee hidden, then bezel) stack and bezel takes the rest. Stage +
+     * deck inside bezel are sized so all 4 answers fit above the fold on
+     * a 390×844 iPhone (1 dvh ≈ 8.4 px). */
     .kombat-cabinet {
       max-width: 100%;
+      width: 100%;
+      min-height: 100dvh;
       margin: 0 auto;
       padding: 0;
       border-radius: 0;
       background: #000;
       box-shadow: none;
       position: relative;
+      display: flex;
+      flex-direction: column;
     }
-    .kombat-marquee { padding: 8px 6px 6px; font-size: 0.5rem; }
+    .kombat-marquee { padding: 4px 6px; font-size: 0.5rem; }
     .kombat-bezel {
       background: transparent;
       border: 0;
       border-radius: 0;
       padding: 0;
       box-shadow: none;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
     }
+    /* Stage uses 100dvh (dynamic-viewport) so iOS URL-bar resize doesn't
+     * push the answer cards off-screen. The whole cabinet becomes a column
+     * of fixed-height regions that sum to roughly 100dvh so all 4 answers
+     * fit above the fold on a 390×844 iPhone viewport. */
     .kombat-screen {
       aspect-ratio: auto;
-      min-height: 56vh;
+      min-height: 44dvh;        /* shrunk from 56vh — fighters get less room */
+      max-height: 48dvh;
       border: 0;
       border-radius: 0;
       box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.85);
     }
     .kombat-hud {
-      inset: 6px 6px auto 6px;
-      gap: 6px;
+      inset: 4px 6px auto 6px;
+      gap: 4px;
       grid-template-columns: 1fr 1fr;  /* drop center column; round in arena */
     }
     .kombat-hud-center {
@@ -1786,53 +1842,79 @@ const tJson = JSON.stringify(t);
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 2px 0 4px;
+      padding: 0 0 2px;
     }
     .kombat-hud-vs { display: none; }       /* redundant on mobile */
-    .kombat-hud-score { font-size: clamp(0.85rem, 4.5vw, 1.2rem); margin: 0; }
-    .kombat-hud-label { font-size: clamp(8px, 2.4vw, 11px); max-width: 46vw; }
-    .kombat-hp-bar { width: 100%; height: 8px; }
-    .kombat-hud-meta { font-size: clamp(7px, 2.2vw, 10px); }
-    .kombat-lives { font-size: 0.8rem; }
-    .kombat-arena { inset: 92px 6px 6px; }
-    .kombat-portrait-fallback { font-size: clamp(3.5rem, 14vw, 6rem); }
-    .kombat-foe-emoji { font-size: clamp(4rem, 16vw, 7rem); }
-    .kombat-fighter-name { font-size: clamp(8px, 2.2vw, 11px); }
-    .kombat-banner { top: 40%; font-size: clamp(1.2rem, 7vw, 2rem); }
+    .kombat-hud-score { font-size: clamp(0.85rem, 4.2vw, 1.1rem); margin: 0; }
+    .kombat-hud-label {
+      font-size: clamp(7px, 2vw, 10px);
+      max-width: 46vw;
+      letter-spacing: 0.08em;
+    }
+    .kombat-hud-label.is-latin { font-size: clamp(10px, 3vw, 13px); }
+    .kombat-hp-bar { width: 100%; height: 7px; }
+    .kombat-hud-meta { font-size: clamp(7px, 2vw, 9px); }
+    .kombat-lives { font-size: 0.7rem; gap: 2px; }
+    /* Fighters: compress to ~80px each so they stay recognisable but
+     * don't eat the answer-cards budget. */
+    .kombat-arena { inset: 64px 6px 6px; }
+    .kombat-portrait-fallback {
+      font-size: clamp(2.6rem, 9vw, 4rem);
+      line-height: 0.85;
+    }
+    .kombat-foe-emoji {
+      font-size: clamp(3rem, 11vw, 5rem);
+      line-height: 0.85;
+    }
+    .kombat-fighter-name { font-size: clamp(8px, 2.2vw, 11px); margin-top: 4px; }
+    .kombat-fighter-name.is-latin { font-size: clamp(10px, 2.6vw, 13px); }
+    .kombat-banner { top: 38%; font-size: clamp(1.1rem, 6vw, 1.8rem); }
     .kombat-banner.is-streak,
     .kombat-banner.is-life,
-    .kombat-banner.is-ouch { font-size: clamp(1rem, 5vw, 1.4rem); }
+    .kombat-banner.is-ouch { font-size: clamp(0.9rem, 4.5vw, 1.3rem); }
 
-    /* Question + answers stack below the stage, NOT inside the cabinet deck */
+    /* Question + answers below the stage. Whole deck fits in ~52dvh so
+     * HUD (≈8dvh) + stage (≈44dvh) + deck = 100dvh exactly. */
     .kombat-deck {
       background: linear-gradient(180deg, #0c0a06 0%, #050402 100%);
       border: 0;
       border-radius: 0;
-      padding: 10px 10px calc(16px + env(safe-area-inset-bottom, 0px));
+      padding: 8px 8px calc(8px + env(safe-area-inset-bottom, 0px));
       min-height: 0;
-      box-shadow: inset 0 4px 0 rgba(255, 122, 24, 0.18);
+      box-shadow: inset 0 3px 0 rgba(255, 122, 24, 0.18);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
     }
     .kombat-q {
-      margin-bottom: 10px;
-      padding: 10px 12px;
+      margin-bottom: 0;
+      padding: 8px 10px;
+      max-height: 22dvh;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
       box-shadow: inset 0 0 0 1px #1a1a1a, 2px 2px 0 #000;
     }
-    .kombat-q-meta { font-size: clamp(8px, 2.2vw, 10px); }
+    .kombat-q-meta { font-size: clamp(7px, 2vw, 9px); margin-bottom: 2px; }
     .kombat-q-stem {
       /* System sans for legibility — Press Start 2P is unreadable for long Cyrillic */
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-size: clamp(14px, 4vw, 16px);
-      line-height: 1.45;
+      font-size: clamp(13px, 3.6vw, 15px);
+      line-height: 1.4;        /* shrunk from 1.55 to win more vertical room */
       letter-spacing: 0;
     }
-    .kombat-answers { grid-template-columns: 1fr; gap: 8px; }
+    .kombat-answers {
+      grid-template-columns: 1fr;
+      gap: 5px;
+      flex: 1;                 /* take all remaining deck height */
+    }
     .kombat-key {
-      grid-template-columns: 28px 1fr;
-      min-height: 56px;
-      padding: 12px 14px;
+      grid-template-columns: 26px 1fr;
+      min-height: 48px;        /* WCAG tap floor; still fits 4 in the deck */
+      padding: 6px 12px;       /* shrunk from 12px → 6px vertical */
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-size: clamp(13px, 3.8vw, 15px);
-      line-height: 1.4;
+      font-size: clamp(12px, 3.4vw, 14px);
+      line-height: 1.3;
+      align-items: center;
     }
     .kombat-key-letter { display: none; }  /* WASD label is meaningless on touch */
     .kombat-key-num {

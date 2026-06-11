@@ -165,6 +165,14 @@ Post-traumatic knee arthritis after intra-articular fracture or ligament injury 
 
 Revision TKA addresses failed primary TKA from infection, loosening, stiffness, instability, periprosthetic fracture, or polyethylene wear and osteolysis. The technical demands are substantially greater, with management of bone defects (Anderson Orthopaedic Research Institute, AORI, classification of distal femoral and proximal tibial defects), the use of revision components with augments and stems for additional fixation, and addressing the underlying cause of failure to prevent recurrence.
 
+## Sources and Classical Literature
+
+Knee osteoarthritis before the era of arthroplasty was treated by osteotomy, soft-tissue surgery, and arthrodesis. Hoffa's *Lehrbuch* (1905) catalogued these procedures; Billroth's *Pathologie und Therapie* (1882) gave the histopathologic foundation; Velpeau's *Médecine opératoire* (1832) described early synovectomy techniques.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Gonarthrose. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Billroth** (1882): *Allgemeine chirurgische Pathologie und Therapie*. · [Facsimile](https://archive.org/details/dieallgemeinechi1882bill)
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 2. · [Facsimile](https://archive.org/details/BIUSante_43901x02)
+
 ## Summary and Take-Home Points
 
 Gonarthrosis is the commonest joint disease in adults and a leading cause of chronic disability. The condition affects the medial, lateral, and patellofemoral compartments in various patterns and combinations. Clinical assessment combining history, physical examination, and standardized weight-bearing radiographs establishes the diagnosis and stages the disease. Non-operative management combining weight loss (the most powerful single intervention in the obese patient), exercise, activity modification, pharmacological treatment, and selective intra-articular injections provides the foundation of care. Joint-preserving surgery — high tibial osteotomy for medial compartment disease with varus, distal femoral osteotomy for lateral compartment disease with valgus, and unicompartmental knee arthroplasty for isolated single-compartment disease, provides durable function for selected younger patients. Total knee arthroplasty is the standard for end-stage tri-compartmental disease and produces excellent outcomes with 10-year survivorship of approximately 95% and substantial improvement in pain, function, and quality of life. The principal complications of infection, stiffness, periprosthetic fracture, and aseptic loosening are managed by careful surgical technique and appropriate implant selection. The persistent 15-20% dissatisfaction rate after technically successful TKA has driven ongoing research into patient selection, expectation management, and refinement of surgical technique.

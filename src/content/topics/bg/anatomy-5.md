@@ -544,6 +544,14 @@ Laterale epicondylus проксимално и tuberculum Listerii дистал�
 
 Дорзалният достъп до дисталния radius се използва при избрани индикации (дорзална фрактура на Barton, дорзални die-punch фрагменти, специфично дорзално плаковане). Достъпът е между третия екстензорен компартмент (musculus extensor pollicis longus, EPL) и четвъртия екстензорен компартмент (EDC), като EPL при затварянето се прекарва дорзално извън обвивката си.
 
+## Източници и класическа литература
+
+Хирургичната анатомия на предмишницата почива на *Médecine opératoire* на Velpeau (1832) и *Traité* на Малгень (1847). *Leçons orales* на Дюпюитрен (1832, том 3) дава основополагащите клинични наблюдения за фрактурите на радио-улнарната диафиза. Механичната роля на membrana interossea е разбрана от Малгень, който разпознава пропорционалното изместване на едната кост спрямо другата.
+
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, том 2. · [Факсимиле](https://archive.org/details/BIUSante_43901x02)
+- **Малгень** (1847): *Traité des fractures et des luxations*, том 1 — предмишница. · [Факсимиле](https://archive.org/details/BIUSante_32985x01)
+- **Дюпюитрен** (1832): *Leçons orales de clinique chirurgicale*, том 3. · [Факсимиле](https://archive.org/details/leonsoralesdec03dupu)
+
 ## Обобщение и ключови изводи
 
 Предмишницата съдържа две успоредни дълги кости (radius и ulna), свързани от membrana interossea и артикулирани в проксималната и дисталната radioulnar articulation, като ротационната функция на пронацията и супинацията зависи от запазването на радиалната дъга и взаимоотношенията на radioulnar articulation. Основните хирургични достъпи трябва да зачитат тази анатомия, като защитават nervus interosseous posterior (основната неврологична структура, изложена на риск при достъпите до radius), повърхностния клон на nervus radialis (подкожен по радиалния ръб на дисталната предмишница), nervus medianus и nervus interosseous anterior (волярен компартмент), nervus ulnaris и неговия дорзален клон (медиален компартмент) и arteria radialis и arteria ulnaris.

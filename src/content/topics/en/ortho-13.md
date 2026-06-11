@@ -221,6 +221,13 @@ Os odontoideum is a separated ossicle replacing the normal dens, with potential 
 
 Sacralization of L5 (partial or complete) and lumbarization of S1 are common variants, mostly asymptomatic but occasionally associated with low back pain (the Bertolotti syndrome, in which an enlarged transverse process of L5 articulates with the sacrum to produce focal pain).
 
+## Sources and Classical Literature
+
+The Klippel-Feil syndrome was described by Maurice Klippel and André Feil in 1912 (*Nouv. Iconogr. Salpêtrière* 25: 223–250). The vocabulary of cervical congenital anomalies, however, rests on Bergmann's *Chirurgische Behandlung von Hirnkrankheiten* (1889) and the late-nineteenth-century craniospinal tradition.
+
+- **Bergmann** (1889): *Die chirurgische Behandlung von Hirnkrankheiten* — cranio-cervical surgery. · [Facsimile](https://archive.org/details/diechirurgische00berggoog)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 The congenital anomalies of the spine span a remarkable spectrum from minor radiographic variants to devastating myelomeningocele. Congenital scoliosis, classified as failures of formation (hemivertebrae), failures of segmentation (block vertebrae, unilateral unsegmented bars), or mixed defects, requires careful assessment of progression risk; unilateral unsegmented bars combined with contralateral hemivertebrae are the most progressive and warrant early surgical intervention. Associated anomalies (spinal cord, renal, cardiac, and others) must be sought systematically (VACTERL screening). Klippel- Feil syndrome of cervical vertebral fusion produces the classical triad of short neck, low hairline, and limited motion, but the principal clinical concerns are adjacent-segment instability, scoliosis, Sprengel deformity, and renal and cardiac anomalies. Cervical ribs are common and usually asymptomatic but can produce thoracic outlet syndrome with characteristic neurological, vascular, or combined manifestations. The dysraphic states (spina bifida occulta, meningocele, myelomeningocele, and the tethered cord syndromes) produce a wide range of orthopedic, neurosurgical, and medical manifestations that require lifelong multidisciplinary management. Across all of these conditions, the principles of early recognition, systematic investigation for associated anomalies, staged surgical intervention according to functional priorities, and coordinated multidisciplinary care produce the best outcomes.

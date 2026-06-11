@@ -400,6 +400,14 @@ For combined injuries with biceps palsy (musculocutaneous nerve injury or combin
 
 For post-traumatic habitual shoulder dislocation the derotation osteotomy of the proximal humerus (see above) may serve as an adjunct to anterior stabilisation — redirecting the head into external rotation places the anterior capsulolabral complex on a more favourable mechanical axis.
 
+## Sources and Classical Literature
+
+The classical surgical anatomy of the arm was given by Velpeau's *Nouveaux éléments de médecine opératoire* (1832), with attention to the brachial plexus and the surgical approaches to the humerus that still inform the deltopectoral and lateral approaches. Larrey's *Mémoires* (1812) describes the battlefield humeral amputations that codified the principle of "the higher the better" for proximal injuries. Heinrich Braun (1907) gave the supraclavicular brachial plexus block — the ancestor of modern ultrasound-guided ISB and SCB.
+
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 1 — arm and shoulder. · [Facsimile](https://archive.org/details/BIUSante_43901x01)
+- **Larrey** (1812): *Mémoires de chirurgie militaire et campagnes*, vol. 2 — humeral amputations. · [Facsimile](https://archive.org/details/mmoiresdechiru02larr)
+- **Heinrich Braun** (1907): *Die Lokalanästhesie* — brachial plexus block. · [Facsimile](https://archive.org/details/dielokalansthe00brau)
+
 ## Summary and Take-Home Points
 
 The arm provides relatively straightforward surgical approaches compared with the shoulder, with the principal challenge being the radial nerve in the spiral groove of the posterior humerus. The two principal approaches — anterolateral (using the biceps-brachialis interval with midline brachialis split) and posterior (using triceps-splitting, paratricipital, triceps-reflecting, or olecranon osteotomy techniques), together provide access to most regions of the humeral shaft. The choice of approach depends on the location of pathology (proximal and middle thirds favoring anterolateral; middle and distal thirds favoring posterior; distal articular surface favoring olecranon osteotomy). The radial nerve is identified specifically and protected in any approach that extends to the middle or distal thirds of the humerus, with the junction of the middle and distal thirds of the humerus being the critical landmark where the nerve pierces the lateral intermuscular septum to enter the anterior compartment. The musculocutaneous nerve in the anterior compartment, the ulnar nerve medially, and the brachial artery with median nerve in the medial bicipital groove are the additional neurological structures requiring awareness during surgical approaches to the arm.

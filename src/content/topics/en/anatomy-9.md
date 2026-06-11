@@ -450,6 +450,14 @@ The principal neurovascular concerns include: Femoral nerve: Descends through th
 
 Common peroneal nerve: Continues laterally to wrap around the fibular neck (vulnerable to injury here, [Topic Trauma-31](/en/trauma/31/)). Tibial nerve: Continues distally through the popliteal fossa. Popliteal artery and vein: Pass through the popliteal fossa. Vulnerable in knee dislocations ([Topic Trauma-26](/en/trauma/26/)) and distal femur/proximal tibia fractures.
 
+## Sources and Classical Literature
+
+The classical surgical anatomy of the thigh and knee was given by Velpeau's *Médecine opératoire* (1832) and refined by Malgaigne's *Traité* (1847). Hoffa's *Lehrbuch* (1905) provides the orthopedic anatomy. The infrapatellar fat pad ("Hoffa pad") — a structure now central to anterior knee pain — was first systematically described by Hoffa himself.
+
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 2. · [Facsimile](https://archive.org/details/BIUSante_43901x02)
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 2 — distal femur, patella, proximal tibia. · [Facsimile](https://archive.org/details/BIUSante_32985x02)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Hoffa fat pad. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 The thigh has three principal compartments (anterior with quadriceps and femoral nerve, medial with adductors and obturator nerve, posterior with hamstrings and sciatic nerve), with the femoral triangle at the proximal end and the popliteal fossa at the distal end as the principal neurovascular landmarks. The femoral shaft is approached for fracture fixation typically through a posterolateral or anterolateral approach between vastus lateralis and rectus femoris; classical Küntscher intramedullary nailing (1939–1940), plate osteosynthesis, and compression-distraction methods (Ilizarov, Wagner, Bliskunov) are the three historical frameworks for diaphyseal fracture fixation and femoral lengthening. The classical Bulgarian school emphasises that splitting the vasti denervates their peripheral portions and produces extension or flexion contracture — the principal argument for the muscle-sparing posterolateral approach.

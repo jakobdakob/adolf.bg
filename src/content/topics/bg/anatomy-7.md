@@ -493,6 +493,14 @@ A. et v. glutealis superior et inferior се идентифицират, пре�
 
 Crista iliaca е класическото донорско място за автоложен костен присадък в ортопедията. Главните технически принципи са: разрезът върви по ръба на crista iliaca, минимум 2 cm зад spina iliaca anterior superior — за избягване на n. cutaneus femoris lateralis (преминава под ligamentum inguinale 1–2 cm медиално от SIAS, увреждане → meralgia paresthetica) и на n. ilioinguinalis. При преден достъп може да се вземе трикортикален блок (за рекоструктивни тазови или гръбначни операции) или само cortico-cancellous chips; при заден достъп (за гръбначни фузии) разрезът върви по протежение на crista iliaca от spina iliaca posterior superior, със защита на n. cluneus superior (преминава над crista iliaca приблизително 7–8 cm латерално от средната линия). Дълбочината на резекцията е ограничена до около 2 cm под повърхността на crista iliaca, за да се запази тазовият пръстен и да се избегне пробив в малкия таз; обикновено събирането от вътрешната таблица е по-проблемно поради m. iliacus и съдово-нервните структури. Усложненията на присадково взимане: хронична болка в донорното място (5–25%, най-честото усложнение), meralgia paresthetica, фрактура на SIAS, херния през crista iliaca-дефект (рядко, но описано) и хематом.
 
+## Източници и класическа литература
+
+*Nuevo método de operar en la hernia crural* на Antonio de Gimbernat (Мадрид, 1793) дава основополагащото анатомично описание на ligamentum lacunare (връзка на Гимбернат) и неговото хирургично значение. *Traité* на Малгень (1847) добавя анализа на фрактурите на тазовия пръстен (включително едноименната фрактура на Малгень). *Mémoires* на Лярей (1812) предоставя ранните военни наблюдения за тазовите огнестрелни увреди.
+
+- **Gimbernat** (1793): *Nuevo método de operar en la hernia crural*. · [Факсимиле](https://archive.org/details/b28757257_0001)
+- **Малгень** (1847): *Traité des fractures et des luxations*, том 1. · [Факсимиле](https://archive.org/details/BIUSante_32985x01)
+- **Лярей** (1812): *Mémoires de chirurgie militaire et campagnes*, том 1 — тазови увреди. · [Факсимиле](https://archive.org/details/mmoiresdechiru01larr)
+
 ## Обобщение и ключови изводи
 
 Хирургичната анатомия на таза е определена от сложните взаимоотношения между костния таз, илиачните съдове и техните разклонения (включително опасната анастомоза corona mortis, пресичаща ramus superior ossis pubis), лумбосакралния плексус (с nervus ischiadicus, излизащ от incisura ischiadica major типично под musculus piriformis, и nervus femoralis, вътре в musculus iliopsoas), тазовите висцери (пикочен мехур, rectum) и мускулатурата на коремната стена.

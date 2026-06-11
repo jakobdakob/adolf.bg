@@ -124,6 +124,14 @@ Cartilage healing fundamentally differs from bone healing and is substantially l
   <p>Only the peripheral one-third of the meniscus (the vascular red zone) has healing potential. Targeting repair at avascular inner-zone tears predictably fails, and these tears are managed by partial meniscectomy or, in selected cases, meniscal allograft.</p>
 </aside>
 
+## Sources and Classical Literature
+
+The nineteenth-century synthesis of bone healing rests on Billroth's *Allgemeine chirurgische Pathologie und Therapie* (1882), where callus formation is described as a specific form of inflammation arising from periosteum and bone marrow. John Hunter's earlier *Treatise on the Blood, Inflammation, and Gun-Shot Wounds* (1794) provided the theoretical foundation for inflammation as the central engine of healing. Malgaigne (1847) catalogued the clinical course of fracture healing and pseudarthrosis.
+
+- **Hunter** (1794): *A Treatise on the Blood, Inflammation, and Gun-Shot Wounds*. · [Facsimile](https://archive.org/details/treatiseonbloodi00hunt)
+- **Billroth** (1882): *Allgemeine chirurgische Pathologie und Therapie*. · [Facsimile](https://archive.org/details/dieallgemeinechi1882bill)
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 1. · [Facsimile](https://archive.org/details/BIUSante_32985x01)
+
 ## Summary and Take-Home Points
 
 Bone healing is a complex, well-orchestrated biological process that uniquely allows full regeneration of the injured tissue. The two principal mechanisms — indirect (secondary) healing with callus under conditions of relative stability, and direct (primary) healing without callus under conditions of absolute stability, guide the choice of fracture treatment. The cellular and molecular processes involve a complex interplay of mesenchymal stem cells, osteoblasts, osteoclasts, chondrocytes, and multiple growth factors (BMPs, TGF-β, VEGF, and others). The local factors affecting healing (mechanical environment, vascular supply, fracture pattern, gap, infection) and systemic factors (age, smoking, diabetes, nutritional status, medications, endocrine disorders) collectively determine the rate and reliability of healing. Pharmacological augmentation with BMPs, teriparatide, and other agents has roles in specific indications. Bone grafting (autograft as gold standard, allograft, demineralized bone matrix, synthetic substitutes) is used to augment healing when natural healing is impaired. Cartilage healing, by contrast, is fundamentally limited; full-thickness defects fill with inferior fibrocartilage, and various cell-based and graft-based treatments attempt to provide better tissue. Across both bone and cartilage healing, the principles of preserving biology, providing appropriate mechanical environment, and addressing modifiable factors determine successful outcomes.

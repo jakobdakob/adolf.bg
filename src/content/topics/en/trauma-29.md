@@ -179,6 +179,13 @@ Metatarsal fractures are common and represent a separate category in many discus
   <p>Distinguish the three fifth metatarsal base patterns: tuberosity avulsion (dancer's fracture, heals with conservative care), Jones fracture at the metaphyseal-diaphyseal junction (25-30% nonunion rate, often fixed percutaneously in athletes), and proximal diaphyseal stress fracture (managed like Jones). The Jones territory is a watershed and tolerates conservative management poorly.</p>
 </aside>
 
+## Sources and Classical Literature
+
+The talus and calcaneal fractures were systematically catalogued by Malgaigne (1847), with the recognition that the talar neck fracture has a critical influence on body weight transmission. The Hawkins classification (1970) and Sanders classification (1993) build on this foundation. Mediaeval and Renaissance descriptions appear in Chauliac (1363) and Paré.
+
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 2 — foot fractures. · [Facsimile](https://archive.org/details/BIUSante_32985x02)
+- **Chauliac** (1363): *Chirurgia magna* — mediaeval foot. · [Facsimile](https://archive.org/details/chirurgiamagnagu00guyd)
+
 ## Summary and Take-Home Points
 
 The talar neck fracture is the central injury of the talus, with the Hawkins classification (I non-displaced, II with subtalar dislocation, III with subtalar and ankle dislocation, IV with all three joint dislocations) predicting both the surgical urgency and the AVN risk (rising from 0 percent in Hawkins I to nearly 100 percent in Hawkins IV). Urgent closed or open reduction of displaced fractures is essential, with anatomical reduction and rigid cannulated screw fixation through a dual anteromedial-anterolateral approach. The

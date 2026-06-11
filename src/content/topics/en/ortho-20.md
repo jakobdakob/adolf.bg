@@ -161,6 +161,13 @@ The patient with borderline acetabular dysplasia (center-edge angle 20-25°) pre
 
 Hip microinstability (a syndrome of subtle multidirectional hip instability without frank dislocation) is increasingly recognized as a cause of hip pain that overlaps with FAI. Treatment combines physical therapy, capsular plication, and avoidance of capsular release or wide capsular dissection in arthroscopy.
 
+## Sources and Classical Literature
+
+Femoroacetabular impingement is a modern entity (Ganz 2003), but its anatomical substrate — the non-spherical femoral head with a prominent head-neck junction — was already documented in nineteenth-century hip pathology. Hoffa's *Lehrbuch* (1905) recognized post-traumatic and developmental abnormalities of the head-neck contour, and the lineage of recognition runs through Smith-Petersen (1936) to Ganz.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Hip pathology. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Langenbeck-Archiv** — original Hueter and Smith-Petersen-era publications. · [Facsimile (series)](https://archive.org/details/archivfrklinisc11unkngoog)
+
 ## Summary and Take-Home Points
 
 Femoroacetabular impingement is a clinical syndrome in which abnormal mechanical contact between the proximal femur and acetabular rim produces progressive damage to the labrum, chondrolabral junction, and underlying cartilage. The morphological subtypes — cam impingement from aspherical femoral head-neck junction, pincer impingement from acetabular overcoverage, and combined impingement — are diagnosed by characteristic radiographic features (alpha angle, crossover sign, center-edge angle, ischial spine sign) and confirmed by MR arthrography. The clinical presentation is typically an active young adult with activity-related groin pain, decreased hip internal rotation in flexion, and positive anterior impingement test. Treatment is initially conservative with activity modification, physical therapy, and selective intra-articular injection; surgical management — predominantly by hip arthroscopy with femoral osteochondroplasty, acetabular rim trimming, and labral repair or reconstruction; less commonly by open surgical hip dislocation (Ganz approach) or by periacetabular osteotomy for associated dysplasia — addresses the underlying morphology and produces meaningful improvement in 70-85% of well-selected patients. Patient selection is the principal determinant of outcome, with established osteoarthritis being the strongest predictor of failure. The recognition of FAI as a major cause of pre-arthritic hip disease and a contributor to the development of hip osteoarthritis has transformed the orthopedic understanding of hip pain in young adults over the past two decades.

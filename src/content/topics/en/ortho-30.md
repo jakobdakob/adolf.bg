@@ -124,6 +124,14 @@ The outcomes of modern total joint arthroplasty are extensively documented in na
 
 Welsh, and American Joint Replacement Registries among others). The data demonstrate: excellent long-term survival of modern hip arthroplasty (95% at 10 years, 85-90% at 20 years); similar excellent survival of modern knee arthroplasty; ongoing improvement in implant designs and surgical techniques; substantial variation in outcomes by surgeon and hospital volume; and persistent challenges in specific areas including outcomes in younger patients, the persistent dissatisfaction rate after TKA, and the management of failed arthroplasty.
 
+## Sources and Classical Literature
+
+Joint arthroplasty before Charnley (1961) was attempted through resection arthroplasty (Whitman, Girdlestone), interposition arthroplasty (Murphy 1905, Putti 1921), and mould arthroplasty (Smith-Petersen 1939). Hoffa's *Lehrbuch* (1905) catalogues the late-nineteenth-century state of the art, when arthrodesis remained the dominant operation for the destroyed joint.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Gelenkresektionen, Arthroplastik. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Langenbeck-Archiv** — original arthroplasty papers (Hueter, Helferich, Murphy). · [Facsimile (series)](https://archive.org/details/archivfrklinisc11unkngoog)
+- **Billroth** (1882): *Allgemeine chirurgische Pathologie und Therapie* — surgical pathology of the joint. · [Facsimile](https://archive.org/details/dieallgemeinechi1882bill)
+
 ## Summary and Take-Home Points
 
 Joint arthroplasty is among the most successful interventions in modern orthopedic surgery, with excellent long-term outcomes for the majority of patients receiving hip, knee, shoulder, and other joint replacements. The principles of biomaterial selection (modern metallic alloys, highly cross-linked polyethylene, advanced ceramics), bearing surface choice (metal-on-XLPE as the current standard with ceramic-on-XLPE and ceramic-on-ceramic for selected patients), fixation method (cemented vs uncemented based on patient and bone factors), implant design considerations, surgical approach selection, and perioperative management (multimodal pain control, blood management with antifibrinolytics, thromboprophylaxis, early mobilization) determine successful outcomes. The principal complications — infection, aseptic loosening, instability, periprosthetic fracture, thromboembolic disease — require ongoing attention to prevention and prompt recognition when they occur. The volume of revision arthroplasty is increasing globally and demands surgeon training, appropriate facilities, and dedicated subspecialty interest. Across all aspects of arthroplasty, the principles of careful patient selection, appropriate implant choice, meticulous surgical technique, and structured perioperative care produce the best long-term outcomes.

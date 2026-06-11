@@ -205,6 +205,13 @@ Bursitis can develop at any anatomical site where mechanical stress between tiss
 
 • Olecranon bursitis (elbow) • Trochanteric bursitis (lateral hip) • Ischial bursitis (ischial tuberosity) • Pes anserine bursitis (medial knee) • Prepatellar bursitis (“housemaid’s knee,” from kneeling) • Retrocalcaneal bursitis (posterior heel) • Subacromial bursitis (shoulder) • Iliopsoas bursitis (anterior hip) The general principles of management — rest, ice, NSAIDs, activity modification, aspiration for symptomatic effusions, selective corticosteroid injection, and surgical excision for refractory cases, apply across all sites. Septic bursitis requires antibiotic therapy and often surgical drainage.
 
+## Sources and Classical Literature
+
+Periarticular soft-tissue conditions were systematically catalogued by Hoffa (1905) under "Schleimbeutelentzündungen, Periarthritis, Tendinitis." The supraspinatus impingement substrate was later clarified by Codman (1934) — though his major monograph is still under copyright, his earlier journal papers (1909–1929) are public domain.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Periarthritis. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Bier / Braun / Kümmell** (1920): *Chirurgische Operationslehre*, vol. 2 — shoulder and upper limb. · [Facsimile](https://archive.org/details/chirurgischeoperationslehre1920v2)
+
 ## Summary and Take-Home Points
 
 The overuse syndromes (tendinopathies, bursitis, periarthritis, and related conditions) constitute a major component of orthopedic practice. The modern understanding of “tendinitis” as principally a degenerative rather than inflammatory condition has shifted management toward eccentric exercise programs, biological injections, and other regenerative approaches rather than purely anti-inflammatory measures. The principal upper-limb syndromes include subacromial impingement and rotator cuff disease, frozen shoulder, lateral and medial epicondylitis, de Quervain’s tenosynovitis, trigger finger; the lower-limb syndromes include trochanteric pain syndrome, patellar and quadriceps tendinopathy, Achilles tendinopathy, plantar fasciitis. The general principles of management — accurate diagnosis based on anatomical knowledge and clinical examination, conservative measures including activity modification, physiotherapy with specific eccentric exercises, NSAIDs, and selective corticosteroid injection, with surgical management reserved for refractory cases, apply across the spectrum of overuse syndromes.

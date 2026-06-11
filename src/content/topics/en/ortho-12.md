@@ -189,6 +189,13 @@ The timing of reconstructive surgery for congenital hand anomalies is dictated b
 
 The care of the child with a major congenital hand anomaly is best provided in a multidisciplinary clinic with pediatric hand surgery, occupational therapy, prosthetics, psychology, and where appropriate genetics, cardiology, and hematology. The family requires ongoing support and education, and the child’s transition through development requires repeated reassessment of function and adjustment of the management plan.
 
+## Sources and Classical Literature
+
+Renaissance and early modern surgery documented congenital hand anomalies long before the modern genetic vocabulary was available. Paré's *Œuvres complètes* (Malgaigne ed. 1840) contains the classical descriptions of polydactyly and syndactyly with the era's etiological hypotheses (maternal impression, divine intervention, mechanical compression in utero). Hoffa's *Lehrbuch* (1905) consolidated the late-nineteenth-century operative reconstruction tradition.
+
+- **Paré** (1840 Malgaigne ed.): *Œuvres complètes*, vol. 2 — Renaissance descriptions of congenital anomalies. · [Facsimile](https://archive.org/details/oeuvrescomplte02par)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 The congenital anomalies of the hand encompass a heterogeneous group of disorders classified by the Swanson system into failures of formation, failures of differentiation, duplications, overgrowth, undergrowth, constriction band syndrome, and generalized skeletal anomalies. The clinical recognition of the principal anomalies — radial and ulnar longitudinal deficiency with their syndromic associations (particularly VACTERL, Holt- Oram, Fanconi anemia, TAR), syndactyly with its association with Apert and Poland syndromes, polydactyly with the Wassel classification of the duplicated thumb, hypoplastic thumb with the Blauth classification, and the amniotic band syndrome, is the basis of pediatric hand practice. Treatment is highly individualized and combines surgical reconstruction (separation, excision, pollicization, opponensplasty) with prosthetic fitting and occupational therapy. The recognition of associated systemic anomalies (cardiac, renal, hematological) and the prompt diagnosis of conditions such as Fanconi anemia is one of the most important contributions of the orthopedic surgeon to the care of the child with a congenital hand anomaly. The amniotic band syndrome, while devastating in its severe presentations, is sporadic and not associated with chromosomal or hereditary disease, a fact that allows reassurance of the family and focus on the specific reconstructive needs of the affected limb.

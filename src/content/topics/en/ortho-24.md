@@ -161,6 +161,14 @@ Synovial chondromatosis is a metaplastic proliferation of cartilaginous and osse
 
 Treatment is surgical excision, with recurrence being common in diffuse disease. The CSF1R inhibitor pexidartinib has been approved for refractory disease.
 
+## Sources and Classical Literature
+
+The classical descriptions of rheumatoid joint disease appear in Billroth (1882) under "chronische Polyarthritis" and in Hoffa (1905) under "deformierende Gelenkentzündung." Charcot's 1868 description of the neurotrophic arthropathy (the "Charcot joint") gives the bone-destruction phenotype of severe neuropathic disease. The modern ACR/EULAR vocabulary is twentieth-century.
+
+- **Billroth** (1882): *Allgemeine chirurgische Pathologie und Therapie* — chronic polyarthritis. · [Facsimile](https://archive.org/details/dieallgemeinechi1882bill)
+- **Lexer** (1904): *Lehrbuch der allgemeinen Chirurgie*, vol. 2 — joint pathology. · [Facsimile](https://archive.org/details/lehrbuchderallg01lexegoog)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 The arthropathies form a heterogeneous group of inflammatory and crystal-induced joint diseases. Rheumatoid arthritis, the most consequential from a surgical perspective, is a chronic systemic autoimmune disease characterized by symmetric small-joint arthritis with characteristic hand deformities and cervical spine involvement (particularly atlantoaxial instability). The medical management has been transformed by methotrexate, biological agents, and JAK inhibitors, with surgical management focused on synovectomy, joint preservation, arthrodesis, and joint replacement for end-stage disease. The seronegative spondyloarthropathies (ankylosing spondylitis, psoriatic arthritis, reactive arthritis, IBD-associated arthritis) share axial inflammation, peripheral arthritis, enthesitis, and HLA-B27 association; ankylosing spondylitis specifically produces the bamboo spine with characteristic fracture vulnerability and may require corrective spinal osteotomy for severe kyphotic deformity. The crystal arthropathies (gout and pseudogout) produce acute and chronic joint inflammation managed by NSAIDs, colchicine, and disease-specific therapies (urate-lowering for gout). Across all arthropathies, the orthopedic surgeon’s role includes coordination with rheumatology, perioperative management of medications, and surgical procedures appropriate to the specific joint and disease pattern.

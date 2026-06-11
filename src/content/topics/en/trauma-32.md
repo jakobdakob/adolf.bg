@@ -188,6 +188,13 @@ The obtunded patient (head injury, intubated and sedated, intoxicated) is at par
 
 Chronic exertional compartment syndrome (CECS) is a distinct entity from acute compartment syndrome. The condition affects athletes performing repetitive activity and produces predictable elevation of compartment pressures with exercise, producing pain and dysfunction that resolves with rest. The classical setting is the runner with leg pain that begins after a predictable distance of running and resolves within minutes of stopping. Diagnosis is by dynamic compartment pressure measurement (with measurements before, during, and after exercise; postexercise pressures greater than 30 mmHg at 1 minute or greater than 20 mmHg at 5 minutes are diagnostic). Treatment is elective fasciotomy of the affected compartments, with reasonably good outcomes (60 to 80 percent return to pre-symptom activity level).
 
+## Sources and Classical Literature
+
+Larrey's *Mémoires* (1812) gave the founding doctrine of battlefield arterial control — ligation, compression, and amputation. The modern era of vascular reconstruction begins with Goyanes' 1906 use of vein graft for arterial replacement (Madrid, two years before Carrel) — though the original Spanish paper is not available as a direct archive.org facsimile, the Spanish biographical literature reproduces the original diagrams. Volkmann's 1881 description of ischaemic contracture (*Cbl. Chir.*) opens the compartment-syndrome literature.
+
+- **Larrey** (1812): *Mémoires de chirurgie militaire et campagnes*, vol. 2. · [Facsimile](https://archive.org/details/mmoiresdechiru02larr)
+- **Lexer** (1904): *Lehrbuch der allgemeinen Chirurgie*, vol. 2 — vascular injury. · [Facsimile](https://archive.org/details/lehrbuchderallg01lexegoog)
+
 ## Summary and Take-Home Points
 
 Vascular injuries in orthopedic trauma occur most commonly in association with specific fracture and dislocation patterns: popliteal artery in knee dislocation, brachial artery in supracondylar humerus, axillary artery in shoulder injuries, iliac vessels in pelvic ring injuries. The clinical assessment combines hard signs (active bleeding, expanding hematoma, absent pulses, distal ischemia) with soft signs (history of significant bleeding, diminished pulses, peripheral nerve deficit, wound proximity). The ankle-brachial index

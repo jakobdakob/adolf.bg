@@ -180,6 +180,13 @@ here:
 •   Total hip arthroplasty for hip involvement is technically demanding but produces good
     functional outcomes.
 
+## Sources and Classical Literature
+
+Vladimir Bekhterev (Bechterew) described the eponymous ankylosing spondylitis in 1893 (*Neurologisches Centralblatt*); Strümpell (1897) and Pierre Marie (1898) gave parallel descriptions. The cranio-cervical surgical anatomy that underpins modern spine surgery rests on Bergmann's *Chirurgische Behandlung von Hirnkrankheiten* (1889).
+
+- **Bergmann** (1889): *Die chirurgische Behandlung von Hirnkrankheiten*. · [Facsimile](https://archive.org/details/diechirurgische00berggoog)
+- **Bier / Braun / Kümmell** (1920): *Chirurgische Operationslehre*, vol. 1 — spinal operative principles. · [Facsimile](https://archive.org/details/chirurgischeoperationslehre1920v1)
+
 ## Summary and Take-Home Points
 
 Degenerative spine disease encompasses a spectrum of conditions from mechanical low back pain to cervical myelopathy. The aging spine produces predictable patterns of disc degeneration, facet arthropathy, ligamentous hypertrophy, and stenosis that underlie the principal clinical syndromes. Mechanical low back pain affects most adults at some point and has a favorable natural history with conservative management. Lumbar disc herniation with radiculopathy is managed conservatively for most patients, with surgical discectomy reserved for refractory or progressive cases; cauda equina syndrome is a surgical emergency. Lumbar spinal stenosis produces neurogenic claudication relieved by spinal flexion and is treated by decompression with or without fusion when symptoms are refractory. Spondylolisthesis is classified by Wiltse type and Meyerding grade and treated by decompression and fusion when symptomatic. Cervical spondylotic myelopathy demands surgical management for most progressive cases. Ankylosing spondylitis produces progressive spinal ankylosis with fracture vulnerability and kyphotic deformity, and may require corrective spinal osteotomy in advanced disease. Across all degenerative spine conditions, the principles of careful clinical assessment, appropriate imaging, stepwise conservative management, and surgical intervention for refractory or progressive disease produce successful outcomes.

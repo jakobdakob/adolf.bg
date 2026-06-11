@@ -637,6 +637,14 @@ Lunate dislocation — volar S-shaped approach; carpal tunnel opened; flexor ten
 The Bulgarian Paneva miniplate — straight self-compressing with one oval and one round hole — is standard for diaphyseal malunion and nonunion of metacarpals and proximal phalanges. Dorsolateral approach; fragments aligned; plate dorsal; oval-hole screw inserted first for compression by length displacement, then round-hole screw for fixation. The L-shaped Paneva nail-plate is used for IP arthrodesis. AO 2.6 mm screws are a widespread alternative.
 
 
+## Sources and Classical Literature
+
+Dupuytren's *Leçons orales* (1832) gave the founding description of the palmar fascia and its diseases. Dieffenbach's *Die operative Chirurgie* (1848) contains the founding modern hand-plastic and Z-plasty techniques. Paré's Œuvres (Malgaigne ed. 1840) preserves the Renaissance hand-surgery tradition; the Japanese Edo *Yōka Hiroku* of Honma Sōken gives an East Asian parallel.
+
+- **Dupuytren** (1832): *Leçons orales de clinique chirurgicale*, vol. 1 — palmar aponeurosis. · [Facsimile](https://archive.org/details/leonsoralesdec01dupu)
+- **Dieffenbach** (1845–48): *Die operative Chirurgie*, vol. 2 — hand plastics. · [Facsimile](https://archive.org/details/dieoperativechir02dief)
+- **Paré** (1840 Malgaigne ed.): *Œuvres complètes*, vol. 2. · [Facsimile](https://archive.org/details/oeuvrescomplte02par)
+
 ## Summary and Take-Home Points
 
 The hand is the most anatomically intricate orthopedic region, with 27 bones, complex tendon and pulley systems, intrinsic muscles, and dense neurovascular anatomy. The principles of hand surgical anatomy include the flexor tendon zones (with zone II “no man’s land” between the proximal A1 pulley and the FDS insertion being the most challenging for repair), the extensor tendon zones, the A2 and A4 pulleys as the critical biomechanical pulleys, the intrinsic compartments (thenar, hypothenar, central, adductor, four dorsal interossei, three palmar interossei), the digital neurovascular bundles along the lateral and medial aspects of each digit, and the palmar and dorsal arches with their digital branches. The principles of hand incision design are essential: avoid crossing flexion creases at right angles (using Bruner zig-zag or mid-axial incisions on the digits), respect the underlying tendon anatomy on the dorsum, and use the Z-plasty technique to lengthen contractures across flexion creases (with 60-degree Z-plasty providing 75 percent length gain along the central axis).

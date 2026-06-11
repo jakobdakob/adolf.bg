@@ -174,6 +174,13 @@ Brachial plexus, ulnar nerve, and common peroneal nerve injuries can occur from 
 
 Compartment syndrome (increased pressure within a fascial compartment with secondary nerve compression) is discussed in the chapter on compartment syndrome.
 
+## Sources and Classical Literature
+
+Peripheral nerve compression syndromes were recognized clinically long before electrodiagnostic confirmation. Velpeau's *Médecine opératoire* (1832) and Dupuytren's *Leçons orales* (1832) contain early descriptions; the carpal tunnel syndrome was named in the 1920s but its substrate — the median nerve compression at the wrist — was already documented in nineteenth-century clinical series.
+
+- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, vol. 2. · [Facsimile](https://archive.org/details/BIUSante_43901x02)
+- **Dupuytren** (1832): *Leçons orales de clinique chirurgicale*, vol. 3 — distal upper limb. · [Facsimile](https://archive.org/details/leonsoralesdec03dupu)
+
 ## Summary and Take-Home Points
 
 The peripheral nerve compression syndromes constitute a major component of orthopedic and hand surgery practice. The fundamental principles include: knowledge of the anatomical compression sites for each major nerve; clinical examination targeting the sensory and motor distribution of each nerve; provocative tests to confirm the suspected level of compression; selective use of electrodiagnostic studies for objective documentation and severity assessment; and a graded approach to management with conservative measures (splinting, activity modification, injection) for early disease and surgical decompression for refractory disease. The principal upper-limb syndromes — carpal tunnel, cubital tunnel, radial tunnel, posterior interosseous, anterior interosseous, Guyon’s canal (and the lower-limb syndromes) tarsal tunnel, common peroneal compression, meralgia paresthetica — each have characteristic clinical features and specific management. The differential diagnosis with cervical or lumbar radiculopathy, with more proximal nerve injury, and with systemic neuropathic conditions must be considered in atypical presentations. Outcomes of timely intervention are generally excellent, with the principal predictors of poor outcome being advanced disease with established axonal damage at presentation.

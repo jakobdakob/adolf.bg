@@ -140,6 +140,13 @@ Several fractures can occur during birth, particularly during difficult delivery
 
 Caput succedaneum and cephalhematoma: Soft tissue collections over the skull from pressure during delivery, typically resolving spontaneously without orthopedic significance. Brachial plexus palsy from causes other than birth: Brachial plexus injuries also occur from postnatal trauma, infections, tumors, and other causes; the management principles are similar but the prognosis is variable.
 
+## Sources and Classical Literature
+
+The subcutaneous tenotomy of the sternocleidomastoid for congenital torticollis is one of the founding operations of orthopedic surgery: Stromeyer (1838) and Dieffenbach (1840s) developed the technique that Hoffa later consolidated. Erb (1874) and Klumpke (1885) described the brachial-plexus birth injuries that still bear their names.
+
+- **Dieffenbach** (1845–48): *Die operative Chirurgie*, vol. 2 — Schiefhals-Tenotomie. · [Facsimile](https://archive.org/details/dieoperativechir02dief)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Torticollis, Geburtsverletzungen. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 Birth injuries to the musculoskeletal system include obstetric brachial plexus palsy (the most consequential, with the Erb’s-Duchenne pattern of upper plexus injury producing the characteristic “waiter’s tip” posture, and management based on observation of spontaneous recovery with surgical exploration for failure of biceps recovery by 3-6 months); congenital muscular torticollis (the commonest cause of fixed head tilt in infancy, managed by stretching with high success rates and surgical SCM tenotomy reserved for failed conservative management); and perinatal fractures (clavicle, humerus, femur, all healing rapidly with minimal treatment). The principal long-term concerns are residual deficit and progressive deformity (particularly in OBPP and CMT), and the orthopedic surgeon must monitor patients into childhood for these complications and intervene appropriately. The screening for associated DDH in any infant with CMT is a critical clinical point.

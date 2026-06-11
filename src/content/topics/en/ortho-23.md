@@ -177,6 +177,13 @@ Morton’s neuroma (perineural fibrosis of the common digital nerve, most common
 
 The bunionette is the analog of hallux valgus at the fifth ray, with lateral deviation of the fifth metatarsal head producing a bony prominence at the lateral aspect of the foot and shoe pressure pain. Treatment combines footwear modification (wider toe box) and, in refractory cases, surgical correction with a distal metatarsal osteotomy of the fifth ray.
 
+## Sources and Classical Literature
+
+The hallux valgus literature is densely eponymized: Hueter (1871) gave the soft-tissue release; Hoffa (1905) the metatarsal-head resection ("Hoffa-Operation"); Silver (1923) and McBride (1928) the modern soft-tissue procedures; Akin (1925) the phalangeal osteotomy; and the chevron and scarf osteotomies are mid-twentieth-century developments. Dieffenbach's *Die operative Chirurgie* (1848) contains the founding tenotomy and arthrotomy techniques.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — Hallux valgus, Hoffa-Operation. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Dieffenbach** (1848): *Die operative Chirurgie*, vol. 2 — early foot operations. · [Facsimile](https://archive.org/details/dieoperativechir02dief)
+
 ## Summary and Take-Home Points
 
 The static forefoot deformities — hallux valgus, hallux rigidus, and the lesser toe deformities (hammer toe, claw toe, mallet toe, crossover toe) — are extremely common causes of foot pain and functional disability. Hallux valgus, classified by the hallux valgus angle and intermetatarsal angle, is managed conservatively in mild disease and by stage-appropriate surgical procedures (distal osteotomy for mild deformity, proximal osteotomy or Lapidus procedure for moderate-to-severe deformity, MTP arthrodesis for advanced disease with arthritis). Hallux rigidus, the osteoarthritis of the first MTP joint, is managed by cheilectomy in early disease and by arthrodesis in advanced disease, with joint replacement options preserved for selected patients. The lesser toe deformities are treated by tendon transfers for flexible deformities and by arthrodesis or resection arthroplasty for fixed deformities, often in combination with metatarsal procedures. Across all forefoot disorders, the principles of careful clinical and radiographic assessment, stepwise conservative management, and surgical procedures tailored to the specific deformity components produce successful outcomes for the majority of patients.

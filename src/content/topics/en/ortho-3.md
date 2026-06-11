@@ -208,6 +208,14 @@ A pathological fracture, by definition, is a fracture that occurs through abnorm
   <p>Metastatic femoral neck fractures should be replaced (hemi- or total hip arthroplasty), not internally fixed: nonunion through diseased bone and AVN of the compromised head are predictable. Renal cell, thyroid, and other hypervascular metastases demand preoperative selective embolization before any surgery.</p>
 </aside>
 
+## Sources and Classical Literature
+
+Billroth (1882) classified the malignant bone tumors as "bösartige Knochengeschwülste" — a Vienna-school synthesis that long preceded the modern Enneking and AJCC systems. Malgaigne (1847) had earlier recognized pathological fractures through tumor as a distinct clinical entity requiring different management from traumatic fractures.
+
+- **Billroth** (1882): *Allgemeine chirurgische Pathologie und Therapie* — tumor classification. · [Facsimile](https://archive.org/details/dieallgemeinechi1882bill)
+- **Lexer** (1904): *Lehrbuch der allgemeinen Chirurgie*, vol. 2. · [Facsimile](https://archive.org/details/lehrbuchderallg01lexegoog)
+- **Malgaigne** (1847): *Traité des fractures et des luxations*, vol. 1 — pathological fractures. · [Facsimile](https://archive.org/details/BIUSante_32985x01)
+
 ## Summary and Take-Home Points
 
 The malignant tumors of bone form a small but highly consequential group of diseases that demand multidisciplinary care, accurate biopsy, formal staging, and a coordinated combined-modality approach. The principal primary malignancies — osteosarcoma in adolescents, Ewing sarcoma in the first two decades, chondrosarcoma in middle-aged adults, multiple myeloma in older adults — each have characteristic clinical, radiographic, and molecular signatures, and each respond to specific treatment regimens that have transformed survival over the past four decades. Metastatic bone disease, vastly more common than primary bone malignancy, demands a different surgical philosophy emphasizing palliation, immediate weight-bearing, durable fixation of the entire bone, and joint replacement when peri-articular. The Mirels score for long-bone metastases and the SINS score for spinal metastases provide validated frameworks for surgical decision-making. Across all of these conditions, the principles of pre-operative biopsy planning, oncological resection with adequate margins for curative cases, and the coordination of surgery with medical oncology and radiation oncology remain the bedrock of management, and the orthopedic surgeon’s primary contribution (beyond the operation itself) is the diagnostic and triage role that determines whether a given patient enters a curative or a palliative pathway.

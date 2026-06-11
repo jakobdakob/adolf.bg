@@ -171,6 +171,13 @@ Langer mesomelic dysplasia is the homozygous form of SHOX gene mutation, produci
 
 Multiple hereditary exostoses (discussed in detail in the chapter on benign bone tumors) can produce a Madelung-like wrist deformity from involvement of the distal radius and ulna by exostoses, with growth disturbance and characteristic forearm shortening and bowing. The management combines exostosis excision with corrective osteotomies and, in severe cases, ulnar lengthening.
 
+## Sources and Classical Literature
+
+Otto Madelung described his eponymous distal-radius deformity in the *Langenbeck-Archiv für klinische Chirurgie* (1878); the case-series passage is the founding orthopedic description of the dorsal subluxation of the distal ulna in association with the volar-radial dyschondrosis. Hoffa's *Lehrbuch* (1905) integrated the entity into the orthopedic curriculum.
+
+- **Langenbeck-Archiv** (founded 1860, where Madelung 1878 appeared): · [Facsimile (series)](https://archive.org/details/archivfrklinisc11unkngoog)
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie*. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+
 ## Summary and Take-Home Points
 
 Blount’s disease and Madelung’s deformity, although affecting different parts of the skeleton, share the underlying theme of asymmetric physeal growth producing progressive angular deformity. Blount’s disease, a disorder of the medial proximal tibial physis, produces tibia vara with progression through six Langenskiöld stages; treatment is bracing for early disease in the young child, proximal tibial osteotomy or hemiepiphysiodesis for established disease, and bar resection with osteotomy for severe disease with physeal bridging. The associations with obesity, early walking, and African descent characterize the typical clinical presentation. Madelung’s deformity, a disorder of the ulnar-volar distal radial physis, produces the characteristic wrist deformity with volar and ulnar tilt, dorsal ulnar subluxation, and pyramidal carpus; the SHOX gene mutation in Léri-Weill dyschondrosteosis underlies many syndromic cases. Treatment combines Vickers ligament release and physiolysis in the immature patient and corrective osteotomy in the mature patient, with attention to the distal radioulnar joint and the associated ulnar variance. The unifying principles of recognition of asymmetric physeal growth, careful imaging assessment of the specific anatomy, and treatment tailored to the age, severity, and underlying condition produce successful outcomes in both disorders.

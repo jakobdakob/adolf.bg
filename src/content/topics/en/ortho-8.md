@@ -140,6 +140,13 @@ The long-term outcome of LCPD depends primarily on the age at onset (younger is 
   <p>Stulberg at skeletal maturity predicts the timeline: I-II → normal hip into late adulthood; III → arthritis in middle age; IV-V → THA by the fifth decade.</p>
 </aside>
 
+## Sources and Classical Literature
+
+Before Perthes' 1910 paper in MMW, juvenile aseptic hip necrosis appeared in Hoffa's *Lehrbuch* (1905) under "juvenile Coxitis" and was clearly distinguished from coxitis tuberculosa by absence of pus on aspiration. The simultaneous independent descriptions by Legg (Boston), Calvé (Berck-sur-Mer) and Perthes (Tübingen) in 1909–10 codified the entity. Lexer's *Lehrbuch der allgemeinen Chirurgie* (1904) provides the pre-Perthes vocabulary of aseptic bone necrosis.
+
+- **Hoffa** (1905): *Lehrbuch der orthopädischen Chirurgie* — juvenile coxitis. · [Facsimile](https://archive.org/details/lehrbuchderortho00hoff)
+- **Lexer** (1904): *Lehrbuch der allgemeinen Chirurgie*, vol. 2 — aseptic bone necrosis. · [Facsimile](https://archive.org/details/lehrbuchderallg01lexegoog)
+
 ## Summary and Take-Home Points
 
 Legg-Calvé-Perthes disease is an idiopathic avascular necrosis of the developing femoral head, predominantly affecting boys aged 4-8 years, and produces a clinically and biologically variable disease whose outcome depends on age at onset, extent of head involvement, and achievement of containment during the biological plasticity period. The Waldenström stages (initial, fragmentation, reossification, residual) describe the natural pathological evolution; the Herring lateral pillar classification (A, B, B/C, C) predicts prognosis; the Stulberg classification (I-V) describes the morphological outcome at skeletal maturity and predicts long-term arthritis risk. Treatment combines symptom control, maintenance of hip motion, and (in older children with greater head involvement) containment by femoral varus-derotation osteotomy, pelvic osteotomy, or both. The Herring Multicenter Perthes Study established that operative containment is beneficial in children over 8 years with Herring Group B disease but that no treatment improves the outcome of Group C disease. Salvage procedures for the residual deformity in adolescence and adulthood — valgus osteotomy, osteochondroplasty for cam impingement, periacetabular osteotomy for residual dysplasia, and ultimately total hip arthroplasty for end-stage arthritis, address the late sequelae. The differential diagnosis of childhood avascular necrosis includes sickle cell disease, corticosteroid-induced AVN, post-traumatic AVN, Meyer’s dysplasia, and the inherited skeletal dysplasias; each requires consideration in the appropriate clinical context.

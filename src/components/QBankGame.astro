@@ -49,6 +49,8 @@ const t = lang === "bg"
       boardName:  "ИМЕ",
       boardScore: "ТОЧКИ",
       boardRound: "КРЪГ",
+      hardReload: "ОПРЕСНИ",
+      hardReloadHint: "Презареди ако виждаш стара версия",
       lives:      "ЖИВОТИ",
       score:      "ТОЧКИ",
       round:      "КРЪГ",
@@ -103,6 +105,8 @@ const t = lang === "bg"
       boardName:  "NAME",
       boardScore: "SCORE",
       boardRound: "ROUND",
+      hardReload: "RELOAD",
+      hardReloadHint: "Force-refresh if you're seeing an old version",
       lives:      "LIVES",
       score:      "SCORE",
       round:      "ROUND",
@@ -255,7 +259,9 @@ const tJson = JSON.stringify(t);
             <button type="button" class="kombat-cab-btn" data-kombat-menu="leaderboard">{t.menuLeaderboard}</button>
             <button type="button" class="kombat-cab-btn" data-kombat-menu="help">{t.menuHelp}</button>
             <a class="kombat-cab-btn kombat-cab-btn-ghost" href={back}>← {t.menuBack}</a>
+            <button type="button" class="kombat-cab-btn kombat-cab-btn-ghost kombat-cab-btn-reload" data-kombat-reload>↻ {t.hardReload}</button>
           </div>
+          <div class="kombat-reload-hint">{t.hardReloadHint}</div>
           {/* iOS Safari users get a once-per-device hint that adding the
               page to home screen unlocks proper standalone (no URL bar). */}
           <div class="kombat-a2hs" data-kombat-a2hs hidden>
@@ -929,6 +935,27 @@ const tJson = JSON.stringify(t);
     }
   });
 
+  // Hard-refresh button — forces iOS Safari past its sticky HTML cache.
+  // We append a fresh ?v= timestamp so the request bypasses ANY cache
+  // along the chain (browser, Varnish on GitHub Pages, any proxy in
+  // between) and then reload via location.assign() so back-button history
+  // doesn't bring the old page back. Also nukes the Cache Storage API in
+  // case some future SW lands here.
+  const reloadBtn = root.querySelector("[data-kombat-reload]");
+  if (reloadBtn) {
+    reloadBtn.addEventListener("click", async () => {
+      try {
+        if (window.caches && caches.keys) {
+          const names = await caches.keys();
+          await Promise.all(names.map((n) => caches.delete(n)));
+        }
+      } catch (e) { /* not supported / blocked — fine */ }
+      const url = new URL(window.location.href);
+      url.searchParams.set("v", String(Date.now()));
+      window.location.assign(url.toString());
+    });
+  }
+
   els.saveBtn && els.saveBtn.addEventListener("click", commitName);
   els.nameInput && els.nameInput.addEventListener("keydown", (ev) => {
     if (ev.key === "Enter") { ev.preventDefault(); commitName(); }
@@ -1494,6 +1521,20 @@ const tJson = JSON.stringify(t);
     border-color: #1a1a1a;
   }
   .kombat-cab-btn-ghost:hover { color: var(--kg-yellow); }
+  /* "↻ RELOAD" / "↻ ОПРЕСНИ" lives next to the back link in the menu —
+   * deliberately quiet so it doesn't pull focus from PLAY, but visible
+   * enough that Jakob (or anyone hit by a stuck CDN cache) can find it
+   * and tap once to force-refresh past the iOS Safari sticky HTML. */
+  .kombat-cab-btn-reload { font-size: 0.55rem; opacity: 0.9; }
+  .kombat-reload-hint {
+    margin-top: 6px;
+    font-size: 7px;
+    color: rgba(245, 241, 216, 0.45);
+    text-align: center;
+    letter-spacing: 0.06em;
+    line-height: 1.6;
+    max-width: 280px;
+  }
 
   .kombat-wasd-diagram {
     display: grid;

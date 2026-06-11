@@ -59,6 +59,14 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
             user-scalable=no so accidental pinch-zoom mid-game doesn't break
             the layout. */}
         <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+        {/* Bust the HTML cache so iOS Safari + GitHub Pages' 10-minute
+            Varnish max-age don't keep serving an old build pointing at
+            a stale content-hashed CSS bundle. Real HTTP headers from the
+            CDN still set max-age=600, but these meta tags + the in-game
+            "↻ ОПРЕСНИ / ↻ RELOAD" button below cover the user-side. */}
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />

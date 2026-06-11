@@ -622,8 +622,13 @@ const tJson = JSON.stringify(t);
     els.qMeta.textContent = meta ? ("Q · " + meta) : "Q";
     els.qStem.textContent = loc.stem;
     els.optionBtns.forEach((btn, i) => {
-      btn.classList.remove("is-correct", "is-wrong");
+      // Belt-and-braces reset: explicitly drop every state class the
+      // previous round might have stamped on, re-enable, and blur() so
+      // iOS Safari's lingering :focus state doesn't leave the
+      // previously-tapped card with a different border than its peers.
+      btn.classList.remove("is-correct", "is-wrong", "is-selected");
       btn.disabled = false;
+      try { btn.blur(); } catch (e) {}
       const tt = btn.querySelector(".kombat-key-text");
       if (tt) tt.textContent = loc.options[i] != null ? loc.options[i] : "";
     });
@@ -1049,9 +1054,10 @@ const tJson = JSON.stringify(t);
     grid-template-columns: 1fr auto;
     gap: 10px;
     align-items: center;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-size: 12px;
-    line-height: 1.5;
+    font-size: 8px;
+    line-height: 1.8;
+    letter-spacing: 0.02em;
+    text-shadow: 1px 1px 0 #000;
   }
   .kombat-a2hs[hidden] { display: none; }
   .kombat-a2hs-text { color: var(--kg-text); }
@@ -1162,16 +1168,13 @@ const tJson = JSON.stringify(t);
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-  /* Latin scientific names: switch out of the pixel font (which makes
-   * STAPH AUREUS look like СТАРН AUREUS to a Cyrillic reader) into a
-   * system sans italic — the convention for binomial Latin names. */
+  /* Latin scientific names previously swapped to a system-sans italic
+   * for legibility, but Jakob wants pure pixel font throughout. The
+   * .is-latin JS toggle stays (other rules may key on it later); we
+   * just don't change the typeface anymore. */
   .kombat-hud-label.is-latin,
   .kombat-fighter-name.is-latin {
-    font-family: -apple-system, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
-    font-style: italic;
-    font-size: 0.78rem;
-    letter-spacing: 0;
-    font-weight: 600;
+    letter-spacing: 0.04em;
   }
   .kombat-hp-bar {
     width: clamp(120px, 26vw, 320px);
@@ -1642,7 +1645,12 @@ const tJson = JSON.stringify(t);
     -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
   }
-  .kombat-key:hover { border-color: var(--kg-yellow); }
+  /* Gate :hover to real mouse devices — iOS Safari fires a phantom
+   * :hover after each tap that sticks until the next tap, which kept
+   * a previously-chosen card looking different from its peers. */
+  @media (hover: hover) {
+    .kombat-key:hover { border-color: var(--kg-yellow); }
+  }
   .kombat-key:active {
     transform: translateY(3px);
     box-shadow: 0 1px 0 #000, inset 0 0 0 1px #444;
@@ -1905,11 +1913,14 @@ const tJson = JSON.stringify(t);
     }
     .kombat-q-meta { font-size: clamp(7px, 2vw, 9px); margin-bottom: 2px; }
     .kombat-q-stem {
-      /* System sans for legibility — Press Start 2P is unreadable for long Cyrillic */
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-size: clamp(13px, 3.6vw, 15px);
-      line-height: 1.4;        /* shrunk from 1.55 to win more vertical room */
-      letter-spacing: 0;
+      /* Pure pixel font everywhere — Press Start 2P inherits from the
+       * cabinet root. Tiny size + tall line-height + hard text-shadow
+       * keeps Cyrillic legible-as-shapes even though individual glyphs
+       * read as pixel art. */
+      font-size: clamp(8px, 2.6vw, 11px);
+      line-height: 1.75;
+      letter-spacing: 0.02em;
+      text-shadow: 1px 1px 0 #000;
     }
     .kombat-answers {
       grid-template-columns: 1fr;
@@ -1917,27 +1928,36 @@ const tJson = JSON.stringify(t);
       flex: 1;                 /* take all remaining deck height */
     }
     /* Retro answer cards: yellow border, hard 4px drop-shadow, gradient
-     * panel, Press-Start-2P digit + system-sans answer text. On :active
+     * panel, Press-Start-2P digit + pixel-font answer text. On :active
      * the button "presses in" via inset shadow + translate. */
     .kombat-key {
       grid-template-columns: 24px 1fr;
-      min-height: 44px;        /* WCAG tap floor */
-      padding: 6px 10px;
+      min-height: 48px;        /* slightly taller — pixel text wraps more */
+      padding: 7px 10px;
       gap: 8px;
       background: linear-gradient(180deg, #2a2a2a 0%, #0a0a0a 100%);
       border: 2px solid var(--kg-yellow);
       color: var(--kg-text);
       box-shadow: 4px 4px 0 #000;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-size: clamp(12px, 3.4vw, 14px);
-      line-height: 1.25;
+      font-size: clamp(7px, 2.4vw, 10px);
+      line-height: 1.75;
+      letter-spacing: 0.02em;
+      text-shadow: 1px 1px 0 #000;
       align-items: center;
     }
-    .kombat-key:active,
-    .kombat-key:focus-visible {
+    /* Only :active (live tap-down) triggers the press effect.
+     * :focus / :focus-visible / :hover are excluded because iOS Safari
+     * sticks them after the tap and the previously-chosen card would
+     * keep looking "pressed" into the next question. */
+    .kombat-key:active {
       transform: translate(2px, 2px);
       box-shadow: 1px 1px 0 #000, inset 0 0 0 1px rgba(255, 224, 0, 0.45);
       border-color: var(--kg-yellow-h);
+    }
+    .kombat-key:focus,
+    .kombat-key:focus-visible {
+      outline: none;
+      /* No border-color / shadow change — the card stays default yellow. */
     }
     .kombat-key-letter { display: none; }  /* WASD label meaningless on touch */
     .kombat-key-num {
@@ -2005,14 +2025,11 @@ const tJson = JSON.stringify(t);
     .kombat-gameover-stats { font-size: 0.7rem; }
     .kombat-gameover-name input { font-size: 1rem; min-height: 48px; }
     .kombat-weakness {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-size: 12px;
+      font-size: 8px;
+      line-height: 1.7;
     }
-    .kombat-weak-title-row {
-      font-family: "Press Start 2P", monospace;
-      font-size: 9px;
-    }
-    .kombat-weak-count { font-size: 11px; }
+    .kombat-weak-title-row { font-size: 9px; }
+    .kombat-weak-count { font-size: 8px; }
   }
 
   /* Landscape phones: layout breaks; nudge user toward portrait */

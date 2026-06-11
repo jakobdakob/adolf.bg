@@ -23,8 +23,10 @@ const heroSubtitle = lang === "bg"
   : "A connected exam-prep text across 74 topics covering orthopedics, traumatology, and surgical anatomy — synthesised from 14 reference textbooks for the Bulgarian state board.";
 
 const ctaFeedback = lang === "bg" ? "Обратна връзка?"   : "Feedback?";
+const ctaPlay = lang === "bg" ? "Играй" : "Play";
 
 const viberChat = "viber://chat?number=%2B41768150804";
+const playUrl = `/${lang}/qbank/game/`;
 ---
 <BaseLayout lang={lang} otherPath={otherPath}>
   <section class="hero">
@@ -33,6 +35,7 @@ const viberChat = "viber://chat?number=%2B41768150804";
       <h1 class="hero-display">{heroTitle}</h1>
       <p class="hero-subtitle">{heroSubtitle}</p>
       <div class="hero-feedback">
+        <a href={playUrl} class="btn btn-play hero-mobile-only">{ctaPlay} ▶</a>
         <a href={viberChat} class="btn btn-viber" rel="external">{ctaFeedback}</a>
       </div>
     </div>
@@ -118,8 +121,26 @@ const viberChat = "viber://chat?number=%2B41768150804";
   .hero-feedback {
     margin-top: var(--s-6);
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s-3);
   }
+  /* The mobile-only Play CTA stays hidden on desktop. */
+  .hero-mobile-only { display: none; }
+  @media (max-width: 759px) {
+    .hero-mobile-only { display: inline-flex; }
+  }
+  .btn-play {
+    background: #14110F;
+    color: #FAF9F7;
+    border-radius: 999px;
+    padding: 0.7rem 1.4rem;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    transition: opacity 160ms ease;
+  }
+  .btn-play:hover { opacity: 0.88; }
 
   #ortho, #trauma, #anatomy { scroll-margin-top: 72px; }
 

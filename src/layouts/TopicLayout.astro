@@ -1,6 +1,5 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
-import TopicSidebar from "../components/TopicSidebar.astro";
 import TopicTOC from "../components/TopicTOC.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
@@ -54,7 +53,7 @@ const eyebrow =
   drawerSection={(section === "preface" ? "ortho" : section) as any}
 >
   <div class="topic-shell">
-    <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
+    <TopicTOC lang={lang} headings={headings} />
     <article class="topic-article" data-topic-article data-pagefind-body>
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
       <h1 class="topic-title">{entry.data.title}</h1>
@@ -87,7 +86,6 @@ const eyebrow =
         ) : <span />}
       </nav>
     </article>
-    <TopicTOC lang={lang} headings={headings} />
   </div>
 
 <script>
@@ -120,13 +118,13 @@ const eyebrow =
   }
   @media (min-width: 1024px) {
     .topic-shell {
-      grid-template-columns: 260px minmax(0, 1fr) 240px;
+      grid-template-columns: 240px minmax(0, 1fr);
       gap: var(--s-6);
     }
   }
   @media (min-width: 1180px) {
     .topic-shell {
-      grid-template-columns: 260px minmax(0, 1fr) 240px;
+      grid-template-columns: 240px minmax(0, 1fr);
       gap: var(--s-6);
     }
   }

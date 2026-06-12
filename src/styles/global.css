@@ -1957,20 +1957,18 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Desktop layout: figures float LEFT (text wraps on right). Inline TOC box
-   hidden on desktop (replaced by the right-column TopicTOC). */
+/* Desktop layout: figures float RIGHT (text wraps on left). Inline TOC box
+   hidden on desktop (TopicTOC now lives in the LEFT column). */
 @media (min-width: 1180px) {
   .md-figure {
-    float: left;
-    clear: left;
+    float: right;
+    clear: right;
     width: 280px;
     max-width: 35%;
-    margin: 0.4em 1.6em 0.8em 0;
+    margin: 0.4em 0 0.8em 1.6em;
     text-align: center;
   }
-  /* Inline TOC hidden on desktop — right sidebar TopicTOC takes its place. */
   .prose .topic-toc-inline { display: none; }
-  /* Sections & headings clear floats so the next H2 starts on a fresh line. */
   .prose .topic-section,
   .prose .topic-subsection {
     clear: both;

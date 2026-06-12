@@ -7,165 +7,224 @@ topicNumber: 6
 order: 206
 ---
 
-## Въведение
+<details class="topic-toc-inline">
+  <summary>Съдържание</summary>
+  <ol>
+    <li><a href="#overview">Преглед</a></li>
+    <li><a href="#surg-anatomy">Хирургична анатомия</a>
+      <ol>
+        <li><a href="#bones-joints">Костно-ставен скелет</a></li>
+        <li><a href="#skin-fascia">Кожа, длан и компартменти</a></li>
+        <li><a href="#regional-topography">Регионална топография — китка и длан</a></li>
+        <li><a href="#flexor-tendons">Флексорни сухожилия и блокажна система</a></li>
+        <li><a href="#extensor-tendons">Екстензорни сухожилия и дорзални компартменти</a></li>
+        <li><a href="#intrinsics">Вътрешни мускули</a></li>
+        <li><a href="#neurovascular">Невроваскуларна анатомия</a></li>
+      </ol>
+    </li>
+    <li><a href="#pathophysiology">Патофизиология и механизъм</a></li>
+    <li><a href="#clinical">Клиника и диагностика</a></li>
+    <li><a href="#classification">Класификация</a></li>
+    <li><a href="#treatment">Лечение</a>
+      <ol>
+        <li><a href="#nonoperative">Консервативно</a></li>
+        <li><a href="#operative">Оперативно</a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Усложнения и резултати</a></li>
+    <li><a href="#bulgarian">Местни приноси</a></li>
+    <li><a href="#classical">Класически източници</a></li>
+    <li><a href="#literature">Препоръчителна литература</a></li>
+  </ol>
+</details>
 
-Ръката е анатомично най-сложната област на ортопедичния скелет — 27 кости, над 30 стави, сложни лигаментни и сухожилни структури, множество мускулни слоеве и гъста невроваскуларна мрежа, събрани в малък обем. Функционалните изисквания — прецизно захващане, силово сграбчване, противопоставим палец, сетивна и двигателна манипулация — са съответствани от анатомична сложност, изискваща от ортопедичния хирург задълбочено познаване не само на костния скелет, но и на прецизните взаимоотношения на флексорните и екстензорните сухожилия, блокажната система, вътрешните мускули, lumbricales, interossei, дигиталните нерви и артерии и дълбоката palmar arch. Хирургичните достъпи до ръката трябва да зачитат тези структури, като принципите на разрезния дизайн (включително техниката на Z-пластиката за лечение на кожни контрактури при огъвателните гънки) са също толкова важни, колкото принципите за управление на сухожилията и нервите. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy, Gray's Anatomy, Dutton's Orthopaedic Examination и класическата българска „Оперативна ортопедия и травматология" на Бойчо Бойчев — носител на името на УСБАЛО „Проф. Бойчо Бойчев", Горна баня — допълнено с класическите български процедури по Холевич, Панева, Матев, Карчинов, Желев-Обрейков, Розов и Брянцева, които заедно с атравматичната ръчна хирургия по Бойчева школа и метода на Красовитов за реплантация на девитализирани кожни ламба остават част от ортопедичния курикулум в България.
 
-## Костна и ставна анатомия
+## Преглед
+<section class="topic-section" id="overview">
+<details open>
+<summary>Преглед</summary>
+<div class="ts-body">
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand.svg" data-figure-alt="Палмарна анатомия на китката и ръката" aria-label="Увеличи">
-    <img src="/img/anatomy-6/hand.svg" alt="Палмарна анатомия на китката и ръката" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Дълбока палмарна дисекция на китката и ръката: флексорни сухожилия с обвивки, A1-A5 ремъци, сензорни нерви и съдове в палмарната дъга.</span>
-    <span class="md-figure-attribution"> · Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
-  </figcaption>
-</figure>
+Ръката е анатомично най-сложната зона на ортопедичния скелет — 27 кости, над 30 стави, прецизна блокажна и сухожилна архитектура, многослойна вътрешна мускулатура и плътна невроваскуларна мрежа, събрани в малък обем под кожа с двойствен характер: глабрена и здраво фиксирана палмарно, тънка и подвижна дорзално. Функционалните изисквания — фино прехващане, силово сграбчване, противопоставим палец, стереогностична сетивност — определят и оперативната философия: всеки разрез, ретракция и шев влияе върху плъзгането на сухожилията, върху колатералните връзки и върху капилярното оросяване на пулпите. Темата представя регионалната хирургична анатомия по слой (кост → кожа → сухожилия → мускули → невроваскуларни структури), принципите на разрезния дизайн (включително Z-пластика по Лимберг), стандартните оперативни достъпи (Bruner, медиаксиален, дорзален, карпален тунел, Guyon), реконструктивните стратегии за сухожилия, нерви и палец, и плътно вписаната в българския курикулум школа на Бойчев–Холевич–Панева–Матев със своите ампутационни, флапни, пластични и силиконово-имплантни приноси.
+
+</div>
+</details>
+</section>
+
+
+## Хирургична анатомия
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary>Хирургична анатомия</summary>
+<div class="ts-body">
+
+
+### Костно-ставен скелет
+<details id="bones-joints">
+<summary>Костно-ставен скелет</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-bones-volar.png" data-figure-alt="Кости на дясната ръка, волярна повърхност" aria-label="Увеличи">
     <img src="/img/anatomy-6/hand-bones-volar.png" alt="Кости на дясната ръка, волярна повърхност" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Кости на дясната ръка, волярна повърхност (Gray): 8 карпални кости, 5 метакарпала, фаланги; ясно се вижда os scaphoideum с известния си кръвоснабдителен модел от ретроградно постъпваща дистална клонова съдова мрежа — анатомична основа на проксималния полюсен AVN при счупване на корпуса (Тема Травма-18).</span>
+    <span class="md-figure-caption">Кости на дясната ръка, волярна повърхност (Gray): 8 карпални кости, 5 метакарпала, 14 фаланги; os scaphoideum е изобразен с известния си ретрограден кръвоносен модел — анатомична основа на проксималния полюсен AVN при счупване в корпуса (Тема Травма-18).</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray220.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
-
-Скелетът на ръката включва:
-
-•   8 карпални кости в два реда (проксимален: os scaphoideum, os lunatum, os triquetrum,
-    os pisiforme; дистален: os trapezium, os trapezoideum, os capitatum, os hamatum), вж.
-    Тема Травма-18 за анатомия на фрактурите и луксациите.
-•   5 metacarpalia, номерирани 1 до 5 от радиалната към улнарната страна.
-•   14 фаланги: Две за палеца (проксимална и дистална) и три за всеки от пръстите
-    (проксимална, средна, дистална). Общо 14 фаланги в ръката.
-
-Основните стави включват:
-
-Carpometacarpal (CMC) стави: Артикулациите между дисталния карпус и основите на metacarpalia. Първата CMC става (палец) е седловидна между os trapezium и първото metacarpale, осигурявайки уникалната противопоставимост на палеца. CMC ставите от второ до пето са по същество плъзгащи с ограничено движение (повече движение при четвъртото и петото, допринасящо за „сгъването“ на ръката).
-
-Metacarpophalangeal (MCP) стави: „Кокалчета“ между главите на metacarpalia и основите на проксималните фаланги. Пръстите имат кондилоидни стави (допускащи флексия-екстензия и ограничена абдукция-аддукция); палецът, шарнирна.
-
-Interphalangeal (IP) стави: Проксималните IP (PIP) стави и дисталните IP (DIP) стави на пръстите; палецът има единствена IP става. Всички са шарнирни, допускащи само флексия-екстензия.
-
-Колатералните връзки на MCP и IP ставите имат специфични анатомични особености. Колатералните връзки на MCP са опнати при флексия и отпуснати при екстензия (факт, определящ безопасното положение на обездвижване, вж. по-долу). Колатералните връзки на IP са опнати по цялата амплитуда, с истински колатерални връзки (между съседни кости) и допълнителни колатерални връзки (между проксималната кост и волярната плочка).
-
-## Кожа и подкожна тъкан
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-bones.png" data-figure-alt="Карпални кости" aria-label="Увеличи">
     <img src="/img/anatomy-6/carpal-bones.png" alt="Карпални кости" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Карпалните 8 кости в два реда: проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
+    <span class="md-figure-caption">Осемте карпални кости в два реда — проксимален (scaphoid, lunate, triquetrum, pisiform) и дистален (trapezium, trapezoid, capitate, hamate); мнемоника „She Looks Too Pretty, Try To Catch Her".</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Carpal_bones.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
-Волярната кожа е гладка (безкосмена), дебела и здраво прикрепена към подлежащата palmar fascia чрез кожни връзки. Дорзалната кожа е по-тънка, по-мобилна, с по-малко подкожна тъкан. Контрастът между волярната и дорзалната кожа определя принципите на разрезния дизайн — волярните разрези трябва да зачитат естествените огъвателни гънки и да избягват пресичането им под прав ъгъл; дорзалните разрези имат по-голяма гъвкавост, но трябва да зачитат подлежащата сухожилна анатомия.
+Скелетът на ръката включва осем карпални кости в два реда (проксимален: os scaphoideum, os lunatum, os triquetrum, os pisiforme; дистален: os trapezium, os trapezoideum, os capitatum, os hamatum), пет metacarpalia, номерирани от радиалната към улнарната страна, и четиринайсет фаланги — две за палеца и по три за пръстите от II до V. Първата carpometacarpalna става (палец) е седловидна между os trapezium и I метакарпал — анатомичната основа на противопоставимостта; от II до V CMC ставите са плъзгащи, с прогресивно по-голяма подвижност към IV и V (5–15° на петата), отговорна за надлъжното „сгъване" на дланта при сграбчване.
 
-Огъвателните гънки на дланта и пръстите приблизително съответстват на подлежащите стави, но не винаги са директно над ставата:
+Metacarpophalangealnite (MCP) стави на пръстите са кондилоидни — позволяват флексия-екстензия (около 90°) и ограничена абдукция-аддукция (15–20°) само при екстензия; в флексия колатералните връзки се опват и фронталното движение се изключва. На палеца MCP е шарнирна. Колатералните връзки на MCP се състоят от истинска (между костите) и допълнителна (към волярната плочка) част; от тяхната геометрия следва основното правило на функционалното имобилизиране — пръстите се обездвижват с MCP в 70–90° флексия, иначе колатералните връзки се скъсяват в опуснато състояние и блокират последващата флексия.
 
-• Дистална дланна гънка: Приблизително над MCP ставите. • Проксимална дланна гънка: Приблизително над главите на metacarpalia. • Дистална интерфалангеална гънка: Над DIP ставата. • Проксимална интерфалангеална гънка: Над PIP ставата. • Гънка на китката: Над radiocarpal articulation.
+Interphalangealnite стави (PIP и DIP на пръстите, единствена IP на палеца) са шарнирни с амплитуда 100–110° (PIP) и 60–80° (DIP); колатералните им връзки са опнати по цялата амплитуда — затова имобилизация във флексия е безопасна само като компромис, не като топография на „максимална опнатост". Волярната плочка на PIP има здраво проксимално и слабо дистално прикрепване — анатомична основа на често срещаната PIP-флексионна контрактура след травма.
 
-## Palmar fascia и компартменти
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Безопасното положение на имобилизация (intrinsic-plus, „position of safety"): китка 20° дорзифлексия, MCP 70–90° флексия (колатералните връзки опнати), IP в пълна екстензия — единствената поза, която предпазва от скъсяване на колатералните връзки.</li>
+    <li>Свитите пръсти насочват върховете си към os scaphoideum — ротационен дефицит от 5° е функционално катастрофален, затова трябва да се проверява клинично след всяка остеосинтеза на метакарпал или фаланга.</li>
+    <li>За os scaphoideum виж Тема Травма-18 — ретроградно кръвоснабдяване и риск от AVN на проксималния полюс.</li>
+  </ul>
+</aside>
 
-Palmar aponeurosis е триъгълна фиброзна структура с връх в областта на китката (продължение на сухожилието на musculus palmaris longus при наличие) и основа дистално към пръстите. Структурата има надлъжни, напречни и коси влакна, образуващи заедно здрав защитен слой над палмарните структури. Заболяването на palmar fascia води до контрактура на Dupuytren (разгледана в Тема Ортопедия-29).
+</div>
+</details>
 
-Палмарните компартменти са наредени около надлъжната ос на ръката:
 
-Thenar compartment: Съдържа musculus abductor pollicis brevis, musculus opponens pollicis, musculus flexor pollicis brevis и musculus adductor pollicis (включван по различен начин тук или в аддукторния компартмент). Образува thenar eminence в основата на палеца.
+### Кожа, длан и компартменти
+<details id="skin-fascia">
+<summary>Кожа, длан и компартменти</summary>
+<div class="ts-body">
 
-Hypothenar compartment: Съдържа musculus abductor digiti minimi, musculus opponens digiti minimi, musculus flexor digiti minimi brevis. Образува hypothenar eminence.
+Волярната кожа е глабрена, дебела и здраво прикрепена за подлежащата palmar aponeurosis чрез вертикални кожни връзки (връзките на Grayson и Cleland в пръстите). Тя носи стереогностичната сетивност, която не може да бъде реконструирана от далечен донор — оттук и аксиомата „собствената кожа на ръката не се изхвърля" (Бойчев, Холевич, Красовитов). Дорзалната кожа е тънка, мобилна, с богат венозен и лимфен дренаж — ретракция, при която дорзалните вени се компресират, бързо води до оток и сраствания.
 
-Централен компартмент (mid-palmar): Съдържа lumbricales, флексорните сухожилия и palmar arch.
+Огъвателните гънки на дланта и пръстите приблизително съответстват на подлежащите стави, но не директно над тях: дистална дланна гънка — над MCP; проксимална дланна гънка — над главите на метакарпалите; PIP-гънка — над PIP-ставата; DIP-гънка — над DIP; гънката на китката — над art. radiocarpea. Принципите на разрезния дизайн (виж по-долу „Принципи на разрезите") изхождат именно от тази топография.
 
-Аддукторен компартмент: Съдържа musculus adductor pollicis.
+Palmar aponeurosis е триъгълна фиброзна структура с връх в областта на китката (продължение на сухожилието на m. palmaris longus при наличие) и основа дистално към пръстите. Тя има надлъжни, напречни и коси влакна, които заедно образуват здрав защитен пласт. Заболяването ѝ е контрактурата на Dupuytren (виж Тема Ортопедия-29 и долната секция за лечение).
 
-Interosseous compartments: Четири musculi interossei dorsales и три musculi interossei palmares между metacarpalia.
+Палмарните компартменти, наредени около надлъжната ос на ръката: **тенарен** (m. abductor pollicis brevis, m. opponens pollicis, m. flexor pollicis brevis, m. adductor pollicis — последният често класифициран в отделен аддукторен компартмент); **хипотенарен** (m. abductor digiti minimi, m. opponens digiti minimi, m. flexor digiti minimi brevis); **централен (mid-palmar)** — lumbricales, флексорни сухожилия, повърхностна палмарна дъга; **аддукторен** — m. adductor pollicis; **междукостни компартменти** — четири mm. interossei dorsales и три mm. interossei palmares между метакарпалите. Карпалният тунел съдържа n. medianus и деветте флексорни сухожилия (FPL, четири FDS, четири FDP).
 
-Карпалният тунел в областта на китката съдържа nervus medianus и деветте флексорни сухожилия (FPL, четири FDS, четири FDP).
+Компартментният синдром на ръката изисква разпознаване на тази многокомпартментна архитектура. Стандартна декомпресия: две дорзални междукостни цепки (между II–III и IV–V метакарпали), отделни тенарен и хипотенарен разрез, разширено отваряне на карпалния тунел и при индикация — освобождаване на канала на Guyon.
 
-Компартмент синдромът на ръката изисква разпознаване на тези множество компартменти и декомпресия чрез специфични разрези — типично двойни дорзални междукостни разрези (между II–III и IV–V metacarpalia) за декомпресия на интерсосалните пространства, отделни тенарни и хипотенарни разрези и при нужда — разширено отваряне на карпалния тунел.
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Пресичане на огъвателна гънка под прав ъгъл при кой да е разрез → белегова контрактура с трайна загуба на движение. Разрезите вървят по гънките, успоредно на тях или ги пресичат под 60° (Bruner) или по неутрална линия (медиаксиален).</li>
+    <li>„Рибя уста" разрез на пулпата на пръста е абсолютно противопоказан — унищожава пулпарната глабрена кожа, която е невъзстановима; при панариций — странични неутрални разрези.</li>
+  </ul>
+</aside>
 
-## Регионална топография — regio carpi и palma manus
+</div>
+</details>
+
+
+### Регионална топография — китка и длан
+<details id="regional-topography">
+<summary>Регионална топография — китка и длан</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-tunnel.jpg" data-figure-alt="Карпален тунел" aria-label="Увеличи">
     <img src="/img/anatomy-6/carpal-tunnel.jpg" alt="Карпален тунел" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Карпален тунел — анатомично сечение: ограничения от карпалните кости волярно (улей на os scaphoideum, os trapezium, os hamatum и hamulus, и os pisiforme) и retinaculum flexorum дорзално. През тунела преминават n. medianus и 9 флексорни сухожилия (FDS, FDP, FPL). Класическото освобождаване на n. medianus при синдрома на карпалния тунел се извършва с надлъжен зигзаговиден разрез по принципа на Камбен с прерязване на retinaculum flexorum по улнарната му страна за избягване на нараняване на palmar branch на n. medianus и на palmar cutaneous branch.</span>
+    <span class="md-figure-caption">Карпален тунел — ограничен волярно от улея на карпалните кости (os scaphoideum, os trapezium, os pisiforme, hamulus ossis hamati) и дорзално от retinaculum flexorum. Преминават n. medianus и 9 флексорни сухожилия (FDS, FDP, FPL).</span>
     <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:815_The_Carpal_Tunnel.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
-Класическата българска школа разделя китковата област (regio carpi) на предна и задна, с горна граница около 3 cm над дисталната кожна гънка. В предната киткова област (regio carpi anterior) проксималната кожна гънка съвпада със ставната цепка на art. radiocarpea, а дисталната — с art. mediocarpea и art. carpometacarpea pollicis. Предмишничната фасция се разделя на два листа: повърхностният е уплътнен в ligamentum carpi volare, който се разцепва и образува канал за улнарните съдове (canalis ulnaris, „канал на Guyon"), а дълбокият — преминава между сгъвачите на китката и m. palmaris longus от една страна и m. flexor digitorum superficialis от друга, дистално сраствайки с retinaculum flexorum. Улнарният съдово-нервен сноп лежи в разцепения дълбок лист на фасцията и е покрит от ръба на m. flexor carpi ulnaris; артерията излиза изпод мускула и преминава през канала, а нервът остава в разцепената дълбока фасция под сухожилието на мускула — анатомична подробност, която обяснява защо канюлация или дисекция тук рискува първо нерва, а не артерията.
+Класическата българска школа разделя китковата област (regio carpi) на предна и задна, с горна граница около 3 cm над дисталната кожна гънка. В предната киткова област проксималната кожна гънка съвпада със ставната цепка на art. radiocarpea, а дисталната — с art. mediocarpea и art. carpometacarpea pollicis. Предмишничната фасция има два листа: повърхностният се уплътнява в ligamentum carpi volare, който се разцепва и образува канал за улнарните съдове (canalis ulnaris, „канал на Guyon"); дълбокият — преминава между сгъвачите на китката и m. palmaris longus от една страна и m. flexor digitorum superficialis от друга, дистално сраствайки с retinaculum flexorum. Улнарният съдово-нервен сноп лежи в разцепения дълбок лист и е покрит от ръба на m. flexor carpi ulnaris; артерията навлиза в канала, а нервът остава в дълбоката фасция под сухожилието — анатомична подробност, която обяснява защо канюлация тук рискува първо нерва, а не артерията.
 
-Радиалните съдове лежат над дълбоката фасция. A. radialis пресича долния ръб на квадратния пронатор, минава в съединителната тъкан върху дисталния край на радиуса и пред капсулата на art. radiocarpea, след което на нивото на processus styloideus radii се промъква под сухожилията на m. abductor pollicis longus и m. extensor pollicis brevis и навлиза в анатомичната табакера. На това ниво отделя r. carpeus palmaris и r. palmaris superficialis, който се насочва надолу и навътре към arcus palmaris superficialis. Анатомичната табакера се ограничава медиално от сухожилието на m. extensor pollicis longus и латерално от сухожилията на m. abductor pollicis longus и m. extensor pollicis brevis; през нея a. radialis преминава по медиалния ръб на os scaphoideum към първото междукостно пространство, насочвайки се към дланта.
+Радиалните съдове лежат над дълбоката фасция. A. radialis пресича долния ръб на m. pronator quadratus, минава в съединителната тъкан върху дисталния край на радиуса и пред капсулата на art. radiocarpea, след което на нивото на processus styloideus radii се промъква под сухожилията на m. abductor pollicis longus и m. extensor pollicis brevis и навлиза в анатомичната табакера. На това ниво отделя r. carpeus palmaris и r. palmaris superficialis, който се насочва към arcus palmaris superficialis. Анатомичната табакера се ограничава медиално от сухожилието на m. extensor pollicis longus и латерално от сухожилията на m. abductor pollicis longus и m. extensor pollicis brevis; през нея a. radialis преминава по медиалния ръб на os scaphoideum към първото междукостно пространство.
 
-По задната повърхност на ставите на китката се разполага rete carpi dorsale, от което се отделят aa. metacarpeae dorsales II–IV. Дорзалните екстензорни канали (шестте компартмента, разгледани по-горе) преминават под retinaculum extensorum по задната повърхност на радиуса и улната.
+По задната повърхност на ставите на китката се разполага rete carpi dorsale, от което се отделят aa. metacarpeae dorsales II–IV. Дорзалните екстензорни канали (шестте компартмента) преминават под retinaculum extensorum по задната повърхност на радиуса и улната.
 
-В palma manus трите фасциални ложета — латерално (тенарно), медиално (хипотенарно) и средно — са разделени от septum intermusculare. Линията на тенара е външен ориентир за достъп към ramus thenaris на n. medianus; проксималната напречна гънка на дланта е ориентир за положението на повърхностната артериална дъга, а дисталната — за aa. metacarpophalangeae. Дланно-пръстовите гънки съответстват на средата на проксималните фаланги (а не на самата MCP-става, която е разположена около 1–1.5 cm проксимално от гънката). В средното фасциално ложе непосредствено под palmar aponeurosis преминават четирите крайни сухожилия на m. flexor digitorum superficialis, а под тях — тези на m. flexor digitorum profundus. Между сухожилията преминават общите дигитални артерии и нерви; от арки палмаrис суперфициалис (повърхностна) и арки палмаrис профундус (дълбока, разположена непосредствено пред m. adductor pollicis и interossei). N. medianus след преминаване под retinaculum flexorum на 0.5 cm под долния му ръб се дели на външен и вътрешен ствол: външният отделя 1–2 мускулни клона за тенара и продължава като n. digitalis palmaris communis I (палец и радиална страна на показалеца); вътрешният — на нивото на MCP-ставите отделя nn. digitales palmares communes II–III, които се разделят на собствени дигитални нерви.
+В palma manus трите фасциални ложета — латерално (тенарно), медиално (хипотенарно) и средно — са разделени от septum intermusculare. Линията на тенара е външен ориентир за достъп към ramus recurrens thenaris на n. medianus; проксималната напречна гънка на дланта е ориентир за положението на повърхностната артериална дъга, а дисталната — за общите дигитални артерии и нерви на нивото на MCP-ставите. Самите MCP-стави са разположени около 1–1,5 cm проксимално от дланно-пръстовите гънки — често пропусканo при оперативно планиране.
 
-В тенарния компартмент най-повърхностно лежи m. abductor pollicis brevis (латерално) и m. flexor pollicis brevis (медиално), под тях — m. opponens pollicis, а най-дълбоко — m. adductor pollicis с покрилата го подкожна тъкан, съдове и нерви за I и II пръст. Между m. flexor pollicis brevis и m. adductor pollicis се разполага повърхностната съединителнотъканна цепка със сухожилието на m. flexor pollicis longus и крайните клонове на n. medianus; между m. adductor pollicis и mm. interossei dorsales I–II и m. interosseus palmaris I — дълбоката цепка с arcus palmaris profundus, r. profundus n. ulnaris и a. princeps pollicis.
+В средното фасциално ложе непосредствено под palmar aponeurosis преминават четирите крайни сухожилия на m. flexor digitorum superficialis, а под тях — тези на m. flexor digitorum profundus. Между сухожилията преминават общите дигитални артерии и нерви; от arcus palmaris superficialis (повърхностна) и arcus palmaris profundus (дълбока, непосредствено пред m. adductor pollicis и interossei). N. medianus след преминаване под retinaculum flexorum на 0,5 cm под долния му ръб се дели на външен и вътрешен ствол: външният отделя 1–2 мускулни клона за тенара (ramus recurrens thenaris) и продължава като n. digitalis palmaris communis I (палец и радиална половина на показалеца); вътрешният — на нивото на MCP-ставите отделя nn. digitales palmares communes II–III, разделящи се на собствени дигитални нерви.
 
-## Сухожилна анатомия
+В тенарния компартмент най-повърхностно лежат m. abductor pollicis brevis (латерално) и m. flexor pollicis brevis (медиално); под тях — m. opponens pollicis; най-дълбоко — m. adductor pollicis. Между m. flexor pollicis brevis и m. adductor pollicis се разполага повърхностната съединителнотъканна цепка със сухожилието на m. flexor pollicis longus и крайните клонове на n. medianus; между m. adductor pollicis и mm. interossei dorsales I–II с m. interosseus palmaris I — дълбоката цепка с arcus palmaris profundus, r. profundus n. ulnaris и a. princeps pollicis.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Канал на Guyon: артерията латерално, нервът медиално под флексорната муфа — операторският контрол на n. ulnaris започва дистално и се проследява в проксимална посока, за да се избегне случайна тракция.</li>
+    <li>Анатомична табакера: дъно — os scaphoideum и os trapezium; покрив — кожа и r. superficialis n. radialis; съдържание — a. radialis, минаваща над scaphoideum-а; основната зона на палпация при подозрение за скафоидно счупване.</li>
+    <li>Ramus recurrens thenaris на n. medianus излиза от радиалния ствол на нерва дистално от retinaculum flexorum в около 50%, ретинакуларно в 30%, субретинакуларно в 20% — задължителна идентификация преди разсичане на retinaculum-а от радиалната му страна.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Флексорни сухожилия и блокажна система
+<details id="flexor-tendons">
+<summary>Флексорни сухожилия и блокажна система</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-superficial-palmar.png" data-figure-alt="Повърхностна палмарна дисекция" aria-label="Увеличи">
     <img src="/img/anatomy-6/hand-superficial-palmar.png" alt="Повърхностна палмарна дисекция" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Повърхностна палмарна дисекция на дясната ръка (Gray): apоневроза palmaris, флексорните сухожилия преди навлизане в палцовия и дигиталния канал, повърхностна палмарна дъга. Атравматичната техника на Бойчев и Холевич (1980-те) изисква запазване на това поле непокътнато — кървенето трябва да се контролира с биполярна коагулация по отделни съдове, а не с турникет по време на самата дисекция.</span>
+    <span class="md-figure-caption">Повърхностна палмарна дисекция (Gray): apоневроза palmaris, флексорните сухожилия преди навлизане в палцовия и дигиталния канал, повърхностна палмарна дъга — основа за топографската ориентация при достъп до зона III и V.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray423.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
-
-
-## Флексорни сухожилия
-
-Флексорните сухожилия преминават през карпалния тунел и навлизат в пръстите чрез флексорните обвивки. Сухожилията на musculus flexor digitorum superficialis (FDS) се инсерират на средните фаланги; сухожилията на musculus flexor digitorum profundus (FDP) преминават през хиазмата на FDS (chiasma Camperi) и се инсерират на дисталните фаланги. Musculus flexor pollicis longus (FPL) е дълбокият флексор на палеца, инсериращ се на дисталната фаланга.
-
-Блокажната система на флексорните сухожилия удържа сухожилията срещу костта, предотвратявайки изпъване при флексия. Annular pulleys (A1-A5) и cruciate pulleys (C1-C3) образуват блокажната система. A2 (над проксималната фаланга) и A4 (над средната фаланга) са основните блокажи за биомеханична функция; тяхното запазване по време на операция е от съществено значение за предотвратяване на изпъване. Блокажът A1 е мястото на стенозиращ флексорен тендосиновит (trigger finger); освобождаването на A1 е оперативното лечение.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/flexor-zones.png" data-figure-alt="Зони на флексорните сухожилия по Verdan" aria-label="Увеличи">
     <img src="/img/anatomy-6/flexor-zones.png" alt="Зони на флексорните сухожилия по Verdan" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Зоните на флексорните сухожилия по Verdan (I–V): зона II („ничия земя“) от проксималния A1 до инсерцията на FDS е технически най-трудната за първичен шев поради сходимото плъзгане на FDS и FDP в обща синовиална обвивка. A2 и A4 са биомеханично критичните блокажи.</span>
+    <span class="md-figure-caption">Зоните на флексорните сухожилия по Verdan (I–V): зона II („ничия земя") от проксималния A1 до инсерцията на FDS е технически най-трудната за първичен шев поради сходимото плъзгане на FDS и FDP в обща синовиална обвивка.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray425.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Зоните на флексорните сухожилия (Verdan) описват локализацията на увредата за прогностични и лечебни цели:
+Флексорните сухожилия преминават през карпалния тунел и навлизат в пръстите чрез флексорните обвивки. Сухожилията на m. flexor digitorum superficialis (FDS) се инсерират на средните фаланги, разцепвайки се преди инсерцията в характерната хиазма на Camper (chiasma Camperi), през която минава съответното дълбоко сухожилие. Сухожилията на m. flexor digitorum profundus (FDP) преминават през хиазмата и се инсерират на дисталните фаланги; четирите FDP сухожилия имат общо мускулно коремче — анатомична основа на „quadriga ефекта", при който прекалено стегнат шев на едно FDP компрометира флексията и на съседните пръсти. Mm. lumbricales започват от радиалната страна на FDP в дланта и преминават волярно от напречното метакарпално връзване на път към радиалната страна на extensor expansion — преобразуват FDP-тягата в флексия на MCP и едновременна екстензия на IP. M. flexor pollicis longus (FPL) е дълбокият флексор на палеца, инсериращ се на дисталната фаланга.
 
-Зона I: Дистално от инсерцията на FDS. Засегнат е само FDP.
+Блокажната система удържа сухожилията срещу костта, предотвратявайки изпъване (bowstringing) при флексия. На пръстите II–V — пет ануларни (A1–A5) и три кръстосани (C1–C3) ремъка. A2 (над проксималната фаланга) и A4 (над средната фаланга) са основните биомеханични блокажи; тяхното запазване по време на операция е критично за активна флексия. A1 е мястото на стенозиращия флексорен тендосиновит (trigger finger). На палеца — A1 на нивото на MCP, oblique pulley (косият ремък, най-важен биомеханично) над проксималната фаланга и A2 над IP — анатомична разлика, която прави освобождаването на trigger thumb технически отлично от това на trigger finger.
 
-Зона II („ничия земя“): От проксималния блокаж A1 до инсерцията на FDS. И FDS, и FDP са в синовиалната обвивка. Технически най-трудната зона за сухожилен шев поради синовиалната среда и риска от сраствания; резултатите исторически са разочароващи, но са се подобрили с протоколите за ранно защитено движение.
+Зоните на флексорните сухожилия по Verdan описват локализацията на увредата за прогностични и оперативно-тактически цели. **Зона I** — дистално от инсерцията на FDS; засегнат е само FDP (типична jersey finger). **Зона II („ничия земя")** — от проксималния A1 до инсерцията на FDS; и FDS, и FDP в обща синовиална обвивка; технически най-трудната зона поради синовиалната среда и риска от сраствания. **Зона III** — между карпалния тунел и A1; зона на lumbricales. **Зона IV** — карпален тунел. **Зона V** — проксимално от карпалния тунел (дистална предмишница). На палеца зоните се означават с T1 (дистално от oblique pulley), T2 (над косия ремък), T3 (над тенара).
 
-Зона III: Между карпалния тунел и блокажа A1. Зона на lumbricales.
-
-Зона IV: Карпален тунел.
-
-Зона V: Проксимално от карпалния тунел (дистална предмишница).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Два блокажа, две зони: A2 (над проксималната фаланга) и A4 (над средната фаланга) са биомеханично критични — запазвайте ги или следва изпъване (bowstringing). Зона II („ничия земя“) върви от проксималния A1 до инсерцията на FDS и е най-трудната флексорна зона за шев, тъй като FDS и FDP делят синовиалната обвивка.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Два ремъка, две зони: A2 и A4 на пръстите, oblique pulley на палеца — биомеханично критични; запазвайте ги или следва bowstringing с трайна загуба на активна флексия.</li>
+    <li>Зона II е „ничия земя", защото и FDS, и FDP делят синовиалната обвивка — основа за съвременните 4–8-нишкови шевове (Kessler-Tang, Adelaide, Strickland) и за протоколите на ранно защитено активно движение.</li>
+    <li>„Quadriga" — стегнат шев на едно FDP блокира съседните три поради общото мускулно коремче; задължителна проверка на дължината с подбедрицата „линия на Bunnell".</li>
+  </ul>
 </aside>
 
-## Екстензорни сухожилия
+</div>
+</details>
+
+
+### Екстензорни сухожилия и дорзални компартменти
+<details id="extensor-tendons">
+<summary>Екстензорни сухожилия и дорзални компартменти</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-extensors.png" data-figure-alt="Екстензорни сухожилия на дорзалната повърхност" aria-label="Увеличи">
     <img src="/img/anatomy-6/hand-extensors.png" alt="Екстензорни сухожилия на дорзалната повърхност" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Екстензорни сухожилия на дорзалната повърхност на дясната ръка (Gray): EDC сухожилия с junctura tendinum, екстензорен апарат на пръста с централна и две странични ленти, тенодезен ефект на Wynne-Davies при флексия на китката — основа за активното разглеждане на тенодезни флексионни ламба при висока парализа на n. medianus и за класическото лечение на mallet finger.</span>
+    <span class="md-figure-caption">Екстензорни сухожилия на дорзалната повърхност (Gray): EDC сухожилия с juncturae tendinum, екстензорен апарат на пръста с централна и две странични ленти; основа за разбиране на mallet finger (зона I), boutonnière (зона III) и тенодезния ефект на Wynne-Davies.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray424.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -175,298 +234,498 @@ Interosseous compartments: Четири musculi interossei dorsales и три mu
     <img src="/img/anatomy-6/wrist-extensor-compartments.png" alt="Шест дорзални компартмента на китката" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Шест дорзални екстензорни компартмента на китката, преминаващи под retinaculum extensorum: I (APL, EPB) — точка на тендинит на de Quervain; II (ECRL, ECRB); III (EPL — обикаля Lister's tubercle); IV (EDC, EI); V (EDM — точка на руптура при ревматоиден артрит, синдром на Vaughan-Jackson); VI (ECU). Класическата индикация за компартментно-специфична синовектомия при ревматоидна тенозиновитна форма.</span>
+    <span class="md-figure-caption">Шестте дорзални екстензорни компартмента: I (APL, EPB) — de Quervain; II (ECRL, ECRB); III (EPL — обикаля tuberculum Listerii); IV (EDC, EIP); V (EDM — точка на руптура при ревматоиден артрит, синдром на Vaughan-Jackson); VI (ECU).</span>
     <span class="md-figure-attribution"> · User:James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/extensor-compartments.png" data-figure-alt="Дорзални екстензорни компартменти на китката" aria-label="Увеличи">
-    <img src="/img/anatomy-6/extensor-compartments.png" alt="Дорзални екстензорни компартменти на китката" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Шестте дорзални екстензорни компартменти на китката (номерирани): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Анатомична основа на De Quervain (1) и tenosynovitis на ECU (6).</span>
-    <span class="md-figure-attribution"> · James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
-  </figcaption>
-</figure>
+Екстензорните сухожилия преминават през шестте дорзални компартмента под retinaculum extensorum (от радиалната към улнарната страна). **Компартмент 1** — m. abductor pollicis longus (APL) и m. extensor pollicis brevis (EPB); място на стенозиращ тендосиновит de Quervain; вариант — допълнителна преграда между APL и EPB в около 30–40% от случаите, отговорна за рецидивите при непълно освобождаване. **Компартмент 2** — m. extensor carpi radialis longus (ECRL) и brevis (ECRB). **Компартмент 3** — m. extensor pollicis longus (EPL); сухожилието обикаля tuberculum Listerii под почти прав ъгъл и е изложено на риск от забавена руптура след недислоцирана фрактура на дисталния radius (класическо късно усложнение). **Компартмент 4** — m. extensor digitorum communis (EDC) и m. extensor indicis proprius (EIP); EIP лежи улнарно и дистално в полето — критично при позиционни класификации (EIP е първият избран донор за транспозиция на сухожилие). **Компартмент 5** — m. extensor digiti minimi (EDM); точка на руптура при ревматоиден артрит (синдром на Vaughan-Jackson, последователна руптура от улнарно към радиално). **Компартмент 6** — m. extensor carpi ulnaris (ECU); собствена субшийка на улната, която може да луксира при супинация.
 
-Екстензорните сухожилия преминават през шестте дорзални екстензорни компартменти в областта на китката (от радиалната към улнарната страна):
+В пръстите екстензорните сухожилия образуват сложен extensor hood (sagittal band, lateral bands, central slip) с приноса на lumbricales и interossei. **Sagittal band** върху MCP — централизира EDC; нейната руптура (типично радиалния sagittal band на III пръст при удар) дава луксация на сухожилието улнарно с „boxer's knuckle" и невъзможност за стартиране на активна екстензия. **Централната лента (central slip)** се инсерира на дорзума на основата на средната фаланга; разкъсването ѝ е субстратът на boutonnière деформацията. **Латералните ленти** продължават дистално и се сливат в терминалното екстензорно сухожилие, инсериращо се на дорзума на основата на дисталната фаланга — мястото на разкъсване при mallet finger.
 
-Компартмент 1: Musculus abductor pollicis longus (APL) и musculus extensor pollicis brevis (EPB). Място на стенозиращ тендосиновит de Quervain.
+Зоните на екстензорните сухожилия (Verdan) съответстват на флексорните по принцип, но са повече на брой. **Зона I** — DIP и дистално (mallet finger). **Зона II** — средна фаланга. **Зона III** — PIP (boutonnière). **Зона IV** — проксимална фаланга. **Зона V** — MCP („fight bite" наранявания, открити по дефиниция — изискват дебридиране и закъснял шев). **Зона VI** — гръб на ръката. **Зона VII** — китка (екстензорен ретинакулум). **Зона VIII** — дистална предмишница. По палеца — TI, TII, TIII, TIV, TV последователно от дистално към проксимално.
 
-Компартмент 2: Musculus extensor carpi radialis longus (ECRL) и musculus extensor carpi radialis brevis (ECRB).
-
-Компартмент 3: Musculus extensor pollicis longus (EPL). Преминава около tuberculum Listerii и е изложен на риск при фрактури на дисталния radius (забавена руптура е признато усложнение).
-
-Компартмент 4: Musculus extensor digitorum communis (EDC) и musculus extensor indicis proprius (EIP).
-
-Компартмент 5: Musculus extensor digiti minimi (EDM).
-
-Компартмент 6: Musculus extensor carpi ulnaris (ECU).
-
-В пръстите екстензорните сухожилия образуват сложен extensor hood механизъм с lumbricales и interossei. Централният сноп (central slip) се инсерира на гърба на основата на средната фаланга, а латералните ленти (lateral bands) продължават дистално, образувайки терминалното екстензорно сухожилие, инсериращо се на гърба на основата на дисталната фаланга.
-
-Зоните на екстензорните сухожилия (Verdan) съответстват на флексорните зони:
-
-Зона I: DIP ставата и дистално. Място на mallet finger.
-
-Зона II: Средна фаланга.
-
-Зона III: PIP ставата. Място на boutonnière увреждане (разрушаване на central slip).
-
-Зона IV: Проксимална фаланга.
-
-Зона V: MCP стави. Място на „fight bite“ наранявания.
-
-Зона VI: Гръб на ръката.
-
-Зона VII: Китка (екстензорен ретинакулум).
-
-Зона VIII: Дистална предмишница.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Компартмент 3 (EPL) обикаля tuberculum Listerii и е в риск от забавена руптура след фрактура на дисталния radius — класическо късно усложнение. Компартмент 1 (APL/EPB) е мястото на тендосиновит de Quervain. Разрушаване на central slip на PIP (зона III) дава boutonnière деформация; разрушаване на терминалния екстензор на DIP (зона I) — mallet finger.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Компартмент 3 (EPL) е в риск от забавена руптура след недислоцирана фрактура на дисталния radius — пациент с „спадане на палеца" 4–8 седмици след травмата (не на първия ден).</li>
+    <li>EIP лежи улнарно и дистално от EDC на показалеца — избира се за транспозиция на сухожилие (Lipscomb-EIPL за реконструкция на EPL след руптура), тъй като остава самостоятелна екстензия на показалеца.</li>
+    <li>Sagittal band на III пръст се разкъсва радиално при удар → улнарна луксация на EDC, „boxer's knuckle" — диагноза при невъзможност за стартиране на екстензия от пълна флексия, но запазена екстензия от MCP-неутрално положение.</li>
+  </ul>
 </aside>
 
-## Вътрешни мускули на ръката
+</div>
+</details>
 
 
-## Thenar мускули
+### Вътрешни мускули
+<details id="intrinsics">
+<summary>Вътрешни мускули</summary>
+<div class="ts-body">
 
-Musculus abductor pollicis brevis (APB): Абдуцира палеца. Инервиран от nervus medianus. Класическият тест за функция на nervus medianus.
+**Тенарни мускули.** M. abductor pollicis brevis (APB) — абдуцира палеца перпендикулярно на дланта; инервиран от n. medianus (ramus recurrens thenaris); класическият клиничен тест за моторна функция на n. medianus. M. opponens pollicis — противопоставя палеца; n. medianus. M. flexor pollicis brevis (FPB) — флектира MCP на палеца; двойна инервация (повърхностна глава — n. medianus, дълбока — n. ulnaris); двойствеността обяснява защо отделни случаи на парализа на медианния нерв запазват ограничена MCP-флексия на палеца. M. adductor pollicis — аддуцира палеца към дланта; инервиран от n. ulnaris (дълбок клон); класическият клиничен тест за моторна функция на n. ulnaris (знак на Froment).
 
-Musculus opponens pollicis: Противопоставя палеца. Инервиран от nervus medianus.
+**Хипотенарни мускули.** M. abductor digiti minimi (ADM), m. opponens digiti minimi, m. flexor digiti minimi brevis — всички инервирани от дълбокия клон на n. ulnaris. ADM е първият мускул при висока улнарна парализа, който се възстановява, и затова често е цел за невротизация.
 
-Musculus flexor pollicis brevis (FPB): Флектира MCP на палеца. Има двойна инервация (nervus medianus за повърхностната глава, nervus ulnaris за дълбоката).
+**Lumbricales.** Четирите lumbricales произхождат от FDP сухожилията в дланта и се инсерират на радиалната страна на extensor expansion на всеки пръст. Функция — флексия на MCP и едновременна екстензия на IP („intrinsic-plus" поза). Инервация — радиалните два (показалец, среден) от n. medianus, улнарните два (безимен, малък) от n. ulnaris. Парализа на улнарния нерв → загуба на улнарните lumbricales и interossei → "claw hand" в IV и V пръст (хиперекстензия на MCP, флексия на IP).
 
-Musculus adductor pollicis: Аддуцира палеца. Инервиран от nervus ulnaris. Класическият тест за функция на nervus ulnaris (знакът на Froment).
+**Interossei.** Четирите mm. interossei dorsales абдуцират пръстите от средната линия на III пръст (PAD — Palmar ADduct, DAB — Dorsal ABduct); трите mm. interossei palmares аддуцират. Всички interossei се инервират от дълбокия клон на n. ulnaris. Загубата им води до "intrinsic minus" поза и до невъзможност за изолирана MCP-флексия с IP-екстензия (тест на Bunnell — пасивна MCP-екстензия отслабва IP-екстензията при здрави интерсосалии и не променя при парализа).
 
-## Hypothenar мускули
-
-Musculus abductor digiti minimi (ADM): Абдуцира малкия пръст. Инервиран от nervus ulnaris.
-
-Musculus opponens digiti minimi: Противопоставя малкия пръст.
-
-Musculus flexor digiti minimi brevis: Флектира MCP на малкия пръст.
-
-
-## Lumbricales
-
-Четирите lumbricales произхождат от сухожилията на FDP в дланта и се инсерират на радиалната страна на extensor expansion на всеки пръст. Функция: флексия на MCP и екстензия на IP ставите. Инервация: радиалните два lumbricales (към показалеца и средния пръст) се инервират от nervus medianus; улнарните два (към безименния и малкия пръст), от nervus ulnaris.
-
-
-## Interossei
-
-Четирите musculi interossei dorsales абдуцират пръстите от средната линия на ръката. Трите musculi interossei palmares аддуцират пръстите към средната линия. Всички interossei се инервират от nervus ulnaris. Загубата им води до нокътна деформация и intrinsic minus поза.
-
-## Невроваскуларна анатомия
-
-
-## Дигитални нерви и артерии
-
-Дигиталните нерви и артерии вървят по латералния и медиалния аспект на всеки пръст, като артерията е типично дорзално, а нервът, волярно в проксималната част на пръста; дистално взаимоотношението се обръща (нервът е волярно, а артерията) леко дорзално. Разпределението е:
-
-•   Nervus medianus осигурява дигиталните нерви към радиалните три и половина пръста
-    (палец, показалец, среден и радиалната половина на безименния) — типичното
-    сетивно разпределение на nervus medianus.
-•   Nervus ulnaris осигурява дигиталните нерви към улнарните един и половина пръста
-    (малкият пръст и улнарната половина на безименния).
-•   Nervus radialis (повърхностен клон) осигурява сетивност по гърба на радиалните три и
-    половина пръста проксимално от DIP ставите.
-
-
-## Артерии
-
-Дълбоката palmar arch (образувана от arteria radialis с принос от arteria ulnaris) и повърхностната palmar arch (образувана от arteria ulnaris с принос от arteria radialis) захранват дигиталните артерии. Дъгите анастомозират на нивото на основите на metacarpalia и осигуряват богато кръвоснабдяване с резервност.
-
-Тестът на Allen оценява проходимостта на arteria radialis и arteria ulnaris чрез оклудиране на двете, обезкръвяване на ръката чрез свиване на юмрук, след което освобождаване на едната артерия и наблюдение на скоростта на реперфузия. Тестът се извършва преди вземане на радиален графт или преди процедури, застрашаващи едната от артериите.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Две palmar arches с резервност: дълбоката (с доминираща arteria radialis) и повърхностната (с доминираща arteria ulnaris), анастомозиращи на основите на metacarpalia. Тестът на Allen потвърждава проходимостта на двете преди процедура, която може да компрометира едната (вземане на радиален графт, фистула, дистална канюлация).</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>APB — тест за n. medianus; m. adductor pollicis и interossei — тест за n. ulnaris (знак на Froment, знак на Wartenberg за абдукция на V пръст).</li>
+    <li>"Intrinsic-plus" поза = функция на lumbricales/interossei; "intrinsic-minus" = парализа на ulnaris с улнарна claw hand.</li>
+    <li>FPB с двойна инервация — частично запазена MCP-флексия на палеца при парализа на n. medianus е нормален анатомичен вариант, не доказва интактен нерв.</li>
+  </ul>
 </aside>
 
-## Принципи на разрезите в областта на ръката
+</div>
+</details>
 
-Принципите на разрезния дизайн при ръката са от съществено значение за добрите резултати:
 
-Избягване на пресичане на огъвателните гънки под прав ъгъл: Това води до белегова контрактура по гънката с последваща загуба на движение. Разрезите трябва или да вървят успоредно на гънките, или да ги пресичат под остри ъгли (типично под 45°), образувайки „Z“ или стъпаловиден модел.
+### Невроваскуларна анатомия
+<details id="neurovascular">
+<summary>Невроваскуларна анатомия</summary>
+<div class="ts-body">
 
-Избягване на надлъжни разрези по волярната повърхност на пръстите: Правият надлъжен разрез се свива и води до флексионна контрактура. Зигзаговият разрез по Bruner (редуващи се диагонални разрези, образуващи „Z“ модел по волярния пръст) осигурява експозиция, като избягва контрактурата.
+**Дигитални нерви и артерии.** Вървят по латералния и медиалния аспект на всеки пръст. Проксимално в пръста нервът е волярно, артерията — дорзално; дистално взаимоотношението се обръща. Сетивно разпределение: n. medianus — палец, показалец, среден и радиалната половина на безимения (палмарна и крайна дорзална част); n. ulnaris — малък пръст и улнарна половина на безимения; n. radialis (повърхностен клон) — дорзум на радиалните три и половина пръста проксимално от DIP. Автономната (signature) зона за n. medianus е радиалната палмарна повърхност на върха на показалеца; за n. ulnaris — улнарната палмарна повърхност на малкия пръст; за n. radialis (повърхностен) — първото междупръсто пространство дорзално.
 
-Медиаксиални разрези по пръстите: Тези прави надлъжни разрези по латералната или медиалната средна ос на пръста изцяло избягват пресичането на волярните гънки и осигуряват добра експозиция при работа с флексорната обвивка и невроваскуларните структури. Разрезът се поставя в най-дорзалната точка на волярните огъвателни гънки.
+**Палмарни артериални дъги.** Повърхностната дъга (arcus palmaris superficialis) е продължение основно на a. ulnaris с принос от r. palmaris superficialis на a. radialis; разположена е приблизително на нивото на дисталната дланна гънка. Дълбоката дъга (arcus palmaris profundus) е продължение основно на a. radialis с принос от дълбокия клон на a. ulnaris; разположена е по-проксимално, пред m. adductor pollicis и interossei, на нивото на основите на метакарпалите. Двете дъги анастомозират чрез общи дигитални артерии и метакарпални артерии — анатомичната основа на „двойната резервност" на оросяването. Тестът на Allen оценява проходимостта на a. radialis и a. ulnaris: компресия на двете, обезкръвяване чрез свиване на юмрук, освобождаване на едната артерия и наблюдение на скоростта на реперфузия (под 5 s — нормално). Изпълнява се преди вземане на радиален графт, преди радиална канюлация и преди процедури на дисталния radius.
 
-Дорзални разрези: Имат по-голяма гъвкавост, но трябва да зачитат подлежащата екстензорна сухожилна анатомия и венозния и лимфния дренаж.
+**Карпален тунел и n. medianus.** Tunel-ът е ограничен от карпалните кости (улей на os scaphoideum, os trapezium, os pisiforme и hamulus ossis hamati) и retinaculum flexorum; съдържа n. medianus и деветте флексорни сухожилия. Дистално n. medianus излиза на 0,5 cm под долния ръб на retinaculum-а; от радиалния ствол излиза ramus recurrens thenaris (екстраретинакуларно в 50%, ретинакуларно в 30%, субретинакуларно в 20%) с обиколка около долния ръб на retinaculum-а — в риск при разсичане. Palmar cutaneous branch (за палмарната кожа на тенара) се отделя 5–7 cm проксимално от китката и преминава над retinaculum-а — в риск при разрез, разширен прекалено радиално.
 
-Разрези на китката: Напречната гънка на китката по принцип се избягва като място за надлъжен разрез; разрезът трябва или да заобикаля китката, или да се постави проксимално или дистално от гънката.
+**Канал на Guyon и n. ulnaris.** Каналът е ограничен от ligamentum carpi volare (покрив), os pisiforme и hamulus ossis hamati (под) и m. opponens digiti minimi (дъно). N. ulnaris се дели в канала на повърхностен (сетивен) и дълбок (моторен) клон; дълбокият преминава около hamulus-а към дълбоката палмарна дъга. Класификация на компресията по Shea-McClain в три зони: I — над разцепването (смесен дефицит); II — само моторен (компресия на дълбокия клон); III — само сетивен (компресия на повърхностния клон).
 
-## Z-пластика (размяна на насрещни триъгълни ламба)
+**Дорзален сетивен клон на n. ulnaris** излиза от ствола 5–8 cm проксимално от китката и преминава дорзално под m. flexor carpi ulnaris към дорзо-улнарната кожа на ръката — анатомичната основа за неговото запазване при стандартно освобождаване на канала на Guyon (минава извън полето).
+
+**Повърхностен клон на n. radialis** излиза от стволовия nervus radialis в средата на предмишницата, преминава под сухожилието на m. brachioradialis и излиза подкожно около 6–9 cm проксимално от стилоидния израстък на радиуса; разделя се на 2–3 клона, които осигуряват сетивност на дорзо-радиалната кожа на ръката, включително върху анатомичната табакера. Често пресича оперативното поле при достъп до de Quervain и към os scaphoideum и стилоидния израстък — основен източник на болезнена неврома при невнимателно разсичане.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Ramus recurrens thenaris на n. medianus има три варианта на отделяне (екстра-, ретино-, субретинакуларен); при разсичане на retinaculum flexorum винаги от улнарната страна и под визуален контрол.</li>
+    <li>Palmar cutaneous branch на n. medianus минава над retinaculum-а — разрез, разширен прекалено радиално, дава болезнена неврома.</li>
+    <li>Повърхностен клон на n. radialis над анатомичната табакера — задължителна идентификация при достъп до scaphoid, до de Quervain и при стилоидектомия.</li>
+    <li>A. radialis в анатомичната табакера лежи директно над os scaphoideum — внимание при пиниране на скафоидно счупване от дорзо-радиален достъп.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+
+## Патофизиология и механизъм
+<section class="topic-section" id="pathophysiology">
+<details>
+<summary>Патофизиология и механизъм</summary>
+<div class="ts-body">
+
+Патофизиологичните принципи в хирургията на ръката се групират около четири клъстъра: **скъсяване на колатерални връзки и капсула** (intrinsic stiffness), **сухожилни сраствания** (extrinsic stiffness), **ръбцови контрактури на кожата** (skin contracture) и **исхемия с oедем** (Volkmann-ова каскада в тежък случай). Всеки оперативен план се преценява през призмата на тези четири процеса.
+
+**Колатерални връзки на MCP** са опнати в флексия и отпуснати в екстензия — единствените колатерални връзки в тялото с тази геометрия. При имобилизация в екстензия (типичната „мала на чешма" поза, типично грешна) те се скъсяват в опуснато положение и след 7–10 дни блокират последващата флексия. Затова интризичното положение на безопасност (intrinsic-plus) с MCP в 70–90° флексия и IP в пълна екстензия е стандартът за всяко обездвижване на ръката, освен ако специфичното оперативно изискване не диктува друго.
+
+**Сухожилни сраствания.** След всеки контакт между сухожилие и обкръжаваща тъкан (синовиална обвивка, фасция, кожа, кост) се образуват сраствания, които ограничават плъзгането. Зона II на флексорите е най-уязвима поради тесния костно-фиброзен канал, поради сходимото плъзгане на FDS и FDP и поради ограничения резерв за компенсация. Концепцията на ранното защитено активно движение по Strickland-Tang ползва нискосилово, контролирано движение в първите 24–48 часа след шев за поддържане на плъзгането, без да компрометира якостта на шева; основа са биомеханичните данни, че 6–8-нишков шев издържа сила, надминаваща силата на палпиращ флексионен опит при пасивно движение.
+
+**Ръбцови контрактури на кожата.** Надлъжен ръбец на волярна повърхност (длан, пръст, китка) се свива по дължина и тегли подлежащите стави във флексия — субстратът на постизгарни и посттравматични флексионни контрактури. Принципът на разрезния дизайн (избягване на надлъжни разрези през огъвателни гънки и използване на Bruner, медиаксиален разрез или Z-удължения) е директна последица. Z-пластиката по Лимберг (виж раздел Класификация и раздел Лечение) разрушава надлъжната геометрия на ръбеца, удължава го по централната ос и пренасочва тягата напречно.
+
+**Volkmann-ова каскада.** Повишеното налягане в затворен компартмент (типично след супракондилна фрактура, дистална радиална фрактура с прекомерен превръзков притисък, или директна травма с интрамускулна хеморагия) компрометира капилярното перфузионно налягане; миофибрилите некротизират, последвани от фиброзна замяна и ретракция; резултатът — рязко скъсяване на флексорите на пръстите и китката с патогномонична поза „intrinsic-minus + китка във флексия". Превенцията е разпознаване на компартментния синдром в първите 6 часа и фасциотомия, преди да настъпят необратими промени.
+
+</div>
+</details>
+</section>
+
+
+## Клиника и диагностика
+<section class="topic-section" id="clinical">
+<details>
+<summary>Клиника и диагностика</summary>
+<div class="ts-body">
+
+Клиничният преглед на ръката следва структурирана секвенция: оглед (поза, цвят, мускулна атрофия, нокти, ръбци), палпация (точкова болезненост, образувания, температурна разлика), активни движения по сегменти (китка, MCP, PIP, DIP), пасивни движения с оценка на крайния обхват, сила (захващане на динамометър Jamar, пинчмер за пинцетов захват), невроваскуларен статус (моторно по миотом, сетивно по дерматом, дискриминация две точки на пулпата с norma под 5 mm, рефилиране на нокътно ложе, тест на Allen), функционално сграбчване (точково, ключово, цилиндрично, кукичково, силово).
+
+**Тестове за специфични структури.** За FDP — изолирана активна DIP-флексия при държане на PIP в екстензия (тест на Jones). За FDS — активна PIP-флексия при държане на всички съседни пръсти в пълна екстензия (изолира FDS, защото FDP имат общо мускулно коремче и не могат да флектират изолирано). За EPL — палеца хибернира на масата с волярната повърхност надолу и пациентът активно повдига дисталната фаланга от плоскостта (само EPL може да изпълни това движение). За n. medianus моторно — APB (палеца перпендикулярно на дланта); сетивно — дискриминация две точки на палмарната пулпа на показалеца. За n. ulnaris моторно — m. adductor pollicis (знак на Froment, при който пациентът компенсира с FPL — флексия на IP на палеца при опит за ключово сграбчване); m. abductor digiti minimi (знак на Wartenberg при невъзможност за добавяне на абдуциран V пръст към IV). За n. radialis моторно — активна екстензия на MCP на пръстите и на палеца.
+
+**Образна диагностика.** Стандартни рентгенови снимки в две проекции (PA и латерална) са първият образен инструмент при всяко съмнение за костно увреждане. Допълнителни проекции според клиничната находка — снимка по Brewerton (за MCP), снимка по Stecher (за scaphoid), снимка по Norgaard (за ранен ревматоиден артрит), снимка под натоварване (за карпална нестабилност). КТ — при сложни вътреставни фрактури, при подозрение за окултна скафоидна фрактура с негативен рентгенов резултат и при предоперативно планиране на ставни реконструкции. МRI — при тъканна патология (тендинит, теносиновит, ганглион, тумор), при оценка на скафоиден AVN, при ранна диагноза на остеомиелит и при оценка на лигаментарни увреди (SL, LT, TFCC). Скенер на скеletа — при подозрение за окултна фрактура (особено scaphoid), за метастатична болест, за ревматоидно засягане. Артроскопия на китката — при персистираща неясна болка, при суспекция за TFCC лезия с негативен MRI, при остеоартроза в първи стадий за дебридиране.
+
+**Електродиагностика (EMG/NCS).** Стандарт при синдром на карпалния тунел, синдром на канала на Guyon, синдром на cubital tunnel и при оценка на ниво на нервно увреждане. Позволява разграничаване на дистална компресия от проксимална (плексус, корен) и оценка на тежестта. Стандартът на диагнозата на синдрома на карпалния тунел — удължена дистална моторна латенция над 4,5 ms и сензорна латенция над 3,5 ms по n. medianus; за синдрома на canalis cubitalis — намалена скорост на провеждане през лакътя под 50 m/s.
+
+</div>
+</details>
+</section>
+
+
+## Класификация
+<section class="topic-section" id="classification">
+<details>
+<summary>Класификация</summary>
+<div class="ts-body">
+
+**Зони на флексорните сухожилия (Verdan).** I — дистално от FDS-инсерцията; II — „ничия земя" от A1 до FDS-инсерцията; III — между карпалния тунел и A1; IV — карпален тунел; V — проксимално от карпалния тунел. На палеца T1 — T3 с oblique pulley като централен ориентир.
+
+**Зони на екстензорните сухожилия (Verdan).** I — DIP (mallet); II — средна фаланга; III — PIP (boutonnière); IV — проксимална фаланга; V — MCP (fight bite); VI — гръб на ръката; VII — китка; VIII — дистална предмишница. На палеца T(I–V) последователно от дистално към проксимално.
+
+**Контрактура на Dupuytren — класификация на Матев (1962).** Степен 0 — подкожен възел без флексионна контрактура. I — флексионна контрактура само на MCP. II — флексионна контрактура на MCP и PIP. III — контрактура на трите стави, обикновено с компенсаторна DIP-хиперекстензия. Алтернативна международна — класификация на Tubiana (стадии 1–4 според сумарния дефицит на екстензия).
+
+**Контрактура на палеца „thumb-in-palm" — класификация по House.** I — спастична флексионна аддукция, корекция без сухожилен пренос; II — флексионна контрактура на MCP, изискваща капсулотомия; III — комбинирана MCP флексия и нестабилност; IV — комбинирана контрактура с MCP-нестабилност и IP-флексия (изисква артродеза). Корелира с триетапната корекция по Матев.
+
+**Синдактилия — патогенетична.** Ембрионална, амниотична (ивици на Streeter), при синдроми (Apert, Poland, Greig, Carpenter). По дълбочина — кожна и кожно-костна; по протежение — пълна, частична, акросиндактилия (само на върха).
+
+**Контрактура на Volkmann — класификация по Tsuge.** Лека (само мускулно засягане, без неврологичен дефицит) — лечение по Tsuge със селективна резекция и Z-удължения; умерена (по-обширно мускулно засягане с лек неврологичен дефицит) — допълва се с невролиза; тежка (обширна некроза, тежък неврологичен дефицит) — изисква свободен функционален мускулен трансфер (gracilis).
+
+**Z-пластика — геометрични варианти.** 30° → 25%, 45° → 50%, 60° → 75% (стандарт за ръката), 75° → 100%, 90° → 120%. Множествени Z (serial Z) — за дълги линеарни ръбци; four-flap Z (164%) — за commissura I; Y-V и V-Y по Имре — за точкови контрактури.
+
+**Замаха на захвата (по Kapandji 1980 за палеца).** 0–10 степени според разстоянието между върха на палеца и палмарната повърхност на II–V пръст: 0 — палеца до латералната повърхност на II на нивото на PIP; 10 — палеца до дисталната дланна гънка на V пръст. Тест за функционална опозиция след корекция на палеца.
+
+</div>
+</details>
+</section>
+
+
+## Лечение
+<section class="topic-section" id="treatment">
+<details>
+<summary>Лечение</summary>
+<div class="ts-body">
+
+
+### Консервативно
+<details id="nonoperative">
+<summary>Консервативно</summary>
+<div class="ts-body">
+
+**Положения на имобилизация.** Основните две положения, утвърдени от Bunnell и доразвити в българската школа, са положение на покой (relaxation) и функционално положение (intrinsic-plus). Функционалното положение е: китка в 20° дорзифлексия; MCP в 70–90° флексия (колатералните връзки опнати); PIP и DIP в почти пълна екстензия. Това е стандартът за обездвижване на ръката, освен ако специфично оперативно изискване не диктува друго. Положението на покой (китка неутрална, MCP 30°, PIP 45°, DIP 10°) се избира при остри състояния, в които пълната intrinsic-plus поза не се толерира.
+
+При шев на флексорни сухожилия — китка в 10–20° флексия, MCP в 50–70° флексия, IP в почти пълна екстензия (защита на шева чрез дорзална шина). При шев на екстензорни сухожилия зона I (mallet) — DIP в пълна екстензия с Stack-сплинт 6–8 седмици; зона III (boutonnière) — PIP в пълна екстензия със свободна DIP за 6 седмици. При фрактура на скафоид — къс гипсов ръкав с включен палец 6–12 седмици според локализацията.
+
+**Шиниране и динамични шини.** Динамичните шини (Capener за PIP-флексионна контрактура, обратни шини за PIP-екстензионна контрактура, опониращи шини при парализа на n. medianus) използват леко продължително натоварване (low load prolonged stretch — LLPS) за корекция на ставни контрактури. Серийно гипсиране (serial casting) с прогресивно по-голяма корекция на 7–10 дни е алтернатива за тежки PIP-флексионни контрактури.
+
+**Първа помощ при пресни наранявания.** Тоалетът на наранената ръка започва с двукратно обилно измиване с 0,5% амонячен разтвор; самата рана се промива с физиологичен разтвор, а при силно замърсяване — с умерена струя чешмяна вода. Околността се почиства последователно с йод-бензин, спирт и йод. Противотетаничната профилактика е задължителна. Анестезията най-често е проводна на три нива: за палмарните дигитални нерви — на нивото на MCP-ставите; за n. medianus и n. ulnaris — на нивото на китката или в аксилата (аксиларен блок). Esmarch-овият бинт е противопоказан за обезкървяване на цялата мишница (парализа на n. radialis); вместо това — пневматична маншета над систолното давление.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Intrinsic-plus поза (китка 20° дорзи, MCP 70–90° флексия, IP екстензия) е стандартът — единствената поза, която опъва колатералните връзки на MCP и предпазва от тяхното скъсяване.</li>
+    <li>„Болният има винаги право, когато се оплаква от имобилизацията на ръката си" (Бойчев) — следоперативната болка под гипса трябва да се възприема като сигнал за компартментен синдром, а не като нормално явление.</li>
+    <li>Конците на кожата се изваждат на 10–12-ия следоперативен ден.</li>
+  </ul>
+</aside>
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Имобилизация в екстензия на MCP — скъсяване на колатералните връзки в опуснато положение, последвано от трайна загуба на флексия. Никога не обездвижвайте „на чешма".</li>
+    <li>Esmarch-ов бинт за обезкървяване на цялата мишница → парализа на n. radialis от компресия на нерва над лакътя. Стандартът е пневматична маншета над систолното давление.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Оперативно
+<details id="operative">
+<summary>Оперативно</summary>
+<div class="ts-body">
+
+<details>
+<summary>Принципи на разрезния дизайн</summary>
+<div class="ts-body">
+
+Шестте основни правила, утвърдени в българската школа:
+
+1. Оперативните разрези следват естествените гънки на кожата или техните неутрални линии. Надлъжните разрези по дланта и палмарната страна на пръстите са абсолютно противопоказани — пресичането на естествените напречни гънки под прав ъгъл води до белегова контрактура.
+2. Zig-zag разрез по Bruner е стандартен за волярния пръст и дланта при достъп до флексорната обвивка и невроваскуларните снопчета — редуващи се коси разрези с ъгли 60–90°, минаващи между две съседни огъвателни гънки.
+3. Медиаксиален (mid-lateral) разрез е алтернатива по латералната или медиалната средна ос на пръста, поставен в най-дорзалната точка на волярните огъвателни гънки — единствената истинска „неутрална линия".
+4. При пресни наранявания удължението на раната за достъп до проксималния край на ретрахирано сухожилие се прави винаги по неутрална линия или с Z-удължение, никога с надлъжно пробиване.
+5. Дорзалните разрези зачитат екстензорната разтеглица, венозния и лимфния дренаж; възможни са разклоняващи се (lazy-S) и С-образни варианти за по-широка експозиция.
+6. Разрезът тип „рибя уста" при гнойни заболявания на ръката е строго забранен — той унищожава кожата на пулпата, която е невъзстановима. При панариций се използват странични или класически линеарни палмарни разрези по неутрални линии.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>„Рибя уста" разрез на пулпата на пръста е абсолютно противопоказан — той унищожава ценната за стереогностичната сетивност пулпарна кожа.</li>
+    <li>Надлъжен разрез през волярната гънка на китката води до келоиден ръбец, който компрометира екстензията — винаги Bruner или Z-удължение.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Z-пластика — геометрия и оперативна техника</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/zplasty-geometry.svg" data-figure-alt="Геометрия на Z-пластиката (60-60-60)" aria-label="Увеличи">
     <img src="/img/anatomy-6/zplasty-geometry.svg" alt="Геометрия на Z-пластиката (60-60-60)" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Геометрична схема на Z-пластиката: централно рамо (по протежение на надлъжния ръбец) и две странични рамена под 60° в противоположни посоки. След отпрепариране и транспозиция на двата триъгълни ламба новият централен ръб върви перпендикулярно — постига се ~75% удължаване по оста на контрактурата (коефициент 1,73).</span>
+    <span class="md-figure-caption">Геометрична схема на Z-пластиката: централно рамо (по протежение на надлъжния ръбец) и две странични рамена под 60° в противоположни посоки. След отпрепариране и транспозиция новият централен ръб върви перпендикулярно на първоначалния — постига се ~75% удължаване по оста на контрактурата (коефициент 1,73).</span>
     <span class="md-figure-attribution"> · Evan Mason, <a href="https://commons.wikimedia.org/wiki/File:Z_Plasty.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
+Z-пластиката — пластика чрез размяна на насрещни триъгълни ламба — е основна техника за удължаване на надлъжни ръбцови контрактури, келоидни ръбци по линията на флексионни гънки и за моделиране на повърхността на тялото. Методът е теоретично разработен с тригонометрични модели от А. А. Лимберг (1946) и широко приложен в хирургията на ръката, особено при следизгарни и постравматични контрактури.
 
-Z-пластиката — пластиката чрез размяна на насрещни триъгълни ламба — е основна техника в хирургията на ръката, използвана за удължаване на надлъжни ръбцови контрактури, келоидни ръбци по линията на флексионни гънки и за моделиране на повърхността на тялото (включително премахване на вдлъбнатини при амниотични стеснения). Методът е детайлно разработен теоретично и практически с използване на тригонометрични и математически модели от A. A. Лимберг (1946 г.) и получава широко приложение в хирургията на опорно-двигателния апарат, особено при следизгарени и постравматични контрактури на ръката и пръстите.
+**Принцип.** Транспозиция на два триъгълни ламба за пренасочване на тягата по различна ос, с последващо удължаване по оригиналната ос на ръбеца и едновременно прекъсване на надлъжната геометрия чрез поставяне на новия централен ръб напречно.
 
-Принципът на Z-пластиката е транспозиция на два триъгълни ламба за пренасочване на тягата по различна ос, с последващо удължаване по оригиналната ос на ръбеца и едновременно прекъсване на надлъжната му геометрия чрез поставяне на новия централен ръб напречно на контрактурната ос.
+**Класическа единична фигура.** Два равностранни триъгълни ламба с ъгъл 60° и равни страни между 1 и 2 cm. Средното рамо съвпада с надлъжния ръбец, който се разсича по дължина (но не се ексцизира). След отпрепариране ламбата се завъртат и разменят местата си: ламбото, лежащо проксимално, заема дисталното положение и обратно. Централното рамо след транспозицията върви перпендикулярно — точно по тази смяна на ориентацията се постига удължаване по оста на контрактурата.
 
-## Геометрия и количествена ефективност
+**Количествена ефективност.** 30° → 25%; 45° → 50%; **60° → 75% (стандарт за ръката)**; 75° → 100%; 90° → 120% (теоретично, но изисква перпендикулярен запас от кожа и компрометира върховете). Под 45° ъгли са недостатъчно ефективни и често некротизират; над 75° практически невъзможни поради недостиг на странична кожа.
 
-Класическата едноична фигура използва два равностранни триъгълни ламба с ъгъл 60° и равни страни между 1 и 2 cm. Средното рамо на фигурата е общо за двете ламба и съвпада с надлъжния ръбец, който се разсича по дължина (но не се ексцизира). След отпрепариране ламбата се завъртат и разменят местата си: ламбото, лежащо проксимално, заема дисталното положение и обратно. Централното рамо след транспозицията върви перпендикулярно на първоначалната посока — точно по тази смяна на ориентацията се постига удължаване по оста на контрактурата.
+**Стандартна последователност.** 1) Очертаване на трите линии върху кожата с багрило (централно рамо по дължина на ръбеца, странични под избрания ъгъл, обикновено 60°). 2) Кожна инцизия с режещ скалпел до подкожието. 3) Отпрепариране на двата триъгълни ламба с тънък слой подкожна тъкан без оголване на дермиса (запазване на субдермалния плексус е критично за виталността). 4) Транспозиция на ламбата и зашиване на върховете с по два тънки конеца. 5) Зашиване на новопозиционирания централен ръб с прости конци (4/0–5/0 коприна или монофиламент).
 
-Количествената ефективност на единичната симетрична фигура зависи изключително от ъгъла:
+**Модификации.** Множествени (serial) Z-пластики — последователни единични фигури, разпределени по дължината на дълга линеарна контрактура; сумарното удължаване е сборът на отделните. Планиметрична Z с допиращ се среден разрез — при широки и неправилни ръбци. Four-flap Z — основно приложение в първата интердигитална гънка на палеца при тежки аддукционни контрактури, дава около 164% удължаване. V-Y и Y-V пластика по Имре — алтернатива за точкови контрактури.
 
-•   Z-пластика 30° — теоретично удължаване ~25% по централната ос.
-•   Z-пластика 45° — удължаване ~50% по централната ос.
-•   Z-пластика 60° — удължаване ~75% по централната ос (коефициент 1.73); при централно рамо 3 cm абсолютното удължаване е около 2.2 cm. Това е стандартът в хирургията на ръката.
-•   Z-пластика 75° — удължаване ~100%, но със значително натоварване на ламбата.
-•   Z-пластика 90° — теоретично удължаване ~120%, но изисква перпендикулярен запас от кожа, какъвто рядко е наличен, и компрометира жизнеспособността на върховете на ламбата.
+**Приложения в ръката.** Освобождаване на следизгарни контрактури по огъвателни гънки на пръстите и дланта; контрактура на Dupuytren (на нивото на palmar fascia и кожата едновременно); коригиране на разрезен дизайн, когато планираният разрез би пресякъл огъвателна гънка; задълбочаване на първата комисура (commissura I) при аддукционна контрактура на палеца; синдактилия — триъгълни ламба за оформяне на новата комисура; ревизионна хирургия на келоидни ръбци по китката и предмишницата.
 
-Използването на по-малки от 45° ъгли е недостатъчно ефективно и при него върховете на триъгълниците често некротизират; ъгли над 75° на практика са невъзможни поради недостиг на странична кожа. Класическият избор е 60°, който комбинира максимална ефективност с надеждна васкуларизация на ламбата.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Коефициент на удължаване при единичната симетрична Z-пластика по Лимберг: 30° → 25%, 45° → 50%, 60° → 75%, 75° → 100%, 90° → 120%. На практика се използва 60° — компромис между удължаване и васкуларизация на върховете. Триъгълните ламба не се подкопават дълбоко, защото деваскуларизирането им води до некроза на върха; средното рамо се разсича без ексцизия; страните между 1 и 2 cm.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Коефициент на удължаване по Лимберг: 30° → 25%, 45° → 50%, 60° → 75% (стандарт), 75° → 100%, 90° → 120%.</li>
+    <li>Триъгълните ламба не се подкопават дълбоко — деваскуларизирането им води до некроза на върха; среден ръбец се разсича без ексцизия; страните между 1 и 2 cm.</li>
+    <li>При нееднаква еластичност на двете страни — асиметрични ъгли (по-голям ъгъл от страната с повече кожен запас).</li>
+  </ul>
 </aside>
 
-## Оперативна техника и модификации
+</div>
+</details>
 
-Стандартната последователност е: 1) очертаване на трите линии върху кожата с багрило (центричното рамо по дължина на ръбеца, страничните рамена под избрания ъгъл, обикновено 60°, в противоположни посоки); 2) кожна инцизия с режещ скалпел до подкожието; 3) отпрепариране на двата триъгълни ламба с тънък слой подкожна тъкан без оголване на дермиса (запазване на субдермалния плексус е критично за виталността); 4) транспозиция на ламбата и зашиване на върховете с по два тънки конеца; 5) зашиване на новопозиционирания централен ръб с прости конци (4/0–5/0 коприна или монофиламент). При нееднаквата еластичност на кожата от двете страни на ръбеца ъглите могат да се направят асиметрични — по-голям ъгъл от страната с повече кожен запас (фиг. 25 от класическия атлас на Лимберг).
+<details>
+<summary>Атравматична техника (Бойчева школа)</summary>
+<div class="ts-body">
 
-Основните модификации включват:
+Атравматичната техника обединява серия специфични изисквания и прийоми за „физиологично опериране" — концепцията е противопоставена на широки „прегледни" разкрития, на практика равностойни на деваскуларизация и денервация на чувствителни структури.
 
-•   Множествени Z-пластики — последователни единични фигури, разпределени по дължината на дълга линеарна контрактура (типично при следизгарни белези по предмишницата или дланта). Сумарното удължаване е сборът на удължаванията на отделните фигури, но без натрупване на напрежение в дисталния край.
-•   Планиметрична Z-пластика — с допиращ се или частично застъпен среден разрез между две съседни фигури, използвана при по-широки и неправилни ръбци.
-•   Четирипластови (four-flap) Z-пластики — основно приложение в първата интердигитална гънка на палеца (commissura I) при тежки аддукционни контрактури, дава около 164% удължаване.
-•   Y-V пластика (по Имре) — алтернатива при по-малки точкови контрактури; разрезът се прави като Y, ламбото се мобилизира и затваря като V.
+Обезкръвено оперативно поле — пневматична маншета (давление около 100 mmHg над систолното за горен крайник); продължителност на едно надуване до 90 минути, със задължителна пауза за реперфузия преди ново надуване. Увеличение — операционен микроскоп или увеличителни очила (loupes ×2,5–×4,5) за прецизна тъканна диференциация. „Течна среда" — постоянно оросяване с физиологичен разтвор. Нежни инструменти — кожните ръбове се подхващат с тънки кукички или единични конци, никога с грубо клеме; сухожилието се захваща единствено за участъци, които ще се изрязват. Слоесто разделяне на тъканите — без груба тъпа дисекция; идентификация и щадящо лигиране на малките съдове с микрокоагулатор или фини москито клемета и 4–5/0 кетгут. Микродренаж — след завършване при нужда се поставя аспирационен микродрен (тип „Хемовак") за 24–48 часа.
 
-## Приложения в хирургията на ръката
+Подготовката включва двукратно измиване на ръката и предмишницата с четка и сапун по 10 минути в деня преди операцията, ниско подрязване на ноктите, стерилно бинтоване вечерта и избръсване до лакътя сутринта.
 
-Z-пластиката се използва при освобождаване на следизгарни контрактури по огъвателните гънки на пръстите и дланта; при освобождаване на контрактурата на Dupuytren (на нивото на palmar fascia и кожата едновременно); при хирургичен дизайн, когато планираният разрез би пресякъл огъвателна гънка; при задълбочаване на първото web space при аддукционна контрактура на палеца (елементарна 60° фигура е достатъчна за корекция на commissura I, докато по-сложните комисурални синдактилии изискват серия от фигури); при корекция на синдактилии (триъгълни ламба за оформяне на новата комисура), и при ревизионна хирургия на келоидни ръбци по китката и предмишницата.
-
-## Атравматична техника при операции на ръката (Бойчева школа)
-
-Атравматичната техника при хирургията на ръката, утвърдена в българската школа, обединява серия от специфични изисквания и прийоми за „физиологично опериране" в най-точния смисъл на думата. Концепцията е противопоставена на широките „прегледни" разкрития с оголване на кости, сухожилия и нерви — на практика равностойни на деваскуларизация и денервация на тези особено чувствителни структури. Основните принципи са:
-
-•   Обезкръвено оперативно поле — пристягане на мишницата или предмишницата с пневматична маншета (давление около 100 mmHg над систолното за горен крайник); продължителност на едно надуване до 90 минути, със задължителна пауза за реперфузия преди ново надуване.
-•   Увеличение — операционен микроскоп или увеличителни очила (loupes ×2.5–×4.5) за прецизна тъканна диференциация на нерви, артерии, вени и сухожилни структури.
-•   „Течна среда" — постоянно оросяване на оперативното поле с физиологичен разтвор за избягване на изсъхване на повърхностните клетки и сраствания.
-•   Нежни инструменти и държателни конци — кожните ръбове се подхващат с тънки кукички или единични конци, никога с грубо клеме. Сухожилието се захваща единствено за участъци, които така или иначе ще се изрязват.
-•   Слоесто разделяне на тъканите — без груба тъпа дисекция; идентификация и щадящо лигиране на малките съдове с микрокоагулатор или фини москито клемета и 4–5/0 кетгут.
-•   Микродренаж — след завършване на операцията при нужда се поставя аспирационен микродрен (например тип „Хемовак") за 24–48 часа за избягване на хематом и сраствания. В условията на по-малка операционна зала ефективен дренаж може да се осъществи с венкат № 14 през кожна цепка, свързан с гумен шлаух към аспирирана банка за кръвопреливане.
-
-Подготовката на болния включва двукратно измиване на ръката и предмишницата с четка и сапун по 10 минути в деня преди операцията, ниско подрязване на ноктите, стерилно бинтоване вечерта и избръсване до лакътя сутринта преди влизане в операционната зала.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Атравматичната техника по Бойчева школа е концептуалното кредо на българската хирургия на ръката: обезкръвено поле, увеличение, постоянно оросяване с физиологичен разтвор, нежни инструменти, държателни конци вместо груби клемета. „Болният има винаги право, когато се оплаква от имобилизацията на ръката си" — основното правило за следоперативния период, заедно с елевацията, движението на свободните от имобилизация стави и проходимостта на дренажа. Конците на кожата се изваждат на 10–12-ия следоперативен ден.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Атравматичната техника е концептуалното кредо на българската ръчна хирургия: обезкръвено поле, увеличение, оросяване, нежни инструменти, държателни конци.</li>
+    <li>Пневматична маншета — давление 100 mmHg над систолното, време 90 min, със задължителна пауза за реперфузия.</li>
+  </ul>
 </aside>
 
-## Положения на имобилизация и функционална позиция
+</div>
+</details>
 
-Основните положения на имобилизация на ръката, утвърдени от Bunnell и доразвити в българската школа, са две: положение на покой (relaxation) и функционално положение (intrinsic-plus). Функционалното положение е: китка в 20° дорзифлексия; MCP-стави в 70–90° флексия (колатералните връзки опнати); PIP и DIP стави в почти пълна екстензия. Това положение запазва максимална дължина на колатералните връзки на MCP и предпазва от ставната скованост, която е основният късен враг на хирургията на ръката. Положението на покой е лека флексия във всички стави. При шев на флексорни сухожилия положението на ставите е минимална флексия (5–10°); при възстановяване на дорзалната разтеглица в областта на дисталната става крайната фаланга се имобилизира в хиперекстензия.
+<details>
+<summary>Освобождаване на карпалния тунел</summary>
+<div class="ts-body">
 
-Свитите пръсти насочват върховете си към os scaphoideum — основен ориентир за нормалната им ротация. Този клиничен тест трябва да се провери след всяка остеосинтеза на metacarpalia или фаланги: ротационен дефицит дори от 5–10° е функционално катастрофален, тъй като при свити пръсти близо до 90° MCP-флексия те се сблъскват вместо да се припокриват.
+Освобождаването на карпалния тунел е най-честата оперативна процедура на ръката. Класическият открит достъп използва надлъжен разрез в дланта, успоредно на тенарната гънка, на около 2–3 cm дистално от дисталната гънка на китката. Разрезът върви по хода на радиалния ръб на безимения пръст, като се избягват дистално arcus palmaris superficialis и проксимално palmar cutaneous branch на n. medianus (пресичащ гънката по радиалната страна на сухожилието на m. palmaris longus).
 
-## Лечение на пресните наранявания
+Palmar fascia се инцизира; retinaculum flexorum се идентифицира и напълно разсича от улнарната му страна (за защита на ramus recurrens thenaris). N. medianus се идентифицира и защитава. Освобождаването продължава проксимално и дистално до пълно разсичане на лигамента; проксимално разсичането се удължава с малък разрез на дисталната антебрахиална фасция, защото остатъчна компресия на нивото на проксималния ръб на retinaculum-а е чест източник на персистираща симптоматика.
 
-Прясно нараняване на ръката изисква компетентна обработка с подходящ инструментариум и атравматична техника, тъй като „съдбата на наранената ръка се определя от начина и компетентността на първичното третиране". Тоалетът на наранената ръка започва с двукратно обилно измиване с 0.5% амонячен разтвор; самата рана се промива с физиологичен разтвор, а при силно замърсяване — с умерена струя чешмяна вода. Околността се почиства последователно с йод-бензин, спирт и йод; асистентът работи със стерилни ръкавици. Противотетаничната профилактика се извършва съгласно указанията на министерството.
+Процедурата може да се извърши и ендоскопски (Chow двупортов или Agee еднопортов) с малък проксимален разрез и ендоскопско ножче — намалена следоперативна болка, но сходни дългосрочни резултати.
 
-Анестезията най-често е проводна на три нива: за палмарните дигитални нерви — на ниво MCP-ставите; за n. medianus и n. ulnaris — на нивото на китката или в аксилата (аксиларен блок). Местна упойка се прилага при изолирани увреди на кожа-подкожие или на дорзалната разтеглица на пръстите. При множествени увреди на сухожилия, нерви, премазвания и авулзии — общата анестезия е изборът. Esmarch-овият бинт е противопоказан за обезкървяване на цялата мишница (парализа на n. radialis); вместо това се използва пневматична маншета над систолното давление.
-
-Огледът на раната се прави под увеличение с премахване на коагулуми и чужди тела. При порезни рани на пръстите с подозрение за по-дълбока увреда раната се разширява по естествените гънки на кожата — за напречните рани се извършва байонетовидно разширение по неутралните линии, или разширение само по едната странична линия. Под прикритие на 0.5% амонячен разтвор не се преувеличава опасността от инфекция и некроза — кожните ръбове на порезните рани обикновено не се опресняват, за да не се компрометира затварянето.
-
-Порезни рани могат да се затварят първично до 24-ия час от нараняването, а понякога и по-късно при спокойна рана без признаци на възпаление и при антибиотична защита. Първоначалната последователност при множествена увреда на сухожилия и нерви е: артерия → сухожилия → нерви. Кожният шев е последен.
-
-## Принципи за кожните разрези по ръката и пръстите
-
-Шестте основни правила, утвърдени в българската школа:
-
-1.  Оперативните разрези следват естествените гънки на кожата на ръката и пръстите или техните неутрални линии. Надлъжните разрези по дланта и палмарната страна на пръстите са абсолютно противопоказани — пресичането на естествените напречни гънки под прав ъгъл води до белегова контрактура.
-2.  Zig-zag разрез по Brunner е стандартен за волярния пръст и дланта при достъп до флексорната обвивка и невроваскуларните снопчета — редуващи се коси разрези с ъгли 60–90°, минаващи между две съседни огъвателни гънки.
-3.  Медиаксиален (mid-lateral) разрез е алтернатива по латералната или медиалната средна ос на пръста, поставен в най-дорзалната точка на волярните огъвателни гънки — единствената истинска „неутрална линия".
-4.  При пресни наранявания удължението на раната за достъп до проксималния край на ретрахирано сухожилие се прави винаги по неутрална линия или с Z-удължение, никога с надлъжно пробиване.
-5.  Дорзалните разрези зачитат екстензорната разтеглица, венозния и лимфния дренаж; възможни са разклоняващи се (lazy-S) и С-образни варианти за по-широка експозиция.
-6.  Разрезът тип „рибя уста" при гнойни заболявания на ръката е строго забранен — той унищожава кожата на пулпата, която е невъзстановима. При панариций се използват странични или класически линеарни палмарни разрези по неутрални линии, които щадят пулпата.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>„Рибя уста" разрез на пулпата на пръста е абсолютно противопоказан — той унищожава ценната за стереогностичната сетивност пулпарна кожа, която при инфекция и некроза остава невъзстановима. При панарициум се правят странични неутрални разрези или класически линеарни палмарни разрези по неутралните линии. Надлъжен разрез през волярната гънка на китката води до келоиден ръбец, който компрометира екстензията.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Разрезът се поставя по хода на радиалния ръб на безимения пръст и на 2–3 cm дистално от гънката на китката — твърде радиално рискува palmar cutaneous branch; твърде дистално — arcus palmaris superficialis.</li>
+    <li>Никога не пресичайте гънката на китката надлъжно; при нужда от удължаване — Bruner или коси разрез по дисталната гънка.</li>
+    <li>Retinaculum flexorum се разсича от улнарната му страна — защита на ramus recurrens thenaris в неговите три анатомични варианта.</li>
+  </ul>
 </aside>
 
-## Кожни пластики при пресни наранявания и дефекти
+</div>
+</details>
 
-Йерархията на кожните пластики в хирургията на ръката, утвърдена в българската школа, следва пет принципа:
+<details>
+<summary>Освобождаване при тригер пръст и тригер палец</summary>
+<div class="ts-body">
 
-1.  Кожните ръбове на порезните рани не се опресняват, за да се запази целта на пластичното покритие — отстраняват се само мастната тъкан и нежизнените участъци, ако са нужни като свободни присадъци на краче.
-2.  Стратегическите участъци (torus tactilis, тенар, хипотенар и особено пулпите на палеца и пръстите) изискват пластични пластики със запазена инервация и оросяване — присадъци на краче от съседна кожа или дебели свободни трансплантати от улнарната страна на ръката, където кожата е идентична по строеж на дланната.
-3.  При по-големи дефекти разцепеният дебел свободен кожен присадък играе роля на пасивна покривка — той никога не придобива функционалните и сетивните качества на собствената кожа на ръката, но осигурява затваряне.
-4.  Малки раневи участъци от порядъка на няколко квадратни милиметра зарастват бързо вторично с точковиден белег и не се нуждаят от пластика.
-5.  Отдалечената кожна пластика с абдоминални или торакални ламба на широка основа (италианска пластика) е резервна за случаите без друга алтернатива.
+Тендовагинитът на m. flexor pollicis longus (тригер палец) и на сгъвачите на пръстите (тригер пръст) при неуспех на консервативно лечение се освобождава хирургично.
 
-## Местни ротационни ламба и техника на Карчинов
+**Тригер палец.** Напречен разрез по палмарната гънка в основата на палеца (при две гънки — по проксималната); тъпо разтваряне на подкожието с москито клеме, изместване встрани на двата палмарни съдово-нервни снопа; A1-ремъкът се идентифицира и разрязва надлъжно. Отварянето на влагалището дистално трябва да задмине средата на основната фаланга — иначе при флексия сухожилието ще се повдигне и ще проминира под кожата (bowstringing с болка). Върху сухожилието не се интервенира, дори при задебеляване — освобождаването на канала е достатъчно. **Cave** — oblique pulley на палеца не се разсича никога; разсичане на A1 е достатъчно.
 
-Ротационните ламба от страничните повърхности на пръстите с проксимално разположено хранително краче са стандарт за покриване на воларни дефекти при корекция на леки и умерени флексионни контрактури. Съотношението дължина:ширина на ламбото не трябва да надминава 2:1. Ламбото се очертава с багрило, отпрепарира се с достатъчен слой подкожие и се скроява преди корекцията на флексионната контрактура — основата на ламбото лежи на нивото, където ще се направи напречният воларен разрез.
+**Тригер пръст.** Разрезът върви по дисталната дланна гънка в участъка на засегнатия пръст (за показалеца — по проксималната гънка). Кожата се подкопава остро и подвижно повече в дистална посока; кожните ръбове се екартират; флексорната вагина се открива; A1 се срязва внимателно, със защита на съседните съдово-нервни снопчета.
 
-Палмарното сетивно ламбо по Карчинов — българска модификация — мобилизира островно ламбо със собствен съдово-нервен снопчев педикул от улнарната страна на III или IV пръст. Разрезът се прави по неутралната линия откъм улнарната страна; над дланта продължава зиг-заг до нивото на повърхностната артериална дъга. Собствената воларна дигитална артерия към съседния пръст се връзва близо до разклонението си от общата дигитална артерия; общият дигитален нерв се разцепва надлъжно по хода на влакната на двата собствени дигитални нерва; кожно-сетивното ламбо се отпрепарира и пренася към реципиентната пулпа.
+**Болест на de Quervain.** Стенозиращ тендовагинит на първия дорзален канал (APL и EPB) се освобождава през напречен или коси разрез по дорзо-радиалната страна на китката над първия канал. Под защита на повърхностните клонове на n. radialis (често 2–3, преминаващи над оперативното поле) се срязва малък участък от вагината и под прикритие на москито клеме тя се отваря изцяло. Важна е проверката дали EPB не минава през отделен канал — налично при около 30–40% от случаите и причина за рецидиви, ако не се идентифицира.
 
-Кръстосана (cross-finger) пластика по Cronin (1969) и Brailliar и Horner (1969) пренася дорзорадиално ламбо от основната фаланга на показалеца, включващо радиалния дорзален съдово-нервен сноп, за покриване на дефекти по пулпата на палеца. При съпътстваща ампутация на показалеца ламбото може да се отпрепарира заедно с палмарните съдово-нервни снопчета на II пръст — техника, която значително повишава жизнеността и възстановяването на сетивност.
+</div>
+</details>
 
-## Кожни ламба на съдово-нервно краче (островни ламба по Литлър и Холевич)
+<details>
+<summary>Първичен сухожилен шев на флексорите</summary>
+<div class="ts-body">
 
-Класическата техника на Littler (1959) пренася островно ламбо от улнарната страна на III или IV пръст с цялата дължина на разреза по неутралната линия, продължаващ зиг-заг по дланта до повърхностната артериална дъга; собствената воларна дигитална артерия към съседния пръст се връзва близо до разклонението си; общият дигитален нерв се разцепва надлъжно; ламбото се прекарва през подкожен тунел и се поставя върху реципиентната пулпа на палеца с очувствяваща роля.
+Първичният шев на флексорното сухожилие в първите 24 часа след порезно нараняване — а при спокойна рана и до 3 дни (отложен първичен шев) — е изборът, когато съществуват хирург с опит, адекватен инструментариум, шевен материал и условията за защитено следоперативно движение. Анестезията е обща или аксиларен блок; екстензорните увреди могат да бъдат под местна. Маневрата за извеждане на дисталния отрязък — свиване на пръста; проксималния — „изцеждане" на предмишничната мускулатура в дистална посока и свиване на китката. Често централният сухожилен отрязък трябва да се намери през нов разрез по-проксимално (никога не се подхваща сухожилието на сляпо с инструмент — необратими увреди).
 
-Методът на Холевич е българска триетапна модификация, използваща дорзорадиалната повърхност на показалеца като донорна област. Описани са три разновидности:
+Стандартната конфигурация е основен (core) шев с 4-нишкова техника по модифицирания Kessler с 3/0 или 4/0 синтетичен моноюгуляр или плетен материал, прибавен с непрекъснат епитендинозен шев 6/0 пролен по обиколката. Тази комбинация осигурява достатъчна якост за ранно защитено активно движение по протоколите на Strickland или модифициран Duran. По-съвременните 6- и 8-нишкови конфигурации (Cruciate, Adelaide, Strickland-Tang) осигуряват още по-висока якост и позволяват по-агресивна рехабилитация при опитни хирурзи. Ремъците A2 и A4 се запазват задължително; при необходимост от прокарване на сухожилието през A2 — отваря се прозорец във вентилаторите C1 или C3.
 
-1.  Пренасяне на дермо-мастно ламбо, включващо едно или две от крайните разклонения на n. radialis. По дорзо-радиалната повърхност на основната фаланга на показалеца се прави S-образен разрез; нервчето заедно със съответната артерия и две повърхностни вени се мобилизира от дисталната трета на основната фаланга до проникването на a. radialis между крачетата на първия междукостен мускул и се вмъква в дермалния слой на кожата на палеца. Сетивността се възстановява постепенно за 2–3 месеца, но никога не достига фина стереогностична сетивност.
-2.  Островно ламбо от дорзо-радиалната страна на основната фаланга на II пръст, отпрепарирано на съдово-нервно снопче и прекарано през подкожен тунел до върха на палеца.
-3.  Ракетовидно ламбо — третата и най-често прилагана в практиката модификация; кожният остров се продължава с тесен дорзален разрез нагоре като дръжка на ракета, която осигурява по-голяма мобилност и по-сигурен преглед на дисталната донорна повърхност.
+За протекция на сухожилния шев на дълбокия флексор се поставя презнокътен (transungual) защитен конец, фиксиран към кожата в проксималния край на дланта. Имобилизация в дорзална гипсова шина с китка в лека флексия (10–20°), MCP в 50–70° флексия и IP в почти пълна екстензия за 3 седмици.
 
-Островното ламбо по Холевич и Панева пренася голямо островно ламбо с размери около 7×1.5 cm, включващо цялата дорзо-радиална повърхност на II пръст от дисталната дланна гънка до проксималната трета на основната фаланга. Отпрепарира се на две съдово-нервни снопчета — дорзално (дигитално клонче на n. radialis + съответна артерия + 1–2 повърхностни вени) и воларно (радиалната воларна собствена дигитална артерия на II пръст с дорзалното клонче). Тази двойно-педикулирана конструкция е една от най-надеждните възможности за реконструкция на палеца със запазена сетивност.
+При увреда в зона II хирургическата деликатност е максимална: типично се шие само дълбокият сгъвач, повърхностният често се резецира (резекцията намалява обема в обвивката и риска от срастване). Когато липсват подходящите условия, най-добре е да се зашие само кожата, да се постави гипсова шина и болният да се изпрати веднага в специализирано лечебно заведение.
 
-## Реплантация на девитализирани ламба или напълно откъсната кожа (метод на Красовитов)
-
-Класическият метод на М. В. Красовитов (Кубан, 30-те години на ХХ в.) за реплантация на девитализирани или напълно откъснати кожни ламба от ръката, предмишницата или цял крайник при тежки авулзионни травми и елефантиаза остава ценна и пестелива алтернатива на свободното кожно трансплантиране. След съответна механична дезинфекция цялата подкожна тъкан се изрязва с остър скалпел, ножица или бръснач — за по-големи участъци се използва нож на Хъмби или дерматом, като кожата се поставя обърната върху барабана и с ножа се изрязва подкожието заедно с част от дермата. Полученият тънък пълнодебелинен присадък се надупчва (perforation) за избягване на серозна колекция под него и се реплантира върху раневата повърхност на същия пациент. Методът е приложим при тежки елефантиази (изрязване на цялата подкожна фасция и реплантация на собствената кожа), при авулзионна травма на ръката с напълно откъсната, но запазена като цяло кожа („дегловинг") и при ревизионна хирургия на пациенти без достатъчен донорен потенциал. Прихващането следва принципите на свободното пълнодебелинно трансплантиране, но има предимството да се връща собствената кожа на пациента — с по-добро функционално и сетивно възстановяване в дългосрочен план.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Методът на Красовитов е важна стратегия при дегловинг-травми на ръката и предмишницата: цялата откъсната, но запазена кожа се обезмастнява до пълнодебелинен присадък с нож на Хъмби или дерматом, надупчва се и се реплантира на същия пациент. Алтернативата — свободна трансплантация от далечен донорен участък — изисква жертване на нова кожа и дава по-малко функционално възстановяване в стратегическите за ръката зони.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Последователност при множествена увреда на сухожилия и нерви: артерия → сухожилия → нерви → кожа.</li>
+    <li>Стандарт: 4-нишков Kessler 3/0–4/0 + 6/0 епитендинозен; модерни 6–8-нишкови конфигурации позволяват по-агресивна рехабилитация.</li>
+    <li>Запазване на A2 и A4; прозорец във вентилатори C1/C3 при нужда.</li>
+  </ul>
 </aside>
 
-## Свободна кожна трансплантация и алотрансплантация
+</div>
+</details>
 
-Разцепеният свободен присадък (split-thickness skin graft, STSG) — обикновено с дебелина 0.3–0.5 mm — се взема с електродерматом от противоположното бедро или от улнарната страна на същата предмишница. Той осигурява пасивно затваряне на по-обширни дефекти, но не придобива функционалните и сетивните качества на собствената кожа на ръката. Дебелият (full-thickness) свободен присадък от улнарната страна на ръката или от ретроаурикуларната област е изборът за стратегическите участъци (пулпи, тенар).
+<details>
+<summary>Двуетапна сухожилна пластика по Панева–Холевич</summary>
+<div class="ts-body">
 
-Кожните алотрансплантати (свежи или консервирани в тъканна банка) остават проблем на алотрансплантацията на тъкани. Трайно прихващане засега е възможно само при еднояйчни близнаци; при други донори имунобиологичната несъвместимост води до прогресивна деструкция на присадъка след около една седмица. Чрез дълбоко замразяване, облъчване или химична обработка имуногенността се намалява, но прихващането остава временно и алотрансплантатът служи като биологична превръзка докато не настъпи епителизация от ръбовете на собствената кожа на болния.
+Българската двуетапна сухожилна пластика на сгъвачите по Панева–Холевич е една от иконичните процедури на българската ръчна хирургия. Преимуществото е осъществяването на предварително спокойно прирастване на присадъка към дълбокия сгъвач на нивото на дланта; едва вторият етап представлява транспозиция на педикуларния присадък към дисталната фаланга, в среда без сраствания и при идеално напрежение.
 
-## Оперативно лечение на синдактилиите
+**Първи етап** (съвпада с първичната обработка при пресни наранявания или като самостоятелна процедура при застарели увреди). Анестезия — местна или аксиларен блок. С малък ламбовиден разрез по проксималната част на дланта се откриват флексорните сухожилия на нивото на m. lumbricalis. С ножче за бръснене се прерязват на едно ниво двата сгъвача. Паратенонът на повърхностния флексор се отпрепарира надлъжно на 0,5 cm и оголената част на сухожилието се отстранява. Адаптират се краищата на двата отрязъка така, че сухожилието на дълбокия флексор лежи на повърхностния. Шевът е преплетен на нивото на проксималните инсерционни влакна на m. lumbricalis с 3/0 и 4/0 коприна. Чуканчетата на присадъка и сгъвача се подрязват и се заравят в m. lumbricalis с по един 5/0 или 6/0. Зашива се дланната кожа.
+
+**Втори етап** (един месец след първата операция). Анестезия — обща. Сухожилието на повърхностния сгъвач се прекъсва в мускулната му част; мускулното коремче се зашива към дълбокия флексор. Присадъкът се обръща на 180° в дистална посока и леко се затегля, за да се провери здравината на анастомозата и контрактилността на дълбокия флексор. Костно-фиброзният канал на пръста се отваря по цялото му протежение и предната стена се изрязва, като се запазват само две ануларни връзки (A2 на основната и A4 на средната фаланга). Ако няма ръбци по дланта, се оставя и трета връзка на нивото на главичката на metacarpale. Краят на обърнатия присадък се прекарва под ануларните връзки и се фиксира към дисталната фаланга със снимаем телен шев по Pulvertaft. Дължината на трансплантата трябва да бъде такава, че пръстът да остане във физиологично положение.
+
+Имобилизация в дорзална гипсова шина 3 седмици при леко сгъната китка и физиологична флексия на пръста. На 5-ия ден се разрешават леки движения под контрол. Телените шевове се свалят на 25-ия ден; активна екстензия отвъд физиологичното положение — след 30-ия ден; силови движения — след 40-ия ден.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Иконично българско двустъпално решение: първи етап в чиста среда (длан), втори — в подготвен костно-фиброзен канал; присадъкът се обръща на 180°.</li>
+    <li>Концептуално предимство — изграждане на сухожилния път в две различни биологични среди, всяка благоприятна за нея цел.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Двуетапна пластика по Hunter–Панева (силиконова пръчица)</summary>
+<div class="ts-body">
+
+При тежки ръбцови изменения във втора зона след многократни предишни намеси първият етап включва прокарване на силиконова пръчица (Hunter rod) през костно-фиброзния канал и стандартния първи етап на Панева с анастомоза между повърхностния и дълбокия сгъвач на нивото на дланта. След 3 месеца — формиране на псевдо-вагинален канал около пръчицата.
+
+Вторият етап разкрива повърхностния сгъвач на дисталната предмишница, прерязва го на нивото на мускулното коремче, отпрепарира го ретроградно до анастомозата и при сгънат пръст открива проксималния край на силиконовата пръчица. Педикулираният присадък се пришива към проксималния край на имплантата с здрав конец; през страничен разрез на нивото на дисталната фаланга се открива дисталният край и присадъкът се изтегля през новия канал, фиксирайки се със снимаем телен шев. Тази стратегия е особено ценна при ревизионни случаи и при дефицит на местни сухожилни ресурси.
+
+</div>
+</details>
+
+<details>
+<summary>Двуетапна пластика на дългия сгъвач на палеца по Панева</summary>
+<div class="ts-body">
+
+Принципно сходна на пластиката на сгъвачите на пръстите. Първият етап анастомозира централните отрязъци на двата сгъвача (дълъг сгъвач на палеца + дълбок сгъвач на II пръст) на нивото на канала на китката, осигурявайки общ васкуларно подсилен мотор. Вторият етап мобилизира присадъка като педикулирано продължение на дълбокия сгъвач, прокарва го през костно-фиброзния канал на палеца (запазен поне един ануларен лигамент на основната фаланга) и го фиксира със снимаем телен шев към дисталната фаланга. Имобилизация за 1 седмица в умерена флексия; снимаемият шев — на 26-ия ден.
+
+</div>
+</details>
+
+<details>
+<summary>Тено-капсулодеза на DIP по Матев</summary>
+<div class="ts-body">
+
+При застаряла увреда на дълбокия сгъвач, когато функционално възстановяване не идва в съображение, тено-капсулодезата по Матев фиксира дисталната фаланга в 20–25° стабилна флексия. Дисталната става се прониква с дъговиден разрез дорзално от съдово-нервния сноп. Дисталният край на дълбокия сгъвач се повдига на държателен конец със щадене на ануларния лигамент на средната фаланга. Изрязва се елипсовиден участък от воларната капсула (къс диаметър 3–4 mm) и тя се затваря на глухо с два перлонови шева при 30° флексия. Дисталният край на сгъвача се фиксира към ануларния лигамент или периоста на средната фаланга. Имобилизация 1 месец с левкопластова лента надлъж по дорзалната и палмарната повърхност. Резултатът от тенодезата без капсулодезата е непълен и нетраен — комбинацията е критична.
+
+</div>
+</details>
+
+<details>
+<summary>Възстановяване на екстензорите по зони</summary>
+<div class="ts-body">
+
+Шевът на екстензорни сухожилия използва дорзални разрези, съответстващи на зоната на увредата (зони I–VIII по Verdan/Kleinert). По-прост е от шева на флексорни сухожилия поради по-достъпното местоположение и по-малко ограничителната обвивка.
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/syndactyly.jpg" data-figure-alt="Синдактилия преди корекция" aria-label="Увеличи">
-    <img src="/img/anatomy-6/syndactyly.jpg" alt="Синдактилия преди корекция" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/mallet-finger.svg" data-figure-alt="Механизъм на mallet finger" aria-label="Увеличи">
+    <img src="/img/anatomy-6/mallet-finger.svg" alt="Механизъм на mallet finger" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Цялостна кожна синдактилия на III–IV пръст — типична индикация за оперативно лечение между 1,5 и 2-годишна възраст с дорзално трапецовидно ламбо за оформяне на нова комисура и пълнодебелинни кожни присадъци по страничните повърхности.</span>
-    <span class="md-figure-attribution"> · Kristoferb, <a href="https://commons.wikimedia.org/wiki/File:Syndactyly_type1_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-caption">Mallet finger — отлепване на крайния екстензорен сегмент от дисталната фаланга, с или без авулсионен костен фрагмент. Класическото лечение е консервативно — Stack-сплинт в хиперекстензия на DIP за 6–8 седмици; оперативно е показано при костен фрагмент над 1/3 от ставната повърхност или волярна сублуксация на DIP.</span>
+    <span class="md-figure-attribution"> · Davplast / Häggström, <a href="https://commons.wikimedia.org/wiki/File:Mallet_finger_mechanism.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
+**Зона I (mallet finger).** Консервативно — Stack-сплинт в хиперекстензия на DIP за 6–8 седмици при чисти сухожилни увреди и при костни фрагменти под 1/3 от ставната повърхност без волярна сублуксация. Оперативно — реинсерция със снимаем телен шев по Матев или дубликатура на ръбеца по Розов (дъговиден дорзален разрез, ръбецът се разсича косо проксимално-дистално, двата отрязъка се подхващат на 4/0 коприна; дисталният се затегля проксимално, а проксималният — дистално, в хиперекстензия; поставят се два странични конеца). При по-тежки случаи — реинсерция със снимаем шев по Матев и зашиване на латералните части една към друга над реинсерирания проксимален отрязък. Възстановяване по Панева–Холевич — кос дорзален разрез; първи вариант — дефектът се премоства с присадък на краче от проксималния дял на апоневрозата, завъртян на 180°; втори — приближаване и зашиване на страничните части над дефекта.
 
-Синдактилиите се срещат в три основни патогенетични форми — ембрионална, амниотична и синдактилия при генерализирани малформации и синдроми (синдром на Apert, синдром на Poland и др.). Според дълбочината на засягане се делят на кожна и кожно-костна, последната с поплътно срастване на кожата и засягане на костите, по-трудна за лечение. Според протежението — частична или цялостна; подвид на частичната е акросиндактилията със срастване само на върховите части на пръстите. Оперативното лечение се извършва най-добре между 1.5 и 2 години, преди появата на ротационни деформации; при пълни синдактилии засягащите пръсти от различна дължина — последователно (първо разделят се най-различните по дължина двойки, за да се избегне сколиоза на по-късия пръст).
+**Зона III (boutonnière деформация).** Изрязване на междинния ръбец и вторичен шев — ако ръбецът между двата края на централната лента е до 4–5 mm, той се изрязва и краищата се зашиват с 3 П-шева, един среден и два странични, с 4/0 коприна. Пластика по Fowler — четири малки разреза; присадък от m. palmaris longus се прекарва под периоста и инсерцията на централната лента за средната фаланга и след това подкожно, кръстосано по гърба на основната фаланга; двата му края се фиксират към сухожилията на mm. interossei. Транспозиция на страничните ленти по Матев — една от страничните ленти се премества дистално и се превръща в нова централна лента; при по-изразена деформация другата лента се срязва напречно 1 cm дистално и проксималният ѝ край се зашива за дисталния на преместената лента. Понякога се налага срязване на воларната част на колатералните лигаменти на PIP за корекция на остатъчна флексионна контрактура.
 
-Стандартната оперативна техника използва огледални S-образни разрези по дорзалната и палмарната страна на срасналите пръсти, така че конвекситетът от дорзалната страна да отговаря на конкавитет по палмарната, и обратното. Дорзалното трапецовидно ламбо (по Bauer, Tondra, Trusler, 1956) се отделя от основата на интердигиталната гънка и завъртя дистално за закриване на дъното на новата комисура; по палмарната страна също се скроява насрещно трапецовидно ламбо. След разделяне на пръстите страничните повърхности обикновено се покриват с дебели свободни кожни присадъци; при по-стегнатите форми се налага трансплантация и на средните, а понякога и на дисталните фаланги.
+**Други зони.** Зона II — преки шевове с 4-нишков core + епитендинозен. Зона IV — преки шевове с щадящо отношение към juncturae tendinum. Зони V–VI — преки преплетени шевове с 3/0–4/0 коприна и ранна динамична рехабилитация по Norris.
 
-При костните синдактилии се извършват надлъжни разсичания на сраснaлите фаланги, премахване на костни мостчета; при сраснaли хипопластични и деформирани фаланги или metacarpalia понякога се жертва един от пръстите за подобряване функцията на останалите. Непълни синдактилии с готова комисура често се третират успешно само с местна пластика — размяна на насрещни триъгълни ламба (елементарна 60° фигура е достатъчна за корекция на commissura I, докато по-сложни комисури изискват серия от фигури). При синдромите на Apert и Poland лечението е атипично и често изисква жертване на пръсти.
+</div>
+</details>
 
-## Оперативно лечение на контрактурата на Dupuytren
+<details>
+<summary>Възстановяване на n. medianus и n. ulnaris</summary>
+<div class="ts-body">
+
+Прекъсването на n. medianus и n. ulnaris на нивото на китката е една от най-честите увреди на периферните нерви и почти винаги е множествена (с сухожилия и съдове). Анестезия — обща или аксиларен блок; обезкръвяваща маншета; увеличителни очила или операционен микроскоп.
+
+**Първичен шев.** Кожната рана се разширява байонетовидно. Последователност на възстановяване: артерия → сухожилия → нерв. Под увеличение се идентифицират еднородните снопчета в двата отрязъка на нерва и се насочват съответно. Поставят се 6–8 отделни шева с 6/0 коприна на епиневриума, или 3 епиневрални шева + по един периневрален шев на отделни периферни фасцикули. Имобилизация 3 седмици с дорзална гипсова шина при лека флексия на китката, функционална позиция на пръстите, 70–80° флексия на лакътя.
+
+**При дефект до 4 cm.** Възстановяване с директен шев след отпускане на напрежението. За n. ulnaris се прави вентрално изместване на нивото на лакътя пред медиалния епикондил, със стволовото му разкриване по цялото протежение на предмишницата — печелят се около 2 cm; със свиване на лакътя проксималният дял се измества с още толкова, и става възможен директен шев без напрежение.
+
+**При дефект над 4 cm.** Свободна нервна пластика — кабели от n. suralis (взет през стандартен заден разрез на крака). Дължината на присадъците трябва да бъде малко по-голяма от дефекта за пълна релаксация. При обширна увреда на двата нерва дефектът на n. medianus може да се премости с присадък от проксималния или дисталния дял на n. ulnaris.
+
+Имобилизация след свободна пластика 25 дни в гипсов ръкав: китка във флексия, пръсти във функционална позиция, лакът при шев на n. medianus в 80° флексия, а за n. ulnaris в 30–40° (по-голяма флексия в лакътя поставя n. ulnaris под напрежение).
+
+**Възстановяване на дълбокия клон на n. ulnaris в канала на Guyon.** Дъговиден разрез от дисталната гънка на китката до проксималната дланна гънка; отпрепариране на кожно-подкожно ламбо на радиална основа; повърхностните влакна на m. palmaris brevis се повдигат с ламбото, дълбоките се срязват надлъж. Непосредствено радиално от os pisiforme се прониква в дисталния улнарен канал; n. ulnaris се реперира с придружаващите го съдове. На това ниво нервът обикновено е разделен на повърхностен и дълбок клон. Дълбокият клон се проследява дистално и радиално сред влакната на m. flexor digiti minimi brevis и m. opponens digiti minimi около hamulus ossis hamati, докато се появи под дълбоките сгъвачи и върху mm. interossei.
+
+</div>
+</details>
+
+<details>
+<summary>Локални флапи и техника на Карчинов</summary>
+<div class="ts-body">
+
+Ротационните ламба от страничните повърхности на пръстите с проксимално разположено хранително краче са стандарт за покриване на воларни дефекти при корекция на леки и умерени флексионни контрактури. Съотношението дължина:ширина не трябва да надминава 2:1. Ламбото се очертава с багрило, отпрепарира се с достатъчен слой подкожие и се скроява преди корекцията на флексионната контрактура — основата на ламбото лежи на нивото, където ще се направи напречният воларен разрез.
+
+**Палмарно сетивно ламбо по Карчинов** — българска модификация — мобилизира островно ламбо със собствен съдово-нервен снопчев педикул от улнарната страна на III или IV пръст. Разрезът се прави по неутралната линия откъм улнарната страна; над дланта продължава зиг-заг до нивото на повърхностната артериална дъга. Собствената воларна дигитална артерия към съседния пръст се връзва близо до разклонението си от общата дигитална артерия; общият дигитален нерв се разцепва надлъжно по хода на влакната на двата собствени дигитални нерва; кожно-сетивното ламбо се отпрепарира и пренася към реципиентната пулпа.
+
+**Кръстосана (cross-finger) пластика по Cronin (1969) и Brailliar–Horner (1969)** пренася дорзорадиално ламбо от основната фаланга на показалеца, включващо радиалния дорзален съдово-нервен сноп, за покриване на дефекти по пулпата на палеца. При съпътстваща ампутация на показалеца ламбото може да се отпрепарира заедно с палмарните съдово-нервни снопчета на II пръст.
+
+</div>
+</details>
+
+<details>
+<summary>Островни ламба по Литлър и Холевич</summary>
+<div class="ts-body">
+
+Класическата техника на Littler (1959) пренася островно ламбо от улнарната страна на III или IV пръст с цялата дължина на разреза по неутралната линия, продължаващ зиг-заг по дланта до повърхностната артериална дъга; собствената воларна дигитална артерия към съседния пръст се връзва близо до разклонението си; общият дигитален нерв се разцепва надлъжно; ламбото се прекарва през подкожен тунел и се поставя върху реципиентната пулпа на палеца с очувствяваща роля.
+
+**Методът на Холевич** е българска модификация, използваща дорзорадиалната повърхност на показалеца като донорна област. Описани са три разновидности:
+
+1. Пренасяне на дермо-мастно ламбо, включващо едно или две от крайните разклонения на n. radialis. По дорзо-радиалната повърхност на основната фаланга на показалеца се прави S-образен разрез; нервчето заедно със съответната артерия и две повърхностни вени се мобилизира от дисталната трета на основната фаланга до проникването на a. radialis между крачетата на първия междукостен мускул и се вмъква в дермалния слой на кожата на палеца. Сетивността се възстановява постепенно за 2–3 месеца, но никога не достига фина стереогностична сетивност.
+2. Островно ламбо от дорзо-радиалната страна на основната фаланга на II пръст, отпрепарирано на съдово-нервно снопче и прекарано през подкожен тунел до върха на палеца.
+3. Ракетовидно ламбо — третата и най-често прилагана в практиката модификация; кожният остров се продължава с тесен дорзален разрез нагоре като дръжка на ракета, която осигурява по-голяма мобилност и по-сигурен преглед на дисталната донорна повърхност.
+
+**Островно ламбо по Холевич–Панева** пренася голямо островно ламбо с размери около 7×1,5 cm, включващо цялата дорзо-радиална повърхност на II пръст от дисталната дланна гънка до проксималната трета на основната фаланга. Отпрепарира се на две съдово-нервни снопчета — дорзално (дигитално клонче на n. radialis + съответна артерия + 1–2 повърхностни вени) и воларно (радиалната воларна собствена дигитална артерия на II пръст с дорзалното клонче). Тази двойно-педикулирана конструкция е една от най-надеждните възможности за реконструкция на палеца със запазена сетивност.
+
+</div>
+</details>
+
+<details>
+<summary>Метод на Красовитов за реплантация на девитализирана кожа</summary>
+<div class="ts-body">
+
+Класическият метод на М. В. Красовитов (Кубан, 30-те години на ХХ в.) за реплантация на девитализирани или напълно откъснати кожни ламба от ръката, предмишницата или цял крайник при тежки авулзионни травми и елефантиаза остава ценна и пестелива алтернатива на свободното кожно трансплантиране. След съответна механична дезинфекция цялата подкожна тъкан се изрязва с остър скалпел, ножица или бръснач — за по-големи участъци се използва нож на Хъмби или дерматом, като кожата се поставя обърната върху барабана и с ножа се изрязва подкожието заедно с част от дермата. Полученият тънък пълнодебелинен присадък се надупчва (perforation) за избягване на серозна колекция под него и се реплантира върху раневата повърхност на същия пациент.
+
+Методът е приложим при тежки елефантиази (изрязване на цялата подкожна фасция и реплантация на собствената кожа), при авулзионна травма на ръката с напълно откъсната, но запазена като цяло кожа („дегловинг") и при ревизионна хирургия на пациенти без достатъчен донорен потенциал. Прихващането следва принципите на свободното пълнодебелинно трансплантиране, но има предимството да се връща собствената кожа на пациента — с по-добро функционално и сетивно възстановяване в дългосрочен план.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Метод на Красовитов — важна стратегия при дегловинг на ръката: цялата откъсната, но запазена кожа се обезмастнява до пълнодебелинен присадък с нож на Хъмби или дерматом, надупчва се и се реплантира.</li>
+    <li>Алтернативата (свободна трансплантация от далечен донор) изисква жертване на нова кожа и дава по-малко функционално възстановяване в стратегическите за ръката зони.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Контрактура на Dupuytren — оперативно лечение</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/dupuytren.jpg" data-figure-alt="Контрактура на Dupuytren" aria-label="Увеличи">
@@ -478,303 +737,335 @@ Z-пластиката се използва при освобождаване �
   </figcaption>
 </figure>
 
+Класификацията на Матев (1962) разпределя контрактурата на Dupuytren в четири степени: **0** — подкожен възел без флексионна контрактура; **I** — във флексионна контрактура е само основната фаланга (MCP); **II** — флексионната контрактура засяга MCP и PIP; **III** — в контрактура са и трите стави, обикновено с компенсаторна DIP-хиперекстензия.
 
-Класификацията на Матев (1962) разпределя контрактурата на Dupuytren в четири степени:
+Кожните разрези за оперативно лечение се избират според локализацията и тежестта: разрез по McIndoe (зиг-заг по гънките на дланта и пръста), по Limberg (с включване на Z-пластики по контрактурните бридове), по Karfik, по Burian, по Брянцева и Матев (включително с подкопаване на дисталната дланна гънка за щадяща ексцизия).
 
-•   0 степен — наличие на подкожен възел без флексионна контрактура на пръстите.
-•   I степен — във флексионна контрактура е само основната фаланга (MCP).
-•   II степен — флексионната контрактура засяга MCP и PIP ставите.
-•   III степен — в контрактура се намират и трите стави на пръстите, обикновено DIP в хиперекстензия (компенсаторно).
+**Частична ексцизия на palmar fascia (стандартна техника).** След разрез по линията на ръбците и зиг-заг удължения по гънките двата дигитални палмарни съдово-нервни снопа се екартират встрани от флексорната вагина. Дебелият, разсечен напречно апоневротичен брид се подхваща на инструмент и се отпрепарира внимателно, прекъсвайки фиброзните крачета за метакарпали, основната фаланга, сухожилното влагалище и кожата. Изрязване на апоневрозата проксимално от средата на дланта и дистално от основата на средната фаланга не е необходимо. Напречните фибри на апоневрозата в дисталната половина на дланта могат да не се ексцизират; мастната тъкан в областта на MCP ставите по-добре да се запази. След отстраняване на изменената част на апоневрозата кръвоспиращата маншета се отпуска; хемостаза с микрокоагулатор. Кожата се зашива; умерена компресивна превръзка с дорзална гипсова шина за 2–3 дни при функционална дорзифлексия на китката. Активни движения на пръстите още на следващия ден.
 
-Кожните разрези за оперативно лечение се избират според локализацията и тежестта: разрез по Mclndoe (зиг-заг по гънките на дланта и пръста), по Limberg (с включване на Z-пластики по контрактурните бридове), по Karfik, по Burian, по Брянцева и Матев (включително с подкопаване на дисталната дланна гънка за щадяща ексцизия).
+**Open-palm техника по McCash.** Разработена за лечение на по-тежки контрактури с превенция на хематом и сраствания. Изменената апоневроза по дланта и пръстите се изрязва през разрези по естествените напречни гънки. Дефектите по пръстите се закриват с директен шев; кожният дефект в областта на дисталната дланна гънка се оставя открит. Раната се третира с ежеседмични превръзки; през нощта се поставя телена шиничка за поддържане на пръстите в екстензия. Дефектът заздравява вторично с линеарен ръбец на нивото на дисталната дланна гънка за 4–6 седмици, без хематом или хроничен оток.
 
-## Частична ексцизия на palmar fascia (стандартна техника)
+**Двуетапна ексцизия по Матев–Караганчева.** Алтернатива при тежки флексионни контрактури от III степен, при които алтернативата е ампутация на пръста. Първият етап включва ексцизия на изменената апоневроза и подкожно прокарване на телен скелет, който поддържа MCP и PIP в постепенна екстензия; вторият — окончателна корекция и кожна пластика с дебел свободен присадък или зиг-заг затваряне.
 
-Частичното премахване на дланната апоневроза е стандартът, тъй като широкото разкритие за тотална ексцизия се асоциира със значително по-висок риск от усложнения и не е необходимо. След разрез по линията на ръбците и зиг-заг удължения по гънките, двата дигитални палмарни съдово-нервни снопа се екартират встрани от флексорната вагина. Дебелият, разсечен напречно апоневротичен брид се подхваща на инструмент и се отпрепарира внимателно, прекъсвайки фиброзните крачета за metacarpalia, основната фаланга, сухожилното влагалище и кожата. Изрязване на апоневрозата проксимално от средата на дланта и дистално от основата на средната фаланга не е необходимо. Напречните фибри на апоневрозата в дисталната половина на дланта могат да не се ексцизират; мастната тъкан в областта на MCP ставите по-добре да се запази.
+Рецидивите след оперативно лечение, според J. I. P. James и Hueston, се дължат предимно на ръбцово изменената кожа над фиброзиралата разтеглица; затова Hueston препоръчва тя да не се запазва, а да се изрязва заедно с апоневрозата и да се заменя с дебел свободен кожен присадък (dermofasciectomy).
 
-След отстраняване на изменената част на апоневрозата кръвоспиращата маншета се отпуска; хемостаза с микрокоагулатор. Кожата се зашива и се поставя умерена компресивна превръзка с дорзална гипсова шина за 2–3 дни при функционална дорзифлексия на китката. Активни движения на пръстите още на следващия ден.
+</div>
+</details>
 
-## Техника на „open palm" по McCash и двуетапна ексцизия по Матев–Караганчева
-
-Техниката на „open palm" по C. McCash е разработена за лечение на по-тежки контрактури с превенция на хематом и сраствания. Изменената апоневроза по дланта и пръстите се изрязва през разрези по естествените напречни гънки. Дефектите по пръстите се закриват с директен шев; кожният дефект в областта на дисталната дланна гънка се оставя открит. Раната се третира с ежеседмични превръзки; през нощта се поставя телена шиничка за поддържане на пръстите в екстензия. Дефектът заздравява вторично с линеарен ръбец на нивото на дисталната дланна гънка за 4–6 седмици, без хематом или хроничен оток.
-
-Двуетапната ексцизия на апоневрозата по Матев–Караганчева е алтернатива при тежки флексионни контрактури от III степен, при които алтернативата е ампутация на пръста. Първият етап включва ексцизия на изменената апоневроза и подкожно прокарване на телен скелет, който поддържа MCP и PIP в постепенна екстензия; вторият — окончателна корекция и кожна пластика с дебел свободен присадък или зиг-заг затваряне. Рецидивите след оперативно лечение, според J. I. P. James и Hueston, се дължат предимно на ръбцово изменената кожа над фиброзиралата разтеглица; затова Hueston препоръчва тя да не се запазва, а да се изрязва заедно с апоневрозата и да се заменя с дебел свободен кожен присадък (dermofasciectomy).
-
-
-
-Освобождаването на карпалния тунел е най-честата оперативна процедура на ръката. Достъпът използва надлъжен разрез в дланта, успоредно на thenar гънката, на около 2-3 cm дистално от дисталната гънка на китката. Разрезът е по хода на радиалния ръб на безименния пръст, като се избягват дистално superficial palmar arch и проксимално палмарният кожен клон на nervus medianus (пресичащ гънката на китката по радиалната страна на сухожилието на palmaris longus).
-
-Palmar fascia се инцизира и ligamentum carpi transversum се идентифицира и напълно разсича. Nervus medianus се идентифицира и защитава. Освобождаването продължава проксимално и дистално до пълно разсичане на лигамента.
-
-Процедурата може да бъде извършена и ендоскопски чрез малък проксимален разрез и ендоскопско ножче, с намалена следоперативна болка, но сходни дългосрочни резултати.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Разрезът при освобождаване на карпалния тунел се поставя по хода на радиалния ръб на безименния пръст и на 2-3 cm дистално от гънката на китката — твърде радиално рискува палмарния кожен клон на nervus medianus (пресичащ гънката по радиалната страна на palmaris longus); твърде дистално, superficial palmar arch. Никога не пресичайте гънката на китката надлъжно; при нужда от удължаване, използвайте Bruner.</p>
-</aside>
-
-## Освобождаване при стенозиращ флексорен тендосиновит (trigger finger)
-
-Освобождаването на блокажа A1 се извършва чрез малък напречен или коси разрез в дисталната дланна гънка, над MCP ставата на засегнатия пръст. Невроваскуларните снопчета (радиален и улнарен) се идентифицират и защитават. Блокажът A1 се идентифицира и надлъжно разсича, като се внимава за запазване на блокажа A2 (започващ непосредствено дистално от A1).
-
-## Рефиксация при mallet finger
-
-Оперативното лечение при mallet finger използва дорзален разрез над DIP ставата с опции за фиксация с K-тел, рефиксация с костна котва или tension band остеосинтеза в зависимост от фрактурния модел.
-
-## Реконструкция при boutonnière деформация
-
-Реконструкцията на boutonnière деформация използва срединен дорзален разрез над PIP ставата с различни техники за реконструкция на central slip и репозициониране на lateral bands (по Curtis, Matev или други техники).
-
-## Рефиксация при jersey finger
-
-Jersey finger (авулзия на FDP от дисталната фаланга) се достига чрез зигзагов разрез по Bruner по волярния пръст и дланта, с намиране и изваждане на ретрахираното сухожилие и реинсерция към дисталната фаланга с костна котва или трансосеален шев.
-
-## Рефиксация при skier's thumb (разкъсване на UCL)
-
-Реконструкцията на ulnar collateral ligament на MCP ставата на палеца използва дорзоулнарен разрез над MCP ставата на палеца с идентификация на дорзалния сетивен клон на nervus radialis (пресичащ оперативното поле и изложен на риск от увреждане и неврома), adductor aponeurosis и ulnar collateral ligament. Лезията на Stener (разместване на авулзирания лигамент повърхностно от adductor aponeurosis) се идентифицира и лигаментът се реконструира или реинсерира към костта.
-
-## Първичен сухожилен шев на флексорите
-
-Първичният шев на флексорното сухожилие в първите 24 часа след порезно нараняване — а при спокойна рана и до 3 дни (отложен първичен шев) — е изборът, когато съществуват хирург с опит, адекватен инструментариум, шевен материал и условията за защитено следоперативно движение. Анестезията е обща или аксиларен блок; екстензорните увреди могат да бъдат под местна. Маневрата за извеждане на дисталния отрязък е свиване на пръста; проксималният — „изцеждане" на предмишничната мускулатура в дистална посока и свиване на китката. Често централният сухожилен отрязък трябва да се намери през нов разрез по-проксимално (никога не се подхваща сухожилието на сляпо с инструмент — това причинява необратими увреди).
-
-Стандартната конфигурация е основен (core) шев с 4-нишкова техника по модифицирания Kessler с 3/0 или 4/0 синтетичен моноюгуляр или плетен материал, прибавен с непрекъснат епитендинозен шев 6/0 пролен по обиколката. Тази комбинация осигурява достатъчна якост за ранно защитено активно движение по протоколите на Strickland или модифициран Duran. По-съвременните 6- и 8-нишкови конфигурации (Cruciate, Adelaide, Strickland-Tang) осигуряват още по-висока якост и позволяват по-агресивна рехабилитация при опитни хирурзи. Пулиите A2 и A4 се запазват задължително; при необходимост от прокарване на сухожилието през A2 — отваря се прозорец във вентилаторите C1 или C3.
-
-За протекция на сухожилния шев на дълбокия флексор се поставя презнокътен (transungual) защитен конец, фиксиран към кожата в проксималния край на дланта, който не позволява на пръста да се разгъне отвъд физиологичната флексия. Имобилизация в дорзална гипсова шина с китка в лека флексия (10–20°), MCP в 50–70° флексия и IP в почти пълна екстензия за 3 седмици.
-
-При увреда в територията на основната фаланга (зона II) хирургическата деликатност е максимална: в тази зона се шие обикновено само дълбокият сгъвач, повърхностният често се резецира (резекцията намалява обема в обвивката и риска от срастване). Когато липсват подходящите условия, най-добре е да се зашие само кожата, да се постави гипсова шина и болният да се изпрати веднага в специализирано лечебно заведение.
-
-## Възстановителни операции на сухожилията — мостовидна пластика и сухожилен присадък
-
-Когато прерязаното сухожилие не се възстанови първично, настъпват ретракция на проксималния отрязък и ръбцови изменения, които правят директен шев невъзможен. Възстановяването тогава се извършва чрез мостовидна сухожилна пластика със свободен присадък, най-често от m. palmaris longus (12–13 cm при възрастни, по-къс при деца) или при липсата му — от един от дългите екстензори на пръстите. Присадъкът се взема през 2–3 малки напречни разреза по предмишницата с помощта на сухожилен сепаратор; обилен слой паратенон не е необходим, но тънък пласт плъзгаща се обвивка над присадъка трябва да се запази.
-
-При мостовидна пластика над флексорната обвивка краищата се алинират, мускулът се поставя при леко увеличено напрежение и шевът се прави преплетен (Pulvertaft) с 3/0–4/0 коприна. Дисталният край се фиксира със снимаем телен шев по Bunnell през нокътя — техника, която осигурява стабилно срастване и възможност за късно отстраняване без повторна операция. Имобилизацията продължава 3 седмици; снимаемият телен шев — 25 дни; активни движения от деня след сваляне на шината.
-
-## Двуетапна сухожилна пластика на сгъвачите по Панева–Холевич
-
-Българската двуетапна сухожилна пластика на сгъвачите по Панева–Холевич е една от иконичните процедури на българската ръчна хирургия. Преимуществото на този метод е осъществяването на предварително спокойно прирастване на присадъка към дълбокия сгъвач на нивото на дланта и едва вторият етап представлява транспозиция на педикуларния присадък към дисталната фаланга, в среда без сраствания и при идеално напрежение.
-
-Първи етап (съвпада с първичната обработка при пресни наранявания, или като самостоятелна процедура при застарели увреди). Анестезия — местна или аксиларен блок. С малък ламбовиден разрез по проксималната част на дланта се откриват флексорните сухожилия на нивото на m. lumbricalis. С ножче за бръснене се прерязват на едно ниво двата сгъвача. Паратенонът на повърхностния флексор се отпрепарира надлъжно на 0.5 cm и оголената част на сухожилието се отстранява. Адаптират се краищата на двата отрязъка така, че сухожилието на дълбокия флексор лежи на повърхностния. Шевът е преплетен на нивото на проксималните инсерционни влакна на m. lumbricalis с 3/0 и 4/0 коприна. Чуканчетата на присадъка и сгъвача се подрязват с ножче за бръснене и се заравят в m. lumbricalis с по един 5/0 или 6/0. Зашива се дланната кожа.
-
-Втори етап (един месец след първата операция). Анестезия — обща. Сухожилието на повърхностния сгъвач се прекъсва в мускулната му част; мускулното коремче се зашива към дълбокия флексор. Присадъкът се обръща на 180° в дистална посока и леко се затегля, за да се провери здравината на анастомозата и контрактилността на дълбокия флексор. Костно-фиброзният канал на пръста се отваря по цялото му протежение и предната стена се изрязва, като се запазват само 2 ануларни връзки (A2 на основната и A4 на средната фаланга). Ако няма ръбци по дланта, се оставя и трета връзка на нивото на главичката на metacarpale. Краят на обърнатия присадък се прекарва под ануларните връзки и се фиксира към дисталната фаланга със снимаем телен шев по Pulvertaft. Дължината на трансплантата трябва да бъде такава, че пръстът да остане във физиологично положение.
-
-Имобилизация в дорзална гипсова шина 3 седмици при леко сгъната китка и физиологична флексия на пръста. На 5-ия ден се разрешават леки движения под контрол на оператора. Телените шевове се свалят на 25-ия ден; активна екстензия отвъд физиологичното положение — след 30-ия ден; силови движения — след 40-ия ден.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Иконичната двуетапна сухожилна пластика на сгъвачите по Панева–Холевич: първият етап интегрира присадък към проксималния отрязък на дълбокия сгъвач още в дланта (където средата е чиста и плъзгаща се), а вторият — един месец по-късно — обръща присадъка на 180° и го прокарва през предварително подготвен костно-фиброзен канал в зона II с минимални сраствания. Концептуалното предимство — изграждане на сухожилния път в две различни среди, всяка благоприятна за нея цел.</p>
-</aside>
-
-## Двуетапна пластика по Hunter–Панева (силиконова пръчица)
-
-При тежки ръбцови изменения във втора зона след многократни предишни намеси първият етап включва прокарване на силиконова пръчица (Hunter rod) през костно-фиброзния канал и стандартния първи етап на Панева с анастомоза между повърхностния и дълбокия сгъвач на нивото на дланта. След 3 месеца — формиране на псевдо-вагинален канал около пръчицата. Вторият етап разкрива повърхностния сгъвач на дисталната предмишница, прерязва го на нивото на мускулното коремче, отпрепарира го ретроградно до анастомозата и при сгънат пръст открива проксималния край на силиконовата пръчица. Педикулираният присадък се пришива към проксималния край на имплантата с здрав конец; през страничен разрез на нивото на дисталната фаланга се открива дисталният край и присадъкът се изтегля през новия канал, фиксирайки се със снимаем телен шев. Тази стратегия е особено ценна при ревизионни случаи и при дефицит на местни сухожилни ресурси.
-
-## Двуетапна пластика на дългия сгъвач на палеца по Панева
-
-Принципно сходна на пластиката на сгъвачите на пръстите. Първият етап анастомозира централните отрязъци на двата сгъвача (дълъг сгъвач на палеца + дълбок сгъвач на II пръст) на нивото на канала на китката, осигурявайки общ васкуларно подсилен мотор. Вторият етап мобилизира присадъка като педикулирано продължение на дълбокия сгъвач, прокарва го през костно-фиброзния канал на палеца (запазен поне един ануларен лигамент на основната фаланга) и го фиксира със снимаем телен шев към дисталната фаланга. Имобилизация за 1 седмица в умерена флексия; снимаемият шев — на 26-ия ден.
-
-## Тено-капсулодеза на DIP по Матев
-
-При застаряла увреда на дълбокия сгъвач, когато функционално възстановяване не идва в съображение, тено-капсулодезата по Матев фиксира дисталната фаланга в 20–25° стабилна флексия. Дисталната става се прониква с дъговиден разрез дорзално от съдово-нервния сноп. Дисталният край на дълбокия сгъвач се повдига на държателен конец със щадене на ануларния лигамент на средната фаланга. Изрязва се елипсовиден участък от воларната капсула (къс диаметър 3–4 mm) и тя се затваря на глухо с два перлонови шева при 30° флексия. Дисталният край на сгъвача се фиксира към ануларния лигамент или периоста на средната фаланга. Имобилизация 1 месец с левкопластова лента надлъж по дорзалната и палмарната повърхност. Резултатът от тенодезата без капсулодезата е непълен и нетраен — комбинацията е критична.
-
-## Възстановяване на екстензорите — boutonnière и mallet finger
+<details>
+<summary>Оперативно лечение на синдактилии</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/mallet-finger.svg" data-figure-alt="Механизъм на mallet finger" aria-label="Увеличи">
-    <img src="/img/anatomy-6/mallet-finger.svg" alt="Механизъм на mallet finger" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/syndactyly.jpg" data-figure-alt="Синдактилия преди корекция" aria-label="Увеличи">
+    <img src="/img/anatomy-6/syndactyly.jpg" alt="Синдактилия преди корекция" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Mallet finger (deformity на чукче) — отлепване на крайния екстензорен сегмент от дисталната фаланга, с или без авулсионен костен фрагмент. Класическото лечение е консервативно — Stack-сплинт в хиперекстензия на DIP за 6-8 седмици; оперативно е показано при костен фрагмент над 1/3 от ставната повърхност или волярна сублуксация на DIP, с реинсерция чрез pull-out шев или винт.</span>
-    <span class="md-figure-attribution"> · Davplast / Häggström, <a href="https://commons.wikimedia.org/wiki/File:Mallet_finger_mechanism.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+    <span class="md-figure-caption">Цялостна кожна синдактилия на III–IV пръст — типична индикация за оперативно лечение между 1,5 и 2-годишна възраст с дорзално трапецовидно ламбо за оформяне на нова комисура и пълнодебелинни кожни присадъци по страничните повърхности.</span>
+    <span class="md-figure-attribution"> · Kristoferb, <a href="https://commons.wikimedia.org/wiki/File:Syndactyly_type1_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-При boutonnière деформация (тройна контрактура, контрактура на Вайнщейн) с прекъсване на централната лента в зона III стандартните български техники са:
+Синдактилиите се срещат в три основни патогенетични форми — ембрионална, амниотична и синдактилия при генерализирани малформации и синдроми (Apert, Poland и др.). Според дълбочината на засягане се делят на кожна и кожно-костна (с поплътно срастване на кожата и засягане на костите, по-трудна за лечение). Според протежението — частична или цялостна; подвид на частичната е акросиндактилията със срастване само на върховете на пръстите. Оперативното лечение се извършва най-добре между 1,5 и 2 години, преди появата на ротационни деформации; при пълни синдактилии засягащи пръсти от различна дължина — последователно (първо разделят се най-различните по дължина двойки, за да се избегне сколиоза на по-късия пръст).
 
-Изрязване на междинния ръбец и вторичен шев — Ако ръбецът между двата края на централната лента е до 4–5 mm, той се изрязва и краищата се зашиват с 3 П-шева, един среден и два странични, с 4/0 коприна. Имобилизация 3 седмици при лека MCP-флексия и пълна IP-екстензия.
+Стандартната оперативна техника използва огледални S-образни разрези по дорзалната и палмарната страна на срасналите пръсти, така че конвекситетът от дорзалната страна да отговаря на конкавитет по палмарната, и обратното. Дорзалното трапецовидно ламбо (по Bauer, Tondra, Trusler, 1956) се отделя от основата на интердигиталната гънка и завъртя дистално за закриване на дъното на новата комисура; по палмарната страна също се скроява насрещно трапецовидно ламбо. След разделяне на пръстите страничните повърхности обикновено се покриват с дебели свободни кожни присадъци; при по-стегнатите форми се налага трансплантация и на средните, а понякога и на дисталните фаланги.
 
-Пластика по Fowler — Четири малки разреза. Присадък от m. palmaris longus се прекарва под периоста и инсерцията на централната лента за средната фаланга и след това подкожно, кръстосано по гърба на основната фаланга. Двата му края се фиксират към сухожилията на mm. interossei при напрежение, поддържащо средната фаланга в екстензия.
+При костните синдактилии се извършват надлъжни разсичания на сраснaлите фаланги, премахване на костни мостчета; при сраснaли хипопластични и деформирани фаланги или метакарпали понякога се жертва един от пръстите за подобряване функцията на останалите. Непълни синдактилии с готова комисура често се третират успешно само с местна пластика — размяна на насрещни триъгълни ламба (елементарна 60° фигура е достатъчна за корекция на commissura I, докато по-сложни комисури изискват серия от фигури).
 
-Транспозиция на страничните ленти по Матев — Една от страничните ленти се премества дистално и се превръща в нова централна лента към средната фаланга. При втория вариант (по-изразена деформация) другата лента се срязва напречно 1 cm дистално и проксималният й край се зашива за дисталния на преместената лента — постига се едновременно реконструкция на централната лента и удължаване на дисталната апоневроза.
+</div>
+</details>
 
-Понякога се налага срязване на воларната част на колатералните лигаменти на PIP за корекция на остатъчна флексионна контрактура. След сваляне на гипсовата шина се носи още 10 дни къса телена еластична шиничка, позволяваща свободни движения в DIP и ограничаваща флексията в PIP.
-
-При mallet finger (увреда в зона I, разкъсване на терминалния екстензор):
-
-Дубликатура на ръбеца по Розов — Дъговиден разрез дорзално над DIP. Ръбецът между двата края на разтеглицата се разсича косо в плоскост от дистална към проксимална посока. Двата отрязъка се подхващат на 4/0 коприна; дисталният се затегля проксимално, а проксималният — дистално, в хиперекстензия на крайната фаланга. Поставят се по два странични конеца. Имобилизация 4 седмици с воларна шиничка в лека PIP-флексия и DIP-хиперекстензия.
-
-Реинсерция на апоневрозата с шев на страничните части по Матев — За по-тежки случаи: целият проксимален край на разтеглицата се реинсерира към основата на дисталната фаланга със снимаем шев, след което латералните части се доближават и зашиват една към друга върху реинсерирания проксимален отрязък.
-
-Възстановяване по Панева–Холевич — Кос разрез на кожата над дорзалната разтеглица. Първи вариант — дефектът се премоства с присадък на краче от проксималния дял на апоневрозата, завъртян на 180°. Втори вариант — приближаване и зашиване на страничните части една към друга над дефекта.
-
-## Стенозиращ тендовагинит и хирургия на trigger finger/тригер палец
-
-Тендовагинитът на m. flexor pollicis longus (тригер палец) и на сгъвачите на пръстите (тригер пръст) при неуспех на консервативно лечение се освобождава хирургично. За тригер палец напречен разрез по палмарната гънка в основата на палеца (при две гънки — по проксималната); тъпо разтваряне на подкожието с москито клеме, изместване встрани на двата палмарни съдово-нервни снопа; A1-пулата се идентифицира и разрязва надлъжно. Отварянето на влагалището дистално трябва да задмине средата на основната фаланга, иначе при флексия сухожилието ще се повдигне и ще проминира под кожата (bowstringing с болка). Върху сухожилието не се интервенира, дори при задебеляване — освобождаването на канала е достатъчно.
-
-За тригер пръст — разрезът върви по дисталната дланна гънка в участъка на засегнатия пръст (за показалеца — по проксималната гънка). Кожата се подкопава остро и подвижно повече в дистална посока; кожните ръбове се екартират; флексорната вагина се открива; A1-пулата се срязва внимателно, със защита на съседните съдово-нервни снопчета.
-
-Болестта на de Quervain (стенозиращ тендовагинит на първия дорзален канал — m. abductor pollicis longus и m. extensor pollicis brevis) се освобождава през напречен или коси разрез по дорзо-радиалната страна на китката над първия канал. Под защита на радиалния сетивен нерв (n. radialis superficialis, който често има два-три клона, преминаващи над оперативното поле) се срязва малък участък от вагината и след това под прикритие на москито клеме тя се отваря изцяло. Важна е проверката дали m. extensor pollicis brevis не минава през отделен канал — налично при около 30–40% от случаите и причина за рецидиви, ако не се идентифицира.
-
-## Възстановяване на n. medianus и n. ulnaris при увреда на нивото на китката
-
-Прекъсването на n. medianus и n. ulnaris на нивото на китката е една от най-честите увреди на периферните нерви и почти винаги е множествена (с сухожилия и съдове). Анестезия — обща или аксиларен блок; обезкръвяваща маншета; увеличителни очила или операционен микроскоп.
-
-Първичен шев — Кожната рана се разширява байонетовидно. Последователност на възстановяване: артерия → сухожилия → нерв. Под увеличение се идентифицират еднородните снопчета в двата отрязъка на нерва и се насочват съответно. Поставят се 6–8 отделни шева с 6/0 коприна на епиневриума, или 3 епиневрални шева + по един периневрален шев на отделни периферни фасцикули. Имобилизация 3 седмици с дорзална гипсова шина при лека флексия на китката, функционална позиция на пръстите, 70–80° флексия на лакътя.
-
-При дефект до 4 cm — Може да се възстанови с директен шев след отпускане на напрежението. За n. ulnaris се прави вентрално изместване на нивото на лакътя пред медиалния епикондил, със стволовото му разкриване по цялото протежение на предмишницата — печелят се около 2 cm; със свиване на лакътя проксималният дял се измества с още толкова, и става възможен директен шев без напрежение.
-
-При дефект над 4 cm — Свободна нервна пластика. Използват се кабели от n. suralis (взет през стандартен заден разрез на крака). Дължината на присадъците трябва да бъде малко по-голяма от дефекта за пълна релаксация. При обширна увреда на двата нерва дефектът на n. medianus може да се премости с присадък от проксималния или дисталния дял на n. ulnaris.
-
-Имобилизация след свободна пластика 25 дни в гипсов ръкав: китка във флексия, пръсти във функционална позиция, лакът при шев на n. medianus в 80° флексия, а за n. ulnaris в 30–40° (по-голяма флексия в лакътя поставя n. ulnaris под напрежение).
-
-Възстановяване на дълбокия клон на n. ulnaris при увреда в канала на Guyon — Дъговиден разрез от дисталната гънка на китката до проксималната дланна гънка; отпрепариране на кожно-подкожно ламбо на радиална основа; повърхностните влакна на m. palmaris brevis се повдигат с ламбото, дълбоките се срязват надлъж. Непосредствено радиално от os pisiforme се прониква в дисталния улнарен канал; n. ulnaris се реперира с придружаващите го съдове. На това ниво нервът обикновено е разделен на повърхностен и дълбок клон. Дълбокият клон се проследява дистално и радиално сред влакната на m. flexor digiti minimi brevis и m. opponens digiti minimi около hamulus ossis hamati, докато се появи под дълбоките сгъвачи и върху mm. interossei. Често се налага частично прерязване на влакна на хипотенарните мускули близо до hamulus и retinaculum flexorum за достъп.
-
-## Шев на екстензорите по зони
-
-Шевът на екстензорни сухожилия използва дорзални разрези, съответстващи на зоната на увредата (зони I–VIII по Verdan/Kleinert). По-прост е от шева на флексорни сухожилия поради по-достъпното местоположение и по-малко ограничителната обвивка. В зона I — дубликатура по Розов или реинсерция със снимаем телен шев; зона II — преки шевове с 4-нишков core + епитендинозен; зона III — реконструкция на централната лента (Fowler, Матев); зона IV — преки шевове с щадящо отношение към юнктурите; зони V–VI — преки преплетени шевове с 3/0–4/0 коприна и ранна динамична рехабилитация по Norris.
-
-## Възстановителни операции на палеца
-
-Загубата на палеца с неговите 40% функционален принос за ръката изисква агресивни реконструктивни подходи. Класическата българска школа описва пълна йерархия от методи според нивото на ампутация и наличните локални ресурси:
-
-## Кожно-костна реконструкция по Николадони
-
-Класическата трicтапна процедура на C. Nicoladoni (1900) използва остро Филатово стебло от противоположната или едноименна страна на корема или гръдно-коремната област. Първият етап формира кожно-подкожно ламбо в съотношение дължина:ширина 1:1 (при ампутация на ниво MCP — ширина 8–9 cm), отпрепарирано с такава дебелина, че след оформяне на тръбата консистенцията съответства на тази на палеца. Дисталното разположение на хранещото краче дава по-жизнено стебло от проксималното (Матев, 1963). Дефектите на донорната област се покриват с разцепен дебел свободен трансплантат; стеблото се пришива към опреснения връх на ампутационния чукан без оголване на костта с „начупен" (Z-образен) шев за избягване на рингова констрикция; имобилизация с няколко шева на улнарната страна на дланта и предмишницата към тялото (тип Дезо).
-
-Вторият етап (биологична тренировка на 10–12-ия ден) използва мека червена клампа, която прищипва основата на тръбата с прогресивно нарастващо времетраене, докато не се установи достатъчно колатерално кръвоснабдяване от приемателния край. Когато тренировката показва увереност, основата се прерязва изцяло.
-
-Третият етап (10–15 дни след отделянето на стеблото) — остеопластика с автоприсадък от crista iliaca, tibia или ребро. Дължината на трансплантата при ампутация на нивото на MCP трябва да бъде такава, че да достигне до планираната дължина на новия палец (обикновено 4–6 cm). Фиксация в медуларния канал на остатъчната metacarpalna кост.
-
-## Реконструкция по Холевич с едно съседно и едно отдалечено ламбо
-
-Българската модификация на Холевич съчетава локално ламбо от дорзалната кожа на ампутационния чукан (3–4 cm дълго, ширина на целия чукан) — обърнато на 180°, става воларна кожа на формирания палец — с отдалечен абдоминален или гръдно-коремен ламбен покрив за оставащата дорзална повърхност. Двата източника осигуряват кожа с различна морфологична характеристика, която по-добре имитира природните взаимоотношения на дланна и дорзална кожа на палеца. Сетивността на воларната повърхност се възстановява поне частично от запазената инервация на дорзалното ламбо.
-
-## Реконструкция по Матев с две съседни ламба
-
-Алтернатива с две съседни кожни ламба от показалеца: едното (дорзалното, очувствено) покрива воло-улнарната страна на новия палец; другото (палмарното) — воло-радиалната страна. В същия етап се прави и костната пластика. Донорните участъци на показалеца се покриват с дебел свободен присадък. Сетивността е по-добра от тази при Николадони поради близкото съседство и съхранените сетивни клонове на n. radialis.
-
-## Удължаване на ампутационния чукан чрез постепенна дистракция по Матев
-
-Едно от най-елегантните решения на българската школа — дистракционен метод за възстановяване на палеца с използване на собствените тъкани на ампутационния чукан, без отдалечени ламба. Основното предимство е, че формираният палец се покрива със собствената кожа — с пълна сетивност и нормална морфология.
-
-Операцията се извършва в два периода. Дистракционният период: малка остеотомия на metacarpalna кост I през надлъжен разрез с щадящо запазване на периоста (срязва се надлъж на 1 cm и се повдига на близко разстояние без оголване на костта); неколкократна перфорация с тънък борер и пречупване с нежно длето. Поставя се малък външен дистракционен апарат на Матев. 4–5 дни по-късно, след стихване на оплакванията, се започва постепенно разтягане — 1–2 обиколки на ден на винтовете, удължаване от 1.5–2 mm дневно. Желаната дистракция (3–4 cm на metacarpalna кост, 2 cm на основната фаланга при микроапарат) се постига обикновено за 20–30 дни.
-
-Период на стабилизация: апаратът се стабилизира; контролни рентгенови снимки на всеки 15 дни до спонтанна консолидация. При забавена осификация междуфрагментното пространство се примостява със свободен кортикоспонгиозен присадък от crista iliaca. Резултатите остават стабилни в дългосрочен план (8 години и повече).
-
-## Полицизация
+<details>
+<summary>Реконструкция на палеца</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/pollicization.png" data-figure-alt="Полицизация на показалеца" aria-label="Увеличи">
     <img src="/img/anatomy-6/pollicization.png" alt="Полицизация на показалеца" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Принципна схема на полицизация по Buck-Gramcko: показалецът се завърта на 120–160° и се транспонира към основата на дланта на мястото на отсъстващия палец със запазване на собствените съдово-нервни снопчета; главата на метакарпалата става новата CMC-става.</span>
+    <span class="md-figure-caption">Принципна схема на полицизация по Buck-Gramcko: показалецът се завърта на 120–160° и се транспонира към основата на дланта на мястото на отсъстващия палец със запазване на собствените съдово-нервни снопчета; главата на метакарпала става новата CMC-става.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray427.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Полицизацията е преместването на някой от пръстите на ръката на мястото на ампутирания или липсващ палец със запазване на палмарните съдово-нервни снопчета. Различават се два варианта в зависимост от запазването на CMC-ставата:
+Загубата на палеца с неговите 40% функционален принос за ръката изисква агресивни реконструктивни подходи. Класическата българска школа описва пълна йерархия от методи според нивото на ампутация и наличните локални ресурси.
 
-При тотална аплазия или липса на цялия първи лъч — пръстът се премества заедно с част от своята metacarpalna кост, със запазване на трите стави; MCP-ставата приема функцията на CMC. При деца с аплазия на палеца техниката по Buck-Gramcko (1971) запазва от II metacarpalna кост проксимална зона за стабилизация и фиксира основата към II metacarpale. Това е най-сложната форма на полицизация и осигурява добра функция при ранна намеса (преди 3-годишна възраст).
+**Кожно-костна реконструкция по Николадони.** Класическата триетапна процедура на C. Nicoladoni (1900) използва остро Филатово стебло от противоположната или едноименна страна на корема или гръдно-коремната област. Първият етап формира кожно-подкожно ламбо в съотношение дължина:ширина 1:1 (при ампутация на ниво MCP — ширина 8–9 cm). Дисталното разположение на хранещото краче дава по-жизнено стебло от проксималното (Матев, 1963). Дефектите на донорната област се покриват с разцепен дебел свободен трансплантат; стеблото се пришива към опреснения връх на ампутационния чукан без оголване на костта. Вторият етап (биологична тренировка на 10–12-ия ден) използва мека червена клампа, която прищипва основата на тръбата с прогресивно нарастващо времетраене, докато се установи достатъчно колатерално кръвоснабдяване от приемателния край. Третият етап (10–15 дни след отделянето на стеблото) — остеопластика с автоприсадък от crista iliaca, tibia или ребро. Дължината на трансплантата при ампутация на нивото на MCP трябва да бъде такава, че да достигне до планираната дължина на новия палец (4–6 cm).
 
-При запазена CMC-става — пръстът се премества с част от проксималната фаланга; интерфалангеалните стави поемат функцията съответно на MCP и IP. Това е технически по-простата процедура и се прилага при изолирана травматична загуба на палеца.
+**Реконструкция по Холевич с едно съседно и едно отдалечено ламбо.** Българската модификация на Холевич съчетава локално ламбо от дорзалната кожа на ампутационния чукан (3–4 cm дълго, ширина на целия чукан) — обърнато на 180°, става воларна кожа на формирания палец — с отдалечен абдоминален или гръдно-коремен ламбен покрив за оставащата дорзална повърхност. Двата източника осигуряват кожа с различна морфологична характеристика, която по-добре имитира природните взаимоотношения на дланна и дорзална кожа на палеца.
 
-При полицизация мускулите на преместения пръст се преразпределят според нуждите на новия палец: повърхностният и дълбокият сгъвач се запазват без корекция (релативното им удължаване се компенсира от мускулните коремчета); улнарно разположеният m. interosseus поема функцията на привеждач; радиалният — на късия отвеждач. Двата екстензора на преместения показалец при вродена липса на палеца се скъсяват и превръщат в дълъг и къс екстензор на новия палец.
+**Реконструкция по Матев с две съседни ламба.** Алтернатива с две съседни кожни ламба от показалеца: едното (дорзалното, очувствено) покрива воло-улнарната страна на новия палец; другото (палмарното) — воло-радиалната страна. В същия етап се прави и костната пластика. Донорните участъци на показалеца се покриват с дебел свободен присадък. Сетивността е по-добра от тази при Николадони поради близкото съседство и съхранените сетивни клонове на n. radialis.
 
-## Фалангизация по Холевич
+**Удължаване на ампутационния чукан чрез постепенна дистракция по Матев.** Едно от най-елегантните решения на българската школа — дистракционен метод за възстановяване на палеца с използване на собствените тъкани на ампутационния чукан, без отдалечени ламба. Основното предимство е, че формираният палец се покрива със собствената кожа — с пълна сетивност и нормална морфология. Операцията се извършва в два периода. **Дистракционен период:** малка остеотомия на I metacarpalна кост през надлъжен разрез с щадящо запазване на периоста; неколкократна перфорация с тънък борер и пречупване с нежно длето. Поставя се малък външен дистракционен апарат на Матев. 4–5 дни по-късно се започва постепенно разтягане — 1–2 обиколки на ден на винтовете, удължаване от 1,5–2 mm дневно. Желаната дистракция (3–4 cm на metacarpal, 2 cm на основната фаланга) се постига обикновено за 20–30 дни. **Период на стабилизация:** апаратът се стабилизира; контролни рентгенови снимки на всеки 15 дни до спонтанна консолидация. При забавена осификация междуфрагментното пространство се примостява със свободен кортикоспонгиозен присадък.
 
-Алтернатива при ампутация на палеца на ниво по-проксимално от MCP. Първият метакарпал се мобилизира и удълбочава първата интердигитална гънка чрез отстраняване на II metacarpalna кост или с интерпониране на странични ротационни кожни ламба, удълбочаващи commissura I. Запазената частична функция (захващане между „палеца" и страничната ръка) е значителна, особено при едновременна загуба на показалеца.
+**Полицизация.** Преместването на някой от пръстите на ръката на мястото на ампутирания или липсващ палец със запазване на палмарните съдово-нервни снопчета. Различават се два варианта в зависимост от запазването на CMC-ставата. При тотална аплазия или липса на цялия първи лъч — пръстът се премества заедно с част от своя метакарпал, със запазване на трите стави; MCP-ставата приема функцията на CMC. При деца с аплазия на палеца техниката по Buck-Gramcko (1971) запазва от II metacarpalна кост проксимална зона за стабилизация и фиксира основата към II metacarpale. Това е най-сложната форма на полицизация и осигурява добра функция при ранна намеса (преди 3-годишна възраст). При запазена CMC-става — пръстът се премества с част от проксималната фаланга; интерфалангеалните стави поемат функцията съответно на MCP и IP. При полицизация мускулите на преместения пръст се преразпределят според нуждите на новия палец.
 
-## Ампутации на пръстите — принципи и техники
+**Фалангизация по Холевич.** Алтернатива при ампутация на палеца на ниво по-проксимално от MCP. Първият метакарпал се мобилизира и удълбочава първата интердигитална гънка чрез отстраняване на II metacarpalна кост или с интерпониране на странични ротационни кожни ламба, удълбочаващи commissura I. Запазената частична функция (захващане между „палеца" и страничната ръка) е значителна, особено при едновременна загуба на показалеца.
 
-Ампутацията на ниво на фалангите оформя две ламба — воларно и дорзално; воларното е малко по-дълго от дорзалното така, че оперативният ръбец да остане по върха на ампутационния чукан, в неносеща зона. Само при много свежи травми, в които компромисът „допълнителна кожна пластика" е приемлив, съотношението може да бъде различно.
+</div>
+</details>
 
-При напречни ампутации през дисталната фаланга с цел да се избегне скъсяване на пръста са показани местнопластически способи за закриване на раната по Kutler (странични триъгълни ламба, мобилизирани и доближени към върха) или по Atasoy-Kleinert (палмарно V-Y ламбо). За върхови ампутации на палеца Hueston препоръчва пластика с дорзално ламбо; Холевич — козметична операция със заплитане на дефекта чрез ретропозиция на нокътя на дорзално ламбо.
+<details>
+<summary>Ампутации на пръстите</summary>
+<div class="ts-body">
 
-При коси ампутации на II или V пръст през MCP-ставата може да се направи козметична ампутация по Adelmann — радиалната половина на главичката на metacarpale II (или улнарната за метакарпале V) се изсича косо и отстранява, за да се изглади латералният ръб на дланта; за сметка на леко стесняване на ширината й.
+Ампутацията на ниво на фалангите оформя две ламба — воларно и дорзално; воларното е малко по-дълго от дорзалното така, че оперативният ръбец да остане по върха на ампутационния чукан, в неносеща зона. При напречни ампутации през дисталната фаланга с цел да се избегне скъсяване на пръста са показани местнопластически способи за закриване на раната по Kutler (странични триъгълни ламба, мобилизирани и доближени към върха) или по Atasoy-Kleinert (палмарно V-Y ламбо). За върхови ампутации на палеца Hueston препоръчва пластика с дорзално ламбо; Холевич — козметична операция със заплитане на дефекта чрез ретропозиция на нокътя на дорзално ламбо.
 
-Косата метакарпална ампутация на пръстите по Желев–Обрейков е българска модификация за ампутация на цял лъч (включително metacarpalna кост): кожният разрез върви надлъж по гърба на ръката и опасва основата на пръста; разкрива се metacarpalna кост и с фреза се прави коса остеотомия от основата до главичката. За metacarpalna кост II посоката на среза е от проксимално и радиално към дистално и улнарно; за останалите — от проксимално и улнарно към дистално и радиално. Останалата част от метакарпалната кост се изважда; пръстите се сближават с моделирана дланна гънка, която приблизително възстановява нормалния външен вид на ръката.
+При коси ампутации на II или V пръст през MCP-ставата може да се направи козметична ампутация по Adelmann — радиалната половина на главичката на metacarpale II (или улнарната за метакарпале V) се изсича косо и отстранява, за да се изглади латералният ръб на дланта.
 
-## Артродеза на интерфалангеалните и CMC ставите на палеца
+**Косата метакарпална ампутация по Желев–Обрейков** — българска модификация за ампутация на цял лъч (включително метакарпал): кожният разрез върви надлъж по гърба на ръката и опасва основата на пръста; разкрива се metacarpalна кост и с фреза се прави коса остеотомия от основата до главичката. За II metacarpal посоката на среза е от проксимално и радиално към дистално и улнарно; за останалите — от проксимално и улнарно към дистално и радиално. Останалата част от метакарпалната кост се изважда; пръстите се сближават с моделирана дланна гънка, която приблизително възстановява нормалния външен вид на ръката.
+
+</div>
+</details>
+
+<details>
+<summary>Артродези на IP, MCP и CMC на палеца</summary>
+<div class="ts-body">
 
 Артродезата на DIP и PIP при увреди, които не подлежат на функционално възстановяване, се извършва при 20–30° флексия с надлъжно поставени Kirschner-овски игли или компресионен винт от средната фаланга. Запазва се отсрещният колатерален лигамент; кортикалният слой се перфорира множествено за стимулация на сливането. Алтернативни системи: плака на Панева, плака на Тричкова, скоби на Попова и Янков, компресионен винт със сплескана главичка на Матев–Добрев, костен присадък от crista iliaca по Moberg.
 
-Артродезата на CMC-ставата на палеца при болезнено зле зараснало счупване на Bennett или ризартроза се фиксира при 15–20° радиална абдукция спрямо metacarpale II и 30–35° палмарна абдукция, отчетени на рентгенови снимки. Радиална абдукция над 20° води до неприятно ограничение на аддукцията; палмарна абдукция над 35° редуцира съществено опозицията. Фиксация с компресионен винт или с две Kirschner-овски игли. При хабитуално изкълчване на CMC палеца по Панева–Холевич се използва сухожилен присадък, прокаран през костни отвори в основата на metacarpale I и фиксиран към тенарната гънка с копче — динамична стабилизация без скованост.
+Артродезата на CMC-ставата на палеца при болезнено зле зараснало счупване на Bennett или ризартроза се фиксира при 15–20° радиална абдукция спрямо metacarpale II и 30–35° палмарна абдукция, отчетени на рентгенови снимки. Радиална абдукция над 20° води до неприятно ограничение на аддукцията; палмарна абдукция над 35° редуцира съществено опозицията. Фиксация с компресионен винт или с две Kirschner-овски игли. При хабитуално изкълчване на CMC палеца **по Панева–Холевич** се използва сухожилен присадък, прокаран през костни отвори в основата на metacarpale I и фиксиран към тенарната гънка с копче — динамична стабилизация без скованост.
 
-## Капсулотомия и алоартропластика при контрактури и ревматоиден артрит
+</div>
+</details>
+
+<details>
+<summary>Капсулотомия и алоартропластика при ревматоиден артрит</summary>
+<div class="ts-body">
 
 Капсулотомията на PIP при флексионна контрактура: дорзално-страничен достъп с два разреза медиално и латерално от екстензорното сухожилие. Надлъж се срязва проксималният край на дорзалната разтеглица; колатералните лигаменти се прерязват; ако флексионната контрактура не отпусне, се пререзва и напречно палмарната капсула. Запазват се лигаментите на Landsmeer за стабилност на ставата.
 
-Алоартропластиката с силиконова ендопротеза по Swanson е стандартът при ревматоиден артрит на MCP- и PIP-ставите. Дорзален разрез до страни от екстензорното сухожилие; разтеглицата се срязва надлъж; костните краища се подрязват напречно на 5–6 mm; медуларните канали се отварят с шило и електроборер до приемане на стеблата. Запазва се инсерцията на екстензора и колатералните лигаменти. Българската модификация на Якубовски има пръстеновидно задебелени стебла за по-добро фиксиране в каналите. При ревматоиден артрит на четирите пръста алоартропластиката се прави в един сеанс с напречен разрез на нивото на шийките на metacarpalia. Резултатът — възстановяване на 1/3 до 2/3 от нормалния обем движения.
+Алоартропластиката с силиконова ендопротеза по Swanson е стандартът при ревматоиден артрит на MCP- и PIP-ставите. Дорзален разрез до страни от екстензорното сухожилие; разтеглицата се срязва надлъж; костните краища се подрязват напречно на 5–6 mm; медуларните канали се отварят с шило и електроборер до приемане на стеблата. Запазва се инсерцията на екстензора и колатералните лигаменти. **Българската модификация на Якубовски** има пръстеновидно задебелени стебла за по-добро фиксиране в каналите. При ревматоиден артрит на четирите пръста алоартропластиката се прави в един сеанс с напречен разрез на нивото на шийките на метакарпалите. Резултатът — възстановяване на 1/3 до 2/3 от нормалния обем движения.
 
-## Оперативно лечение на спастичната ръка
+</div>
+</details>
 
-При спастична хемиплегия с ригидна свита ръка хирургическата корекция се прилага при коефициент на интелигентност поне 50 и достатъчно сътрудничество за следоперативна рехабилитация. Раменната става при горен крайник с церебрална парализа обикновено има волеви движения и не изисква корекция; при флексионна контрактура на лакътя — удължаване на сухожилието на m. biceps brachii.
+<details>
+<summary>Спастична ръка — корекция</summary>
+<div class="ts-body">
 
-Превръщане на m. pronator teres в супинатор — Линеен разрез по воло-радиалната страна на предмишницата в средната й трета. Прониква се между m. brachioradialis (екартиран латерално) и флексорната група. Внимание за a. radialis и повърхностния клон на n. radialis. M. pronator teres се удължава Z-образно: средният разрез започва от костта и върви проксимално по сухожилната лента, разделяйки я на две еднакви половини. В участъка на инсерцията радиусът се оголва супрапериостално, като се изрязва част от membrana interossea. Дисталният край на сухожилието, останал свързан с костта, се прекарва с игла на Дешан или телена бримка около и под radius (от латерално към медиално) и след това се зашива здраво към проксималния дял на мускула. Този маневър превръща пронаторния вектор в супинаторен.
+При спастична хемиплегия с ригидна свита ръка хирургическата корекция се прилага при коефициент на интелигентност поне 50 и достатъчно сътрудничество за следоперативна рехабилитация. При флексионна контрактура на лакътя — Z-удължаване на сухожилието на m. biceps brachii.
 
-Миотомия на пронаторите — Когато пронаторната контрактура отпуска при пасивна тестова супинация на ниво на дисталната трета на предмишницата, ангажиран е предимно m. pronator teres; ако не отпуска — и m. pronator quadratus. Тогава се прави миотомия и на двата мускула: m. pronator teres през радиален разрез в средната трета; m. pronator quadratus през дъговиден разрез по сухожилието на m. flexor carpi ulnaris в дисталната трета, със защита на n. ulnaris.
+**Превръщане на m. pronator teres в супинатор.** Линеен разрез по воло-радиалната страна на предмишницата в средната ѝ трета. Прониква се между m. brachioradialis (екартиран латерално) и флексорната група; внимание за a. radialis и повърхностния клон на n. radialis. M. pronator teres се удължава Z-образно; в участъка на инсерцията радиусът се оголва супрапериостално, като се изрязва част от membrana interossea. Дисталният край на сухожилието, останал свързан с костта, се прекарва с игла на Дешан около и под radius (от латерално към медиално) и след това се зашива здраво към проксималния дял на мускула. Маневърът превръща пронаторния вектор в супинаторен.
 
-Проксимална дезинсерция на флексорите (по принципа на Page–Scaglietti–Inglis) — Най-физиологичният начин за корекция на флексионна контрактура на пръстите и китката. Дисталното изместване на цялата мускулна маса в блок запазва физиологичното съотношение между отделните мускули и групи. Прави се срединен разрез на медиалния епикондил; групата на флексорите се дезинсерира с тънък периост и се освобождава дистално, докато при пълна екстензия на пръстите и китката се избере новата дистална инсерция. Алтернативно — Z-удължаване само в мускулно-сухожилната част на флексорите.
+**Миотомия на пронаторите.** Когато пронаторната контрактура отпуска при пасивна тестова супинация на ниво на дисталната трета на предмишницата, ангажиран е предимно m. pronator teres; ако не отпуска — и m. pronator quadratus. Тогава се прави миотомия и на двата мускула.
 
-## Динамична корекция на спастичната флексо-аддукторна контрактура на палеца по Матев
+**Проксимална дезинсерция на флексорите (Page–Scaglietti–Inglis).** Най-физиологичният начин за корекция на флексионна контрактура на пръстите и китката. Дисталното изместване на цялата мускулна маса в блок запазва физиологичното съотношение между отделните мускули. Срединен разрез на медиалния епикондил; групата на флексорите се дезинсерира с тънък периост и се освобождава дистално, докато при пълна екстензия на пръстите и китката се избере новата дистална инсерция. Алтернативно — Z-удължаване само в мускулно-сухожилната част на флексорите.
 
-Класическата българска техника на Матев („thumb-in-palm" корекция) разрешава палеца от спастичния захват в дланта. Извършва се в три стъпки:
+**Динамична корекция на спастичния „thumb-in-palm" по Матев** разрешава палеца от спастичния захват в дланта. Извършва се в три стъпки:
 
 а) Удължаване на m. flexor pollicis longus в мускулно-сухожилната област — изрязва се сегмент от сухожилната лента в мускулното коремче и сухожилието се изтегля в дистална посока, оставяйки свързано с мускулното тяло; поставя се подсигурителен шев. При по-леко изразен спастицитет е достатъчно само изрязване на сегмент без редресация.
 
-б) Изместване на тенарните мускули в дистална посока — Кожен разрез по гънката в основата на тенара. Сухожилията на сгъвачите със съдово-нервните снопчета се екартират в пакет улнарно. Тенарните мускули се разкриват; под прикритие на москито клеме или малка сонда се прерязват с ножичка инсерциите им към os scaphoideum и os trapezium, без увреда на инервацията и кръвоснабдяването. Тенарната маса се измества дистално, докато се избегне аддукцията.
+б) Изместване на тенарните мускули в дистална посока — Кожен разрез по гънката в основата на тенара. Сухожилията на сгъвачите със съдово-нервните снопчета се екартират в пакет улнарно. Тенарните мускули се разкриват; под прикритие на москито клеме се прерязват с ножичка инсерциите им към os scaphoideum и os trapezium, без увреда на инервацията и кръвоснабдяването. Тенарната маса се измества дистално, докато се избегне аддукцията.
 
-в) Усилване на m. abductor pollicis longus с мускулна транспозиция (при нужда) — Скъсяване на m. abductor pollicis longus и m. extensor pollicis brevis чрез дубликатура (1–1.5 cm) или транспозиция на m. extensor pollicis brevis за усилване на функцията. Понякога се добавя пренос на m. extensor carpi radialis longus или sublimus на безимения пръст по Bunnell (Bunnell „opponensplasty") за активна опозиция.
+в) Усилване на m. abductor pollicis longus с мускулна транспозиция (при нужда) — скъсяване на APL и EPB чрез дубликатура (1–1,5 cm) или транспозиция на EPB за усилване на функцията. Понякога се добавя пренос на ECRL или sublimus на безимения пръст по Bunnell („opponensplasty") за активна опозиция.
 
-След добре извършена намеса палецът заема умерена радиална абдукция, изведен от дланта заедно с metacarpalna кост, а MCP и IP стоят във физиологична флексия. Имобилизация 25 дни.
+След добре извършена намеса палецът заема умерена радиална абдукция, изведен от дланта заедно с метакарпала, а MCP и IP стоят във физиологична флексия. Имобилизация 25 дни.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Триетапната динамична корекция на спастичния „thumb-in-palm" по Матев: 1) удължаване на m. flexor pollicis longus (отслабва вътрешната флексия), 2) дезинсерция и изместване на тенарната мускулатура дистално без увреда на инервацията (отслабва аддукторно-опонентната тяга), 3) усилване на m. abductor pollicis longus с мускулна транспозиция (възстановява активна абдукция). Концептуалната последователност — отслабване на спастичните вектори преди усилване на антагонистите — е универсален принцип в спастичната хирургия на ръката.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Триетапната корекция на „thumb-in-palm" по Матев: 1) удължаване на FPL (отслабва вътрешната флексия), 2) дезинсерция и дистална транспозиция на тенарната мускулатура (отслабва аддукторно-опонентната тяга), 3) усилване на APL (възстановява активна абдукция).</li>
+    <li>Принципът — отслабване на спастичните вектори преди усилване на антагонистите — е универсален в спастичната хирургия на ръката.</li>
+  </ul>
 </aside>
 
-## Операции върху костно-ставния апарат на китката
+</div>
+</details>
+
+<details>
+<summary>Костно-ставен апарат на китката</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/scaphoid-fracture.png" data-figure-alt="Фрактура на ладиевидна кост" aria-label="Увеличи">
     <img src="/img/anatomy-6/scaphoid-fracture.png" alt="Фрактура на ладиевидна кост" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Фрактура на ладиевидна кост (os scaphoideum) в проксимална трета: висок риск от аваскуларна некроза на проксималния полюс поради ретроградното кръвоснабдяване. Класическите оперативни опции включват Herbert-винт по Matti-Russe с гарвански кост от os ulnaris/iliacum при псевдоартроза, костна пластика с vascularized graft (1,2 intercompartmental supraretinacular artery flap по Zaidemberg) при некроза, и Watson-Jones „SLAC wrist" реконструкция при напреднала колапсна деформация.</span>
+    <span class="md-figure-caption">Фрактура на ладиевидна кост (os scaphoideum) в проксимална трета: висок риск от аваскуларна некроза на проксималния полюс поради ретроградното кръвоснабдяване. Класическите оперативни опции включват Herbert-винт, Matti-Russe костна пластика при псевдоартроза и vascularized graft при некроза.</span>
     <span class="md-figure-attribution"> · Iiibalesiii, <a href="https://commons.wikimedia.org/wiki/File:Scaphoid_Fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
 При остеоартрозни изменения в латералния отдел на радио-карпалната става с изшипяване на стилоидния израстък — резекция на processus styloideus radii по Barnard-Stubbins. С-образен разрез по радиалната страна на китката с щадене на сетивните клонове на n. radialis; стилоидният израстък се изрязва с осцилираща пила, с което се освобождава радиалната страна на os scaphoideum и се намалява болката при радиално отклонение.
 
-Несрасланата ладиевидна кост (псевдоартроза на os scaphoideum) — Компресионна остеосинтеза с Herbert-Whipple или AO-винт. Достъп аналогичен на предходния, удължен дистално близо до основата на metacarpale I; отстранява се върховата част на стилоидния израстък. Винтът е с дължина 2–2.5 cm, с резбова част 4–5 mm; винтът е 2–3 mm по-къс от дългия диаметър на костицата. Остеопластиката по Matti-Russe (при по-разпаднала или дезорганизирана псевдоартроза) — кавитарно изпразване на проксималния и дисталния фрагмент през волярен разрез и запълване със спонгиозен присадък от crista iliaca; имобилизация 8–10 седмици с гипс над лакътя.
+**Псевдоартроза на os scaphoideum.** Компресионна остеосинтеза с Herbert-Whipple или AO-винт. Достъп аналогичен на предходния, удължен дистално близо до основата на metacarpale I; отстранява се върховата част на стилоидния израстък. Винтът е с дължина 2–2,5 cm, с резбова част 4–5 mm; винтът е 2–3 mm по-къс от дългия диаметър на костицата. Остеопластиката по Matti-Russe (при по-разпаднала или дезорганизирана псевдоартроза) — кавитарно изпразване на проксималния и дисталния фрагмент през волярен разрез и запълване със спонгиозен присадък от crista iliaca; имобилизация 8–10 седмици с гипс над лакътя.
 
-Лунатомалация (болест на Kienböck) — Силиконово ендопротезиране на os lunatum през дорзален разрез между III и IV дорзални канали; алтернативно — интеркарпална артродеза по Graner (1966) с резекция на тялото на os capitatum и проксимално изместване на главичката, която заема позицията на os lunatum. Скафо-капитатна артродеза със спонгиозен автоприсадък от os ilium е технически по-проста и стабилна алтернатива.
+**Лунатомалация (болест на Kienböck).** Силиконово ендопротезиране на os lunatum през дорзален разрез между III и IV дорзални канали; алтернативно — интеркарпална артродеза по Graner (1966) с резекция на тялото на os capitatum и проксимално изместване на главичката, която заема позицията на os lunatum. Скафо-капитатна артродеза със спонгиозен автоприсадък е технически по-проста и стабилна алтернатива.
 
-Луксация на os lunatum — Воларен достъп през S-образен разрез; отваря се карпалният канал; сухожилията на сгъвачите и n. medianus се екартират радиално. Луксираната os lunatum се репонира с директен натиск; при застарели случаи (3–4 седмици след травмата) се освобождава остро от задържащите я мекотъканни сраствания. Имобилизация 6 седмици в неутрално положение.
+**Луксация на os lunatum.** Воларен достъп през S-образен разрез; отваря се карпалният канал; сухожилията на сгъвачите и n. medianus се екартират радиално. Луксираната os lunatum се репонира с директен натиск; при застарели случаи (3–4 седмици след травмата) се освобождава остро от задържащите я мекотъканни сраствания. Имобилизация 6 седмици в неутрално положение.
 
-## Компресивна остеосинтеза на metacarpalia и фаланги (плаки на Панева)
+</div>
+</details>
 
-Българската плака на Панева — миниатюрна права самокомпресивна плака с овално и кръгло отверстие — е стандарт за остеосинтеза на диафизни застарели или лошо зараснали счупвания и фалшиви стави на metacarpalia и основните фаланги. Дорзо-латерален разрез до съответната кост; алиниране на фрагментите; плакичката се поставя дорзално; първото винтче в овалния отвор осъществява компресия чрез отместване по дължина на отвора; второто винтче в кръглия — фиксация. При интерфалангеална артродеза се използва Г-образна миниатюрна пирон-плака по Панева. AO-плакичките с 2.6 mm винтове са широко разпространена алтернатива.
+<details>
+<summary>Компресивна остеосинтеза на метакарпали и фаланги (плаки на Панева)</summary>
+<div class="ts-body">
 
-## Източници и класическа литература
+Българската плака на Панева — миниатюрна права самокомпресивна плака с овално и кръгло отверстие — е стандарт за остеосинтеза на диафизни застарели или лошо зараснали счупвания и фалшиви стави на metacarpalia и основните фаланги. Дорзо-латерален разрез до съответната кост; алиниране на фрагментите; плакичката се поставя дорзално; първото винтче в овалния отвор осъществява компресия чрез отместване по дължина на отвора; второто винтче в кръглия — фиксация. При интерфалангеална артродеза се използва Г-образна миниатюрна пирон-плака по Панева. AO-плакичките с 2,6 mm винтове са широко разпространена алтернатива.
 
-*Leçons orales* на Дюпюитрен (1832) дава основополагащото описание на палмарната фасция и нейните заболявания. *Die operative Chirurgie* на Dieffenbach (1848) съдържа основополагащите модерни хандо-пластични и Z-пластични техники. *Œuvres* на Paré (изд. Malgaigne 1840) запазва Ренесансовата традиция за хирургия на ръката; японската Edo *Yōka Hiroku* на Honma Sōken дава източноазиатски паралел.
+</div>
+</details>
 
-- **Дюпюитрен** (1832): *Leçons orales de clinique chirurgicale*, том 1 — палмарна апоневроза. · [Факсимиле](https://archive.org/details/leonsoralesdec01dupu)
-- **Dieffenbach** (1845–48): *Die operative Chirurgie*, том 2 — пластика на ръката. · [Факсимиле](https://archive.org/details/dieoperativechir02dief)
-- **Paré** (изд. Malgaigne 1840): *Œuvres complètes*, том 2. · [Факсимиле](https://archive.org/details/oeuvrescomplte02par)
+</div>
+</details>
 
-## Обобщение и ключови изводи
+</div>
+</details>
+</section>
 
-Ръката е анатомично най-сложната ортопедична област — 27 кости, сложни сухожилни и блокажни системи, вътрешни мускули и гъста невроваскуларна анатомия. Принципите на хирургичната анатомия на ръката включват зоните на флексорните сухожилия (като зона II „ничия земя" между проксималния блокаж A1 и инсерцията на FDS е технически най-трудната за сухожилен шев), зоните на екстензорните сухожилия, блокажите A2 и A4 като критични биомеханични блокажи, вътрешните компартменти (thenar, hypothenar, централен, аддукторен, четири musculi interossei dorsales, три musculi interossei palmares), дигиталните невроваскуларни снопчета по латералния и медиалния аспект на всеки пръст и палмарните и дорзалните дъги с техните дигитални клонове.
 
-Принципите на разрезния дизайн при ръката са от съществено значение: избягване на пресичане на огъвателните гънки под прав ъгъл (с разрези по Bruner или медиаксиални разрези по пръстите), зачитане на подлежащата сухожилна анатомия по дорзума и използване на техниката на Z-пластиката за удължаване на контрактури при огъвателни гънки (като Z-пластиката с 60° по Лимберг постига 75% увеличение на дължината по централната ос).
+## Усложнения и резултати
+<section class="topic-section" id="outcomes">
+<details>
+<summary>Усложнения и резултати</summary>
+<div class="ts-body">
 
-Основните хирургични достъпи в областта на ръката включват освобождаването на карпалния тунел (надлъжен палмарен разрез), освобождаването при trigger finger (напречен или коси разрез в дисталната дланна гънка), рефиксациите при mallet finger и boutonnière деформация (дорзални разрези над IP ставите), рефиксацията при jersey finger (разрез по Bruner с намиране на ретрахираното сухожилие) и рефиксацията при skier's thumb (дорзоулнарен разрез над MCP ставата на палеца с разпознаване на лезията на Stener).
+Усложненията в хирургията на ръката се групират според четирите патофизиологични клъстъра — ставна скованост, сухожилни сраствания, ръбцови контрактури и невроваскуларни увреди — плюс инфекция и комплексен регионален болков синдром (CRPS).
 
-Nervus medianus, nervus ulnaris и повърхностният клон на nervus radialis осигуряват сетивната и двигателната инервация на ръката: nervus medianus в карпалния тунел инервира thenar мускулите (APB, opponens, повърхностната глава на FPB) и радиалните два lumbricales; nervus ulnaris в canalis Guyon — hypothenar мускулите, interossei, улнарните два lumbricales и musculus adductor pollicis; повърхностният клон на nervus radialis осигурява дорзална сетивност на радиалните три и половина пръста проксимално от DIP ставите.
+**Ставна скованост.** Най-честото усложнение след всяка процедура на ръката. Превенция — правилно положение на имобилизация (intrinsic-plus), ограничена продължителност на обездвижването, ранна рехабилитация. Корекция — динамични шини, серийно гипсиране, при персистираща — капсулотомия (PIP), сухожилен теполизис.
 
-От класическата българска и руска ортопедична школа в хирургията на ръката си струва да се запомнят: атравматичната техника на Бойчева школа (обезкръвено поле, увеличение, постоянно оросяване с физиологичен разтвор, нежни инструменти, държателни конци) като концептуалното кредо на ръчната хирургия; йерархията на пластиките за пресни наранявания и дефекти с местни ротационни ламба, островно-педикуларни ламба по Литлър и Холевич (трите модификации с дермо-мастно ламбо от n. radialis, островно ламбо от II пръст, ракетовидно ламбо), островното двойно-педикулирано ламбо по Холевич–Панева, палмарното сетивно ламбо по Карчинов и кръстосаната пластика по Cronin–Brailliar; методът на Красовитов за реплантация на девитализирани или напълно откъснати кожни ламба при дегловинг и тежки елефантиази; класификацията на Матев за Dupuytren-овата контрактура (степени 0–III), частичната ексцизия като стандарт, открита-длан техниката по McCash и двуетапната ексцизия по Матев–Караганчева; двуетапната сухожилна пластика на сгъвачите по Панева–Холевич като иконична българска процедура (с първи етап в дланта и втори в зона II след един месец) и нейната модификация с силиконова пръчица по Hunter–Панева; двуетапната пластика на дългия сгъвач на палеца по Панева; тено-капсулодезата на DIP по Матев; техниките за boutonnière (изрязване на междинния ръбец, Fowler, Матев) и за mallet finger (дубликатура по Розов, реинсерция със снимаем шев по Матев, пластика по Панева–Холевич); реконструкциите на палеца (Николадони с тристепенно стебло, Холевич с едно съседно и едно отдалечено ламбо, Матев с две съседни ламба, дистракционен метод по Матев със собствена кожа на ампутационния чукан, полицизация по Buck-Gramcko при аплазия, фалангизация по Холевич); ампутацията на пръстите с дорзално и воларно ламба, козметичните покрития по Kutler и Atasoy-Kleinert, ампутацията през MCP по Adelmann и косата метакарпална ампутация по Желев–Обрейков за цял лъч; силиконовото алоартропластиране по Swanson с българска модификация по Якубовски при ревматоиден артрит; динамичната корекция на спастичния „thumb-in-palm" по Матев (триетапна: удължаване на FPL → дезинсерция и изместване на тенарната мускулатура → усилване на APL) и системните корекции на спастичната ръка (превръщане на m. pronator teres в супинатор, проксимална дезинсерция на флексорите); компресивната остеосинтеза с миниатюрни плаки на Панева; артродезата на CMC на палеца по Панева–Холевич; и Z-пластиката на Лимберг с количествени коефициенти на удължаване (60° → 75%) като основен инструмент за разрушаване на надлъжни ръбцови контрактури и моделиране на комисурата на палеца.
+**Сухожилни сраствания.** Особено след шев в зона II на флексорите. Превенция — ранно защитено активно движение по протоколи Strickland-Tang. Корекция — теполизис (отделяне на сухожилието от срастванията под локална анестезия при будно пациент, който активно проверява плъзгането).
 
-Тази класическа база остава релевантна както за разбирането на еволюцията на ръчната хирургия, така и за ежедневното решаване на ревизионни и нестандартни клинични сценарии в българската ортопедична практика. Следващата глава разглежда таза, започвайки анатомичната последователност на долния крайник.
+**Ръбцови контрактури.** Предимно при неподходящ разрезен дизайн (надлъжен разрез през огъвателна гънка). Превенция — Bruner, медиаксиален разрез, Z-удължения. Корекция — Z-пластика (60° или множествени), пълнодебелинни кожни присадъци.
+
+**Невроваскуларни увреди.** Ramus recurrens thenaris при освобождаване на карпалния тунел; повърхностен клон на n. radialis при de Quervain; дигитални нерви при Bruner разрез; n. ulnaris в канала на Guyon. Превенция — анатомично разпознаване, лупна оптика, мехурно ретракционно поле.
+
+**Болезнена неврома.** При увредено сензорно нервче (повърхностен клон на n. radialis, palmar cutaneous branch на n. medianus, дигитален нерв). Резистентна на консервативна терапия; ревизионна резекция с фиксиране на проксималния отрязък в мускул или кост (neuroma-in-continuity, end-into-end repair с дисталния отрязък).
+
+**Инфекция.** Класически рискове — открита травма (особено „fight bite" — Eikenella corrodens), пенетрираща пункция, диабет, имуносупресия. Профилактика — щателен дебридмент, антибиотици според локализацията на нараняването (за „fight bite" — амоксицилин-клавуланат или ампицилин-сулбактам).
+
+**CRPS (комплексен регионален болков синдром).** Класически след дистална радиална фрактура, но и след всяка операция на ръката. Превенция — щателен контрол на болката, ранна мобилизация, избягване на прекомерна имобилизация. Лечение — мултидисциплинарно с физиотерапия, медикаментозно (габапентин, прегабалин, ниски дози трициклични антидепресанти), при тежки случаи — симпатиков блок.
+
+</div>
+</details>
+</section>
+
+
+## Местни приноси
+<section class="topic-section" id="bulgarian">
+<details>
+<summary>Местни приноси</summary>
+<div class="ts-body">
+
+**Бойчо Бойчев <sup class="natflag">BG</sup> (1908–1992).** Създател на ортопедична школа в България; едноименното УСБАЛО „Проф. Бойчо Бойчев" в Горна баня. Тритомната *Оперативна ортопедия и травматология* (София) остава референция в курикулума и съдържа подробни описания на класическите принципи на ръчната хирургия — последователност на възстановяване (артерия → сухожилия → нерви), стандарт за анестезия, разрезен дизайн и атравматична техника.
+
+**Иван Холевич <sup class="natflag">BG</sup>.** Островно ламбо от дорзо-радиалната повърхност на показалеца в три модификации (дермо-мастно с клонове на n. radialis, островно от основната фаланга, ракетовидно); двойно-педикулирано островно ламбо Холевич–Панева от II пръст 7×1,5 cm; **фалангизация на палеца** при ампутация проксимално от MCP; реконструкция на палеца с локално и отдалечено ламбо; възстановяване на boutonnière и mallet finger с педикулиран присадък от проксималната апоневроза.
+
+**Панайотка Панева <sup class="natflag">BG</sup>.** Двуетапна сухожилна пластика на сгъвачите по Панева–Холевич — иконичната българска процедура с първи етап в дланта и втори в зона II след един месец, с обръщане на присадъка на 180°; нейната ревизионна модификация с Hunter силиконова пръчица (Hunter–Панева); двуетапна пластика на дългия сгъвач на палеца; миниатюрни самокомпресивни плаки за остеосинтеза на метакарпали и фаланги; динамична стабилизация при хабитуално изкълчване на CMC палеца със сухожилен присадък през костни отвори (Панева–Холевич).
+
+**Веселин Матев <sup class="natflag">BG</sup>.** Класификация на контрактурата на Dupuytren (степени 0–III); двуетапна ексцизия Матев–Караганчева с подкожен телен скелет за прогресивна корекция; **тено-капсулодеза на DIP** при застаряла FDP-увреда; **дистракционен метод за удължаване на ампутационния чукан на палеца** със собствена кожа и без отдалечени ламба; **триетапна корекция на спастичния „thumb-in-palm"** (удължаване на FPL → дезинсерция и дистална транспозиция на тенарната мускулатура → усилване на APL); реинсерция на разтеглицата при mallet finger със снимаем шев и латерално сближаване; транспозиция на странични ленти за boutonnière; компресионен винт със сплескана главичка (Матев–Добрев) за интерфалангеална артродеза; реконструкция на палеца с две съседни ламба от показалеца с очувстване.
+
+**Григор Карчинов <sup class="natflag">BG</sup>.** Палмарно сетивно островно ламбо с педикул от улнарната страна на III или IV пръст през неутралната линия и зиг-заг по дланта, за пластика на пулпарни дефекти със запазена сетивност.
+
+**Желев и Обрейков <sup class="natflag">BG</sup>.** Коса метакарпална ампутация на цял лъч с моделирана дланна гънка за приблизителна реконструкция на нормалния външен вид на ръката при ампутация на II или V пръст с метакарпала.
+
+**Розов <sup class="natflag">BG</sup>.** Дубликатура на ръбеца при mallet finger — косо разсичане на ръбеца и взаимна транспозиция на двата отрязъка с латерално подсилващи конци.
+
+**Брянцева <sup class="natflag">BG</sup>.** Разрез с подкопаване на дисталната дланна гънка за щадяща ексцизия при контрактура на Dupuytren — българска модификация в спектъра на McIndoe, Limberg и Karfik.
+
+**Тричков, Попов, Янков, Якубовски <sup class="natflag">BG</sup>.** Плаки и скоби за интерфалангеална артродеза; пръстеновидно задебелени стебла за силиконова MCP-ендопротеза (Якубовски — българска модификация на Swanson-имплант).
+
+**П. Танчев, Г. Каймакчиев <sup class="natflag">BG</sup>.** Инструментариум за атравматична хирургия и микродренаж (тип „Хемовак"); подсигурителни конци за следшевна протекция на сухожилния шев.
+
+От класическата руска и съветска школа, плътно вписани в българския курикулум:
+
+**М. В. Красовитов <sup class="natflag">RU</sup>** (Кубан, 30-те години на ХХ век). Реплантация на девитализирани кожни ламба от ръката и предмишницата чрез обезмастняване с нож на Хъмби или дерматом, перфорация и реплантация на същия пациент — стратегия при дегловинг-травми и тежки елефантиази.
+
+**А. А. Лимберг <sup class="natflag">RU</sup>** (Ленинград, 1946). *Математически основи на местните пластики на тялото* — тригонометрично разработване на Z-пластиката с количествени коефициенти на удължаване (60° → 75%); основа на цялата модерна реконструктивна геометрия на меките тъкани, особено в ръчната хирургия.
+
+</div>
+</details>
+</section>
+
+
+## Класически източници
+<section class="topic-section" id="classical">
+<details>
+<summary>Класически източници</summary>
+<div class="ts-body">
+
+<aside class="callout callout-classical">
+  <strong>Класическа линия — хирургия на ръката</strong>
+  <p>Хирургията на ръката в съвременния си смисъл се ражда от съчетанието на френската пластична традиция, англо-саксонската сухожилна реконструкция и руско-съветската геометрична школа на местните пластики. *Leçons orales* на Дюпюитрен (1832) дава основополагащото описание на палмарната фасция и нейните заболявания. *Die operative Chirurgie* на Dieffenbach (1845–48) съдържа основополагащите модерни хандо-пластични и Z-пластични техники. *Œuvres complètes* на Paré (изд. Malgaigne, 1840) запазва Ренесансовата традиция за хирургия на ръката.</p>
+  <ul>
+    <li><strong>Дюпюитрен 1832</strong> — *Leçons orales de clinique chirurgicale*, том 1 — палмарна апоневроза (<a href="https://archive.org/details/leonsoralesdec01dupu" target="_blank" rel="noopener noreferrer">Факсимиле</a>).</li>
+    <li><strong>Dieffenbach 1845–48</strong> — *Die operative Chirurgie*, том 2 — пластика на ръката (<a href="https://archive.org/details/dieoperativechir02dief" target="_blank" rel="noopener noreferrer">Факсимиле</a>).</li>
+    <li><strong>Paré (изд. Malgaigne 1840)</strong> — *Œuvres complètes*, том 2 (<a href="https://archive.org/details/oeuvrescomplte02par" target="_blank" rel="noopener noreferrer">Факсимиле</a>).</li>
+    <li><strong>Bunnell 1944</strong> — *Surgery of the Hand* (Philadelphia: Lippincott) — първият модерен англо-саксонски учебник; въвежда понятието „position of safety" и atraumatic technique.</li>
+    <li><strong>Лимберг 1946</strong> — *Математически основи на местните пластики на тялото* (Ленинград) — тригонометрични модели на Z-пластиката.</li>
+  </ul>
+</aside>
+
+Класически дескрипции по техника и индикация: Nicoladoni 1900 (триетапна реконструкция на палеца с Филатово стебло); Bunnell 1918, 1944 (стандартизация на сухожилния шев и атравматична техника); Kessler 1973 (модифициран блокиращ сухожилен шев); Strickland 1985 (протоколи за ранно защитено активно движение); Verdan 1960 (зони на флексорните сухожилия); Kleinert 1967 (динамична флексионна шина за сухожилен шев); Cobb 1948 (метод за измерване на ъгъл при сколиоза, тук адаптиран за деформации на пръстите); Bauer-Tondra-Trusler 1956 (дорзално трапецовидно ламбо за синдактилия); Buck-Gramcko 1971 (полицизация при аплазия); Swanson 1962 (силиконова алоартропластика на MCP); McCash 1964 (open-palm техника за Dupuytren); Matti-Russe 1937 (костна пластика на os scaphoideum); Herbert-Whipple 1986 (компресионен сухожилен винт за scaphoid); Allen 1929 (тест за палмарни дъги); Atasoy-Kleinert 1970 (V-Y палмарна пластика на пулпата); Kutler 1947 (странични триъгълни ламба на пулпата); Cronin 1969 и Brailliar-Horner 1969 (кръстосана пластика); Littler 1959 (островно сензорно ламбо); Adelmann (коса ампутация през MCP); Moberg (костна пластика и сензорни ламба); Smith-Petersen, Stevenson, McAfee, Page-Scaglietti-Inglis (флексорни дезинсерции при спастична ръка); McIndoe, Karfik, Burian (разрезни дизайни при Dupuytren); Tubiana (класификация и принципи на дисекцията).
+
+Допълнителни класически източници: **Hofa** (1905), *Lehrbuch der orthopädischen Chirurgie* (Stuttgart: Enke) — главите за ръчна хирургия и спастична ръка преди ерата на микрохирургията (<a href="https://archive.org/details/lehrbuchderortho00hoff" target="_blank" rel="noopener noreferrer">Факсимиле</a>). **Langenbeck-Archiv für klinische Chirurgie** (от 1860) — първоописания на много пластики и реконструкции на ръката (<a href="https://archive.org/details/archivfrklinisc11unkngoog" target="_blank" rel="noopener noreferrer">Поредица в Internet Archive</a>).
+
+</div>
+</details>
+</section>
+
+
+## Препоръчителна литература
+<section class="topic-section" id="literature">
+<details>
+<summary>Препоръчителна литература</summary>
+<div class="ts-body">
+
+1. **Wolfe SW, Pederson WC, Kozin SH, Cohen MS, eds.** *Green's Operative Hand Surgery.* 7th ed. Philadelphia: Elsevier; 2017. ISBN 978-1-4557-7427-2. — *Глобалният стандарт за оперативна хирургия на ръката; глави за всеки достъп, реконструкция и микрохирургия; задължителна референция за резидентската подготовка.*
+2. **Doyle JR, Botte MJ.** *Surgical Anatomy of the Hand and Upper Extremity.* Philadelphia: Lippincott Williams & Wilkins; 2003. ISBN 978-0-397-51725-7. — *Кадаверен атлас с детайлни препарати на всеки слой; референция за прецизна интерпретация на анатомичните варианти, ramus recurrens thenaris, повърхностните клонове на n. radialis и зоналната анатомия на флексорната обвивка.*
+3. **Tubiana R, Thomine JM, Mackin E.** *Examination of the Hand and Wrist.* 2nd ed. London: Martin Dunitz; 1996. ISBN 978-1-85317-544-2. — *Клиничен атлас на повърхностно-дълбоката корелация, на класификациите по Tubiana и на стандартизирания клиничен преглед.*
+4. **Germann G, Sherman R, Levin LS, eds.** *Decision Making in Reconstructive Surgery: Upper Extremity.* Berlin: Springer; 2000 (последвани от **Germann G, Levin LS, Sherman R**, *Reconstructive Surgery of the Hand and Upper Extremity*, Thieme, 2017). — *Алгоритми за избор на реконструктивна стратегия според дефицита; модерен пандан на класическите атласи.*
+5. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Стандарт за оперативните достъпи на ръката с диаграматични илюстрации на интернервните плоскости.*
+6. **Бойчев Б, ред.** *Хирургическа ортопедия* (тритомник; София). — *Класическият учебник на българската ортопедична школа; глави за хирургията на ръката, които съдържат описания на процедурите по Холевич, Панева, Матев, Карчинов, Желев-Обрейков, Розов, Брянцева; стандарт за атравматичната техника и за разрезния дизайн в българския курикулум.*
+7. **Лимберг А А.** *Математически основи на местните пластики на тялото.* Ленинград, 1946. — *Тригонометрични модели на Z-пластиката, four-flap Z и Y-V с количествени коефициенти на удължаване; концептуалната основа на цялата модерна геометрия на местните кожни пластики.*
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-6: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. Native <details> isn't
+     auto-expanded by :target alone, so we wire a tiny progressive enhancement. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

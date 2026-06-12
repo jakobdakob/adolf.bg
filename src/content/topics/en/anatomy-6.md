@@ -1,5 +1,5 @@
 ---
-title: "Hand — Surgical Anatomy, Approaches, and Z- Plasty"
+title: "Hand — Surgical Anatomy, Approaches, and Z-Plasty"
 lang: "en"
 kind: "topic"
 section: "anatomy"
@@ -7,37 +7,72 @@ topicNumber: 6
 order: 206
 ---
 
-## Introduction
+<details class="topic-toc-inline">
+  <summary>Contents</summary>
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#surg-anatomy">Surgical Anatomy</a>
+      <ol>
+        <li><a href="#bones-joints">Bony and Articular Skeleton</a></li>
+        <li><a href="#skin-fascia">Skin, Palm, and Compartments</a></li>
+        <li><a href="#regional-topography">Regional Topography — Wrist and Palm</a></li>
+        <li><a href="#flexor-tendons">Flexor Tendons and Pulley System</a></li>
+        <li><a href="#extensor-tendons">Extensor Tendons and Dorsal Compartments</a></li>
+        <li><a href="#intrinsics">Intrinsic Muscles</a></li>
+        <li><a href="#neurovascular">Neurovascular Anatomy</a></li>
+      </ol>
+    </li>
+    <li><a href="#pathophysiology">Pathophysiology and Mechanism</a></li>
+    <li><a href="#clinical">Clinical Presentation and Diagnosis</a></li>
+    <li><a href="#classification">Classification</a></li>
+    <li><a href="#treatment">Treatment</a>
+      <ol>
+        <li><a href="#nonoperative">Nonoperative</a></li>
+        <li><a href="#operative">Operative</a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Outcomes and Complications</a></li>
+    <li><a href="#bulgarian">Local Contributions</a></li>
+    <li><a href="#classical">Classical Sources</a></li>
+    <li><a href="#literature">Suggested Reading</a></li>
+  </ol>
+</details>
 
-The hand is the most anatomically intricate region of the orthopedic skeleton, with 27 bones, more than 30 joints, intricate ligamentous and tendinous structures, multiple muscular layers, and dense neurovascular distribution all packed into a small volume. The functional demands (fine prehension, power grip, opposable thumb, sensory and dexterous manipulation) are matched by an anatomical complexity that requires the orthopedic surgeon to know not only the bony skeleton but also the precise relationships of the flexor and extensor tendons, the pulley system, the intrinsic muscles, the lumbricals, the interossei, the digital nerves and arteries, and the deep palmar arch. The orthopedic surgeon's surgical approaches to the hand must respect these structures, with the principles of incision design (including the Z-plasty technique for managing skin contractures across flexion creases) being as important as the principles of tendon and nerve management. This chapter draws on Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy, Gray's Anatomy, Dutton's Orthopaedic Examination, and the classical Bulgarian Operative Orthopaedics and Traumatology of Boycho Boychev — the namesake of the University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya — supplemented with the classical Bulgarian procedures of Holevich, Paneva, Matev, Karchinov, Zhelev-Obreykov, Rozov, and Bryantseva, which together with the atraumatic hand surgery of the Boychev school and the Krasovitov method of replantation of devitalized skin flaps remain part of the Bulgarian orthopedic curriculum.
 
-## Bony and Articular Anatomy
+## Overview
+<section class="topic-section" id="overview">
+<details open>
+<summary>Overview</summary>
+<div class="ts-body">
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand.svg" data-figure-alt="Palmar anatomy of the wrist and hand" aria-label="Enlarge">
-    <img src="/img/anatomy-6/hand.svg" alt="Palmar anatomy of the wrist and hand" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Deep palmar dissection of the wrist and hand: flexor tendons with sheaths, A1-A5 pulleys, sensory nerves and palmar arch vessels.</span>
-    <span class="md-figure-attribution"> · Wilfredor, <a href="https://commons.wikimedia.org/wiki/File:Wrist_and_hand_deeper_palmar_dissection-numbers.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
-  </figcaption>
-</figure>
+The hand is the most anatomically intricate region of the orthopaedic skeleton — 27 bones, more than 30 joints, a precise pulley and tendon architecture, multilayered intrinsic musculature, and dense neurovascular networks packed into a small volume beneath skin of dual character: glabrous and tightly fixed on the palmar surface, thin and mobile on the dorsum. The functional demands — fine prehension, power grip, opposable thumb, stereognostic sensation — drive the operative philosophy: every incision, retraction, and suture affects tendon gliding, collateral ligaments, and pulp capillary perfusion. This chapter presents the regional surgical anatomy layer by layer (bone → skin → tendons → muscles → neurovascular structures), the principles of incision design (including Limberg Z-plasty), the standard operative approaches (Bruner, midlateral, dorsal, carpal tunnel, Guyon), the reconstructive strategies for tendons, nerves, and thumb, and the Boychev–Holevich–Paneva–Matev school that is tightly woven into the Bulgarian curriculum with its amputation, flap, plastic, and silicone-implant contributions.
+
+</div>
+</details>
+</section>
+
+
+## Surgical Anatomy
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary>Surgical Anatomy</summary>
+<div class="ts-body">
+
+
+### Bony and Articular Skeleton
+<details id="bones-joints">
+<summary>Bony and Articular Skeleton</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-bones-volar.png" data-figure-alt="Bones of the right hand, volar surface" aria-label="Enlarge">
     <img src="/img/anatomy-6/hand-bones-volar.png" alt="Bones of the right hand, volar surface" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Bones of the right hand, volar surface (Gray): the 8 carpal bones, 5 metacarpals and phalanges; the scaphoid is clearly seen with its well-known retrograde blood supply — the anatomical basis for proximal-pole AVN after waist fractures ([Topic Trauma-18](/en/trauma/18/)).</span>
+    <span class="md-figure-caption">Bones of the right hand, volar surface (Gray): 8 carpal bones, 5 metacarpals, 14 phalanges; the scaphoid is shown with its well-known retrograde blood supply — the anatomical basis for proximal-pole AVN after waist fractures (Topic Trauma-18).</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray220.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
-
-The hand skeleton comprises: 8 carpal bones in two rows (proximal: scaphoid, lunate, triquetrum, pisiform; distal: trapezium, trapezoid, capitate, hamate), see [Topic Trauma-18](/en/trauma/18/) for fracture and dislocation anatomy. 5 metacarpals numbered 1 through 5 from radial to ulnar. 14 phalanges: Two for the thumb (proximal and distal) and three for each of the fingers (proximal, middle, distal). The total is 14 phalanges in the hand. The principal joints include: Carpometacarpal (CMC) joints: The articulations between the distal carpus and the metacarpal bases. The first CMC joint (thumb) is a saddle joint between the trapezium and the first metacarpal, providing the unique opposability of the thumb. The second through fifth CMC joints are essentially gliding joints with limited motion (more motion at the fourth and fifth, contributing to the cupping of the hand). Metacarpophalangeal (MCP) joints: The “knuckle” joints between the metacarpal heads and the proximal phalangeal bases. The fingers have condyloid joints (allowing flexion-extension and limited abduction-adduction); the thumb has a hinge-type joint. Interphalangeal (IP) joints: The proximal IP (PIP) joints and distal IP (DIP) joints of the fingers; the thumb has a single IP joint. All are hinge joints permitting flexion-extension only.
-
-The collateral ligaments of the MCP and IP joints have specific anatomical features. The MCP collateral ligaments are taut in flexion and lax in extension (a fact that determines the safe immobilization position, see below). The IP collateral ligaments are taut throughout the range, with both proper collateral ligaments (between adjacent bones) and accessory collateral ligaments (between the proximal bone and the volar plate).
-
-## Skin and Subcutaneous Tissue
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-bones.png" data-figure-alt="Carpal bones" aria-label="Enlarge">
@@ -49,76 +84,147 @@ The collateral ligaments of the MCP and IP joints have specific anatomical featu
   </figcaption>
 </figure>
 
-The palmar skin is glabrous (hairless), thick, and tightly bound to the underlying palmar fascia by skin ligaments. The dorsal skin is thinner, more mobile, with less subcutaneous tissue. The contrast between the palmar and dorsal skin determines the principles of incision design — palmar incisions should respect the natural flexion creases and avoid crossing them at right angles; dorsal incisions have more flexibility but should respect the underlying tendon anatomy. The flexion creases of the palm and digits correspond approximately to the underlying joints but are not always directly over the joint: Distal palmar crease: Approximately overlies the MCP joints. Proximal palmar crease: Approximately overlies the metacarpal heads. Distal interphalangeal crease: Overlies the DIP joint. Proximal interphalangeal crease: Overlies the PIP joint. Wrist crease: Overlies the radiocarpal joint.
+The hand skeleton comprises eight carpal bones in two rows (proximal: scaphoid, lunate, triquetrum, pisiform; distal: trapezium, trapezoid, capitate, hamate), five metacarpals numbered radial to ulnar, and fourteen phalanges — two for the thumb and three for each of digits II–V. The first carpometacarpal (CMC) joint is a saddle joint between the trapezium and the first metacarpal — the anatomical basis of thumb opposability; the second through fifth CMC joints are gliding joints with progressively greater mobility toward IV and V (5–15° at the fifth), responsible for the longitudinal cupping of the palm during grasp.
 
-## Palmar Fascia and Compartments
+The metacarpophalangeal (MCP) joints of digits II–V are condyloid — they permit flexion-extension (about 90°) and limited abduction-adduction (15–20°) only in extension; in flexion the collateral ligaments are taut and the frontal motion is locked out. The thumb MCP is a hinge. The collateral ligaments of MCP have a proper part (between the bones) and an accessory part (to the volar plate); their geometry dictates the basic rule of functional immobilisation — the fingers are splinted with MCP in 70–90° flexion, otherwise the collateral ligaments shorten in slack position and block subsequent flexion.
 
-The palmar aponeurosis is a triangular fibrous structure with the apex at the wrist (continuous with the palmaris longus tendon when present) and the base distally toward the fingers. The structure has longitudinal, transverse, and oblique fibers that together provide a strong protective layer over the palmar structures. Disease of the palmar fascia produces Dupuytren’s contracture (covered in [Topic Orth-29](/en/ortho/29/)). The palmar compartments are arranged around the longitudinal axis of the hand: Thenar compartment: Contains the abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, and adductor pollicis (variously included in this or the adductor compartment). Provides the thenar eminence at the base of the thumb. Hypothenar compartment: Contains the abductor digiti minimi, opponens digiti minimi, flexor digiti minimi brevis. Provides the hypothenar eminence. Central compartment (mid-palmar): Contains the lumbricals, flexor tendons, and palmar arch. Adductor compartment: Contains the adductor pollicis.
+The interphalangeal joints (PIP and DIP of the fingers, single IP of the thumb) are hinge joints with a range of 100–110° (PIP) and 60–80° (DIP); their collateral ligaments are taut throughout the arc — therefore immobilisation in flexion is safe only as a compromise, not as a position of "maximum tautness". The PIP volar plate has a firm proximal and a weaker distal attachment — the anatomical substrate of the common post-traumatic PIP flexion contracture.
 
-Interosseous compartments: Four dorsal interosseous and three palmar interosseous muscles between the metacarpals. Carpal tunnel at the wrist contains the median nerve and the nine flexor tendons (FPL, four FDS, four FDP). Compartment syndrome of the hand requires recognition of these multiple compartments and decompression through specific incisions — typically paired dorsal interosseous incisions (between metacarpals II–III and IV–V), separate thenar and hypothenar incisions, and extended carpal tunnel release when needed.
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The safe position of immobilisation (intrinsic-plus, "position of safety"): wrist at 20° dorsiflexion, MCP at 70–90° flexion (collateral ligaments taut), IP in full extension — the only posture that prevents collateral-ligament shortening.</li>
+    <li>Closed fingers point their tips toward the scaphoid — a rotational deficit of 5° is functionally catastrophic and must be checked clinically after every metacarpal or phalangeal osteosynthesis.</li>
+    <li>For the scaphoid see Topic Trauma-18 — retrograde blood supply and proximal-pole AVN risk.</li>
+  </ul>
+</aside>
 
-## Regional Topography — Regio Carpi and Palma Manus
+</div>
+</details>
+
+
+### Skin, Palm, and Compartments
+<details id="skin-fascia">
+<summary>Skin, Palm, and Compartments</summary>
+<div class="ts-body">
+
+Palmar skin is glabrous, thick, and tightly bound to the underlying palmar aponeurosis by vertical skin ligaments (the ligaments of Grayson and Cleland within the digits). It carries the stereognostic sensation that cannot be reconstructed from a distant donor — hence the axiom that "the hand's own skin must not be discarded" (Boychev, Holevich, Krasovitov). The dorsal skin is thin, mobile, with rich venous and lymphatic drainage — retraction that compresses the dorsal veins rapidly produces oedema and adhesions.
+
+The flexion creases of the palm and digits approximately correspond to the underlying joints but not directly over them: distal palmar crease — over the MCP joints; proximal palmar crease — over the metacarpal heads; PIP crease — over the PIP joint; DIP crease — over the DIP; wrist crease — over the radiocarpal joint. The principles of incision design (see "Principles of Incisions" below) derive directly from this topography.
+
+The palmar aponeurosis is a triangular fibrous structure with apex at the wrist (continuous with the palmaris longus tendon when present) and base distally toward the fingers. It contains longitudinal, transverse, and oblique fibres that together provide a strong protective layer. Its pathology is Dupuytren's contracture (see Topic Ortho-29 and the operative section below).
+
+The palmar compartments are arranged around the longitudinal axis of the hand: **thenar** (abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, adductor pollicis — often classified in a separate adductor compartment); **hypothenar** (abductor digiti minimi, opponens digiti minimi, flexor digiti minimi brevis); **central (mid-palmar)** — lumbricals, flexor tendons, superficial palmar arch; **adductor** — adductor pollicis; **interosseous compartments** — four dorsal and three palmar interossei between the metacarpals. The carpal tunnel contains the median nerve and the nine flexor tendons (FPL, four FDS, four FDP).
+
+Compartment syndrome of the hand requires recognition of this multi-compartment architecture. Standard decompression: two dorsal interosseous incisions (between metacarpals II–III and IV–V), separate thenar and hypothenar incisions, extended carpal-tunnel release, and Guyon-canal release when indicated.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Any incision that crosses a flexion crease at right angles → scar contracture with permanent loss of motion. Incisions run along the creases, parallel to them, or cross them at 60° (Bruner) or along the neutral line (midlateral).</li>
+    <li>A "fish-mouth" incision through the digital pulp is absolutely contraindicated — it destroys the irreplaceable glabrous pulp skin; for felon, use lateral neutral-line incisions instead.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Regional Topography — Wrist and Palm
+<details id="regional-topography">
+<summary>Regional Topography — Wrist and Palm</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/carpal-tunnel.jpg" data-figure-alt="Carpal tunnel" aria-label="Enlarge">
     <img src="/img/anatomy-6/carpal-tunnel.jpg" alt="Carpal tunnel" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Carpal tunnel — anatomic section: bounded by the carpal bones volarly (scaphoid tubercle, trapezium, hook of hamate, pisiform) and the flexor retinaculum dorsally. Through the tunnel pass the median nerve and 9 flexor tendons (FDS, FDP, FPL). Classical median nerve release for carpal tunnel syndrome uses a longitudinal zigzag incision on the ulnar side of the retinaculum to avoid injury to both the palmar cutaneous branch and the recurrent motor branch of the median nerve.</span>
+    <span class="md-figure-caption">Carpal tunnel — bounded volarly by the carpal-bone groove (scaphoid, trapezium, pisiform, hook of hamate) and dorsally by the flexor retinaculum. It transmits the median nerve and 9 flexor tendons (FDS, FDP, FPL).</span>
     <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:815_The_Carpal_Tunnel.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
-The classical Bulgarian school divides the wrist region (regio carpi) into anterior and posterior parts, with the upper border about 3 cm above the distal wrist crease. In the anterior wrist region the proximal crease overlies the radiocarpal joint and the distal crease overlies the midcarpal and thumb CMC joints. The antebrachial fascia splits into superficial and deep layers: the superficial is condensed into the ligamentum carpi volare, which in turn splits to form Guyon's canal for the ulnar vessels and nerve, while the deep layer runs between the wrist flexors and palmaris longus (volar) and flexor digitorum superficialis (dorsal), fusing distally with the flexor retinaculum. The ulnar neurovascular bundle lies in the cleft of the deep fascia, covered by the edge of flexor carpi ulnaris; the artery passes through the canal, while the nerve remains beneath the muscle tendon — an anatomical detail explaining why cannulation or dissection here threatens the nerve before the artery.
+The classical Bulgarian school divides the wrist region (regio carpi) into anterior and posterior parts, with the upper border about 3 cm above the distal wrist crease. In the anterior wrist region the proximal crease overlies the radiocarpal joint, while the distal crease overlies the midcarpal and thumb CMC joints. The antebrachial fascia splits into two layers: the superficial is condensed into the volar carpal ligament, which itself splits to form Guyon's canal for the ulnar vessels; the deep layer runs between the wrist flexors and palmaris longus on one side and flexor digitorum superficialis on the other, fusing distally with the flexor retinaculum. The ulnar neurovascular bundle lies within the cleft of the deep layer, covered by the edge of flexor carpi ulnaris; the artery enters the canal, while the nerve remains within the deep fascia beneath the muscle tendon — an anatomic detail that explains why cannulation here threatens the nerve before the artery.
 
-The radial vessels lie superficial to the deep fascia. The radial artery crosses the lower border of pronator quadratus, runs over the distal radius, slips beneath the tendons of abductor pollicis longus and extensor pollicis brevis at the level of the radial styloid, and enters the anatomical snuffbox. There it gives off the carpal palmar branch and the superficial palmar branch (to the superficial palmar arch), then crosses the medial border of the scaphoid toward the first intermetacarpal space.
+The radial vessels lie superficial to the deep fascia. The radial artery crosses the lower border of pronator quadratus, runs over the distal radius and the radiocarpal joint capsule, slips beneath the abductor pollicis longus and extensor pollicis brevis tendons at the radial styloid, and enters the anatomical snuffbox. There it gives off the carpal palmar branch and the superficial palmar branch (to the superficial palmar arch), then crosses the medial border of the scaphoid toward the first intermetacarpal space.
 
 The dorsum of the wrist carries the rete carpi dorsale, source of the dorsal metacarpal arteries II–IV. The six dorsal extensor compartments run beneath the extensor retinaculum.
 
-In the palma manus the three fascial compartments (lateral/thenar, medial/hypothenar, central) are separated by intermuscular septa. The thenar line is the external landmark for the recurrent thenar branch of the median nerve; the proximal palmar crease overlies the arterial arches; the distal palmar crease overlies the MCP joints (which actually lie about 1–1.5 cm proximal to the crease). The digito-palmar creases overlie the mid-shaft of the proximal phalanges. The median nerve, after passing beneath the flexor retinaculum, divides 0.5 cm below its lower edge into lateral and medial trunks: the lateral trunk gives 1–2 motor branches to the thenar muscles and continues as the common palmar digital nerve I to the thumb and radial half of the index; the medial trunk gives common palmar digital nerves II–III at MCP level, dividing into proper digital nerves.
+In the palma manus the three fascial compartments (thenar, hypothenar, central) are separated by intermuscular septa. The thenar line is the external landmark for the recurrent thenar branch of the median nerve; the proximal palmar crease overlies the arterial arches; the distal palmar crease overlies the common digital arteries and nerves at the MCP level. The MCP joints themselves lie about 1–1.5 cm proximal to the digito-palmar creases — a point often missed during planning.
 
-In the thenar compartment the abductor pollicis brevis lies most superficially (lateral) with flexor pollicis brevis (medial), opponens pollicis deeper, and adductor pollicis deepest, covered by subcutaneous tissue and the vessels and nerves for digits I and II. Between flexor pollicis brevis and adductor pollicis lies the superficial connective tissue cleft containing flexor pollicis longus and the terminal branches of the median nerve; between adductor pollicis and the first two dorsal and first palmar interossei lies the deep cleft containing the deep palmar arch, the deep branch of the ulnar nerve, and the princeps pollicis artery.
+Within the central compartment, the four FDS tendons run immediately beneath the palmar aponeurosis, with the FDP tendons deeper. Between the tendons run the common digital arteries and nerves; from the superficial palmar arch (more distal, at the distal palmar crease) and the deep palmar arch (more proximal, in front of adductor pollicis and the interossei, at the level of the metacarpal bases). The median nerve, after passing beneath the flexor retinaculum, divides 0.5 cm below its distal border into a lateral and a medial trunk: the lateral gives 1–2 motor branches to the thenar muscles (recurrent thenar branch) and continues as the common palmar digital nerve I to the thumb and the radial half of the index; the medial gives common palmar digital nerves II–III at the MCP level, dividing into proper digital nerves.
 
-## Tendinous Anatomy
+In the thenar compartment, abductor pollicis brevis lies most superficially (laterally) with flexor pollicis brevis (medially); deeper is opponens pollicis; deepest is adductor pollicis. Between flexor pollicis brevis and adductor pollicis lies the superficial connective-tissue cleft containing flexor pollicis longus and the terminal branches of the median nerve; between adductor pollicis and the first two dorsal interossei and the first palmar interosseous lies the deep cleft containing the deep palmar arch, the deep branch of the ulnar nerve, and the princeps pollicis artery.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Guyon's canal: artery lateral, nerve medial beneath the flexor muff — control of the ulnar nerve starts distally and proceeds proximally to avoid accidental traction.</li>
+    <li>Anatomic snuffbox: floor — scaphoid and trapezium; roof — skin and the superficial branch of the radial nerve; contents — radial artery crossing over the scaphoid; the cardinal palpation zone for suspected scaphoid fracture.</li>
+    <li>The recurrent thenar branch of the median nerve arises from the radial trunk distal to the flexor retinaculum in about 50%, transligamentous in 30%, subligamentous in 20% — mandatory identification before any radial-side division of the retinaculum.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Flexor Tendons and Pulley System
+<details id="flexor-tendons">
+<summary>Flexor Tendons and Pulley System</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-superficial-palmar.png" data-figure-alt="Superficial palmar dissection of the right hand" aria-label="Enlarge">
-    <img src="/img/anatomy-6/hand-superficial-palmar.png" alt="Superficial palmar dissection of the right hand" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-superficial-palmar.png" data-figure-alt="Superficial palmar dissection" aria-label="Enlarge">
+    <img src="/img/anatomy-6/hand-superficial-palmar.png" alt="Superficial palmar dissection" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Superficial palmar dissection of the right hand (Gray): palmar aponeurosis, flexor tendons before entering the carpal and digital sheaths, superficial palmar arch. The Boychev-Holevich atraumatic technique (1980s) requires this field to be kept intact — bleeding controlled by bipolar coagulation of individual vessels, not by a tourniquet during the dissection itself.</span>
+    <span class="md-figure-caption">Superficial palmar dissection of the right hand (Gray): palmar aponeurosis, flexor tendons before entry into the carpal and digital sheaths, superficial palmar arch — the topographic anchor for approaches to zones III and V.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray423.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
-
-
-## Flexor Tendons
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/flexor-zones.png" data-figure-alt="Verdan flexor tendon zones" aria-label="Enlarge">
     <img src="/img/anatomy-6/flexor-zones.png" alt="Verdan flexor tendon zones" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Verdan flexor tendon zones (I–V): zone II ("no man's land") from the proximal A1 pulley to the FDS insertion is the most technically demanding for primary repair because FDS and FDP glide together within a common synovial sheath. A2 and A4 are the biomechanically critical pulleys.</span>
+    <span class="md-figure-caption">Verdan flexor zones (I–V): zone II ("no man's land") from the proximal A1 pulley to the FDS insertion is the most technically demanding for primary repair because FDS and FDP glide together within a common synovial sheath.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray425.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-The flexor tendons pass through the carpal tunnel and into the digits through the flexor sheaths. The flexor digitorum superficialis (FDS) tendons insert on the middle phalanges; the flexor digitorum profundus (FDP) tendons pass through the FDS chiasm (Camper’s chiasm) and insert on the distal phalanges. The flexor pollicis longus (FPL) is the deep flexor of the thumb, inserting on the distal phalanx. The flexor pulley system maintains the tendons against the bone, preventing bowstringing during flexion. The annular pulleys (A1-A5) and the cruciate pulleys (C1- C3) form the pulley system. A2 (over the proximal phalanx) and A4 (over the middle phalanx) are the principal pulleys for biomechanical function; their preservation during surgery is essential to prevent bowstringing. The A1 pulley is the site of trigger finger (stenosing flexor tenosynovitis); release of A1 is the surgical treatment. The flexor tendon zones (Verdan) describe the location of injury for prognostic and treatment purposes: Zone I: Distal to the FDS insertion. Only FDP involved. Zone II (“no man’s land”): From the proximal A1 pulley to the FDS insertion. Both FDS and FDP within the synovial sheath. The most technically demanding zone for repair because of the synovial environment and risk of adhesions; outcomes have historically been disappointing but have improved with early protected motion protocols. Zone III: Between the carpal tunnel and the A1 pulley. Lumbrical region. Zone IV: Carpal tunnel. Zone V: Proximal to the carpal tunnel (distal forearm).
+The flexor tendons pass through the carpal tunnel and into the digits via the flexor sheaths. The FDS tendons insert on the middle phalanges, splitting before insertion into Camper's chiasm through which the corresponding FDP tendon passes. The FDP tendons insert on the distal phalanges; the four FDP tendons share a common muscle belly — the anatomic substrate of the "quadriga effect", in which an overtight repair of one FDP compromises flexion of the adjacent fingers. The lumbricals arise from the radial side of the FDP tendons in the palm and pass volar to the deep transverse metacarpal ligament to insert on the radial side of the extensor expansion, converting FDP pull into MCP flexion and simultaneous IP extension. Flexor pollicis longus (FPL) is the deep flexor of the thumb, inserting on the distal phalanx.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Two pulleys, two zones: A2 (over the proximal phalanx) and A4 (over the middle phalanx) are the biomechanical critical pulleys — preserve them or bowstringing follows. Zone II ('no man's land') runs from the proximal A1 pulley to the FDS insertion and is the most demanding flexor zone for repair because both FDS and FDP share the synovial sheath.</p>
+The pulley system holds the tendons against bone, preventing bowstringing during flexion. On digits II–V — five annular (A1–A5) and three cruciate (C1–C3) pulleys. A2 (over the proximal phalanx) and A4 (over the middle phalanx) are the principal biomechanical pulleys; preserving them during surgery is critical for active flexion. A1 is the site of stenosing flexor tenosynovitis (trigger finger). On the thumb — A1 at the MCP level, the oblique pulley (the biomechanically most important) over the proximal phalanx, and A2 over the IP — an anatomic difference that makes trigger-thumb release technically distinct from trigger-finger release.
+
+Verdan's flexor zones describe the location of injury for prognosis and operative tactic. **Zone I** — distal to the FDS insertion; FDP only (typical jersey finger). **Zone II ("no man's land")** — from the proximal A1 to the FDS insertion; both FDS and FDP within a common synovial sheath; the most demanding zone because of the synovial environment and adhesion risk. **Zone III** — between the carpal tunnel and A1; the lumbrical region. **Zone IV** — carpal tunnel. **Zone V** — proximal to the carpal tunnel (distal forearm). On the thumb the zones are T1 (distal to the oblique pulley), T2 (over the oblique pulley), T3 (over the thenar).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Two pulleys, two zones: A2 and A4 in the fingers, the oblique pulley in the thumb — biomechanically critical; preserve them or bowstringing follows with permanent loss of active flexion.</li>
+    <li>Zone II is "no man's land" because FDS and FDP share the synovial sheath — the rationale for modern 4–8-strand repairs (Kessler-Tang, Adelaide, Strickland) and for early protected active-motion protocols.</li>
+    <li>"Quadriga" — a tight repair of one FDP blocks the adjacent three because of the common muscle belly; mandatory length check against Bunnell's line.</li>
+  </ul>
 </aside>
 
-## Extensor Tendons
+</div>
+</details>
+
+
+### Extensor Tendons and Dorsal Compartments
+<details id="extensor-tendons">
+<summary>Extensor Tendons and Dorsal Compartments</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/hand-extensors.png" data-figure-alt="Dorsal extensor tendons of the hand" aria-label="Enlarge">
     <img src="/img/anatomy-6/hand-extensors.png" alt="Dorsal extensor tendons of the hand" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Extensor tendons on the dorsum of the right hand (Gray): EDC tendons with the juncturae tendinum, the extensor apparatus of the finger with its central slip and two lateral bands, and the Wynne-Davies tenodesis effect on wrist flexion — the basis for considering tenodesis-driven flexor reconstruction in high median palsy and for the classical management of mallet finger.</span>
+    <span class="md-figure-caption">Dorsal extensor tendons (Gray): EDC with juncturae tendinum, the extensor apparatus of the finger with central slip and two lateral bands; the anatomic basis for understanding mallet finger (zone I), boutonnière (zone III), and the Wynne-Davies tenodesis effect.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray424.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -128,529 +234,838 @@ The flexor tendons pass through the carpal tunnel and into the digits through th
     <img src="/img/anatomy-6/wrist-extensor-compartments.png" alt="Six dorsal extensor compartments of the wrist" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">The six dorsal extensor compartments of the wrist beneath the extensor retinaculum: I (APL, EPB) — site of de Quervain's tenosynovitis; II (ECRL, ECRB); III (EPL — wrapping Lister's tubercle); IV (EDC, EI); V (EDM — site of attritional rupture in rheumatoid disease, the Vaughan-Jackson syndrome); VI (ECU). The classical indication for compartment-specific synovectomy in rheumatoid tenosynovitis.</span>
+    <span class="md-figure-caption">The six dorsal extensor compartments: I (APL, EPB) — de Quervain; II (ECRL, ECRB); III (EPL — around Lister's tubercle); IV (EDC, EIP); V (EDM — site of rupture in rheumatoid arthritis, Vaughan-Jackson syndrome); VI (ECU).</span>
     <span class="md-figure-attribution"> · User:James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/extensor-compartments.png" data-figure-alt="Six dorsal wrist extensor compartments" aria-label="Enlarge">
-    <img src="/img/anatomy-6/extensor-compartments.png" alt="Six dorsal wrist extensor compartments" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">The six dorsal wrist extensor compartments (numbered): 1 (APL/EPB, 2) ECRL/ECRB, 3 (EPL, 4) EDC/EIP, 5 (EDM, 6) ECU. Anatomic basis of de Quervain's (1) and ECU tenosynovitis (6).</span>
-    <span class="md-figure-attribution"> · James Bedford, <a href="https://commons.wikimedia.org/wiki/File:Wrist_extensor_compartments_(numbered).PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
-  </figcaption>
-</figure>
+The extensor tendons pass through the six dorsal compartments beneath the extensor retinaculum (radial to ulnar). **Compartment 1** — abductor pollicis longus (APL) and extensor pollicis brevis (EPB); site of de Quervain stenosing tenosynovitis; variant: an extra septum between APL and EPB in about 30–40% of cases, responsible for recurrences after incomplete release. **Compartment 2** — extensor carpi radialis longus (ECRL) and brevis (ECRB). **Compartment 3** — extensor pollicis longus (EPL); the tendon turns around Lister's tubercle at nearly a right angle and is at risk of delayed rupture after a non-displaced distal-radius fracture (a classical late complication). **Compartment 4** — extensor digitorum communis (EDC) and extensor indicis proprius (EIP); EIP lies ulnar and distal in the field — critical for tendon-transfer planning, since EIP is the standard donor for reconstruction. **Compartment 5** — extensor digiti minimi (EDM); the rupture site in rheumatoid arthritis (Vaughan-Jackson syndrome, sequential rupture from ulnar to radial). **Compartment 6** — extensor carpi ulnaris (ECU); its own ulnar groove can subluxate during supination.
 
-The extensor tendons pass through the six dorsal extensor compartments at the wrist (from radial to ulnar): Compartment 1: Abductor pollicis longus (APL) and extensor pollicis brevis (EPB). Site of de Quervain’s tenosynovitis.
+In the fingers the extensors form a complex extensor hood (sagittal band, lateral bands, central slip) with lumbrical and interosseous contributions. The **sagittal band** at the MCP centralises the EDC; its rupture (typically the radial sagittal band of the long finger after a punch) causes ulnar dislocation of the tendon ("boxer's knuckle") with inability to initiate active extension. The **central slip** inserts on the dorsum of the middle-phalanx base; its disruption is the substrate of the boutonnière deformity. The **lateral bands** continue distally and fuse into the terminal extensor tendon inserting on the dorsum of the distal phalanx — the site of disruption in mallet finger.
 
-Compartment 2: Extensor carpi radialis longus (ECRL) and extensor carpi radialis brevis (ECRB). Compartment 3: Extensor pollicis longus (EPL). Passes around Lister’s tubercle and is at risk in distal radius fractures (delayed rupture is a recognized complication). Compartment 4: Extensor digitorum communis (EDC) and extensor indicis proprius (EIP). Compartment 5: Extensor digiti minimi (EDM). Compartment 6: Extensor carpi ulnaris (ECU). In the digits, the extensor tendons form a complex extensor hood mechanism with the lumbricals and interossei. The central slip inserts on the dorsum of the middle phalangeal base, and the lateral bands continue distally to form the terminal extensor tendon inserting on the dorsum of the distal phalangeal base. The extensor tendon zones (Verdan) parallel the flexor zones: Zone I: DIP joint and distal. Site of mallet finger. Zone II: Middle phalanx. Zone III: PIP joint. Site of boutonnière injury (central slip disruption). Zone IV: Proximal phalanx. Zone V: MCP joint. Site of “fight bite” injuries. Zone VI: Dorsum of the hand. Zone VII: Wrist (extensor retinaculum). Zone VIII: Distal forearm.
+Verdan's extensor zones follow the same principle as the flexor zones but are more numerous. **Zone I** — DIP and distal (mallet finger). **Zone II** — middle phalanx. **Zone III** — PIP (boutonnière). **Zone IV** — proximal phalanx. **Zone V** — MCP ("fight bite" injuries, open by definition — requires debridement and delayed repair). **Zone VI** — dorsum of the hand. **Zone VII** — wrist (extensor retinaculum). **Zone VIII** — distal forearm. On the thumb — TI to TV from distal to proximal.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Compartment 3 (EPL) hooks around Lister's tubercle and is at risk of delayed rupture after distal radius fracture — a classical late complication. Compartment 1 (APL/EPB) is the site of de Quervain tenosynovitis. Central slip disruption at the PIP (zone III) produces boutonnière deformity; terminal extensor disruption at DIP (zone I) produces mallet finger.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Compartment 3 (EPL) is at risk of delayed rupture after a non-displaced distal-radius fracture — a patient with "thumb drop" 4–8 weeks after the injury (not on day 1).</li>
+    <li>EIP lies ulnar and distal to the EDC of the index — the standard donor for tendon transfer (Lipscomb-EIPL for reconstruction of a ruptured EPL), since independent index extension is preserved.</li>
+    <li>The radial sagittal band of the long finger tears with a punch → ulnar dislocation of EDC, "boxer's knuckle" — diagnosed by inability to initiate extension from full flexion while extension from MCP-neutral is preserved.</li>
+  </ul>
 </aside>
 
-## Intrinsic Hand Muscles
+</div>
+</details>
 
 
-## Thenar Muscles
+### Intrinsic Muscles
+<details id="intrinsics">
+<summary>Intrinsic Muscles</summary>
+<div class="ts-body">
 
-Abductor pollicis brevis (APB): Abducts the thumb. Innervated by the median nerve. The classical test for median nerve function. Opponens pollicis: Opposes the thumb. Innervated by the median nerve. Flexor pollicis brevis (FPB): Flexes the thumb MCP. Has dual innervation (median nerve for the superficial head, ulnar nerve for the deep head). Adductor pollicis: Adducts the thumb. Innervated by the ulnar nerve. The classical test for ulnar nerve function (Froment sign).
+**Thenar muscles.** Abductor pollicis brevis (APB) — abducts the thumb perpendicular to the palm; innervated by the median nerve (recurrent thenar branch); the classic clinical test for median motor function. Opponens pollicis — opposes the thumb; median nerve. Flexor pollicis brevis (FPB) — flexes the thumb MCP; dual innervation (superficial head — median, deep head — ulnar); the duality explains why some median-nerve palsies preserve limited thumb-MCP flexion. Adductor pollicis — adducts the thumb against the palm; innervated by the deep branch of the ulnar nerve; the classic test for ulnar motor function (Froment's sign).
 
-## Hypothenar Muscles
+**Hypothenar muscles.** Abductor digiti minimi (ADM), opponens digiti minimi, flexor digiti minimi brevis — all innervated by the deep branch of the ulnar nerve. ADM is the first muscle to recover after high ulnar palsy and is therefore often the target of neurotisation.
 
-Abductor digiti minimi (ADM): Abducts the small finger. Innervated by the ulnar nerve.
+**Lumbricals.** The four lumbricals arise from the FDP tendons in the palm and insert on the radial side of the extensor expansion of each finger. Function — MCP flexion with simultaneous IP extension ("intrinsic-plus" posture). Innervation — the radial two (index, long) from the median nerve, the ulnar two (ring, small) from the ulnar nerve. Ulnar nerve palsy → loss of the ulnar lumbricals and interossei → claw hand of digits IV and V (MCP hyperextension, IP flexion).
 
-Opponens digiti minimi: Opposes the small finger. Flexor digiti minimi brevis: Flexes the small finger MCP.
+**Interossei.** The four dorsal interossei abduct the fingers from the midline of digit III (PAD — Palmar ADduct, DAB — Dorsal ABduct); the three palmar interossei adduct. All interossei are innervated by the deep branch of the ulnar nerve. Their loss produces the "intrinsic-minus" posture and inability to flex the MCP while extending the IP (Bunnell's test — passive MCP extension weakens IP extension with intact interossei and does not change with paralysis).
 
-
-## Lumbricals
-
-The lumbricals (4 muscles) originate from the FDP tendons in the palm and insert into the radial side of the extensor expansion of each finger. Function: flex the MCP and extend the IP joints. Innervation: the radial two lumbricals (to the index and middle fingers) are innervated by the median nerve; the ulnar two lumbricals (to the ring and small fingers) are innervated by the ulnar nerve.
-
-
-## Interossei
-
-The dorsal interossei (4 muscles) abduct the fingers from the midline of the hand. The palmar interossei (3 muscles) adduct the fingers toward the midline. All interossei are innervated by the ulnar nerve. Loss produces clawing and intrinsic minus posture.
-
-## Neurovascular Anatomy
-
-
-## Digital Nerves and Arteries
-
-The digital nerves and arteries run along the lateral and medial aspects of each digit, with the artery typically dorsal and the nerve typically volar in the proximal aspect of the digit, then the relationship reverses with the nerve volar and the artery slightly dorsal in the distal aspect. The pattern is: Median nerve supplies the digital nerves to the radial three and a half digits (thumb, index, middle, and radial half of ring finger), the typical median nerve sensory distribution. Ulnar nerve supplies the digital nerves to the ulnar one and a half digits (small finger and ulnar half of ring finger). Radial nerve (superficial branch) supplies sensation to the dorsum of the radial three and a half digits proximal to the DIP joints.
-
-## Arteries
-
-The deep palmar arch (formed by the radial artery with contribution from the ulnar artery) and the superficial palmar arch (formed by the ulnar artery with contribution from the radial artery) supply the digital arteries. The arches anastomose at the level of the metacarpal bases and provide rich vascular supply with redundancy. The Allen test assesses the patency of the radial and ulnar arteries by occluding both, exsanguinating the hand by clenching, then releasing one artery and observing the rate of refill. The test is performed before radial artery harvest or before procedures that may compromise one of the arteries.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Two palmar arches with redundancy: deep arch (radial dominant) and superficial arch (ulnar dominant), anastomosing at the metacarpal bases. Allen's test confirms patency of both before any procedure that may compromise one of them (radial artery harvest, fistula creation, distal cannulation).</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>APB — test for the median nerve; adductor pollicis and the interossei — test for the ulnar nerve (Froment's sign, Wartenberg's sign of small-finger abduction).</li>
+    <li>"Intrinsic-plus" posture = lumbrical/interosseous function; "intrinsic-minus" = ulnar palsy with ulnar claw.</li>
+    <li>The FPB has dual innervation — partial thumb-MCP flexion in median-nerve palsy is a normal anatomic variant, not evidence of an intact nerve.</li>
+  </ul>
 </aside>
 
-## Principles of Hand Incisions
+</div>
+</details>
 
-The principles of hand incision design are essential to good outcomes: Avoid crossing flexion creases at right angles: This produces scar contracture across the crease, with subsequent loss of motion. Incisions should either parallel the creases or cross them at acute angles (typically less than 45 degrees), forming a “Z” or “step” pattern. Avoid longitudinal incisions on the volar surface of the digits: A straight longitudinal incision contracts and produces flexion contracture. The Bruner zig-zag incision (alternating diagonal incisions creating “Z” pattern over the volar digit) provides exposure while avoiding contracture. Mid-axial incisions on the digits: These straight longitudinal incisions along the lateral or medial mid-axis of the digit avoid crossing the volar creases entirely and provide good exposure for flexor tendon sheath and neurovascular work. The incision is placed at the most dorsal point of the volar flexion creases. Dorsal incisions: Generally have more flexibility but should respect the underlying extensor tendon and the venous and lymphatic drainage. Wrist incisions: The transverse wrist crease is generally avoided as a longitudinal incision site; the incision should either curve around the wrist or be placed proximal or distal to the crease.
 
-## Z-Plasty (Transposition of Opposing Triangular Flaps)
+### Neurovascular Anatomy
+<details id="neurovascular">
+<summary>Neurovascular Anatomy</summary>
+<div class="ts-body">
+
+**Digital nerves and arteries.** They run along the lateral and medial aspect of every finger. Proximally in the digit the nerve is volar and the artery dorsal; distally the relationship reverses. Sensory distribution: median nerve — thumb, index, long, and the radial half of the ring (palmar and the distal dorsal aspect); ulnar nerve — small finger and the ulnar half of the ring; superficial radial nerve — dorsum of the radial three-and-a-half digits proximal to the DIP. The autonomous (signature) zone for the median nerve is the radial palmar tip of the index; for the ulnar nerve — the ulnar palmar tip of the small finger; for the superficial radial — the dorsal first web space.
+
+**Palmar arches.** The superficial arch (arcus palmaris superficialis) is mainly a continuation of the ulnar artery with a contribution from the superficial palmar branch of the radial artery; it lies approximately at the distal palmar crease. The deep arch (arcus palmaris profundus) is mainly a continuation of the radial artery with a contribution from the deep branch of the ulnar artery; it lies more proximally, in front of adductor pollicis and the interossei, at the level of the metacarpal bases. The two arches anastomose through common digital and metacarpal arteries — the anatomic basis of the "double redundancy" of hand perfusion. The Allen test assesses radial and ulnar artery patency: compression of both, exsanguination by fist-closing, release of one artery and observation of reperfusion (normal under 5 s). It is performed before harvesting a radial graft, before radial cannulation, and before procedures on the distal radius.
+
+**Carpal tunnel and the median nerve.** The tunnel is bounded by the carpal-bone groove (scaphoid, trapezium, pisiform, hook of hamate) and the flexor retinaculum; it contains the median nerve and nine flexor tendons. The median nerve exits 0.5 cm below the distal border of the retinaculum; the recurrent thenar branch arises from the radial trunk (extraligamentous in 50%, transligamentous in 30%, subligamentous in 20%) and loops around the distal border of the retinaculum — at risk during division. The palmar cutaneous branch (to the thenar palmar skin) arises 5–7 cm proximal to the wrist and crosses superficial to the retinaculum — at risk from an incision extended too radially.
+
+**Guyon's canal and the ulnar nerve.** The canal is bounded by the volar carpal ligament (roof), the pisiform and hook of hamate (medial and floor), and opponens digiti minimi (deep floor). Within the canal the ulnar nerve divides into a superficial (sensory) and a deep (motor) branch; the deep branch loops around the hook of hamate toward the deep palmar arch. The Shea-McClain classification of ulnar-canal compression has three zones: I — proximal to the division (mixed deficit); II — motor only (deep-branch compression); III — sensory only (superficial-branch compression).
+
+**The dorsal sensory branch of the ulnar nerve** leaves the trunk 5–8 cm proximal to the wrist and passes dorsally beneath the flexor carpi ulnaris to the dorso-ulnar hand skin — the anatomic basis for its preservation during standard Guyon-canal release (it lies outside the field).
+
+**The superficial branch of the radial nerve** leaves the radial trunk in the mid-forearm, passes deep to brachioradialis, and becomes subcutaneous about 6–9 cm proximal to the radial styloid; it divides into 2–3 branches supplying the dorso-radial hand skin, including over the anatomic snuffbox. It often crosses the operative field at de Quervain and at the scaphoid and styloid — the main source of painful neuroma after careless division.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>The recurrent thenar branch of the median nerve has three variants of origin (extra-, trans-, subligamentous); divide the flexor retinaculum always from its ulnar side under direct vision.</li>
+    <li>The palmar cutaneous branch of the median nerve crosses superficial to the retinaculum — an incision extended too radially produces a painful neuroma.</li>
+    <li>The superficial branch of the radial nerve over the anatomic snuffbox — mandatory identification when approaching the scaphoid, de Quervain compartment, and during styloidectomy.</li>
+    <li>The radial artery in the anatomic snuffbox lies directly over the scaphoid — caution during dorso-radial scaphoid pinning.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+
+## Pathophysiology and Mechanism
+<section class="topic-section" id="pathophysiology">
+<details>
+<summary>Pathophysiology and Mechanism</summary>
+<div class="ts-body">
+
+The pathophysiologic principles of hand surgery cluster around four processes: **shortening of collateral ligaments and capsule** (intrinsic stiffness), **tendon adhesions** (extrinsic stiffness), **scar contracture of skin** (skin contracture), and **ischaemia with oedema** (Volkmann cascade in severe cases). Every operative plan is reasoned through these four prisms.
+
+**MCP collateral ligaments** are taut in flexion and lax in extension — the only collateral ligaments in the body with this geometry. With immobilisation in extension (the typical wrong "in-the-tap" position) they shorten in slack and within 7–10 days block subsequent flexion. The intrinsic-plus position of safety with MCP at 70–90° flexion and IP in full extension is therefore the standard for every hand immobilisation unless a specific operative requirement dictates otherwise.
+
+**Tendon adhesions.** After any contact between tendon and surrounding tissue (synovial sheath, fascia, skin, bone) adhesions form and restrict gliding. Zone II of the flexors is the most vulnerable because of the tight osseofibrous canal, the parallel gliding of FDS and FDP, and the limited compensatory reserve. The Strickland-Tang concept of early protected active motion uses low-load controlled motion in the first 24–48 hours after repair to maintain gliding without compromising suture strength; the rationale is biomechanical data showing that a 6–8-strand repair withstands forces exceeding those of palpable flexion attempts during passive motion.
+
+**Skin scar contractures.** A longitudinal scar on a volar surface (palm, finger, wrist) shortens along its length and pulls the underlying joints into flexion — the substrate of post-burn and post-traumatic flexion contractures. The principle of incision design (avoiding longitudinal incisions across flexion creases and using Bruner, midlateral, or Z-extensions) is the direct consequence. Limberg's Z-plasty (see Classification and Treatment) breaks the longitudinal geometry of the scar, lengthens it along the central axis, and redirects the tension transversely.
+
+**Volkmann cascade.** Raised pressure in a closed compartment (typically after a supracondylar fracture, a distal-radius fracture with overtight bandaging, or direct trauma with intramuscular haemorrhage) compromises capillary perfusion pressure; myofibrils undergo necrosis, followed by fibrous replacement and retraction; the result is acute shortening of the finger and wrist flexors with the pathognomonic "intrinsic-minus + flexed wrist" posture. Prevention is recognition of compartment syndrome within the first 6 hours and fasciotomy before irreversible change.
+
+</div>
+</details>
+</section>
+
+
+## Clinical Presentation and Diagnosis
+<section class="topic-section" id="clinical">
+<details>
+<summary>Clinical Presentation and Diagnosis</summary>
+<div class="ts-body">
+
+The hand examination follows a structured sequence: inspection (posture, colour, muscle atrophy, nails, scars), palpation (point tenderness, masses, temperature change), active range of motion by segment (wrist, MCP, PIP, DIP), passive range with end-feel, strength (Jamar dynamometer for grip, pinch meter for pinch), neurovascular status (motor by myotome, sensory by dermatome, two-point discrimination on the pulp with a norm under 5 mm, nail refill, Allen test), functional prehension (tip, key, cylindrical, hook, power).
+
+**Structure-specific tests.** For FDP — isolated active DIP flexion while holding the PIP in extension (Jones' test). For FDS — active PIP flexion while holding all adjacent fingers in full extension (isolates FDS because FDP share a common muscle belly and cannot flex independently). For EPL — the thumb rests on the table with the volar surface down and the patient actively lifts the distal phalanx off the plane (only EPL can perform this motion). For median nerve motor — APB (thumb perpendicular to the palm); sensory — two-point discrimination on the palmar pulp of the index. For ulnar nerve motor — adductor pollicis (Froment's sign, in which the patient compensates with FPL — IP flexion during key pinch); abductor digiti minimi (Wartenberg's sign of small-finger abduction). For radial nerve motor — active MCP extension of fingers and thumb.
+
+**Imaging.** Standard radiographs in two projections (PA and lateral) are the first imaging tool for any suspected bony injury. Additional views as indicated — Brewerton (for MCP), Stecher (for scaphoid), Norgaard (for early rheumatoid arthritis), stress views (for carpal instability). CT — for complex intra-articular fractures, for suspected occult scaphoid fracture with negative radiograph, and for preoperative planning of joint reconstruction. MRI — for soft-tissue pathology (tendinitis, tenosynovitis, ganglion, tumour), scaphoid AVN, early osteomyelitis, and ligament injuries (SL, LT, TFCC). Bone scan — for suspected occult fracture (especially scaphoid), metastatic disease, rheumatoid involvement. Wrist arthroscopy — for persistent unexplained pain, suspected TFCC lesion with negative MRI, early osteoarthritis amenable to debridement.
+
+**Electrodiagnostics (EMG/NCS).** Standard in carpal tunnel syndrome, Guyon-canal syndrome, cubital tunnel syndrome, and for level-of-injury assessment. Allows distal vs. proximal (plexus, root) discrimination and severity grading. Diagnostic standard for carpal tunnel syndrome — prolonged distal motor latency above 4.5 ms and sensory latency above 3.5 ms on the median nerve; for cubital tunnel — reduced conduction velocity across the elbow below 50 m/s.
+
+</div>
+</details>
+</section>
+
+
+## Classification
+<section class="topic-section" id="classification">
+<details>
+<summary>Classification</summary>
+<div class="ts-body">
+
+**Flexor tendon zones (Verdan).** I — distal to the FDS insertion; II — "no man's land" from A1 to the FDS insertion; III — between the carpal tunnel and A1; IV — carpal tunnel; V — proximal to the carpal tunnel. On the thumb T1 — T3 with the oblique pulley as the central landmark.
+
+**Extensor tendon zones (Verdan).** I — DIP (mallet); II — middle phalanx; III — PIP (boutonnière); IV — proximal phalanx; V — MCP (fight bite); VI — dorsum of the hand; VII — wrist; VIII — distal forearm. On the thumb T(I–V) sequentially from distal to proximal.
+
+**Dupuytren's contracture — Matev classification (1962).** Grade 0 — subcutaneous nodule without flexion contracture. I — flexion contracture only at the MCP. II — flexion contracture at the MCP and PIP. III — contracture of all three joints, typically with compensatory DIP hyperextension. The alternative international scheme is Tubiana's (stages 1–4 by total extension deficit).
+
+**Thumb-in-palm contracture — House classification.** I — spastic flexion-adduction, corrected without tendon transfer; II — MCP flexion contracture requiring capsulotomy; III — combined MCP flexion and instability; IV — combined contracture with MCP instability and IP flexion (requires arthrodesis). Correlates with the three-stage Matev correction.
+
+**Syndactyly — pathogenetic.** Embryonic, amniotic (Streeter bands), and syndromic (Apert, Poland, Greig, Carpenter). By depth — cutaneous and osseo-cutaneous; by extent — complete, partial, acrosyndactyly (only at the tips).
+
+**Volkmann's contracture — Tsuge classification.** Mild (muscle involvement only, no neurologic deficit) — Tsuge selective resection with Z-lengthening; moderate (more extensive muscle involvement with mild neurologic deficit) — adds neurolysis; severe (extensive necrosis with severe neurologic deficit) — requires free functional muscle transfer (gracilis).
+
+**Z-plasty — geometric variants.** 30° → 25%, 45° → 50%, 60° → 75% (standard for the hand), 75° → 100%, 90° → 120%. Serial Z — for long linear scars; four-flap Z (164%) — for the first web; Y-V and V-Y (Imre) — for point contractures.
+
+**Thumb opposition scale (Kapandji 1980).** 0–10 grades by the distance between the thumb tip and the palmar surface of digits II–V: 0 — thumb to the lateral surface of the index at the PIP; 10 — thumb to the distal palmar crease of the small finger. The functional test of thumb opposition after reconstruction.
+
+</div>
+</details>
+</section>
+
+
+## Treatment
+<section class="topic-section" id="treatment">
+<details>
+<summary>Treatment</summary>
+<div class="ts-body">
+
+
+### Nonoperative
+<details id="nonoperative">
+<summary>Nonoperative</summary>
+<div class="ts-body">
+
+**Positions of immobilisation.** The two basic positions, established by Bunnell and elaborated in the Bulgarian school, are the resting position (relaxation) and the functional position (intrinsic-plus). The functional position is: wrist at 20° dorsiflexion; MCP at 70–90° flexion (collateral ligaments taut); PIP and DIP in near-full extension. This is the standard for hand immobilisation unless a specific operative requirement dictates otherwise. The resting position (wrist neutral, MCP 30°, PIP 45°, DIP 10°) is chosen for acute conditions in which full intrinsic-plus posture is not tolerated.
+
+After flexor tendon repair — wrist in 10–20° flexion, MCP in 50–70° flexion, IP in near-full extension (suture protection by a dorsal blocking splint). After extensor repair in zone I (mallet) — DIP in full extension with a Stack splint for 6–8 weeks; in zone III (boutonnière) — PIP in full extension with free DIP for 6 weeks. For a scaphoid fracture — short arm cast including the thumb for 6–12 weeks depending on the level.
+
+**Splinting and dynamic splints.** Dynamic splints (Capener for PIP flexion contracture, reverse splints for PIP extension contracture, opposition splints for median-nerve palsy) use low-load prolonged stretch (LLPS) to correct joint contractures. Serial casting with progressive correction every 7–10 days is an alternative for severe PIP flexion contractures.
+
+**First aid for fresh injuries.** Toilet of the injured hand starts with double copious irrigation with 0.5% ammoniacal solution; the wound itself is irrigated with saline, or — for heavy contamination — with a moderate stream of tap water. The surroundings are cleansed sequentially with iodine-benzine, alcohol, and iodine. Tetanus prophylaxis is mandatory. Anaesthesia is most often conduction at three levels: palmar digital nerves — at the MCP level; median and ulnar nerves — at the wrist or in the axilla (axillary block). Esmarch's bandage is contraindicated for exsanguinating the entire arm (radial-nerve palsy); use a pneumatic cuff above systolic pressure instead.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The intrinsic-plus position (wrist 20° dorsi, MCP 70–90° flexion, IP extension) is the standard — the only position that stretches the MCP collaterals and prevents their shortening.</li>
+    <li>"The patient is always right when complaining about the immobilisation of his hand" (Boychev) — postoperative pain beneath the cast must be treated as a signal of compartment syndrome, not a normal phenomenon.</li>
+    <li>Skin sutures are removed on postoperative day 10–12.</li>
+  </ul>
+</aside>
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>MCP immobilisation in extension — collateral-ligament shortening in slack, followed by permanent loss of flexion. Never immobilise "in-the-tap" position.</li>
+    <li>Esmarch bandage for whole-arm exsanguination → radial-nerve palsy from nerve compression above the elbow. The standard is a pneumatic cuff above systolic pressure.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Operative
+<details id="operative">
+<summary>Operative</summary>
+<div class="ts-body">
+
+<details>
+<summary>Principles of incision design</summary>
+<div class="ts-body">
+
+The six basic rules of the Bulgarian school:
+
+1. Surgical incisions follow the natural skin creases of the hand and digits or their neutral lines. Longitudinal incisions on the palm and on the palmar surface of the digits are absolutely contraindicated — crossing the natural transverse creases at right angles produces scar contracture.
+2. The Bruner zigzag incision is the standard for the volar finger and palm when approaching the flexor sheath and neurovascular bundles — alternating oblique limbs at 60–90° angles between two adjacent flexion creases.
+3. The midlateral incision is an alternative along the lateral or medial mid-axis of the finger, placed at the most dorsal point of the volar flexion creases — the only true "neutral line".
+4. In fresh injuries, extending a wound to reach a retracted tendon stump is done along a neutral line or with a Z-extension, never as a straight longitudinal advance.
+5. Dorsal incisions respect the extensor hood and the venous and lymphatic drainage; branching (lazy-S) and C-shaped variants are available for wider exposure.
+6. The "fish-mouth" incision for purulent disease of the hand is strictly forbidden — it destroys the pulp skin, which is irreplaceable. For felon, use lateral neutral-line or classical longitudinal palmar incisions along the neutral lines.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>A "fish-mouth" incision on the digital pulp is absolutely contraindicated — it destroys the glabrous skin essential to stereognosis.</li>
+    <li>A longitudinal incision through the volar wrist crease leads to a keloid scar that compromises extension — always use Bruner or a Z-extension.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Z-plasty — geometry and technique</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/zplasty-geometry.svg" data-figure-alt="Z-plasty geometry (60-60-60)" aria-label="Enlarge">
     <img src="/img/anatomy-6/zplasty-geometry.svg" alt="Z-plasty geometry (60-60-60)" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Geometric scheme of the Z-plasty: a central limb along the longitudinal scar and two lateral limbs at 60° in opposing directions. After undermining and transposition of the two triangular flaps the new central limb runs perpendicular to the original — yielding ~75% lengthening along the contracture axis (coefficient 1.73).</span>
+    <span class="md-figure-caption">Geometric scheme of the Z-plasty: a central limb (along the longitudinal scar) and two lateral limbs at 60° in opposite directions. After undermining and transposition of the two triangular flaps, the new central edge runs perpendicular to the original — yielding about 75% lengthening along the contracture axis (factor 1.73).</span>
     <span class="md-figure-attribution"> · Evan Mason, <a href="https://commons.wikimedia.org/wiki/File:Z_Plasty.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
+The Z-plasty — plasty by transposition of opposing triangular flaps — is a fundamental technique for lengthening longitudinal scar contractures, keloid scars along flexion creases, and for modelling body surfaces. The method was developed theoretically with trigonometric models by A. A. Limberg (1946) and widely applied in hand surgery, particularly for post-burn and post-traumatic finger contractures.
 
-The Z-plasty, theoretically and practically developed with trigonometric modeling by A. A. Limberg (1946), is a fundamental hand surgery technique for lengthening longitudinal scar contractures, breaking up keloid ridges across flexion creases, and modeling surface depressions (including amniotic constriction rings). The principle is transposition of two triangular flaps that redirects tension along a new axis and replaces the longitudinal contracture geometry with a perpendicular central limb, lengthening the tissue along the original contracture axis.
+**Principle.** Transposition of two triangular flaps to redirect the tension along a different axis, producing lengthening along the original scar axis and simultaneously breaking the longitudinal geometry by placing the new central edge transversely.
 
-## Geometry and Quantitative Efficiency
+**Classical single figure.** Two equilateral triangular flaps with 60° angle and equal sides of 1–2 cm. The central limb coincides with the longitudinal scar, which is incised along its length (but not excised). After undermining the flaps are rotated and swapped: the proximal flap takes the distal position and vice versa. The central limb after transposition runs perpendicular to its original direction — precisely this change of orientation produces the lengthening along the contracture axis.
 
-The classical single figure uses two equilateral triangular flaps with 60-degree angles and equal sides of 1–2 cm. The central limb is shared by both flaps and lies along the longitudinal scar (incised, not excised). After elevation the flaps swap positions: the proximal flap descends, the distal flap ascends, and the new central limb runs perpendicular to the original — the source of length gain along the contracture axis.
+**Quantitative efficiency.** 30° → 25%; 45° → 50%; **60° → 75% (the hand standard)**; 75° → 100%; 90° → 120% (theoretical, requiring perpendicular skin reserve and compromising the tips). Angles below 45° are inefficient and frequently necrose; angles above 75° are practically impossible because of insufficient lateral skin.
 
-Quantitative efficiency of the symmetric single figure depends entirely on the angle:
+**Standard sequence.** 1) Draw the three lines on the skin with dye (central limb along the scar, lateral limbs at the chosen angle, usually 60°, in opposite directions). 2) Skin incision with a cutting scalpel down to subcutis. 3) Raise the two triangular flaps with a thin layer of subcutaneous tissue without exposing dermis (preservation of the subdermal plexus is critical for viability). 4) Transpose the flaps and secure the tips with two fine sutures each. 5) Close the newly positioned central edge with simple sutures (4/0–5/0 silk or monofilament).
 
-•   30° → ~25% gain along the central axis.
-•   45° → ~50% gain.
-•   60° → ~75% gain (coefficient 1.73); for a 3-cm central limb, ~2.2 cm absolute gain. This is the standard in hand surgery.
-•   75° → ~100% gain, with significant flap tension.
-•   90° → ~120% theoretical gain, but rarely feasible due to lack of perpendicular skin reserve and flap-tip ischemia.
+**Modifications.** Serial Z-plasties — successive single figures distributed along a long linear contracture; the total lengthening is the sum of the individual values. Planimetric Z with a shared central incision — for broad irregular scars. Four-flap Z — primarily for the first web in severe adduction contracture, yielding about 164% lengthening. Y-V and V-Y plasty (Imre) — an alternative for point contractures.
 
-Angles below 45° are inefficient and flap tips often necrose; angles above 75° are usually impossible due to insufficient adjacent skin. The 60° single figure remains the workhorse.
+**Applications in the hand.** Release of post-burn contractures along the flexion creases of fingers and palm; Dupuytren's contracture (at the level of the palmar fascia and skin simultaneously); incision design when a planned incision would cross a flexion crease; deepening of the first web (commissura I) in adduction contracture of the thumb; syndactyly — triangular flaps for fashioning the new commissure; revision surgery for keloid scars over the wrist and forearm.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Limberg's elongation coefficients for the symmetric single Z-plasty: 30° → 25%, 45° → 50%, 60° → 75%, 75° → 100%, 90° → 120%. In practice the 60° figure is used — best balance between gain and flap viability. Flaps are not undermined deeply (subdermal plexus must be preserved), the central limb is incised without excision, and sides are 1–2 cm.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Limberg's lengthening factors: 30° → 25%, 45° → 50%, 60° → 75% (standard), 75° → 100%, 90° → 120%.</li>
+    <li>Triangular flaps are not deeply undermined — devascularisation leads to tip necrosis; the central scar is incised without excision; sides 1–2 cm.</li>
+    <li>For uneven elasticity of the two sides — asymmetric angles (larger angle on the side with more skin reserve).</li>
+  </ul>
 </aside>
 
-## Operative Technique and Modifications
+</div>
+</details>
 
-Standard sequence: 1) mark the three lines with dye (central limb along the scar, oblique limbs at 60° in opposite directions); 2) incise to subcutaneous tissue; 3) elevate flaps with a thin layer of subcutaneous fat, preserving the subdermal plexus; 4) transpose and apex-suture with two fine sutures; 5) close the new central edge with simple sutures (4/0–5/0 silk or monofilament). With unequal skin elasticity on the two sides, asymmetric angles can be used (larger angle on the side with more reserve).
+<details>
+<summary>Atraumatic technique (Boychev school)</summary>
+<div class="ts-body">
 
-Modifications:
+The atraumatic technique combines a set of specific requirements and devices for "physiologic operating" — a concept opposed to broad "exposure" incisions that effectively devascularise and denervate sensitive structures.
 
-•   Multiple Z-plasties — serial single figures distributed along a long linear contracture (post-burn scars on the forearm or palm). Total gain is the sum, without cumulative distal tension.
-•   Planimetric Z-plasty — adjoining or partially overlapping central limbs between two figures, used for broader or irregular scars.
-•   Four-flap Z-plasty — first web space of the thumb in severe adduction contractures; provides ~164% gain.
-•   Y-V advancement (Imre) — alternative for small focal contractures.
+Exsanguinated operative field — pneumatic cuff (about 100 mmHg above systolic for the upper limb); single inflation up to 90 minutes with mandatory reperfusion pause before re-inflation. Magnification — operating microscope or loupes (×2.5–×4.5) for precise tissue differentiation. "Liquid environment" — continuous irrigation with saline. Gentle instruments — skin edges are held with fine hooks or single sutures, never with a coarse clamp; tendon is grasped only on parts that will be excised. Layered tissue separation — no rough blunt dissection; identification and gentle ligation of small vessels with a microcautery or fine mosquito clamps and 4–5/0 catgut. Microdrainage — at completion, a "Hemovac"-type aspiration microdrain can be placed for 24–48 hours.
 
-## Applications in Hand Surgery
+Preparation includes double washing of the hand and forearm with brush and soap for 10 minutes the day before surgery, short trimming of nails, sterile wrapping in the evening, and shaving up to the elbow on the morning of surgery.
 
-The Z-plasty is used for post-burn flexion crease contractures, Dupuytren contracture release at fascia and skin simultaneously, surgical incision design across flexion creases, first web space deepening (a single 60° figure for commissura I; serial figures for complex commissural syndactyly), syndactyly correction (triangular flaps creating the new commissure), and revision of keloid scars across the wrist and forearm.
-
-## Atraumatic Hand Surgery Technique (Boychev School)
-
-The atraumatic technique of the Bulgarian school is the conceptual creed of hand surgery, combining several specific principles to achieve "physiologic operating" in the strictest sense. The concept is opposed to broad "overview" exposures that effectively devascularize and denervate these highly sensitive structures. Core principles:
-
-•   Bloodless field — pneumatic tourniquet ~100 mmHg above systolic; single inflation up to 90 min, with mandatory deflation–reperfusion–reinflation cycle.
-•   Magnification — operating microscope or loupes (×2.5–×4.5) for precise tissue differentiation.
-•   "Liquid environment" — continuous irrigation with saline to prevent surface drying and adhesions.
-•   Gentle instruments and stay sutures — skin edges held by fine hooks or single sutures, never grasped with rough clamps. Tendon is grasped only on portions that will be excised.
-•   Layered, sharp dissection — no rough blunt dissection; small vessels are identified and coagulated with microbipolar or ligated with 4–5/0 catgut.
-•   Microdrain — at completion an aspiration microdrain is placed for 24–48 h to prevent hematoma and adhesions.
-
-Patient preparation: scrubbing twice for 10 minutes with brush and soap the day before, sterile dressing, shaving to the elbow the morning of surgery.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Atraumatic hand surgery technique of the Boychev school is the conceptual creed of Bulgarian hand surgery: bloodless field, magnification, continuous saline irrigation, gentle instruments, stay sutures instead of rough clamps. "The patient is always right when complaining about hand immobilization" — the rule for the postoperative period, alongside elevation, motion of unimmobilized joints, and patency of the drain. Skin sutures are removed on postoperative day 10–12.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The atraumatic technique is the conceptual creed of Bulgarian hand surgery: exsanguinated field, magnification, irrigation, gentle instruments, holding sutures.</li>
+    <li>Pneumatic cuff — 100 mmHg above systolic, 90 minutes, with a mandatory reperfusion pause.</li>
+  </ul>
 </aside>
 
-## Immobilization Positions and Functional Position
+</div>
+</details>
 
-The two principal positions, established by Bunnell and refined in the Bulgarian school, are the rest position and the functional (intrinsic-plus) position. The functional position is: wrist in 20° dorsiflexion; MCP joints in 70–90° flexion (collateral ligaments taut); PIP and DIP joints in near-full extension. This position preserves maximum collateral ligament length at the MCP and prevents joint stiffness, the principal late enemy of hand surgery. The rest position is mild flexion at all joints. After flexor tendon repair, joint flexion is minimal (5–10°); after dorsal expansion repair at DIP, the distal phalanx is immobilized in hyperextension.
+<details>
+<summary>Carpal-tunnel release</summary>
+<div class="ts-body">
 
-When flexed, the fingertips point toward the scaphoid — the basic clinical test of normal digital rotation, which must be verified after every metacarpal or phalangeal osteosynthesis. A 5–10° rotational deficit produces overlap and is functionally catastrophic.
+Carpal-tunnel release is the most common hand operation. The classical open approach uses a longitudinal palmar incision, parallel to the thenar crease, about 2–3 cm distal to the distal wrist crease. The incision runs along the radial border of the ring finger to avoid distally the superficial palmar arch and proximally the palmar cutaneous branch of the median nerve (which crosses the wrist crease on the radial side of palmaris longus).
 
-## Acute Hand Wound Management
+The palmar fascia is incised; the flexor retinaculum is identified and fully divided from its ulnar side (to protect the recurrent thenar branch). The median nerve is identified and protected. The release is extended proximally and distally to complete division of the ligament; proximal release is extended through a short incision on the distal antebrachial fascia, since residual compression at the proximal edge of the retinaculum is a common source of persistent symptoms.
 
-Acute hand wounds require competent management with appropriate instruments and atraumatic technique, since "the fate of the injured hand is determined by the manner and competence of the primary treatment." Wound toilet starts with double washing of the area, hand, and forearm in 0.5% ammonia solution; the wound is irrigated with saline (or moderate tap-water stream if heavily contaminated); skin around the wound is cleaned with iodine-benzine, alcohol, and iodine. Tetanus prophylaxis per local protocol.
+The procedure can also be performed endoscopically (Chow two-portal or Agee single-portal) through a small proximal incision and an endoscopic knife — reduced postoperative pain but similar long-term results.
 
-Anesthesia is most often regional at three levels: palmar digital block at MCP level; median and ulnar block at the wrist or axillary block. Local anesthesia is used for isolated skin/subcutaneous or dorsal expansion injuries. Multiple tendon/nerve injuries, crush, and avulsions need general anesthesia. The Esmarch bandage is contraindicated for arm exsanguination (radial nerve palsy); a pneumatic cuff above systolic pressure is used instead.
-
-The wound is inspected under magnification with removal of clots and foreign bodies. Lacerations on the digits with suspicion of deeper injury are extended along natural creases — transverse digital wounds are extended in bayonet fashion along neutral lines, or along one lateral neutral line only. Skin edges of clean lacerations are typically not freshened to preserve closure quality.
-
-Clean lacerations can be closed primarily up to 24 hours after injury, sometimes later if the wound is calm and antibiotic prophylaxis is provided. Sequence of repair in multiple-structure injury: artery → tendons → nerve. Skin closure is last.
-
-## Principles of Hand Incisions
-
-Six rules established in the Bulgarian school:
-
-1.  Incisions follow the natural skin creases or their neutral lines. Longitudinal incisions across the palmar surface or finger crossing flexion creases at right angles are absolutely contraindicated — they produce scar contracture.
-2.  The Bruner zig-zag is standard for the volar digit and palm — alternating oblique limbs at 60–90° angles between adjacent flexion creases.
-3.  The mid-axial (mid-lateral) incision is the alternative along the lateral or medial dorsalmost edge of the volar flexion creases — the only true "neutral line."
-4.  Extension of an acute wound to access a retracted proximal tendon end is always along a neutral line or with a Z extension, never along a longitudinal path.
-5.  Dorsal incisions respect the extensor mechanism, venous, and lymphatic drainage; branching (lazy-S) and C-shaped extensions are available.
-6.  The "fish-mouth" incision of the digital pulp is absolutely forbidden — it destroys the stereognostic pulp skin, irrecoverable if infected. For paronychia and felons, lateral neutral or classical linear palmar incisions are used.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>"Fish-mouth" incision of the digital pulp is absolutely contraindicated — it destroys the stereognostic pulp skin, irrecoverable after infection and necrosis. For paronychia use lateral neutral incisions or classical linear palmar incisions along neutral lines. Longitudinal incision across the volar wrist crease produces a keloid that compromises extension.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Place the incision along the radial border of the ring finger and 2–3 cm distal to the wrist crease — too radial risks the palmar cutaneous branch; too distal — the superficial palmar arch.</li>
+    <li>Never cross the wrist crease longitudinally; if extension is needed — Bruner or oblique along the distal crease.</li>
+    <li>Divide the retinaculum from its ulnar side — protects the recurrent thenar branch in all three anatomic variants.</li>
+  </ul>
 </aside>
 
-## Skin Coverage Hierarchy for Acute Injuries and Defects
+</div>
+</details>
 
-The Bulgarian school hierarchy for hand skin coverage:
+<details>
+<summary>Trigger finger and trigger thumb release</summary>
+<div class="ts-body">
 
-1.  Edges of clean lacerations are not freshened, preserving the coverage potential; only fat is removed if portions are to be used as pedicle grafts.
-2.  Strategic sites (torus tactilis, thenar, hypothenar, and especially thumb and finger pulps) require sensate flaps with preserved innervation and vascularity — adjacent pedicle flaps or thick full-thickness grafts from the ulnar side of the hand (where skin matches palmar skin morphology).
-3.  Larger defects: split-thickness graft acts as passive coverage but never acquires the functional and sensory quality of native hand skin.
-4.  Small areas (a few square millimeters) heal secondarily with a punctate scar without need for grafting.
-5.  Distant pedicle flaps (abdominal, thoracic, "Italian" technique) are reserved for cases without other option.
+Stenosing tenosynovitis of flexor pollicis longus (trigger thumb) and of the finger flexors (trigger finger), when conservative treatment fails, is released surgically.
 
-## Local Rotation Flaps and the Karchinov Technique
+**Trigger thumb.** Transverse incision along the palmar crease at the base of the thumb (along the proximal of the two creases when present); blunt spreading of subcutis with a mosquito clamp; lateral retraction of the two palmar neurovascular bundles; the A1 pulley is identified and incised longitudinally. The sheath opening must extend distally beyond the midpoint of the proximal phalanx — otherwise during flexion the tendon will bowstring beneath the skin (painful). Nothing is done to the tendon itself, even if thickened — releasing the canal is sufficient. **Cave** — the oblique pulley of the thumb is never divided; A1 release is enough.
 
-Rotation flaps from the lateral surface of the digit with proximal pedicle are standard for volar coverage in mild-to-moderate flexion contracture release. Length:width ratio not exceeding 2:1; the flap is marked with dye, elevated with adequate subcutaneous tissue, and shaped before the contracture release.
+**Trigger finger.** The incision runs along the distal palmar crease in the involved digit (proximal crease for the index). Skin is sharply undermined and mobilised more distally; skin edges are retracted; the flexor sheath is exposed; A1 is carefully divided, protecting the adjacent neurovascular bundles.
 
-The palmar sensate flap by Karchinov — a Bulgarian modification — mobilizes an island flap on a neurovascular pedicle from the ulnar side of digit III or IV. The incision runs along the ulnar neutral line of the finger and continues zig-zag across the palm to the superficial palmar arch; the common digital nerve is split longitudinally, the proper digital artery to the adjacent finger is ligated near the bifurcation, and the sensate flap is mobilized and rotated onto the recipient pulp.
+**De Quervain's disease.** Stenosing tenosynovitis of the first dorsal compartment (APL and EPB) is released through a transverse or oblique incision on the dorso-radial wrist over the first compartment. Under protection of the superficial branches of the radial nerve (often 2–3 crossing the field) a small portion of the sheath is incised, then opened completely under a mosquito clamp. Check for an extra septum carrying EPB in its own subcompartment — present in 30–40% of cases and a recurrence factor if missed.
 
-The Cronin (1969) and Brailliar-Horner (1969) cross-finger flap transfers a dorsoradial flap from the proximal phalanx of the index finger to the thumb pulp; with simultaneous index amputation it can include the palmar neurovascular bundles of the index, significantly improving viability and sensation.
+</div>
+</details>
 
-## Neurovascular Pedicle Flaps (Littler, Holevich)
+<details>
+<summary>Primary flexor tendon repair</summary>
+<div class="ts-body">
 
-The classical Littler island flap (1959) transfers an island from the ulnar side of digit III or IV on a neurovascular pedicle, ligating the proper digital artery to the adjacent finger near its origin, splitting the common digital nerve, and tunneling the flap subcutaneously to the thumb pulp for sensate reconstruction.
+Primary flexor tendon repair within the first 24 hours after a sharp injury — or in a clean wound up to 3 days (delayed primary repair) — is the choice when an experienced surgeon, adequate instruments, suture material, and conditions for protected postoperative motion are available. Anaesthesia is general or axillary block; extensor injuries may be done under local. The manoeuvre for delivering the distal stump is finger flexion; for the proximal stump — "milking" of the forearm musculature distally and wrist flexion. The proximal stump often must be retrieved through a new proximal incision (never grasp the tendon blindly with an instrument — irreversible damage).
 
-The Holevich method is a Bulgarian three-variant modification using the dorsoradial surface of the index finger:
+The standard configuration is a 4-strand core suture by modified Kessler with 3/0 or 4/0 synthetic monofilament or braided material, reinforced with a continuous 6/0 epitendinous suture around the circumference. This combination provides sufficient strength for early protected active motion under Strickland or modified Duran protocols. Modern 6- and 8-strand configurations (Cruciate, Adelaide, Strickland-Tang) provide even higher strength and allow more aggressive rehabilitation in experienced hands. Pulleys A2 and A4 are preserved obligatorily; if tendon passage through A2 is required — open a window in cruciate C1 or C3.
 
-1.  Dermal-fat flap including one or two terminal branches of the radial nerve, tunneled into the dermal layer of the thumb skin. Sensation recovers over 2–3 months but never reaches fine stereognosis.
-2.  Island flap from the dorsoradial side of the proximal phalanx of digit II on neurovascular pedicle, tunneled to the thumb tip.
-3.  Racquet flap — the third and most commonly applied modification; the skin island is extended proximally as a narrow dorsal handle, giving more mobility and safer donor closure.
+To protect the deep flexor repair, a transungual holding suture is placed and fixed to the skin proximally in the palm. Immobilisation in a dorsal blocking cast with wrist in slight flexion (10–20°), MCP in 50–70° flexion, IP in near-full extension for 3 weeks.
 
-The Holevich-Paneva double-pedicled island flap transfers a 7×1.5 cm island from the entire dorsoradial surface of digit II from the distal palmar crease to the proximal third of the proximal phalanx, on two neurovascular pedicles — dorsal (radial nerve branch with artery and 1–2 veins) and volar (radial proper volar digital artery with dorsal branch). This double-pedicle construct is one of the most reliable options for thumb reconstruction with sensate coverage.
+For zone II injuries surgical delicacy is at its maximum: typically only the deep flexor is repaired and the superficialis often excised (which reduces the volume in the sheath and the adhesion risk). When the necessary conditions are not available, it is best to close the skin, splint, and refer the patient immediately to a specialised centre.
 
-## Replantation of Devitalized or Avulsed Skin (Krasovitov Method)
-
-The classical method of M. V. Krasovitov (Kuban, 1930s) for replantation of devitalized or completely avulsed skin flaps from the hand, forearm, or whole limb in severe avulsion injury and elephantiasis remains a valuable parsimonious alternative to free grafting. After mechanical disinfection the entire subcutaneous tissue is excised with sharp scalpel, scissors, or razor — for larger areas the Humby knife or dermatome is used, the skin placed inverted on the drum, and the subcutis with part of the dermis is shaved off. The resulting thin full-thickness graft is perforated to avoid seroma and replanted on the patient's own raw bed. Indications include severe elephantiasis (subcutaneous fascia excision with own-skin replantation), avulsion ("degloving") injury of the hand with the skin entirely detached but preserved as a continuous sheet, and revision surgery in donor-depleted patients. Adherence follows the principles of full-thickness graft take, with the advantage of returning native skin to the patient — better long-term function and sensation.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>The Krasovitov method is an important strategy for hand degloving injuries: the entire avulsed but continuous skin is defatted to a full-thickness graft with the Humby knife or dermatome, perforated, and replanted onto the patient. The alternative — free grafting from a distant donor — sacrifices new skin and gives less functional return in strategic zones.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Repair sequence in combined injuries: artery → tendons → nerves → skin.</li>
+    <li>Standard: 4-strand modified Kessler 3/0–4/0 + 6/0 epitendinous; modern 6–8-strand configurations enable more aggressive rehabilitation.</li>
+    <li>Preserve A2 and A4; create a window in C1/C3 cruciate when needed.</li>
+  </ul>
 </aside>
 
-## Free Skin Grafting and Allografting
+</div>
+</details>
 
-Split-thickness skin graft (STSG, 0.3–0.5 mm) is taken with an electric dermatome from the contralateral thigh or the ulnar side of the same forearm and provides passive coverage of larger defects without recovering native functional or sensory properties. Full-thickness graft from the ulnar side of the hand or retroauricular area is preferred for strategic sites (pulps, thenar).
+<details>
+<summary>Two-stage flexor reconstruction by Paneva–Holevich</summary>
+<div class="ts-body">
 
-Skin allografts (fresh or tissue-bank preserved) face immunological incompatibility; durable take is achieved only between identical twins. Deep freezing, irradiation, or chemical treatment reduce immunogenicity but allograft serves as a biological dressing until epithelialization from the recipient edges.
+The Bulgarian two-stage flexor reconstruction by Paneva–Holevich is one of the iconic procedures of Bulgarian hand surgery. Its advantage is to allow quiet healing of the graft to the deep flexor in the palm first, so that only the second stage performs transposition of the pedicled graft to the distal phalanx in an environment free of adhesions and at ideal tension.
 
-## Syndactyly — Operative Treatment
+**Stage 1** (combined with primary wound care for fresh injuries or as a stand-alone procedure for old injuries). Anaesthesia — local or axillary block. A small flap incision in the proximal palm exposes the flexor tendons at the lumbrical level. With a razor blade both flexors are cut at the same level. The paratenon of the superficialis is dissected back 0.5 cm and the exposed portion of the tendon is removed. The two stumps are adapted so that the deep flexor lies on the superficialis. The repair is a Pulvertaft weave at the proximal insertion fibres of the lumbrical with 3/0 and 4/0 silk. The graft and flexor stumps are trimmed and buried into the lumbrical with one 5/0 or 6/0 suture each. The palmar skin is closed.
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/syndactyly.jpg" data-figure-alt="Syndactyly before correction" aria-label="Enlarge">
-    <img src="/img/anatomy-6/syndactyly.jpg" alt="Syndactyly before correction" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Complete cutaneous syndactyly of the middle and ring fingers — a typical indication for operative correction between 1.5 and 2 years of age using a dorsal trapezoidal flap to create the new commissure and full-thickness skin grafts to resurface the lateral surfaces.</span>
-    <span class="md-figure-attribution"> · Kristoferb, <a href="https://commons.wikimedia.org/wiki/File:Syndactyly_type1_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
+**Stage 2** (one month after the first operation). Anaesthesia — general. The superficialis tendon is cut at its muscle level; the muscle belly is sutured to the deep flexor. The graft is turned 180° distally and gently tensioned to check the strength of the anastomosis and the contractility of the deep flexor. The osseofibrous canal of the finger is opened along its full length, the anterior wall is excised, preserving only two annular pulleys (A2 over the proximal phalanx and A4 over the middle phalanx). If the palm is free of scar, a third pulley is left at the metacarpal-head level. The end of the reversed graft is passed beneath the annular pulleys and fixed to the distal phalanx with a removable wire suture by Pulvertaft. Graft length is set so that the finger rests in a physiologic position.
 
+Immobilisation in a dorsal blocking cast for 3 weeks with the wrist slightly flexed and the finger in physiologic flexion. Gentle motion under supervision is allowed on day 5. The wire sutures are removed on day 25; active extension beyond the physiologic position — after day 30; strength activities — after day 40.
 
-Syndactyly presents in three pathogenetic forms — embryonic, amniotic, and that of generalized syndromes (Apert, Poland). Depth: cutaneous or osseo-cutaneous (the latter with bony bridging, more difficult). Extent: partial or complete; acrosyndactyly is fusion of the tip only. Surgical treatment is best between 1.5 and 2 years; with fingers of different lengths the most disparate pairs are separated first to avoid scoliosis of the shorter finger.
-
-Standard technique uses mirror-image S-shaped dorsal and palmar incisions, with convexity dorsally matching concavity palmarly. The dorsal trapezoidal flap (Bauer, Tondra, Trusler, 1956) is rotated from the base of the interdigital web to recreate the floor of the new commissure; a matching palmar trapezoidal flap reconstructs the volar side. After separation, the lateral aspects of the fingers are usually covered with full-thickness grafts; tighter cases need grafting on the middle and even distal phalanges.
-
-Osseous syndactyly requires longitudinal sectioning of fused phalanges, removal of bony bridges; in severe cases hypoplastic deformed phalanges or metacarpals may be sacrificed for better function of the remaining ray. Incomplete syndactyly with existing commissure is often treated with local plasty — opposing triangular flaps (60° single figure for commissura I). In Apert and Poland syndromes treatment is atypical and finger sacrifice is often required.
-
-## Operative Treatment of Dupuytren's Contracture
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/dupuytren.jpg" data-figure-alt="Dupuytren contracture" aria-label="Enlarge">
-    <img src="/img/anatomy-6/dupuytren.jpg" alt="Dupuytren contracture" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Advanced Dupuytren contracture with a longitudinal fibrous cord in the palmar fascia and flexion deformity of the ring and small fingers — the clinical basis for the Matev classification (grades 0–III) and for partial fasciectomy along the cord with Z-lengthening across the flexion creases.</span>
-    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Dupuytren%27s2010.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
-  </figcaption>
-</figure>
-
-
-The Matev classification (1962) divides Dupuytren contracture into four grades:
-
-•   Grade 0 — subcutaneous nodule without flexion contracture.
-•   Grade I — flexion contracture only at the MCP.
-•   Grade II — at MCP and PIP.
-•   Grade III — at all three joints, typically with compensatory DIP hyperextension.
-
-Incision choices vary by severity: Mclndoe zig-zag, Limberg with embedded Z-plasties, Karfik, Burian, Bryantseva, and Matev (including undermining of the distal palmar crease).
-
-## Partial Excision of the Palmar Fascia (Standard Technique)
-
-Partial fasciectomy is the standard, since wide exposure for total fasciectomy carries higher complication rates and is unnecessary. After zig-zag incision along the cord, both digital palmar neurovascular bundles are retracted away from the flexor sheath, the transverse fibrotic cord is divided and meticulously excised, severing the fibrous strands to metacarpals, proximal phalanx, tendon sheath, and skin. Excision proximal to mid-palm or distal to the middle phalanx base is unnecessary. The transverse fibers of the distal palm and the MCP-level fat pad are preserved. After tourniquet release, hemostasis with microcoagulator; skin closure; dorsal splint with wrist in functional dorsiflexion for 2–3 days; active digital motion the next day.
-
-## McCash Open-Palm and Two-Stage Matev-Karaganchova Excision
-
-C. McCash's "open palm" technique is designed for severe contractures to prevent hematoma and adhesions. The diseased fascia is excised through incisions along the natural transverse creases; the finger defects are closed directly; the palmar defect at the distal palmar crease is left open and dressed weekly while a nighttime extension splint is worn. Secondary healing produces a linear scar at the distal palmar crease in 4–6 weeks, without hematoma or chronic edema.
-
-The two-stage excision of Matev-Karaganchova is an alternative for severe Grade III contractures where the alternative is amputation. Stage one — fascia excision and subcutaneous wire skeleton holding the MCP and PIP in progressive extension; stage two — final correction with thick full-thickness graft or zig-zag closure. Recurrences, per J. I. P. James and Hueston, arise mainly from scarred skin overlying the fibrotic fascia; Hueston therefore advocates dermofasciectomy with full-thickness grafting.
-
-## Surgical Approaches to Specific Hand Pathologies
-
-
-## Carpal Tunnel Release
-
-The carpal tunnel release is the most commonly performed hand procedure. The approach uses a longitudinal incision in the palm parallel to the thenar crease, approximately 2 to 3 cm distal to the distal wrist crease. The incision is in line with the radial border of the ring finger, avoiding the superficial palmar arch distally and the palmar cutaneous branch of the median nerve proximally (which crosses the wrist crease at the radial side of the palmaris longus tendon). The palmar fascia is incised, and the transverse carpal ligament is identified and divided completely. The median nerve is identified and protected. The release proceeds proximally and distally until the ligament is completely divided. The procedure can also be performed endoscopically through a small proximal incision and an endoscopic blade, with reduced post-operative pain but similar long-term outcomes.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Place the carpal tunnel incision in line with the radial border of the ring finger and 2-3 cm distal to the wrist crease — too radial risks the palmar cutaneous branch of the median nerve (crossing the wrist crease at the radial side of palmaris longus); too distal risks the superficial palmar arch. Never cross the wrist crease longitudinally; use a Bruner zig-zag if extension is needed.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>An iconic Bulgarian two-stage solution: stage 1 in a clean environment (the palm), stage 2 in a prepared osseofibrous canal; the graft is turned 180°.</li>
+    <li>The conceptual advantage — building the tendon path in two different biologic environments, each favourable to its own purpose.</li>
+  </ul>
 </aside>
 
-## Trigger Finger Release
+</div>
+</details>
 
-The A1 pulley release is performed through a small transverse or oblique incision at the distal palmar crease, over the affected finger’s MCP joint. The neurovascular bundle (radial and ulnar) is identified and protected. The A1 pulley is identified and divided longitudinally, with care to preserve the A2 pulley (which begins immediately distal to A1).
+<details>
+<summary>Two-stage reconstruction by Hunter–Paneva (silicone rod)</summary>
+<div class="ts-body">
 
-## Mallet Finger Repair
+For severe scarring in zone II after multiple prior procedures, the first stage includes placement of a Hunter silicone rod through the osseofibrous canal and the standard Paneva first stage with anastomosis between the superficialis and deep flexor at the palm level. After 3 months a pseudosheath forms around the rod.
 
-Operative repair of mallet finger uses a dorsal incision over the DIP joint, with options for K-wire fixation, suture anchor repair, or tension-band wiring depending on the fracture pattern. Boutonnière Reconstruction Reconstruction of boutonnière deformity uses a midline dorsal incision over the PIP joint, with various techniques to reconstruct the central slip and reposition the lateral bands (Curtis, Matev, or other techniques).
+The second stage exposes the superficialis in the distal forearm, divides it at its muscle level, dissects it retrogradely back to the anastomosis, and — with the finger flexed — exposes the proximal end of the silicone rod. The pedicled graft is sutured to the proximal end of the implant with a strong suture; through a lateral distal-phalanx incision the distal end of the rod is exposed and the graft is pulled through the new canal, fixed with a removable wire suture. This strategy is especially valuable in revision cases and where local tendon resources are limited.
 
+</div>
+</details>
 
-## Jersey Finger Repair
+<details>
+<summary>Two-stage reconstruction of the long thumb flexor by Paneva</summary>
+<div class="ts-body">
 
-The Jersey finger (FDP avulsion from the distal phalanx) is approached through a Bruner zig-zag incision along the volar finger and palm, with retrieval of the retracted tendon and reinsertion to the distal phalanx with suture anchor or transosseous suture. Skier’s Thumb (UCL Tear) The ulnar collateral ligament repair of the thumb MCP joint uses a dorsal-ulnar incision over the thumb MCP joint, with identification of the dorsal sensory branch of the radial nerve (which crosses the operative field and is at risk of injury and neuroma formation), the adductor aponeurosis, and the ulnar collateral ligament. The Stener lesion (displacement of the avulsed ligament superficial to the adductor aponeurosis) is identified and the ligament is repaired or reattached to bone.
+Conceptually analogous to the finger-flexor reconstruction. Stage 1 anastomoses the central stumps of both flexors (FPL + FDP of the index) at the wrist-canal level, providing a vascularly reinforced common motor. Stage 2 mobilises the graft as a pedicled extension of the deep flexor, passes it through the osseofibrous canal of the thumb (preserving at least one annular pulley on the proximal phalanx), and fixes it with a removable wire suture to the distal phalanx. Immobilisation for 1 week in moderate flexion; removable suture out on day 26.
 
-## Primary Flexor Tendon Repair
+</div>
+</details>
 
-Primary suture in the first 24 hours after laceration — or up to 3 days with a calm wound (delayed primary) — is preferred when an experienced surgeon, microsurgical instruments, and protected-motion rehabilitation are available. Anesthesia general or axillary block; extensor injuries can be done under local. Distal tendon end is delivered by finger flexion; proximal end by "milking" the forearm musculature distally with the wrist flexed. The proximal end is frequently retrieved through a new proximal incision (never grasped blindly with an instrument).
+<details>
+<summary>DIP teno-capsulodesis by Matev</summary>
+<div class="ts-body">
 
-The standard configuration is a 4-strand core suture using the modified Kessler technique with 3/0 or 4/0 synthetic monofilament or braided suture, supplemented with a continuous 6/0 polypropylene epitendinous suture. This combination provides strength sufficient for the Strickland or modified Duran early protected active motion protocols. Modern 6- and 8-strand configurations (Cruciate, Adelaide, Strickland-Tang) allow more aggressive rehabilitation in skilled hands. The A2 and A4 pulleys are preserved; a window is opened in cruciate pulleys C1 or C3 when needed.
+For old FDP injuries where functional restoration is not feasible, Matev's teno-capsulodesis fixes the distal phalanx at 20–25° stable flexion. The distal joint is reached by an arched dorsal incision off the neurovascular bundle. The distal end of the deep flexor is elevated on a holding suture with preservation of the annular pulley of the middle phalanx. An elliptical segment of the volar capsule (short diameter 3–4 mm) is excised and closed with two Perlon sutures at 30° flexion. The distal end of the flexor is fixed to the annular pulley or to the periosteum of the middle phalanx. Immobilisation for 1 month with leukoplast tape along the dorsal and palmar surfaces. Tenodesis without capsulodesis gives incomplete and unstable correction — the combination is critical.
 
-A trans-ungual protective suture is fixed from the nail to the proximal palm skin, preventing the finger from extending beyond physiologic flexion. Immobilization in a dorsal splint with mild wrist flexion, 50–70° MCP flexion, near-full IP extension for 3 weeks.
+</div>
+</details>
 
-In zone II only the deep flexor is typically repaired (the superficialis is often resected to reduce sheath volume and adhesions). If conditions for a quality repair are unavailable, skin closure alone with referral to a specialized center is preferred.
+<details>
+<summary>Extensor repair by zone</summary>
+<div class="ts-body">
 
-## Free Tendon Grafting (Bridge Plasty)
-
-When primary repair is impossible due to retraction and scarring, bridge tendon grafting uses palmaris longus (12–13 cm in adults, shorter in children) or — when absent — a long extensor of a finger. The graft is harvested through 2–3 small forearm incisions with a tendon stripper, preserving a thin paratenon layer. The distal end is fixed with a Pulvertaft weave or a removable Bunnell pullout suture through the nail; the proximal end is woven at the muscle-tendon junction. Immobilization 3 weeks; pullout removed at day 25.
-
-## Two-Stage Flexor Tendon Grafting (Paneva-Holevich)
-
-The Bulgarian two-stage flexor tendon graft of Paneva-Holevich is one of the iconic procedures of Bulgarian hand surgery. The advantage is undisturbed graft incorporation into the proximal flexor at the palm level during stage one, before the difficult passage through zone II in stage two.
-
-Stage 1 (coincides with primary wound management in fresh injury, or as an isolated procedure for established injury). Local or axillary anesthesia. Small flap incision in the proximal palm exposes the flexor tendons at lumbrical level. Both flexors are sharply cut. The paratenon of the superficialis is split 0.5 cm; the exposed superficialis is excised. Ends are adapted so the deep flexor lies over the superficialis, with a Pulvertaft weave at the lumbrical insertion using 3/0 and 4/0 silk. Stumps are buried in the lumbrical with 5/0–6/0 sutures. Palm skin is closed.
-
-Stage 2 (one month later). General anesthesia. The superficialis tendon is divided proximally at the muscle belly and traced retrogradely to the anastomosis; the muscle belly is sutured to the deep flexor. The graft is rotated 180° distally and gently tensioned to verify the anastomosis and contractility of the deep flexor. The osteofibrous canal of the finger is opened completely, preserving only A2 and A4 (plus A1 if the palm is scar-free). The reversed graft is passed under the pulleys and fixed to the distal phalanx with a Pulvertaft pullout suture. Length is set so the finger rests in physiologic flexion.
-
-Immobilization 3 weeks in a dorsal splint; light motion from day 5 under surgeon control; pullouts removed day 25; active extension beyond physiologic position after day 30; power motion after day 40.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>The iconic Paneva-Holevich two-stage flexor graft: stage one integrates the graft to the proximal deep flexor stump in the palm (a clean, gliding environment), then stage two — one month later — reverses the graft 180° and passes it through a freshly prepared osteofibrous canal in zone II with minimal adhesion potential. The conceptual advantage is building the tendon pathway in two stages, each in an environment optimal for its task.</p>
-</aside>
-
-## Hunter–Paneva Two-Stage Reconstruction (Silicone Rod)
-
-For severe zone II scarring after multiple prior procedures, stage one places a silicone Hunter rod through the osteofibrous canal alongside the standard Paneva palm anastomosis between superficial and deep flexors. After 3 months a pseudo-sheath forms around the rod. Stage two divides the superficialis at the muscle belly, traces it retrogradely to the anastomosis, opens the proximal end of the rod at the bent finger, pulls the pedicled graft through the new sheath, and fixes the distal end with a pullout suture. This strategy is particularly valuable in revision cases and donor-tendon depletion.
-
-## Two-Stage Long Thumb Flexor Reconstruction (Paneva)
-
-Conceptually similar. Stage one anastomoses the proximal stumps of the long thumb flexor and the deep flexor of digit II at the wrist canal, creating a common vascularized motor. Stage two mobilizes the graft as a pedicled extension of the deep flexor, passes it through the thumb canal (one pulley preserved on the proximal phalanx), and fixes it with a pullout suture on the distal phalanx. Brief immobilization (1 week) in moderate flexion; pullout removed day 26.
-
-## DIP Teno-Capsulodesis (Matev)
-
-For established deep flexor injury where functional reconstruction is not feasible, Matev's teno-capsulodesis stabilizes the distal phalanx in 20–25° flexion. The DIP is approached dorsal to the neurovascular bundle. The distal stump of the deep flexor is elevated on a stay suture, preserving the middle-phalanx pulley. An elliptical wedge of volar capsule (3–4 mm short diameter) is excised and the capsule closed with two polyamide sutures at 30° flexion. The deep flexor stump is then fixed to the pulley or middle-phalanx periosteum. Adhesive tape splint longitudinally for 1 month. Tenodesis without capsulodesis is incomplete and not durable — the combination is critical.
-
-## Extensor Reconstruction — Boutonnière and Mallet
+Extensor repair uses dorsal incisions matched to the zone (I–VIII per Verdan/Kleinert). It is simpler than flexor repair because the location is more accessible and the sheath less restrictive.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/mallet-finger.svg" data-figure-alt="Mallet finger mechanism" aria-label="Enlarge">
     <img src="/img/anatomy-6/mallet-finger.svg" alt="Mallet finger mechanism" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Mallet finger deformity — avulsion of the terminal extensor segment from the distal phalanx, with or without an avulsion bone fragment. Classical treatment is conservative — Stack splint in DIP hyperextension for 6–8 weeks; surgery is indicated for a bone fragment >1/3 of the joint surface or volar subluxation of the DIP, with reinsertion using a pull-out suture or screw.</span>
+    <span class="md-figure-caption">Mallet finger — disruption of the terminal extensor at the distal phalanx, with or without an avulsion fragment. The classical treatment is conservative — Stack splint in DIP hyperextension for 6–8 weeks; operative for fragments over 1/3 of the joint surface or volar subluxation of the DIP.</span>
     <span class="md-figure-attribution"> · Davplast / Häggström, <a href="https://commons.wikimedia.org/wiki/File:Mallet_finger_mechanism.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-For boutonnière deformity (zone III central slip rupture) the standard Bulgarian techniques are:
+**Zone I (mallet finger).** Conservative — Stack splint in DIP hyperextension for 6–8 weeks for purely tendinous injuries and for bony fragments under 1/3 of the articular surface without volar subluxation. Operative — reinsertion with a Matev removable wire suture or scar doubling by Rozov (arched dorsal incision; the scar is incised obliquely from distal to proximal; both stumps are taken on 4/0 silk; the distal stump is pulled proximally and the proximal stump distally in hyperextension; two lateral sutures are placed). For more severe cases — reinsertion with a removable Matev suture plus midline closure of the lateral bands over the reinserted proximal stump. Paneva–Holevich repair — oblique dorsal incision; first variant — the defect is bridged with a pedicled graft from the proximal aponeurosis rotated 180°; second — approximation and suture of the lateral bands over the defect.
 
-Excision of the interposed scar and direct repair — if the gap is ≤4–5 mm, the scar is excised and the slip ends sutured with three mattress sutures (one central, two lateral) using 4/0 silk. Immobilization 3 weeks at mild MCP flexion and full IP extension.
+**Zone III (boutonnière deformity).** Scar excision and secondary suture — if the scar between the ends of the central slip is up to 4–5 mm, it is excised and the ends sutured with three "U" stitches (one central, two lateral) of 4/0 silk. Fowler's plasty — four small incisions; a palmaris longus graft is passed beneath the periosteum and the insertion of the central slip on the middle phalanx and then subcutaneously crosswise over the dorsum of the proximal phalanx; both ends are fixed to the interosseous tendons. Matev's lateral-band transposition — one lateral band is shifted distally and becomes a new central slip; in more severe deformity the other band is divided transversely 1 cm distally and its proximal end is sutured to the distal end of the transposed band. Sometimes the volar portion of the PIP collateral ligaments must be divided to correct residual flexion contracture.
 
-Fowler plasty — four small incisions, palmaris longus graft passed under the periosteum and central slip insertion onto the middle phalanx, then subcutaneously crossing the dorsum of the proximal phalanx, with the ends fixed to the interosseous tendons at tension holding the middle phalanx in extension.
+**Other zones.** Zone II — direct repair with 4-strand core + epitendinous. Zone IV — direct repair with care for the juncturae tendinum. Zones V–VI — direct interwoven repair with 3/0–4/0 silk and early dynamic rehabilitation by Norris.
 
-Matev lateral band transposition — one lateral band is moved dorsally to act as a new central slip. In the more severe variant, the contralateral band is sectioned 1 cm distally and its proximal end is sutured to the distal end of the transposed band — recreating the central slip and lengthening the distal extensor expansion. Occasional sectioning of the volar portion of the PIP collateral ligaments may be needed for residual contracture. After casting, a 10-day wire splint allows DIP motion while limiting PIP flexion.
+</div>
+</details>
 
-For mallet finger (zone I terminal extensor rupture):
+<details>
+<summary>Median and ulnar nerve repair at the wrist</summary>
+<div class="ts-body">
 
-Rozov scar duplication — dorsal arcuate incision; the scar between the tendon ends is obliquely sectioned in a distal-to-proximal plane. Both ends are tagged with 4/0 silk and pulled across each other while the distal phalanx is hyperextended; lateral sutures complete the duplication. Immobilization 4 weeks with PIP in mild flexion and DIP in hyperextension.
+Median and ulnar nerve transection at the wrist is one of the most common peripheral nerve injuries and almost always combined (with tendons and vessels). Anaesthesia — general or axillary block; pneumatic tourniquet; loupes or operating microscope.
 
-Matev reinsertion with lateral band repair — for more severe cases: the proximal end of the expansion is reinserted to the dorsal base of the distal phalanx with a pullout suture, and the lateral bands are sutured to one another over the reinserted central portion.
+**Primary suture.** The skin wound is extended bayonet-style. Repair sequence: artery → tendons → nerve. Under magnification the matching fascicles of both nerve stumps are identified and aligned. Six to eight interrupted 6/0 silk sutures on the epineurium are placed, or three epineural sutures plus one perineural suture on individual peripheral fascicles. Immobilisation for 3 weeks in a dorsal blocking cast with the wrist in slight flexion, the fingers in functional position, the elbow at 70–80° flexion.
 
-Paneva-Holevich reconstruction — Variant 1 bridges the defect with a 180° pedicle flap from the proximal expansion; Variant 2 approximates the lateral bands across the defect.
+**Gap up to 4 cm.** Direct suture after release of tension. For the ulnar nerve — anterior transposition at the elbow in front of the medial epicondyle, with full-length release in the forearm — gaining about 2 cm; with elbow flexion the proximal stump advances by another 2 cm, allowing tension-free direct suture.
 
-## Stenosing Tenosynovitis (Trigger Finger and de Quervain)
+**Gap over 4 cm.** Free nerve grafting — cables from sural nerve (taken through the standard posterior leg incision). The grafts should be slightly longer than the defect for full relaxation. With extensive injury to both nerves, the median-nerve defect can be bridged with a graft from the proximal or distal segment of the ulnar nerve.
 
-Trigger thumb: transverse incision along the palmar crease at the base of the thumb (the proximal one when two are present). Blunt spreading with mosquito clamp displaces the palmar neurovascular bundles laterally; A1 pulley is divided longitudinally. Distal opening must extend beyond mid-proximal phalanx to prevent bowstringing on flexion. The tendon itself is not touched, even when thickened — pulley release is sufficient.
+Immobilisation after free grafting for 25 days in a long arm cast: wrist in flexion, fingers in functional position, elbow at 80° flexion for median-nerve repair, 30–40° for ulnar (greater elbow flexion stretches the ulnar nerve).
 
-Trigger finger: incision along the distal palmar crease at the affected digit (for the index — the proximal crease). Skin is sharply elevated more distally; A1 pulley is divided with protection of the neurovascular bundles.
+**Deep branch of the ulnar nerve in Guyon's canal.** Arched incision from the distal wrist crease to the proximal palmar crease; raise a radially-based skin-subcutaneous flap; the superficial fibres of palmaris brevis are elevated with the flap, the deep fibres are divided longitudinally. Immediately radial to the pisiform the distal ulnar canal is entered; the ulnar nerve is identified with its companion vessels. At this level the nerve usually is already divided into superficial and deep branches. The deep branch is followed distally and radially among the fibres of flexor digiti minimi brevis and opponens digiti minimi around the hook of hamate until it emerges beneath the deep flexors and above the interossei.
 
-De Quervain (first dorsal compartment): transverse or oblique incision over the first compartment with protection of the superficial radial nerve (often 2–3 branches crossing the field). The sheath is opened completely after a small initial cut and undermining with mosquito clamp. A separate compartment for EPB (present in 30–40%) must be sought and decompressed to avoid recurrence.
+</div>
+</details>
 
-## Median and Ulnar Nerve Repair at the Wrist
+<details>
+<summary>Local flaps and Karchinov's technique</summary>
+<div class="ts-body">
 
-Laceration of the median and ulnar nerves at the wrist is among the most common peripheral nerve injuries and almost always involves concomitant tendons and vessels. General anesthesia or axillary block; tourniquet; magnification.
+Rotation flaps from the lateral surfaces of the digits with a proximally based pedicle are standard for covering volar defects when correcting mild and moderate flexion contractures. The length-to-width ratio of the flap must not exceed 2:1. The flap is marked with dye, raised with a sufficient layer of subcutis, and shaped before the contracture is released — the base of the flap lies at the level of the planned transverse volar incision.
 
-Primary repair — Sequence: artery → tendons → nerve. Homogeneous fascicle groups are matched and approximated with 6–8 interrupted 6/0 silk sutures on the epineurium, or 3 epineural sutures plus interrupted perineurial sutures on individual fascicles. Immobilization 3 weeks with wrist mildly flexed, fingers functional, elbow 70–80° flexed.
+**Karchinov's palmar sensate flap** — Bulgarian modification — mobilises an island flap on its own neurovascular pedicle from the ulnar side of digit III or IV. The incision runs along the neutral line on the ulnar side; over the palm it continues zigzag to the level of the superficial palmar arch. The proper volar digital artery to the adjacent finger is tied near its origin from the common digital artery; the common digital nerve is split longitudinally along the fibres of the two proper digital nerves; the cutaneous-sensate flap is raised and transferred to the recipient pulp.
 
-Defect up to 4 cm — Direct repair after tension reduction. The ulnar nerve is transposed anteriorly at the elbow (gaining ~2 cm); elbow flexion gains another 2 cm distally, allowing tension-free direct suture.
+**Cross-finger flap by Cronin (1969) and Brailliar–Horner (1969)** transfers a dorso-radial flap from the proximal phalanx of the index, including the radial dorsal neurovascular bundle, to cover thumb-pulp defects. With concomitant index amputation the flap can be raised together with the palmar neurovascular bundles of the index — a manoeuvre that significantly enhances viability and sensory recovery.
 
-Defect over 4 cm — Free nerve grafting with sural nerve cables (harvested through the standard posterior calf incision). Graft length should slightly exceed the defect for full relaxation. In bilateral median-ulnar injury, the median defect can be bridged with a graft from the proximal or distal portion of the ulnar.
+</div>
+</details>
 
-Post-graft immobilization 25 days: wrist flexed, fingers functional, elbow at 80° for median repair and 30–40° for ulnar repair (greater elbow flexion tensions the ulnar nerve).
+<details>
+<summary>Neurovascular island flaps — Littler and Holevich</summary>
+<div class="ts-body">
 
-Deep branch of ulnar nerve in Guyon's canal — arcuate incision from distal wrist crease to proximal palmar crease; radial-based flap; palmaris brevis is split. Radial to pisiform the distal ulnar canal is entered. The deep motor branch is traced distally and radially among fibers of flexor digiti minimi brevis and opponens digiti minimi around the hamulus, until it emerges beneath the deep flexors over the interossei. Partial division of hypothenar muscle fibers near the hamulus and flexor retinaculum is often required for adequate exposure.
+Littler's classical technique (1959) transfers an island flap from the ulnar side of digit III or IV through a midlateral incision continued zigzag over the palm to the superficial arch; the proper volar digital artery to the adjacent finger is tied near its origin; the common digital nerve is split longitudinally; the flap is passed through a subcutaneous tunnel and placed on the thumb pulp as a sensate cover.
 
-## Extensor Tendon Repair by Zone
+**Holevich's method** is a Bulgarian modification using the dorso-radial surface of the index as the donor. Three variants:
 
-Extensor tendon repair uses dorsal incisions appropriate to the zone of injury (zones I–VIII per Verdan/Kleinert). Simpler than flexor repair due to accessible location and less restrictive sheath. Zone I — Rozov duplication or pullout reinsertion; zone II — direct 4-strand core + epitendinous; zone III — central slip reconstruction (Fowler, Matev); zone IV — direct repair preserving junctura tendinum; zones V–VI — Pulvertaft weave with early dynamic rehabilitation per Norris.
+1. A dermofat flap including one or two terminal branches of the radial nerve. An S-shaped incision is made on the dorso-radial surface of the proximal phalanx of the index; the nerve, together with the corresponding artery and two superficial veins, is mobilised from the distal third of the proximal phalanx to the entry of the radial artery between the first dorsal interosseous heads and tunnelled into the dermis of the thumb skin. Sensation recovers over 2–3 months but never reaches fine stereognosis.
+2. An island flap from the dorso-radial side of the index proximal phalanx, raised on a neurovascular pedicle and passed through a subcutaneous tunnel to the thumb tip.
+3. A "racket-shaped" flap — the third and most commonly used modification; the skin island continues into a narrow dorsal incision running up like a racket handle, providing greater mobility and more secure closure of the distal donor area.
 
-## Thumb Reconstruction
+**Holevich–Paneva island flap** transfers a large island flap of about 7×1.5 cm including the whole dorso-radial surface of the index from the distal palmar crease to the proximal third of the proximal phalanx. It is raised on two neurovascular pedicles — dorsal (digital branch of the radial nerve + corresponding artery + 1–2 superficial veins) and volar (radial volar proper digital artery of the index with its dorsal branch). This double-pedicled construct is one of the most reliable options for thumb reconstruction with preserved sensation.
 
-Loss of the thumb, contributing 40% of hand function, demands aggressive reconstructive options. The Bulgarian school described a full hierarchy by amputation level and local resources:
+</div>
+</details>
 
-## Nicoladoni Skin-Bone Reconstruction
+<details>
+<summary>Krasovitov method for replantation of devitalised skin</summary>
+<div class="ts-body">
 
-The classical three-stage Nicoladoni procedure (1900) uses an acute Filatov tube from the contralateral or ipsilateral abdomen or thoracoabdominal area. Stage 1 — a skin-fat flap with length:width 1:1 (for MCP-level amputation, 8–9 cm width), elevated so the tube reaches thumb consistency. Distal pedicle position gives more viable tube than proximal (Matev, 1963). Donor defects are covered with split-thickness grafts; the tube is sutured to the freshened stump in a "broken" (Z-shaped) closure to avoid ring constriction; immobilization with sutures of the ulnar hand and forearm to the trunk (Desault).
+The classical method of M. V. Krasovitov (Kuban, 1930s) for replantation of devitalised or completely avulsed skin flaps from the hand, forearm, or whole limb in severe avulsion trauma and elephantiasis remains a valuable and economical alternative to free skin grafting. After mechanical disinfection the entire subcutaneous tissue is excised with a sharp scalpel, scissors, or razor — for larger areas a Humby knife or dermatome is used, placing the skin inverted on the drum and cutting away the subcutis together with part of the dermis. The resulting thin full-thickness graft is perforated to avoid seroma collection and replanted on the patient's own raw bed.
 
-Stage 2 (biological training from day 10–12) — a soft red clamp progressively pinches the base; once collateralization is established, the base is divided.
+The method is applicable in severe elephantiasis (excision of all the subcutaneous fascia and replantation of the patient's own skin), in avulsion injury of the hand with completely detached but generally preserved skin ("degloving"), and in revision surgery in patients without sufficient donor potential. Take follows the principles of full-thickness grafting, with the advantage of returning the patient's own skin — superior functional and sensory recovery long-term.
 
-Stage 3 (10–15 days later) — osteoplasty with autograft from iliac crest, tibia, or rib. Length matches the planned thumb (4–6 cm), fixed in the residual metacarpal canal.
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Krasovitov's method is a key strategy in hand degloving: the entire detached but preserved skin is defatted to a full-thickness graft with a Humby knife or dermatome, perforated, and replanted.</li>
+    <li>The alternative (free grafting from a distant donor) sacrifices new skin and yields poorer functional recovery in the strategic zones of the hand.</li>
+  </ul>
+</aside>
 
-## Holevich Thumb Reconstruction (One Adjacent and One Distant Flap)
+</div>
+</details>
 
-A Bulgarian modification combining a local flap from the dorsal stump skin (3–4 cm, rotated 180° to become volar skin of the new thumb) with a distant abdominal or thoracoabdominal flap covering the remaining dorsal surface. Two skin sources better mimic the natural relationship between palmar and dorsal thumb skin.
-
-## Matev Thumb Reconstruction (Two Adjacent Flaps)
-
-Alternative using two adjacent flaps from the index: the innervated dorsal flap covers the volo-ulnar side of the new thumb; the palmar flap covers the volo-radial side. Bone graft is placed at the same stage. Index donor sites are covered with full-thickness grafts. Sensation is better than after Nicoladoni due to proximity and preserved radial nerve branches.
-
-## Matev Stump Lengthening by Gradual Distraction
-
-One of the most elegant solutions of the Bulgarian school — distractional lengthening of the amputation stump using the patient's own skin, without distant flaps. The key advantage is reconstruction with own skin of full sensation and normal morphology.
-
-Two-period procedure. Distraction period: a small metacarpal osteotomy through a longitudinal incision, preserving periosteum (incised over 1 cm and lifted without circumferential bare bone), perforated with a fine burr, and broken with a gentle osteotome. A small Matev external distractor is applied. From day 4–5 the screws are turned 1–2 turns daily (1.5–2 mm/day). Total distraction (3–4 cm of metacarpal, 2 cm of proximal phalanx with a micro-distractor) is achieved in 20–30 days.
-
-Stabilization period: distractor is locked; radiographs every 15 days until spontaneous consolidation. When ossification is slow, the gap is bridged with a corticocancellous graft from the iliac crest. Long-term results stable beyond 8 years.
-
-## Pollicization
+<details>
+<summary>Dupuytren's contracture — operative treatment</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/pollicization.png" data-figure-alt="Pollicization of the index finger" aria-label="Enlarge">
-    <img src="/img/anatomy-6/pollicization.png" alt="Pollicization of the index finger" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/dupuytren.jpg" data-figure-alt="Dupuytren's contracture" aria-label="Enlarge">
+    <img src="/img/anatomy-6/dupuytren.jpg" alt="Dupuytren's contracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Schematic of Buck-Gramcko pollicization: the index finger is rotated 120–160° and transposed to the base of the hand at the position of the absent thumb with preservation of its neurovascular bundles; the metacarpal head becomes the new trapezium / CMC joint.</span>
+    <span class="md-figure-caption">Established Dupuytren's contracture with a longitudinal fibrous cord along the palmar fascia and flexion deformity of the ring and small fingers — the clinical basis of the Matev classification (grades 0–III) and of partial excision along the cord with Z-lengthenings across the creases.</span>
+    <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:Dupuytren%27s2010.JPG" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
+  </figcaption>
+</figure>
+
+Matev's classification (1962) divides Dupuytren's contracture into four grades: **0** — subcutaneous nodule without flexion contracture; **I** — flexion contracture only at the MCP; **II** — flexion contracture at the MCP and PIP; **III** — all three joints involved, usually with compensatory DIP hyperextension.
+
+Skin incisions are chosen by location and severity: McIndoe (zigzag along the palmar and digital creases), Limberg (with Z-plasties across the contracture cords), Karfik, Burian, Bryantseva and Matev (including undermining of the distal palmar crease for sparing excision).
+
+**Partial fasciectomy (standard technique).** After incision along the cord and Z-lengthenings across the creases, the two digital palmar neurovascular bundles are retracted away from the flexor sheath. The thick aponeurotic cord, divided transversely, is grasped on an instrument and carefully dissected free, cutting the fibrous attachments to the metacarpals, the proximal phalanx, the flexor sheath, and the skin. Excision proximal to the mid-palm and distal to the middle-phalanx base is unnecessary. The transverse fibres of the aponeurosis in the distal half of the palm may be left; the subcutaneous fat over the MCP joints is best preserved. After excision the tourniquet is released; haemostasis with microcautery. Skin closure; moderate compressive dressing with a dorsal blocking cast for 2–3 days at functional wrist dorsiflexion. Active finger motion on the following day.
+
+**McCash open-palm technique.** Designed for more severe contractures with prevention of haematoma and adhesions. The diseased aponeurosis on the palm and fingers is excised through incisions along the natural transverse creases. The finger defects are closed directly; the palmar defect at the distal crease is left open. The wound is dressed weekly; at night a wire splint maintains the fingers in extension. The defect heals secondarily with a linear scar at the distal palmar crease in 4–6 weeks, without haematoma or chronic oedema.
+
+**Two-stage excision by Matev–Karaganchev.** An alternative for severe grade-III flexion contractures where the alternative is digit amputation. Stage 1 — excision of the diseased aponeurosis and subcutaneous placement of a wire skeleton holding the MCP and PIP in progressive extension; stage 2 — definitive correction and skin closure with a full-thickness graft or zigzag closure.
+
+Recurrences after operative treatment, per J. I. P. James and Hueston, are mainly attributable to the scarred skin over the diseased fascia; Hueston therefore recommends not preserving it but excising it together with the aponeurosis and replacing it with a full-thickness graft (dermofasciectomy).
+
+</div>
+</details>
+
+<details>
+<summary>Operative treatment of syndactyly</summary>
+<div class="ts-body">
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/syndactyly.jpg" data-figure-alt="Syndactyly before correction" aria-label="Enlarge">
+    <img src="/img/anatomy-6/syndactyly.jpg" alt="Syndactyly before correction" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Complete cutaneous syndactyly of digits III–IV — the typical indication for operative treatment between 1.5 and 2 years of age with a dorsal trapezoidal flap to fashion the new commissure and full-thickness skin grafts on the lateral surfaces.</span>
+    <span class="md-figure-attribution"> · Kristoferb, <a href="https://commons.wikimedia.org/wiki/File:Syndactyly_type1_hands.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+Syndactyly occurs in three main pathogenetic forms — embryonic, amniotic (Streeter bands), and syndromic (Apert, Poland, etc.). By depth — cutaneous and osseo-cutaneous (with dense skin and bone fusion, harder to treat). By extent — partial or complete; a subtype of partial is acrosyndactyly with fusion only at the tips. Operative treatment is best performed between 1.5 and 2 years of age, before rotational deformities develop; for complete syndactyly affecting digits of different length — staged release (most disparate pairs first, to avoid scoliosis of the shorter digit).
+
+The standard technique uses mirror S-shaped incisions on the dorsal and palmar sides of the fused digits, so that a dorsal convexity matches a palmar concavity and vice versa. A dorsal trapezoidal flap (Bauer, Tondra, Trusler, 1956) is raised from the base of the interdigital web and rotated distally to cover the floor of the new commissure; an opposing palmar trapezoidal flap is also raised. After separation the lateral surfaces are usually covered with full-thickness skin grafts; in tighter forms the middle and sometimes the distal phalanges also require grafting.
+
+For bony syndactyly, longitudinal division of the fused phalanges and removal of bony bridges is necessary; with hypoplastic and deformed fused phalanges or metacarpals, sacrificing one digit may be needed to improve the function of the rest. Partial syndactyly with a formed commissure is often treated successfully with local plasty alone — transposition of opposing triangular flaps (an elementary 60° figure suffices for the first web, while more complex commissures need a series of figures).
+
+</div>
+</details>
+
+<details>
+<summary>Thumb reconstruction</summary>
+<div class="ts-body">
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/pollicization.png" data-figure-alt="Pollicization of the index" aria-label="Enlarge">
+    <img src="/img/anatomy-6/pollicization.png" alt="Pollicization of the index" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Buck-Gramcko pollicization: the index finger is rotated 120–160° and transposed to the base of the palm in the position of the missing thumb, with preservation of its own neurovascular bundles; the metacarpal head becomes the new CMC joint.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray427.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
+Loss of the thumb, with its 40% functional contribution to the hand, demands aggressive reconstructive approaches. The classical Bulgarian school describes a full hierarchy of methods by amputation level and available local resources.
 
-Pollicization transposes a finger to the thumb position with preserved palmar neurovascular bundles. Two variants by CMC preservation:
+**Skin-bone reconstruction by Nicoladoni.** C. Nicoladoni's three-stage procedure (1900) uses an acute Filatov tube from the contralateral or ipsilateral abdomen or thoraco-abdominal area. Stage 1 raises a skin-subcutaneous flap with a 1:1 length-to-width ratio (for MCP-level amputation — width 8–9 cm). A distal pedicle yields a more viable tube than a proximal one (Matev, 1963). The donor defect is covered with a split-thickness graft; the tube is sutured to the freshened amputation stump without exposing bone. Stage 2 (biological training on day 10–12) uses a soft red clamp to progressively pinch the tube base until adequate collateral supply from the recipient end is established. Stage 3 (10–15 days after detachment) — osteoplasty with an autograft from the iliac crest, tibia, or rib. Length is set to reach the planned new-thumb length (4–6 cm).
 
-Total absence of the first ray — the finger is transposed with its metacarpal, preserving three joints; the MCP assumes CMC function. In congenital aplasia Buck-Gramcko's technique (1971) preserves a proximal stub of the index metacarpal for stable base fixation. Best done before age 3.
+**Holevich reconstruction with one adjacent and one distant flap.** Holevich's Bulgarian modification combines a local flap from the dorsal skin of the amputation stump (3–4 cm long, the full width of the stump) — rotated 180° to become the volar skin of the new thumb — with a distant abdominal or thoraco-abdominal flap for the remaining dorsal cover. The two sources provide skin of different morphology, better imitating the natural palmar/dorsal asymmetry of the thumb.
 
-Preserved CMC — the finger is transposed with part of the proximal phalanx; the IP joints assume MCP and IP functions. Technically simpler; used for isolated traumatic thumb loss.
+**Matev reconstruction with two adjacent flaps.** An alternative with two adjacent skin flaps from the index: the dorsal (sensate) one covers the volar-ulnar side of the new thumb, the palmar one covers the volar-radial side. The bone graft is placed in the same stage. The index donor sites are covered with full-thickness grafts. Sensation is better than after Nicoladoni because of the proximity and preserved branches of the radial nerve.
 
-Muscles are redistributed: superficialis and profundus preserved without correction; the ulnar interosseous becomes the adductor; the radial interosseous becomes the abductor brevis. In congenital absence, both index extensors are shortened to become long and short extensors of the new thumb.
+**Matev gradual distraction lengthening of the amputation stump.** One of the most elegant Bulgarian solutions — a distraction method for thumb restoration using the tissues of the amputation stump, without distant flaps. The main advantage is that the newly formed thumb is covered with its own skin — with full sensation and normal morphology. Two periods. **Distraction period:** a small osteotomy of the first metacarpal through a longitudinal incision with periosteal preservation; multiple perforations with a thin burr and gentle osteoclasis. A small external Matev distraction apparatus is applied. After 4–5 days, gradual distraction begins — 1–2 turns of the screws per day, 1.5–2 mm advance per day. The desired distraction (3–4 cm for the metacarpal, 2 cm for the proximal phalanx) is usually reached in 20–30 days. **Stabilisation period:** the apparatus is locked; control radiographs every 15 days until spontaneous consolidation. For delayed union, the intersegmental gap is bridged with a corticocancellous graft from the iliac crest.
 
-## Holevich Phalangization
+**Pollicization.** Transfer of one of the fingers to the position of the missing thumb with preservation of the palmar neurovascular bundles. Two variants depending on CMC status. For total aplasia or loss of the entire first ray — the finger is transferred with part of its metacarpal, preserving all three joints; the MCP joint becomes the new CMC. For children with thumb aplasia, the Buck-Gramcko technique (1971) retains a proximal portion of the second metacarpal for stabilisation and fixes the base to the second metacarpal. This is the most complex form of pollicization and yields good function with early intervention (before age 3). With a preserved CMC — the finger is transferred with part of its proximal phalanx; the interphalangeal joints take on the function of MCP and IP. In pollicization the muscles of the transferred finger are redistributed for the new thumb.
 
-Alternative for amputation proximal to MCP. The first metacarpal is mobilized; the first web is deepened by removing the second metacarpal or by interposing lateral rotation flaps. Partial pinch function ("thumb" to lateral hand) is significant, particularly with concurrent index loss.
+**Phalangization by Holevich.** An alternative for thumb amputation proximal to the MCP. The first metacarpal is mobilised and the first web is deepened by removing the second metacarpal or by interposing lateral rotation skin flaps deepening the commissura I. The preserved partial function (grasp between the "thumb" and the lateral hand) is significant, particularly with concomitant loss of the index.
 
-## Finger Amputations — Principles and Techniques
+</div>
+</details>
 
-Finger amputation at phalangeal level shapes two flaps — palmar slightly longer than dorsal — so the scar lies on the dorsal stump tip, off the load-bearing zone. Only fresh trauma justifies different ratios.
+<details>
+<summary>Finger amputations</summary>
+<div class="ts-body">
 
-Transverse distal phalanx amputations to avoid shortening use Kutler (V-Y lateral triangular flaps) or Atasoy-Kleinert (palmar V-Y) closure. For thumb tip Hueston recommends a dorsal flap; Holevich uses nail retroposition for cosmetic closure.
+Amputation at the phalangeal level shapes two flaps — volar and dorsal; the volar is slightly longer than the dorsal so the suture line lies on the tip of the stump in a non-load-bearing zone. For transverse distal-phalanx amputations, to avoid shortening, local plasty by Kutler (lateral triangular flaps mobilised and approximated to the tip) or by Atasoy-Kleinert (palmar V-Y advancement) is used. For tip amputations of the thumb, Hueston recommends a dorsal flap; Holevich — a cosmetic operation closing the defect by repositioning the nail onto a dorsal flap.
 
-Oblique MCP amputation of index or small finger uses Adelmann cosmetic ablation — the radial half of the index metacarpal head (or ulnar half of the small finger metacarpal) is obliquely excised to smooth the hand contour, at the cost of slight narrowing.
+For oblique amputations of the index or small finger through the MCP, a cosmetic Adelmann amputation can be performed — the radial half of the second metacarpal head (or the ulnar half of the fifth) is excised obliquely to smooth the lateral border of the palm.
 
-The Zhelev-Obreykov oblique metacarpal amputation is a Bulgarian modification for a whole ray: a longitudinal dorsal incision encircles the finger base; a fluted oblique osteotomy is made from base to head — radially descending ulnarward for digit II, ulnarly descending radialward for III–V. The shaft is removed and the remaining fingers approximated to recreate near-normal hand contour.
+**Oblique metacarpal amputation by Zhelev–Obreykov** — Bulgarian modification for ray amputation (including the metacarpal): the skin incision runs longitudinally on the dorsum and rounds the base of the finger; the metacarpal is exposed and an oblique osteotomy is performed with a burr from base to head. For the second metacarpal the cut runs from proximal-radial to distal-ulnar; for the others — from proximal-ulnar to distal-radial. The remainder of the metacarpal is removed; the fingers are approximated with a modelled palmar crease that approximately restores the normal appearance of the hand.
 
-## Arthrodesis of IP and Thumb CMC Joints
+</div>
+</details>
 
-DIP and PIP arthrodesis at 20–30° flexion with longitudinal K-wires or compression screw from the middle phalanx; opposite collateral ligament preserved; cortical drilling for fusion. Implants: Paneva plate, Trichkova plate, Popova-Yankov staples, Matev-Dobrev flat-head compression screw, Moberg bone graft.
+<details>
+<summary>Arthrodesis of IP, MCP, and thumb CMC</summary>
+<div class="ts-body">
 
-Thumb CMC arthrodesis after painful malunion of a Bennett fracture or for rhizarthrosis is fixed at 15–20° radial abduction (to metacarpal II) and 30–35° palmar abduction. Radial abduction > 20° limits adduction; palmar > 35° reduces opposition. Compression screw or two K-wires. The Paneva-Holevich technique for habitual CMC dislocation uses a tendon graft through bone tunnels at the first metacarpal base, fixed to the thenar crease with a button — dynamic stabilization without stiffness.
+Arthrodesis of the DIP and PIP for injuries not amenable to functional restoration is performed at 20–30° flexion with longitudinally placed Kirschner wires or a compression screw from the middle phalanx. The opposite collateral ligament is preserved; the cortex is multiply perforated to stimulate fusion. Alternative systems: Paneva plate, Trichkov plate, Popov and Yankov staples, Matev–Dobrev compression screw with a flat head, iliac corticocancellous graft by Moberg.
 
-## Capsulotomy and Silicone Arthroplasty for Contracture and RA
+Arthrodesis of the thumb CMC for painful malunited Bennett fracture or rhizarthrosis is fixed at 15–20° radial abduction relative to the second metacarpal and 30–35° palmar abduction, measured on radiographs. Radial abduction over 20° gives unpleasant adduction limitation; palmar abduction over 35° significantly reduces opposition. Fixation with a compression screw or two Kirschner wires. For habitual dislocation of the thumb CMC, **the Paneva–Holevich technique** uses a tendon graft passed through bone tunnels in the base of the first metacarpal and fixed to the thenar crease with a button — dynamic stabilisation without stiffness.
 
-PIP capsulotomy for flexion contracture: dorsolateral approach with two incisions either side of the extensor tendon. The proximal dorsal expansion is split, collateral ligaments cut; if contracture persists, the volar plate is sectioned transversely. Landsmeer ligaments are preserved for joint stability.
+</div>
+</details>
 
-Swanson silicone arthroplasty for RA at MCP and PIP is standard. Dorsal incision lateral to the extensor; dorsal expansion split; bone ends resected 5–6 mm; medullary canals opened. Extensor insertion and collateral ligaments preserved. The Yakubovsky Bulgarian modification has ring-thickened stems for better canal fixation. RA pancarpal involvement is treated in one session through a single transverse incision over the MCP necks. Outcome: recovery of 1/3 to 2/3 of normal MCP range.
+<details>
+<summary>Capsulotomy and arthroplasty in rheumatoid arthritis</summary>
+<div class="ts-body">
 
-## Operative Treatment of the Spastic Hand
+PIP capsulotomy for flexion contracture: dorsal-lateral approach with two incisions medial and lateral to the extensor tendon. The proximal extensor hood is incised longitudinally; the collateral ligaments are divided; if the contracture does not release, the volar capsule is divided transversely. The Landsmeer ligaments are preserved for joint stability.
 
-In spastic hemiplegia with rigid clawed hand, surgical correction requires IQ ≥ 50 and adequate rehabilitation cooperation. Shoulder usually has volitional motion; elbow flexion contracture is treated with biceps lengthening.
+Swanson silicone-implant arthroplasty is the standard for rheumatoid arthritis of the MCP and PIP. Dorsal incision flanking the extensor tendon; the hood is split longitudinally; bone ends are cut transversely 5–6 mm; the medullary canals are opened with an awl and electric burr to receive the stems. The extensor insertion and collateral ligaments are preserved. The **Bulgarian Yakubovsky modification** has annularly thickened stems for better canal fixation. For rheumatoid involvement of all four fingers the arthroplasty is performed in one session through a transverse incision at the metacarpal-neck level. The result is restoration of 1/3 to 2/3 of normal motion.
 
-Conversion of m. pronator teres into a supinator — Linear incision on the volo-radial forearm, mid-third. Brachioradialis is retracted laterally; radial artery and superficial radial nerve protected. The broad pronator teres insertion on the radius is exposed; the muscle is Z-lengthened with the proximal limb starting from bone along the tendinous sheet. The distal tendinous stump remaining on bone is rerouted with an aneurysm needle around the radius (lateral to medial) and sutured back to the proximal muscle belly — converting the pronator into a supinator.
+</div>
+</details>
 
-Pronator myotomy — When pronator contracture relaxes with passive supination at the distal third, only pronator teres is contracted; if not, the pronator quadratus is also tight. Both myotomies: PT through the radial mid-forearm incision; PQ through an ulnar arcuate incision along flexor carpi ulnaris in the distal third, protecting the ulnar nerve.
+<details>
+<summary>Spastic hand correction</summary>
+<div class="ts-body">
 
-Proximal flexor disinsertion (Page-Scaglietti-Inglis principle) — the most physiologic correction for finger and wrist flexion contracture. The whole flexor mass is disinserted from the medial epicondyle with thin periosteum and slid distally until full extension is possible, preserving inter-muscle relationships. Alternative — Z-lengthening only in the musculotendinous portion.
+For spastic hemiplegia with a rigid flexed hand surgical correction is undertaken when the patient's IQ is at least 50 and there is sufficient cooperation for postoperative rehabilitation. For elbow flexion contracture — Z-lengthening of the biceps tendon.
 
-## Matev's Dynamic Correction of Spastic Thumb-in-Palm
+**Conversion of pronator teres into a supinator.** A linear incision on the volar-radial forearm in its middle third. The plane is between brachioradialis (retracted laterally) and the flexor group; watch for the radial artery and the superficial branch of the radial nerve. Pronator teres is Z-lengthened; at its insertion the radius is denuded subperiosteally with excision of a portion of the interosseous membrane. The distal stump (still attached to the bone) is passed with a Deschamps needle or wire loop around and under the radius (lateral to medial) and securely sutured to the proximal portion of the muscle. The manoeuvre converts the pronator vector into a supinator.
 
-The classical Bulgarian Matev technique resolves the thumb from spastic palmar grip in three steps:
+**Pronator myotomy.** If the pronation contracture releases on passive supination test at the distal third of the forearm, pronator teres is mainly involved; if not — pronator quadratus is also involved. Myotomy of both is then performed.
 
-a) Lengthening of FPL at the musculotendinous junction — a segment of tendinous sheet is excised and the tendon slid distally while remaining attached to muscle; a safety suture is placed. Mild spasticity needs no redression.
+**Proximal flexor release (Page–Scaglietti–Inglis).** The most physiologic correction of flexion contracture of fingers and wrist. Distal advancement of the entire muscle mass in a block preserves the physiologic ratio between the individual muscles. Median incision over the medial epicondyle; the flexor group is detached with a thin periosteum and freed distally until at full extension of fingers and wrist the new distal insertion is chosen. Alternatively — Z-lengthening only within the muscle-tendon portion of the flexors.
 
-b) Distal advancement of the thenar mass — incision along the thenar crease. The flexor tendons with neurovascular bundles are retracted ulnarward. Thenar muscles are exposed; insertion fibers to scaphoid and trapezium are divided under mosquito-clamp guidance, preserving innervation and blood supply. The thenar mass slides distally to release adduction.
+**Matev's dynamic correction of the spastic "thumb-in-palm"** releases the thumb from its spastic grip in the palm. It is done in three steps:
 
-c) Reinforcement of APL with tendon transfer (when needed) — APL and EPB shortened by duplication (1–1.5 cm), or transfer of EPB; sometimes adding ECRL or ring sublimus transfer per Bunnell opponensplasty for active opposition.
+a) Lengthening of flexor pollicis longus in the muscle-tendon region — a segment of the tendinous strip within the muscle belly is excised and the tendon is drawn distally while remaining attached to the muscle body; a safety stitch is placed. For milder spasticity excision of a segment without redress is sufficient.
 
-After successful correction the thumb adopts moderate radial abduction with the metacarpal lifted from the palm and MCP/IP in physiologic flexion. Immobilization 25 days.
+b) Distal advancement of the thenar muscles — a skin incision along the thenar crease. The flexor tendons with the neurovascular bundles are retracted ulnarly. The thenar muscles are exposed; under a mosquito clamp their insertions to the scaphoid and trapezium are divided with scissors, without injury to innervation or blood supply. The thenar mass is shifted distally until the adduction is overcome.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Matev's three-step dynamic correction of spastic thumb-in-palm: 1) FPL lengthening (weakens intrinsic flexion), 2) distal slide of the thenar mass with preserved innervation (weakens adduction-opposition), 3) APL reinforcement by transfer (restores active abduction). Conceptually — weakening spastic vectors before reinforcing antagonists — a universal principle in spastic hand surgery.</p>
+c) Augmentation of abductor pollicis longus by muscle transfer (if needed) — shortening of APL and EPB by overlap (1–1.5 cm) or transposition of EPB for augmentation. Sometimes a Bunnell transfer of ECRL or ring FDS for active opposition is added.
+
+After a well-executed procedure the thumb assumes moderate radial abduction with the metacarpal pulled out of the palm, MCP and IP in physiologic flexion. Immobilisation for 25 days.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The three-stage Matev correction of "thumb-in-palm": 1) FPL lengthening (weakens the intrinsic flexion), 2) detachment and distal advancement of the thenar muscles (weakens the adductor-opponens pull), 3) augmentation of APL (restores active abduction).</li>
+    <li>The principle — weaken the spastic vectors before augmenting the antagonists — is a universal one in spastic hand surgery.</li>
+  </ul>
 </aside>
 
-## Operations on the Wrist Bones and Joints
+</div>
+</details>
+
+<details>
+<summary>Wrist osseo-articular procedures</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-6/scaphoid-fracture.png" data-figure-alt="Scaphoid fracture" aria-label="Enlarge">
     <img src="/img/anatomy-6/scaphoid-fracture.png" alt="Scaphoid fracture" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Proximal-third scaphoid fracture: high risk of avascular necrosis of the proximal pole because of the retrograde blood supply. Classical operative options include Herbert screw fixation with Matti-Russe iliac graft for non-union, vascularised bone graft (Zaidemberg 1,2 intercompartmental supraretinacular artery flap) for established AVN, and Watson-Jones SLAC wrist reconstruction for advanced collapse.</span>
+    <span class="md-figure-caption">Scaphoid fracture in the proximal third: high risk of proximal-pole AVN because of the retrograde blood supply. Classical operative options include Herbert screw, Matti-Russe bone grafting for non-union, and vascularised grafts for established necrosis.</span>
     <span class="md-figure-attribution"> · Iiibalesiii, <a href="https://commons.wikimedia.org/wiki/File:Scaphoid_Fracture.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-For radiocarpal osteoarthritis on the radial side with styloid spurring — Barnard-Stubbins styloidectomy of the radial styloid. C-shaped radial incision sparing the superficial radial branches; the styloid is excised with oscillating saw, relieving radial-sided impingement.
+For osteoarthritic change in the lateral compartment of the radiocarpal joint with styloid osteophyte — Barnard-Stubbins styloidectomy. A C-shaped radial-wrist incision with care for the radial sensory branches; the styloid is excised with an oscillating saw, releasing the radial side of the scaphoid and reducing pain on radial deviation.
 
-Scaphoid nonunion — compression osteosynthesis with a Herbert-Whipple or AO screw. Approach as above, extended distally near the thumb metacarpal base; tip of styloid is removed. Screw 2–2.5 cm long, threaded 4–5 mm, 2–3 mm shorter than the scaphoid long diameter. Matti-Russe bone grafting (cavity packing with iliac corticocancellous graft through a volar approach) is the alternative for disorganized nonunion; long-arm cast 8–10 weeks.
+**Scaphoid non-union.** Compression osteosynthesis with a Herbert-Whipple or AO screw. Approach as above, extended distally near the base of the first metacarpal; the styloid tip is excised. The screw is 2–2.5 cm long with a 4–5 mm threaded portion; it is 2–3 mm shorter than the long diameter of the bone. The Matti-Russe technique (for more disorganised non-unions) — cavitary clearance of the proximal and distal fragment through a volar approach and packing with a cancellous graft from the iliac crest; 8–10 weeks of above-elbow cast.
 
-Kienböck disease — silicone arthroplasty of the lunate through a dorsal incision between the 3rd and 4th extensor compartments; alternative — Graner intercarpal arthrodesis (1966) with capitate body resection and proximal advancement of the head into the lunate position. Scapho-capitate arthrodesis with iliac autograft is a simpler stable alternative.
+**Lunatomalacia (Kienböck's disease).** Silicone-implant arthroplasty of the lunate through a dorsal incision between the third and fourth dorsal compartments; alternatively — Graner's intercarpal arthrodesis (1966) with resection of the capitate body and proximal advancement of the capitate head into the lunate position. Scapho-capitate arthrodesis with a cancellous autograft is a technically simpler and stable alternative.
 
-Lunate dislocation — volar S-shaped approach; carpal tunnel opened; flexor tendons and median nerve retracted radially. Direct pressure reduction; for old cases (3–4 weeks post-injury) sharp release of adhesions. Immobilization 6 weeks neutral.
+**Lunate dislocation.** Volar approach through an S-shaped incision; the carpal canal is opened; the flexor tendons and median nerve are retracted radially. The dislocated lunate is reduced by direct pressure; for old cases (3–4 weeks after injury) sharp release of soft-tissue adhesions is required. Immobilisation for 6 weeks in neutral position.
 
-## Compression Osteosynthesis of Metacarpals and Phalanges (Paneva Plates)
+</div>
+</details>
 
-The Bulgarian Paneva miniplate — straight self-compressing with one oval and one round hole — is standard for diaphyseal malunion and nonunion of metacarpals and proximal phalanges. Dorsolateral approach; fragments aligned; plate dorsal; oval-hole screw inserted first for compression by length displacement, then round-hole screw for fixation. The L-shaped Paneva nail-plate is used for IP arthrodesis. AO 2.6 mm screws are a widespread alternative.
+<details>
+<summary>Compression osteosynthesis of metacarpals and phalanges (Paneva plates)</summary>
+<div class="ts-body">
+
+The Bulgarian Paneva plate — a miniature straight self-compressing plate with an oval and a round hole — is standard for osteosynthesis of diaphyseal malunions and non-unions of the metacarpals and proximal phalanges. A dorso-lateral incision exposes the bone; fragments are aligned; the plate is placed dorsally; the first screw in the oval hole produces compression by sliding along the hole's length; the second screw in the round hole fixes the construct. For interphalangeal arthrodesis an L-shaped miniature nail-plate by Paneva is used. AO miniplates with 2.6 mm screws are a widely used alternative.
+
+</div>
+</details>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
 
 
-## Sources and Classical Literature
+## Outcomes and Complications
+<section class="topic-section" id="outcomes">
+<details>
+<summary>Outcomes and Complications</summary>
+<div class="ts-body">
 
-Dupuytren's *Leçons orales* (1832) gave the founding description of the palmar fascia and its diseases. Dieffenbach's *Die operative Chirurgie* (1848) contains the founding modern hand-plastic and Z-plasty techniques. Paré's Œuvres (Malgaigne ed. 1840) preserves the Renaissance hand-surgery tradition; the Japanese Edo *Yōka Hiroku* of Honma Sōken gives an East Asian parallel.
+Complications in hand surgery cluster around the four pathophysiologic processes — joint stiffness, tendon adhesions, scar contracture, neurovascular injury — plus infection and complex regional pain syndrome (CRPS).
 
-- **Dupuytren** (1832): *Leçons orales de clinique chirurgicale*, vol. 1 — palmar aponeurosis. · [Facsimile](https://archive.org/details/leonsoralesdec01dupu)
-- **Dieffenbach** (1845–48): *Die operative Chirurgie*, vol. 2 — hand plastics. · [Facsimile](https://archive.org/details/dieoperativechir02dief)
-- **Paré** (1840 Malgaigne ed.): *Œuvres complètes*, vol. 2. · [Facsimile](https://archive.org/details/oeuvrescomplte02par)
+**Joint stiffness.** The most common complication of any hand procedure. Prevention — correct position of immobilisation (intrinsic-plus), limited duration of splinting, early rehabilitation. Correction — dynamic splints, serial casting, and, for persistent contracture, capsulotomy (PIP) or tenolysis.
 
-## Summary and Take-Home Points
+**Tendon adhesions.** Especially after zone-II flexor repair. Prevention — early protected active motion under Strickland-Tang protocols. Correction — tenolysis (release of the tendon from adhesions under local anaesthesia in an awake patient who actively confirms gliding).
 
-The hand is the most anatomically intricate orthopedic region, with 27 bones, complex tendon and pulley systems, intrinsic muscles, and dense neurovascular anatomy. The principles of hand surgical anatomy include the flexor tendon zones (with zone II “no man’s land” between the proximal A1 pulley and the FDS insertion being the most challenging for repair), the extensor tendon zones, the A2 and A4 pulleys as the critical biomechanical pulleys, the intrinsic compartments (thenar, hypothenar, central, adductor, four dorsal interossei, three palmar interossei), the digital neurovascular bundles along the lateral and medial aspects of each digit, and the palmar and dorsal arches with their digital branches. The principles of hand incision design are essential: avoid crossing flexion creases at right angles (using Bruner zig-zag or mid-axial incisions on the digits), respect the underlying tendon anatomy on the dorsum, and use the Z-plasty technique to lengthen contractures across flexion creases (with 60-degree Z-plasty providing 75 percent length gain along the central axis).
+**Scar contractures.** Mainly from poor incision design (longitudinal incision across a flexion crease). Prevention — Bruner, midlateral, Z-extensions. Correction — Z-plasty (60° or serial), full-thickness skin grafts.
 
-The principal hand surgical approaches include the carpal tunnel release (longitudinal palmar incision), trigger finger release (transverse or oblique distal palmar crease incision), mallet finger and boutonnière reconstructions (dorsal IP joint incisions), Jersey finger repair (Bruner incision with tendon retrieval), and Skier's thumb UCL repair (dorsal-ulnar thumb MCP incision with recognition of Stener lesion). The median nerve, ulnar nerve, and radial sensory nerve provide the sensory and motor innervation of the hand, with the median nerve in the carpal tunnel supplying the thenar muscles (APB, opponens, FPB superficial head) and the radial two lumbricals; the ulnar nerve in Guyon's canal supplying the hypothenar muscles, interossei, ulnar two lumbricals, and adductor pollicis; the radial sensory branch providing dorsal sensation to the radial three and a half digits proximal to the DIP joints.
+**Neurovascular injury.** The recurrent thenar branch in carpal-tunnel release; the superficial radial branch in de Quervain release; the digital nerves in a Bruner incision; the ulnar nerve in Guyon's canal. Prevention — anatomic recognition, loupe magnification, a bloodless field with proper retraction.
 
-From the classical Bulgarian and Russian orthopedic school of hand surgery, the following are worth remembering: the atraumatic technique of the Boychev school (bloodless field, magnification, continuous saline irrigation, gentle instruments, stay sutures) as the conceptual creed of hand surgery; the hierarchy of plasties for fresh injuries and defects — local rotation flaps, neurovascular island flaps by Littler and Holevich (three variants: dermal-fat radial nerve flap, index island, racquet flap), the double-pedicled Holevich-Paneva island flap, Karchinov's palmar sensate flap, and Cronin-Brailliar cross-finger plasty; the Krasovitov method of replanting devitalized or completely avulsed skin in degloving injury and severe elephantiasis; Matev's classification of Dupuytren contracture (grades 0–III), partial fasciectomy as standard, McCash open-palm technique, and Matev-Karaganchova two-stage excision; the iconic Paneva-Holevich two-stage flexor tendon graft (stage one in the palm, stage two in zone II one month later) and its Hunter-Paneva silicone-rod modification; Paneva's two-stage long thumb flexor graft; Matev's DIP teno-capsulodesis; the boutonnière techniques (interposed-scar excision, Fowler, Matev) and mallet finger techniques (Rozov duplication, Matev reinsertion, Paneva-Holevich); thumb reconstructions (Nicoladoni three-stage tube, Holevich one-adjacent-one-distant-flap, Matev two-adjacent-flaps, Matev stump distraction with own stump skin, Buck-Gramcko pollicization for aplasia, Holevich phalangization); finger amputations with palmar-and-dorsal flaps, cosmetic closures per Kutler and Atasoy-Kleinert, Adelmann MCP amputation, and Zhelev-Obreykov oblique metacarpal amputation for a whole ray; Swanson silicone arthroplasty with Yakubovsky's Bulgarian modification for RA; Matev's dynamic three-step correction of spastic thumb-in-palm (FPL lengthening → thenar slide → APL reinforcement) and systematic spastic hand corrections (PT-to-supinator conversion, proximal flexor disinsertion); Paneva compression miniplate osteosynthesis; Paneva-Holevich CMC arthrodesis; and Limberg's Z-plasty with quantitative elongation coefficients (60° → 75%) as the principal instrument for breaking longitudinal scar contractures and modeling the first commissure.
+**Painful neuroma.** From an injured sensory nerve (superficial radial branch, palmar cutaneous branch of the median, digital nerve). Resistant to conservative treatment; revision with resection and burial of the proximal stump in muscle or bone (neuroma-in-continuity, end-into-end repair with the distal stump).
 
-This classical basis remains relevant both for understanding the evolution of hand surgery and for the everyday management of revision and non-standard cases in Bulgarian orthopedic practice. The chapter that follows turns to the pelvis, beginning the lower extremity anatomical sequence.
+**Infection.** Classical risk situations — open trauma (especially "fight bite" — Eikenella corrodens), penetrating puncture, diabetes, immunosuppression. Prevention — meticulous debridement, antibiotics by location of injury (for "fight bite" — amoxicillin-clavulanate or ampicillin-sulbactam).
+
+**CRPS (complex regional pain syndrome).** Classically after distal-radius fracture, but also after any hand procedure. Prevention — strict pain control, early mobilisation, avoidance of prolonged immobilisation. Treatment — multidisciplinary with physiotherapy, drugs (gabapentin, pregabalin, low-dose tricyclic antidepressants), and in severe cases — sympathetic block.
+
+</div>
+</details>
+</section>
+
+
+## Local Contributions
+<section class="topic-section" id="bulgarian">
+<details>
+<summary>Local Contributions</summary>
+<div class="ts-body">
+
+**Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the Bulgarian orthopaedic school; eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curriculum reference and contains detailed descriptions of the classical principles of hand surgery — repair sequence (artery → tendons → nerves), anaesthesia standards, incision design, and atraumatic technique.
+
+**Ivan Holevich <sup class="natflag">BG</sup>.** Island flap from the dorso-radial surface of the index in three modifications (dermofat with radial-nerve branches, island flap from the proximal phalanx, racket-shaped); double-pedicled Holevich–Paneva island flap from the index 7×1.5 cm; **phalangization** of the thumb for amputation proximal to the MCP; thumb reconstruction with one adjacent and one distant flap; boutonnière and mallet finger repair with a pedicled graft from the proximal aponeurosis.
+
+**Panayotka Paneva <sup class="natflag">BG</sup>.** Two-stage flexor tendon reconstruction by Paneva–Holevich — the iconic Bulgarian procedure with stage 1 in the palm and stage 2 in zone II after one month, with 180° graft reversal; the Hunter–Paneva revision modification with a silicone rod; two-stage reconstruction of the long thumb flexor; miniature self-compressing plates for metacarpal and phalanx osteosynthesis; dynamic stabilisation of habitual thumb-CMC dislocation with a tendon graft through bone tunnels (Paneva–Holevich).
+
+**Veselin Matev <sup class="natflag">BG</sup>.** Classification of Dupuytren's contracture (grades 0–III); two-stage Matev–Karaganchev excision with subcutaneous wire skeleton for progressive correction; **DIP teno-capsulodesis** for old FDP injury; **gradual distraction lengthening of the amputation stump** of the thumb with native skin and without distant flaps; **three-stage correction of spastic "thumb-in-palm"** (FPL lengthening → detachment and distal advancement of the thenar muscles → augmentation of APL); reinsertion of the extensor hood in mallet finger with a removable suture and lateral approximation; lateral-band transposition for boutonnière; flat-head compression screw (Matev–Dobrev) for interphalangeal arthrodesis; thumb reconstruction with two adjacent sensate flaps from the index.
+
+**Grigor Karchinov <sup class="natflag">BG</sup>.** Palmar sensate island flap with a pedicle from the ulnar side of digit III or IV through the neutral line and zigzag across the palm, for pulp defects with preserved sensation.
+
+**Zhelev and Obreykov <sup class="natflag">BG</sup>.** Oblique metacarpal ray amputation with a modelled palmar crease for approximate reconstruction of the normal hand appearance after amputation of digit II or V together with the metacarpal.
+
+**Rozov <sup class="natflag">BG</sup>.** Scar-doubling for mallet finger — oblique division of the scar with mutual transposition of the stumps and lateral reinforcing sutures.
+
+**Bryantseva <sup class="natflag">BG</sup>.** Incision with undermining of the distal palmar crease for sparing excision in Dupuytren's contracture — the Bulgarian modification within the spectrum of McIndoe, Limberg, and Karfik.
+
+**Trichkov, Popov, Yankov, Yakubovsky <sup class="natflag">BG</sup>.** Plates and staples for interphalangeal arthrodesis; annularly thickened stems for silicone MCP implants (Yakubovsky — Bulgarian modification of the Swanson implant).
+
+**P. Tanchev, G. Kaymakchiev <sup class="natflag">BG</sup>.** Instrumentation for atraumatic surgery and microdrainage ("Hemovac" type); transungual protective sutures for tendon-repair after-care.
+
+From the classical Russian and Soviet school, tightly woven into the Bulgarian curriculum:
+
+**M. V. Krasovitov <sup class="natflag">RU</sup>** (Kuban, 1930s). Replantation of devitalised skin flaps of the hand and forearm by defatting with a Humby knife or dermatome, perforation, and replantation on the same patient — strategy in degloving trauma and severe elephantiasis.
+
+**A. A. Limberg <sup class="natflag">RU</sup>** (Leningrad, 1946). *Mathematical Foundations of Local Plastic Operations on the Body Surface* — trigonometric development of the Z-plasty with quantitative lengthening factors (60° → 75%); the basis of all modern reconstructive geometry of soft tissues, especially in hand surgery.
+
+</div>
+</details>
+</section>
+
+
+## Classical Sources
+<section class="topic-section" id="classical">
+<details>
+<summary>Classical Sources</summary>
+<div class="ts-body">
+
+<aside class="callout callout-classical">
+  <strong>Classical lineage — hand surgery</strong>
+  <p>Modern hand surgery is the product of three streams: the French plastic tradition, the Anglo-Saxon tendon reconstruction school, and the Russo-Soviet geometric school of local plasties. Dupuytren's *Leçons orales* (1832) provides the founding description of the palmar fascia and its diseases. Dieffenbach's *Die operative Chirurgie* (1845–48) contains the foundational modern hand-plastic and Z-plastic techniques. Paré's *Œuvres complètes* (ed. Malgaigne, 1840) preserves the Renaissance tradition of hand surgery.</p>
+  <ul>
+    <li><strong>Dupuytren 1832</strong> — *Leçons orales de clinique chirurgicale*, vol. 1 — palmar aponeurosis (<a href="https://archive.org/details/leonsoralesdec01dupu" target="_blank" rel="noopener noreferrer">Facsimile</a>).</li>
+    <li><strong>Dieffenbach 1845–48</strong> — *Die operative Chirurgie*, vol. 2 — hand plasty (<a href="https://archive.org/details/dieoperativechir02dief" target="_blank" rel="noopener noreferrer">Facsimile</a>).</li>
+    <li><strong>Paré (ed. Malgaigne 1840)</strong> — *Œuvres complètes*, vol. 2 (<a href="https://archive.org/details/oeuvrescomplte02par" target="_blank" rel="noopener noreferrer">Facsimile</a>).</li>
+    <li><strong>Bunnell 1944</strong> — *Surgery of the Hand* (Philadelphia: Lippincott) — the first modern Anglo-Saxon textbook; introduced the "position of safety" and atraumatic technique.</li>
+    <li><strong>Limberg 1946</strong> — *Mathematical Foundations of Local Plastic Operations on the Body Surface* (Leningrad) — trigonometric models of the Z-plasty.</li>
+  </ul>
+</aside>
+
+Classical descriptions by technique and indication: Nicoladoni 1900 (three-stage thumb reconstruction with a Filatov tube); Bunnell 1918, 1944 (standardisation of tendon repair and atraumatic technique); Kessler 1973 (modified locking tendon suture); Strickland 1985 (early protected active-motion protocols); Verdan 1960 (flexor tendon zones); Kleinert 1967 (dynamic flexion splint for tendon repair); Cobb 1948 (Cobb angle measurement, here adapted to finger deformities); Bauer-Tondra-Trusler 1956 (dorsal trapezoidal flap for syndactyly); Buck-Gramcko 1971 (pollicization in aplasia); Swanson 1962 (silicone MCP arthroplasty); McCash 1964 (open-palm technique for Dupuytren); Matti-Russe 1937 (scaphoid bone grafting); Herbert-Whipple 1986 (compression screw for the scaphoid); Allen 1929 (palmar-arch patency test); Atasoy-Kleinert 1970 (palmar V-Y pulp advancement); Kutler 1947 (lateral triangular pulp flaps); Cronin 1969 and Brailliar-Horner 1969 (cross-finger plasty); Littler 1959 (sensate island flap); Adelmann (oblique amputation through the MCP); Moberg (bone grafting and sensate flaps); Smith-Petersen, Stevenson, McAfee, Page-Scaglietti-Inglis (flexor detachments in the spastic hand); McIndoe, Karfik, Burian (incision designs in Dupuytren); Tubiana (classification and dissection principles).
+
+Additional classical sources: **Hofa** (1905), *Lehrbuch der orthopädischen Chirurgie* (Stuttgart: Enke) — chapters on hand surgery and the spastic hand before the microsurgical era (<a href="https://archive.org/details/lehrbuchderortho00hoff" target="_blank" rel="noopener noreferrer">Facsimile</a>). **Langenbeck-Archiv für klinische Chirurgie** (from 1860) — first descriptions of many hand plasties and reconstructions (<a href="https://archive.org/details/archivfrklinisc11unkngoog" target="_blank" rel="noopener noreferrer">Internet Archive series</a>).
+
+</div>
+</details>
+</section>
+
+
+## Suggested Reading
+<section class="topic-section" id="literature">
+<details>
+<summary>Suggested Reading</summary>
+<div class="ts-body">
+
+1. **Wolfe SW, Pederson WC, Kozin SH, Cohen MS, eds.** *Green's Operative Hand Surgery.* 7th ed. Philadelphia: Elsevier; 2017. ISBN 978-1-4557-7427-2. — *The global standard for operative hand surgery; chapters on every approach, reconstruction, and microsurgical procedure; obligatory reference for resident training.*
+2. **Doyle JR, Botte MJ.** *Surgical Anatomy of the Hand and Upper Extremity.* Philadelphia: Lippincott Williams & Wilkins; 2003. ISBN 978-0-397-51725-7. — *A cadaveric atlas with detailed dissections of each layer; reference for precise interpretation of anatomic variants, the recurrent thenar branch, the superficial radial branches, and the zonal anatomy of the flexor sheath.*
+3. **Tubiana R, Thomine JM, Mackin E.** *Examination of the Hand and Wrist.* 2nd ed. London: Martin Dunitz; 1996. ISBN 978-1-85317-544-2. — *A clinical atlas of surface-to-deep correlation, of Tubiana's classifications, and of the standardised clinical examination.*
+4. **Germann G, Sherman R, Levin LS, eds.** *Decision Making in Reconstructive Surgery: Upper Extremity.* Berlin: Springer; 2000 (followed by **Germann G, Levin LS, Sherman R**, *Reconstructive Surgery of the Hand and Upper Extremity*, Thieme, 2017). — *Algorithms for choice of reconstructive strategy by deficit; modern counterpart to the classical atlases.*
+5. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Standard for the operative approaches of the hand with diagrammatic illustrations of the internervous planes.*
+6. **Boychev B, ed.** *Surgical Orthopaedics* (three-volume; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on hand surgery containing descriptions of the procedures by Holevich, Paneva, Matev, Karchinov, Zhelev-Obreykov, Rozov, Bryantseva; the standard for atraumatic technique and incision design in the Bulgarian curriculum.*
+7. **Limberg A A.** *Mathematical Foundations of Local Plastic Operations on the Body Surface.* Leningrad, 1946. — *Trigonometric models of the Z-plasty, four-flap Z, and Y-V with quantitative lengthening factors; the conceptual basis of all modern local skin-plasty geometry.*
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-6: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. Native <details> isn't
+     auto-expanded by :target alone, so we wire a tiny progressive enhancement. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

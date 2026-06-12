@@ -665,7 +665,9 @@ html[data-theme="dark"] .btn-viber:hover {
 .topic-toc {
   display: none;
 }
-@media (min-width: 1180px) {
+/* Right-sidebar TopicTOC disabled on all screens — V4 uses the inline
+   Wikipedia-style contents box at the top of the article instead. */
+@media (min-width: 1180px) and (max-width: 0px) {
   .topic-toc {
     display: block;
     position: sticky;
@@ -1833,10 +1835,8 @@ html[data-theme="dark"] .btn-viber:hover {
 }
 
 
-/* Desktop: hide the inline V4 TOC — the page already has the right-column .topic-toc auto-generated from headings. The inline TOC is mobile-only. */
-@media (min-width: 1180px) {
-  .prose .topic-toc-inline { display: none; }
-}
+/* V4 inline TOC: now shown on desktop too. */
+
 
 
 /* Nationality flags in author lists (e.g., Bulgarian Contributions section). */

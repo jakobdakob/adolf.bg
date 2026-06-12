@@ -7,13 +7,55 @@ topicNumber: 1
 order: 201
 ---
 
-## I. Overview
+<details class="topic-toc-inline" open>
+  <summary>Contents <span class="toc-en">Съдържание</span></summary>
+  <ol>
+    <li><a href="#overview">Overview <span class="toc-en">Преглед</span></a></li>
+    <li><a href="#surg-anatomy">Surgical Anatomy <span class="toc-en">Хирургична анатомия</span></a>
+      <ol>
+        <li><a href="#vertebral-column">Regional Vertebral Anatomy <span class="toc-en">Регионална вертебрална анатомия</span></a></li>
+        <li><a href="#vertebral-artery">Vertebral Artery — Segments and Danger Zones <span class="toc-en">Arteria vertebralis — сегменти и опасни зони</span></a></li>
+        <li><a href="#spinal-cord">Spinal Cord and Roots <span class="toc-en">Гръбначен мозък и коренчета</span></a></li>
+        <li><a href="#prevertebral">Prevertebral Visceral Structures <span class="toc-en">Превертебрални висцерални структури</span></a></li>
+        <li><a href="#brachial-plexus">Brachial Plexus and Thoracic Outlet <span class="toc-en">Брахиален плексус и горен гръден отвор</span></a></li>
+        <li><a href="#lumbosacral-plexus">Lumbosacral Plexus within Psoas <span class="toc-en">Лумбосакрален плексус в m. psoas</span></a></li>
+      </ol>
+    </li>
+    <li><a href="#biomechanics">Biomechanics <span class="toc-en">Биомеханика</span></a></li>
+    <li><a href="#landmarks-imaging">Landmarks and Imaging <span class="toc-en">Ориентири и образна диагностика</span></a></li>
+    <li><a href="#classification">Classification of Approaches <span class="toc-en">Класификация на достъпите</span></a></li>
+    <li><a href="#treatment">Treatment <span class="toc-en">Лечение</span></a>
+      <ol>
+        <li><a href="#nonoperative">Nonoperative <span class="toc-en">Консервативно</span></a></li>
+        <li><a href="#operative">Operative <span class="toc-en">Оперативно</span></a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Outcomes and Complications <span class="toc-en">Усложнения и резултати</span></a></li>
+    <li><a href="#bulgarian">Bulgarian Contributions <span class="toc-en">Български приноси</span></a></li>
+    <li><a href="#classical">Classical Sources <span class="toc-en">Класически източници</span></a></li>
+    <li><a href="#literature">Suggested Reading <span class="toc-en">Препоръчителна литература</span></a></li>
+  </ol>
+</details>
+
+<section class="topic-section" id="overview">
+<details open>
+<summary><span class="ts-title">Overview</span> <span class="ts-en">Преглед</span></summary>
+<div class="ts-body">
 
 The spine, extending from the skull base to the sacrum, carries the most varied set of surgical approaches in the skeleton. The six regional zones — craniocervical junction, subaxial cervical spine, thoracic spine, thoracolumbar junction, lumbar spine, and lumbosacral pelvic junction — each have their own approach considerations driven by regional anatomy and by typical pathologies (degenerative disease, deformity, trauma, tumour, infection). This chapter presents the regional anatomy, the major anterior and posterior approaches with their indications, dangers, and modern instrumented constructs, and the classical Bulgarian and Russian operative school that remains part of the orthopaedic curriculum in Bulgaria.
 
-## II. Surgical anatomy
+</div>
+</details>
+</section>
 
-### A. Regional vertebral anatomy
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary><span class="ts-title">Surgical Anatomy</span> <span class="ts-en">Хирургична анатомия</span></summary>
+<div class="ts-body">
+
+<details id="vertebral-column">
+<summary><span class="ts-title">Regional Vertebral Anatomy</span> <span class="ts-en">Регионална вертебрална анатомия</span></summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-column.jpg" data-figure-alt="Vertebral column" aria-label="Enlarge">
@@ -73,7 +115,21 @@ The general vertebral pattern includes a body anteriorly, a vertebral arch poste
 
 **Sacrum (S1–S5).** Fused vertebrae forming the posterior pelvic ring; ala (lateral mass), sacral foramina (anterior and posterior), and sacral hiatus are key landmarks; the median sacral crest is the fusion of the spinous processes. Sacral pedicles are bulky but cortical bone density varies considerably (reduced in osteoporosis) — a typical problem with S1 screws is insufficient purchase, requiring supplementary iliac fixation (S2-alar-iliac screws or S1-pelvic screws).
 
-### B. Vertebral artery — segments and danger zones
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The C6 foramen transversarium is the vertebral artery entry point in 95%; in 4% the artery enters at C7 or at C5 — preoperative CT angiogram before lower cervical approaches.</li>
+    <li>Chassaignac tubercle (anterior tubercle of the C6 transverse process) is the most reliable palpable anterior landmark in the lower neck and confirms the C6 level at anterior cervical exposure.</li>
+    <li>The thoracolumbar junction (T11–L2) is the zone of maximal stress concentration between the rigid thoracic and the mobile lumbar spine — the typical site of flexion-distraction fractures.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="vertebral-artery">
+<summary><span class="ts-title">Vertebral Artery — Segments and Danger Zones</span> <span class="ts-en">Arteria vertebralis — сегменти и опасни зони</span></summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/vertebral-artery.png" data-figure-alt="Vertebral artery segments" aria-label="Enlarge">
@@ -99,7 +155,22 @@ The vertebral artery traverses four anatomically distinct segments. **V1** is th
   </figcaption>
 </figure>
 
-### C. Spinal cord and roots
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>V3 loop above the C1 lateral mass: subperiosteal dissection of the posterior arch no more than 1.5 cm lateral to the midline — beyond, the artery is directly in the field.</li>
+    <li>The artery enters the posterior atlantooccipital membrane at its lateral angle — dissection of this membrane is the zone of highest catastrophic-bleeding risk.</li>
+    <li>C2 screws (pedicle or Magerl transarticular) without preoperative CT angiogram risk foramen transversarium breach in a "high-riding" artery.</li>
+    <li>Unilateral vertebral artery ligation with a hypoplastic contralateral artery → postoperative vertebrobasilar ischaemia.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="spinal-cord">
+<summary><span class="ts-title">Spinal Cord and Roots</span> <span class="ts-en">Гръбначен мозък и коренчета</span></summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/spinal-cord-xs.png" data-figure-alt="Cross-section of the spinal cord" aria-label="Enlarge">
@@ -123,9 +194,22 @@ The vertebral artery traverses four anatomically distinct segments. **V1** is th
 
 The spinal cord typically ends at L1–L2 with the conus medullaris, below which the cauda equina continues. The spinal roots (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal) exit through their respective foramina intervertebralia. In the cervical spine the root exits ABOVE the same-numbered pedicle (the C5 root above the C5 pedicle), whereas in the thoracic and lumbar spine the root exits BELOW the same-numbered pedicle — a distinction that determines the level of disc herniation and the corresponding clinical radiculopathy. The C5 root has the shortest extradural course in the cervical spine and is most vulnerable to dorsal displacement after multilevel decompression — the anatomic basis of the well-known C5 palsy (5–10% after multilevel cervical laminectomy).
 
-### D. Prevertebral visceral structures
+<aside class="callout callout-note">
+  <strong>Note</strong>
+  <ul>
+    <li>Cervical roots exit ABOVE the same-numbered pedicle; thoracic and lumbar roots exit BELOW. The C5–C6 disc herniation typically compresses the C6 root, whereas the L4–L5 herniation typically compresses the L5 root.</li>
+    <li>C5 palsy after multilevel cervical laminectomy (5–10%) — the shortest extradural root, most vulnerable to dorsal cord migration.</li>
+  </ul>
+</aside>
 
-**Cervical region.** Trachea and oesophagus medially, the carotid sheath laterally (common carotid artery, internal jugular vein, vagus nerve in a common envelope). Above the thyroid cartilage the common carotid divides into internal and external. The oesophagus lies posterior to the trachea and slightly to the left in the lower neck — the anatomical basis for the marginally increased perforation risk on the left. The neck is wrapped in three fascial layers: superficial (lamina superficialis, deep cervical fascia investiens) envelopes m. sternocleidomastoideus and m. trapezius; middle (lamina pretrachealis) envelopes the strap muscles and thyroid structures and continues as the carotid sheath; deep (lamina prevertebralis) covers the prevertebral muscles and carries the sympathetic chain on its surface.
+</div>
+</details>
+
+<details id="prevertebral">
+<summary><span class="ts-title">Prevertebral Visceral Structures</span> <span class="ts-en">Превертебрални висцерални структури</span></summary>
+<div class="ts-body">
+
+**Cervical region.** Trachea and oesophagus medially, the carotid sheath laterally (common carotid artery, internal jugular vein, vagus nerve in a common envelope). Above the thyroid cartilage the common carotid divides into internal and external. The oesophagus lies posterior to the trachea and slightly to the left in the lower neck — the anatomical basis for the marginally increased perforation risk on the left. The neck is wrapped in three fascial layers: superficial (lamina superficialis) envelopes m. sternocleidomastoideus and m. trapezius; middle (lamina pretrachealis) envelopes the strap muscles and thyroid structures and continues as the carotid sheath; deep (lamina prevertebralis) covers the prevertebral muscles and carries the sympathetic chain on its surface.
 
 **Recurrent laryngeal nerve.** The left RLN branches from the left vagus around the aortic arch and ascends vertically in the tracheo-oesophageal groove to the larynx — a predictable, constant course. The right RLN ascends around the subclavian artery at a higher level and in the lower neck crosses diagonally from lateral to medial to reach the tracheo-oesophageal groove — a slightly higher risk of injury in lower cervical exposure. In rare cases (about 0.5%) the right RLN is "non-recurrent" and leaves the vagus directly at the level of the thyroid gland, crossing the operative field horizontally — an anatomic surprise that can be injured if not anticipated. Some surgeons prefer a left-sided approach because of the predictability of the left RLN; others prefer right-sided because of right-handedness and surgeon comfort — a question of training, not of safety.
 
@@ -139,13 +223,40 @@ The spinal cord typically ends at L1–L2 with the conus medullaris, below which
 
 **Lumbar region.** Aortic bifurcation typically at L4 body level; caval bifurcation at L5. The ureter crosses the common iliac vessel at the pelvic brim. The sympathetic chain lies on the anterolateral surface of the vertebral bodies (injury produces a warm leg or retrograde ejaculation in men). The superior hypogastric plexus lies as a delicate network anterior to the sacral promontory — the principal neurological cause of retrograde ejaculation (1–5% of men) in anterior lumbosacral approaches.
 
-### E. Brachial plexus and thoracic outlet
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Left RLN is vertical and predictable (tracheo-oesophageal groove around the aortic arch); right RLN is more variable (around the subclavian artery, crossing diagonally lateral-to-medial in the lower neck).</li>
+    <li>Non-recurrent right RLN in 0.5% — crosses the operative field horizontally at the thyroid level, easily injured by the unprepared surgeon.</li>
+    <li>Superior laryngeal nerve runs with the superior thyroid vessels at C3 — mandatory sparing during upper cervical exposure; injury impairs the high vocal range.</li>
+  </ul>
+</aside>
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Excessive lateral dissection in the anterior cervical approach injures the sympathetic chain on the anterior surface of m. longus colli → Horner's syndrome (miosis, ptosis, anhidrosis).</li>
+    <li>Superior hypogastric plexus anterior to the promontory is the cause of retrograde ejaculation (1–5% of men) in anterior lumbosacral approaches — blunt dissection only, no cautery.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="brachial-plexus">
+<summary><span class="ts-title">Brachial Plexus and Thoracic Outlet</span> <span class="ts-en">Брахиален плексус и горен гръден отвор</span></summary>
+<div class="ts-body">
 
 In the supraclavicular zone, the trunks of the brachial plexus and the subclavian artery pass through the scalene triangle between the anterior and middle scalene muscles, on top of the first rib. The anterior scalene separates the plexus and subclavian artery from the underlying subclavian vein (which passes medially-ventral to the muscle) — the clinical basis for thoracic outlet syndromes and for the surgical principles in cervical rib. The phrenic nerve lies on the anterior surface of the anterior scalene, crossing from lateral to medial, and is protected only by the dense prevertebral fascia — its identification and preservation are mandatory first in supraclavicular approach.
 
 The lower trunk of the plexus (C8–T1) and the subclavian artery are most vulnerable at the thoracic outlet — compressed either by a cervical rib, by an elongated C7 transverse process, or by an abnormal fibrous band (Roos band) attaching to the first rib. The clinical presentation: paraesthesia and atrophy in the ulnar distribution (the Gilliatt-Sumner hand — characteristic atrophy of m. abductor pollicis brevis and the interossei), and cold hand from subclavian compression.
 
-### F. Lumbosacral plexus within the psoas major
+</div>
+</details>
+
+<details id="lumbosacral-plexus">
+<summary><span class="ts-title">Lumbosacral Plexus within Psoas Major</span> <span class="ts-en">Лумбосакрален плексус в m. psoas major</span></summary>
+<div class="ts-body">
 
 The lumbar plexus forms from the anterior rami of L1–L4 within the posterior substance of m. psoas major, between the anterior and posterior muscular laminae. Principal trunks: n. ilioinguinalis (L1), n. genitofemoralis (L1–L2, along the anterior surface of the psoas), n. cutaneus femoris lateralis (L2–L3), n. femoralis (L2–L4, in the lower third of the psoas at its lateral border), n. obturatorius (L2–L4, at the medial border). The sacral plexus (L4–S4), formed from the lumbosacral trunk (L4–L5) and sacral ventral rami, lies on m. piriformis in the pelvis.
 
@@ -161,7 +272,25 @@ The lumbar plexus forms from the anterior rami of L1–L4 within the posterior s
   </figcaption>
 </figure>
 
-## III. Biomechanical considerations
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Safe corridor for transpsoas approach: zone II (L1–L3) or zone II–III (more caudal), neuromonitoring (trigger EMG) mandatory because of plexus anterior migration toward L4–L5.</li>
+    <li>The L4 root lies in the lower third of m. psoas major at L4–L5 — most vulnerable at transpsoas approach.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="biomechanics">
+<details>
+<summary><span class="ts-title">Biomechanics</span> <span class="ts-en">Биомеханика</span></summary>
+<div class="ts-body">
 
 The craniocervical junction is divided into two functional complexes. The occipito-C1 complex carries approximately 50% of cervical flexion-extension and permits virtually no rotation; the C1–C2 complex carries about 50% of cervical rotation (around 40° per side) with minimal flexion-extension. This asymmetric concentration of motion explains why an isolated C1–C2 fusion limits rotation more than any other single-level cervical fusion.
 
@@ -173,7 +302,23 @@ The lumbar spine has predominantly sagittal facet orientation (flexion-extension
 
 The lumbosacral junction is governed by sacral orientation: pelvic incidence (PI) is an individual constant, sacral slope (SS) and pelvic tilt (PT) are compensatory parameters (PI = SS + PT). A mismatch between PI and the actual lumbar lordosis (PI–LL > 10°) is a principal predictor of post-fusion sagittal decompensation.
 
-## IV. Landmarks and imaging
+<aside class="callout callout-note">
+  <strong>Note</strong>
+  <ul>
+    <li>Isolated C1–C2 fusion removes ≈50% of cervical rotation — the only segmental fusion with such a large functional cost.</li>
+    <li>67% of lumbar lordosis concentrates at L4–S1 — its restoration in long fusion is critical for sagittal balance.</li>
+    <li>PI–LL mismatch > 10° → post-fusion sagittal decompensation; goal in degenerative correction: PI–LL ≤ 10°.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="landmarks-imaging">
+<details>
+<summary><span class="ts-title">Landmarks and Imaging</span> <span class="ts-en">Ориентири и образна диагностика</span></summary>
+<div class="ts-body">
 
 Surface landmarks for anterior cervical approaches: hard palate → atlas arch (C1); lower border of the mandible → C2–C3; hyoid → C3; upper border of the thyroid cartilage → C4–C5; cricoid cartilage → C6; Chassaignac (carotid) tubercle, the anterior tubercle of the C6 transverse process → reliable palpable C6 marker; sternoclavicular joint → T2–T3. For posterior cervical approaches, the vertebra prominens of C7 is the principal palpable landmark, and a rotational axis through the tip of the spinous process allows oblique fluoroscopy to identify C2.
 
@@ -211,7 +356,14 @@ Intraoperatively the level is confirmed by lateral fluoroscopy. In multilevel ca
   </figcaption>
 </figure>
 
-## V. Classification of approaches
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="classification">
+<details>
+<summary><span class="ts-title">Classification of Approaches</span> <span class="ts-en">Класификация на достъпите</span></summary>
+<div class="ts-body">
 
 Spinal surgical approaches are classified along four intersecting axes.
 
@@ -225,9 +377,18 @@ Spinal surgical approaches are classified along four intersecting axes.
 
 The choice of approach is determined by pathology localisation (anterior vs. posterior column), level, presence and type of instability, comorbidities (previous surgery, radiation fibrosis, poor pulmonary function), and the surgeon's experience and instrumentation. Hoppenfeld's principle — "the morbidity of the approach should not exceed the benefit of the procedure" — remains directive: minimally invasive variants are not goals in themselves but selections for appropriate pathology and expert hands.
 
-## VI. Treatment
+</div>
+</details>
+</section>
 
-### A. Conservative
+<section class="topic-section" id="treatment">
+<details>
+<summary><span class="ts-title">Treatment</span> <span class="ts-en">Лечение</span></summary>
+<div class="ts-body">
+
+<details id="nonoperative">
+<summary><span class="ts-title">Nonoperative</span> <span class="ts-en">Консервативно</span></summary>
+<div class="ts-body">
 
 For cervical fracture-dislocation, the classical first step is closed reduction via skeletal traction. The skull tongs — introduced by G. Smith but bearing the name of Crutchfield (with the Barton, Blackburn, and Vinke alternatives) — are placed over the parietal eminences about 10–11 cm apart, with screws penetrating the outer skull cortex to a depth of 4 mm. The screws must not breach the inner cortex (risk of epidural haematoma or sinus penetration). Weight is increased progressively from 2.5 kg up to 6–8 kg (approximately 1 kg per level for the lower cervical spine) under radiographic control every 30 minutes.
 
@@ -243,9 +404,25 @@ For cervical fracture-dislocation, the classical first step is closed reduction 
 
 The halo provides four-point fixation (two parietal screws plus two frontal screws above the eyebrows in the lateral third of the brow, to avoid the supraorbital and supratrochlear nerves). The traction test for distinguishing a fractured from a locked facet — progressive traction up to 8 kg over 24 hours — reduces a fractured facet but does not reduce a locked one, which requires open reduction. The acceptable residual shortening after reduction is below 3 mm to preserve the sagittal canal diameter. Early posterior or anterior fusion (day 3–4) is recommended even in fully quadriplegic patients to provide stability for early mobilisation and prevention of pulmonary complications.
 
-### B. Surgical approaches
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Traction test distinguishes a fractured from a locked facet: progressive traction up to 8 kg over 24 hours reduces the fractured but not the locked facet.</li>
+    <li>Residual shortening after closed reduction of a cervical fracture-dislocation should not exceed 3 mm to preserve the sagittal canal.</li>
+    <li>Early posterior or anterior fusion (day 3–4) even in fully quadriplegic patients — stability for early mobilisation and pneumonia prevention.</li>
+  </ul>
+</aside>
 
-#### 1. Anterior cervical approach (Smith-Robinson)
+</div>
+</details>
+
+<details id="operative">
+<summary><span class="ts-title">Operative</span> <span class="ts-en">Оперативно</span></summary>
+<div class="ts-body">
+
+<details>
+<summary><span class="ts-title">Anterior Cervical Approach (Smith-Robinson)</span> <span class="ts-en">Преден шиен достъп (по Smith-Robinson)</span></summary>
+<div class="ts-body">
 
 The anterior cervical approach — developed by Smith and Robinson (1958) and refined by Cloward and others — is the principal route to the anterior cervical spine for ACDF, corpectomy, anterior cervical plating, and access for tumour or infection. It covers C3–T1; for C2–C3 cranial extension of the dissection is needed, for C7–T1 caudal shoulder depression with traction tape.
 
@@ -263,54 +440,77 @@ The anterior cervical approach — developed by Smith and Robinson (1958) and re
 
 **Special points.** Poorly placed retractors endanger the trachea and oesophagus. Retractors must lie beneath the longi colli or be hand-held with rounded ends. The right-sided approach is associated with a more variable RLN — side selection is a matter of surgical preference, not safety.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>The Smith-Robinson approach works in the avascular plane between the carotid sheath (laterally) and the strap muscles (medially). The recurrent laryngeal nerve passes within the tracheo-oesophageal groove — more vertical and predictable on the left (aortic arch), more variable on the right (subclavian artery) — and is the principal neurological concern; the sympathetic chain lateral to the longi colli causes Horner's syndrome when injured.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>The avascular plane lies between the carotid sheath (laterally) and the strap muscles (medially); correct development of this plane is the key to avoiding the recurrent laryngeal nerve, sympathetic chain, and oesophagus.</li>
+    <li>Standard approach covers C3–T1; for C2–C3 cranial extension, for C7–T1 caudal shoulder depression with traction tape.</li>
+    <li>Side selection (left vs. right) is a matter of surgical preference, not safety — statistically significant differences in complications are not demonstrated.</li>
+  </ul>
+</aside>
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Excessive lateral dissection over m. longus colli injures the sympathetic chain → Horner's syndrome.</li>
+    <li>Forced cranial extension of a low approach toward C2–C3 risks the superior laryngeal nerve without adequate exposure; for C1–C2 a transoral or retropharyngeal approach is needed.</li>
+    <li>Self-retaining retractors in the carotid sheath zone → compression of the common carotid or internal jugular; mandatory hand-held rounded ends in this zone.</li>
+    <li>Non-recurrent right RLN (≈0.5%) crosses the operative field horizontally at the thyroid level — easily injured by the unprepared surgeon.</li>
+  </ul>
 </aside>
 
 **How to enlarge.** Local — laterally by subperiosteal removal of the longus colli origins from the body, with strict avoidance of dissection over the transverse process to preserve the sympathetic chain. The approach cannot be extended transcervically; for C1–C2 exposure a retropharyngeal or transoral approach is added.
 
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>The standard Smith-Robinson approach covers C3–T1; C1–C2 is out of reach and requires a different approach (transoral, retropharyngeal, or posterior). Forced cranial extension of a low approach toward C2–C3 risks the superior laryngeal nerve and yields inadequate exposure.</p>
-</aside>
+</div>
+</details>
 
-#### 2. Craniocervical junction approaches (C1–C2)
+<details>
+<summary><span class="ts-title">Craniocervical Junction Approaches (C1–C2)</span> <span class="ts-en">Достъпи до краниоцервикалния преход</span></summary>
+<div class="ts-body">
 
 The C1–C2 region (atlantoaxial joint, dens, anterior arch of the atlas, clivus) is out of reach of the standard Smith-Robinson. The choice between transoral, anterior submandibular retropharyngeal, transhyoid, lateral, and posterior approaches is determined by pathology localisation (anterior vs. posterior column), whether access to the clivus or only the axis body is required, and whether instability mandates posterior stabilisation — a near-mandatory second stage for most anterior upper-cervical procedures.
 
-##### Transoral approach
+**Transoral approach.** The principal anterior route to the dens, the anterior arch of the atlas, and the lower clivus.
 
-The principal anterior route to the dens, the anterior arch of the atlas, and the lower clivus.
+*Indications:* Irreducible dens fracture; os odontoideum with progressive instability; upper cervical tumours; rheumatoid pannus with cord compression; tuberculous paravertebral abscess; ventral epidural abscess; irreducible basilar invagination.
 
-**Indications.** Irreducible dens fracture; os odontoideum with progressive instability; upper cervical tumours; rheumatoid pannus with cord compression; tuberculous paravertebral abscess; ventral epidural abscess; irreducible basilar invagination.
+*Relative contraindications:* Inadequate mouth opening (interdental distance below 25 mm) — an indication for added hard-palatal or mandibular osteotomy. Active oral infection (unless the purpose is drainage). Lesions extending more than 15 mm lateral to the midline — limited by the occipital condyles, V3 loop, and CN VI/XII.
 
-**Relative contraindications.** Inadequate mouth opening (interdental distance below 25 mm) — an indication for added hard-palatal or mandibular osteotomy. Active oral infection (unless the purpose is drainage). Lesions extending more than 15 mm lateral to the midline — limited by the occipital condyles, V3 loop, and CN VI/XII.
+*Positioning and preparation:* Nasotracheal fibreoptic intubation in the awake patient to minimise neck hyperextension. Nasogastric tube placement (the patient cannot eat for several days). For intradural resection — preoperative lumbar drain with drainage 3–5 days postoperatively. Prophylactic broad-spectrum antibiotics (gram-positive, gram-negative, anaerobic). Oral cavity irrigated with chlorhexidine or povidone-iodine. Head fixed centrally in a Mayfield holder, in line with the body to avoid C1-on-C2 displacement that may distort anatomic landmarks and expose the vertebral arteries.
 
-**Positioning and preparation.** Nasotracheal fibreoptic intubation in the awake patient to minimise neck hyperextension. Nasogastric tube placement (the patient cannot eat for several days). For intradural resection — preoperative lumbar drain with drainage 3–5 days postoperatively. Prophylactic broad-spectrum antibiotics (gram-positive, gram-negative, anaerobic). Oral cavity irrigated with chlorhexidine or povidone-iodine. Head fixed centrally in a Mayfield holder, in line with the body to avoid C1-on-C2 displacement that may distort anatomic landmarks and expose the vertebral arteries.
+*Technique:* A self-retaining retractor (Crockard or Dingman) is placed; the tongue is retracted caudally, the soft palate elevated cranially or split in the midline (paramedian around the uvula to avoid velopharyngeal insufficiency). Visibility: classical transoral with palatal sparing covers foramen magnum to C2–C3 disc; with soft palate split, the lower third of the clivus; with hard palate split too, up to the vomer and full clivus; with added mandibulotomy and glossotomy, a wide corridor for intradural tumours. The posterior pharyngeal wall is infiltrated with adrenaline solution and divided vertically in the midline; mm. longus capitis and longus colli are elevated subperiosteally with curette and sharp dissection to expose the C1 arch and C2 body. After the intracavitary manipulation the pharyngeal wall and palate are closed in layers with absorbable sutures.
 
-**Technique.** A self-retaining retractor (Crockard or Dingman) is placed; the tongue is retracted caudally, the soft palate elevated cranially or split in the midline (paramedian around the uvula to avoid velopharyngeal insufficiency). Visibility: classical transoral with palatal sparing covers foramen magnum to C2–C3 disc; with soft palate split, the lower third of the clivus; with hard palate split too, up to the vomer and full clivus; with added mandibulotomy and glossotomy, a wide corridor for intradural tumours. The posterior pharyngeal wall is infiltrated with adrenaline solution and divided vertically in the midline; mm. longus capitis and longus colli are elevated subperiosteally with curette and sharp dissection to expose the C1 arch and C2 body. After the intracavitary manipulation the pharyngeal wall and palate are closed in layers with absorbable sutures.
+*Complications:* Infection (raised by oral flora); iatrogenic dens displacement with fatal cord injury in fracture (mandates preoperative extension traction); subcutaneous emphysema from the tracheostomy; velopharyngeal insufficiency and dysphagia (especially with soft palate split); CSF leak and meningitis if undetected durotomy. The near-mandatory second stage of posterior occipito-cervical stabilisation, since the approach itself confers no mechanical stability.
 
-**Complications.** Infection (raised by oral flora); iatrogenic dens displacement with fatal cord injury in fracture (mandates preoperative extension traction); subcutaneous emphysema from the tracheostomy; velopharyngeal insufficiency and dysphagia (especially with soft palate split); CSF leak and meningitis if undetected durotomy. The near-mandatory second stage of posterior occipito-cervical stabilisation, since the approach itself confers no mechanical stability.
-
-##### Anterior submandibular retropharyngeal approach (Stevenson; extended by McAfee)
-
-A submandibular skin incision extending inferiorly along the anterior border of m. sternocleidomastoideus. The submandibular gland is removed or retracted, the carotid sheath is identified and protected, dissection proceeds anteromedially above the hyoid bone to the wall of the epipharynx, which is separated from the prevertebral fascia to the pharyngeal tubercle of the clivus. Used in upper cervical chordomas and clivus tumours; vulnerable to vascular injury (internal carotid artery) and pharyngeal wall perforation with consequent mediastinitis.
-
-##### Transhyoid approach (Fang and Hodgson, 1962)
-
-An arcuate incision along the upper cervical crease between the two sternocleidomastoids. M. sternohyoideus and m. thyrohyoideus are divided to expose the thyrohyoid membrane, which is cut transversely — opening the supraglottic fossa and allowing caudal retraction of the thyroid cartilage for access to C2–C4. Suited to tuberculous abscess or tumours at C3–C4 where standard Smith-Robinson is impeded by the mandibular angle.
-
-##### Lateral cervical approach (1946; French orthopaedic school)
-
-A skin incision along the posterior border of m. sternocleidomastoideus. The V1 segment of the vertebral artery is identified in the angle between m. longus colli and m. scalenus anterior; V2 is mobilised by serial opening of the foramina transversaria. The initial indication was vertebral artery ligation for arteriovenous malformation; modern indications include tumour resection involving the foramen transversarium and selective cervical facetectomies.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>In the lateral cervical approach the vertebral artery is mobilised in two segments — the pre-transversarial (V1) is identified in the angle between m. longus colli and m. scalenus anterior, and the transversarial (V2) is freed by serial opening of foramina transversaria from C6 upward. Ligation is permissible only after demonstrated adequate contralateral vertebral circulation by preoperative angiography.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Passive neck flexion in a dens fracture can drive the fragment into the spinal canal — preoperative extension traction is mandatory.</li>
+    <li>Midline (oral) intubation without a nasotracheal tube limits visibility; the standard is awake fibreoptic nasotracheal intubation.</li>
+    <li>Without a posterior occipito-cervical stabilisation, the transoral approach provides no mechanical stability — near-mandatory second stage.</li>
+  </ul>
 </aside>
 
-#### 3. Posterior subaxial cervical approach
+**Anterior submandibular retropharyngeal approach (Stevenson; extended by McAfee).** A submandibular skin incision extending inferiorly along the anterior border of m. sternocleidomastoideus. The submandibular gland is removed or retracted, the carotid sheath is identified and protected, dissection proceeds anteromedially above the hyoid bone to the wall of the epipharynx, which is separated from the prevertebral fascia to the pharyngeal tubercle of the clivus. Used in upper cervical chordomas and clivus tumours; vulnerable to vascular injury (internal carotid artery) and pharyngeal wall perforation with consequent mediastinitis.
+
+**Transhyoid approach (Fang and Hodgson, 1962).** An arcuate incision along the upper cervical crease between the two sternocleidomastoids. M. sternohyoideus and m. thyrohyoideus are divided to expose the thyrohyoid membrane, which is cut transversely — opening the supraglottic fossa and allowing caudal retraction of the thyroid cartilage for access to C2–C4. Suited to tuberculous abscess or tumours at C3–C4 where standard Smith-Robinson is impeded by the mandibular angle.
+
+**Lateral cervical approach (1946; French orthopaedic school).** A skin incision along the posterior border of m. sternocleidomastoideus. The V1 segment of the vertebral artery is identified in the angle between m. longus colli and m. scalenus anterior; V2 is mobilised by serial opening of the foramina transversaria. The initial indication was vertebral artery ligation for arteriovenous malformation; modern indications include tumour resection involving the foramen transversarium and selective cervical facetectomies.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>In the lateral cervical approach the vertebral artery is mobilised in two segments — V1 in the m. longus colli / m. scalenus anterior angle, V2 by serial opening of foramina transversaria from C6 upward.</li>
+    <li>Vertebral artery ligation is permissible only after demonstrated adequate contralateral vertebral circulation by preoperative angiography — about 10% of the population have a hypoplastic or variant vertebral artery.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Posterior Subaxial Cervical Approach</span> <span class="ts-en">Заден шиен достъп (субаксиален)</span></summary>
+<div class="ts-body">
 
 Provides access for laminectomy, laminoplasty, posterior fusion, foraminotomy, and tumour/infection cases.
 
@@ -320,43 +520,74 @@ Provides access for laminectomy, laminoplasty, posterior fusion, foraminotomy, a
 
 **Dangers.** Greater occipital nerve (the dorsal primary ramus of C2) and the third occipital nerve (dorsal primary ramus of C3) — pass through the lateral suboccipital triangle; injury produces local posterior cervical anaesthesia and neuroma. The vertebral artery in the suboccipital triangle — mobilises along the superior border of the posterior arch of the atlas in a characteristic loop and enters the spinal canal through the posterior atlantooccipital membrane at its lateral angle. The cervical venous plexuses — often profuse bleeding, controlled with bipolar cautery and Gelfoam.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>In the posterior cervical approach stay in the midline ligamentum nuchae (avascular) and limit lateral dissection at the laminae to protect the vertebral artery in the foramen transversarium and the dorsal exits of the cervical nerve roots.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Stay in the midline ligamentum nuchae (avascular) and limit lateral dissection at the laminae to protect the vertebral artery in the foramen transversarium and the dorsal exits of the cervical nerve roots.</li>
+    <li>"Military tuck" position, not "chin-on-chest" — excessive neck flexion impairs spinal cord perfusion.</li>
+    <li>Shoulder abduction ≤ 90° and head in neutral position with no pressure on the eyes — postoperative blindness from reduced ocular perfusion is a real prone-position risk.</li>
+  </ul>
 </aside>
 
 **Specific procedures.** Cervical laminectomy — bilateral troughs at the lamina-facet junction with a high-speed burr; facet preservation for stability. Laminoplasty — hinge on one side, open-door on the other; variants: Hirabayashi "open-door" (1983) — hinge on one side, opening on the other; Itoh "French-door" (1985) — midline hinge with bilateral opening. Posterior instrumented fusion — Magerl/Roy-Camille lateral mass screws in the subaxial levels (3.5 mm diameter, 14–16 mm long, 25° lateral and 30° cranial trajectory), C2 pedicle and lower-cervical pedicle screws in selected cases, C1 lateral-mass + C2 pedicle/isthmic in C1–C2 constructs. Foraminotomy by opening the medial facet wall and the lateral aspect of the disc space with preservation of at least 50% of the facet for stability.
 
-#### 4. Occipito-C1–C2 fusion (Gallie → Brooks-Jenkins → Magerl → Harms)
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Post-laminectomy cervical kyphosis develops insidiously after multilevel laminectomy without fusion — especially in patients under 25 years; laminoplasty or concurrent fusion prevents this sequela.</li>
+    <li>Preservation of at least 50% of the facet during decompression — beyond this limit, postoperative instability.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Occipito-C1–C2 Fusion</span> <span class="ts-en">Окципито-C1–C2 фузия (Gallie → Brooks-Jenkins → Magerl → Harms)</span></summary>
+<div class="ts-body">
 
 Atlantoaxial instability (trauma, os odontoideum, rheumatoid arthritis, infection, congenital syndromes) requires C1–C2 arthrodesis; with occipitocervical involvement, occipito-C1–C2 fusion. Classical posterior techniques: Gallie (1939, single wire loop through the C1 laminae and C2 spinous process with iliac or tibial graft); Brooks-Jenkins (1978, bilateral biconcave bone blocks with paired wires). The modern standard is Magerl (C1–C2 transarticular screws via the articular process, 30–40 mm long, trajectory from the lower C2 lamina upward and medially at 0–10° to the sagittal plane) or Harms (C1 lateral-mass screws 18–22 mm long and C2 pedicle/partial screws connected by rods) — biomechanically more stable than wire-only constructs and not requiring an intact C1 lamina. Occipitocervical fixation adds occipital bone screws (in the midline keel 8–10 mm long, or laterally in the occipital condyles) with a plate or rod connected to the C1–C2 construct.
 
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>In occipito-cervical fusion the vertebral artery loops over the lateral mass of C1 and runs vertically over the lateral third of the C2 lamina. Subperiosteal dissection of the posterior arch of the atlas must not exceed 1.5 cm from the midline; C2 screws must follow a trajectory confirmed by preoperative CT angiogram in the setting of a hypoplastic contralateral vertebral artery or anatomic variants.</p>
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>The vertebral artery loops over the C1 lateral mass and runs vertically over the lateral third of the C2 lamina. Subperiosteal dissection of the posterior arch of the atlas no more than 1.5 cm lateral to the midline.</li>
+    <li>C2 screws must follow a trajectory confirmed by preoperative CT angiogram in the setting of a hypoplastic contralateral vertebral artery or anatomic variants.</li>
+    <li>Occipital midline screws: recommended length 8–10 mm — longer screws perforate the transverse sinus.</li>
+  </ul>
 </aside>
 
-#### 5. Cervicothoracic junction (C7–T2)
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Cervicothoracic Junction (C7–T2)</span> <span class="ts-en">Цервикоторакален преход</span></summary>
+<div class="ts-body">
 
 A demanding region because of the transition from cervical to thoracic anatomy and the thoracic outlet.
 
-##### Low anterior cervical approach
+**Low anterior cervical approach.** A standard Smith-Robinson with traction shoulder depression covers C7–T1; a right-sided approach avoids the thoracic duct.
 
-A standard Smith-Robinson with traction shoulder depression covers C7–T1; a right-sided approach avoids the thoracic duct.
+**Manubriotomy.** Partial sternal split of the manubrium (T-shaped or Z-shaped). Preserves the sternum body and provides access to T1–T3 without entering the chest cavity. Structures to identify and protect: v. brachiocephalica, a. brachiocephalica, left common carotid artery and left subclavian artery (all carefully retracted aside), thymus (resected if needed), thoracic duct (on the left, at T1–T2).
 
-##### Manubriotomy
+**Full sternotomy.** Full midline sternal split. Used for extensive tumours or vertebrotomy at T1–T3.
 
-Partial sternal split of the manubrium (T-shaped or Z-shaped). Preserves the sternum body and provides access to T1–T3 without entering the chest cavity. Structures to identify and protect: v. brachiocephalica, a. brachiocephalica, left common carotid artery and left subclavian artery (all carefully retracted aside), thymus (resected if needed), thoracic duct (on the left, at T1–T2).
+**Transclavicular approach.** With mobilisation or partial clavicle resection. Used less commonly than manubriotomy but permits a more lateral approach for tumour cases.
 
-##### Full sternotomy
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>At C7–T1, the right-sided approach avoids the thoracic duct, which drains into the left subclavian vein.</li>
+    <li>T- or Z-shaped manubriotomy preserves the sternum body — access to T1–T3 without entering the pleural cavity.</li>
+  </ul>
+</aside>
 
-Full midline sternal split. Used for extensive tumours or vertebrotomy at T1–T3.
+</div>
+</details>
 
-##### Transclavicular approach
-
-With mobilisation or partial clavicle resection. Used less commonly than manubriotomy but permits a more lateral approach for tumour cases.
-
-#### 6. Anterior thoracic approaches
+<details>
+<summary><span class="ts-title">Anterior Thoracic Approaches</span> <span class="ts-en">Предни гръдни достъпи</span></summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-1/thoracic-vertebra.png" data-figure-alt="Thoracic vertebra, lateral view" aria-label="Enlarge">
@@ -368,32 +599,30 @@ With mobilisation or partial clavicle resection. Used less commonly than manubri
   </figcaption>
 </figure>
 
-##### Thoracotomy
+**Thoracotomy.** The classical open approach to the anterior thoracic spine. Lateral position with the affected side up, a double-lumen endotracheal tube for selective ventilation (Carlens or Robertshaw type). The skin incision parallels the rib (typically two ribs above the desired level because of caudal rib angulation). M. latissimus dorsi, m. trapezius, mm. rhomboidei, and m. serratus anterior are divided or retracted; subperiosteal rib resection provides chest entry with care to spare the intercostal neurovascular bundle at the lower rib border. The parietal pleura is opened over the vertebral body, the segmental vessels are identified and ligated (the rule "veins before arteries"), and the body is exposed. Right-sided for upper and middle thoracic spine (the heart is out of the field), left-sided for the thoracolumbar junction (T11–L2; the diaphragm is more accessible, the aorta is a more recognisable landmark than the inferior vena cava).
 
-The classical open approach to the anterior thoracic spine. Lateral position with the affected side up, a double-lumen endotracheal tube for selective ventilation (Carlens or Robertshaw type). The skin incision parallels the rib (typically two ribs above the desired level because of caudal rib angulation). M. latissimus dorsi, m. trapezius, mm. rhomboidei, and m. serratus anterior are divided or retracted; subperiosteal rib resection provides chest entry with care to spare the intercostal neurovascular bundle at the lower rib border. The parietal pleura is opened over the vertebral body, the segmental vessels are identified and ligated (the rule "veins before arteries"), and the body is exposed. Right-sided for upper and middle thoracic spine (the heart is out of the field), left-sided for the thoracolumbar junction (T11–L2; the diaphragm is more accessible, the aorta is a more recognisable landmark than the inferior vena cava).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Side selection for thoracic approaches: right for upper and middle thoracic (heart out of the field), left for the thoracolumbar junction T11–L2 (diaphragm more accessible, aorta a more recognisable pulsatile landmark than the IVC). At C7–T1, right-sided approach avoids the thoracic duct, which drains into the left subclavian vein.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Right-sided approach for upper and middle thoracic spine (heart out of the field); left-sided for the thoracolumbar junction T11–L2 (diaphragm more accessible, aorta a more recognisable pulsatile landmark than the IVC).</li>
+    <li>"Veins before arteries" rule — segmental vein is ligated first at its origin from the vena cava or v. azygos, then segmental artery from the aorta.</li>
+  </ul>
 </aside>
 
-##### Thoracoabdominal approach
+**Thoracoabdominal approach.** For the thoracolumbar junction (T11–L2), a combined thoracoabdominal approach with diaphragm release provides wide exposure. The skin incision follows the 10th or 11th rib from the scapular angle to the abdominal midline. The diaphragm is divided along its peripheral attachment 2.5–3 cm from the chest wall (preserving the muscular bulk and the motor branches of the phrenic nerve), permitting continuous exposure from the chest to the retroperitoneum. Closure restores the diaphragm without tension.
 
-For the thoracolumbar junction (T11–L2), a combined thoracoabdominal approach with diaphragm release provides wide exposure. The skin incision follows the 10th or 11th rib from the scapular angle to the abdominal midline. The diaphragm is divided along its peripheral attachment 2.5–3 cm from the chest wall (preserving the muscular bulk and the motor branches of the phrenic nerve), permitting continuous exposure from the chest to the retroperitoneum. Closure restores the diaphragm without tension.
+**Video-assisted thoracoscopic surgery (VATS).** Small thoracoscopic portals instead of thoracotomy in selected indications, with reduced postoperative pain and faster recovery. Applications: anterior release for scoliosis, discectomy, and selected anterior vertebrectomies; technically demanding with limited scope for fusion procedures.
 
-##### Video-assisted thoracoscopic surgery (VATS)
+**Costotransversectomy (Capener, Ménard).** An extrapleural posterior approach to the anterolateral surface of the thoracic vertebral body, historically developed for drainage of tuberculous paravertebral abscess. The patient is prone or lateral; the skin incision is paramedian or hockey-stick, 3–4 levels long. The paravertebral muscles are elevated, the transverse process and proximal 5–7 cm of the rib are resected subperiosteally (preserving the parietal pleura) with attention to the intercostal neurovascular bundle at the lower rib border. Used for Pott's disease with paravertebral abscess, selective biopsy, and retropulsed body fragment when standard thoracotomy is unsuitable.
 
-Small thoracoscopic portals instead of thoracotomy in selected indications, with reduced postoperative pain and faster recovery. Applications: anterior release for scoliosis, discectomy, and selected anterior vertebrectomies; technically demanding with limited scope for fusion procedures.
+**Pleurodiaphragmatic approach (Hodgson).** Extended access to the thoracolumbar junction through an 11th-rib incision continuing into the abdominal wall; the diaphragm is released along its peripheral insertion, giving continuous exposure from the lower thoracic spine to L1–L2 without functional diaphragm impairment. Especially suited to tuberculous spondylitis at T12–L1.
 
-##### Costotransversectomy (Capener, Ménard)
+</div>
+</details>
 
-An extrapleural posterior approach to the anterolateral surface of the thoracic vertebral body, historically developed for drainage of tuberculous paravertebral abscess. The patient is prone or lateral; the skin incision is paramedian or hockey-stick, 3–4 levels long. The paravertebral muscles are elevated, the transverse process and proximal 5–7 cm of the rib are resected subperiosteally (preserving the parietal pleura) with attention to the intercostal neurovascular bundle at the lower rib border. Used for Pott's disease with paravertebral abscess, selective biopsy, and retropulsed body fragment when standard thoracotomy is unsuitable.
-
-##### Pleurodiaphragmatic approach (Hodgson)
-
-Extended access to the thoracolumbar junction through an 11th-rib incision continuing into the abdominal wall; the diaphragm is released along its peripheral insertion, giving continuous exposure from the lower thoracic spine to L1–L2 without functional diaphragm impairment. Especially suited to tuberculous spondylitis at T12–L1.
-
-#### 7. Anterior lumbar approach (retroperitoneal)
+<details>
+<summary><span class="ts-title">Anterior Lumbar Approach (Retroperitoneal)</span> <span class="ts-en">Преден поясен достъп (ретроперитонеален)</span></summary>
+<div class="ts-body">
 
 The standard approach to L4–L5 and L5–S1 uses a transverse or oblique flank incision with anterior retraction of the abdominal contents and entry into the retroperitoneum without entering the peritoneal cavity. Left-sided is preferred — the aorta is more easily mobilised than the inferior vena cava, and approaching from the left allows aortic retraction with lower risk of venous injury.
 
@@ -401,21 +630,42 @@ The standard approach to L4–L5 and L5–S1 uses a transverse or oblique flank 
 
 **Segmental vessels.** Ligation follows the "veins before arteries" rule — the segmental vein is ligated first at its origin from the vena cava or v. iliaca, then the segmental artery is ligated at its origin from the aorta. Premature ligation of only the artery causes venous backbleeding, because venous flow continues retrograde from the anterograde branches.
 
-##### Classical Bulgarian and Russian variants
+**Classical Bulgarian and Russian variants.** *Tenev approach:* left-sided extraperitoneal incision between the lower border of the 11th (or 12th) rib, the lateral border of m. erector spinae, and the iliac crest; m. quadratus lumborum is retracted medially, giving good exposure of the L1–L2 bodies and intermediate thoracolumbar junction with minimal abdominal wall disruption — especially suited to tuberculous spondylitis at this level. *Mitbreit approach:* pararectus or oblique retroperitoneal incision with division of m. obliquus externus, internus, and transversus abdominis along their fibres; emphasises early identification and gentle protection of the inferior vena cava and abdominal aorta before deep dissection, based on the rule "ligate segmental veins before arteries".
 
-**Tenev approach.** Left-sided extraperitoneal incision between the lower border of the 11th (or 12th) rib, the lateral border of m. erector spinae, and the iliac crest; m. quadratus lumborum is retracted medially, giving good exposure of the L1–L2 bodies and intermediate thoracolumbar junction with minimal abdominal wall disruption — especially suited to tuberculous spondylitis at this level.
+**Transperitoneal approach.** Midline laparotomy, Trendelenburg position — direct access to the sacral promontory, L5 body, and L5–S1 disc. Indications are limited to cases where the retroperitoneal approach is unsuitable (previous retroperitoneal surgery, radiation fibrosis); trade-offs include ileus, retrograde ejaculation in men, and intra-abdominal adhesions. It remains valuable in high-grade L5 spondylolisthesis with vertical luxation into the sacral pelvic depression.
 
-**Mitbreit approach.** Pararectus or oblique retroperitoneal incision with division of m. obliquus externus, internus, and transversus abdominis along their fibres; emphasises early identification and gentle protection of the inferior vena cava and abdominal aorta before deep dissection, based on the rule "ligate segmental veins before arteries".
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Left-sided retroperitoneal is standard — the aorta is more easily mobilised than the inferior vena cava.</li>
+    <li>Ligate segmental veins before arteries — Mitbreit's classical rule to avoid venous backbleeding.</li>
+    <li>Below the bifurcation, the superior hypogastric plexus carries parasympathetic fibres for sexual function — injury causes retrograde ejaculation (1–5% of men).</li>
+  </ul>
+</aside>
 
-##### Transperitoneal approach
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>The left common iliac vein is at greatest risk at L4–L5 exposure; the inferior vena cava is more vulnerable on the right.</li>
+    <li>Transperitoneal approach → ileus, retrograde ejaculation in men, intra-abdominal adhesions — reserved for cases where retroperitoneal is not possible.</li>
+  </ul>
+</aside>
 
-Midline laparotomy, Trendelenburg position — direct access to the sacral promontory, L5 body, and L5–S1 disc. Indications are limited to cases where the retroperitoneal approach is unsuitable (previous retroperitoneal surgery, radiation fibrosis); trade-offs include ileus, retrograde ejaculation in men, and intra-abdominal adhesions. It remains valuable in high-grade L5 spondylolisthesis with vertical luxation into the sacral pelvic depression.
+</div>
+</details>
 
-#### 8. Access to L5–S1
+<details>
+<summary><span class="ts-title">Access to L5–S1</span> <span class="ts-en">Достъп до L5–S1</span></summary>
+<div class="ts-body">
 
 Below the iliac bifurcation. The middle sacral vessels and the superior hypogastric plexus (carrying parasympathetic fibres important for sexual function) must be preserved. A midline approach with division of the anterior longitudinal ligament directly over the L5–S1 disc provides entry. The superior hypogastric plexus lies as a delicate sheet over the L5 body and the promontory; preservation rules: surgical mobilisation only with blunt instruments (no cautery), fascial mobilisation away from the promontory, and a transverse approach across the field rather than vertical.
 
-#### 9. Lateral transpsoas approaches (XLIF/LLIF/DLIF)
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Lateral Transpsoas Approaches (XLIF/LLIF/DLIF)</span> <span class="ts-en">Латерални транспсоасни достъпи</span></summary>
+<div class="ts-body">
 
 A minimally invasive approach to L1–L5 disc spaces via a transmuscular approach through m. psoas major. The patient is in a true lateral position with a small lateral incision over the level. Blunt dissection through the retroperitoneal fat reaches m. psoas major, which is split under neuromonitoring control to avoid the lumbosacral plexus. The disc space is accessed laterally with placement of a large interbody implant.
 
@@ -423,12 +673,21 @@ A minimally invasive approach to L1–L5 disc spaces via a transmuscular approac
 
 **Limitations.** L5–S1 cannot be reached via the transpsoas approach — the iliac crest blocks the working axis; a retroperitoneal anterior or OLIF (oblique lumbar interbody fusion) approach with an antero-lateral trajectory past the psoas is required.
 
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Lateral transpsoas approaches (XLIF/LLIF/DLIF) do not reach L5–S1 (blocked by the iliac crest) and expose the lumbosacral plexus, especially the L4 root at the lower levels within the psoas itself. Neuromonitoring during psoas splitting is mandatory. In the open anterior approach at L4–L5, the left common iliac vein is at greatest risk; left-sided retroperitoneal approach is preferred because the aorta is more mobile than the inferior vena cava.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Lateral transpsoas approaches (XLIF/LLIF/DLIF) do not reach L5–S1 — blocked by the iliac crest.</li>
+    <li>The lumbosacral plexus migrates anteriorly toward L4–L5 — neuromonitoring during psoas splitting is mandatory, especially for the L4 root.</li>
+    <li>Genitofemoral nerve on the anterior surface of the psoas — injury during anterior splitting causes paraesthesia and anaesthesia in the medial thigh.</li>
+  </ul>
 </aside>
 
-#### 10. Posterior lumbar approach
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Posterior Lumbar Approach</span> <span class="ts-en">Заден поясен достъп</span></summary>
+<div class="ts-body">
 
 The principal approach for lumbar discectomy, laminectomy, lumbar fusion (PLIF, TLIF, posterolateral fusion), pedicle screw instrumentation, and access for tumour or infection.
 
@@ -442,102 +701,101 @@ The principal approach for lumbar discectomy, laminectomy, lumbar fusion (PLIF, 
 
 **Specific procedures.** Discectomy and microdiscectomy (small midline incision and limited laminotomy; possible with tubular retractors 18–22 mm in diameter — METRx, Sextant). Laminectomy (bilateral with facet preservation for stability, or unilateral with hemifacet preservation). Lumbar fusion — posterolateral (decortication of transverse processes with bone graft); PLIF (bilateral disc space entry with interbody implants); TLIF (unilateral disc space entry through the foramen); pedicle screw instrumentation. Foraminotomy for the nerve root through partial facetectomy with the medial facet wall.
 
-#### 11. Wiltse approach (paramedian intermuscular)
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Wiltse Approach (Paramedian Intermuscular)</span> <span class="ts-en">Достъп по Wiltse</span></summary>
+<div class="ts-body">
 
 Develops the natural plane between m. multifidus and m. longissimus (Wiltse et al., 1968), giving direct access to the pars interarticularis, transverse process, and facet without midline disruption. Used for pars repair, posterolateral fusion, pedicle screw placement, and lateral foraminotomy. Preserves the midline structures and m. multifidus with reduced postoperative pain — the conceptual basis of the "muscle-sparing" principle in modern lumbar surgery.
 
-#### 12. Classical posterior fusion techniques
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Classical Posterior Fusion Techniques</span> <span class="ts-en">Класически техники на задна спондилодеза</span></summary>
+<div class="ts-body">
 
 The historical development forms the conceptual basis for modern instrumented constructs and remains clinically relevant in revision surgery, when instrumentation is unavailable, and within the systematic Bulgarian orthopaedic curriculum. The biological principle is common to all variants: decortication of the posterior bony surfaces to provide fresh bleeding beds for the bone graft.
 
-##### Hibbs (1911)
+**Hibbs (1911).** R. A. Hibbs described decortication of laminae, spinous processes, and facet joints with a reverse-bevel chisel, with bone chips harvested from the resected spinous processes laid over the decorticated surfaces. The modified Hibbs technique adds curettage of the facets with corticocancellous chip packing — applicable in children without internal fixation.
 
-R. A. Hibbs described decortication of laminae, spinous processes, and facet joints with a reverse-bevel chisel, with bone chips harvested from the resected spinous processes laid over the decorticated surfaces. The modified Hibbs technique adds curettage of the facets with corticocancellous chip packing — applicable in children without internal fixation.
+**Vreden's spondylodesis.** R. R. Vreden (Russian classical): long corticocancellous grafts from the iliac crest anchored in the spinous processes; a half-cut spinous process is reflected downward as a strut for the overlaid graft.
 
-##### Vreden's spondylodesis
+**Posterolateral spondylodesis (Watkins, 1959).** W. T. Watkins described placing the graft over decorticated transverse processes — the conceptual basis of modern posterolateral fusion with instrumented fixation (pedicle screws + intertransverse graft).
 
-R. R. Vreden (Russian classical): long corticocancellous grafts from the iliac crest anchored in the spinous processes; a half-cut spinous process is reflected downward as a strut for the overlaid graft.
+**Cobb.** J. R. Cobb: Hibbs-based decortication with autologous iliac graft applied through a window in a corrective plaster cast — a classical technique for idiopathic scoliosis before the era of instrumented fusion.
 
-##### Posterolateral spondylodesis (Watkins, 1959)
+**Goldstein.** L. A. Goldstein: transarticular facet screws (approximately 2 cm long in adults, directed 20–25° caudally and 10–15° laterally) for additional stabilisation in selected idiopathic scoliosis cases.
 
-W. T. Watkins described placing the graft over decorticated transverse processes — the conceptual basis of modern posterolateral fusion with instrumented fixation (pedicle screws + intertransverse graft).
+**Harrington (1962).** P. R. Harrington: the historical precursor of modern scoliosis correction constructs. A distraction rod on the concave side (with hooks in the superior articular process of the most cephalad vertebra and in the lumbar lamina) and compression hooks (usually 4) on the convex side. Conceptually, Harrington introduced the three-vector principle (distraction, compression, lateral translation) realised with greater degrees of freedom and segmental fixation by modern pedicle systems (Cotrel-Dubousset, USS, and successors).
 
-##### Cobb
+</div>
+</details>
 
-J. R. Cobb: Hibbs-based decortication with autologous iliac graft applied through a window in a corrective plaster cast — a classical technique for idiopathic scoliosis before the era of instrumented fusion.
-
-##### Goldstein
-
-L. A. Goldstein: transarticular facet screws (approximately 2 cm long in adults, directed 20–25° caudally and 10–15° laterally) for additional stabilisation in selected idiopathic scoliosis cases.
-
-##### Harrington (1962)
-
-P. R. Harrington: the historical precursor of modern scoliosis correction constructs. A distraction rod on the concave side (with hooks in the superior articular process of the most cephalad vertebra and in the lumbar lamina) and compression hooks (usually 4) on the convex side. Conceptually, Harrington introduced the three-vector principle (distraction, compression, lateral translation) realised with greater degrees of freedom and segmental fixation by modern pedicle systems (Cotrel-Dubousset, USS, and successors).
-
-#### 13. Anterior spondylodesis for spondylolisthesis — classical techniques
+<details>
+<summary><span class="ts-title">Anterior Spondylodesis for Spondylolisthesis — Classical Techniques</span> <span class="ts-en">Предна спондилодеза при спондилолистеза</span></summary>
+<div class="ts-body">
 
 In isthmic and degenerative spondylolisthesis at L4–L5 and L5–S1 of grade I–II, anterior interbody fusion provides high fusion rates through direct foraminal decompression and disc height restoration.
 
-##### Chaklin's spondylodesis
+**Chaklin's spondylodesis.** V. D. Chaklin (Russian school): left-sided extraperitoneal approach with an H-shaped opening of the anterior longitudinal ligament and placement of a corticocancellous iliac graft within the disc space; the ligament flaps are closed over the graft for added stabilisation.
 
-V. D. Chaklin (Russian school): left-sided extraperitoneal approach with an H-shaped opening of the anterior longitudinal ligament and placement of a corticocancellous iliac graft within the disc space; the ligament flaps are closed over the graft for added stabilisation.
+**Mitbreit modification.** Trendelenburg position with lumbar hyperlordosis; preferentially resects more of the L5 inferior endplate than of the S1 superior endplate to optimise sagittal balance.
 
-##### Mitbreit modification
+**Yumashev–Fuhrman modification.** Cylindrical bone trephines with 90° graft rotation and interposition of lyophilised bone for added mechanical stability.
 
-Trendelenburg position with lumbar hyperlordosis; preferentially resects more of the L5 inferior endplate than of the S1 superior endplate to optimise sagittal balance.
+**Korzh's spondylodesis.** A. A. Korzh: for higher-grade spondylolisthesis (grades III–IV), in Trendelenburg position with lumbar hyperextension via a left extraperitoneal or transperitoneal approach to L5–S1.
 
-##### Yumashev–Fuhrman modification
+**Korzh–Khvisyuk.** A. A. Korzh and N. I. Khvisyuk: extends the scope to L4–L5–S1 in two-level spondylolisthesis.
 
-Cylindrical bone trephines with 90° graft rotation and interposition of lyophilised bone for added mechanical stability.
+**Tsivyan's spondylodesis.** Ya. L. Tsivyan: for grade IV L5 spondylolisthesis (vertical luxation into the sacral pelvic depression) — an oblique bone canal directed from the L4 body through the lowest disc into the S1 body; three-vector fixation without need for vertebrotomy.
 
-##### Korzh's spondylodesis
+**Anterolateral spondylodesis with Dwyer instrumentation (1969).** A. F. Dwyer: transpleural approach to up to six thoracic and upper lumbar vertebrae with correction screws fixed into the anterolateral surface of the bodies via a metal cable. In current practice, the concept is replaced by Kaneda anterolateral instrumentation and modern anterior thoracoscopic systems, but Dwyer remains a historical reference for the evolution of anterior scoliosis surgery.
 
-A. A. Korzh: for higher-grade spondylolisthesis (grades III–IV), in Trendelenburg position with lumbar hyperextension via a left extraperitoneal or transperitoneal approach to L5–S1.
+</div>
+</details>
 
-##### Korzh–Khvisyuk
-
-A. A. Korzh and N. I. Khvisyuk: extends the scope to L4–L5–S1 in two-level spondylolisthesis.
-
-##### Tsivyan's spondylodesis
-
-Ya. L. Tsivyan: for grade IV L5 spondylolisthesis (vertical luxation into the sacral pelvic depression) — an oblique bone canal directed from the L4 body through the lowest disc into the S1 body; three-vector fixation without need for vertebrotomy.
-
-##### Anterolateral spondylodesis with Dwyer instrumentation (1969)
-
-A. F. Dwyer: transpleural approach to up to six thoracic and upper lumbar vertebrae with correction screws fixed into the anterolateral surface of the bodies via a metal cable. In current practice, the concept is replaced by Kaneda anterolateral instrumentation and modern anterior thoracoscopic systems, but Dwyer remains a historical reference for the evolution of anterior scoliosis surgery.
-
-#### 14. Vertebrotomies (columnotomies) for rigid kyphosis correction
+<details>
+<summary><span class="ts-title">Vertebrotomies for Rigid Kyphosis Correction</span> <span class="ts-en">Вертебротомии за корекция на ригидна кифоза</span></summary>
+<div class="ts-body">
 
 In rigid spinal kyphosis of various aetiologies (ankylosing spondylitis, post-traumatic, post-vertebromyelitic) correction requires structural osteotomy of the spinal column.
 
-##### Smith-Petersen (1945)
+**Smith-Petersen (1945).** M. N. Smith-Petersen: posterior wedge resection of the laminae, articular processes, and upper part of the pedicles with targeted correction by posterior closure of the wedge defect; if correction is insufficient, day 5–6 second stage with anterior disc release. Primarily used in the lumbar spine; each level L2–L4 provides about 10–15° of sagittal correction; optimal in flexible discogenic segments.
 
-M. N. Smith-Petersen: posterior wedge resection of the laminae, articular processes, and upper part of the pedicles with targeted correction by posterior closure of the wedge defect; if correction is insufficient, day 5–6 second stage with anterior disc release. Primarily used in the lumbar spine; each level L2–L4 provides about 10–15° of sagittal correction; optimal in flexible discogenic segments.
+**Tsivyan vertebrotomy.** Ya. L. Tsivyan: combined posterior-anterior wedge resection through the full width of the vertebral body; in the thoracic spine the anterior approach requires costotransversectomy, with the two osteotomies meeting at the disc level. Greater correction per osteotomised segment than Smith-Petersen but with higher risk of vascular and neurological injury; mandatory neuromonitoring (MEP and SSEP).
 
-##### Tsivyan vertebrotomy
+**Segmental vertebrotomy with interposed spondylodesis.** Multilevel partial resections across several adjacent segments with interbody grafts — the historical precursor of modern pedicle subtraction osteotomies.
 
-Ya. L. Tsivyan: combined posterior-anterior wedge resection through the full width of the vertebral body; in the thoracic spine the anterior approach requires costotransversectomy, with the two osteotomies meeting at the disc level. Greater correction per osteotomised segment than Smith-Petersen but with higher risk of vascular and neurological injury; mandatory neuromonitoring (MEP and SSEP).
+**Pedicle subtraction osteotomy (PSO; Bridwell).** Complete resection of the pedicles and the anterior-posterior column of a single vertebra; 30–40° correction at a single segment.
 
-##### Segmental vertebrotomy with interposed spondylodesis
-
-Multilevel partial resections across several adjacent segments with interbody grafts — the historical precursor of modern pedicle subtraction osteotomies.
-
-##### Pedicle subtraction osteotomy (PSO; Bridwell)
-
-Complete resection of the pedicles and the anterior-posterior column of a single vertebra; 30–40° correction at a single segment.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Expected correction by osteotomy type in rigid kyphosis: Smith-Petersen (posterior wedge) ~10–15° per level; Tsivyan (posterior-anterior wedge) and pedicle subtraction osteotomy (PSO) ~30–40° per level; vertebrectomy ~40–60° per level. Selection is driven by the location of maximal deformity and segmental flexibility.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Expected correction by osteotomy type in rigid kyphosis: Smith-Petersen (posterior wedge) ~10–15° per level; Tsivyan (posterior-anterior wedge) and PSO ~30–40° per level; vertebrectomy ~40–60° per level.</li>
+    <li>Selection is driven by the location of maximal deformity and segmental flexibility; neuromonitoring (MEP + SSEP) mandatory for all vertebrotomies.</li>
+  </ul>
 </aside>
 
-#### 15. Percutaneous vertebral biopsy
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Percutaneous Vertebral Biopsy</span> <span class="ts-en">Перкутанна вертебрална биопсия</span></summary>
+<div class="ts-body">
 
 Introduced by Valls et al. (1948); standard diagnostic method for suspected bone infection (tuberculosis, pyogenic osteomyelitis), primary or metastatic tumours. Standard technique: right-sided paravertebral puncture (avoiding the aorta), at a 35° angle to the sagittal plane, entry 4 cm lateral to the midline. The needle traverses between the transverse processes and lateral ribs under fluoroscopic control; within the body, aspiration (for fluid contents) or a dry core (for histology) is taken.
 
 The Bulgarian instrumental modification (P. Tanchev and G. Kaymakchiev, 1983) uses a thick needle with stylet followed by a cancellous-bitten wedge key to obtain a solid bone core — especially suited to biopsy of bodies with dense cortical bone and in suspected chordoma. The modern equivalent is CT-coordinated trocar biopsy.
 
-#### 16. Tuberculous spondylitis — operative principles (Hodgson's "Hong Kong operation")
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Tuberculous Spondylitis — Hodgson's Hong Kong Operation</span> <span class="ts-en">Туберкулозен спондилит — оперативни принципи</span></summary>
+<div class="ts-body">
 
 Spinal tuberculosis (Pott's disease) remains a significant pathology. Surgical principles follow Hodgson's three-step concept (A. R. Hodgson, F. E. Stock, 1956–1960): radical debridement of the lesion, decompression of the cord where compressed, and anterior stabilisation by interbody spondylodesis with autologous bone graft.
 
@@ -545,11 +803,21 @@ For the thoracic and upper lumbar spine — transthoracic approach. For large pa
 
 Postoperatively: antituberculous chemotherapy (isoniazid, rifampicin, pyrazinamide, ethambutol) for 9–12 months; orthopaedic bracing for 4–6 months; follow-up of CRP, ESR, and microbiological response.
 
-#### 17. Cervical rib (costa cervicalis)
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Cervical Rib (costa cervicalis)</span> <span class="ts-en">Шийно ребро</span></summary>
+<div class="ts-body">
 
 A congenital anomaly (0.5–1% of the population, symptomatic in a minority). Compression of the lower trunk of the brachial plexus (C8–T1) and the subclavian artery in the thoracic outlet causes thoracic outlet syndrome — pain and paraesthesias in the ulnar distribution, easy fatigue, neurological deficit in late cases (the "Gilliatt-Sumner hand"). Operative resection is indicated after failed conservative therapy. The approach is supraclavicular: m. scalenus anterior is identified and divided with protection of the phrenic nerve (on its anterior surface); deep to it lie the subclavian artery and brachial plexus trunks. The cervical rib is resected subperiosteally only along its compressing portion, with preservation of the articulation with the C7 transverse process. Complications: phrenic nerve injury (diaphragmatic palsy), thoracic duct injury (left-sided approach → chylothorax), incomplete decompression.
 
-### C. Paediatric considerations
+</div>
+</details>
+
+<details>
+<summary><span class="ts-title">Paediatric Considerations</span> <span class="ts-en">Педиатрични особености</span></summary>
+<div class="ts-body">
 
 The paediatric spine introduces specific considerations. The smaller anatomic scale requires precise technique and appropriate instrumentation. Cartilaginous endplates and ring apophyses must be respected — vertebral body growth occurs at the endplate; posterior elements grow at the synchondroses. The neurocentral synchondrosis between the body and posterior elements is the principal growth zone of the spinal canal; iatrogenic injury produces canal stenosis. In children, eosinophilic granuloma (Langerhans cell histiocytosis) produces the classic vertebra plana deformity, which usually heals with observation.
 
@@ -563,7 +831,20 @@ The paediatric spine introduces specific considerations. The smaller anatomic sc
   </figcaption>
 </figure>
 
-## VII. Complications and results
+</div>
+</details>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="outcomes">
+<details>
+<summary><span class="ts-title">Outcomes and Complications</span> <span class="ts-en">Усложнения и резултати</span></summary>
+<div class="ts-body">
 
 The complications of spinal surgical approaches vary by anatomic region and procedure. This brief overview summarises typical problems by approach.
 
@@ -581,7 +862,14 @@ The complications of spinal surgical approaches vary by anatomic region and proc
 
 **Posterior lumbar:** dural tear (3–10% in routine procedures, higher in revision); nerve root injury; infection (1–3%); epidural haematoma; pseudarthrosis; iatrogenic instability after extensive decompression without fusion.
 
-## VIII. Bulgarian contributions
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="bulgarian">
+<details>
+<summary><span class="ts-title">Bulgarian Contributions</span> <span class="ts-en">Български приноси</span></summary>
+<div class="ts-body">
 
 **Boycho Boychev (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference, with detailed descriptions of the classical spinal approaches in the Bulgarian tradition, including anterior cervical, costotransversectomy, and techniques for scoliosis correction.
 
@@ -607,48 +895,17 @@ From the classical Russian and Ukrainian schools, tightly woven into the Bulgari
 
 **Yumashev, Fuhrman.** Cylindrical bone trephines and 90° graft rotation with lyophilised bone interposition — a modification for added mechanical stability.
 
-## IX. ⭐ Clinical rules (NB)
+</div>
+</details>
+</section>
 
-1. In the anterior cervical approach the avascular plane lies between the carotid sheath (laterally) and the strap muscles (medially); correct development of this plane is the key to avoiding the recurrent laryngeal nerve, sympathetic chain, and oesophagus.
-2. The recurrent laryngeal nerve is vertical and predictable on the left (around the aortic arch) and variable on the right (around the subclavian artery) — side selection in ACDF is a matter of surgical preference, not safety.
-3. The traction test distinguishes a fractured from a locked facet: progressive traction up to 8 kg over 24 hours reduces the fractured but not the locked facet.
-4. Residual shortening after closed reduction of a cervical fracture-dislocation should not exceed 3 mm to preserve the sagittal canal.
-5. In occipito-cervical fusion the vertebral artery loops over the C1 lateral mass; subperiosteal dissection must not exceed 1.5 cm from the midline.
-6. In the lateral cervical approach vertebral artery ligation is permissible only after demonstrated adequate contralateral flow by preoperative CT angiogram — roughly 10% of the population have a hypoplastic or variant vertebral artery.
-7. For posterior cervical screws (Magerl or Harms) preoperative CT angiography is standard when vertebral artery variants are suspected.
-8. Side selection for thoracic approaches: right for upper and middle thoracic (heart out of the field), left for the thoracolumbar junction T11–L2 (diaphragm more accessible, aorta a more recognisable landmark than the IVC).
-9. At C7–T1 the right-sided approach avoids the thoracic duct, which drains into the left subclavian vein.
-10. In the anterior lumbar retroperitoneal approach a left-sided incision is standard — the aorta is more easily mobilised than the inferior vena cava.
-11. Ligate segmental veins before segmental arteries — Mitbreit's classical rule to avoid venous backbleeding.
-12. In lumbosacral approaches below the bifurcation, the superior hypogastric plexus carries the parasympathetic fibres for sexual function — injury causes retrograde ejaculation (1–5% of men).
-13. In posterior lumbar decompression without fusion, preserving at least 50% of the facet maintains stability and prevents post-laminectomy instability.
-14. In lateral transpsoas approaches (XLIF/LLIF) neuromonitoring is mandatory — the L4 root lies in the lower third of m. psoas major at L4–L5; Moro's zonal model (zones II–III safe, zone IV endangered) defines the safe corridor.
-15. Expected correction by osteotomy in rigid kyphosis: Smith-Petersen ~10–15° per level; Tsivyan and PSO ~30–40° per level; vertebrectomy ~40–60° per level.
-16. Chassaignac tubercle (on C6) is the most reliable palpable anterior landmark in the lower neck — confirms the C6 level in anterior cervical exposure.
+<section class="topic-section" id="classical">
+<details>
+<summary><span class="ts-title">Classical Sources</span> <span class="ts-en">Класически източници</span></summary>
+<div class="ts-body">
 
-## X. ⚠️ Pitfalls (Cave)
-
-1. The standard Smith-Robinson approach covers C3–T1; it is inadequate for C1–C2 and forced cranial extension risks the superior laryngeal nerve without providing adequate exposure.
-2. In the transoral approach, passive neck flexion in a dens fracture can drive the fragment into the spinal canal — preoperative extension traction is mandatory.
-3. Excessive lateral dissection in the anterior cervical approach injures the sympathetic chain → Horner's syndrome.
-4. In the posterior cervical approach the lateral limit of safe dissection from the midline is the lateral edge of the facet — beyond it lies the vertebral artery in the foramen transversarium.
-5. C2 screws without preoperative CT angiography risk vertebral artery breach in the setting of a hypoplastic or variant course.
-6. Excessive neck flexion in prone positioning can impair spinal cord perfusion — use a "military tuck", not "chin-on-chest".
-7. Excessive shoulder abduction in prone position (over 90°) can cause brachial plexus injury; head below the level of the body causes postoperative blindness from reduced ocular perfusion.
-8. In the lateral cervical approach, unilateral ligation of a hypoplastic vertebral artery with a dominant contralateral artery → postoperative vertebrobasilar ischaemia.
-9. In thoracotomy for upper/middle thoracic spine, the right side is standard — but at the low thoracic level (T11–T12) the thoracic duct is more vulnerable on the right at its entry into the subclavian vein.
-10. In the anterior lumbar approach the left common iliac vein is most vulnerable at L4–L5 exposure (the inferior vena cava is more at risk on the right).
-11. The transpsoas approach cannot reach L5–S1 — the iliac crest blocks the working axis.
-12. In vertebroplasty, cement extravasation into the epidural veins can cause pulmonary embolism; low-viscosity cement in multiple myeloma carries a specific risk.
-13. In occipito-cervical instrumentation, long occipital screws can perforate the transverse sinus — recommended length is 8–10 mm at the central occipital bone.
-14. Post-laminectomy cervical kyphosis develops insidiously after multilevel laminectomy without fusion — especially in patients under 25 years; laminoplasty or concurrent fusion prevents this sequela.
-15. A rare non-recurrent right RLN (≈0.5%, more often on the right) crosses the operative field horizontally at the thyroid level — a surprise structure easily injured during anterior cervical approach by a surgeon who does not anticipate it.
-16. In the transoral approach, midline intubation without a nasotracheal tube limits visibility; awake-patient neck hyperextension with cord compression risks neurological worsening — the standard is awake fibreoptic nasotracheal intubation.
-
-## XI. Classical sources
-
-<aside class="callout callout-historical">
-  <span class="callout-label">Classical lineage — craniocervical surgery</span>
+<aside class="callout callout-classical">
+  <strong>Classical lineage — craniocervical surgery</strong>
   <p>Modern surgery of the skull and the cervical spinal cord region is a product of the late nineteenth century, when antiseptic wound management on the Listerian frame transformed trephination from a life-threatening intervention into a routine one. The classical textbook source is *Die chirurgische Behandlung von Hirnkrankheiten* by Ernst von Bergmann (Berlin, 1889) — the first systematic presentation of skull and brain surgery as a standalone discipline.</p>
   <ul>
     <li><strong>Bergmann 1889</strong> — *Die chirurgische Behandlung von Hirnkrankheiten*; craniocervical approaches and trephination antisepsis (<a href="https://archive.org/details/diechirurgische00berggoog">facsimile</a>).</li>
@@ -662,7 +919,14 @@ Classical descriptions by approach: Hibbs 1911 (posterior spondylodesis); Smith-
 
 Additional classical sources: **Bier / Braun / Kümmel** (1920), *Chirurgische Operationslehre*, volume 1 — general surgery and the craniocervical field ([facsimile](https://archive.org/details/chirurgischeoperationslehre1920v1)). **Hoffa** (1905), *Lehrbuch der orthopädischen Chirurgie* (Stuttgart: Enke) — chapters on scoliosis and orthopaedic spinal treatment before the industrial era of instrumented fusion ([facsimile](https://archive.org/details/lehrbuchderortho00hoff)). **Langenbeck-Archiv für klinische Chirurgie** (from 1860) — first descriptions of many craniocervical procedures and eponyms ([series in Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)).
 
-## XII. Modern literature
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="literature">
+<details>
+<summary><span class="ts-title">Suggested Reading</span> <span class="ts-en">Препоръчителна литература</span></summary>
+<div class="ts-body">
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *The standard operative manual, chapter-by-chapter, with diagrammatic illustrations of internervous planes and step-by-step technique; the principal textbook for residency preparation in surgical approaches.*
 2. **Kim DH, Vaccaro AR, Dickman CA, Cho D, Lee S, Kim I.** *Surgical Anatomy and Techniques to the Spine.* 2nd ed. Philadelphia: Saunders/Elsevier; 2013. ISBN 978-1-4557-0989-2. — *Atlas-format with cadaveric specimens and anatomical diagrams by approach; reference for the transoral, lateral transarticular, and rarer approaches to the craniocervical junction; chapters with detailed morphometry of occipital condyles, C1 lateral mass, C2 pedicle, and zonal anatomy of the lumbar plexus.*
@@ -670,4 +934,52 @@ Additional classical sources: **Bier / Braun / Kümmel** (1920), *Chirurgische O
 4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Classical descriptive anatomy with emphasis on functional relationships; reference for spinal neurovascular topography and precise understanding of vertebral relationships.*
 5. **Boychev B, ed.** *Operative Orthopaedics* (three volumes; Sofia). — *The classical Bulgarian orthopaedic textbook; chapters on spinal surgery, scoliosis, kyphosis, and spondylolisthesis that define the terminology and operative tactics in the Bulgarian curriculum.*
 
-Chaklin V. D., *Foundations of Operative Orthopaedics and Traumatology* — cited in section VIII Bulgarian Contributions without a separate entry in Modern literature; its content is represented through the eponymous spondylodesis techniques described in that section.
+Chaklin V. D., *Foundations of Operative Orthopaedics and Traumatology* — cited in the Bulgarian Contributions section without a separate entry in Suggested Reading; its content is represented through the eponymous spondylodesis techniques described in that section.
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-1: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

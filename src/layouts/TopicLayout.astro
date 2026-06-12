@@ -90,49 +90,91 @@ const eyebrow =
     <TopicTOC lang={lang} headings={headings} />
   </div>
 <script>
-  // V4 layout: force <details> in topic-section to stay open (no collapse).
+  // Force <details> in topic-section to stay open (no collapse).
   document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.prose .topic-section details').forEach(d => {
       d.open = true;
       d.addEventListener('toggle', () => { if (!d.open) d.open = true; });
     });
   });
-</script>
 
-
-<script>
-  // Desktop layout: figures live in a right gutter, absolute-positioned at
-  // their DOM-flow offsetTop so text on the left flows independently without
-  // waiting for figures. Recompute on resize and after images load.
-  (function() {
+  // Desktop only: synchronized two-column book layout.
+  // Splits prose into two scrolling columns where col 2 is always one
+  // column-height ahead of col 1. Both advance together on page scroll.
+  (function () {
     if (window.matchMedia('(max-width: 1179px)').matches) return;
-    const placeFigures = () => {
+
+    function setupBookLayout() {
+      const prose = document.querySelector('.topic-article .prose');
+      if (!prose || prose.dataset.bookReady === '1') return;
+      prose.dataset.bookReady = '1';
+
+      // Build the two-column wrapper that will replace the prose visual
+      const layoutEl = document.createElement('div');
+      layoutEl.className = 'book-layout';
+
+      const col1 = document.createElement('div');
+      col1.className = 'book-col';
+      const col1Inner = document.createElement('div');
+      col1Inner.className = 'book-col-inner';
+      col1.appendChild(col1Inner);
+
+      const col2 = document.createElement('div');
+      col2.className = 'book-col';
+      const col2Inner = document.createElement('div');
+      col2Inner.className = 'book-col-inner';
+      col2.appendChild(col2Inner);
+
+      layoutEl.appendChild(col1);
+      layoutEl.appendChild(col2);
+
+      // Move all children of .prose into col1Inner (we'll clone for col2)
+      while (prose.firstChild) {
+        col1Inner.appendChild(prose.firstChild);
+      }
+      // Clone col1Inner content into col2Inner
+      col2Inner.innerHTML = col1Inner.innerHTML;
+      // Insert the book layout into the prose container
+      prose.appendChild(layoutEl);
+
+      // Compute column height (viewport - header offset)
+      const colHeight = layoutEl.clientHeight;
+      const contentHeight = col1Inner.scrollHeight;
+
+      // Body spacer: enough scroll distance so col 1 can scroll through its
+      // entire content; col 2 stays one colHeight ahead, so total page
+      // height = contentHeight + colHeight buffer for the right column.
+      const topicShell = document.querySelector('.topic-shell');
+      const spacer = document.createElement('div');
+      spacer.style.height = (contentHeight + colHeight) + 'px';
+      spacer.style.gridColumn = '2';
+      spacer.style.pointerEvents = 'none';
+      spacer.setAttribute('aria-hidden', 'true');
+      // Insert spacer right after the article so it adds to layout height
       const article = document.querySelector('.topic-article');
-      if (!article) return;
-      const figs = article.querySelectorAll('.md-figure');
-      figs.forEach(fig => {
-        // Temporarily un-position to measure natural offset
-        fig.style.position = '';
-        fig.style.top = '';
-      });
-      requestAnimationFrame(() => {
-        figs.forEach(fig => {
-          const top = fig.offsetTop;
-          fig.style.position = 'absolute';
-          fig.style.top = top + 'px';
-        });
-      });
-    };
-    window.addEventListener('load', placeFigures);
-    let resizeTimer;
-    window.addEventListener('resize', () => {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(placeFigures, 200);
-    });
+      article.appendChild(spacer);
+
+      const onScroll = () => {
+        // y = how far we've scrolled past the top of the article
+        const articleTop = article.getBoundingClientRect().top + window.scrollY;
+        const y = Math.max(0, window.scrollY - articleTop + 80);
+        col1Inner.style.transform = 'translateY(' + (-y) + 'px)';
+        col2Inner.style.transform = 'translateY(' + (-(y + colHeight)) + 'px)';
+      };
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', () => location.reload());
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', setupBookLayout);
+    } else {
+      setupBookLayout();
+    }
   })();
 </script>
-
 </BaseLayout>
+
 
 
 <style>

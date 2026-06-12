@@ -1957,26 +1957,26 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Desktop layout: figures float RIGHT (text wraps on left). Inline TOC box
-   hidden on desktop (TopicTOC now lives in the LEFT column). */
+/* Desktop layout: figures live in a dedicated RIGHT gutter outside the
+   text block. They're floated right and shifted into the gutter via
+   negative margin, with shape-outside zero-width so text does NOT wrap
+   around them — text uses the full prose width. */
 @media (min-width: 1180px) {
+  .topic-article {
+    padding-right: 320px;
+    position: relative;
+  }
   .md-figure {
     float: right;
     clear: right;
-    width: 280px;
-    max-width: 35%;
-    margin: 0.4em 0 0.8em 1.6em;
+    width: 300px;
+    margin: 0.4em -320px 0.8em 0;
     text-align: center;
+    shape-outside: inset(0 100% 0 0);
   }
   .prose .topic-toc-inline { display: none; }
   .prose .topic-section,
   .prose .topic-subsection {
-    clear: both;
-  }
-  .prose .topic-section > details > summary {
-    clear: both;
-  }
-  .prose .topic-section details details > summary {
-    clear: both;
+    clear: right;
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: "Хирургична анатомия на ТБС. Кръвоснабдяване на бедрената глава и ацетабулум. Хирургични достъпи до ТБС."
+title: "Хирургична анатомия на тазобедрена става. Кръвоснабдяване на бедрената глава и ацетабулум. Хирургични достъпи до тазобедрена става."
 lang: "bg"
 kind: "topic"
 section: "anatomy"
@@ -7,11 +7,65 @@ topicNumber: 8
 order: 208
 ---
 
-## Въведение
+<details class="topic-toc-inline">
+  <summary>Съдържание</summary>
+  <ol>
+    <li><a href="#overview">Преглед</a></li>
+    <li><a href="#surg-anatomy">Хирургична анатомия</a>
+      <ol>
+        <li><a href="#bony-articular">Костна и ставна анатомия</a></li>
+        <li><a href="#capsule-ligaments">Капсула и лигаменти</a></li>
+        <li><a href="#blood-supply">Кръвоснабдяване на бедрената глава</a></li>
+        <li><a href="#muscular">Мускулна анатомия</a></li>
+        <li><a href="#neurovascular">Невроваскуларна топография</a></li>
+        <li><a href="#gluteal-region">Седалищна област и бурси</a></li>
+      </ol>
+    </li>
+    <li><a href="#pathomech">Патофизиология и механизъм</a></li>
+    <li><a href="#clinical">Клиника и диагностика</a></li>
+    <li><a href="#classification">Класификация на достъпите</a></li>
+    <li><a href="#treatment">Лечение</a>
+      <ol>
+        <li><a href="#nonoperative">Консервативно</a></li>
+        <li><a href="#operative">Оперативно</a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Усложнения и резултати</a></li>
+    <li><a href="#bulgarian">Местни приноси</a></li>
+    <li><a href="#classical">Класически източници</a></li>
+    <li><a href="#literature">Препоръчителна литература</a></li>
+  </ol>
+</details>
 
-Тазобедрената става — най-дълбоко залегналата и най-добре затворена сферична ("ball-and-socket") артикулация в тялото — предлага на ортопедичния хирург множество оперативни достъпи, всеки с характерни предимства, недостатъци и рискове. Достъпите варират от предния (по Smith-Petersen) с претенциите му за мускулно щадящ вход, през предно-латералния (по Watson-Jones) и директния латерален (по Hardinge), балансиращи достъпа с опазването на абдукторите, до най-разпространения заден достъп с пълна експозиция, но по-висок риск от луксация, и трохантерната флип-остеотомия (по Ganz), осигуряваща достъп до цялата бедрена глава при запазване на съдовото й кръвоснабдяване. Основното анатомично съображение, определящо избора на достъп, е кръвоснабдяването на бедрената глава чрез medial femoral circumflex artery (arteria circumflexa femoris medialis) и нейните ретинакуларни клонове — нарушаването на тези съдове води до аваскуларна некроза, което е съществен риск при фрактурната хирургия и в нарастваща степен при ставосъхраняващите процедури. Настоящата тема е изградена на базата на Orthopaedic Surgical Approaches, Operative Hip Arthroscopy (Byrd), Netter's Concise Orthopaedic Anatomy, Gray's Anatomy и класическата българска „Оперативна ортопедия и травматология" на Бойчо Бойчев — носител на името на УСБАЛО „Проф. Бойчо Бойчев", Горна баня — допълнена с класическите процедури за тазобедрена ставна патология по Smith-Petersen, Watson-Jones, Hardinge, Kocher–Langenbeck, Gibson, Ganz, Hueter, Olier, Ombrédanne, Colonna, Marino-Zuco, Hass, Moore, Osborne, Langenbeck, Charnley, Müller, McKee–Farrar, Thompson, Moore-Austin, Ring, Wagner, Сиваш, Герчев, Pauwels, McMurray, Schanz, Lorenz, Кирmisson, Schanz–Bayer, Imhäuser, Sugioka, Salter, Pemberton, Chiari, Steel, Dega, Zahradníček, Voss, Brittain, Trumble, Hibbs, Albee, Ghormley, Lange, Spitzy, Чаклин, Вреден, Балчев, Холевич, Джеров, Владимиров, Тенев, Желев, Илиев, Иванов, Кожухаров и Илизаров — техники, които остават неотменна част от ортопедичния курикулум в България и от ежедневието на УСБАЛО „Проф. Бойчо Бойчев".
 
-## Костна и ставна анатомия
+
+## Преглед
+<!-- toc-h2 -->
+<section class="topic-section" id="overview">
+<details open>
+<summary>Преглед</summary>
+<div class="ts-body">
+
+Тазобедрената става — най-дълбоко залегналата и най-добре затворена сферична артикулация в тялото — носи богата гама от оперативни достъпи, всеки със собствен анатомичен интервал, опасности и техническа цена. Достъпите варират от истинския преден (по Smith-Petersen) с претенциите си за мускулно щадене, през предно-латералния (по Watson-Jones) и директния латерален (по Hardinge), балансиращи експозиция със запазване на абдукторите, до универсалния заден (по Moore / Kocher-Langenbeck) с широка експозиция, но с по-висок риск от луксация, и трохантерната флип-остеотомия (по Ganz), осигуряваща безопасна хирургична луксация при запазване на arteria circumflexa femoris medialis. Централното анатомично съображение, определящо избора и техническата сигурност на всеки достъп, е кръвоснабдяването на бедрената глава чрез arteria circumflexa femoris medialis и нейните ретинакуларни клонове — нарушаването им води до аваскуларна некроза, особено опасна при фрактурната хирургия и при ставосъхраняващите процедури. Темата обхваща костната, лигаментна и мускулна анатомия на ставата, неврова и съдова топография, петстепенната класификация на достъпите по класическата българска школа, оперативната технология (Smith-Petersen, Hueter, Watson-Jones, Hardinge, Kocher-Langenbeck, Moore, Ludloff, Ganz, остеотомии в проксималния фемур, артродези, ендопротезиране, ВДТС хирургия у дете), типичните усложнения по достъп, и класическата българска и руска ортопедична школа, която остава част от ортопедичния курикулум в България и от ежедневието на УСБАЛО „Проф. Бойчо Бойчев".
+
+</div>
+</details>
+</section>
+
+
+
+## Хирургична анатомия
+<!-- toc-h2 -->
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary>Хирургична анатомия</summary>
+<div class="ts-body">
+
+
+### Костна и ставна анатомия
+<details id="bony-articular">
+<summary>Костна и ставна анатомия</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip.svg" data-figure-alt="Анатомия на тазобедрената става" aria-label="Увеличи">
@@ -23,21 +77,36 @@ order: 208
   </figcaption>
 </figure>
 
-Тазобедрената става се образува от главата на бедрената кост (покрита приблизително 70% от ставен хрущял при типичния възрастен), артикулираща с ацетабулума (чашата, образувана от слетите os ilium, os ischii и os pubis). Подробната анатомия е разгледана в Теми Травма-20 (ацетабулум) и Ортопедия-7 (ВДТС).
+Тазобедрената става се образува от главата на бедрената кост (покрита приблизително със 70% ставен хрущял при типичен възрастен), артикулираща с ацетабулума (чашата, образувана от слетите os ilium, os ischii и os pubis, със зрял Y-образен синхондрозен преход — triradiate cartilage — затварящ се на 12–16-годишна възраст). Подробната анатомия на ацетабуларните колони е представена в Тема Травма-20, а на ВДТС — в Тема Ортопедия-7.
 
-Ключовите хирургични ориентири включват:
+**Ацетабулум.** Полусферична вдлъбнатина с диаметър при възрастен 50–55 mm; покрита със ставен хрущял по дъгата на полумесец (facies lunata), оставяща централна incisura acetabuli без хрущял (запълнена с pulvinar acetabuli и пресечена от ligamentum transversum acetabuli). Ацетабулумът е ориентиран в около 40° латерално (lateral opening, наклон на покрива) и 15–20° антеверзия (отвореност напред); тези параметри определят позиционирането на ацетабуларния компонент при тотално ендопротезиране — целта на Lewinnek (1978) е 40 ± 10° наклон и 15 ± 10° антеверзия за минимизиране на луксационния риск.
 
-Trochanter major: Главният страничен ориентир; залавяне на musculus gluteus medius (страничен фасет), musculus gluteus minimus (преден фасет), musculus piriformis (горен фасет) и другите кратки ротатори.
+**Глава на бедрената кост.** Сфера с диаметър при възрастен 40–55 mm; покрита от хиалинен хрущял с дебелина до 4 mm на носещата зона. Fovea capitis по медиалния полюс приема ligamentum capitis femoris (ligamentum teres), което носи a. acetabuli (клон на a. obturatoria) — съдово значима в детска възраст и при определени реконструктивни процедури.
 
-Trochanter minor: Медиален; залавяне на musculus iliopsoas.
+**Шийка на бедрената кост.** Сключва с диафизата ъгъл (CCD-ъгъл, шийно-диафизарен) средно 130° при възрастен; coxa vara <120°, coxa valga >135°. Антеверзията на шийката спрямо фронталната равнина е 10–15° при възрастен; >25° при дете — патологична остатъчна антеверзия (типично след лечение на ВДТС). Шийката е покрита от ставната капсула отпред в нейната пълна дължина (по linea intertrochanterica), отзад — само в проксималните 2/3 (capsular reflection приключва преди crista intertrochanterica) — анатомичната основа за деление на фрактурите на шийката на интракапсулни (субкапитални, трансцервикални, базиоцервикални медиални) и екстракапсулни (пер- и субтрохантерни).
 
-Глава и шийка на бедрената кост: С типичен ъгъл шийка-диафиза 130 градуса и антеверзия 10-15 градуса.
+**Trochanter major.** Главният страничен ориентир с три фасета: страничен фасет (m. gluteus medius), преден фасет (m. gluteus minimus), горен фасет (сухожилието на m. piriformis); останалите къси ротатори (gemelli, obturator internus) се залавят в trochanteric fossa зад върха. Trochanter minor — медиален заден ориентир, залавяне на m. iliopsoas. Linea intertrochanterica отпред и crista intertrochanterica отзад маркират капсулните залавяния и формират ориентир при поставяне на интертрохантерни остеотомии и при позициониране на бедрения компонент.
 
-Linea intertrochanterica (отпред) и crista intertrochanterica (отзад): Ставната капсула се залавя по тези линии.
+**Предни костни ориентири.** Spina iliaca anterior superior (SIAS) и spina iliaca anterior inferior (SIAI) служат за определяне на разрезната линия при предни достъпи. Tuberculum pubicum — медиалният ограничител на ингвиналния канал; средата на разстоянието SIAS — tuberculum pubicum проектира главата на бедрената кост (Лубоцкий 1953); линията от тази средна точка до основата на trochanter major е средно 11 cm и разделя главата и шийката на две почти равни части.
 
-SIAS и SIAI: Предните ориентири за предните достъпи.
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Шийно-диафизарен ъгъл (CCD): 130 ± 7° при възрастен; coxa vara <120°, coxa valga >135°. Антеверзия 10–15° при възрастен, > 25° при дете е патологична.</li>
+    <li>Lewinnek safe zone за тотална артропластика: 40 ± 10° наклон, 15 ± 10° антеверзия на ацетабуларния компонент.</li>
+    <li>Капсулата покрива шийката отпред в пълна дължина (по linea intertrochanterica) и отзад само в проксималните 2/3 — основа за деление на интра- и екстракапсулни фрактури.</li>
+    <li>Главата на бедрената кост се проектира на средата на разстоянието SIAS — tuberculum pubicum (Лубоцкий 1953); линията SIAS — основа на trochanter major е средно 11 cm.</li>
+  </ul>
+</aside>
 
-Ставната капсула е здрава фиброзна структура с удебелявания, образуващи ligamentum iliofemorale (Y-образна връзка на Bigelow), ligamentum pubofemorale и ligamentum ischiofemorale. Ligamentum iliofemorale е най-здравата връзка в тялото и главният преден стабилизатор на ставата.
+</div>
+</details>
+
+
+### Капсула и лигаменти
+<details id="capsule-ligaments">
+<summary>Капсула и лигаменти</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-joint-anterior.png" data-figure-alt="Тазобедрена става, преден изглед" aria-label="Увеличи">
@@ -48,6 +117,16 @@ SIAS и SIAI: Предните ориентири за предните дост
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray339.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
+
+Ставната капсула е здрава фиброзна муфа, която се залавя проксимално по acetabular rim и transverse acetabular ligament, дистално — отпред по linea intertrochanterica, отзад — на границата на проксималната и средната трета на шийката. Циркулярните влакна в дълбочина образуват zona orbicularis — пръстен-удебеляване, опасващ шийката и формиращ функционална „яка", контролираща протрузията при тракция.
+
+Капсулната дебелина се сгъстява в три именувани удебелявания:
+
+**Ligamentum iliofemorale (Y-образна връзка на Bigelow).** Най-якият лигамент в тялото. Произхожда от AIIS и долната половина на acetabular rim, разделя се в Y-образни рамена с горен (латерален) и долен (медиален) крак, залавящи се по linea intertrochanterica. Главният преден стабилизатор на ставата; ограничава екстензия, външна ротация и предна транслация на главата. Техническо препятствие при класическия Smith-Petersen — пресича се напречно за достъп до ставната кухина.
+
+**Ligamentum pubofemorale.** Прехвърля от ramus superior ossis pubis и obturator crest към долната част на капсулата; усилва инфериорно-медиалния квадрант; ограничава абдукция и външна ротация в екстензия.
+
+**Ligamentum ischiofemorale.** Заден стабилизатор; произхожда от ischial portion на acetabular rim, обвива задно-долната повърхност на шийката с косо нагоре насочени влакна, залавящи се по горната част на trochanter major. Ограничава вътрешна ротация в флексия — биомеханичната основа за предно-долната заобикаляща траектория на задната луксация при флексия-аддукция-вътрешна ротация.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-capsule-reflected.png" data-figure-alt="Капсула на тазобедрената става отпрепарирана" aria-label="Увеличи">
@@ -69,57 +148,83 @@ SIAS и SIAI: Предните ориентири за предните дост
   </figcaption>
 </figure>
 
-## Топография — предна бедрена и седалищна област
+**Acetabular labrum.** Фиброхрущялен пръстен по acetabular rim, разширяващ ацетабуларната покривна площ с около 22% и предлагащ хидростатичен suction-seal за стабилизация на главата. Лабралните разкъсвания са основният източник на интраартикуларна болка при FAI и в спортната хирургия; задното рамо е по-широко в перифериите и по-уязвимо при задни луксации.
 
-Класическата българска и руска ортопедична школа описва тазобедрената става в две топографски области — предна бедрена и седалищна — с подробно изброени външни ориентири, използвани при планиране на достъпи и интерпретация на палпаторни находки. Външните ориентири са spina iliaca anterior superior, tuberculum pubicum, върхът на trochanter major и tuber ischiadicum. По предната повърхност на бедрото най-горната точка на главата на бедрената кост лежи на средата на разстоянието между spina iliaca anterior superior и tuberculum pubicum; перпендикулярът, спуснат от тази точка, разделя главата на две почти равни части (Д. Л. Лубоцкий, 1953). Линията, свързваща средата на разстоянието spina iliaca anterior superior — tuberculum pubicum с основата на големия трохантер, е средно 11 cm и разделя главата и шийката на две почти равни части — съображение, полезно при перкутанна перфорация на шийката.
+**Ligamentum capitis femoris (lig. teres).** Произхожда от incisura acetabuli и transverse acetabular ligament, залавя се във fovea capitis; носи a. acetabuli (клон на a. obturatoria). Биомеханично важна само в детска възраст; в зряла възраст не е стабилизатор, но е значима при FAI и при ставна синовиална диагностика.
 
-Седалищната област (regio glutaea) е ограничена горно от crista iliaca, медиално от средната линия до върха на опашната кост, долно от глутеалната гънка и латерално от линията между големия трохантер и spina iliaca anterior superior. Кожата е дебела с обилни мастни жлези; подкожието е разделено на килийки от фиброзни прегради и образува corpus adiposum lumbo-iliacum над m. gluteus maximus и corpus adiposum gluteofemorale дистално от трохантера — съдовата мрежа на тези мастни тела участва в изхранването на кожното ламбо при дезартикулация на тазобедрената става. Кожната инервация се осъществява от nn. clunium superiores (от задните клонове на лумбалните спинални нерви L1–L3) в горния квадрант, nn. clunium medii (S1–S3) медиално и nn. clunium inferiores (от n. cutaneus femoris posterior) в долния и външния квадрант.
+</div>
+</details>
 
-Дълбоките съдово-нервни структури на седалищната област са разпределени между две съединителнотъканни пространства — повърхностно междуглутеално (между m. gluteus maximus и m. gluteus medius плюс външните ротатори), през което преминават елементите на foramen infrapiriforme (от медиално към латерално: n. pudendus, vasa pudenda interna, n. ischiadicus с n. cutaneus femoris posterior), и дълбоко междуглутеално (между m. gluteus medius и m. gluteus minimus), което съдържа vasa gluteae superiores и n. gluteus superior, излизащи от foramen suprapiriforme. N. gluteus superior пресича в напречна посока пространството между m. gluteus medius и m. tensor fasciae latae и навлиза в последния на 4–6 cm под spina iliaca anterior superior, в средната трета на мускулното му тяло — анатомична константа, която дефинира безопасното проксимално разпростиране на латералните разцепи на абдукторите. N. ischiadicus минава медиално от средата на разстоянието между tuber ischiadicum и trochanter major по задната повърхност на mm. obturatorius internus, gemelli и m. quadratus femoris.
 
-## Сухожилни залавяния, бурси и пространства
+### Кръвоснабдяване на бедрената глава
+<details id="blood-supply">
+<summary>Кръвоснабдяване на бедрената глава</summary>
+<div class="ts-body">
 
-В клиничен план хирургът трябва да познава характерния силует на trochanter major с трите му фасета: страничен фасет — m. gluteus medius; преден фасет — m. gluteus minimus; горен фасет — сухожилието на m. piriformis. Trochanter minor приема m. iliopsoas. Дистално от трохантера по crista intertrochanterica се залавя m. quadratus femoris, а в дълбочина — m. obturatorius externus, чието сухожилие виси хамакообразно по задно-долната повърхност на шийката и е критичното условие за запазване на ретинакуларния клон на a. circumflexa femoris medialis при флипа по Ganz.
+Кръвоснабдяването на бедрената глава е централното анатомично съображение в хирургията на тазобедрената става и определя сигурността на всеки оперативен достъп.
 
-Около ставата лежи система синовиални торбички, които ортопедът трябва да разпознава като източник на болка и като ориентир за достъп: bursa trochanterica m. glutaei maximi (между сухожилието на m. gluteus maximus и латералната повърхност на трохантера — най-честият източник на трохантерен синдром), bursa trochanterica superficialis (подкожна, над върха на трохантера), bursa trochanterica m. glutaei medii (между сухожилието на m. gluteus medius и горната фасета), bursa m. piriformis (под сухожилието преди залавянето му), bursa m. obturatorii interni medialis (между мускула и incisura ischiadica minor — почти редовно комуницира със ставната кухина), bursa ischiadica m. glutaei maximi (между m. gluteus maximus и tuber ischiadicum) и bursa iliopectinea (между m. iliopsoas и eminentia iliopectinea — в около 15% от случаите комуницира с тазобедрената ставна кухина и обуславя двупосочна разпространяемост на инфекции и излив).
+**Arteria circumflexa femoris medialis (ACFM).** Клон на a. profunda femoris (90%) или директно на a. femoralis (10%). Главното кръвоснабдяване на бедрената глава — приблизително 70–80% при повечето препарати (Trueta 1953, Sevitt-Thompson 1965). Артерията описва извит ход около задно-долната повърхност на шийката, преминавайки между m. pectineus и m. iliopsoas, след което се изкачва по задната повърхност на шийката под сухожилието на m. obturatorius externus. На нивото на capsular reflection отдава 2–4 ретинакуларни клона (Weitbrecht's retinacula), които се изкачват в синовиалния субретинакуларен слой и навлизат в бедрената глава близо до хрущялно-костната граница в субкапиталната зона.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Bursa iliopectinea комуницира с ставната кухина при около 15% от препаратите — септичен коксит може да се представи първоначално като псоас-абсцес в бедрения триъгълник, а флуктуация в ингвиналната гънка изисква пункция и изключване на ставна комуникация преди инцизия.</p>
+**Arteria circumflexa femoris lateralis (ACFL).** По-малка предна вноска (15–25%) през предни ретинакуларни клонове; при възрастен е обикновено недостатъчна за поддържане на главата след прекъсване на ACFM.
+
+**Arteria ligamenti capitis femoris.** Клон на a. obturatoria, преминаващ през ligamentum teres до fovea capitis. Значима при дете (до 25% от кръвоснабдяването на главата до 8-годишна възраст); вариабилна при възрастен и обикновено недостатъчна като единствено кръвоснабдяване — основа за развитие на AVN при субкапитални фрактури с прекъсване на ретинакуларните съдове.
+
+**Трохантерна флип по Ganz — анатомичен ключ.** Дълбокият клон на ACFM преминава директно под сухожилието на m. obturatorius externus и над сухожилието на m. quadratus femoris по задно-долната повърхност на шийката. Запазването на залавянето на m. obturatorius externus при трохантерната флип-остеотомия по Ganz запазва ретинакуларните клонове и позволява безопасна хирургична луксация без аваскуларна некроза — основа за съвременната ставосъхраняваща хирургия при FAI, болест на Perthes и остеохондрит на главата.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>ACFM (дълбок клон) осигурява 70–80% от кръвоснабдяването на главата; ретинакуларните клонове минават субкапсуларно по задната повърхност на шийката под m. obturatorius externus.</li>
+    <li>Прекъсване на ретинакуларните съдове при задни достъпи с дезинсерция на m. obturatorius externus и капсулната рефлексия → AVN до 30% при фрактури на шийката.</li>
+    <li>Безопасната хирургична луксация по Ganz изисква запазване на залавянето на m. obturatorius externus — единственото анатомично гаранция за непрекъснатост на ACFM.</li>
+    <li>При фрактура на шийката оперативната намеса в първите 6 часа намалява статистически значимо честотата на AVN — „6-hour rule" (Manninger, Garden).</li>
+  </ul>
 </aside>
 
-## Кръвоснабдяване на бедрената глава
-
-Кръвоснабдяването на бедрената глава е централното анатомично съображение в хирургията на тазобедрената става:
-
-Arteria circumflexa femoris medialis (ACFM): Клон на arteria profunda femoris. Главното кръвоснабдяване на бедрената глава (приблизително 70-80% при повечето препарати). Протича задно около шийката на бедрената кост и отдава ретинакуларни клонове, които се изкачват в капсулната рефлексия по задната повърхност на шийката и влизат в бедрената глава близо до хрущялно-костната граница. Оперативните достъпи, нарушаващи тези ретинакуларни съдове (особено задният достъп при разрушаване на залавянето на musculus obturator internus и близнаците, gemelli), водят до риск от аваскуларна некроза.
-
-Arteria circumflexa femoris lateralis (ACFL): Осигурява по-малка предна вноска.
-
-Arteria ligamenti capitis femoris (arteria teres): Клон на arteria obturatoria (вариабилна). От значение при децата, но в общи линии недостатъчна като единствено кръвоснабдяване при възрастни.
-
-Трохантерната флип-остеотомия по Ganz запазва дълбокия клон на arteria circumflexa femoris medialis, като поддържа залавянето на musculus obturator externus и задната капсулна рефлексия, осигурявайки безопасна хирургична луксация на тазобедрената става без аваскуларна некроза.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Arteria circumflexa femoris medialis (дълбок клон) кръвоснабдява 70-80% от бедрената глава чрез ретинакуларни съдове, изкачващи се по задната повърхност на шийката. Флипът по Ganz запазва това кръвоснабдяване, като оставя залавянето на musculus obturator externus интактно — това е анатомичната основа за безопасна хирургична луксация без аваскуларна некроза.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Lig. teres носи a. acetabuli — клинично значима до 8-годишна възраст; при възрастен е обикновено недостатъчна за самостоятелно поддържане на главата.</li>
+    <li>Capsulotomia не нарушава ACFM, защото съдът е субретинакуларен — нарушаването е от дисекция на капсулната рефлексия или дезинсерция на късите ротатори.</li>
+  </ul>
 </aside>
 
-## Мускулна анатомия
+</div>
+</details>
 
-Основните мускули на тазобедрената става включват:
 
-Преден компартмент: Musculus iliopsoas (флексия в тазобедрената става), musculus rectus femoris (флексия в тазобедрената става, екстензия в коляното), musculus sartorius (флексия в тазобедрената и коленна стави), musculus pectineus.
+### Мускулна анатомия
+<details id="muscular">
+<summary>Мускулна анатомия</summary>
+<div class="ts-body">
 
-Страничен компартмент: Musculus gluteus medius и musculus gluteus minimus (абдукция, вътрешна ротация при флексия), musculus tensor fasciae latae.
+Около тазобедрената става лежат четири мускулни групи, разпределени в анатомични интервали, които оперативната хирургия използва за безопасен достъп.
 
-Заден компартмент: Musculus gluteus maximus (екстензия, външна ротация), musculus piriformis (външна ротация), кратките външни ротатори (musculus gemellus superior et inferior, musculus obturator internus et externus, musculus quadratus femoris).
+**Преден компартмент.** M. iliopsoas (флексия, ключова входна линия за феморалния триъгълник), m. rectus femoris (флексия в ТБС, екстензия в коляното), m. sartorius (флексия в ТБС и коляно; залавя се в pes anserinus), m. pectineus (флексия и аддукция).
 
-Медиален компартмент: Musculus adductor longus, musculus adductor brevis, musculus adductor magnus; musculus gracilis.
+**Латерален компартмент.** M. gluteus medius и m. gluteus minimus (главни абдуктори; вътрешна ротация в флексия — особено предните им порции); m. tensor fasciae latae (TFL; флексия, абдукция, вътрешна ротация; продължава в tractus iliotibialis). Залавянето на m. gluteus medius на страничния фасет на трохантера и това на m. gluteus minimus на предния фасет са централна референция при латералните достъпи.
 
-Musculus gluteus medius и musculus gluteus minimus са критични за нормалната походка (походката на Тренделенбург се развива при дисфункцията им); запазването им е от първостепенно значение при всеки достъп.
+**Заден компартмент.** M. gluteus maximus (екстензия и външна ротация; продължава в апоневрозата на tractus iliotibialis); m. piriformis (външна ротация в екстензия, отвлача в флексия; залавя се на горния фасет на трохантера); кратки външни ротатори — m. gemellus superior, m. obturatorius internus, m. gemellus inferior (заедно като „трипърстен сноп") и m. quadratus femoris; m. obturatorius externus (хамакообразно по задно-долната повърхност на шийката — анатомичният страж на дълбокия клон на ACFM).
 
-## Неврова и съдова анатомия
+**Медиален компартмент.** M. adductor longus, m. adductor brevis, m. adductor magnus (с проксимална аддукторна и дистална хамстринг порция), m. gracilis. Адукторите формират медиалното рамо при достъпа по Ludloff и при дезинсерция при тенотомия на адукторите при ДЦП.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>M. gluteus medius и m. gluteus minimus са критични за нормална походка — походката на Тренделенбург се развива при дисфункцията им; запазването им е приоритет при всеки латерален достъп.</li>
+    <li>M. obturatorius externus е анатомичният страж на дълбокия клон на ACFM — никога не се дезинсерира при задни достъпи и при флип по Ganz.</li>
+    <li>Сухожилието на m. iliopsoas се залавя на trochanter minor; дезинсерцията му е стандартна стъпка при класическия преден достъп тип Smith-Petersen и при тенотомия при флексионна контрактура.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Невроваскуларна топография
+<details id="neurovascular">
+<summary>Невроваскуларна топография</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-triangle.png" data-figure-alt="Феморален триъгълник" aria-label="Увеличи">
@@ -131,40 +236,216 @@ Musculus gluteus medius и musculus gluteus minimus са критични за �
   </figcaption>
 </figure>
 
-Nervus femoralis, arteria femoralis, vena femoralis: Преминават под ligamentum inguinale. Arteria femoralis е главната съдова опасност при предните достъпи към тазобедрената става.
+**Феморален триъгълник.** Ограничен горе от ligamentum inguinale, латерално от m. sartorius и медиално от m. adductor longus; покрит от fascia lata; в дъното лежат m. iliopsoas (латерално) и m. pectineus (медиално). Съдържанието е разпределено от латерално към медиално по NAVL мнемониката: n. femoralis (в браздата между m. iliopsoas и m. iliacus), a. femoralis, v. femoralis, lacunar лимфен възел (Cloquet) — последният е медиалният граничен ориентир на триъгълника.
 
-Nervus ischiadicus: Излиза от таза през foramen ischiadicum majus, типично под musculus piriformis. Главната неврологична опасност при задните достъпи към тазобедрената става.
+**N. femoralis (L2–L4).** Излиза от lumbar plexus в задната част на m. psoas major; преминава под ligamentum inguinale в браздата между m. psoas и m. iliacus. Отдава моторни клонове за m. quadriceps femoris, m. sartorius и m. pectineus; сетивните клонове формират nn. cutanei femoris anteriores и n. saphenus. Главна неврологична опасност при предни достъпи — особено при „вертикалния преден" достъп с навлизане в браздата на m. iliopsoas.
 
-Nervus cutaneus femoris lateralis: Минава близо до SIAS. Изложен на риск при предните достъпи (достъп по Smith-Petersen); meralgia paresthetica е често усложнение.
+**A. femoralis.** Главната съдова опасност при предните достъпи. На 7–8 cm дистално от ligamentum inguinale отдава a. profunda femoris, която е основният източник на a. circumflexa femoris medialis (медиално) и a. circumflexa femoris lateralis (латерално).
 
-Nervus glutealis superior: Преминава между musculus gluteus medius и musculus gluteus minimus. Изложен на риск при латералните достъпи (по Hardinge); слабостта на абдукторите е главното безпокойство.
+**N. cutaneus femoris lateralis (L2–L3).** Излиза близо до spina iliaca anterior superior, преминава дистално в подкожен слой по предно-латералната повърхност на бедрото. Анатомична вариабилност (Aszmann 1997): преминава точно под SIAS в 27%, до 1 cm медиално в 21%, до 1 cm латерално в 18% и до 3 cm латерално в 34% от препаратите. Главната неврологична опасност при предните достъпи (Smith-Petersen, DAA); увредата дава meralgia paresthetica — преходна в 20–80% при DAA и трайна в 5–10%.
 
-## Класификация на оперативните достъпи
+**N. ischiadicus (L4–S3).** Най-дебелият нерв в тялото; излиза от таза през foramen ischiadicum majus, типично под m. piriformis (Beaton-Anson тип I в 85%; тип II с проксимална порция през самия m. piriformis в 10%; останалите варианти в 5%). Пресича посока медиално-латерално по дълбоката повърхност на mm. gemelli, m. obturatorius internus и m. quadratus femoris, преминавайки медиално от средата на разстоянието tuber ischiadicum — trochanter major. Главната неврологична опасност при задните достъпи; увредата дава дроп-фут (особено перонеалния компонент) и сетивен дефицит по латералната подбедрица и стъпало.
 
-Класическата българска школа разделя оперативните достъпи до тазобедрената става на пет основни групи в зависимост от посоката на проникване и анатомичните интервали: предни (между m. sartorius и m. tensor fasciae latae или между m. iliopsoas и m. rectus femoris), странични (между m. tensor fasciae latae и m. gluteus medius, със или без отсичане на големия трохантер), задни (през m. gluteus maximus, със или без откъсване на абдукторите), медиални (между предната и вътрешната група мускули на бедрото или между мускулите на вътрешната група), и комбинирани — предно-странични или задно-странични. Изборът на достъп зависи от вида на патологията (ставосъхраняваща, ставозамяна, фрактурна, туморна, инфекциозна, репаративна при ВДТС), от качеството на меките тъкани, от необходимостта от експозиция на цялата ставна капсула срещу избирателна експозиция на един квадрант, и не на последно място от опита на хирурга.
+**N. gluteus superior (L4–S1).** Излиза от таза през foramen suprapiriforme (над m. piriformis), преминава дълбоко между m. gluteus medius и m. gluteus minimus, насочвайки се напред към m. tensor fasciae latae. Навлиза в TFL приблизително 4–6 cm под SIAS в средната трета на мускула — анатомичната константа, която определя безопасното проксимално разпростиране на латералните разцепи на абдукторите (правилото на Hardinge „не повече от 5 cm проксимално от трохантера").
 
-## Преден достъп по предния ръб на m. sartorius
+**N. gluteus inferior (L5–S2).** Излиза през foramen infrapiriforme (под m. piriformis), инервира m. gluteus maximus; обикновено не е критична опасност при задните достъпи, защото разделянето на m. gluteus maximus тъпо по влакна не уврежда нерва.
 
-Достъпът по предния ръб на m. sartorius (известен и като "вертикален преден достъп") използва вътрешния ръб на мускула с разрез от spina iliaca anterior superior дистално и медиално на протежение около 15–17 cm. След разсичане на подкожието и фасцията се прониква между m. rectus femoris (екартиран латерално) и m. iliopsoas (екартиран медиално), след което се излага предната ставна капсула. Анатомичните особености, които правят достъпа неоптимален, са преминаването на n. femoralis в браздата между m. psoas и m. iliacus с отделяне на моторните клонове за предната мускулна група, разположението на a. femoralis по вътрешния ръб на m. iliopsoas и медиално от m. sartorius, и началото на a. circumflexa femoris medialis на 7–8 cm дистално от lig. inguinale — клонове на която преминават през оперативното поле. Поради тези рискове за феморалния съдово-нервен сноп достъпът днес не се препоръчва за рутинна употреба и е заменен от достъпа по задния ръб на m. sartorius (Hueter) или от истинския преден достъп между m. sartorius и m. tensor fasciae latae (Smith-Petersen).
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-surrounding-structures.png" data-figure-alt="Структури около тазобедрената става" aria-label="Увеличи">
+    <img src="/img/anatomy-8/hip-surrounding-structures.png" alt="Структури около тазобедрената става" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Структури около дясната тазобедрена става (Gray): m. iliopsoas, бедрен съдов сноп и n. femoralis отпред; късите ротатори и n. ischiadicus отзад; абдукторите латерално. Тази архитектура определя анатомичните рискове на трите класически достъпа — преден (n. cutaneus femoris lateralis, n. femoralis), латерален (n. gluteus superior), заден (n. ischiadicus).</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray344.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
 
-## Преден достъп по Hueter
-
-Достъпът по Hueter използва задния ръб на m. sartorius — кожният разрез започва от spina iliaca anterior superior и слиза дистално по външния ръб на мускула с дължина около 15 cm. Прониква се между m. sartorius (медиално) и m. tensor fasciae latae (латерално), а в проксималния край m. tensor fasciae latae се дезинсерира остеопластично от spina iliaca anterior superior и от m. gluteus medius на 1 cm под хълбочния гребен. С распатор m. gluteus medius и m. gluteus minimus се отделят от външната повърхност на хълбочното крило и се екартират назад и надолу, при което се излага широко горната и предната част на ставната капсула. Hueter е концептуалният предшественик на съвременния директен преден достъп (DAA) — разликата е, че Hueter включва дезинсерция на тензора и на абдукторите от хълбочното крило, докато DAA запазва тензора като мускулна стена.
-
-<aside class="callout callout-historical">
-  <span class="callout-label">Класическа линия — преден достъп до ТБС</span>
-  <p>Анатомичният интервал между m. sartorius и m. tensor fasciae latae е документиран в немската ортопедична литература за повече от век и половина. Линията на еволюция:</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
   <ul>
-    <li><strong>Хютер 1880</strong> — първа систематична публикация в <a href="https://archive.org/details/archivfrklinisc11unkngoog">Langenbeck-Archiv für klinische Chirurgie</a>; класическият анатомичен интервал.</li>
-    <li><strong>Хофа 1890-те</strong> — кървавата репозиция при ВДТС и оперативната хирургия на тазобедрената става (<a href="https://archive.org/details/lehrbuchderortho00hoff">Lehrbuch 1905</a>).</li>
-    <li><strong>Лудлоф 1908</strong> — медиалният достъп (Zentralblatt für Chirurgie, Jg. 35) — алтернатива за по-малките кърмачета.</li>
-    <li><strong>Лоренц 1900</strong> — безкръвната репозиция (<a href="https://archive.org/details/b21290441">монография 1895 г.</a> като патоанатомична основа).</li>
-    <li><strong>Smith-Petersen 1917</strong> — модерният преден достъп със запазване на тензора.</li>
-    <li><strong>Watson-Jones 1936 → Hardinge 1982 → Ganz 2001</strong> — еволюцията на латералните и трохантерно-флип достъпите със запазване на a. circumflexa femoris medialis.</li>
+    <li>N. ischiadicus с „high" вариант на разделяне (тип II по Beaton-Anson, 10%) — общия перонеален клон преминава през m. piriformis и е уязвим при разцепване на m. gluteus maximus и при тенотомия на m. piriformis.</li>
+    <li>N. gluteus superior навлиза в TFL на 4–6 cm под SIAS; разцепването на m. gluteus medius при Hardinge не повече от 5 cm проксимално от trochanter major — отвъд тази граница денервация на абдукторите с трайна походка на Тренделенбург.</li>
+    <li>N. cutaneus femoris lateralis излиза под SIAS в 27% и до 3 cm латерално в 34% — широка анатомична вариабилност; направете тъпа дисекция в субкутанната тъкан близо до SIAS, не нож.</li>
+    <li>A. circumflexa femoris medialis преминава между m. pectineus и m. iliopsoas — при медиален достъп по Ludloff лигатура на a. obturatoria е стандартна, но запазване на ACFM е императив.</li>
   </ul>
 </aside>
 
-## Преден достъп по Smith-Petersen
+</div>
+</details>
+
+
+### Седалищна област и бурси
+<details id="gluteal-region">
+<summary>Седалищна област и бурси</summary>
+<div class="ts-body">
+
+Седалищната област (regio glutaea) е ограничена горе от crista iliaca, медиално от средната линия до върха на опашната кост, долно от глутеалната гънка и латерално от линията между trochanter major и SIAS. Кожата е дебела с обилни мастни жлези; подкожието е разделено на килийки от фиброзни прегради и образува corpus adiposum lumbo-iliacum над m. gluteus maximus и corpus adiposum gluteofemorale дистално от трохантера — съдовата мрежа на тези мастни тела участва в изхранването на кожното ламбо при дезартикулация на тазобедрената става.
+
+**Кожна инервация.** Nn. clunium superiores (от задните клонове на лумбалните спинални нерви L1–L3) в горния квадрант, nn. clunium medii (S1–S3) медиално, nn. clunium inferiores (от n. cutaneus femoris posterior) в долния и латералния квадрант.
+
+**Глутеални пространства.** Дълбоките съдово-нервни структури са разпределени между две съединителнотъканни пространства — повърхностно междуглутеално (между m. gluteus maximus и m. gluteus medius плюс външните ротатори), през което преминават елементите на foramen infrapiriforme (от медиално към латерално: n. pudendus, vasa pudenda interna, n. ischiadicus с n. cutaneus femoris posterior), и дълбоко междуглутеално (между m. gluteus medius и m. gluteus minimus), което съдържа vasa gluteae superiores и n. gluteus superior, излизащи от foramen suprapiriforme. N. gluteus superior пресича в напречна посока пространството между m. gluteus medius и m. tensor fasciae latae и навлиза в последния на 4–6 cm под spina iliaca anterior superior, в средната трета на мускулното му тяло — анатомична константа, определяща безопасното проксимално разпростиране на латералните разцепи на абдукторите.
+
+**Бурси около тазобедрената става.** Около ставата лежи система синовиални торбички, които ортопедът трябва да разпознава като източник на болка и като ориентир за достъп: bursa trochanterica m. glutei maximi (между сухожилието на m. gluteus maximus и латералната повърхност на трохантера — най-честият източник на трохантерен синдром), bursa trochanterica superficialis (подкожна, над върха на трохантера), bursa trochanterica m. glutei medii (между сухожилието на m. gluteus medius и горната фасета), bursa m. piriformis (под сухожилието преди залавянето му), bursa m. obturatorii interni medialis (между мускула и incisura ischiadica minor — почти редовно комуницира със ставната кухина), bursa ischiadica m. glutei maximi (между m. gluteus maximus и tuber ischiadicum) и bursa iliopectinea (между m. iliopsoas и eminentia iliopectinea — в около 15% от случаите комуницира с тазобедрената ставна кухина и обуславя двупосочна разпространяемост на инфекции и излив).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Bursa iliopectinea комуницира със ставната кухина при около 15% от препаратите — септичен коксит може да се представи първоначално като псоас-абсцес в бедрения триъгълник, а флуктуация в ингвиналната гънка изисква пункция и изключване на ставна комуникация преди инцизия.</li>
+    <li>Bursa m. obturatorii interni medialis почти редовно комуницира със ставната кухина — анатомична основа за разпространение на инфекция към задно-долната глутеална зона.</li>
+    <li>N. ischiadicus минава медиално от средата на разстоянието tuber ischiadicum — trochanter major по задната повърхност на mm. obturatorius internus, gemelli и m. quadratus femoris.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+
+
+## Патофизиология и механизъм
+<!-- toc-h2 -->
+<section class="topic-section" id="pathomech">
+<details>
+<summary>Патофизиология и механизъм</summary>
+<div class="ts-body">
+
+Изборът на оперативен достъп до тазобедрената става се определя от взаимодействието между патоанатомия, биомеханика на изхранването на главата и неврова-съдова уязвимост по отделните анатомични интервали.
+
+**Аваскуларна некроза.** Прекъсването на ретинакуларните клонове на ACFM при субкапитални фрактури на шийката води до AVN в 10–30% (по-висок процент при изместена фрактура, Garden III–IV). Класически безопасното време за остеосинтеза е до 6 часа от травмата („6-hour rule"); късни процедури с непрекъснати фрактури не показват линейна зависимост от времето, но повечето автори препоръчват незабавна редукция и фиксация при подходяща клинична обстановка. AVN като патогенетичен механизъм е централно съображение при избор на хемиартропластика срещу остеосинтеза при възрастни.
+
+**Дислокация след тотална артропластика.** Историческите честоти от 3–5% при стандартни задни достъпи се намаляват до под 1% при прецизно възстановяване на капсулата и късите ротатори (Pellicci 1998), при използване на 36 mm глави (вместо 28 mm) и при правилно позициониране на ацетабуларния компонент в Lewinnek safe zone (40 ± 10° наклон, 15 ± 10° антеверзия). Дислокацията е по-честа при задни достъпи (около 3% при възстановяване, около 5% без), и по-рядка при директен преден (около 1%) и при латерален Hardinge (около 1%).
+
+**Износване и асептично разхлабване.** Charnley-концепцията за нискотрение (1962) — малка метална глава 22 mm срещу полиетиленова чашка с висока плътност, фиксирани с акрилен цимент — определи стандартите за биомеханика на ендопротезирането. Полиетиленовото износване е приблизително 0,1 mm годишно (Charnley 1972) и определя дългосрочната служба на протезата чрез периартикуларна остеолиза. Cross-linked полиетилен (XLPE, въведен 1998) намалява износването до 0,01 mm/год; ceramic-on-ceramic и ceramic-on-XLPE елиминират металната емисия и в значителна степен износването.
+
+**Сили в тазобедрената става.** Биомеханичният принцип на Pauwels (1935): при едностранен стоеж тазът се балансира от абдукторите спрямо центъра на въртене (CoR) на главата. Силата в ставата при едностранен стоеж е 2,5–3 × телесно тегло, а при бягане — до 6 × ТТ. Биомеханичното рамо на абдукторите се определя от страничното разстояние от CoR до линията на действие на абдукторите (offset); медиализиране на CoR при остеотомия по Chiari или при ендопротезиране намалява ставната сила и подобрява биомеханиката.
+
+**FAI (фемороацетабуларен импинджмънт).** Cam-deformity (загуба на сферичност на главата — post-Perthes, post-SCFE остатъчна, идиопатична) и pincer-deformity (свръхпокритие на ацетабулума — protrusio acetabuli, ретроверзия) водят до повтаряща се травма на лабрума и предно-горния ставен хрущял с прогресия към коксартроза в зряла възраст. Ставосъхраняващата хирургия (offset-корекция, ацетабуларна римапластика, лабрална реконструкция) — изпълнима артроскопски или чрез отворена флип по Ganz — е стандарт при млад пациент с симптоматично FAI.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Aваскуларна некроза при субкапитална фрактура: 10–30% общо; намалена при редукция и фиксация до 6 часа от травмата.</li>
+    <li>Lewinnek safe zone за ацетабуларен компонент: 40 ± 10° наклон, 15 ± 10° антеверзия — основа за минимизиране на луксацията.</li>
+    <li>Силата в ставата при едностранен стоеж: 2,5–3 × телесно тегло; при бягане до 6 × ТТ — рамо на абдукторите ключово.</li>
+    <li>Cross-linked полиетилен намалява износването от 0,1 mm/год (UHMWPE) до 0,01 mm/год (XLPE) — фундаментално подобрение на дългосрочната служба.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+</section>
+
+
+
+## Клиника и диагностика
+<!-- toc-h2 -->
+<section class="topic-section" id="clinical">
+<details>
+<summary>Клиника и диагностика</summary>
+<div class="ts-body">
+
+Преоперативната оценка обхваща локалния анатомичен статус (за избор на достъп), функционалния резерв (за определяне на оперативния обем) и общия статус (за определяне на анестезиологичния и тромбоемболичния риск).
+
+**Анамнеза.** Болка (локализация — препонна, трохантерна, ингвинална, ретропателарна референция; провокация — натоварване, седнало положение, стълби; характер — механична с моментно облекчение или нощна), куцане (Тренделенбургско от слабост на абдукторите, антaлгично от болка), функционален дефицит (трудност при обуване на чорапи, рязане на нокти на пръстите). Предходни хирургични процедури, остеопороза, ревматоидни и метаболитни заболявания, придружаващи болести с особено акцент върху сърдечносъдов и белодробен статус.
+
+**Физикален преглед.** Походка — антaлгично куцане при натоварване на засегнатата страна, скъсяване на стъпката, положителен симптом на Тренделенбург при едностранен стоеж (слабост на абдукторите или фиксирана аддукция). Дължина на крайниците — истинска (SIAS до медиална малеола) срещу „апарентна" (umbilicus до медиална малеола). Обем на движенията: флексия 0–120° (нормално), вътрешна ротация в флексия 0–30° (загуба при FAI и AVN), външна ротация 0–45°, абдукция 0–45°, аддукция 0–30°, екстензия 0–10°. Тест на Thomas (фиксирана флексионна контрактура), FABER/Patrick (сакроилиачна и преден импинджмънт), FADIR (заден импинджмънт), log-roll тест за ставна патология.
+
+**Образна диагностика.** Стандартна обзорна рентгенография на таза в AP положение с центриране 2 cm над симфизата (за оценка на ставна линия и pelvic obliquity), и страничен изглед на бедрото — frog-leg lateral при FAI и AVN, cross-table lateral при възрастен с предполагаема фрактура (без болезнено манипулиране). Допълнителни специализирани изгледи: false-profile по Lequesne (вертикална центрираща линия на главата и оценка на пред-задното покритие); inlet/outlet за тазови фрактури; Judet 45° косни (obturator и iliac oblique) за ацетабуларни фрактури. CT с реконструкции при ацетабуларни фрактури и при предполагаема occult fracture на шийката; MRI при подозрение за AVN ранен стадий (Ficat I, още без рентгенов корелат), при стрес фрактура и при синдром на трохантерно опаление.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Болка в препонната ингвинална гънка — патогномонично за интраартикуларна патология на ТБС; болка по латералната повърхност на трохантера — трохантерен бурсит или абдукторна патология.</li>
+    <li>Загуба на вътрешна ротация в флексия — ранен и специфичен знак за FAI, AVN и коксартроза.</li>
+    <li>MRI е чувствителен за окултни фрактури на шийката и за ранна AVN (Ficat I) преди появата на рентгенови знаци — задължителен при възрастен с типична анамнеза и нормална рентгенография.</li>
+    <li>False-profile по Lequesne оценява предно-задното покритие на главата — стандарт при анализ на дисплазия и FAI с pincer-компонент.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+</section>
+
+
+
+## Класификация на достъпите
+<!-- toc-h2 -->
+<section class="topic-section" id="classification">
+<details>
+<summary>Класификация на достъпите</summary>
+<div class="ts-body">
+
+Класическата българска школа (по Бойчев) разделя оперативните достъпи до тазобедрената става на пет основни групи в зависимост от посоката на проникване и анатомичните интервали:
+
+**Предни достъпи.** Между m. sartorius и m. tensor fasciae latae (истински преден — Smith-Petersen, директен преден DAA) или между m. iliopsoas и m. rectus femoris („вертикален" преден). Безнервна интернервна плоскост между n. femoralis (медиално) и n. gluteus superior (латерално). Показания: артродеза, ОRIF на главата, биопсия, тазови остеотомии, тотална артропластика (DAA), Salter и Pemberton при дете.
+
+**Латерални достъпи.** Между m. tensor fasciae latae и m. gluteus medius (Watson-Jones) или през m. gluteus medius (Hardinge), със или без остеотомия на trochanter major (Olier, Ombrédanne, McFarland-Osborne). Показания: тотална артропластика, хемиартропластика, ОRIF на бедрена шийка и пертрохантерни фрактури.
+
+**Задни достъпи.** През m. gluteus maximus с дезинсерция на късите външни ротатори (Moore, Langenbeck, Osborne, Желев, Kocher-Langenbeck). Показания: тотална артропластика, хемиартропластика, открита репозиция при задни луксации, фиксация на фрактури на задната стена и колона.
+
+**Медиални достъпи.** Между предната и вътрешната група мускули (Ludloff) или между мускулите на вътрешната група (вариант на Stevens). Показания: открита репозиция при ВДТС у малки деца, аддукторна тенотомия, медиални свободни тела.
+
+**Комбинирани достъпи.** Предно-странични (Marino-Zuco, Чаклин-Вреден) или задно-странични (Kocher-Gibson, McFarland-Osborne); трохантерна флип-остеотомия (Ganz) за пълна циркумферентна експозиция. Показания: туморна резекция на проксималния фемур, ставосъхраняваща хирургия за FAI и AVN с пълна обиколка на главата, артродеза с пълен достъп.
+
+**По цел.** Декомпресия / стабилизация / артропластика / артродеза / ставосъхраняване / резекция / биопсия / дренаж.
+
+**По инвазивност.** Открит / минимално инвазивен (MIS-DAA, MIS-PA, tubular, артроскопия).
+
+Изборът се определя от вида на патологията (ставосъхраняваща, ставозамяна, фрактурна, туморна, инфекциозна, репаративна при ВДТС), от качеството на меките тъкани, от необходимостта от експозиция на цялата капсула или избирателна експозиция на един квадрант, и не на последно място от опита на хирурга. Принципът „наказание за достъпа не трябва да надвишава ползата от процедурата" (Hoppenfeld) остава директивен.
+
+</div>
+</details>
+</section>
+
+
+
+## Лечение
+<!-- toc-h2 -->
+<section class="topic-section" id="treatment">
+<details>
+<summary>Лечение</summary>
+<div class="ts-body">
+
+
+### Консервативно
+<details id="nonoperative">
+<summary>Консервативно</summary>
+<div class="ts-body">
+
+Консервативното лечение при тазобедрена патология обхваща скелетна тракция, гипсова имобилизация, аналгетична и противовъзпалителна терапия и физиотерапия.
+
+**Скелетна тракция.** При фрактура-луксация на главата или ацетабулума, при подготовка за безкръвна репозиция при висока ВДТС у дете и при инфекция с ставна деструкция. Класическата тракционна линия е през надкондиларно ниво на бедрото с тегло 1/7 от телесното тегло (3–8 kg за възрастен). Индиректна тракция (мастизол-лейкопластна) — приложима в малки деца до 3–4 г.; директна с игла през фемура — при по-голямо дете и възрастен. Допълнителна конграекстензия с поясно-крачолен гипс на здравия крайник, фиксиран към рамката на леглото — по-ефективна при подготовка за репозиция на висока изкълчена глава.
+
+**Постепенна дистракция с обръч на Илизаров.** При подготовка за кръвна репозиция на висока ВДТС у дете над 5–6 г. — дисталният край на фемура се свързва с поясно-крачолен гипс на здравия крайник чрез безкрайни винтове по 0,5 cm дневно до 1 cm първоначално, за 10–15 дни. Оригиналната техника на Илизаров фиксира полуобръч в crista iliaca и цял обръч в фемура — с риск за инфекция в зоната на бъдещата кръвна репозиция.
+
+**Гипсова имобилизация.** Поясно-крачолен гипс при абдукция и лека вътрешна ротация след закрита репозиция на ВДТС у дете (правилото на Putti — главата задържана в долно-вътрешния квадрант на пресечната точка на хоризонтална бихиксова и отвесна линия от ръба на свода). Гипсът се поддържа 6 месеца до 1 година със смени на 2–3 месеца за корекция на положението.
+
+**Аналгетика и противовъзпалителна терапия.** НСПВС при коксартроза с лек до умерен дискомфорт; интраартикуларно инжектиране на стероид (рядко, поради риск от ускоряване на хрущялната дегенерация при ятрогенно увреждане) или хиалуронова киселина (ограничено доказана при коксартроза в сравнение с гонартрозата).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Тракционен товар: класически 1/7 от телесното тегло; при възрастен 3–8 kg. По-висок товар без рентгенов контрол е безсмислен и потенциално опасен.</li>
+    <li>Правилото на Putti при гипсова имобилизация след закрита репозиция на ВДТС: главата в долно-вътрешния квадрант на пресечната точка на хоризонтална бихиксова и отвесна линия от ръба на свода.</li>
+    <li>Интраартикуларно инжектиране в ТБС се прави под флуороскопски или ехографски контрол — сляпото инжектиране е ненадеждно и рисково.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Оперативно
+<details id="operative">
+<summary>Оперативно</summary>
+<div class="ts-body">
+
+<details>
+<summary>Преден достъп по Smith-Petersen (и DAA)</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/smith-petersen-incision.png" data-figure-alt="Ориентири и разрез на достъпа по Smith-Petersen" aria-label="Увеличи">
@@ -176,7 +457,6 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
   </figcaption>
 </figure>
 
-
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/anterior-thigh.svg" data-figure-alt="Преден достъп на бедрото, m. tensor fasciae latae" aria-label="Увеличи">
     <img src="/img/anatomy-8/anterior-thigh.svg" alt="Преден достъп на бедрото, m. tensor fasciae latae" loading="lazy" decoding="async" />
@@ -187,103 +467,109 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
   </figcaption>
 </figure>
 
-Предният достъп по Smith-Petersen използва безнервния интервал между musculus sartorius (nervus femoralis) медиално и musculus tensor fasciae latae (nervus glutealis superior) латерално, и дълбокия интервал между musculus rectus femoris (nervus femoralis) медиално и musculus gluteus medius (nervus glutealis superior) латерално.
+Предният достъп по Smith-Petersen (M. N. Smith-Petersen, 1917) използва двунивова безнервна плоскост: повърхностно между m. sartorius (n. femoralis) медиално и m. tensor fasciae latae (n. gluteus superior) латерално; в дълбочина — между m. rectus femoris (n. femoralis) медиално и m. gluteus medius (n. gluteus superior) латерално.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Smith-Petersen е истинска безнервна плоскост на две нива: повърхностно между musculus sartorius (femoralis) и musculus tensor fasciae latae (glutealis superior); дълбоко между musculus rectus femoris (femoralis) и musculus gluteus medius (glutealis superior). Nervus cutaneus femoris lateralis пресича близо до SIAS — meralgia paresthetica е цената на невниманието.</p>
+**Показания.** Артродеза на тазобедрената става, открита репозиция на фрактури на главата (тип Pipkin), биопсия, туморни процедури, тазови остеотомии (Salter, Pemberton, Chiari), кръвна репозиция при ВДТС у дете. През последните две десетилетия достъпът придоби значителна популярност като директен преден достъп (DAA) при тотална артропластика на тазобедрената става с редуцирана травма на меките тъкани и по-ниска честота на луксации.
+
+**Позициониране.** Пациентът е по гръб; за DAA при тотална артропластика — нерядко на специализирана маса Hana с тракция за обработка на фемора. Кожният разрез е от около 2 cm дистално и латерално от SIAS, продължаващ дистално 8–15 cm по линията към латералната патела.
+
+**Техника.** Подкожната дисекция е тъпа в съседство със SIAS поради вариабилния ход на n. cutaneus femoris lateralis; нервът се идентифицира и предпазва. Fascia lata над m. tensor fasciae latae се срязва надлъжно, мускулът се ретрахира латерално, m. sartorius — медиално. В дълбочина се развива интервалът между m. rectus femoris (с двата му корена — recurrent от AIIS и reflected от ацетабуларния ръб) медиално и m. gluteus medius латерално. A. circumflexa femoris lateralis с нейните клонове пресича оперативното поле в дълбокия слой — стандартна стъпка е лигатура (по правилото „вени преди артерии"). Ставната капсула се отваря Т-образно или Z-образно за достъп до ставата.
+
+**Опасности.** N. cutaneus femoris lateralis (вариабилен ход спрямо SIAS, увредата дава meralgia paresthetica); n. femoralis в дълбокия слой (защитен от m. sartorius); a. circumflexa femoris lateralis (лигатура задължителна); m. rectus femoris (внимателна ретракция, особено при minimally invasive вариант); a. circumflexa femoris medialis в дълбокия медиален слой при дезинсерция на m. iliopsoas.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Smith-Petersen е истинска безнервна плоскост на две нива: повърхностно m. sartorius (n. femoralis) / m. tensor fasciae latae (n. gluteus superior); дълбоко m. rectus femoris (n. femoralis) / m. gluteus medius (n. gluteus superior).</li>
+    <li>N. cutaneus femoris lateralis пресича близо до SIAS — meralgia paresthetica е цената на невниманието; тъпа дисекция в субкутанния слой близо до SIAS, не нож.</li>
+    <li>Стандартна лигатура на a. circumflexa femoris lateralis в дълбочина на достъпа — по правилото „вени преди артерии".</li>
+    <li>DAA при тотална артропластика е техническа реализация на Smith-Petersen със запазване на тензора (без дезинсерция); по-ниска честота на луксации спрямо задния, но по-висока крива на учене.</li>
+  </ul>
 </aside>
 
-
-## Показания
-
-Достъпът е бил използван исторически при артродеза на тазобедрената става, открита репозиция на фрактури на бедрената глава, биопсия, туморни процедури и тазови остеотомии. През последните години той придоби значителна популярност като директен преден достъп (direct anterior approach, DAA) при тотална артропластика на тазобедрената става с редуцирана травма на меките тъкани и по-ниска честота на луксации.
-
-
-## Техника
-
-Пациентът е в положение по гръб, нерядко на специализирана маса (маса Hana) с тракция. Разрезът е от около 2 cm дистално от SIAS, продължаващ дистално 8-15 cm по линията между musculus sartorius и musculus tensor fasciae latae. Интервалът се развива; nervus cutaneus femoris lateralis се идентифицира и предпазва. Разработва се интервалът между musculus rectus femoris и musculus gluteus medius. Ставната капсула се отваря, като рефлексия или ексцизия на капсулата осигурява достъп до ставата.
-
-
-## Усложнения
-
-Увреждането на nervus cutaneus femoris lateralis (meralgia paresthetica) е често (20-80% преходно, 5-10% трайно). Ранови усложнения на проксималния разрез (при кожни гънки).
-
-Перипротезна фрактура на бедрената кост при въвеждане на стебла (по-честа при DAA, отколкото при задния достъп поради по-трудната феморална експозиция). Неправилно позициониране на стеблото поради по-ограничена визуализация на проксималния фемур.
-
-## Странични достъпи — Olier, Ombrédanne и Colonna
-
-Преди да се утвърдят съвременните мускулно-щадящи интервали, ортопедията използва широки странични достъпи с отсичане на големия трохантер за широка циркумферентна експозиция. Достъпът по Olier е с U-образна форма около върха на големия трохантер: m. gluteus maximus се екартира назад, m. tensor fasciae latae напред, и под малкия и средния седалищен мускул се прокарва тъп извит инструмент, под който трохантерът се остеотомира с длето. Външните ротатори остават прикрепени към фемура или се прерязват при необходимост; костномускулното ламбо се отмята проксимално и се излага капсулата. При възстановяване трохантерът се фиксира с винт или тел. При деца, при които трохантерът е в активен растеж, крайните сухожилия на абдукторите се прерязват успоредно на върха и се реинсерират при затваряне. McFarland и Osborne модифицират достъпа, като прерязват трохантера интракапсуларно с трион на Gigli след предно-задна артротомия — техника, която вдига цялата горна капсула заедно с костномускулното ламбо, включващо и късите ротатори.
-
-Достъпът по Ombrédanne използва дъговиден разрез между m. tensor fasciae latae и m. gluteus medius със стъпаловидна остеотомия на големия трохантер и отмятане на тривиалното костномускулно ламбо нагоре. Достъпът осигурява широк достъп до тазобедрената става и проксималната трета на бедрената кост и е особено подходящ при ВДТС с висока изкълчена глава, при туморна резекция на проксималния фемур и при тежки ставни деструкции, изискващи широка експозиция. Достъпът по Colonna прави обратно С-образен разрез с конвекситет напред, започващ около 3 cm зад spina iliaca anterior superior и слизащ дъговидно надолу до 12 cm под трохантера, последван от дезинсерция на крайните сухожилия на абдукторите. Достъпът на Colonna исторически е свързан с описаната от него капсулопластика при високи изкълчвания (виж раздела за ВДТС).
-
-## Достъп по Watson-Jones
-
-Достъпът по Watson-Jones използва интервала между musculus gluteus medius задно и musculus tensor fasciae latae предно, с рефлексия на musculus gluteus medius от предния аспект на trochanter major.
-
-
-## Показания
-
-Тотална артропластика на тазобедрената става, открита репозиция и вътрешна фиксация на избрани фрактури на проксималния фемур, хемиартропластика.
-
-
-## Техника
-
-Пациентът е в положение по гръб или в странично положение. Разрезът е над trochanter major с проксимално и дистално удължение по желаната дължина. Fascia lata се разрязва. Разработва се интервалът между musculus gluteus medius и musculus tensor fasciae latae. Предната порция на musculus gluteus medius се частично отделя от трохантера (с последващо шиене при затваряне). Ставната капсула се отваря отпред.
-
-
-## Усложнения
-
-Дисфункция на абдукторите при частично отделяне на musculus gluteus medius; прецизното шиене е задължително. Увреждане на nervus glutealis superior при по-дълбока проксимална дисекция.
-
-## Директен латерален достъп (по Hardinge)
-
-Достъпът по Hardinge разцепва musculus gluteus medius по хода на влакната му, с предна рефлексия на предната порция (заедно с musculus gluteus minimus) като ламбо с musculus vastus lateralis. Достъпът осигурява добра предна експозиция на ставата при запазване на задната капсула и задните структури.
-
-
-## Показания
-
-Тотална артропластика на тазобедрената става, хемиартропластика, фиксация на фрактура на шийката на бедрената кост.
-
-
-## Техника
-
-Пациентът е в положение по гръб или в странично положение. Надлъжен латерален разрез над трохантера. Fascia lata се отваря. Musculus gluteus medius се разцепва по хода на влакната (само до 5 cm проксимално от трохантера, за да се предпази nervus glutealis superior). Предната порция на musculus gluteus medius (заедно с musculus gluteus minimus) се рефлектира напред като единно ламбо, нерядко в непрекъснатост с musculus vastus lateralis. Ставната капсула се отваря отпред.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>При директния латерален достъп по Hardinge никога не разцепвайте musculus gluteus medius повече от 5 cm проксимално от trochanter major — отвъд това nervus glutealis superior (между musculus gluteus medius и musculus gluteus minimus) се денервира и следва трайна слабост на абдукторите с походка на Тренделенбург.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Удължено медиално разпростиране на разреза с навлизане медиално от m. sartorius → опасност за n. femoralis в браздата на m. iliopsoas.</li>
+    <li>Прекомерна латерална ретракция на m. tensor fasciae latae → денервация поради тракция на n. gluteus superior (навлиза 4–6 cm под SIAS).</li>
+    <li>Перипротезна фрактура на проксималния фемур при въвеждане на безциментно стъбло при DAA (по-честа от задния достъп) — внимание към anterior bow на фемора и към внимателен release на капсулата.</li>
+    <li>Meralgia paresthetica — преходна в 20–80%, трайна в 5–10% при DAA; задължително разяснение на пациента предоперативно.</li>
+  </ul>
 </aside>
 
+</div>
+</details>
 
-## Усложнения
+<details>
+<summary>Преден достъп по Hueter и „вертикален" преден</summary>
+<div class="ts-body">
 
-Увреждане на nervus glutealis superior при удължена проксимална дисекция (ограничаването на разцепването на абдукторите до 5 cm от трохантера е критично). Слабост на абдукторите дори при правилна техника; болка в трохантерната зона и трайно накуцване са признати проблеми.
+Достъпът по Hueter (1880) използва задния ръб на m. sartorius — кожният разрез започва от spina iliaca anterior superior и слиза дистално по външния ръб на мускула с дължина около 15 cm. Прониква се между m. sartorius (медиално) и m. tensor fasciae latae (латерално), а в проксималния край m. tensor fasciae latae се дезинсерира остеопластично от spina iliaca anterior superior и от m. gluteus medius на 1 cm под хълбочния гребен. С распатор m. gluteus medius и m. gluteus minimus се отделят от външната повърхност на хълбочното крило и се екартират назад и надолу, при което се излага широко горната и предната част на ставната капсула. Hueter е концептуалният предшественик на съвременния директен преден достъп (DAA) — разликата е, че Hueter включва дезинсерция на тензора и на абдукторите от хълбочното крило, докато DAA запазва тензора като мускулна стена.
 
-## Класически задни достъпи — Langenbeck, Osborne, Moore, Желев
+„Вертикалният преден достъп" използва вътрешния ръб на m. sartorius с разрез от SIAS дистално и медиално около 15–17 cm. Прониква се между m. rectus femoris (екартиран латерално) и m. iliopsoas (екартиран медиално), след което се излага предната ставна капсула. Поради преминаването на n. femoralis в браздата между m. psoas и m. iliacus, разположението на a. femoralis по вътрешния ръб на m. iliopsoas и началото на a. circumflexa femoris medialis на 7–8 cm дистално от ligamentum inguinale, достъпът днес не се препоръчва за рутинна употреба и е заменен от Hueter/Smith-Petersen.
 
-Историческият заден достъп по Langenbeck е директен достъп през m. gluteus maximus без отсичане на трохантера и без отделяне на абдукторите. Кожният разрез се прави при флексирана около 40° тазобедрена става и представлява права линия по оста на бедрото, започваща дистално от spina iliaca posterior superior, насочена към върха на трохантера и завършваща 4–5 cm под основата му; при изправяне на крайника разрезът добива дъговидна форма. Долният клон на a. glutea inferior преминава медиално от средата на разстоянието tuber ischiadicum — trochanter major и след къс ход се разпада на клончета, проникващи в m. gluteus maximus напречно на хода на влакната — обстоятелство, което диктува тъпото разделяне на мускулните влакна, а не разсичането, за да се избегне обилно мускулно кървене.
-
-Достъпът по Osborne се различава само по кожния разрез и нивото на разделяне на m. gluteus maximus: разрезът започва на 4–5 cm дистално и латерално от spina iliaca posterior superior, продължава успоредно на мускулните влакна към горно-задния ъгъл на трохантера и след това завива дистално около 5 cm. Достъпът по Moore (южен заден достъп) започва на около 10 cm дистално от spina iliaca posterior superior, върви успоредно на мускулните влакна към задния ръб на трохантера и слиза дистално 10–12 cm успоредно на бедрената кост. При прерязване на fascia lata се разцепва апоневрозата на m. gluteus maximus, преминаваща в tractus iliotibialis, а след това крайното сухожилие се отсича частично от tuberositas glutea — улеснява се ретракцията. Достъпът на Moore позволява по-широка експозиция на задния ръб на ацетабулума и на по-медиалните анатомични структури в сравнение с Osborne. И при двата достъпа n. ischiadicus трябва да бъде идентифициран и защитен.
-
-Достъпът по Желев (българска школа) комбинира заден кожен разрез с форма на обратен въпросителен знак — горната му част започва зад spina iliaca anterior superior, извива дъговидно надолу и назад по средата на разстоянието между трохантера и хълбочния гребен, заобикаля широко задния ръб на трохантера и продължава по страничната повърхност на бедрото. След прерязване на инсерцията на m. gluteus maximus и повдигането му медиално и нагоре се излагат задният ръб на m. gluteus medius, външните ротатори и n. ischiadicus; след прерязване на ротаторите и екартиране на m. gluteus medius напред се получава широко разкритие на ставата заедно със задната колона на ацетабулума и седалищния нерв — особено ценен достъп при едновременна работа върху задна колона и тазобедрена става (фрактури-луксации с ангажиране на задната колона).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>При разделянето на m. gluteus maximus в задните достъпи (Langenbeck, Osborne, Moore) влакната се разделят тъпо в посока успоредна на хода им, а не се срязват напречно — клонове на a. glutea inferior пресичат мускула напречно от медиално към латерално и напречното им разсичане води до значително кървене, което не се контролира лесно.</p>
+<aside class="callout callout-historical">
+  <span class="callout-label">Класическа линия — преден достъп до тазобедрена става</span>
+  <p>Анатомичният интервал между m. sartorius и m. tensor fasciae latae е документиран в немската ортопедична литература за повече от век и половина. Линията на еволюция:</p>
+  <ul>
+    <li><strong>Hueter 1880</strong> — първа систематична публикация в <a href="https://archive.org/details/archivfrklinisc11unkngoog" target="_blank" rel="noopener noreferrer">Langenbeck-Archiv für klinische Chirurgie</a>; класическият анатомичен интервал.</li>
+    <li><strong>Hoffa 1890-те</strong> — кървавата репозиция при ВДТС и оперативната хирургия на тазобедрената става (<a href="https://archive.org/details/lehrbuchderortho00hoff" target="_blank" rel="noopener noreferrer">Lehrbuch 1905</a>).</li>
+    <li><strong>Ludloff 1908</strong> — медиалният достъп (Zentralblatt für Chirurgie, Jg. 35) — алтернатива за по-малките кърмачета.</li>
+    <li><strong>Lorenz 1900</strong> — безкръвната репозиция (<a href="https://archive.org/details/b21290441" target="_blank" rel="noopener noreferrer">монография 1895 г.</a> като патоанатомична основа).</li>
+    <li><strong>Smith-Petersen 1917</strong> — модерният преден достъп със запазване на тензора.</li>
+    <li><strong>Watson-Jones 1936 → Hardinge 1982 → Ganz 2001</strong> — еволюцията на латералните и трохантерно-флип достъпите със запазване на a. circumflexa femoris medialis.</li>
+  </ul>
 </aside>
 
-## Комбинирани достъпи — Marino-Zuco, Чаклин–Вреден, Kocher–Gibson, McFarland–Osborne
+</div>
+</details>
 
-Предно-страничният достъп по Marino-Zuco започва от spina iliaca anterior superior с посока към големия трохантер и продължава 10–15 cm по предно-външната повърхност на бедрото. Прониква се между m. tensor fasciae latae и m. sartorius, началната инсерция на тензора се отделя остеопластично, а в средната трета на мускула се преминава предпазливо за избягване на n. gluteus superior. Достъпът по Чаклин–Вреден (комбиниран предно-страничен с отсичане на големия трохантер) започва със средна трета на хълбочния гребен, върви по него до spina iliaca anterior superior, оттам надолу до нивото на трохантера, след което завива хоризонтално назад и пресича субтрохантерната област. Прониква се между m. tensor fasciae latae и m. sartorius, прерязва се началната част на тензора и се отлепва предната част на m. gluteus medius; трохантерът се остеотомира за широка експозиция. Вреден описва вариант без проксимална част на разреза по хълбочния гребен и без отлепване на мускулите от хълбочната кост — компромис между експозиция и щадящ характер на достъпа.
+<details>
+<summary>Предно-латерален достъп по Watson-Jones</summary>
+<div class="ts-body">
 
-Задно-страничният достъп по Kocher–Gibson започва 6–7 cm пред spina iliaca posterior superior, продължава напред и надолу върху предния ръб на m. gluteus maximus към предния ръб на трохантера и оттам дистално по оста на бедрото 15–17 cm. Tractus iliotibialis се разцепва надлъжно и след това крайните сухожилия на абдукторите се прерязват частично или остеотомично, или се дезинсерират външните ротатори в зависимост от предназначението на достъпа. Достъпът по McFarland–Osborne използва латерален разрез над трохантера с прерязване на инсерциите на mm. gluteus medius et minimus, прерязване на външните ротатори след прошиване с конци и експозиция на задната ставна капсула — особено показан при ендопротезиране в трудни случаи с предходно блокиране на ставата и при необходимост от освобождаване на трохантера за балансиране на абдукторна контрактура.
+Достъпът по Watson-Jones (R. Watson-Jones, 1936) използва интервала между m. gluteus medius (заден) и m. tensor fasciae latae (преден), с рефлексия на m. gluteus medius от предния аспект на trochanter major.
 
-## Медиален достъп по Ludloff
+**Показания.** Тотална артропластика на тазобедрената става, открита репозиция и вътрешна фиксация на избрани фрактури на проксималния фемур, хемиартропластика; модифицирана техника на Bauer (Röttinger 2004) служи като база за MIS-предно-латерален подход.
 
-Медиалният достъп по Ludloff (K. Ludloff, 1908) използва интервала между предната и вътрешната група мускули на бедрото при максимално отведено и флексирано бедро. Болният лежи по гръб с тибиалните туберкули вдигнати, кожният разрез е надлъжен по вътрешната повърхност на бедрото и започва около 2 cm дистално от tuberculum pubicum, продължавайки между m. gracilis и m. adductor longus. В дълбочина се прониква между m. adductor longus и m. pectineus (вариантно по Stevens — между m. adductor magnus и m. adductor brevis) и се достига ставната капсула в нейната медиална и долна част. Анатомичните особености изискват внимание към предните клонове на vasa et n. obturatorii, излизащи от foramen obturatum по горния ръб на m. adductor brevis. Достъпът на Ludloff остава основният приет начин за затворена редукция с открита тенотомия при дисплазия на тазобедрената става в малки деца (ВДТС, виж раздела за ВДТС) и за отстраняване на медиални свободни тела и тумори на медиалната ставна стена.
+**Позициониране и техника.** Пациентът е по гръб или странично. Разрезът е над trochanter major с проксимално и дистално удължение по желаната дължина. Fascia lata се разрязва. Развива се интервалът между m. gluteus medius и m. tensor fasciae latae. Предната порция на m. gluteus medius се частично отделя от трохантера (с последващо шиене при затваряне). Ставната капсула се отваря отпред.
 
-## Заден достъп (Southern, Moore, модификация по Kocher-Langenbeck)
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Дисфункция на абдукторите при частично отделяне на m. gluteus medius — прецизното шиене при затваряне е задължително.</li>
+    <li>Удължена проксимална дисекция → увреда на n. gluteus superior; ограничете проксималната дисекция до 5 cm от trochanter major.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Директен латерален достъп (по Hardinge)</summary>
+<div class="ts-body">
+
+Достъпът по Hardinge (K. Hardinge, 1982) разцепва m. gluteus medius по хода на влакната му, с предна рефлексия на предната порция (заедно с m. gluteus minimus) като ламбо с продължение в m. vastus lateralis. Достъпът осигурява добра предна експозиция на ставата при запазване на задната капсула и на задните структури — по-ниска честота на луксация в сравнение със задния достъп.
+
+**Показания.** Тотална артропластика на тазобедрената става, хемиартропластика, фиксация на фрактура на шийката, оперативно лечение на инфекция след артропластика.
+
+**Техника.** Пациентът е по гръб или странично. Надлъжен латерален разрез над трохантера, проксимално и дистално 7–10 cm. Fascia lata се отваря по линията на разреза. M. gluteus medius се разцепва по хода на влакната (само до 5 cm проксимално от трохантера, за да се предпази n. gluteus superior). Предната порция на m. gluteus medius (заедно с m. gluteus minimus) се рефлектира напред като единно ламбо, нерядко в непрекъснатост с m. vastus lateralis. Ставната капсула се отваря отпред.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>При директния латерален достъп по Hardinge никога не разцепвайте m. gluteus medius повече от 5 cm проксимално от trochanter major — отвъд това n. gluteus superior (между m. gluteus medius и m. gluteus minimus) се денервира и следва трайна слабост на абдукторите с походка на Тренделенбург.</li>
+    <li>Дори при правилна техника — преходна слабост на абдукторите в 4–20% от случаите; пациентите трябва да са предупредени за възможност за подобрена походка едва след 6–12 месеца постоперативно.</li>
+    <li>Болка в трохантерната зона и трайно накуцване са признати проблеми — Hardinge остава прецизен достъп, но с по-висока цена в абдукторния комфорт от MIS-подходите.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Задни достъпи — Moore, Kocher-Langenbeck, Osborne, Langenbeck, Желев</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/posterior-hip-approach.png" data-figure-alt="Заден достъп до тазобедрената става – глутеална анатомия" aria-label="Увеличи">
@@ -295,85 +581,113 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
   </figcaption>
 </figure>
 
+Задният достъп е стандартният работен достъп за тотална артропластика на тазобедрената става в много центрове и е стандарт при задната тазова и ацетабуларна хирургия (Kocher-Langenbeck, разгледан подробно в Тема Анатомия-7).
 
-Задният достъп е стандартният работен достъп за тотална артропластика на тазобедрената става в много центрове и е стандарт при задната тазова и ацетабуларна хирургия (вариантът по Kocher-Langenbeck, разгледан в Тема Анатомия-7).
+**Показания.** Тотална артропластика на тазобедрената става, хемиартропластика, открита репозиция на задни луксации, фиксация на фрактури на задната стена и задната колона на ацетабулума, изследване на n. ischiadicus.
 
+**Позициониране и техника.** Пациентът е странично със засегнатата страна нагоре, добре фиксиран в страничен държател. Извит разрез от SIPS, над trochanter major, с дистално удължение в проксималната бедрена област. Fascia lata и апоневрозата на m. gluteus maximus се отварят. M. gluteus maximus се разцепва тъпо по хода на влакната — клонове на a. glutea inferior пресичат мускула напречно от медиално към латерално и напречното им разсичане води до значително кървене, което не се контролира лесно. Идентифицират се залавянията на кратките външни ротатори (m. piriformis, близнаците, m. obturatorius internus, m. quadratus femoris) за trochanter major; n. ischiadicus се идентифицира под m. piriformis. Кратките външни ротатори се откъсват от трохантера и се рефлектират медиално, откривайки задната капсула. Капсулата се отваря и ставата се влиза.
 
-## Показания
+**Класически варианти.** Достъпът по Langenbeck е директен заден достъп през m. gluteus maximus без отсичане на трохантера и без отделяне на абдукторите — кожният разрез при флексирана 40° тазобедрена става е права линия от SIPS към върха на трохантера, завършваща 4–5 cm под основата. Достъпът по Osborne се различава по кожния разрез и нивото на разделяне на m. gluteus maximus: разрезът започва на 4–5 cm дистално и латерално от SIPS, продължава успоредно на мускулните влакна към горно-задния ъгъл на трохантера и след това завива дистално около 5 cm. Достъпът по Moore (южен заден достъп) започва на около 10 cm дистално от SIPS, върви успоредно на мускулните влакна към задния ръб на трохантера и слиза дистално 10–12 cm успоредно на бедрената кост; при прерязване на fascia lata се разцепва апоневрозата на m. gluteus maximus, преминаваща в tractus iliotibialis, а след това крайното сухожилие се отсича частично от tuberositas glutea — улеснява се ретракцията. Достъпът на Moore позволява по-широка експозиция на задния ръб на ацетабулума и на по-медиалните анатомични структури в сравнение с Osborne.
 
-Тотална артропластика на тазобедрената става, хемиартропластика, открита репозиция на задни луксации на тазобедрената става, фиксация на фрактури на задната стена и задната колона на ацетабулума, изследване на nervus ischiadicus.
+Достъпът по Желев <sup class="natflag">BG</sup> комбинира заден кожен разрез с форма на обратен въпросителен знак — горната му част започва зад SIAS, извива дъговидно надолу и назад по средата на разстоянието между трохантера и хълбочния гребен, заобикаля широко задния ръб на трохантера и продължава по страничната повърхност на бедрото. След прерязване на инсерцията на m. gluteus maximus и повдигането му медиално и нагоре се излагат задният ръб на m. gluteus medius, външните ротатори и n. ischiadicus; след прерязване на ротаторите и екартиране на m. gluteus medius напред се получава широко разкритие на ставата заедно със задната колона на ацетабулума и седалищния нерв — особено ценен достъп при едновременна работа върху задна колона и тазобедрена става (фрактури-луксации с ангажиране на задната колона).
 
-
-## Техника
-
-Пациентът е в странично положение с засегнатата страна нагоре. Извит разрез от областта на SIPS, над trochanter major, с дистално удължение в проксималната бедрена област. Fascia lata и апоневрозата на musculus gluteus maximus се отварят. Musculus gluteus maximus се разцепва по хода на влакната (с латерално отклонение, за да се избегне nervus glutealis inferior). Идентифицират се залавянията на кратките външни ротатори (musculus piriformis, близнаците, musculus obturator internus, musculus quadratus femoris) за trochanter major; nervus ischiadicus се идентифицира под musculus piriformis. Кратките външни ротатори се откъсват от трохантера и се рефлектират медиално, откривайки задната капсула. Капсулата се отваря и ставата се влиза.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>При задния достъп до тазобедрената става nervus ischiadicus трябва да бъде идентифициран под musculus piriformis преди откъсване на кратките външни ротатори; увреждане се среща при 1-3% от плановите тотални артропластики и по-често при репозиция на задни луксации. Прецизното шиене на капсулата и кратките ротатори при затваряне е задължително за намаляване на задните луксации от историческите 3-5%.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>При разделянето на m. gluteus maximus в задните достъпи влакната се разделят тъпо в посока успоредна на хода им, а не се срязват напречно — клонове на a. glutea inferior пресичат мускула напречно от медиално към латерално и напречното им разсичане води до значително кървене.</li>
+    <li>N. ischiadicus трябва да бъде идентифициран под m. piriformis преди откъсване на кратките външни ротатори; увреждане се среща при 1–3% от плановите тотални артропластики и по-често при репозиция на задни луксации.</li>
+    <li>Прецизното шиене на капсулата и кратките ротатори при затваряне е задължително за намаляване на задните луксации от историческите 3–5% до под 1% (Pellicci 1998).</li>
+    <li>Запазването на залавянето на m. obturatorius externus при дисекцията на капсулната рефлексия запазва дълбокия клон на ACFM — критично при ставосъхраняваща хирургия и при фрактурно лечение.</li>
+  </ul>
 </aside>
 
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>N. ischiadicus с „high" вариант на разделяне (тип II по Beaton-Anson, 10%) — общия перонеален клон преминава през m. piriformis и е уязвим при тенотомия на m. piriformis.</li>
+    <li>Задна луксация на тазобедрената ендопротеза — главното опасение след задния достъп; исторически 3–5%, намалени до под 1% със съвременна капсулна реконструкция и 36 mm глави.</li>
+    <li>Хетеротопична осификация — по-честа след заден достъп от другите; профилактика с НСПВС (индометацин) или еднократна лъчева терапия 7 Gy при високорискови пациенти.</li>
+  </ul>
+</aside>
 
-## Усложнения
+</div>
+</details>
 
-Увреждане на nervus ischiadicus (1-3% при планови процедури, по-висока честота при репозиция на задни луксации). Задна луксация на тазобедрената ендопротеза (главното опасение, исторически честоти 3-5%, намалени с прецизна пластика на меките тъкани и съвременно позициониране на имплантите). Хетеротопична осификация. Запазването на абдукторите (предимство на достъпа, musculus gluteus medius и musculus gluteus minimus не се нарушават).
+<details>
+<summary>Медиален достъп по Ludloff</summary>
+<div class="ts-body">
 
-## Трохантерна флип-остеотомия (по Ganz)
+Медиалният достъп по Ludloff (K. Ludloff, 1908) използва интервала между предната и вътрешната група мускули на бедрото при максимално отведено и флексирано бедро. Болният лежи по гръб с тибиалните туберкули вдигнати, кожният разрез е надлъжен по вътрешната повърхност на бедрото и започва около 2 cm дистално от tuberculum pubicum, продължавайки между m. gracilis и m. adductor longus. В дълбочина се прониква между m. adductor longus и m. pectineus (вариантно по Stevens — между m. adductor magnus и m. adductor brevis) и се достига ставната капсула в нейната медиална и долна част.
 
-Трохантерната флип-остеотомия по Ganz (Ganz, 2001) осигурява широк достъп до цялата бедрена глава и ацетабулума при запазване на arteria circumflexa femoris medialis и следователно на кръвоснабдяването на бедрената глава.
+Анатомичните особености изискват внимание към предните клонове на vasa et n. obturatorii, излизащи от foramen obturatum по горния ръб на m. adductor brevis. Достъпът на Ludloff остава основният приет начин за затворена редукция с открита тенотомия при дисплазия на тазобедрената става в малки деца (ВДТС у малки кърмачета под 6 м.) и за отстраняване на медиални свободни тела и тумори на медиалната ставна стена.
 
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Предният клон на n. obturatorius — между m. adductor longus и m. adductor brevis; увредата дава хипестезия по медиалното бедро и слабост на адукторите.</li>
+    <li>A. circumflexa femoris medialis минава между m. pectineus и m. iliopsoas — внимание при дълбока дисекция.</li>
+    <li>Достъпът е подходящ при малки кърмачета (под 6 м.); при по-големи деца е заменен от Hueter/Smith-Petersen за по-добра експозиция на ацетабулума.</li>
+  </ul>
+</aside>
 
-## Техника
+</div>
+</details>
 
-Пациентът е в странично положение. Задният разрез е подобен на достъпа по Kocher- Langenbeck. Trochanter major се остеотомира (типично стъпаловиден разрез) и се рефлектира напред заедно с прикрепените musculus gluteus medius и musculus gluteus minimus. Капсулната рефлексия, съдържаща arteria circumflexa femoris medialis, се запазва чрез поддържане на залавянето на musculus obturator externus. Ставната капсула се отваря (типично Z-образно или Н-образно) и бедрената глава се дислоцира напред от ацетабулума.
+<details>
+<summary>Трохантерна флип-остеотомия (по Ganz)</summary>
+<div class="ts-body">
 
+Трохантерната флип-остеотомия по Ganz (R. Ganz et al., 2001) осигурява широк достъп до цялата бедрена глава и ацетабулума при запазване на arteria circumflexa femoris medialis и следователно на кръвоснабдяването на бедрената глава — революционно решение, което преоткрива ставосъхраняващата хирургия на тазобедрената става.
 
-## Показания
+**Показания.** Фиксация на фрактури на бедрената глава (Pipkin), хирургия при фемороацетабуларен импинджмънт (FAI), лечение на остеохондрит дисеканс на бедрената глава, корекция на остатъчна деформация след болест на Perthes, резекция на тумори на бедрената глава, процедури с хирургична луксация на тазобедрената става.
 
-Фиксация на фрактури на бедрената глава, хирургия при фемороацетабуларен импинджмънт (FAI), лечение на остеохондрит дисеканс на бедрената глава, корекция на остатъчна деформация след болест на Perthes, резекция на тумори на бедрената глава, процедури с хирургична луксация на тазобедрената става.
+**Техника.** Пациентът е странично. Задният разрез е подобен на достъпа по Kocher-Langenbeck. Trochanter major се остеотомира (типично стъпаловиден разрез с дебелина 1,5 cm, надлъжна остеотомия с осцилаторен трион), запазвайки залавянето на m. gluteus medius, m. gluteus minimus и m. vastus lateralis на трохантерния фрагмент. Трохантерният фрагмент се рефлектира напред като единен костномускулен блок. Капсулната рефлексия, съдържаща дълбокия клон на ACFM, се запазва чрез поддържане на залавянето на m. obturatorius externus — критичен анатомичен ключ. Ставната капсула се отваря Z-образно или Н-образно и бедрената глава се дислоцира напред от ацетабулума. След процедурата трохантерът се реинсерира с 2–3 6,5 mm спонгиозни винта в позицията си.
 
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Запазването на залавянето на m. obturatorius externus е единственото анатомично гаранция за непрекъснатост на дълбокия клон на ACFM и за избягване на AVN — никога не се дезинсерира при флипа по Ganz.</li>
+    <li>Трохантерната остеотомия трябва да е перпендикулярна на латералната повърхност и стъпаловидна за стабилност при реинсерция — нестабилната остеотомия води до псевдоартроза в 1–5%.</li>
+    <li>Дезинсерцията на m. obturatorius externus при опит за по-широка експозиция е катастрофален технически грях — води до AVN на главата.</li>
+  </ul>
+</aside>
 
-## Усложнения
+</div>
+</details>
 
-Псевдоартроза на остеотомия на trochanter major (1-5%), хетеротопична осификация, слабост на абдукторите.
+<details>
+<summary>Странични достъпи — Olier, Ombrédanne, Colonna, McFarland-Osborne</summary>
+<div class="ts-body">
 
-## Тенотомии и тенокапсулотомии около тазобедрената става
+Преди да се утвърдят съвременните мускулно-щадящи интервали, ортопедията използва широки странични достъпи с отсичане на trochanter major за широка циркумферентна експозиция.
 
-Класическата българска и руска школа описва обширен набор от меки операции — бурсектомии, тенотомии, миотомии, апоневротомии и удължавания — които сами по себе си или като подготвителна стъпка към реконструкция остават полезни в съвременната практика, особено при детска церебрална парализа, при кокс-нервус (snapping hip) и при подготовка за артропластика при ригидна контрактура.
+**Достъпът по Olier.** U-образна форма около върха на trochanter major: m. gluteus maximus се екартира назад, m. tensor fasciae latae напред, и под малкия и средния седалищен мускул се прокарва тъп извит инструмент, под който трохантерът се остеотомира с длето. Външните ротатори остават прикрепени към фемура или се прерязват при необходимост; костномускулното ламбо се отмята проксимално и се излага капсулата. При възстановяване трохантерът се фиксира с винт или тел. При деца, при които трохантерът е в активен растеж, крайните сухожилия на абдукторите се прерязват успоредно на върха и се реинсерират при затваряне.
 
-Бурсектомиите и дренажите на бурси около ТБС се извършват при инфектиране (банално или специфично) или при хронично възпаление с калцификати, резистентно на консервативно лечение. Bursa intermuscularis mm. gluteorum е най-достъпна при заден достъп; bursa iliopectinea (между m. iliopsoas и eminentia iliopectinea) се отваря след отделяне на началната част на m. sartorius и медиална ретракция на бедрения съдово-нервен сноп, експозиция на сухожилието на m. iliopsoas с външна ротация и хиперекстензия на бедрото. Подкожна тенотомия на повърхностните флексори (m. sartorius и m. tensor fasciae latae) се прави с тенотом близо до spina iliaca anterior superior при изолирана флексионна контрактура; крайникът се имобилизира в екстензия.
+**McFarland-Osborne.** Модификация — трохантерът се прерязва интракапсуларно с трион на Gigli след предно-задна артротомия — техниката вдига цялата горна капсула заедно с костномускулното ламбо, включващо и късите ротатори.
 
-Тенотомията на аддукторите (m. adductor longus, m. adductor brevis, частично m. adductor magnus, m. gracilis) се прилага при аддукторна контрактура от спазъм или фиксирана контрактура (детска церебрална парализа, фиксирана аддукция при коксартроза). Подкожната техника използва малък напречен разрез близо до залавянето на m. adductor longus за os pubis; откритата техника прави надлъжен разрез 10 cm по сухожилието с прерязване на мускулите близо до залавянето им. Често се добавя обтураторна неврэктомия (на предния клон на n. obturatorius между m. adductor longus и m. adductor brevis) при спастична контрактура от ДЦП — техника, описана в дисталния си вариант от Stoffel.
+**Достъпът по Ombrédanne.** Дъговиден разрез между m. tensor fasciae latae и m. gluteus medius със стъпаловидна остеотомия на trochanter major и отмятане на тривиалното костномускулно ламбо нагоре. Осигурява широк достъп до тазобедрената става и проксималната трета на бедрената кост — особено подходящ при ВДТС с висока изкълчена глава, при туморна резекция на проксималния фемур и при тежки ставни деструкции.
 
-Тенотомията на m. iliopsoas по Beck при контрактура на флексорите (най-често при ДЦП) използва преден разрез тип Hueter с леко медиален завой дистално; прерязват се началните инсерции на m. tensor fasciae latae, m. sartorius и m. rectus femoris, открива се сухожилието на m. iliopsoas и се прерязва с крив инструмент близо до trochanter minor. Отделеното сухожилие се повдига проксимално и се пришива по предно-външната част на ставната капсула за частично запазване на функцията.
+**Достъпът по Colonna.** Обратно С-образен разрез с конвекситет напред, започващ около 3 cm зад SIAS и слизащ дъговидно надолу до 12 cm под трохантера, последван от дезинсерция на крайните сухожилия на абдукторите. Достъпът е исторически свързан с описаната от Colonna капсулопластика при високи изкълчвания.
 
-Миотомията на вътрешните ротатори по Durham при контрактура на вътрешните ротатори (предните части на mm. gluteus medius et minimus и m. tensor fasciae latae, най-често при ДЦП) използва кос кожен разрез над горно-предната част на трохантера; прерязва се напречно fascia lata и сухожилното продължение на тензора при външноротаторно положение на крайника, след което се прерязват предните инсерции на двата седалищни мускула. При персистираща контрактура може допълнително да се дезинсерира m. iliopsoas от trochanter minor и да се отвори предната ставна капсула. Ако spina iliaca anterior superior проминира и пречи на затварянето, част от хълбочното крило се резецира (по Campbell, 1980).
+</div>
+</details>
 
-## Метод на Voss — създаване на "висяща" тазобедрена става
+<details>
+<summary>Комбинирани достъпи — Marino-Zuco, Чаклин-Вреден, Kocher-Gibson</summary>
+<div class="ts-body">
 
-Методът на Voss (висяща тазобедрена става, decompressive arthroplasty) представлява многоетапно меко освобождаване около ставата при пациенти с напреднала есенциална или вторична коксартроза, при които пълно ставно протезиране е противопоказано (тежко общо състояние, локални противопоказания) и за които артродезата е неподходяща (нужда от подвижност). Изисквания: запазена флексия над 70°, умерено намалена носеща повърхност и относително конгруентни ставни повърхности. Едновременно се коригират наличните контрактури, освен ако те се дължат на костна неконгруентност. Класическата техника включва: дезинсерция на аддукторите (открита или подкожна тенотомия); дезинсерция на абдукторите и външните ротатори чрез задно-страничен разрез от върха на трохантера дистално 10 cm; прерязване на ставната глава на m. rectus femoris; при наличие на аддукторна контрактура — допълнителна дезинсерция на m. iliopsoas. Никога не се прерязва m. gluteus maximus — самостоятелното му прерязване води до значителна нестабилност, а екстензионна контрактура при коксартроза практически не се наблюдава. Модифицираната техника на Brand добавя селективна задна капсулотомия само при запазена конгруентност между главата и ацетабулума. Резултатите показват рядко срастване, но повечето стави стават безболезнени и стабилни с малка флексионно-екстензионна подвижност — т. нар. фиброзна анкилоза.
+Предно-страничният достъп по Marino-Zuco започва от SIAS с посока към trochanter major и продължава 10–15 cm по предно-външната повърхност на бедрото. Прониква се между m. tensor fasciae latae и m. sartorius, началната инсерция на тензора се отделя остеопластично, а в средната трета на мускула се преминава предпазливо за избягване на n. gluteus superior.
 
-## Мускулни транспозиции при вяла парализа
+Достъпът по Чаклин-Вреден <sup class="natflag">RU</sup> (комбиниран предно-страничен с отсичане на trochanter major) започва със средна трета на хълбочния гребен, върви по него до SIAS, оттам надолу до нивото на трохантера, след което завива хоризонтално назад и пресича субтрохантерната област. Прониква се между m. tensor fasciae latae и m. sartorius, прерязва се началната част на тензора и се отлепва предната част на m. gluteus medius; трохантерът се остеотомира за широка експозиция. Вреден описва вариант без проксимална част на разреза по хълбочния гребен и без отлепване на мускулите от хълбочната кост — компромис между експозиция и щадящ характер на достъпа.
 
-Мускулните транспозиции около тазобедрената става намират място предимно при последствия от прекаран полиомиелит. Основното изискване е липса на ставна контрактура; мускулът трябва да бъде поставен в най-кратък функционален път и да има достатъчна сила.
+Задно-страничният достъп по Kocher-Gibson започва 6–7 cm пред SIPS, продължава напред и надолу върху предния ръб на m. gluteus maximus към предния ръб на трохантера и оттам дистално по оста на бедрото 15–17 cm. Tractus iliotibialis се разцепва надлъжно и след това крайните сухожилия на абдукторите се прерязват частично или остеотомично, или се дезинсерират външните ротатори в зависимост от предназначението на достъпа.
 
-При парализа на флексорите се прилага транспозицията на m. obliquus abdominis externus по Sauter — езикообразно мускулно-апоневротично ламбо с основа към предната аксиларна линия се отделя от външния кос коремен мускул и през подкожен тунел се пришива към сухожилието на m. iliopsoas в умерено напрежение и около 50° флексия в бедрото. Имобилизация — поясно-крачолен гипс при 50° флексия за 4 седмици.
+</div>
+</details>
 
-При парализа на m. gluteus maximus (екстензорите): техника на Ober — m. erector spinae се мобилизира паравертебрално и с двойна лента от fascia lata се прикрепя към големия трохантер през подкожен тунел; модификация на Lange — двойна fascia lata лента се пришива към дисталната част на m. erector spinae и се фиксира към трохантера през костен тунел. Техника на Spira — част от флексорите на коляното (биглавия и полусухожилния мускул) се превръщат от двуставни в едноставни и се пришиват към m. gluteus maximus.
-
-При парализа на абдукторите (mm. gluteus medius et minimus) — най-нерешеният проблем, защото няма мускул, който самостоятелно да замести напълно седалищните абдуктори, поради което много описани техники практически не дават добри функционални резултати. Техниката на E. Lange дезинсерира m. vastus lateralis от основата на големия трохантер и две ленти fascia lata се прекарват през ветрилообразни подкожни тунели към четири костни канала в средната трета на crista iliaca, с което се замества частично функцията на абдукторите; имобилизация в максимална абдукция за 6 седмици. Техниката на Thomas–Thompson–Straub транспонира m. obliquus externus за абдукция. Техниката на Berthon използва частично m. gluteus maximus заедно с m. tensor fasciae latae. Техниката на Холевич за транспозиция на m. tensor fasciae latae на съдово-нервно краче запазва васкуларизацията и инервацията на мускула чрез внимателно отделяне от околните тъкани и преместване в жлеб на crista iliaca. Класическата транспозиция на m. erector spinae по Ober–Barr използва двете трети от мускула, освободен от залавните си места за прешлените и хълбочната кост, със запазено кръвоснабдяване и инервация — фасциална лента се прекарва под fascia iliaca и се фиксира към трохантера. Чаклин модифицира Ober с по-малък заден кожен разрез и частична мобилизация на m. tensor fasciae latae заедно с лента от tractus iliotibialis. Техниката на Mustard за транспозиция на m. iliopsoas за активна абдукция и техниката на Sharrard за транспозиция на m. iliopsoas през crista iliaca към задно-външната повърхност на трохантера осигуряват биомеханично издържано заместване на абдукторите при ДЦП и полиомиелит — особено приложими при паралитична луксация в комбинация с варизираща остеотомия.
-
-При паралитичен кос таз (косо положение на таза от едностранна пелвитрохантерна слабост) лавсанодезата по Холевич–Джеров–Владимиров използва лавсанова лента, прокарана през два канала в crista iliaca и през отвор в долната част на големия трохантер, с кръстосано преплитане през m. gluteus maximus — постига 14–16 kg натиск при стандартна затягане и не изисква дълга гипсова имобилизация. Аналогична лавсанодеза при парализа на бедрените екстензори по Владимиров–Холевич преминава паравертебрално под m. erector spinae и през костен канал в долната част на трохантера с кръстосване през m. gluteus maximus. Лавсанодезата при кос таз използва ивици на лавсан между реброто и крилото на хълбочната кост на здравата страна.
-
-## Прескачаща тазобедрена става (snapping hip)
-
-Прескачането на мускулно-сухожилните елементи върху големия трохантер (coxa saltans externus) или вътре в ингвиналния канал (coxa saltans internus от m. iliopsoas над eminentia iliopectinea) причинява болка и функционални смущения. Оперативната намеса при външен тип използва дъговиден надлъжен разрез тип Watson-Jones; стъпаловидно се изрязват фиброзни уплътнения по задния ръб на m. gluteus maximus или предния ръб на тензорната фасция, разцепва се напречно надебелената задна част на tractus iliotibialis около 10 cm под трохантера и се формира фасциално Z-ламбо или дубликатура, обшита върху себе си. При по-широк горен ръб на трохантера се резецира част от костта. Постоперативно се препоръчва ранно активиране без имобилизация.
-
-## Остеотомии в проксималната част на бедрената кост
-
-Класификацията на проксималните бедрени остеотомии следва типа на корекцията (варизиращи, валгизиращи, деротиращи, флексионни, дефлексионни, удължаващи/скъсяващи, тридименсионални), нивото (интертрохантерни, субтрохантерни, на нивото на шийката), вида на остеосинтезния способ (без вътрешна фиксация и гипс, с пирон-плака, с динамичен компресивен винт, с компресивна кама по Холевич) и нозологичната единица. Съвременният стандарт е интертрохантерна остеотомия със стабилна остеосинтеза, позволяваща ранно движение без външна имобилизация.
-
-## Варизираща интертрохантерна остеотомия
+<details>
+<summary>Остеотомии в проксималния фемур</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/pauwels-angles.png" data-figure-alt="Ъгъл на Pauwels и валгизираща/варизираща остеотомия" aria-label="Увеличи">
@@ -385,118 +699,77 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
   </figcaption>
 </figure>
 
+Класификацията на проксималните бедрени остеотомии следва типа на корекцията (варизиращи, валгизиращи, деротиращи, флексионни, дефлексионни, удължаващи/скъсяващи, тридименсионални), нивото (интертрохантерни, субтрохантерни, на нивото на шийката), вида на остеосинтезния способ (без вътрешна фиксация и гипс, с пирон-плака, с динамичен компресивен винт, с компресивна кама по Холевич) и нозологичната единица. Съвременният стандарт е интертрохантерна остеотомия със стабилна остеосинтеза, позволяваща ранно движение без външна имобилизация.
 
-Варизиращата интертрохантерна остеотомия е показана при вродена сублуксация на тазобедрената става в зряла възраст (профилактично за забавяне на коксартрозата), при coxa valga след болест на Перте с инконгруентност, при паралитична луксация за стабилизация и в детска възраст в комбинация с деротация при остатъчна антеверзия след лечение на ВДТС. Класическата техника на Pauwels изважда от дисталния фрагмент клин с медиална основа и латерален връх с ъгъл, равен на необходимата корекция, последван от адаптация на двете срезни повърхности — за сметка на скъсяване. Алтернативно, без изваждане на клин, дисталният фрагмент се медиализира и аддуцира, като медиалната част на проксималния фрагмент ляга в централната зона на дисталния — намалено скъсяване. Остеосинтезата с 90° АО Г-образна пирон-плака след поставяне на длето-водач (с инструменти за прецизно ориентиране в шийката) осигурява стабилност, която прави следоперативната гипсова имобилизация ненужна и разрешава ставане с помощни средства от 3-ия ден. Компресивната камера на Холевич–Владимиров (3 размера — широка, средна, тясна) използва нагаждащ Г-образен скоба-насочвач и компресивен щифт през канал в кортикалния слой на дисталния фрагмент — постига компресия между фрагментите без необходимост от ригидна плака.
+**Варизираща интертрохантерна остеотомия по Pauwels.** Показана при вродена сублуксация на ТБС в зряла възраст (профилактично за забавяне на коксартрозата), при coxa valga след болест на Perthes с инконгруентност, при паралитична луксация за стабилизация и в детска възраст в комбинация с деротация при остатъчна антеверзия след лечение на ВДТС. Класическата техника на Pauwels изважда от дисталния фрагмент клин с медиална основа и латерален връх с ъгъл, равен на необходимата корекция — за сметка на скъсяване. Алтернативно, без изваждане на клин, дисталният фрагмент се медиализира и аддуцира. Остеосинтезата с 90° АО Г-образна пирон-плака осигурява стабилност, която прави следоперативната гипсова имобилизация ненужна и разрешава ставане с помощни средства от 3-ия ден. Компресивната камера на Холевич-Владимиров <sup class="natflag">BG</sup> (3 размера) използва нагаждащ Г-образен скоба-насочвач и компресивен щифт.
 
-## Валгизираща интертрохантерна остеотомия
+**Валгизираща интертрохантерна остеотомия.** При coxa vara congenita (по Bauer) или придобита (неправилно зараснали фрактури, псевдоартрози на бедрената шийка, деформация след асептична некроза). При коксартроза намалява куцането от положителен симптом на Тренделенбург. При coxa vara congenita при 4–5-годишно дете обратната пирон-плака на Холевич <sup class="natflag">BG</sup> с предварително определен страничен тъп ъгъл (комплементарен на необходимата валгизация — 150° за 30° валгизация) дава стабилна синтеза без гипс.
 
-Валгизиращата интертрохантерна остеотомия е показана при coxa vara congenita (по Bauer и подобни) или придобита (неправилно зараснали фрактури, псевдоартрози на бедрената шийка, деформация след асептична некроза). При коксартроза техниката намалява куцането от положителен симптом на Trendelenburg и удължава геометрично крайника, като изискванията са активна флексия поне 60° и липса на ограничение в аддукцията. Техниката с АО Г-образна пирон-плака използва киршнерова игла-репер в трохантера и шийката, чийто ъгъл спрямо диафизата определя големината на валгизацията: необходимият ъгъл за валгизация се изважда от 120° (например за 40° валгизация — игла под 80° спрямо диафизата). При coxa vara congenita при 4–5-годишно дете обратната пирон-плака на Холевич с предварително определен страничен тъп ъгъл (комплементарен на необходимата валгизация — 150° за 30° валгизация) дава стабилна синтеза без гипс. Целта на корекцията е почти пълно хоризонтализиране на растежния хрущял, като ъгълът му с хоризонталата след операцията не трябва да надвишава 30°.
+**Деротативна остеотомия по Kirmisson и Putti.** При ексцесивна антеверзия (нерядко след лечение на ВДТС) с нарушено центриране в неутрално положение. Класическата техника поставя в проксималния фрагмент две дебели игли в сагитална равнина и след това в дисталния фрагмент още две игли, завъртяни вътрешно с толкова градуси, колкото е необходимата деротация. Съвременният стандарт при дете използва интрамедуларна синтеза с къс пирон по Кюнчер или Г-образна пирон-плака с компресивна кама на Холевич-Владимиров — без нужда от гипс.
 
-## Деротативна остеотомия
+**McMurray-остеотомия.** При псевдоартроза на бедрената шийка без AVN — съчетава медиализация и валгизация на дисталния фрагмент. Косият срез започва под основата на trochanter major и се насочва медиално и проксимално до основата на шийката; дисталният фрагмент се медиализира и абдуцира. Степента на валгизация зависи от наклона на псевдоартрозната междина — биомеханичен принцип на Pauwels (конверсия на режещи сили в компресивни).
 
-Деротативната интертрохантерна или субтрохантерна остеотомия е показана при ексцесивна антеверзия (нерядко след лечение на ВДТС) с нарушено центриране при неутрално положение. Корекцията се определя по последователни фасови рентгенографии при постепенно увеличаваща вътрешна ротация. Класическата техника на Kirmisson и нейната модификация по Putti поставя в проксималния фрагмент две дебели игли в сагитална равнина — на нивото на шийката и непосредствено над малкия трохантер — и след това в дисталния фрагмент още две игли, завъртяни вътрешно с толкова градуси, колкото е необходимата деротация. Тънък остеотом срязва костта в предварително перфорираната ос; деротацията се извършва до успоредно подреждане на иглите. Холевич описва аналогична техника, но се отказва от нея поради честото разхлабване на иглите в детската метафиза. Съвременният стандарт при дете използва интрамедуларна синтеза с къс пирон по Künscher или Г-образна пирон-плака с компресивна кама на Холевич–Владимиров — без нужда от гипс. Важно правило: деротацията не трябва да надвишава предшестващия размер на активна вътрешна ротация — задължително се запазват поне 10–15° активна вътрешна ротация, иначе вместо нормализиране на центража се получава външноротаторна контрактура.
+**Тридименсионална корекция по Imhäuser (модификация на Холевич-Джеров).** При адолесцентна епифизиолиза (SCFE) с разместване над 5/0 — корекция в три равнини (флексия/екстензия, деротация). При по-малки размествания (под 5/0) стабилизацията може да се извърши със сноп от 9–10 киршнерови игли, които създават относителна стабилност и ускоряват затварянето на растежната зона.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>При деротативна остеотомия за остатъчна антеверзия след ВДТС физиологично допустимият размер на деротация се определя интраоперативно, като се ротира без насилие тазобедрената става максимално навътре и измерената амплитуда се сравнява с предоперативно изчислената по рентген. Минимум 10–15° активна вътрешна ротация трябва да останат — превишаването води до фиксирана външноротаторна контрактура.</p>
+**Ротационна остеотомия по Sugioka.** Трансторакантерна ротационна остеотомия при ранен стадий на AVN — ротация на главата (антериорна или постериорна) така, че запазената жизнена част да поеме носещата зона на ацетабулума. Критично условие: запазване на ACFM (по аналогия с принципа на Ganz).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>При деротативна остеотомия за остатъчна антеверзия минимум 10–15° активна вътрешна ротация трябва да останат — превишаването води до фиксирана външноротаторна контрактура.</li>
+    <li>McMurray валгизация конвертира режещите сили на Pauwels III фрактура в компресивни — биомеханична основа за консолидация на псевдоартроза на шийката.</li>
+    <li>Компресивната камера на Холевич-Владимиров е стабилен заместител на класическата АО Г-плака с по-малка имплантна маса — особено полезна в детска възраст.</li>
+  </ul>
 </aside>
 
-## Флексионни и дефлексионни остеотомии
+</div>
+</details>
 
-Флексионните и дефлексионните остеотомии са показани при порочно положение на бедрото в сагиталната равнина (флексионна контрактура от ДЦП или артрогрипоза, или обратно — фиксирано хиперекстензионно положение). Корекцията е в сагитална равнина, остеосинтезата — с Г-образна АО пирон-плака с ъгъл 130° между рамената или с ъгъл 90°. При флексионна остеотомия пиронът на плаката се забива в трохантера така, че плаката да сключва с диафизата ъгъл, отворен напред и дистално, равен на необходимата корекция. При дефлексионна — ъгълът е отворен назад и дистално.
+<details>
+<summary>Артродеза на тазобедрената става</summary>
+<div class="ts-body">
 
-## Остеотомия по McMurray при псевдоартроза на бедрената шийка
+Артродезата е показана при тежки едностранни поражения с разрушаване на ставните повърхности и значително ограничена подвижност, при контрактури със силни болки и неуспех на други операции, и при стабилизиране на крайника след вяла парализа. Най-добри резултати при млади пациенти (под 30 г.) с добра подвижност на гръбначния стълб и здрави съседни стави. Над 60 г. — относителна контраиндикация поради втвърдяване на гръбначния стълб. Функционално положение: 25–30° флексия, 0° (или леко 5°) аддукция, 5–10° външна ротация.
 
-Остеотомията по McMurray (T. P. McMurray, 1939) съчетава медиализация и валгизация на дисталния фрагмент при псевдоартроза на бедрената шийка без аваскуларна некроза. Косият срез започва под основата на големия трохантер и се насочва медиално и проксимално до основата на шийката; дисталният фрагмент се медиализира на половината от диаметъра на диафизата и се абдуцира. Степента на валгизация зависи от наклона на псевдоартрозната междина спрямо хоризонталата — колкото по-отвесна, толкова по-голяма валгизация, с цел да се неутрализират режещите сили и да останат само силите на натиск (биомеханичен принцип на Pauwels). Остеосинтезата се прави с АО пирон-плака за ранно движение; в оригиналната техника на McMurray абдукцията на дисталния фрагмент се задържала с поясно-крачолен гипс, но под действието на m. iliopsoas проксималният фрагмент флектира с отворен назад ъгъл — обстоятелство, което днес налага винаги вътрешна фиксация.
+**Класификация.** Вътреставни (без метална фиксация, с некомпресивна, с компресивна); извънставни (илио-феморални, ишио-феморални); смесени; атипични и коригиращи.
 
-## Тридименсионална корекция по Imhäuser при coxa vara adolescentium
+**Закрита вътреставна артродеза по Вреден <sup class="natflag">RU</sup>.** Страничен разрез върху trochanter major; m. vastus lateralis се разцепва надлъжно; през трохантера, шийката и главата се вкарва водач (както при перкутанна остеосинтеза на счупване на шийката); с цилиндричен фрез се издълбава канал, преминаващ и през ацетабулума, в който се набива костен присадък от tibia.
 
-Адолесцентната епифизиолиза (slipped capital femoral epiphysis, SCFE; епифизиолистеза) при стабилна форма с разместване над 5/0 от диаметъра на бедрената шийка изисква корекция в три равнини — флексия, екстензия (за компенсиране на ретроверзията) и деротация. Корекцията по Imhäuser (модификация на Холевич–Джеров) използва коса остеотомия с трихемерна синтеза. При по-малки размествания (под 5/0) стабилизацията може да се извърши със сноп от 9–10 киршнерови игли, които създават относителна стабилност и ускоряват затварянето на растежната зона. След операцията — без гипс, крайникът в дунапренова шина в умерена абдукция и лека флексия; ставане след 10-ия ден без обременяване; обременяване след костна консолидация на 2-ия месец.
+**Открита вътреставна артродеза по Watson-Jones (с пирон).** Преден илио-феморален достъп с изкълчване на главата, отстраняване на ставния хрущял от главата и ацетабулума и репозиция; през страничен разрез над трохантера се вкарва водач за пирон тип Smith-Petersen така, че пиронът да премине през трохантера, шийката, главата и горната, по-дебела част на ацетабулума до 2–3 cm в тазовата кухина. Откритата артродеза по Charnley (т. нар. централно дислоцирана артродеза) вмъква главата в специално оформен отвор на ацетабуларното дъно с компресия по Holmgren.
 
-## Остеотомия по Sugioka — трансторакантерна ротационна остеотомия
+**Компресивна артродеза по Холевич <sup class="natflag">BG</sup>.** Специален инструментариум — пирони с различна дължина (15–22 cm), центриращ канала инструмент, борер 8 mm и натягач — за поставяне на два пирона: единият през трохантера, шийката и главата в os ilium, вторият по-проксимално, кръстосан с първия. Постигат се средно 14–16 kg компресия и стабилност, позволяваща ставане на 5–7-ия ден без гипс. Пироните се изваждат след 6–8 месеца.
 
-Трансторакантерната ротационна остеотомия по Sugioka (Y. Sugioka, 1972) е показана при ранен стадий на аваскуларна некроза на главата на бедрената кост, при който е запазена част от ставната повърхност извън некротичната зона. Принципът е ротация на главата (антериорна или постериорна) така, че запазената жизнена част да поеме носещата зона на ацетабулума, а некротичната зона да се ротира в неносещата зона. Достъпът е разширен заден или трансторакантерен флип; критично условие за успех е запазване на a. circumflexa femoris medialis — затова Sugioka запазва m. obturatorius externus и задната капсулна рефлексия по аналогия с принципа на Ganz. Корекцията се фиксира с винтове през трохантера и шийката. Резултатите варират значително в литературата — японската школа отчита добри дългосрочни резултати, докато западните серии са по-сдържани. Метод на избор при млад пациент с фокална некроза извън носещата зона при стадий I–II по Steinberg.
+**Компресивна артродеза по Müller.** Латерален достъп с дезинсерция на абдукторите и проникване между m. tensor fasciae latae и m. gluteus medius, обработка на шийката и главата и поставяне на специална пластина за компресивна синтеза — ставане с патерици от 5-ия ден и пълно натоварване след 3-ия месец.
 
-## Артродези на тазобедрената става
+**Компресивна артродеза с външен фиксатор по Илизаров <sup class="natflag">RU</sup>.** Двустранна костна тракция с обръчи — два дистални обръча на бедрото и два проксимални (единият със спици през хълбочната кост над ацетабулума, втория през crista iliaca под SIAS) — с шпилки за компресия — особено полезна при значителна костна загуба или активна инфекция.
 
-Артродезата на тазобедрената става е показана при тежки едностранни поражения с разрушаване на ставните повърхности и значително ограничена подвижност, при контрактури със силни болки и неуспех на други операции, и при стабилизиране на крайника след вяла парализа на мускулите около ТБС. Най-добри резултати се постигат при млади пациенти (под 30 г.) с добра подвижност на гръбначния стълб и здрави съседни стави (колено, ТБС от другата страна, поясен отдел). При пациенти над 60 г. контраиндикациите от втвърдяването на гръбначния стълб и общото състояние правят артродезата неподходяща. Функционалното положение за артродеза е: 25–30° флексия, 0° (или леко 5°) аддукция, 5–10° външна ротация.
+**Извънставни илио-трохантерни артродези.** Albee (костен присадък 8 cm от външната стена на хълбочната кост, забит във fossa trochanterica); Hass (предните 2/3 от трохантера с 5 cm от кортикалния слой на бедрената кост, набити в „прозорец" на os ilium); Hibbs (аналогична на Hass, но с обръщане на трохантера на 180°); Ghormley (масивен костен блок от цялата дебелина на хълбочната кост, в жлеб от върха на трохантера по горната повърхност на шийката, главата и ръба на ацетабулума); Wilson (върха на трохантера сагитално разцепен, външна ламина на предната трета на хълбочната кост обърната надолу); Badgley (широка изрезка от предната трета на хълбочния гребен заедно с цялата дебелина на костта, вмъкната в дълбок жлеб). Закритата тунелна извънставна артродеза по Бойчев <sup class="natflag">BG</sup> е разработена специално за туберкулозен коксит в стадий на затихване: със специален инструментариум се прави канал през хълбочната кост, шийката и трохантера, в който се поставя присадък без отваряне на ставата.
 
-Класификацията на артродезите следва: I. Вътреставни (без метална фиксация; с некомпресивна фиксация; с компресивна фиксация); II. Извънставни (илио-феморални; ишио-феморални); III. Смесени; IV. Атипични и коригиращи артродези.
+**Ишио-феморални артродези.** Trumble (заден достъп с откачване на крайното сухожилие на m. gluteus maximus и костен трансплантат между tuber ischii и фемура); Kirkaldy-Willis (предно-долна задна синтеза); Brittain (комбинация на извънставна артродеза с висока подпираща остеотомия).
 
-## Закрита вътреставна артродеза по Вреден
-
-Закритата вътреставна артродеза по Р. Р. Вреден достига ставата чрез страничен разрез върху големия трохантер; m. vastus lateralis се разцепва надлъжно и през трохантера, шийката и главата се вкарва водач (както при перкутанна остеосинтеза на счупване на шийката); с цилиндричен фрез се издълбава канал, преминаващ и през ацетабулума, в който се набива костен присадък от tibia. Имобилизация в поясно-крачолен гипс за 3 месеца, последвана от контрол и продължена имобилизация до костно срастване. Аналогична затворена вътреставна артродеза по Холевич използва преден достъп тип Smith-Petersen с отваряне на капсулата, частично декортициране на главата и ацетабулума и затвърждаване с компресивен винт; показана при хемианкилоза или забавено срастване след друг тип артродеза с правилно функционално положение на крайника.
-
-## Открита вътреставна артродеза по Watson-Jones (с пирон)
-
-Артродезата по Watson-Jones (1937) използва преден илио-феморален достъп с изкълчване на главата, отстраняване на ставния хрущял от главата и ацетабулума и репозиция; през страничен разрез над трохантера се вкарва водач за пирон тип Smith-Petersen така, че пиронът да премине през трохантера, шийката, главата и горната, по-дебела част на ацетабулума до 2–3 cm в тазовата кухина. Допълнително може да се поставят автоостеотрансплантати по предно-горната повърхност на шийката. Имобилизация в поясно-крачолен гипс 3–4 месеца. Откритата артродеза по Charnley (т. нар. централно дислоцирана артродеза) вмъква главата в специално оформен отвор на ацетабуларното дъно с компресия по Holmgren — въведена 1895 г. — със специален винт с гайки от двете страни на компресията; голяма част от пациентите развиват фиброзна анкилоза, която е стабилна и безболезнена.
-
-## Компресивна артродеза по Холевич, по Müller и по Илизаров
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/ilizarov-portrait.jpg" data-figure-alt="Гавриил Илизаров" aria-label="Увеличи">
-    <img src="/img/anatomy-8/ilizarov-portrait.jpg" alt="Гавриил Илизаров" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Гавриил Абрамович Илизаров (1921–1992), фотография 1991. Хирург от Курган (РСФСР), изобретател на пръстеновидния външен фиксатор и принципа на дистракционна остеогенеза, който революционизира лечението на костна загуба, удължаване на крайниците, псевдоартроза и инфекция. В българската школа апаратът намира приложение в компресивната тазобедрена артродеза, в Bogoraz-Iliev сегментна тазобедрена дистракция и при тибиална/феморална реконструкция.</span>
-    <span class="md-figure-attribution"> · Prof. B.-D. Partecke, <a href="https://commons.wikimedia.org/wiki/File:G.A._Ilisarow_(1991).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
-  </figcaption>
-</figure>
-
-Компресивната артродеза по Холевич (българска школа) използва специален инструментариум — пирони с различна дължина (15–22 cm), центриращ канала инструмент, борер 8 mm и натягач — за поставяне на два пирона: единият през трохантера, шийката и главата в os ilium, вторият по-проксимално, кръстосан с първия — постигат се средно 14–16 kg компресия и стабилност, позволяваща ставане на 5–7-ия ден без гипс. Пироните се изваждат след 6–8 месеца. Компресивната артродеза по Müller (M. E. Müller) използва латерален достъп с дезинсерция на абдукторите и проникване между m. tensor fasciae latae и m. gluteus medius, обработка на шийката и главата и поставяне на специална пластина за компресивна синтеза — позволява ставане с патерици от 5-ия ден и пълно натоварване след 3-ия месец. Компресивната артродеза с външен фиксатор по Илизаров използва двустранна костна тракция с обръчи (два дистални обръча на бедрото и два проксимални — единият със спици през хълбочната кост над ацетабулума, втория през crista iliaca под spina iliaca anterior superior) с шпилки за компресия — особено полезна при значителна костна загуба или активна инфекция, при които вътрешна метална фиксация е противопоказана.
-
-## Извънставни илио-трохантерни и ишио-феморални артродези
-
-Извънставните артродези осигуряват спойка между хълбочната кост и големия трохантер или седалищната туберозитет, без отваряне на ставата — особено полезни при туберкулозен коксит, когато инфекцията контраиндицира вътрешна метална фиксация и отваряне на ставата.
-
-Илио-трохантерната артродеза по Albee изрязва от външната стена на хълбочната кост костен присадък около 8 cm, който се подхлъзва надолу и се забива във fossa trochanterica. По Manfrini и Schlomsky се поставя широк присадък в жлеб на върха на трохантера. Михелсман модифицира с обръщане на отрязания връх на трохантера на 180° и фиксация с винт. Артродезата по Hass отделя предните 2/3 от трохантера заедно с 5 cm от кортикалния слой на бедрената кост, цепва капсулата и набива отделената част в "прозорец" на os ilium, без да закача мускулните и периосталните прикрепвания. Артродезата по Hibbs използва аналогична техника, но с обръщане на трохантера на 180°. Артродезата по Ghormley оформя широк дълбок жлеб от върха на трохантера по горната повърхност на шийката, главата и ръба на ацетабулума, в който се набива масивен костен блок от цялата дебелина на хълбочната кост. Артродезата по John Wilson цепва върха на трохантера сагитално, отделя външната ламина на предната трета на хълбочната кост и я обръща надолу над горната повърхност на ставата, вмъквайки я в разцепената горна част на трохантера. Илио-феморалната артродеза по Badgley използва широка изрезка от предната трета на хълбочния гребен заедно с цялата дебелина на костта, която се вмъква в дълбок жлеб, обхващащ главата, шийката и трохантерната област — особено стабилна биомеханично.
-
-Закритата тунелна извънставна артродеза по Бойчев е разработена специално за туберкулозен коксит в стадий на затихване: със специален инструментариум се прави канал през хълбочната кост, шийката и трохантера, в който се поставя присадък без отваряне на ставата — техниката минимизира риска от реактивиране на специфичния процес.
-
-Ишио-феморалните артродези по Trumble (заден достъп с откачване на крайното сухожилие на m. gluteus maximus заедно с част от tuberositas glutea, костен трансплантат между tuber ischii и фемура), Kirkaldy–Willis (предно-долна задна синтеза с трансплантат и винтове) и Brittain (комбинация на извънставна артродеза с висока подпираща остеотомия) са биомеханично издържани, но изискват внимание поради близостта на n. ischiadicus.
-
-## Смесени и атипични артродези
-
-Смесената артродеза по Чоканов комбинира вътреставна спойка с илио-феморално примостяване в два варианта — вертикално-присадъчна (трансплантат с триъгълна форма) и хоризонтално-присадъчна (правоъгълен трансплантат от crista iliaca, заклинен в подготвен жлеб на трохантера и шийката). Смесената артродеза по Балчев използва остеотомия на главата и шийката с обработка на горната повърхност на главата, шийката и предно-задния жлеб на fossa trochanterica, в който се вмъкват вертикални костни пластинки от хълбочното крило с покритие от външна ламина. Смесената артродеза по Davis използва преден илио-феморален достъп с изрязване на голям костен трансплантат от предната половина на хълбочното крило, оставен прикрепен към m. tensor fasciae latae и предните части на mm. glutei medius et minimus — биологично активен мускулно-педикулиран присадък.
-
-Атипичната артродеза по Abbott–Fischer–Lucas е тристепенна процедура за тежки деструкции след инфекциозен коксит или след несрастване на счупване на шийката: I етап — корекция на деформитета с директна екстензия; II етап — артродеза в голяма абдукция чрез преден илио-феморален достъп с резекция на остатъка от шийката; III етап — деротираща интертрохантерна остеотомия в гнойно-възстановителна фаза. Атипичната артродеза по Weber при асимилация на главата и шийката (като при тежък ВДТС) валгизира трохантера в подготвена ямка на ацетабулума, фиксирана с крива пластина в os ilium, последвана от интертрохантерна остеотомия за алиниране на крайника. Артродезата с Кюнчеров пирон (доразработена в България от Карчинов със специален апарат за насочване) използва централен пирон през хълбочната и бедрената кост — особено приложима при асимилация на главата и шийката. Атипичната артродеза с гръбест автоостеотрансплантат по Владимиров използва глава на фибула за заместване на дефект между ацетабулума и проксималния край на бедрената кост при обширни резекции след тумор или инфекция — главата на fibula се набива в горната част на ацетабулума, дисталният край — в подготвен жлеб на бедрената кост.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>При артродеза функционалното положение трябва да е 25–30° флексия, 0–5° аддукция и 5–10° външна ротация. По-голяма флексия (>40°) води до лумбална хиперлордоза и преумора на поясния отдел; абдукция причинява "кратък" крайник и куцане; ротация над 15° (вътрешна или външна) ограничава ходенето с асиметрия. При възрастен пациент с втвърден гръбначен стълб артродезата дава неприемлива функция — относителна контраиндикация над 60 г. възраст.</p>
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Функционалното положение при артродеза: 25–30° флексия, 0–5° аддукция, 5–10° външна ротация. По-голяма флексия (>40°) → лумбална хиперлордоза; абдукция → „кратък" крайник; ротация >15° → асиметрия при ходене.</li>
+    <li>Над 60 г. възраст артродезата дава неприемлива функция поради втвърдяване на гръбначния стълб — относителна контраиндикация.</li>
+    <li>Затворената тунелна по Бойчев е техника на избор при туберкулозен коксит в затихване, защото минимизира риска от реактивиране.</li>
+  </ul>
 </aside>
 
-## Артропластика с биологичен интерпониум — историческа основа
+</div>
+</details>
 
-Класическата артропластика на ТБС с биологичен интерпониум има столетна история (Aalbee, 1885) и в първата половина на XX век е била стандартен метод преди ендопротезите. Murphy и Lexer интерпонират педикулиран фасцийно-мастен присадък между ставните повърхности; Hackenbrock подчертава решаващото значение на следоперативната дистракция. Балчев модифицира техниката с фасциен присадък от tractus iliotibialis с размери 15×8 cm, обвит с влажен компрес. След проникване между тензора и абдукторите и експозиция на тазобедрената става се прокарва трион на Gigli под трохантера и се остеотомира трохантерният масив; ставната повърхност на главата се покрива с фасциен присадък, фиксиран с конци. Решаващо за резултата е поддържането на около 1 cm дистракция между ацетабулума и покритата с фасция глава в продължение на 20–30 дни — най-ефективно с обръч от апарата на Илизаров, фиксиран към поясно-крачолен гипс. В съвременната практика техниката е почти изоставена, заменена от ендопротезирането.
-
-## Артропластика с витална чашка по Smith-Petersen
-
-Артропластиката с витална чашка (vitallium mould arthroplasty, Smith-Petersen, 1939) използва металната чашка от Vitallium, поставена върху обработената до сферичност бедрена глава, като интерпониум между главата и ацетабулума — с надежда за регенерация на хрущяла под чашката. Техниката е била основният метод за ставозамяна при коксартроза от 1940-те до края на 1950-те години, преди утвърждаването на пълното ендопротезиране. Резултатите включват висок процент на болка и ограничена подвижност в дългосрочен план, но техниката има историческо значение като предшественик на повърхностното ендопротезиране (hip resurfacing).
-
-## Еднополюсно ендопротезиране (хемиартропластика) по Moore и Thompson
-
-Еднополюсното ендопротезиране е въведено от F. A. Moore (1945) — модифицирано впоследствие от Thompson и други автори. Показанията днес са ограничени до: фрактури на бедрената шийка при пациенти над 75 г. с ограничена очаквана продължителност на живота; псевдоартрози или асептични некрози на бедрената глава с интактен ацетабулум; неуспех на остеосинтеза при възрастни пациенти с висок риск за повторна операция. Двата основни модела са: Moore-Austin (с дълго стъбло с фенестрации и яка) — за механична фиксация; и Thompson (с по-къс стъбло и яка) — обикновено циментирана. Достъпът най-често е заден тип Moore. Главата се избира по размер с измерване в ацетабулума; ориентация — 10–15° антеверзия (паралелно на сгънато под 90° коляно). При остеопоротична кост или твърде широк канал протезата се циментира — иначе се вклинява механично. Външните ротатори се пришиват обратно на мястото си. Ставане с две помощни средства от няколко дни, пълно натоварване — 3–4 месеца следоперативно.
-
-## Тотално ендопротезиране — Charnley, McKee–Farrar, Müller, Wagner, Ring, Sivash, Герчев
+<details>
+<summary>Артропластика и ендопротезиране</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/charnley-lathe.jpg" data-figure-alt="Стругът на Sir John Charnley" aria-label="Увеличи">
     <img src="/img/anatomy-8/charnley-lathe.jpg" alt="Стругът на Sir John Charnley" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Оригиналният струг на Sir John Charnley (≈1960), използван за ръчно изработване на ранните ацетабуларни чашки от полиоксиметилен (по-късно UHMWPE) за концепцията „нискотрение" (low-friction arthroplasty). Този инструмент бележи раждането на съвременния стандарт за тотално тазобедрено ендопротезиране и за биомеханичния принцип, върху който всички последвали системи (McKee-Farrar 1951, Müller 1968, Wagner 1978, Sivash 1958, Герчев BG) се изграждат.</span>
+    <span class="md-figure-caption">Оригиналният струг на Sir John Charnley (около 1960), използван за ръчно изработване на ранните ацетабуларни чашки от полиоксиметилен (по-късно UHMWPE) за концепцията „нискотрение" (low-friction arthroplasty). Този инструмент бележи раждането на съвременния стандарт за тотално тазобедрено ендопротезиране и за биомеханичния принцип, върху който всички последвали системи (McKee-Farrar 1951, Müller 1968, Wagner 1978, Sivash 1958, Герчев BG) се изграждат.</span>
     <span class="md-figure-attribution"> · Museumjack, <a href="https://commons.wikimedia.org/wiki/File:Lathe_used_by_Sir_John_Charnley_to_make_cups_for_hip_replacements.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
-  </figcaption>
-</figure>
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/hip-surrounding-structures.png" data-figure-alt="Структури около тазобедрената става" aria-label="Увеличи">
-    <img src="/img/anatomy-8/hip-surrounding-structures.png" alt="Структури около тазобедрената става" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Структури, заобикалящи дясната тазобедрена става (Gray): m. iliopsoas, бедрен съдов сноп и n. femoralis отпред; късите ротатори и n. ischiadicus отзад; abductors латерално. Тази архитектура определя анатомичните рискове на трите класически достъпа за тотално ендопротезиране — преден (n. cutaneus femoris lateralis), латерален (n. gluteus superior), заден (n. ischiadicus).</span>
-    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray344.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
@@ -505,95 +778,75 @@ Nervus glutealis superior: Преминава между musculus gluteus medius
     <img src="/img/anatomy-8/tha-zones.svg" alt="DeLee–Charnley и Gruen зони за оценка на ТБС-ендопротезата" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Зоните по DeLee и Charnley (ацетабуларна чашка — 3 зони) и по Gruen (бедрено стъбло — 7 зони) за стандартизирана рентгенографска оценка на разхлабване, остеолиза и тънка лустеcent линия около тоталната ТБС-ендопротеза — биомеханичното наследство на нискотрението на Charnley (1962).</span>
+    <span class="md-figure-caption">Зоните по DeLee и Charnley (ацетабуларна чашка — 3 зони) и по Gruen (бедрено стъбло — 7 зони) за стандартизирана рентгенографска оценка на разхлабване, остеолиза и тънка лустенценса линия около тоталната ТБС-ендопротеза — биомеханичното наследство на нискотрението на Charnley (1962).</span>
     <span class="md-figure-attribution"> · Mikael Häggström, <a href="https://commons.wikimedia.org/wiki/File:Hip_prosthesis_zones_by_DeLee_and_Charnley_system,_and_Gruen_system.svg" target="_blank" rel="noopener noreferrer">CC0</a></span>
   </figcaption>
 </figure>
 
+**Артропластика с биологичен интерпониум — историческа основа.** Aalbee 1885; Murphy и Lexer (педикулиран фасцийно-мастен присадък); Hackenbrock (значение на постоперативната дистракция); Балчев <sup class="natflag">BG</sup> (фасциен присадък от tractus iliotibialis 15×8 cm, обвит с влажен компрес; поддържане на 1 cm дистракция между ацетабулума и покритата с фасция глава в продължение на 20–30 дни с обръч от апарата на Илизаров). В съвременната практика техниката е почти изоставена, заменена от ендопротезирането.
 
-Първите опити за заместване и на ацетабулума, и на главата с ендопротеза са свързани с имената на Wiles (1936), McKee (1951), Sivash (1958) и Charnley (1960). Charnley въвежда фундаменталната концепция за нискотрение (low-friction arthroplasty): малка метална глава 22 mm срещу полиетиленова чашка с висока плътност, фиксирани с акрилен цимент. McKee–Farrar използва метално-метална артикулация (метална главичка срещу метална чашка с винтова фиксация в трите ацетабуларни кости — os pubis, os ischii, os ilium); техниката е изоставена в края на 1970-те поради асептично разхлабване и проблеми с металните йони. Müller въвежда самофиксиращата ацетабуларна чашка и стандартизира стандартите за ориентация (45° на чашката в наклон, 10–20° антеверзия). Ring разработва металната ацетабуларна капсула с прорези за костна интеграция (1970-те) — предшественик на безциментния стандарт. Wagner разработва коничното стъбло (Zweimüller-тип) и по-късно — повърхностното ендопротезиране (resurfacing). Сиваш (Москва) комбинира стъбло и ацетабулум в обща стандартна тазобедрена ендопротеза — широко използвана в Източния блок.
+**Vitallium-чашка по Smith-Petersen (1939).** Метална чашка от Vitallium върху обработената до сферичност бедрена глава, като интерпониум между главата и ацетабулума — историческо значение като предшественик на повърхностното ендопротезиране (hip resurfacing).
 
-В България комплексната ендопротеза на Герчев има специфични конструктивни особености: две взаимозаменяеми бедрени стъбла (за механична фиксация и за фиксация с цимент), главичка 32 mm, три размера дължина на шийката; два варианта на ацетабуларна протеза (за механична фиксация с титаниева спирално назъбена външна капсула и за циментирана с полиетиленова външна капсула); ставна чашка от полиетилен, която може да бъде заменена с малка операция (по изчисленията на Charnley за 0,1 mm годишно износване — след повече от 20 години експлоатация). Възможността за взаимна замяна на елементите между двата варианта позволява хибридна фиксация — циментиран фемур с безциментен ацетабулум и обратно — съобразно костното качество. Достъпът най-често е предно-външен или задно-външен (по Holevich) с остеопластично отсичане на трохантера. Активна аспирация 36–48 ч; сядане от 6–7-ия ден; ставане с патерици на 14-ия ден.
+**Хемиартропластика по Moore и Thompson.** Eднополюсно ендопротезиране (F. A. Moore, 1945). Moore-Austin (дълго стъбло с фенестрации и яка) — механична фиксация; Thompson (по-кратко стъбло с яка) — обикновено циментирана. Показания днес: фрактури на шийката при пациенти над 75 г. с ограничена очаквана продължителност на живота; псевдоартрози или AVN с интактен ацетабулум.
 
-При ендопротезиране при ВДТС с висока изкълчена глава у възрастни (резидуална луксация) Холевич описва модифицирана техника: проксималният фрагмент на фемура се депериостира от дистално към проксимално, m. iliopsoas се дезинсерира и репарира, главата и шийката се отстраняват; ацетабуларният свод (хипопластичен, триъгълен и в антеверзия) се издълбава до вътрешната ламела с малки римери, осигуряващи запазване на предната и задната стена; при плитък свод над него се фиксира с компресивни винтове част от моделираната бедрена глава като аугментация. Бедреният канал се разширява до кортикалния слой; правоъгълно стъбло (модификация на протезата на Сиваш) се вкарва и при невъзможност за репозиция бедрото се скъсява още малко. Антеверзията на стъблото съобразно ацетабуларната ориентация — обичайно по-малка от стандартните 10°.
+**Тотално ендопротезиране — историческа еволюция.** Wiles (1936) — първи опит за пълно заместване; McKee (1951) — метално-метална артикулация; Sivash (1958) — комбинирано стъбло и ацетабулум в обща стандартна тазобедрена ендопротеза, широко използвана в Източния блок; Charnley (1962) — фундаменталната концепция за нискотрение (low-friction arthroplasty): малка метална глава 22 mm срещу полиетиленова чашка с висока плътност, фиксирани с акрилен цимент; Müller — самофиксираща ацетабуларна чашка и стандарти за ориентация (45° наклон, 10–20° антеверзия); Ring — метална ацетабуларна капсула с прорези за костна интеграция; Wagner — конично стъбло (Zweimüller-тип) и по-късно повърхностно ендопротезиране (resurfacing, 1978).
 
-При широка резекция на проксималната част на бедрената кост по Андреев–Герчев–Цачев (за тумор или травматичен дефект до 15 cm под върха на трохантера) специално бедрено стъбло с конична проксимална част и набор от гривни с различен диаметър замества дефекта; периферната част е стандартно стъбло. Стандартната ацетабуларна капсула от ендопротезата "Етропал ДМП" се закрепва механично или с цимент. При по-обширни дефекти алтернативата е заместване с масивен костно-хрущялен алотрансплантат на проксималния фемур по Парк, с фиксация чрез intramedullary пирон тип Künscher и реинсерция на седалищните мускули, външните ротатори и m. iliopsoas към трохантерите на присадъка.
+**Българска комплексна ендопротеза на Герчев <sup class="natflag">BG</sup>.** Две взаимозаменяеми бедрени стъбла (за механична фиксация и за цимент), главичка 32 mm, три размера дължина на шийката; два варианта на ацетабуларна протеза (за механична фиксация с титаниева спирално назъбена външна капсула и за циментирана с полиетиленова външна капсула); ставна чашка от полиетилен, която може да бъде заменена с малка операция. Възможността за взаимна замяна позволява хибридна фиксация съобразно костното качество. Достъпът най-често е предно-външен или задно-външен (по Холевич) с остеопластично отсичане на трохантера.
 
-## Безцементно ендопротезиране по Wagner (без отстраняване на главичката)
+**Модификации на Холевич за ВДТС у възрастни <sup class="natflag">BG</sup>.** При висока изкълчена глава у възрастни: проксималният фрагмент на фемура се депериостира от дистално към проксимално; m. iliopsoas се дезинсерира и репарира; ацетабуларният свод (хипопластичен, триъгълен и в антеверзия) се издълбава до вътрешната ламела с малки римери; при плитък свод над него се фиксира с компресивни винтове част от моделираната бедрена глава като аугментация; правоъгълно стъбло (модификация на протезата на Сиваш) се вкарва.
 
-Wagner разработва (1978) ендопротезирането без отстраняване на бедрената главичка (повърхностно ендопротезиране, hip resurfacing) — техниката се състои в обработване на главичката до сферичност с конусен фрез и поставяне на метална чашка върху главата, артикулираща с полиетиленова или метална ацетабуларна чашка. Достъпът е заден или предно-външен с разрез или ексцизия на сухожилието на m. rectus femoris, флексия-абдукция-външна ротация на бедрото за луксация на главата напред и обработка на ацетабулума с разширител. Чашката на главата се циментира центрирано спрямо ацетабуларната. Показания: млад пациент с асептична некроза на главата без обширно ангажиране на шийката, ранна коксартроза при млад пациент с добро костно качество. Усложнение: фрактура на остатъка от шийката (нерядко в първата година следоперативно). Съвременният еквивалент на Wagner е концепцията Birmingham Hip Resurfacing (McMinn), от която засега в Европа се ограничено приложение поради проблеми с металните йони при метално-метална артикулация.
+**Широка резекция на проксималния фемур по Андреев-Герчев-Цачев <sup class="natflag">BG</sup>.** За тумор или травматичен дефект до 15 cm под върха на трохантера — специално бедрено стъбло с конична проксимална част и набор от гривни с различен диаметър замества дефекта. Стандартната ацетабуларна капсула от ендопротезата „Етропал ДМП" се закрепва механично или с цимент.
 
-## Реконструктивни методи "изход от положение" при възрастни
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Charnley-нискотрение (1962): 22 mm метална глава, UHMWPE-чашка, акрилен цимент — основа за DeLee-Charnley (ацетабулум, 3 зони) и Gruen (стъбло, 7 зони) рентгенографски системи.</li>
+    <li>Cross-linked полиетилен (XLPE) намалява износването от 0,1 до 0,01 mm/год — стандарт за двойка с керамична или метална глава.</li>
+    <li>Българската ендопротеза на Герчев с взаимозаменяемост на стъбло и чашка дава хибридна фиксация (циментиран фемур с безциментен ацетабулум) — особено полезна при възрастен с лошо бедрено костно качество и здрав ацетабуларен свод.</li>
+  </ul>
+</aside>
 
-Методите "изход от положение" не претендират за пълно функционално възстановяване и са показани при наличие на местни или общи противопоказания за ендопротезиране или артродеза: хронична инфекция след неуспешно ендопротезиране, противопоказания за реконструкция при тежко общо състояние, псевдоартрози на шийката при възрастни пациенти със соматични съпътстващи заболявания. Методът на Colonna (резекционна артропластика с покриване на проксималния край на бедрената кост с глутеална мускулна обвивка) се прилага чрез разрез между m. sartorius и m. tensor fasciae latae с прерязване на абдукторите и външните ротатори от трохантера и Т-образно срязване на капсулата; главата се отстранява, шийката се прерязва в основата и срезната повърхност се покрива с обърнато ламбо от ставната капсула. Имобилизация — киршнерова игла от трохантера към покрива на ацетабулума, абдукционна шина за 1 месец, ставане с помощни средства на 2-ия месец.
+</div>
+</details>
 
-Резекционната артропластика по Girdlestone (G. R. Girdlestone, 1928) е окончателното отстраняване на главата и шийката на бедрената кост без заместване, оставяйки крайника да зарасне с фиброзна анкилоза в скъсено положение. Показания: тежка инфекция след ендопротезиране (т.нар. "izvajdane na endoproteza" преди реимплантация в двуетапна ревизия), туберкулозен коксит с пълна деструкция, тежки нерезултативни реконструкции. Крайникът е стабилен, но скъсен с 4–6 cm; пациентът обикновено се нуждае от висок токов компенсатор и патерица. Висока траншохантерна "опорна" остеотомия по Schanz (виж по-долу) може да допълни Girdlestone за подобряване на функцията.
+<details>
+<summary>Операции при ВДТС у дете</summary>
+<div class="ts-body">
 
-## Операции при вродена луксация на тазобедрената става у деца
+Класическата българска и руска школа описва систематичен оперативен подход при ВДТС у дете в зависимост от възрастта, степента на изкълчване, развитието на ацетабулума и наличието на вторични деформации.
 
-Класическата българска и руска школа описва систематичен оперативен подход при ВДТС у дете в зависимост от възрастта, степента на изкълчване, развитието на ацетабулума и наличието на вторични деформации на проксималния фемур.
+**Деротативна и варизираща интертрохантерна остеотомия в детска възраст.** При интертрохантерна остеотомия с компресивна камера на Холевич-Владимиров <sup class="natflag">BG</sup> или с Г-образна АО пирон-плака болният е странично или по гръб на екстензионна маса; корекцията е тривиална и стабилна, не е необходим гипс. При корекция на шийно-диафизарния ъгъл апаратът на Илиев <sup class="natflag">BG</sup> предлага външен фиксатор, фиксиран към трохантерния масив и към субтрохантерната диафиза; интертрохантерната остеотомия с вибриращ трион позволява точно прецизиране на антеверзията и валгитета с механизъм на завъртане.
 
-## Деротативна и варизираща интертрохантерна остеотомия в детска възраст
+**Ацетабулопластика по Albee.** Хоризонтализира свода на ацетабулума при персистираща дисплазия (>3-годишна възраст). Достъпът е преден илио-феморален; длето прониква в костта близо до покрива и успоредно на него, така че дисталният фрагмент включващ свода да бъде лесно огъваем; след прегъването му над главичката образуваният дефект се запълва с хомоприсадъци.
 
-Остатъчните неточности в центрирането при дете над 3-годишна възраст след нелекувана дисплазия или след безкръвно лечение на ВДТС се коригират с интертрохантерна остеотомия. Размерите на действителната антеверзия и валгитет се уточняват по фасова и профилна рентгенография, а ефектът от планираната корекция — по фасова снимка при абдукция и вътрешна ротация (т.нар. "проба на оптимална позиция"). При интертрохантерна остеотомия с компресивна камера на Холевич–Владимиров или с Г-образна АО пирон-плака болният е в странично положение или по гръб на екстензионна маса; корекцията е тривиална и стабилна, не е необходим гипс. Прецизното ориентиране на камичката в шийката се прави под рентгенов контрол; асистентът ротира дисталния фрагмент навън до хоризонтално положение на свитата под 90° подбедрица. Корекцията на валгитета и антеверзията се верифицира интраоперативно.
+**Ацетабулопластика по Lance, Pemberton и Gill.** Lance срязва тънък остеотом по външния кортикален слой на крилото на хълбочната кост непосредствено над залавянето на ставната капсула; концептуален предшественик на Pemberton. Перикапсуларната остеотомия по Pemberton (P. A. Pemberton, 1965) разчита на пластичността на Y-хрущяла за завъртане на целия покрив напред и навън — най-голям ефект между 2 и 4-годишна възраст; след 12 г. (вкостяване на Y-хрущяла) не е приложима.
 
-При корекция на шийно-диафизарния ъгъл апаратът на Илиев предлага външен фиксатор, фиксиран към трохантерния масив и към субтрохантерната диафиза; интертрохантерната остеотомия с вибриращ трион позволява точно прецизиране на антеверзията и валгитета с механизъм на завъртане. Поставят се киршнерови игли успоредно на необходимия ъгъл, корекцията се фиксира с пирон-плака.
+**Иннominate-остеотомия по Salter.** R. B. Salter (1961) — стандартна операция за корекция на ориентацията на ацетабулума при персистираща неточност на центража след безкръвно лечение на ВДТС. Възрастова граница: 18 месеца — 6 г. (приложима до 8–10 г.); възможна и при възрастни в комбинация с други процедури. Преминаване на трион на Gigli или остеотом през цялата ширина на os ilium от incisura ischiadica major към SIAI; дисталният фрагмент ротиран напред, надолу и латерално, фиксиран с триъгълен костен присадък от crista iliaca, закрепен с две киршнерови игли.
 
-## Деротативна остеотомия по Putti (Italian school)
+**Остеотомия по Dega.** W. Dega (1969) — кос срез, започващ отпред 1 cm над ръба на ацетабулума и завършващ в incisura acetabuli; дисталният фрагмент заедно с целия ацетабулум се завърта надолу и навън, фиксиран с интерпозитни костни присадъци; отличава се от Salter по непълно прерязване (вътрешният кортикален слой остава цял).
 
-Деротативната субтрохантерна остеотомия по Putti при ексцесивна антеверзия без изразен валгитет използва страничен разрез на нивото на trochanter major; в проксималния фрагмент се забиват две дебели игли на нивото на шийката и над малкия трохантер в сагитална равнина; в дисталния фрагмент — други две игли в равнина, завъртяна вътрешно с необходимата деротация. Тънък остеотом срязва костта в перфориран канал. Холевич описва аналогична техника, но се отказва от нея поради честото разхлабване на иглите в бебешка/малкодетска метафиза.
+**Тройна остеотомия по Steel.** H. H. Steel (1973) — при нестабилност поради дисплазия у по-голямо дете или млад възрастен (>10 г.). Начало с остеотомия на os ischii, следвана от os pubis и os ilium; целият ацетабуларен фрагмент (свободен от тазовия пръстен) се ротира за оптимално покритие.
 
-## Ацетабулопластика по Albee
+**Остеотомия по Chiari.** K. Chiari (1955) — медиализира бедрената кост, променяйки благоприятно съотношението на вътрешното и външното рамо на лоста, подобрявайки биомеханиката. Показания: дисплазия с непокрита глава у дете над 6 г., преди коксартроза в зряла възраст. Остеотомия точно над ставната капсула, започваща от incisura ischiadica major; разсичане на външния кортикален слой с длето, а вътрешния — с трион на Gigli, прокаран през incisura ischiadica major. Дисталният фрагмент се медиализира.
 
-Ацетабулопластиката по Albee хоризонтализира свода на ацетабулума при персистираща дисплазия на покрива (>3-годишна възраст с малка вероятност за спонтанно коригиране, нелекувана дисплазия с недостатъчно покритие). Достъпът е преден илио-феморален; нивото и посоката на остеотомията се определят с рентгенов контрол; длето прониква в костта близо до покрива и успоредно на него, така че дисталният фрагмент включващ свода да бъде лесно огъваем. След прегъването му над главичката образуваният дефект се запълва с хомоприсадъци.
+**Shelf-acetabuloplasty — Manfrini, Иванов, Dickson.** При недостатъчна опорна повърхност без възможност за ротация на свода — остеопластично удължаване с педикулиран костен присадък. Manfrini — трансплантат от външния кортикален слой на крилото на хълбочната кост, прегънат над капсулата. Иванов <sup class="natflag">BG</sup> — присадък 1,5×5–6 cm близо до incisura ischiadica major; вътрешният кортикален слой се разсича с длето без пълно отделяне, присадъкът се завърта навън над капсулата с огъване на външния кортикален слой и се фиксира с киршнерова игла. Dickson — за висока луксация, мобилизация на ставната капсула от крилото без отваряне и създаване на нов свод над нея.
 
-## Ацетабулопластика по Lance, Pemberton и Gill
+**Опорни (палиативни) остеотомии при висока изкълчена ТБС.** Палиативни намеси за подобряване на статиката и походката. Класически имена: Kirmisson (висока валгизираща), Froehlich (на нивото на ацетабулума), Schanz (на нивото на tuber ischii) и Bayer (бифуркационна). Milch комбинира валгизация с подпиране от tuber ischii.
 
-Аценабулопластиката по Lance срязва тънък остеотом по външния кортикален слой на крилото на хълбочната кост непосредствено над залавянето на ставната капсула с дъговидна линия, успоредна на ръба на ацетабулума; след задълбочаване дисталният фрагмент се смъква и в дефекта се вклинява компактен алоприсадък или автоприсадък от tibia. Lance е концептуалният предшественик на Pemberton. Аналогична техника по Gill използва автоприсадъци от crista iliaca.
+**Кръвна репозиция с капсулопластика по Colonna и по Zahradníček.** При високи луксации у дете над 5–6 г. с големи анатомически деформации — ставната капсула се използва като интерпониум между новия ацетабулум и репозиционираната глава. Colonna — предварителна подготовка с продължителна екстензия; след смъкване на главата до нивото на ацетабулума, открита репозиция с използване на капсулата като покритие. Колонна-Zahradníček (въведен в България от Балчев <sup class="natflag">BG</sup>) — комбинация с интертрохантерна остеотомия за коригиране на антеверзията и валгитета. Модификация на Игнатов <sup class="natflag">BG</sup> — напречна остеотомия дистално от trochanter minor със суперпозиция на двата фрагмента и завъртане за деротация — намалява риска за нарушаване на кръвоснабдяването на проксималния фрагмент.
 
-Перикапсуларната остеотомия по Pemberton (P. A. Pemberton, 1965) е радикалната ацетабулопластика, разчитаща на пластичността на Y-хрущяла за завъртане на целия покрив на ставата напред и навън. Най-голям ефект — между 2 и 4-годишна възраст, когато Y-хрущялът е силно еластичен. След 12-годишна възраст (вкостяване на Y-хрущяла) операцията не е приложима. Техника: преден илио-феморален достъп; субпериостална дезинсерция на m. tensor fasciae latae и mm. glutei medius et minimus; експозиция на предната част на крилото; субпериостално проникване зад ставата в incisura ischiadica major; остеопластична дезинсерция на коремните мускули и m. sartorius от cresta iliaca; експозиция на вътрешната повърхност на крилото и проникване в incisura ischiadica major. Остеотомията е перикапсуларна (около ставната капсула) до Y-хрущяла, позволяваща ротация на акетабуларния фрагмент напред и навън без прекъсване на тазовия пръстен. Дефектът се запълва с триъгълен костен присадък от crista iliaca. Имобилизация в поясно-крачолен гипс при абдукция и лека вътрешна ротация за 2 месеца.
+**Лимбектомия по Somerville.** При непълна репозиция у деца до 1,5–2 г. — резекция на инвертирания limbus acetabuli, потвърден предоперативно с артрография.
 
-## Остеотомия на таза по Salter
+</div>
+</details>
 
-Иннominate-остеотомията по Salter (R. B. Salter, 1961) е стандартната операция за корекция на ориентацията на акетабулума при персистираща неточност на центража след безкръвно лечение на ВДТС, дължаща се на антеверзия и латероверзия на акетабулума. Изисквания: липса на вътреставна пречка за репозицията, конгруентна и центрирана глава в концентричен ацетабулум, достатъчна абдукция и флексия. Възрастова граница: 18 месеца — 6 г. (концепцията остава приложима до 8–10 г.); възможна и при възрастни в комбинация с други процедури.
+<details>
+<summary>Травматични луксации и фрактури</summary>
+<div class="ts-body">
 
-Техника: преден илио-феморален достъп с дезинсерция на m. tensor fasciae latae и коремните мускули от crista iliaca; субпериостално оголване на двете страни на крилото на хълбочната кост; идентифициране на incisura ischiadica major; преминаване на трион на Gigli или остеотом през цялата ширина на os ilium от incisura ischiadica major към spina iliaca anterior inferior. Дисталният фрагмент включително ацетабулума се ротира напред, надолу и латерално, фиксиран с триъгълен костен присадък от crista iliaca, заклинен в остеотомната междина и фиксиран с две киршнерови игли през крилото на хълбочната кост в присадъка и дисталния фрагмент. Имобилизация в поясно-крачолен гипс при 20° абдукция и умерена вътрешна ротация за 45 дни.
+**Травматични луксации на ТБС.** Затворена редукция под обща анестезия с миорелаксанти веднага след диагнозата (в първите 6 часа за оптимизиране на риска от AVN) — Allis или Stimson техника. След репозицията — рентгенография в две проекции (фасова и центриране по Желев <sup class="natflag">BG</sup> — полупрофил с косо насочване на лъча 45° за визуализация на задния ръб на ацетабулума).
 
-## Остеотомия на таза по Dega и тройна по Steel
-
-Остеотомията на таза по Dega (W. Dega, 1969) използва кос срез, започващ отпред 1 cm над ръба на ацетабулума и завършващ в incisura acetabuli; дисталният фрагмент заедно с целия ацетабулум се завърта надолу и навън, фиксиран с интерпозитни костни присадъци. Отличава се от Salter по непълно прерязване (вътрешният кортикален слой остава цял), което позволява концентрична ротация без необходимост от киршнерови игли.
-
-Тройната остеотомия по Steel (H. H. Steel, 1973) е показана при нестабилност на ТБС поради дисплазия на ацетабулума у по-голямо дете или млад възрастен (>10 г.), при който едностранната Salter-остеотомия е недостатъчна поради ригидността на тазовия пръстен. Започва с остеотомия на os ischii (преден достъп под ингвиналната гънка с дезинсерция на хамстрингите от tuber ischii), следвана от остеотомия на os pubis (срединен надлъжен разрез под симфизата с прерязване на superior ramus pubis) и остеотомия на os ilium (преден илио-феморален достъп с прерязване на crista iliaca от incisura ischiadica major към spina iliaca anterior inferior). Целият ацетабуларен фрагмент (свободен от тазовия пръстен) се ротира за оптимално покритие и се фиксира с винтове или киршнерови игли.
-
-## Остеотомия на таза по Chiari
-
-Остеотомията по Chiari (K. Chiari, 1955) се различава от ацетабулопластиките с медиализирането на бедрената кост, променящо благоприятно съотношението на вътрешното и външното рамо на лоста, подобряващо биомеханиката и намаляващо реактивните сили в ставата. Показания: дисплазия с непокрита глава у дете над 6 г., преди коксартроза в зряла възраст, при големи деформации без друга възможност за реконструкция. Техника: преден илио-феморален достъп; субпериостално оголване на двете страни на крилото; остеотомия точно над ставната капсула (не над, а на нивото на покрива), започваща от incisura ischiadica major; разсичане на външния кортикален слой с длето, а вътрешния — с трион на Gigli, прокаран през incisura ischiadica major. Дисталният фрагмент се медиализира — горната ламина на ацетабулума се вгражда в остатъка от хълбочната кост, формирайки нов "псевдоставен" покрив. Имобилизация в поясно-крачолен гипс при абдукция и лека вътрешна ротация за 2,5 месеца. Грешки на техниката: твърде задно изместване на дисталния фрагмент (биомеханичен компромис в сагитала с компенсаторна лордоза), твърде ниско срязване (риск за отваряне на ставата), твърде близко до сакроилиачната става (затруднено разместване).
-
-## Създаване на свод (shelf-acetabuloplasty) — Manfrini, Иванов, Dickson
-
-При недостатъчна опорна повърхност без възможност за ротация на свода (при възрастни деца и подрастващи) се прилага остеопластично удължаване на свода с педикулиран костен присадък. Методът на Manfrini взема трансплантат от външния кортикален слой на крилото на хълбочната кост, прегъва го над капсулата и допълнителни присадъци заклинят пространството между крилото и педикулирания трансплантат. Методът на Иванов взема присадък 1,5×5–6 cm близо до incisura ischiadica major; вътрешният кортикален слой се разсича с длето без пълно отделяне, присадъкът се завърта навън над капсулата с огъване на външния кортикален слой и се фиксира с киршнерова игла. Методът на Dickson е специално разработен за висока луксация — мобилизация на ставната капсула от крилото без отваряне и създаване на нов свод над нея в по-воларна позиция.
-
-## Опорни (палиативни) остеотомии при висока изкълчена ТБС
-
-Опорните остеотомии при високи застарели вродени изкълчвания на ТБС са палиативни намеси, целящи подобряване на статиката и походката, премахване на болката от триене на главата към крилото на хълбочната кост и козметична корекция. Класическите имена са: Kirmisson (висока валгизираща остеотомия), Froehlich (остеотомия на нивото на ацетабулума), Schanz (остеотомия на нивото на tuber ischii) и Bayer (бифуркационна остеотомия). Методът на Milch комбинира валгизация с подпиране от tuber ischii. Целта е да се създаде ъгъл, отворен медиално и долно, позволяващ дисталният фрагмент да опре в tuber ischii при натоварване — функционалното подобрение е значително при пациенти без болки, при които артродезата и ендопротезирането са противопоказани. Недостатъкът е увеличаване на съществуващия преди това валгитет на коляното (преди операцията маскиран от аддукторната контрактура на бедрото). При спазване на техническите изисквания болните са доволни от операцията.
-
-## Кръвна репозиция с капсулопластика по Colonna и по Zahradníček
-
-При високи луксации у дете над 5–6-годишна възраст с големи анатомически деформации и несъответствия между ацетабулума и главата, ставната капсула се използва като интерпониум между новия ацетабулум и репозиционираната глава. Кръвна репозиция с капсулопластика по Colonna: предварителна подготовка с продължителна екстензия (10–12 дни, 5–10 kg през дисталната трета на фемура с конграекстензия през поясно-крачолен гипс на здравия крайник или с обръч на Илизаров). След смъкване на главата до нивото на ацетабулума се прави открита репозиция с използване на капсулата като покритие на главата — ставната капсула се "облича" около главата, предотвратявайки контакт между костта и неоформения ацетабулум. Често в комбинация с интертрохантерна остеотомия на проксималната метафиза за коригиране на антеверзията и валгитета (метод на Colonna–Zahradníček, въведен в България от Балчев).
-
-Модифицираната техника на Zahradníček при високи луксации над 3–4-годишна възраст с напрегната репозиция: коса остеотомия в сагитална равнина от под трохантера до под малкия трохантер с проникване по задния ръб на m. vastus lateralis; ротация на проксималния фрагмент до 0–10° антеверзия спрямо фронталната равнина; абравация (скъсяване) на дисталния фрагмент с резекция на сегмент от диафизата при значително напрежение. Фиксация с компресивна камера на Холевич или с напречна интертрохантерна остеотомия и метална синтеза. Вариант по Игнатов — напречна остеотомия дистално от trochanter minor със суперпозиция на двата фрагмента и завъртане за деротация — намалява риска за нарушаване на кръвоснабдяването на проксималния фрагмент.
-
-## Дезартикулация на тазобедрената става
-
-Дезартикулацията е показана при злокачествени тумори на бедрото с ангажиране на проксималната трета (остеосарком, хондросарком, метастатична патология с патологична фрактура), при много тежки конквасации с обхващане на целия крайник и нежизнеспособност на тъканите, и при заплашващи живота инфекциозни усложнения (тежък газов гангрена, неконтролируема инфекция след травма). Техника: ракетовиден кожен разрез, започващ под spina iliaca anterior superior, спускащ се вертикално и завиващ по вътрешната повърхност на бедрото около 6–7 cm под lig. inguinale; задният клон минава 8 cm под tuber ischii и завива по външната страна на бедрото 10 cm под върха на трохантера, след което се връща по предната повърхност. Дезинсерира се m. piriformis и m. rectus femoris; m. pectineus се прерязва на около 1 cm от инсерцията; бедрото се завърта силно навън и аддуцира за експозиция на trochanter minor; m. iliopsoas се прерязва близо до залавянето си и оставя да се ретрахира; аддукторите и ишио-тибиалните мускули се прерязват близо до залавянията си; между m. obturatorius externus и ротаторите се идентифицира и лигира a. obturatoria; феморалният съдов-нервен сноп се лигира поотделно (артерия, после вена, после нерв); n. ischiadicus се идентифицира медиално от tuber ischii и се прерязва с дълга остра ножица след инфилтрация с локален анестетик за избягване на невроми. Глутеалните мускули се пришиват към остатъците от аддукторите. Аспирационни дренажи. Протезиране — възможно при гладко зарастване, не по-рано от 2–3 месеца.
-
-## Травматични луксации на тазобедрената става
-
-Оперативни намеси при травматичната луксация на ТБС са необходими при: ненаместима по безкръвен начин луксация (блокиране от мек или костен фрагмент); ненаместена фрактура на задния ръб на ацетабулума след затворена редукция; ненаместена фрактура на главата на бедрената кост, получена при луксацията; луксация с фрактура на дъното на ацетабулума, при която фрагментът остава дислоциран след репозицията. Във всички случаи затворената редукция трябва да се направи под обща анестезия с миорелаксанти веднага след диагнозата (в първите 6 часа за оптимизиране на риска от аваскуларна некроза) — Allis или Stimson техника. След репозицията — рентгенография в две проекции (фасова и центриране по Желев — полупрофил с косо насочване на лъча 45° за визуализация на задния ръб на ацетабулума).
-
-При ненаместена луксация: заден достъп тип Moore с тъпо разделяне на влакната на m. gluteus maximus; идентифициране на n. ischiadicus и защита; откриване на разкъсаната капсула; репозиция чрез директна манипулация; директна екстензия за 45–60 дни. При ненаместен заден ръб на ацетабулума: заден достъп, репозиция и фиксация на фрагмента с два винта (виж и Тема Травма-12 за класификацията по Letournel). При ненаместена фрактура на главата (тип Pipkin): предно-страничен достъп между m. sartorius и m. tensor fasciae latae с прерязване на m. rectus femoris и подбутване на a. circumflexa femoris medialis; визуализация на главата при ротация и флексия; фиксация на фрагмента с винтове, потопени под хрущяла, или ексцизия при малък ненатоварващ фрагмент. При централна луксация (luxatio coxae centralis) — пробиване на дъното на ацетабулума с медиализация на главата — техниката на Тенев използва специален винт 12–13 cm с два нареза през трохантера до бедрената глава с външно фиксиране в гипсова превръзка за латерализация на главата.
-
-## Фрактури на бедрената шийка — остеосинтеза
+При ненаместена луксация: заден достъп тип Moore с тъпо разделяне на влакната на m. gluteus maximus; идентифициране на n. ischiadicus и защита; откриване на разкъсаната капсула; репозиция. При ненаместен заден ръб на ацетабулума: фиксация с два винта. При ненаместена фрактура на главата (тип Pipkin): предно-страничен достъп с прерязване на m. rectus femoris; фиксация на фрагмента с винтове, потопени под хрущяла, или ексцизия при малък ненатоварващ фрагмент. При централна луксация — техниката на Тенев <sup class="natflag">BG</sup> използва специален винт 12–13 cm с два нареза през трохантера до бедрената глава с външно фиксиране в гипсова превръзка за латерализация на главата.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-8/femoral-neck-osteosynthesis.jpg" data-figure-alt="Канюлирани винтове и DHS за фрактура на бедрената шийка" aria-label="Увеличи">
@@ -605,62 +858,271 @@ Wagner разработва (1978) ендопротезирането без о�
   </figcaption>
 </figure>
 
+**Фрактури на бедрената шийка.** Аддукционният (варусен, Pauwels III) тип винаги изисква оперативно лечение поради 100% риск от псевдоартроза при консервативно лечение. Класическата остеосинтеза с тригранен пирон на Smith-Petersen (1937); остеосинтезата с винтовете на Scaglietti-Putti (един или два спонгиозни винта); три канюлирани винта в перфектен триъгълник; динамичен тазобедрен винт (DHS) за стабилни интертрохантерни фрактури; компресивната камера на Холевич <sup class="natflag">BG</sup> с пирон-плака. При псевдоартроза без AVN — McMurray валгизираща интертрохантерна остеотомия или Pauwels Y-остеотомия (двуклинова); при сегментна некроза — мускулно-педикулиран костен трансплантат по Meyers.
 
-Аддукционният (варусен, Pauwels III) тип счупване на бедрената шийка винаги изисква оперативно лечение поради 100% риск от псевдоартроза при консервативно лечение. Абдукционният (валгусен, Pauwels I) тип може да се лекува консервативно, но рискът от вторично разклиняване в гипса диктува остеосинтеза. В детската възраст счупванията се остеосинтезират с киршнерови игли поради риск от редислокация в гипса.
+**Пертрохантерни фрактури.** Класическата Г-образна пирон-плака на Кожухаров <sup class="natflag">BG</sup> (българска школа) — пирон в шийката и плака по диафизата с 4 винта; репозиция на тракционна маса. Динамичен тазобедрен винт (DHS) — позлатеното правило за стабилни пертрохантерни фрактури. Методът на Ender (1969) — три тънки еластични интрамедуларни пирона ретрограднo; минимална оперативна травма, но висок процент дистрална миграция. Гама-пиронът и съвременните цефаломедуларни пирони (PFNa, InterTan) са биомеханично превъзходни при субтрохантерни и обратно наклонени интертрохантерни фрактури.
 
-Класическата остеосинтеза с тригранен пирон на Smith-Petersen (1937) използва водачни телове, забити субтрохантерно с насочване към spina iliaca на здравата страна (паралелно на пода); при липса на съпротивление телът е в спонгиоза; ако се усети съпротивление — телът е в кортикалния слой и трябва да се коригира. След проверка с рентген се вкарва пиронът по водача, последван от компактор за вклиняване на фрагментите. При раздробени, субкапитални неблагоприятни фрактури пиронът може да премине през дъното на ацетабулума за допълнителна стабилност.
+В детска възраст счупванията на шийката се остеосинтезират с киршнерови игли поради риск от редислокация в гипса; ятрогенна фрактура при поставяне на третия винт в крайно-кортикалната позиция при остеопоротична кост е реален риск.
 
-Остеосинтезата с винтовете на Scaglietti–Putti използва един или два спонгиозни винта, които чрез шайба в основата си притегля главата и създава компресия. Този метод е стандартен при млад пациент с медиална фрактура на шийката — три канюлирани винта в перфектен триъгълник (два долни, един горен субкапитално-кортикален). Усложнение: ятрогенна фрактура при поставяне на третия винт в крайно-кортикалната позиция при остеопоротична кост.
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>„6-часовото правило" при субкапитална фрактура на шийката — редукция и фиксация до 6 часа намаляват честотата на AVN от 30% до около 10%.</li>
+    <li>DHS — стандарт за стабилни интертрохантерни фрактури; цефаломедуларни пирони (PFNa, InterTan, Гама) — стандарт за обратно наклонени и субтрохантерни.</li>
+    <li>В детска възраст фрактурите на шийката се остеосинтезират с киршнерови игли с гипсова имобилизация; иглите се отстраняват след 3 месеца.</li>
+  </ul>
+</aside>
 
-Динамичният тазобедрен винт (DHS, dynamic hip screw) е съвременният стандарт за стабилни интертрохантерни фрактури и за някои базиоцервикални фрактури. Компресивната камера на Холевич с пирон-плака също е приложима при тези фрактури, особено в комбинация с допълнителен спонгиозен винт за ротационна стабилност.
+</div>
+</details>
 
-При псевдоартроза на бедрената шийка: при млад пациент без асептична некроза — McMurray валгизираща интертрохантерна остеотомия със стабилна синтеза или Pauwels Y-остеотомия (двуклинова) за конверсия на режещите сили в компресивни; при наличие на сегментна некроза — мускулно-педикулиран костен трансплантат по Meyers с пътеки от vastus lateralis (педикулиран периост) или, исторически, по Bonnel-Cabanela; при изразена некроза с разрушение на главата при възрастен — ендопротезиране (хемиартропластика или THA). Открита остеосинтеза с присадък по Whitman или техника на Ettore–Putti–McMurray с допълнителен костен присадък със спонгиоза от трохантера остава историческо понятие, заменено от вътрешна фиксация с DHS или винтове и от ендопротезиране при възрастни.
+<details>
+<summary>Меки операции — тенотомии, миотомии, мускулни транспозиции</summary>
+<div class="ts-body">
 
-## Пертрохантерни фрактури — Г-образна пирон-плака на Кожухаров, DHS, Ender, гама-пирон
+**Тенотомии около ТБС.** Подкожна тенотомия на повърхностните флексори (m. sartorius и m. tensor fasciae latae) — при изолирана флексионна контрактура. Тенотомия на аддукторите — при аддукторна контрактура (ДЦП, фиксирана аддукция при коксартроза); в комбинация с обтураторна неврэктомия на предния клон по Stoffel при спастична контрактура от ДЦП. Тенотомия на m. iliopsoas по Beck — преден разрез тип Hueter; прерязва се сухожилието на m. iliopsoas с крив инструмент близо до trochanter minor; отделеното сухожилие се повдига проксимално и се пришива по предно-външната част на ставната капсула за частично запазване на функцията. Миотомия на вътрешните ротатори по Durham — кос кожен разрез над горно-предната част на трохантера, прерязване на fascia lata и сухожилното продължение на тензора при външноротаторно положение.
 
-Пертрохантерните фрактури при възрастния пациент изискват стабилна остеосинтеза за ранно мобилизиране и предотвратяване на тромбоемболични и белодробни усложнения. Класическата Г-образна пирон-плака на Кожухаров (българска школа) използва пирон в шийката и плака по диафизата с 4 винта; репозицията се прави на тракционна маса, остеосинтезата — през страничен разрез 15–20 cm над и под трохантера. Динамичният тазобедрен винт (DHS) — позлатеното правило за стабилни пертрохантерни фрактури — позволява контролирано слизане на главата при натоварване и динамична компресия. Методът на Ender (1969) използва три тънки еластични интрамедуларни пирони, вкарани през медиалния кондил на бедрената кост ретрограднo до субкапитално ниво; минимална оперативна травма, но висок процент дистрална миграция и колапс при остеопороза. Гама-пиронът и съвременните цефаломедуларни пирони (PFNa, InterTan) са биомеханично превъзходни при субтрохантерни и обратно наклонени интертрохантерни фрактури.
+**Метод на Voss — създаваща „висяща" тазобедрена става.** Decompressive arthroplasty — многоетапно меко освобождаване при пациенти с напреднала коксартроза с противопоказания за ставно протезиране и неподходяща артродеза. Дезинсерция на аддукторите, абдукторите и външните ротатори; прерязване на ставната глава на m. rectus femoris; никога не се прерязва m. gluteus maximus. Модифицираната техника на Brand добавя селективна капсулотомия. Резултатите показват рядко срастване, но повечето стави стават безболезнени и стабилни с малка флексионно-екстензионна подвижност — т. нар. фиброзна анкилоза.
 
-При деца — закрита перкутанна остеосинтеза с три киршнерови игли по перфектен триъгълник под рентгеноскопски контрол; при невъзможност за затворена репозиция — открита репозиция чрез заден достъп тип Moore. Ставната капсула се срязва Т-образно за визуализация; остеосинтеза с дебели киршнерови игли. Постоперативно — гипсова имобилизация (за разлика от стабилната синтеза при възрастни). Иглите се отстраняват след 3 месеца.
+**Мускулни транспозиции при вяла парализа.** При парализа на флексорите — транспозицията на m. obliquus abdominis externus по Sauter. При парализа на m. gluteus maximus (екстензорите) — Ober (m. erector spinae с двойна лента fascia lata към трохантера); Lange (модификация); Spira (биглавия и полусухожилния мускул към m. gluteus maximus). При парализа на абдукторите (mm. gluteus medius et minimus) — техниката на E. Lange; Thomas-Thompson-Straub (m. obliquus externus за абдукция); Berthon (частично m. gluteus maximus с m. tensor fasciae latae); Холевич <sup class="natflag">BG</sup> (транспозиция на m. tensor fasciae latae на съдово-нервно краче със запазване на васкуларизацията и инервацията); Ober-Barr (две трети от m. erector spinae, освободен от залавните си места); Чаклин <sup class="natflag">RU</sup> (модификация на Ober с по-малък заден кожен разрез и частична мобилизация на m. tensor fasciae latae); Mustard (m. iliopsoas за активна абдукция); Sharrard (m. iliopsoas през crista iliaca към задно-външната повърхност на трохантера).
 
-При обратно наклонена фрактура с неуспех на стандартна остеосинтеза, остеотомията по Дейл (Dial) с косо прерязване на трохантера и преориентиране осигурява стабилна биомеханика.
+**Лавсанодеза по Холевич-Джеров-Владимиров <sup class="natflag">BG</sup>.** При паралитичен кос таз — лавсанова лента, прокарана през два канала в crista iliaca и през отвор в долната част на trochanter major, с кръстосано преплитане през m. gluteus maximus — постига 14–16 kg натиск при стандартна затягане и не изисква дълга гипсова имобилизация. Аналогична лавсанодеза при парализа на бедрените екстензори по Владимиров-Холевич <sup class="natflag">BG</sup> преминава паравертебрално под m. erector spinae и през костен канал в долната част на трохантера с кръстосване през m. gluteus maximus.
 
-## Закрита редукция на застарели изкълчвания на ТБС у дете
+**Прескачаща тазобедрена става (snapping hip).** Coxa saltans externus — фиброзни уплътнения по задния ръб на m. gluteus maximus или предния ръб на тензорната фасция; стъпаловидно се изрязват, надебелената задна част на tractus iliotibialis се разцепва напречно и се формира фасциално Z-ламбо или дубликатура. Coxa saltans internus — от m. iliopsoas над eminentia iliopectinea.
 
-Лечението на висока ВДТС у дете над 2–3-годишна възраст изисква предварителна подготовка — смъкване на изкълчената главичка чрез продължителна дистракция: индиректна екстензия с мастизол-лейкопластна тракция (2 kg) за 15–20 дни — приложима в малки деца до 3–4 г.; директна екстензия с игла през фемура (3–4 kg) с повдигане на леглото за конграекстензия — недостатъчно ефективна при дете с малка телесна маса; директна екстензия с поясно-крачолен гипс на здравия крайник, фиксиран към рамката на леглото — по-ефективна; постепенна дистракция с обръч на Илизаров на дисталния край на фемура, свързан с поясно-крачолен гипс на здравия крайник с безкрайни винтове — по 0,5 cm дневно до 1 cm първоначално, за 10–15 дни. Оригиналната техника на Илизаров фиксира полуобръч в crista iliaca и цял обръч в фемура — с риск за инфекция в зоната на бъдещата кръвна репозиция.
+</div>
+</details>
 
-Лимбектомия по Somerville при непълна репозиция у деца до 1,5–2 г. възраст: класическата концепция е, че пречка за безкръвното наместване е обърнатият надолу limbus acetabuli (потвърден с предоперативна артрография). Малък надлъжен разрез над предната трета на хълбочния гребен, отваряне на капсулата и резекция на инвертирания лимбус. Имобилизация в абдукция и вътрешна ротация.
+<details>
+<summary>Артроскопия на тазобедрената става</summary>
+<div class="ts-body">
 
-При типична отворена репозиция: преден достъп тип Hueter; внимание към n. cutaneus femoris lateralis, минаващ леко косо по предния ръб на m. sartorius; отваряне на ставната капсула Т-образно; разпознаване на блокиращите елементи (инвертиран лимбус, плъзгаща се ставна капсула, m. iliopsoas, разкъсан или удебелен lig. teres). Главата се намества в ацетабулума, поясно-крачолен гипс при абдукция и вътрешна ротация — стабилно положение. Между двата крачола на гипса се фиксира напречна летва, леглото се повдига откъм краката и към летвата се привързва тежест 3–4 kg за отбременяване — по правилото на Putti (главата задържана в долно-вътрешния квадрант на пресечната точка на хоризонтална бихиксова и отвесна линия от ръба на свода).
+Артроскопията на тазобедрената става се утвърди като платформа за лечение на фемороацетабуларния импинджмънт (FAI), лабрални разкъсвания и друга интраартикуларна тазобедрена патология.
 
-## Артроскопия на тазобедрената става
+**Портали.** Предно-латерален — приблизително 1–2 cm предно и 2 cm дистално от върха на trochanter major; главният наблюдателен портал. Преден — поставя се под флуороскопски контрол с внимание към n. cutaneus femoris lateralis. Задно-латерален — задно от трохантера; внимание към близостта на n. ischiadicus. Средно-преден — допълнителен портал за специфични процедури.
 
-Артроскопията на тазобедрената става се утвърди като платформа за лечение на фемороацетабуларния импинджмънт (FAI), лабрални разкъсвания и друга интраартикуларна тазобедрена патология. Основните портали включват:
+**Компартменти.** Артроскопското изследване на централния компартмент (вътреставно) и периферния компартмент (между капсулата и шийката) изисква дистракция на тазобедрената става (типично с тракционна маса) за достъп до централния компартмент.
 
-Предно-латерален портал: Приблизително 1-2 cm предно и 2 cm дистално от върха на trochanter major. Главният наблюдателен портал.
+**Показания.** FAI (cam, pincer, combined), лабрални разкъсвания, свободни тела, синовит, фокална хрущялна патология, септичен артрит за дренаж и лаваж, ранна болест на Perthes за артролиза.
 
-Преден портал: Поставя се под флуороскопски контрол с внимание към nervus cutaneus femoris lateralis.
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Прекомерна тракция (>50 lb за над 2 часа) → невропатия на n. pudendus или n. peroneus — стандартът е <2 часа тракция и стратегически „почивки" от тракцията при удължени процедури.</li>
+    <li>Перфорация на ставната капсула при работа в периферния компартмент → екстравазация на иригат в ретроперитонеума (рядко, но потенциално катастрофално); следене на абдоминалното налягане при дълги процедури.</li>
+  </ul>
+</aside>
 
-Задно-латерален портал: Задно от трохантера.
+</div>
+</details>
 
-Средно-преден портал: Допълнителен портал за специфични процедури.
+<details>
+<summary>Реконструкции „изход от положение" и дезартикулация</summary>
+<div class="ts-body">
 
-## Артроскопското изследване на централния компартмент (вътреставно) и периферния
+**Резекционна артропластика по Colonna.** Покриване на проксималния край на бедрената кост с глутеална мускулна обвивка. Разрез между m. sartorius и m. tensor fasciae latae с прерязване на абдукторите и външните ротатори от трохантера и Т-образно срязване на капсулата; главата се отстранява, шийката се прерязва в основата и срезната повърхност се покрива с обърнато ламбо от ставната капсула.
 
-компартмент (между капсулата и шийката на бедрената кост) изисква дистракция на тазобедрената става (типично с тракционна маса) за достъп до централния компартмент.
+**Резекционна артропластика по Girdlestone (1928).** Окончателното отстраняване на главата и шийката без заместване, оставяйки крайника да зарасне с фиброзна анкилоза в скъсено положение. Показания: тежка инфекция след ендопротезиране (преди реимплантация в двуетапна ревизия), туберкулозен коксит с пълна деструкция, тежки нерезултативни реконструкции. Крайникът е стабилен, но скъсен с 4–6 cm.
 
-## Източници и класическа литература
+**Безциментно повърхностно ендопротезиране по Wagner (1978).** Hip resurfacing — обработване на главичката до сферичност с конусен фрез и поставяне на метална чашка върху главата, артикулираща с полиетиленова или метална ацетабуларна чашка. Показания: млад пациент с AVN без обширно ангажиране на шийката, ранна коксартроза при млад пациент с добро костно качество. Усложнение: фрактура на остатъка от шийката. Съвременният еквивалент е Birmingham Hip Resurfacing (McMinn) — ограничено приложение в Европа поради проблеми с металните йони.
 
-Хирургичната анатомия на тазобедрената става е документирана в немската, австрийската, френската и руско-съветската ортопедична литература на ХIХ и ХХ век. Първоописанията на еспонимните достъпи и техники, които и днес формират лексикона на ставата, са свободно достъпни в Internet Archive:
+**Дезартикулация на тазобедрената става.** При злокачествени тумори с ангажиране на проксималната трета (остеосарком, хондросарком, метастатична патология), при много тежки конквасации с обхващане на целия крайник и при заплашващи живота инфекциозни усложнения. Ракетовиден кожен разрез; дезинсерира се m. piriformis и m. rectus femoris; m. iliopsoas се прерязва близо до залавянето си; аддукторите и ишио-тибиалните мускули се прерязват близо до залавянията си; феморалният съдов-нервен сноп се лигира поотделно (артерия, после вена, после нерв); n. ischiadicus се идентифицира медиално от tuber ischii и се прерязва с дълга остра ножица след инфилтрация с локален анестетик за избягване на невроми. Протезиране — възможно при гладко зарастване, не по-рано от 2–3 месеца.
 
-- **Хофа** (1905): *Lehrbuch der orthopädischen Chirurgie*, 4. изд. (Stuttgart: Enke). Систематика на оперативната ортопедия на ТБС — кървавата репозиция, артропластиката, артродезата. · [Факсимиле](https://archive.org/details/lehrbuchderortho00hoff)
-- **Лоренц** (1895): *Pathologie und Therapie der angeborenen Hüftverrenkung* (Wien: Hölder). Анатомо-патологична основа на безкръвната репозиция; илюстрирани сечения на дисплатичната ставна капсула, лабрумна инверсия и pulvinar. · [Факсимиле](https://archive.org/details/b21290441)
-- **Langenbeck-Archiv für klinische Chirurgie** (от 1860): първоописанията на много еспоними — Хютер за предния анатомичен интервал, Мадeлунг за карпалната деформация, Лудлоф за медиалния достъп, Krukenberg за подбедрицата. · [Поредица в Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)
-- **Бир / Браун / Кюммел** (1920): *Chirurgische Operationslehre*, бд. 3 — хирургия на таза и долния крайник. · [Факсимиле](https://archive.org/details/chirurgischeoperationslehre1920v1)
+</div>
+</details>
 
-## Обобщение и ключови изводи
+</div>
+</details>
 
-Тазобедрената става предлага множество оперативни достъпи, всеки с характерни предимства и рискове, свързани с мускулната обвивка, неврова и съдова анатомия и кръвоснабдяването на бедрената глава чрез arteria circumflexa femoris medialis. Предният достъп по Smith-Petersen използва безнервните интервали между musculus sartorius/musculus tensor fasciae latae (повърхностно) и musculus rectus femoris/musculus gluteus medius (дълбоко) и придоби популярност като директен преден достъп при тотална артропластика на тазобедрената става. Предно-латералният достъп по Watson-Jones използва интервала между musculus gluteus medius и musculus tensor fasciae latae с предна рефлексия на musculus gluteus medius. Директният латерален достъп по Hardinge разцепва musculus gluteus medius и рефлектира предната порция заедно с musculus gluteus minimus и ламбо на musculus vastus lateralis. Задният достъп чрез разцепване на musculus gluteus maximus и откъсване на кратките външни ротатори е стандартният работен достъп при тотална артропластика, като увреждането на nervus ischiadicus и задната луксация са главните рискове. Трохантерната флип-остеотомия по Ganz осигурява широк достъп до бедрената глава при запазване на arteria circumflexa femoris medialis.
+</div>
+</details>
+</section>
 
-Главните неврови и съдови структури, изложени на риск, включват: nervus cutaneus femoris lateralis (при предните достъпи, meralgia paresthetica), nervus femoralis и феморалните съдове (при дълбока предна дисекция), nervus ischiadicus (при задния достъп) и nervus glutealis superior (между musculus gluteus medius и musculus gluteus minimus, изложен на риск при удължена проксимална странична дисекция). Изборът на достъп зависи от обучението и предпочитанието на хирурга, от планираната процедура (тотална артропластика, фиксация на фрактура, ставосъхраняваща хирургия, резекция на тумор), както и от анатомичните особености и придружаващите заболявания на пациента.
 
-От класическата българска и руска ортопедична школа в тазобедрената хирургия си струва да се запомнят: класическите достъпи (вертикален преден, Hueter, Smith-Petersen, Watson-Jones, Hardinge, Olier, Ombrédanne, Colonna, Marino-Zuco, Чаклин–Вреден, Kocher–Gibson, Langenbeck, Osborne, Moore, Желев, McFarland–Osborne, медиалният достъп по Ludloff) с техните мускулни интервали и анатомични съображения; меките операции (тенотомии по Beck, Durham, Stoffel, метод на Voss за висяща ТБС, мускулни транспозиции по Sauter, Lange, Ober–Barr, Чаклин, Берг, Mustard, Sharrard, лавсанодезите по Холевич–Джеров–Владимиров); проксималните остеотомии на бедрената кост (варизираща по Pauwels с компресивна камера на Холевич–Владимиров, валгизираща с АО Г-плака и обратна пирон-плака на Холевич при coxa vara congenita, деротативна по Kirmisson–Putti, флексионна и дефлексионна, тридименсионалната по Imhäuser–Холевич–Джеров при SCFE, McMurray при псевдоартроза на шийката, ротационната по Sugioka при AVN); артродезите (затворени по Вреден и Холевич, открита по Watson-Jones с пирон, компресивни по Charnley–Holmgren, Холевич, Müller, Илизаров; извънставни по Albee, Hass, Hibbs, Ghormley, J. Wilson, Badgley и затворената тунелна по Бойчев; ишио-феморални по Trumble, Kirkaldy–Willis, Brittain; смесени по Чоканов, Балчев, Davis; атипични по Abbott–Fischer–Lucas, Weber, с Кюнчеров пирон, с гръбест автоостеотрансплантат по Владимиров); артропластиките (биологичен интерпониум по Murphy–Lexer–Hackenbrock–Балчев, виталиева чашка по Smith-Petersen, еднополюсни по Moore-Austin и Thompson, тотални по Wiles, McKee–Farrar, Charnley, Müller, Wagner, Ring, Сиваш, и комплексната българска ендопротеза на Герчев, с модификациите за ВДТС у възрастни по Холевич и за широки резекции по Андреев–Герчев–Цачев); ВДТС операциите у дете (деротативно-варизираща интертрохантерна остеотомия с апарата на Илиев, ацетабулопластиките по Albee, Lance, Pemberton, Gill, иннominate-остеотомия по Salter, остеотомии по Dega, Steel, Chiari, shelf-acetabuloplasty по Manfrini, Иванов, Dickson, опорни остеотомии по Kirmisson, Froehlich, Schanz, Bayer, Milch, кръвни репозиции с капсулопластика по Colonna и по Zahradníček, лимбектомия по Somerville); фрактурната хирургия (Smith-Petersen пирон, Scaglietti–Putti винтове, DHS, Г-образна пирон-плака на Кожухаров, Ender пирони, гама-пирон, технологията на Тенев за luxatio centralis); и реконструктивните "изход от положение" методи (Colonna, Girdlestone, Schanz, Wagner-resurfacing). Тази класическа база е концептуалният скелет на съвременните алгоритми за фрактурна стабилизация, ставосъхраняване и ставозамяна, и остава релевантна както за разбирането на еволюцията на тазобедрената хирургия, така и за ежедневието на УСБАЛО „Проф. Бойчо Бойчев". Следващата тема е посветена на бедрото и коляното, завършвайки последователността на долния крайник от проксимално към дистално.
+
+## Усложнения и резултати
+<!-- toc-h2 -->
+<section class="topic-section" id="outcomes">
+<details>
+<summary>Усложнения и резултати</summary>
+<div class="ts-body">
+
+Усложненията при оперативните достъпи на ТБС варират по анатомичен регион и тип процедура. Този кратък преглед обобщава типичните проблеми по достъп.
+
+**Преден (Smith-Petersen / DAA):** увреда на n. cutaneus femoris lateralis (meralgia paresthetica: 20–80% преходна, 5–10% трайна); ранови усложнения на проксималния разрез (при кожни гънки); перипротезна фрактура на бедрената кост при въвеждане на стебла (по-честа при DAA от заден достъп поради по-трудна феморална експозиция); неправилно позициониране на стеблото поради ограничена визуализация на проксималния фемур; рядко — увреда на n. femoralis при удължена медиална дисекция.
+
+**Предно-латерален (Watson-Jones):** дисфункция на абдукторите при частично отделяне на m. gluteus medius; увреда на n. gluteus superior при удължена проксимална дисекция.
+
+**Директен латерален (Hardinge):** увреда на n. gluteus superior (при удължена проксимална дисекция >5 cm); преходна слабост на абдукторите в 4–20%; трайна слабост на абдукторите и походка на Тренделенбург при денервация; болка в трохантерната зона и трайно накуцване.
+
+**Заден (Moore / Kocher-Langenbeck):** увреда на n. ischiadicus (1–3% при планови процедури, по-висока при репозиция на задни луксации); задна луксация на тазобедрената ендопротеза (исторически 3–5%, намалени до под 1% с прецизна капсулна пластика и 36 mm глави); хетеротопична осификация (по-честа от другите достъпи); AVN на главата при дезинсерция на m. obturatorius externus и капсулната рефлексия.
+
+**Трохантерна флип по Ganz:** псевдоартроза на остеотомия на trochanter major (1–5%); хетеротопична осификация; слабост на абдукторите при неправилна реинсерция на трохантера.
+
+**Медиален (Ludloff):** увреда на n. obturatorius (преден клон); слабост на аддукторите; ограничен достъп до ацетабуларния свод.
+
+**Артроскопия:** невропатия на n. pudendus или n. peroneus при прекомерна тракция; перфорация на ставната капсула с екстравазация на иригат; ятрогенно увреждане на ставния хрущял; персистираща болка от нелекуван FAI.
+
+**Обща тромбоемболична профилактика.** ТБС-хирургията носи висок риск от ВТЕ (без профилактика — 40–60% DVT, 4–7% симптоматична PE). Стандарт е LMWH (еноксапарин 40 mg/24 ч) или директни орални антикоагуланти (rivaroxaban, apixaban) за 14–35 дни постоперативно при тотално ендопротезиране, в комбинация с механична профилактика (компресионни чорапи или интермитентни пневматични компресии) интраоперативно и до мобилизация.
+
+</div>
+</details>
+</section>
+
+
+
+## Местни приноси
+<!-- toc-h2 -->
+<section class="topic-section" id="bulgarian">
+<details>
+<summary>Местни приноси</summary>
+<div class="ts-body">
+
+**Бойчо Бойчев <sup class="natflag">BG</sup> (1908–1992).** Създател на ортопедична школа в България; едноименното УСБАЛО „Проф. Бойчо Бойчев" в Горна баня. Тритомната *Оперативна ортопедия и травматология* (София) остава референция в курикулума и съдържа подробни описания на класическите тазобедрени достъпи в българската традиция. Класическата петстепенна таксономия на достъпите (предни, странични, задни, медиални, комбинирани) с дефинирани анатомични интервали е базата на оперативния стандарт. Закритата тунелна извънставна артродеза по Бойчев е разработена специално за туберкулозен коксит в стадий на затихване: със специален инструментариум се прави канал през хълбочната кост, шийката и трохантера, в който се поставя присадък без отваряне на ставата — техниката минимизира риска от реактивиране на специфичния процес.
+
+**Холевич <sup class="natflag">BG</sup>.** Многостранна школа в проксималната бедрена хирургия. Компресивна камера на Холевич-Владимиров (3 размера — широка, средна, тясна) с нагаждащ Г-образен скоба-насочвач и компресивен щифт за варизираща интертрохантерна остеотомия — постига компресия без ригидна плака и без следоперативен гипс. Обратна пирон-плака на Холевич за валгизираща остеотомия при coxa vara congenita при 4–5-годишно дете с предварително определен страничен тъп ъгъл (комплементарен на необходимата валгизация — 150° за 30° валгизация). Компресивна артродеза на Холевич с два кръстосани пирона (15–22 cm) и натягач — 14–16 kg компресия, ставане на 5–7-ия ден без гипс; пироните се изваждат след 6–8 месеца. Затворена вътреставна артродеза по Холевич с преден достъп тип Smith-Petersen, частично декортициране на главата и ацетабулума и затвърждаване с компресивен винт — при хемианкилоза или забавено срастване. Модификации на Холевич за тотална артропластика при ВДТС у възрастни с висока изкълчена глава: депериостиране на проксималния фрагмент, ацетабуларно издълбаване до вътрешната ламела, аугментация с моделирана бедрена глава, правоъгълно стъбло (модификация на протезата на Сиваш). Транспозиция на m. tensor fasciae latae на съдово-нервно краче при парализа на абдукторите. Тридименсионалната корекция при адолесцентна епифизиолиза по Imhäuser в модификация на Холевич-Джеров.
+
+**Vladimirov <sup class="natflag">BG</sup>.** Компресивна камера на Холевич-Владимиров; гръбест автоостеотрансплантат с глава на fibula за заместване на дефект между ацетабулума и проксималния край на бедрената кост при обширни резекции след тумор или инфекция. Лавсанодеза при парализа на бедрените екстензори по Владимиров-Холевич — паравертебрално под m. erector spinae и през костен канал в долната част на trochanter major с кръстосване през m. gluteus maximus.
+
+**Тенев <sup class="natflag">BG</sup>.** Техника при централна луксация на главата (luxatio coxae centralis): специален винт 12–13 cm с два нареза през trochanter major до бедрената глава с външно фиксиране в гипсова превръзка за латерализация на главата. Лявостранен екстраперитонеален лумбален достъп за гръднопоясния преход (виж и Тема Анатомия-1) с медиална ретракция на m. quadratus lumborum.
+
+**Желев <sup class="natflag">BG</sup>.** Заден достъп с форма на обратен въпросителен знак — комбинира заден кожен разрез започващ зад SIAS с дъговидно слизане надолу и назад по средата на разстоянието между трохантера и хълбочния гребен; широко разкритие на ставата заедно със задната колона на ацетабулума и n. ischiadicus — особено ценен при едновременна работа върху задна колона и тазобедрена става (фрактури-луксации с ангажиране на задната колона). Полупрофилно центриране по Желев с косо насочване на лъча 45° за визуализация на задния ръб на ацетабулума.
+
+**Герчев <sup class="natflag">BG</sup>.** Българска комплексна ендопротеза с две взаимозаменяеми бедрени стъбла (за механична фиксация и за цимент), главичка 32 mm, три размера дължина на шийката; два варианта на ацетабуларна протеза (за механична фиксация с титаниева спирално назъбена външна капсула и за циментирана с полиетиленова външна капсула); ставна чашка от полиетилен, която може да бъде заменена с малка операция. Възможност за хибридна фиксация — циментиран фемур с безциментен ацетабулум и обратно — съобразно костното качество. Достъп най-често предно-външен или задно-външен (по Холевич) с остеопластично отсичане на трохантера.
+
+**Андреев-Герчев-Цачев <sup class="natflag">BG</sup>.** Широка резекция на проксималния фемур за тумор или травматичен дефект до 15 cm под върха на трохантера — специално бедрено стъбло с конична проксимална част и набор от гривни с различен диаметър замества дефекта; периферната част е стандартно стъбло. Стандартна ацетабуларна капсула от ендопротезата „Етропал ДМП" се закрепва механично или с цимент.
+
+**Илиев <sup class="natflag">BG</sup>.** Външен фиксатор за интертрохантерна остеотомия в детска възраст — фиксиран към трохантерния масив и към субтрохантерната диафиза; интертрохантерната остеотомия с вибриращ трион позволява точно прецизиране на антеверзията и валгитета с механизъм на завъртане. Поставят се киршнерови игли успоредно на необходимия ъгъл, корекцията се фиксира с пирон-плака.
+
+**Иванов <sup class="natflag">BG</sup>.** Shelf-acetabuloplasty с присадък 1,5×5–6 cm близо до incisura ischiadica major; вътрешният кортикален слой се разсича с длето без пълно отделяне, присадъкът се завърта навън над капсулата с огъване на външния кортикален слой и се фиксира с киршнерова игла — биомеханично елегантно решение без пълно остеотомиране.
+
+**Игнатов <sup class="natflag">BG</sup>.** Модификация на Колонна-Захрадничек при висока ВДТС у дете — напречна остеотомия дистално от trochanter minor със суперпозиция на двата фрагмента и завъртане за деротация — намалява риска за нарушаване на кръвоснабдяването на проксималния фрагмент при класическата сагитална остеотомия.
+
+**Кожухаров <sup class="natflag">BG</sup>.** Г-образна пирон-плака за пертрохантерни фрактури (българска школа) — пирон в шийката и плака по диафизата с 4 винта; репозиция на тракционна маса; остеосинтеза през страничен разрез 15–20 cm над и под трохантера.
+
+**Балчев <sup class="natflag">BG</sup>.** Модифицирана артропластика с биологичен интерпониум — фасциен присадък от tractus iliotibialis 15×8 cm, обвит с влажен компрес; прокарва се трион на Gigli под трохантера и се остеотомира трохантерният масив; ставната повърхност на главата се покрива с фасциен присадък, фиксиран с конци; поддържане на около 1 cm дистракция в продължение на 20–30 дни с обръч от апарата на Илизаров. Смесена артродеза по Балчев — остеотомия на главата и шийката с обработка на горната повърхност на главата, шийката и предно-задния жлеб на fossa trochanterica, в който се вмъкват вертикални костни пластинки от хълбочното крило с покритие от външна ламина. Въвеждане в България на комбинацията Колонна-Захрадничек.
+
+**Чоканов <sup class="natflag">BG</sup>.** Смесена артродеза, комбинираща вътреставна спойка с илио-феморално примостяване в два варианта — вертикално-присадъчна (трансплантат с триъгълна форма) и хоризонтално-присадъчна (правоъгълен трансплантат от crista iliaca, заклинен в подготвен жлеб на трохантера и шийката).
+
+**Каймакчиев <sup class="natflag">BG</sup>.** Модификация на перкутанната вертебрална биопсия (приложима при паравертебрални абсцеси около ТБС) и инструментирана спондилодеза при идиопатична юношеска сколиоза в комбинация с В. Танчев.
+
+**Карчинов <sup class="natflag">BG</sup>.** Доразработка на атипичната артродеза с Кюнчеров пирон със специален апарат за насочване — централен пирон през хълбочната и бедрената кост — особено приложима при асимилация на главата и шийката (като при тежък ВДТС).
+
+**Дейл (Dial) <sup class="natflag">BG</sup>.** Косата остеотомия на трохантера при обратно наклонена фрактура с неуспех на стандартна остеосинтеза — преориентиране осигурява стабилна биомеханика.
+
+От класическата руска и украинска школа, плътно вписани в българския курикулум:
+
+**Р. Р. Вреден <sup class="natflag">RU</sup>.** Закрита вътреставна артродеза по Вреден — страничен разрез върху trochanter major, m. vastus lateralis разцепен надлъжно, водач през трохантера, шийката и главата; цилиндричен фрез издълбава канал, преминаващ и през ацетабулума, в който се набива костен присадък от tibia. Имобилизация в поясно-крачолен гипс за 3 месеца. Комбиниран предно-страничен достъп Чаклин-Вреден с отсичане на trochanter major.
+
+**В. Д. Чаклин <sup class="natflag">RU</sup>.** Модификация на Ober с по-малък заден кожен разрез и частична мобилизация на m. tensor fasciae latae заедно с лента от tractus iliotibialis за транспозиция при парализа на абдукторите.
+
+**Я. Л. Цивьян <sup class="natflag">RU</sup>.** Прилага клиновидна остеотомия с приложение и при висока изкълчена ТБС у възрастен.
+
+**А. А. Корж <sup class="natflag">UA</sup>.** Класически модификации на ставосъхраняваща и реконструктивна хирургия в украинска ортопедична школа.
+
+**Юмашев, Фурман <sup class="natflag">RU</sup>.** Цилиндрични костни трепани с ротация на трансплантата на 90° за по-голяма механична стабилност при артродеза и предни интертелесни спондилодези.
+
+**Сиваш <sup class="natflag">RU</sup>.** Първата комбинирана стандартна тотална ТБС-ендопротеза (1958) — стъбло и ацетабулум в обща конструкция, широко използвана в Източния блок; концепцията на Сиваш е база за съвременните модулни системи и за модификацията на Холевич за ВДТС у възрастни.
+
+**Илизаров <sup class="natflag">RU</sup>.** Пръстеновидният външен фиксатор и принципът на дистракционна остеогенеза — приложими в тазобедрената хирургия за компресивна артродеза, за подготовка на висока ВДТС у дете чрез постепенна дистракция, и за Bogoraz-Илиев сегментна тазобедрена дистракция. Двустранна костна тракция с обръчи (два дистални обръча на бедрото и два проксимални — единият със спици през хълбочната кост над ацетабулума, втория през crista iliaca под SIAS) с шпилки за компресия — особено полезна при значителна костна загуба или активна инфекция, при които вътрешна метална фиксация е противопоказана.
+
+</div>
+</details>
+</section>
+
+
+
+## Класически източници
+<!-- toc-h2 -->
+<section class="topic-section" id="classical">
+<details>
+<summary>Класически източници</summary>
+<div class="ts-body">
+
+<aside class="callout callout-classical">
+  <strong>Класическа линия — хирургия на тазобедрената става</strong>
+  <p>Хирургията на тазобедрената става в съвременния си смисъл е продукт на края на XIX век, когато антисептичното лечение на раните по Listерова рамка превръща ставната резекция и артродезата от риск за живота в стандартна процедура. Линията на еволюция:</p>
+  <ul>
+    <li><strong>Hueter 1880</strong> — преден анатомичен интервал в <a href="https://archive.org/details/archivfrklinisc11unkngoog" target="_blank" rel="noopener noreferrer">Langenbeck-Archiv für klinische Chirurgie</a>.</li>
+    <li><strong>Lorenz 1895</strong> — безкръвната репозиция при ВДТС (<a href="https://archive.org/details/b21290441" target="_blank" rel="noopener noreferrer">монография 1895 г.</a>).</li>
+    <li><strong>Hoffa 1905</strong> — оперативната хирургия на ТБС в <a href="https://archive.org/details/lehrbuchderortho00hoff" target="_blank" rel="noopener noreferrer">*Lehrbuch der orthopädischen Chirurgie*</a>.</li>
+    <li><strong>Ludloff 1908</strong> — медиалният достъп.</li>
+    <li><strong>Smith-Petersen 1917</strong> — модерен преден достъп → 1937 тригранен пирон → 1939 vitallium-чашка.</li>
+    <li><strong>Hibbs 1911 / Albee 1885</strong> — основа на класическата артродеза.</li>
+    <li><strong>Watson-Jones 1936 → Hardinge 1982 → Ganz 2001</strong> — еволюция на латералните и трохантерно-флип достъпите със запазване на ACFM.</li>
+    <li><strong>Charnley 1962 → Müller 1968 → Wagner 1978</strong> — eволюция на тоталното ендопротезиране от нискотрението към модерните модулни системи.</li>
+    <li><strong>Salter 1961 → Pemberton 1965 → Dega 1969 → Steel 1973 → Chiari 1955</strong> — еволюция на тазовите остеотомии при дете и млад възрастен.</li>
+  </ul>
+</aside>
+
+Класически дескрипции по достъп и техника: Hueter 1880 (преден интервал); Lorenz 1895 (безкръвна репозиция); Hoffa 1905 (оперативна хирургия на ТБС); Ludloff 1908 (медиален достъп); Hibbs 1911 и Albee 1885 (артродеза); Smith-Petersen 1917 (преден достъп); Salter 1961 (innominate-остеотомия); Pemberton 1965 (перикапсуларна ацетабулопластика); Dega 1969 (непълна тазова остеотомия); Steel 1973 (тройна остеотомия); Chiari 1955 (медиализираща тазова остеотомия); Imhäuser 1957 (тридименсионална корекция при SCFE); Sugioka 1972 (трансторакантерна ротационна остеотомия); Watson-Jones 1936 (предно-латерален достъп); Hardinge 1982 (директен латерален); Moore 1957 (южен заден достъп); Kocher-Langenbeck (заден ацетабуларен); Ganz 2001 (трохантерна флип); McMurray 1939 (валгизираща при псевдоартроза); Pauwels 1935 (биомеханика и валгизираща остеотомия); Charnley 1962 (нискотрение); Sivash 1958 (комбинирана протеза); Wagner 1978 (resurfacing).
+
+Допълнителни класически източници: **Бир / Браун / Кюммел** (1920), *Chirurgische Operationslehre*, бд. 3 — хирургия на таза и долния крайник ([Факсимиле](https://archive.org/details/chirurgischeoperationslehre1920v1)). **Langenbeck-Archiv für klinische Chirurgie** (от 1860) — първоописания на много еспоними ([Поредица в Internet Archive](https://archive.org/details/archivfrklinisc11unkngoog)). **Бойчо Бойчев**, *Оперативна ортопедия и травматология* (тритомник, София) — класическият учебник на българската ортопедична школа с подробно описание на тазобедрените достъпи, артродези, артропластики, операции при ВДТС и петстепенната таксономия на достъпите.
+
+</div>
+</details>
+</section>
+
+
+
+## Препоръчителна литература
+<!-- toc-h2 -->
+<section class="topic-section" id="literature">
+<details>
+<summary>Препоръчителна литература</summary>
+<div class="ts-body">
+
+1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Стандартното оперативно ръководство с диаграматични илюстрации на интернервните плоскости и стъпковата техника за Smith-Petersen, Watson-Jones, Hardinge, Kocher-Langenbeck, Moore и Ludloff — основен учебник за резидентската подготовка по достъпите.*
+2. **Callaghan JJ, Rosenberg AG, Rubash HE, eds.** *The Adult Hip.* 2nd ed. Philadelphia: Lippincott Williams & Wilkins; 2007. — *Двутомната „библия" на тазобедрената хирургия със системно представяне на анатомия, биомеханика, артропластика и ставосъхраняваща хирургия; референция за съвременната ендопротезика и за класическата еволюция от Charnley през Müller и Wagner до модулните системи.*
+3. **Iyer KM, ed.** *The Hip Joint.* Singapore: Jenny Stanford; 2021. ISBN 978-981-4877-95-8. — *Модерно ръководство, обхващащо анатомия, биомеханика, патология и оперативно лечение с акцент върху ставосъхраняващата хирургия (FAI, лабрални разкъсвания, Ganz-флип) и съвременното тотално ендопротезиране.*
+4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Класическа дескриптивна анатомия с акцент върху функционалните отношения; референция за съдово-нервната топография на тазобедрената става и за прецизното разбиране на хода на n. ischiadicus, n. gluteus superior, n. cutaneus femoris lateralis и a. circumflexa femoris medialis.*
+5. **Byrd JWT.** *Operative Hip Arthroscopy.* 3rd ed. New York: Springer; 2013. — *Стандартен референтен труд за артроскопската хирургия на ТБС — портали, периферен и централен компартмент, FAI, лабрални разкъсвания.*
+6. **Бойчев Б, ред.** *Оперативна ортопедия и травматология* (тритомник; София). — *Класическият учебник на българската ортопедична школа; глави за тазобедрена хирургия, артродези, артропластики, операции при ВДТС, петстепенна таксономия на достъпите и оперативни принципи на школата на УСБАЛО „Проф. Бойчо Бойчев".*
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-8: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

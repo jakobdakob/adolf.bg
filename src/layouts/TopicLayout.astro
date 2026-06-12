@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
-import TopicTOC from "../components/TopicTOC.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
 
@@ -103,7 +102,6 @@ const eyebrow =
         ) : <span />}
       </nav>
     </article>
-    <TopicTOC lang={lang} headings={headings} />
   </div>
 </BaseLayout>
 

@@ -1861,20 +1861,27 @@ html[data-theme="dark"] .btn-viber:hover {
   position: relative;
 }
 .prose .topic-section > details > summary { /* unchanged */ }
-/* V4 hidden section/subsection anchors used to populate the right-sidebar
-   TopicTOC. The visible section headers live inside <summary>, so the H2/H3
-   anchors need to disappear visually but stay as scroll targets. Using
-   font-size:0 + height:0 keeps them in normal flow so :target/scroll works
-   from the right spot, and scroll-margin-top accounts for the sticky header. */
-.prose:has(.topic-section) h2,
+/* Wikipedia-style layout: section H2/H3 headers now visible as section
+   markers. Sections are no longer collapsible — the inline TOC at top is
+   the only collapsible block. */
+.prose:has(.topic-section) h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 2.2em 0 0.6em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid var(--rule);
+  scroll-margin-top: 96px;
+}
 .prose:has(.topic-section) h3 {
-  font-size: 0 !important;
-  line-height: 0 !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
-  overflow: hidden;
+  font-size: 1.18rem;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 1.6em 0 0.4em;
+  scroll-margin-top: 96px;
+}
+.prose .topic-section,
+.prose .topic-subsection {
   scroll-margin-top: 96px;
 }
 /* Sticky header offset for ALL anchor jumps (sections, callouts, figures). */

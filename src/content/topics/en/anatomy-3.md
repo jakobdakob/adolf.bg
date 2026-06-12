@@ -41,34 +41,27 @@ order: 203
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</details>
+</section>
 
 
 
 ## Overview
 <section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
+
 
 The arm (regio brachii), extending from the shoulder to the elbow, contains the humerus and its surrounding muscular envelope, with the principal neurovascular structures — musculocutaneous nerve, radial nerve, median nerve, ulnar nerve, brachial artery, and brachial vein — traversing the segment in characteristic relationships to the bone. Surgical approaches to the humerus are dictated by the location of pathology along its length and, above all, by the proximity of the radial nerve to the periosteum in the spiral groove — the principal neurological consideration in approaches to the middle and distal thirds. The two main approaches — the anterolateral for the proximal and middle thirds, and the posterior for the middle and distal thirds — together provide access to most regions of the diaphysis; the medial Karagyozov approach and the distal-lateral approach are specialised variants from the Bulgarian operative school. This chapter presents the regional surgical anatomy, the principal operative approaches, and the classical operative techniques (Hackenthal, Küntscher, AO/Kozhuharov plating, osteotomies, lengthening, amputations, muscle transfers) embedded in the curriculum of the University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya.
 
-</div>
-</details>
 </section>
 
 
 
 ## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
-<details>
-<summary>Surgical Anatomy</summary>
-<div class="ts-body">
+
 
 
 ### Bony Anatomy and Compartments
-<details id="bony-anatomy">
-<summary>Bony Anatomy and Compartments</summary>
+<section class="topic-subsection" id="bony-anatomy">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -126,12 +119,11 @@ The **posterior compartment** contains triceps brachii with its three heads (lon
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Regional Borders and Surface Landmarks
-<details id="regional-landmarks">
-<summary>Regional Borders and Surface Landmarks</summary>
+<section class="topic-subsection" id="regional-landmarks">
 <div class="ts-body">
 
 Classical anatomy defines the proximal border of the regio brachii as the arcuate line joining the lower border of pectoralis major with that of latissimus dorsi and the teres major tendon; the distal border lies approximately 5–6 cm proximal to the two humeral condyles. On either side of biceps brachii two longitudinal sulci form — the medial bicipital groove and the lateral bicipital groove.
@@ -170,12 +162,11 @@ The skin over the anteromedial surface is thin and freely mobile; over the anter
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Radial Nerve and Canalis Humeromuscularis
-<details id="radial-nerve">
-<summary>Radial Nerve and Canalis Humeromuscularis</summary>
+<section class="topic-subsection" id="radial-nerve">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -215,12 +206,11 @@ After traversing the spiral groove, the radial nerve pierces the lateral intermu
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Musculocutaneous Nerve
-<details id="musculocutaneous">
-<summary>Musculocutaneous Nerve</summary>
+<section class="topic-subsection" id="musculocutaneous">
 <div class="ts-body">
 
 The musculocutaneous nerve branches from the lateral cord of the brachial plexus and pierces coracobrachialis typically 5–8 cm distal to the coracoid. It then runs between biceps and brachialis in the anterior compartment, supplying the three muscles of the compartment (coracobrachialis, both heads of biceps brachii, and the lateral two-thirds of brachialis). It emerges from the lateral border of biceps as the lateral antebrachial cutaneous nerve (sensory) at the level of the elbow.
@@ -236,12 +226,11 @@ In the anterolateral approach the nerve is protected within the corridor between
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Brachial Artery, Median and Ulnar Nerves
-<details id="brachial-bundle">
-<summary>Brachial Artery, Median and Ulnar Nerves</summary>
+<section class="topic-subsection" id="brachial-bundle">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -259,30 +248,25 @@ The brachial artery descends along the medial bicipital groove between biceps an
 The profunda brachii artery branches from the brachial artery in the proximal third and accompanies the radial nerve in the canalis humeromuscularis — its injury during a posterior approach without identification is a real cause of intraoperative haemorrhage and of a risky post-periosteal haematoma.
 
 </div>
-</details>
+</section>
 
 
 ### Intermuscular Septa
-<details id="septa">
-<summary>Intermuscular Septa</summary>
+<section class="topic-subsection" id="septa">
 <div class="ts-body">
 
 The lateral intermuscular septum separates the anterior and posterior compartments laterally and runs from the deltoid tuberosity to the lateral epicondyle. The medial intermuscular septum is the medial counterpart — from the coracobrachialis insertion to the medial epicondyle. The radial nerve pierces the lateral intermuscular septum at the junction of the middle and distal thirds of the humerus — a critical anatomical landmark for identifying the nerve in the anterolateral and distal-lateral approaches. The ulnar nerve pierces the medial intermuscular septum in the distal third and passes posterior to it toward the groove of the medial epicondyle.
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
-<details>
-<summary>Pathophysiology and Mechanism</summary>
-<div class="ts-body">
+
 
 The pathology of the arm region is dominated by three categories: traumatic (shaft fractures with risk of radial nerve injury, proximal and distal humeral fractures with risk to the glenohumeral and elbow joints, muscle ruptures), neurocompressive (radial nerve compression in the canalis humeromuscularis, high radial palsy at the arcade of Frohse), and tumour/infection (primary and metastatic humeral tumours, osteomyelitis, essential bone cyst in the proximal metaphysis).
 
@@ -296,17 +280,13 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
 
 **Essential bone cyst.** The proximal humeral metaphysis is one of the typical sites for essential (juvenile or aneurysmal) bone cyst, presenting with pathological fracture; the risk of physeal injury and recurrence is higher in younger children.
 
-</div>
-</details>
 </section>
 
 
 
 ## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical">
-<details>
-<summary>Clinical Presentation and Diagnosis</summary>
-<div class="ts-body">
+
 
 **Radial palsy.** The classical presentation is wrist drop with complete loss of extension of the wrist, fingers, and thumb, and sensory loss over the dorsal first/second metacarpal spaces. Preserved elbow extension (triceps innervated proximal to the spiral groove) indicates that the lesion is distal to the spiral groove; lost elbow extension indicates a proximal lesion. Electrodiagnostic study (ENMG) at 3–4 weeks distinguishes neurapraxia (recovery) from axonotmesis/neurotmesis (warranting exploration).
 
@@ -335,17 +315,13 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Classification
 <section class="topic-section" id="classification">
-<details>
-<summary>Classification</summary>
-<div class="ts-body">
+
 
 **Shaft fractures (AO/OTA 12).** 12-A simple two-part (A1 spiral, A2 oblique, A3 transverse); 12-B wedge with a fragment in the fracture zone (B1 spiral wedge, B2 bending wedge, B3 fragmented wedge); 12-C complex/segmental (C1 spiral, C2 segmental, C3 fragmented). Location is denoted by an additional digit — 1 (proximal third), 2 (middle third), 3 (distal third).
 
@@ -357,22 +333,17 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
 
 **Hertel criteria for head ischaemia.** Calcar length below 8 mm, disruption of the medial hinge, and a basic displaced fragment are independent predictors of avascular necrosis in proximal humeral fractures.
 
-</div>
-</details>
 </section>
 
 
 
 ## Treatment
 <section class="topic-section" id="treatment">
-<details>
-<summary>Treatment</summary>
-<div class="ts-body">
+
 
 
 ### Nonoperative
-<details id="nonoperative">
-<summary>Nonoperative</summary>
+<section class="topic-subsection" id="nonoperative">
 <div class="ts-body">
 
 Nonoperative treatment remains first choice for most humeral shaft fractures because of the segment's tolerance to mild angular and rotational deficit and the high union rate. The classical methods are:
@@ -397,20 +368,18 @@ Nonoperative treatment remains first choice for most humeral shaft fractures bec
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Operative
-<details id="operative">
-<summary>Operative</summary>
+<section class="topic-subsection" id="operative">
 <div class="ts-body">
 
 Absolute indications for operative treatment of closed shaft fractures: unacceptable conservative alignment, segmental fractures, pathological fractures, polytrauma patients, floating elbow with ipsilateral forearm fracture, bilateral humeral fractures, fractures with primary or secondary radial palsy requiring exploration, and failure of the conservative trial. Open fractures are an independent indication for debridement and stabilisation.
 
 
 ### Surgical Approaches
-<details id="approaches">
-<summary>Surgical Approaches</summary>
+<section class="topic-subsection" id="approaches">
 <div class="ts-body">
 
 <details>
@@ -454,7 +423,7 @@ The anterolateral approach provides access to the proximal and middle thirds of 
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterior Approach (Triceps-Splitting and Paratricipital Variants)</summary>
@@ -502,7 +471,7 @@ The posterior approach provides access to the middle and distal thirds of the hu
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterolateral Approach</summary>
@@ -515,7 +484,7 @@ The skin incision runs along the posterior border of deltoid, reaches its insert
 In the distal end of the wound the radial nerve emerges through the lateral intermuscular septum and lies in front of it, continuing distally between brachioradialis and brachialis — this anatomical landmark sets the distal boundary of safe extension without explicit nerve identification. The approach is particularly suited to plate fixation of the lateral column for proximal and mid-diaphyseal fractures when the anterior approach is compromised by soft-tissue injury.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Distal-Lateral Approach</summary>
@@ -535,7 +504,7 @@ Specific indications: open reduction of distal diaphyseal and metaphyseal fractu
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Medial Approach — Neurovascular Bundle and the Karagyozov Approach</summary>
@@ -563,7 +532,7 @@ The approach is preferred for:
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Anterior Approach to the Distal Humerus</summary>
@@ -574,15 +543,14 @@ The anterior approach to the distal humerus is used for selected procedures invo
 A longitudinal incision is made over the anterior aspect of the distal arm in the line of the brachial artery. Brachialis is identified and retracted laterally; biceps is retracted medially. The brachial artery and median nerve are identified and retracted as needed. The anterior aspect of the distal humerus is exposed. The approach is occasionally extended distally as the Henry approach to the proximal forearm and elbow (see Topic Anatomy-5).
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
 
 ### Surgical Technique
-<details id="technique">
-<summary>Surgical Technique</summary>
+<section class="topic-subsection" id="technique">
 <div class="ts-body">
 
 <details>
@@ -592,7 +560,7 @@ A longitudinal incision is made over the anterior aspect of the distal arm in th
 For selected mid-shaft fractures (particularly stable transverse patterns in younger patients), closed reduction and percutaneous crossed Kirschner wires from both epicondyles, driven retrograde into the medullary canal of the proximal fragment, may provide adequate stability. The classical Bulgarian modification uses two percutaneous wires from the medial side and two from the lateral side, protruding 2–3 mm from each cortex; two tension-band wires (medial and lateral) are woven and tightened around the protruding wire ends to form a tension-band construct that achieves sufficient stability without exposing the fracture.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Hackenthal Intramedullary Bundle Nailing</summary>
@@ -601,7 +569,7 @@ For selected mid-shaft fractures (particularly stable transverse patterns in you
 The Hackenthal technique uses a bundle of thin (3–4 mm) steel pins introduced through a hole drilled over the olecranon fossa, advanced retrograde into the medullary canal until the canal is filled. A 5 cm posterior incision starts 4–5 cm proximal to the olecranon in the midline; the triceps fascia and fibres are split, the periosteum is exposed over the olecranon fossa, and the bone is perforated with a drill or gouge. Four to six pins are sequentially introduced, each wedging in the proximal metaphysis and adding stability. The method is particularly suited to stable transverse and short-oblique mid-shaft fractures in older patients; limitations include inability to provide rigid rotational stability and unsuitability for segmental and highly comminuted patterns.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Küntscher Nail — Antegrade and Retrograde Techniques</summary>
@@ -616,7 +584,7 @@ The classical Küntscher medullary nail may be inserted through either of two ap
 When the nail is undersized for the canal and rotational stability is inadequate, the classical Bulgarian recommendation is to drill a small hole in the lateral cortex of both fragments near the fracture and pass a tension-band wire that is tightened after nail insertion. Additional elevation of bone tongues at the fracture line ("peel technique") promotes osteogenesis.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Compression Plate Osteosynthesis (AO/Kozhuharov)</summary>
@@ -625,7 +593,7 @@ When the nail is undersized for the canal and rotational stability is inadequate
 Plate fixation, preferably with dynamic compression plates (DCP) or modern locking compression plates (LCP), is well suited to the humerus and provides rigid stabilisation with a high primary union rate. The Bulgarian Kozhuharov modification of the AO technique uses a pre-contoured compression plate with at least 8 cortices per fragment (6 for smaller bones or metaphyseal-diaphyseal junctions). The approach is anterolateral for the proximal and middle thirds or posterior for the middle and distal thirds (with explicit identification of the radial nerve). Fragments are reduced and the plate is temporarily fixed with bone clamps (Verbrugge or Lambotte). Three central holes are drilled in each fragment, the plate is tensioned in compression mode, and definitive screws are placed. A suction drain is left and the wound is closed in layers. With stable fixation, postoperative immobilisation is limited to a Velpeau or Desault sling for 2–3 weeks, followed by early functional rehabilitation.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>External Fixation</summary>
@@ -643,7 +611,7 @@ External fixation is indicated for open fractures with extensive soft-tissue los
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Bridging Defects and Pseudarthrosis</summary>
@@ -656,7 +624,7 @@ The classical Boychev/Cleveland technique uses a double cortico-cancellous tibia
 The modern equivalent for septic non-union is the Masquelet (induced membrane) technique or segmental bone transport with an Ilizarov frame; for aseptic atrophic non-union — compression plate osteosynthesis with autologous iliac crest cancellous grafts. Vascularised free fibular transfer remains an option for severe segmental defects exceeding 6 cm in a poorly vascularised bed.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Valgus Osteotomy of the Proximal Metaphysis</summary>
@@ -669,7 +637,7 @@ The patient is supine with a sandbag under the scapula. An 8 cm incision is made
 Definitive fixation uses a compression plate or a 90°/95° angled blade plate calculated to the corrective wedge angle. When combined shortening is significant — as in congenital humerus varus — the valgus osteotomy can serve as the preparatory stage prior to simultaneous lengthening with an external apparatus. The goal of valgisation is restoration of a more favourable mechanical lever for biceps brachii and of the normal diaphyseal-epiphyseal angle, which improves active shoulder abduction.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Derotation Osteotomy</summary>
@@ -678,7 +646,7 @@ Definitive fixation uses a compression plate or a 90°/95° angled blade plate c
 Derotation osteotomy is indicated for rotational deformity after consolidated fracture, for fixed internal-rotation contracture in obstetric brachial plexus palsy, and as an adjunct in the treatment of habitual shoulder dislocation, where redirection of the head into external rotation provides mechanical stability for the anterior capsulolabral complex. Access is via an anterolateral approach to the middle third or a deltopectoral approach for the proximal metaphysis. After subperiosteal exposure a transverse osteotomy is performed, the distal fragment is rotated as desired (typically 30–60° of external rotation) under fluoroscopy, and the segments are fixed with a compression plate or an interlocking intramedullary nail allowing precise rotational correction.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Humeral Lengthening (Ilizarov / Kozhuharov)</summary>
@@ -703,7 +671,7 @@ As an alternative, the Kozhuharov single-side fixator may be used, offering grea
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Operative Treatment of Essential Bone Cyst</summary>
@@ -716,7 +684,7 @@ Under general anaesthesia, with the limb on a side table, a deltopectoral incisi
 Cancellous autograft gives faster incorporation but requires an additional procedure; classical Bulgarian experience shows that preserved (lyophilised or deep-frozen) allograft gives adequate results. A cast is required only after pathological fracture (4–6 weeks); otherwise early functional rehabilitation with load restriction for 8–12 weeks is advised. Long-term follow-up at 3, 6, and 12 months is mandatory because of a real recurrence rate.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Biceps Brachii Rupture — Operative Repair</summary>
@@ -741,7 +709,7 @@ The classical Christeas reinforcement adds a transversely applied patch of fasci
 Postoperatively a Velpeau dressing at flexed elbow is maintained for 3 weeks before progressive active and passive mobilisation to full function at 8–12 weeks.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Arm Fasciotomy</summary>
@@ -750,7 +718,7 @@ Postoperatively a Velpeau dressing at flexed elbow is maintained for 3 weeks bef
 The arm compartments are the anterior (biceps, brachialis, coracobrachialis) and the posterior (triceps). Arm compartment syndrome is uncommon but can occur after high-energy trauma, vascular injury with reperfusion, or prolonged immobilisation. Fasciotomy of the arm involves anterior compartment release through a longitudinal anterior incision with division of the overlying fascia, and posterior compartment release through a longitudinal posterior incision with division of the fascia over triceps. Both incisions can be combined with carpal tunnel release if hand compartment syndrome is also present.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Above-Elbow (Supracondylar) Amputation</summary>
@@ -767,7 +735,7 @@ The brachial artery and veins are doubly ligated (0 or 1 sutures with transfixio
 The entire anterior muscle mass is elevated to expose the bone. The periosteum is incised circumferentially, the bone is stripped over 5 mm, and the humerus is divided transversely with an oscillating or Gigli saw; edges are bevelled and rounded with a file. Triceps is divided, drawn forward as a posterior flap, and sutured to brachialis and biceps — a myodesis providing stable muscular coverage of the bone end and improving stump function. A suction drain is placed and the fasciocutaneous flaps are sutured in the midline without tension.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Cineplastic Amputation — Biceps Cineplasty</summary>
@@ -782,7 +750,7 @@ A skin tube (formed from a free or local flap) is passed through the muscle tunn
 Cineplastic amputations remain historically relevant and have been largely replaced by modern myoelectric prostheses, in which surface electrodes capture myographic signals from the muscle belly without a skin tunnel; the concept retains educational value for understanding classical amputation surgery and for revision cases with a pre-existing tunnel.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Tendon Transfers and Muscle Transpositions for Functional Loss</summary>
@@ -805,15 +773,14 @@ For combined injuries with biceps palsy (musculocutaneous nerve injury or combin
 For post-traumatic habitual shoulder dislocation the derotation osteotomy of the proximal humerus (see above) may serve as an adjunct to anterior stabilisation — redirecting the head into external rotation places the anterior capsulolabral complex on a more favourable mechanical axis.
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
 
 ### Postoperative Care
-<details id="postoperative">
-<summary>Postoperative Care</summary>
+<section class="topic-subsection" id="postoperative">
 <div class="ts-body">
 
 **After plate osteosynthesis.** Soft Velpeau or Desault sling for 2–3 weeks; early functional rehabilitation — active pendulum exercises from day 1, progressive active-assisted from week 2, loaded active exercises from week 6 on radiographic signs of union.
@@ -827,22 +794,18 @@ For post-traumatic habitual shoulder dislocation the derotation osteotomy of the
 **After radial nerve revision.** Dynamic splint maintaining functional wrist position (30° extension) for the first 6 weeks; ENMG follow-up at 3 and 6 months to document reinnervation.
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Outcomes and Complications
 <section class="topic-section" id="outcomes">
-<details>
-<summary>Outcomes and Complications</summary>
-<div class="ts-body">
+
 
 **Anterolateral approach.** Musculocutaneous nerve injury (rare; preserved within the muscle split), radial nerve injury (the principal concern when the approach is extended into the distal third), elbow stiffness with distal extension and extensive soft-tissue disturbance.
 
@@ -860,17 +823,13 @@ For post-traumatic habitual shoulder dislocation the derotation osteotomy of the
 
 **Lengthening and osteotomies.** Pin-track infection (10–30%), delayed regenerate formation, regenerate fracture on premature frame removal, iatrogenic radial or vascular injury from misplaced wires through the radial canal.
 
-</div>
-</details>
 </section>
 
 
 
 ## Local Contributions
 <section class="topic-section" id="bulgarian">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
+
 
 **Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference and contains detailed descriptions of the classical approaches to the arm and humerus, including the anterolateral, posterolateral, and medial approaches, as well as the technique of bridging humeral defects with a double tibial graft (Boychev–Cleveland).
 
@@ -900,17 +859,13 @@ From the classical German, Russian, and French schools, tightly woven into the B
 
 **Henry <sup class="natflag">UK</sup>.** Classical extensile anterolateral approach from shoulder to wrist (1924), including extension of the distal humeral approach into the proximal forearm.
 
-</div>
-</details>
 </section>
 
 
 
 ## Classical Sources
 <section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
+
 
 <aside class="callout callout-classical">
   <strong>Classical lineage — arm surgery</strong>
@@ -927,17 +882,13 @@ Classical descriptions by approach: Velpeau 1832 (anterior anterolateral); Bergm
 
 Additional classical sources: **Bergmann–Bruns** (1899), *Handbuch der praktischen Chirurgie*; **Hoffa** (1905), *Lehrbuch der orthopädischen Chirurgie* (Stuttgart: Enke; <a href="https://archive.org/details/lehrbuchderortho00hoff">facsimile</a>); **Lexer** (1922), *Lehrbuch der allgemeinen Chirurgie*. **Langenbeck-Archiv für klinische Chirurgie** (from 1860) — first descriptions of many approaches and techniques.
 
-</div>
-</details>
 </section>
 
 
 
 ## Suggested Reading
 <section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
+
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *The standard operative manual, chapter-by-chapter, with diagrammatic illustrations of internervous planes and step-by-step technique for the anterolateral, posterior triceps-splitting, paratricipital, and distal-lateral approaches; reference for radial-nerve safe zones.*
 2. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Classical descriptive anatomy with emphasis on functional relationships; reference for the course of the radial nerve in the spiral groove, the brachial neurovascular relationships, and the intermuscular septa.*
@@ -945,8 +896,6 @@ Additional classical sources: **Bergmann–Bruns** (1899), *Handbuch der praktis
 4. **Thompson JC.** *Netter's Concise Orthopaedic Anatomy.* 2nd ed. Philadelphia: Saunders/Elsevier; 2015. ISBN 978-0-323-26418-0. — *Quick reference for muscles, vessels, and neurovascular topography of the humeral segment with the classical Netter illustrations; ideal spot-check for intraoperative decisions.*
 5. **Boychev B, ed.** *Operative Orthopaedics and Traumatology* (three volumes; Sofia). — *The classical Bulgarian orthopaedic textbook; chapters on the Karagyozov approach, Kozhuharov plate osteosynthesis, Boychev–Cleveland humeral defect bridging, and the classical amputation techniques.*
 
-</div>
-</details>
 </section>
 
 <script is:inline>

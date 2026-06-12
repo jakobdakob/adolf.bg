@@ -38,32 +38,25 @@ order: 209
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</details>
+</section>
 
 ## Overview
 
 <section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
+
 
 The thigh and knee region contains the longest bone in the body (femur), the largest joint (knee), and a complex muscular envelope that drives the principal movements of upright gait. The surgical approaches in this region are built around three anatomical constants: the three fascial compartments of the thigh with their nerves (femoral, obturator, sciatic), two fixed neurovascular "choke points" (the adductor canal proximally and the popliteal fossa distally), and the complex intracapsular architecture of the knee with menisci, cruciate and collateral ligaments. The chapter follows the classical Bulgarian school of Boycho Boychev — the University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya and his three-volume *Operative Orthopaedics and Traumatology* remain a curricular reference — supplemented by international standards from Hoppenfeld–deBoer–Buckley, Insall & Scott (Surgery of the Knee), Hollinshead, and modern references for ligament and arthroscopic surgery (Strobel, Chhabra–Elliott–Miller). The classical ACL and patellar procedures (Hey-Groves 1917, Macey 1939, Jones 1963, Lemaire 1967, MacIntosh 1972, Landa 1947), the line of total knee arthroplasty (Walldius 1951, Charnley 1958, Insall-Burstein 1974), and arthroscopy following Watanabe (1959), Jackson and Gillquist (1971) trace over a century of surgical evolution that remains part of orthopaedic training in Bulgaria.
 
-</div>
-</details>
 </section>
 
 ## Surgical Anatomy
 
 <section class="topic-section" id="surg-anatomy">
-<details>
-<summary>Surgical Anatomy</summary>
-<div class="ts-body">
+
 
 ### Thigh Compartments
 
-<details id="thigh-compartments">
-<summary>Thigh Compartments</summary>
+<section class="topic-subsection" id="thigh-compartments">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -96,12 +89,11 @@ The thigh has three fascial compartments separated by three intermuscular septa 
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Femoral Triangle and Adductor Canal
 
-<details id="femoral-triangle">
-<summary>Femoral Triangle and Adductor Canal</summary>
+<section class="topic-subsection" id="femoral-triangle">
 <div class="ts-body">
 
 **Femoral triangle (Scarpa).** Apex pointing distally; superior border — inguinal ligament; lateral — sartorius; medial — adductor longus; floor — iliopsoas laterally and pectineus medially. Contents from lateral to medial follow the NAVEL mnemonic: femoral nerve (outside the femoral sheath, deep to the iliac fascia), femoral artery, femoral vein, empty space (the femoral canal with Cloquet's lymph node), and lymphatic.
@@ -120,12 +112,11 @@ The femoral artery projects along a line from the midpoint of the inguinal ligam
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Popliteal Fossa
 
-<details id="popliteal-fossa">
-<summary>Popliteal Fossa</summary>
+<section class="topic-subsection" id="popliteal-fossa">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -154,12 +145,11 @@ The popliteal fossa is a rhomboid intermuscular hollow behind the knee. Borders:
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Bony and Articular Anatomy of the Knee
 
-<details id="knee-bones">
-<summary>Bony and Articular Anatomy of the Knee</summary>
+<section class="topic-subsection" id="knee-bones">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -185,12 +175,11 @@ The knee is a complex joint combining three distinct articulations within a comm
 **Proximal tibial bony landmarks.** Tibial tuberosity — attachment of the patellar tendon; Gerdy's tubercle on the lateral surface — attachment of the iliotibial tract; intercondylar eminence with anterior (for ACL tibial insertion) and posterior (for PCL) parts; retrograde from the tuberosity, on the anteromedial surface, lies the pes anserinus insertion (sartorius superficial, gracilis middle, semitendinosus posterior).
 
 </div>
-</details>
+</section>
 
 ### Menisci
 
-<details id="menisci">
-<summary>Menisci</summary>
+<section class="topic-subsection" id="menisci">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -221,12 +210,11 @@ The menisci are two fibrocartilaginous wedge-shaped structures (medial and later
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Cruciate and Collateral Ligaments
 
-<details id="cruciate-collateral">
-<summary>Cruciate and Collateral Ligaments</summary>
+<section class="topic-subsection" id="cruciate-collateral">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -261,12 +249,11 @@ The menisci are two fibrocartilaginous wedge-shaped structures (medial and later
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Posterolateral and Posteromedial Corner
 
-<details id="posterolateral-corner">
-<summary>Posterolateral and Posteromedial Corner</summary>
+<section class="topic-subsection" id="posterolateral-corner">
 <div class="ts-body">
 
 The three-layer concept of Seebacher–Inglis–Marshall–Warren (1982), refined by Hughston and by Chhabra and colleagues, divides the medial and lateral soft tissues into three layers for safe operative dissection:
@@ -284,12 +271,11 @@ The three-layer concept of Seebacher–Inglis–Marshall–Warren (1982), refine
 Surgical exposure of the LCL–popliteus "triangle" for acute PLC reconstruction requires the plane between layers I and II and identification of the "peroneal nerve corridor" (1 cm proximal to the joint line along the medial border of the biceps tendon).
 
 </div>
-</details>
+</section>
 
 ### Patellofemoral Anatomy
 
-<details id="patellofemoral">
-<summary>Patellofemoral Anatomy</summary>
+<section class="topic-subsection" id="patellofemoral">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -309,18 +295,14 @@ Dynamic stabilisers: vastus medialis obliquus (VMO; fibres at ~50–55° to the 
 Patellar height: patella alta (Insall–Salvati ratio > 1.2 — patellar tendon ÷ patellar diagonal) — predisposes to instability and patellar pain; patella baja (< 0.8) — often post-traumatic or following distal tuberosity transfer. TT–TG distance (tibial tuberosity to trochlear groove on axial CT or MRI) > 20 mm is an indication for distal medialisation of the tibial tuberosity (Elmslie–Trillat).
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 ## Biomechanics
 
 <section class="topic-section" id="biomechanics">
-<details>
-<summary>Biomechanics</summary>
-<div class="ts-body">
+
 
 The knee allows flexion–extension (0–140°) with coupled rotation. "Screw-home" mechanism: terminal external rotation of the tibia 5–10° in the last 20° of extension — driven by the asymmetric femoral geometry (longer medial condyle), passively constrained by the ACL and actively reversed by popliteus at the initiation of flexion ("releasing" mechanism). Rotation in the flexed knee: 0° in full extension, up to 45° (internal and external combined) in 90° flexion.
 
@@ -341,16 +323,12 @@ The knee allows flexion–extension (0–140°) with coupled rotation. "Screw-ho
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 ## Landmarks and Imaging
 
 <section class="topic-section" id="landmarks-imaging">
-<details>
-<summary>Landmarks and Imaging</summary>
-<div class="ts-body">
+
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-9/knee-sagittal.png" data-figure-alt="Sagittal section of the knee" aria-label="Enlarge">
@@ -380,16 +358,12 @@ The knee allows flexion–extension (0–140°) with coupled rotation. "Screw-ho
   </figcaption>
 </figure>
 
-</div>
-</details>
 </section>
 
 ## Classification of Approaches
 
 <section class="topic-section" id="classification">
-<details>
-<summary>Classification of Approaches</summary>
-<div class="ts-body">
+
 
 Approaches in the thigh-and-knee region are classified along three intersecting axes.
 
@@ -401,21 +375,16 @@ Approaches in the thigh-and-knee region are classified along three intersecting 
 
 The Hoppenfeld principle that "the penalty of the approach must not exceed the benefit of the procedure" remains directive — minimally invasive variants are not an end in themselves but a choice for appropriate pathology and surgical expertise.
 
-</div>
-</details>
 </section>
 
 ## Treatment
 
 <section class="topic-section" id="treatment">
-<details>
-<summary>Treatment</summary>
-<div class="ts-body">
+
 
 ### Nonoperative
 
-<details id="nonoperative">
-<summary>Nonoperative</summary>
+<section class="topic-subsection" id="nonoperative">
 <div class="ts-body">
 
 Nonoperative management in the thigh and knee covers: skeletal traction and plaster immobilisation of stable fractures; brace immobilisation of isolated ACL, PCL and collateral ligament tears in selected patients; staged rehabilitation for patellofemoral pain; nonoperative management of grade I and II gonarthrosis (physiotherapy, weight control, NSAIDs, intra-articular hyaluronic acid or corticosteroid injections). Skeletal traction through the tibial tuberosity (weight 8–10% of body weight) is the method of choice for temporary immobilisation of closed femoral shaft fractures in patients with contraindications to intramedullary nailing; traction through the femoral condyles is used for central acetabular dislocation and acetabular fractures. The classical Bulgarian recommendation for skeletal traction (Boychev): 3 mm pins through the tibial tuberosity, weight 1/8–1/10 of body weight, bed elevation 25–30°, daily assessment of length and rotation through palpation of the medial malleoli.
@@ -432,12 +401,11 @@ For acute isolated MCL tears (grade I–II), an appropriate brace for 4–6 week
 </aside>
 
 </div>
-</details>
+</section>
 
 ### Operative
 
-<details id="operative">
-<summary>Operative</summary>
+<section class="topic-subsection" id="operative">
 <div class="ts-body">
 
 <details>
@@ -458,7 +426,7 @@ For acute isolated MCL tears (grade I–II), an appropriate brace for 4–6 week
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Classical Küntscher intramedullary nailing</summary>
@@ -473,7 +441,7 @@ Postoperatively, for unstable patterns, the classical recommendation was a plast
 Modern intramedullary nailing (antegrade — piriformis or trochanteric entry; retrograde — intercondylar notch entry through a parapatellar arthrotomy) with interlocking screws is the standard for femoral shaft fractures and is covered in Topic Trauma-23.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Femoral lengthening and shortening</summary>
@@ -486,7 +454,7 @@ Lengthening across the distal physis (chondrodiastasis) in children over 6–8 y
 **Shortening.** Indication — length discrepancy over 2–3 cm; maximum allowable shortening without significant functional loss is 5–6 cm. The classical technique requires a lateral approach through vastus lateralis, segmental resection of the diaphysis with a Gigli saw or oscillating burr, and Küntscher intramedullary nailing (with prior canal reaming to 12–14–16 mm). **The Z-shaped (step-cut) segmental osteotomy of Boychev–Imamaliev** provides larger fragment contact area and better rotational stability for subtrochanteric shortening.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Distal femoral osteotomy and supracondylar corrections</summary>
@@ -497,7 +465,7 @@ Corrective supracondylar osteotomy of the femur (varising, valgising or flexion/
 For Salter–Harris type III–IV physeal fractures of the distal femur (Topic Trauma-24), open reduction and fixation with K-wires or cannulated screws perpendicular to the physis is mandatory; compression with two K-wires in a Greifensteiner clamp accelerates consolidation.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Classical approaches to the knee joint</summary>
@@ -514,7 +482,7 @@ For Salter–Harris type III–IV physeal fractures of the distal femur (Topic T
 **Abbott–Carpenter lateral approach.** From the distal sulcus femoris lateralis 6 cm proximal to the fibular head, distally along the anterior border of biceps femoris, then S-shaped anteriorly around the patellar tendon to the tibial tuberosity. Exposes the LCL, the entire lateral side and, when needed, the posterolateral zone; main indications — PLC revision, fibular head fixation, LCL reconstruction. Identification and protection of the common peroneal nerve along the medial border of the biceps tendon to the fibular head is critical — the nerve is most superficial at this point.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Standard medial parapatellar approach</summary>
@@ -538,7 +506,7 @@ The approach provides excellent visualisation of the entire joint but disrupts t
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterior approach (Henderson, Burks–Schaffer modification)</summary>
@@ -558,7 +526,7 @@ The posterior approach to the knee is indicated for PCL reconstruction by tibial
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Meniscectomy approaches and meniscectomy</summary>
@@ -569,7 +537,7 @@ The classical approaches for open meniscectomy — before the arthroscopic era �
 **Classical open medial meniscectomy after Smillie/Boychev.** Two approaches — parapatellar (for the anterior and middle segment) and retroligamentous posterior (for the posterior horn). The anterior segment is mobilised with a straight meniscotome, detached from the paracapsular zone and pulled forward with a meniscal grasper. The posterior horn is detached through the second retroligamentous incision with a curved meniscotome, which is pushed posteriorly against the posterior capsule, fixed, and the meniscus pulled anteriorly against the cutting edge — a technique that protects the structures of the popliteal fossa. In a "bucket handle" the central fragment is divided transversely from its anterior attachment, gripped with Smillie's meniscal grasper and pulled forward; the posterior attachment is divided blindly with a "backward" meniscotome. The lateral meniscectomy is performed in the "figure-of-four" (Cabot) position — hip flexion, knee flexion and external rotation of the leg — to inspect the posterior horn of the lateral meniscus. After the era of De Haven (1979), Jackson and Dandy (1976), and Gillquist (1971), partial arthroscopic meniscectomy and meniscal repair (inside-out, outside-in, all-inside) became standard; classical open meniscectomy is practically obsolete. Fairbank (1948) described the radiographic sequelae of total meniscectomy — the anatomical basis of the modern emphasis on meniscal preservation.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>ACL reconstruction — classical line</summary>
@@ -594,7 +562,7 @@ ACL reconstruction has over a century of history; more than 200 techniques have 
 **Modern arthroscopic ACL reconstruction.** Standard — single-bundle with BPTB or four-strand hamstring (semitendinosus + gracilis) autograft. Femoral tunnel through the intercondylar notch with anatomic position on the "resident's ridge" of the lateral femoral condyle (10–11 o'clock for the right knee). Tibial tunnel through the tibial tuberosity with an external 60° angle and anatomic exit anterior and medial to the intercondylar eminence. Fixation: femoral — EndoButton (Mitek), TightRope or Bio-Tenodesis screw; tibial — interference screw or with staple backup. All-inside (no tibial incision), double-bundle (AM + PL for anatomic restoration of both bundles) and quadriceps tendon — modern variants.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>PCL reconstruction</summary>
@@ -607,7 +575,7 @@ PCL reconstruction is needed for chronic instability with functional discomfort 
 **Modern standard.** Arthroscopic tibial tunnel or tibial inlay technique with BPTB, Achilles allograft or quadriceps tendon. Tibial inlay (through a posterior approach) eliminates the "killer turn" — the sharp graft bend through the tibial tunnel that is the principal mechanism of late transtibial failure.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Repair of acute ligamentous injuries (Hughston, Boychev)</summary>
@@ -620,7 +588,7 @@ For MCL lesions: femoral insertion lesions (re-insertion with sutures or a metal
 **Acute lateral soft tissues.** In acute posterolateral instability (traumatic disruption of LCL, popliteus, popliteofibular ligament or biceps tendon) an anterolateral incision (12–14 cm) is used, starting 3–4 cm above the patella, along the fibres of the iliotibial tract, ending 3 cm below Gerdy's tubercle. The common peroneal nerve is identified and protected. Re-insertion of popliteus and LCL to the lateral epicondyle is performed "up and forward" with transosseous sutures, lightly tensioned, with the knee in 30° flexion and external tibial rotation — a position that applies the correct tensiogram. Behind the LCL the posterior capsule and arcuate ligament are re-inserted to the tibia through transosseous tunnels. After the repair a plaster boot at 70° flexion and external tibial rotation for 6 weeks.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Classical procedures for patellar instability</summary>
@@ -647,7 +615,7 @@ Recurrent and habitual patellar dislocations have been treated with dozens of de
 **MPFL reconstruction (modern standard).** In acute patellar dislocation with MPFL rupture — reconstruction with a gracilis or semitendinosus autograft and anatomic attachment at "Schöttle's point" on the medial epicondyle (1 mm in front of the extended posterior femoral cortical line, 2.5 mm distal to the perpendicular to the posterior cortical line at the level of the upper point of the medial condyle).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>High tibial osteotomy</summary>
@@ -676,7 +644,7 @@ High osteotomy of the proximal tibia was first described by **Jackson** (1958) a
 **Distal femoral varising osteotomy.** Analogue for valgus gonarthrosis with lateral unicompartmental arthritis in young patients where HTO would create an oblique joint line. Options: medial opening wedge or lateral closing wedge with a locking plate.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Total and unicompartmental knee arthroplasty</summary>
@@ -701,7 +669,7 @@ The **Bandl approach** (Walter Bandl, described in the Bulgarian school) uses an
 **Patellectomy.** For severe chondromalacia or chronic patellofemoral arthritis — as a stand-alone procedure or as part of arthroplasty when patellar pain dominates. Described by Compère (1937) and Boyd (1955); the patella is removed, the extensor expansion is duplicated and the lateral retinacula are sutured along the midline. Patelloplasty (resurfacing with the lateral half of the patella turned over with its facet upward) is a classical alternative.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Knee arthrodesis</summary>
@@ -718,7 +686,7 @@ For resistant joint infection, severe Charcot destruction, failed TKA and post-p
 Arthrodesis is contraindicated in children under 6–7 years because of growth. The fusion position is critical — 10° flexion and 10° external rotation of the leg relative to the thigh (for optimal gait).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Repair of the quadriceps tendon and patellar tendon</summary>
@@ -731,7 +699,7 @@ For chronic ruptures, lengthening by **Codivilla** (triangular flap based proxim
 For patellar tendon rupture the end-to-end suture is reinforced by a transosseous circumferential wire from the tibial tuberosity through the quadriceps tendon above the patella, fixed without tension. **McLaughlin** offers a modification with a transverse pin through the patella (or tibial tuberosity for patellar tendon rupture) with a wire through the proximal tendon and fixed to both pin ends. For chronic patellar-tendon rupture with patellar retraction the operation is done in two stages: first mobilisation of the patella with downward traction for 2–3 weeks, then reconstruction with a semitendinosus autograft or Achilles allograft.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Knee synovectomy</summary>
@@ -744,7 +712,7 @@ The approach is medial parapatellar (Payer) with proximal release of rectus femo
 In haemophilic patients (Christensen 1965, Storti 1973) early postoperative mobilisation and factor VIII/IX replacement therapy are mandatory. Arthroscopic synovectomy is the technical alternative in current practice and is preferred in younger, suitable patients.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Knee denervation (Bateman) and sensory branches</summary>
@@ -755,7 +723,7 @@ Knee joint denervation (Bateman, 1968) is indicated for severe osteoarthritis in
 Denervation is done in two positions — first prone (posterior approach to the popliteal fossa, identification of the tibial nerve and motor branches to the two gastrocnemius heads, isolation of the sensory branch to the posterior capsule, division and traction), then supine (medial parapatellar approach with identification of the branch to vastus intermedius and, when required, the obturator branch medially). With preserved medial branch innervation the procedure is considered incomplete — but significant pain relief in moderately severe arthritis is still achievable.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Above-knee amputation</summary>
@@ -768,7 +736,7 @@ The level for above-knee amputation is determined by modern prosthetic requireme
 In severe contaminated trauma, war wounds and gas gangrene an open (guillotine) amputation by **Pirogov** is performed with a circular resection — modified with two half-arc skin flaps, anterior higher and posterior lower, without closure. The wound is covered with compresses soaked in Vishnevsky balsam and a late secondary closure (day 4–5 with good local condition) or late secondary suture after granulation is planned. Osteoplastic amputations by **Yu. A. Dzhanelidze** (1953) with an osteoplastic cover — historically advantageous; today rarely performed since modern prosthetics do not require a bone cap.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Classical operations for flexion contracture</summary>
@@ -781,15 +749,14 @@ For quadriceps paralysis with severe knee instability the classical transpositio
 For flexion contracture from gastrocnemius hypertonus (childhood spastic palsy) — release of its proximal part by **Silfverskiöld**: transverse popliteal incision parallel to the skin crease, opening of the transverse fascia, identification of the tibial nerve and motor branches to the two gastrocnemius heads, and division of 1–2 of them.
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
 ### Arthroscopy
 
-<details id="arthroscopy">
-<summary>Arthroscopy</summary>
+<section class="topic-subsection" id="arthroscopy">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -834,18 +801,14 @@ For flexion contracture from gastrocnemius hypertonus (childhood spastic palsy) 
 </aside>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 ## Outcomes and Complications
 
 <section class="topic-section" id="outcomes">
-<details>
-<summary>Outcomes and Complications</summary>
-<div class="ts-body">
+
 
 Complications in the thigh and knee vary by approach and procedure.
 
@@ -861,16 +824,12 @@ Complications in the thigh and knee vary by approach and procedure.
 
 **Arthrodesis.** Pseudarthrosis (5–15%, higher in infection and extensive bone loss); limb shortening (must be planned); instability with inappropriate fusion position (always 10° flexion + 10° external rotation).
 
-</div>
-</details>
 </section>
 
 ## Local Contributions
 
 <section class="topic-section" id="bulgarian">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
+
 
 **Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the orthopaedic school in Bulgaria; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. His three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference. Describes classical thigh and knee approaches, the technique of medial meniscectomy with combined parapatellar and retroligamentous posterior incisions, and a tendomuscular vastus-medialis flap through a lateral capsular slit for patellar instability.
 
@@ -964,16 +923,12 @@ Complications in the thigh and knee vary by approach and procedure.
 
 **Arnoczky <sup class="natflag">US</sup> (1982).** Zonal concept of meniscal vascular supply (red–red, red–white, white–white).
 
-</div>
-</details>
 </section>
 
 ## Classical Sources
 
 <section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
+
 
 <aside class="callout callout-classical">
   <strong>Classical line — thigh and knee surgery</strong>
@@ -992,16 +947,12 @@ Classical descriptions by approach and procedure: Hibbs 1911 (bone decortication
 
 Additional classical sources: **Boychev (ed.)** — *Operative Orthopaedics and Traumatology* (three volumes; Sofia); **Kapandji** — *The Physiology of the Joints* vol. 2 (lower limb); **Insall & Scott** — *Surgery of the Knee* (4th ed. 2005; reference text for knee surgery); **Hoppenfeld, deBoer, Buckley** — *Surgical Exposures in Orthopaedics* (5th ed. 2017); **Strobel** — *Manual of Arthroscopic Surgery* (Springer 2013); **Chhabra, Elliott, Miller** in *The Multiple Ligament Injured Knee* (Springer 2005); **Hollinshead's Functional Anatomy of the Limbs and Back** (6th ed. 1991).
 
-</div>
-</details>
 </section>
 
 ## Suggested Reading
 
 <section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
+
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *The standard operative manual with diagrammatic illustrations of internervous planes and stepwise technique; Chapters 9 (Femur) and 10 (The Knee) cover the medial parapatellar, medial and lateral side approaches, the posterior approach, and applied surgical anatomy — the principal textbook for residency training in approaches.*
 2. **Scott WN, ed.** *Insall & Scott Surgery of the Knee.* 4th ed. Philadelphia: Churchill Livingstone/Elsevier; 2005. ISBN 978-0-443-06671-9. — *Two-volume reference text on knee surgery with chapters on anatomy (Clarke, Scott, Insall, Pedersen, Math, Vigorita, Cushner), approaches, total arthroplasty, ligament reconstruction, arthroscopy, osteotomies, infection and tumours — the "gold standard" for modern knee practice.*
@@ -1010,8 +961,6 @@ Additional classical sources: **Boychev (ed.)** — *Operative Orthopaedics and 
 5. **Chhabra A, Elliott CC, Miller MD.** Anatomy of the knee. In: *The Multiple Ligament Injured Knee: A Practical Guide to Management* (Fanelli GC, ed.). New York: Springer; 2005. ISBN 978-0-387-22522-7. — *Detailed knee ligament anatomy and posteromedial/posterolateral corner with focus on multi-ligament injury; reference for posterolateral surgery.*
 6. **Boychev B, ed.** *Operative Orthopaedics and Traumatology* (three volumes; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on the thigh, knee, menisci, ligament reconstruction, patellar instability, femoral lengthening and shortening, arthrodesis, and amputation — defining terminology and operative tactic in the Bulgarian curriculum.*
 
-</div>
-</details>
 </section>
 
 <script is:inline>

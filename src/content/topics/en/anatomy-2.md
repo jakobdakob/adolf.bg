@@ -35,15 +35,13 @@ order: 202
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</details>
+</section>
 
 
 
 ## Overview
 <section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
+
 
 The shoulder girdle offers the greatest arc of motion of any joint in the body — a compromise reached through a radical sacrifice of bony stability in favour of soft-tissue balance. The glenohumeral articular surface of the humerus is roughly three times the area of the glenoid, the contact patch at any instant covers only 25–30% of the head, and only the coordinated action of the rotator cuff, the labrum, the capsule, and the periscapular muscles allows stability and mobility to coexist.
 
@@ -57,22 +55,17 @@ This chapter follows that logic: regional anatomy and the biomechanics that flow
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
-<details>
-<summary>Surgical Anatomy</summary>
-<div class="ts-body">
+
 
 
 ### Bones and Joints
-<details id="bones-joints">
-<summary>Bones and Joints</summary>
+<section class="topic-subsection" id="bones-joints">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -128,12 +121,11 @@ The acromion forms the lateral roof of the joint; its morphological variants —
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Capsule and Ligaments
-<details id="capsule-ligaments">
-<summary>Capsule and Ligaments</summary>
+<section class="topic-subsection" id="capsule-ligaments">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -149,12 +141,11 @@ The acromion forms the lateral roof of the joint; its morphological variants —
 The capsule of the glenohumeral joint is generous — the synovial volume is roughly twice that required for bony contact. This explains both its capacity for an enormous arc of motion and its dependence on three fibrous condensations: the middle glenohumeral ligament (MGHL) — primary anterior restraint in mid-abduction with external rotation; the inferior glenohumeral ligament complex (IGHL), with its anterior and posterior bands — primary restraint at full abduction; and the superior (SGHL) — stabiliser of the rotator interval. The rotator interval, a triangular field between the supraspinatus tendon and the superior border of subscapularis, contains the coracohumeral and superior glenohumeral ligaments and is the route for arthroscopic establishment of the anterior portal.
 
 </div>
-</details>
+</section>
 
 
 ### Infraclavicular and Axillary Topography
-<details id="infraclavicular-topography">
-<summary>Infraclavicular and Axillary Topography</summary>
+<section class="topic-subsection" id="infraclavicular-topography">
 <div class="ts-body">
 
 The classical Bulgarian anatomical school describes the infraclavicular region (regio infraclavicularis), bounded by the inferior clavicular border, the lateral edge of the sternum, the third rib, and the anterior border of the deltoid, as the key topographic zone for anterior shoulder approaches. The skin is thin and mobile; the subcutaneous tissue carries branches of the anterior supraclavicular nerves and sensory rami of the intercostal nerves. Beneath the superficial fascia lies *pectoralis major* with its own fascia; between it and the deltoid forms the deltopectoral sulcus, expanding proximally into the deltopectoral triangle — a fatty-lymphatic space in which the cephalic vein drains into the axillary vein at the level of the superior border of *pectoralis minor*.
@@ -173,12 +164,11 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Musculature
-<details id="musculature">
-<summary>Musculature</summary>
+<section class="topic-subsection" id="musculature">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -210,12 +200,11 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 **The conjoint bundle.** Coracobrachialis with the short head of biceps detaches from the coracoid and forms the working landmark in anterior exposures; medial retraction of this bundle uncovers subscapularis.
 
 </div>
-</details>
+</section>
 
 
 ### Nerves
-<details id="nerves">
-<summary>Nerves</summary>
+<section class="topic-subsection" id="nerves">
 <div class="ts-body">
 
 **Axillary nerve (C5–C6).** Branches from the posterior cord of the brachial plexus, passes posteriorly through the quadrilateral space, and wraps the surgical neck of the humerus deep to the deltoid; branches to deltoid and teres minor; its sensory branch (*n. cutaneus brachii lateralis superior*) supplies the skin over the lateral deltoid.
@@ -256,30 +245,25 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Vessels
-<details id="vessels">
-<summary>Vessels</summary>
+<section class="topic-subsection" id="vessels">
 <div class="ts-body">
 
 The axillary artery and vein cross the axilla as continuations of the subclavian vessels below the clavicle and become the brachial vessels distal to the inferior border of teres major. Of the six branches of the axillary artery, three carry direct surgical significance: *a. thoracoacromialis* (with pectoral, deltoid, acromial, and clavicular rami piercing the clavipectoral fascia in the clavipectoral triangle); the *anterior humeral circumflex artery* — one of the "three sisters" along the inferior border of subscapularis, requiring ligation prior to detachment; and the *posterior humeral circumflex artery*, which accompanies the axillary nerve through the quadrilateral space and anastomoses with its anterior counterpart. The humeral head is supplied principally by the ascending branch of the anterior humeral circumflex (Laing's arcuate artery); its disruption explains the high rate of AVN in displaced surgical-neck fractures.
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
-<details>
-<summary>Pathophysiology and Mechanism</summary>
-<div class="ts-body">
+
 
 **Biomechanics of stability.** The glenohumeral joint exists in a continuous dynamic equilibrium between four stabilising mechanisms. The *static* set includes articular congruity (minimal because of the caput/glenoid mismatch), cohesive-adhesive forces within the synovial space, negative intra-capsular pressure at rest, and the capsuloligamentous complex (MGHL for mid-abduction in external rotation, IGHL for full abduction). The *dynamic* set — the principal stabilising mechanism during motion — relies on the concavity-compression principle: the rotator cuff compresses the head into the glenoid perpendicular to the articular surface while the deltoid generates the tangential force for motion; effectiveness depends on preserved glenoid depth (labrum!) and an intact cuff.
 
@@ -298,17 +282,13 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical-diagnosis">
-<details>
-<summary>Clinical Presentation and Diagnosis</summary>
-<div class="ts-body">
+
 
 **The surgically relevant clinical examination** is organised around the structure the approach will engage.
 
@@ -335,17 +315,13 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Classification
 <section class="topic-section" id="classification">
-<details>
-<summary>Classification</summary>
-<div class="ts-body">
+
 
 **Bigliani — acromial morphology (outlet view).**
 
@@ -399,33 +375,27 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Treatment
 <section class="topic-section" id="treatment">
-<details>
-<summary>Treatment</summary>
-<div class="ts-body">
+
 
 
 ### Nonoperative
-<details id="nonoperative">
-<summary>Nonoperative</summary>
+<section class="topic-subsection" id="nonoperative">
 <div class="ts-body">
 
 Velpeau-style immobilisation (3 weeks for first traumatic dislocations in patients under 25; individualised in older patients — a balance between recurrence and stiffness), physiotherapy with a focus on scapular setting and dynamic cuff stabilisation, infiltrations (subacromial for impingement, glenohumeral for adhesive capsulitis, AC for arthropathy). Hydrodilatation is a valid adjunct in adhesive capsulitis. Arthrodesis or arthroplasty when 6–12 months of systematic conservative treatment have failed.
 
 </div>
-</details>
+</section>
 
 
 ### Operative
-<details id="operative">
-<summary>Operative</summary>
+<section class="topic-subsection" id="operative">
 <div class="ts-body">
 
 <details>
@@ -443,7 +413,7 @@ The workhorse for the anterior shoulder. *Indications:* open reduction, proximal
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterior Shoulder Approach</summary>
@@ -452,7 +422,7 @@ The workhorse for the anterior shoulder. *Indications:* open reduction, proximal
 *Indications:* posterior glenoid procedures, posterior instability, posterior dislocations, scapular fixation. *Position:* lateral or prone. *Landmarks:* posterolateral corner of the acromion, lateral border of the deltoid. *Steps:* 6–10 cm incision from the posterolateral corner along the deltoid border; deltoid split between middle and posterior heads ≤5 cm distal to the acromion (axillary nerve!); infraspinatus / teres-minor interval developed; posterior capsule exposed. Alternative: infraspinatus fibre-split or detachment from the greater tuberosity with reinsertion. *Structures at risk:* axillary nerve in the quadrilateral space, suprascapular nerve at the spinoglenoid notch.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Anterior Axillary Approach (Henry)</summary>
@@ -461,7 +431,7 @@ The workhorse for the anterior shoulder. *Indications:* open reduction, proximal
 A cosmetic alternative to the deltopectoral. *Landmark:* anterior axillary fold below the coracoid; the dissection then turns up to the deltopectoral groove. *Advantage:* less visible scar. *Disadvantage:* more restricted proximal exposure.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Superior (Saber-Cut) Approach and Transacromial Variants</summary>
@@ -479,7 +449,7 @@ A cosmetic alternative to the deltopectoral. *Landmark:* anterior axillary fold 
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Wide Scapular Approaches</summary>
@@ -496,7 +466,7 @@ A cosmetic alternative to the deltopectoral. *Landmark:* anterior axillary fold 
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Clavicular Approaches</summary>
@@ -505,7 +475,7 @@ A cosmetic alternative to the deltopectoral. *Landmark:* anterior axillary fold 
 Standard longitudinal, slightly curved incision, *not* directly over the bone (reduces scar tension at the muscular insertions); S-shaped incision for simultaneous supra- and infra-clavicular access. *Anatomical landmarks beneath the bone:* the external jugular vein lies 0.5–1 cm lateral to the clavicular head of sternocleidomastoid; the subclavian vessels beneath subclavius; the brachial plexus and subclavian vessels cross the clavicle posteriorly an average of 2 cm lateral to the SCM insertion; the suprascapular artery runs along the posterior surface from the midshaft to the acromial end. *SC-joint approach* — skin incision over the medial quarter, with the jugular notch and the sternal clavicular end as landmarks. *AC-joint approach* — curved incision over the lateral quarter plus the anterosuperior acromial border.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Arthroscopic Portals</summary>
@@ -514,7 +484,7 @@ Standard longitudinal, slightly curved incision, *not* directly over the bone (r
 *Posterior portal* — 2–3 cm inferior and 1–2 cm medial to the posterolateral corner of the acromion; the "soft spot" between infraspinatus and teres minor; the main viewing portal for the glenohumeral joint. *Anterior portal* — established under direct visualisation through the rotator interval; the main working portal. *Anterolateral* — inferior to the anterior acromial edge; for subacromial procedures and cuff repairs. *Posterolateral* — for subacromial procedures. *Lateral* — through the deltoid, 2–3 cm lateral to the acromial edge; for subacromial procedures. *Accessory portals* — the 5-o'clock portal, Neviaser portal, trans-cuff portal.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>AC and SC Instability Stabilisation</summary>
@@ -542,7 +512,7 @@ In SC dislocation (anterior or posterior) — transverse incision; posterior dis
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Correction of Congenital High-Riding Scapula (Sprengel)</summary>
@@ -580,7 +550,7 @@ Goals: excise the omovertebral link, lower the scapula, correct the functional a
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Muscle Transpositions for Deltoid Paralysis</summary>
@@ -597,7 +567,7 @@ Prerequisites: intact rotator cuff, good wrist and hand function.
 *Hildebrand* — pectoralis major detached from its rib origins (not the humeral insertion); pars sternocostalis + pars sternoclavicularis with care for the anterior thoracic nerves and the feeding thoracoacromial and axillary branches; rotated 90° about the humeral insertion and fixed to the acromion and lateral clavicle. Active abduction from a robust donor.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Obstetric Brachial Palsy — Anterior Tenotomy and Transpositions</summary>
@@ -610,7 +580,7 @@ Prerequisites: intact rotator cuff, good wrist and hand function.
 *Merle d'Aubigné* — a conceptually similar technique with concurrent posterior capsulorrhaphy (to prevent posterior subluxation).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Long Head of Biceps Tenodesis</summary>
@@ -619,7 +589,7 @@ Prerequisites: intact rotator cuff, good wrist and hand function.
 Deltopectoral route to the bicipital groove (opened along its entire length to the supraglenoid tubercle); the degenerated proximal stump is resected; the distal stump is fixed extra-articularly to the soft tissues around the groove. Traumatic ruptures — a small anterior arm incision to retrieve the distal stump. A long-arm cast in 130° elbow flexion for 25 days.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Rotator Cuff Reconstruction</summary>
@@ -640,7 +610,7 @@ Conservative treatment succeeds in 85–98% of cases when applied systematically
 *Debeyre* — a saber incision over the acromion; the periosteum is divided longitudinally between the trapezius and deltoid origins; the deltoid is fully detached, from the trapezius side a periosteo-tendinous flap is raised; with a chisel a portion or the whole acromion plus the AC and lateral clavicle to the coracoclavicular ligament is resected. After cuff repair — re-osteosynthesis or periosteal closure of the acromion. Maximum visualisation in massive retracted tears and for removal of calcifications in periarthritis. Shoulder-spica cast at 70° abduction and 20–30° forward flexion for 4 weeks. *Modern reinsertion* — arthroscopic or mini-open single- or double-row repair with suture anchors; the principles are unchanged.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Resection and Reconstruction of the Proximal Humerus</summary>
@@ -653,7 +623,7 @@ Conservative treatment succeeds in 85–98% of cases when applied systematically
 *Reconstructions:* *Portugalov* — proximal portion of the ipsilateral fibula placed in the humeral medullary canal + 1–2 screws; the fibular head functions as the new caput. *Moskov* — lateral half of the clavicle with the AC joint preserved (cosmetic shoulder contour preserved). *Imamaliev* — frozen allograft, inserted step-wise with reinsertion of muscle attachments; allograft complications (fracture, fragmentation, resorption) have shifted the standard to custom endoprostheses.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Shoulder Arthroplasty</summary>
@@ -675,7 +645,7 @@ Conservative treatment succeeds in 85–98% of cases when applied systematically
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Stabilisation in Recurrent Anterior Instability</summary>
@@ -713,7 +683,7 @@ Classical goals: *(1)* capsulorrhaphy / tenodesis limiting external rotation; *(
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Stabilisation in Posterior Instability</summary>
@@ -724,7 +694,7 @@ Classical goals: *(1)* capsulorrhaphy / tenodesis limiting external rotation; *(
 *Adams* — a posterior bone block + capsulorrhaphy in congenital posterior habitual subluxation and rare traumatic cases.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Open Reduction of Fresh and Old Fracture-Dislocations</summary>
@@ -733,7 +703,7 @@ Classical goals: *(1)* capsulorrhaphy / tenodesis limiting external rotation; *(
 When closed reduction fails (impression fracture of the antero-superior humeral head with the posterior glenoid rim locked into it — reverse Hill-Sachs in posterior dislocation). Posterior approach; internal rotation of the arm → progressive release of adhesions → articular surfaces. The impression groove is filled with a contoured iliac-crest autograft and fixed with 2–3 screws; alternatively, subscapularis + capsule are reinserted onto the new anterior rim Bankart-style. In children with open physes — K-wires. 70° abduction and neutral rotation for 45 days; with stable fixation — early active exercise (Müller).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Shoulder Arthrodesis</summary>
@@ -756,7 +726,7 @@ Indications: deltoid paralysis with intact trapezius and serratus anterior, seve
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Scapulectomy and Tumour Resections</summary>
@@ -765,7 +735,7 @@ Indications: deltoid paralysis with intact trapezius and serratus anterior, seve
 *Tikhoff-Linberg* — total or subtotal scapulectomy with interscapulothoracic resection without limb sacrifice in malignant tumours with an intact humerus. The economical resections (acromion, body, coracoid) are reserved for post-traumatic states, osteomyelitis, tuberculosis, exostoses, and low-grade tumours. Kocher's access. For superior-portion resection — protect the suprascapular nerve and artery. When limb salvage is not possible — Berger's interscapulothoracic disarticulation; if possible, high humeral amputation with resection of the proximal third (the scapula and clavicle preserve the shoulder contour). Acromial-process fractures (differential with persistent os acromiale) — a malleolar screw or a Weber-style tension band.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Arthroscopic Procedures</summary>
@@ -774,7 +744,7 @@ Indications: deltoid paralysis with intact trapezius and serratus anterior, seve
 Arthroscopy has supplanted open surgery for many shoulder conditions. The arthroscopic survey systematically visualises the glenohumeral joint (labrum — Bankart, SLAP; cuff from the articular side; biceps tendon; cartilage; capsule), then the subacromial space (bursal-side cuff, coracoacromial arch, AC joint). Standard procedures: arthroscopic Bankart with suture anchors, cuff repair (single- or double-row), subacromial decompression and acromioplasty, biceps tenotomy or tenodesis, distal clavicle resection.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Postoperative Care</summary>
@@ -797,22 +767,18 @@ Principles of postoperative care after shoulder surgery are organised around the
 **Sprengel correction and muscle transpositions** — cast or abduction brace 6–8 weeks in the position of maximum correction; active-assisted work in the new vectors from week 8.
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Outcomes and Complications
 <section class="topic-section" id="outcomes">
-<details>
-<summary>Outcomes and Complications</summary>
-<div class="ts-body">
+
 
 **Neurological.** Axillary nerve — injured in ~10–20% of anterior dislocations and many proximal humerus fractures; protection in deltoid-splitting incisions — the 5 cm limit. Musculocutaneous nerve — neurapraxia from vigorous retraction of the conjoint bundle; limit to 5 cm distal to the coracoid. Suprascapular nerve — at the spinoglenoid notch in deep posterior dissection; at the suprascapular notch in wide scapular approaches. Brachial plexus — compression in Sprengel correction without Ombredanne osteotomy; traction in high-energy dislocations.
 
@@ -826,17 +792,13 @@ Principles of postoperative care after shoulder surgery are organised around the
 
 **Functional outcomes.** Classical long-term series (Boychev, Holevich-Paneva): instability recurrence 5–15% in correctly selected patients without bone loss. Modern meta-analyses: Bankart with anchor repair — recurrence 4–10%, Latarjet 1–5% in bony defect. Cuff repair: re-tear rates 20–40% depending on tear size, retraction, tendon quality and age; good-to-excellent Constant and UCLA scores in 75–85%. Anatomic TSA — implant survival 90% at 10 years, 85% at 15 years in degenerative GH arthritis. Reverse TSA — survival 85–90% at 10 years; effect on pain and active elevation dramatic, but internal rotation remains a weakness.
 
-</div>
-</details>
 </section>
 
 
 
 ## Local Contributions
 <section class="topic-section" id="bulgarian">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
+
 
 The Bulgarian orthopaedic school has contributed to shoulder surgery at the topographic, reconstructive and prosthetic levels at once. Systematised in *Operative Orthopaedics and Traumatology* of Boycho Boychev (with Ya. Holevich and A. Konforti; later editions with Chokanov), these contributions remain part of the national curriculum and are taught today at the University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya.
 
@@ -868,17 +830,13 @@ From the classical Russian and Soviet schools, tightly woven into the Bulgarian 
 
 **G. A. Ilizarov <sup class="natflag">RU</sup>.** Compression arthrodesis of the shoulder with external fixator — anterior incision extended posteriorly; 3 pins in the head/shaft; after 4 weeks the fixator is removed; cast continues for another 30 days.
 
-</div>
-</details>
 </section>
 
 
 
 ## Classical Sources
 <section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
+
 
 The surgical anatomy of the shoulder was systematised at the beginning of the 19th century by Velpeau, whose *Nouveaux éléments de médecine opératoire* (1832) gave the founding description of the shoulder bandage that still bears his name. Dupuytren's *Leçons orales* (1832) contributed the Hôtel-Dieu clinical series on shoulder dislocations. Astley Cooper's *A Treatise on Dislocations* (1822) gave the founding English-language description of recurrent anterior dislocation. Heinrich Braun (1907) introduced the supraclavicular brachial plexus block — the antecedent of modern ultrasound-guided ISB / SCB — and Hoffa (1905) consolidated the orthopaedic operative tradition.
 
@@ -896,17 +854,13 @@ The surgical anatomy of the shoulder was systematised at the beginning of the 19
 
 Classical descriptions by approach and procedure: Velpeau 1832 (bandage, reduction); Astley Cooper 1822 (recurrent anterior dislocation); Putti 1923 / Platt 1948 (capsulorrhaphy); Magnuson-Stack 1943 (subscapularis transposition); Bankart 1923 / 1938 (capsulolabral reinsertion); Eden 1918, Lange 1925, Oudar 1969, Judet 1954 (bone blocks); Latarjet 1954 (coracoid transposition); Neer 1953, 1955, 1974 (hemiarthroplasty, acromioplasty, 4-part classification); Grammont 1985 (reverse prosthesis); Debeyre 1965 (wide acromial approach in cuff repair); Bigliani 1986 (acromial morphology); Snyder 1990 (SLAP); Itoi 2007 (glenoid track / off-track Hill-Sachs); Hodgson 1956 (anterior radical operation for tuberculous spondylitis — parallel in Anatomy-1).
 
-</div>
-</details>
 </section>
 
 
 
 ## Suggested Reading
 <section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
+
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Chapter 1 (shoulder) with full applied-anatomy reviews of the deltopectoral, posterior, anterolateral, and arthroscopic approaches; the standard operative manual, chapter-by-chapter, with diagrammatic illustrations of internervous planes and step-by-step technique.*
 2. **Rockwood CA, Matsen FA III, Wirth MA, Lippitt SB, Fehringer EV, Sperling JW (eds.).** *Rockwood and Matsen's The Shoulder.* 5th ed. Philadelphia: Elsevier; 2017. — *The reference text in shoulder surgery; reference for classifications, operative tactics and modern outcomes data.*
@@ -916,8 +870,6 @@ Classical descriptions by approach and procedure: Velpeau 1832 (bandage, reducti
 
 *Gray's Anatomy* (current edition, Susan Standring ed.) — the standard anatomical text for general and regional anatomy reference.
 
-</div>
-</details>
 </section>
 
 <script is:inline>

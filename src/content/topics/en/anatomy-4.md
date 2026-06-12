@@ -36,34 +36,27 @@ order: 204
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</details>
+</section>
 
 
 
 ## Overview
 <section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
+
 
 The elbow joint combines a hinge articulation (humeroulnar) with a pivot articulation (proximal radioulnar) within a single synovial capsule. Its thin muscular envelope places the surrounding neural and vascular structures — ulnar, median, radial nerves with the posterior interosseous branch (PIN), the medial and lateral antebrachial cutaneous nerves, and the brachial artery — directly accessible and correspondingly directly vulnerable in every operative approach. Regional surgery is organised around four windows: lateral (Kocher) for the radial head, capitellum, and the lateral collateral ligament complex; posterior (triceps-splitting, paratricipital, Bryan-Morrey reflecting, and olecranon osteotomy) for the distal humerus and ulnohumeral joint; medial (with optional medial epicondyle osteotomy) for the medial collateral ligament, ulnar nerve, and medial coronoid; and anterior (Henry's approach for the elbow) for the brachial artery, distal biceps reinsertion, and anterior capsulectomy. This chapter presents the surgical anatomy, landmarks, and step-by-step technique for each approach, their biomechanical consequences, and the classical Bulgarian and Russian operative tradition — which remains part of the orthopaedic curriculum in Bulgaria — alongside the modern principles of total elbow arthroplasty, collateral-ligament reconstruction, and flexion restoration.
 
-</div>
-</details>
 </section>
 
 
 
 ## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
-<details>
-<summary>Surgical Anatomy</summary>
-<div class="ts-body">
+
 
 
 ### Bony and Articular Anatomy
-<details id="bony-articular">
-<summary>Bony and Articular Anatomy</summary>
+<section class="topic-subsection" id="bony-articular">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -104,12 +97,11 @@ The elbow joint comprises three articulations within a single synovial capsule. 
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Capsule and Collateral Ligaments
-<details id="capsule-ligaments">
-<summary>Capsule and Collateral Ligaments</summary>
+<section class="topic-subsection" id="capsule-ligaments">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -188,12 +180,11 @@ The capsule is thin anteriorly and posteriorly and relatively robust at its medi
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Cubital Fossa and Vasculature
-<details id="cubital-fossa">
-<summary>Cubital Fossa and Vasculature</summary>
+<section class="topic-subsection" id="cubital-fossa">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -222,12 +213,11 @@ The brachial artery typically lies lateral to the median nerve in the cubital fo
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Ulnar Nerve and Cubital Tunnel
-<details id="ulnar-nerve">
-<summary>Ulnar Nerve and Cubital Tunnel</summary>
+<section class="topic-subsection" id="ulnar-nerve">
 <div class="ts-body">
 
 The ulnar nerve descends from the medial cord of the brachial plexus along the anteromedial surface of biceps brachii. In the mid-arm it pierces the medial intermuscular septum (in a region known as the arcade of Struthers — a fibrous thickening in the distal third of the arm between medial triceps and the medial intermuscular septum, a potential proximal compression site) and enters the posterior compartment of the arm, lying close to the posterior surface of medial triceps. At the elbow the nerve enters the cubital tunnel — an anatomically defined channel between the medial epicondyle anteriorly and the olecranon posteriorly, with floor formed by the medial collateral ligament and roof formed by Osborne's ligament (the arcuate ligament of Osborne — a fibrous thickening between the two heads of flexor carpi ulnaris). After exiting the tunnel the nerve passes between the two heads of flexor carpi ulnaris and enters the forearm.
@@ -246,12 +236,11 @@ McGowan classification (1950) of severity: 1 — paraesthesia without motor defi
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Median Nerve
-<details id="median-nerve">
-<summary>Median Nerve</summary>
+<section class="topic-subsection" id="median-nerve">
 <div class="ts-body">
 
 The median nerve descends along the medial side of the brachial artery in the distal arm; in the cubital fossa it lies medial to the artery beneath the cover of the lacertus fibrosus. At the boundary between cubital fossa and forearm the nerve passes between the two heads of pronator teres (the humeral and ulnar heads) — a potential compression site (pronator teres syndrome), described by Seyffarth (1951) with paraesthesia in the radial three-and-a-half digits, pain along the proximal volar forearm, and a positive provocation test with resisted forearm pronation. Beyond pronator teres the nerve passes deep to the flexor digitorum superficialis arch (sublimis arch) and continues distally between flexor digitorum superficialis anteriorly and flexor digitorum profundus posteriorly.
@@ -267,12 +256,11 @@ At the elbow the nerve gives motor branches to pronator teres, flexor carpi radi
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Radial Nerve and Posterior Interosseous Nerve
-<details id="radial-nerve-pin">
-<summary>Radial Nerve and Posterior Interosseous Nerve</summary>
+<section class="topic-subsection" id="radial-nerve-pin">
 <div class="ts-body">
 
 The radial nerve reaches the elbow anteriorly — after piercing the lateral intermuscular septum in the distal third of the arm (approximately 10 cm above the lateral epicondyle, transitioning from posterior to anterior compartment) — and passes through the cubital fossa in its lateral angle, between brachialis medially and brachioradialis laterally. At the level of the radial head or just proximal to it the nerve divides into its two terminal branches.
@@ -298,12 +286,11 @@ The radial nerve reaches the elbow anteriorly — after piercing the lateral int
 The motor branch to anconeus arises from the radial nerve in its proximal course in the posterior compartment of the arm and enters the muscle along its medial surface. In the Kocher interval (between anconeus posteriorly and extensor carpi ulnaris anteriorly), gentle posterior retraction of anconeus that respects this innervation is standard. The arcade of Frohse — the fibrous proximal margin of supinator — is the compression site in PIN syndrome (Kaplan, 1955), characterised by progressive extensor weakness of the fingers with preserved sensation (the nerve is purely motor distal to the bifurcation).
 
 </div>
-</details>
+</section>
 
 
 ### Fascial Spaces and Subcutaneous Structures
-<details id="fascial-spaces">
-<summary>Fascial Spaces and Subcutaneous Structures</summary>
+<section class="topic-subsection" id="fascial-spaces">
 <div class="ts-body">
 
 The elbow region is bounded by transverse lines 4 cm above and 4 cm below the elbow crease; the lateral epicondyle lies approximately 1 cm higher than the medial epicondyle. It is divided into anterior (regio cubiti anterior) and posterior (regio cubiti posterior) regions. The skin of the anterior surface is thin, mobile, and hairless; posteriorly it is thicker and adherent to the underlying structures.
@@ -324,19 +311,15 @@ The elbow region is bounded by transverse lines 4 cm above and 4 cm below the el
 </aside>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Biomechanics
 <section class="topic-section" id="biomechanics">
-<details>
-<summary>Biomechanics</summary>
-<div class="ts-body">
+
 
 The elbow joint provides two independent ranges of motion: flexion-extension (humeroulnar and humeroradial articulations) and pronation-supination (proximal and distal radioulnar articulations, coupled by the interosseous membrane). Normal flexion-extension is 0–145° (some individuals — particularly children and the hypermobile — reach hyperextension to –10°). The functional arc for most daily activities is 30–130° of flexion and 50° pronation / 50° supination — the critical targets in reconstructive surgery and arthrodesis.
 
@@ -359,17 +342,13 @@ The elbow joint provides two independent ranges of motion: flexion-extension (hu
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Landmarks and Imaging
 <section class="topic-section" id="landmarks-imaging">
-<details>
-<summary>Landmarks and Imaging</summary>
-<div class="ts-body">
+
 
 **Palpable landmarks.** Medial epicondyle and lateral epicondyle — the two main lateral landmarks. Olecranon — the posterior tip. Triangular relationship: at 90° flexion the three landmarks (medial epicondyle, lateral epicondyle, olecranon) form an equilateral triangle; at full extension — a straight line. Violation of this relationship is a sign of elbow dislocation or supracondylar fracture. The "soft spot" — a depression bounded by the olecranon, radial head, and lateral epicondyle in the posterolateral region — is the main point for arthrocentesis and for insufflation before arthroscopy.
 
@@ -389,17 +368,13 @@ CT is the standard preoperative imaging for complex intra-articular fractures of
   </figcaption>
 </figure>
 
-</div>
-</details>
 </section>
 
 
 
 ## Classification of Approaches
 <section class="topic-section" id="classification">
-<details>
-<summary>Classification of Approaches</summary>
-<div class="ts-body">
+
 
 Surgical approaches to the elbow are classified along two intersecting axes.
 
@@ -409,22 +384,17 @@ Surgical approaches to the elbow are classified along two intersecting axes.
 
 The choice of approach is determined by the location of the pathology, the planned procedure (nerve decompression, ligament reconstruction, osteosynthesis, arthrodesis, arthroplasty, replacement), concomitant injury (open fracture, soft-tissue loss), and the surgeon's experience. Hoppenfeld's principle that "the penalty of the approach must not exceed the benefit of the procedure" remains directive; extended approaches (combined anterior + posterior for vascular reconstruction, posterior with double osteotomy for total elbow replacement) are reserved for cases with a firm indication.
 
-</div>
-</details>
 </section>
 
 
 
 ## Treatment
 <section class="topic-section" id="treatment">
-<details>
-<summary>Treatment</summary>
-<div class="ts-body">
+
 
 
 ### Nonoperative
-<details id="nonoperative">
-<summary>Nonoperative</summary>
+<section class="topic-subsection" id="nonoperative">
 <div class="ts-body">
 
 Nonoperative management remains first-line for most elbow pathology without structural injury. Simple elbow dislocation without concomitant fracture is reduced under sedation or general anaesthesia with traction and angulation correction; stability after reduction is tested through the full arc of flexion — a stable elbow is splinted for 7–10 days and mobilised early. Lateral epicondylitis ("tennis elbow") and medial epicondylitis ("golfer's elbow") are managed conservatively for the first 6–12 months with rest, NSAIDs, an extensor unloading brace, and in recalcitrant cases — local corticosteroid injections (with caution because of soft-tissue atrophy and a paradoxical reduction in long-term efficacy with repeated injections). Cubital tunnel syndrome in McGowan grade 1 (paraesthesia only) — conservative therapy with night-time splinting in semi-extension, avoidance of prolonged flexion at work and sleep, physiotherapy.
@@ -441,12 +411,11 @@ Splint and cast immobilisation at the elbow has specific rules: prolonged immobi
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Operative
-<details id="operative">
-<summary>Operative</summary>
+<section class="topic-subsection" id="operative">
 <div class="ts-body">
 
 <details>
@@ -480,7 +449,7 @@ The classical lateral approach to the elbow, described by Emil Theodor Kocher (1
 **Classical anatomical rules (Bulgarian school).** The Bulgarian operative school codifies three rules valid in every extended lateral approach. First: immediately proximal to the upper border of supinator, anterior to the joint capsule, the radial nerve divides into superficial and deep branches — the bifurcation point is critical for identifying PIN before it enters supinator. Second: the deep branch enters the supinator canal approximately 2–3.5 cm distal to the radial head; extension of the distal dissection beyond this border without supination and without visual control is a direct threat to the nerve. Third: the superficial branch passes distally between brachioradialis and extensor carpi radialis longus and must be identified when extending the incision caudally.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterior Approaches to the Elbow</summary>
@@ -510,7 +479,7 @@ Posterior approaches are discussed in detail in the context of the distal humeru
 **Classical Bulgarian posterior midline approach (Boychev).** The patient is supine or semi-lateral with the limb placed transversely across the chest. External landmarks are the terminal triceps tendon, the olecranon, and the ulnar groove. The skin incision begins 6–7 cm proximal to the olecranon, runs distally along the midline, reaches the tip of the olecranon, skirts it laterally, and continues 5–6 cm distally along the posterior border of the ulna. After fascial opening the distal triceps and the periosteum of the distal humerus are elevated subperiosteally, and the joint is opened in the olecranon fossa region. For triceps lengthening in flexion contracture a triangular tendinous flap with its base at the olecranon and a proximally directed apex is fashioned; after contracture correction the flap is sutured in Z-form with resultant tendon lengthening. With an olecranon osteotomy variant the olecranon borders are released subperiosteally, the osteotomy is performed at the base (at the level of the "bare area") and the osteoperiosteal flap with the attached triceps is reflected proximally, widely exposing the posterior joint and the supracondylar region. At closure the osteotomy is synthesised with a screw or with Weber tension-band wiring. The anatomical limit for proximal extension is set by the radial nerve crossing the lateral intermuscular septum (approximately 10 cm above the lateral epicondyle) — beyond this point the dissection is limited in order to avoid the nerve.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Medial Approach</summary>
@@ -542,7 +511,7 @@ The medial approach provides access to the medial epicondyle, the medial collate
 **Classical medial approach with medial epicondyle osteotomy (Bulgarian school).** An extended medial approach in which the medial epicondyle is osteotomised and reflected distally and laterally together with the attached flexor-pronator mass. First the ulnar nerve is identified and palpated in the ulnar groove, the fascia over it is carefully incised, the nerve is isolated with a rubber loop, and it is retracted posteriorly. Then the medial border of flexor carpi ulnaris is elevated and the underlying ulnar nerve is protected. The lateral border of pronator teres is elevated toward the medial epicondyle for visualisation of the median nerve, its flexor branches, and the brachial artery. The medial epicondyle is osteotomised obliquely — the osteotomy preserves the medial collateral ligament insertion on the distal bony fragment — and reflected distally together with the flexor-pronator mass. The approach may be extended subperiosteally beneath brachialis to expose the anterior joint capsule and the anterior supracondylar region; the brachial vessels and median nerve remain protected by the overlying brachialis. At closure the osteotomised epicondyle is fixed with a screw. The approach is used in the classical removal of an entrapped medial epicondyle in a child, in the Hotchkiss medial approach to the coronoid, and in total elbow arthroplasty with medial exposure.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Anterior Approach (Henry for the Elbow)</summary>
@@ -572,7 +541,7 @@ For distal biceps tendon reinsertion the tendon is freed from its retracted posi
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Ulnar Nerve Decompression and Transposition</summary>
@@ -585,7 +554,7 @@ The cubital tunnel is approached through a longitudinal incision behind the medi
 **The classical Bulgarian submuscular transposition (Learmonth variant with fascial-fat flap).** In incipient ulnar palsy from valgus deformity or cicatricial compression after epicondylar fracture: a longitudinal incision along the course of the nerve from the distal third of the arm to the proximal third of the forearm; the deep fascia over the medial epicondyle is incised and the bed of the nerve is opened proximally-to-distally. In the distal part of the incision a few fibres of flexor carpi ulnaris are divided to release the nerve from the arcuate ligament of Osborne. A curved Terrier instrument is passed beneath the insertions of the flexor-pronator mass, the deep intermuscular septum from the medial epicondyle is split, creating a bed over brachialis into which the ulnar nerve is placed without tension or kinking. The detached muscles are sutured back over the nerve, and the limb is immobilised for approximately 3 weeks in semi-flexion.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Classical Procedures for Lateral and Medial Epicondylitis</summary>
@@ -602,7 +571,7 @@ Chronic tendinosis of the common extensor origin at the lateral epicondyle — c
 In medial epicondylitis ("golfer's elbow") an analogous procedure includes detachment of the common flexor origin with tangential resection of the degenerative tendon, with primary concern for protecting the ulnar nerve in the adjacent cubital tunnel — in approximately 20% of patients a concomitant in situ decompression or transposition is performed.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>MCL Reconstruction — Tommy John and Konforti-Paneva</summary>
@@ -624,7 +593,7 @@ For lateral instability following post-traumatic LUCL injury (posterolateral rot
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Distal Biceps Tendon Reinsertion</summary>
@@ -637,7 +606,7 @@ Distal biceps tendon avulsion from the radial tuberosity typically occurs with a
 **Modern single anterior approach.** Cortical button fixation (EndoButton) or interference screws reduce the need for a second posterior incision. Tuberosity preparation is performed through the anterior approach — drill perforation with risk to PIN; forearm supination shifts the nerve maximally lateral. Outcomes are equivalent to the two-incision technique, but the risk of PIN injury and of heterotopic ossification in the proximal radioulnar joint (approximately 5–10% with the two-incision technique, lower with the single incision) remain individually prognosticated.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Olecranon Fixation</summary>
@@ -660,7 +629,7 @@ Olecranon fixation with tension-band wiring per Weber (M. E. Müller, M. Allgöw
 In comminuted fractures or fractures with small fragments at the olecranon tip (involving no more than one-third of the bone), the fragments are excised and the triceps is sutured directly to the freshened residual bony bed with a transosseous suture or anchor. This resection strategy is unacceptable in distal fragments that would jeopardise anterior-posterior stability of the ulnohumeral joint (there — plate osteosynthesis with anteriorly placed plates per Müller).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Elbow Flexion Restoration (Steindler, Clark, Hovnanian)</summary>
@@ -679,7 +648,7 @@ With complete loss of elbow flexion (traumatic brachial plexus palsy, post-polio
 Prognostically, active elbow flexion after passive flexion to 90° in patients with palsy is a sign that the preserved active flexion strength is sufficient for some functional needs and is an argument against transfer.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Elbow Arthrodesis</summary>
@@ -702,7 +671,7 @@ Elbow arthrodesis is relatively rarely performed for aesthetic and functional re
 The optimal position for arthrodesis is 70–90° of flexion, mid-rotation of the forearm.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Interposition Arthroplasty and Total Elbow Arthroplasty</summary>
@@ -728,7 +697,7 @@ The optimal position for arthrodesis is 70–90° of flexion, mid-rotation of th
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Correction of Cubitus Varus and Valgus</summary>
@@ -739,7 +708,7 @@ Cubitus varus (gunstock deformity) is a classical late complication of poorly re
 A comparative radiograph of both elbows is mandatory for accurate planning of the correction angle.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Radial Head — Excision and Reconstruction of Chronic Dislocation</summary>
@@ -760,7 +729,7 @@ The classical indication for radial head excision is a comminuted Mason 3–4 fr
 Operative reduction of a chronically dislocated radial head (unreduced 2–6 weeks) is performed through a posterolateral approach: the joint capsule is opened, the dislocated head is reduced with gentle elevators with concurrent elbow flexion; if the annular ligament is repairable, it is sutured, otherwise the reconstruction uses a free tendon graft passed through a transverse channel in the posterior border of the proximal ulna at the level of the radial neck. Hohmann's classical technique uses a pedicled tendon autograft from triceps for annular ligament reconstruction. In cases beyond 6 months of injury significant soft-tissue changes make operative reduction impractical — the alternative is head resection or replacement.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Bloody Reduction of Elbow Dislocation and Arthrolysis</summary>
@@ -771,7 +740,7 @@ In chronic unreduced dislocations (over 2–3 weeks in adults; regardless of dur
 **Arthrolysis for flexion contracture.** With a fixed soft-tissue flexion contracture (without collateral ligament shortening and without bony block), the anterior Henry approach for the elbow is used. The lacertus fibrosus is divided, the superficial veins are ligated, the biceps tendon is Z-lengthened, brachialis is divided obliquely or lengthened similarly. The median nerve and brachial artery are exposed and gently retracted. If needed the anterior joint capsule is divided and the intra-articular adhesions removed. After extension is restored the tendons are reconstructed with appropriate lengthening to allow passive extension. Immobilisation in maximal extension, followed by early active rehabilitation. Concomitant resection of heterotopic ossification (HO) is indicated only after maturation of the focus — clinically with pain resolution, radiologically with sharp delineation and density of the HO contours, and usually no less than 6 months from the trauma or prior surgery. Premature excision of "live" HO causes recurrence; postoperative prophylaxis includes indomethacin or single-dose low-dose radiation.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Synovectomy for Rheumatoid Arthritis</summary>
@@ -780,7 +749,7 @@ In chronic unreduced dislocations (over 2–3 weeks in adults; regardless of dur
 Elbow synovectomy is indicated in chronic rheumatoid inflammation with persistent pain, failed conservative management, and relatively preserved articular surfaces (Larsen 1–2). The approach is usually lateral Kocher, supplemented by posterior or medial incisions for complete synovectomy if needed. The radial head is resected routinely — it is often significantly damaged and resection facilitates access to the radiocapitellar joint and the proximal radioulnar joint. Early mobilisation (24–48 hours postoperatively) is critical to maintain range of motion.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Volkmann Contracture — Classical Release</summary>
@@ -799,7 +768,7 @@ Elbow synovectomy is indicated in chronic rheumatoid inflammation with persisten
 Volkmann ischaemic contracture of the flexor mass is a late complication of unrecognised or inadequately treated forearm ischaemia after a paediatric supracondylar fracture, post-traumatic compression of the brachial artery, or prolonged tourniquet ischaemia. The classical Page-Scaglietti release uses an extensive medial approach — distal slide of the flexor digitorum profundus and flexor pollicis longus from the ulna and radius, with overall distal slide of the entire flexor mass. Seddon's classical approach adds excision of the ischaemic central muscle segment in severe cases. Decompression of the median nerve at pronator teres and the carpal tunnel and ulnar nerve transposition for cubitus valgus are routine adjuncts. Prevention of Volkmann through prompt reduction and/or fasciotomy in acute ischaemia (see Trauma 15) remains more important than late reconstructive treatment.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Paediatric Considerations</summary>
@@ -812,22 +781,18 @@ Release of an intra-articularly entrapped medial epicondyle after a "locked" pae
 In children the most common elbow fracture is the supracondylar — malunion with a medialised angulated distal fragment produces the classical cubitus varus deformity. Management of acute supracondylar fracture (closed reduction and percutaneous fixation with K-wires per Judet) is presented in detail in [Trauma 15](/en/trauma/15/).
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Outcomes and Complications
 <section class="topic-section" id="outcomes">
-<details>
-<summary>Outcomes and Complications</summary>
-<div class="ts-body">
+
 
 Complications in operative elbow surgery group by structure and by procedure type.
 
@@ -843,17 +808,13 @@ Complications in operative elbow surgery group by structure and by procedure typ
 
 **Arthroplasty.** Deep infection (1–5%); aseptic loosening (5–15% at 10 years); periprosthetic humeral or ulnar fracture (1–5%); triceps insufficiency after reflecting approach (10–15% with gravitational weakness); hinge mechanism loosening (semi-constrained design) in young active patients.
 
-</div>
-</details>
 </section>
 
 
 
 ## Local Contributions
 <section class="topic-section" id="bulgarian">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
+
 
 **Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the orthopaedic school in Bulgaria; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a reference in the curriculum and contains detailed descriptions of the posterior, medial, and lateral approaches to the elbow in the Bulgarian tradition, including the triangular tendinous flap technique for triceps lengthening in flexion contracture and the medial approach with medial epicondyle osteotomy.
 
@@ -883,17 +844,13 @@ From the classical Russian and Ukrainian school, closely integrated in the Bulga
 
 **Vreden <sup class="natflag">RU</sup>.** A classical posterior reconstructive technique using semi-cut bony structures as a support point — the conceptual basis for the biological principles of classical arthrodesis and interposition.
 
-</div>
-</details>
 </section>
 
 
 
 ## Classical Sources
 <section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
+
 
 <aside class="callout callout-classical">
   <strong>Classical lineage — elbow surgery</strong>
@@ -911,17 +868,13 @@ Classical descriptions by approach and procedure: Hohmann 1926 (lateral epicondy
 
 Additional classical sources: **Boycho Boychev** (three volumes, Sofia) — posterior and medial approaches in the Bulgarian tradition, the triangular tendinous flap for triceps lengthening. **Hodgson-Watson** (1957), *Surgery of the Shoulder and Elbow* — modern synthesis of operative anatomy. **Morrey** (from 1985, multiple editions), *The Elbow and Its Disorders* — the modern equivalent of the classical textbooks; reference for operative anatomy, post-traumatic destruction, and hinged replacement (Coonrad-Morrey construct).
 
-</div>
-</details>
 </section>
 
 
 
 ## Suggested Reading
 <section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
+
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *The standard operative manual chapter by chapter with diagrammatic illustrations of internervous planes and step-by-step technique; chapters on Kocher, Henry, posterior triceps approaches, the medial and anterior approaches to the elbow.*
 2. **Morrey BF, Sanchez-Sotelo J, Morrey ME, eds.** *Morrey's The Elbow and Its Disorders.* 5th ed. Philadelphia: Elsevier; 2018. ISBN 978-0-323-34169-1. — *The gold standard for elbow operative anatomy, hinged replacement (Coonrad-Morrey), collateral ligament reconstruction, posterolateral rotatory instability, and complex post-traumatic destruction; chapters with detailed windows for PIN and the ulnar nerve.*
@@ -929,8 +882,6 @@ Additional classical sources: **Boycho Boychev** (three volumes, Sofia) — post
 4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Classical descriptive anatomy with emphasis on functional relations; reference for the neurovascular topography of the cubital fossa, antecubital vasculature, and the fascial spaces of the elbow.*
 5. **Boychev B, ed.** *Surgical Orthopaedics* (three volumes; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on the surgical approaches to the elbow, olecranon fixation, arthrodesis, and interposition arthroplasty that define the terminology and operative tactic of the Bulgarian curriculum.*
 
-</div>
-</details>
 </section>
 
 <script is:inline>

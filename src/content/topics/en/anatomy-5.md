@@ -34,34 +34,27 @@ order: 205
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</details>
+</section>
 
 
 
 ## Overview
 <section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
+
 
 The forearm spans the elbow joint proximally to the wrist joint distally and is unique among segments of the upper limb in containing two parallel long bones — the radius and the ulna — whose spatial relationship determines the rotational function of pronation and supination. The surgical concept of forearm approaches demands preservation of the radial bow, integrity of the two radioulnar joints, and prevention of heterotopic synostosis between the bones. Neurovascular risk concentrates in the deep motor branch of the radial nerve in the proximal third, in its superficial branch along the radial border of the distal third, and in the median nerve with its anterior interosseous branch along the depth of the volar compartment. The chapter presents the layered anatomy, the principal volar and dorsal approaches (Henry, Thompson, direct ulnar, posterior Cadenat), decompressive fasciotomy for acute compartment syndrome, the reconstructive operations for established Volkmann's contracture, the catalogue of classical tendon transfers for median, ulnar, and radial nerve palsy, the plating and intramedullary techniques of the Bulgarian school of Boychev, Koncherov, and Paneva, the corrections of chronic Monteggia, Madelung deformity, and congenital radioulnar synostosis, the Krukenberg cineplasty of the amputation stump with the Albrecht and Holevich modifications, and the denervation and arthrodesis procedures of the wrist.
 
-</div>
-</details>
 </section>
 
 
 
 ## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
-<details>
-<summary>Surgical Anatomy</summary>
-<div class="ts-body">
+
 
 
 ### Bony Anatomy and Interosseous Membrane
-<details id="bony-anatomy">
-<summary>Bony Anatomy and Interosseous Membrane</summary>
+<section class="topic-subsection" id="bony-anatomy">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -92,12 +85,11 @@ The forearm spans the elbow joint proximally to the wrist joint distally and is 
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Muscular Compartments
-<details id="compartments">
-<summary>Muscular Compartments</summary>
+<section class="topic-subsection" id="compartments">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -158,12 +150,11 @@ The forearm has two principal fascial compartments — volar (flexor-pronator) a
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Neurovascular Anatomy
-<details id="neurovascular">
-<summary>Neurovascular Anatomy</summary>
+<section class="topic-subsection" id="neurovascular">
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -210,12 +201,11 @@ The anterior interosseous nerve branches 5–8 cm distal to the medial epicondyl
 **Arterial anatomy.** The brachial artery divides at the level of the radial neck into the radial and ulnar arteries. *Radial artery* — runs along the radial border, deep to brachioradialis in the proximal two thirds and superficial in the distal third (where it is easily palpable for the pulse); the main vessel in the Henry interval. *Ulnar artery* — runs along the ulnar border, deep to flexor carpi ulnaris; in the proximal third the artery and nerve are separated by muscular tissue and converge only distally (practically important when revising ulnar trauma, where the nerve may not accompany the artery in the proximal wound). *Common interosseous artery* — branches from the ulnar, divides into an anterior interosseous trunk (running with the anterior interosseous nerve along the volar surface of the interosseous membrane) and a posterior interosseous trunk (running with PIN in the dorsal compartment).
 
 </div>
-</details>
+</section>
 
 
 ### Pirogov's Deep Volar Space
-<details id="pirogov">
-<summary>Pirogov's Deep Volar Space</summary>
+<section class="topic-subsection" id="pirogov">
 <div class="ts-body">
 
 In the distal third of the volar compartment lies the specific space described by N. I. Pirogov — *spatium antebrachii profundum* — 5–6 cm long, bounded posteriorly by the interosseous membrane and pronator quadratus and anteriorly by flexor digitorum profundus and flexor pollicis longus. The space contains loose areolar tissue continuous proximally with the forearm planes and distally with the contents of the carpal tunnel, forming a continuous channel between hand and forearm.
@@ -231,12 +221,11 @@ Its clinical significance is central in suppurative infections: volar palmar phl
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Surface Anatomy and Landmarks
-<details id="landmarks">
-<summary>Surface Anatomy and Landmarks</summary>
+<section class="topic-subsection" id="landmarks">
 <div class="ts-body">
 
 The anterior forearm region extends between a line about 6 cm distal to the humeral epicondyles and a line about 3 cm proximal to the distal wrist crease. The volar skin is thin, mobile, and hair-bearing in its radial half; the subcutaneous tissue contains the cephalic vein in the radial part (accompanied by the lateral antebrachial cutaneous nerve — terminal branch of the musculocutaneous), the basilic vein in the ulnar part (with the medial antebrachial cutaneous nerve), and the median antebrachial vein along the midline. The deep fascia is continuous with the brachial fascia, fuses with the medial border of the ulna, and gives off intermuscular septa that delineate the mobile wad and the anterior fascial compartment.
@@ -246,19 +235,15 @@ Palpable landmarks: the radial tuberosity for the level of radial nerve division
 Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint of the intercondylar line to a point 1.5 cm medial to the radial styloid. Ulnar artery in the upper third — from a point 0.5 cm lateral to the midpoint of the antecubital crease to the medial border of the pisiform. Ulnar nerve — line between the medial epicondyle and the pisiform. Median nerve — medial border of the biceps tendon proximally to the midpoint between the two styloids distally.
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
-<details>
-<summary>Pathophysiology and Mechanism</summary>
-<div class="ts-body">
+
 
 **Acute compartment syndrome.** The classical pathogenetic mechanism of Volkmann's ischaemic contracture is acute elevation of tissue pressure within a closed fascial compartment above the level of capillary perfusion pressure (absolute values of 60–80 mmHg, or perfusion pressure within 30 mmHg of diastolic). Causes in the forearm: supracondylar humeral fracture in a child with excessive elbow flexion in a cast, brachial artery rupture, severe crush, circumferential cast or dressing, extravasation of intravenous infusate, reperfusion after prolonged ischaemia, bleeding into the volar compartment in coagulopathy. Primary ischaemia of the superficial flexors and deeply of flexor digitorum profundus with flexor pollicis longus leads to myofibrous necrosis (Seddon's "volar compact core"). Survival of the superficial layers with fibrous replacement of the deep ones creates the characteristic configuration of the established contracture — forearm pronation, wrist flexion, interphalangeal flexion with thenar atrophy when the median and ulnar nerves are simultaneously injured.
 
@@ -270,17 +255,13 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 
 **Radial tunnel syndrome.** A purely pain-equivalent of compression at the arcade of Frohse, without motor or sensory deficit. Distinguished from lateral epicondylitis by the location of maximum tenderness — 3–5 cm distal to the lateral epicondyle rather than over it.
 
-</div>
-</details>
 </section>
 
 
 
 ## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical">
-<details>
-<summary>Clinical Presentation and Diagnosis</summary>
-<div class="ts-body">
+
 
 **Acute compartment syndrome — the five signs.** Systematised in the Bulgarian orthopaedic literature as the "five Ps": disproportionate pain unrelieved by the injury (pain), compartment tension (pressure), pallor or cyanosis (pallor), paresthesia and numbness (paresthesia), and inability to passively extend the fingers (passive stretch pain — the most reliable early sign). Loss of the radial pulse is a LATE sign — the presence of a pulse does not exclude acute ischaemia. Tissue pressure is measured with an electronic transducer (Stryker, Whitesides) by puncture of the three compartments at the level of maximum clinical tenderness; pressure above 30 mmHg in an injured limb or perfusion pressure within 30 mmHg of diastolic is an indication for fasciotomy.
 
@@ -303,17 +284,13 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Classification
 <section class="topic-section" id="classification">
-<details>
-<summary>Classification</summary>
-<div class="ts-body">
+
 
 **Volkmann's contracture — Tsuge.** Tsuge's classification (1975) divides the established ischaemic contracture into three severities and dictates operative tactic. *Mild* — focal necrosis involving part of flexor digitorum profundus (usually for the ring and middle fingers) with preserved flexor pollicis longus and flexor digitorum profundus for the index; usually no neurological deficit; functional reconstruction by neurolysis with or without flexor slide of Page-Scaglietti. *Moderate* — necrosis of a larger portion of flexor digitorum profundus and of flexor pollicis longus, usually with median and/or ulnar deficit; neurolysis, excisional Seddon procedure, transfer of flexor digitorum superficialis to flexor digitorum profundus (Epstein-Rozov transfer). *Severe* — necrosis of both the superficial and deep flexor layers with severe fibrosis; functional reconstruction by radical excision of necrotic muscle with free functional muscle transfer (gracilis in modern practice) or wrist arthrodesis with active pinch function from preserved elements.
 
@@ -325,22 +302,17 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 
 **Classification of approaches.** Volar (Henry); dorsal (Thompson, dorsal distal radius between third and fourth extensor compartments, posterior Cadenat to the proximal radius); medial subcutaneous (direct ulnar); combined (volar approach to the distal radius for volar plating of distal radius fractures with a watershed-line landmark).
 
-</div>
-</details>
 </section>
 
 
 
 ## Treatment
 <section class="topic-section" id="treatment">
-<details>
-<summary>Treatment</summary>
-<div class="ts-body">
+
 
 
 ### Nonoperative
-<details id="nonoperative">
-<summary>Nonoperative</summary>
+<section class="topic-subsection" id="nonoperative">
 <div class="ts-body">
 
 Nonoperative treatment of closed forearm fractures occupies a limited niche in adults — stable, undisplaced, or minimally angulated (under 10°) distal Colles fractures, isolated ulnar (nightstick) fractures with angulation under 10° and no shortening, and Mason type 1 radial head fractures without rotational block.
@@ -359,12 +331,11 @@ For acute Colles fractures with accepted reduction, the cast is maintained for 4
 </aside>
 
 </div>
-</details>
+</section>
 
 
 ### Operative
-<details id="operative">
-<summary>Operative</summary>
+<section class="topic-subsection" id="operative">
 <div class="ts-body">
 
 <details>
@@ -410,7 +381,7 @@ Described by A. K. Henry (1927) and established by *Extensile Exposure* (1945) a
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Thompson Dorsal Approach to the Radius</summary>
@@ -446,7 +417,7 @@ Described by J. E. Thompson (1918) for posterior exposure of the proximal half o
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Direct Ulnar Approach</summary>
@@ -469,7 +440,7 @@ The subcutaneous posterior border of the ulna allows a straight surgical corrido
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Posterior Cadenat Approach to Both Bones</summary>
@@ -490,7 +461,7 @@ Described for simultaneous access to the radius and ulna in severe both-bone inj
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Approaches to the Neurovascular Trunks</summary>
@@ -509,7 +480,7 @@ Described for simultaneous access to the radius and ulna in severe both-bone inj
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Decompressive Fasciotomy for Acute Compartment Syndrome</summary>
@@ -535,7 +506,7 @@ Acute forearm compartment syndrome is an emergency with a 4–6 hour window of r
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Reconstruction for Established Volkmann's Contracture</summary>
@@ -560,7 +531,7 @@ When diagnosis is delayed or primary decompression is inadequate, the establishe
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Tendon Transfers for Median Nerve Palsy</summary>
@@ -593,7 +564,7 @@ The classical retrograde transposition of the superficial flexors after Epstein-
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Tendon Transfers for Ulnar Nerve Palsy</summary>
@@ -612,7 +583,7 @@ The aim in high or low ulnar palsy is restoration of metacarpophalangeal flexion
 **Restoration of the palmar arch and thumb adduction (Littler/Matev).** Through an incision proximal to the flexor retinaculum the middle- or ring-finger flexor digitorum superficialis is withdrawn; one slip is anchored at the adductor pollicis insertion, the other is passed transversely across the palm to the base of the thumb proximal phalanx or to the neck of the fifth metacarpal, reconstructing the palmar arch.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Tendon Transfers for Radial Nerve Palsy</summary>
@@ -644,7 +615,7 @@ The historical development begins with Franke (1898), who transposed flexor carp
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Compression Plating of Both Bones</summary>
@@ -680,7 +651,7 @@ Standard for diaphyseal forearm fractures in adults. AO principles (Müller, All
 </aside>
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Intramedullary Nailing with Reaming</summary>
@@ -700,7 +671,7 @@ For diaphyseal ulnar fractures the classical Bulgarian approach (Boychev, Konche
 **Radial nailing.** Performed relatively rarely because of the natural radial bow, which makes a straight canal path impossible; when used, entry into the distal fragment is via a small dorsoradial incision over the wrist, a cortical window is opened, and the guide is passed retrograde across the fracture into the proximal fragment. The modern equivalent is a locked intramedullary radial nail with a bowed shape that permits intramedullary fixation without sacrificing the bow.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Radioulnar Superposition for Bone Defects</summary>
@@ -715,7 +686,7 @@ In an extensive segmental defect of the radius with preserved distal fragment (t
 **Congenital absence of the ulna** (with proximal radial head dislocation and progressive growth retardation) — two-stage treatment in childhood: stage one — Ilizarov distraction of the radius against the ulna (two rings + distraction frames); stage two — Cadenat posterior approach to the proximal third, freshening of the distal end of the proximal ulnar fragment, radial head resection, alignment of the radius along the ulnar axis, and osteosynthesis with a Kirschner wire. Cast immobilisation for 45–60 days; at a later stage, in a sufficiently preserved ulna, synostosis between the two bones can be created by freshening the lateral surfaces and fixation with a compression screw.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Distal Radius Malunion Correction</summary>
@@ -730,7 +701,7 @@ In neglected, unreduced, or malunited Colles fractures with the typical dorsorad
 **Acute intra-articular fractures.** When the dorsal surface is involved (dorsal die-punch fragment), Ellis suggested a small plate buttressing the distal fragment as a shovel without fixation through it — the buttress plate. In unstable fractures after closed reduction with impaction-related defect or marked oedema, percutaneous fixation with Kirschner wires or an external fixator is an alternative.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Operative Management of Galeazzi and Monteggia</summary>
@@ -765,7 +736,7 @@ In neglected, unreduced, or malunited Colles fractures with the typical dorsorad
 When the radial head reduces freely with good ulnar alignment (instability is due solely to ulnar shortening and angular deformity), osteosynthesis of the ulna with confirmation of stability at 120° of elbow flexion is sufficient — no separate annular ligament reconstruction. In neglected injuries in adult patients with an irreducible radial head (due to chronic deformity of the head or its articular surface), resection of the head with compensatory pronator quadratus tenodesis or a Sauvé-Kapandji procedure distally is considered.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Madelung Deformity Correction</summary>
@@ -788,7 +759,7 @@ The classical correction in the Bulgarian tradition combines resection of the di
 **Sauvé-Kapandji for severe adult deformity.** DRUJ arthrodesis with a proximal ulnar pseudarthrosis by resection of a 1–2 cm segment — a technique that preserves the ulnar buttress of the distal radius and is biomechanically more stable than Darrach in severe grades.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Radial Club Hand Correction</summary>
@@ -799,7 +770,7 @@ In small children, treatment is performed in two or even three stages with the a
 When two-stage treatment is insufficient because of a congenital ulnar bow, a corrective ulnar osteotomy is added after wrist stabilisation. In combined pathology with proximal radial head dislocation (residual radius), this is corrected as well. The long-term adult task is reconstruction of a functional opposing thumb (pollicisation in absent first ray — discussed in the hand topic).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Congenital Radioulnar Synostosis Correction</summary>
@@ -808,7 +779,7 @@ When two-stage treatment is insufficient because of a congenital ulnar bow, a co
 Congenital proximal radioulnar synostosis produces a fixed pronation of the forearm with severe functional limitation. The classical operative correction (Boychev) is performed in childhood before skeletal maturity: through the anterolateral Henry approach an osteotomy of the radius is performed at the required level. If forearm rotation remains restricted despite the osteotomy, release of pronator teres and pronator quadratus is added, and if needed — longitudinal division of the interosseous membrane and resection of the ulnar head (when the deformity also involves the radial bow). Operative correction has a high recurrence rate due to repeated synostosis; therefore in modern practice severe cases are managed by derotation osteotomy of the ulna in neutral or slightly supinated position (10–20° supination) without an attempt to restore rotation — acceptance of a fixed functional position rather than restoration of motion.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>DRUJ Ligament Reconstruction</summary>
@@ -817,7 +788,7 @@ Congenital proximal radioulnar synostosis produces a fixed pronation of the fore
 DRUJ instability due to disruption of the ligamentous apparatus (typically after a subacute Galeazzi injury or after triangular fibrocartilage resection) is corrected operatively relatively early, before degenerative changes appear. A T-shaped incision is made with a longitudinal arm on the ulnar side of the forearm (beginning several centimetres above the wrist) and a transverse arm on the dorsal surface. A palmaris longus autograft or preserved tendon allograft is taken; the ulna is denuded subperiosteally proximal to its head. The graft is looped around the ulnar neck and its ends are anchored to the radius with a pull-out suture or anchor. The reconstruction recreates both components of stability — the palmar and dorsal radioulnar ligament systems. Immobilisation in supination (for dorsal instability) or neutral (for bidirectional instability) in a long-arm cast for 6 weeks, followed by 4 weeks in a short-arm cast. This technique is the conceptual predecessor of modern anatomical reconstructions after Adams-Berger (double tenodesis of the dorsal and palmar radioulnar ligaments with a graft through a radial bone tunnel).
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Darrach Distal Ulna Resection</summary>
@@ -830,7 +801,7 @@ Distal ulna resection (W. Darrach, 1912) is one of the most enduring procedures 
 **Complications and alternatives.** Radioulnar convergence with collapse of the distal ulna toward the radius under load, instability of the remnant with "painful clunking" on rotation — the principal motives for development of alternatives: hemiresection-interposition arthroplasty (Bowers), preserving the ulnar styloid as triangular fibrocartilage anchor with interposition of a capsular flap; Sauvé-Kapandji (DRUJ arthrodesis with proximal ulnar pseudarthrosis); DRUJ arthroplasty. The choice depends on grip-strength demands, expectations for heavy work, and patient age.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Wrist Denervation (Wilhelm)</summary>
@@ -839,7 +810,7 @@ Distal ulna resection (W. Darrach, 1912) is one of the most enduring procedures 
 Wrist denervation is an elegant analgesic procedure for painful degenerative arthrosis of various aetiologies (scaphoid non-union, Kienböck's disease, post-traumatic arthritis, rheumatoid arthritis) when relief of pain is sought without sacrificing motion. Wilhelm's anatomical study established that the wrist is innervated by twigs from the median, ulnar, and radial (superficial branch) nerves, as well as by the articular branches of the anterior and posterior interosseous nerves. The classical technique requires selective division of the articular twigs — principally the distal branches of the two interosseous nerves (the posterior nerve distal to its exit from supinator for dorsal denervation, the anterior nerve distal to pronator quadratus for volar denervation) — through two small incisions. Outcomes are favourable when selection is appropriate: more than 70% of patients report significant relief without noticeable loss of proprioception or muscular function.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Wrist Arthrodesis</summary>
@@ -854,7 +825,7 @@ A salvage operative method for severe degenerative arthritis with failed nonoper
 **Alternative techniques.** A 5-shaped incision between the third and fourth compartments with a 180°-reversed graft from the dorsal surface of the distal radius (own-bone graft avoids iliac crest donor morbidity); compression arthrodesis with a Mannerfeldt rod for rheumatoid disease with Sauvé-Kapandji ulnar resection.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Forearm Amputation and Krukenberg Cineplasty</summary>
@@ -881,7 +852,7 @@ For severe traumatic injury, tumour, or gangrene, forearm amputation should be p
 **Holevich modification.** A volar incision starting 6–8 cm below the antecubital crease; proximally the incision runs on the radial side, courses about 2.5–3.5 cm proximally and ulnarly at 45° to the forearm axis, then continues 5–7 cm at 90° to the first in a distal and ulnar direction. In depth the dissection passes between the flexor digitorum superficialis tendons, the median nerve is exposed, the superficial flexor is split into two halves so that the tendons for the ring and little fingers go to the ulnar branch; the median nerve is divided at the level of pronator teres. Flexor digitorum profundus and flexor pollicis longus are distributed between the two branches; the radial and ulnar nerves are pulled and shortened only anatomically; one branch is covered by the volar flap, the other with a free graft. This modification provides better contouring and control of the two branches.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Distal Radius Approaches (Volar and Dorsal)</summary>
@@ -892,7 +863,7 @@ For severe traumatic injury, tumour, or gangrene, forearm amputation should be p
 **Dorsal approach to the distal radius.** Used for selected indications (dorsal Barton fracture, dorsal die-punch fragments, specific dorsal plating). The interval is between the third extensor compartment (extensor pollicis longus) and the fourth (extensor digitorum), with extensor pollicis longus rerouted dorsally outside its sheath at closure to avoid attritional rupture over the plate. Detailed considerations of distal radius fixation are presented in the distal radius topic.
 
 </div>
-</details>
+</section>
 
 <details>
 <summary>Postoperative Care</summary>
@@ -907,22 +878,18 @@ After tendon transfer — immobilisation in the position relieving tension on th
 After wrist arthrodesis — a padded cast for 2 weeks with suture removal, followed by a full cast for 10 weeks. Follow-up radiographs at 6, 12, and 16 weeks to confirm consolidation.
 
 </div>
-</details>
+</section>
 
 </div>
-</details>
+</section>
 
-</div>
-</details>
 </section>
 
 
 
 ## Outcomes and Complications
 <section class="topic-section" id="outcomes">
-<details>
-<summary>Outcomes and Complications</summary>
-<div class="ts-body">
+
 
 **Henry approach.** Posterior interosseous nerve injury (principal concern; minimised by forearm supination and careful subperiosteal release of supinator); superficial radial nerve injury with painful neuroma; radial artery injury (rare but possible with aggressive retraction); median nerve injury at proximal extension.
 
@@ -946,17 +913,13 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 
 **Darrach distal ulna resection.** Radioulnar convergence under load; painful clunking on rotation; reduced grip on heavy loading — driving the development of alternatives (Bowers, Sauvé-Kapandji).
 
-</div>
-</details>
 </section>
 
 
 
 ## Local Contributions
 <section class="topic-section" id="bulgarian">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
+
 
 **Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the orthopaedic school in Bulgaria; the eponymous USBALO "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains the curriculum reference and contains descriptions of the classical forearm approaches, of the one-bone construct for severe segmental defects of both bones, of operative correction of congenital radioulnar synostosis, of the two-stage treatment of congenital absence of the ulna with the Ilizarov frame, and of the two-stage operation for chronic Monteggia with annular ligament reconstruction by a pedicled fascial graft.
 
@@ -988,17 +951,13 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 
 **Chaklar (Jaschar) <sup class="natflag">RU</sup>.** Classical principles for tendon transfers in high radial palsy, formulated in the Bulgarian literature on the basis of the Russian descriptions of Perthes, Dzhanelidze, Tonchev, and Tikhonovich. Preservation of at least one wrist flexor, synergistic wrist extension with finger flexion, a common motor for extensor digitorum and extensor pollicis longus, and separate motors for extensor pollicis brevis and abductor pollicis longus.
 
-</div>
-</details>
 </section>
 
 
 
 ## Classical Sources
 <section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
+
 
 <aside class="callout callout-classical">
   <strong>Classical line — operative forearm surgery</strong>
@@ -1021,17 +980,13 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
   </ul>
 </aside>
 
-</div>
-</details>
 </section>
 
 
 
 ## Suggested Reading
 <section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
+
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *The standard operative manual with diagrammatic illustrations of internervous planes and step-by-step technique; the principal textbook for residency training in the Henry, Thompson, and direct ulnar approaches.*
 2. **Wolfe SW, Pederson WC, Kozin SH, Cohen MS, eds.** *Green's Operative Hand Surgery.* 7th ed. Philadelphia: Elsevier; 2017. — *Comprehensive reference for forearm compartmental anatomy, posterior interosseous nerve safe zones, tendon transfers, reconstruction of established Volkmann's contracture, and modern Tsuge algorithms.*
@@ -1040,8 +995,6 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 5. **Germann G, Sherman R, Levin LS, eds.** *Reconstructive Surgery of the Hand and Upper Extremity.* New York: Thieme; 2017. — *A modern reconstructive text with chapters on tendon transfers for median, ulnar, and radial nerve palsy and on the reconstruction of established Volkmann's contracture.*
 6. **Boychev B, ed.** *Operative Orthopaedics* (three-volume set; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on forearm surgery with descriptions of the one-bone construct, the chronic Monteggia operation, correction of congenital radioulnar synostosis, and the two-stage tactic for congenital absence of the ulna.*
 
-</div>
-</details>
 </section>
 
 <script is:inline>

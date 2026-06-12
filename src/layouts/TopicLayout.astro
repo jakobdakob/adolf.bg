@@ -56,22 +56,6 @@ const eyebrow =
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article" data-topic-article data-pagefind-body>
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
-      {entry.data.kind === "topic" && entry.data.topicNumber && sectionTopics.length > 1 && (
-        <ol class="section-progress" aria-label={`Topic ${entry.data.topicNumber} of ${sectionTopics.length}`}>
-          {sectionTopics.map((e) => {
-            const isCurrent = e.slug === entry.slug;
-            return (
-              <li class={`sp-dot${isCurrent ? " is-current" : ""}`}>
-                {isCurrent ? (
-                  <span class="sp-current" aria-current="true" title={`${e.data.topicNumber}. ${e.data.title}`}></span>
-                ) : (
-                  <a href={topicPath(lang, e)} class="sp-link" title={`${e.data.topicNumber}. ${e.data.title}`} aria-label={e.data.title}></a>
-                )}
-              </li>
-            );
-          })}
-        </ol>
-      )}
       <h1 class="topic-title">{entry.data.title}</h1>
       <div class="prose" data-topic-prose>
         <slot />

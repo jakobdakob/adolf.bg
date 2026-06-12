@@ -7,7 +7,7 @@ topicNumber: 1
 order: 201
 ---
 
-<details class="topic-toc-inline" open>
+<details class="topic-toc-inline">
   <summary>Съдържание</summary>
   <ol>
     <li><a href="#overview">Преглед</a></li>

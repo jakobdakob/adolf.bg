@@ -1833,33 +1833,7 @@ html[data-theme="dark"] .btn-viber:hover {
 }
 
 
-/* Desktop: move inline V4 TOC into the right column without a box. */
+/* Desktop: hide the inline V4 TOC — the page already has the right-column .topic-toc auto-generated from headings. The inline TOC is mobile-only. */
 @media (min-width: 1180px) {
-  .prose .topic-toc-inline {
-    float: right;
-    width: 230px;
-    margin: 0 0 1em 1.5em;
-    padding: 0;
-    background: transparent;
-    border: none;
-    border-radius: 0;
-    max-width: none;
-  }
-  .prose .topic-toc-inline > summary {
-    font-size: 0.78rem;
-    font-weight: 600;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--ink-muted);
-    border-bottom: 1px solid var(--rule);
-    padding-bottom: 0.4em;
-    margin-bottom: 0.4em;
-  }
-  .prose .topic-toc-inline > summary::after {
-    font-size: 0.72rem;
-  }
-  .prose .topic-toc-inline ol li {
-    font-size: 0.82rem;
-    line-height: 1.5;
-  }
+  .prose .topic-toc-inline { display: none; }
 }

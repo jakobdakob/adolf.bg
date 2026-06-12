@@ -50,7 +50,7 @@
   --s-10: 128px;
 
   /* Reading & layout */
-  --reading-width: 65ch;
+  --reading-width: 78ch;
   --shell-width: min(1600px, 95vw);
 
   /* Single horizontal page gutter — used by every top-level block.
@@ -1882,3 +1882,32 @@ html { scroll-padding-top: 88px; }
 .prose .topic-section { scroll-margin-top: 96px; }
 .prose .topic-section details { scroll-margin-top: 96px; }
 
+
+
+/* Phase 1 unified layout: float figures right on desktop so the body prose
+   flows around them, Wikipedia-style. On mobile / narrow tablets the figure
+   stays full-width centered. */
+@media (min-width: 1180px) {
+  .md-figure {
+    float: right;
+    width: 320px;
+    max-width: 40%;
+    margin: 0.4em 0 0.8em 1.5em;
+    text-align: center;
+    clear: right;
+  }
+  /* Optional: every other figure floats left for visual rhythm. */
+  .md-figure:nth-of-type(even) {
+    float: left;
+    margin: 0.4em 1.5em 0.8em 0;
+    clear: left;
+  }
+  /* Wider inline TOC since we have the room. */
+  .prose .topic-toc-inline {
+    max-width: 100%;
+  }
+  /* Ensure section content clears any preceding floats. */
+  .prose .topic-section {
+    clear: both;
+  }
+}

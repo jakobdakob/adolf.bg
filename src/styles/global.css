@@ -665,9 +665,7 @@ html[data-theme="dark"] .btn-viber:hover {
 .topic-toc {
   display: none;
 }
-/* Right-sidebar TopicTOC disabled on all screens — V4 uses the inline
-   Wikipedia-style contents box at the top of the article instead. */
-@media (min-width: 1180px) and (max-width: 0px) {
+@media (min-width: 1180px) {
   .topic-toc {
     display: block;
     position: sticky;
@@ -1959,27 +1957,28 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Unified layout: figures float RIGHT only on desktop with text wrap.
-   Consecutive figures stack vertically (no side-by-side squeeze). */
+/* Desktop layout: figures float LEFT (text wraps on right). Inline TOC box
+   hidden on desktop (replaced by the right-column TopicTOC). */
 @media (min-width: 1180px) {
   .md-figure {
-    float: right;
-    clear: right;
+    float: left;
+    clear: left;
     width: 280px;
     max-width: 35%;
-    margin: 0.4em 0 0.8em 1.6em;
+    margin: 0.4em 1.6em 0.8em 0;
     text-align: center;
   }
-  .prose .topic-toc-inline {
-    max-width: 100%;
-  }
+  /* Inline TOC hidden on desktop — right sidebar TopicTOC takes its place. */
+  .prose .topic-toc-inline { display: none; }
+  /* Sections & headings clear floats so the next H2 starts on a fresh line. */
   .prose .topic-section,
   .prose .topic-subsection {
     clear: both;
   }
-  .prose:has(.topic-section) h2,
-  .prose:has(.topic-section) h3,
-  .prose:has(.topic-section) h4 {
+  .prose .topic-section > details > summary {
+    clear: both;
+  }
+  .prose .topic-section details details > summary {
     clear: both;
   }
 }

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import TopicSidebar from "../components/TopicSidebar.astro";
+import TopicTOC from "../components/TopicTOC.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
 
@@ -86,6 +87,7 @@ const eyebrow =
         ) : <span />}
       </nav>
     </article>
+    <TopicTOC lang={lang} headings={headings} />
   </div>
 
 <script>
@@ -118,13 +120,13 @@ const eyebrow =
   }
   @media (min-width: 1024px) {
     .topic-shell {
-      grid-template-columns: 260px minmax(0, 1fr);
+      grid-template-columns: 260px minmax(0, 1fr) 240px;
       gap: var(--s-6);
     }
   }
   @media (min-width: 1180px) {
     .topic-shell {
-      grid-template-columns: 260px minmax(0, 1fr);
+      grid-template-columns: 260px minmax(0, 1fr) 240px;
       gap: var(--s-6);
     }
   }

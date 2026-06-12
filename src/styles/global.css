@@ -1837,3 +1837,18 @@ html[data-theme="dark"] .btn-viber:hover {
 @media (min-width: 1180px) {
   .prose .topic-toc-inline { display: none; }
 }
+
+
+/* Nationality flags in author lists (e.g., Bulgarian Contributions section). */
+.natflag {
+  display: inline-block;
+  margin-left: 0.18em;
+  padding: 0 0.35em;
+  font-size: 0.62em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+  background: color-mix(in srgb, var(--ink) 6%, transparent);
+  border-radius: 4px;
+  vertical-align: 0.2em;
+}

@@ -871,27 +871,27 @@ The complications of spinal surgical approaches vary by anatomic region and proc
 <summary>Bulgarian Contributions</summary>
 <div class="ts-body">
 
-**Boycho Boychev (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference, with detailed descriptions of the classical spinal approaches in the Bulgarian tradition, including anterior cervical, costotransversectomy, and techniques for scoliosis correction.
+**Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference, with detailed descriptions of the classical spinal approaches in the Bulgarian tradition, including anterior cervical, costotransversectomy, and techniques for scoliosis correction.
 
-**G. Kaymakchiev, P. Tanchev, L. Stefanov (1982).** Bulgarian modification of the halo apparatus with a conical ring (smaller upper than lower diameter), allowing the screws to be inserted perpendicular to the cranial surface with more stable purchase than conventional cylindrical constructs.
+**G. Kaymakchiev, P. Tanchev, L. Stefanov <sup class="natflag">BG</sup> (1982).** Bulgarian modification of the halo apparatus with a conical ring (smaller upper than lower diameter), allowing the screws to be inserted perpendicular to the cranial surface with more stable purchase than conventional cylindrical constructs.
 
-**P. Tanchev and G. Kaymakchiev (1983).** Modification of percutaneous vertebral biopsy with a thick needle and a cancellous-bitten wedge key to obtain a solid bone core — especially applicable in suspected chordoma and bodies with dense cortical bone in the lumbar spine.
+**P. Tanchev and G. Kaymakchiev <sup class="natflag">BG</sup> (1983).** Modification of percutaneous vertebral biopsy with a thick needle and a cancellous-bitten wedge key to obtain a solid bone core — especially applicable in suspected chordoma and bodies with dense cortical bone in the lumbar spine.
 
-**V. Tanchev and G. Kaymakchiev.** Instrumented spondylodesis in adolescent idiopathic scoliosis; indications and operative tactics that define contemporary Bulgarian practice.
+**V. Tanchev and G. Kaymakchiev <sup class="natflag">BG</sup>.** Instrumented spondylodesis in adolescent idiopathic scoliosis; indications and operative tactics that define contemporary Bulgarian practice.
 
-**Tenev.** Left-sided extraperitoneal incision between the lower rib (11th or 12th), the lateral border of m. erector spinae, and the iliac crest; medial retraction of m. quadratus lumborum; good exposure of the L1–L2 bodies and intermediate thoracolumbar junction — especially suited to tuberculous spondylitis at this level.
+**Tenev <sup class="natflag">BG</sup>.** Left-sided extraperitoneal incision between the lower rib (11th or 12th), the lateral border of m. erector spinae, and the iliac crest; medial retraction of m. quadratus lumborum; good exposure of the L1–L2 bodies and intermediate thoracolumbar junction — especially suited to tuberculous spondylitis at this level.
 
-**Mitbreit.** Pararectus or oblique retroperitoneal incision with division of m. obliquus externus, internus, and transversus abdominis along their fibres; emphasises early identification and gentle protection of the inferior vena cava and abdominal aorta before deep dissection; the rule "ligate segmental veins before arteries" to avoid venous backbleeding; modification of Chaklin's spondylodesis for sagittal balance optimisation.
+**Mitbreit <sup class="natflag">RU</sup>.** Pararectus or oblique retroperitoneal incision with division of m. obliquus externus, internus, and transversus abdominis along their fibres; emphasises early identification and gentle protection of the inferior vena cava and abdominal aorta before deep dissection; the rule "ligate segmental veins before arteries" to avoid venous backbleeding; modification of Chaklin's spondylodesis for sagittal balance optimisation.
 
 From the classical Russian and Ukrainian schools, tightly woven into the Bulgarian curriculum:
 
-**V. D. Chaklin.** Anterior retroperitoneal approach with H-shaped incision of the anterior longitudinal ligament and interbody bone interposition for spondylolisthesis; a foundational spondylodesis technique modified later by Mitbreit, Yumashev–Fuhrman, Korzh, and Tsivyan.
+**V. D. Chaklin <sup class="natflag">RU</sup>.** Anterior retroperitoneal approach with H-shaped incision of the anterior longitudinal ligament and interbody bone interposition for spondylolisthesis; a foundational spondylodesis technique modified later by Mitbreit, Yumashev–Fuhrman, Korzh, and Tsivyan.
 
-**Ya. L. Tsivyan.** Two-stage posterior-anterior wedge vertebrotomy for rigid kyphosis with greater correction per osteotomised segment than Smith-Petersen; oblique interbody bone canal L4–S1 in grade IV spondylolisthesis.
+**Ya. L. Tsivyan <sup class="natflag">RU</sup>.** Two-stage posterior-anterior wedge vertebrotomy for rigid kyphosis with greater correction per osteotomised segment than Smith-Petersen; oblique interbody bone canal L4–S1 in grade IV spondylolisthesis.
 
-**A. A. Korzh, N. I. Khvisyuk.** Modification of Chaklin's spondylodesis with extended scope to L4–L5–S1 in two-level spondylolisthesis.
+**A. A. Korzh, N. I. Khvisyuk <sup class="natflag">UA</sup>.** Modification of Chaklin's spondylodesis with extended scope to L4–L5–S1 in two-level spondylolisthesis.
 
-**R. R. Vreden.** Posterior spondylodesis with long corticocancellous grafts anchored in half-cut and downward-reflected spinous processes — a biomechanically elegant solution before the era of instrumented systems.
+**R. R. Vreden <sup class="natflag">RU</sup>.** Posterior spondylodesis with long corticocancellous grafts anchored in half-cut and downward-reflected spinous processes — a biomechanically elegant solution before the era of instrumented systems.
 
 **Yumashev, Fuhrman.** Cylindrical bone trephines and 90° graft rotation with lyophilised bone interposition — a modification for added mechanical stability.
 

@@ -87,6 +87,20 @@ const eyebrow =
       </nav>
     </article>
   </div>
+
+<script>
+  // V4 / Wikipedia layout: force all <details> inside .topic-section to stay open.
+  document.addEventListener('DOMContentLoaded', () => {
+    const sections = document.querySelectorAll('.prose .topic-section details');
+    sections.forEach(d => {
+      d.open = true;
+      d.addEventListener('toggle', () => {
+        if (!d.open) d.open = true;
+      });
+    });
+  });
+</script>
+
 </BaseLayout>
 
 

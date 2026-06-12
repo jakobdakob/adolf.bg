@@ -1861,26 +1861,83 @@ html[data-theme="dark"] .btn-viber:hover {
   position: relative;
 }
 .prose .topic-section > details > summary { /* unchanged */ }
-/* Wikipedia-style heading hierarchy:
-   H2 = main section (big + bold + underline rule).
-   H3 = sub-section (bold, no rule).
-   H4 = sub-sub-section (bold + underline text). */
+/* Wikipedia-style layout: <details> wrappers in topic-section get
+   force-opened by JS at load; their <summary> elements are restyled as
+   visible H2/H3 section headers. Markdown ## anchors (added earlier for
+   the now-removed right sidebar TopicTOC) are visually hidden.
+
+   Hierarchy:
+   - .topic-section > details > summary  = H2 section (big + bold + rule)
+   - .topic-section > details details > summary = H3 sub-section (bold)
+   - markdown ## / ### inside content (font-size:0, kept for anchors)
+*/
+
+/* Hide the leftover markdown ## anchors (kept for in-page #anchor scroll). */
 .prose:has(.topic-section) h2 {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  overflow: hidden;
+  scroll-margin-top: 96px;
+}
+.prose:has(.topic-section) h3 {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  overflow: hidden;
+  scroll-margin-top: 96px;
+}
+
+/* Style the section-level <summary> as a visible Wikipedia-style H2. */
+.prose .topic-section > details > summary {
+  display: block;
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 1.2;
   margin: 2.4em 0 0.7em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--rule);
+  list-style: none;
+  cursor: default;
   scroll-margin-top: 96px;
 }
-.prose:has(.topic-section) h3 {
+.prose .topic-section > details > summary::-webkit-details-marker { display: none; }
+.prose .topic-section > details > summary::marker { display: none; content: ''; }
+.prose .topic-section > details > summary::before { content: none !important; }
+.prose .topic-section > details > summary::after { content: none !important; }
+
+/* First section's summary tighter top margin. */
+.prose .topic-section:first-of-type > details > summary { margin-top: 1.2em; }
+
+/* Style nested subsection <summary> as H3 (no rule, just bold). */
+.prose .topic-section details details > summary {
+  display: block;
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.3;
   margin: 1.6em 0 0.45em;
+  list-style: none;
+  cursor: default;
   scroll-margin-top: 96px;
 }
+.prose .topic-section details details > summary::-webkit-details-marker { display: none; }
+.prose .topic-section details details > summary::marker { display: none; content: ''; }
+.prose .topic-section details details > summary::before { content: none !important; }
+.prose .topic-section details details > summary::after { content: none !important; }
+
+/* Force the body content always visible regardless of <details> open state. */
+.prose .topic-section details > .ts-body,
+.prose .topic-section details > div {
+  display: block !important;
+}
+
+/* Sub-sub headings (markdown ####) — bold + underlined. */
 .prose:has(.topic-section) h4 {
   font-size: 1.05rem;
   font-weight: 700;
@@ -1890,6 +1947,7 @@ html[data-theme="dark"] .btn-viber:hover {
   margin: 1.2em 0 0.35em;
   scroll-margin-top: 96px;
 }
+
 .prose .topic-section,
 .prose .topic-subsection {
   scroll-margin-top: 96px;

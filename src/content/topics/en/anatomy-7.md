@@ -35,25 +35,32 @@ order: 207
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
-</section>
+</details>
 
 ## Overview
 <!-- toc-h2 -->
 <section class="topic-section" id="overview">
-
+<details open>
+<summary>Overview</summary>
+<div class="ts-body">
 
 The pelvis presents the orthopaedic surgeon with one of the most complex regional anatomical environments: the bony pelvic ring — the load-transmitting structure between the spine and the lower extremities — is interwoven with the pelvic viscera, the iliac vessels and their branches, the lumbosacral plexus, and the abdominal wall musculature. Surgical approaches must navigate this complexity while providing access to specific bony regions for fracture fixation, tumour resection, arthroplasty, and periacetabular correction. The principal approaches — the ilioinguinal approach of Letournel, the anterior intrapelvic (modified Stoppa), the posterior Kocher-Langenbeck, the extended iliofemoral, and the anterior Pfannenstiel approach — each provide access to specific regions with characteristic risks and benefits. This chapter presents the bony and soft-tissue anatomy, the principal approaches with their indications, dangers, and modern instrumented constructs, and the classical Bulgarian and Soviet operative school (Zatsepin, Berglezov, Selig-Stoffel, Kocher, Roux, B. Boychev) that remains part of the orthopaedic curriculum in Bulgaria.
 
+</div>
+</details>
 </section>
 
 ## Surgical Anatomy
 <!-- toc-h2 -->
 <section class="topic-section" id="surg-anatomy">
-
+<details>
+<summary>Surgical Anatomy</summary>
+<div class="ts-body">
 
 
 ### Bony Anatomy and Landmarks
-<section class="topic-subsection" id="bony-pelvis">
+<details id="bony-pelvis">
+<summary>Bony Anatomy and Landmarks</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -126,11 +133,12 @@ The pelvic ring is formed by the two innominate bones (each the product of fusio
 </aside>
 
 </div>
-</section>
+</details>
 
 
 ### Topography — Greater and Lesser Pelvis
-<section class="topic-subsection" id="topography">
+<details id="topography">
+<summary>Topography — Greater and Lesser Pelvis</summary>
 <div class="ts-body">
 
 The classical Bulgarian topographic-anatomical concept, as set out in B. Boychev's *Operative Orthopaedics and Traumatology*, divides the pelvis into the greater pelvis (pelvis major) and the lesser pelvis (pelvis minor), separated by the linea terminalis. The greater pelvis is bounded by the iliac wings and the last lumbar vertebra; the lesser pelvis is bounded by the bodies of the pubis, ilium, and ischium, the sacrum, and the coccyx. The soft tissues covering the pelvis externally belong to the gluteal and femoral regions. The external muscles of the pelvic girdle (glutei, tensor fasciae latae) insert on the proximal femur and drive gait, while the internal muscles — iliopsoas (in the greater pelvis), piriformis, and obturator internus (in the lesser pelvis) — pass through pelvic foramina and also insert on the proximal femur.
@@ -140,11 +148,12 @@ Between the posterior surface of iliopsoas and the hip capsule lies the iliopect
 The pelvic vessels and nerves lie in the subperitoneal fat between the peritoneum and the pelvic fascia. The internal iliac artery arises from the common iliac at the level of the SI joint and runs down, outward, and backward along the posterolateral wall of the lesser pelvis, medial to iliopsoas. Its stem is relatively short (3–4 cm), creating a technical challenge for vascular control in depth. The transversalis fascia, on entering the lesser pelvis, covers the internal muscles and neurovascular structures and is termed fascia endopelvina; it also covers the pelvic floor. The space between fascia endopelvina and the peritoneum — filled with loose or fatty connective tissue — is most prominent lateral to the visceral organs and defines the plane of blunt dissection for the anterior intrapelvic (modified Stoppa) approach (spatium Retzii — the prevesical space; spatium retroinguinale of Bogros — its lateral continuation).
 
 </div>
-</section>
+</details>
 
 
 ### Muscular Anatomy
-<section class="topic-subsection" id="muscular">
+<details id="muscular">
+<summary>Muscular Anatomy</summary>
 <div class="ts-body">
 
 **Abdominal wall muscles.** External oblique, internal oblique, transversus abdominis, and rectus abdominis. Encountered in the anterior pelvic approaches (ilioinguinal, Pfannenstiel). The lower edges of the three flat abdominal muscles form the conjoined tendon (falx inguinalis) inserting on the pubic crest — the weak point through which the indirect inguinal hernia passes; meticulous repair of the inguinal canal at closure of the ilioinguinal approach is mandatory.
@@ -164,11 +173,12 @@ The pelvic vessels and nerves lie in the subperitoneal fat between the peritoneu
 **Rectus femoris.** From the AIIS and the supra-acetabular ilium to the patella through the quadriceps tendon. Encountered in the anterior hip and pelvis approaches.
 
 </div>
-</section>
+</details>
 
 
 ### Iliac Vessels and Corona Mortis
-<section class="topic-subsection" id="iliac-vessels">
+<details id="iliac-vessels">
+<summary>Iliac Vessels and Corona Mortis</summary>
 <div class="ts-body">
 
 The common iliac arteries branch from the abdominal aorta at approximately the level of L4 and divide into the internal iliac (hypogastric) and external iliac arteries at approximately the SI joint. The external iliac continues across the pelvic brim and becomes the femoral artery beneath the inguinal ligament; it gives off the inferior epigastric artery just above the inguinal ligament. The internal iliac has numerous branches supplying the pelvic viscera, the gluteal region (superior and inferior gluteal arteries), the obturator region (obturator artery), and the perineum (internal pudendal artery).
@@ -187,11 +197,12 @@ The iliac veins parallel the arteries. The common iliac veins join to form the i
 </aside>
 
 </div>
-</section>
+</details>
 
 
 ### Lumbosacral Plexus
-<section class="topic-subsection" id="lumbosacral-plexus">
+<details id="lumbosacral-plexus">
+<summary>Lumbosacral Plexus</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -244,11 +255,12 @@ The lumbosacral plexus is formed from the anterior rami of L1 through S4.
 **Lumbar plexus within psoas.** The lumbar plexus lies within the substance of psoas and is at particular risk in lateral transmuscular (transpsoas) approaches to the lumbar spine (XLIF/LLIF; see [Anatomy-1](/en/anatomy/1/)). The L4 root is the most caudal and at greatest risk at the L4–L5 level.
 
 </div>
-</section>
+</details>
 
 
 ### Pelvic Viscera and Pelvic Floor
-<section class="topic-subsection" id="viscera">
+<details id="viscera">
+<summary>Pelvic Viscera and Pelvic Floor</summary>
 <div class="ts-body">
 
 The bladder (vesica urinaria) lies in a prepubic position in the lesser pelvis; empty it is entirely subperitoneal, full it bulges above the pubic symphysis into the abdominal cavity. For all pelvic approaches (Pfannenstiel, Stoppa, ilioinguinal medial window) a Foley catheter is mandatory pre-operatively for decompression and intraoperative haematuria monitoring — the indicator of iatrogenic injury.
@@ -271,14 +283,18 @@ The superior hypogastric plexus lies in front of the promontory as a delicate ne
 </aside>
 
 </div>
-</section>
+</details>
 
+</div>
+</details>
 </section>
 
 ## Pathophysiology and Mechanism
 <!-- toc-h2 -->
 <section class="topic-section" id="patho">
-
+<details>
+<summary>Pathophysiology and Mechanism</summary>
+<div class="ts-body">
 
 Pelvic ring and acetabular fractures are the product of high-energy trauma in adults (motor-vehicle, fall from height, crush, motorcycle) and low-energy injury on osteoporosis in the elderly. The classical work of Pennal and Tile (1980) identified three principal vectors of force that determine the typical patterns of injury and the corresponding Tile A/B/C classification: anteroposterior compression (APC), lateral compression (LC), and vertical shear (VS). Young-Burgess (1990) added the combined mechanism (CMI).
 
@@ -292,12 +308,16 @@ Pelvic ring and acetabular fractures are the product of high-energy trauma in ad
 
 **Pelvic haemorrhage.** The presacral venous plexus and the branches of the internal iliac artery (especially the superior gluteal, internal pudendal, and obturator) are the sources of massive bleeding in unstable Tile B/C fractures. Arterial bleeding (10–20%) requires selective embolisation; venous (60–80%) is controlled by external fixation or pelvic binder (the shock-room standard from the 2000s onwards). Mortality from haemodynamic instability in open pelvic fractures remains 25–40%.
 
+</div>
+</details>
 </section>
 
 ## Clinical Evaluation and Imaging
 <!-- toc-h2 -->
 <section class="topic-section" id="clinical">
-
+<details>
+<summary>Clinical Evaluation and Imaging</summary>
+<div class="ts-body">
 
 **Primary survey.** The pelvic ring is assessed within the ATLS protocol. Haemodynamic instability in a patient with a pelvic fracture demands immediate placement of a pelvic binder (or an improvised wrap at the level of the greater trochanters) and reassessment. Clinical signs of pelvic instability include limb-length asymmetry (shortening and external rotation in VS), open/closed rectal examination, periurogenital bleeding, high-riding prostate (urethral injury), scrotal/perineal haematoma ("butterfly sign"), and pain on stress compression of the iliac crests ("pelvic spring test"). The stress test is performed only once — repeated manoeuvres dislodge any nascent thrombus.
 
@@ -309,12 +329,16 @@ Pelvic ring and acetabular fractures are the product of high-energy trauma in ad
 
 **Classical clinical eponyms.** Destot's sign — fluctuant haematoma above the inguinal ligament or in the scrotum; Roux's sign — asymmetric distance from symphysis to trochanter; Earle's sign — palpable displaced fragment on rectal examination (in sacral and lower-pelvic fractures).
 
+</div>
+</details>
 </section>
 
 ## Classification
 <!-- toc-h2 -->
 <section class="topic-section" id="classification">
-
+<details>
+<summary>Classification</summary>
+<div class="ts-body">
 
 **Tile (1980, revised 1988, 2003) — pelvic ring classification.** Based on stability and mechanism; adopted by AO/OTA.
 
@@ -338,16 +362,21 @@ The classification dictates the operative approach: posterior wall/column/transv
 
 **Enneking-Dunham (1986) — innominate bone resection classification.** Type I — ilium (wing); type II — periacetabular zone; type III — pubic-pubic segment (pubic rami); type IV — sacrum. Type II is the technically most demanding case for reconstruction (see below).
 
+</div>
+</details>
 </section>
 
 ## Treatment
 <!-- toc-h2 -->
 <section class="topic-section" id="treatment">
-
+<details>
+<summary>Treatment</summary>
+<div class="ts-body">
 
 
 ### Nonoperative
-<section class="topic-subsection" id="nonoperative">
+<details id="nonoperative">
+<summary>Nonoperative</summary>
 <div class="ts-body">
 
 Nonoperative treatment of pelvic and acetabular injury is determined by ring stability and articular surface displacement.
@@ -361,11 +390,12 @@ Nonoperative treatment of pelvic and acetabular injury is determined by ring sta
 **Acetabular fractures — unacceptable displacement.** Letournel: more than 2 mm displacement of the articular surface in the dome region is an indication for open reduction and plate fixation. Exceptions: large fragmentation of the posterior wall with more than 50% of the articular surface (instability regardless of displacement → always operate); both-column fracture with secondary congruence (the two columnar fragments remain congruent with the head — a relative indication for nonoperative care in elderly patients).
 
 </div>
-</section>
+</details>
 
 
 ### Operative
-<section class="topic-subsection" id="operative">
+<details id="operative">
+<summary>Operative</summary>
 <div class="ts-body">
 
 <details>
@@ -424,7 +454,7 @@ The ilioinguinal approach (Letournel, first described 1961, developed in *Fractu
 **Complications.** Inguinal hernia (3–8%); meralgia paresthetica from injury to the lateral femoral cutaneous nerve (20–60%, often transient); vascular injury (corona mortis, inferior epigastric vessels, left common iliac vein); deep vein thrombosis; infection; postoperative abdominal wall instability with inadequate closure.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Anterior Intrapelvic (Modified Stoppa) Approach</summary>
@@ -443,7 +473,7 @@ Hirvensalo (1993) and Cole and Bolhofner (1994) described the anterior intrapelv
 **Complications.** Vascular injury (corona mortis, iliac vessels, especially the left common iliac vein); bladder injury (with inadequate decompression); obturator nerve injury; inguinal/femoral hernia (less common than after the ilioinguinal).
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Kocher-Langenbeck (Posterior) Approach</summary>
@@ -481,7 +511,7 @@ The Kocher-Langenbeck approach (a combination of the upper part of Kocher's appr
 **Complications.** Sciatic nerve injury (10–30%, predominantly peroneal division); heterotopic ossification (10–90% without prophylaxis); infection (3–7%); wound complications; abductor dysfunction with extensive proximal extension or trochanteric osteotomy nonunion.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Extended Iliofemoral Approach</summary>
@@ -494,7 +524,7 @@ The extended iliofemoral approach (Letournel, 1965; in Letournel-Judet 1993) pro
 Current indications are exceptional — extensive both-column fractures in older patients where combined approaches are technically unacceptable; revision procedures with extensive periacetabular osteotomy.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Pfannenstiel Approach to the Symphysis and Symphyseal Fixation</summary>
@@ -511,7 +541,7 @@ Fixation may use a double (superior and anterior) reconstruction plate, or a mor
 **Complications.** Bladder injury (with inadequate decompression or aggressive retraction); infection; wound complications; mechanical failure with isolated anterior fixation in a posteriorly injured ring (Tile C) — biomechanical analysis by Tile shows symphyseal plating contributes less than 30% of stability in Tile C, the rest must come from posterior fixation.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Combined Approach to Inferior Pubic Ramus, Ischium, and Body of Ilium (Zatsepin)</summary>
@@ -533,7 +563,7 @@ The Zatsepin combined approach <sup class="natflag">RU</sup> is a classical Sovi
 </aside>
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Modified Posterior Approach to Ischium and Posterior Acetabular Wall (Berglezov)</summary>
@@ -546,7 +576,7 @@ For tumours of the ischium involving the posterior wall of the acetabulum, V. G.
 **Berglezov's principle.** If the extent and type of tumour permits strictly subperiosteal bony dissection, the risk of injury to the inferior gluteal artery and the pudendal vessels is virtually eliminated. The approach reveals the posterior acetabular wall from outside, the body and upper ramus of the ischium, and may be extended distally for access to the sciatic nerve in its distal course.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Posterior Approach to the Sacroiliac Joint</summary>
@@ -569,7 +599,7 @@ The posterior SI joint approach is used for arthrodesis in tuberculous sacroilii
 </aside>
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Intrapelvic Obturator Neurectomy (Selig-Stoffel)</summary>
@@ -584,7 +614,7 @@ Intrapelvic obturator neurectomy (the Selig-Stoffel technique <sup class="natfla
 **Alternative — extrapelvic Stoffel.** Performed at thigh level: an incision along the medial thigh 2 cm below the inguinal crease, dissection between pectineus and adductor longus; the anterior and posterior branches of the obturator nerve are identified at their emergence from the obturator foramen beneath obturator externus and selectively resected. The anterior branch supplies adductor longus, brevis, and gracilis; the posterior branch supplies obturator externus and part of adductor magnus. Selective anterior-branch resection (Adams <sup class="natflag">US</sup>, 1947) preserves adductor magnus as an active hip extensor — critical in ambulators, while complete trunk resection is acceptable in non-ambulators where hygiene positioning is the only goal.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Innominate Bone Resections (Enneking I–III)</summary>
@@ -618,7 +648,7 @@ If the wing must be resected as far as the greater sciatic notch, the pelvic rin
 </aside>
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Partial Sacrectomy for Chordoma (Enneking IV)</summary>
@@ -642,7 +672,7 @@ The insertions of gluteus maximus into the sacrum are divided. The coccyx is fre
 </aside>
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Coccygectomy</summary>
@@ -653,7 +683,7 @@ The insertions of gluteus maximus into the sacrum are divided. The coccyx is fre
 **Technique.** The patient is prone with a pelvic bolster or in Kraske position. A 10 cm longitudinal incision over the coccyx, or a horseshoe (Boychev <sup class="natflag">BG</sup>) incision convex superiorly — again to protect the wound from anal contamination. The coccyx is released from soft tissue (gluteus maximus, anococcygeal ligament, levator ani medially, coccygei laterally) subperiosteally with a chisel and removed with its periosteum. Haemostasis; subcutaneous and skin closure. A small drain may be used at the surgeon's discretion.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Interilioabdominal Resection (Internal Hemipelvectomy by Kocher)</summary>
@@ -676,7 +706,7 @@ Interilioabdominal resection (internal, limb-sparing hemipelvectomy) is the en b
 **Modern equivalent.** Periacetabular (Enneking type II) resection with saddle prosthesis (Mark, 1979), pelvic megaprosthesis (LUMiC, Stanmore), or modular periacetabular endoprosthesis. In all cases the functional outcome is markedly better than external hemipelvectomy (limb preserved, ambulation with crutch or cane), at the cost of a longer operation, higher infection risk (15–30%), and late mechanical reconstruction failures.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Sacroiliac Arthrodesis</summary>
@@ -689,7 +719,7 @@ Interilioabdominal resection (internal, limb-sparing hemipelvectomy) is the en b
 **Contemporary standard.** Percutaneous or mini-open fixation with 1–2 cannulated screws in sacroiliac trajectories (S1 and/or S2) under fluoroscopic/3D navigation, providing comparable fusion rates (90–95%) with markedly reduced immobilisation (6 weeks crutched ambulation) and surgical morbidity.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Interilioabdominal Amputation (Hemipelvectomy)</summary>
@@ -712,7 +742,7 @@ The superior and inferior gluteal vessels are isolated, ligated well proximally,
 **Complications.** Operative mortality 5–10% in contemporary series (higher in the elderly and the anaemic); flap necrosis 10–20%; deep infection 15–25%; phantom pain over 80%; significant psychosocial sequelae with high rates of postoperative depression.
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Periacetabular and Pelvic Osteotomies (notes)</summary>
@@ -735,7 +765,7 @@ The classical periacetabular osteotomies for residual developmental hip dysplasi
 From the pelvic anatomy perspective, all these osteotomies traverse three interrelated zones: the anterosuperior zone containing the femoral nerve within iliopsoas (at risk during retraction); the middle zone containing the obturator nerve at its emergence from the obturator foramen; and the posteroinferior zone containing the sciatic nerve at its emergence below piriformis. The Ganz PAO demands intra-operative fluoroscopy to confirm that the posterior columnar cuts remain in the safe zone (at least 1 cm from the greater sciatic notch to protect the superior gluteal artery and sciatic nerve).
 
 </div>
-</section>
+</details>
 
 <details>
 <summary>Iliac Crest Bone Graft Harvesting (technical notes)</summary>
@@ -754,17 +784,21 @@ From the pelvic anatomy perspective, all these osteotomies traverse three interr
 The iliac crest is the classical autograft donor site in orthopaedics. The principal technical points: the incision lies along the crest, at least 2 cm posterior to the ASIS — to avoid the lateral femoral cutaneous nerve (passing under the inguinal ligament 1–2 cm medial to ASIS, injury → meralgia paresthetica) and the ilioinguinal nerve. With an anterior approach, a tricortical block (for reconstructive pelvic or spinal procedures) or cortico-cancellous chips may be harvested; with a posterior approach (for spinal fusion), the incision runs along the crest from the PSIS, protecting the superior cluneal nerves (crossing the crest approximately 7–8 cm lateral to midline). Resection depth is limited to about 2 cm below the crest surface, preserving the pelvic ring and avoiding breach into the lesser pelvis; the inner table harvest is typically more problematic owing to iliacus and the neurovascular structures. Harvest-site complications: chronic donor-site pain (5–25%, the most common), meralgia paresthetica, ASIS fracture, herniation through the crest defect (rare but reported), and haematoma.
 
 </div>
-</section>
+</details>
 
 </div>
-</section>
+</details>
 
+</div>
+</details>
 </section>
 
 ## Outcomes and Complications
 <!-- toc-h2 -->
 <section class="topic-section" id="outcomes">
-
+<details>
+<summary>Outcomes and Complications</summary>
+<div class="ts-body">
 
 Complications of pelvic surgical approaches vary by anatomical region and procedure type.
 
@@ -784,12 +818,16 @@ Complications of pelvic surgical approaches vary by anatomical region and proced
 
 **Long-term outcomes of acetabular fractures.** Letournel (1993) series: anatomical reduction (< 1 mm) in anterior column 70–80%, posterior wall 60–70%, both-column 40–60%; post-traumatic arthrosis at 10 years — 15–25% with anatomical reduction, 40–60% with non-anatomical (> 2 mm). Prognosis is determined by age, time from injury to surgery (< 21 days optimal), associated sciatic nerve injury at presentation, and quality of reduction.
 
+</div>
+</details>
 </section>
 
 ## Local Contributions
 <!-- toc-h2 -->
 <section class="topic-section" id="bulgarian">
-
+<details>
+<summary>Local Contributions</summary>
+<div class="ts-body">
 
 **Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya, Sofia. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curriculum reference and contains detailed descriptions of pelvic approaches, including:
 
@@ -824,12 +862,16 @@ From the German and Swiss schools:
 
 **Reinhold Ganz <sup class="natflag">CH</sup>.** Periacetabular osteotomy (PAO, 1988); trochanteric flip osteotomy with safe surgical hip dislocation (Ganz et al., 2001).
 
+</div>
+</details>
 </section>
 
 ## Classical Sources
 <!-- toc-h2 -->
 <section class="topic-section" id="classical">
-
+<details>
+<summary>Classical Sources</summary>
+<div class="ts-body">
 
 <aside class="callout callout-classical">
   <strong>Classical line — pelvic and acetabular surgery</strong>
@@ -849,12 +891,16 @@ From the German and Swiss schools:
 
 Classical descriptions of pelvic osteotomies: Salter 1961 (innominate); Pemberton 1965 (incomplete pericapsular); Steel 1973 (triple); Chiari (medialising); Ganz 1988 (PAO). Classical descriptions of salvage procedures: Mark 1979 (saddle prosthesis); Brown et al. 1980 (allograft-prosthetic composite for periacetabular tumours). Sacral fracture classification: Denis 1988 (zones 1–3); Roy-Camille (U-shape).
 
+</div>
+</details>
 </section>
 
 ## Suggested Reading
 <!-- toc-h2 -->
 <section class="topic-section" id="literature">
-
+<details>
+<summary>Suggested Reading</summary>
+<div class="ts-body">
 
 1. **Letournel E, Judet R.** *Fractures of the Acetabulum.* 2nd ed., entirely revised and enlarged. Berlin: Springer-Verlag; 1993. ISBN 978-0-387-52189-3. — *The definitive reference for the column concept, ilioinguinal and extended iliofemoral approaches; the standard for understanding acetabular fractures.*
 2. **Tile M, Helfet DL, Kellam JF, eds.** *Fractures of the Pelvis and Acetabulum.* 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 2003. ISBN 978-0-7817-3211-2. — *Contemporary operative reference for pelvic and acetabular fractures with detailed chapters on anatomy, biomechanics, Tile A/B/C classification, operative technique, and complications.*
@@ -864,6 +910,8 @@ Classical descriptions of pelvic osteotomies: Salter 1961 (innominate); Pemberto
 6. **Boychev B, ed.** *Surgical Orthopaedics* (three-volume Bulgarian textbook; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on pelvic surgery (Zatsepin, Berglezov, Selig-Stoffel, Kocher, Roux, Boychev variants), sacrectomy for chordoma, coccygectomy, SI arthrodesis, and hemipelvectomy.*
 7. **Thompson JC.** *Netter's Concise Orthopaedic Anatomy.* 2nd ed., Updated. Philadelphia: Saunders/Elsevier; 2015. ISBN 978-0-323-43043-2. — *Illustrated concise reference with the classical Netter illustrations; a useful quick reference for the surgical landmarks of the pelvis.*
 
+</div>
+</details>
 </section>
 
 <script is:inline>

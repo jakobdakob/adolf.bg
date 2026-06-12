@@ -1861,23 +1861,33 @@ html[data-theme="dark"] .btn-viber:hover {
   position: relative;
 }
 .prose .topic-section > details > summary { /* unchanged */ }
-/* Wikipedia-style layout: section H2/H3 headers now visible as section
-   markers. Sections are no longer collapsible — the inline TOC at top is
-   the only collapsible block. */
+/* Wikipedia-style heading hierarchy:
+   H2 = main section (big + bold + underline rule).
+   H3 = sub-section (bold, no rule).
+   H4 = sub-sub-section (bold + underline text). */
 .prose:has(.topic-section) h2 {
-  font-size: 1.55rem;
-  font-weight: 600;
-  line-height: 1.25;
-  margin: 2.2em 0 0.6em;
-  padding-bottom: 0.25em;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 2.4em 0 0.7em;
+  padding-bottom: 0.3em;
   border-bottom: 1px solid var(--rule);
   scroll-margin-top: 96px;
 }
 .prose:has(.topic-section) h3 {
-  font-size: 1.18rem;
-  font-weight: 600;
+  font-size: 1.25rem;
+  font-weight: 700;
   line-height: 1.3;
-  margin: 1.6em 0 0.4em;
+  margin: 1.6em 0 0.45em;
+  scroll-margin-top: 96px;
+}
+.prose:has(.topic-section) h4 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  margin: 1.2em 0 0.35em;
   scroll-margin-top: 96px;
 }
 .prose .topic-section,
@@ -1891,30 +1901,27 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Phase 1 unified layout: float figures right on desktop so the body prose
-   flows around them, Wikipedia-style. On mobile / narrow tablets the figure
-   stays full-width centered. */
+/* Unified layout: figures float RIGHT only on desktop with text wrap.
+   Consecutive figures stack vertically (no side-by-side squeeze). */
 @media (min-width: 1180px) {
   .md-figure {
     float: right;
-    width: 320px;
-    max-width: 40%;
-    margin: 0.4em 0 0.8em 1.5em;
-    text-align: center;
     clear: right;
+    width: 280px;
+    max-width: 35%;
+    margin: 0.4em 0 0.8em 1.6em;
+    text-align: center;
   }
-  /* Optional: every other figure floats left for visual rhythm. */
-  .md-figure:nth-of-type(even) {
-    float: left;
-    margin: 0.4em 1.5em 0.8em 0;
-    clear: left;
-  }
-  /* Wider inline TOC since we have the room. */
   .prose .topic-toc-inline {
     max-width: 100%;
   }
-  /* Ensure section content clears any preceding floats. */
-  .prose .topic-section {
+  .prose .topic-section,
+  .prose .topic-subsection {
+    clear: both;
+  }
+  .prose:has(.topic-section) h2,
+  .prose:has(.topic-section) h3,
+  .prose:has(.topic-section) h4 {
     clear: both;
   }
 }

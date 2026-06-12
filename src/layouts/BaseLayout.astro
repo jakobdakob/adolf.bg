@@ -52,6 +52,10 @@ const ogImage = new URL(url("/og-image.png"), siteOrigin).href;
 <html lang={lang}>
   <head>
     <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="email=no" />
     {appShell ? (
       <Fragment>
         {/* App-shell pages opt into a chromeless viewport: viewport-fit=cover

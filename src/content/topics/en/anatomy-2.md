@@ -37,6 +37,9 @@ order: 202
   </ol>
 </details>
 
+
+
+## Overview
 <section class="topic-section" id="overview">
 <details open>
 <summary>Overview</summary>
@@ -58,11 +61,16 @@ This chapter follows that logic: regional anatomy and the biomechanics that flow
 </details>
 </section>
 
+
+
+## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Surgical Anatomy</summary>
 <div class="ts-body">
 
+
+### Bones and Joints
 <details id="bones-joints">
 <summary>Bones and Joints</summary>
 <div class="ts-body">
@@ -122,6 +130,8 @@ The acromion forms the lateral roof of the joint; its morphological variants —
 </div>
 </details>
 
+
+### Capsule and Ligaments
 <details id="capsule-ligaments">
 <summary>Capsule and Ligaments</summary>
 <div class="ts-body">
@@ -141,6 +151,8 @@ The capsule of the glenohumeral joint is generous — the synovial volume is rou
 </div>
 </details>
 
+
+### Infraclavicular and Axillary Topography
 <details id="infraclavicular-topography">
 <summary>Infraclavicular and Axillary Topography</summary>
 <div class="ts-body">
@@ -163,6 +175,8 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 </div>
 </details>
 
+
+### Musculature
 <details id="musculature">
 <summary>Musculature</summary>
 <div class="ts-body">
@@ -198,6 +212,8 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 </div>
 </details>
 
+
+### Nerves
 <details id="nerves">
 <summary>Nerves</summary>
 <div class="ts-body">
@@ -242,6 +258,8 @@ In the pectoral triangle the musculocutaneous nerve leaves the lateral cord at t
 </div>
 </details>
 
+
+### Vessels
 <details id="vessels">
 <summary>Vessels</summary>
 <div class="ts-body">
@@ -255,6 +273,9 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
 </details>
 </section>
 
+
+
+## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Pathophysiology and Mechanism</summary>
@@ -281,6 +302,9 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
 </details>
 </section>
 
+
+
+## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical-diagnosis">
 <details>
 <summary>Clinical Presentation and Diagnosis</summary>
@@ -315,6 +339,9 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
 </details>
 </section>
 
+
+
+## Classification
 <section class="topic-section" id="classification">
 <details>
 <summary>Classification</summary>
@@ -376,11 +403,16 @@ The axillary artery and vein cross the axilla as continuations of the subclavian
 </details>
 </section>
 
+
+
+## Treatment
 <section class="topic-section" id="treatment">
 <details>
 <summary>Treatment</summary>
 <div class="ts-body">
 
+
+### Nonoperative
 <details id="nonoperative">
 <summary>Nonoperative</summary>
 <div class="ts-body">
@@ -390,6 +422,8 @@ Velpeau-style immobilisation (3 weeks for first traumatic dislocations in patien
 </div>
 </details>
 
+
+### Operative
 <details id="operative">
 <summary>Operative</summary>
 <div class="ts-body">
@@ -772,6 +806,9 @@ Principles of postoperative care after shoulder surgery are organised around the
 </details>
 </section>
 
+
+
+## Outcomes and Complications
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Outcomes and Complications</summary>
@@ -793,6 +830,9 @@ Principles of postoperative care after shoulder surgery are organised around the
 </details>
 </section>
 
+
+
+## Local Contributions
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Local Contributions</summary>
@@ -832,6 +872,9 @@ From the classical Russian and Soviet schools, tightly woven into the Bulgarian 
 </details>
 </section>
 
+
+
+## Classical Sources
 <section class="topic-section" id="classical">
 <details>
 <summary>Classical Sources</summary>
@@ -857,6 +900,9 @@ Classical descriptions by approach and procedure: Velpeau 1832 (bandage, reducti
 </details>
 </section>
 
+
+
+## Suggested Reading
 <section class="topic-section" id="literature">
 <details>
 <summary>Suggested Reading</summary>

@@ -37,6 +37,9 @@ order: 202
   </ol>
 </details>
 
+
+
+## Преглед
 <section class="topic-section" id="overview">
 <details open>
 <summary>Преглед</summary>
@@ -58,11 +61,16 @@ order: 202
 </details>
 </section>
 
+
+
+## Хирургична анатомия
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
+
+### Кости и стави
 <details id="bones-joints">
 <summary>Кости и стави</summary>
 <div class="ts-body">
@@ -122,6 +130,8 @@ order: 202
 </div>
 </details>
 
+
+### Капсула и връзки
 <details id="capsule-ligaments">
 <summary>Капсула и връзки</summary>
 <div class="ts-body">
@@ -141,6 +151,8 @@ order: 202
 </div>
 </details>
 
+
+### Подключична и подмишнична топография
 <details id="infraclavicular-topography">
 <summary>Подключична и подмишнична топография</summary>
 <div class="ts-body">
@@ -163,6 +175,8 @@ order: 202
 </div>
 </details>
 
+
+### Мускулатура
 <details id="musculature">
 <summary>Мускулатура</summary>
 <div class="ts-body">
@@ -198,6 +212,8 @@ order: 202
 </div>
 </details>
 
+
+### Нерви
 <details id="nerves">
 <summary>Нерви</summary>
 <div class="ts-body">
@@ -242,6 +258,8 @@ order: 202
 </div>
 </details>
 
+
+### Съдове
 <details id="vessels">
 <summary>Съдове</summary>
 <div class="ts-body">
@@ -255,6 +273,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Патофизиология и механизъм
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Патофизиология и механизъм</summary>
@@ -281,6 +302,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Клиника и диагностика
 <section class="topic-section" id="clinical-diagnosis">
 <details>
 <summary>Клиника и диагностика</summary>
@@ -315,6 +339,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Класификация
 <section class="topic-section" id="classification">
 <details>
 <summary>Класификация</summary>
@@ -376,11 +403,16 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Лечение
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
 <div class="ts-body">
 
+
+### Консервативно
 <details id="nonoperative">
 <summary>Консервативно</summary>
 <div class="ts-body">
@@ -390,6 +422,8 @@ A. et v. axillares пресичат подмишничната ямка като
 </div>
 </details>
 
+
+### Оперативно
 <details id="operative">
 <summary>Оперативно</summary>
 <div class="ts-body">
@@ -772,6 +806,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Усложнения и резултати
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Усложнения и резултати</summary>
@@ -793,6 +830,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Местни приноси
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Местни приноси</summary>
@@ -832,6 +872,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Класически източници
 <section class="topic-section" id="classical">
 <details>
 <summary>Класически източници</summary>
@@ -857,6 +900,9 @@ A. et v. axillares пресичат подмишничната ямка като
 </details>
 </section>
 
+
+
+## Препоръчителна литература
 <section class="topic-section" id="literature">
 <details>
 <summary>Препоръчителна литература</summary>

@@ -43,6 +43,9 @@ order: 203
   </ol>
 </details>
 
+
+
+## Overview
 <section class="topic-section" id="overview">
 <details open>
 <summary>Overview</summary>
@@ -54,11 +57,16 @@ The arm (regio brachii), extending from the shoulder to the elbow, contains the 
 </details>
 </section>
 
+
+
+## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Surgical Anatomy</summary>
 <div class="ts-body">
 
+
+### Bony Anatomy and Compartments
 <details id="bony-anatomy">
 <summary>Bony Anatomy and Compartments</summary>
 <div class="ts-body">
@@ -120,6 +128,8 @@ The **posterior compartment** contains triceps brachii with its three heads (lon
 </div>
 </details>
 
+
+### Regional Borders and Surface Landmarks
 <details id="regional-landmarks">
 <summary>Regional Borders and Surface Landmarks</summary>
 <div class="ts-body">
@@ -162,6 +172,8 @@ The skin over the anteromedial surface is thin and freely mobile; over the anter
 </div>
 </details>
 
+
+### Radial Nerve and Canalis Humeromuscularis
 <details id="radial-nerve">
 <summary>Radial Nerve and Canalis Humeromuscularis</summary>
 <div class="ts-body">
@@ -205,6 +217,8 @@ After traversing the spiral groove, the radial nerve pierces the lateral intermu
 </div>
 </details>
 
+
+### Musculocutaneous Nerve
 <details id="musculocutaneous">
 <summary>Musculocutaneous Nerve</summary>
 <div class="ts-body">
@@ -224,6 +238,8 @@ In the anterolateral approach the nerve is protected within the corridor between
 </div>
 </details>
 
+
+### Brachial Artery, Median and Ulnar Nerves
 <details id="brachial-bundle">
 <summary>Brachial Artery, Median and Ulnar Nerves</summary>
 <div class="ts-body">
@@ -245,6 +261,8 @@ The profunda brachii artery branches from the brachial artery in the proximal th
 </div>
 </details>
 
+
+### Intermuscular Septa
 <details id="septa">
 <summary>Intermuscular Septa</summary>
 <div class="ts-body">
@@ -258,6 +276,9 @@ The lateral intermuscular septum separates the anterior and posterior compartmen
 </details>
 </section>
 
+
+
+## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Pathophysiology and Mechanism</summary>
@@ -279,6 +300,9 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
 </details>
 </section>
 
+
+
+## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical">
 <details>
 <summary>Clinical Presentation and Diagnosis</summary>
@@ -315,6 +339,9 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
 </details>
 </section>
 
+
+
+## Classification
 <section class="topic-section" id="classification">
 <details>
 <summary>Classification</summary>
@@ -334,11 +361,16 @@ The pathology of the arm region is dominated by three categories: traumatic (sha
 </details>
 </section>
 
+
+
+## Treatment
 <section class="topic-section" id="treatment">
 <details>
 <summary>Treatment</summary>
 <div class="ts-body">
 
+
+### Nonoperative
 <details id="nonoperative">
 <summary>Nonoperative</summary>
 <div class="ts-body">
@@ -367,12 +399,16 @@ Nonoperative treatment remains first choice for most humeral shaft fractures bec
 </div>
 </details>
 
+
+### Operative
 <details id="operative">
 <summary>Operative</summary>
 <div class="ts-body">
 
 Absolute indications for operative treatment of closed shaft fractures: unacceptable conservative alignment, segmental fractures, pathological fractures, polytrauma patients, floating elbow with ipsilateral forearm fracture, bilateral humeral fractures, fractures with primary or secondary radial palsy requiring exploration, and failure of the conservative trial. Open fractures are an independent indication for debridement and stabilisation.
 
+
+### Surgical Approaches
 <details id="approaches">
 <summary>Surgical Approaches</summary>
 <div class="ts-body">
@@ -543,6 +579,8 @@ A longitudinal incision is made over the anterior aspect of the distal arm in th
 </div>
 </details>
 
+
+### Surgical Technique
 <details id="technique">
 <summary>Surgical Technique</summary>
 <div class="ts-body">
@@ -772,6 +810,8 @@ For post-traumatic habitual shoulder dislocation the derotation osteotomy of the
 </div>
 </details>
 
+
+### Postoperative Care
 <details id="postoperative">
 <summary>Postoperative Care</summary>
 <div class="ts-body">
@@ -796,6 +836,9 @@ For post-traumatic habitual shoulder dislocation the derotation osteotomy of the
 </details>
 </section>
 
+
+
+## Outcomes and Complications
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Outcomes and Complications</summary>
@@ -821,6 +864,9 @@ For post-traumatic habitual shoulder dislocation the derotation osteotomy of the
 </details>
 </section>
 
+
+
+## Local Contributions
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Local Contributions</summary>
@@ -858,6 +904,9 @@ From the classical German, Russian, and French schools, tightly woven into the B
 </details>
 </section>
 
+
+
+## Classical Sources
 <section class="topic-section" id="classical">
 <details>
 <summary>Classical Sources</summary>
@@ -882,6 +931,9 @@ Additional classical sources: **Bergmann–Bruns** (1899), *Handbuch der praktis
 </details>
 </section>
 
+
+
+## Suggested Reading
 <section class="topic-section" id="literature">
 <details>
 <summary>Suggested Reading</summary>

@@ -36,6 +36,9 @@ order: 205
   </ol>
 </details>
 
+
+
+## Преглед
 <section class="topic-section" id="overview">
 <details open>
 <summary>Преглед</summary>
@@ -47,11 +50,16 @@ order: 205
 </details>
 </section>
 
+
+
+## Хирургична анатомия
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
+
+### Костна анатомия и междукостна мембрана
 <details id="bony-anatomy">
 <summary>Костна анатомия и междукостна мембрана</summary>
 <div class="ts-body">
@@ -86,6 +94,8 @@ order: 205
 </div>
 </details>
 
+
+### Мускулни компартменти
 <details id="compartments">
 <summary>Мускулни компартменти</summary>
 <div class="ts-body">
@@ -150,6 +160,8 @@ order: 205
 </div>
 </details>
 
+
+### Невроваскуларна анатомия
 <details id="neurovascular">
 <summary>Невроваскуларна анатомия</summary>
 <div class="ts-body">
@@ -200,6 +212,8 @@ order: 205
 </div>
 </details>
 
+
+### Дълбоко волярно пространство на Пирогов
 <details id="pirogov">
 <summary>Дълбоко волярно пространство на Пирогов</summary>
 <div class="ts-body">
@@ -219,6 +233,8 @@ order: 205
 </div>
 </details>
 
+
+### Повърхностна анатомия и ориентири
 <details id="landmarks">
 <summary>Повърхностна анатомия и ориентири</summary>
 <div class="ts-body">
@@ -236,6 +252,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Патофизиология и механизъм
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Патофизиология и механизъм</summary>
@@ -255,6 +274,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Клиника и диагностика
 <section class="topic-section" id="clinical">
 <details>
 <summary>Клиника и диагностика</summary>
@@ -285,6 +307,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Класификация
 <section class="topic-section" id="classification">
 <details>
 <summary>Класификация</summary>
@@ -304,11 +329,16 @@ order: 205
 </details>
 </section>
 
+
+
+## Лечение
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
 <div class="ts-body">
 
+
+### Консервативно
 <details id="nonoperative">
 <summary>Консервативно</summary>
 <div class="ts-body">
@@ -331,6 +361,8 @@ order: 205
 </div>
 </details>
 
+
+### Оперативно
 <details id="operative">
 <summary>Оперативно</summary>
 <div class="ts-body">
@@ -884,6 +916,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Усложнения и резултати
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Усложнения и резултати</summary>
@@ -915,6 +950,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Местни приноси
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Местни приноси</summary>
@@ -954,6 +992,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Класически източници
 <section class="topic-section" id="classical">
 <details>
 <summary>Класически източници</summary>
@@ -984,6 +1025,9 @@ order: 205
 </details>
 </section>
 
+
+
+## Препоръчителна литература
 <section class="topic-section" id="literature">
 <details>
 <summary>Препоръчителна литература</summary>

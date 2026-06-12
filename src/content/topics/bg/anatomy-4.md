@@ -38,6 +38,9 @@ order: 204
   </ol>
 </details>
 
+
+
+## Преглед
 <section class="topic-section" id="overview">
 <details open>
 <summary>Преглед</summary>
@@ -49,11 +52,16 @@ order: 204
 </details>
 </section>
 
+
+
+## Хирургична анатомия
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
+
+### Костна и ставна анатомия
 <details id="bony-articular">
 <summary>Костна и ставна анатомия</summary>
 <div class="ts-body">
@@ -98,6 +106,8 @@ order: 204
 </div>
 </details>
 
+
+### Капсула и колатерални връзки
 <details id="capsule-ligaments">
 <summary>Капсула и колатерални връзки</summary>
 <div class="ts-body">
@@ -180,6 +190,8 @@ order: 204
 </div>
 </details>
 
+
+### Cubital fossa и съдове
 <details id="cubital-fossa">
 <summary>Cubital fossa и съдове</summary>
 <div class="ts-body">
@@ -212,6 +224,8 @@ A. brachialis типично лежи латерално от n. medianus в cub
 </div>
 </details>
 
+
+### N. ulnaris и cubital tunnel
 <details id="ulnar-nerve">
 <summary>N. ulnaris и cubital tunnel</summary>
 <div class="ts-body">
@@ -234,6 +248,8 @@ N. ulnaris слиза от медиалния сноп на брахиалния
 </div>
 </details>
 
+
+### N. medianus
 <details id="median-nerve">
 <summary>N. medianus</summary>
 <div class="ts-body">
@@ -253,6 +269,8 @@ N. medianus слиза по медиалната страна на a. brachialis
 </div>
 </details>
 
+
+### N. radialis и n. interosseous posterior (PIN)
 <details id="radial-nerve-pin">
 <summary>N. radialis и n. interosseous posterior (PIN)</summary>
 <div class="ts-body">
@@ -282,6 +300,8 @@ N. radialis достига лакъта отпред — след пробива
 </div>
 </details>
 
+
+### Фасциални пространства и подкожни структури
 <details id="fascial-spaces">
 <summary>Фасциални пространства и подкожни структури</summary>
 <div class="ts-body">
@@ -310,6 +330,9 @@ N. radialis достига лакъта отпред — след пробива
 </details>
 </section>
 
+
+
+## Биомеханика
 <section class="topic-section" id="biomechanics">
 <details>
 <summary>Биомеханика</summary>
@@ -340,6 +363,9 @@ N. radialis достига лакъта отпред — след пробива
 </details>
 </section>
 
+
+
+## Ориентири и образна диагностика
 <section class="topic-section" id="landmarks-imaging">
 <details>
 <summary>Ориентири и образна диагностика</summary>
@@ -367,6 +393,9 @@ N. radialis достига лакъта отпред — след пробива
 </details>
 </section>
 
+
+
+## Класификация на достъпите
 <section class="topic-section" id="classification">
 <details>
 <summary>Класификация на достъпите</summary>
@@ -384,11 +413,16 @@ N. radialis достига лакъта отпред — след пробива
 </details>
 </section>
 
+
+
+## Лечение
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
 <div class="ts-body">
 
+
+### Консервативно
 <details id="nonoperative">
 <summary>Консервативно</summary>
 <div class="ts-body">
@@ -409,6 +443,8 @@ N. radialis достига лакъта отпред — след пробива
 </div>
 </details>
 
+
+### Оперативно
 <details id="operative">
 <summary>Оперативно</summary>
 <div class="ts-body">
@@ -785,6 +821,9 @@ Volkmann исхемична контрактура на флексорната �
 </details>
 </section>
 
+
+
+## Усложнения и резултати
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Усложнения и резултати</summary>
@@ -808,6 +847,9 @@ Volkmann исхемична контрактура на флексорната �
 </details>
 </section>
 
+
+
+## Местни приноси
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Местни приноси</summary>
@@ -845,6 +887,9 @@ Volkmann исхемична контрактура на флексорната �
 </details>
 </section>
 
+
+
+## Класически източници
 <section class="topic-section" id="classical">
 <details>
 <summary>Класически източници</summary>
@@ -870,6 +915,9 @@ Volkmann исхемична контрактура на флексорната �
 </details>
 </section>
 
+
+
+## Препоръчителна литература
 <section class="topic-section" id="literature">
 <details>
 <summary>Препоръчителна литература</summary>

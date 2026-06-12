@@ -36,6 +36,9 @@ order: 205
   </ol>
 </details>
 
+
+
+## Overview
 <section class="topic-section" id="overview">
 <details open>
 <summary>Overview</summary>
@@ -47,11 +50,16 @@ The forearm spans the elbow joint proximally to the wrist joint distally and is 
 </details>
 </section>
 
+
+
+## Surgical Anatomy
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Surgical Anatomy</summary>
 <div class="ts-body">
 
+
+### Bony Anatomy and Interosseous Membrane
 <details id="bony-anatomy">
 <summary>Bony Anatomy and Interosseous Membrane</summary>
 <div class="ts-body">
@@ -86,6 +94,8 @@ The forearm spans the elbow joint proximally to the wrist joint distally and is 
 </div>
 </details>
 
+
+### Muscular Compartments
 <details id="compartments">
 <summary>Muscular Compartments</summary>
 <div class="ts-body">
@@ -150,6 +160,8 @@ The forearm has two principal fascial compartments — volar (flexor-pronator) a
 </div>
 </details>
 
+
+### Neurovascular Anatomy
 <details id="neurovascular">
 <summary>Neurovascular Anatomy</summary>
 <div class="ts-body">
@@ -200,6 +212,8 @@ The anterior interosseous nerve branches 5–8 cm distal to the medial epicondyl
 </div>
 </details>
 
+
+### Pirogov's Deep Volar Space
 <details id="pirogov">
 <summary>Pirogov's Deep Volar Space</summary>
 <div class="ts-body">
@@ -219,6 +233,8 @@ Its clinical significance is central in suppurative infections: volar palmar phl
 </div>
 </details>
 
+
+### Surface Anatomy and Landmarks
 <details id="landmarks">
 <summary>Surface Anatomy and Landmarks</summary>
 <div class="ts-body">
@@ -236,6 +252,9 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 </details>
 </section>
 
+
+
+## Pathophysiology and Mechanism
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Pathophysiology and Mechanism</summary>
@@ -255,6 +274,9 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 </details>
 </section>
 
+
+
+## Clinical Presentation and Diagnosis
 <section class="topic-section" id="clinical">
 <details>
 <summary>Clinical Presentation and Diagnosis</summary>
@@ -285,6 +307,9 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 </details>
 </section>
 
+
+
+## Classification
 <section class="topic-section" id="classification">
 <details>
 <summary>Classification</summary>
@@ -304,11 +329,16 @@ Projection lines: radial artery — from a point 1.5 cm lateral to the midpoint 
 </details>
 </section>
 
+
+
+## Treatment
 <section class="topic-section" id="treatment">
 <details>
 <summary>Treatment</summary>
 <div class="ts-body">
 
+
+### Nonoperative
 <details id="nonoperative">
 <summary>Nonoperative</summary>
 <div class="ts-body">
@@ -331,6 +361,8 @@ For acute Colles fractures with accepted reduction, the cast is maintained for 4
 </div>
 </details>
 
+
+### Operative
 <details id="operative">
 <summary>Operative</summary>
 <div class="ts-body">
@@ -884,6 +916,9 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 </details>
 </section>
 
+
+
+## Outcomes and Complications
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Outcomes and Complications</summary>
@@ -915,6 +950,9 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 </details>
 </section>
 
+
+
+## Local Contributions
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Local Contributions</summary>
@@ -954,6 +992,9 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 </details>
 </section>
 
+
+
+## Classical Sources
 <section class="topic-section" id="classical">
 <details>
 <summary>Classical Sources</summary>
@@ -984,6 +1025,9 @@ After wrist arthrodesis — a padded cast for 2 weeks with suture removal, follo
 </details>
 </section>
 
+
+
+## Suggested Reading
 <section class="topic-section" id="literature">
 <details>
 <summary>Suggested Reading</summary>

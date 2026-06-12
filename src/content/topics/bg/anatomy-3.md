@@ -43,6 +43,9 @@ order: 203
   </ol>
 </details>
 
+
+
+## Преглед
 <section class="topic-section" id="overview">
 <details open>
 <summary>Преглед</summary>
@@ -54,11 +57,16 @@ order: 203
 </details>
 </section>
 
+
+
+## Хирургична анатомия
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
+
+### Костна анатомия и отделения
 <details id="bony-anatomy">
 <summary>Костна анатомия и отделения</summary>
 <div class="ts-body">
@@ -120,6 +128,8 @@ Humerus е най-голямата дълга кост на горния кра�
 </div>
 </details>
 
+
+### Регионални граници и повърхностни ориентири
 <details id="regional-landmarks">
 <summary>Регионални граници и повърхностни ориентири</summary>
 <div class="ts-body">
@@ -162,6 +172,8 @@ Humerus е най-голямата дълга кост на горния кра�
 </div>
 </details>
 
+
+### N. radialis и canalis humeromuscularis
 <details id="radial-nerve">
 <summary>N. radialis и canalis humeromuscularis</summary>
 <div class="ts-body">
@@ -205,6 +217,8 @@ N. radialis е основната неврологична структура в
 </div>
 </details>
 
+
+### N. musculocutaneus
 <details id="musculocutaneous">
 <summary>N. musculocutaneus</summary>
 <div class="ts-body">
@@ -224,6 +238,8 @@ N. musculocutaneus се отделя от латералния сноп на б�
 </div>
 </details>
 
+
+### A. brachialis, n. medianus и n. ulnaris
 <details id="brachial-bundle">
 <summary>A. brachialis, n. medianus и n. ulnaris</summary>
 <div class="ts-body">
@@ -245,6 +261,8 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </div>
 </details>
 
+
+### Интермускулни прегради
 <details id="septa">
 <summary>Интермускулни прегради</summary>
 <div class="ts-body">
@@ -258,6 +276,9 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </details>
 </section>
 
+
+
+## Патофизиология и механизъм
 <section class="topic-section" id="pathophysiology">
 <details>
 <summary>Патофизиология и механизъм</summary>
@@ -279,6 +300,9 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </details>
 </section>
 
+
+
+## Клиника и диагностика
 <section class="topic-section" id="clinical">
 <details>
 <summary>Клиника и диагностика</summary>
@@ -315,6 +339,9 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </details>
 </section>
 
+
+
+## Класификация
 <section class="topic-section" id="classification">
 <details>
 <summary>Класификация</summary>
@@ -334,11 +361,16 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </details>
 </section>
 
+
+
+## Лечение
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
 <div class="ts-body">
 
+
+### Консервативно
 <details id="nonoperative">
 <summary>Консервативно</summary>
 <div class="ts-body">
@@ -367,12 +399,16 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </div>
 </details>
 
+
+### Оперативно
 <details id="operative">
 <summary>Оперативно</summary>
 <div class="ts-body">
 
 Абсолютни показания за оперативно лечение на затворените диафизарни счупвания: неприемливо консервативно отклонение, сегментни фрактури, патологични фрактури, политравмени пациенти, „плаващ лакът" с ипсилатерална фрактура на предмишницата, билатерални хумерусни фрактури, фрактури с първична или вторична радиална пареза, изискваща ревизия, и неуспех на консервативния опит. Откритите фрактури представляват самостоятелна индикация за оперативен дебридиран и стабилизация.
 
+
+### Хирургични достъпи
 <details id="approaches">
 <summary>Хирургични достъпи</summary>
 <div class="ts-body">
@@ -543,6 +579,8 @@ A. profunda brachii се отделя от a. brachialis в проксималн
 </div>
 </details>
 
+
+### Хирургична техника
 <details id="technique">
 <summary>Хирургична техника</summary>
 <div class="ts-body">
@@ -772,6 +810,8 @@ A. и v. brachialis се отпрепарират и двойно се лиги�
 </div>
 </details>
 
+
+### Следоперативно
 <details id="postoperative">
 <summary>Следоперативно</summary>
 <div class="ts-body">
@@ -796,6 +836,9 @@ A. и v. brachialis се отпрепарират и двойно се лиги�
 </details>
 </section>
 
+
+
+## Усложнения и резултати
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Усложнения и резултати</summary>
@@ -821,6 +864,9 @@ A. и v. brachialis се отпрепарират и двойно се лиги�
 </details>
 </section>
 
+
+
+## Местни приноси
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Местни приноси</summary>
@@ -858,6 +904,9 @@ A. и v. brachialis се отпрепарират и двойно се лиги�
 </details>
 </section>
 
+
+
+## Класически източници
 <section class="topic-section" id="classical">
 <details>
 <summary>Класически източници</summary>
@@ -882,6 +931,9 @@ A. и v. brachialis се отпрепарират и двойно се лиги�
 </details>
 </section>
 
+
+
+## Препоръчителна литература
 <section class="topic-section" id="literature">
 <details>
 <summary>Препоръчителна литература</summary>

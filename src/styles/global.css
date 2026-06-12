@@ -1961,16 +1961,23 @@ html { scroll-padding-top: 88px; }
    Figures are placed absolutely in a right gutter (300px), anchored to their
    DOM position via JS at load. Headings never wait for figures to clear. */
 @media (min-width: 1180px) {
-  .topic-article {
-    position: relative;
-    padding-right: 320px;
+  /* prose flows in TWO columns (book style). Figures inline like mobile. */
+  .topic-article { padding-right: 0; }
+  .prose {
+    column-count: 2;
+    column-gap: 2.2rem;
+    column-fill: balance;
+  }
+  .prose .md-figure,
+  .prose .callout,
+  .prose table,
+  .prose figure {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .prose h2, .prose h3, .prose h4 {
+    break-after: avoid;
+    page-break-after: avoid;
   }
   .prose .topic-toc-inline { display: none; }
-  .prose .md-figure {
-    position: absolute;
-    right: 0;
-    width: 300px;
-    margin: 0;
-    text-align: center;
-  }
 }

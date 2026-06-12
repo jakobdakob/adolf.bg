@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import TopicSidebar from "../components/TopicSidebar.astro";
 import TopicTOC from "../components/TopicTOC.astro";
 import { type Lang, ui } from "../i18n/ui";
 import { getTopicsByLang, topicPath, url as pathUrl, type TopicEntry } from "../lib/topics";
@@ -53,7 +54,7 @@ const eyebrow =
   drawerSection={(section === "preface" ? "ortho" : section) as any}
 >
   <div class="topic-shell">
-    <TopicTOC lang={lang} headings={headings} />
+    <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article" data-topic-article data-pagefind-body>
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
       <h1 class="topic-title">{entry.data.title}</h1>
@@ -86,20 +87,18 @@ const eyebrow =
         ) : <span />}
       </nav>
     </article>
+    <TopicTOC lang={lang} headings={headings} />
   </div>
-
 <script>
-  // V4 / Wikipedia layout: force all <details> inside .topic-section to stay open.
+  // V4 layout: force <details> in topic-section to stay open (no collapse).
   document.addEventListener('DOMContentLoaded', () => {
-    const sections = document.querySelectorAll('.prose .topic-section details');
-    sections.forEach(d => {
+    document.querySelectorAll('.prose .topic-section details').forEach(d => {
       d.open = true;
-      d.addEventListener('toggle', () => {
-        if (!d.open) d.open = true;
-      });
+      d.addEventListener('toggle', () => { if (!d.open) d.open = true; });
     });
   });
 </script>
+
 
 <script>
   // Desktop layout: figures live in a right gutter, absolute-positioned at
@@ -150,13 +149,13 @@ const eyebrow =
   }
   @media (min-width: 1024px) {
     .topic-shell {
-      grid-template-columns: 240px minmax(0, 1fr);
+      grid-template-columns: 240px minmax(0, 1fr) 240px;
       gap: var(--s-6);
     }
   }
   @media (min-width: 1180px) {
     .topic-shell {
-      grid-template-columns: 240px minmax(0, 1fr);
+      grid-template-columns: 240px minmax(0, 1fr) 240px;
       gap: var(--s-6);
     }
   }

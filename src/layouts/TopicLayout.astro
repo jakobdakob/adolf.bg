@@ -101,6 +101,38 @@ const eyebrow =
   });
 </script>
 
+<script>
+  // Desktop layout: figures live in a right gutter, absolute-positioned at
+  // their DOM-flow offsetTop so text on the left flows independently without
+  // waiting for figures. Recompute on resize and after images load.
+  (function() {
+    if (window.matchMedia('(max-width: 1179px)').matches) return;
+    const placeFigures = () => {
+      const article = document.querySelector('.topic-article');
+      if (!article) return;
+      const figs = article.querySelectorAll('.md-figure');
+      figs.forEach(fig => {
+        // Temporarily un-position to measure natural offset
+        fig.style.position = '';
+        fig.style.top = '';
+      });
+      requestAnimationFrame(() => {
+        figs.forEach(fig => {
+          const top = fig.offsetTop;
+          fig.style.position = 'absolute';
+          fig.style.top = top + 'px';
+        });
+      });
+    };
+    window.addEventListener('load', placeFigures);
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(placeFigures, 200);
+    });
+  })();
+</script>
+
 </BaseLayout>
 
 

@@ -1957,30 +1957,20 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Desktop layout: CSS Grid on the prose places text in column 1, figures in
-   column 2 (right gutter). Figures sit at the same vertical row as the prose
-   block they appear next to in DOM. No text wrap. No floats, no gaps. */
+/* Desktop layout: text flows independently in left column at FULL height.
+   Figures are placed absolutely in a right gutter (300px), anchored to their
+   DOM position via JS at load. Headings never wait for figures to clear. */
 @media (min-width: 1180px) {
   .topic-article {
-    padding-right: 0;
-  }
-  .prose {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 300px;
-    column-gap: 1.6em;
-    row-gap: 0;
-    align-items: start;
-  }
-  /* Every direct prose child defaults to text column (1) */
-  .prose > * {
-    grid-column: 1;
-  }
-  /* Figures go to right column (2) */
-  .prose > .md-figure {
-    grid-column: 2;
-    margin: 0;
-    width: 100%;
-    text-align: center;
+    position: relative;
+    padding-right: 320px;
   }
   .prose .topic-toc-inline { display: none; }
+  .prose .md-figure {
+    position: absolute;
+    right: 0;
+    width: 300px;
+    margin: 0;
+    text-align: center;
+  }
 }

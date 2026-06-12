@@ -155,8 +155,8 @@ const eyebrow =
       article.appendChild(spacer);
 
       function sizeSpacer() {
-        // We need enough page scroll for y to reach (contentHeight - colHeight),
-        // at which point col2 displays the very last chunk. y = scrollY - articleTop.
+        // Need enough page scroll for y to reach (contentHeight - colHeight),
+        // at which point col 1 displays the final chunk. y = scrollY - articleTop.
         const ch = contentHeight();
         const colH = colHeight();
         const target = Math.max(0, ch - colH);
@@ -178,12 +178,29 @@ const eyebrow =
       onScroll();
       window.addEventListener('scroll', onScroll, { passive: true });
 
-      function onResize() {
+      function recompute() {
         positionLayout();
         sizeSpacer();
         onScroll();
       }
-      window.addEventListener('resize', onResize);
+      window.addEventListener('resize', recompute);
+
+      // Recompute when content size changes (images loading, fonts settling,
+      // tables reflowing, etc.). Without this, spacer is too short and the
+      // last 5-10% of long topics becomes unreachable.
+      if (typeof ResizeObserver === 'function') {
+        const ro = new ResizeObserver(recompute);
+        ro.observe(col1Inner);
+      }
+      [col1Inner, col2Inner].forEach(root => {
+        root.querySelectorAll('img').forEach(img => {
+          if (!img.complete) {
+            img.addEventListener('load', recompute, { once: true });
+            img.addEventListener('error', recompute, { once: true });
+          }
+        });
+      });
+      window.addEventListener('load', recompute);
 
       // Intercept TOC link clicks (right rail + inline) so they map to
       // a page-scroll position that brings the target into col 1's top.

@@ -1,5 +1,5 @@
 ---
-title: "Хирургична анатомия на предмишница. Хирургични достъпи в областта на предмишницата."
+title: "Хирургична анатомия на предмишница. Хирургични достъпи в предмишничната област."
 lang: "bg"
 kind: "topic"
 section: "anatomy"
@@ -7,567 +7,1039 @@ topicNumber: 5
 order: 205
 ---
 
-## Въведение
+<details class="topic-toc-inline">
+  <summary>Съдържание</summary>
+  <ol>
+    <li><a href="#overview">Преглед</a></li>
+    <li><a href="#surg-anatomy">Хирургична анатомия</a>
+      <ol>
+        <li><a href="#bony-anatomy">Костна анатомия и междукостна мембрана</a></li>
+        <li><a href="#compartments">Мускулни компартменти</a></li>
+        <li><a href="#neurovascular">Невроваскуларна анатомия</a></li>
+        <li><a href="#pirogov">Дълбоко волярно пространство на Пирогов</a></li>
+        <li><a href="#landmarks">Повърхностна анатомия и ориентири</a></li>
+      </ol>
+    </li>
+    <li><a href="#pathophysiology">Патофизиология и механизъм</a></li>
+    <li><a href="#clinical">Клиника и диагностика</a></li>
+    <li><a href="#classification">Класификация</a></li>
+    <li><a href="#treatment">Лечение</a>
+      <ol>
+        <li><a href="#nonoperative">Консервативно</a></li>
+        <li><a href="#operative">Оперативно</a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Усложнения и резултати</a></li>
+    <li><a href="#bulgarian">Местни приноси</a></li>
+    <li><a href="#classical">Класически източници</a></li>
+    <li><a href="#literature">Препоръчителна литература</a></li>
+  </ol>
+</details>
 
-Предмишницата (между лакъта проксимално и китката дистално) е уникална сред ортопедичните области с това, че съдържа две успоредни дълги кости, чиито прецизни пространствени взаимоотношения определят ротационната функция на пронацията и супинацията. Хирургичната анатомия отразява това устройство: radius с характерната му латерална дъга, ulna по правата си ос, membrana interossea между тях, проксималната и дисталната radioulnar articulation и мускулните компартменти, организирани около тези кости. Оперативните достъпи до предмишницата трябва да зачитат основното изискване за възстановяване на радиалната дъга и взаимоотношенията на radioulnar articulation (принципът, формулиран в Тема Травма-16), като едновременно защитават основните невроваскуларни структури — arteria radialis, nervus medianus, nervus ulnaris, nervus interosseous posterior и повърхностния клон на nervus radialis. Двата основни достъпа до radius — достъпът по Henry (волярен) и достъпът по Thompson (дорзален), заедно осигуряват достъп до цялата дължина на костта; директният улнарен достъп осигурява достъп до подкожния ръб на ulna. Тази глава обобщава материал от Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy, Gray's Anatomy и класическата българска „Оперативна ортопедия и травматология" на Бойчо Бойчев — носител на името на УСБАЛО „Проф. Бойчо Бойчев", Горна баня — допълнена с обширния български и руски пласт на класически техники: транспозиции при парализа на n. medianus, n. ulnaris и n. radialis (Епщайн-Розов, Bunnell, Camitz, Стойчева, Матев, Панева, Littler, Brand, Boyes), реконструкция на дисталния radius (Холевич, Янков-Попова), артродеза на гривнената става (Цанева, Adams, Mannerfeldt), кинематизация по Krukenberg с модификации на Albrecht и Холевич, и операциите на Бойчев при стара Monteggia, вродена радиоулнарна синостоза и едно-костна предмишница.
+<section class="topic-section" id="overview">
+<details open>
+<summary>Преглед</summary>
+<div class="ts-body">
 
-## Костна анатомия
+Предмишницата заема пространството между лакътната става проксимално и гривнената става дистално и е уникална в скелета на горния крайник с това, че съдържа две успоредни дълги кости — radius и ulna — чиито пространствени взаимоотношения определят ротационната функция на пронация и супинация. Хирургичната концепция за достъпите изисква запазване на радиалната дъга, цялост на двете радиоулнарни стави и предпазване от хетеротопна синостоза между двете кости. Невроваскуларният риск се концентрира в дълбокия двигателен клон на радиалния нерв в проксималната трета, в повърхностния клон на същия нерв по радиалния ръб на дисталната трета и в средничния нерв с предния междукостен клон по дълбочината на волярния компартмент. Темата представя слоистата анатомия, основните волярни и дорзални достъпи (Хенри, Томпсън, директен улнарен, заден по Cadenat), декомпресивната фасциотомия при остра компартмент-исхемия, реконструктивните операции при оформена контрактура на Фолкман, целия каталог на класическите сухожилни трансфери при увреда на средния, лакътния и лъчевия нерв, плаковата и вътрекостната остеосинтеза в българската школа на Бойчо Бойчев, Кончеров и Панева, корекциите при стара Монтеджа, Маделунг и вродена радиоулнарна синостоза, кинематизацията на чуканчето по Krukenberg с модификациите на Albrecht и Холевич и денервационно-артродезните процедури на гривнената става.
 
-Radius е латералната кост на предмишницата и основната кост, носеща тежест в горния крайник. Проксималният край се състои от дисковидната главичка на лъча, тесния collum radii и tuberositas radii (инсерция на сухожилието на biceps). Диафизата има характерна латерална дъга с максимална изпъкналост на границата между проксималната и средната третина — радиалната дъга е геометричната особеност, чието запазване е от съществено значение за нормалната ротация на предмишницата (Тема Травма-16). Дисталният radius се разширява и артикулира с карпуса в областта на китката (Тема Травма-17).
+</div>
+</details>
+</section>
 
-Ulna е медиалната кост, по същество права по дължината си, осигуряваща стабилната ос, около която се върти radius. Проксималният край включва olecranon отзад и processus coronoideus отпред, с incisura trochlearis между тях, артикулираща с trochlea на дисталния humerus. Диафизата има подкожен ръб, палпируем от olecranon до styloid на ulna. Дисталният край включва главата на ulna с processus styloideus ulnae (инсерция на TFCC).
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary>Хирургична анатомия</summary>
+<div class="ts-body">
 
-Membrana interossea свързва radius и ulna по цялата им дължина с характерна наклоненост на влакната (влакната вървят от проксималния radius към дисталната ulna). Мембраната предава аксиално натоварване от radius (в областта на китката) към ulna (в областта на лакъта) и осигурява допълнителна стабилност на ротацията на предмишницата.
-
-Проксималната radioulnar articulation (PRUJ) между главичката на лъча и incisura radialis на ulna се стабилизира от ligamentum anulare, ligamentum quadratum и membrana interossea.
-
-Дисталната radioulnar articulation (DRUJ) между главата на ulna и incisura ulnaris на radius се стабилизира от ligamentum radioulnare palmare и ligamentum radioulnare dorsale, комплекса на триъгълния фиброхрущял (TFCC), membrana interossea, musculus pronator quadratus и улнарния колатерален лигамент.
+<details id="bony-anatomy">
+<summary>Костна анатомия и междукостна мембрана</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-ulna-supination.svg" data-figure-alt="Radius и ulna в супинация" aria-label="Увеличи">
     <img src="/img/anatomy-5/radius-ulna-supination.svg" alt="Radius и ulna в супинация" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Десен radius и ulna в супинация (3D от DBCLS): двете кости са успоредни; пронацията изисква radius да описва кръг около ulna в проксималната и дисталната радиоулнарна стави, докато интеросалната мембрана преразпределя натоварването. Загубата на радиалната дъга след диафизарна фрактура (Тема Травма-16) ограничава ротацията и е основна причина за оперативната ригорност на класическите AO компресивни плочи (Müller-Allgöwer-Schneider) при двукостни фрактури на предмишницата.</span>
+    <span class="md-figure-caption">Десен radius и ulna в супинация: двете кости вървят успоредно; пронацията изисква radius да описва дъга около ulna в проксималната и дисталната радиоулнарна става, докато междукостната мембрана преразпределя натоварването. Загуба на радиалната дъга след диафизарна фрактура (Тема Травма-16) ограничава ротацията — основен мотив за компресивната плакова остеосинтеза по Müller-Allgöwer-Schneider.</span>
     <span class="md-figure-attribution"> · DataBase Center for Life Science (DBCLS), <a href="https://commons.wikimedia.org/wiki/File:202202_Anterior_view_of_right_radius_and_ulna_in_supination.svg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
-## Мускулни компартменти
+**Radius.** Латерална и основна носеща тежест кост на горния крайник. Проксималният край включва дисковидна главичка, тесен collum radii и tuberositas radii (захват на сухожилието на двуглавия мишничен мускул). Диафизата носи характерната латерална дъга с максимална изпъкналост на границата между проксималната и средната трета — радиалната дъга, чието анатомично възстановяване е критично за нормалната ротация. Дисталният край се разширява и артикулира с проксималната редица карпални кости, със средно 22° лъчево отклонение, 11° волярна наклоненост и 11 mm лъчева дължина — морфометрични величини, по които се преценява ефектът на дистална фрактура (Тема Травма-17).
+
+**Ulna.** Медиална, по същество права кост, осигуряваща стабилна ос на ротация. Проксимален край с olecranon отзад и processus coronoideus отпред; incisura trochlearis между тях артикулира с trochlea на дисталния humerus. Диафизата има подкожен заден ръб, палпируем от olecranon до processus styloideus ulnae — анатомична основа за прекия улнарен достъп. Дисталният край носи главата на ulna с характерния си стилоиден израстък, в който се захваща централната гънка на триъгълния фиброхрущялен комплекс.
+
+**Междукостна мембрана.** Свързва двете кости по дължината им. Влакната на централния сноп (basal cord) вървят косо от проксимално-латерално (radius) към дистално-медиално (ulna) под средно 21°, който подава нормалното натоварване от китката (приета от radius) към лакътя (предадена на ulna). Допълнителни структури: дорзалният наклонен сноп на Henry (proximal radius към distal ulna), волярният наклонен сноп и дисталният наклонен сноп до триъгълния фиброхрущял. Загубата на централния сноп при Есекс-Лопрести (фрактура на главичката на radius + дислокация на DRUJ + разкъсване на мембраната) превръща лакътя и китката в нестабилна верига и налага реконструкция на главичката, а не нейната резекция.
+
+**Проксимална и дистална радиоулнарна става.** Проксималната — между главичката на radius и incisura radialis на ulna — се стабилизира от annular ligament, quadrate ligament и горния край на междукостната мембрана. Дисталната — между главата на ulna и incisura ulnaris на radius — се стабилизира от волярния и дорзалния радиоулнарен лигамент (компоненти на триъгълния фиброхрущялен комплекс), от самата мембрана, от musculus pronator quadratus и от улнарния колатерален лигамент.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Радиалната дъга трябва да бъде възстановена с точност в милиметри — отклонение над 4–5 mm намалява ротацията с над 20% и е основният предиктор за функционален провал след двукостни диафизарни фрактури.</li>
+    <li>Централният сноп на междукостната мембрана е основен стабилизатор на дължината на radius — при Essex-Lopresti главичката на radius НЕ се резецира, а се възстановява или замества с протеза.</li>
+    <li>Дисталната радиоулнарна става е стабилна само при едновременно функционални волярен и дорзален радиоулнарни лигаменти, triangular fibrocartilage и pronator quadratus — изолирана резекция на една структура повече от 50% дестабилизира ставата.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="compartments">
+<summary>Мускулни компартменти</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-xs.png" data-figure-alt="Напречен срез на предмишницата" aria-label="Увеличи">
     <img src="/img/anatomy-5/forearm-xs.png" alt="Напречен срез на предмишницата" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Напречен срез на лявата предмишница: radius и ulna, membrana interossea, волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) компартмент с мобилното тяло на Henry.</span>
+    <span class="md-figure-caption">Напречен срез на лявата предмишница на средно ниво: radius и ulna, междукостна мембрана, волярен (флексорно-пронаторен) компартмент с три слоя, дорзален (екстензорно-супинаторен) компартмент с два слоя и мобилното тяло на Хенри по радиалния ръб. Фасциалните прегради са основа на класификацията на компартмент-синдрома и обясняват защо адекватната фасциотомия изисква отделно отваряне на всеки от трите компартмента.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter (color by Anka Friedrich), Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417_color.PNG" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Предмишницата има два основни компартмента — волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен) — като мобилното тяло на Henry (musculus brachioradialis, musculus extensor carpi radialis longus, musculus extensor carpi radialis brevis) понякога се разглежда като отделен компартмент.
-
-## Волярен (флексорен) компартмент
+Предмишницата има два основни фасциални компартмента — волярен (флексорно-пронаторен) и дорзален (екстензорно-супинаторен). Мобилното тяло на Хенри (brachioradialis, extensor carpi radialis longus и extensor carpi radialis brevis) се счита от много автори за трети, отделен компартмент по радиалния ръб.
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/pronator-teres.png" data-figure-alt="M. pronator teres и повърхностен флексорен слой" aria-label="Увеличи">
-    <img src="/img/anatomy-5/pronator-teres.png" alt="M. pronator teres и повърхностен флексорен слой" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/pronator-teres.png" data-figure-alt="Pronator teres и повърхностен флексорен слой" aria-label="Увеличи">
+    <img src="/img/anatomy-5/pronator-teres.png" alt="Pronator teres и повърхностен флексорен слой" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Повърхностен волярен слой на предмишницата (по Gray): pronator teres, FCR, palmaris longus и FCU от общия флексорен произход на mediale epicondylus. Двете глави на pronator teres (humeralis и ulnaris) формират горно-улнарната граница на cubital fossa и притискат n. medianus при синдрома на pronator-teres — класическа индикация за невролиза по класическата българска техника на Конфорти-Панева с долен достъп през фасциалния тунел.</span>
+    <span class="md-figure-caption">Повърхностен волярен слой: pronator teres, flexor carpi radialis, palmaris longus и flexor carpi ulnaris от общия флексорен произход на медиалния епикондил. Двете глави на pronator teres (хумерална и улнарна) ограждат средничния нерв и формират горно-улнарната граница на cubital fossa — анатомичен субстрат на синдрома на pronator teres.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray417.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
+
+**Волярен компартмент — три слоя.** *Повърхностен слой* от лъчев към улнарен ръб: pronator teres, flexor carpi radialis, palmaris longus (отсъства при около 14% от популацията — клинично важно при планиране на трансфер по Camitz), flexor carpi ulnaris. Произход — общата флексорна сухожилна лента на медиалния епикондил. *Среден слой*: flexor digitorum superficialis (произход от медиалния епикондил, проксималния radius и улнарния processus coronoideus; четири сухожилия към средните фаланги на дългите пръсти). *Дълбок слой*: flexor digitorum profundus (произход от ulna и междукостна мембрана), flexor pollicis longus (произход от средната трета на radius и междукостна мембрана) и pronator quadratus (от дисталната ulna към дисталния radius).
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-flexors-deep.png" data-figure-alt="Дълбок флексорен слой на предмишницата" aria-label="Увеличи">
     <img src="/img/anatomy-5/forearm-flexors-deep.png" alt="Дълбок флексорен слой на предмишницата" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Дълбок флексорен слой: FDP, FPL и pronator quadratus с n. medianus и AIN дълбоко върху membrana interossea. Тук минава достъпът по Henry до средната и дисталната третина на radius — между FCR и a. radialis, с дезинсерция на pronator quadratus от прикрепването му към radius (за достъп до волярната повърхност на дисталната костна третина за плочна остеосинтеза на фрактура на дисталния radius — Тема Травма-17).</span>
+    <span class="md-figure-caption">Дълбок флексорен слой: flexor digitorum profundus, flexor pollicis longus и pronator quadratus с средничния нерв и предния междукостен нерв дълбоко върху междукостната мембрана. Това е работната равнина на достъпа по Хенри до средната и дисталната трета на radius — между flexor carpi radialis и лъчевата артерия, с дезинсерция на pronator quadratus от лъчевото му захващане за експозиция на волярната повърхност на дисталната костна трета.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray419.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
-
-Волярният компартмент е организиран в три слоя:
-
-Повърхностен слой: От радиалната към улнарната страна — musculus pronator teres, musculus flexor carpi radialis (FCR), musculus palmaris longus (отсъства при около 14% от популацията), musculus flexor carpi ulnaris (FCU). Тези мускули произхождат от mediale epicondylus humeri (общ флексорен произход) и вървят дистално до инсерциите си.
-
-Среден слой: Musculus flexor digitorum superficialis (FDS) — произхождащ от mediale epicondylus и проксималния radius и ulna, с сухожилия към средните фаланги на пръстите.
-
-Дълбок слой: Musculus flexor digitorum profundus (FDP), musculus flexor pollicis longus (FPL) и musculus pronator quadratus. FDP произхожда от ulna и membrana interossea, FPL (от radius и membrana interossea, а pronator quadratus дистално) от ulna към radius.
-
-Nervus medianus върви в волярния компартмент между слоевете на FDS и FDP по средната линия; nervus interosseous anterior (AIN) е дълбок клон, вървящ по membrana interossea. Nervus ulnaris върви улнарно спрямо FDP, дълбоко под FCU. Arteria radialis върви по радиалната страна, дълбоко под musculus brachioradialis. Arteria ulnaris върви по улнарната страна, дълбоко под FCU.
-
-## Дорзален (екстензорен) компартмент
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/forearm-extensors.png" data-figure-alt="Дорзални екстензори на предмишницата" aria-label="Увеличи">
     <img src="/img/anatomy-5/forearm-extensors.png" alt="Дорзални екстензори на предмишницата" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Дорзални екстензори на предмишницата: повърхностен слой (EDC, EDM, ECU от laterale epicondylus) и дълбок слой (APL, EPB, EPL, EI, supinator). Външното косо коремче на APL и EPB прекосява сухожилието на ECRL — точно в проекцията на „табактерата" — анатомичният субстрат на тендинит на de Quervain, лекуван с класическо освобождаване на първия дорзален екстензорен компартмент.</span>
+    <span class="md-figure-caption">Дорзални екстензори на предмишницата: повърхностен слой (extensor digitorum, extensor digiti minimi, extensor carpi ulnaris от латералния епикондил) и дълбок слой (abductor pollicis longus, extensor pollicis brevis, extensor pollicis longus, extensor indicis, supinator). Външните косо вървящи коремчета на abductor pollicis longus и extensor pollicis brevis пресичат сухожилието на extensor carpi radialis longus в проекцията на анатомичната табакера — субстратът на тендинит на de Quervain и ориентир за освобождаването на първия дорзален костно-фиброзен канал.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray422.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Дорзалният компартмент е организиран в:
+**Дорзален компартмент — два слоя.** *Повърхностен слой* от лъчев към улнарен ръб: extensor digitorum, extensor digiti minimi, extensor carpi ulnaris — от общата екстензорна лента на латералния епикондил. *Дълбок слой*: abductor pollicis longus, extensor pollicis brevis, extensor pollicis longus, extensor indicis, supinator. Дълбоките мускули имат произходи, разпределени между radius, ulna и междукостна мембрана.
 
-Повърхностен слой: От радиалната към улнарната страна — musculus extensor digitorum communis (EDC), musculus extensor digiti minimi (EDM), musculus extensor carpi ulnaris (ECU). Тези мускули произхождат от laterale epicondylus (общ екстензорен произход).
+**Мобилно тяло на Хенри.** Brachioradialis (инерват от радиалния нерв над разклоняването му), extensor carpi radialis longus (от радиалния нерв) и extensor carpi radialis brevis (вариабилно от радиалния нерв или от задния междукостен нерв) — три мускула, които могат да бъдат палпирани и мобилизирани като единица по радиалния ръб. Brachioradialis осигурява важния мускулен щит над радиалната артерия и над повърхностния клон на радиалния нерв в проксималните две трети на предмишницата.
 
-Дълбок слой: Musculus abductor pollicis longus (APL), musculus extensor pollicis brevis (EPB), musculus extensor pollicis longus (EPL), musculus extensor indicis (EI), musculus supinator. Тези дълбоки мускули произхождат различно от radius, ulna и membrana interossea.
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Palmaris longus отсъства при около 14% от популацията — клинично важно при планиране на трансфер по Camitz; предоперативна проверка с тест на Schaeffer (флексия на китка срещу съпротива при опозиция на палеца) е задължителна.</li>
+    <li>Двете глави на pronator teres ограждат средничния нерв — при синдрома на pronator teres хирургичното освобождаване включва срязване на хумералната глава и lacertus fibrosus без жертване на двигателните клонове.</li>
+    <li>Мобилно тяло на Хенри се ретрахира заедно по радиалния ръб — анатомична основа за интервалите Хенри (волярен) и Томпсън (дорзален), които използват двата му ръба.</li>
+  </ul>
+</aside>
 
-Nervus interosseous posterior (PIN) преминава през musculus supinator (чрез аркадата на Frohse) и върви по задната повърхност на membrana interossea, инервирайки мускулите на дорзалния компартмент. Arteria interossea posterior върви заедно с нерва.
+</div>
+</details>
 
-## Мобилното тяло на Henry
-
-Мобилното тяло се състои от musculus brachioradialis, musculus extensor carpi radialis longus (ECRL) и musculus extensor carpi radialis brevis (ECRB) — три мускула по радиалната страна на предмишницата, които могат да бъдат палпирани и мобилизирани като единица. Musculus brachioradialis се инервира от nervus radialis; ECRL, от nervus radialis; ECRB — вариабилно от nervus radialis или nervus interosseous posterior.
-
-## Невроваскуларна анатомия
+<details id="neurovascular">
+<summary>Невроваскуларна анатомия</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/median-nerve-sensory.png" data-figure-alt="Сензорна зона на n. medianus в ръката" aria-label="Увеличи">
-    <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Сензорна зона на n. medianus в ръката" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radial-nerve-anatomy.png" data-figure-alt="Анатомия на радиалния нерв и задния междукостен нерв" aria-label="Увеличи">
+    <img src="/img/anatomy-5/radial-nerve-anatomy.png" alt="Анатомия на радиалния нерв и задния междукостен нерв" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Сензорна зона на n. medianus в ръката: палмарната повърхност на палеца, II, III и радиалната половина на IV пръст; характерна загуба при синдром на carpal tunnel или прерязване на нерва над китката.</span>
-    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
-
-## Nervus radialis и неговите клонове
-
-Nervus radialis навлиза в предмишницата отпред на laterale epicondylus, между musculus brachialis (медиално) и musculus brachioradialis (латерално), и се разделя на нивото на главичката на лъча на:
-
-Повърхностен сетивен клон: Продължава дистално под musculus brachioradialis, излиза повърхностно на границата между средната и дисталната третина на предмишницата и осигурява сетивна инервация на дорзорадиалната китка и гърба на радиалните три и половина пръста проксимално от ставата DIP.
-
-Дълбок двигателен клон (nervus interosseous posterior, PIN): Преминава през аркадата на Frohse (фиброзният проксимален ръб на musculus supinator) и през самия мускул, за да навлезе в дорзалния компартмент. PIN след това върви по задната повърхност на membrana interossea, инервирайки мускулите на дорзалния компартмент. PIN е основният двигателен нерв на екстензорния компартмент.
-
-PIN е застрашен при хирургичните достъпи до проксималния radius (особено при предния достъп по Henry и дорзалния достъп по Thompson), като супинацията на предмишницата при дисекцията отдалечава нерва от оперативното поле на нивото на collum radii (при предния достъп) или пронацията го отдалечава при дорзалния достъп.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Ротацията на предмишницата измества PIN: СУПИНАЦИЯ при волярния достъп по Henry за изместване на PIN медиално, далеч от collum radii; ПРОНАЦИЯ при дорзалния достъп по Thompson за изместване радиално. Грешна ротация поставя PIN в полето в най-уязвимата му точка — в supinator при аркадата на Frohse.</p>
-</aside>
-
-## Nervus medianus и AIN
-
-Nervus medianus навлиза в предмишницата между двете глави на musculus pronator teres (където може да бъде компресиран при pronator syndrome), след което преминава дълбоко под арката на FDS, а след това — между FDS (повърхностно) и FDP (дълбоко) по средната линия на предмишницата. В областта на китката преминава дълбоко под retinaculum flexorum в карпалния тунел.
-
-Nervus interosseous anterior (AIN) се отделя от nervus medianus на около 5-8 cm дистално от mediale epicondylus и върви по волярната повърхност на membrana interossea, инервирайки FPL, радиалната половина на FDP (към показалеца и средния пръст) и musculus pronator quadratus. AIN е изцяло двигателен (без сетивен компонент); парезата на AIN се разпознава по невъзможността за изпълняване на знака „ОК“ (загуба на FPL и FDP към показалеца).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Nervus interosseous anterior (AIN) се отделя от nervus medianus на 5-8 cm дистално от mediale epicondylus и инервира FPL, FDP към показалеца/средния пръст и pronator quadratus. Изцяло двигателен; парезата на AIN се поставя по невъзможност за знака „ОК“ и е волярният аналог на парезата на PIN.</p>
-</aside>
-
-## Nervus ulnaris
-
-Nervus ulnaris навлиза в предмишницата през cubital tunnel между двете глави на FCU. Върви дълбоко под FCU, улнарно спрямо FDP, инервирайки и двата мускула и отдавайки дорзален сетивен клон на границата между средната и дисталната третина (инервиращ дорзоулнарната китка и гърба на улнарните един и половина пръста). Основният nervus ulnaris продължава в canalis Guyon в областта на китката.
-
-## Клонове на arteria brachialis
-
-Arteria brachialis се разделя на нивото на collum radii на:
-
-Arteria radialis: Върви по радиалната страна на предмишницата, дълбоко под musculus brachioradialis. Артерията е основният съд, срещан при достъпа по Henry.
-
-Arteria ulnaris: Върви по улнарната страна, дълбоко под FCU. Артерията се среща при достъпи до медиалната предмишница.
-
-Arteria interossea communis се отделя от arteria ulnaris и се разделя на arteria interossea anterior (вървяща с AIN по волярната повърхност на membrana interossea) и arteria interossea posterior (вървяща с PIN по дорзалната повърхност).
-
-## Класическо описание на топографските слоеве (българска школа)
-
-Преди да се пристъпи към оперативните достъпи, си струва да се рекапитулират топографските слоеве, така както са описани в българската ортопедична литература (Бойчева), защото те остават приложими както в учебните часове по анатомия, така и при тълкуването на проникваща или огнестрелна травма на предмишницата. Предната предмишнична област се ограничава между линия на около 6 cm под епикондилите на humerus и линия на около 3 cm над дисталната кожна гънка на китката. Кожата по волярната страна е тънка, подвижна, окосмена в латералната половина; подкожието съдържа vena cephalica antebrachii в латералната част (придружена от nervus cutaneus antebrachii lateralis — терминалния клон на n. musculocutaneus), vena basilica antebrachii в медиалната част (с n. cutaneus antebrachii medialis) и vena mediana antebrachii в средната ос. Собствената фасция е продължение на брахиалната, сраства с медиалния ръб на ulna и отдава междумускулни прегради, които оформят страничното (mobile wad) и предното фасциално ложе.
-
-В дълбочина на предното ложе се образува специфичното пространство на Pirogov (spatium antebrachii profundum), ограничено отзад от membrana interossea и m. pronator quadratus, а отпред — от m. flexor digitorum profundus и m. flexor pollicis longus. Пространството е с дължина 5–6 cm в дисталната третина и съдържа рехава съединителна тъкан, която се свързва нагоре с предмишничните и надолу — със съдържимото на canalis carpi. Клиничното му значение е централно при волярни флегмони на ръката, които се разпространяват ретроградно през canalis carpi, и при дисталното разпространение на флексорна теносиновитна инфекция от ръката към предмишницата. Задната предмишнична област има по-дебела и по-малко подвижна кожа; повърхностните вени анастомозират с системата на v. cephalica, а задното междумускулно пространство съдържа aa. interosseae posterior et anterior и крайните разклонения на дълбокия клон на n. radialis.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Пространството на Pirogov в дисталната волярна предмишница (между membrana interossea и pronator quadratus отзад, FDP и FPL отпред) е критичен анатомичен резервоар: волярни флегмони на ръката и V-образни теносиновити (radial bursa ↔ ulnar bursa) се разпространяват през canalis carpi именно в това пространство, и адекватният дренаж изисква обширна волярна предмишнична инцизия успоредно с разтоварването на карпалния тунел.</p>
-</aside>
-
-## Достъп по Henry до radius (волярен достъп)
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/henry-volar-anatomy.png" data-figure-alt="Волярна анатомия на предмишницата – основа на достъпа по Henry" aria-label="Увеличи">
-    <img src="/img/anatomy-5/henry-volar-anatomy.png" alt="Волярна анатомия на предмишницата – основа на достъпа по Henry" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Повърхностна волярна мускулна анатомия на предмишницата с m. brachioradialis латерално и FCR медиално — интервалът, използван от достъпа по Henry за експозиция на цялата дължина на radius. A. radialis върви между двата мускула, леко улнарно.</span>
-    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray418.png" target="_blank" rel="noopener noreferrer">PD</a></span>
-  </figcaption>
-</figure>
-
-Достъпът по Henry (A. K. Henry, 1927) е класическият волярен достъп до radius, осигуряващ достъп за плаково фиксиране на фрактури на диафизата на лъча, биопсия на radius, експозиция на arteria radialis и предна хирургия при тумори на предмишницата.
-
-## Позициониране на пациента
-
-Пациентът е по гръб с наранения крайник на ръчна маса, предмишница напълно супинирана. Пълната супинация е критичният елемент на позицията — поставя цялата диафиза на лъча в оперативното поле и защитава PIN, като го измества медиално (встрани от collum radii, което е най-опасният участък за увреждане на PIN).
-
-## Ориентири и разрез
-
-Сухожилието на biceps проксимално, средната волярна предмишница в средата и styloid на radius дистално маркират линията на разреза. Кожният разрез може да се простира от бицепсовата гънка дистално по радиалната страна на волярната предмишница до styloid на radius, като дължината се определя от желаната експозиция.
-
-## Техника на достъпа
-
-Кожата и подкожието се разрязват, като се обръща внимание на повърхностните клонове на nervus radialis (излизащи подкожно на границата между средната и дисталната третина и вървящи по радиалния ръб на дисталната предмишница).
-
-Фасцията се отваря по хода на кожния разрез. Musculus brachioradialis (радиална страна) и musculus flexor carpi radialis (улнарна страна) оформят границите на достъпа. Arteria radialis върви в интервала между тези мускули, леко към улнарната страна; тя се идентифицира и защитава.
-
-Musculus brachioradialis се ретрахира латерално; FCR, медиално. В проксималната третина на radius musculus supinator се идентифицира, покривайки костта, и PIN преминава през него. Musculus supinator се отделя от radius чрез субпериостална елевация при пълна супинация на предмишницата за защита на PIN. В средната третина се идентифицира и отделя инсерцията на musculus pronator teres на radius. В дисталната третина musculus pronator quadratus се идентифицира и рефлектира от radius.
-
-Radius се експонира субпериостално и се извършва желаната процедура (плакова фиксация, биопсия и др.).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Достъпът по Henry работи в интервала между musculus brachioradialis (латерално) и FCR (медиално); arteria radialis лежи между тях, леко към улнарната страна. Проксимална третина: субпериостално отделяне на supinator при напълно супинирана предмишница. Средна третина: отделяне на инсерцията на pronator teres. Дистална третина: рефлектиране на pronator quadratus от radius.</p>
-</aside>
-
-
-## Усложнения
-
-Усложненията на достъпа по Henry включват увреждане на PIN (основна грижа; минимизира се чрез супинация на предмишницата и внимателна субпериостална елевация на musculus supinator), увреждане на повърхностния клон на nervus radialis (с болезнена неврома при увреждане на клоновете), увреждане на arteria radialis (рядко, но възможно при енергична ретракция) и увреждане на nervus medianus (по-рядко, по-вероятно при проксимално удължаване на дисекцията).
-
-## Достъп по Thompson до radius (дорзален достъп)
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/thompson-dorsal-anatomy.png" data-figure-alt="Дорзална анатомия на предмишницата – основа на достъпа по Thompson" aria-label="Увеличи">
-    <img src="/img/anatomy-5/thompson-dorsal-anatomy.png" alt="Дорзална анатомия на предмишницата – основа на достъпа по Thompson" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Дорзална мускулна анатомия на предмишницата: интервалът между ECRB (n. radialis) и EDC (PIN), използван от достъпа по Thompson, и ходът на PIN през m. supinator при аркадата на Frohse — структурата с най-висок риск при дисекцията.</span>
-    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray421.png" target="_blank" rel="noopener noreferrer">PD</a></span>
-  </figcaption>
-</figure>
-
-Достъпът по Thompson (J. E. Thompson, 1918) осигурява дорзален достъп до radius и се използва при плаково фиксиране на фрактури на проксималната третина на лъча (при които волярният достъп по Henry крие риск за PIN), при избрани патологии на проксималния radius и при дорзален достъп до тумори на предмишницата.
-
-## Позициониране на пациента
-
-Пациентът е по гръб с наранения крайник на ръчна маса, предмишница пронирана. Пронацията отдалечава PIN към радиалната страна, встрани от оперативното поле (противоположно на супинацията, използвана при достъпа по Henry за отдалечаване на PIN към медиалната страна).
-
-## Ориентири и разрез
-
-Laterale epicondylus проксимално и tuberculum Listerii дистално маркират линията на разреза. Кожният разрез се простира по дорзорадиалния аспект на предмишницата.
-
-## Техника на достъпа
-
-Кожата и подкожието се разрязват. Идентифицира се интервалът между musculus extensor carpi radialis brevis (ECRB) (радиална страна, инервиран от nervus radialis) и musculus extensor digitorum communis (EDC) (улнарна страна, инервиран от PIN) — това е интервалът между две нервни зони при достъпа по Thompson.
-
-Интервалът се разработва тъпо. Musculus supinator се открива, покривайки проксималния radius. PIN преминава през musculus supinator, навлизайки при аркадата на Frohse и излизайки след пробег от около 4-6 cm мускул. PIN трябва внимателно да се идентифицира и защитава.
-
-При достъп до диафизата на лъча musculus supinator се инцизира над collum radii (при пронирана предмишница за отместване на PIN латерално) и се рефлектира, като се открива проксималният radius. Субпериостална дисекция след това открива диафизата на лъча.
-
-В българската ортопедична литература (Бойчева) се подчертава количествено охраната на canalis supinatorius: дълбокият клон на n. radialis преминава през супинаторния канал на протежение около 4–5 cm, а изходът се разполага на около 9–11 cm под laterale epicondylus humeri, или на 1–2 cm над дисталния ръб на m. supinator. От това произтича основното практическо правило — мускулните влакна на супинатора не бива да се разцепват по техния ход в проксималната им част, защото това директно поставя PIN на ножа; за достъп до collum radii мускулът се отделя в дисталната си трета или субпериостално под пълна пронация на предмишницата.
-
-
-## Усложнения
-
-Усложненията на достъпа по Thompson включват увреждане на PIN (основна грижа; особен риск при дисекцията на musculus supinator), увреждане на повърхностния клон на nervus radialis и скованост на лакъта при обширен достъп.
-
-## Заден достъп едновременно до radius и ulna (по Cadenat)
-
-При комбинирани диафизарни фрактури, при които и двете кости изискват дорзален достъп на едно и също ниво, класическата българска и руска школа описва задния достъп по Cadenat. Болният е по гръб с предмишница в пронация; кожният разрез следва задния ръб на ulna, подкожното й положение позволява пряко субпериостално оголване. От лакътната кост дисекцията се простира напред и латерално: мускулите, инсериращи се на задната повърхност на ulna, се отделят субпериостално до достигане на membrana interossea, която заедно с дисталния ръб на m. supinator служи като ориентир за пресичане към задната повърхност на radius. M. supinator се дезинсерира от radius, екартира се внимателно (за защита на дълбокия клон на n. radialis), а останалите мускули — m. abductor pollicis longus, m. extensor pollicis brevis и m. extensor pollicis longus — се отделят субпериостално и се повдигат от radius. Този достъп се използва рядко в съвременната практика поради риска от радиоулнарна синостоза, но остава релевантен при едновременна остеосинтеза на двете кости с дорзални плаки.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Едновременна остеосинтеза на radius и ulna през един дорзален разрез по Cadenat носи реален риск от радиоулнарна синостоза — два отделни разреза (Henry за radius + директен улнарен) са биомеханично по-сигурната тактика. При двунивови или сегментни фрактури с необходимост от обща експозиция остеосинтезата на radius трябва да предхожда тази на ulna, за да се възстанови първо radial bow.</p>
-</aside>
-
-## Директен улнарен достъп
-
-Директният улнарен достъп използва подкожния ръб на ulna, осигурявайки директен достъп до костта без необходимост от интермускуларна плоскост.
-
-## Позициониране на пациента
-
-Пациентът е по гръб с наранения крайник на ръчна маса, предмишница в неутрална или лека супинация.
-
-## Ориентири и разрез
-
-Подкожният ръб на ulna е палпируем от olecranon до styloid на ulna. Кожният разрез се прави директно над него за желаната дължина.
-
-## Техника на достъпа
-
-Кожата и подкожието се разрязват. Фасцията се отваря директно над подкожния ръб. Musculus flexor carpi ulnaris (FCU) се рефлектира улнарно (заедно с nervus ulnaris, защитаван по цялото протежение); musculus extensor carpi ulnaris (ECU) се рефлектира радиално. Субпериостална дисекция след това открива ulna.
-
-Достъпът е прост и не поражда специфичен неврологичен риск, тъй като няма главни нерви, пресичащи подкожния ръб на ulna; дорзалният кожен клон на nervus ulnaris обаче върви по улнарната страна на предмишницата на границата между средната и дисталната третина и може да бъде срещнат.
-
-Достъпът се използва при плаково фиксиране на фрактури на диафизата на ulna, при биопсия или туморна резекция на ulna и при скъсяваща остеотомия на ulna (процедура при ulnar impaction syndrome).
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Директният улнарен достъп по подкожния ръб избягва главните нерви на костта, но дорзалният кожен клон на nervus ulnaris пресича улнарната страна на границата между средната и дисталната третина — запазете го, за да избегнете неврома над дорзоулнарната китка. Плаковане на двете кости на предмишницата през един разрез рискува радиоулнарна синостоза.</p>
-</aside>
-
-## Достъп до съдово-нервните стволове на предмишницата
-
-Класическата проекционна линия за arteria radialis (полезна при директен съдов достъп, артериовенозни фистули за диализа, артериален графт за коронарен байпас, експлорация при проникваща травма) свързва точка на 1,5 cm латерално от средата на междукондилната линия с точка на 1,5 cm медиално от processus styloideus radii. Достъпът се прави в супинация: разрезът върви по линията, фасцията се отваря (особено внимателно в дисталната трета, където артерията е повърхностна), и в интервала между m. brachioradialis (екартиран латерално) и m. flexor carpi radialis (екартиран медиално) се открива съдът заедно с двете коморни вени.
-
-Достъпът до улнарния съдово-нервен сноп се прави в супинация по линията между epicondylus medialis humeri и os pisiforme (проекция на n. ulnaris) и по линия от точка на 0,5 cm латерално от средата на лакътната гънка до медиалния ръб на os pisiforme (проекция на a. ulnaris в горната трета). Кожният разрез се удължава по латералния ръб на m. flexor carpi ulnaris; фасцията се отваря, мускулът се екартира медиално и в дълбочина се откриват a. ulnaris (медиално) и n. ulnaris (леко улнарно от артерията). В горната трета на предмишницата артерията и нервът са разделени от значителна интерпозиция на мускулна тъкан и сходят в общ сноп едва дистално — практически важно при ревизия на улнарна артериална травма, при която нервът може да не съпровожда артерията в проксималната рана.
-
-## Декомпресивна фасциотомия при Volkmann ischaemia
-
-Острата компартмент-исхемия на предмишницата (синдром на Volkmann в острата си фаза) е спешно състояние. Класическите ранни признаци, систематизирани в българската ортопедична литература, са „петте P“: непреодолима болка, несъответстваща на травмата (pain), подуване (pressure/puffiness), посиняване или бледност (pallor/cyanosis), парестезии и изтръпване (paresthesia) и невъзможност за пасивно разгъване на пръстите (passive stretch pain — най-надеждния ранен знак), последвани в късна фаза от изчезване на пулса на arteria radialis (pulselessness). Indication за фасциотомия е персистиране на тези признаци за повече от 30–60 минути след освобождаване на външен натиск (циркулярен гипс, превръзки), разгъване на лакътя и елевация на крайника.
-
-Операцията се извършва под обща анестезия и без пневматичен турникет (който компрометира оставащата перфузия и маскира клиничната оценка). Класическият волярен разрез започва над лакътната гънка медиално от bicipital tendon, продължава волярно през предмишницата по криволинейна (зигзаговидна или леко криволинейна) траектория и завършва на нивото на радио-карпалната гънка, преминавайки косо през канала на n. medianus в карпалния тунел. Силно опънатата дълбока фасция се срязва зигзагообразно с достатъчна странична латерализация, така че предното мускулно ложе да се освободи изцяло. Под lacertus fibrosus се прониква и той се срязва. Постепенно се освобождават епимизиумите на отделните мускули — повърхностният и дълбокият флексорен слой, m. flexor pollicis longus и m. pronator quadratus — като се евакуира хематом от предното ложе. Експонира се a. brachialis под лакъта; ако не се възстанови пулс след параартериална блокада с новокаин, артерията се проследява дистално и се ревизира за притискане от костни фрагменти или интравазална тромбоза (показание за тромбектомия или резекция на тромбозирания участък).
-
-Раната по правило не се затваря първично — кожата се оставя отворена за вторичен шев на ден 5–10 или се покрива с разделящ присадък при изразено напрежение. Допълнителен дорзален разрез по средата на дорзалната повърхност на предмишницата освобождава задното (екстензорно) ложе и mobile wad. При нужда се добавя декомпресия на карпалния тунел в дисталния край на разреза. Следоперативно крайникът се обездвижва в дорзална флексия на китката и разгънати пръсти.
-
-<aside class="callout callout-pitfall">
-  <span class="callout-label">Pitfall</span>
-  <p>Фасциотомията при остра исхемия на предмишницата трябва да включва задължителна декомпресия на n. medianus (lacertus fibrosus проксимално, FDS arch, pronator teres bicipital aponeurosis, и carpal tunnel дистално) — нерв-засегнат компартмент-синдром не се решава само с фасциотомия на ложето. Пневматичен турникет НЕ се прилага: той маскира клиничната оценка и компрометира маргиналната перфузия. Раната се оставя отворена за вторичен шев.</p>
-</aside>
-
-## Хирургично лечение на установена контрактура на Volkmann
-
-При закъсняла диагноза или неадекватна първична декомпресия се развива зрялата исхемична контрактура на Volkmann — фиброза с ретракция на флексорите, пронация на предмишницата, флексионна деформация на китката и пръстите, понякога с дефицит на n. medianus и n. ulnaris. Класификацията на Tsuge разделя случаите на лек тип (фокална некроза, обхващаща част от FDP), умерен (по-голяма част от FDP и FPL, обикновено с неврологичен дефицит) и тежък (некроза на повърхностния и дълбокия флексорен слой). Изборът на оперативна тактика зависи от тежестта.
-
-При установена контрактура с все още жизнеспособни мускули класическата техника на „muscle slide“ (мускулно подхлъзване) по Page (1923), модифицирана от Scaglietti, се състои в субпериостална дезинсерция на общия флексорен произход от epicondylus medialis humeri (заедно с произхода на pronator teres и radialis от лъча и ulna) и каудално приплъзване на цялата флексорна маса под клиничен контрол на разтягането до пълно разгъване на китката и пръстите. N. medianus и n. ulnaris задължително се идентифицират и защитават; в края на процедурата се прави Z-образно удължаване на сухожилията при остатъчно скъсяване. Предимството е запазване на флексорната функция при отстраняване на статичния компонент на деформацията.
-
-При установена контрактура с инфаркт (некроза) на дълбоката флексорна група и тежки ръбцови дегенерации се прилага техниката по Seddon (1956) — ексцизия на исхемично увредените мускули и сухожилни транспозиции от запазените елементи. Първият етап е дъговиден или 5-образен волярен разрез от лакътната гънка до китъчната гънка с ексцизия на задебелената фасция. Дегенерираните мускули (типично FDP, FPL, понякога частично FDS) се ексцизират; нервите се освобождават от ръбцовия конгломерат и невролизата им често е централна за функционалния резултат. При сравнително запазени повърхностни мускули и груба дегенерация на дълбоките, повърхностният флексор на пръстите се транспонира към сухожилията на дълбокия — техника, известна в българската литература като техника на Епщайн и Розов. Сухожилията на flexor digitorum superficialis при това се удължават Z-образно, докато съответният пръст заеме физиологично положение, а длан и китка се поставят в обездвижване при дорзална флексия на гривнената става и флексия в основните фаланги за 21 дни, последвани от продължително функционално лечение.
-
-При смесени форми с пронационна контрактура се добавя превръщане на m. pronator teres в супинатор. През 5–6 cm волярно-радиален разрез фасцията се отваря и m. brachioradialis заедно с повърхностния клон на n. radialis се екартират; в пронация на предмишницата сухожилието на m. pronator teres се дезинсерира максимално дистално (от радиалната повърхност на radius). Мускулното коремче се мобилизира проксимално, повежда се около radius (около задната повърхност на лъчевата кост) и се реинсерира с обърнат вектор, така че контракцията му да предизвиква супинация — концепция, въведена в практиката от Z. T. Bunnell и адаптирана в българската школа за случаи на спастична или постполиомиелитна пронационна контрактура.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Алгоритъм по Tsuge при установен Volkmann: лек тип — невролиза на n. medianus и n. ulnaris ± Page-Scaglietti flexor slide; умерен тип — flexor slide + ексцизия на некротичните FDP/FPL + сухожилен трансфер на FDS към FDP (Епщайн-Розов / Seddon); тежък тип — радикално ексцизиране на некрозата + свободен функционален gracilis transfer (съвременна опция) или артродеза на китката с активна гриф-функция от запазени елементи.</p>
-</aside>
-
-## Мускулни транспозиции при висока парализа на n. medianus
-
-При висока парализа на n. medianus (травматична увреда над разклоняването на AIN) от волярните мускули запазени остават единствено дълбоките сгъвачи на IV и V пръст (от улнарния клон към FDP) и m. flexor carpi ulnaris. За адекватна хватателна функция трябва да се заместят FDP към II и III пръст, FPL и опозицията на палеца (m. opponens pollicis).
-
-Класическата ретроградна транспозиция на повърхностните флексори (с автор от българската школа Епщайн-Розов и сходни описания у Bunnell) обединява запазените FDP IV–V с парализираните FDP II–III чрез шев „side-to-side“, при което двигателят на запазената страна (n. ulnaris) активира всичките четири пръста едновременно. Сухожилието на FPL се удължава с консервиран в белтъчен хидролизат алоприсадък, прекаран през подкожен тунел към метакарпо-фалангеалната става на палеца. Алтернативно се използва m. flexor carpi ulnaris с присадък. Възстановяването на опозицията на палеца се извършва с трансферирана единица в същия акт.
-
-Възстановяването на опозицията при ниска медианова парализа (увреда дистално от AIN) е централната хирургична задача и е предмет на множество класически техники, които си струва да бъдат запомнени:
-
-Техника на Bunnell (Z. T. Bunnell): използва се m. flexor digitorum superficialis на IV пръст като двигател. Сухожилието се прерязва по сухожилните си крачета над PIP, извлича се ретроградно през волярен разрез на дисталната предмишница и се прекарва през „лост“ около дисталния край на m. flexor carpi ulnaris (по класическото описание — заедно с шев около os pisiforme), след което се направлява в подкожен тунел през тенарната гънка до инсерционното място на m. abductor pollicis brevis.
-
-Техника на Merle d'Aubigné: чрез разрез по проксималната гънка на IV пръст се откриват крачетата на FDS IV, прерязват се възможно най-дистално; през втори малък разрез проксимално от радио-карпалната става сухожилието се извлича ретроградно над FCU. Третият разрез е по дорзоулнарния аспект на метакарпо-фалангеалната става на палеца, където крачетата се пришиват с подходящо опъване, така че палецът да заеме положение на опозиция и палмарна абдукция.
-
-Техника на Camitz (модифицирана в българската школа от Холевич и Панева, със собствени модификации на Стойчева за детска възраст): m. palmaris longus с продължение от палмарната апоневроза се транспонира в подкожен тунел до тенара — особено подходяща при carpal tunnel syndrome с тежка тенарна атрофия и при парализа в детска възраст, защото е технически проста и не жертва силен флексор. Българската модификация на Стойчева използва m. flexor carpi radialis, прерязан на границата мускул-сухожилие, обърнат на 180° дистално, прекаран подкожно през дланта по диагоналата I MCP–os pisiforme и фиксиран в инсерцията на m. opponens. Допълнителна стабилизация се осигурява чрез Киршнерова игла между I и II метакарпална кост, премахвана на 45-ия ден; поддържащата превръзка се препоръчва до 6 месеца.
-
-Техника на Littler: m. abductor digiti minimi се мобилизира на собствения си съдово-нервен сноп и се ротира палмарно през подкожен тунел до тенара — техника, ценна когато повърхностните флексори не могат да се жертват (напр. при придружаваща увреда на n. ulnaris) и когато се търси „живо“ мускулно изпъкване в тенара за козметичен резултат.
-
-Техника на Панева: чрез два надлъжни волярни разреза в дисталната предмишница се прерязват m. palmaris longus и m. flexor carpi radialis проксимално от радио-карпалната става; и двата мускула се удължават с консервирани алоприсадъци, взети с паратенон, и приплитайки шев. Удълженият PL се прекарва около FCU като „лост“, а след това през подкожен тунел в посоката на m. opponens pollicis; удълженият FCR минава в посоката на m. abductor pollicis brevis. Двата трансплантата се фиксират към метакарпалната кост и проксималната фаланга при максимална опозиция, палмарна абдукция и радиална ротация на палеца при около 20° флексия на китката.
-
-Техника на Матев (И. Матев): функционално елегантно решение, при което се възстановява не само опозицията, но и активното отвеждане; през тенарна гънка се поставя двойно пришиване — едното краче на трансплантата към инсерцията на m. extensor pollicis brevis (за поддържане на основната фаланга в екстензия), второто — към m. adductor pollicis (за стабилизация в палмарната дъга).
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Избор на opponensplasty при ниска n. medianus парализа в зависимост от клиничния контекст: запазен PL и млад пациент → Camitz (лесна, бърза); тенарна атрофия с интактен сензорен дефицит и нужда от силна функция → Bunnell с FDS-IV; съпътстваща ulnar nerve palsy → Littler (ADM), за да не се жертва FDS; детска възраст и постполиомиелитни случаи → Стойчева (тенодеза с FCR, обърнат на 180°).</p>
-</aside>
-
-## Мускулни транспозиции при парализа на n. ulnaris
-
-Целта при висока или ниска улнарна парализа е възстановяване на флексията в основните фаланги, аддукцията на палеца и абдукцията на II пръст за прецизен прехват — комплекс, чието съчетано възстановяване предотвратява прогресиращата „гриф“-деформация и слабостта в захвата.
-
-Корекция на грифозната деформация по Bunnell-Stiles: повърхностните флексори на IV и V пръст (или на четирите улнарни пръста при тотална грифа) се прерязват в близост с инсерциите им и се извличат проксимално; всяко краче се прекарва латерално около собствения си пръст и се пришива към лъчевата страна на дорзалната разтеглица на проксималната фаланга (lateral band). При деформация на всички четири пръста сухожилието на FDS на III пръст обслужва радиалната страна на III и IV пръст, а сухожилието на FDS на IV пръст — улнарната страна на IV и V. Имобилизация в гипс с флектирани MCP и разгънати IP стави за 21 дни.
-
-Техника на Brand: m. extensor carpi radialis brevis се дезинсерира от основата на III метакарпална кост, удължава се с автоприсадък от m. palmaris longus (или комбинация от два присадъка при нужда), прекарва се през интероссеалните пространства към lateral bands на четирите пръста и се пришива при флексия на MCP до 75°, неутрални IP. Brand е особено полезна при ниска ulnar palsy с допълнителна слабост в радиалния клон на FDP, защото осигурява силен синергист.
-
-Възстановяване на абдукцията на II пръст: при липса на функция на m. interosseus dorsalis I („подписване на име“ е невъзможно) m. extensor pollicis brevis или m. extensor indicis proprius се транспонират към радиалната lateral band на II пръст (по Royle-Thompson и модификации). При едновременна загуба на абдукция на показалеца и аддукция на палеца сухожилието на EI се разделя на две ленти, едната — към радиалната lateral band на II, другата — към инсерцията на m. adductor pollicis.
-
-Техника на Матев за възстановяване на флексията на основната фаланга: чрез серия от 3 малки разреза сухожилието на FDS на IV пръст се прерязва и извлича проксимално от карпалния канал, след което се прекарва отново през тунела по хода на FPL и се фиксира към основната фаланга на палеца през напречен костен канал, като двете ленти се зашиват една към друга — оригинална българска модификация при асоциация на грифа с дефицит на адукция на палеца.
-
-Възстановяване на палмарната дъга и аддукция на палеца (по Littler/Матев): с разрез проксимално от retinaculum flexorum се извлича повърхностният сгъвач на III или IV пръст; едното краче се фиксира към инсерцията на m. adductor pollicis, а другото се прекарва напречно през дланта до основата на проксималната фаланга на палеца или до шийката на V метакарпална кост, реконструирайки палмарната дъга. Алтернативно се използва свободен присадък с фиксация през костни тунели чрез снимаем телен шев.
-
-## Мускулни транспозиции при висока парализа на n. radialis
-
-Висока парализа на n. radialis означава прекъсване на нерва проксимално от мускулните клонове за разгъвачите на китката — типично в средната трета на мишницата в sulcus n. radialis (там, където нервът лежи в непосредствена близост с humerus и често се уврежда при огнестрелни наранявания, отворени фрактури или обширни сраснали с костта ръбци). При невъзможност на първичен шев или присадък (обширен дефект, лошо състояние на меките тъкани) сухожилните транспозиции се извършват без голямо отлагане — свободна нервна присадка рядко е оправдана поради големия времеви интервал до реинервация и ограничения функционален резултат.
-
-Историческото развитие на проблема започва с Franke (1898), който транспонира m. flexor carpi ulnaris към общия разгъвач на пръстите и m. flexor carpi radialis към дългия разгъвач на палеца, след предварително скъсяване на екстензорите на китката. Концепцията се развива от Perthes, Джанелидзе, Тончев, Тихонович, Jaschar (Чаклар), Merle d'Aubigné и др.
-
-Класически принципи (формулирани от Jaschar/Чаклар):
-
-1. Поне един от сгъвачите на китката трябва да бъде запазен, защото е необходим като стабилизатор на радиокарпалната става при разгъване на пръстите.
-2. Да се възстанови активна екстензия на китката — синергичното й разгъване с пръстовата флексия е условие за стабилен юмручен захват.
-3. Да се възстанови активното разгъване на основните фаланги на II–V пръст и на дисталната фаланга на палеца — общият разгъвач на пръстите и дългият разгъвач на палеца могат да се мобилизират чрез един общ двигател.
-4. Дългият и късият разгъвач на палеца са синергисти за екстензия, но антагонисти за абдукция-аддукция; затова се препоръчват отделни двигатели за късия разгъвач и абдуктора.
-
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radial-nerve-anatomy.png" data-figure-alt="Анатомия на n. radialis и PIN" aria-label="Увеличи">
-    <img src="/img/anatomy-5/radial-nerve-anatomy.png" alt="Анатомия на n. radialis и PIN" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Ход на n. radialis и PIN в горната част на предмишницата — анатомичната основа за разбирането на нивата на парализата и за планирането на транспозициите по Jaschar/Чаклар, Boyes и Franke (PT → ECRB; FCR/FCU → EDC; PL → EPL).</span>
+    <span class="md-figure-caption">Ход на радиалния нерв и неговия дълбок двигателен клон (заден междукостен нерв, PIN) в горната част на предмишницата: разклоняването на нивото на главичката на radius на повърхностен сетивен клон под brachioradialis и дълбок двигателен клон, преминаващ през supinator при аркадата на Frohse. Това е критичната зона на риск при достъпите по Хенри и Томпсън и анатомичната основа за позицията на предмишницата при дисекцията (супинация при волярен достъп, пронация при дорзален).</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray420.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Транспозициите по Jaschar/Чаклар: m. pronator teres → екстензорите на китката (ECRL/ECRB); m. flexor carpi ulnaris → m. extensor digitorum communis + m. extensor pollicis longus; m. palmaris longus (или повърхностен флексор на III или IV пръст при липса на PL) → m. abductor pollicis longus + m. extensor pollicis brevis.
+**Радиален нерв и неговите клонове.** Навлиза в предмишницата отпред на латералния епикондил, в интервала между brachialis (медиално) и brachioradialis (латерално), и на нивото на главичката на radius се разделя на:
 
-Транспозиции по Boyes: m. pronator teres → ECRB (екстензия на китка); m. flexor carpi radialis → m. abductor pollicis longus + m. extensor pollicis brevis; повърхностен флексор на III пръст (през отвор в membrana interossea) → m. extensor digitorum communis; повърхностен флексор на IV пръст (също през интероссеалния отвор) → m. extensor pollicis longus + m. extensor indicis proprius. Boyes е технически по-взискателна, но осигурява независимо разгъване на палеца и сегментно фино управление, особено полезно за тренирани пациенти и музиканти.
+Повърхностен сетивен клон — продължава дистално под brachioradialis, излиза подкожно на границата между средната и дисталната трета на предмишницата (около 9 cm проксимално от processus styloideus radii) и осигурява сетивна инервация на дорзорадиалната половина на гривната и на гърба на палеца, показалеца, средния и лъчевата половина на безименния пръст проксимално от дисталната интерфалангеална става.
 
-При ниска парализа на n. radialis (увреда дистално от мускулните клонове за ECRL/ECRB, най-често като синдром на PIN с увреда на разгъвачите на пръстите при запазено разгъване на китката) най-често се извършва m. flexor carpi radialis (или FCU) → EDC + EPL през класическата дорзална трансверзална трансфер-плоскост. Тъй като екстензорите на китката са синергисти на флексорите на пръстите, не на екстензорите им, някои автори предпочитат при ниските парализи да транспонират FCU към екстензорите по типичен начин, а ECRL — към абдукторите на палеца.
+Дълбок двигателен клон (заден междукостен нерв, PIN) — навлиза в supinator през аркадата на Frohse (фиброзният проксимален ръб на повърхностната глава на мускула), описва дъга от около 4–5 cm в супинаторния канал и излиза на дорзалната повърхност на междукостната мембрана на около 9–11 cm дистално от латералния епикондил, или на 1–2 cm над дисталния ръб на supinator. PIN инервира екстензорите и абдукторите на палеца, екстензора на показалеца и общия екстензор на пръстите.
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>„Стандартен“ pattern за висока n. radialis (PT-FCR/FCU-PL): pronator teres → ECRB (китков екстензор); FCR (или FCU при Boyes) → EDC; PL → EPL вплетен с rerouting от 3-ия канал. При липса на PL вторият двигател се търси във FDS на III или IV. Pre-op condition: пасивен flexion–extension на пръсти и китка трябва да е възстановен; pronator teres и FCR трябва да са MRC ≥4. Имобилизация в 30° дорзална флексия на китката + MCP в умерена флексия за 4 седмици.</p>
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Аркадата на Frohse при проксималния ръб на supinator е зоната с най-висок риск за заден междукостен нерв при достъп до проксималния radius. Пълна супинация на предмишницата при волярния достъп по Хенри измества нерва медиално, далеч от collum radii; пълна пронация при дорзалния достъп по Томпсън го измества лъчево.</li>
+    <li>Повърхностният клон на радиалния нерв излиза подкожно на около 9 cm проксимално от processus styloideus radii — кожният разрез по радиалния ръб на дисталната предмишница (включително волярният достъп до дисталния radius) рискува болезнен невром при срязване на клона.</li>
+    <li>Мускулните влакна на supinator не бива да се разцепват в проксималната им част, защото това директно поставя задния междукостен нерв на острието; достъпът до collum radii от дорзалната страна изисква отделяне в дисталната трета на мускула или субпериостално под пълна пронация на предмишницата.</li>
+  </ul>
 </aside>
 
-## Компресивна остеосинтеза с плака на двете кости на предмишницата
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/median-nerve-sensory.png" data-figure-alt="Сензорна зона на средничния нерв в ръката" aria-label="Увеличи">
+    <img src="/img/anatomy-5/median-nerve-sensory.png" alt="Сензорна зона на средничния нерв в ръката" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Сензорна зона на средничния нерв в ръката: палмарната повърхност на палеца, показалеца, средния пръст и лъчевата половина на безименния пръст; характерна загуба при синдром на карпалния канал или при дискретно прерязване на нерва над китката, разпознаваема при детайлен сетивен преглед.</span>
+    <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Median_nerve_hand_sensitive_zone.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
+  </figcaption>
+</figure>
+
+**Средничен нерв и преден междукостен нерв.** Средничният нерв навлиза в предмишницата между двете глави на pronator teres (където може да бъде притиснат при синдрома на pronator teres), преминава под фиброзната дъга на flexor digitorum superficialis и продължава между нея и flexor digitorum profundus по средната ос на предмишницата. В областта на китката минава под flexor retinaculum в карпалния канал.
+
+Предният междукостен нерв се отделя на около 5–8 cm дистално от медиалния епикондил, върви по волярната повърхност на междукостната мембрана и инервира flexor pollicis longus, лъчевата половина на flexor digitorum profundus (за показалеца и средния пръст) и pronator quadratus. Чисто двигателен нерв — парезата на предния междукостен нерв (синдром на Kiloh-Nevin) се разпознава по невъзможност за образуване на знак „ОК“ между палеца и показалеца (загуба на flexor pollicis longus и на лъчевата половина на flexor digitorum profundus).
+
+**Лакътен нерв.** Навлиза в предмишницата през кубиталния канал между двете глави на flexor carpi ulnaris (хумерална и улнарна). Върви дълбоко под flexor carpi ulnaris, улнарно от flexor digitorum profundus, инервира двата мускула (хумералната глава на flexor carpi ulnaris и медиалната половина на flexor digitorum profundus за безименния и малкия пръст), отдава дорзален сетивен клон на границата между средната и дисталната трета (за дорзоулнарната половина на гривнената и за гърба на малкия и улнарната половина на безименния пръст проксимално от дисталната интерфалангеална става), и продължава в канала на Guyon в областта на китката.
+
+**Артериална анатомия.** Brachialis se разделя на нивото на collum radii на лъчева и улнарна артерия. *Лъчева артерия* — върви по лъчевия ръб, дълбоко под brachioradialis в проксималните две трети и повърхностно в дисталната трета (където е лесно палпируема за пулсова проверка); основният съд в интервала на Хенри. *Улнарна артерия* — върви по улнарния ръб, дълбоко под flexor carpi ulnaris; в проксималната трета артерията и нервът са разделени от мускулна тъкан и сходят в общ сноп едва дистално (практически важно при ревизия на улнарна травма, при която нервът може да не съпровожда артерията в проксималната рана). *Обща междукостна артерия* — отделя се от улнарната, разделя се на преден междукостен ствол (върви с предния междукостен нерв по волярната повърхност на междукостната мембрана) и заден междукостен ствол (върви със задния междукостен нерв в дорзалния компартмент).
+
+</div>
+</details>
+
+<details id="pirogov">
+<summary>Дълбоко волярно пространство на Пирогов</summary>
+<div class="ts-body">
+
+В дисталната трета на волярния компартмент се оформя специфичното пространство, описано от Н. И. Пирогов — *spatium antebrachii profundum* — с дължина 5–6 cm, ограничено отзад от междукостната мембрана и pronator quadratus, а отпред — от flexor digitorum profundus и flexor pollicis longus. Пространството съдържа рехава съединителна тъкан, която се свързва нагоре с предмишничните слоеве и надолу — със съдържимото на карпалния канал, формирайки непрекъснат канал между ръката и предмишницата.
+
+Клиничното значение е централно при гнойни процеси: волярни флегмони на ръката се разпространяват ретроградно през карпалния канал в пространството на Пирогов; V-образен теносиновит (преминаваща инфекция между лъчевата и улнарната бурса през пространството) е класическият механизъм на бързо разпространение на флексорна инфекция от палеца към малкия пръст и обратно. Адекватният хирургичен дренаж изисква обширна волярна предмишнична инцизия с разтоварване на карпалния канал, експозиция на пространството чрез повдигане на flexor digitorum profundus и flexor pollicis longus от мембраната и кюретиране на гранулационната тъкан с дренаж за 5–7 дни.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Пропуснат дренаж на пространството на Пирогов при волярен флегмон на ръката води до възходящо разпространение на инфекцията към предмишницата с риск от сепсис и до некроза на дълбоките флексори с последващ функционален еквивалент на контрактура на Volkmann.</li>
+    <li>Дренажът се извършва през пълнообхватна волярна инцизия с разтоварване на карпалния канал — не през изолирани „минимални“ разрези в дланта, които не достигат пространството.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="landmarks">
+<summary>Повърхностна анатомия и ориентири</summary>
+<div class="ts-body">
+
+Предната предмишнична област се ограничава между линия, разположена около 6 cm под епикондилите на humerus, и линия на около 3 cm над дисталната кожна гънка на китката. Кожата по волярната страна е тънка, подвижна, окосмена в лъчевата половина; подкожието съдържа лъчевата подкожна вена в лъчевата част (придружена от страничния кожен антебрахиален нерв — терминалния клон на musculocutaneous), улнарната подкожна вена в улнарната част (с медиалния кожен антебрахиален нерв) и срединна антебрахиална вена по средната ос. Собствената фасция продължава брахиалната, сраства с медиалния ръб на ulna и отдава междумускулни прегради, които оформят страничното (мобилно тяло) и предното фасциално ложе.
+
+Палпиращи се ориентири: tuberositas radii за нивото на разклоняване на радиалния нерв (приблизително collum radii); сухожилието на двуглавия мускул проксимално за началото на достъпа по Хенри; processus styloideus radii дистално; processus styloideus ulnae с нормално около 1–2 mm дистално положение от лъчевия (улнарна вариация — положителна или отрицателна — се оценява на стандартна задно-предна рентгенограма). Подкожен ръб на ulna — палпиращ се по цялата дължина между olecranon и улнарния стилоиден израстък; линия на пряк улнарен достъп.
+
+Проекционни линии: лъчева артерия — от точка на 1,5 cm латерално от средата на междукондилната линия до точка на 1,5 cm медиално от processus styloideus radii. Улнарна артерия в горната трета — от точка на 0,5 cm латерално от средата на лакътната гънка до медиалния ръб на pisiform. Лакътен нерв — линия между медиалния епикондил и pisiform. Среден нерв — медиална граница на сухожилието на двуглавия мускул проксимално до средата между двата стилоидни израстъка дистално.
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="pathophysiology">
+<details>
+<summary>Патофизиология и механизъм</summary>
+<div class="ts-body">
+
+**Остра компартмент-исхемия.** Класическият патогенетичен механизъм на исхемичната контрактура на Volkmann е остра елевация на тъканното налягане в затворен фасциален компартмент над нивото на капилярно перфузионно налягане (60–80 mmHg при абсолютни стойности или налягане в 30 mmHg под диастоличното при разлика налягане). Причини в предмишницата: супракондилна хумерална фрактура у дете с прекомерна елевация на лакътя в гипс, разкъсване на брахиалната артерия, тежко смачкване, циркулярен гипс или превръзка, екстравазация на интравенозен инфузат, реперфузия след продължителна исхемия, кървене във волярното ложе при коагулопатия. Първична исхемия на повърхностните флексори и дълбоко на flexor digitorum profundus с flexor pollicis longus води до миофиброзна некроза („волярно компактно ядро“ на Seddon), което при оживяване на повърхностните слоеве и фиброзно заместване на дълбоките създава характерната конфигурация на оформената контрактура — пронация на предмишницата, флексия на китката, флексия на интерфалангеалните стави с тенарна атрофия при едновременно увредени средничен и лакътен нерв.
+
+**Синдром на pronator teres.** Компресия на средничния нерв между двете глави на pronator teres, под lacertus fibrosus или под аркадата на flexor digitorum superficialis. Провокирана от повтаряемо пронаторно усилие, проявяваща се с дисестезия в зоната на средничния нерв, болки във волярната проксимална предмишница и нощни събуждания. От синдрома на карпалния канал се разграничава по запазена сетивност в палмарната кожна зона (палмарният кожен клон на средничния нерв излиза проксимално от китката, преди карпалния канал, но дистално от pronator teres).
+
+**Синдром на Kiloh-Nevin (пареза на предния междукостен нерв).** Спонтанна или травматична увреда на предния междукостен нерв с парализа на flexor pollicis longus и лъчевата половина на flexor digitorum profundus (за показалеца), при запазена сетивност. Класически тест — невъзможност за образуване на знак „ОК“ между палеца и показалеца; пациентът компенсира с междуфалангеална хиперекстензия в опит за щипка.
+
+**Синдром на задния междукостен нерв.** Компресия на дълбокия двигателен клон на радиалния нерв при аркадата на Frohse, в самия supinator (особено при разширен fibrous edge), от липома по collum radii или от посттравматична деформация. Парализира екстензорите на пръстите и палеца при запазено разгъване на китката (поради инервация на extensor carpi radialis longus от радиалния нерв проксимално от компресията) и при запазена сетивност (изцяло двигателен нерв). Радиалното отклонение на китката е характерно поради еднопосочна функция на extensor carpi radialis longus.
+
+**Синдром на радиалния тунел.** Чисто болков еквивалент на компресията при аркадата на Frohse, без двигателен или сетивен дефицит. Разграничава се от страничния епикондилит по локализацията на максималната болка — 3–5 cm дистално от латералния епикондил вместо в самия него.
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="clinical">
+<details>
+<summary>Клиника и диагностика</summary>
+<div class="ts-body">
+
+**Остра компартмент-исхемия — петте признака.** Систематизирани в българската ортопедична литература като „петте P“: непреодолима болка, несъответстваща на травмата (pain), напрегнатост на компартмента (pressure), бледност или посиняване (pallor), парестезии и изтръпване (paresthesia) и невъзможност за пасивно разгъване на пръстите (passive stretch pain — най-надеждния ранен знак). Загубата на пулс на лъчевата артерия е късен признак — наличието на пулс не изключва остра исхемия. Тъканното налягане се измерва с електронен манометър (Stryker, Whitesides) с пробиване в трите компартмента на нивото на максимална клинична болка; стойност над 30 mmHg при наранена крайник или разлика налягане под 30 mmHg от диастоличното са показание за фасциотомия.
+
+**Установена контрактура на Volkmann.** Пронация на предмишницата, флексия на китката, флексия на дисталните интерфалангеални стави при флексирано MCP („intrinsic-minus“ или „вътрешна минус“ позиция). Сетивен дефицит в зоната на средничния и лакътния нерв при тежки форми. Тестът на Volkmann (екстензия на пръстите при флексирана китка → екстензия възможна; при разгъната китка → невъзможна) разграничава фиксираната флексия на пръстите от свободна, дължаща се на скъсяване на флексорите.
+
+**Класически тестове за нервите.**
+- Знак „ОК“ — невъзможен при пареза на предния междукостен нерв.
+- Тест на Froment (захват на лист хартия между палец и показалец) — положителен при пареза на лакътния нерв (компенсация чрез flexor pollicis longus).
+- Тест на Phalen и тест на Tinel — провокират симптоматика при синдром на карпалния канал.
+- Тест на Spurling — за дискогенна радикулопатия като причина за дистална симптоматика.
+- Знак на Hoffmann-Tinel по хода на нерва — за невром при увреждане или регенерация.
+
+**Образно изследване.** Стандартна задно-предна и странична рентгенография на предмишницата с включване на лакътна и гривнена става (за изключване на „пропусната“ Монтеджа или Галеаци — закон на двете стави). Компютърна томография при сложни фрактури с интраставно засягане и при оценка на остеотомична деформация. Ядрено-магнитен резонанс при подозрение за тумор, инфекция, синдром на pronator teres, синдром на радиалния тунел и при оценка на меките тъкани след травма. Електродиагностично изследване (електромиография и нервна проводимост) при подозрение за нервен синдром, посттравматична увреда и при планиране на сухожилен трансфер за оценка на двигателните единици на потенциалните мускули-донори.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Загубата на пулс на лъчевата артерия е КЪСЕН признак на остра компартмент-исхемия — наличието на пулс не изключва диагнозата и не оправдава отлагане на фасциотомията.</li>
+    <li>„Пропусната“ дислокация на главата на radius при Монтеджа е честа грешка — задължителна рентгенография с включена лакътна става при всяка фрактура на ulna и оценка на правилото на Storen (линия през середината на radius пресича capitulum humeri независимо от позицията).</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="classification">
+<details>
+<summary>Класификация</summary>
+<div class="ts-body">
+
+**Контрактура на Volkmann по Tsuge.** Класификацията на Tsuge (1975) разделя установената исхемична контрактура на три тежестни групи и определя оперативната тактика. *Лек тип* — фокална некроза, обхващаща част от flexor digitorum profundus (обикновено за безименния и средния пръст) при запазени flexor pollicis longus и flexor digitorum profundus за показалеца; обикновено без неврологичен дефицит; функционална реконструкция чрез невролиза с или без подхлъзване на флексорната маса по Page-Scaglietti. *Умерен тип* — некроза на по-голяма част от flexor digitorum profundus и на flexor pollicis longus, обикновено с дефицит на средничния и/или лакътния нерв; невролиза, ексцизионна процедура по Seddon, сухожилен трансфер на flexor digitorum superficialis към flexor digitorum profundus (трансфер на Епщайн-Розов). *Тежък тип* — некроза на повърхностния и дълбокия флексорен слой с тежка фиброза; функционална реконструкция чрез радикално ексцизиране на некрозата с трансфер на свободен функционален мускул (gracilis при съвременна тактика) или артродеза на китката с активна щипкова функция от запазени елементи.
+
+**Фрактура на Монтеджа по Bado.** Класификацията на Bado (1967) описва четири типа според посоката на дислокация на главичката на radius при фрактура на ulna. *Тип 1* — диафизарна фрактура на ulna с предна дислокация на главичката (60% от случаите при възрастни). *Тип 2* — диафизарна фрактура на ulna с задна дислокация (15%; характерна за възрастни и за хора с остеопороза). *Тип 3* — метафизарна фрактура на ulna с латерална дислокация (20%; характерна за детска възраст). *Тип 4* — диафизарни фрактури и на двете кости с предна дислокация на главичката (рядка, тежка). Принципът на лечението — анатомична остеосинтеза на ulna автоматично редуцира главичката, освен при интерпозиция на капсула или ligamentum anulare.
+
+**Фрактура на Галеаци.** Диафизарна (типично дистална трета) фрактура на radius с дислокация в дисталната радиоулнарна става; наричана „фрактура на необходимостта“, защото нестабилността задължава вътрешна фиксация дори при възрастни. Класификация: *стабилен тип* — DRUJ редуцируема и стабилна след плакова остеосинтеза на radius (около 60%); *нестабилен тип* — налага транс-фиксация на DRUJ с Kirschner-спица или поправка на свързаните стабилизатори (улнарен стилоиден израстък с triangular fibrocartilage, волярен или дорзален радиоулнарен лигамент).
+
+**Деформация на Madelung.** Двустранна (по-често) или едностранна частична агенезия на волярно-улнарната епифизарна плочка на дисталния radius с компенсаторно дорзално луксиране на дисталната ulna. Класически клинико-рентгенологични критерии: лъчево отклонение по-голямо от 30°, волярна наклоненост по-голяма от 25°, отрицателна улнарна вариация. Класификация на тежестта по Vickers — лека (видим симптоматичен Vickers-лигамент при ядрено-магнитен резонанс, минимална рентгенологична деформация), умерена (рентгенологична деформация без артроза), тежка (дегенеративна артроза на DRUJ).
+
+**Класификация на достъпите.** Волярни (Хенри); дорзални (Томпсън, заден на дисталния radius между трети и четвърти екстензорен канал, заден на проксималния radius по Cadenat); медиален подкожен (директен улнарен); комбинирани (волярен достъп до дисталния radius за поставяне на плака при остеосинтеза на дисталния radius с волярно отворен стенопис).
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="treatment">
+<details>
+<summary>Лечение</summary>
+<div class="ts-body">
+
+<details id="nonoperative">
+<summary>Консервативно</summary>
+<div class="ts-body">
+
+Консервативното лечение на затворени фрактури на предмишницата заема ограничена ниша при възрастни — стабилни и неизместени или ангулирани под 10° дистални Colles-фрактури, отделни изолирани фрактури на ulna („nightstick fracture“) с ангулация под 10° и без скъсяване, и фрактури на главичката на radius тип 1 по Mason без блок на ротацията.
+
+При деца консервативното лечение остава основен подход за повечето диафизарни фрактури благодарение на мощния потенциал за ремоделиране — приетото скъсяване е до 1 cm, приетата ангулация в сагиталната равнина е до 15° при деца под 8 години и до 10° между 8 и 12 години; ремоделирането на ротационни деформации е минимално, така че всяка ротационна неконгруентност е показание за корекция. Имобилизацията се извършва в дълъг гипс над лакътя с лакът в 90° флексия и предмишница в неутрална позиция при двукостни фрактури, в супинация при изолирана дистална фрактура на radius (за противодействие на тегленето от brachioradialis) и в пронация при горна изолирана фрактура на radius (за противодействие на тегленето на supinator и biceps). Контролни рентгенографии на седмица 1, 2 и 4 — изместване над приетото изисква оперативна корекция.
+
+При свежи Colles-фрактури с приета редукция гипсът се поддържа за 4–6 седмици в неутрална позиция на китката с лека улнарна девиация; ранна функционална гимнастика на пръстите за избягване на скованост; ранна мобилизация на лакъта за избягване на скованост.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Дълъг гипс над лакътя задължителен при всяка диафизарна фрактура на предмишницата у възрастен и дете — къс гипс под лакътя не контролира ротацията.</li>
+    <li>Циркулярен гипс при свежа фрактура — задължително разцепен по дължина (univalve или bivalve) за позволяване на оток в първите 48–72 часа; рискът от остра компартмент-исхемия при прекомерно стегнат гипс е реален и неприемлив.</li>
+    <li>Закон на двете стави — задължителна рентгенография на лакътна и гривнена става при всяка фрактура на предмишницата за изключване на „пропусната“ Монтеджа или Галеаци.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details id="operative">
+<summary>Оперативно</summary>
+<div class="ts-body">
+
+<details>
+<summary>Достъп по Хенри (волярен) до radius</summary>
+<div class="ts-body">
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/henry-volar-anatomy.png" data-figure-alt="Волярна анатомия — основа на достъпа по Хенри" aria-label="Увеличи">
+    <img src="/img/anatomy-5/henry-volar-anatomy.png" alt="Волярна анатомия — основа на достъпа по Хенри" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Повърхностна волярна мускулна анатомия на предмишницата: brachioradialis латерално и flexor carpi radialis медиално — интервалът, използван от достъпа по Хенри за експозиция на цялата дължина на radius. Лъчевата артерия върви между двата мускула, малко улнарно — тя се идентифицира и щади, без да се мобилизира агресивно.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray418.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+Описан от A. K. Henry (1927) и наложен от *Extensile Exposure* (1945) като универсалния волярен достъп до radius. Покрива цялата дължина на костта в един разрез; стандартен при компресивна остеосинтеза на диафизарни фрактури, при волярно плаково фиксиране на фрактури на дисталния radius, при биопсия и при туморна резекция в предмишничната област.
+
+**Позициониране.** Пациентът по гръб с горния крайник върху ръчна маса, рамо в около 70° абдукция, лакът в пълна екстензия, предмишница в пълна супинация. Турникет на проксималната мишница на 250 mmHg след екссангвинация на крайника (изключение — спешна фасциотомия за остра компартмент-исхемия, при която турникет не се прилага).
+
+**Интернервна плоскост.** Между brachioradialis (радиален нерв) и flexor carpi radialis (среден нерв) — истинска интернервна плоскост, разширяема по цялата дължина.
+
+**Ориентири и разрез.** Линия от сухожилието на двуглавия мускул проксимално (или от лакътната гънка) до processus styloideus radii дистално. Кожният разрез следва линията на необходимото протежение — кратък при отворена редукция на изолирана средна-трета фрактура, дълъг при туморна резекция или при обширна остеосинтеза.
+
+**Техника.** Кожа и подкожие — внимание към латералната подкожна вена и към повърхностните клонове на радиалния нерв в дисталната трета. Дълбоката фасция се отваря по хода на разреза. Brachioradialis се ретрахира латерално, flexor carpi radialis медиално. Лъчевата артерия се идентифицира в интервала и се щади; в проксималната трета артерията отдава лъчева рекурентна артерия, която при необходимост от широка експозиция се лигира за по-висока мобилизация на brachioradialis. *Проксимална трета.* Идентификация на supinator, покриващ collum radii. Достъпът до костта изисква дезинсерция на supinator от лъчевото му захващане при ПЪЛНА супинация на предмишницата, която измества задния междукостен нерв медиално, далеч от полето. Дисекцията се води субпериостално от лъчевия ръб на костта към улнарния. *Средна трета.* Дезинсерция на сухожилието на pronator teres от лъчевото му захващане в средата на диафизата; субпериостална мобилизация. *Дистална трета.* Освобождаване на pronator quadratus от лъчевото му захващане в дисталната трета, рефлектиране улнарно за експозиция на волярната повърхност на дисталния radius чак до волярната кортикална гладкост в проекцията на гривнената става.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>ПЪЛНА супинация на предмишницата при работа на проксималната трета — измества задния междукостен нерв медиално, далеч от лъчевия ръб на collum radii.</li>
+    <li>Субпериостална дезинсерция на supinator от лъчевото му захващане, не разцепване на мускула — последното директно поставя задния междукостен нерв на острието.</li>
+    <li>Лъчевата рекурентна артерия (клон на лъчевата) пресича оперативното поле в проксималната трета и при необходимост от широка експозиция се лигира за по-висока мобилизация на brachioradialis.</li>
+  </ul>
+</aside>
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Повърхностният клон на радиалния нерв излиза подкожно на около 9 cm проксимално от processus styloideus radii — кожният разрез по радиалния ръб на дисталната предмишница рискува болезнен невром при срязване на клона; внимателно подкожно отделяне с щадене на видимите клонове.</li>
+    <li>Грешна позиция (пронация вместо супинация) при работа на проксималния radius поставя задния междукостен нерв директно в полето на дисекцията — една от най-честите причини за ятрогенна пареза на разгъвачите на пръстите.</li>
+    <li>Лъчевата артерия в дисталната трета е повърхностна — внимателно ретрахиране без агресивни самозадържащи ретрактори.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Достъп по Томпсън (дорзален) до radius</summary>
+<div class="ts-body">
+
+<figure class="md-figure">
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/thompson-dorsal-anatomy.png" data-figure-alt="Дорзална анатомия — основа на достъпа по Томпсън" aria-label="Увеличи">
+    <img src="/img/anatomy-5/thompson-dorsal-anatomy.png" alt="Дорзална анатомия — основа на достъпа по Томпсън" loading="lazy" decoding="async" />
+  </button>
+  <figcaption>
+    <span class="md-figure-caption">Дорзална мускулна анатомия: интервалът между extensor carpi radialis brevis (инервиран от радиалния нерв) и extensor digitorum (инервиран от задния междукостен нерв), използван от достъпа по Томпсън. Ходът на задния междукостен нерв през supinator при аркадата на Frohse е структурата с най-висок риск при дисекцията.</span>
+    <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray421.png" target="_blank" rel="noopener noreferrer">PD</a></span>
+  </figcaption>
+</figure>
+
+Описан от J. E. Thompson (1918) за заден достъп до проксималната половина на radius. Предпочитан пред достъпа по Хенри при проксимални фрактури на radius, при селекционирани случаи на тумори и при състояния, при които волярната страна е компрометирана от меките тъкани (изгаряния, кожни дефекти).
+
+**Позициониране.** Пациентът по гръб с горния крайник на ръчна маса, рамо в 90° абдукция, лакът в 90° флексия, предмишница в пълна пронация. Алтернативно — крайник пресечен пред гръдния кош на дорзалната повърхност нагоре. Турникет на проксималната мишница.
+
+**Интернервна плоскост.** Между extensor carpi radialis brevis (радиален нерв) и extensor digitorum (заден междукостен нерв) — истинска интернервна плоскост в проксималната половина; в дисталната половина се преминава между extensor carpi radialis brevis и общия екстензор по тяхната естествена фасциална граница.
+
+**Ориентири и разрез.** Линия от латералния епикондил до tuberculum dorsale на дисталния radius (туберкул на Lister). Кожният разрез следва линията.
+
+**Техника.** Кожа и подкожие. Дълбоката фасция се отваря и интервалът между extensor carpi radialis brevis (лъчево) и extensor digitorum (улнарно) се разработва тъпо. *Проксимална трета.* Supinator се открива, покривайки проксималния radius. Задният междукостен нерв навлиза в supinator при аркадата на Frohse и излиза на дорзалната повърхност на междукостната мембрана на около 9–11 cm дистално от латералния епикондил. Идентификацията на нерва е задължителна — той се проследява нагоре, екартира лъчево, и едва тогава supinator се отделя субпериостално от радиалния ръб на collum radii ПРИ ПЪЛНА ПРОНАЦИЯ на предмишницата (която измества нерва допълнително лъчево). *Средна трета.* Дезинсерция на abductor pollicis longus и extensor pollicis brevis от косия им произход на radius и улнарно ретрахиране с extensor digitorum. *Дистална трета.* Дорзалният достъп до дисталния radius (между третия и четвъртия костно-фиброзен канал) е отделна процедура — виж по-долу.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Дължина на хода на задния междукостен нерв в supinator: около 4–5 cm; изход на дорзалната повърхност — 9–11 cm дистално от латералния епикондил или 1–2 cm над дисталния ръб на мускула.</li>
+    <li>Пълна пронация на предмишницата при работа на проксималната трета по дорзалния достъп — измества задния междукостен нерв лъчево, далеч от полето на дисекцията.</li>
+    <li>Идентификация на задния междукостен нерв задължителна преди отделянето на supinator — нерв в полето трябва да бъде видян, не приет, преди да бъде защитен.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Директен улнарен достъп</summary>
+<div class="ts-body">
+
+Подкожният заден ръб на ulna позволява прав хирургичен коридор без необходимост от интермускулна дисекция. Стандарт при плакова остеосинтеза на изолирани диафизарни фрактури на ulna, при скъсяваща остеотомия за ulnar impaction syndrome, при туморна резекция и при биопсия.
+
+**Позициониране.** Пациентът по гръб с горния крайник на ръчна маса, предмишница в неутрална или лека супинация — позиция, която изважда подкожния ръб най-нагоре.
+
+**Ориентири и разрез.** Подкожен ръб на ulna от olecranon до processus styloideus ulnae. Кожният разрез — прав, директно над ръба, със съответната дължина.
+
+**Техника.** Кожа и подкожие. Дълбоката фасция се отваря директно над ръба. Flexor carpi ulnaris (с лакътния нерв в дълбочина) се ретрахира улнарно; extensor carpi ulnaris се ретрахира лъчево. Субпериостална дисекция от двете страни на ръба експонира улнарната диафиза.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Дорзалният кожен клон на лакътния нерв минава по улнарната страна на предмишницата на границата между средната и дисталната трета — щаденето му предотвратява болезнен невром в дорзалноулнарната китка.</li>
+    <li>При едновременна остеосинтеза на двете кости на предмишницата директният улнарен достъп се прилага паралелно с достъп по Хенри през ОТДЕЛЕН разрез — не през един обединен заден разрез по Cadenat поради риска от радиоулнарна синостоза.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Заден достъп до двете кости по Cadenat</summary>
+<div class="ts-body">
+
+Описан за едновременен достъп до radius и ulna при тежки двукостни травми, при огнестрелни наранявания и при туморни резекции с обширно увреждане. В съвременната практика се прилага рядко поради повишения риск от радиоулнарна синостоза, но остава познат в българската школа и релевантен при сегментни дефекти на двете кости.
+
+**Позициониране.** Пациентът по гръб с предмишница в пронация.
+
+**Техника.** Кожният разрез следва задния ръб на ulna; подкожното положение позволява пряко субпериостално оголване. Мускулите, инсериращи се на задната повърхност на ulna, се отделят субпериостално до достигане на междукостната мембрана, която заедно с дисталния ръб на supinator служи като ориентир за пресичане към задната повърхност на radius. Supinator се дезинсерира от radius, екартира се внимателно за защита на задния междукостен нерв, а abductor pollicis longus, extensor pollicis brevis и extensor pollicis longus се отделят субпериостално и се повдигат от radius.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Едновременна остеосинтеза на двете кости през ЕДИН дорзален разрез по Cadenat носи реален риск от радиоулнарна синостоза — два отделни разреза (Хенри за radius и директен улнарен за ulna) са биомеханично по-сигурната тактика.</li>
+    <li>При двунивови или сегментни фрактури с необходимост от обща експозиция остеосинтезата на radius предхожда тази на ulna, за да се възстанови първо радиалната дъга и след това да се възстанови правилната дължина на ulna.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Достъп до съдово-нервните стволове на предмишницата</summary>
+<div class="ts-body">
+
+**Лъчева артерия.** Класическата проекционна линия — от точка на 1,5 cm латерално от средата на междукондилната линия до точка на 1,5 cm медиално от processus styloideus radii. Прилага се при директен съдов достъп за артериовенозни фистули за диализа, при артериален графт за коронарен байпас (предоперативен Allen-тест за оценка на колатералната циркулация), при експлорация на проникваща травма и при туморна биопсия. Достъпът се прави в супинация по линията; фасцията се отваря с особено внимание в дисталната трета, където артерията е повърхностна. В интервала между brachioradialis (лъчево) и flexor carpi radialis (улнарно) се открива съдът заедно с двете коморни вени и пакетът се мобилизира за необходимата дължина.
+
+**Улнарна артерия и улнарен нерв.** Проекция на лакътния нерв — линия между медиалния епикондил и pisiform. Проекция на улнарната артерия в горната трета — от точка на 0,5 cm латерално от средата на лакътната гънка до медиалния ръб на pisiform. Кожният разрез се удължава по латералния ръб на flexor carpi ulnaris; фасцията се отваря, мускулът се екартира медиално и в дълбочина се откриват улнарната артерия (медиално) и лакътният нерв (леко улнарно от артерията).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>В горната трета на предмишницата улнарната артерия и лакътният нерв са разделени от значителна интерпозиция на мускулна тъкан и сходят в общ сноп едва дистално — практически важно при ревизия на улнарна артериална травма, при която нервът може да не съпровожда артерията в проксималната рана.</li>
+    <li>Предоперативен Allen-тест преди откриване на лъчевата артерия за коронарен байпас или за артериовенозна фистула — задължителен за изключване на изолирана лъчева доминантна циркулация.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Декомпресивна фасциотомия при остра компартмент-исхемия</summary>
+<div class="ts-body">
+
+Острата компартмент-исхемия на предмишницата е спешно състояние с прозорец за обратимост от 4–6 часа от настъпване на исхемията. Показанието за фасциотомия е клинично или мониторно — персистираща характерна симптоматика повече от 30–60 минути след освобождаване на външен натиск (циркулярен гипс, превръзки), разгъване на лакътя и елевация на крайника, или измерено налягане над 30 mmHg в наранен крайник или разлика налягане под 30 mmHg от диастоличното.
+
+**Позициониране.** Пациентът по гръб с горния крайник на ръчна маса в супинация. Турникет НЕ се прилага — той компрометира оставащата перфузия и маскира клиничната оценка.
+
+**Техника на волярната фасциотомия (българска техника по Бойчева).** Кожният разрез започва над лакътната гънка медиално от сухожилието на двуглавия мускул, продължава волярно през предмишницата по криволинейна (зигзаговидна) траектория, която избягва прави линии през ставите, и завършва на нивото на радиокарпалната гънка, преминавайки косо през проекцията на карпалния канал. Силно опънатата дълбока фасция се срязва с достатъчна латерална протяжност, така че предното мускулно ложе да се освободи изцяло. Под lacertus fibrosus се прониква и той се срязва. Постепенно се освобождават епимизиумите на отделните мускули — повърхностният и дълбокият флексорен слой, flexor pollicis longus и pronator quadratus — като се евакуира хематом от предното ложе. Експонира се брахиалната артерия под лакъта; ако след параартериална блокада с lokalanестетик не се възстанови пулс, артерията се проследява дистално и се ревизира за притискане от костни фрагменти или интравазална тромбоза (показание за тромбектомия или резекция на тромбозирания участък).
+
+**Дорзална фасциотомия и фасциотомия на мобилно тяло.** Допълнителен прав или леко криволинеен разрез по средата на дорзалната повърхност на предмишницата освобождава дорзалния компартмент и мобилно тяло. При нужда се добавя декомпресия на карпалния канал в дисталния край на волярния разрез.
+
+**Затваряне.** Раната по правило НЕ се затваря първично — кожата се оставя отворена за вторичен шев на ден 5–10 или се покрива с разделящ присадък при изразено напрежение на меките тъкани. Следоперативно крайникът се обездвижва в дорзална флексия на китката и разгънати пръсти.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Турникет НЕ се прилага при фасциотомия за остра компартмент-исхемия — той маскира клиничната оценка и компрометира маргиналната перфузия.</li>
+    <li>Декомпресията на средничния нерв (lacertus fibrosus проксимално, fibrous arch на flexor digitorum superficialis, аркада на pronator teres и карпален канал дистално) е задължителен компонент — нерв-засегнат компартмент-синдром не се решава само с фасциотомия на ложето.</li>
+    <li>Раната се оставя отворена за вторичен шев; първично затваряне след остра фасциотомия е грешка, водеща до рекомпресия и провал на интервенцията.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Реконструкция при оформена контрактура на Volkmann</summary>
+<div class="ts-body">
+
+При закъсняла диагноза или неадекватна първична декомпресия се развива зрялата исхемична контрактура на Volkmann — фиброзно заместване на флексорите с ретракция, пронация на предмишницата, флексия на китката, флексия на интерфалангеалните стави, понякога с дефицит на средничния и лакътния нерв. Изборът на оперативна тактика се определя от тежестта по Tsuge.
+
+**Подхлъзване на флексорната маса по Page-Scaglietti (flexor slide).** При установена контрактура с все още жизнеспособни мускули класическата техника на Page (1923), модифицирана от Scaglietti, се състои в субпериостална дезинсерция на общия флексорен произход от медиалния епикондил (заедно с произхода на pronator teres от него и с произходите на flexor digitorum profundus и flexor pollicis longus от лъчевата и улнарната диафиза) и каудално приплъзване на цялата флексорна маса под клиничен контрол на разтягането до пълно разгъване на китката и пръстите. Средничният и лакътният нерв задължително се идентифицират и защитават; в края на процедурата се прави Z-образно удължаване на сухожилията при остатъчно скъсяване. Предимството е запазване на флексорната функция при отстраняване на статичния компонент на деформацията.
+
+**Ексцизионна процедура по Seddon.** При установена контрактура с инфаркт (некроза) на дълбоката флексорна група и тежки бележни дегенерации първият етап е дъговиден или 5-образен волярен разрез от лакътната гънка до китъчната гънка с ексцизия на задебелената фасция. Дегенерираните мускули (типично flexor digitorum profundus, flexor pollicis longus, понякога частично flexor digitorum superficialis) се ексцизират; нервите се освобождават от бележния конгломерат — невролизата е централна за функционалния резултат и сама по себе си често възстановява чувствителността и моторната функция при умерени форми.
+
+**Трансфер на flexor digitorum superficialis към flexor digitorum profundus (Епщайн-Розов).** Българска техника, описана от И. Епщайн и И. Розов: при сравнително запазени повърхностни мускули и груба дегенерация на дълбоките, повърхностният флексор на пръстите се транспонира с шев „странично към страница“ към сухожилията на дълбокия флексор. Сухожилията на flexor digitorum superficialis при това се удължават Z-образно, докато съответният пръст заеме физиологично положение, а дланта и китката се поставят в обездвижване при дорзална флексия на гривнената става и флексия в основните фаланги за 21 дни, последвани от продължително функционално лечение.
+
+**Превръщане на pronator teres в супинатор (по Bunnell, българска адаптация).** При смесени форми с пронационна контрактура. През 5–6 cm волярно-лъчев разрез фасцията се отваря и brachioradialis заедно с повърхностния клон на радиалния нерв се екартират; в пронация на предмишницата сухожилието на pronator teres се дезинсерира максимално дистално от лъчевата повърхност на radius. Мускулното коремче се мобилизира проксимално, повежда се около radius (около задната повърхност на лъчевата кост) и се реинсерира с обърнат вектор, така че контракцията му да предизвиква супинация. Концепция на Z. T. Bunnell, адаптирана в българската школа за случаи на спастична или постполиомиелитна пронационна контрактура.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Алгоритъм по Tsuge при оформен Volkmann: лек тип — невролиза на средничния и лакътния нерв ± подхлъзване по Page-Scaglietti; умерен тип — подхлъзване с ексцизия на некротичните дълбоки флексори и трансфер на flexor digitorum superficialis към flexor digitorum profundus по Епщайн-Розов; тежък тип — радикално ексцизиране с трансфер на свободен функционален gracilis (съвременна опция) или артродеза на китката с активна щипка от запазени елементи.</li>
+    <li>Декомпресията на нервите по време на ексцизионната процедура е централна — често е недостатъчно ценена част от Seddon-операцията, а сама по себе си възстановява значима функция при умерените форми.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Сухожилни трансфери при пареза на средничния нерв</summary>
+<div class="ts-body">
+
+**Висока пареза.** При висока пареза на средничния нерв (травматична увреда над разклоняването на предния междукостен нерв) от волярните мускули запазени остават единствено дълбоките сгъвачи на безименния и малкия пръст (от улнарния клон към flexor digitorum profundus) и flexor carpi ulnaris. За адекватна хватателна функция трябва да се заместят дълбокият флексор за показалеца и средния пръст, flexor pollicis longus и опозицията на палеца.
+
+Класическата ретроградна транспозиция на повърхностните флексори по Епщайн-Розов (с подобни описания у Bunnell) обединява запазените flexor digitorum profundus за безименния и малкия пръст с парализираните за показалеца и средния пръст чрез шев „странично към страница“, при което двигателят на запазената страна (лакътен нерв) активира всичките четири дълги пръста едновременно. Сухожилието на flexor pollicis longus се удължава с консервиран в белтъчен хидролизат алоприсадък, прекаран през подкожен тунел към метакарпофалангеалната става на палеца. Алтернативно се използва flexor carpi ulnaris с присадък. Възстановяването на опозицията на палеца се извършва с трансфериран мускул в същия акт.
+
+**Ниска пареза (opponensplasty).** Възстановяването на опозицията при ниска медианова пареза (увреда дистално от предния междукостен нерв) е централната хирургична задача и е предмет на множество класически техники:
+
+*Техника на Bunnell* (Z. T. Bunnell). Flexor digitorum superficialis на безименния пръст се използва като двигател. Сухожилието се прерязва над проксималната интерфалангеална става, извлича се ретроградно през волярен разрез на дисталната предмишница и се прекарва през „лост“ около дисталния край на flexor carpi ulnaris (по класическото описание — заедно с шев около pisiform), след което се направлява в подкожен тунел през тенарната гънка до инсерционното място на abductor pollicis brevis.
+
+*Техника на Merle d'Aubigné.* През разрез по проксималната гънка на безименния пръст се откриват крачетата на flexor digitorum superficialis, прерязват се възможно най-дистално; през втори малък разрез проксимално от радиокарпалната става сухожилието се извлича ретроградно над flexor carpi ulnaris. Третият разрез е по дорзоулнарния аспект на метакарпофалангеалната става на палеца, където крачетата се пришиват с подходящо опъване, така че палецът да заеме положение на опозиция и палмарна абдукция.
+
+*Техника на Camitz и българската модификация на Стойчева.* Palmaris longus с продължение от палмарната апоневроза се транспонира в подкожен тунел до тенара — особено подходяща при синдром на карпалния канал с тежка тенарна атрофия и при пареза в детска възраст, защото е технически проста и не жертва силен флексор. Българската модификация на Стойчева използва flexor carpi radialis, прерязан на границата мускул-сухожилие, обърнат на 180° дистално, прекаран подкожно през дланта по диагонала от метакарпофалангеалната става на палеца до pisiform и фиксиран в инсерцията на opponens. Допълнителна стабилизация се осигурява чрез Kirschner-спица между първа и втора метакарпална кост, премахвана на 45-ия ден; поддържаща превръзка до 6 месеца.
+
+*Техника на Littler.* Abductor digiti minimi се мобилизира на собствения си съдово-нервен сноп и се ротира палмарно през подкожен тунел до тенара — ценна, когато повърхностните флексори не могат да се жертват (например при придружаваща увреда на лакътния нерв) и когато се търси „живо“ мускулно изпъкване в тенара за козметичен резултат.
+
+*Техника на Панева.* Чрез два надлъжни волярни разреза в дисталната предмишница се прерязват palmaris longus и flexor carpi radialis проксимално от радиокарпалната става; и двата мускула се удължават с консервирани алоприсадъци, взети с paratenon, и приплитащ шев. Удълженият palmaris longus се прекарва около flexor carpi ulnaris като „лост“, а след това през подкожен тунел в посоката на opponens; удълженият flexor carpi radialis минава в посоката на abductor pollicis brevis. Двата трансплантата се фиксират към метакарпалната кост и проксималната фаланга при максимална опозиция, палмарна абдукция и лъчева ротация на палеца при около 20° флексия на китката.
+
+*Техника на Матев.* Функционално елегантно решение, при което се възстановява не само опозицията, но и активното отвеждане; през тенарна гънка се поставя двойно пришиване — едното краче на трансплантата към инсерцията на extensor pollicis brevis (за поддържане на основната фаланга в екстензия), второто — към adductor pollicis (за стабилизация в палмарната дъга).
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Избор на opponensplasty при ниска пареза на средничния нерв: запазен palmaris longus и млад пациент — Camitz (лесна, бърза); тенарна атрофия с интактен сетивен дефицит и нужда от силна функция — Bunnell с flexor digitorum superficialis на безименния пръст; съпътстваща пареза на лакътния нерв — Littler (abductor digiti minimi), за да не се жертва flexor digitorum superficialis; детска възраст и постполиомиелитни случаи — Стойчева (тенодеза с flexor carpi radialis, обърнат на 180°).</li>
+    <li>Кondicionalна екстра — техника на Матев осигурява двойно захващане към extensor pollicis brevis и adductor pollicis за едновременна стабилизация на основната фаланга и на палмарната дъга.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Сухожилни трансфери при пареза на лакътния нерв</summary>
+<div class="ts-body">
+
+Целта при висока или ниска улнарна пареза е възстановяване на флексията в основните фаланги, аддукцията на палеца и абдукцията на показалеца за прецизен прехват — комплекс, чието съчетано възстановяване предотвратява прогресиращата „гриф“-деформация и слабостта в захвата.
+
+**Корекция на грифозната деформация по Bunnell-Stiles.** Повърхностните флексори на безименния и малкия пръст (или на четирите улнарни пръста при тотална гриф-деформация) се прерязват в близост с инсерциите им и се извличат проксимално; всяко краче се прекарва латерално около собствения си пръст и се пришива към лъчевата страна на дорзалната разтеглица на проксималната фаланга (lateral band). При деформация на всички четири пръста сухожилието на flexor digitorum superficialis на средния пръст обслужва лъчевата страна на средния и безименния, а сухожилието на flexor digitorum superficialis на безименния — улнарната страна на безименния и малкия. Имобилизация в гипс с флектирани метакарпофалангеални стави и разгънати интерфалангеални за 21 дни.
+
+**Техника на Brand.** Extensor carpi radialis brevis се дезинсерира от основата на третата метакарпална кост, удължава се с автоприсадък от palmaris longus (или комбинация от два присадъка при нужда), прекарва се през интероссеалните пространства към lateral bands на четирите пръста и се пришива при флексия на метакарпофалангеалните стави до 75° и неутрални интерфалангеални. Brand е особено полезна при ниска улнарна пареза с допълнителна слабост в лъчевия клон на flexor digitorum profundus, защото осигурява силен синергист.
+
+**Възстановяване на абдукцията на показалеца.** При липса на функция на dorsal interosseous за показалеца („подписване на име“ е невъзможно) extensor pollicis brevis или extensor indicis се транспонират към лъчевата lateral band на показалеца (Royle-Thompson и модификации). При едновременна загуба на абдукция на показалеца и аддукция на палеца сухожилието на extensor indicis се разделя на две ленти, едната — към лъчевата lateral band на показалеца, другата — към инсерцията на adductor pollicis.
+
+**Техника на Матев за възстановяване на флексията на основната фаланга на палеца.** Чрез серия от три малки разреза сухожилието на flexor digitorum superficialis на безименния пръст се прерязва и извлича проксимално от карпалния канал, след което се прекарва отново през тунела по хода на flexor pollicis longus и се фиксира към основната фаланга на палеца през напречен костен канал — оригинална българска модификация при асоциация на грифа с дефицит на аддукция на палеца.
+
+**Възстановяване на палмарната дъга и аддукция на палеца (Littler/Матев).** С разрез проксимално от flexor retinaculum се извлича повърхностният сгъвач на средния или безименния пръст; едното краче се фиксира към инсерцията на adductor pollicis, а другото се прекарва напречно през дланта до основата на проксималната фаланга на палеца или до шийката на пета метакарпална кост, реконструирайки палмарната дъга.
+
+</div>
+</details>
+
+<details>
+<summary>Сухожилни трансфери при пареза на радиалния нерв</summary>
+<div class="ts-body">
+
+Висока пареза на радиалния нерв означава прекъсване на нерва проксимално от мускулните клонове за разгъвачите на китката — типично в средната трета на мишницата в sulcus n. radialis (където нервът лежи в непосредствена близост с humerus и често се уврежда при огнестрелни наранявания, отворени фрактури или обширни белези с костта). При невъзможност на първичен шев или присадък сухожилните транспозиции се извършват без голямо отлагане — свободна нервна присадка рядко е оправдана поради големия времеви интервал до реинервация и ограничения функционален резултат.
+
+Историческото развитие започва с Franke (1898), който транспонира flexor carpi ulnaris към общия разгъвач на пръстите и flexor carpi radialis към дългия разгъвач на палеца след предварително скъсяване на екстензорите на китката. Концепцията се развива от Perthes, Джанелидзе, Тончев, Тихонович, Jaschar (Чаклар) и Merle d'Aubigné.
+
+**Класически принципи (формулирани от Jaschar/Чаклар):**
+
+1. Поне един от сгъвачите на китката трябва да бъде запазен, защото е необходим като стабилизатор на радиокарпалната става при разгъване на пръстите.
+2. Да се възстанови активна екстензия на китката — синергичното й разгъване с пръстовата флексия е условие за стабилен юмручен захват.
+3. Да се възстанови активното разгъване на основните фаланги на дългите пръсти и на дисталната фаланга на палеца — общият разгъвач на пръстите и дългият разгъвач на палеца могат да се мобилизират чрез един общ двигател.
+4. Дългият и късият разгъвач на палеца са синергисти за екстензия, но антагонисти за абдукция-аддукция; затова се препоръчват отделни двигатели за късия разгъвач и абдуктора.
+
+**Транспозиции по Jaschar/Чаклар.** Pronator teres → екстензорите на китката (extensor carpi radialis longus/brevis); flexor carpi ulnaris → extensor digitorum communis + extensor pollicis longus; palmaris longus (или повърхностен флексор на средния или безименния пръст при липса на palmaris longus) → abductor pollicis longus + extensor pollicis brevis.
+
+**Транспозиции по Boyes.** Pronator teres → extensor carpi radialis brevis (екстензия на китка); flexor carpi radialis → abductor pollicis longus + extensor pollicis brevis; повърхностен флексор на средния пръст (през отвор в междукостната мембрана) → extensor digitorum communis; повърхностен флексор на безименния пръст (също през интероссеалния отвор) → extensor pollicis longus + extensor indicis. Boyes е технически по-взискателна, но осигурява независимо разгъване на палеца и сегментно фино управление — особено полезна за тренирани пациенти и музиканти.
+
+**Ниска пареза (синдром на задния междукостен нерв).** Най-често flexor carpi radialis (или flexor carpi ulnaris) → extensor digitorum communis + extensor pollicis longus през класическата дорзална трансверзална трансфер-плоскост. Тъй като екстензорите на китката са синергисти на флексорите на пръстите, не на екстензорите им, някои автори предпочитат при ниските парези да транспонират flexor carpi ulnaris към екстензорите по типичния начин, а extensor carpi radialis longus — към абдукторите на палеца.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>„Стандартен“ модел при висока пареза на радиалния нерв: pronator teres → extensor carpi radialis brevis (китков екстензор); flexor carpi radialis (или flexor carpi ulnaris при Boyes) → extensor digitorum communis; palmaris longus → extensor pollicis longus, вплетен с пренареждане от третия канал. При липса на palmaris longus вторият двигател се търси във flexor digitorum superficialis на средния или безименния пръст.</li>
+    <li>Предоперативни условия: пасивно разгъване на китка и пръсти трябва да е възстановено; pronator teres и flexor carpi radialis трябва да са с мускулна сила MRC ≥ 4. Имобилизация в 30° дорзална флексия на китката + метакарпофалангеални стави в умерена флексия за 4 седмици.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Компресивна плакова остеосинтеза на двете кости</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/radius-fracture.png" data-figure-alt="Диафизарна фрактура на radius" aria-label="Увеличи">
     <img src="/img/anatomy-5/radius-fracture.png" alt="Диафизарна фрактура на radius" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Двупроекционна (AP + латерална) рентгенография на изместена диафизарна фрактура на radius: класическо показание за компресивна плочна остеосинтеза по Müller-Allgöwer-Schneider (AO стандарт от 1969) — реконструкция на радиалната дъга е критична за възстановяване на пронацията и супинацията.</span>
+    <span class="md-figure-caption">Двупроекционна рентгенография на изместена диафизарна фрактура на radius: класическо показание за компресивна плакова остеосинтеза по Müller-Allgöwer-Schneider (AO стандарт от 1969 г.). Възстановяването на радиалната дъга е критично за нормалната ротация на предмишницата.</span>
     <span class="md-figure-attribution"> · Laboratoires Servier, <a href="https://commons.wikimedia.org/wiki/File:Forearm_fracture_-_Radius_fracture_1_--_Smart-Servier.png" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
+
+Стандарт при диафизарни фрактури на predmišnicata у възрастен. AO принципите (Müller, Allgöwer, Schneider, 1969) включват анатомична редукция със запазване на радиалната дъга, междуфрагментна компресия с lag screw или с динамична компресионна плака с овални отвори, абсолютна стабилност за първично костно заздравяване и ранна функционална мобилизация.
+
+**Класически индикации в българската ортопедична традиция (Панева и съавтори):** напречни и леко коси „трудни за наместване и задържане на репозицията“ свежи диафизарни счупвания, застарели нерепонирани счупвания, лошо зараснали счупвания и атрофични псевдоартрози. Достъпът до radius е предимно по Хенри (волярно-латерален); дорзалният по Томпсън се предпочита при счупвания в средната трета, когато волярната страна е компрометирана от меките тъкани.
+
+**Принцип на самокомпресивната плака (Панева).** Плаката има овални отвори, които се ориентират към фрагмента с по-голяма компактна костна маса; първо се завинтват винтовете през кръглите отвори, след това винт в крайния овален отвор се завинтва, докато главичката му се измести по наклонената повърхност на отвора на около 50% от дължината на наклона (генериране на аксиална компресия); едва тогава се поставя втория компресивен винт и алтернативно се дозавинтват до пълна компресия. Депериостирането е икономично — само на повърхността, върху която ще лежи плаката. Следоперативно крайникът се обездвижва в средно положение между пронация и супинация (около 20° супинация при изолирана плака на radius, неутрално при двойна плакова остеосинтеза) до настъпване на костно срастване (средно 12 седмици).
+
+**При атрофична псевдоартроза.** Остеосинтезата се комбинира с костна автопластика — спонгиозни ламелки от crista iliaca се поставят около краищата на фрагментите; при дефект на костта се интерпонира спонгиозен автоприсадък между фрагментите преди компресията. При значително скъсяване на radius (загуба на радиалната дъга и асиметрия на DRUJ) преди компресията се извършва резекция на главата на ulna по Darrach за изравняване на дължините — съображение, известно като „balance maneuver“ при възстановяване на двойнокостен баланс.
+
+**Едновременна остеосинтеза.** Предпочитан режим в българската школа е вътрекостно заковаване на ulna с разширяване на канала + компресивна плака на radius, но е допустимо двете кости да бъдат синтезирани с компресивни плаки през два отделни разреза. Двата плакови достъпа през ЕДИН разрез по Cadenat не се препоръчват поради риска от радиоулнарна синостоза.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Радиалната дъга се възстановява първа — анатомичната редукция на radius определя възможността за анатомична редукция на ulna, не обратното.</li>
+    <li>Дължина на плаката — поне 6 кортикални винтови захвата от всяка страна на фрактурата (трагедично) или най-малко 8 при коси и комплексни фрактури.</li>
+    <li>Между две плакови остеосинтези през ОТДЕЛНИ разреза — НЕ през общ дорзален разрез по Cadenat поради рискa от радиоулнарна синостоза.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+<details>
+<summary>Вътрекостна остеосинтеза с разширяване на канала</summary>
+<div class="ts-body">
+
+При диафизарни фрактури на ulna класическият български подход (Бойчева, Кончеров) е отворено вътрекостно заковаване с разширяване на костномозъчния канал и пирон на Кончеров. Дорзалната повърхност на ulna се експонира; през върха на olecranon водачът се извежда ортоградно с борер или леко почукване и през него се вкарва пирон с подходящ диаметър след разширяване на канала с разширители с прогресиращ диаметър.
+
+**Грешки за избягване:**
+
+1. Спукване на фрагменти при несъответствие между диаметъра на канала и диаметъра на пирона.
+2. Образуване на фалшив път при използване на разширител без предходно поставен водач.
+3. Проникване на пирона в близост със ставния хрущял на olecranon (изисква огъване на дисталния край на пирона спрямо дорзалния кортекс).
+4. Осификации около върха на olecranon при ретроградно разширяване.
+
+**Закрит метод** (без отваряне на фрактурата) е приложим при свежи диафизарни счупвания с точно ремоделирани фрагменти и при несрастване след остеосинтеза с тънък пирон или Kirschner-спици — водач с топчест връх се прокарва в канала, фрагментите се алинират под рентгеноскопия, и едва тогава се пристъпва към разширяване и поставяне на дефинитивен пирон.
+
+**Заковаване на radius.** Прави се сравнително рядко поради естествената лъчева дъга, която прави праволинейн ход на канала невъзможен; когато се прилага, се прониква в дисталния фрагмент с малък дорзално-лъчев разрез над китъчната става, в кортекса се отваря прозорец, и водачът се прокарва ретроградно през фрактурата към проксималния фрагмент. Съвременен ekvivalent — заключващи костномозъчни пирони на radius с моделирана дъга, които позволяват вътрекостно фиксиране без жертване на дъгата.
+
+</div>
+</details>
+
+<details>
+<summary>Радиоулнарна суперпозиция при костни дефекти</summary>
+<div class="ts-body">
+
+При обширен сегментен дефект на radius със запазен дистален фрагмент (типично след огнестрелна травма или туморна резекция) класическата българска техника е радиоулнарна суперпозиция или „центрираща“ остеосинтеза.
+
+**При дефект на radius.** Дисталният фрагмент се мобилизира и насочва към проксималния край на ulna, който се резецира на необходимото ниво за отваряне на медуларния канал; ulna се вкарва в канала на дисталния radius (вътрекостно заковаване с пирон на Кончеров след разширяване), и предмишницата заема средно положение между пронация и супинация. При деца суперпозицията може да се изпълни без остеосинтеза — само с вклиняване на фрагментите или с тънки Kirschner-спици, за да не се увреди растящият хрущял на дисталния radius.
+
+**При обширен дефект на ulna.** Проксималният край на radius се мобилизира субпериостално, резецира се на необходимото ниво, и radius се поставя по хода на ulna като единичен централен сегмент — позиция, която стабилизира лакътя и осигурява поне минимална протезна полезност, макар да се губят и пронация, и супинация. Тази „едноцеп“ конструкция (one-bone forearm) е техника на последен ресурс, описана в българската традиция от Бойчев. Съвременният еквивалент е едно-костна предмишница с микросъдов фибуларен трансфер при туморни резекции.
+
+**При вродена липса на ulna** (с проксимална луксация на главата на radius и прогресиращо изоставане в растежа) — двуетапно лечение в детска възраст: първи етап — дистракция на radius спрямо ulna с апарат на Илизаров (два кръга и дистракционни рамки); втори етап — заден достъп по Cadenat в проксималната трета, опресняване на дисталния край на проксималния фрагмент на ulna, резекция на главата на radius, разпределяне на радиуса по хода на ulna и остеосинтеза с Kirschner-спица. Имобилизация в гипс за 45–60 дни; при достатъчно запазена ulna в по-късен етап може да се направи синостоза между двете кости след опресняване на странични повърхности и фиксация с компресивен винт.
+
+</div>
+</details>
+
+<details>
+<summary>Корекция на лошо зараснало счупване на дисталния radius</summary>
+<div class="ts-body">
+
+При застарели, нерепонирани или лошо зараснали Colles-фрактури с типична дорзално-лъчева деформация, остатъчно скъсяване и нарушен радиоулнарен ъгъл оперативната корекция е показана при млади или средно възрастни хора със значителни функционални смущения. При корекцията се вземат предвид три параметъра: дорзалното разместване на дисталния фрагмент, промените в радиоулнарния ъгъл и съотношението на двете кости на предмишницата по дължина.
+
+**Остеопластична корекция по Холевич.** През 6–7 cm леко дъговиден разрез по външната страна на предмишницата, започващ на нивото на processus styloideus radii, се прониква между brachioradialis и abductor pollicis longus до костта; сетивният клон на радиалния нерв се идентифицира и екартира волярно. С вибриращ трион се прави остеотомия на нивото на деформацията. Фрагментите се алинират; от външната страна се изрязва клиновиден костен дефект, който се запълва с автоложен спонгиозен присадък от crista iliaca, осигурявайки едновременно корекция и стабилност на оста.
+
+**L-образна пирон-плака по Янков-Попова.** Прониква се по същия достъп, разрезът се удължава проксимално до средната трета на предмишницата. След разклиняване на фрагментите и корекция на деформацията се извършва остеосинтеза с L-образна (Г-образна) компресивна плака със специален копиевиден напречен клон, който се забива в дисталния фрагмент успоредно на ставната повърхност чрез предварително оформено с водач ложе. Проксималното рамо на плаката се фиксира към проксималния фрагмент по типа на самокомпресивна плака. При несъответствие в дължината на двете кости главата на ulna се резецира с малък допълнителен разрез (Darrach).
+
+**Свежи вътреставни счупвания.** При заангажиране на дорзалната повърхност (dorsal die-punch fragment) Ellis предлага малка плака, поддържаща дисталния фрагмент като лопатка, без да е фиксирана към него — buttress plate. При нестабилни счупвания след затворено наместване с дефект поради импресия или значителен едем перкутанна остеосинтеза с Kirschner-спици или външен фиксатор е алтернатива.
+
+</div>
+</details>
+
+<details>
+<summary>Оперативно лечение на Galeazzi и Monteggia</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/galeazzi-fracture.jpg" data-figure-alt="Фрактура на Galeazzi" aria-label="Увеличи">
     <img src="/img/anatomy-5/galeazzi-fracture.jpg" alt="Фрактура на Galeazzi" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Фрактура на Galeazzi (преди и след): фрактура на дисталната третина на radius с дислокация в DRUJ. Класическата българска и AO практика е плочна остеосинтеза на radius чрез волярен достъп по Henry, последвана от ревизия на DRUJ и обездвижване на предмишницата в супинация за 4–6 седмици при стабилна редукция; нестабилна DRUJ изисква транс-улно-радиална Киршнерова игла за 6 седмици.</span>
+    <span class="md-figure-caption">Фрактура на Galeazzi (преди и след): фрактура на дисталната трета на radius с дислокация в DRUJ. Класическа практика е плакова остеосинтеза на radius чрез волярен достъп по Хенри, последвана от ревизия на DRUJ и обездвижване на предмишницата в супинация за 4–6 седмици при стабилна редукция; нестабилна DRUJ изисква трансулнорадиална Kirschner-спица за 6 седмици.</span>
     <span class="md-figure-attribution"> · Hellerhoff, <a href="https://commons.wikimedia.org/wiki/File:Galeazzi-Fraktur_Roentgen_ap_und_seitlich_-_Annotation.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
+
+**Свежа Galeazzi.** Анатомична редукция и плакова фиксация на radius през достъп по Хенри, последвани от тестване на стабилността на DRUJ при флексия 120° на лакътя — ако главата на ulna остава стабилна, не е необходима допълнителна намеса; при остатъчна нестабилност се фиксира улнарен стилоиден израстък (когато е авулзиран с triangular fibrocartilage) или DRUJ се трансфиксира с Kirschner-спици в супинация за 6 седмици.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/monteggia-fracture.jpg" data-figure-alt="Фрактура на Monteggia" aria-label="Увеличи">
     <img src="/img/anatomy-5/monteggia-fracture.jpg" alt="Фрактура на Monteggia" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Фрактура на Monteggia (Bado тип I): диафизарна фрактура на ulna с предна дислокация на главичката на radius — описана от Giovanni Battista Monteggia (1814) и класифицирана от Bado (1967) в 4 типа според посоката на главичката. Принципът на лечението е стабилна остеосинтеза на ulna, която обикновено редуцира главичката на radius; ако последната остане изместена, индикация за отворена редукция и евентуална реконструкция на ligamentum anulare.</span>
+    <span class="md-figure-caption">Фрактура на Monteggia, тип 1 по Bado: диафизарна фрактура на ulna с предна дислокация на главичката на radius — описана от Giovanni Battista Monteggia (1814) и класифицирана от Bado (1967). Принципът на лечението: стабилна остеосинтеза на ulna, която обикновено редуцира главичката; ако последната остане изместена, индикация за отворена редукция и евентуална реконструкция на ligamentum anulare.</span>
     <span class="md-figure-attribution"> · Jane Agnes, <a href="https://commons.wikimedia.org/wiki/File:Monteggia_Fracture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
-Класическата индикация за компресивна плака на radius и ulna в българската ортопедична традиция (по Панева и сътр.) са напречни и леко коси „трудни за наместване и задържане на репозицията“ свежи диафизарни счупвания, застарели нерепонирани счупвания, лошо зараснали счупвания и атрофични псевдартрози. Достъпът до радиуса е предимно по Henry (предно-страничен); дорзалният (по Thompson) се предпочита при счупвания в средната трета, когато волярната страна е компрометирана от меките тъкани.
+**Свежа Monteggia.** Анатомична остеосинтеза на ulna с плака през директен улнарен достъп; при възрастни — компресивна плака с минимум шест кортикални винтови захвата от всяка страна на фрактурата. След остеосинтезата стабилността на главичката се оценява клинично и рентгенологично; при остатъчна луксация — отворена редукция чрез страничен достъп между anconeus и extensor carpi ulnaris, отстраняване на интерпонирани капсулни и лигаментни структури, проверка за целостта на ligamentum anulare. При деца над 4 години със свежа Monteggia затворена редукция и гипсова имобилизация в супинация и флексия 110° обикновено е достатъчна.
 
-Принципи на самокомпресивната плака (Панева): плаката има овални отвори, които се ориентират към фрагмента с по-голяма компактна костна маса; първо се завинтват винтовете през кръглите отвори, след това винт в крайния овален отвор се завинтва, докато главичката му се измести по наклонената повърхност на отвора на около 50% от дължината на наклона (генериране на аксиална компресия); едва тогава се поставя втория компресивен винт и алтернативно се дозавиват до пълна компресия. Депериостирането е икономично — само на повърхността, върху която ще лежи плаката. Следоперативно крайникът се обездвижва в средно положение между пронация и супинация (около 20° супинация при изолирана плака на radius, неутрално при двойна плакова остеосинтеза) до настъпване на костно срастване (средно 12 седмици).
+**Стара Monteggia — операция по Бойчев.** Педагогически класическа техника. Първи кос разрез започва от латералния епикондил на humerus и достига дорзалния ръб на ulna около три пръста под върха на olecranon; разсича се дълбоката фасция, прониква се между extensor carpi ulnaris (екартиран лъчево) и anconeus (екартиран улнарно), и се излага луксираната глава на radius. Чрез нов дорзален разрез се прониква до мястото на счупването на ulna и до проксималния край на radius; отстраняват се препятствията за репозицията (включително интерпонираните бележни структури и евентуално увеличената осификация около ligamentum anulare). След възстановяването на главата на radius в incisura radialis на ulna се пристъпва към реконструкция на ligamentum anulare: педикулиран фасциален присадък с дължина 10–12 cm и широчина 1–1,5 cm от предмишничната фасция, проксимално оставен прикрепен към ulna, се обикаля около collum radii, и свободният край се пришива към себе си при умерено опъване, непозволяващо повторна дислокация. Алтернативно се използва свободен присадък от fascia lata или консервирано сухожилие.
 
-При атрофична псевдартроза остеосинтезата се комбинира с костна автопластика — спонгиозни ламелки от crista iliaca се поставят около краищата на фрагментите; при дефект на костта се интерпонира спонгиозен автоприсадък между фрагментите преди компресията. При значително скъсяване на radius (загуба на радиалната дъга и asymmetric DRUJ) преди компресията се извършва резекция на главата на ulna по Darrach за изравняване на дължините — съображение, известно като „balance maneuver“ при възстановяване на двойнокостен баланс.
+Когато при добра алиниране на ulna главата на radius се намества свободно (нестабилността се дължи единствено на скъсяване и ъглова деформация на ulna), достатъчна е остеосинтезата на ulna с проверка на стабилността при флексия 120° на лакътя — без отделна реконструкция на ligamentum anulare. При застарели увреди при възрастни пациенти с нерепонируема глава на radius (поради хронична деформация на главичката или ставната повърхност) се обсъжда резекция на главата с компенсиращ pronator quadratus тенодеза или Sauvé-Kapandji процедура дистално.
 
-Едновременна остеосинтеза на radius и ulna: предпочитан режим в българската школа е вътрекостно заковаване на ulna с разширяване на канала + компресивна плака на radius, но е допустимо двете кости да бъдат синтезирани с компресивни плаки през два отделни разреза. Двата плакови достъпа през един разрез по Cadenat не се препоръчват поради риска от радиоулнарна синостоза.
+</div>
+</details>
 
-## Вътрекостна остеосинтеза с разширяване на канала
-
-При диафизарни фрактури на ulna класическият български подход (Бойчева, Кончеров) е отворено вътрекостно заковаване с разширяване на костномозъчния канал и пирон на Кончеров. Дорзалната повърхност на ulna се експонира; през върха на olecranon водачът се извежда ортоградно с борер или леко почукване и през него се вкарва пирон с подходящ диаметър след разширяване на канала с разширители (reamers) с прогресиращ диаметър. Грешките, които трябва да се избягват:
-
-- спукване на фрагменти при несъответствие между диаметъра на канала и диаметъра на пирона;
-- образуване на фалшив път при използване на разширител без предходно поставен водач;
-- проникване на пирона в близост със ставния хрущял на olecranon (изисква огъване на дисталния край на пирона спрямо дорзалния кортекс);
-- осификации около върха на olecranon при ретроградно разширяване.
-
-Закрит метод (без отваряне на фрактурата) е приложим при свежи диафизарни счупвания с точно ремоделирани фрагменти и при несрастване след остеосинтеза с тънък пирон или Киршнерови спици — водач с топчест връх се прокарва в канала, фрагментите се алинират под рентгеноскопия, и едва тогава се пристъпва към разширяване и поставяне на дефинитивен пирон.
-
-Заковаване на radius с разширяване на канала се прави относително рядко поради естествената радиална дъга, която прави праволинеен ход на канала невъзможен; когато се прилага, се прониква в дисталния фрагмент с малък дорзо-радиален разрез над китъчната става, в кортекса се отваря прозорец, и водачът се прокарва ретроградно през фрактурата към проксималния фрагмент.
-
-## Радио-улнарна суперпозиция при костни дефекти
-
-При обширен сегментен дефект на radius със запазен дистален фрагмент (типично след огнестрелна травма или туморна резекция) и при възникнал съответен дефект на ulna класическата българска техника е радио-улнарна суперпозиция („центрираща“ остеосинтеза). При дефект на radius — дисталният фрагмент се мобилизира и насочва към проксималния край на ulna, който се резецира на необходимото ниво за отваряне на медуларния му канал; ulna се вкарва в канала на дисталния radius (вътрекостно заковаване с Кончеров пирон след разширяване) и предмишницата заема средно положение между пронация и супинация. При деца суперпозицията може да се изпълни без остеосинтеза — само с вклиняване на фрагментите или с тънки Киршнерови спици, за да не се увреди растящият хрущял на дисталния radius.
-
-При обширен дефект на ulna проксималният край на radius се мобилизира субпериостално, резецира се на необходимото ниво, и radius се поставя по хода на ulna като единичен централен сегмент — позиция, която стабилизира лакътя и осигурява поне минимална протезна полезност, макар че се губят и пронация, и супинация. Тази „едноцеп“ конструкция (one-bone forearm) е техника на последен ресурс, описана в българската традиция от Бойчев, и съвременният й еквивалент е едно-костна предмишница с микросъдов фибуларен трансфер при туморни резекции.
-
-При вродена липса на ulna (с проксимална луксация на главата на radius и прогресиращо изоставане в растежа) се препоръчва двуетапно лечение в детска възраст: първи етап — дистракция на radius спрямо ulna с апарат на Илизаров (два кръга + дистракционни рамки, удължаване по общите принципи); втори етап — заден достъп по Cadenat в проксималната трета, опресняване на дисталния край на проксималния фрагмент на ulna, резекция на главата на radius, разпределяне на радиуса по хода на ulna и остеосинтеза с Киршнерова игла. Имобилизация в гипс за 45–60 дни; при достатъчно запазена ulna в по-късен етап може да се направи синостоза между двете кости след опресняване на странични повърхности и фиксация с компресивен винт.
-
-## Корекция на лошо зараснало счупване на дисталния radius (Colles)
-
-При застарели, нерепонирани или лошо зараснали счупвания на дисталния radius с типична дорзално-радиална деформация, остатъчно скъсяване и нарушен радиоулнарен ъгъл оперативната корекция е показана у млади хора или в средна възраст със значителни функционални смущения. При корекцията се вземат предвид три параметъра: дорзалното разместване на дисталния фрагмент, промените в радиоулнарния ъгъл и съотношението на двете кости на предмишницата по дължина.
-
-Техника на Холевич (остеопластична корекция): през 6–7 cm леко дъговиден разрез по външната страна на предмишницата, започващ на нивото на processus styloideus radii, се прониква между m. brachioradialis и m. abductor pollicis longus до костта; сетивният клон на n. radialis се идентифицира и екартира волярно. С вибриращ трион се прави остеотомия на нивото на деформацията. Фрагментите се алинират; от външната страна се изрязва клиновиден костен дефект, който се запълва с автоложен спонгиозен присадък от crista iliaca, осигурявайки едновременно корекция и стабилност на оста.
-
-Техника на Янков-Попова (L-образна пирон-плака): прониква се по същия достъп, разрезът се удължава проксимално до средната трета на предмишницата. След разклиняване на фрагментите и корекция на деформацията се извършва остеосинтеза с L-образна (Г-образна) компресивна плака със специален копиевиден напречен клон, който се забива в дисталния фрагмент успоредно на ставната повърхност чрез предварително оформено с водач ложе. Проксималното рамо на плаката се фиксира към проксималния фрагмент по типа на самокомпресивна плака. При несъответствие в дължината на двете кости главата на ulna се резецира с малък допълнителен разрез (Darrach).
-
-При свежи вътреставни счупвания, заангажиращи дорзалната повърхност (dorsal die-punch fragment), Ellis предлага малка плака, поддържаща дисталния фрагмент като лопатка, без да е фиксирана към него — buttress plate principle. При нестабилни счупвания след затворено наместване (получаване на дефект поради импресия, значителен едем) перкутанна остеосинтеза с Киршнерови игли или външен фиксатор е алтернатива.
-
-## Оперативно лечение на застаряли увреди на Galeazzi и Monteggia
-
-При свежи и подостри Monteggia (фрактура на ulna в проксималната или средната трета с предна луксация на главата на radius — Bado тип I) и Galeazzi (фрактура на дисталната трета на radius с луксация на главата на ulna в DRUJ) принципите са анатомична репозиция на едната кост осигурява автоматично репозиция и стабилизация на радио-улнарната става. Конкретно при Galeazzi: анатомичната редукция и плакова фиксация на radius, последвани от тестване на стабилността на DRUJ при флексия 120° на лакътя — ако главата на ulna остава стабилна, не е необходима допълнителна намеса; при остатъчна нестабилност се фиксира ulnar styloid (когато е авулзирана с TFCC) или DRUJ се транс-фиксира с Киршнерови игли в супинация за 6 седмици.
-
-При застарели Monteggia с нерепонирана глава на radius (особено при подцигнати в детска възраст с прогресивно проксимално изместване) техниката по Boychev (Бойчев) е педагогически класическа. Първи кос разрез започва от laterale epicondylus humeri и достига дорзалния ръб на ulna около 3 пръста под върха на olecranon; разсича се дълбоката фасция, прониква се между m. extensor carpi ulnaris (екартиран радиално) и m. anconeus (екартиран улнарно), и се излага луксираната глава на radius. Чрез нов дорзален разрез се прониква до мястото на счупването на ulna и до проксималния край на radius; отстраняват се препятствията за репозицията (включително интерпонираните ръбци и евентуално увеличената осификация около ligamentum anulare). След възстановяването на главата на radius в incisura radialis на ulna се пристъпва към реконструкция на ligamentum anulare: педикулиран фасциален присадък с дължина 10–12 cm и широчина 1–1,5 cm от предмишничната фасция, проксимално оставен прикрепен към ulna, се обикаля около collum radii и свободният край се пришива към себе си при умерено опъване, непозволяващо повторна дислокация. Алтернативно се използва свободен присадък от fascia lata или консервирано сухожилие.
-
-Когато при добра алиниране на ulna главата на radius се намества свободно (нестабилността се дължи единствено на скъсяване и ъглова деформация на ulna), достатъчна е остеосинтезата на ulna с проверка на стабилността при флексия 120° на лакътя без отделна реконструкция на ligamentum anulare. При застарели увреди при възрастни пациенти с нерепонируема глава на radius (поради хронична деформация на главичката или нейната ставна повърхност) се обсъжда резекция на главата (като обременяване на лъчевата кост към китката изисква компенсация с pronator quadratus tenodesis или Sauvé–Kapandji процедура дистално).
-
-## Корекция на деформацията на Madelung
+<details>
+<summary>Корекция на деформацията на Madelung</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/madelung-deformity.jpg" data-figure-alt="Рентгенография при деформация на Madelung" aria-label="Увеличи">
     <img src="/img/anatomy-5/madelung-deformity.jpg" alt="Рентгенография при деформация на Madelung" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Рентгенография при деформация на Madelung: волярно-улнарно изоставане в растежа на дисталния radius с дорзално луксиране на дисталната ulna и характерен „щик“-силует — индикация за резекция по Darrach, физиолиза по Vickers или Sauvé–Kapandji процедура.</span>
+    <span class="md-figure-caption">Деформация на Madelung: волярно-улнарно изоставане в растежа на дисталния radius с дорзално луксиране на дисталната ulna и характерен щиков силует. Терапевтични възможности — резекция на дисталната ulna по Darrach, физиолиза по Vickers при млад пациент с активна растежна зона, или процедура на Sauvé-Kapandji при тежка деформация в зряла възраст.</span>
     <span class="md-figure-attribution"> · Otto Madelung (1878), <a href="https://commons.wikimedia.org/wiki/File:Diagrams_of_Madelung%27s_deformation.jpg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Деформацията на Madelung (вродено или придобито volar-ulnar субсиденция на дисталния radius поради дисфункция на воларно-улнарната епифизарна плоча с интактна дорзо-радиална половина и стягане от Vickers-лигамент) се коригира оперативно при значителна функционална или козметична деформация. Класическата корекция в българската традиция (Дарах) комбинира два елемента: резекция на дисталната ulna (за разтоварване на DRUJ и възстановяване на ротацията) и клиновидна остеотомия на дисталния radius с фиксация с Киршнерови игли. Резекцията на ulna следва оригиналната техника на Darrach: дорзален разрез по локализацията на дисталния край на ulna, отделяне между сухожилията на ECU и EDM, отваряне на DRUJ, напречно или леко косо прерязване на ulna на разстояние 1,5–2 cm проксимално от върха на processus styloideus ulnae. Дисталният фрагмент се мобилизира при срязване на капсулата на DRUJ, докато увисне на ulnar collateral ligament; processus styloideus се прерязва, като се оставя залepен за латералния лигаментен комплекс, а капсулата с периоста и периост-сухожилните връзки се възстановяват над дисталния край на остатъчната ulna за стабилизация.
+Класическата корекция в българската традиция комбинира резекция на дисталната ulna (за разтоварване на DRUJ и възстановяване на ротацията) и клиновидна остеотомия на дисталния radius с фиксация с Kirschner-спици. Резекцията на ulna следва оригиналната техника на Darrach: дорзален разрез по локализацията на дисталния край на ulna, отделяне между сухожилията на extensor carpi ulnaris и extensor digiti minimi, отваряне на DRUJ, напречно или леко косо прерязване на ulna на разстояние 1,5–2 cm проксимално от върха на улнарния стилоиден израстък. Дисталният фрагмент се мобилизира при срязване на капсулата на DRUJ, докато увисне на улнарния колатерален лигамент; стилоидният израстък се прерязва, като се оставя залепен за латералния лигаментен комплекс, а капсулата с периоста и периосто-сухожилните връзки се възстановяват над дисталния край на остатъчната ulna за стабилизация.
 
-Алтернатива на резекцията при млад пациент с все още активна растежна зона е процедурата по Vickers (физиолиза — резекция на „моста“ от анормална епифизарна плочка) комбинирана с улнарна скъсяваща остеотомия за изравняване на дължините. При тежки деформации в зряла възраст с напреднала артроза на DRUJ съвременният стандарт е процедурата на Sauvé–Kapandji (артродеза на DRUJ + проксимална ulnar pseudoarthrosis с резекция на 1–2 cm сегмент) — техника, която запазва ulnar buttress на дисталния radius и е биомеханично по-стабилна от Darrach при тежки степени.
+**Физиолиза по Vickers.** Алтернатива при млад пациент с все още активна растежна зона — резекция на „моста“ от анормална епифизарна плочка комбинирана с улнарна скъсяваща остеотомия за изравняване на дължините. Vickers-лигаментът (анормален лигамент от volarно-улнарния полюс на дисталния radius към lunatum) се ексцизира за разтоварване на медиалната епифизарна плочка.
 
-## Корекция на вродена липса на radius (manus vara, radial club hand)
+**Sauvé-Kapandji при тежка деформация в зряла възраст.** Артродеза на DRUJ с проксимална улнарна псевдоартроза чрез резекция на 1–2 cm сегмент — техника, която запазва улнарния буфер на дисталния radius и е биомеханично по-стабилна от Darrach при тежки степени.
 
-При малки деца е желателно лечението да се извърши на два или дори три етапа с цел избягване на допълнителни увреждания на остатъчния растежен потенциал (Max Lange). Първият етап се провежда до 2–3-годишна възраст и се състои в постепенно мобилизиране на меките тъкани на радиалната страна (включително при нужда — с дистракционен апарат на Илизаров) и центриране на ръката върху дисталния край на ulna. Хрущялната повърхност на дисталната ulna се изолира супрапериостално (с осигуряване, че епифизният хрущял не се компрометира), през хрущяла се вкарва Киршнерова игла, която се избожда през дорзалния кортекс в проксималната трета на ulna; китката се опъва и поставя в умерена дорзофлексия и леко улнарно отклонение, проверяват се кръвоснабдяването и инервацията, и иглата се изтегля до скриване на края й в хрущяла. Меките тъкани се разделят тъпо.
+</div>
+</details>
 
-Понякога двуетапното лечение не е достатъчно поради вродено изкривяване на ulna; в такъв случай след стабилизирането на китката се прави коригираща остеотомия на ulna. При комбинирана патология с проксимална луксация на главата на radius (резидуален радиус) тя също се коригира. Дългосрочната задача в зряла възраст остава реконструкция на функциониращ опозиционен палец (pollicization при липсваща първа лъчева ос — Тема Ортопедия-Ръка).
+<details>
+<summary>Корекция на вродена липса на radius (manus vara)</summary>
+<div class="ts-body">
 
-## Корекция на вродена радиоулнарна синостоза
+При малки деца лечението се извършва на два или дори три етапа с цел избягване на допълнителни увреждания на остатъчния растежен потенциал (Max Lange). Първият етап се провежда до 2–3-годишна възраст и се състои в постепенно мобилизиране на меките тъкани на лъчевата страна (включително при нужда с дистракционен апарат на Илизаров) и центриране на ръката върху дисталния край на ulna. Хрущялната повърхност на дисталната ulna се изолира супрапериостално (с осигуряване, че епифизният хрущял не се компрометира), през хрущяла се вкарва Kirschner-спица, която се избожда през дорзалния кортекс в проксималната трета на ulna; китката се опъва и поставя в умерена дорзофлексия и леко улнарно отклонение, проверяват се кръвоснабдяването и инервацията, и спицата се изтегля до скриване на края й в хрущяла. Меките тъкани се разделят тъпо.
 
-Вродената проксимална радиоулнарна синостоза предизвиква фиксирана пронация на предмишницата с тежко функционално ограничение. Класическата оперативна корекция (Бойчев и сътр.) се извършва в детска възраст преди костното развитие да е завършено: чрез предно-външен достъп по Henry се извършва остеотомия на radius на необходимото ниво. Ако завъртането на предмишницата остане затруднено въпреки остеотомията, се добавя дезинсерция на m. pronator teres и m. pronator quadratus и при нужда — надлъжно срязване на membrana interossea и резекция на главата на ulna (когато съществуващата деформация е свързана с radial bow). Оперативната корекция е с висок процент на рецидив поради повторна синостоза; затова в съвременната практика при тежки случаи се предпочита деротационна остеотомия на ulna в неутрална или леко супинирана позиция (по 10–20° супинация) без опит за възстановяване на ротацията — приемане на фиксирана функционална позиция, а не повторно възстановяване на движение.
+Понякога двуетапното лечение не е достатъчно поради вродено изкривяване на ulna; в такъв случай след стабилизирането на китката се прави коригираща остеотомия на ulna. При комбинирана патология с проксимална луксация на главата на radius (резидуален radius) тя също се коригира. Дългосрочната задача в зряла възраст остава реконструкция на функциониращ опозиционен палец (полицизация при липсваща първа лъчева ос — обсъдена в темата за ръката).
 
-## Пластична реконструкция на DRUJ при нестабилност
+</div>
+</details>
 
-Нестабилността на DRUJ поради разкъсване на връзковия апарат (типично след подостра Galeazzi травма или след резекция на TFCC) се коригира оперативно сравнително рано, преди да са се появили дегенеративни изменения в ставата. Прави се Т-образен разрез с надлъжно рамо по улнарната страна на предмишницата (започващ няколко сантиметра над китката) и напречно рамо по дорзалната страна. Взема се автоприсадък от m. palmaris longus или консервиран сухожилен алоприсадък; лакътната кост се депериостира проксимално от главата й. Присадъкът се прокарва около ulnar neck и краищата му се фиксират към radius със снимаем телен шев (или анкер). При възстановяване се възпроизвеждат двете компоненти на стабилността — палмарната и дорзалната radioulnar ligament-системи. Имобилизация в супинация (за дорзална нестабилност) или неутрална позиция (при двупосочна) с дълъг гипс за 6 седмици, последвани от 4 седмици в къс гипс. Тази техника е концептуалния предшественик на съвременните анатомични реконструкции по Adams–Berger (двойна тенодеза на дорзалните и волярните radioulnar ligaments с graft през радиален костен тунел).
+<details>
+<summary>Корекция на вродена радиоулнарна синостоза</summary>
+<div class="ts-body">
 
-## Резекция на дисталната ulna по Darrach
+Вродената проксимална радиоулнарна синостоза предизвиква фиксирана пронация на предмишницата с тежко функционално ограничение. Класическата оперативна корекция (Бойчев) се извършва в детска възраст преди костното развитие да е завършено: чрез предно-външен достъп по Хенри се извършва остеотомия на radius на необходимото ниво. Ако завъртането на предмишницата остане затруднено въпреки остеотомията, се добавя дезинсерция на pronator teres и pronator quadratus и при нужда — надлъжно срязване на междукостната мембрана и резекция на главата на ulna (когато съществуващата деформация е свързана с радиална дъга). Оперативната корекция е с висок процент на рецидив поради повторна синостоза; затова в съвременната практика при тежки случаи се предпочита деротационна остеотомия на ulna в неутрална или леко супинирана позиция (10–20° супинация) без опит за възстановяване на ротацията — приемане на фиксирана функционална позиция, а не повторно възстановяване на движение.
 
-Резекцията на дисталната ulna по Darrach (W. Darrach, 1912) е една от най-устойчивите процедури в репертоара на предмишничната хирургия: индицирана е при болезнен ulnar impaction syndrome с напреднала DRUJ артроза, при ригидна нестабилност на DRUJ след сложни травми, при неоперабилна Madelung деформация на възрастен и за корекция на радиоулнарен dyssymmetry след лошо зараснал Colles. Дорзален разрез по локализацията на дисталния край на ulna, отделяне между сухожилията на ECU и EDM, отваряне на DRUJ, напречно или леко косо прерязване на ulna на разстояние около 1,5–2 cm проксимално от processus styloideus ulnae. Дисталният фрагмент се хваща с костодържател и се мобилизира, като се срязва капсулата на DRUJ; processus styloideus се срязва внимателно и се оставя залepен за ulnar collateral ligament. Капсулата заедно с периоста се пришива над дисталния край на остатъчната ulna за стабилизация и за предотвратяване на болезнен radioulnar convergence при натоварване.
+</div>
+</details>
 
-Усложненията на Darrach (radioulnar convergence със стопяване на дисталния край на ulna към radius при натоварване, нестабилност на остатъка с „болезнено щракане“ при ротация) са обусловили развитието на алтернативи — hemiresection-interposition arthroplasty по Bowers (запазваща ulnar styloid като TFCC anchor и интерпозиция на capsule flap), Sauvé–Kapandji (артродеза на DRUJ с проксимална pseudoarthrosis на ulna), артропластика на DRUJ. Изборът зависи от изискванията към силата на захвата, очакванията към тежката работа и възрастта на пациента.
+<details>
+<summary>Пластична реконструкция на DRUJ</summary>
+<div class="ts-body">
 
-## Денервация на гривнената става (по Wilhelm)
+Нестабилността на DRUJ поради разкъсване на връзковия апарат (типично след подостра Galeazzi травма или след резекция на triangular fibrocartilage) се коригира оперативно сравнително рано, преди да са се появили дегенеративни изменения. Прави се Т-образен разрез с надлъжно рамо по улнарната страна на предмишницата (започващ няколко сантиметра над китката) и напречно рамо по дорзалната страна. Взема се автоприсадък от palmaris longus или консервиран сухожилен алоприсадък; лакътната кост се депериостира проксимално от главата й. Присадъкът се прокарва около ulnar neck и краищата му се фиксират към radius със снимаем телен шев или анкер. При възстановяване се възпроизвеждат двата компонента на стабилността — палмарната и дорзалната радиоулнарни лигаментни системи. Имобилизация в супинация (за дорзална нестабилност) или неутрална позиция (при двупосочна) с дълъг гипс за 6 седмици, последвани от 4 седмици в къс гипс. Тази техника е концептуалният предшественик на съвременните анатомични реконструкции по Adams-Berger (двойна тенодеза на дорзалните и волярните радиоулнарни лигаменти с присадък през радиален костен тунел).
 
-Денервацията на гривнената става е елегантна аналгетична процедура при болезнена дегенеративна артроза от различен генезис (несраснало счупване на os scaphoideum, болест на Kienböck, посттравматична артроза, ревматоидна болест), когато се търси избавление от болка без жертване на движенията. Анатомичното проучване на Wilhelm установява, че китъчната става се инервира от клончета на n. medianus, n. ulnaris и n. radialis (повърхностен клон), както и от ставните клончета на nervi interossei anterior et posterior. Класическата техника изисква селективно прерязване на ставните клончета — основно на дисталните разклонения на двата междукостни нерва (PIN дистално от изхода му от m. supinator при волярната денервация, AIN дистално от m. pronator quadratus при дорзалната) — през два малки разреза. Резултатите са благоприятни при правилен подбор: повече от 70% от пациентите отчитат значимо облекчение, без забележима загуба на проприоцепция или мускулна функция.
+</div>
+</details>
 
-## Артродеза на гривнената става
+<details>
+<summary>Резекция на дисталната ulna по Darrach</summary>
+<div class="ts-body">
 
-Артродезата на гривнената става е резервен оперативен метод при тежка дегенеративна артроза с провалена неоперативна терапия или след неуспешни мото-щадящи процедури. Оптималното функционално положение е 15–20° дорзална флексия и леко улнарно отклонение — позиция, която на фасова рентгенография подравнява втора метакарпална кост с radius. Операцията се извършва след 16-годишна възраст, когато растежният център в дисталния radius е затворен.
+Резекцията на дисталната ulna по Darrach (W. Darrach, 1912) е една от най-устойчивите процедури в репертоара на предмишничната хирургия. Индикации: болезнен ulnar impaction syndrome с напреднала DRUJ артроза, ригидна нестабилност на DRUJ след сложни травми, неоперабилна Madelung-деформация на възрастен, корекция на радиоулнарна дисметрия след лошо зараснал Colles.
 
-Класическата българска техника на Цанева използва компресивна артродеза през дорзален 5-образен разрез с екартиране на разгъвачите на пръстите улнарно и разгъвачите на китката + дългия разгъвач на палеца радиално. След отваряне на радиокарпалната става (понякога заедно с интеркарпалната) ставните хрущяли се отстраняват, и компресията се осигурява с винт от crista iliaca до дисталния radius. Спорен е въпросът дали интеркарпалната става също винаги трябва да се артродезира — при изолирана радиокарпална патология запазването на midcarpal движение има теоретично предимство.
+**Техника.** Дорзален разрез по локализацията на дисталния край на ulna, отделяне между сухожилията на extensor carpi ulnaris и extensor digiti minimi, отваряне на DRUJ, напречно или леко косо прерязване на ulna на разстояние около 1,5–2 cm проксимално от стилоидния израстък. Дисталният фрагмент се хваща с костодържател и се мобилизира, като се срязва капсулата на DRUJ; стилоидният израстък се срязва внимателно и се оставя залепен за улнарния колатерален лигамент. Капсулата заедно с периоста се пришива над дисталния край на остатъчната ulna за стабилизация и за предотвратяване на болезнена радиоулнарна конвергенция при натоварване.
 
-Техника на Adams: 5-образен разрез между II и III дорзален костно-фиброзен канал; общият разгъвач на пръстите се екартира улнарно, екстензорите на китката — радиално (при нужда и временно се дезинсерират за по-добра експозиция). Отваря се радио-карпалната става; от crista iliaca се взема кортикоспонгиозен присадък с подходяща дължина и около 1,5 cm широчина. Присадъкът се поставя в костен жлеб, ангажиращ дисталния radius, карпуса и основата на II и III метакарпална кост, оформен с вибрационен трион. Имобилизация с подплатен гипс за 2 седмици, конците се отстраняват, гипсът се сменя, и обездвижването се поддържа до настъпване на костно срастване (средно 3 месеца). DRUJ при тази операция не се засяга — ротациите на предмишницата се запазват.
+**Усложнения и алтернативи.** Радиоулнарна конвергенция със стопяване на дисталния край на ulna към radius при натоварване, нестабилност на остатъка с „болезнено щракане“ при ротация — основни причини за развитие на алтернативи: hemiresection-interposition arthroplasty по Bowers (запазваща стилоидния израстък като захват на triangular fibrocartilage и интерпозиция на капсулен flap), Sauvé-Kapandji (артродеза на DRUJ с проксимална псевдоартроза на ulna), артропластика на DRUJ. Изборът зависи от изискванията към силата на захвата, очакванията към тежката работа и възрастта на пациента.
 
-Алтернативни техники: 5-образен разрез между III и IV костно-фиброзен канал с „обърнат на 180°“ присадък от дорзалната повърхност на дисталния radius (взимането на присадък от собствената кост избягва морбидността на crista iliaca); артродеза с вклиняване на костните краища при тежки контрактури, изискващи скъсяване на скелета; компресивна артродеза с пръчка по Mannerfeldt при ревматоидно поражение с Sauvé–Kapandji ulnar resection.
+</div>
+</details>
 
-## Ампутация на предмишницата и кинематизация по Krukenberg
+<details>
+<summary>Денервация на гривнената става по Wilhelm</summary>
+<div class="ts-body">
 
-При тежки травматични увреждания, тумори или гангрена ампутацията на предмишницата трябва да бъде извършена колкото може по-дистално с цел запазване на функционални възможности на чуканчето и на потенциала за бъдеща кинематизация. Това е важно както за протезирането, така и за специфичните функционални реконструкции. Особено неблагоприятни са много късите чуканчета (под 6 cm от лакътната гънка), при които протезирането е технически проблемно и кинематизацията — невъзможна.
+Денервацията на гривнената става е елегантна аналгетична процедура при болезнена дегенеративна артроза от различен генезис (несраснало счупване на os scaphoideum, болест на Kienböck, посттравматична артроза, ревматоиден артрит), когато се търси избавление от болка без жертване на движенията. Анатомичното проучване на Wilhelm установява, че гривнената става се инервира от клончета на средничния, лакътния и радиалния нерв (повърхностен клон), както и от ставните клончета на предния и задния междукостен нерв. Класическата техника изисква селективно прерязване на ставните клончета — основно на дисталните разклонения на двата междукостни нерва (заден дистално от изхода му от supinator при дорзалната денервация, преден дистално от pronator quadratus при волярната) — през два малки разреза. Резултатите са благоприятни при правилен подбор: повече от 70% от пациентите отчитат значимо облекчение, без забележима загуба на проприоцепция или мускулна функция.
 
-Класическата техника на ампутация: волярно и дорзално ламбо с приблизително еднакъв размер (по-големи в проксималните ампутации, защото меките тъкани са по-обемисти). Лигират се a. radialis, a. ulnaris и a. interossea; идентифицират се и се прерязват остро трите нерва (n. medianus, n. ulnaris, n. radialis), след което се пускат, за да се скрият в меките тъкани (за избягване на болезнена неврома в подкожието). Сухожилията на флексорите и екстензорите се разпределят приблизително по равно между двете кости.
+</div>
+</details>
+
+<details>
+<summary>Артродеза на гривнената става</summary>
+<div class="ts-body">
+
+Резервен оперативен метод при тежка дегенеративна артроза с провалена неоперативна терапия или след неуспешни мото-щадящи процедури. Оптималното функционално положение е 15–20° дорзална флексия и леко улнарно отклонение — позиция, която на стандартна рентгенография подравнява втора метакарпална кост с radius. Операцията се извършва след 16-годишна възраст, когато растежният център в дисталния radius е затворен.
+
+**Българска техника на Цанева.** Компресивна артродеза през дорзален 5-образен разрез с екартиране на разгъвачите на пръстите улнарно и на разгъвачите на китката с дългия разгъвач на палеца — лъчево. След отваряне на радиокарпалната става (понякога заедно с интеркарпалната) ставните хрущяли се отстраняват, и компресията се осигурява с винт от crista iliaca до дисталния radius. Спорен е въпросът дали интеркарпалната става също винаги трябва да се артродезира — при изолирана радиокарпална патология запазването на midcarpal движение има теоретично предимство.
+
+**Техника на Adams.** 5-образен разрез между втория и третия дорзален костно-фиброзен канал; общият разгъвач на пръстите се екартира улнарно, екстензорите на китката — лъчево (при нужда временно се дезинсерират за по-добра експозиция). Отваря се радиокарпалната става; от crista iliaca се взема кортикоспонгиозен присадък с подходяща дължина и около 1,5 cm широчина. Присадъкът се поставя в костен жлеб, ангажиращ дисталния radius, карпуса и основата на втората и третата метакарпална кост, оформен с вибрационен трион. Имобилизация с подплатен гипс за 2 седмици, конците се отстраняват, гипсът се сменя, и обездвижването се поддържа до настъпване на костно срастване (средно 3 месеца). DRUJ при тази операция не се засяга — ротациите на предмишницата се запазват.
+
+**Алтернативни техники.** 5-образен разрез между третия и четвъртия костно-фиброзен канал с обърнат на 180° присадък от дорзалната повърхност на дисталния radius (взимането на присадък от собствената кост избягва морбидността на crista iliaca); компресивна артродеза с прът по Mannerfeldt при ревматоидно поражение с Sauvé-Kapandji улнарна резекция.
+
+</div>
+</details>
+
+<details>
+<summary>Ампутация на предмишницата и кинематизация по Krukenberg</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-5/krukenberg.svg" data-figure-alt="Кинематизация на чуканчето по Krukenberg" aria-label="Увеличи">
     <img src="/img/anatomy-5/krukenberg.svg" alt="Кинематизация на чуканчето по Krukenberg" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Кинематизирана предмишница по Krukenberg: разделените радиален и улнарен бранш на чуканчето, всеки с автономно мускулно управление, образуват функционален пинцетен захват с тактилна обратна връзка от собствената кожа — особено ценно при сляп ампутант или при двустранна ампутация.</span>
+    <span class="md-figure-caption">Кинематизирана предмишница по Krukenberg: разделените радиален и улнарен бранш на чуканчето, всеки с автономно мускулно управление, образуват функционален щипков захват с тактилна обратна връзка от собствената кожа — особено ценно при сляп ампутант или при двустранна ампутация, при които протезата не предоставя сетивна обратна връзка.</span>
     <span class="md-figure-attribution"> · Egmason, <a href="https://commons.wikimedia.org/wiki/File:Krukenburg.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
-Кинематизация по Krukenberg (Krukenberg, 1917, F. Krukenberg) — една от най-елегантните функционални реконструкции на ампутирана предмишница: чуканчето се разделя на два бранша (радиален и улнарен), всеки с автономно мускулно управление, оформящи функционален „пинцетен“ захват без необходимост от протеза. Първоначалното индикационно поле е сляп ампутант (двустранна ампутация при пациент с увредено зрение), при който тактилната обратна връзка от собствените браншове предоставя проприоцептивна функция, недостижима от протеза. Достъпните мускули — m. pronator teres, m. brachialis, m. flexor carpi radialis, m. supinator (радиална страна) и m. flexor carpi ulnaris, m. flexor digitorum (улнарна страна) — се разпределят между двата бранша. Радиалният бранш се покрива с волярното кожно ламбо, дефектът по волярната страна на улнарния бранш — с перфориран кожен присадък в пълна дебелина.
+При тежки травматични увреждания, тумори или гангрена ампутацията на предмишницата трябва да бъде извършена колкото може по-дистално с цел запазване на функционални възможности на чуканчето и на потенциала за бъдеща кинематизация. Особено неблагоприятни са много късите чуканчета (под 6 cm от лакътната гънка), при които протезирането е технически проблемно и кинематизацията — невъзможна.
 
-Модификация на Albrecht: показана при ампутация около средата на предмишницата или дори по-проксимално; дава възможност за оформяне на сравнително тънки, добре подвижни браншове. При дълги предлакътни чукани (под 6 cm от лакътя) техниката на Albrecht не е оптимална поради смущения в кръвоснабдяването.
+**Класическа техника на ампутация.** Волярно и дорзално ламбо с приблизително еднакъв размер (по-големи при проксимални ампутации, защото меките тъкани са по-обемисти). Лигират се лъчевата, улнарната и общата междукостна артерия; идентифицират се и се прерязват остро трите нерва (среден, улнарен, радиален), след което се пускат, за да се скрият в меките тъкани — за избягване на болезнен невром в подкожието. Сухожилията на флексорите и екстензорите се разпределят приблизително поравно между двете кости.
 
-Модификация на Холевич: волярен разрез започващ 6–8 cm под лакътната гънка, проксимално разрезът е по радиалната страна, върви около 2,5–3,5 cm проксимално и улнарно под 45° към оста на предмишницата, след което продължава 5–7 cm под 90° към първия в дистална и улнарна посока; в дълбочина се прониква между сухожилията на FDS, открива се n. medianus, FDS се разделя на две половини така че сухожилията на IV и V пръст да отидат в „улнарния“ бранш, n. medianus се срязва на височината на m. pronator teres. M. flexor digitorum profundus и m. flexor pollicis longus се разделят между двата бранша; n. radialis и n. ulnaris се теглят и скъсяват само анатомично; единият бранш покрива волярното ламбо, другият — със свободен присадък. Тази модификация осигурява по-добра контурираност и контрол на двата бранша.
+**Кинематизация по Krukenberg (1917, F. Krukenberg).** Една от най-елегантните функционални реконструкции на ампутирана предмишница: чуканчето се разделя на два бранша (лъчев и улнарен), всеки с автономно мускулно управление, оформящи функционален щипков захват без необходимост от протеза. Първоначалното индикационно поле е сляп ампутант (двустранна ампутация при пациент с увредено зрение), при който тактилната обратна връзка от собствените браншове предоставя проприоцептивна функция, недостижима от протеза. Достъпните мускули — pronator teres, brachialis, flexor carpi radialis, supinator (лъчева страна) и flexor carpi ulnaris, flexor digitorum (улнарна страна) — се разпределят между двата бранша. Лъчевият бранш се покрива с волярното кожно ламбо, дефектът по волярната страна на улнарния бранш — с перфориран кожен присадък в пълна дебелина.
 
+**Модификация на Albrecht.** Показана при ампутация около средата на предмишницата или дори по-проксимално; дава възможност за оформяне на сравнително тънки, добре подвижни браншове. При дълги предлакътни чуканчета (под 6 cm от лакътя) техниката на Albrecht не е оптимална поради смущения в кръвоснабдяването.
 
+**Модификация на Холевич.** Волярен разрез, започващ 6–8 cm под лакътната гънка; проксимално разрезът е по лъчевата страна, върви около 2,5–3,5 cm проксимално и улнарно под 45° към оста на предмишницата, след което продължава 5–7 cm под 90° към първия в дистална и улнарна посока. В дълбочина се прониква между сухожилията на flexor digitorum superficialis, открива се средничният нерв, flexor digitorum superficialis се разделя на две половини, така че сухожилията за безименния и малкия пръст да отидат в улнарния бранш; средничният нерв се срязва на височината на pronator teres. Flexor digitorum profundus и flexor pollicis longus се разделят между двата бранша; радиалният и улнарният нерв се теглят и скъсяват само анатомично; единият бранш покрива волярното ламбо, другият — със свободен присадък. Тази модификация осигурява по-добра контурираност и контрол на двата бранша.
 
-Стандартният волярен достъп до дисталния radius за волярно плаково фиксиране на фрактури на дисталния radius използва модифициран достъп по Henry с надлъжен разрез над сухожилието на FCR. Обвивката на FCR се отваря, сухожилието се ретрахира улнарно заедно с nervus medianus и съдържимото на сухожилната обвивка, а musculus pronator quadratus се освобождава от radius. Дисталният radius след това се открива за поставяне на плака. Идентифицира се watershed line (напречният ръб, маркиращ волярната изпъкналост на дисталния radius) и плаката се позиционира на нея или проксимално от нея, за да се избегне раздразнение на флексорните сухожилия. Специфичните съображения са разгледани в Тема Травма-17.
+</div>
+</details>
 
-Дорзалният достъп до дисталния radius се използва при избрани индикации (дорзална фрактура на Barton, дорзални die-punch фрагменти, специфично дорзално плаковане). Достъпът е между третия екстензорен компартмент (musculus extensor pollicis longus, EPL) и четвъртия екстензорен компартмент (EDC), като EPL при затварянето се прекарва дорзално извън обвивката си.
+<details>
+<summary>Достъпи до дисталния radius (волярен и дорзален)</summary>
+<div class="ts-body">
 
-## Източници и класическа литература
+**Стандартен волярен достъп.** Модифициран Хенри с надлъжен разрез над сухожилието на flexor carpi radialis. Обвивката на flexor carpi radialis се отваря, сухожилието се ретрахира улнарно заедно със средничния нерв и съдържимото на сухожилната обвивка, а pronator quadratus се освобождава от radius. Дисталният radius след това се открива за поставяне на плака. Идентифицира се watershed line (напречният ръб, маркиращ волярната изпъкналост на дисталния radius) и плаката се позиционира на нея или проксимално от нея, за да се избегне раздразнение на флексорните сухожилия.
 
-Хирургичната анатомия на предмишницата почива на *Médecine opératoire* на Velpeau (1832) и *Traité* на Малгень (1847). *Leçons orales* на Дюпюитрен (1832, том 3) дава основополагащите клинични наблюдения за фрактурите на радио-улнарната диафиза. Механичната роля на membrana interossea е разбрана от Малгень, който разпознава пропорционалното изместване на едната кост спрямо другата.
+**Дорзален достъп до дисталния radius.** Прилага се при избрани индикации (дорзална фрактура на Barton, дорзални die-punch фрагменти, специфично дорзално плаковане). Достъпът е между третия екстензорен компартмент (extensor pollicis longus) и четвъртия (extensor digitorum), като extensor pollicis longus при затварянето се прекарва дорзално извън обвивката си за избягване на руптура при триене върху плака. Подробните съображения за фиксацията са разгледани в темата за дисталния radius.
 
-- **Velpeau** (1832): *Nouveaux éléments de médecine opératoire*, том 2. · [Факсимиле](https://archive.org/details/BIUSante_43901x02)
-- **Малгень** (1847): *Traité des fractures et des luxations*, том 1 — предмишница. · [Факсимиле](https://archive.org/details/BIUSante_32985x01)
-- **Дюпюитрен** (1832): *Leçons orales de clinique chirurgicale*, том 3. · [Факсимиле](https://archive.org/details/leonsoralesdec03dupu)
+</div>
+</details>
 
-## Обобщение и ключови изводи
+<details>
+<summary>Следоперативни грижи</summary>
+<div class="ts-body">
 
-Предмишницата съдържа две успоредни дълги кости (radius и ulna), свързани от membrana interossea и артикулирани в проксималната и дисталната radioulnar articulation, като ротационната функция на пронацията и супинацията зависи от запазването на радиалната дъга и взаимоотношенията на radioulnar articulation. Основните хирургични достъпи трябва да зачитат тази анатомия, като защитават nervus interosseous posterior (основната неврологична структура, изложена на риск при достъпите до radius), повърхностния клон на nervus radialis (подкожен по радиалния ръб на дисталната предмишница), nervus medianus и nervus interosseous anterior (волярен компартмент), nervus ulnaris и неговия дорзален клон (медиален компартмент) и arteria radialis и arteria ulnaris.
+След плакова остеосинтеза на двете кости — функционална превръзка или леко обездвижване на китката в неутрална позиция за 7–10 дни (контрол на отока), последвани от ранна функционална мобилизация на лакът, китка и пръсти. Пълен товар на предмишницата след 12 седмици при радиологично потвърдено заздравяване.
 
-Достъпът по Henry (волярен) използва интервала между musculus brachioradialis и FCR, като супинацията на предмишницата измества PIN медиално при дисекцията на musculus supinator и проксималния radius. Достъпът осигурява достъп до цялата дължина на radius и е стандартен при фиксирането на фрактури на диафизата на лъча.
+След остеосинтеза на дисталния radius с волярна заключваща плака — ранна функционална мобилизация на пръсти от първия следоперативен ден; функционална превръзка за 4–6 седмици при стабилна фиксация. Гипс не се прилага при заключваща плакова остеосинтеза с осем кортикални винтови захвата.
 
-Достъпът по Thompson (дорзален) използва интервала между две нервни зони (ECRB и EDC) като пронацията на предмишницата измества PIN радиално при дисекцията.
+След сухожилен трансфер — обездвижване в позицията, отнимаща напрежение от трансфера (виж конкретната операция), за 4 седмици при добре пришит трансфер; следва прогресивно увеличаване на активна и пасивна амплитуда под контрол на ръчен терапевт. Пълно натоварване и захват с пълна сила — след 12 седмици.
 
-Достъпът се използва при проксимални фрактури на лъча и при избрани индикации, при които волярният достъп е противопоказан.
+След артродеза на гривнената става — подплатен гипс за 2 седмици с премахване на конците, последван от пълнообхватен гипс за 10 седмици. Контролна рентгенография на 6, 12 и 16 седмици за потвърждаване на консолидацията.
 
-Директният улнарен достъп използва подкожния ръб на ulna и осигурява прост достъп без специфичен неврологичен риск; прилага се при фиксиране на фрактури на диафизата на ulna и при скъсяваща остеотомия на ulna.
+</div>
+</details>
 
-Достъпите до дисталния radius (волярна модификация по Henry и дорзален) са разгледани в Тема Травма-17, като watershed line е критичният анатомичен ориентир за позициониране на волярна плака.
+</div>
+</details>
 
-Принципите за анатомична репозиция на radius с запазване на радиалната дъга, избягване на синостоза (хетеротопно вкостяване между radius и ulna) чрез прецизна оперативна техника и защита на PIN чрез подходящо позициониране на предмишницата са от централно значение при хирургията на предмишницата.
+</div>
+</details>
+</section>
 
-От класическата българска и руска ортопедична школа в хирургията на предмишницата си струва да се запомнят: пространството на Pirogov и неговата роля при волярни флегмони и V-образни теносиновити; задният достъп по Cadenat като исторически достъп до двете кости и неговия повишен риск от радиоулнарна синостоза; декомпресивната фасциотомия по Бойчева като емергентна процедура при ранен синдром на Volkmann (без турникет, със задължителна декомпресия на n. medianus); алгоритъмът по Tsuge при установена контрактура на Volkmann с muscle slide по Page–Scaglietti, ексцизионна процедура по Seddon и Епщайн–Розов сухожилна трансференция; превръщането на m. pronator teres в супинатор по Bunnell за пронационна контрактура; пълният каталог на opponensplasty при ниска n. medianus парализа (Bunnell, Merle d'Aubigné, Camitz, Стойчева, Littler, Панева, Матев); транспозициите по Bunnell–Stiles, Brand и Матев при ниска n. ulnaris парализа; класическите принципи на Jaschar/Чаклар за висока n. radialis парализа с транспозиции по Jaschar, Boyes и Franke; компресивната плакова остеосинтеза по Панева с „balance maneuver“ на Darrach; вътрекостната остеосинтеза с пирон на Кончеров; радио-улнарната суперпозиция при дефекти; остеопластичната корекция на Colles по Холевич и Янков–Попова; класическата техника на Бойчев при застарели Monteggia с реконструкция на ligamentum anulare с педикулиран фасциален присадък; класическата корекция на Madelung по Darrach и нейните съвременни алтернативи (Vickers, Sauvé–Kapandji); двуетапната корекция при manus vara по Max Lange с прилагане на апарат на Илизаров; денервацията на гривнената става по Wilhelm; артродезите на гривнената става по Цанева и Adams; кинематизацията на чуканчето по Krukenberg с модификациите на Albrecht и Холевич.
+<section class="topic-section" id="outcomes">
+<details>
+<summary>Усложнения и резултати</summary>
+<div class="ts-body">
 
-Следващата глава разглежда ръката, завършвайки анатомичната последователност на горния крайник.
+**Достъп по Хенри.** Увреждане на задния междукостен нерв (основна грижа; минимизира се чрез супинация на предмишницата и внимателна субпериостална елевация на supinator); увреждане на повърхностния клон на радиалния нерв с болезнен невром; увреждане на лъчевата артерия (рядко, но възможно при енергична ретракция); увреждане на средничния нерв при проксимално удължаване.
+
+**Достъп по Томпсън.** Увреждане на задния междукостен нерв (основна грижа; особен риск при дисекцията на supinator); увреждане на повърхностния клон на радиалния нерв; скованост на лакъта при обширен достъп.
+
+**Директен улнарен достъп.** Увреждане на дорзалния кожен клон на лакътния нерв с дисестезия в дорзоулнарната китка.
+
+**Заден достъп по Cadenat.** Радиоулнарна синостоза — основното усложнение, мотивиращо отказа от единичен дорзален разрез при двукостни фрактури.
+
+**Компресивна плакова остеосинтеза.** Несрастване (5–10% при изолирани плакови плотерезки на ulna); рефрактура след отстраняване на плаката (риск през първите 2 години); инфекция (1–3%); пареза на задния междукостен нерв при дорзален достъп; синостоза.
+
+**Вътрекостно заковаване.** Спукване на кортекс при несъответствие в диаметъра; фалшив път; иритация на сухожилия на olecranon; ограничена ротационна стабилност спрямо плакова синтеза.
+
+**Реконструкция при Volkmann (Page-Scaglietti).** Остатъчна слабост на флексорите; повторна контрактура при недостатъчно подхлъзване; увреждане на средничния и лакътния нерв при дисекцията.
+
+**Сухожилни трансфери.** Адхезии и ограничено сухожилно подвижение; недостатъчна сила на трансферирания мускул; неконгруентност на разпределянето на силата по съседни пръсти; синтез провал при ниска биомеханична сила на донора. Резултатите при опериран от опитен хирург — възстановяване на функционален захват в 70–90% от случаите.
+
+**Кинематизация по Krukenberg.** Кожна некроза при недостатъчно покриване с присадък (особено при модификация на Albrecht и проксимални ампутации); недостатъчна сила на пинцетния захват при увредени мускули; психосоциални съображения — в съвременната ера на електронни протези показанията се стесняват до сляп ампутант и двустранна ампутация в развиващи се страни.
+
+**Артродеза на гривнената става.** Несрастване (5%); неоптимална позиция на фузията с функционални ограничения; болка в съседни стави (DRUJ, ставите на карпуса); инфекция (1–2%).
+
+**Резекция на дисталната ulna по Darrach.** Радиоулнарна конвергенция при натоварване; болезнено щракане при ротация; намален захват на тежки натоварвания — мотивиращи развитието на алтернативи (Bowers, Sauvé-Kapandji).
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="bulgarian">
+<details>
+<summary>Местни приноси</summary>
+<div class="ts-body">
+
+**Бойчо Бойчев <sup class="natflag">BG</sup> (1908–1992).** Създател на ортопедична школа в България; едноименното УСБАЛО „Проф. Бойчо Бойчев" в Горна баня. Тритомната *Оперативна ортопедия и травматология* (София) остава референция в курикулума и съдържа описания на класическите достъпи в предмишничната област, на едноцеповата конструкция при тежки сегментни дефекти на двете кости, на оперативната корекция на вродена радиоулнарна синостоза, на двуетапното лечение при вродена липса на ulna с апарат на Илизаров, и на двуетапната операция при стара Monteggia с реконструкция на ligamentum anulare чрез педикулиран фасциален присадък.
+
+**Пирогов <sup class="natflag">RU</sup>.** Дълбоката волярна костно-фасциална кухина в дисталната трета на предмишницата (spatium antebrachii profundum), заключена между междукостната мембрана и pronator quadratus отзад, flexor digitorum profundus и flexor pollicis longus отпред. Анатомичен субстрат за разпространение на волярни флегмони и V-образни теносиновити от ръката към предмишницата; възпроизведена и преподавана в българския курикулум по топографска анатомия и оперативна хирургия.
+
+**Епщайн-Розов <sup class="natflag">RU</sup>.** Трансфер на flexor digitorum superficialis към flexor digitorum profundus при оформена контрактура на Volkmann с инфаркт на дълбоките флексори — модификация на ексцизионната процедура на Seddon с шев „странично към страница“, осигуряваща хватателна функция от запазените повърхностни флексори. Включена в българската школа като едноетапна тактика при умерен Tsuge тип.
+
+**Карагьозов <sup class="natflag">BG</sup>.** Модификация на подхлъзването на флексорната маса при оформена контрактура на Volkmann с акцент върху едновременна декомпресия на средничния и лакътния нерв и едноетапно възстановяване на пронацията чрез обръщане на pronator teres. Цитиран в българската ортопедична литература като компромисна тактика при умерени форми по Tsuge.
+
+**Стойчева <sup class="natflag">BG</sup>.** Модификация на opponensplasty при ниска пареза на средничния нерв в детска възраст: flexor carpi radialis, прерязан на границата мускул-сухожилие и обърнат на 180°, прекаран подкожно през дланта до инсерцията на opponens. Особено приложима при постполиомиелитна пареза и при деца, при които повърхностните флексори не са оптимален донор.
+
+**Иван Матев <sup class="natflag">BG</sup>.** Изтъкнат български хирург на горния крайник. Класически трансфери в неговото име: opponensplasty с двойно пришиване към extensor pollicis brevis и adductor pollicis за едновременно стабилизиране на основната фаланга и палмарната дъга; възстановяване на флексията на основната фаланга на палеца при пареза на лакътния нерв чрез flexor digitorum superficialis на безименния пръст, прекаран през карпалния канал по хода на flexor pollicis longus и фиксиран през напречен костен канал на основната фаланга.
+
+**Панева <sup class="natflag">BG</sup>.** Двукорпусен opponensplasty с palmaris longus и flexor carpi radialis, удължени с консервирани алоприсадъци и пришити към opponens и abductor pollicis brevis. Дефинира съвременните принципи на компресивната плакова остеосинтеза в българската традиция с акцент върху самокомпресивната плака и реда на завинтване на компресивните винтове.
+
+**Холевич <sup class="natflag">BG</sup>.** Остеопластична корекция на лошо зараснал Colles с клиновидна остеотомия и спонгиозен присадък от crista iliaca; модификация на кинематизацията по Krukenberg с дискретен волярен разрез и оптимално разделяне на повърхностните флексори между двата бранша; принос към оперативната школа на следвоенната българска хирургия на ръката.
+
+**Янков-Попова <sup class="natflag">BG</sup>.** L-образна (Г-образна) компресивна пирон-плака за корекция на лошо зараснал дистален radius с напречен копиевиден клон, забиван в дисталния фрагмент успоредно на ставната повърхност чрез предварително оформено с водач ложе. Технологично решение с компресивен характер при сложни деформации в зряла възраст.
+
+**Цанева <sup class="natflag">BG</sup>.** Компресивна артродеза на гривнената става с винт от crista iliaca до дисталния radius през дорзален 5-образен разрез — българска класическа техника, описана преди наложилата се ера на дорзалните заключващи плочи за wrist fusion.
+
+**Конфорти <sup class="natflag">BG</sup> и Панева <sup class="natflag">BG</sup>.** Невролиза на средничния нерв при синдром на pronator teres през долен достъп през фасциалния тунел с щадене на двигателните клонове за дълбоките флексори. Класическо описание в българската литература по хирургия на ръката.
+
+**Кончеров <sup class="natflag">BG</sup>.** Българска вътрекостна пирон-система за остеосинтеза на ulna при диафизарни фрактури с разширяване на канала; предвижда отворен и затворен (рентгеноскопско направляван) метод и стандартизирана техника за избягване на типичните грешки (фалшив път, спукване на кортекс, иритация на сухожилия върху olecranon).
+
+**Krukenberg <sup class="natflag">DE</sup> (1917).** Кинематизация на ампутирано предмишнично чуканче с разделяне на два функционални бранша (лъчев и улнарен) за пинцетна функция със собствена тактилна обратна връзка — особено при сляп ампутант. В българската традиция остава широко познат заради модификацията на Холевич с дискретен волярен разрез и оптимално разпределение на flexor digitorum superficialis между двата бранша.
+
+**Bunnell <sup class="natflag">US</sup>.** *Surgery of the Hand* (1944) — opponensplasty с flexor digitorum superficialis на безименния пръст; трансфери при пареза на лакътния нерв (Bunnell-Stiles); концептуалното превръщане на pronator teres в супинатор при пронационна контрактура. Включен в българския курикулум по хирургия на ръката като референция за стандарта на сухожилните трансфери.
+
+**Чаклар (Jaschar) <sup class="natflag">RU</sup>.** Класически принципи за сухожилни трансфери при висока пареза на радиалния нерв, формулирани в българската литература на основата на руските описания на Perthes, Джанелидзе, Тончев и Тихонович. Запазване на поне един сгъвач на китката, синергично разгъване на китката с пръстова флексия, общ двигател за extensor digitorum communis и extensor pollicis longus, отделни двигатели за extensor pollicis brevis и abductor pollicis longus.
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="classical">
+<details>
+<summary>Класически източници</summary>
+<div class="ts-body">
+
+<aside class="callout callout-classical">
+  <strong>Класическа линия — оперативна хирургия на предмишницата</strong>
+  <p>Хирургичната анатомия на предмишницата почива на френската школа от първата половина на деветнадесети век. *Nouveaux éléments de médecine opératoire* на Velpeau (Париж, 1832) систематизира предмишничните достъпи на основата на топографско-анатомичен принцип; *Traité des fractures et des luxations* на Малгень (Париж, 1847) дава първите механични анализи на двукостните диафизарни фрактури и разпознава пропорционалното изместване на едната кост спрямо другата като последица от междукостната мембрана. *Leçons orales* на Дюпюитрен (Париж, 1832, том 3) предоставя основополагащите клинични наблюдения за фрактурите на радио-улнарната диафиза. Henry публикува класическия си текст *Extensile Exposure* (Edinburgh, 1945), който дефинира универсалния волярен достъп, и Thompson описва дорзалния достъп до проксималния radius през интервала между extensor carpi radialis brevis и extensor digitorum (1918).</p>
+  <ul>
+    <li><strong>Velpeau 1832</strong> — *Nouveaux éléments de médecine opératoire*, том 2. (<a href="https://archive.org/details/BIUSante_43901x02">Факсимиле</a>)</li>
+    <li><strong>Малгень 1847</strong> — *Traité des fractures et des luxations*, том 1, предмишница. (<a href="https://archive.org/details/BIUSante_32985x01">Факсимиле</a>)</li>
+    <li><strong>Дюпюитрен 1832</strong> — *Leçons orales de clinique chirurgicale*, том 3. (<a href="https://archive.org/details/leonsoralesdec03dupu">Факсимиле</a>)</li>
+    <li><strong>Thompson 1918</strong> — дорзален достъп до проксималния radius.</li>
+    <li><strong>Henry 1927; 1945</strong> — *Extensile Exposure*; волярен универсален достъп.</li>
+    <li><strong>Page 1923 → Scaglietti</strong> — подхлъзване на флексорната маса при оформена контрактура на Volkmann.</li>
+    <li><strong>Seddon 1956</strong> — ексцизионна процедура при тежка контрактура на Volkmann.</li>
+    <li><strong>Tsuge 1975</strong> — класификация на оформената контрактура на Volkmann в три степени.</li>
+    <li><strong>Darrach 1912</strong> — резекция на дисталната ulna при болезнен DRUJ.</li>
+    <li><strong>Krukenberg 1917</strong> — кинематизация на чуканчето на предмишницата.</li>
+    <li><strong>Bunnell 1944</strong> — *Surgery of the Hand*; opponensplasty с flexor digitorum superficialis на безименния пръст.</li>
+    <li><strong>Boyes</strong> — трансфери при висока пареза на радиалния нерв с пасаж през междукостната мембрана.</li>
+    <li><strong>Bado 1967</strong> — класификация на фрактурата на Monteggia в четири типа.</li>
+    <li><strong>Müller, Allgöwer, Schneider 1969</strong> — AO принципи на компресивна плакова остеосинтеза на двете кости.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+</section>
+
+<section class="topic-section" id="literature">
+<details>
+<summary>Препоръчителна литература</summary>
+<div class="ts-body">
+
+1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Стандартното оперативно ръководство с диаграматични илюстрации на интернервните плоскости и стъпковата техника; основен учебник за резидентската подготовка по достъпите по Хенри, Томпсън и директния улнарен.*
+2. **Wolfe SW, Pederson WC, Kozin SH, Cohen MS, eds.** *Green's Operative Hand Surgery.* 7th ed. Philadelphia: Elsevier; 2017. — *Изчерпателна референция за компартментална анатомия на предмишницата, безопасни зони за задния междукостен нерв, сухожилни трансфери, реконструкция при оформена контрактура на Volkmann и съвременни алгоритми по Tsuge.*
+3. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Класическа дескриптивна анатомия с акцент върху функционалните отношения; референция за междукостната мембрана, рекурентните съдове и произходите на предмишничните мускули.*
+4. **Tubiana R, Thomine J-M, Mackin E.** *Examination of the Hand and Upper Limb.* Philadelphia: Saunders; 1996. — *Класически справочник за повърхностна анатомия, палпаторни ориентири и клиничен преглед на горния крайник.*
+5. **Germann G, Sherman R, Levin LS, eds.** *Reconstructive Surgery of the Hand and Upper Extremity.* New York: Thieme; 2017. — *Съвременен реконструктивен текст с глави за сухожилни трансфери при парезa на средничния, лакътния и радиалния нерв и за реконструкция при оформена контрактура на Volkmann.*
+6. **Бойчев Б, ред.** *Хирургическа ортопедия* (тритомник; София). — *Класическият учебник на българската ортопедична школа; глави за предмишнична хирургия с описанията на едноцеповата конструкция, операцията при стара Monteggia, корекцията на вродена радиоулнарна синостоза и двуетапната тактика при вродена липса на ulna.*
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-5: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. Mirrors the anatomy-1 V4 hash-open helper. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

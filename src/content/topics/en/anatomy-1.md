@@ -37,6 +37,10 @@ order: 201
   </ol>
 </details>
 
+
+
+## Overview {#overview-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="overview">
 <details open>
 <summary>Overview</summary>
@@ -48,6 +52,10 @@ The spine, extending from the skull base to the sacrum, carries the most varied 
 </details>
 </section>
 
+
+
+## Surgical Anatomy {#surg-anatomy-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Surgical Anatomy</summary>
@@ -287,6 +295,10 @@ The lumbar plexus forms from the anterior rami of L1–L4 within the posterior s
 </details>
 </section>
 
+
+
+## Biomechanics {#biomechanics-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="biomechanics">
 <details>
 <summary>Biomechanics</summary>
@@ -315,6 +327,10 @@ The lumbosacral junction is governed by sacral orientation: pelvic incidence (PI
 </details>
 </section>
 
+
+
+## Landmarks and Imaging {#landmarks-imaging-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="landmarks-imaging">
 <details>
 <summary>Landmarks and Imaging</summary>
@@ -360,6 +376,10 @@ Intraoperatively the level is confirmed by lateral fluoroscopy. In multilevel ca
 </details>
 </section>
 
+
+
+## Classification of Approaches {#classification-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="classification">
 <details>
 <summary>Classification of Approaches</summary>
@@ -381,6 +401,10 @@ The choice of approach is determined by pathology localisation (anterior vs. pos
 </details>
 </section>
 
+
+
+## Treatment {#treatment-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="treatment">
 <details>
 <summary>Treatment</summary>
@@ -841,6 +865,10 @@ The paediatric spine introduces specific considerations. The smaller anatomic sc
 </details>
 </section>
 
+
+
+## Outcomes and Complications {#outcomes-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Outcomes and Complications</summary>
@@ -866,6 +894,10 @@ The complications of spinal surgical approaches vary by anatomic region and proc
 </details>
 </section>
 
+
+
+## Local Contributions {#bulgarian-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Local Contributions</summary>
@@ -899,6 +931,10 @@ From the classical Russian and Ukrainian schools, tightly woven into the Bulgari
 </details>
 </section>
 
+
+
+## Classical Sources {#classical-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="classical">
 <details>
 <summary>Classical Sources</summary>
@@ -923,6 +959,10 @@ Additional classical sources: **Bier / Braun / Kümmel** (1920), *Chirurgische O
 </details>
 </section>
 
+
+
+## Suggested Reading {#literature-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="literature">
 <details>
 <summary>Suggested Reading</summary>

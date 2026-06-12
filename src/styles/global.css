@@ -1852,3 +1852,23 @@ html[data-theme="dark"] .btn-viber:hover {
   border-radius: 4px;
   vertical-align: 0.2em;
 }
+
+
+/* V4 hidden TOC anchors: H2s in markdown that exist solely to populate the
+   right-sidebar TopicTOC. Visually hidden because the visible section header
+   is inside <summary>. The H2 still creates a valid jump target. */
+.prose h2 {
+  position: relative;
+}
+.prose .topic-section > details > summary { /* unchanged */ }
+.prose h2[id$="-h"] {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

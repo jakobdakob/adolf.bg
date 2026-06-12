@@ -37,6 +37,10 @@ order: 201
   </ol>
 </details>
 
+
+
+## Преглед {#overview-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="overview">
 <details open>
 <summary>Преглед</summary>
@@ -48,6 +52,10 @@ order: 201
 </details>
 </section>
 
+
+
+## Хирургична анатомия {#surg-anatomy-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
@@ -287,6 +295,10 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 </section>
 
+
+
+## Биомеханика {#biomechanics-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="biomechanics">
 <details>
 <summary>Биомеханика</summary>
@@ -315,6 +327,10 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 </section>
 
+
+
+## Ориентири и образна диагностика {#landmarks-imaging-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="landmarks-imaging">
 <details>
 <summary>Ориентири и образна диагностика</summary>
@@ -360,6 +376,10 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 </section>
 
+
+
+## Класификация на достъпите {#classification-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="classification">
 <details>
 <summary>Класификация на достъпите</summary>
@@ -381,6 +401,10 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 </section>
 
+
+
+## Лечение {#treatment-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
@@ -841,6 +865,10 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 </section>
 
+
+
+## Усложнения и резултати {#outcomes-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="outcomes">
 <details>
 <summary>Усложнения и резултати</summary>
@@ -866,6 +894,10 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 </section>
 
+
+
+## Местни приноси {#bulgarian-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="bulgarian">
 <details>
 <summary>Местни приноси</summary>
@@ -899,6 +931,10 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 </section>
 
+
+
+## Класически източници {#classical-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="classical">
 <details>
 <summary>Класически източници</summary>
@@ -923,6 +959,10 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 </section>
 
+
+
+## Препоръчителна литература {#literature-h}
+<!-- toc-h2 -->
 <section class="topic-section" id="literature">
 <details>
 <summary>Препоръчителна литература</summary>

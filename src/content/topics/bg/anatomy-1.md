@@ -39,7 +39,7 @@ order: 201
 
 
 
-## Преглед {#overview-h}
+## Преглед
 <!-- toc-h2 -->
 <section class="topic-section" id="overview">
 <details open>
@@ -54,13 +54,15 @@ order: 201
 
 
 
-## Хирургична анатомия {#surg-anatomy-h}
+## Хирургична анатомия
 <!-- toc-h2 -->
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
+
+### Регионална вертебрална анатомия
 <details id="vertebral-column">
 <summary>Регионална вертебрална анатомия</summary>
 <div class="ts-body">
@@ -135,6 +137,8 @@ order: 201
 </div>
 </details>
 
+
+### Arteria vertebralis — сегменти и опасни зони
 <details id="vertebral-artery">
 <summary>Arteria vertebralis — сегменти и опасни зони</summary>
 <div class="ts-body">
@@ -176,6 +180,8 @@ A. vertebralis преминава през четири анатомично р�
 </div>
 </details>
 
+
+### Гръбначен мозък и коренчета
 <details id="spinal-cord">
 <summary>Гръбначен мозък и коренчета</summary>
 <div class="ts-body">
@@ -213,6 +219,8 @@ A. vertebralis преминава през четири анатомично р�
 </div>
 </details>
 
+
+### Превертебрални висцерални структури
 <details id="prevertebral">
 <summary>Превертебрални висцерални структури</summary>
 <div class="ts-body">
@@ -251,6 +259,8 @@ A. vertebralis преминава през четири анатомично р�
 </div>
 </details>
 
+
+### Брахиален плексус и горен гръден отвор
 <details id="brachial-plexus">
 <summary>Брахиален плексус и горен гръден отвор</summary>
 <div class="ts-body">
@@ -262,6 +272,8 @@ A. vertebralis преминава през четири анатомично р�
 </div>
 </details>
 
+
+### Лумбосакрален плексус в m. psoas major
 <details id="lumbosacral-plexus">
 <summary>Лумбосакрален плексус в m. psoas major</summary>
 <div class="ts-body">
@@ -297,7 +309,7 @@ A. vertebralis преминава през четири анатомично р�
 
 
 
-## Биомеханика {#biomechanics-h}
+## Биомеханика
 <!-- toc-h2 -->
 <section class="topic-section" id="biomechanics">
 <details>
@@ -329,7 +341,7 @@ A. vertebralis преминава през четири анатомично р�
 
 
 
-## Ориентири и образна диагностика {#landmarks-imaging-h}
+## Ориентири и образна диагностика
 <!-- toc-h2 -->
 <section class="topic-section" id="landmarks-imaging">
 <details>
@@ -378,7 +390,7 @@ A. vertebralis преминава през четири анатомично р�
 
 
 
-## Класификация на достъпите {#classification-h}
+## Класификация на достъпите
 <!-- toc-h2 -->
 <section class="topic-section" id="classification">
 <details>
@@ -403,13 +415,15 @@ A. vertebralis преминава през четири анатомично р�
 
 
 
-## Лечение {#treatment-h}
+## Лечение
 <!-- toc-h2 -->
 <section class="topic-section" id="treatment">
 <details>
 <summary>Лечение</summary>
 <div class="ts-body">
 
+
+### Консервативно
 <details id="nonoperative">
 <summary>Консервативно</summary>
 <div class="ts-body">
@@ -440,6 +454,8 @@ Halo-тракцията осигурява четирипунктна фикса
 </div>
 </details>
 
+
+### Оперативно
 <details id="operative">
 <summary>Оперативно</summary>
 <div class="ts-body">
@@ -867,7 +883,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 
 
-## Усложнения и резултати {#outcomes-h}
+## Усложнения и резултати
 <!-- toc-h2 -->
 <section class="topic-section" id="outcomes">
 <details>
@@ -896,7 +912,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 
 
-## Местни приноси {#bulgarian-h}
+## Местни приноси
 <!-- toc-h2 -->
 <section class="topic-section" id="bulgarian">
 <details>
@@ -933,7 +949,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 
 
-## Класически източници {#classical-h}
+## Класически източници
 <!-- toc-h2 -->
 <section class="topic-section" id="classical">
 <details>
@@ -961,7 +977,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 
 
-## Препоръчителна литература {#literature-h}
+## Препоръчителна литература
 <!-- toc-h2 -->
 <section class="topic-section" id="literature">
 <details>

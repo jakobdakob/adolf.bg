@@ -14,7 +14,7 @@ interface Props {
 const { lang, headings } = Astro.props;
 
 // Only top-level H2 entries (subsection headings) for the right-side TOC.
-const h2s = headings.filter((h) => h.depth === 2);
+const h2s = headings.filter((h) => h.depth === 2 || h.depth === 3);
 
 const label = lang === "bg" ? "В тази тема" : "On this page";
 ---

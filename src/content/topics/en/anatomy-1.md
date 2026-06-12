@@ -39,7 +39,7 @@ order: 201
 
 
 
-## Overview {#overview-h}
+## Overview
 <!-- toc-h2 -->
 <section class="topic-section" id="overview">
 <details open>
@@ -54,13 +54,15 @@ The spine, extending from the skull base to the sacrum, carries the most varied 
 
 
 
-## Surgical Anatomy {#surg-anatomy-h}
+## Surgical Anatomy
 <!-- toc-h2 -->
 <section class="topic-section" id="surg-anatomy">
 <details>
 <summary>Surgical Anatomy</summary>
 <div class="ts-body">
 
+
+### Regional Vertebral Anatomy
 <details id="vertebral-column">
 <summary>Regional Vertebral Anatomy</summary>
 <div class="ts-body">
@@ -135,6 +137,8 @@ The general vertebral pattern includes a body anteriorly, a vertebral arch poste
 </div>
 </details>
 
+
+### Vertebral Artery — Segments and Danger Zones
 <details id="vertebral-artery">
 <summary>Vertebral Artery — Segments and Danger Zones</summary>
 <div class="ts-body">
@@ -176,6 +180,8 @@ The vertebral artery traverses four anatomically distinct segments. **V1** is th
 </div>
 </details>
 
+
+### Spinal Cord and Roots
 <details id="spinal-cord">
 <summary>Spinal Cord and Roots</summary>
 <div class="ts-body">
@@ -213,6 +219,8 @@ The spinal cord typically ends at L1–L2 with the conus medullaris, below which
 </div>
 </details>
 
+
+### Prevertebral Visceral Structures
 <details id="prevertebral">
 <summary>Prevertebral Visceral Structures</summary>
 <div class="ts-body">
@@ -251,6 +259,8 @@ The spinal cord typically ends at L1–L2 with the conus medullaris, below which
 </div>
 </details>
 
+
+### Brachial Plexus and Thoracic Outlet
 <details id="brachial-plexus">
 <summary>Brachial Plexus and Thoracic Outlet</summary>
 <div class="ts-body">
@@ -262,6 +272,8 @@ The lower trunk of the plexus (C8–T1) and the subclavian artery are most vulne
 </div>
 </details>
 
+
+### Lumbosacral Plexus within Psoas Major
 <details id="lumbosacral-plexus">
 <summary>Lumbosacral Plexus within Psoas Major</summary>
 <div class="ts-body">
@@ -297,7 +309,7 @@ The lumbar plexus forms from the anterior rami of L1–L4 within the posterior s
 
 
 
-## Biomechanics {#biomechanics-h}
+## Biomechanics
 <!-- toc-h2 -->
 <section class="topic-section" id="biomechanics">
 <details>
@@ -329,7 +341,7 @@ The lumbosacral junction is governed by sacral orientation: pelvic incidence (PI
 
 
 
-## Landmarks and Imaging {#landmarks-imaging-h}
+## Landmarks and Imaging
 <!-- toc-h2 -->
 <section class="topic-section" id="landmarks-imaging">
 <details>
@@ -378,7 +390,7 @@ Intraoperatively the level is confirmed by lateral fluoroscopy. In multilevel ca
 
 
 
-## Classification of Approaches {#classification-h}
+## Classification of Approaches
 <!-- toc-h2 -->
 <section class="topic-section" id="classification">
 <details>
@@ -403,13 +415,15 @@ The choice of approach is determined by pathology localisation (anterior vs. pos
 
 
 
-## Treatment {#treatment-h}
+## Treatment
 <!-- toc-h2 -->
 <section class="topic-section" id="treatment">
 <details>
 <summary>Treatment</summary>
 <div class="ts-body">
 
+
+### Nonoperative
 <details id="nonoperative">
 <summary>Nonoperative</summary>
 <div class="ts-body">
@@ -440,6 +454,8 @@ The halo provides four-point fixation (two parietal screws plus two frontal scre
 </div>
 </details>
 
+
+### Operative
 <details id="operative">
 <summary>Operative</summary>
 <div class="ts-body">
@@ -867,7 +883,7 @@ The paediatric spine introduces specific considerations. The smaller anatomic sc
 
 
 
-## Outcomes and Complications {#outcomes-h}
+## Outcomes and Complications
 <!-- toc-h2 -->
 <section class="topic-section" id="outcomes">
 <details>
@@ -896,7 +912,7 @@ The complications of spinal surgical approaches vary by anatomic region and proc
 
 
 
-## Local Contributions {#bulgarian-h}
+## Local Contributions
 <!-- toc-h2 -->
 <section class="topic-section" id="bulgarian">
 <details>
@@ -933,7 +949,7 @@ From the classical Russian and Ukrainian schools, tightly woven into the Bulgari
 
 
 
-## Classical Sources {#classical-h}
+## Classical Sources
 <!-- toc-h2 -->
 <section class="topic-section" id="classical">
 <details>
@@ -961,7 +977,7 @@ Additional classical sources: **Bier / Braun / Kümmel** (1920), *Chirurgische O
 
 
 
-## Suggested Reading {#literature-h}
+## Suggested Reading
 <!-- toc-h2 -->
 <section class="topic-section" id="literature">
 <details>

@@ -31,7 +31,7 @@ order: 201
       </ol>
     </li>
     <li><a href="#outcomes">Outcomes and Complications</a></li>
-    <li><a href="#bulgarian">Bulgarian Contributions</a></li>
+    <li><a href="#bulgarian">Local Contributions</a></li>
     <li><a href="#classical">Classical Sources</a></li>
     <li><a href="#literature">Suggested Reading</a></li>
   </ol>
@@ -868,7 +868,7 @@ The complications of spinal surgical approaches vary by anatomic region and proc
 
 <section class="topic-section" id="bulgarian">
 <details>
-<summary>Bulgarian Contributions</summary>
+<summary>Local Contributions</summary>
 <div class="ts-body">
 
 **Boycho Boychev <sup class="natflag">BG</sup> (1908–1992).** Founder of the Bulgarian orthopaedic school; the eponymous University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya. The three-volume *Operative Orthopaedics and Traumatology* (Sofia) remains a curricular reference, with detailed descriptions of the classical spinal approaches in the Bulgarian tradition, including anterior cervical, costotransversectomy, and techniques for scoliosis correction.
@@ -934,7 +934,7 @@ Additional classical sources: **Bier / Braun / Kümmel** (1920), *Chirurgische O
 4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Classical descriptive anatomy with emphasis on functional relationships; reference for spinal neurovascular topography and precise understanding of vertebral relationships.*
 5. **Boychev B, ed.** *Operative Orthopaedics* (three volumes; Sofia). — *The classical Bulgarian orthopaedic textbook; chapters on spinal surgery, scoliosis, kyphosis, and spondylolisthesis that define the terminology and operative tactics in the Bulgarian curriculum.*
 
-Chaklin V. D., *Foundations of Operative Orthopaedics and Traumatology* — cited in the Bulgarian Contributions section without a separate entry in Suggested Reading; its content is represented through the eponymous spondylodesis techniques described in that section.
+Chaklin V. D., *Foundations of Operative Orthopaedics and Traumatology* — cited in the Local Contributions section without a separate entry in Suggested Reading; its content is represented through the eponymous spondylodesis techniques described in that section.
 
 </div>
 </details>

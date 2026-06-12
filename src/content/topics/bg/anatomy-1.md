@@ -8,38 +8,38 @@ order: 201
 ---
 
 <details class="topic-toc-inline" open>
-  <summary>Съдържание <span class="toc-en">Contents</span></summary>
+  <summary>Съдържание</summary>
   <ol>
-    <li><a href="#overview">Преглед <span class="toc-en">Overview</span></a></li>
-    <li><a href="#surg-anatomy">Хирургична анатомия <span class="toc-en">Surgical Anatomy</span></a>
+    <li><a href="#overview">Преглед</a></li>
+    <li><a href="#surg-anatomy">Хирургична анатомия</a>
       <ol>
-        <li><a href="#vertebral-column">Регионална вертебрална анатомия <span class="toc-en">Regional Vertebral Anatomy</span></a></li>
-        <li><a href="#vertebral-artery">Arteria vertebralis — сегменти и опасни зони <span class="toc-en">Vertebral Artery — Segments and Danger Zones</span></a></li>
-        <li><a href="#spinal-cord">Гръбначен мозък и коренчета <span class="toc-en">Spinal Cord and Roots</span></a></li>
-        <li><a href="#prevertebral">Превертебрални висцерални структури <span class="toc-en">Prevertebral Visceral Structures</span></a></li>
-        <li><a href="#brachial-plexus">Брахиален плексус и горен гръден отвор <span class="toc-en">Brachial Plexus and Thoracic Outlet</span></a></li>
-        <li><a href="#lumbosacral-plexus">Лумбосакрален плексус в m. psoas <span class="toc-en">Lumbosacral Plexus within Psoas</span></a></li>
+        <li><a href="#vertebral-column">Регионална вертебрална анатомия</a></li>
+        <li><a href="#vertebral-artery">Arteria vertebralis — сегменти и опасни зони</a></li>
+        <li><a href="#spinal-cord">Гръбначен мозък и коренчета</a></li>
+        <li><a href="#prevertebral">Превертебрални висцерални структури</a></li>
+        <li><a href="#brachial-plexus">Брахиален плексус и горен гръден отвор</a></li>
+        <li><a href="#lumbosacral-plexus">Лумбосакрален плексус в m. psoas</a></li>
       </ol>
     </li>
-    <li><a href="#biomechanics">Биомеханика <span class="toc-en">Biomechanics</span></a></li>
-    <li><a href="#landmarks-imaging">Ориентири и образна диагностика <span class="toc-en">Landmarks and Imaging</span></a></li>
-    <li><a href="#classification">Класификация на достъпите <span class="toc-en">Classification of Approaches</span></a></li>
-    <li><a href="#treatment">Лечение <span class="toc-en">Treatment</span></a>
+    <li><a href="#biomechanics">Биомеханика</a></li>
+    <li><a href="#landmarks-imaging">Ориентири и образна диагностика</a></li>
+    <li><a href="#classification">Класификация на достъпите</a></li>
+    <li><a href="#treatment">Лечение</a>
       <ol>
-        <li><a href="#nonoperative">Консервативно <span class="toc-en">Nonoperative</span></a></li>
-        <li><a href="#operative">Оперативно <span class="toc-en">Operative</span></a></li>
+        <li><a href="#nonoperative">Консервативно</a></li>
+        <li><a href="#operative">Оперативно</a></li>
       </ol>
     </li>
-    <li><a href="#outcomes">Усложнения и резултати <span class="toc-en">Outcomes and Complications</span></a></li>
-    <li><a href="#bulgarian">Български приноси <span class="toc-en">Bulgarian Contributions</span></a></li>
-    <li><a href="#classical">Класически източници <span class="toc-en">Classical Sources</span></a></li>
-    <li><a href="#literature">Препоръчителна литература <span class="toc-en">Suggested Reading</span></a></li>
+    <li><a href="#outcomes">Усложнения и резултати</a></li>
+    <li><a href="#bulgarian">Български приноси</a></li>
+    <li><a href="#classical">Класически източници</a></li>
+    <li><a href="#literature">Препоръчителна литература</a></li>
   </ol>
 </details>
 
 <section class="topic-section" id="overview">
 <details open>
-<summary><span class="ts-title">Преглед</span> <span class="ts-en">Overview</span></summary>
+<summary>Преглед</summary>
 <div class="ts-body">
 
 Гръбначният стълб, простиращ се от основата на черепа до сакрума, носи най-разнообразния набор от оперативни достъпи в скелета. Шестте регионални зони — краниоцервикален преход, субаксиален шиен отдел, гръден отдел, гръднопоясен преход, поясен отдел и лумбосакрален възел — имат всяка собствена концепция за достъп, продиктувана от регионалната анатомична сложност и от типичните патологии (дегенеративни заболявания, деформации, травми, тумори, инфекции). Темата представя анатомичните особености на всяка зона, основните предни и задни достъпи с техните индикации, опасности и инструментирани съвременни конструкции, и класическата българска и руска оперативна школа, която остава част от ортопедичния курикулум в България.
@@ -50,11 +50,11 @@ order: 201
 
 <section class="topic-section" id="surg-anatomy">
 <details>
-<summary><span class="ts-title">Хирургична анатомия</span> <span class="ts-en">Surgical Anatomy</span></summary>
+<summary>Хирургична анатомия</summary>
 <div class="ts-body">
 
 <details id="vertebral-column">
-<summary><span class="ts-title">Регионална вертебрална анатомия</span> <span class="ts-en">Regional Vertebral Anatomy</span></summary>
+<summary>Регионална вертебрална анатомия</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -128,7 +128,7 @@ order: 201
 </details>
 
 <details id="vertebral-artery">
-<summary><span class="ts-title">Arteria vertebralis — сегменти и опасни зони</span> <span class="ts-en">Vertebral Artery — Segments and Danger Zones</span></summary>
+<summary>Arteria vertebralis — сегменти и опасни зони</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -169,7 +169,7 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 
 <details id="spinal-cord">
-<summary><span class="ts-title">Гръбначен мозък и коренчета</span> <span class="ts-en">Spinal Cord and Roots</span></summary>
+<summary>Гръбначен мозък и коренчета</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -206,7 +206,7 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 
 <details id="prevertebral">
-<summary><span class="ts-title">Превертебрални висцерални структури</span> <span class="ts-en">Prevertebral Visceral Structures</span></summary>
+<summary>Превертебрални висцерални структури</summary>
 <div class="ts-body">
 
 **Шиен отдел.** Трахея и хранопровод медиално, каротиден сноп латерално (a. carotis communis, v. jugularis interna, n. vagus в обща обвивка). Над тиреоидния хрущял a. carotis communis се разделя на вътрешна и външна каротидна. Хранопроводът лежи зад трахеята и леко вляво в долната шия — анатомична основа за повишен риск от перфорация при ляв достъп. Шията се обвива в три фасциални пласта: повърхностен (lamina superficialis) обвива m. sternocleidomastoideus и m. trapezius; среден (lamina pretrachealis) обвива страпните мускули и тиреоидните структури и продължава като каротидна обвивка; дълбок (lamina prevertebralis) покрива превертебралните мускули и носи по повърхността си симпатиковия ствол.
@@ -244,7 +244,7 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 
 <details id="brachial-plexus">
-<summary><span class="ts-title">Брахиален плексус и горен гръден отвор</span> <span class="ts-en">Brachial Plexus and Thoracic Outlet</span></summary>
+<summary>Брахиален плексус и горен гръден отвор</summary>
 <div class="ts-body">
 
 В надключичната зона стволовете на брахиалния плексус и a. subclavia преминават през scalenus triangle между mm. scalenus anterior и medius, върху първото ребро. M. scalenus anterior отделя плексуса и a. subclavia от долната v. subclavia (която минава медиално-вентрално от мускула) — клиничната база за компресионните синдроми на торакалния изходен отвор и за хирургичните принципи при шийно ребро. N. phrenicus лежи на предната повърхност на m. scalenus anterior, преминавайки от латерално медиално, и е защитен само от плътната превертебрална фасция — при супраклавикуларен достъп задължителен първи контрол и щадене.
@@ -255,7 +255,7 @@ A. vertebralis преминава през четири анатомично р�
 </details>
 
 <details id="lumbosacral-plexus">
-<summary><span class="ts-title">Лумбосакрален плексус в m. psoas major</span> <span class="ts-en">Lumbosacral Plexus within Psoas Major</span></summary>
+<summary>Лумбосакрален плексус в m. psoas major</summary>
 <div class="ts-body">
 
 Поясният плексус се формира от предните клонове на L1–L4 в задната част на m. psoas major, между предните и задните мускулни ламини. Основните стволове: n. ilioinguinalis (L1), n. genitofemoralis (L1–L2, по предната повърхност на псоаса), n. cutaneus femoris lateralis (L2–L3), n. femoralis (L2–L4, в долната трета на псоаса, по латералната граница), n. obturatorius (L2–L4, по медиалната граница). Сакралният плексус (L4–S4) формиран от lumbosacral trunk (L4–L5) и сакралните вентрални клонове, лежи върху m. piriformis в малкия таз.
@@ -289,7 +289,7 @@ A. vertebralis преминава през четири анатомично р�
 
 <section class="topic-section" id="biomechanics">
 <details>
-<summary><span class="ts-title">Биомеханика</span> <span class="ts-en">Biomechanics</span></summary>
+<summary>Биомеханика</summary>
 <div class="ts-body">
 
 Краниоцервикалният преход е разделен на два функционални комплекса. Окципито-C1 комплексът носи приблизително 50% от шийната флексия-екстензия и почти не позволява ротация; C1–C2 комплексът носи около 50% от шийната ротация (около 40° на страна) и минимална флексия-екстензия. Тази асиметрична концентрация на движение обяснява защо изолирана C1–C2 фузия лимитира ротацията по-силно от която и да е друга едностепенна шийна фузия.
@@ -317,7 +317,7 @@ A. vertebralis преминава през четири анатомично р�
 
 <section class="topic-section" id="landmarks-imaging">
 <details>
-<summary><span class="ts-title">Ориентири и образна диагностика</span> <span class="ts-en">Landmarks and Imaging</span></summary>
+<summary>Ориентири и образна диагностика</summary>
 <div class="ts-body">
 
 Повърхностни ориентири при предни шийни достъпи: твърдо небце → аркус на атласа (C1); долен ръб на мандибулата → C2–C3; hyoid → C3; горен ръб на тиреоидния хрущял → C4–C5; крикоиден хрущял → C6; туберкул на Chassaignac (карoтиден туберкул, преден туберкул на напречния израстък на C6) → надежден палпиращ се ориентир за C6; стерноклавикуларна става → T2–T3. При задни шийни достъпи vertebra prominens на C7 е основният палпиращ се ориентир, а ос на ротация през върха на бодестия процес позволява странично-наклонена флуороскопия за идентифициране на ниво C2.
@@ -362,7 +362,7 @@ A. vertebralis преминава през четири анатомично р�
 
 <section class="topic-section" id="classification">
 <details>
-<summary><span class="ts-title">Класификация на достъпите</span> <span class="ts-en">Classification of Approaches</span></summary>
+<summary>Класификация на достъпите</summary>
 <div class="ts-body">
 
 Гръбначните оперативни достъпи се класифицират по четири пресечни оси.
@@ -383,11 +383,11 @@ A. vertebralis преминава през четири анатомично р�
 
 <section class="topic-section" id="treatment">
 <details>
-<summary><span class="ts-title">Лечение</span> <span class="ts-en">Treatment</span></summary>
+<summary>Лечение</summary>
 <div class="ts-body">
 
 <details id="nonoperative">
-<summary><span class="ts-title">Консервативно</span> <span class="ts-en">Nonoperative</span></summary>
+<summary>Консервативно</summary>
 <div class="ts-body">
 
 При шийна фрактура-луксация класическият първи етап е затворена редукция чрез скелетна тракция. Скобите за директна екстензия — въведени от G. Smith, но запазили името на Crutchfield (с алтернативи Barton, Blackburn и Vinke) — се поставят над париеталните туберкули на разстояние около 10–11 cm между двата винта, проникнал в страничната кортикала на черепа на дълбочина 4 mm. Винтовете не трябва да пронизват вътрешната кортикала (опасност от епидурален хематом или пробив в синусите). Прилага се прогресивно тегло от 2,5 kg до 6–8 kg (около 1 kg на ниво при долните шийни нива) под рентгенологичен контрол на всеки 30 минути.
@@ -417,11 +417,11 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details id="operative">
-<summary><span class="ts-title">Оперативно</span> <span class="ts-en">Operative</span></summary>
+<summary>Оперативно</summary>
 <div class="ts-body">
 
 <details>
-<summary><span class="ts-title">Преден шиен достъп (по Smith-Robinson)</span> <span class="ts-en">Anterior Cervical Approach (Smith-Robinson)</span></summary>
+<summary>Преден шиен достъп (по Smith-Robinson)</summary>
 <div class="ts-body">
 
 Предният шиен достъп — разработен от Smith и Robinson (1958) и усъвършенстван от Cloward и други — е основният достъп до предния шиен отдел при ACDF, корпектомия, плочна остеосинтеза и достъп при тумори или инфекция. Покрива нивата C3–T1; за C2–C3 необходимо удължаване на дисекцията нагоре, за C7–T1 — депресия на раменете с тракционна лепенка.
@@ -465,7 +465,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Достъпи до краниоцервикалния преход (C1–C2)</span> <span class="ts-en">Craniocervical Junction Approaches (C1–C2)</span></summary>
+<summary>Достъпи до краниоцервикалния преход (C1–C2)</summary>
 <div class="ts-body">
 
 Зоната C1–C2 (атлантоаксиална става, dens, преден аркус на атласа, кливус) е извън обхвата на стандартния Smith-Robinson. Изборът между трансорален, преден ретрофарингеален субмандибуларен, трансхиоиден, латерален или заден достъп се определя от локализацията на патологията (предна versus задна колона), от това дали се изисква достъп до кливуса или само до тялото на аксиса, и от наличието на нестабилност, изискваща съчетана задна стабилизация — която при повечето предни горноцервикални процедури е задължителна като втори етап.
@@ -509,7 +509,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Заден шиен достъп (субаксиален)</span> <span class="ts-en">Posterior Subaxial Cervical Approach</span></summary>
+<summary>Заден шиен достъп (субаксиален)</summary>
 <div class="ts-body">
 
 Осигурява достъп при ламинектомия, ламинопластика, задна фузия, фораминотомия и тумори/инфекция.
@@ -543,7 +543,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Окципито-C1–C2 фузия</span> <span class="ts-en">Occipito-C1–C2 Fusion (Gallie → Brooks-Jenkins → Magerl → Harms)</span></summary>
+<summary>Окципито-C1–C2 фузия</summary>
 <div class="ts-body">
 
 Атлантоаксиалната нестабилност (травма, os odontoideum, ревматоиден артрит, инфекция, конгенитални синдроми) изисква артродеза C1–C2; при ангажиране на окципитоцервикалния преход — окципито-C1–C2 фузия. Класическите задни техники: Gallie (1939, едноснопов кабел през пластините на C1 и спинатуса на C2 с трансплантат от тибията или гребена на хълбочната кост); Brooks-Jenkins (1978, двустранни биконкавни костни блокове с двойни кабели). Съвременният стандарт: техниката по Magerl (трансартикуларни винтове C1–C2 през ставния процес, дължина 30–40 mm, траектория от долната пластина на C2 нагоре и медиално под ъгъл 0–10° към сагиталната равнина) или по Harms (странични масови винтове в C1 с дължина 18–22 mm и педикуларни/частични винтове в C2, свързани с прът) — биомеханично по-стабилни от само-кабелните конструкции и не изискват интактна пластина на C1. Окципитоцервикалната фиксация добавя винтове в окципиталната кост (по средната линия в дебелия среден окципитален гребен с дължина 8–10 mm или странично в окципиталните кондили) с пластина или прът, свързан с C1–C2 конструкцията.
@@ -561,7 +561,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Цервикоторакален преход (C7–T2)</span> <span class="ts-en">Cervicothoracic Junction (C7–T2)</span></summary>
+<summary>Цервикоторакален преход (C7–T2)</summary>
 <div class="ts-body">
 
 Труднодостъпна зона поради прехода от шийна към гръдна анатомия и наличието на горния гръден отвор.
@@ -586,7 +586,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Предни гръдни достъпи</span> <span class="ts-en">Anterior Thoracic Approaches</span></summary>
+<summary>Предни гръдни достъпи</summary>
 <div class="ts-body">
 
 <figure class="md-figure">
@@ -621,7 +621,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Преден поясен достъп (ретроперитонеален)</span> <span class="ts-en">Anterior Lumbar Approach (Retroperitoneal)</span></summary>
+<summary>Преден поясен достъп (ретроперитонеален)</summary>
 <div class="ts-body">
 
 Стандартният достъп до L4–L5 и L5–S1 използва напречен или наклонен разрез в хълбочната област с ретракция на коремното съдържимо напред и влизане в ретроперитонеума без навлизане в перитонеалната кухина. Левостранен — аортата е по-лесно мобилизируема от vena cava inferior, и подходът от ляво позволява ретракция на аортата с по-нисък риск от венозно нараняване.
@@ -655,7 +655,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Достъп до L5–S1</span> <span class="ts-en">Access to L5–S1</span></summary>
+<summary>Достъп до L5–S1</summary>
 <div class="ts-body">
 
 Под бифуркацията на илиачните съдове. Средните сакрални съдове и plexus hypogastricus superior (с парасимпатиковите му разклонения, важни за сексуалната функция) трябва да бъдат запазени. Срединният достъп с разсичане на ligamentum longitudinale anterius директно над L5–S1 диска осигурява влизане. Plexus hypogastricus superior лежи в гъвкав слой над L5 тялото и промонториума; правилата за щадене: хирургично отделяне само с тъпи инструменти (не каутер), фасциална мобилизация встрани от сакралния промонториум, и предпочитан напречен достъп през полето вместо вертикален.
@@ -664,7 +664,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Латерални транспсоасни достъпи (XLIF/LLIF/DLIF)</span> <span class="ts-en">Lateral Transpsoas Approaches (XLIF/LLIF/DLIF)</span></summary>
+<summary>Латерални транспсоасни достъпи (XLIF/LLIF/DLIF)</summary>
 <div class="ts-body">
 
 Минимално инвазивен достъп до дисковите пространства L1–L5 чрез трансмускулен достъп през m. psoas major. Пациентът в истинско странично положение, малък латерален разрез над съответното ниво. Тъпа дисекция през ретроперитонеалната мазнина достига m. psoas major, който се разцепва под невромониторингов контрол с цел избягване на поясно-сакралния плексус. Дисковото пространство се атакува латерално с поставяне на голям интертелесен имплант.
@@ -686,7 +686,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Заден поясен достъп</span> <span class="ts-en">Posterior Lumbar Approach</span></summary>
+<summary>Заден поясен достъп</summary>
 <div class="ts-body">
 
 Основен достъп при поясна дискектомия, ламинектомия, поясна фузия (PLIF, TLIF, постеролатерална фузия), педикуларна винтова инструментация, тумори/инфекция.
@@ -705,7 +705,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Достъп по Wiltse (парамедианен интермускулен)</span> <span class="ts-en">Wiltse Approach (Paramedian Intermuscular)</span></summary>
+<summary>Достъп по Wiltse (парамедианен интермускулен)</summary>
 <div class="ts-body">
 
 Развива естествената плоскост между m. multifidus и m. longissimus (Wiltse et al., 1968), осигурявайки директен достъп до pars interarticularis, напречния израстък и ставния фасет без срединно нарушаване. Прилага се при пластика на pars, постеролатерална фузия, поставяне на педикуларни винтове и латерална фораминотомия. Запазва срединните структури и m. multifidus с намалена следоперативна болка — основа на „muscle-sparing" концепцията в съвременната поясна хирургия.
@@ -714,7 +714,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Класически техники на задна спондилодеза</span> <span class="ts-en">Classical Posterior Fusion Techniques</span></summary>
+<summary>Класически техники на задна спондилодеза</summary>
 <div class="ts-body">
 
 Историческото развитие формира концептуалната основа за съвременните инструментирани конструкции и остава клинично релевантно при ревизионна хирургия, при липса на инструментариум и в систематичния български ортопедичен курикулум. Биологичният принцип: декортикация на задните костни повърхности с осигуряване на пресни кървящи легла за костния трансплантат.
@@ -735,7 +735,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Предна спондилодеза при спондилолистеза — класически техники</span> <span class="ts-en">Anterior Spondylodesis for Spondylolisthesis — Classical Techniques</span></summary>
+<summary>Предна спондилодеза при спондилолистеза — класически техники</summary>
 <div class="ts-body">
 
 При истмична и дегенеративна спондилолистеза на L4–L5 и L5–S1 от I–II степен предният интертелесен достъп със спондилодеза осигурява висок процент на консолидация чрез директна декомпресия на форамена и възстановяване на височината на диска.
@@ -758,7 +758,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Вертебротомии (колумнотомии) за корекция на ригидна кифоза</span> <span class="ts-en">Vertebrotomies (Columnotomies) for Rigid Kyphosis Correction</span></summary>
+<summary>Вертебротомии (колумнотомии) за корекция на ригидна кифоза</summary>
 <div class="ts-body">
 
 При ригидна гръбначна кифоза от различен произход (анкилозиращ спондилит, посттравматична, поствертебромиелитна) корекцията изисква структурно прерязване на гръбначния стълб.
@@ -783,7 +783,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Перкутанна вертебрална биопсия</span> <span class="ts-en">Percutaneous Vertebral Biopsy</span></summary>
+<summary>Перкутанна вертебрална биопсия</summary>
 <div class="ts-body">
 
 Въведена от Valls и сътрудници (1948); стандартен диагностичен метод при подозрение за костна инфекция (туберкулоза, пиогенна остеомиелит), първични или метастатични тумори. Стандартна техника: дясностранна паравертебрална пункция (избягване на аортата), 35° ъгъл към сагиталната равнина, точка на влизане 4 cm странично от срединната линия. Иглата прониква между напречните израстъци и страничните ребра под флуороскопски контрол; вътре в тялото — аспирация (за течно съдържимо) или сухо ядро (за хистологично изследване).
@@ -794,7 +794,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Туберкулозен спондилит — оперативни принципи (Hodgson „Hong Kong operation")</span> <span class="ts-en">Tuberculous Spondylitis — Hodgson's Hong Kong Operation</span></summary>
+<summary>Туберкулозен спондилит — оперативни принципи (Hodgson „Hong Kong operation")</summary>
 <div class="ts-body">
 
 Гръбначната туберкулоза (болест на Pott) остава значима патология. Хирургичните принципи следват тристепенната концепция на Hodgson (A. R. Hodgson, F. E. Stock, 1956–1960): радикално дебридиране на лезията, освобождаване на гръбначния мозък при компресия и предна стабилизация чрез интертелесна спондилодеза с автоложен костен трансплантат.
@@ -807,7 +807,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Шийно ребро (costa cervicalis)</span> <span class="ts-en">Cervical Rib (costa cervicalis)</span></summary>
+<summary>Шийно ребро (costa cervicalis)</summary>
 <div class="ts-body">
 
 Вродена аномалия (0,5–1% от популацията, симптоматична малка част). Компресията на долния ствол на брахиалния плексус (C8–T1) и на a. subclavia в горния гръден отвор предизвиква синдром на торакалния изходен отвор — болка и парестезии в улнарната дистрибуция, лесна умора, неврологичен дефицит в късни случаи („ръка на Gilliatt-Sumner"). Оперативната резекция е показана след неуспех на консервативна терапия. Достъпът е надключичен: m. scalenus anterior се идентифицира и срязва със защита на n. phrenicus (лежи по предната му повърхност); под него — a. subclavia и стволовете на брахиалния плексус. Шийното ребро се резецира субпериостално само в компресиращия си участък, със запазване на проксималната ставна повърхност с напречния израстък на C7. Усложнения: увреда на n. phrenicus (диафрагмална парализа), увреда на ductus thoracicus (при левостранен достъп → хилоторакс), непълна декомпресия.
@@ -816,7 +816,7 @@ Halo-тракцията осигурява четирипунктна фикса
 </details>
 
 <details>
-<summary><span class="ts-title">Педиатрични особености</span> <span class="ts-en">Paediatric Considerations</span></summary>
+<summary>Педиатрични особености</summary>
 <div class="ts-body">
 
 Педиатричният гръбнак въвежда специфични съображения. По-малкият анатомичен мащаб изисква прецизна техника и подходяща инструментация. Хрущялните крайни пластинки и пръстеновидните апофизи трябва да бъдат зачитани — растежът на прешленното тяло се осъществява на крайната пластинка; задните елементи растат при синхондрозите. Невроцентралната синхондроза между тялото и задните елементи е основната растежна зона на спиналния канал; ятрогенното ѝ увреждане предизвиква стеноза на канала. При деца еозинофилният гранулом (хистиоцитоза на Лангерхансовите клетки) предизвиква класическата деформация vertebra plana, която обикновено оздравява с наблюдение.
@@ -843,7 +843,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 <section class="topic-section" id="outcomes">
 <details>
-<summary><span class="ts-title">Усложнения и резултати</span> <span class="ts-en">Outcomes and Complications</span></summary>
+<summary>Усложнения и резултати</summary>
 <div class="ts-body">
 
 Усложненията на гръбначните оперативни достъпи варират по анатомичен регион и по тип процедура. Този кратък преглед обобщава типичните проблеми по достъп.
@@ -868,7 +868,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 <section class="topic-section" id="bulgarian">
 <details>
-<summary><span class="ts-title">Български приноси</span> <span class="ts-en">Bulgarian Contributions</span></summary>
+<summary>Български приноси</summary>
 <div class="ts-body">
 
 **Бойчо Бойчев (1908–1992).** Създател на ортопедична школа в България; едноименното УСБАЛО „Проф. Бойчо Бойчев" в Горна баня. Тритомната *Оперативна ортопедия и травматология* (София) остава референция в курикулума и съдържа подробни описания на класическите гръбначни достъпи в българската традиция, включително предни шийни, костотрансверзектомия и техниките за корекция на сколиоза.
@@ -901,7 +901,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 <section class="topic-section" id="classical">
 <details>
-<summary><span class="ts-title">Класически източници</span> <span class="ts-en">Classical Sources</span></summary>
+<summary>Класически източници</summary>
 <div class="ts-body">
 
 <aside class="callout callout-classical">
@@ -925,7 +925,7 @@ Halo-тракцията осигурява четирипунктна фикса
 
 <section class="topic-section" id="literature">
 <details>
-<summary><span class="ts-title">Препоръчителна литература</span> <span class="ts-en">Suggested Reading</span></summary>
+<summary>Препоръчителна литература</summary>
 <div class="ts-body">
 
 1. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Стандартното оперативно ръководство „chapter by chapter" с диаграматични илюстрации на интернервните плоскости и стъпковата техника; основен учебник за резидентската подготовка по достъпите.*

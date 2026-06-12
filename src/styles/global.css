@@ -2010,3 +2010,58 @@ html { scroll-padding-top: 88px; }
     height: auto;
   }
 }
+
+
+/* Sticky bottom bar with prev | Test | next */
+.topic-bottom-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 50;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 1rem;
+  background: var(--bg, #fff);
+  border-top: 1px solid var(--rule);
+  box-shadow: 0 -3px 12px rgba(0,0,0,0.04);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.topic-bottom-bar .tbb-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 1.1rem;
+  background: var(--bg);
+  transition: background 120ms ease;
+}
+.topic-bottom-bar .tbb-btn:hover { background: var(--accent-soft, rgba(0,0,0,0.04)); }
+.topic-bottom-bar .tbb-btn.tbb-disabled { opacity: 0.25; cursor: not-allowed; }
+.topic-bottom-bar .tbb-test {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.55rem 1.3rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--bg, #fff);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+}
+.topic-bottom-bar .tbb-test:hover { filter: brightness(0.95); }
+
+/* Body padding so content isn't covered by the fixed bar */
+body { padding-bottom: 64px; }
+
+/* Hide the old topic-prev-next nav and test-yourself aside (replaced by sticky bar) */
+.topic-prev-next, .test-yourself { display: none !important; }

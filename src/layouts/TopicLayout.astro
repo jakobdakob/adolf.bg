@@ -57,35 +57,10 @@ const eyebrow =
     <TopicSidebar lang={lang} active={entry.slug} section={section === "preface" ? "ortho" : section} />
     <article class="topic-article" data-topic-article data-pagefind-body>
       <span class="eyebrow topic-eyebrow">{eyebrow}</span>
-      <h1 class="topic-title">{entry.data.title}</h1>
       <div class="prose" data-topic-prose>
+        <h1 class="topic-title">{entry.data.title}</h1>
         <slot />
       </div>
-      {entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
-        <aside class="test-yourself">
-          <a
-            class="test-yourself-cta"
-            href={pathUrl(`/${lang}/${entry.data.section}/${entry.data.topicNumber}/test/`)}
-          >
-            {t.testYourself}
-            <span class="test-yourself-arrow" aria-hidden="true">→</span>
-          </a>
-        </aside>
-      )}
-      <nav class="topic-prev-next" aria-label="prev/next">
-        {prev ? (
-          <a href={topicPath(lang, prev)} class="pn pn-prev" rel="prev">
-            <div class="pn-label">{t.prev}</div>
-            <div class="pn-title">{prev.data.title}</div>
-          </a>
-        ) : <span />}
-        {next ? (
-          <a href={topicPath(lang, next)} class="pn pn-next" rel="next">
-            <div class="pn-label">{t.next}</div>
-            <div class="pn-title">{next.data.title}</div>
-          </a>
-        ) : <span />}
-      </nav>
     </article>
     <TopicTOC lang={lang} headings={headings} />
   </div>
@@ -173,6 +148,25 @@ const eyebrow =
     }
   })();
 </script>
+
+{entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
+  <div class="topic-bottom-bar">
+    {prev ? (
+      <a href={topicPath(lang, prev)} class="tbb-btn tbb-prev" rel="prev" aria-label={t.prev}>
+        <span aria-hidden="true">←</span>
+      </a>
+    ) : <span class="tbb-btn tbb-prev tbb-disabled" aria-hidden="true">←</span>}
+    <a class="tbb-test" href={pathUrl(`/${lang}/${entry.data.section}/${entry.data.topicNumber}/test/`)}>
+      {t.testYourself}
+    </a>
+    {next ? (
+      <a href={topicPath(lang, next)} class="tbb-btn tbb-next" rel="next" aria-label={t.next}>
+        <span aria-hidden="true">→</span>
+      </a>
+    ) : <span class="tbb-btn tbb-next tbb-disabled" aria-hidden="true">→</span>}
+  </div>
+)}
+
 </BaseLayout>
 
 

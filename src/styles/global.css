@@ -1957,34 +1957,69 @@ html { scroll-padding-top: 88px; }
 
 
 
-/* Desktop layout: text flows independently in left column at FULL height.
-   Figures are placed absolutely in a right gutter (300px), anchored to their
-   DOM position via JS at load. Headings never wait for figures to clear. */
-/* Desktop: simple 2-column flow on the prose. Live with the limitation that
-   the right column is the bottom-half of all content (CSS column-count). */
+/* ─────────────────────────────────────────────────────────────────────────
+   Desktop (>=1180px): synchronized two-column "book" layout
+   The original .prose is hidden once JS upgrades it. Two book-col-inner
+   .prose copies live inside .book-layout, an overlay fixed to the article
+   column. Page scroll drives both columns via transform; col 2 is always
+   one column-height ahead of col 1. See TopicLayout.astro for the JS.
+   ───────────────────────────────────────────────────────────────────────── */
 @media (min-width: 1180px) {
   .topic-article { padding-right: 0; }
-  .prose {
-    column-count: 2;
-    column-gap: 2.4rem;
-    column-fill: balance;
+
+  /* Inline TOC hidden on desktop — right rail TopicTOC replaces it. */
+  .prose .topic-toc-inline { display: none; }
+
+  /* Hide the original prose ONCE the book layout has taken over.
+     Until the JS runs, the prose remains visible (graceful no-JS). */
+  .topic-article > .prose[data-book-ready="1"] {
+    display: none !important;
   }
-  /* Figures, callouts, tables, headings don't break across columns. */
-  .prose .md-figure,
-  .prose .callout,
-  .prose figure,
-  .prose table {
+
+  /* Book layout: fixed overlay positioned to match the article column. */
+  .book-layout {
+    position: fixed;
+    top: 56px;                                /* header height */
+    height: calc(100vh - 56px - 70px);        /* viewport minus header + bottom bar */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2.4rem;
+    z-index: 1;
+    pointer-events: auto;
+    background: var(--bg);
+  }
+
+  .book-col {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+  }
+
+  .book-col-inner {
+    position: relative;
+    will-change: transform;
+    transform: translateY(0);
+    /* Inherits .prose styling. Override per-column knobs: */
+    max-width: none !important;
+    column-count: 1 !important;
+  }
+
+  /* Block-level break helpers stay useful even though we no longer rely
+     on CSS column flow (kept here in case figures/callouts ever get
+     placed inside a small parent). */
+  .book-col-inner .md-figure,
+  .book-col-inner .callout,
+  .book-col-inner figure,
+  .book-col-inner table {
     break-inside: avoid;
     page-break-inside: avoid;
   }
-  .prose h2, .prose h3, .prose h4,
-  .prose .topic-section > details > summary,
-  .prose .topic-section details details > summary {
-    break-after: avoid;
-    page-break-after: avoid;
+
+  /* The spacer keeps the page tall enough to scroll through every line. */
+  .book-spacer {
+    width: 1px;
+    pointer-events: none;
   }
-  /* Inline TOC hidden on desktop — TopicTOC at right replaces it. */
-  .prose .topic-toc-inline { display: none; }
 }
 
 

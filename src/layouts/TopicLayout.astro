@@ -22,8 +22,6 @@ const section: "ortho" | "trauma" | "anatomy" | "preface" =
   entry.data.kind === "preface" ? "preface" :
   (entry.data.section as any) ?? "ortho";
 
-// prev/next stay within the current section so end-of-Ortho doesn't jump into
-// Trauma. Section switching happens via the top nav.
 const sectionTopics = allEntries.filter(
   (e) => e.data.kind === "topic" && e.data.section === section
 );
@@ -42,8 +40,6 @@ const eyebrow =
   entry.data.kind === "preface"
     ? t.preface
     : `${sectionLabel(entry.data.section)} · ${t.topicNumberLabel(entry.data.topicNumber!)}`;
-
-// Bilingual toast — shown when stubbed CTAs are clicked in Pass A.
 ---
 <BaseLayout
   lang={lang}
@@ -65,14 +61,186 @@ const eyebrow =
     <TopicTOC lang={lang} headings={headings} />
   </div>
 <script>
-  // Force <details> in topic-section to stay open.
-  document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('.prose .topic-section details').forEach(d => {
+  // Force <details> in topic-section to stay open (so V4 sections render
+  // as static Wikipedia-style sections, not collapsibles).
+  function forceDetailsOpen(root) {
+    root.querySelectorAll('.topic-section details').forEach(d => {
       d.open = true;
       d.addEventListener('toggle', () => { if (!d.open) d.open = true; });
     });
+  }
+  document.addEventListener('DOMContentLoaded', () => {
+    forceDetailsOpen(document);
   });
+
+  // Desktop only (>=1180px): synchronized two-column book layout.
+  //
+  //   col 1 | col 2
+  //   ↓ both translate up together on page scroll
+  //   col 2 is always positioned exactly one column-height ahead of col 1
+  //
+  // Implementation:
+  // - We clone the prose content into two columns, each visually
+  //   one viewport-height tall (clipped via overflow:hidden).
+  // - The original .prose is hidden once the layout is built.
+  // - Page scroll drives both columns via `transform: translateY`.
+  // - A spacer keeps the body tall enough for the user to scroll
+  //   through every line of content.
+  (function () {
+    if (!window.matchMedia('(min-width: 1180px)').matches) return;
+
+    function setup() {
+      const article = document.querySelector('.topic-article');
+      const originalProse = article && article.querySelector('.prose');
+      if (!originalProse || originalProse.dataset.bookReady === '1') return;
+      originalProse.dataset.bookReady = '1';
+
+      // Build the two-column overlay
+      const layoutEl = document.createElement('div');
+      layoutEl.className = 'book-layout';
+
+      function makeCol() {
+        const col = document.createElement('div');
+        col.className = 'book-col';
+        const inner = document.createElement('div');
+        inner.className = 'prose book-col-inner';
+        col.appendChild(inner);
+        return { col, inner };
+      }
+      const { col: col1, inner: col1Inner } = makeCol();
+      const { col: col2, inner: col2Inner } = makeCol();
+      layoutEl.appendChild(col1);
+      layoutEl.appendChild(col2);
+
+      // Move the original prose children into col1Inner (keeps IDs for
+      // TOC scroll-spy / anchor targeting on the "real" copy).
+      while (originalProse.firstChild) col1Inner.appendChild(originalProse.firstChild);
+
+      // Clone into col2Inner with all IDs stripped (avoid duplicate IDs).
+      Array.from(col1Inner.children).forEach(child => {
+        const cloned = child.cloneNode(true);
+        if (cloned.id) cloned.removeAttribute('id');
+        cloned.querySelectorAll && cloned.querySelectorAll('[id]').forEach(el => el.removeAttribute('id'));
+        col2Inner.appendChild(cloned);
+      });
+
+      // Force details open on both columns
+      forceDetailsOpen(col1Inner);
+      forceDetailsOpen(col2Inner);
+
+      // Hide the now-empty original prose (it's still in the DOM tree
+      // and keeps the article layout slot, just visually empty).
+      originalProse.style.display = 'none';
+
+      // Mount the layout as a fixed overlay aligned to the article column.
+      document.body.appendChild(layoutEl);
+
+      function positionLayout() {
+        const r = article.getBoundingClientRect();
+        layoutEl.style.left = r.left + 'px';
+        layoutEl.style.width = r.width + 'px';
+      }
+      positionLayout();
+
+      // Content height = full natural height of one column-inner
+      // Column visual height = layoutEl client height (set via CSS to
+      // viewport - header - bottom bar).
+      function colHeight() { return layoutEl.clientHeight; }
+      function contentHeight() { return col1Inner.scrollHeight; }
+
+      // Page scroll spacer
+      const spacer = document.createElement('div');
+      spacer.setAttribute('aria-hidden', 'true');
+      spacer.className = 'book-spacer';
+      article.appendChild(spacer);
+
+      function sizeSpacer() {
+        // We need enough page scroll for y to reach (contentHeight - colHeight),
+        // at which point col2 displays the very last chunk. y = scrollY - articleTop.
+        const ch = contentHeight();
+        const colH = colHeight();
+        const target = Math.max(0, ch - colH);
+        spacer.style.height = target + 'px';
+      }
+      sizeSpacer();
+
+      function onScroll() {
+        const articleTop = article.getBoundingClientRect().top + window.scrollY;
+        const colH = colHeight();
+        const ch = contentHeight();
+        let y = window.scrollY - articleTop;
+        if (y < 0) y = 0;
+        const maxY = Math.max(0, ch - colH);
+        if (y > maxY) y = maxY;
+        col1Inner.style.transform = 'translateY(' + (-y) + 'px)';
+        col2Inner.style.transform = 'translateY(' + (-(y + colH)) + 'px)';
+      }
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+
+      function onResize() {
+        positionLayout();
+        sizeSpacer();
+        onScroll();
+      }
+      window.addEventListener('resize', onResize);
+
+      // Intercept TOC link clicks (right rail + inline) so they map to
+      // a page-scroll position that brings the target into col 1's top.
+      function scrollToAnchor(hash) {
+        if (!hash || !hash.startsWith('#')) return false;
+        const target = col1Inner.querySelector(hash);
+        if (!target) return false;
+        const cRect = col1Inner.getBoundingClientRect();
+        const tRect = target.getBoundingClientRect();
+        const naturalTop = tRect.top - cRect.top; // offset of target inside col1Inner (pre-transform)
+        const articleTop = article.getBoundingClientRect().top + window.scrollY;
+        // tiny breathing offset so the heading isn't flush against col top
+        const desiredY = Math.max(0, naturalTop - 12);
+        window.scrollTo({ top: articleTop + desiredY, behavior: 'smooth' });
+        return true;
+      }
+      document.addEventListener('click', (e) => {
+        const a = e.target.closest && e.target.closest('a[href^="#"]');
+        if (!a) return;
+        const href = a.getAttribute('href');
+        if (scrollToAnchor(href)) {
+          e.preventDefault();
+          history.replaceState(null, '', href);
+        }
+      });
+
+      // Handle deep-link with hash on initial load
+      if (window.location.hash) {
+        requestAnimationFrame(() => { scrollToAnchor(window.location.hash); });
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', setup);
+    } else {
+      setup();
+    }
+  })();
 </script>
+
+{entry.data.kind === "topic" && entry.data.section && entry.data.topicNumber && (
+  <div class="topic-bottom-bar">
+    {prev ? (
+      <a class="tbb-btn tbb-prev" href={topicPath(lang, prev)} aria-label={lang === 'bg' ? 'Предишна' : 'Previous'}>←</a>
+    ) : (
+      <span class="tbb-btn tbb-disabled" aria-hidden="true">←</span>
+    )}
+    <a class="tbb-test" href={pathUrl(`/${lang}/qbank/`)}>
+      {lang === 'bg' ? 'Провери се' : 'Test yourself'}
+    </a>
+    {next ? (
+      <a class="tbb-btn tbb-next" href={topicPath(lang, next)} aria-label={lang === 'bg' ? 'Следваща' : 'Next'}>→</a>
+    ) : (
+      <span class="tbb-btn tbb-disabled" aria-hidden="true">→</span>
+    )}
+  </div>
+)}
 </BaseLayout>
 
 
@@ -106,10 +274,6 @@ const eyebrow =
     max-width: 100%;
     overflow-wrap: break-word;
   }
-  /* Section/topic label above title is redundant with the left sidebar
-     (section name) and right TOC ("В тази тема") when both rails are visible.
-     Hide it on lg+ where the sidebar is showing; keep on smaller screens
-     where the sidebar is in the mobile drawer. */
   @media (min-width: 1024px) {
     .topic-eyebrow { display: none; }
   }
@@ -147,7 +311,6 @@ const eyebrow =
   }
 
   .topic-title {
-    /* ~1.5× body text (body = 1.0625rem). Calm, not display-size. */
     font-size: 1.625rem;
     font-weight: 650;
     letter-spacing: -0.012em;

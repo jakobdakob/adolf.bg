@@ -1,5 +1,5 @@
 ---
-title: "Хирургична анатомия на глезенна област и ходилото. Хирургични достъпи в областта на глезена и ходилото."
+title: "Хирургична анатомия на глезен и ходило. Хирургични достъпи в областта на глезена и стъпалото."
 lang: "bg"
 kind: "topic"
 section: "anatomy"
@@ -7,18 +7,72 @@ topicNumber: 11
 order: 211
 ---
 
-## Въведение
+<details class="topic-toc-inline">
+  <summary>Съдържание</summary>
+  <ol>
+    <li><a href="#overview">Преглед</a></li>
+    <li><a href="#surg-anatomy">Хирургична анатомия</a>
+      <ol>
+        <li><a href="#bony-anatomy">Костна анатомия и ставен апарат</a></li>
+        <li><a href="#topography">Регионална топографска анатомия</a></li>
+        <li><a href="#neurovascular">Съдово-нервна анатомия</a></li>
+        <li><a href="#talar-blood">Кръвоснабдяване на talus</a></li>
+        <li><a href="#ligaments">Връзков апарат и spring-комплекс</a></li>
+        <li><a href="#compartments">Компартменти на стъпалото</a></li>
+      </ol>
+    </li>
+    <li><a href="#biomechanics">Биомеханика</a></li>
+    <li><a href="#landmarks-imaging">Ориентири и образна диагностика</a></li>
+    <li><a href="#classification">Класификация на достъпите</a></li>
+    <li><a href="#treatment">Лечение</a>
+      <ol>
+        <li><a href="#nonoperative">Консервативно</a></li>
+        <li><a href="#operative">Оперативно</a></li>
+      </ol>
+    </li>
+    <li><a href="#outcomes">Усложнения и резултати</a></li>
+    <li><a href="#bulgarian">Местни приноси</a></li>
+    <li><a href="#classical">Класически източници</a></li>
+    <li><a href="#literature">Препоръчителна литература</a></li>
+  </ol>
+</details>
 
-Глезенът и стъпалото заедно формират сложен анатомичен комплекс от 28 кости, над 30 стави и гъста мрежа от сухожилия, връзки и съдово-нервни структури, организирани в регион с комплексна тегловнопоносеща и пропулзивна функция. Оперативните достъпи до тази област трябва да се придвижват в условия на тази сложност, отчитайки тънкия меко-тъканен слой (особено около медиалния и предния глезен), основните съдово-нервни структури (arteria tibialis anterior и nervus peroneus profundus отпред; arteria tibialis posterior и nervus tibialis в тарзалния канал; vena saphena magna и nervus saphenus медиално; nervus suralis латерално; nervus peroneus superficialis, пресичащ антеролатерално) и многобройните отделни компартменти на стъпалото. Основните достъпи — преден към глезена, антеролатерален, постеролатерален, медиален, sinus tarsi, разширен латерален към петата, дорзален и плантарен към стъпалото, и множество специфични достъпи до отделни кости и стави, всеки осигурява достъп до конкретни области. Тази тема, базирана на Orthopaedic Surgical Approaches, Netter's Concise Orthopaedic Anatomy, Gray's Anatomy и класическата българска „Оперативна ортопедия и травматология" на Бойчо Бойчев — носител на името на УСБАЛО „Проф. Бойчо Бойчев", Горна баня — разглежда хирургичната анатомия и оперативните достъпи в областта на глезена и ходилото, допълнена с класическите процедури за глезена и ходилото по Бойчев, Холевич, Панева, Чаклин, Зацепин, Кацаров, Герчев, Чоканов, Карчинов, Икономов, Кацаров, Codivilla, Lambrinudi, Hoke, Dwyer, Grice-Green, Keller-Brandes, McBride, Lapidus, Lelièvre, Watson-Jones, Chrisman-Snook, Phelps, Strayer, Silfverskiöld, Steindler, Hoffmann, Putti, Charnley, Müller, Stoffel, Heyman-Strong, Lowman, Miller, Camera, Кушлик, Чаплин, Меагу и Syme, които остават гръбнак на курикулума по детска и възрастна ортопедия в България.
 
-## Костна анатомия
+
+## Преглед
+<!-- toc-h2 -->
+<section class="topic-section" id="overview">
+<details open>
+<summary>Преглед</summary>
+<div class="ts-body">
+
+Глезенът и стъпалото съставят сложен анатомичен комплекс от 28 кости, над 30 стави и гъста мрежа от сухожилия, връзки и съдово-нервни структури, организирани в регион с комплексна тегло-носеща и пропулзивна функция. Оперативните достъпи до областта се движат в условия на тънък меко-тъканен слой (особено около медиалния и предния глезен), на основни съдово-нервни структури (a. tibialis anterior и n. peroneus profundus отпред; a. tibialis posterior и n. tibialis в тарзалния канал; v. saphena magna и n. saphenus медиално; n. suralis латерално; n. peroneus superficialis, пресичащ антеролатерално) и на многобройните фасциални отделения на стъпалото. Темата представя регионалната хирургична анатомия по класическата българска школа на Бойчо Бойчев и Янаки Холевич, обогатена с количествените данни на Sarrafian (трето издание, 2015) за кръвоснабдяването на талуса и архитектониката на тарзалния канал, с принципите на оперативните достъпи на Hoppenfeld и deBoer, и с класическите процедури на Codivilla, Зацепин, Lambrinudi, Hoke, Dwyer, Grice-Green, McBride, Keller, Lelièvre, Watson-Jones, Chrisman-Snook, Brostrom-Gould — допълнени от българския курикулум: Бойчев-Холевич парахилерен и трансахилерен достъп, бималеоларен на Холевич, Кацаров за калканеуса, Икономов за талуса, Чоканов за hallux valgus, Карчинов за quintus varus и pes plano-valgus, Герчев за metatarsus varus и клубфут, Хаджистамов за unguis incarnatus и Копчев за латерална глезенна нестабилност.
+
+</div>
+</details>
+</section>
+
+
+
+## Хирургична анатомия
+<!-- toc-h2 -->
+<section class="topic-section" id="surg-anatomy">
+<details>
+<summary>Хирургична анатомия</summary>
+<div class="ts-body">
+
+
+### Костна анатомия и ставен апарат
+<details id="bony-anatomy">
+<summary>Костна анатомия и ставен апарат</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/foot-bones-dorsal.svg" data-figure-alt="Кости на ходилото, дорзален изглед" aria-label="Увеличи">
     <img src="/img/anatomy-11/foot-bones-dorsal.svg" alt="Кости на ходилото, дорзален изглед" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Кости на дясно ходило, дорзален изглед (DBCLS): тарзални кости (talus, calcaneus, navicular, cuboid, три cuneiformia), 5 metatarsalia и 14 фаланги. Тарзо-метатарзалните стави (Lisfranc) формират свод-стабилизираща ставна линия, а Chopart-овата става (talo-navicular + calcaneo-cuboid) — апликационна точка на класическата дезартикулация по Chopart.</span>
+    <span class="md-figure-caption">Кости на дясно ходило, дорзален изглед: 7 тарзални (talus, calcaneus, os naviculare, os cuboideum, три cuneiformia), 5 metatarsalia и 14 фаланги. Тарзо-метатарзалната става (Lisfranc) формира свод-стабилизираща линия, а Chopart-овата става (talo-navicular + calcaneo-cuboid) — апликационна точка на класическата дезартикулация по Chopart.</span>
     <span class="md-figure-attribution"> · DataBase Center for Life Science (DBCLS), <a href="https://commons.wikimedia.org/wiki/File:202110_Dorsal_view_of_bones_of_right_foot.svg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
@@ -28,7 +82,7 @@ order: 211
     <img src="/img/anatomy-11/subtalar-joint.svg" alt="Субталарна става" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Субталарна (talo-calcaneal) става — три ставни фасети: предна, средна и задна. Ос на ротация Henke с 42° (sagittal) и 16° (transverse) — позволява триравнинна пронация-супинация. Класическата операция по Grice-Green (1952) — извънставна субталарна артродеза с трикортикален иликак-присадък между ламиатните блокове на калканеуса и talus — е стандарт при педиатрична pes plano-valgus от полиомиелит и церебрална парализа.</span>
+    <span class="md-figure-caption">Субталарна (talo-calcaneal) става — три ставни фасети: предна, средна и задна. Ос на ротация по Henke (по данните на Manter и Inman): сагитално наклонение средно 42° (29–47°), медиална девиация средно 16–23° спрямо втория интердигитален лъч; задна фасета с инклинация 65,5° (55–75°) по серия от 50 калканеуса. Talus напредва около 1,5–1,7 mm на всеки 10° субталарна ротация — анатомична основа на компенсаторното движение след глезенна артродеза.</span>
     <span class="md-figure-attribution"> · Wikimedia contributor, <a href="https://commons.wikimedia.org/wiki/File:Subtalar_Joint.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
@@ -38,7 +92,7 @@ order: 211
     <img src="/img/anatomy-11/foot-bones-gray.png" alt="Кости на ходилото — класическа плата на Gray" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Класическа плата на Gray (1918) на костите на ходилото: дорзалния поглед с релефа на os naviculare, ставната линия на Chopart и проекцията на сухожилието на m. tibialis posterior към тубероситета на os naviculare — анатомичен субстрат на придобития плоско-валгусен крак при дисфункция на m. tibialis posterior (Watkins-Barr трансфер).</span>
+    <span class="md-figure-caption">Класическа плата на Gray (1918): дорзалния поглед с релефа на os naviculare, ставната линия на Chopart и проекцията на сухожилието на m. tibialis posterior към тубероситета на os naviculare — анатомичен субстрат на придобития плосковалгусен крак при дисфункция на m. tibialis posterior.</span>
     <span class="md-figure-attribution"> · Henry Vandyke Carter, Gray's Anatomy (1918), <a href="https://commons.wikimedia.org/wiki/File:Gray446.png" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
@@ -48,49 +102,63 @@ order: 211
     <img src="/img/anatomy-11/ankle-foot.jpg" alt="Анатомия на глезен и ходило" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Анатомия на глезенната става и ходилото: тибиоталарна, субталарна (talocalcaneal) и transverse tarsal (Chopart) стави; 7 тарзални, 5 метатарзални кости и фаланги.</span>
+    <span class="md-figure-caption">Тибио-таларна, субталарна и Chopart става; 7 тарзални, 5 метатарзални кости и фаланги.</span>
     <span class="md-figure-attribution"> · OpenStax College, <a href="https://commons.wikimedia.org/wiki/File:919_Ankle_Feet_Joints.jpg" target="_blank" rel="noopener noreferrer">CC BY 3.0</a></span>
   </figcaption>
 </figure>
 
-Глезенната става включва тибиалния плафон, медиалния малеол, латералния малеол (дистална фибула) и купола на талуса (Тема Травма-28).
+**Глезенна вилка (mortise).** Тибиалният плафон, медиалният малеол, дисталната фибула (латерален малеол) и trochlea tali образуват тялото на глезенната става. Trochlea е по-широка отпред, отколкото отзад — вилката се „заключва" в дорзална флексия и се „освобождава" в плантарна, което обяснява анатомично защо плантарната флексия е по-уязвимата позиция при инверзионно навяхване. Тибио-фибуларната синдесмоза (предна, задна, интероссеална и трансверзална тибио-фибуларни връзки) контролира спойката между двата малеола под аксиална и ротационна натовареност.
 
-Субталарната става е между талуса (отгоре) и калканеуса (отдолу), с три ставни фасетки (предна, средна и задна), разделени от тарзалния канал.
+**Субталарна става.** Между talus (отгоре) и calcaneus (отдолу), с три ставни фасетки — предна, средна и задна — разделени от тарзалния канал и тарзалния синус. Според обширната серия на Sarrafian предната фасета е сливаща се със средната в значителна част от случаите (вариация в таблици 2.7–2.8); отсъства в 0,9% по Laidlaw. Sustentaculum tali носи средната фасета и е основният медиален костен ориентир при остеосинтеза на калканеусни фрактури.
 
-Средното стъпало включва навикуларната кост, кубоида и трите cuneiformia (Тема Травма- 29).
+**Средно стъпало.** Os naviculare, os cuboideum и трите cuneiformia. Тубероситетът на os naviculare е критичен ориентир — инсерционна точка на m. tibialis posterior и възможна локализация на accessory navicular (Geist тип I–III). Cuboid носи браздата за сухожилието на m. peroneus longus.
 
-Предното стъпало включва петте метатарзални кости и фалангите (по аналогия с ръката, две фаланги за палеца и три за останалите пръсти).
+**Линията на Chopart** разделя задното от средното стъпало — talo-navicular + calcaneo-cuboid става; точка на дезартикулация при класическата Chopart-ампутация.
 
-Ключовите хирургични ориентири са медиалният и латералният малеол, sustentaculum tali (медиален калканеус), туберкулът на тибиалиса върху навикуларната кост и туберозитета на петата метатарзална кост.
+**Линията на Lisfranc** разделя средното от предното стъпало — тарзо-метатарзалните стави. Архитектониката на Roman arch (Sarrafian): C2 (междинна клиновидна кост) е отстъпен на 8 mm проксимално от C1 и 4 mm от C3, формирайки клиновиден жлеб за основата на M2 — „keystone" анатомичен принцип, който отговаря за надлъжната стабилност на средното стъпало. Лигаментът на Lisfranc (между C1 и основата на M2) е най-силната от трите интероссеални връзки на тази линия, с височина около 1 cm и дебелина около 5 mm; според Sloan и сътрудници плантарната Lisfranc-връзка е по-силна и по-ригидна от дорзалната.
 
-## Регионална топографска анатомия
+**Предно стъпало.** Петте метатарзални кости и фалангите (две фаланги за палеца, три за останалите). Основата на M5 (tuberositas) е чест ориентир и място на авулзионни фрактури (зона I по Lawrence-Botte).
 
-Класическата българска топографска школа разделя глезенната и стъпалната област на ясно очертани зони, които съответстват на основните оперативни планове. Областта на глезенната става се отделя от подбедрицата чрез дъгообразна линия, минаваща на 7–8 cm проксимално от върха на медиалния малеол; дистално границата към ходилото минава по дъга, свързваща върховете на двата малеола, с предна изпъкналост на 2 cm от предния ставен ръб на тибията. В глезенната област се различават четири отдела: преден (върху гърба на ходилото), медиален (regio malleolaris medialis), латерален (regio malleolaris lateralis) и заден — regio tendinis calcanei.
-
-В областта на медиалния малеол кожата е тънка и подвижна, подкожието — слабо развито. По предния му ръб се изкачва vena saphena magna, придружена най-често медиално от nervus saphenus. Arteria malleolaris anterior medialis (клон на a. tibialis anterior) и rami malleolares mediales от a. tibialis posterior образуват rete malleolare mediale. Под повърхностната фасция лежи retinaculum musculorum extensorum superius, а малко по-дистално — проксималното краче на retinaculum musculorum extensorum inferius. Между задния ръб на медиалния малеол и петната кост се разполага retinaculum musculorum flexorum, изграждащ заедно с calcaneus malleolaris medialis canal — canalis malleolaris medialis — в който отпред назад минават сухожилието на musculus tibialis posterior, сухожилието на musculus flexor digitorum longus, задният съдово-нервен сноп (a. tibialis posterior и n. tibialis) и сухожилието на musculus flexor hallucis longus. Артерията най-често лежи пред и медиално от нерва; в редки случаи може да липсва и да се замества от свързочен клон на a. peronea (вариант Adachi).
-
-Латералната малеоларна област е ограничена отпред от линия, минаваща от предния ръб на malleolus lateralis към tuberositas ossis metatarsi V, отзад — от латералния ръб на ахиловото сухожилие. Между латералния малеол и петната кост retinaculum musculorum peroneorum superius и inferius образуват два отделни канала за musculus peroneus longus (заден) и musculus peroneus brevis (преден). Сухожилието на musculus peroneus longus кръстосва това на brevis отзад, след което се скрива под musculus abductor digiti minimi pedis и навлиза в браздата на кубоидната кост. И двете сухожилия се обвиват от общо синовиално влагалище, което дистално се разделя.
-
-Regio tendinis calcanei съвпада с релефа на ахиловото сухожилие, фланкирано от двете ретромалеоларни ямки. Пред крайната част на сухожилието лежи мастно-съединителнотъканното пространство с формата на тристенна пирамида с проксимален връх (пространство на Kager), ограничено отпред от задната повърхност на тибията и ставната капсула, отзад — от перитендона, латерално и медиално — от мускулните ложета. На 5–7 cm проксимално от субталарната става a. peronea (a. fibularis) отделя r. perforans, r. communicans и rr. malleolares laterales, които участват в rete malleolare laterale; всеки от тези клонове трябва да бъде идентифициран при заден или постеролатерален достъп.
-
-В предната глезенна област кожата е тънка, подвижна; venozните мрежи представляват анастомози между vv. saphena magna и saphena parva, сетивните нерви са клонове на n. peroneus superficialis и n. saphenus. Retinaculum extensorum superius е напречно разположено и оформя в дълбочина преграда между два костно-фиброзни канала; retinaculum extensorum inferius има формата на легнала Y с три крачета и оформя три канала за сухожилията на предната група. Vasa tibialia anteriora и n. peroneus profundus лежат в канала на m. extensor hallucis longus, зад и латерално от сухожилието му, като нервът на това ниво е медиално от артерията.
-
-Ходилото се разделя на dorsum pedis, planta pedis и digiti. Медиалната граница между гръба и стъпалото отговаря на горния ръб на m. abductor hallucis (от средата на петата към главата на I метатарзална кост); латералната — на горния ръб на m. abductor digiti minimi (към главата на V метатарзална кост). Пръстите се отделят от стъпалото с дъга на 2.0–2.5 cm проксимално от междупръстните гънки.
-
-Arcus venosus dorsalis pedis се образува на нивото на средата на метатарзалните кости от анастомозите между двете vv. saphenae; от него започват v. saphena magna (медиално, над tuberositas ossis navicularis) и v. saphena parva (латерално, около tuberositas ossis metatarsalis V и зад латералния малеол). N. peroneus superficialis пробива фасцията на 10–12 cm проксимално от върха на латералния малеол, разделя се на n. cutaneus dorsalis medialis и intermedius — и двата клона са в риск при дорзални достъпи. N. suralis съпровожда v. saphena parva и продължава като n. cutaneus dorsalis lateralis pedis.
-
-На дорзума на ходилото a. dorsalis pedis лежи между сухожилията на m. extensor hallucis longus и m. extensor digitorum longus, непосредствено върху костта; нейните клонове (a. tarsea lateralis, a. arcuata, r. plantaris profundus, a. metatarsea dorsalis I) определят съдовия риск при тарзометатарзални достъпи.
-
-Plantarно пространство е разделено от плантарната апоневроза и медиалната и латералната фасциални прегради на три фасциални ложета — медиално, средно (централно) и латерално; към тях съвременната класификация добавя калканеално, междукостни (четири) и понякога приведено ложе, в съвкупност 9 компартмента. Каналис plantaris (плантарният канал) се разполага в проксималната част на средното ложе, между lig. plantare longum дорзално и дълбоката плантарна фасция плантарно; той съдържа m. quadratus plantae, сухожилието на m. flexor digitorum longus, медиалния и латералния плантарни съдово-нервни снопове и преминава проксимално в петния канал. Медиалният плантарен сноп се появява на 7–8 cm дистално от tuber calcanei, под m. abductor hallucis; n. plantaris medialis инервира m. flexor digitorum brevis, m. abductor hallucis, m. flexor hallucis brevis, първи lumbricalis и кожата на медиалните 3.5 пръста. Латералният сноп се появява на 4–5 cm дистално от tuber calcanei по латералния ръб на m. abductor hallucis; n. plantaris lateralis инервира m. quadratus plantae, m. abductor digiti minimi и кожата на латералния един и половина пръст.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Топографско правило за плантарните достъпи: медиалният плантарен сноп излиза 7–8 cm дистално от tuber calcanei под m. abductor hallucis, латералният — 4–5 cm дистално от tuber calcanei по латералния ръб на същия мускул. При плантарни инцизии (Steindler-stripping, плантарна фасциотомия, плантарна декомпресия при компартмент синдром) разрезът остава по медиалния нетеговоносещ ръб, не преминава 3 cm пред върха на петата и винаги се прави с тъп распатор по костта, за да не се повреди сноп.</p>
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Trochlea tali е по-широка отпред — глезенът се „заключва" в дорзална флексия и се „освобождава" в плантарна; затова инверзионно навяхване типично става в плантарна флексия.</li>
+    <li>Roman arch на Lisfranc: M2 е „keystone" — основата му е отстъпена проксимално между трите cuneiformia. Изместване над 2 mm налага репозиция и фиксация.</li>
+    <li>Sustentaculum tali — основен медиален костен ориентир при остеосинтеза на калканеусни фрактури и носител на средната субталарна фасета.</li>
+  </ul>
 </aside>
 
-Между метатарзалните кости aa. metatarseae dorsales са защитени от mm. interossei dorsales и не са уязвими при типичните дорзални надлъжни разрези; на 1–1.5 cm проксимално от междупръстните гънки aa. и nn. metatarseae dorsales се делят на собствените aa. и nn. digitales dorsales — деленето се проектира на нивото на метатарзо-фалангеалните стави.
+</div>
+</details>
 
-## Съдово-нервна анатомия
+
+### Регионална топографска анатомия
+<details id="topography">
+<summary>Регионална топографска анатомия</summary>
+<div class="ts-body">
+
+Класическата българска топографска школа разделя глезенната и стъпалната област на ясно очертани зони, които съответстват на основните оперативни планове. Областта на глезенната става се отделя от подбедрицата чрез дъгообразна линия, минаваща на 7–8 cm проксимално от върха на медиалния малеол; дистално границата към ходилото е дъга, свързваща върховете на двата малеола, с предна изпъкналост на 2 cm от предния ставен ръб на тибията. Различават се четири отдела: преден (върху гърба на ходилото), медиален (regio malleolaris medialis), латерален (regio malleolaris lateralis) и заден — regio tendinis calcanei.
+
+**Медиален малеол.** Кожата е тънка и подвижна, подкожието — слабо развито. По предния ръб се изкачва v. saphena magna, придружена най-често медиално от n. saphenus. A. malleolaris anterior medialis (клон на a. tibialis anterior) и rami malleolares mediales от a. tibialis posterior образуват rete malleolare mediale. Под повърхностната фасция лежи retinaculum musculorum extensorum superius, а малко по-дистално — проксималното краче на retinaculum musculorum extensorum inferius. Между задния ръб на медиалния малеол и петната кост retinaculum musculorum flexorum изгражда тарзалния канал, в който отпред назад минават сухожилието на m. tibialis posterior, m. flexor digitorum longus, заден съдово-нервен сноп (a. tibialis posterior и n. tibialis) и m. flexor hallucis longus. Артерията най-често лежи пред и медиално от нерва; в редки случаи може да липсва и да се замества от свързващ клон на a. peronea (вариант Adachi).
+
+**Латерален малеол.** Областта е ограничена отпред от линия от предния ръб на малеола към tuberositas ossis metatarsi V, отзад — от латералния ръб на ахиловото сухожилие. Между латералния малеол и петната кост retinaculum musculorum peroneorum superius и inferius образуват два отделни канала за m. peroneus longus (заден) и m. peroneus brevis (преден). Сухожилието на m. peroneus longus кръстосва това на brevis отзад, скрива се под m. abductor digiti minimi pedis и навлиза в браздата на os cuboideum.
+
+**Заден глезен (Achilles).** Regio tendinis calcanei съвпада с релефа на ахиловото сухожилие, фланкирано от двете ретромалеоларни ямки. Пред крайната част на сухожилието лежи мастно-съединителнотъканното пространство с формата на тристенна пирамида с проксимален връх (пространство на Kager), ограничено отпред от задната тибиална повърхност и ставната капсула, отзад — от перитендона, латерално и медиално — от мускулните ложета. На 5–7 cm проксимално от субталарната става a. peronea отделя r. perforans, r. communicans и rr. malleolares laterales, които участват в rete malleolare laterale.
+
+**Преден глезен.** Кожата е тънка, подвижна; venozni мрежи представляват анастомози между vv. saphena magna и saphena parva; сетивните нерви са клонове на n. peroneus superficialis и n. saphenus. Retinaculum extensorum superius е напречно разположено и оформя в дълбочина преграда между два костно-фиброзни канала; retinaculum extensorum inferius има формата на легнала Y с три крачета и оформя три канала за сухожилията на предната група. Vasa tibialia anteriora и n. peroneus profundus лежат в канала на m. extensor hallucis longus, зад и латерално от сухожилието му, като нервът на това ниво е медиално от артерията.
+
+**Ходило.** Делене на dorsum pedis, planta pedis и digiti. Медиалната граница между гръба и стъпалото отговаря на горния ръб на m. abductor hallucis (от средата на петата към главата на I метатарзална кост); латералната — на горния ръб на m. abductor digiti minimi (към главата на V метатарзална кост). Пръстите се отделят от стъпалото с дъга на 2,0–2,5 cm проксимално от междупръстните гънки. Arcus venosus dorsalis pedis се формира на нивото на средата на метатарзалните кости от анастомозите между двете vv. saphenae; от него започват v. saphena magna (медиално, над tuberositas ossis navicularis) и v. saphena parva (латерално, около tuberositas ossis metatarsalis V и зад латералния малеол).
+
+**Плантарно пространство.** Разделено от плантарната апоневроза и от медиалната и латералната фасциални прегради на четири фасциални ложета по класификацията на Sarrafian: медиално (тибиално), латерално (перонеално), централно (с повърхностен, междинен и дълбок аддукторен подкомпартмент) и интерос(сеално (подразделено на четири пространства от вертикални прегради). По Grodinsky се описват общо 6 фасциални пространства (F1–F6). По съвременната хирургична класификация се добавя и calcaneal compartment — общо 9 разпознавани компартмента.
+
+</div>
+</details>
+
+
+### Съдово-нервна анатомия
+<details id="neurovascular">
+<summary>Съдово-нервна анатомия</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/tarsal-tunnel.png" data-figure-alt="Тарзален канал" aria-label="Увеличи">
@@ -102,513 +170,991 @@ Plantarно пространство е разделено от плантарн
   </figcaption>
 </figure>
 
-Предните структури на глезена, от медиално към латерално, са: musculus tibialis anterior, musculus extensor hallucis longus (EHL), arteria tibialis anterior и nervus peroneus profundus, musculus extensor digitorum longus (EDL), musculus peroneus tertius.
+**Преден глезен.** От медиално към латерално: m. tibialis anterior, m. extensor hallucis longus (EHL), a. tibialis anterior и n. peroneus profundus, m. extensor digitorum longus (EDL), m. peroneus tertius. На това ниво нервът е медиално от артерията. A. tibialis anterior продължава дистално като a. dorsalis pedis, лежаща между сухожилията на EHL и EDL непосредствено върху костта; нейните клонове — a. tarsea lateralis, a. arcuata, r. plantaris profundus и a. metatarsea dorsalis I — определят съдовия риск при тарзометатарзални достъпи.
 
-Медиалният глезен съдържа тарзалния канал зад медиалния малеол, чието съдържимо (дълбоко под retinaculum flexorum, отпред назад) е: musculus tibialis posterior, musculus flexor digitorum longus, arteria tibialis posterior и nervus tibialis, musculus flexor hallucis longus, мнемоничното правило „Tom, Dick, And a Nervous Harry“.
-
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Съдържимо на тарзалния канал зад медиалния малеол (отпред назад, дълбоко под retinaculum flexorum): Tibialis posterior, flexor Digitorum longus, arteria tibialis posterior, nervus tibialis, flexor Hallucis longus — „Tom, Dick, And a Nervous Harry“. Декомпресията тук лекува синдром на тарзалния канал.</p>
-</aside>
-
-Латералният глезен съдържа musculus peroneus brevis отпред и musculus peroneus longus отзад зад латералния малеол, като nervus suralis минава постеролатерално.
-
-Nervus peroneus superficialis пресича антеролатералния глезен и гърба на стъпалото подкожно, осигурявайки по-голямата част от сетивността на дорзума на стъпалото; увреждането му води до характерен сетивен дефицит и е известен риск при антеролатералните достъпи към глезена.
-
-Nervus saphenus слиза по медиалната страна на глезена и стъпалото, осигурявайки медиална сетивност; увреждането му води до медиодорзален сетивен дефицит.
+**Тарзален канал.** Зад медиалния малеол, дълбоко под retinaculum flexorum, съдържанието отпред назад е: m. tibialis posterior, m. flexor digitorum longus, a. tibialis posterior и n. tibialis, m. flexor hallucis longus — мнемонично правило „Tom, Dick, And a Nervous Harry". N. tibialis обикновено се дели в канала на n. plantaris medialis (по-голям, инервиращ m. flexor digitorum brevis, m. abductor hallucis, m. flexor hallucis brevis, първи lumbricalis и кожата на медиалните 3,5 пръста) и n. plantaris lateralis (m. quadratus plantae, m. abductor digiti minimi и латералния един и половина пръст), както и в калканеалния клон към петата (Baxter-нерв).
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
-  <p>Nervus peroneus superficialis става подкожен и пресича антеролатералния глезен, инервирайки по-голямата част от гърба на стъпалото — идентифицирайте и защитете при предни и антеролатерални достъпи към глезена. Nervus peroneus profundus инервира само първото интердигитално пространство; nervus suralis, латералния ръб; nervus saphenus, медиалния.</p>
+  <p>Декомпресията на тарзалния канал лекува тарзален тунелен синдром: компресия на n. tibialis или на първите му клонове с дистална парестезия, болка по медиалния ход на стъпалото и плантарни клонове, положителен симптом на Tinel зад медиалния малеол. Освобождава се retinaculum flexorum и фиброзните прегради между двата плантарни клона.</p>
 </aside>
 
-## Преден достъп към глезена
+**Латерален глезен.** M. peroneus brevis отпред и m. peroneus longus отзад зад латералния малеол; n. suralis минава постеролатерално, придружен от v. saphena parva. N. suralis инервира латералния ръб на стъпалото и петия пръст; уязвим при постеролатерален и латерален Кохер-достъп.
+
+**Дорзален аспект на стъпалото.** N. peroneus superficialis пробива фасцията на 10–12 cm проксимално от върха на латералния малеол, разделя се на n. cutaneus dorsalis medialis и intermedius — и двата клона се намират подкожно по антеролатералния глезен и гърба на стъпалото и са в риск при дорзални надлъжни достъпи. N. peroneus profundus инервира само първото интердигитално пространство.
+
+**Плантарни плантари.** Медиалният плантарен сноп излиза на 7–8 cm дистално от tuber calcanei под m. abductor hallucis; латералният — на 4–5 cm дистално от tuber calcanei по латералния ръб на същия мускул.
+
+<aside class="callout callout-pearl">
+  <span class="callout-label">Pearl</span>
+  <p>Сетивна териториа на глезена: n. peroneus superficialis — почти целия дорзум (без I интердигиталие); n. peroneus profundus — само първото интердигитално пространство; n. suralis — латерален ръб на стъпалото; n. saphenus — медиален ръб и медиален малеоларен регион; n. tibialis (чрез двата плантарни клона) — цялата подметка. Това разпределение определя избора на регионална анестезия при ankle block.</p>
+</aside>
+
+</div>
+</details>
+
+
+### Кръвоснабдяване на talus
+<details id="talar-blood">
+<summary>Кръвоснабдяване на talus</summary>
+<div class="ts-body">
+
+Кръвоснабдяването на talus е критично за оценката на хирургичния риск при шийкови и corpus-фрактури, тъй като 60% от костта е покрита от хрущял и няма мускулни прикрепвания, които да носят съдови входове. Класическата работа на Mulfinger и Trueta (1970), потвърдена и количествено разширена от Gelberman и Mortensen, описва три основни артериални системи.
+
+**A. canalis tarsi (тарзално-канална артерия).** Клон на a. tibialis posterior, излизащ около 1 cm проксимално от нейното разделяне на n. plantaris medialis и lateralis; в 16,6% произлиза от a. plantaris medialis, дублирана в 3,3% и отсъстваща в 3,3% (Mulfinger-Trueta, n=30). Минава в тарзалния канал и осигурява главното захранване на тялото на talus — латералните две трети от corpus tali (4–5 главни клона в постеролатерално направление). По Gelberman-Mortensen това е „единственото голямо артериално захранване на тялото на talus" — увредата ѝ при шийкови фрактури е директна причина за аваскуларна некроза.
+
+**Деltoidен клон (deltoid branch).** Произлиза от a. canalis tarsi около 5 mm от началото ѝ (в 30% — директно от a. tibialis posterior; дублиран в 6,6%). Захранва медиалната една четвърт до една трета от corpus tali през делтоидния лигамент. В 91% от случаите делтоидният клон е налице — функционира като резервен (collateral) канал, който осигурява запазено кръвоснабдяване и при прекъсване на a. canalis tarsi.
+
+**A. sinus tarsi (тарзално-синусална артерия).** Произлиза най-често от a. dorsalis pedis (или от проксималната a. tarsea lateralis, от a. malleolaris anterolateralis или от r. perforans на a. peronea). Анастомозира с a. canalis tarsi зад шийката на talus, формирайки главната артериална ос на костта. Захранва инфериор-латералната половина на talar head и шийката от долу; чрез анастомозата с a. canalis tarsi осигурява дуално кръвоснабдяване на долната повърхност на шийката в 83% от случаите.
+
+**Talar head.** Двойно кръвоснабдяване — суперомедиална половина от клонове на a. dorsalis pedis (горно-шийкови клонове); инфериор-латерална половина — от a. sinus tarsi.
+
+**Задна туберкула.** Захранвана от задната анастомотична мрежа (a. peronea + a. tibialis posterior); самостоятелна васкуларна територия, която обикновено е запазена при шийкови фрактури.
+
+<aside class="callout callout-anatomic-warning">
+  <strong>Critical</strong>
+  <ul>
+    <li>Аваскуларната некроза при шийкови фрактури на talus следва Hawkins (1970): тип I (без дислокация) — 0%; тип II (субталарна дислокация) — 20–50%; тип III (тибио-таларна + субталарна дислокация) — 80–100%; тип IV (със subluxация на talo-navicular) — почти 100%. Знак на Hawkins (субхондрална радиолуцентна линия на купола на talus на 6–8-та седмица) изключва AVN.</li>
+    <li>A. canalis tarsi е единственото голямо захранване на corpus tali — дисекцията при остеосинтеза трябва да щади тарзалния канал и медиалното сцепление на делтоида.</li>
+    <li>Делтоидният клон осигурява запазване на 1/3 от corpus tali при прекъсване на канала — една от причините за по-висока преживяемост в съвременни серии в сравнение с класическите проценти.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Връзков апарат и spring-комплекс
+<details id="ligaments">
+<summary>Връзков апарат и spring-комплекс</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/ankle-ligaments.svg" data-figure-alt="Лигаментна анатомия на глезена" aria-label="Увеличи">
     <img src="/img/anatomy-11/ankle-ligaments.svg" alt="Лигаментна анатомия на глезена" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Лигаментна анатомия на глезена: латерален комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент; ATFL е най-често разкъсваният при инверзионно навяхване.</span>
+    <span class="md-figure-caption">Латерален лигаментен комплекс (ATFL, CFL, PTFL) и медиален делтоиден лигамент. ATFL се скъсва най-често при инверзионно навяхване в плантарна флексия; CFL се скъсва при по-голяма енергия и инверзия в неутрална/дорзална флексия и води до субталарна нестабилност.</span>
     <span class="md-figure-attribution"> · Wikipedia user, <a href="https://commons.wikimedia.org/wiki/File:Ankle_en.svg" target="_blank" rel="noopener noreferrer">PD</a></span>
   </figcaption>
 </figure>
 
-Предният достъп към глезена се използва при предна артродеза на глезена, тотална артропластика на глезена, дистална тибиална остеотомия, резекция на тумор и други предни интервенции. Надлъжен разрез се прави по предната повърхност на глезена по оста на втората метатарзална кост, с дължина приблизително 10-15 cm. Nervus peroneus superficialis пресича латералния аспект на разреза (повечето хирурзи правят кожния разрез медиално от пресечните точки на нерва). Дълбоката дисекция развива интервала между musculus tibialis anterior (медиално) и musculus extensor hallucis longus / musculus extensor digitorum longus (латерално), като arteria tibialis anterior и nervus peroneus profundus се ретрахират латерално. Ставната капсула се отваря за достъп до ставата.
+**Латерален лигаментен комплекс.** Предна тало-фибуларна връзка (anterior talofibular ligament, ATFL) — тънка, най-уязвима при плантарно-флексионна инверзия (типичното „навяхване"); калканео-фибуларна връзка (calcaneofibular ligament, CFL) — задържа субталарна стабилност; задна тало-фибуларна връзка (posterior talofibular ligament, PTFL) — много здрава, се скъсва само при дислокация.
+
+**Медиален делтоиден комплекс.** Повърхностен слой: tibionavicular, tibiocalcaneal, posterior tibiotalar superficial. Дълбок слой: anterior tibiotalar и posterior tibiotalar — главни задържащи структури срещу латерална транслация на talus.
+
+**Spring-лигаментен комплекс (calcaneonavicular).** Sarrafian различава три компонента:
+- *Superomedial calcaneonavicular ligament* (ligamentum neglectum) — широка квадрилатерна връзка от sustentaculum tali, обвиваща медиално главата на talus; повърхността ѝ е фибро-хрущялна и носи талусната глава като ставна повърхност. Интерлийсва с тибио-навикуларния, тибио-лигаментозния и тибио-калканеалния компоненти на делтоида.
+- *Inferior calcaneonavicular (истинският „spring")* — трапецовидна, фасцикулирана, от coronoidна ямка на долната повърхност на калканеуса към долната повърхност на os naviculare.
+- *Третя плантарна калканео-навикуларна връзка* (Tanigushi и сътрудници, n=48) — между двата калканеални фасета, идентифицирана в 100%.
+
+Spring-лигаментът осигурява статична поддръжка на медиалната глава на talus и на медиалния надлъжен свод; неговата дисфункция (заедно със скъсването на сухожилието на m. tibialis posterior) е централна за патогенезата на придобития плосковалгусен крак при възрастни (PTTD).
+
+**Тибио-spring лигамент** (повърхностен делтоиден компонент) — носи 351 N до граничното натоварване (in vitro данни), което подчертава механичното му значение в съпротивата срещу гравитационна и динамична депресия на главата на talus.
+
+**Лигамент на Lisfranc.** Между латералната повърхност на C1 (медиалния cuneiforme) и медиалната повърхност на основата на M2. Височина около 1 cm, дебелина около 5 mm; дублиран в 22% (двата клона по 3–4 mm). Най-силната от трите интероссеални връзки на Lisfranc-линията. По Sloan плантарната Lisfranc-връзка е по-силна и по-ригидна от дорзалната; прекъсване на Lisfranc + плантарна C1-M2/M3 → напречна нестабилност; прекъсване на Lisfranc + C1-C2 → надлъжна нестабилност. Праг на нестабилност (Kaar): диастаза над 2 mm.
+
+**Лигаменти на Chopart.** Bifurcate-лигамент (Y-образна връзка) от calcaneus към os naviculare (медиален лъч) и os cuboideum (латерален лъч); ключов лигамент при flexion-rotation увреди на средното стъпало.
+
+</div>
+</details>
+
+
+### Компартменти на стъпалото
+<details id="compartments">
+<summary>Компартменти на стъпалото</summary>
+<div class="ts-body">
+
+Стъпалото има четири основни (по Sarrafian) или девет (по съвременна хирургична класификация) фасциални отделения — медиално, латерално, централно (с три подкомпартмента), калканеално и четири интероссеални. Компартмент синдромът на стъпалото изисква разпознаване и фасциотомия:
+- Калканеалният компартмент съдържа n. plantaris lateralis и a. plantaris lateralis — типичното седалище на компартмент синдрома след тежки калканеални фрактури.
+- Стандартната фасциотомия се изпълнява чрез два дорзални разреза по горния ръб на II и IV метатарзални кости (декомпресия на четирите интероссеални и на медиалния, централния и латералния компартмент) с допълнителен медиален разрез по медиалния ръб, ако клиничната картина или измерените тъканни налягания го налагат.
+- Прагови налягания за оперативна декомпресия: над 30 mmHg в покой или Δp (диастолно − компартментно) под 30 mmHg по класификацията на Whitesides/McQueen.
+
+<aside class="callout callout-cave">
+  <strong>Cave</strong>
+  <ul>
+    <li>Калканеалният компартмент при затворени калканеални фрактури — често пропускан като източник на дълготрайна болка и контрактура на пръстите („claw toes"). Измервай налягането при високо-енергийни механизми, особено при политравма с изключена клиника.</li>
+    <li>Плантарната фасциотомия по медиалния нетеглонос ръб (Henry-линия) не пресича плантарно-неврологичните снопове, но рискува калканеалния клон на n. tibialis (Baxter) — дисекция тъпа, по костта.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+</div>
+</details>
+</section>
+
+
+
+## Биомеханика
+<!-- toc-h2 -->
+<section class="topic-section" id="biomechanics">
+<details>
+<summary>Биомеханика</summary>
+<div class="ts-body">
+
+Тибио-таларната става осъществява предимно сагитално движение — около 20° дорзална и 50° плантарна флексия в нормални условия. Транслационни и ротационни компоненти са минимални. Поради по-широкия преден диаметър на trochlea tali ставата се „заключва" в дорзална флексия и се „освобождава" в плантарна — анатомичен субстрат за уязвимостта на латералния лигаментен комплекс при инверзионна травма в плантарна флексия.
+
+Субталарната става осъществява триравнинно движение около оста на Henke (по Manter и Inman: 42° сагитално, 16–23° трансверзално). Пронацията (евъерсия + абдукция + дорзална флексия) и супинацията (инверсия + аддукция + плантарна флексия) са свързани движения. Talus напредва около 1,5–1,7 mm на всеки 10° субталарна ротация. След тибио-таларна артродеза субталарната и Chopart-овите стави носят увеличена компенсация — анатомичната основа за добрата функционална походка след глезенна артродеза.
+
+Chopart-овата става (talo-navicular + calcaneo-cuboid) функционира като еднакъв „транспортен ремък": в супинация осите на двете стави са в различни равнини и средното стъпало се заключва; в пронация осите стават паралелни и средното стъпало се развинтва, позволявайки да приема ударите при петен контакт.
+
+Lisfranc-овата става е практически ригидна по медиалната колона (M1) и значително по-подвижна латерално (M4-M5), което обяснява по-широката индикация за артродеза на M1-C1 (Lapidus) и за гъвкаво стабилизиране на M4-M5 (без артродеза в типичните случаи).
+
+Плантарната апоневроза е „windlass mechanism" на Hicks: при дорзална флексия на пръстите (push-off) фасцията се „навива" на главите на метатарзалните кости и активно повишава медиалния надлъжен свод. Затова контрактура на плантарната фасция е основен компонент на pes cavus, а нейната дезинсерция от tuber calcanei (Steindler) е основната меко-тъканна стъпка в корекцията.
+
+</div>
+</details>
+</section>
+
+
+
+## Ориентири и образна диагностика
+<!-- toc-h2 -->
+<section class="topic-section" id="landmarks-imaging">
+<details>
+<summary>Ориентири и образна диагностика</summary>
+<div class="ts-body">
+
+**Палпиращи се ориентири.** Медиалният и латералният малеол, sustentaculum tali (2,5 cm дистално от върха на медиалния малеол), туберкул на m. tibialis anterior върху os naviculare, туберозитет на основата на V метатарзала, релефът на ахилеса и петните проекции, точката на Henry на латералната стена на калканеуса.
+
+**Стандартни рентгенови проекции.** Глезенът — антеропостериорна (AP), странична и mortise (15–20° вътрешна ротация); стрес-снимки за латерален и медиален комплекс (тилт на talus > 10° → ATFL руптура; над 6 mm латерално отваряне → български критерий по Hackenbruch-Hoesterberg, 1966). Стъпалото — антеропостериорна, странична и наклонена; weight-bearing-снимките са задължителни за hallux valgus и за плоско-валгусен крак.
+
+**Ключови рентгенови ъгли.**
+- Bohler-тубер-ставен ъгъл — нормален 30–35° (по Sarrafian серия от 50 калканеуса: средна 32°); намален при компресионни калканеални фрактури.
+- Gissane „критичен ъгъл" — 95–105° (между задната ставна повърхност и предната фасета на calcaneus); увеличен при компресия на задната фасета.
+- Hallux valgus angle (HVA) — норма < 15° (Hardy-Chapman: средно 15,7°, разпределение 0–36°).
+- Intermetatarsal angle M1–M2 (IMA) — норма < 9° (Hardy-Chapman: средно 8,5°, мода 8–9°).
+- Distal metatarsal articular angle (DMAA) — < 10° (по ElSaid: средно 8,21°, диапазон от −14° до +30°).
+- Interphalangeal hallux angle — норма около 14,5° (разпределение 6–24°).
+- Talo-метатарзален ъгъл (на Meary) — норма около 0° (talus и M1 на една ос); при pes cavus — върх дорзално (положителен); при pes planus — върх плантарно (отрицателен).
+
+**Hindfoot alignment view** (по Saltzman) — стояща хиндфут-проекция за обективна оценка на варус/валгус на петата спрямо тибиалната ос; критичен предоперативен образ преди ангажирана корекция на тригоналния пирамидален комплекс.
+
+**CT.** Стандарт при калканеусни и пилон-фрактури; коронарни срезове през задната фасета — основа на Sanders-класификацията; 3D-реконструкции при сложни Lisfranc и тарзални травми.
+
+**MRI.** При остеохондрални лезии на купола на talus (Berndt-Hardy, Hepple), при PTTD (стадий I–IV по Johnson-Strom), при стрес-фрактури на нававикуларната кост и при тарзални коалиции (talo-калканеална, калканео-навикуларна).
+
+</div>
+</details>
+</section>
+
+
+
+## Класификация на достъпите
+<!-- toc-h2 -->
+<section class="topic-section" id="classification">
+<details>
+<summary>Класификация на достъпите</summary>
+<div class="ts-body">
+
+Достъпите към глезена и стъпалото се класифицират по четири пресечни оси.
+
+**По колона:** преден / антеролатерален / латерален / постеролатерален / заден (трансахилерен и парахилерен) / медиален / sinus tarsi / разширен латерален.
+
+**По мек-тъканна архитектура:** меко-тъканни щадящи (sinus tarsi за калканеуса, дорзо-медиалния за hallux) versus „extensile" (разширен L-латерален по Letournel-Benirschke за калканеуса; бималеоларен по Холевич за глезена).
+
+**По цел:** репозиция и фиксация (фрактури); реконструкция и трансфер (нестабилност, паралитични деформации); артродеза (артрозни и деформиращи състояния); артропластика (тотална глезенна); ампутация (Sharp, Chopart, Lisfranc, Syme, Пирогов).
+
+**По прикриване на меките тъкани и срокове.** Тънкият медиален и преден меко-тъканен слой определя приоритета на „временна стабилизация — отложена реконструкция" при пилон-фрактури — принцип на M. E. Müller (1970) с минимална кожна мостова дистанция 7 cm между разрезите и поетапна остеосинтеза, едва след преминаване на отока.
+
+Принципът на Hoppenfeld остава директивен: достъпът се избира по локализацията на патологията, по съдово-нервната топография и по състоянието на меките тъкани — не по технически предпочитания на хирурга. „Наказанието за достъпа не трябва да надвишава ползата от процедурата."
+
+</div>
+</details>
+</section>
+
+
+
+## Лечение
+<!-- toc-h2 -->
+<section class="topic-section" id="treatment">
+<details>
+<summary>Лечение</summary>
+<div class="ts-body">
+
+
+### Консервативно
+<details id="nonoperative">
+<summary>Консервативно</summary>
+<div class="ts-body">
+
+При стабилни малеоларни фрактури (Weber A, изолиран дистален фибулен фрагмент без медиална нестабилност, без диастаза) — пълноконтактна гипсова шина или ходеща ортеза 4–6 седмици, прогресивно натоварване.
+
+При остри увреди на латералния лигаментен комплекс без нестабилност на стрес-снимки — функционално лечение с полу-ригидна ортеза, ранна мобилизация и проприоцептивна тренировка; рандомизирани проучвания показват еквивалентни резултати в сравнение с класическата първична оперативна реконструкция при изолирано ATFL-увреждане.
+
+При вроден pes equino-varus (клубфут) до 1-годишна възраст — метод на Ponseti със серийни гипсове по класическата йерархия CAVE (Cavus → Adductus → Varus → Equinus), допълнен с перкутанна тенотомия на ахилеса (TAL по Hoke) и продължителна нощна шина (Denis-Browne, Mitchell) до 4-годишна възраст. Перкутанната тенотомия на ахилеса е почти задължителен последен етап при около 90% от децата.
+
+При hallux valgus — корекция на обувката (широка предна част, премахване на висок ток), стелки с метатарзална възглавница, нощни ортези за палеца — палиативни мерки; не променят естествения ход на деформацията.
+
+При плосковалгусен крак на детето — гъвкавите форми не изискват операция; стелки с медиална подкрепа на свода са допустими; ригидните форми (тарзална коалиция) изискват уточняване с CT/MRI и при симптоматика — оперативна корекция.
+
+<aside class="callout callout-nb">
+  <strong>NB</strong>
+  <ul>
+    <li>Серийната гипсова корекция по Ponseti при вроден клубфут — 5–7 гипса от 1-седмична възраст, поетапно коригиращи cavus → adductus → varus; equinus се коригира с перкутанна тенотомия на ахилеса в около 90% от случаите.</li>
+    <li>Функционалното лечение на инверзионно навяхване на глезена дава еквивалентен дългосрочен резултат на първична оперативна реконструкция при изолирано ATFL-увреждане без хроничната нестабилност.</li>
+  </ul>
+</aside>
+
+</div>
+</details>
+
+
+### Оперативно
+<details id="operative">
+<summary>Оперативно</summary>
+<div class="ts-body">
+
+<details>
+<summary>Преден достъп към глезена</summary>
+<div class="ts-body">
+
+Прилага се при предна артродеза, тотална глезенна артропластика, дистална тибиална остеотомия, туморна резекция и предни остеохондрални лезии.
+
+**Позициониране и ориентири.** Пациентът е по гръб с турникет на бедрото. Кожен разрез по оста на втория метатарзал, 10–15 cm с център над глезенната става.
+
+**Интернервна плоскост.** Повърхностно — между двата клона на n. peroneus superficialis (медиален и интермедиен дорзален кутанен); дълбоко — между m. tibialis anterior (L4, n. peroneus profundus медиално) и m. extensor hallucis longus / m. extensor digitorum longus (L5, S1, n. peroneus profundus латерално).
+
+**Техника.** Кожният разрез се поставя медиално от пресечните точки на n. peroneus superficialis (нервът се идентифицира преди дълбоката дисекция). Retinaculum extensorum superius се отваря по оста на разреза; m. tibialis anterior се ретрахира медиално, EHL и EDL — латерално. A. tibialis anterior и n. peroneus profundus се идентифицират на латералния ръб на канала на EHL и се ретрахират латерално. Ставната капсула се отваря напречно.
+
+**Опасности.** N. peroneus superficialis (повърхностно); a. tibialis anterior и n. peroneus profundus (дълбоко латерално).
+
+</div>
+</details>
+
+<details>
+<summary>Антеролатерален достъп към глезена (за пилон-фрактури)</summary>
+<div class="ts-body">
+
+Стандарт при латерални пилон-фрактури. Надлъжен разрез по антеролатералния глезен, между EHL/EDL медиално и m. peroneus tertius латерално. N. peroneus profundus и a. tibialis anterior се идентифицират и ретрахират медиално. Излагат се глезенната става и дисталната тибия с отлична видимост на предната ставна повърхност и на дисталната артикуларна повърхност на тибията.
+
+При комбинирани пилон-фрактури принципът на M. E. Müller (1970): първо възстанови дължината на фибулата през предно-латерален достъп (фибулата е ос-ориентир за алинирането на тибиалните отломъци); едва след това през втори предно-медиален достъп ремонтирай тибиалното плато с интерфрагментарни винтове и медиална тибиална пластина. Минималното разстояние между двата кожни разреза е 7 cm за запазване на меко-тъканното кръвоснабдяване.
+
+</div>
+</details>
+
+<details>
+<summary>Постеролатерален достъп към глезена</summary>
+<div class="ts-body">
+
+Прилага се при остеосинтеза на задния малеол (Volkmann-фрагмент), задни пилон-фрактури и достъп до перонеалните сухожилия. Надлъжен разрез зад фибулата. N. suralis и v. saphena parva се идентифицират и щадят. Развива се интервалът между перонеалните сухожилия (латерално) и m. flexor hallucis longus (медиално); FHL се ретрахира медиално. Излагат се задната повърхност на глезенната става и задният малеол. Винаги се проверява задният тибио-фибуларен лигамент за авулзионен фрагмент.
+
+</div>
+</details>
+
+<details>
+<summary>Заден парахилерен и трансахилерен достъп (Бойчев-Холевич)</summary>
+<div class="ts-body">
+
+**Парахилерен.** По латералния ръб на ахилеса; сухожилието се ретрахира медиално и в дълбочина се откриват ставната капсула и задните аспекти на tibia, talus и calcaneus. Удобен при заден пилон, задна капсулотомия при еквинус и достъп до processus posterior tali.
+
+**Трансахилерен (Бойчев-Холевич).** Класически български широк заден достъп. По латералния ръб на ахилеса до инсерцията му; сухожилието се прерязва Z-образно във фронталната равнина и двете рамена се ретрахират проксимално и дистално. През пространството на Kager се навлиза между m. flexor hallucis longus (медиално) и mm. peronei (латерално); по този път се излагат задната повърхност на talus, calcaneus и субталарната става. Задният тибиален съдово-нервен сноп лежи пред FHL — проникването медиално от мускула не се препоръчва. В края ахилесът се възстановява end-to-end с дебели нерезорбируеми конци по Bunnell или Krackow.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
-  <p>Преден достъп към глезена: кожен разрез по оста на втората метатарзална кост, медиално от пресечните точки на nervus peroneus superficialis; дълбок интервал между musculus tibialis anterior (медиално) и EHL/EDL (латерално), с arteria tibialis anterior и nervus peroneus profundus, ретрахирани латерално. Антеролатералният достъп при пилон-фрактури използва интервала между EHL/EDL и musculus peroneus tertius.</p>
+  <p>Трансахилерният заден достъп по Бойчев-Холевич остава най-широката задна експозиция на тало-круралната става. Z-образно прерязване във фронталната равнина запазва дължината след анатомично възстановяване. Задният съдово-нервен сноп лежи пред m. flexor hallucis longus, така че навлизането в пространството на Kager е винаги латерално от FHL. Тибиалният нерв и a. tibialis posterior могат да бъдат уязвени при дисекция, преминаваща медиално от FHL.</p>
 </aside>
 
-## Антеролатерален достъп към глезена
+</div>
+</details>
 
-Антеролатералният достъп е стандартен при латерални фрактури на плафона (пилон-фрактури) (Тема Травма-27). Надлъжен разрез се прави по антеролатералния глезен, между EHL/EDL медиално и musculus peroneus tertius латерално. Nervus peroneus profundus и съдовете на arteria tibialis anterior се идентифицират и ретрахират медиално. Излагат се глезенната става и дисталната тибия. Достъпът осигурява отлична визуализация на предната глезенна ставна повърхност и на дисталната артикуларна повърхност на тибията.
+<details>
+<summary>Медиален транс-малеоларен (остеотомичен) достъп</summary>
+<div class="ts-body">
 
-## Постеролатерален достъп към глезена
+Прилага се при остеохондрални лезии на медиалния купол на talus, при някои пилон-фрактури и при глезенна артродеза с резекция на медиалния малеол. Пациентът е по гръб с външна ротация на крайника. Леко дъговиден разрез в основата на малеола; костта се остеотомира преди дисекцията на ставата с цел запазване на меко-тъканните прикрепвания (deltoid). Малеолът се отгъва дистално, носейки делтоидния лигамент, и ставата се отваря широко. В края малеолът се рефиксира с маклеоларен винт (4,0 mm спонгиозен, бикортикален) или 2 спици на Kirschner с тенсион-банд.
 
-Постеролатералният достъп се използва при остеосинтеза на задния малеол, задни пилон-фрактури и излагане на перонеалните сухожилия и латералния аспект на задния глезен. Надлъжен разрез се прави по постеролатералната подбедрица зад фибулата. Nervus suralis и vena saphena parva се идентифицират и защитават. Развива се интервалът между перонеалните сухожилия (латерално) и musculus flexor hallucis longus (медиално), като FHL се ретрахира медиално. Излагат се задната повърхност на глезенната става и задният малеол.
+</div>
+</details>
 
-## Заден парахилерен и трансахилерен достъп
+<details>
+<summary>Бималеоларен достъп по Холевич</summary>
+<div class="ts-body">
 
-Парахилерният заден достъп преминава по латералния ръб на ахиловото сухожилие; то се ретрахира медиално и в дълбочина се откриват ставната капсула и задните аспекти на tibia, talus и calcaneus. Достъпът е удобен при заден пилон, задна капсулотомия при еквинус и за достъп до processus posterior tali.
+Български класически широк достъп за тотална артропластика, тумори на talus и сложни глезенни артродези. Над всеки малеол — надлъжен разрез 5–6 cm до върха. Двата малеола се депериостират и косо се остеотомират в основите си — остеотомът се насочва под около 45° спрямо ставната линия в горните ъгли на вилката. Връзките по предните и задните ръбове се прерязват и малеолите се отмятат дистално, „увисвайки" на връзките към върховете си. Така тибио-таларната става се отваря панорамно. В края малеолите се връщат и фиксират с винтове, а латералният — допълнително с тиркулажен серклаж при необходимост.
 
-Транс-ахилерният достъп (Bойчев, Холевич) преминава по латералния ръб на сухожилието до инсерцията му, прерязва се Z-образно във фронталната равнина и двата края се ретрахират проксимално и дистално. През мастното пространство на Kager се навлиза между m. flexor hallucis longus (медиално) и mm. peronei (латерално); по този път се излагат задната повърхност на talus, calcaneus и субталарната става. Задният тибиален съдово-нервен сноп лежи пред m. flexor hallucis longus, поради което проникването медиално от мускула не се препоръчва. В края на интервенцията ахиловото сухожилие се възстановява end-to-end с дебели нерезорбируеми конци по техниката на Bunnell или Krackow.
+</div>
+</details>
 
-## Медиален транс-малеоларен (остеотомичен) достъп
+<details>
+<summary>Медиален достъп към глезена и освобождаване на тарзалния канал</summary>
+<div class="ts-body">
 
-Медиалният транс-малеоларен достъп се прилага при остеохондрални лезии на медиалния купол на talus, при някои варианти на pilon-фрактура и при артродеза на глезена с резекция на медиалния малеол. Болният е по гръб с външна ротация на крайника. Прави се леко дъговиден напречен разрез в основата на малеола; костта се остеотомира преди дисекцията на ставата с цел запазване на меко-тъканните прикрепвания (deltoid). Малеолът се отгъва дистално, носейки delтоидния лигамент, и така ставата се отваря широко. В края малеолът се рефиксира с маклеоларен винт или 1–2 спици на Kirschner.
+Прилага се при остеосинтеза на медиалния малеол (вертикален разрез над малеола), реконструкция на делтоидния лигамент, освобождаване на тарзалния канал (извит разрез зад медиалния малеол с разсичане на retinaculum flexorum и декомпресия на n. tibialis с двата плантарни клона) и интервенции по хода на m. tibialis posterior (PTTD-реконструкция с FDL-трансфер по Mann).
 
-## Бималеоларен достъп по Холевич
+</div>
+</details>
 
-Бималеоларният достъп на Холевич осигурява максимална експозиция на тало-круралната става при сложни артропластики, при туморна резекция на talus и при тежки артродези на глезена. Над всеки малеол се прави надлъжен разрез с дължина 5–6 cm, достигащ до върха. Двата малеола се депериостират и косо се остеотомират в основите си — остеотомът се насочва под ъгъл около 45° по посока на ставната междина в горните ъгли на вилката. Прерязват се връзките по предните и задните ръбове на малеолите и последните се отмятат дистално, „увисвайки" на връзките към върховете си. Така тало-круралната става се отваря панорамно. В края малеолите се връщат и фиксират с винтове, а латералният — допълнително с тиркулажен серклаж при необходимост. Достъпът остава български класически избор при тотална артропластика на глезена и при остеохондрални лезии на задномедиалната половина на тибиалното плато.
+<details>
+<summary>Достъп sinus tarsi и разширен латерален достъп към калканеуса</summary>
+<div class="ts-body">
 
-<aside class="callout callout-pearl">
-  <span class="callout-label">Pearl</span>
-  <p>Транс-ахилерният заден достъп по Бойчев-Холевич остава най-широката задна експозиция на тало-круралната става. Z-образно прерязване на сухожилието във фронталната равнина запазва дължината му след анатомично възстановяване; задният съдово-нервен сноп лежи пред m. flexor hallucis longus, така че навлизането в пространството на Kager е винаги латерално от мускула. Тибиалният нерв и a. tibialis posterior могат да бъдат уязвени при дисекция, преминаваща медиално от FHL.</p>
-</aside>
+**Sinus tarsi.** Малък наклонен разрез над sinus tarsi (вдлъбнатина непосредствено пред латералния малеол). Перонеалните сухожилия се ретрахират и се излагат калканео-кубоидната става и задната фасета на субталарната става. До голяма степен заменя разширения латерален достъп при остеосинтеза на калканеусни фрактури поради значително по-ниска честота на усложнения от раната.
 
-## Медиален достъп към глезена
-
-Медиалният достъп към глезена се използва при остеосинтеза на медиалния малеол, реконструкция на делтоидния лигамент, освобождаване на тарзалния канал и интервенции по хода на musculus tibialis posterior. Над медиалния малеол и медиалния глезен се прави надлъжен или извит разрез, в зависимост от планираната процедура.
-
-При остеосинтеза на медиалния малеол вертикален разрез над малеола осигурява директен достъп.
-
-При освобождаване на тарзалния канал извит разрез зад медиалния малеол осигурява достъп до тарзалния канал; retinaculum flexorum се разрязва, декомпресирайки nervus tibialis.
-
-При интервенции по хода на musculus tibialis posterior (реконструкция при дисфункция на задния тибиален мускул с трансфер на FDL) надлъжен разрез по хода на сухожилието осигурява достъп от медиалния малеол до инсерцията на навикуларната кост.
-
-## Достъп sinus tarsi към калканеуса
-
-Достъпът sinus tarsi до голяма степен изтласка разширения латерален достъп при остеосинтеза на калканеусни фрактури (Тема Травма-29) поради значително по-ниската честота на усложнения от раната. Малък наклонен разрез се прави над sinus tarsi (вдлъбнатина, опипваема непосредствено пред латералния малеол). Перонеалните сухожилия се ретрахират и се излагат calcaneocuboid ставата и задната фасетка на субталарната става.
-
-## Разширен латерален достъп към калканеуса
-
-Разширеният латерален достъп (на Letournel/Benirschke) е историческият стандарт за остеосинтеза на калканеусни фрактури. L-образен или хокейно-пръчковиден разрез се прави по латералния калканеус с вертикален и хоризонтален клон. Кожата и подкожната тъкан се рефлектират, като перонеалните сухожилия се повдигат като единно меко-тъканно ламбо. Латералната стена на калканеуса се излага за поставяне на плака. Честотата на усложнения от раната от 5 до 25 процента доведе до значително предпочитание на достъпа sinus tarsi.
+**Разширен латерален (Letournel-Benirschke).** Историческият стандарт. L-образен или хокеен разрез по латералния калканеус с вертикален клон зад фибулата и хоризонтален — над петата метатарзала. Кожата и подкожието се рефлектират като единно меко-тъканно ламбо, носено от a. calcanea lateralis (клон на a. peronea). Латералната стена на калканеуса се излага за поставяне на плака. Честотата на усложнения от раната 5–25% доведе до значително предпочитание на sinus tarsi.
 
 <aside class="callout callout-pitfall">
   <span class="callout-label">Pitfall</span>
-  <p>Разширеният латерален L-образен достъп към калканеуса носи 5-25% усложнения от раната, тъй като цялото латерално ламбо с покриващата го кожа се рефлектира на латералната калканеална артерия — късно представящи се фрактури, пушачи, диабетици и отворени фрактури насочват избора към по-малкия достъп sinus tarsi.</p>
+  <p>Разширеният L-латерален достъп към калканеуса носи 5–25% усложнения от раната, защото цялото латерално ламбо с покриващата го кожа се рефлектира на a. calcanea lateralis. Късно представящи се фрактури, пушачи, диабетици и отворени фрактури насочват избора към sinus tarsi.</p>
 </aside>
 
-## Достъпи в тарзалната област
+</div>
+</details>
 
-Антеромедиалният достъп до талуса минава надлъжно, латерално от сухожилието на m. tibialis anterior; пробива се между сухожилията на m. extensor hallucis longus и m. extensor digitorum longus (или между m. tibialis anterior и m. extensor hallucis longus), а в дълбочина m. extensor hallucis brevis се отделя латерално. Под тези мускули a. dorsalis pedis лежи непосредствено върху костта между сухожилията на m. extensor hallucis longus и m. extensor digitorum longus и трябва да бъде запазена.
+<details>
+<summary>Тарзални и средно-стъпални достъпи</summary>
+<div class="ts-body">
 
-Медиалният достъп до calcaneus (Кацаров) преминава дистално от медиалния малеол, дъговидно към инсерцията на ахилеса. Прави се за дренаж на тала-сустентаталар киста, остеомиелит и при медиализираща калканеална остеотомия (вж. по-долу). Подковообразният заден достъп под инсерцията на ахилеса излага плантарната повърхност на tuber calcanei за резекция на калканеална шпора (Du Vries) и при болестта на Haglund.
+**Антеромедиален до talus.** Надлъжен разрез латерално от сухожилието на m. tibialis anterior; интервалът между EHL и EDL (или между TA и EHL) се развива; m. extensor hallucis brevis се ретрахира латерално. A. dorsalis pedis лежи между EHL и EDL непосредствено върху костта и се щади.
 
-L-образният достъп по Kocher до петната кост (T-образен в българската литература) комбинира хоризонтален клон от sustentaculum tali до tuberositas ossis metatarsalis V с вертикален клон по латералния ръб на ахилеса; използва се при класическа извънставна артродеза на субталарната става и при разширено отваряне на калканео-кубоидната става.
+**Медиален достъп до calcaneus (Кацаров).** Дистално от медиалния малеол, дъговидно към инсерцията на ахилеса; за дренаж на тала-сустентакулярна киста, за остеомиелит и за медиализираща калканеална остеотомия.
 
-Достъпите до клиновидните кости и до os naviculare минават надлъжно по дорзо-медиалната повърхност на ходилото; за медиалната клиновидна кост — по вътрешния ръб на сухожилието на m. extensor hallucis longus с екартирането на m. tibialis anterior медиално. За os cuboideum се прави разрез по горния ръб на m. peroneus brevis, екартирайки сухожилието надолу и латералния ръб на m. extensor digitorum brevis нагоре.
+**Подковообразен заден.** Под инсерцията на ахилеса — излага плантарната повърхност на tuber calcanei за резекция на калканеална шпора (Du Vries) и при болестта на Haglund.
 
-Задно-латералният достъп на Kocher до тарзалните стави започва на 5–7 cm проксимално от глезена, около 2 cm зад фибулата; продължава успоредно на нея, завива дъговидно 2 cm под върха на латералния малеол и минава по гърба на ходилото до os naviculare. N. suralis обикновено се идентифицира и щади в подкожието. Този достъп излага едновременно субталарната, калканео-кубоидната и тало-навикуларната става и е традиционен за тройната артродеза.
+**L-образен по Кохер до петната кост** (T-образен в българската литература). Хоризонтален клон от sustentaculum tali до tuberositas ossis metatarsalis V с вертикален клон по латералния ръб на ахилеса; за класическа извънставна артродеза на субталарната става и за разширено отваряне на калканео-кубоидната става.
 
-Медиалният надлъжен достъп до медиалната колона започва от задния ръб на медиалния малеол, завива около него и продължава дистално по хода на I метатарзална кост. Срязват се retinaculum mm. flexorum и retinaculum mm. extensorum inferius; сухожилията на m. tibialis anterior и m. tibialis posterior се екартират съответно дорзално и плантарно, за да се излагат всички кости и стави по медиалния ръб на ходилото. Достъпът е удобен и при работа върху самите сухожилия — особено при реконструкция на posterior tibial tendon dysfunction (PTTD) с трансфер на FDL по Mann и при артродеза на медиалната колона.
+**Достъпи до клиновидните кости и os naviculare.** Надлъжно по дорзо-медиалната повърхност; за медиалната клиновидна кост — по вътрешния ръб на сухожилието на EHL с екартирането на m. tibialis anterior медиално. За os cuboideum — разрез по горния ръб на m. peroneus brevis, екартирайки сухожилието надолу и латералния ръб на m. extensor digitorum brevis нагоре.
 
-## Достъпи в метатарзалната област
+**Заднолатерален Кохер-достъп до тарзалните стави** — започва на 5–7 cm проксимално от глезена, около 2 cm зад фибулата, продължава успоредно на нея, завива дъговидно 2 cm под върха на латералния малеол и минава по гърба на ходилото до os naviculare. N. suralis се идентифицира и щади в подкожието. Излага едновременно субталарната, калканео-кубоидната и тало-навикуларната става — традиционен за тройната артродеза.
 
-Достъпът до I метатарзална кост е дорзо-медиален; над сухожилието на m. extensor hallucis longus, медиално от началото на v. saphena magna. Дезисекцията е надпериостална, латерално сухожилието на дългия екстензор се ретрахира заедно с v. saphena magna и n. digitalis dorsalis hallucis medialis, медиално — m. abductor hallucis.
+**Медиален надлъжен до медиалната колона** — от задния ръб на медиалния малеол около него и дистално по хода на М1. Срязват се retinaculum mm. flexorum и retinaculum mm. extensorum inferius; сухожилията на m. tibialis anterior и m. tibialis posterior се екартират дорзално и плантарно за излагане на всички кости и стави по медиалния ръб — особено удобен при PTTD-реконструкция с FDL-трансфер по Mann и при артродеза на медиалната колона.
 
-Достъпите до II–V метатарзални кости са надлъжни по дорзалната им повърхност или в съответните междукостни пространства; за корекция на чукообразни деформации, остеотомии и фрактурна остеосинтеза. Препоръчителното проникване е латерално от сухожилието на дългия екстензор, за да не бъдат уязвени дорзалните дигитални нерви.
+</div>
+</details>
 
-Надлъжните достъпи до тарзо-метатарзалните стави (Lisfranc) пресичат проекционната линия на ставите по оста на метатарзалните кости. За I става разрезът минава медиално от сухожилието на дългия екстензор на палеца; за II — между сухожилията на дългия екстензор на I и II пръст, като m. extensor hallucis brevis се ретрахира медиално и краят на a. dorsalis pedis с началото на a. arcuata се лигират на дъното на полето; за III — медиално или латерално от сухожилието на дългия екстензор на III пръст, с лигатура на a. arcuata над ставата; за IV — латерално от съответното сухожилие; за V — латерално от сухожилието на дългия екстензор за V пръст. Сетивните нерви върху ставите минават надлъжно успоредно на екстензорните сухожилия и обикновено съвпадат с разрезите.
+<details>
+<summary>Достъпи в метатарзалната област и към пръстите</summary>
+<div class="ts-body">
 
-## Достъпи към пръстите
+**Метатарзални.** Достъп до М1 — дорзо-медиален, над сухожилието на EHL, медиално от началото на v. saphena magna. До М2–М5 — надлъжни по дорзалната повърхност или в съответните междукостни пространства; за корекция на чукообразни деформации, остеотомии и остеосинтеза; разрезите минават латерално от съответните дълги екстензори за щадене на дорзалните дигитални нерви.
 
-Достъпите към MTP-1 ставата (за хирургия на hallux valgus, hallux rigidus, ревматоидни деформации) могат да бъдат медиални, дорзо-медиални или дорзални. Медиалният започва на 2–2.5 cm дистално от MTP-1 ставата, завива дъговидно по дорзалната повърхност на ставата медиално от сухожилието на m. extensor hallucis longus и продължава проксимално до средата на диафизата на I метатарзална кост. По описания начин се оформя капсулно ламбо с прикрепване към основата на проксималната фаланга. Дорзо-медиалният достъп нарушава по-малко плантарния кожен крил и кръвоснабдяването; често е предпочитан.
+**Тарзо-метатарзални (Lisfranc).** Надлъжни разрези пресичат проекционната линия по оста на метатарзалните кости. За М1 — медиално от EHL; за М2 — между EHL на I и II пръст, m. extensor hallucis brevis се ретрахира медиално, краят на a. dorsalis pedis с началото на a. arcuata се лигират; за М3 — медиално или латерално от дългия екстензор на III пръст, с лигатура на a. arcuata; за М4 — латерално от съответното сухожилие; за М5 — латерално от дългия екстензор за V пръст.
 
-За малките MTP стави (II–V) разрезите са дорзо-латерални, успоредно на съответните екстензорни сухожилия; за интерфалангеалните стави на I и V пръст — медиално и латерално; за интерфалангеалните стави на II–IV пръст — непосредствено латерално и успоредно на екстензорните сухожилия в състава на дорзалната апоневроза. Дорзо-латералният съдово-нервен сноп се ретрахира латерално, екстензорните елементи — медиално; собствените дигитални дорзални и плантарни снопове се сближават на нивото на проксималните интерфалангеални стави, затова разрезите на това ниво се поставят между ставната междина и нерва.
+**MTP-1 (hallux).** Медиален или дорзо-медиален разрез от 2–2,5 cm дистално от ставата, завиващ дъговидно по дорзалната повърхност медиално от EHL до средата на диафизата на М1; дорзо-медиалният запазва повече плантарно-медиалното кръвоснабдяване и често се предпочита.
 
-## Достъпи към стъпалото
+**Малки MTP стави (II–V).** Дорзо-латерално, успоредно на съответните екстензорни сухожилия. За интерфалангеални стави на I и V пръст — медиално и латерално; за II–IV — непосредствено латерално и успоредно на екстензорите в дорзалната апоневроза.
 
+</div>
+</details>
 
-## Дорзални достъпи към стъпалото
+<details>
+<summary>Дорзални, медиални, латерални и плантарни достъпи към стъпалото</summary>
+<div class="ts-body">
 
-Дорзалните разрези на стъпалото се използват при процедури в предното стъпало (хирургия на hallux valgus, корекция на деформации на малките пръсти, остеосинтеза на фрактури на стъпалото). Разрезите се разполагат така, че да се избягват дорзалните сетивни нерви (клонове на nervus peroneus superficialis) и arteria dorsalis pedis с nervus peroneus profundus (минаващи в първото дорзално интерметатарзално пространство).
+**Дорзални.** За процедури в предното стъпало (hallux valgus, корекция на малки пръсти, остеосинтеза на фрактури). Разрезите се поставят с щадене на клоновете на n. peroneus superficialis и на a. dorsalis pedis с n. peroneus profundus (в първото дорзално интерметатарзално пространство).
 
-## Медиален достъп към стъпалото
+**Медиален.** По медиалния ръб — до медиалната колона (navicular, медиален cuneiforme, основа на М1); за фрактури на медиалната колона, hallux valgus и медиална колонна артродеза.
 
-Медиален разрез по медиалния ръб на стъпалото осигурява достъп до медиалната колона (навикулум, медиален cuneiforme, основа на първата метатарзална кост). Достъпът се използва при фрактури на медиалната колона, хирургия на hallux valgus и артродеза на медиалната колона.
+**Латерален.** По латералния ръб — до cuboid, М4 и М5 и латералната колона; за остеосинтеза на кубоидни фрактури, удължаване на латералната колона (Evans).
 
-## Латерален достъп към стъпалото
+**Плантарни.** Принципно се избягват поради дебелата плантарна мастна тъкан и риска от болезнени белези по тегло-носещата повърхност. При нужда (плантарна фасциотомия, дълбок плантарен абсцес) — по медиалната или латералната плантарна нетеглoнoсеща повърхност.
 
-Латерален разрез по латералния ръб осигурява достъп до кубоида, четвъртата и петата метатарзална кост и латералната колона. Достъпът се използва при остеосинтеза на фрактури на кубоида, удължаване на латералната колона и реконструктивни процедури на латералната колона.
+**Фасциотомия на стъпалото.** Два дорзални разреза по горните ръбове на II и IV метатарзала, отваряне на дорзалните и плантарните интероссеални компартменти; допълнителен медиален разрез по медиалния нетеглоносещ ръб при ангажиран медиален и калканеален компартмент.
 
-## Плантарни достъпи
+</div>
+</details>
 
-Плантарните разрези по принцип се избягват поради дебелата плантарна мастна тъкан и риска от болезнени белези по тегловнопоносещата повърхност. Когато е необходимо (при освобождаване на плантарна фасция, дълбок плантарен абсцес), разрезите се разполагат по медиалната или латералната плантарна нетегловнопоносеща повърхност.
-
-## Компартменти на стъпалото и фасциотомия
-
-Стъпалото има 9 компартмента (медиален, централен, латерален, калканеален и четири интерозеозни, с определени класификационни варианти). Компартмент синдромът на стъпалото изисква разпознаване и фасциотомия чрез дорзални разрези (над втората и четвъртата метатарзална кост за освобождаване на дорзалните и плантарните интерозеозни мускули) с допълнителен медиален разрез, ако е засегнат медиалният компартмент.
-
-## Хирургия на латералната глезенна нестабилност
+<details>
+<summary>Хирургия на латералната глезенна нестабилност</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/deltoid-ligament-stress.jpg" data-figure-alt="Стрес-рентгенография на глезена с разкъсване на делтоидния лигамент" aria-label="Увеличи">
     <img src="/img/anatomy-11/deltoid-ligament-stress.jpg" alt="Стрес-рентгенография на глезена с разкъсване на делтоидния лигамент" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Стрес-рентгенография на глезена с разкъсване на делтоидния лигамент: медиализиране на talus спрямо медиалния малеол >4 mm потвърждава медиална нестабилност. При SER-IV (Lauge-Hansen) ротационна фрактура на латералния малеол това определя нуждата от стабилна остеосинтеза на латералния малеол + ревизия на делтоидния лигамент. Класическите латерални нестабилности се коригират по Watson-Jones, Chrisman-Snook, Brostrom-Gould, Staples-Black-Brostrom, и Копчев (българска модификация).</span>
+    <span class="md-figure-caption">Стрес-рентгенография с разкъсване на делтоидния лигамент: медиално отместване на talus > 4 mm потвърждава медиална нестабилност. При SER-IV (Lauge-Hansen) ротационна фрактура това определя нуждата от стабилна остеосинтеза на латералния малеол + ревизия на делтоидния лигамент. Класически реконструкции на латералната нестабилност: Watson-Jones, Chrisman-Snook, Brostrom-Gould, Staples-Black-Brostrom, Копчев (българска модификация).</span>
     <span class="md-figure-attribution"> · Maulik S Patel, Radiopaedia, <a href="https://commons.wikimedia.org/wiki/File:Stress-view-of-ankle-with-deltoid-ligament-tear.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-При свежи увреди на латералния лигаментарен комплекс показанията за оперативно лечение се основават на стрес-снимки: отваряне на латералната глезенна цепка над 10° или предна сублуксация на talus. Класическият български критерий по Hackenbruch и Hoesterberg (1966) изисква над 6 mm отваряне на латералната ставна цепка.
+**Свежи увреди.** Оперативната индикация се основава на стрес-снимки: тилт на talus > 10° или предна сублуксация. Българският критерий по Hackenbruch и Hoesterberg (1966) изисква над 6 mm отваряне на латералната ставна цепка.
 
-Техниката на Staples-Black-Brostrom се прави с L-образен кожен разрез над латералния малеол; ligamentum talofibulare anterius (ATFL) и ligamentum calcaneofibulare (CFL) се възстановяват директно с нерезорбируеми конци, преминаващи през костни тунели във фибулата при чисто авулзионно увреждане. Модификацията Brostrom-Gould добавя augmentation с латерален екстензорен ретинакулум, който се прехвърля проксимално над ремонта.
+**Staples-Black-Brostrom.** L-образен кожен разрез над латералния малеол; ATFL и CFL се възстановяват директно с нерезорбируеми конци, преминаващи през костни тунели във фибулата при чисто авулзионно увреждане. Модификацията **Brostrom-Gould** добавя augmentation с латерален екстензорен ретинакулум, прехвърлен проксимално над ремонта.
 
-Хроничната латерална нестабилност изисква по-стабилна реконструкция. Класическата техника на Watson-Jones (модифицирана) се изпълнява с дъговиден разрез от границата между средната и дисталната трета на фибулата до 5 cm пред върха на латералния малеол; сухожилието на m. peroneus brevis се прерязва високо в мускулно-сухожилния преход и се прокарва през тунел в дисталната фибула от заден ръб към преден, после през втори тунел в шийката на talus и се пришива към себе си — конструкцията възстановява направлението на ATFL.
+**Watson-Jones (модифициран).** При хронична нестабилност. Дъговиден разрез от границата между средната и дисталната трета на фибулата до 5 cm пред върха на латералния малеол; сухожилието на m. peroneus brevis се прерязва високо в мускулно-сухожилния преход, прокарва се през тунел в дисталната фибула от заден ръб към преден, после през втори тунел в шийката на talus и се пришива към себе си — конструкцията възстановява направлението на ATFL.
 
-Техниката на Chrisman-Snook използва дълъг латерален разрез от 7.5 cm проксимално от върха на малеола до основата на V метатарзална кост; сухожилието на m. peroneus brevis се разцепва надлъжно на две половини, едната се изважда под ретинакулумите и се прокарва през хоризонтален тунел в latералния малеол и през калканеуса, реконструирайки едновременно ATFL и CFL — техниката контролира и глезенната, и субталарната нестабилност.
+**Chrisman-Snook.** Дълъг латерален разрез от 7,5 cm проксимално от върха на малеола до основата на М5; m. peroneus brevis се разцепва надлъжно на две половини, едната се изважда под ретинакулумите и се прокарва през хоризонтален тунел в латералния малеол и през калканеуса, реконструирайки едновременно ATFL и CFL — контролира и глезенна, и субталарна нестабилност, но за сметка на повишена ригидност и риск за варус.
 
-Българската техника на Копчев използва ламбо от ахиловото сухожилие; копринени конци възстановяват ахилеса с фасциално ламбо от латерално, докато през латералния малеол се изграждат два вертикални паралелни канала и един хоризонтален тунел между tuber calcanei и processus lateralis tali, през които се прокарва сухожилно ламбо, реконструирайки CFL и ATFL.
+**Копчев (българска школа).** Ламбо от ахиловото сухожилие; копринени конци възстановяват ахилеса с фасциално ламбо от латерално, докато през латералния малеол се изграждат два вертикални паралелни канала и един хоризонтален тунел между tuber calcanei и processus lateralis tali, през които се прокарва сухожилно ламбо — реконструира CFL и ATFL.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
-  <p>Изборът между техники при хронична латерална нестабилност: Brostrom-Gould (анатомичен ремонт + retinakulum augmentation) — при млад пациент с добър ATFL остатък и без хиперлаксност; Watson-Jones (peroneus brevis tенодеза към fibula и talus) — реконструира главно ATFL; Chrisman-Snook (полупенон brevis през fibula и calcaneus) — контролира едновременно глезенна и субталарна нестабилност, но за сметка на по-голяма ригидност и риск за варус. Копчев и Бойчев са български варианти, използващи ахилово или peroneus brevis ламбо.</p>
+  <p>Избор при хронична латерална нестабилност: Brostrom-Gould (анатомичен ремонт + ретинакул augmentation) — млад пациент с добър остатък на ATFL и без хиперлаксност; Watson-Jones (peroneus brevis тенодеза към fibula и talus) — реконструира основно ATFL; Chrisman-Snook (полу-peroneus brevis през fibula и calcaneus) — едновременен контрол на глезенна и субталарна нестабилност; Копчев — българска класическа алтернатива при отворени посттравматични дефекти на ахилеса.</p>
 </aside>
 
-## Реконструкция на луксирани перонеални сухожилия
+</div>
+</details>
 
-При рецидивна луксация на перонеалните сухожилия (липсваща или плитка фибуларна бразда, скъсано retinaculum peroneorum superius) се прави 10–12 cm разрез успоредно на фибулата, минаващ зад латералния малеол. От дълбоката фасция се оформя широко П-образно ламбо с основа към малеола. Лежащата зад глезена бразда се изчиства и при необходимост се задълбочава с длето; сухожилията се връщат на място и се покриват с предходно оформеното фасциално ламбо, което се пришива към остатъците от retinaculum или към латералния калканеален периост.
+<details>
+<summary>Реконструкция на луксирани перонеални сухожилия</summary>
+<div class="ts-body">
 
-## Остеосинтеза на малеоларни фрактури
+При рецидивна луксация на перонеалните сухожилия (липсваща или плитка фибуларна бразда, скъсано retinaculum peroneorum superius) — разрез 10–12 cm успоредно на фибулата, минаващ зад латералния малеол. От дълбоката фасция се оформя широко П-образно ламбо с основа към малеола. Браздата зад глезена се изчиства и при необходимост се задълбочава с длето; сухожилията се връщат на място и се покриват с предходно оформеното фасциално ламбо, което се пришива към остатъците от retinaculum или към латералния калканеален периост.
 
-При латерален малеол се прави предно-външен надлъжен разрез с щадене на n. suralis. При коса фрактурна линия (механизми супинация–външна ротация или пронация–външна ротация) фрагментите се компримират с 2 интерфрагментарни винта отпред назад. При напречна фрактура с авулзия на ligamentum calcaneofibulare се изпълнява тенсион-бенд монтиране — серклаж и спица през върха на малеола. При раздробяване — латерална пластика (трета пластина, реконструкционна или анатомична за дистален фибулен).
+</div>
+</details>
 
-При медиален малеол е препоръчителен предно-Г-образен разрез, за да позволи едновременен преглед на предно-медиалния аспект на ставата (изключване на остеохондрални лезии). Малките авулзионни фрагменти се фиксират с pull-out шев или анкер; по-големите — с 2 спонгиозни винта 4.0 mm, въведени от върха на малеола нагоре в посока на bone of дисталната тибия. Понякога между фрагментите се вмъква периост, който трябва да бъде отстранен преди наместване.
+<details>
+<summary>Остеосинтеза на малеоларни фрактури и синдесмоза по Heim</summary>
+<div class="ts-body">
 
-Принципът на последователност при бималеоларни фрактури: при пронационни-абдукционни механизми първо се остеосинтезира латералният малеол, защото фибуларната редукция автоматично репозиционира медиалния. При супинационно-аддукционни счупвания изключение прави медиалният малеол, който се остеосинтезира първи.
+**Латерален малеол.** Предно-външен надлъжен разрез с щадене на n. suralis. При коса фрактурна линия (SER или PER механизми) — 2 интерфрагментарни винта отпред назад. При напречна фрактура с авулзия на lig. calcaneofibulare — тенсион-бенд (серклаж и спица през върха на малеола). При раздробяване — латерална плака (трета пластина, реконструкционна или анатомична за дистален фибулен).
 
-## Синдесмозен ремонт
+**Медиален малеол.** Предно-Г-образен разрез позволява едновременен преглед на предно-медиалния аспект на ставата (изключване на остеохондрални лезии). Малки авулзионни фрагменти — pull-out шев или анкер; по-големи — 2 спонгиозни винта 4,0 mm от върха на малеола нагоре. Между фрагментите често е вмъкнат периост — отстранява се преди наместване.
 
-Според C. Heim (1964) консервативно лекуваната скъсана синдесмоза води в 56% от случаите до нова инсуфициенция на вилката и последваща артроза. Затова синдесмозата трябва да бъде зашита, а костните авулзии — рефиксирани. Прави се около 5 cm разрез успоредно на предния ръб на дисталната фибула; на 1–4 cm проксимално от ставната цепка се прекарва позиционен винт (3.5 mm) през фибулата към тибията при дорзална флексия 30° и максимална компресия. Винтът се поставя през 3 или 4 кортекса, в зависимост от предпочитанията, и се отстранява около 12-та седмица преди пълно натоварване. При остарели увреди и хронична синдесмозна нестабилност — пластично заместване с fascia (Heim, 1964), с tendo m. peroneus brevis (Petracic-Dürr, 1976) или с хетерологично сухожилие (Voorhoeve-Vriemoed, 1973). Поставяне на винт през самата синдесмоза без последващо отстраняване води до тибио-фибуларна синостоза, която също провокира артроза.
+**Последователност при бималеоларни фрактури.** При PER механизми първо латерален (фибуларната редукция автоматично репозиционира медиалния). При SAR — обратно: първо медиален.
 
-## Заден малеол (Folkmann)
+**Синдесмоза (Heim, 1964).** Консервативно лекуваната скъсана синдесмоза води в 56% от случаите до нова инсуфициенция на вилката и последваща артроза. Затова синдесмозата трябва да бъде зашита, а костните авулзии — рефиксирани. Около 5 cm разрез успоредно на предния ръб на дисталната фибула; на 1–4 cm проксимално от ставната цепка — позиционен винт (3,5 mm) през фибулата към тибията при дорзална флексия 30° и максимална компресия. Винтът ангажира 3 или 4 кортекса по предпочитание и се отстранява около 12-та седмица преди пълно натоварване. При хронична синдесмозна нестабилност — пластично заместване с fascia (Heim, 1964), със сухожилието на m. peroneus brevis (Petracic-Dürr, 1976) или с хетерологично сухожилие (Voorhoeve-Vriemoed, 1973). Постоянен интер-синдесмозен винт без отстраняване води до тибио-фибуларна синостоза, която също провокира артроза.
 
-Когато фрагментът обхваща над една трета от ставната повърхност на тибията, той трябва да бъде анатомично наместен и фиксиран. Възстановяването на фибуларната дължина често репозиционира фолкмановия триъгълник по тибио-фибуларния лигамент (lig. tibiofibulare posterius). Окончателната фиксация е със спонгиозен винт отпред назад, въведен през отделна предна минимална инцизия, проксимално от ставната цепка, с щадене на екстензорните сухожилия. Алтернативно — антиглайдинг плака през постеролатерален достъп.
+**Заден малеол (Volkmann).** Когато фрагментът обхваща над 1/3 от ставната повърхност на тибията, трябва анатомично наместване и фиксация. Възстановяването на фибуларната дължина често репозиционира фолкмановия триъгълник чрез задния тибио-фибуларен лигамент. Окончателна фиксация — спонгиозен винт отпред назад през отделна предна минимална инцизия проксимално от ставната цепка, с щадене на екстензорните сухожилия; алтернативно — антиглайдинг плака през постеролатерален достъп.
 
-## Трималеоларни и пилон-фрактури — оперативна стратегия
+</div>
+</details>
 
-При тежко раздробени пилон-фрактури принципът на M. E. Müller (1970) е: най-напред да се възстанови дължината на фибулата през предно-латерален достъп (фибулата служи като ос-ориентир за алинирането на тибиалните отломъци); след това през втори предно-медиален достъп се ремонтира тибиалното плато с интерфрагментарни винтове и медиална тибиална пластина. Кухините се запълват с автотрансплантат от crista iliaca. Минималното разстояние между двата кожни разреза е 7 cm с цел запазване на меко-тъканното кръвоснабдяване.
-
-## Фрактури на talus
+<details>
+<summary>Фрактури на talus (Икономов, Hawkins)</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/talus-anatomy.jpg" data-figure-alt="Фрактура на collum tali — рентгенография" aria-label="Увеличи">
-    <img src="/img/anatomy-11/talus-anatomy.jpg" alt="Фрактура на collum tali — рентгенография" loading="lazy" decoding="async" />
+  <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/talus-anatomy.jpg" data-figure-alt="Talus, задна повърхност — анатомски препарат" aria-label="Увеличи">
+    <img src="/img/anatomy-11/talus-anatomy.jpg" alt="Talus, задна повърхност — анатомски препарат" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Talus, задна повърхност — анатомски препарат: ясно се виждат processus posterior с медиален и латерален туберкул (мястото на os trigonum), задно-долната фасета за калканеуса и неартикулиращата шийка с входа на ретроградните клонове на a. tibialis posterior (a. tarsi canalis), a. dorsalis pedis (a. tarsi sinus) и a. peronea. Класификация на фрактурите на колумнума на Hawkins (I–IV) — рискът от AVN расте от 0% при I до почти 100% при IV; „знакът на Hawkins" (субхондрална радиолуцентна линия на 6–8 сед.) изключва AVN.</span>
+    <span class="md-figure-caption">Talus, задна повърхност: processus posterior с медиален и латерален туберкул (мястото на os trigonum), задно-долната фасета за калканеуса и неартикулиращата шийка с входа на ретроградните клонове на a. tibialis posterior (a. canalis tarsi), a. dorsalis pedis (a. sinus tarsi) и a. peronea. Класификация на Hawkins (I–IV) — рискът от AVN расте от 0% при I до почти 100% при IV; знакът на Hawkins (субхондрална радиолуцентна линия на 6–8 сед.) изключва AVN.</span>
     <span class="md-figure-attribution"> · Danvasilis, <a href="https://commons.wikimedia.org/wiki/File:Talus,_posterior_face.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-При фрактура на collum tali се използва медиален остеотомичен достъп или комбиниран двойен достъп (антеро-медиален + антеро-латерален); анатомична редукция и фиксация с 2 спонгиозни винта или с комбинация на винт и спица (техника на Икономов) — от медиално-дистално към дорзално в trochlea. Достъпът щади медиалния и плантарния хранителни клонове на a. tibialis posterior и r. tarsi на a. dorsalis pedis. При фрактури на corpus tali — медиален транс-малеоларен достъп с остеотомия на медиалния малеол и фиксация с винтове или спици. При фрактура на processus posterior tali — задно-латерален разрез между ахиловото и перонеалните сухожилия с дорзално отваряне на капсулата и фиксация с микро-винтове или спица.
+**Шийкови фрактури (collum tali).** Медиален остеотомичен достъп или комбиниран двоен (антеро-медиален + антеро-латерален); анатомична редукция и фиксация с 2 спонгиозни винта или с комбинация на винт и спица — техника на Икономов от медиално-дистално към дорзално в trochlea. Достъпът щади медиалните и плантарните хранителни клонове на a. tibialis posterior и r. tarsi на a. dorsalis pedis.
 
-При раздробена фрактура на talus класически се прибягва до първична астрагалектомия. За да преодолее скъсяването и да избегне нестабилността, H. C. Blair (1943) предлага артродеза на тибио-таларно ниво с кортикален присадък от предно-дисталната тибия, спуснат в предварително оформено гнездо в talar шийката — техниката на Blair остава история, но клинично се прилага при тежки таларни загуби с относително запазена шийка и глава.
+**Corpus tali.** Медиален транс-малеоларен достъп с остеотомия на медиалния малеол и фиксация с винтове или спици.
 
-## Артродези на глезенната става
+**Processus posterior tali (Cedell, Shepherd).** Задно-латерален разрез между ахиловото и перонеалните сухожилия с дорзално отваряне на капсулата и фиксация с микро-винтове или спица; различимо от симптоматично os trigonum.
 
-Артродезата на глезена остава основно решение при напреднала артроза, ревматоиден артрит, посттравматична деформация, паралитична нестабилност, AVN на talus (стадий III–IV) и след неуспешна артропластика. Артродезата отнема болката и осигурява стабилност за сметка на загуба на движение в тало-круралната става; компенсаторно се увеличава обемът в субталарната и медиотарзалната зони и походката остава функционална.
+**Раздробена фрактура на talus.** Класически прибягване до първична астрагалектомия. За избягване на скъсяване и нестабилност H. C. Blair (1943) предлага артродеза на тибио-таларно ниво с кортикален присадък от предно-дисталната тибия, спуснат в предварително оформено гнездо в шийката — техниката на Blair остава историческа, но клинично се прилага при тежки таларни загуби с относително запазена шийка и глава.
 
-Класическата вътреставна артродеза по Schwartz (1946) използва латерален L-образен достъп на Kocher; Charnley прилага предно-латерален; Barr-Record (1953) — двоен преден достъп с по един разрез над всеки малеол. Ставните хрущяли се отстраняват до прокървяване на субхондралната кост; кухината се запълва със спонгиозни стружки от crista iliaca или от ipsilateral tibia. Chuinard-Petersen (1963) описват техника със запазване на медиалния и латералния малеол като естествени контрафорси след резекция на ставния хрущял.
+</div>
+</details>
 
-Компресивната артродеза по Charnley (1951) — френска школа на M. Müller (1977) — използва два надлъжни разреза, по един над всеки малеол. Извършва се коса остеотомия на латералния малеол на около 3 cm от върха, резецират се медиалният малеол, дисталната тибиална ставна повърхност и trochlea tali успоредно на тибиалното плато. Артродезата се поставя при 90° при жени и 10° дорзална флексия при мъже (отговаряща на височината на токчето). Поставят се два щифта на Steinmann — първи през калканеуса и втори трансверзално през тибията; външен фиксатор тип Charnley осигурява динамична компресия с начално натоварване от 5–6 ден. От 1980-те години компресивно-дистракционните саморегулиращи се системи на Илизаров и сродни осигуряват дозируема корекция и компресия едновременно.
+<details>
+<summary>Артродеза на глезенната става</summary>
+<div class="ts-body">
 
-Техниката на Putti преминава с преден срединен достъп; кожната рана се отваря заедно с сухожилията. При нужда се прерязва m. tibialis anterior. Ставната капсула се отваря напречно, малеолите се остеотомират косо, ставните хрущяли се освежават и след тракция в продължение на 2–3 cm в дължина се вкарва кортикален присадък от tibia, фиксиран с винт или допълнителен костен мост.
+Основно решение при напреднала артроза, ревматоиден артрит, посттравматична деформация, паралитична нестабилност, AVN на talus (стадий III–IV) и след неуспешна артропластика.
 
-Артродеза с предна странична плака (R. Anderson 1945, R. Gärtner 1910, W. Lasker 1923) използва предно-латерален достъп; след резекция на ставния хрущял се поставя кортикоспонгиозен присадък в дисталната тибия със заострен връх, забит в trochlea (триъгълен присадък по Adams — отварят се ставната капсула напречно, резецират се повърхностите, кости се запълват с автотрансплантат). Техниката на Crawford-Adams е модификация с многонивова резекция и поставяне на широка плака отпред.
+**Schwartz (1946).** Класическа вътреставна артродеза през латерален L-образен Кохер-достъп.
 
-Задна тибиална костна присадка с дотик от tibia към calcaneus е екстраставна артродеза (модификация на Brittain), показана исторически при туберкулоза на глезена и при невъзможност за класическа вътреставна.
+**Charnley (1951; Müller, 1977).** Компресивна артродеза с външен фиксатор. Два надлъжни разреза, по един над всеки малеол. Коса остеотомия на латералния малеол около 3 cm от върха; резекция на медиалния малеол, на дисталната тибиална ставна повърхност и на trochlea tali успоредно на тибиалното плато. Артродезата се поставя при 90° (неутрална флексия–екстензия) при жени и 10° дорзална флексия при мъже (отговаряща на височината на токчето). Два щифта на Steinmann — първи през калканеуса, втори трансверзално през тибията; външен фиксатор тип Charnley осигурява динамична компресия с начално натоварване от 5–6 ден. От 1980-те Илизаров-подобни компресивно-дистракционни саморегулиращи се системи осигуряват дозируема корекция и компресия едновременно.
+
+**Putti.** Преден срединен достъп; кожната рана се отваря заедно със сухожилията. При нужда се прерязва m. tibialis anterior. Капсулата се отваря напречно, малеолите се остеотомират косо, ставните хрущяли се освежават и след тракция в продължение на 2–3 cm в дължина се вкарва кортикален присадък от tibia, фиксиран с винт или допълнителен костен мост.
+
+**Anterior plate (Anderson 1945, Crawford-Adams).** Предно-латерален достъп; след резекция на ставния хрущял се поставя кортикоспонгиозен присадък в дисталната тибия със заострен връх, забит в trochlea (триъгълен присадък по Adams). Crawford-Adams — модификация с многонивова резекция и поставяне на широка плака отпред.
+
+**Заден тибиален костен присадък (модификация на Brittain).** Дотик от tibia към calcaneus — екстраставна артродеза, исторически при туберкулоза на глезена и при невъзможност за класическа вътреставна.
+
+**Chuinard-Petersen (1963).** Запазване на медиалния и латералния малеол като естествени контрафорси след резекция на ставния хрущял.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
-  <p>Желаното положение за артродеза на глезена: неутрална флексия–екстензия (0°), 5° външна ротация спрямо контралатералния крайник, 5° валгус на пета, без преден или заден транслационен offset на talus. При жени се толерира 10° еквинус само ако се планира висок ток обикновено; при мъжете — строго неутрално. Обикновените грешки са: екстензивен еквинус (води до genu recurvatum), варус на пета (товари латералния ръб и предизвиква стрес-фрактури на V метатарзална кост) и заден транслационен offset (намалява лоста и предизвиква болка на ринирана база).</p>
+  <p>Желано положение за артродеза на глезена: неутрална флексия–екстензия (0°), 5° външна ротация спрямо контралатералния крайник, 5° валгус на пета, без преден или заден транслационен offset на talus. При жени се толерира 10° еквинус само ако се планира висок ток обикновено; при мъжете — строго неутрално. Чести грешки: екстензивен еквинус (води до genu recurvatum), варус на пета (товари латералния ръб и провокира стрес-фрактури на М5) и заден транслационен offset (намалява лоста и причинява болка в основата на петата).</p>
 </aside>
 
-## Тотална артропластика на глезенната става
+</div>
+</details>
 
-Основно решение остава артродезата, но при подходящи пациенти (възрастни с двустранна патология, ревматоиден артрит, ангажирана съседна патология на ходилото) тоталната глезенна артропластика осигурява запазване на движение. Класическите проекти от 1970-те–1980-те — Smith (с двойноосов компонент), St. Georg (Buchholz), Mayo, Newton, Imperial College London (Kempson), TPR (Pappas), Schöll (Scholz), Buechel-Pappas (1973), Kofoed (1980-те) — въведоха принципа на полусвързан тибио-талерен интерфейс с полиетиленова inлей.
+<details>
+<summary>Тотална глезенна артропластика</summary>
+<div class="ts-body">
 
-Типичното операционно положение е странично (на здравата страна), с есмаркова хемостаза. Достъпът обикновено е латерален по Kocher с превенция на nervus suralis. Фибулата се депериостира и остеотомира напречно на нивото на планираната тибиална резекция; преди това през фибулата към тибията се вкарва временен малеоларен винт за запазване на дължинния референц. Калканеусът се фиксира с напречна спица на Kirschner и екстензионна скоба за супинация. С осциларен трион тибиалната дистална повърхност се срязва на нивото на средата на тибио-фибуларната синдесмоза; trochlea tali се срязва успоредно. Поставя се тибиалния и таларния компонент с интер-вентионен полиетилен. След рефиксация на фибулата с малеоларния винт се възстановяват тибио-фибуларните връзки и ретинакулумите. Ранното рехабилитиране включва ботуш до 4–6 седмици и постепенно натоварване.
+При подходящи пациенти (възрастни с двустранна патология, ревматоиден артрит, ангажирана съседна патология на ходилото) — алтернатива на артродезата, запазваща движение. Класически дизайни от 1970-те–1980-те: Smith, St. Georg (Buchholz), Mayo, Newton, Imperial College London (Kempson), TPR (Pappas), Schöll (Scholz), Buechel-Pappas (1973), Kofoed (1980-те); въвеждат принципа на полу-сцепен тибио-таларен интерфейс с полиетиленова inлей.
 
-Относителни противопоказания: тежка деформация (>20° варус или валгус), инфекция в анамнезата, ангажиран Charcot, изразена остеопороза, нисък ИТМ и млад активен пациент. Революцията на ендопротезирането в България (1990-те–2000-те) изтласка артродезата от единствен избор само при тежки деформации и млади активни болни.
+**Техника.** Странично положение (на здравата страна), есмаркова хемостаза. Достъп — латерален по Кохер с защита на n. suralis. Фибулата се депериостира и остеотомира напречно на нивото на планираната тибиална резекция; преди това през фибулата към тибията се вкарва временен малеоларен винт за запазване на дължинния референц. Калканеусът се фиксира с напречна спица на Kirschner и екстензионна скоба за супинация. С осциларен трион тибиалната дистална повърхност се срязва на нивото на средата на тибио-фибуларната синдесмоза; trochlea tali се срязва успоредно. Поставят се тибиалният и таларният компонент с интерпозиционен полиетилен. След рефиксация на фибулата с малеоларния винт се възстановяват тибио-фибуларните връзки и ретинакулумите. Ранно рехабилитиране — ботуш 4–6 седмици и постепенно натоварване.
 
-## Операции върху меките тъкани на ходилото
+**Относителни противопоказания.** Тежка деформация (> 20° варус или валгус), инфекция в анамнезата, ангажиран Charcot, изразена остеопороза, нисък ИТМ и млад активен пациент.
 
-### Плантарна фасциотомия
+</div>
+</details>
+
+<details>
+<summary>Меко-тъканна корекция: плантарна фасциотомия, трансфери, тенодези</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/plantar-fascia.svg" data-figure-alt="Плантарна фасция и сводове на ходилото" aria-label="Увеличи">
     <img src="/img/anatomy-11/plantar-fascia.svg" alt="Плантарна фасция и сводове на ходилото" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Плантарна апоневроза с медиален, централен и латерален сноп, ветрилообразно разклоняващи се от tuber calcanei към основите на проксималните фаланги. Плантарната фасция е статичен поддръжник на медиалния надлъжен свод; нейната ретракция е компонент на pes cavus и обектът на дезинсерцията по Steindler, докато спадналият медиален свод (pes planus) и високият медиален свод (pes cavus) са крайни анатомични варианти, определящи показанията за остеотомии на калканеуса (Dwyer), артродези и сухожилни трансфери.</span>
+    <span class="md-figure-caption">Плантарна апоневроза с медиален, централен и латерален сноп, ветрилообразно разклоняващи се от tuber calcanei към основите на проксималните фаланги. Статичен поддръжник на медиалния надлъжен свод; нейната ретракция е компонент на pes cavus и обект на дезинсерцията по Steindler.</span>
     <span class="md-figure-attribution"> · InjuryMap, <a href="https://commons.wikimedia.org/wiki/File:Plantar_fascia.svg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-Напречно прерязване на плантарната фасция (Steindler-stripping в класическата му форма) се прилага при pes cavus като част от меко-тъканна корекция. Прави се 3–4 cm разрез по плантарно-медиалния ръб на ходилото в средната му трета; идентифицира се медиалният ръб на фасцията, отделя се от подкожието и от подлежащите мускули и при пасивна дорзална флексия (при което фасцията се изопва) се прерязва напречно по цялата ширина. При опитен оператор може да се извърши закрита фасциотомия с тенотом.
+**Плантарна фасциотомия (Steindler stripping).** При pes cavus, като част от меко-тъканна корекция. 3–4 cm разрез по плантарно-медиалния ръб в средната трета на ходилото; идентифицира се медиалният ръб на фасцията, отделя се от подкожието и от подлежащите мускули и при пасивна дорзална флексия (при което фасцията се изопва) се прерязва напречно по цялата ширина. При опитен оператор — закрита фасциотомия с тенотом.
 
-Дезинсерцията на плантарната фасция и късите плантарни флексори от tuber calcanei по Steindler е основна стъпка при оперативната корекция на ригиден pes cavus. През медиален разрез, завиващ към tuber calcanei (с дължина не повече от 3–4 cm, за да не се повреди n. plantaris medialis), скалпел и распатор проникват по медиалната и плантарната повърхност на петната кост. Мускулите се повдигат с екартер, със скалпел се „хлъзга" по костта и плантарната фасция и късите плантарни мускули (m. abductor hallucis, m. flexor digitorum brevis, m. abductor digiti minimi) се дезинсерират като общ мукуло-фасциален блок от tuber.
+**Дезинсерция от tuber calcanei по Steindler.** Основна стъпка при ригиден pes cavus. Медиален разрез, завиващ към tuber calcanei (с дължина не повече от 3–4 cm, за да не се повреди n. plantaris medialis); скалпел и распатор по медиалната и плантарната повърхност на петната кост; плантарната фасция и късите плантарни мускули (m. abductor hallucis, m. flexor digitorum brevis, m. abductor digiti minimi) се дезинсерират като общ мукуло-фасциален блок от tuber.
 
-### Сухожилни и мускулни трансфери
+**Трансфер на m. tibialis posterior към гърба (Watkins-Barr).** При паралитичен еквинизъм за активна дорзална флексия. Четири разреза: медиален над os naviculare за дезинсерция на сухожилието със или без костна частица; над медиалния малеол по задната повърхност на тибията — за извеждане на сухожилието проксимално в подкожен канал; непосредствено над глезена за пресичане на membrana interossea с широк отвор и преминаване на сухожилието напред; дорзално над съответната метатарзална кост (обикновено II–III) за подпериостална вставка под напрежение.
 
-Трансферите при остатъчни парализи (постполиомиелит, периферно-нервна патология, ДЦП, вродени и придобити деформитети) изискват: липса на фиксирана контрактура, агонистно действие на донорното сухожилие, запазена структура и сила на донора, плавна линия на прокарване на сухожилието.
+**Трансфер на двата плантарни флексора (Чаклин-Каплан).** M. tibialis posterior и m. flexor hallucis longus. Надлъжен разрез по задно-медиалната повърхност на подбедрицата. Прерязва се membrana interossea; m. tibialis posterior се прокарва по медиалния ръб и се пришива в гнездо в М1; m. flexor hallucis longus — през канала и се инсерира за М5 или os cuboideum (стабилизира латералната колона); m. flexor digitorum longus, ако се прехвърля — за os naviculare. След трансфера — тенодеза на дългите екстензори към периоста на метатарзалните кости. Гипсова имобилизация 3 седмици при дорзална флексия и умерена флексия на коляното.
 
-Транспозиция на m. tibialis posterior към гърба на ходилото (Watkins-Barr) се прилага при паралитичен еквинизъм за активна дорзална флексия. Четири разреза: (1) медиален над os naviculare за дезинсерция на сухожилието със или без костна частица; (2) над медиалния малеол по задната повърхност на тибията — за извеждане на сухожилието проксимално в подкожен канал по предната повърхност на подбедрицата; (3) непосредствено над глезена за пресичане на membrana interossea с широк отвор и преминаване на сухожилието напред; (4) дорзално над съответната метатарзална кост (обикновено II–III) за подпериостална вставка под напрежение. Алтернативно крайното сухожилие може да се транспонира към латералната клиновидна кост или към основата на V метатарзална кост, в зависимост от баланса валгус–варус.
+**Тенодеза по Чаклин на екстензорите.** Прерязване на m. tibialis anterior и на дългите екстензори; в tibia на 5 cm над ставата — напречен канал, през който сухожилията се вкарват срещу едно на друго и се пришиват при напрежение. Чаклин използва два канала един над друг; Camera прокарва сухожилията през два допълнителни тарзални канала.
 
-Транспозиция на двата плантарни флексора (m. tibialis posterior и m. flexor hallucis longus) към ходилото — техника на Чаклин-Каплан — се изпълнява с надлъжен разрез по задно-медиалната повърхност на подбедрицата. Прерязва се membrana interossea, сухожилието на m. tibialis posterior се прокарва по медиалния ръб на ходилото и се пришива в гнездо в I метатарзална кост; сухожилието на m. flexor hallucis longus се прокарва през канала и се инсерира за V метатарзална кост или за os cuboideum (стабилизира латералната колона); m. flexor digitorum longus, ако се прехвърля, се инсерира за os naviculare. След трансфера се прави и тенодеза на дългите екстензори към периоста на метатарзалните кости. Гипсова имобилизация за 3 седмици при дорзална флексия на глезена и умерена флексия на коляното.
+**Предна тенодеза по Холевич.** Дезинсерира се m. peroneus brevis и longus, m. tibialis anterior — всички се извеждат отпред и се пришиват едно към друго и едно към себе си през предно-тибиален разрез. Варианти: при леки форми сухожилията се прокарват през membrana interossea без нарушаване на ахилеса; при ретракция на ахилеса той се разцепва фронтално (отделят се частите за m. soleus и m. gastrocnemius), m. gastrocnemius се прокарва през мембраната напред и се пришива за антифлексионната конструкция.
 
-При парализа на m. triceps surae се прилагат заместващи трансфери; основният заден срединен разрез по хода на ахилеса се продължава нагоре до средната трета на подбедрицата. Сухожилията на донорните мускули (m. tibialis anterior, m. peroneus longus, m. flexor digitorum communis, и/или m. flexor hallucis longus) се прокарват по задната повърхност и се фиксират или през напречен канал в tuber calcanei (изискващ предварително прерязване и ре-сутура на ахиловото сухожилие), или директно върху самото ахилово сухожилие, или върху главата му.
+**Задна тенодеза по Бойчев със скъсяване на ахилеса.** Ахиловото сухожилие се дезинсерира от os calcaneus, разцепва се по дължина на две, в tuber calcanei — напречен канал, през който се прокарват двете ленти срещу едно на друго и се пришиват при напрежение. Дава едновременно скъсяване и тенодеза.
 
-### Тенодези на ходилото
+**Задна тенодеза по Зацепин.** Ламбо от медиалната половина на ахилеса се прокарва през канал в медиалния малеол на 6 cm над ставата и се пришива при поза на еквинус.
 
-Тенодезата (пасивна стабилизация) ограничава нежеланото движение в ставата, когато няма агонистен мускул, който да го извърши активно.
+</div>
+</details>
 
-Тенодеза със сухожилието на m. peroneus brevis за корекция на паралитичен pes varus: разрез по перонеалните мускули, прерязване на m. peroneus brevis на 5–6 cm над глезена, прокарване през напречен канал в латералния малеол и пришиване при позиция на пронация.
-
-Тенодеза на екстензорите (Чаклин): прерязване на m. tibialis anterior и дългите екстензори на височината на горния край на разрез; в tibia на около 5 cm над ставата се прави напречен канал, през който сухожилията се вкарват срещу едно на друго и се пришиват при напрежение. Чаклин използва два канала един над друг; Camera прокарва сухожилията през два допълнителни тарзални канала за намаляване на дължината им преди тибиалното захващане.
-
-Предна тенодеза по Холевич: дезинсерира се m. peroneus brevis и longus, m. tibialis anterior — всички се извеждат отпред и се пришиват едно към друго и едно към себе си през предно-тибиален разрез. Възможни модификации: (а) при леки форми сухожилията се прокарват през membrana interossea без нарушаване на ахилеса; (б) при ретракция на ахилеса той се разцепва фронтално (отделят се частите за m. soleus и m. gastrocnemius), m. gastrocnemius се прекарва през мембраната напред и се пришива за анти-флексионната конструкция.
-
-Задна тенодеза по Бойчев със скъсяване на ахилеса: ахиловото сухожилие се дезинсерира от os calcaneus, разцепва се по дължина на две, в tuber calcanei се прави напречен канал, през който се прокарват двете ленти срещу едно на друго и се пришиват при напрежение. Дава едновременно скъсяване и тенодеза.
-
-Задна тенодеза по Зацепин: ламбо от медиалната половина на ахилеса се прокарва през канал в медиалния малеол на 6 cm над ставата и се пришива при пози на еквинус.
-
-## Удължаване на ахилеса
+<details>
+<summary>Удължаване на ахилеса (Z-, Hoke, White, Strayer, Silfverskiöld)</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/achilles-rupture.jpg" data-figure-alt="Руптура на ахилесовото сухожилие" aria-label="Увеличи">
     <img src="/img/anatomy-11/achilles-rupture.jpg" alt="Руптура на ахилесовото сухожилие" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Спонтанна руптура на ахилесовото сухожилие, обикновено 4–6 cm проксимално от инсерцията на калканеуса — типична при мъж 40–50 г. при спортна активност. Палпируем „пропуск" (gap sign) и положителен тест на Thompson (липсваща плантарна флексия при компресия на triceps surae). Оперативно лечение: перкутанно зашиване по Cuneo-Bunnell-Ма, открито зашиване с Krackow-Mayo техника, V–Y удължителна пластика по Abraham-Pankovich при стари руптури с дефект.</span>
+    <span class="md-figure-caption">Спонтанна руптура на ахилеса, обикновено 4–6 cm проксимално от инсерцията — типична при мъж 40–50 г. при спортна активност; зона на хиповаскуларност по Lagergren-Lindholm 2–6 cm над инсерцията. Палпируем „пропуск" (gap sign) и положителен тест на Thompson. Лечение: перкутанно зашиване (Cuneo-Bunnell-Ma), открито зашиване с Krackow-Mayo, V–Y удължителна пластика по Abraham-Pankovich при стари руптури с дефект.</span>
     <span class="md-figure-attribution"> · BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-При фиксирана еквинусна деформация при pes equinus, рекурентен клъбфут, спастична церебрална парализа без фиброзна mt. триvent surae, остатъчни полиомиелитни деформитети и вродени по-кратки прирасти.
+При фиксирана еквинусна деформация при pes equinus, рекурентен клубфут, спастична церебрална парализа без фиброзна tendon-ригидизация, остатъчни полиомиелитни деформитети и вродени по-кратки прирасти.
 
-Открит Z-образен удължаващ tenotomy: задно-медиален разрез 10 cm; ахиловото сухожилие се отпрепарира и в сагитална или фронтална равнина се разсича Z-образно, дисталното разсичане се прави в задно-медиалната половина (защитава медиалното кръвоснабдяване на сухожилието), проксималното — във задно-латералната. След пасивна дорзална флексия двете ленти се пришиват при контролирано удължаване с напречни матрасни шевове.
+**Открит Z-образен.** Задно-медиален разрез 10 cm; ахилесът се отпрепарира и в сагитална или фронтална равнина се разсича Z-образно, дисталното разсичане се прави в задно-медиалната половина (защитава медиалното кръвоснабдяване), проксималното — в задно-латералната. След пасивна дорзална флексия двете ленти се пришиват при контролирано удължаване с напречни матрасни шевове.
 
-Перкутанна техника на Hoke (1931): три напречни хемитенотомии — две медиални и една латерална (или обратно), на различна височина (обикновено на 2–3 cm една от друга); при пасивна дорзална флексия на ходилото сухожилието „приплъзва" по своите две половини и така се удължава. Перкутанната техника е стандарт при Понсети-метод за вроден клубовидно еквино-варусен деформитет (TAL — tendo Achillis lengthening на дете под 1 г).
+**Hoke (1931) перкутанна.** Три напречни хемитенотомии — две медиални и една латерална (или обратно), на различна височина (обикновено на 2–3 cm една от друга); при пасивна дорзална флексия сухожилието „приплъзва" по своите две половини и така се удължава. Стандарт при Понсети-метод за вроден клубфут (TAL — tendo Achillis lengthening на дете под 1 г.).
 
-Техниката на White: непълно напречно прекъсване на сухожилието на две различни нива (дистално в латералните 2/3, проксимално на 5–8 cm нагоре в медиалните 2/3) и пасивно разцепване по дължина при дорзална флексия. Сравнително елегантна перкутанна-полуоткрита алтернатива.
+**White.** Непълно напречно прекъсване на сухожилието на две различни нива (дистално в латералните 2/3, проксимално на 5–8 cm нагоре в медиалните 2/3) и пасивно разцепване по дължина при дорзална флексия — елегантна перкутанна полу-открита алтернатива.
 
-Гастрокнемиус рецесия по Strayer (1950): през напречен заден разрез в проксималната половина на подбедрицата се прави селективно прерязване на mediomedialната апоневроза на m. gastrocnemius (на нивото на сливането с m. soleus), без да се ангажира m. soleus. Показанието е изолирана eqvinus поради m. gastrocnemius (положителен тест на Silfverskiöld — еквинус, който се коригира при флексия на коляното). Дезинсерцията на двете глави на m. gastrocnemius от феморалните кондили по Silfverskiöld (1923) — обратната историческа техника — превръща мускула от двуставен в едноставен със същото действие като m. soleus и неутрализира спастичността; прилага се все по-рядко в съвременната практика.
+**Strayer (1950) гастрокнемиус-рецесия.** През напречен заден разрез в проксималната половина на подбедрицата — селективно прерязване на медиалната апоневроза на m. gastrocnemius (на нивото на сливането с m. soleus), без ангажиране на m. soleus. Индикация: изолиран еквинус поради m. gastrocnemius (положителен тест на Silfverskiöld — еквинус, който се коригира при флексия на коляното).
 
-## Невректомия по Stoffel и Phelps
+**Silfverskiöld (1923).** Дезинсерция на двете глави на m. gastrocnemius от феморалните кондили — обратна историческа техника; превръща мускула от двуставен в едноставен със същото действие като m. soleus и неутрализира спастичността; в съвременната практика се прилага все по-рядко.
 
-Невректомията на n. tibialis по Phelps е алтернатива при спастична еквинусна деформация без фиброзни промени на m. triceps surae. През заден разрез в fossa poplitea (7–8 cm) се идентифицира n. tibialis (по-повърхностен от съдовете) и трите му моторни клона за m. gastrocnemius (медиален и латерален), с щадене на сензорното клонче. Чрез лек механичен или електрически дразнене се определят клонове за прекъсване — обикновено само хиперактивните мускулни коремчета. Прекомерна денервация довежда до пълна моторна загуба и не се препоръчва.
+</div>
+</details>
 
-Stoffel описва селективна моторна периферна неврек томия с същата концепция — само хиперактивните моторни клонове се прерязват, тестът се изпълнява с битопларна стимулация и видим отговор на свиване.
+<details>
+<summary>Невректомия на n. tibialis по Phelps и Stoffel</summary>
+<div class="ts-body">
 
-## Корекция на pes excavatus и pes equino-varus
+Алтернатива при спастична еквинусна деформация без фиброзни промени на m. triceps surae. Заден разрез в fossa poplitea 7–8 cm; идентифицира се n. tibialis (по-повърхностен от съдовете) и трите му моторни клона за m. gastrocnemius (медиален и латерален) с щадене на сензорното клонче. Чрез лек механичен или електрически дразнене се определят клоновете за прекъсване — обикновено само хиперактивните мускулни коремчета. Прекомерна денервация дава пълна моторна загуба и не се препоръчва.
+
+Stoffel описва селективна моторна периферна невректомия по същата концепция — само хиперактивните моторни клонове се прерязват, тестът се изпълнява с биполарна стимулация и видим отговор на свиване.
+
+</div>
+</details>
+
+<details>
+<summary>Корекция на pes equino-varus (клубфут)</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/clubfoot.jpg" data-figure-alt="Вроден pes equino-varus (клубфут) — клинична снимка" aria-label="Увеличи">
     <img src="/img/anatomy-11/clubfoot.jpg" alt="Вроден pes equino-varus (клубфут) — клинична снимка" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Вроден pes equino-varus (клубфут): четирите компонента по мнемониката CAVE — Cavus (висок медиален свод от плантарна флексия на I метатарзала), Adductus (адукция на форефута), Varus (варус на петата) и Equinus (еквинус в субталарната и глезенната става). Класическата корекционна последователност по Понсети следва точно тази йерархия: първо cavus, после adductus и varus със серийни гипсове, и накрая equinus с перкутанна тенотомия на ахилеса.</span>
+    <span class="md-figure-caption">Вроден pes equino-varus (клубфут): четирите компонента по мнемониката CAVE — Cavus (висок медиален свод от плантарна флексия на М1), Adductus (адукция на форефута), Varus (варус на петата) и Equinus (еквинус в субталарната и глезенната става). Корекционната последователност по Ponseti следва точно тази йерархия.</span>
     <span class="md-figure-attribution"> · Dr. Rajatsubhra, <a href="https://commons.wikimedia.org/wiki/File:CTEV_pre_management.jpg" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></span>
   </figcaption>
 </figure>
 
-Класическият метод на Codivilla (1906) е тристадиен. Етап I: медиален надлъжен разрез от I метатарзалната кост, заобикалящ медиалния малеол и продължаващ нагоре по подбедрицата; удължаване на m. tibialis posterior и на m. flexor digitorum longus, отваряне на тала-навикуларната, навикуло-кунеиформената и кунео-метатарзалната става от вътрешната страна, прерязване на спастичния lig. deltoideum. Етап II: латерално отваряне на калканео-кубоидната става и при нужда отваряне на субталарната става; ако се срещне съпротива — Z-удължаване на ахилеса и задна капсулотомия. Етап III: пасивна корекция на ходилото в неутрална позиция, последвана от анатомично възстановяване на сухожилията с подходящо удължаване. Имобилизация 4–6 седмици.
+**Codivilla (1906) — тристадиен.** Първи етап: медиален надлъжен разрез от М1, заобикалящ медиалния малеол и продължаващ нагоре по подбедрицата; удължаване на m. tibialis posterior и на m. flexor digitorum longus, отваряне на тала-навикуларната, навикуло-кунеиформената и кунео-метатарзалната става от вътрешната страна, прерязване на спастичния lig. deltoideum. Втори етап: латерално отваряне на калканео-кубоидната става и при нужда — на субталарната става; при съпротива — Z-удължаване на ахилеса и задна капсулотомия. Трети етап: пасивна корекция в неутрална позиция, последвана от анатомично възстановяване на сухожилията с подходящо удължаване. Имобилизация 4–6 седмици.
 
-Методът на Зацепин — иконичен руски/съветски стандарт за корекция на вроден pes equino-varus — се изпълнява във вертикален разрез през средата на медиалния малеол. Сухожилията на m. tibialis posterior и m. flexor digitorum longus се прерязват Z-образно; lig. deltoideum се прерязва напречно; ставата се отваря широко. Талокалканеарната интеросална връзка и останалите ригидни структури се прерязват прецизно. При необходимост сухожилието на дългия флексор на палеца се удължава. Сухожилията се възстановяват с известно напрежение, така че петата да се задържа неутрално. За корекция на форефут адукция през втори разрез по основната фаланга на палеца се удължават сухожилията на абдуктора и късия флексор на палеца. Имобилизация без хиперкорекция (поради опасност от некроза на кожата); смяна на гипсовата шина на 10–12 ден за докоригиране на супинацията; органично продължаване до 6 месеца.
+**Зацепин — иконичен руски/съветски стандарт.** Вертикален разрез през средата на медиалния малеол. Z-удължаване на m. tibialis posterior и m. flexor digitorum longus; напречно прерязване на lig. deltoideum; широко отваряне на ставата. Талокалканеарната интероссеална връзка и останалите ригидни структури се прерязват прецизно; при необходимост — удължаване на FHL. Сухожилията се възстановяват с известно напрежение, така че петата да се задържа неутрално. За корекция на форефут адукция — втори разрез по основната фаланга на палеца с удължаване на абдуктора и късия флексор. Имобилизация без хиперкорекция (опасност от кожна некроза); смяна на гипсовата шина на 10–12 ден за докоригиране на супинацията; органично продължаване до 6 месеца.
 
-Методът на Герчев (българска школа) — четиристадиен. Етап I: медиален разрез от основата на I метатарзална кост до границата средна-долна трета на подбедрицата; прерязване и удължаване на m. tibialis posterior и m. flexor digitorum longus; отваряне на медиалните стави. Етап II: латерален разрез по ахилеса; Z-удължаване сагитално с дезинсерция на медиалната половина от tuber calcanei. Етап III: ако петата остава висока в еквинизъм поради остаточна предна сублуксация на talus, малък напречен разрез под върха на латералния малеол позволява прерязване на задните части на латералните връзки и репозиция на talus в глезенната вилка. Етап IV: при ходило в пълна корекция се възстановяват сухожилията с напрежение и се правят шевове на разрезите.
+**Герчев (българска школа) — четиристадиен.** Първи етап: медиален разрез от основата на М1 до границата средна-долна трета на подбедрицата; прерязване и удължаване на m. tibialis posterior и m. flexor digitorum longus; отваряне на медиалните стави. Втори етап: латерален разрез по ахилеса; Z-удължаване сагитално с дезинсерция на медиалната половина от tuber calcanei. Трети етап: ако петата остава висока в еквинизъм поради остатъчна предна сублуксация на talus, малък напречен разрез под върха на латералния малеол позволява прерязване на задните части на латералните връзки и репозиция на talus в глезенната вилка. Четвърти етап: при ходило в пълна корекция се възстановяват сухожилията с напрежение и се правят шевове на разрезите.
 
-Методът на Кацаров за рецидивиращ pes equino-varus съчетава хирургия с апаратно лечение (Илизаров-подобен дистракционен апарат). Сваля се ахилесът Z-образно, удължава се m. tibialis posterior, дезинсерира се m. tibialis anterior за по-късна трансфера; през петата, медиотарзуса и предходилието се прокарват три кръстосани спици на Kirschner, монтират се към дистракционен апарат и от 2-ри ден започва постепенна корекция на еквинус, аддукция и супинация плюс продължаване на ходилото. След постигане на корекция следва интрапозиция (костни автотрансплантати в субталарната зона за извън-ставна артродеза).
+**Кацаров — съчетано с апарат на Илизаров.** Сваля се ахилесът Z-образно, удължава се m. tibialis posterior, дезинсерира се m. tibialis anterior за по-късна трансфера; през петата, медиотарзуса и предходилието се прокарват три кръстосани спици на Kirschner, монтират се към дистракционен апарат и от 2-ри ден започва постепенна корекция на еквинус, аддукция и супинация плюс продължаване на ходилото. След постигане на корекция — интерпозиция (костни автотрансплантати в субталарната зона за извън-ставна артродеза).
 
-Удължаване на кожата по медиалната повърхност при Z-пластика се прави с насрещни триъгълни ламба с ъгъл 60°; формулата за удължаване изисква изчисление на нужния gain, тъй като прекалено опъване води до некроза.
-
-Етапната корекция по Stoffel (Stöffel) е показана при подрастващи и възрастни с много тежко ригидно eqvinо-варусно ходило, при които клиновидни костни резекции скъсяват прекалено крайника. Извършва се в три стадия през месец: етап I — премахване на скъсяванията на меките структури; етап II — Z-удължаване на ахилеса и транспозиция на m. tibialis anterior латерално; етап III — клиновидна резекция в субталарната и медиотарзалната става с дезинсерция на перонеалните сухожилия. Предимството е, че костният клин е минимален, защото меките структури са „освободили" корекцията.
+**Stöffel — етапна за подрастващи и възрастни.** Три стадия през месец: първи — премахване на скъсяванията на меките структури; втори — Z-удължаване на ахилеса и транспозиция на m. tibialis anterior латерално; трети — клиновидна резекция в субталарната и медиотарзалната става с дезинсерция на перонеалните сухожилия. Предимството е минимален костен клин, тъй като меките структури са „освободили" корекцията.
 
 <aside class="callout callout-pearl">
   <span class="callout-label">Pearl</span>
-  <p>Класическият педиатричен ред при вроден pes equino-varus: до 1 г — Понсети (серийни гипсове, перкутанна тенотомия на ахилеса, шина); 1–5 г — задна и постеромедиална мек-тъканна релесна процедура (Турко, McKay, Cincinnati инсизия, Codivilla, Зацепин); 5–10 г — съчетано костно-меко-тъканно (Кацаров с дистракционен апарат); над 10 г и при ригидни рецидиви — тройна артродеза (Lambrinudi, Dunn, Hoke, Ryerson). Изборът се ръководи от възрастта, от ригидността и от количеството костна деформация.</p>
+  <p>Класически педиатричен ред при вроден pes equino-varus: до 1 г. — Ponseti (серийни гипсове, перкутанна тенотомия на ахилеса, шина); 1–5 г. — задна и постеромедиална мек-тъканна релизна процедура (Turco, McKay, Cincinnati инсизия, Codivilla, Зацепин); 5–10 г. — съчетано костно-меко-тъканно (Кацаров с дистракционен апарат); над 10 г. и при ригидни рецидиви — тройна артродеза (Lambrinudi, Dunn, Hoke, Ryerson). Изборът се ръководи от възрастта, ригидността и количеството костна деформация.</p>
 </aside>
 
-## Корекция на pes plano-valgus
+</div>
+</details>
+
+<details>
+<summary>Корекция на pes plano-valgus</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/flat-feet.jpg" data-figure-alt="Pes planus — клиничен изглед" aria-label="Увеличи">
     <img src="/img/anatomy-11/flat-feet.jpg" alt="Pes planus — клиничен изглед" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Двустранна плоско-валгусна стъпка (pes plano-valgus) — спадане на медиалния надлъжен свод и валгус на петата. Класификация: гъвкав (педиатричен; рядко налага операция) vs. ригиден (тарзална коалиция, посттравматичен, neurogen). Лечебни алгоритми: лечебна стелка → удължаване на ахилеса → mediating procedures на меките тъкани (Karchinov-Young, Lowman, Miller-Niedereker), калканеална остеотомия (Evans удължаване, медиализираща Koutsogiannis), артрорезис със silikoн или винт (MBA) при детска форма; Grice-Green извънставна субталарна артродеза при ригиден детски pes plano-valgus.</span>
+    <span class="md-figure-caption">Двустранна плосковалгусна стъпка — спадане на медиалния надлъжен свод и валгус на петата. Класификация: гъвкав (педиатричен; рядко налага операция) срещу ригиден (тарзална коалиция, посттравматичен, неврогенен). Лечебни алгоритми: лечебна стелка → удължаване на ахилеса → мек-тъканна медиализация (Karchinov-Young, Lowman, Miller-Niedereker) → калканеална остеотомия (Evans удължаване, Koutsogiannis медиализираща) → артрорезис (MBA) при детска форма; Grice-Green извън-ставна субталарна артродеза при ригиден детски случай.</span>
     <span class="md-figure-attribution"> · Χαράλαμπος Γκούβας, <a href="https://commons.wikimedia.org/wiki/File:Flat_feet_(1).jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
-При истинско вродено plano-valgus ходило (вертикален talus, конгенитален „рокинг-боттом") talus е завъртян плантарно и медиално, главата му е луксирана медиално-плантарно от os naviculare. Класическата отворена редукция изисква изправяне на talus в глезенната вилка, репозиция на os naviculare пред главата му и корекция на пронацията на calcaneus.
+**Lowman.** Медиален разрез до тала-навикуларната става; lig. talonaviculare се прерязва на нивото на ставата; os naviculare се изолира и от него (и отчасти от главата на talus) се изрязва костен клин. При нужда се удължава ахилесът. Сухожилието на m. tibialis anterior се транспонира в гнездо в долната повърхност на os naviculare за активна поддръжка на надлъжния свод.
 
-Методът на Lowman: медиален разрез до тала-навикуларната става; lig. talonaviculare се прерязва на нивото на ставата; os naviculare се изолира и от него (и отчасти от главата на talus) се изрязва костен клин. При нужда се удължава ахилесът. Сухожилието на m. tibialis anterior се транспонира в гнездо в долната повърхност на os naviculare за активна поддръжка на надлъжния свод.
+**Hoke (1931).** Артродеза между talus, os naviculare и os cuneiforme mediale; сухожилието на m. tibialis posterior се премества по-напред (до тази на m. tibialis anterior) върху туберкула на М1 — удължава лоста и подсилва активното поддържане на свода.
 
-Методът на Hoke (1931) при плано-валгусна деформация: създаване на артродеза между talus, os naviculare и os cuneiforme mediale; сухожилието на m. tibialis posterior се премества по-напред (до тази на m. tibialis anterior) върху туберкула на I метатарзална кост, с което се удължава нейното лост-плече и се подсилва активното поддържане на свода.
+**Miller-Niedereker (Cole-Miller).** Двойна артродеза между talus, os naviculare и os cuneiforme mediale, плюс трансфер на m. tibialis posterior напред и удължаване на ахилеса.
 
-Методът на Miller-Niedereker (Cole-Miller): двойна артродеза между talus, os naviculare и os cuneiforme mediale, плюс трансфер на m. tibialis posterior напред и удължаване на ахилеса.
+**Lelièvre.** Подкалканеална артрорeза със страничен разрез от задната половина на петата до os cuboideum, насочен дорзално; навлизане в sinus tarsi и отваряне на субталарната става; от предната част на петната кост — остеотомия назад и надолу, а в sinus tarsi — кортико-спонгиозен присадък от tibia, който ограничава пронацията на калканеуса.
 
-Методът на Lelièvre (Лелиевр): подкалканеална артрориза със страничен разрез от задната половина на петата до os cuboideum, насочен дорзално; навлизане в sinus tarsi и отваряне на субталарната става; от предната част на петната кост се прави остеотомия с посока назад и надолу, а в sinus tarsi се поставя кортико-спонгиозен присадък от tibia, който ограничава пронацията на калканеуса и така коригира валгуса.
+**Chambers.** Субталарна артрорeза за ограничаване на пронацията на calcaneus — надлъжен страничен разрез от задната половина на петата до os cuboideum; навлизане в sinus tarsi; остеотомия от предната част на петната кост с посока назад и надолу; в sinus tarsi — костен присадък от crista iliaca, който блокира еверзията. Особено подходящ при детска флексибилна плосковалгусна стъпка с все още отворен апофизарен растеж на петата.
 
-Методът на Chambers (Чембърс) — субталарна артрориза за ограничаване на пронацията на calcaneus. Надлъжен страничен разрез от задната половина на петата до os cuboideum; навлизане в sinus tarsi; от предната част на петната кост с посока назад и надолу се прави остеотомия и в sinus tarsi се поставя костен присадък от crista iliaca, който блокира еверзията. Артрорезисът е особено подходящ при детска флексибилна плосковальгусна стъпало с все още отворен апофизарен растеж на петата.
+**Karchinov-Young (българска модификация).** Дъговиден медиален разрез до медиалния малеол; m. tibialis anterior се прерязва на 2 cm над инсерцията си към os naviculare, отпрепарира се проксимално; под tuberositas ossis navicularis и cuneiforme mediale се оформя жлеб; сухожилието се затегля назад и надолу и се вкарва в жлеба под дисталната част на m. tibialis posterior. Сухожилието на m. tibialis posterior се възстановява с напрежение. Имобилизация 6–8 седмици.
 
-Българската модификация на Карчинов към метода на Young: дъговиден медиален разрез до медиалния малеол; сухожилието на m. tibialis anterior се прерязва на 2 cm над инсерцията си към os naviculare, отпрепарира се проксимално; под tuberositas ossis navicularis и cuneiforme mediale се оформя жлеб; сухожилието се затегля назад и надолу и се вкарва в жлеба под дисталната част на сухожилието на m. tibialis posterior. Сухожилието на m. tibialis posterior се възстановява с напрежение. Имобилизация 6–8 седмици.
+**Grice-Green (1952) извън-ставна субталарна артродеза.** Иконична педиатрична процедура за корекция на детски плановалгус без нарушаване на калканеалния растеж. Кратък дъговиден разрез над sinus tarsi; ексцизия на меките тъкани от субталарните ставни повърхности; прерязване на lig. talocalcaneum interosseum; в задната част на шийката на talus и в предната част на горната повърхност на os calcaneus — напречни жлебове в които се поставя кортико-спонгиозен присадък от crista или fibula (3 cm дължина). Присадъкът блокира субталарната става в неутрална позиция, запазвайки растежа. Имобилизация 3 месеца; гипсът се сваля поетапно с разрешаване на натоварване.
 
-Извънставна субталарна артродеза по Grice-Green (1952) — иконичната педиатрична процедура за корекция на детски плано-валгус без нарушаване на калканеалния растеж. Кратък дъговиден разрез над sinus tarsi; ексцизия на меките тъкани от subталарни ставни повърхности; прерязване на lig. talocalcaneum interosseum; в задната част на шийката на talus и в предната част на горната повърхност на os calcaneus се оформят напречни жлебове по продължение, в които се поставя кортико-спонгиозен присадък от crista или fibula (3 cm дължина). Присадъкът блокира субталарната става в неутрална позиция, запазвайки растежа. Имобилизация 3 месеца; гипсът се сваля поетапно с разрешаване на натоварване.
+**Артрорезис с имплант (MBA — Maxwell-Brancheau).** Съвременна алтернатива: конусен метален или биодостъпен болт, въведен през sinus tarsi, блокира еверзията на калканеуса. Резултатите са трайни при правилно подбран пациент; при болка или сврастване — отстраняване на 18–24 месеца.
 
-Клиновидна метатарзотомия — линеен разрез по вътрешната повърхност на ходилото с център над os naviculare; костен клин от медиотарзуса с пълна ширина на ходилото; коригира едновременно плануса и абдукцията на форефута.
+</div>
+</details>
 
-## Корекция на pes excavatus
+<details>
+<summary>Корекция на pes cavus</summary>
+<div class="ts-body">
 
-Различните плантарни релесни процедури (Steindler-stripping) се описват по-горе. Костната корекция може да се изпълни с няколко комбинации:
+Плантарните релизни процедури (Steindler stripping) са описани по-горе. Костна корекция:
 
-Външна сърповидна тарзектомия по Куслик: дорзо-латерален дъговиден разрез; излагане на главата на talus, os naviculare и os cuboideum; с голямо жлебовато длето се изсича сърповиден костен клин от медиотарзуса. Ходилото се алинира. При наличие на варус на петата се добавя клинова резекция на субталарната става.
+**Тарзектомия по Куслик.** Дорзо-латерален дъговиден разрез; излагане на главата на talus, os naviculare и os cuboideum; с голямо жлебовато длето се изсича сърповиден костен клин от медиотарзуса. Ходилото се алинира. При наличие на варус на петата — допълнителна клиновидна резекция на субталарната става.
 
-Метод на Chuck-Mitchell (комбинирана техника на Чаклин): два надлъжни разреза по гърба на ходилото в областта на ставата на Chopart; екартиране на екстензорите и дорзалната артерия; отваряне на ставата на Chopart и изсичане на клин, отворен дорзално (с основа дорзално), включващ главата на talus, os naviculare, предната част на calcaneus и част от os cuboideum. Ако след корекцията остане еквинус — удължаване на ахилеса. За корекция на варуса — транспозиция на m. tibialis anterior по латерала на гърба.
+**Комбинирана техника на Чаклин.** Два надлъжни разреза по гърба на ходилото в областта на ставата на Chopart; екартиране на екстензорите и дорзалната артерия; отваряне на ставата на Chopart и изсичане на клин, отворен дорзално (с основа дорзално), включващ главата на talus, os naviculare, предната част на calcaneus и част от os cuboideum. При остатъчен еквинус — удължаване на ахилеса. За корекция на варуса — транспозиция на m. tibialis anterior по латерала на гърба.
 
-Клиновидни резекции по Lefèvre и по Cole — варианти на тарзектомии с различни ориентации на клиновете.
+**Lefèvre и Cole.** Варианти на тарзектомии с различни ориентации на клиновете.
 
-Корекция чрез остеотомия на калканеуса по Dwyer (1959): варусна деформация на петата, която не се коригира с други методи; подходяща над 3–4-годишна възраст. Линейна остеотомия на петата с отваряне или затваряне на клина. При „отваряща" остеотомия — разрез под и зад медиалния малеол; линейна остеотомия под sustentaculum tali и зад задната ставна повърхност в посока назад и нагоре; отваряне с длето и поставяне на кортикоспонгиозен клин. При „затваряща" остеотомия — разрез зад латералния малеол; депериостиране на латералната повърхност на calcaneus; елипсовиден костен клин с върх медиално и затваряне с остеосинтеза.
+**Dwyer (1959) калканеална остеотомия.** При варусна деформация на петата, която не се коригира с други методи; подходяща над 3–4-годишна възраст. „Отваряща" остеотомия — разрез под и зад медиалния малеол; линейна остеотомия под sustentaculum tali и зад задната ставна повърхност в посока назад и нагоре; отваряне с длето и поставяне на кортикоспонгиозен клин. „Затваряща" остеотомия — разрез зад латералния малеол; депериостиране на латералната повърхност на calcaneus; елипсовиден костен клин с върх медиално и затваряне с остеосинтеза.
 
-## Тройна артродеза (Triple arthrodesis)
+</div>
+</details>
 
-Тройната артродеза (фиксиране на субталарната, тала-навикуларната и калканео-кубоидната става в едно костно сливане) е стандартна корекция на ригидна триставо-зачертеня деформация (pes cavus, pes plano-valgus, posttraumatic, постполио, рецидивиращ клубфут). При нея голяма част от talus загубва кръвоснабдяване и се отнася като свободен присадък, което удължава консолидацията и създава риск от аваскуларна некроза.
+<details>
+<summary>Тройна артродеза (Lambrinudi, Hoke, Dunn, Ryerson; руски модификации)</summary>
+<div class="ts-body">
 
-Методът на Hoke (1921, оригинален): страничен разрез от главата на talus назад до върха на латералния малеол; прерязване на lig. talonaviculare и широко отваряне на тала-навикуларната става; резекция на субталарната става; напречна остеотомия на шийката на talus с изваждане на шийката и главата на talus.
+Тройната артродеза (фиксиране на субталарната, тала-навикуларната и калканео-кубоидната става в едно костно сливане) е стандартна корекция на ригидна тристaво-зачертена деформация (pes cavus, pes plano-valgus, посттравматична, постполио, рецидивиращ клубфут). При нея голяма част от talus губи кръвоснабдяване и се отнася като свободен присадък — удължава консолидацията и създава риск от аваскуларна некроза.
 
-Методът на Dunn (1922) — двойна резекция; дъговиден разрез зад фибуларния малеол, заобикалящ го напред до os naviculare; широко отваряне на субталарната и медиотарзалната става; клин от субталарната става, отворен напред (за сметка на резекцията на шийката и главата на talus); хоризонтален жлеб в основата на os naviculare за приемане на предната част на talus.
+**Hoke (1921, оригинален).** Страничен разрез от главата на talus назад до върха на латералния малеол; прерязване на lig. talonaviculare и широко отваряне на тала-навикуларната става; резекция на субталарната става; напречна остеотомия на шийката на talus с изваждане на шийката и главата.
 
-Методът на Lambrinudi (1927) — иконичен за паралитично или постполиомиелитно еквинусно ходило: дъговиден разрез зад фибуларния малеол, заобикалящ напред и завършващ преди os naviculare; екартиране на перонеалните сухожилия и дорзалните флексори; отваряне на субталарната и медиотарзалната става; голям клин от субталарната става, отворен напред (с резекция на шийката и главата на talus); жлеб в основата на os naviculare. Точката на Lambrinudi: дисталната резекция на talus е с такъв ъгъл, че при поставяне на предната част на talus в навикуларния жлеб ходилото остава неутрално (без еквинус) — talus „служи" като статичен дорзифлексор, противодействайки на парализирания m. tibialis anterior. Имобилизация 3 месеца.
+**Dunn (1922) — двойна резекция.** Дъговиден разрез зад фибуларния малеол, заобикалящ го напред до os naviculare; широко отваряне на субталарната и медиотарзалната става; клин от субталарната става, отворен напред (с резекция на шийката и главата на talus); хоризонтален жлеб в основата на os naviculare за приемане на предната част на talus.
 
-Методът на Ryerson (1923) — модифицирана тройна артродеза с по-малки клинове и щадене на главата на talus; добра при по-млади пациенти с по-малки деформации.
+**Lambrinudi (1927) — иконичен за паралитично или постполиомиелитно еквинусно ходило.** Дъговиден разрез зад фибуларния малеол, заобикалящ напред и завършващ преди os naviculare; екартиране на перонеалните сухожилия и дорзалните флексори; отваряне на субталарната и медиотарзалната става; голям клин от субталарната става, отворен напред (с резекция на шийката и главата на talus); жлеб в основата на os naviculare. **Точката на Lambrinudi:** дисталната резекция на talus е с такъв ъгъл, че при поставяне на предната част на talus в навикуларния жлеб ходилото остава неутрално (без еквинус) — talus „служи" като статичен дорсифлексор, противодействайки на парализирания m. tibialis anterior. Имобилизация 3 месеца.
 
-Метод на Hoke (модифициран) — фиг. 332: страничен разрез, отваряне на трите стави, резекция с малки клинове. Метод на Недригайлова и Новачено-Николаев — руски варианти с различни ориентации на клиновете.
+**Ryerson (1923).** Модифицирана тройна артродеза с по-малки клинове и щадене на главата на talus; добра при по-млади пациенти с по-малки деформации.
 
-Алтернативи при панталарна (тривенто) артродеза: гогуме (Vainio) и Джанелидзе (Djanelidze) изваждат talus, изрязват целия хрущял и го връщат назад като свободен присадък — намалява времето за консолидация и риска от АВН. Методът на Иванов добавя саниране на talar блок.
+**Недригайлова и Новаченко-Николаев.** Руски варианти с различни ориентации на клиновете.
 
-Компресивна тройна артродеза по Кацаров — с външен фиксатор и спици на Kirschner, осигуряващи дозирана компресия с натоварване от 5–6 ден.
+**Панталарна артродеза.** Vainio и Джанелидзе изваждат talus, изрязват целия хрущял и го връщат назад като свободен присадък — намалява времето за консолидация и риска от АВН. Методът на Иванов добавя саниране на talar блок.
 
-## Резекции в ходилото и панталарни артродези
+**Компресивна тройна по Кацаров.** С външен фиксатор и спици на Kirschner, осигуряващи дозирана компресия с натоварване от 5–6 ден.
 
-Артродезата на субталарната става (изолирано) се прави при болезнен posttraumatic stasis след фрактура на calcaneus или talus, артрозни състояния и при някои варианти на детска ригидна плановалгусна деформация. Дъговиден страничен разрез, отваряне на влагалището на перонеалните сухожилия, екартиране назад и надолу; навлизане в sinus tarsi и отваряне на субталарната става; насилствено супиниране на ходилото и резекция на хрущяла до прокървяване; при необходимост — корекция на варуса/валгуса с клиновидна резекция. Фиксация с винт или спици; имобилизация 3 месеца.
+**Изолирана субталарна артродеза.** При болезнен посттравматичен стазис след калканеална или таларна фрактура и при някои варианти на детска ригидна плановалгусна деформация. Дъговиден страничен разрез; отваряне на влагалището на перонеалните сухожилия с екартиране назад и надолу; навлизане в sinus tarsi и отваряне на субталарната става; супинация и резекция на хрущяла до прокървяване; при необходимост — клиновидна резекция за корекция на варус/валгус. Фиксация с винт или спици; имобилизация 3 месеца.
 
-Компресивна артродеза на subталарната и медиотарзалната стави по Кацаров — предно-страничен достъп; резекция на ставните повърхности на talus, calcaneus, navicularis и cuboideum; през talus се прокарват две успоредни Kirschner-спици в navicularis; конструкцията се компресира с външен фиксатор и от 5–6 ден започва натоварването.
+</div>
+</details>
 
-## Калканеална шпора и болестта на Haglund
+<details>
+<summary>Калканеална шпора и болестта на Haglund</summary>
+<div class="ts-body">
 
-Калканеалната шпора (под inserтия на plantar fascia) се резецира медиален подковообразен разрез под върха на петата; деинсерция на фасцията и късите плантарни флексори от tuber calcanei; излагане на екзостозата и резекция с длето. Натоварването се разрешава след 15 дни.
+**Калканеална шпора (под инсерцията на plantar fascia).** Медиален подковообразен разрез под върха на петата; деинсерция на фасцията и късите плантарни флексори от tuber calcanei; излагане на екзостозата и резекция с длето. Натоварването се разрешава след 15 дни.
 
-Болестта на Haglund (задна горно-странична калканеална екзостоза с третий ретрокалканеален бурсит и ентезопатия на ахилеса) — техники по Du Vries (страничен разрез по контурата на ахилеса с депериостиране на горно-страничната повърхност и изсичане на изпъкналия костен сегмент с длето; внимание — да не се повреди инсерцията на ахилеса), Keck-Kelly (странична клинова остеотомия на калканеуса с дорзално завъртане) и Hoffa (хоризонтална остеотомия на калканеуса с дорзално завъртане на задната част и фиксация с винтове; често с едновременно скъсяване на ахилеса).
+**Болест на Haglund.** Задно горно-странична калканеална екзостоза с ретрокалканеален бурсит и ентезопатия на ахилеса. Техники:
+- Du Vries — страничен разрез по контурата на ахилеса с депериостиране на горно-страничната повърхност и изсичане на изпъкналия костен сегмент с длето; внимание към инсерцията на ахилеса.
+- Keck-Kelly — странична клинова остеотомия на калканеуса с дорзално завъртане.
+- Hoffa — хоризонтална остеотомия на калканеуса с дорзално завъртане на задната част и фиксация с винтове; често с едновременно скъсяване на ахилеса.
 
-## Корекция на hallux valgus
+</div>
+</details>
+
+<details>
+<summary>Корекция на hallux valgus</summary>
+<div class="ts-body">
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/hallux-valgus.jpg" data-figure-alt="Hallux valgus — рентгенографски ъгли HVA и IMA" aria-label="Увеличи">
     <img src="/img/anatomy-11/hallux-valgus.jpg" alt="Hallux valgus — рентгенографски ъгли HVA и IMA" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Hallux valgus: предна-задна рентгенография на ходилото с дорзомедиална екзостоза („булент"), латерално отклонение на палеца и медиална девиация на I метатарзала. Ключови ъгли: hallux valgus angle (HVA, между надлъжните оси на проксималната фаланга и I метатарзала; норма &lt;15°) и intermetatarsal angle (IMA, между I и II метатарзала; норма &lt;9°). Изборът на остеотомия (chevron, scarf, basal closing-wedge по Бойчев, opening-wedge на cuneiforme medialis по Чоканов, Lapidus) се ръководи от тежестта на IMA.</span>
+    <span class="md-figure-caption">Hallux valgus: предна-задна weight-bearing рентгенография с дорзомедиална екзостоза („булент"), латерално отклонение на палеца и медиална девиация на М1. Ключови ъгли: HVA (норма &lt; 15°), IMA (норма &lt; 9°), DMAA (норма &lt; 10°). Изборът на остеотомия (chevron, scarf, basal closing-wedge по Бойчев, opening-wedge на cuneiforme medialis по Чоканов, Lapidus) се ръководи от тежестта на IMA.</span>
     <span class="md-figure-attribution"> · Personalo, <a href="https://commons.wikimedia.org/wiki/File:Painful_hallux_valgus.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
 </figure>
 
-Корекцията на hallux valgus изисква отстраняване на варуса на I метатарзална кост, корекция на валгусното отклонение на палеца, евентуална репозиция на сезамоидните костици и запазване на мускулния баланс.
+Корекцията изисква отстраняване на варуса на М1, корекция на валгусното отклонение на палеца, евентуална репозиция на сезамоидните костици и запазване на мускулния баланс.
 
-Методът на Бойчев (фиг. 353): при леки степени на деформация, коригиращи се пасивно. Медиален надлъжен разрез от палеца до os naviculare, заобикалящ дорзалната екзостоза. Екстирпира се бурсата, отваря се MTP-1, резецира се екзостозата от ниво на разделящата я от главата бразда (по сагиталната равнина). Непосредствено под главата на метатарзалната кост се изрязва костен клин, отворен медиално (closing-wedge остеотомия) с подходяща големина за корекция на валгуса. Дъговиден „closing" на остеотомията коригира палеца. Стабилизация — единичен напречен шев между капсулите на I и II MTP, ваксация с тръбичка или спица.
+**Бойчев.** При леки степени на деформация, коригиращи се пасивно. Медиален надлъжен разрез от палеца до os naviculare, заобикалящ дорзалната екзостоза. Екстирпира се бурсата, отваря се MTP-1, резецира се екзостозата от ниво на разделящата я от главата бразда (по сагиталната равнина). Непосредствено под главата на метатарзалната кост се изрязва костен клин, отворен медиално (closing-wedge остеотомия) с подходяща големина за корекция на валгуса. Стабилизация — единичен напречен шев между капсулите на МТР-1 и МТР-2, фиксация с тръбичка или спица.
 
-Метод на Чоканов (модификация на Бойчев): вместо двойна остеотомия на метатарзалната кост, прави се клин в os cuneiforme mediale (opening-wedge medial cuneiform osteotomy); коригира варуса на I метатарзала, в отворения клин се поставя костно късче, изсечено от главата на метатарзалната кост.
+**Чоканов (модификация на Бойчев).** Вместо двойна остеотомия на метатарзалната кост, се прави opening-wedge клин в os cuneiforme mediale; в отворения клин се поставя костно късче, изсечено от главата на метатарзалната кост.
 
-Методът на McBride (1928): дъговиден надлъжен разрез по гърба на MTP-1; пресичане на сухожилието на дългия екстензор и шийката на I метатарзала; навлизане в I междуметатарзално пространство, дезинсерция на сухожилието на m. adductor hallucis от основата на проксималната фаланга и неговото пренасочване (модерният аналог — transfer на adductor hallucis към шийката на I метатарзала). Резекция на екзостозата и медиална капсулорафия. Сезамоидите се освобождават и репозиционират под главата.
+**McBride (1928).** Дъговиден надлъжен разрез по гърба на МТР-1; пресичане на сухожилието на дългия екстензор и шийката на М1; навлизане в I междуметатарзално пространство, дезинсерция на m. adductor hallucis от основата на проксималната фаланга и неговото пренасочване (модерен аналог — трансфер на adductor hallucis към шийката на М1). Резекция на екзостозата и медиална капсулорафия. Сезамоидите се освобождават и репозиционират под главата.
 
-Метод на Lelièvre — пет принципа: (1) запазване на дължината на I метатарзала и главата ѝ; (2) запазване на подвижността на MTP-1; (3) репозиция на латерално луксираните сезамоиди на нормално място; (4) ликвидиране на варуса на I метатарзала; (5) премахване на ротацията на палеца. Техниката включва дистална chevron или scarf остеотомия с латерал лизис, медиална капсулорафия и резекция на екзостозата.
+**Lelièvre — пет принципа.** (1) запазване на дължината на М1 и главата ѝ; (2) запазване на подвижността на МТР-1; (3) репозиция на латерално луксираните сезамоиди на нормално място; (4) ликвидиране на варуса на М1; (5) премахване на ротацията на палеца. Техниката включва дистална chevron или scarf остеотомия с латерален release, медиална капсулорафия и резекция на екзостозата.
 
-Метод на Keller-Brandes (1904): дорзо-медиален дъговиден разрез от дисталната трета на проксималната фаланга до MTP-кунеиформена става; капсулно ламбо; резекция на 1/3 до 1/2 на проксималната фаланга; резекция на екзостозата и остеофитите. Освобожденият палец позволява пасивна корекция на варуса; при много тежка деформация — допълнителна напречна остеотомия в основата на метатарзалната кост. Прилага се главно при възрастни с напреднала артроза на MTP-1 (hallux rigidus).
+**Keller-Brandes (1904).** Дорзо-медиален дъговиден разрез от дисталната трета на проксималната фаланга до МТР-кунеиформена става; капсулно ламбо; резекция на 1/3 до 1/2 на проксималната фаланга; резекция на екзостозата и остеофитите. Освободеният палец позволява пасивна корекция на варуса; при много тежка деформация — допълнителна напречна остеотомия в основата на метатарзалната кост. Прилага се главно при възрастни с напреднала артроза на МТР-1 (hallux rigidus).
 
-Силиконова артропластика по Swanson — едностъблена за ригиден умерен hallux valgus с относително запазена глава на метатарзалата; двустъблена за тежки ревматоидни деформации с латерално отклонение на пръстите, hallux valgus senilis или след неуспешни предишни операции, при които главата може да бъде жертвана.
+**Swanson силиконова артропластика.** Едностъблена за ригиден умерен hallux valgus с относително запазена глава на метатарзалата; двустъблена за тежки ревматоидни деформации с латерално отклонение на пръстите, hallux valgus senilis или след неуспешни предишни операции.
 
-Метод на Hoffmann (1912): при тежки ревматоидни деформации с луксации и странично отклонение на пръстите, омазолявания под главите на метатарзалните кости. Напречен плантарен или дорзален елипсовиден разрез на нивото на метатарзалните глави; резекция на главите на II–V метатарзални кости (или I–V в най-тежките случаи); резекция на сезамоидите и проксималните луксации; зашиване на кожата след отстраняването на излишния плантарен ламбо (по Fower).
+**Hoffmann (1912).** При тежки ревматоидни деформации с луксации и странично отклонение на пръстите. Напречен плантарен или дорзален елипсовиден разрез на нивото на метатарзалните глави; резекция на главите на М2–М5 (или М1–М5 в най-тежките случаи); резекция на сезамоидите и проксималните луксации; зашиване на кожата след отстраняването на излишния плантарен ламбо (по Fowler).
 
-## Корекция на чукообразни (hammer toe) и кокошообразни (claw toe) пръсти
+</div>
+</details>
 
-Методът на Taylor: 2.5 cm дорзо-латерален разрез от шийката на метатарзалната кост до DIP; излагане на екстензорната разтегл; дезинсерция на сухожилията на късия и дългия флексор и завиване дорзално около страничната повърхност на фалангата за пришиване към себе си — flexor-to-extensor трансфер по Girdlestone-Taylor.
+<details>
+<summary>Чукообразни, кокошоoбразни и quintus varus</summary>
+<div class="ts-body">
 
-Резекция на проксимална или средна интерфалангеална става (PIP arthroplasty) — техника на Du Vries: ексцизия на елипса от кожата над PIP; резекция на дисталния край на проксималната фаланга и насочване („peg") на дисталния край в гнездо в средната фаланга; фиксация с надлъжна Kirschner-спица. Прост и надежден вариант.
+**Girdlestone-Taylor.** 2,5 cm дорзо-латерален разрез от шийката на метатарзалната кост до DIP; излагане на екстензорната разтегл; дезинсерция на сухожилията на късия и дългия флексор и завиване дорзално около страничната повърхност на фалангата за пришиване към себе си — flexor-to-extensor трансфер.
 
-Корекция на плантарно-флексиран палец (hallux flexus) по Lapidus: широка капсулотомия на MTP-1, дезинсерция на дългия флексор на палеца и капсулотомия на навикуло-кунеиформена и кунео-метатарзална става. При повишена активност на m. tibialis anterior — Heyman трансфер на сухожилието по латералната страна.
+**PIP-артропластика по Du Vries.** Ексцизия на елипса от кожата над PIP; резекция на дисталния край на проксималната фаланга и насочване („peg") на дисталния край в гнездо в средната фаланга; фиксация с надлъжна Kirschner-спица.
 
-Корекция на вродена варусна деформация на V пръст (quintus varus) по Карчинов: латерален разрез по предната половина на ходилото и пръста; широка медиална и дорзална капсулотомия на MTP-5; премахване на ретракцията на екстензорния апарат; дезинсерция на абдуктора на V пръст и подкожен трансфер на дисталната част на екстензора през костен канал в основната фаланга за пасивна стабилизация. Алтернативно — техника на Lapidus с тенотомия на екстензора и трансфер през костен канал.
+**Hallux flexus по Lapidus.** Широка капсулотомия на МТР-1, дезинсерция на дългия флексор на палеца и капсулотомия на навикуло-кунеиформена и кунео-метатарзална става. При повишена активност на m. tibialis anterior — Meary-трансфер по латералната страна.
 
-## Корекция на metatarsus varus и спаднал напречен свод
+**Quintus varus по Карчинов.** Латерален разрез по предната половина на ходилото и пръста; широка медиална и дорзална капсулотомия на МТР-5; премахване на ретракцията на екстензорния апарат; дезинсерция на абдуктора на V пръст и подкожен трансфер на дисталната част на екстензора през костен канал в основната фаланга за пасивна стабилизация. Алтернатива — техника на Lapidus с тенотомия на екстензора и трансфер през костен канал.
 
-Корекция на metatarsus varus (педиатричен метатарзус адуктус) по Герчев — трисредно за деца 3–6 г, преди ригидизация. Етап I: медиален разрез от MTP-1 до върха на медиалния малеол; Z-удължаване на m. adductor hallucis; дезинсерция на m. tibialis anterior; капсулотомия на MTP-1 кунеиформената и кунео-навикуларната става. Етап II: латерален разрез; дезинсерция и косо прерязване на m. peroneus longus, реинсерция в по-дистална точка с напрежение. Етап III: фиксация на корекцията с Kirschner-спици.
+</div>
+</details>
 
-Метод на Heyman-Strong: широк дорзален напречен разрез или серия от паралелни надлъжни разрези в междуметатарзалните пространства; широки капсулотомии на тарзометатарзалните стави на 5-те метатарзални кости; пасивно коригиране на адуктуса и фиксация с две Kirschner-спици, по една през I и V метатарзала към медиотарзалните кости.
+<details>
+<summary>Корекция на metatarsus varus и спаднал напречен свод</summary>
+<div class="ts-body">
 
-Корекция на спадналия напречен свод по Camera (Ottavio Camera): надлъжен разрез по гърба на ходилото във второ междуметатарзално пространство; дезинсерция на дългия екстензор на II или III пръст в основата на пръста и трансфер чрез подкожен тунел и през канал в метатарзалната кост, пришита към себе си под напрежение. Често допълнен с трансфер на m. tibialis anterior за подсилване на конструкцията.
+**Герчев (българска школа) — тристадиен за деца 3–6 г.** Първи етап: медиален разрез от МТР-1 до върха на медиалния малеол; Z-удължаване на m. adductor hallucis; дезинсерция на m. tibialis anterior; капсулотомия на МТР-1, кунеиформената и кунео-навикуларната става. Втори етап: латерален разрез; дезинсерция и косо прерязване на m. peroneus longus, реинсерция в по-дистална точка с напрежение. Трети етап: фиксация на корекцията с Kirschner-спици.
 
-## Извънставна субталарна артрориза
+**Heyman-Strong.** Широк дорзален напречен разрез или серия от паралелни надлъжни разрези в междуметатарзалните пространства; широки капсулотомии на тарзометатарзалните стави на 5-те метатарзални кости; пасивно коригиране на адуктуса и фиксация с две Kirschner-спици, по една през М1 и М5 към медиотарзалните кости.
 
-Освен класическата артродеза на Grice-Green и метода на Chambers, в съвременната практика се прилага артрорезис с имплант — конусен метален или биодостъпен болт (Maxwell-Brancheau, MBA), въведен през sinus tarsi, който блокира еверзията на калканеуса и стабилизира медиалната дъга при педиатричен флексибилен плановалгус. Резултатите са трайни при правилно подбран пациент; при болка или сврастване — отстраняване на импланта след 18–24 месеца.
+**Camera (Ottavio Camera) за спаднал напречен свод.** Надлъжен разрез по гърба на ходилото във второ междуметатарзално пространство; дезинсерция на дългия екстензор на II или III пръст в основата на пръста и трансфер чрез подкожен тунел и през канал в метатарзалната кост, пришита към себе си под напрежение. Често допълнен с трансфер на m. tibialis anterior за подсилване на конструкцията.
 
-## Ампутации в ходилото
+</div>
+</details>
+
+<details>
+<summary>Ампутации в ходилото (Sharp, Chopart, Lisfranc, Syme, Пирогов)</summary>
+<div class="ts-body">
 
 Класическите ампутации в ходилото изграждат функционален остатъчен крайник с дорзално и плантарно кожно ламбо, при което плантарното винаги е по-дълго и покрива цялата опорна повърхност на чукана.
 
-Ампутация на пръст (амтутация по фалангеална линия или екзартикулация по метатарзо-фалангеалната става): две кожни ламба, по-дълго плантарно; прерязване на сухожилията на екстензори и флексори с обработка на нерва на по-високо ниво (за избягване на neuroma).
+**Пръстова ампутация.** Две кожни ламба, по-дълго плантарно; прерязване на сухожилията на екстензори и флексори с обработка на нерва на по-високо ниво (за избягване на неврома).
 
-Ампутация на отделна метатарзална кост: ракетовидно ламбо с по-дълга дръжка по гърба на ходилото; отпрепариране и прерязване на сухожилията при дисталното им изтегляне; ниско отрязване на нерва.
+**Единична метатарзална кост.** Ракетовидно ламбо с по-дълга дръжка по гърба на ходилото; отпрепариране и прерязване на сухожилията при дистално изтегляне; ниско отрязване на нерва.
 
-Трансметатарзална ампутация по Sharp: правят се по-дълги плантарни ламба за покриване на чукана; метатарзалните кости се срязват напречно на ниво, осигуряващо опорна и баланс (обикновено в проксимална трета). Постаранна обработка с шина и постепенно протезиране.
+**Трансметатарзална по Sharp.** По-дълги плантарни ламба за покриване на чукана; метатарзалните кости се срязват напречно на ниво, осигуряващо опорна и баланс (обикновено в проксималната трета). Постоперативна обработка с шина и постепенно протезиране.
 
-Дезартикулация по Chopart (между костите на медиотарзуса и тарзуса): отнема функцията на дорзо-флексорите при запазена ахилесова инсерция, поради което остатъчното ходило прогресивно изпада в еквинусна деформация. Технически достъп — напречен разрез по проекцията на ставата на Chopart; отваряне на тала-навикуларната и калканео-кубоидната става; срязване на капсулите и плантарните лигаменти. Препоръчва се едновременна транспозиция на ахилеса напред към шийката на talus за неутрализация (Boyd добавя артродеза на talo-calcaneal за допълнителна стабилност). Поради риска от еквинус и плантарни язви, Chopart често се изоставя в полза на трансметатарзална или Syme.
-
-Дезартикулация по Lisfranc (между тарзалните и метатарзалните кости): по принципа на Hey-Lisfranc, с по-дълго плантарно ламбо; прерязване на ligamentum Lisfranci и резекция на основата на II метатарзала ако се запазва.
+**Дезартикулация по Chopart** (между костите на медиотарзуса и тарзуса). Отнема функцията на дорзо-флексорите при запазена ахилесова инсерция, поради което остатъчното ходило прогресивно изпада в еквинусна деформация. Технически достъп — напречен разрез по проекцията на ставата на Chopart; отваряне на тала-навикуларната и калканео-кубоидната става; срязване на капсулите и плантарните лигаменти. Препоръчва се едновременна транспозиция на ахилеса напред към шийката на talus за неутрализация (Boyd добавя артродеза на talo-calcaneal за допълнителна стабилност). Поради риска от еквинус и плантарни язви Chopart често се изоставя в полза на трансметатарзална или Syme.
 
 <figure class="md-figure">
   <button class="md-figure-zoom" type="button" data-figure-src="/img/anatomy-11/lisfranc-line.png" data-figure-alt="Линията на Lisfranc — рентгенов анализ" aria-label="Увеличи">
     <img src="/img/anatomy-11/lisfranc-line.png" alt="Линията на Lisfranc — рентгенов анализ" loading="lazy" decoding="async" />
   </button>
   <figcaption>
-    <span class="md-figure-caption">Анатомия на Lisfranc-ставата: медиалният ръб на II метатарзала трябва да съвпада с медиалния ръб на интермедиалното cuneiforme и латералният ръб на IV метатарзала — с латералния ръб на cuboid. Всяко изместване над 2 mm налага репозиция и фиксация. Класическо лечение на Lisfranc-нараняване: ORIF с винтове или мостовидна плака (Eisenstadt), при тежки случаи — първична артродеза.</span>
+    <span class="md-figure-caption">Анатомия на Lisfranc-ставата: медиалният ръб на М2 трябва да съвпада с медиалния ръб на интермедиалното cuneiforme, а латералният ръб на М4 — с латералния ръб на cuboid. Всяко изместване над 2 mm налага репозиция и фиксация. Класическо лечение на Lisfranc-нараняване: ORIF с винтове или мостовидна плака, при тежки случаи — първична артродеза.</span>
     <span class="md-figure-attribution"> · James Heilman, MD, <a href="https://commons.wikimedia.org/wiki/File:LisFranc_line.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
   </figcaption>
 </figure>
 
-Презгленна ампутация по Syme (1842): основно условие — кожата по плантарната повърхност на петата трябва да е напълно запазена и кръвоснабдена. Кожният разрез започва от един от малеолите, заобикаля петата от плантарно и завършва на върха на другия; от тук завива по предната повърхност на глезенната става и се съединява с началото. Отваря се предната половина на ставата; ходилото се дава в максимална плантарна флексия и глезенната става се отваря панорамно; последователно се прерязват ligamentum talofibulare, deltoid и ahилесът на калканеуса. Ходилото се отстранява заедно с talus и calcaneus, като се запазва кожно-мастното петно с пълно кръвоснабдяване от плантарни клонове на a. tibialis posterior. Двата малеола се срязват напречно в основите си, така че от ставната повърхност на тибията да остане малко поле с хрущял. Кожният ламбо се премята нагоре и напред и се пришива към върха на предното ламбо. Алтернативната „висока" ампутация по Syme резецира тибията над ставната повърхност. Сайм е удобна, надеждна и осигурява крайник с естествена опора на петата при протезиране — стандарт при диабетна гангрена на форефута с интактна плантарна циркулация и при тежки конгенитални деформитети.
+**Дезартикулация по Lisfranc** (между тарзалните и метатарзалните кости). По принципа на Hey-Lisfranc, с по-дълго плантарно ламбо; прерязване на ligamentum Lisfranci и резекция на основата на М2 ако се запазва.
 
-Класическата ампутация по Pirogoff (1854) — иконична руска техника: ходилото се ампутира на нивото на глезена, но петата (заедно със задната половина на calcaneus) се запазва и се завърта вертикално срещу резецираната тибия за костно сливане. Постига функционален остатъчен крайник с естествена опорна повърхност на петата; в съвременната практика се прилага рядко, но остава част от руско-съветското ортопедично наследство.
+**Презглезенна ампутация по Syme (1842).** Основно условие — кожата по плантарната повърхност на петата трябва да е напълно запазена и кръвоснабдена. Кожният разрез започва от един от малеолите, заобикаля петата от плантарно и завършва на върха на другия; от тук завива по предната повърхност на глезенната става и се съединява с началото. Отваря се предната половина на ставата; ходилото се дава в максимална плантарна флексия и глезенната става се отваря панорамно; последователно се прерязват ligamentum talofibulare, делтоид и ахилесът на калканеуса. Ходилото се отстранява заедно с talus и calcaneus, като се запазва кожно-мастното петно с пълно кръвоснабдяване от плантарни клонове на a. tibialis posterior. Двата малеола се срязват напречно в основите си, така че от ставната повърхност на тибията да остане малко поле с хрущял. Кожният ламбо се премята нагоре и напред и се пришива към върха на предното ламбо. Алтернативната „висока" Syme резецира тибията над ставната повърхност. Стандарт при диабетна гангрена на форефута с интактна плантарна циркулация и при тежки конгенитални деформитети.
 
-## Спинална и периферна анестезия в стъпалната хирургия
+**Пирогов (1854) — иконичен руски остеопластичен.** Ходилото се ампутира на нивото на глезена, но петата (заедно със задната половина на calcaneus) се запазва и се завърта вертикално срещу резецираната тибия за костно сливане. Постига функционален остатъчен крайник с естествена опорна повърхност на петата; в съвременната практика се прилага рядко, но остава част от руско-съветското ортопедично наследство.
 
-Класическата „ankle block" анестезия (блокада на n. tibialis posterior зад медиалния малеол, n. peroneus superficialis подкожно по предната глезенна линия, n. peroneus profundus дълбоко между сухожилията на m. tibialis anterior и m. extensor hallucis longus, n. saphenus подкожно медиално и n. suralis подкожно постеролатерално) е стандартна за дистална стъпална хирургия. Българската традиция предпочита спинална или епидурална анестезия при артродези, тройни артродези и Syme; ankle block — при hallux valgus, hammer toes, ungius incarnatus и при възрастни с високо анестезиологично рисково.
+</div>
+</details>
 
-## Лечение на unguis incarnatus
+<details>
+<summary>Лечение на unguis incarnatus (Хаджистамов)</summary>
+<div class="ts-body">
 
-При unguis incarnatus (израстващ навътре нокът) — пълно или частично премахване на нокътната плочка. При пълно: подкопаване на нокътя с жлебова сонда, ножица или друг инструмент и издърпване с Kocher; кюртаж на гранулациите; стерилна мазева превръзка. При частично: подкопаване на израстъчната част с инструмент; надлъжно прерязване на нокътната плочка и отстраняване на нея; кюртаж на гранулациите; еднократен шев за затваряне на кухината и стерилна превръзка. Подобрената техника на Хаджистамов оформя триъгълно кожно ламбо в основата на нокътя, което след кюртаж на гранулациите се връща обратно на мястото и се пришива с отделни конци — намалява честотата на рецидиви.
+При unguis incarnatus (израстващ навътре нокът) — пълно или частично премахване на нокътната плочка. При пълно: подкопаване на нокътя с жлебова сонда, ножица или друг инструмент и издърпване с Kocher; кюретаж на гранулациите; стерилна мазева превръзка. При частично: подкопаване на израстъчната част с инструмент; надлъжно прерязване на нокътната плочка и отстраняване на нея; кюретаж на гранулациите; еднократен шев за затваряне на кухината и стерилна превръзка.
 
-## Източници и класическа литература
+**Подобрената техника на Хаджистамов** оформя триъгълно кожно ламбо в основата на нокътя, което след кюртаж на гранулациите се връща обратно на мястото и се пришива с отделни конци — намалява честотата на рецидиви.
 
-Класическата хирургична анатомия на глезена и стъпалото почива на Pott (1768) за mortise и фрактурата-луксация на глезена; Пирогов (1854) за остеопластичната ампутация на глезена, която запазва носещата способност на петата; и Хофа (1905) за стандартните ортопедични операции на стъпалото от епохата. Chauliac (1363) предоставя средновековния речник за стъпалото.
+</div>
+</details>
 
-- **Pott** (1768): *Some Few General Remarks on Fractures and Dislocations* — ankle mortise. · [Факсимиле](https://archive.org/details/b30549188)
-- **Хофа** (1905): *Lehrbuch der orthopädischen Chirurgie*. · [Факсимиле](https://archive.org/details/lehrbuchderortho00hoff)
-- **Chauliac** (1363): *Chirurgia magna* — средновековно стъпало. · [Факсимиле](https://archive.org/details/chirurgiamagnagu00guyd)
+<details>
+<summary>Анестезия за стъпална хирургия</summary>
+<div class="ts-body">
 
-## Обобщение и ключови изводи
+**Ankle block.** Блокада на n. tibialis posterior зад медиалния малеол, n. peroneus superficialis подкожно по предната глезенна линия, n. peroneus profundus дълбоко между сухожилията на m. tibialis anterior и m. extensor hallucis longus, n. saphenus подкожно медиално и n. suralis подкожно постеролатерално. Стандарт за дистална стъпална хирургия (hallux valgus, hammer toes, unguis incarnatus) и при възрастни с високо анестезиологично рискове.
 
-Глезенът и стъпалото предлагат широко разнообразие от оперативни достъпи, всеки от тях съобразен с конкретната регионална патология. Предният достъп към глезена използва интервала между musculus tibialis anterior и EHL/EDL, ретрахирайки съдовете на arteria tibialis anterior и nervus peroneus profundus латерално. Антеролатералният достъп е стандартен при пилон-фрактури, между EHL/EDL и musculus peroneus tertius. Постеролатералният достъп с защита на nervus suralis осигурява достъп до задния малеол и задния пилон. Медиалният достъп се използва при остеосинтеза на медиалния малеол, освобождаване на тарзалния канал и интервенции по хода на musculus tibialis posterior.
+**Поплитеална или спинална/епидурална.** Българската традиция предпочита спинална или епидурална анестезия при артродези, тройни артродези и Syme; поплитеална блокада за по-проксимална глезенна хирургия с продължителен следоперативен ефект.
 
-Достъпът sinus tarsi до голяма степен изтласка разширения латерален достъп при остеосинтеза на калканеусни фрактури, с чувствително по-ниска честота на усложнения от раната. Дорзалните достъпи към стъпалото за процедури в предното стъпало трябва да избягват клоновете на nervus peroneus superficialis и arteria dorsalis pedis. Медиалните и латерални достъпи към стъпалото осигуряват достъп до съответните колони на средното стъпало. Фасциотомията на стъпалото чрез дорзални разрези освобождава многобройните компартменти при компартмент синдром.
+</div>
+</details>
 
-Основните съдово-нервни структури включват arteria tibialis anterior и nervus peroneus profundus (преден глезен, продължаващи се като arteria dorsalis pedis и nervus peroneus profundus в стъпалото), arteria tibialis posterior и nervus tibialis в тарзалния канал (медиален глезен), nervus peroneus superficialis (подкожно по гърба на стъпалото), nervus suralis (подкожно постеролатерално) и nervus saphenus (медиално).
+</div>
+</details>
 
-От класическата българска и руска ортопедична школа в хирургията на глезена и ходилото си струва да се запомнят: задните транс-ахилерни и бималеоларни достъпи на Бойчев и Холевич; класическите артродези на глезена (Charnley с външна компресия, Putti, Crawford-Adams, Adams open, Blair при таларна загуба); компресивната артродеза по Müller и Кацаров; класическата тройна артродеза (Lambrinudi, Dunn, Hoke, Ryerson) и нейните руски модификации (Недригайлова, Новаченко-Николаев); метода на Codivilla, Зацепин, Герчев и Кацаров за вроден pes equino-varus; етапната корекция по Stöffel; класическата корекция на pes plano-valgus (Lowman, Miller-Hoke, Lelièvre, Chambers, Карчинов-Young) и Grice-Green извънставната субталарна артродеза; корекцията на pes cavus (Куслик, Lefèvre, Cole, Steindler stripping, Dwyer калканеална остеотомия); хирургията на латералната нестабилност (Watson-Jones, Chrisman-Snook, Брострьом-Гулд, Копчев); съхожилно-мускулните трансфери (m. tibialis posterior напред, Чаклин-Каплан, Холевич предна тенодеза, Бойчев задна тенодеза с скъсяване на ахилеса, Зацепин задна тенодеза); удължаването на ахилеса (Z-открит, Hoke перкутанен, White непълно прерязване, Strayer гастрокнемиус рецесия, Silfverskiöld); невректомия на n. tibialis по Phelps и Stoffel при спастична еквинусна деформация; класическата корекция на hallux valgus (Бойчев, Чоканов, McBride, Lelièvre, Keller-Brandes, Swanson silikoн, Hoffmann при ревматоиден); резекциите по Sharp, Chopart, Lisfranc, Syme и Pirogoff; и техниката на Хаджистамов при unguis incarnatus. Тази класическа база остава релевантна както за разбирането на еволюцията на стъпалната хирургия, така и за съвременната практика в български условия.
+</div>
+</details>
+</section>
 
-Следващата и последна глава разглежда педиатричната кост, последния анатомичен раздел на учебната програма.
+
+
+## Усложнения и резултати
+<!-- toc-h2 -->
+<section class="topic-section" id="outcomes">
+<details>
+<summary>Усложнения и резултати</summary>
+<div class="ts-body">
+
+**Меко-тъканни усложнения.** Разрушаване на раната (5–25%) при разширения латерален достъп към калканеуса — намалено до < 5% при sinus tarsi достъп; некроза на ламбо при бималеоларен достъп по Холевич (1–3%); инфекция на повърхностна или дълбока рана (1–4% за елективни процедури, до 10% при отворени фрактури).
+
+**Нервни увреди.** N. suralis (постеролатерален достъп и латерален Кохер); n. peroneus superficialis (преден и антеролатерален достъп към глезена и дорзален към стъпалото); n. saphenus (медиален достъп); медиален и латерален плантарни нерви (плантарни инцизии, освобождаване на тарзалния канал); калканеален клон на n. tibialis (Baxter) — често пропускан източник на болка след калканеална хирургия.
+
+**Съдови усложнения.** A. tibialis anterior и a. dorsalis pedis (преден и дорзален достъпи); a. tibialis posterior (медиален и тарзален канал); a. canalis tarsi — увреда при шийкови фрактури на talus → AVN на corpus tali (20–100% по Hawkins).
+
+**Артродезни усложнения.** Псевдоартроза 5–15% при тибио-таларна артродеза, по-висока при пушачи и при ревматоиден артрит; адаптивна артроза в съседните стави (субталарна, средно-тарзални) 5 години след тибио-таларна артродеза; малалинейност (варус/валгус на пета, преден или заден транслационен offset на talus) → стрес-фрактури на М5, болка в основата на петата, genu recurvatum.
+
+**Артропластични усложнения.** Аседентна перипростетична загуба при тотална глезенна артропластика (20–40% преживяемост на импланта на 10 години в исторически серии; > 80% при съвременните дизайни); остеолиза, инфекция, луксация.
+
+**Корекция на деформации.** Рекурентен клубфут (5–20% при Ponseti, по-високо при мек-тъканна релизна хирургия); рекурентен hallux valgus при недостатъчна корекция на IMA; малалинейност на форефута след тройна артродеза (варус, фиксиран еквинус); постартрозен AVN на talus след тройна артродеза с резекция на шийката.
+
+**Системни усложнения.** Тромбо-емболични (ВТЕ) — повишен риск при имобилизация и при операции в глезена; стандартна тромбопрофилактика при гипсова имобилизация над 7 дни и при оперативна интервенция със следоперативна имобилизация.
+
+</div>
+</details>
+</section>
+
+
+
+## Местни приноси
+<!-- toc-h2 -->
+<section class="topic-section" id="bulgarian">
+<details>
+<summary>Местни приноси</summary>
+<div class="ts-body">
+
+**Бойчо Бойчев <sup class="natflag">BG</sup> (1908–1992).** Създател на ортопедична школа в България; УСБАЛО „Проф. Бойчо Бойчев" в Горна баня носи името му. Тритомната *Оперативна ортопедия и травматология* (София) остава референция в курикулума и съдържа подробни описания на класическите достъпи и операции в областта на глезена и стъпалото, включително парахилерния заден достъп, корекцията на hallux valgus с медиален closing-wedge и задната тенодеза със скъсяване на ахилеса.
+
+**Янаки Холевич <sup class="natflag">BG</sup>.** Бималеоларен достъп с двойна оstеотомия на двата малеола — широка панорамна експозиция на тало-круралната става за тотална артропластика, туморна резекция на talus и сложни артродези. Предна тенодеза по Холевич — трансфер на m. peroneus brevis, longus и m. tibialis anterior напред с пришиване в предно-тибиален разрез.
+
+**Бойчев-Холевич <sup class="natflag">BG</sup>.** Трансахилерен заден достъп със Z-образно прерязване във фронталната равнина и навлизане през пространството на Kager между m. flexor hallucis longus и mm. peronei — българската класическа максимална задна експозиция.
+
+**Иван Кацаров <sup class="natflag">BG</sup>.** Медиален достъп към calcaneus за медиализираща калканеална остеотомия; компресивна тройна артродеза с външен фиксатор и спици на Kirschner с дозирана компресия и натоварване от 5–6 ден; класически метод на корекция на рецидивиращ pes equino-varus с апарат на Илизаров.
+
+**Г. Икономов <sup class="natflag">BG</sup>.** Техника на остеосинтеза на шийкови фрактури на talus с комбинация от винт и спица от медиално-дистално към дорзално в trochlea — щади медиалните и плантарните хранителни клонове на a. tibialis posterior.
+
+**Бойчев и Чоканов <sup class="natflag">BG</sup>.** Бойчев — закриваща клиновидна остеотомия в основата на М1 за корекция на hallux valgus при леки степени с пасивна корекция. Чоканов — opening-wedge остеотомия на os cuneiforme mediale с късче от главата на М1 като интерпозиция; модификация на Бойчев за умерени до тежки IMA.
+
+**Карчинов <sup class="natflag">BG</sup>.** Български приноси: техника на quintus varus с трансфер на дисталната част на екстензора през костен канал в основната фаланга; модификация на метода на Young за плосковалгусна стъпка — трансфер на m. tibialis anterior под m. tibialis posterior.
+
+**Герчев <sup class="natflag">BG</sup>.** Четиристадиен медиално-латерален релиз на pes equino-varus с прерязване на задните латерални връзки за репозиция на talus в глезенната вилка; тристадийна корекция на metatarsus varus при деца 3–6 г.
+
+**Хаджистамов <sup class="natflag">BG</sup>.** Подобрена техника при unguis incarnatus с триъгълно кожно ламбо в основата на нокътя, върнато и пришито след кюртаж на гранулациите — намалява честотата на рецидиви.
+
+**Копчев <sup class="natflag">BG</sup>.** Българска техника за хронична латерална нестабилност с използване на ламбо от ахиловото сухожилие и реконструкция на CFL и ATFL през тунели в латералния малеол и калканеуса.
+
+**В. Д. Чаклин <sup class="natflag">RU</sup>.** Тенодеза на екстензорите през напречен канал в тибията (два канала един над друг); комбинирана техника на pes cavus (два дорзални разреза по гърба, дорзално отворен клин през ставата на Chopart); транспозиция на двата плантарни флексора (Чаклин-Каплан).
+
+**Зацепин <sup class="natflag">RU</sup>.** Иконичен руски/съветски стандарт за корекция на вроден pes equino-varus през вертикален разрез на медиалния малеол със Z-удължаване на m. tibialis posterior и FDL и широко отваряне на медиалните стави; задна тенодеза с ламбо от медиалната половина на ахилеса през канал в медиалния малеол.
+
+**Недригайлова и Новаченко-Николаев <sup class="natflag">RU</sup>.** Руски модификации на тройната артродеза с различни ориентации на клиновете.
+
+**Vainio, Джанелидзе, Иванов <sup class="natflag">RU</sup>.** Панталарна артродеза с изваждане на talus, изрязване на целия хрущял и връщане като свободен присадък.
+
+**Н. Пирогов <sup class="natflag">RU</sup> (1854).** Остеопластична ампутация на ниво глезен със запазване на петата (задната половина на calcaneus) и нейното завъртане вертикално срещу резецираната тибия — функционален остатъчен крайник с естествена опорна повърхност на петата.
+
+</div>
+</details>
+</section>
+
+
+
+## Класически източници
+<!-- toc-h2 -->
+<section class="topic-section" id="classical">
+<details>
+<summary>Класически източници</summary>
+<div class="ts-body">
+
+<aside class="callout callout-classical">
+  <strong>Класическа линия — глезенна и стъпална хирургия</strong>
+  <p>Хирургията на глезена и стъпалото в съвременния си смисъл стъпва на наследството на Pott (1768) за глезенната вилка и фрактурата-луксация на глезена; на Pirogov (1854) за остеопластичната ампутация, запазваща носещата способност на петата; и на Hoffa (1905) за стандартните ортопедични операции от епохата. Codivilla (1906) поставя началото на оперативната корекция на клубфут; Hoke (1921, 1931), Dunn (1922) и Lambrinudi (1927) дефинират класическата тройна артродеза; Steindler въвежда дезинсерционната концепция в корекцията на pes cavus; Watson-Jones, Chrisman-Snook и Brostrom-Gould формират еволюцията на хирургията на латералната нестабилност; Charnley (1951) и Müller (1977) — на компресивната артродеза.</p>
+  <ul>
+    <li><strong>Pott 1768</strong> — *Some Few General Remarks on Fractures and Dislocations* — глезенна вилка (<a href="https://archive.org/details/b30549188">Факсимиле</a>).</li>
+    <li><strong>Pirogov 1854</strong> — *Klinische Chirurgie* — остеопластична ампутация на глезен.</li>
+    <li><strong>Hoffa 1905</strong> — *Lehrbuch der orthopädischen Chirurgie* (<a href="https://archive.org/details/lehrbuchderortho00hoff">Факсимиле</a>).</li>
+    <li><strong>Codivilla 1906</strong> → <strong>Зацепин</strong> → <strong>Ponseti 1963</strong> → <strong>Кацаров</strong> — еволюция на корекцията на клубфут от отворена релизна процедура през серийни гипсове и тенотомия до апаратна дистракция.</li>
+    <li><strong>Hoke 1921 / Dunn 1922 / Lambrinudi 1927 / Ryerson 1923</strong> — класическа тройна артродеза и нейните модификации.</li>
+    <li><strong>Charnley 1951</strong> → <strong>Müller 1977</strong> → <strong>Илизаров 1980-те</strong> — компресивна глезенна артродеза.</li>
+  </ul>
+</aside>
+
+Класически дескрипции по достъп и процедура: Pott 1768 (mortise); Pirogov 1854 (остеопластична ампутация); Syme 1842 (презглезенна ампутация); Hoffa 1905 (ортопедична хирургия на стъпалото); Codivilla 1906 (клубфут); Hoke 1921 (тройна артродеза); Dunn 1922 (тройна артродеза); Ryerson 1923 (модифицирана тройна); Silfverskiöld 1923 (двуставен gastrocnemius); Lambrinudi 1927 (паралитично еквинусно стъпало); McBride 1928 (hallux valgus); Hoke 1931 (TAL, pes plano-valgus); Steindler (плантарна дезинсерция); Watson-Jones (странична нестабилност); Strayer 1950 (гастрокнемиус-рецесия); Charnley 1951 (компресивна артродеза); Grice-Green 1952 (извън-ставна субталарна артродеза); Schwartz 1946, Barr-Record 1953, Chuinard-Petersen 1963, Crawford-Adams (артродеза на глезена); Dwyer 1959 (калканеална остеотомия); Heim 1964 (синдесмоза); Brostrom 1966 → Gould (странична нестабилност); Chrisman-Snook 1969 (странична нестабилност); Müller 1970 (пилон-фрактури); Hawkins 1970 (класификация на шийкови фрактури); Mulfinger-Trueta 1970 (кръвоснабдяване на talus); Buechel-Pappas 1973 (глезенна артропластика); Letournel-Benirschke (разширен латерален към калканеуса).
+
+Допълнителни класически референции: **Sarrafian** (1983, 3rd ed. 2015) — *Anatomy of the Foot and Ankle* (LWW); **Hollinshead** (6th ed. 1991) — *Functional Anatomy of the Limbs and Back* (Saunders); **Mann's Surgery of the Foot and Ankle** (Coughlin, Saltzman, Anderson, 2013, 9th ed.) — оперативна референция; **Hoppenfeld & deBoer** (5th ed. 2017) — *Surgical Exposures in Orthopaedics*; **Netter's Concise Orthopaedic Anatomy** (2nd ed. 2015) — бърза справка.
+
+</div>
+</details>
+</section>
+
+
+
+## Препоръчителна литература
+<!-- toc-h2 -->
+<section class="topic-section" id="literature">
+<details>
+<summary>Препоръчителна литература</summary>
+<div class="ts-body">
+
+1. **Kelikian AS, Sarrafian SK.** *Sarrafian's Anatomy of the Foot and Ankle: Descriptive, Topographic, Functional.* 3rd ed. Philadelphia: Wolters Kluwer; 2015. ISBN 978-0-7817-9750-4. — *Дефинитивната монография за хирургичната анатомия на глезена и стъпалото; единичен авторитетен източник за кръвоснабдяването на talus (a. canalis tarsi, a. sinus tarsi, делтоиден клон), за фасциалните компартменти на ходилото, за лигаментния комплекс на Lisfranc и на Chopart, и за всички количествени серии (Bohler, HVA, IMA, DMAA).*
+2. **Coughlin MJ, Saltzman CL, Anderson RB, eds.** *Mann's Surgery of the Foot and Ankle.* 9th ed. Philadelphia: Saunders/Elsevier; 2013. ISBN 978-0-323-07242-7. — *Оперативната двутомна референция; глави за оперативна анатомия, hallux valgus (всички класически и модерни остеотомии), pes plano-valgus и PTTD, тройна артродеза, тотална глезенна артропластика.*
+3. **Hoppenfeld S, deBoer P, Buckley R.** *Surgical Exposures in Orthopaedics: The Anatomic Approach.* 5th ed. Philadelphia: Wolters Kluwer; 2017. ISBN 978-1-4963-0947-1. — *Стандартното оперативно ръководство с диаграматични илюстрации на интернервните плоскости и стъпковата техника за предни, антеролатерални, постеролатерални, медиални, sinus tarsi и разширени латерални достъпи; основен учебник за резидентската подготовка.*
+4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Класическа дескриптивна анатомия с акцент върху функционалните отношения; референция за плантарните компартменти и за тарзалния канал.*
+5. **Thompson JC.** *Netter's Concise Orthopaedic Anatomy.* 2nd ed. Updated. Philadelphia: Saunders/Elsevier; 2015. ISBN 978-0-323-43043-2. — *Бърза илюстрирана справка за тарзалния канал, sinus tarsi, лигаментите на глезена и стъпалото и за основните оперативни достъпи.*
+6. **Бойчев Б, ред.** *Оперативна ортопедия и травматология* (тритомник; София). — *Класическият учебник на българската ортопедична школа; глави за глезенна и стъпална хирургия, които определят терминологията и оперативната тактика в българския курикулум — Бойчев-Холевич, Кацаров, Икономов, Чоканов, Карчинов, Герчев, Хаджистамов, Копчев.*
+
+</div>
+</details>
+</section>
+
+<script is:inline>
+  /* V4 anatomy-11: open the target <details> when the page loads with a hash
+     or when the reader clicks an in-page anchor. */
+  (function () {
+    function openByHash(hash) {
+      if (!hash) return;
+      var id = hash.replace(/^#/, "");
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      if (el.tagName === "DETAILS") el.open = true;
+      var inner = el.querySelector(":scope > details");
+      if (inner) inner.open = true;
+      var node = el.parentElement;
+      while (node && node !== document.body) {
+        if (node.tagName === "DETAILS") node.open = true;
+        node = node.parentElement;
+      }
+      requestAnimationFrame(function () {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+    function wire() {
+      openByHash(window.location.hash);
+      document.addEventListener("click", function (e) {
+        var t = e.target;
+        while (t && t !== document) {
+          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
+            openByHash(t.getAttribute("href"));
+            break;
+          }
+          t = t.parentNode;
+        }
+      });
+      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wire);
+    } else {
+      wire();
+    }
+  })();
+</script>

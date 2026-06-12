@@ -1037,9 +1037,12 @@ html[data-theme="dark"] .btn-viber:hover {
   border-left: 3px solid var(--accent);
   background: color-mix(in srgb, var(--accent) 6%, transparent);
   border-radius: 0 8px 8px 0;
-  display: grid;
-  gap: 0.35rem;
+  /* display: block so V3 inline-strong markup (<strong>NB</strong> — text)
+     flows on one line; legacy V2 markup (block-level span+p children) still
+     renders fine because the children are block elements. */
+  display: block;
 }
+.prose .callout > .callout-label + p { margin-top: 0.35em; }
 .prose .callout p {
   margin: 0;
   font-size: 0.98rem;
@@ -1103,6 +1106,171 @@ html[data-theme="dark"] .btn-viber:hover {
     border-left-width: 2px;
     page-break-inside: avoid;
   }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   V3 textbook-style inline callouts
+   Added 2026-06-12 for V3 template. Used as scattered inline annotations
+   anchored next to the prose they comment on:
+     <aside class="callout callout-cave">
+       <strong>Cave</strong> — One-sentence pitfall.
+     </aside>
+   The <strong> at the start renders as a small uppercase eyebrow label in
+   the callout's tint colour; the rest of the line is body prose.
+   ───────────────────────────────────────────────────────────────────────── */
+.prose .callout > strong:first-child {
+  font-size: var(--fs-eyebrow);
+  font-weight: 700;
+  letter-spacing: var(--tracking-eyebrow);
+  text-transform: uppercase;
+  color: var(--accent);
+  display: inline;
+  margin-right: 0.35em;
+}
+/* Pearl — explicit green (V3 spec: "green left border, ★ icon"), distinct
+   from the site accent teal which renders too similar in dark mode. */
+.prose .callout-pearl {
+  --pearl: #1F8A4F;
+  border-left-color: var(--pearl);
+  background: color-mix(in srgb, var(--pearl) 6%, transparent);
+}
+.prose .callout-pearl > strong:first-child { color: var(--pearl); }
+[data-theme="dark"] .prose .callout-pearl { --pearl: #5AB582; }
+
+/* Cave — yellow/amber, distinct from the orange callout-pitfall */
+.prose .callout-cave {
+  --cave: #B58105;
+  border-left-color: var(--cave);
+  background: color-mix(in srgb, var(--cave) 7%, transparent);
+}
+.prose .callout-cave > strong:first-child { color: var(--cave); }
+[data-theme="dark"] .prose .callout-cave { --cave: #E0AC3F; }
+
+/* Anatomic warning — red, for "avoid this nerve / vessel" critical structures */
+.prose .callout-anatomic-warning {
+  --awarn: #B22222;
+  border-left-color: var(--awarn);
+  background: color-mix(in srgb, var(--awarn) 7%, transparent);
+}
+.prose .callout-anatomic-warning > strong:first-child { color: var(--awarn); }
+[data-theme="dark"] .prose .callout-anatomic-warning { --awarn: #E66A6A; }
+
+/* Key concepts — light blue, for definitions and orienting principles */
+.prose .callout-key-concepts {
+  --kc: #2766B5;
+  border-left-color: var(--kc);
+  background: color-mix(in srgb, var(--kc) 7%, transparent);
+}
+.prose .callout-key-concepts > strong:first-child { color: var(--kc); }
+[data-theme="dark"] .prose .callout-key-concepts { --kc: #6BA0E0; }
+
+/* V4 — NB callout (green, no glyph) with bullet-list support.
+   Replaces the V3 ★ "pearl" glyph; bullet markers tinted to the NB hue. */
+.prose .callout-nb {
+  --nb: #1F8A4F;
+  border-left-color: var(--nb);
+  background: color-mix(in srgb, var(--nb) 6%, transparent);
+}
+.prose .callout-nb > strong:first-child { color: var(--nb); }
+[data-theme="dark"] .prose .callout-nb { --nb: #5AB582; }
+.prose .callout-nb ul {
+  margin: 0.5em 0 0 1.3em;
+  padding: 0;
+  list-style: disc outside;
+}
+.prose .callout-nb ul li::marker { color: var(--nb); }
+.prose .callout-nb ul li {
+  margin: 0.35em 0;
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+/* V4 — Cave callout extended for bullet-list support. */
+.prose .callout-cave ul {
+  margin: 0.5em 0 0 1.3em;
+  padding: 0;
+  list-style: disc outside;
+}
+.prose .callout-cave ul li::marker { color: var(--cave); }
+.prose .callout-cave ul li {
+  margin: 0.35em 0;
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+/* V4 — Anatomic warning callout extended for bullet-list support. */
+.prose .callout-anatomic-warning ul {
+  margin: 0.5em 0 0 1.3em;
+  padding: 0;
+  list-style: disc outside;
+}
+.prose .callout-anatomic-warning ul li::marker { color: var(--awarn); }
+.prose .callout-anatomic-warning ul li {
+  margin: 0.35em 0;
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+/* V4 — Note callout (neutral blue, for definitions / orienting facts).
+   Distinct from NB/Cave: no urgency, just contextual aside. */
+.prose .callout-note {
+  --note: #2766B5;
+  border-left-color: var(--note);
+  background: color-mix(in srgb, var(--note) 6%, transparent);
+}
+.prose .callout-note > strong:first-child { color: var(--note); }
+[data-theme="dark"] .prose .callout-note { --note: #6BA0E0; }
+
+/* Classical — alias for the existing parchment historical callout */
+.prose .callout-classical {
+  --historical: #6F5A36;
+  border-left-color: var(--historical);
+  background: color-mix(in srgb, var(--historical) 6%, transparent);
+}
+.prose .callout-classical > strong:first-child { color: var(--historical); }
+[data-theme="dark"] .prose .callout-classical { --historical: #C4A971; }
+.prose .callout-classical blockquote {
+  margin: 0.4em 0;
+  padding: 0.2em 0 0.2em 0.9em;
+  border-left: 2px solid color-mix(in srgb, var(--historical) 35%, transparent);
+  font-style: italic;
+  color: var(--ink);
+}
+.prose .callout-classical blockquote p {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.6;
+}
+
+/* V3 reading comfort: cap line length and lift line-height across .prose */
+.prose {
+  max-width: 72ch;
+  line-height: 1.65;
+}
+.prose .md-figure, .prose figure, .prose table, .prose .callout {
+  max-width: none;
+}
+
+/* V3 zebra striping for tables (classifications, outcomes, imaging hierarchies) */
+.prose table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+  margin: 1.4em 0;
+}
+.prose table th,
+.prose table td {
+  padding: 0.5em 0.75em;
+  text-align: left;
+  border-bottom: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
+  vertical-align: top;
+}
+.prose table th {
+  font-weight: 600;
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+.prose table tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--ink) 4%, transparent);
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -1369,4 +1537,293 @@ html[data-theme="dark"] .btn-viber:hover {
 .paywall-toast.is-visible {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   V4 collapsible topic sections (Wikipedia-style)
+   Added 2026-06-12 for anatomy-1 V4.
+
+   Markup pattern (raw HTML inside the markdown file):
+     <section class="topic-section" id="overview">
+       <details open>
+         <summary><span class="ts-title">Преглед</span>
+                  <span class="ts-en">Overview</span></summary>
+         <div class="ts-body"> … </div>
+       </details>
+     </section>
+
+   Sections collapse with the native <details> mechanism. The summary
+   functions as a clickable section header with chevron marker.
+   ───────────────────────────────────────────────────────────────────────── */
+
+.prose .topic-section {
+  margin: 1.6em 0 0;
+  scroll-margin-top: 90px; /* sticky header offset for in-page anchors */
+}
+.prose .topic-section + .topic-section { margin-top: 0.4em; }
+
+.prose .topic-section > details {
+  border-top: 1px solid var(--rule);
+  padding: 0;
+}
+.prose .topic-section > details > summary {
+  cursor: pointer;
+  list-style: none; /* remove default disclosure marker */
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  padding: 0.85em 0 0.7em;
+  user-select: none;
+  position: relative;
+  transition: color 160ms var(--ease);
+}
+.prose .topic-section > details > summary::-webkit-details-marker { display: none; }
+.prose .topic-section > details > summary::before {
+  content: "\25B8"; /* ▸ collapsed */
+  display: inline-block;
+  color: var(--ink-muted);
+  font-size: 0.85em;
+  width: 1em;
+  text-align: center;
+  flex-shrink: 0;
+  transition: transform 200ms var(--ease), color 160ms var(--ease);
+}
+.prose .topic-section > details[open] > summary::before {
+  content: "\25BE"; /* ▾ expanded */
+  color: var(--accent);
+}
+.prose .topic-section > details > summary:hover { color: var(--accent); }
+.prose .topic-section > details > summary:hover::before { color: var(--accent); }
+.prose .topic-section > details > summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.prose .topic-section > details > summary .ts-title {
+  font-size: 1.5rem;
+  font-weight: 650;
+  letter-spacing: var(--tracking-tight);
+  line-height: 1.25;
+  color: var(--ink);
+}
+.prose .topic-section > details > summary .ts-en {
+  font-size: 1rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink-muted);
+  letter-spacing: -0.005em;
+}
+
+.prose .topic-section > details > .ts-body {
+  padding: 0.4em 0 1.4em 1.6em;
+  animation: ts-fade 220ms var(--ease);
+}
+@keyframes ts-fade {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Suppress the default .prose h2/h3 margins inside topic-section, because
+   the section header role is taken over by the <summary>. */
+.prose .topic-section h2,
+.prose .topic-section h3,
+.prose .topic-section h4 {
+  margin: 1.4em 0 0.4em;
+}
+.prose .topic-section .ts-body > :first-child { margin-top: 0; }
+.prose .topic-section .ts-body > :last-child  { margin-bottom: 0; }
+
+/* Nested sub-sections inside ts-body: use <details> directly without the
+   topic-section wrapper. Smaller heading scale. */
+.prose .topic-section .ts-body > details {
+  margin: 1.1em 0;
+  border-top: 1px dashed color-mix(in srgb, var(--rule) 60%, transparent);
+}
+.prose .topic-section .ts-body > details > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.55em;
+  padding: 0.55em 0 0.4em;
+  user-select: none;
+}
+.prose .topic-section .ts-body > details > summary::-webkit-details-marker { display: none; }
+.prose .topic-section .ts-body > details > summary::before {
+  content: "\25B8";
+  color: var(--ink-muted);
+  font-size: 0.8em;
+  width: 1em;
+  text-align: center;
+  flex-shrink: 0;
+  transition: color 160ms var(--ease);
+}
+.prose .topic-section .ts-body > details[open] > summary::before {
+  content: "\25BE";
+  color: var(--accent);
+}
+.prose .topic-section .ts-body > details > summary:hover { color: var(--accent); }
+.prose .topic-section .ts-body > details > summary .ts-title {
+  font-size: 1.1875rem;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  color: var(--ink);
+}
+.prose .topic-section .ts-body > details > summary .ts-en {
+  font-size: 0.95rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink-muted);
+}
+.prose .topic-section .ts-body > details > .ts-body {
+  padding: 0.3em 0 0.6em 1.5em;
+  animation: ts-fade 200ms var(--ease);
+}
+
+/* Third-level nested details (e.g. Хирургични достъпи → individual approach). */
+.prose .topic-section .ts-body .ts-body details {
+  margin: 0.9em 0;
+  border-top: 1px dotted color-mix(in srgb, var(--rule) 50%, transparent);
+}
+.prose .topic-section .ts-body .ts-body details > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+  padding: 0.4em 0 0.3em;
+  user-select: none;
+}
+.prose .topic-section .ts-body .ts-body details > summary::-webkit-details-marker { display: none; }
+.prose .topic-section .ts-body .ts-body details > summary::before {
+  content: "\25B8";
+  color: var(--ink-muted);
+  font-size: 0.75em;
+  width: 1em;
+  text-align: center;
+  flex-shrink: 0;
+  transition: color 160ms var(--ease);
+}
+.prose .topic-section .ts-body .ts-body details[open] > summary::before {
+  content: "\25BE";
+  color: var(--accent);
+}
+.prose .topic-section .ts-body .ts-body details > summary:hover { color: var(--accent); }
+.prose .topic-section .ts-body .ts-body details > summary .ts-title {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+.prose .topic-section .ts-body .ts-body details > summary .ts-en {
+  font-size: 0.9rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink-muted);
+}
+.prose .topic-section .ts-body .ts-body details > .ts-body {
+  padding: 0.2em 0 0.4em 1.4em;
+}
+
+/* Reduce-motion: respect user preference, drop the fade. */
+@media (prefers-reduced-motion: reduce) {
+  .prose .topic-section details > .ts-body { animation: none; }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   V4 inline Wikipedia-style table of contents
+   Lives at the top of the article, before the first .topic-section.
+   ───────────────────────────────────────────────────────────────────────── */
+.prose .topic-toc-inline {
+  margin: 0 0 2em;
+  padding: 0.9em 1.1em 1em;
+  background: color-mix(in srgb, var(--ink) 4%, transparent);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  max-width: 38em;
+}
+.prose .topic-toc-inline > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--ink);
+  letter-spacing: var(--tracking-tight);
+  user-select: none;
+}
+.prose .topic-toc-inline > summary::-webkit-details-marker { display: none; }
+.prose .topic-toc-inline > summary .toc-en {
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink-muted);
+}
+.prose .topic-toc-inline > summary::after {
+  content: "[\00a0show\00a0]";
+  margin-left: auto;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--accent);
+  font-style: normal;
+}
+.prose .topic-toc-inline[open] > summary::after { content: "[\00a0hide\00a0]"; }
+.prose .topic-toc-inline ol {
+  list-style: none;
+  margin: 0.7em 0 0;
+  padding: 0;
+  counter-reset: toc-l1;
+}
+.prose .topic-toc-inline ol li {
+  margin: 0.18em 0;
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
+.prose .topic-toc-inline > ol > li {
+  counter-increment: toc-l1;
+  padding-left: 0.2em;
+}
+.prose .topic-toc-inline > ol > li > a::before {
+  content: counter(toc-l1) ".\00a0";
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+.prose .topic-toc-inline > ol > li > ol {
+  margin: 0.2em 0 0.4em 1.2em;
+  counter-reset: toc-l2;
+}
+.prose .topic-toc-inline > ol > li > ol > li {
+  counter-increment: toc-l2;
+}
+.prose .topic-toc-inline > ol > li > ol > li > a::before {
+  content: counter(toc-l1) "." counter(toc-l2) "\00a0";
+  color: var(--ink-faint, var(--ink-muted));
+  font-variant-numeric: tabular-nums;
+}
+.prose .topic-toc-inline a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.prose .topic-toc-inline a:hover { text-decoration: underline; }
+
+/* When a hash is in the URL, force the matching topic-section's
+   <details> open via :target. CSS can't toggle the `open` attribute, so we
+   instead force visibility of the section body in the rare case the user
+   lands on a still-collapsed anchor before the inline script runs. */
+.prose .topic-section:target > details > .ts-body { display: block !important; }
+.prose .topic-section:target > details { background: color-mix(in srgb, var(--accent) 5%, transparent); }
+
+/* Print: expand everything, drop chevrons. */
+@media print {
+  .prose .topic-section > details > .ts-body,
+  .prose .topic-section .ts-body details > .ts-body {
+    display: block !important;
+    padding-left: 0;
+  }
+  .prose .topic-section > details > summary::before,
+  .prose .topic-section .ts-body details > summary::before {
+    content: "";
+  }
+  .prose .topic-toc-inline { page-break-after: always; }
 }

@@ -1960,28 +1960,23 @@ html { scroll-padding-top: 88px; }
 /* Desktop layout: text flows independently in left column at FULL height.
    Figures are placed absolutely in a right gutter (300px), anchored to their
    DOM position via JS at load. Headings never wait for figures to clear. */
-/* Desktop: synchronized two-column book layout via JS.
-   - .book-layout is a grid with 2 columns and viewport-locked height.
-   - Each column has overflow:hidden and holds a clone of the prose.
-   - JS transforms each clone so they scroll together:
-       col 1 shows from offset y
-       col 2 shows from offset y + columnHeight
-   - Body gets a spacer to drive page-level scroll.
-   - Figures/callouts kept inside one column (text-and-image stay together). */
+/* Desktop: synchronized two-column book layout via JS using position:fixed.
+   .book-layout is fixed to the viewport (between top bar and bottom bar).
+   Width is set by JS based on article element rect.
+   Inside, both columns are overflow:hidden and the inner content is
+   transformed by JS to scroll in lockstep. */
 @media (min-width: 1180px) {
   .topic-article { padding-right: 0; }
-  .prose {
-    /* Hidden — content lives in .book-layout once JS sets up */
-    column-count: initial;
-  }
   .book-layout {
+    position: fixed;
+    top: 80px;
+    bottom: 64px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 2.6rem;
-    height: var(--book-col-height, calc(100vh - 96px));
-    position: sticky;
-    top: 80px;
     overflow: hidden;
+    z-index: 5;
+    background: var(--bg);
   }
   .book-col {
     position: relative;
@@ -1992,18 +1987,9 @@ html { scroll-padding-top: 88px; }
     top: 0;
     left: 0;
     width: 100%;
-    transition: none;
     will-change: transform;
   }
-  /* Inline TOC hidden on desktop — TopicTOC on right replaces it. */
   .prose .topic-toc-inline { display: none; }
-  /* Ensure figures, callouts, tables don't get cropped at top/bottom of column */
-  .book-col-inner .md-figure,
-  .book-col-inner .callout,
-  .book-col-inner table {
-    margin-left: 0;
-    margin-right: 0;
-  }
   .book-col-inner .md-figure img {
     max-width: 100%;
     width: 100%;

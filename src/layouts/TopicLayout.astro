@@ -214,7 +214,10 @@ const eyebrow =
         const articleTop = article.getBoundingClientRect().top + window.scrollY;
         // tiny breathing offset so the heading isn't flush against col top
         const desiredY = Math.max(0, naturalTop - 12);
-        window.scrollTo({ top: articleTop + desiredY, behavior: 'smooth' });
+        // Use auto behavior — smooth at 10000+px distances tends to get interrupted
+        // by scroll listeners / browser optimisation. We get the visual continuity
+        // for free because the inners' transform updates on the resulting scroll event.
+        window.scrollTo({ top: articleTop + desiredY, behavior: 'auto' });
         return true;
       }
       document.addEventListener('click', (e) => {

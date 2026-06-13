@@ -49,6 +49,26 @@ order: 209
 
 Бедрото и коляното образуват най-обемния сегмент на долния крайник, в който се намират най-дългата кост в тялото (femur), най-голямата става (коляното) и сложна мускулна обвивка, която реализира основните движения за изправен ход. Оперативните достъпи в зоната са изградени около три анатомични константи: трите фасциални компартмента на бедрото с техните нерви (n. femoralis, n. obturatorius, n. ischiadicus), две фиксирани невро-съдови „чопстъпни" точки (canalis adductorius проксимално и fossa poplitea дистално), и сложната интракапсуларна архитектура на коляното с менискуси, кръстни и колатерални връзки. Темата следва класическата българска школа на Бойчо Бойчев — едноименното УСБАЛО „Проф. Бойчо Бойчев" в Горна баня и неговата тритомна *Оперативна ортопедия и травматология* остават референция за курикулума — допълнена с международните стандарти на Hoppenfeld–deBoer–Buckley, Insall & Scott (Surgery of the Knee), Hollinshead и съвременните референции за лигаментна и артроскопска хирургия (Strobel, Chhabra–Elliott–Miller). Класическите ACL- и пателарни процедури (Hey-Groves 1917, Macey 1939, Jones 1963, Lemaire 1967, MacIntosh 1972, Ландa 1947), линията на тоталното колянно ендопротезиране (Walldius 1951, Charnley 1958, Insall-Burstein 1974) и артроскопията по Watanabe (1959), Jackson и Gillquist (1971) очертават над век хирургична еволюция, която остава част от ортопедичното обучение в България.
 
+<aside class="callout callout-classical">
+  <p><strong>Морфология на дисталния фемур и имплантна позиция при TKA.</strong> Радиологична класификация на Citak и сътр. (ENDO-Klinik Hamburg, 2022) разделя дисталния фемур на три типа (А, B, C) според съотношението на вътрешния диаметър на медуларния канал на 20 cm проксимално от коляното към 2 cm проксимално от tuberculum adductorium, стратифицирано по пол. Тип А е тесен, тип C е широк. Класификацията има много висока вътре- и междунаблюдателна надеждност (ICC 0,997) и предсказва асептично разхлабване при rotating-hinge ендопротези — приложима както при първична, така и при ревизионна TKA (Citak et al. 2022; Kartal et al. 2025).</p>
+</aside>
+
+<figure class="md-figure">
+  <img src="/img/anatomy-9-citak-classification.jpg" alt="Измервания за Citak класификацията на AP рентгенография на коляното: Тип A — тесен, спрямо Тип B — по-широк вътрешен диаметър на диафизата, плюс разпределение на Citak Index" loading="lazy" decoding="async" />
+  <figcaption>
+    <span class="md-figure-caption">Citak класификация на дисталния фемур — AP измервания на коляното (Тип A — тесен, спрямо Тип B — по-широк вътрешен диаметър на диафизата) и разпределение на Citak Index.</span>
+    <span class="md-figure-attribution"> · Адаптирано по Kartal и сътр., <em>Arch Orthop Trauma Surg</em> 2025.</span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <img src="/img/anatomy-9-citak-jakob.jpg" alt="Jakob Adolf with Prof. Mustafa Citak in Hamburg" loading="lazy" decoding="async" />
+  <figcaption>
+    <span class="md-figure-caption"><em>The Citak classification was developed by my mentor and good friend Mustafa Citak.</em></span>
+    <span class="md-figure-attribution"> · Hamburg</span>
+  </figcaption>
+</figure>
+
 </div>
 </details>
 </section>
@@ -1009,6 +1029,8 @@ Patella увеличава механичното рамо на ствола н�
 4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Класическа дескриптивна анатомия с акцент върху функционалните отношения; глава 16 „The Thigh and Knee" — задължителен референт за компартментите на бедрото, canalis adductorius, fossa poplitea и колянна архитектура.*
 5. **Chhabra A, Elliott CC, Miller MD.** Anatomy of the knee. В: *The Multiple Ligament Injured Knee: A Practical Guide to Management* (Fanelli GC, ed.). New York: Springer; 2005. ISBN 978-0-387-22522-7. — *Подробна анатомия на колянните лигаменти и задно-медиалния и постеролатерален ъгъл с фокус върху мултилигаментната травма; референция за постеролатералната хирургия.*
 6. **Бойчев Б, ред.** *Оперативна ортопедия и травматология* (тритомник; София). — *Класическият учебник на българската ортопедична школа; глави за бедрото, коляното, менискусите, лигаментната реконструкция, пателарната нестабилност, удължаване и скъсяване на бедрото, артродеза и ампутация — определят терминологията и оперативната тактика в българския курикулум.*
+7. **Citak M, Levent A, Suero EM, Rademacher K, Busch SM, Gehrke T.** A novel radiological classification system of the distal femur. *Arch Orthop Trauma Surg.* 2022;142(2):315–322. [doi:10.1007/s00402-021-03828-w](https://doi.org/10.1007/s00402-021-03828-w). — *Класификация на ENDO-Klinik Hamburg на морфологията на дисталния фемур, основана на съотношението на вътрешния диаметър на медуларния канал между 20 cm проксимално от коляното и 2 cm проксимално от tuberculum adductorium, стратифицирана по пол в три типа (А, B, C); вътре- и междунаблюдателна надеждност ICC 0,997. Предиктор за асептично разхлабване при rotating-hinge TKA.*
+8. **Kartal EM, Taskiran G, Ertan MB, et al., Citak M.** Is there a correlation between distal femur anatomy and bone mineral density measurements? *Arch Orthop Trauma Surg.* 2025. [doi:10.1007/s00402-025-05848-2](https://doi.org/10.1007/s00402-025-05848-2). — *Потвърждаващо последващо проучване, свързващо Citak класификацията на дисталния фемур с костната минерална плътност.*
 
 </div>
 </details>

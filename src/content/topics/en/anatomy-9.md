@@ -49,6 +49,26 @@ order: 209
 
 The thigh and knee region contains the longest bone in the body (femur), the largest joint (knee), and a complex muscular envelope that drives the principal movements of upright gait. The surgical approaches in this region are built around three anatomical constants: the three fascial compartments of the thigh with their nerves (femoral, obturator, sciatic), two fixed neurovascular "choke points" (the adductor canal proximally and the popliteal fossa distally), and the complex intracapsular architecture of the knee with menisci, cruciate and collateral ligaments. The chapter follows the classical Bulgarian school of Boycho Boychev — the University Hospital of Orthopaedics "Prof. Boycho Boychev" in Gorna Banya and his three-volume *Operative Orthopaedics and Traumatology* remain a curricular reference — supplemented by international standards from Hoppenfeld–deBoer–Buckley, Insall & Scott (Surgery of the Knee), Hollinshead, and modern references for ligament and arthroscopic surgery (Strobel, Chhabra–Elliott–Miller). The classical ACL and patellar procedures (Hey-Groves 1917, Macey 1939, Jones 1963, Lemaire 1967, MacIntosh 1972, Landa 1947), the line of total knee arthroplasty (Walldius 1951, Charnley 1958, Insall-Burstein 1974), and arthroscopy following Watanabe (1959), Jackson and Gillquist (1971) trace over a century of surgical evolution that remains part of orthopaedic training in Bulgaria.
 
+<aside class="callout callout-classical">
+  <p><strong>Distal femoral morphology and TKA implant fit.</strong> A 2022 radiological classification by Citak et al. (Endo-Klinik Hamburg) stratifies the distal femur into three types (A, B, C) by the ratio of inner diaphyseal diameter at 20 cm proximal to the knee versus 2 cm proximal to the adductor tubercle, sex-stratified. Type A is narrow, Type C is wide. The classification has very high inter- and intra-observer reliability (ICC 0.997) and predicts aseptic loosening with rotating-hinge prostheses — relevant in both primary and revision TKA planning (Citak et al. 2022; Kartal et al. 2025).</p>
+</aside>
+
+<figure class="md-figure">
+  <img src="/img/anatomy-9-citak-classification.jpg" alt="Citak classification measurements on AP knee radiograph: Type A narrow vs Type B wider inner diaphyseal diameter, with the Citak Index scatter" loading="lazy" decoding="async" />
+  <figcaption>
+    <span class="md-figure-caption">Citak classification of the distal femur — AP knee measurements (Type A narrow vs. Type B wider inner diaphyseal canal) and the Citak Index scatter.</span>
+    <span class="md-figure-attribution"> · Adapted from Kartal et al., <em>Arch Orthop Trauma Surg</em> 2025.</span>
+  </figcaption>
+</figure>
+
+<figure class="md-figure">
+  <img src="/img/anatomy-9-citak-jakob.jpg" alt="Jakob Adolf with Prof. Mustafa Citak in Hamburg" loading="lazy" decoding="async" />
+  <figcaption>
+    <span class="md-figure-caption"><em>The Citak classification was developed by my mentor and good friend Mustafa Citak.</em></span>
+    <span class="md-figure-attribution"> · Hamburg</span>
+  </figcaption>
+</figure>
+
 </div>
 </details>
 </section>
@@ -1009,6 +1029,8 @@ Additional classical sources: **Boychev (ed.)** — *Operative Orthopaedics and 
 4. **Hollinshead WH, Jenkins DB.** *Hollinshead's Functional Anatomy of the Limbs and Back.* 6th ed. Philadelphia: Saunders; 1991. ISBN 978-0-7216-5128-6. — *Classical descriptive anatomy with emphasis on functional relations; Chapter 16 "The Thigh and Knee" — required reference for thigh compartments, adductor canal, popliteal fossa and knee architecture.*
 5. **Chhabra A, Elliott CC, Miller MD.** Anatomy of the knee. In: *The Multiple Ligament Injured Knee: A Practical Guide to Management* (Fanelli GC, ed.). New York: Springer; 2005. ISBN 978-0-387-22522-7. — *Detailed knee ligament anatomy and posteromedial/posterolateral corner with focus on multi-ligament injury; reference for posterolateral surgery.*
 6. **Boychev B, ed.** *Operative Orthopaedics and Traumatology* (three volumes; Sofia). — *The classical textbook of the Bulgarian orthopaedic school; chapters on the thigh, knee, menisci, ligament reconstruction, patellar instability, femoral lengthening and shortening, arthrodesis, and amputation — defining terminology and operative tactic in the Bulgarian curriculum.*
+7. **Citak M, Levent A, Suero EM, Rademacher K, Busch SM, Gehrke T.** A novel radiological classification system of the distal femur. *Arch Orthop Trauma Surg.* 2022;142(2):315–322. [doi:10.1007/s00402-021-03828-w](https://doi.org/10.1007/s00402-021-03828-w). — *Endo-Klinik Hamburg classification of distal femoral morphology based on the inner diaphyseal-canal ratio between 20 cm proximal to the knee and 2 cm proximal to the adductor tubercle, sex-stratified into three types (A, B, C); inter- and intra-observer reliability ICC 0.997. Predictive for aseptic loosening with rotating-hinge TKA.*
+8. **Kartal EM, Taskiran G, Ertan MB, et al., Citak M.** Is there a correlation between distal femur anatomy and bone mineral density measurements? *Arch Orthop Trauma Surg.* 2025. [doi:10.1007/s00402-025-05848-2](https://doi.org/10.1007/s00402-025-05848-2). — *Confirmatory follow-up study linking the Citak classification of the distal femur to bone mineral density.*
 
 </div>
 </details>

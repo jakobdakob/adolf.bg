@@ -68,6 +68,14 @@ order: 6
 
 Класификациите, използвани в темата, следват тези на Aitken (PFFD, 1969) и съвременната рамка на Paley (1998), Achterman и Kalamchi (фибуларна хемимелия, 1979), Jones (тибиална хемимелия, 1978) и Crawford (вродена псевдоартроза на тибията), разработени в Tachdjian's Pediatric Orthopaedics (Herring), Paley's *Principles of Deformity Correction* (Springer 2002), Lovell and Winter's Pediatric Orthopaedics, и Ilizarov's *Transosseous Osteosynthesis* (Springer 1992) — биологичната основа на дистракционната хистогенеза, която прави съвременното удължаване на крайника изобщо възможно.
 
+<figure class="md-figure">
+  <img src="/img/ortho-6-paley-eidelman-jakob.jpg" alt="Dror Paley and Mark Eidelman, Haifa 2023" loading="lazy" />
+  <figcaption>
+    <em>Дрор Пейли дойде да оперира заедно с Марк Айделман вродена тибиална псевдоартроза, докато бях в Рамбам.</em><br />
+    Хайфа 2023
+  </figcaption>
+</figure>
+
 </div>
 </details>
 </section>
@@ -137,11 +145,6 @@ order: 6
     <span class="md-figure-caption">Проксимален фокален бедрен дефицит: клинична изява с поразително скъсяване на бедрото и флексия-абдукция-външна ротация на остатъчния крайник.</span>
     <span class="md-figure-attribution"> · Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
-</figure>
-
-<figure class="md-figure">
-  <img src="/img/ortho-6-paley-eidelman-jakob.jpg" alt="Dror Paley and Mark Eidelman, Haifa 2023" loading="lazy" />
-  <figcaption><em>"Dror Paley came to operate with Mark Eidelman on a tibial pseudoarthrosis. — Haifa 2023"</em></figcaption>
 </figure>
 
 

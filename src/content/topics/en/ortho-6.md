@@ -68,6 +68,14 @@ The congenital deficiencies of the lower limb constitute one of the most complex
 
 The classifications used here follow Aitken (PFFD, 1969) and Paley's modern functional framework (1998), Achterman and Kalamchi (fibular hemimelia, 1979), Jones (tibial hemimelia, 1978), and Crawford (congenital pseudarthrosis of the tibia, 1986), as elaborated in Tachdjian's Pediatric Orthopaedics (Herring), Paley's *Principles of Deformity Correction* (Springer 2002), Lovell and Winter's Pediatric Orthopaedics, and Ilizarov's *Transosseous Osteosynthesis* (Springer 1992) — the biological foundation of distraction histogenesis that makes contemporary limb-lengthening reconstruction possible at all.
 
+<figure class="md-figure">
+  <img src="/img/ortho-6-paley-eidelman-jakob.jpg" alt="Dror Paley and Mark Eidelman, Haifa 2023" loading="lazy" />
+  <figcaption>
+    <em>Dror Paley came to operate with Mark Eidelman on a tibial pseudoarthrosis while I was in Rambam.</em><br />
+    Haifa 2023
+  </figcaption>
+</figure>
+
 </div>
 </details>
 </section>
@@ -137,11 +145,6 @@ Classifications of congenital lower-limb deficiencies have accumulated over thre
     <span class="md-figure-caption">Proximal focal femoral deficiency: striking thigh shortening with the residual limb in flexion, abduction, and external rotation.</span>
     <span class="md-figure-attribution"> · Doughty74, <a href="https://commons.wikimedia.org/wiki/File:PFFD.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a></span>
   </figcaption>
-</figure>
-
-<figure class="md-figure">
-  <img src="/img/ortho-6-paley-eidelman-jakob.jpg" alt="Dror Paley and Mark Eidelman, Haifa 2023" loading="lazy" />
-  <figcaption><em>"Dror Paley came to operate with Mark Eidelman on a tibial pseudoarthrosis. — Haifa 2023"</em></figcaption>
 </figure>
 
 

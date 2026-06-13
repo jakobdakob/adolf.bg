@@ -243,7 +243,10 @@ order: 7
 
 <figure class="md-figure">
   <img src="/img/ortho-7-graf-jakob.jpg" alt="Jakob Adolf with Prof. Reinhard Graf" loading="lazy" />
-  <figcaption><em>"I was lucky to learn sonography from Reinhard Graf, Zurich 2023."</em></figcaption>
+  <figcaption>
+    <em>Имах щастието да се уча на ехография при Райнхард Граф.</em><br />
+    Цюрих 2023
+  </figcaption>
 </figure>
 
 **Класификация.** Систематичните типове по Graf (по Sonometer-таблица 6.1) са:

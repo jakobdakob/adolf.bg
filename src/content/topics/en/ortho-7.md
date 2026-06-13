@@ -243,7 +243,10 @@ The classification of **Reinhard Graf** (Stolzalpe, Austria), developed in the 1
 
 <figure class="md-figure">
   <img src="/img/ortho-7-graf-jakob.jpg" alt="Jakob Adolf with Prof. Reinhard Graf" loading="lazy" />
-  <figcaption><em>"I was lucky to learn sonography from Reinhard Graf, Zurich 2023."</em></figcaption>
+  <figcaption>
+    <em>I was lucky to learn sonography from Reinhard Graf.</em><br />
+    Zürich 2023
+  </figcaption>
 </figure>
 
 **Classification.** The systematic types per Graf (per Sonometer Table 6.1) are:

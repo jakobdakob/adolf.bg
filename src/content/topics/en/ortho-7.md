@@ -62,6 +62,14 @@ Developmental dysplasia of the hip (DDH) is a spectrum of disorders of the devel
 
 The spectrum encompasses: the unstable but reduced hip; the subluxable hip (in which gentle stress produces partial displacement); the dislocatable hip (in which gentle stress produces complete displacement); the dislocated but reducible hip (Ortolani-positive); and the dislocated and irreducible hip (in which secondary acetabular changes prevent reduction without surgery). The term "teratological dislocation" is reserved for the rare neonatal hip dislocation associated with arthrogryposis, neuromuscular conditions, and chromosomal disorders, in which the dislocation is fixed at birth and behaves differently from typical DDH.
 
+<figure class="md-figure">
+  <img src="/img/ortho-7-graf-jakob.jpg" alt="Jakob Adolf with Prof. Reinhard Graf" loading="lazy" />
+  <figcaption>
+    <em>I was lucky to learn sonography from Reinhard Graf.</em><br />
+    Zürich 2023
+  </figcaption>
+</figure>
+
 </div>
 </details>
 </section>
@@ -240,14 +248,6 @@ The classification of **Reinhard Graf** (Stolzalpe, Austria), developed in the 1
 
 - **α-angle** — between the iliac line (*base line*) and the bony acetabular roof (*bony roof line*); a measure of acetabular depth.
 - **β-angle** — between the iliac line and the cartilaginous roof line referenced to the labrum; a measure of cartilaginous coverage.
-
-<figure class="md-figure">
-  <img src="/img/ortho-7-graf-jakob.jpg" alt="Jakob Adolf with Prof. Reinhard Graf" loading="lazy" />
-  <figcaption>
-    <em>I was lucky to learn sonography from Reinhard Graf.</em><br />
-    Zürich 2023
-  </figcaption>
-</figure>
 
 **Classification.** The systematic types per Graf (per Sonometer Table 6.1) are:
 

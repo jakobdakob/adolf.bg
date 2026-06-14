@@ -7,81 +7,10 @@ topicNumber: 15
 order: 15
 ---
 
-<details class="topic-toc-inline">
-  <summary>Contents</summary>
-  <ol>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#etiology-classification">Etiology and Classification</a>
-      <ol>
-        <li><a href="#etiology">Etiology by gestational age</a></li>
-        <li><a href="#motor-pattern">Classification by motor pattern</a></li>
-        <li><a href="#gmfcs">GMFCS, MACS, CFCS, EDACS</a></li>
-        <li><a href="#pathophysiology">Pathophysiology of orthopedic deformity</a></li>
-      </ol>
-    </li>
-    <li><a href="#gait">Gait Analysis</a>
-      <ol>
-        <li><a href="#gait-lab">Three-dimensional gait analysis</a></li>
-        <li><a href="#rodda">Rodda classification (diplegia)</a></li>
-        <li><a href="#wgh">Winters-Gage-Hicks (hemiplegia)</a></li>
-        <li><a href="#amsterdam">Amsterdam Gait Classification</a></li>
-      </ol>
-    </li>
-    <li><a href="#paralytic-hip">Paralytic Hip Dislocation</a>
-      <ol>
-        <li><a href="#hip-pathogenesis">Pathogenesis and epidemiology</a></li>
-        <li><a href="#hip-surveillance">Hip surveillance</a></li>
-        <li><a href="#reimers">Reimers migration percentage</a></li>
-        <li><a href="#soft-tissue">Soft-tissue surgery</a></li>
-        <li><a href="#bony">Bony reconstruction (VDRO + pelvic osteotomy)</a></li>
-        <li><a href="#salvage-hip">Salvage procedures (Castle, Schanz, McHale)</a></li>
-      </ol>
-    </li>
-    <li><a href="#paralytic-foot">Paralytic Foot</a>
-      <ol>
-        <li><a href="#equinus">Equinus</a></li>
-        <li><a href="#equinovarus">Equinovarus</a></li>
-        <li><a href="#planovalgus">Equinoplanovalgus</a></li>
-        <li><a href="#calcaneus">Calcaneus (crouch) foot</a></li>
-      </ol>
-    </li>
-    <li><a href="#knee">Knee: crouch and stiff-knee gait</a></li>
-    <li><a href="#upper-limb">Upper limb</a></li>
-    <li><a href="#spine">Neuromuscular scoliosis</a></li>
-    <li><a href="#management">Principles of management</a>
-      <ol>
-        <li><a href="#botox">Botulinum toxin</a></li>
-        <li><a href="#sdr">Selective dorsal rhizotomy</a></li>
-        <li><a href="#itb">Intrathecal baclofen</a></li>
-        <li><a href="#semls">Single-event multilevel surgery (SEMLS)</a></li>
-        <li><a href="#orthoses">Orthoses</a></li>
-      </ol>
-    </li>
-    <li><a href="#adult">Adult life with CP</a></li>
-    <li><a href="#local">Local Contributions</a></li>
-    <li><a href="#classical">Classical Sources</a></li>
-    <li><a href="#literature">Suggested Reading</a></li>
-  </ol>
-</details>
-
-
-
 ## Overview
-<!-- toc-h2 -->
-<section class="topic-section" id="overview">
-<details open>
-<summary>Overview</summary>
-<div class="ts-body">
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/cerebral-palsy.jpg" data-figure-alt="Child with cerebral palsy" aria-label="Enlarge">
-    <img src="/img/ortho-15/cerebral-palsy.jpg" alt="Child with cerebral palsy" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Cerebral palsy: a non-progressive motor disorder following injury to the developing brain; the orthopedic manifestations are secondary to spasticity and muscle imbalance.</span>
-    <span class="md-figure-attribution"> · National Institutes of Health, <a href="https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg" target="_blank" rel="noopener noreferrer">Public domain</a></span>
-  </figcaption>
-</figure>
+![Child with cerebral palsy](/img/ortho-15/cerebral-palsy.jpg)
+*Cerebral palsy: a non-progressive motor disorder following injury to the developing brain; the orthopedic manifestations are secondary to spasticity and muscle imbalance. · National Institutes of Health, [Public domain](https://commons.wikimedia.org/wiki/File:Cerebral_palsy.jpg)*
 
 Cerebral palsy (CP) is a group of non-progressive disorders of movement and posture arising from injury to the immature developing brain. By international consensus (Rosenbaum et al., *Dev Med Child Neurol* 2007;49 Suppl 109:8–14), the diagnosis requires three features: a central origin for the disorder; a non-progressive (although clinically evolving) brain injury; and onset within the developmental period — most narrowly before age 2 years. The incidence in developed countries is approximately 2–3 per 1,000 live births; in very-low-birth-weight cohorts the rate exceeds 70 per 1,000.
 
@@ -89,24 +18,9 @@ The chapter treats the orthopedic manifestations of CP as the result of three in
 
 The topic synthesizes content from Freeman Miller's *Cerebral Palsy* (Springer, 2nd ed. 2020), Eugene Bleck's *Orthopaedic Management in Cerebral Palsy* (1987; 2nd ed. 2008), James R. Gage and colleagues' *The Identification and Treatment of Gait Problems in Cerebral Palsy* (Mac Keith Press 2009), Tachdjian's *Procedures in Pediatric Orthopaedics* (Herring, Elsevier 2016), *Lovell and Winter's Pediatric Orthopaedics* (8th ed. 2020), and Sharrard's *Paediatric Orthopaedics and Fractures* (3rd ed. 1993), with classical Bulgarian and Russian contributions.
 
-</div>
-</details>
-</section>
-
-
-
 ## Etiology and Classification
-<!-- toc-h2 -->
-<section class="topic-section" id="etiology-classification">
-<details>
-<summary>Etiology and Classification</summary>
-<div class="ts-body">
-
 
 ### Etiology by gestational age
-<details id="etiology">
-<summary>Etiology by gestational age</summary>
-<div class="ts-body">
 
 The causes of cerebral palsy vary with the gestational age at the time of injury. Miller (*Cerebral Palsy*, ch. 2) and Bleck (*Orthopaedic Management in CP*, ch. 1) emphasize that etiologic heterogeneity directly governs the clinical picture and prognosis.
 
@@ -118,14 +32,7 @@ The causes of cerebral palsy vary with the gestational age at the time of injury
 
 **Idiopathic CP.** In a substantial proportion of cases (approximately 10–20% in modern series), thorough investigation fails to identify a clear cause. Contemporary genetic studies are identifying monogenic causes in a growing share of these "idiopathic" cases, particularly when classical perinatal risk factors are absent.
 
-</div>
-</details>
-
-
 ### Classification by motor pattern
-<details id="motor-pattern">
-<summary>Classification by motor pattern</summary>
-<div class="ts-body">
 
 The Hagberg and Bax classification (Surveillance of Cerebral Palsy in Europe, SCPE) distinguishes three principal motor patterns:
 
@@ -137,14 +44,7 @@ The Hagberg and Bax classification (Surveillance of Cerebral Palsy in Europe, SC
 
 **Mixed CP (approximately 5%).** Combines features of two or more patterns — most commonly spastic with a dyskinetic component.
 
-</div>
-</details>
-
-
 ### GMFCS, MACS, CFCS, EDACS
-<details id="gmfcs">
-<summary>GMFCS, MACS, CFCS, EDACS</summary>
-<div class="ts-body">
 
 **GMFCS (Gross Motor Function Classification System).** Introduced by Palisano, Rosenbaum, Walter and colleagues in Canada in 1997 (*Dev Med Child Neurol* 39:214–223) and expanded in 2007 (GMFCS – E&R, *Expanded and Revised*), the system has transformed orthopedic care for CP by providing a reproducible, prognostically useful five-level classification of motor function.
 
@@ -162,24 +62,14 @@ The level is remarkably stable with growth: a child at Level II at age 5 typical
 
 **EDACS (Eating and Drinking Ability Classification System).** Sellers and colleagues (2014) — a five-level classification of the safety and efficiency of eating and drinking, prognostically linked to respiratory complications and cachexia.
 
-<aside class="callout callout-nb">
-  <strong>NB</strong>
-  <ul>
-    <li>The GMFCS level is considered stable from approximately age 5; movement up or down is unusual and warrants reassessment.</li>
-    <li>The risk of paralytic hip dislocation correlates directly with GMFCS level: Level I — about 1–2%; Level V — 70–90%.</li>
-    <li>Scoliosis develops in approximately 70% of patients at Level V and in significantly lower proportions at higher functional levels.</li>
-    <li>GMFCS, MACS, CFCS, and EDACS are documented at each visit and form the standardized clinical signature of the patient.</li>
-  </ul>
-</aside>
+**NB**
 
-</div>
-</details>
-
+- The GMFCS level is considered stable from approximately age 5; movement up or down is unusual and warrants reassessment.
+- The risk of paralytic hip dislocation correlates directly with GMFCS level: Level I — about 1–2%; Level V — 70–90%.
+- Scoliosis develops in approximately 70% of patients at Level V and in significantly lower proportions at higher functional levels.
+- GMFCS, MACS, CFCS, and EDACS are documented at each visit and form the standardized clinical signature of the patient.
 
 ### Pathophysiology of orthopedic deformity
-<details id="pathophysiology">
-<summary>Pathophysiology of orthopedic deformity</summary>
-<div class="ts-body">
 
 Bleck (*Orthopaedic Management in CP*, ch. 4) treats the orthopedic manifestations as the result of three simultaneously acting processes:
 
@@ -191,37 +81,12 @@ Bleck (*Orthopaedic Management in CP*, ch. 4) treats the orthopedic manifestatio
 
 **The classical example — the spastic hip.** The flexors and adductors are more spastic than the extensors and abductors; the hip assumes a sustained flexed, adducted position; over years the femoral head migrates laterally and superiorly; the acetabulum fails to develop normal coverage; the femoral neck remains in excessive anteversion and valgus; and the hip progresses through subluxation to dislocation. Analogous patterns of muscle imbalance produce equinus foot, crouch gait, scissor gait, and the other characteristic abnormalities.
 
-</div>
-</details>
-
-</div>
-</details>
-</section>
-
-
-
 ## Gait Analysis
-<!-- toc-h2 -->
-<section class="topic-section" id="gait">
-<details>
-<summary>Gait Analysis</summary>
-<div class="ts-body">
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/gait-classification.jpg" data-figure-alt="Amsterdam gait classification" aria-label="Enlarge">
-    <img src="/img/ortho-15/gait-classification.jpg" alt="Amsterdam gait classification" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Amsterdam Gait Classification: standardized types of hemiplegic gait in cerebral palsy, used for treatment planning.</span>
-    <span class="md-figure-attribution"> · Orthokin, <a href="https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
+![Amsterdam gait classification](/img/ortho-15/gait-classification.jpg)
+*Amsterdam Gait Classification: standardized types of hemiplegic gait in cerebral palsy, used for treatment planning. · Orthokin, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Amsterdam_Gait_Classification.jpg)*
 
 ### Three-dimensional gait analysis
-<details id="gait-lab">
-<summary>Three-dimensional gait analysis</summary>
-<div class="ts-body">
 
 Gage (*The Identification and Treatment of Gait Problems in CP*, Mac Keith Press 2009, chs. 4–8) systematizes contemporary computerized gait analysis (3D-CGA) as a mandatory preoperative instrument in the ambulatory CP child. The analysis combines four simultaneously recorded components:
 
@@ -235,14 +100,7 @@ Gage (*The Identification and Treatment of Gait Problems in CP*, Mac Keith Press
 
 3D-CGA is used to plan single-event multilevel surgery, to assess the outcome of such operations, and for research. Gage emphasizes that without computerized analysis, orthopedic planning in the complex ambulatory CP child is guesswork based on imprecise clinical impressions.
 
-</div>
-</details>
-
-
 ### Rodda classification (diplegia)
-<details id="rodda">
-<summary>Rodda classification (diplegia)</summary>
-<div class="ts-body">
 
 Rodda and Graham (*Eur J Neurol* 2001;8 Suppl 5:98–108) distinguish five sagittal-plane patterns of gait in spastic diplegia:
 
@@ -254,14 +112,7 @@ Rodda and Graham (*Eur J Neurol* 2001;8 Suppl 5:98–108) distinguish five sagit
 
 Crouch gait is the most problematic pattern: it produces excessive energy expenditure, accelerates knee joint degeneration, and is poorly responsive to treatment once established.
 
-</div>
-</details>
-
-
 ### Winters–Gage–Hicks (hemiplegia)
-<details id="wgh">
-<summary>Winters–Gage–Hicks (hemiplegia)</summary>
-<div class="ts-body">
 
 Winters, Gage, and Hicks (*J Bone Joint Surg Am* 1987;69:437–441) distinguish four types of hemiplegic gait by ascending complexity:
 
@@ -272,14 +123,7 @@ Winters, Gage, and Hicks (*J Bone Joint Surg Am* 1987;69:437–441) distinguish 
 
 The classification provides a direct algorithmic link: a higher type implies more involved muscles and a broader surgical programme (typically within SEMLS).
 
-</div>
-</details>
-
-
 ### Amsterdam Gait Classification
-<details id="amsterdam">
-<summary>Amsterdam Gait Classification</summary>
-<div class="ts-body">
 
 The Amsterdam Gait Classification (Becher and colleagues, 2005) distinguishes five types of hemiplegic gait by knee position at midstance and ground contact:
 
@@ -291,27 +135,9 @@ The Amsterdam Gait Classification (Becher and colleagues, 2005) distinguishes fi
 
 The classification is widely used in northern Europe and coexists with the older Winters–Gage–Hicks model, which remains dominant in North American practice.
 
-</div>
-</details>
-
-</div>
-</details>
-</section>
-
-
-
 ## Paralytic Hip Dislocation
-<!-- toc-h2 -->
-<section class="topic-section" id="paralytic-hip">
-<details>
-<summary>Paralytic Hip Dislocation</summary>
-<div class="ts-body">
-
 
 ### Pathogenesis and epidemiology
-<details id="hip-pathogenesis">
-<summary>Pathogenesis and epidemiology</summary>
-<div class="ts-body">
 
 Paralytic hip dislocation is among the most consequential orthopedic complications of CP. It is *spastic* in origin — not congenital but acquired from the progressive action of spastic flexor-adductors on the immature growing proximal femur and acetabulum, with absence of normal axial loading in non-ambulatory patients.
 
@@ -327,14 +153,7 @@ Paralytic hip dislocation is among the most consequential orthopedic complicatio
 
 **Silent evolution.** Progression is often silent — without pain or visible stiffness — and is detected only by routine radiographic surveillance. This is the central argument for systematic surveillance: symptoms only appear once the hip is already dislocated, when surgical options are sharply narrowed.
 
-</div>
-</details>
-
-
 ### Hip surveillance
-<details id="hip-surveillance">
-<summary>Hip surveillance</summary>
-<div class="ts-body">
 
 Hip surveillance programs — systematic radiographic assessment of all children with CP on a schedule dictated by GMFCS — have transformed care for paralytic dislocation and have become standard in developed countries.
 
@@ -352,14 +171,7 @@ Examination by a pediatric orthopedist is at the same intervals, with clinical r
 
 **Imaging standard.** AP pelvis radiograph with the hips in neutral position, parallel to the film plane; calibrated for measurement of distances and angles; standardized positioning, reproducible between visits.
 
-</div>
-</details>
-
-
 ### Reimers migration percentage
-<details id="reimers">
-<summary>Reimers migration percentage</summary>
-<div class="ts-body">
 
 The Migration Percentage (MP) of Henning Reimers (Denmark, *Acta Orthop Scand Suppl* 1980;184:1–100) is the standard radiographic measure for assessing femoral head coverage in CP and tracking progression of subluxation.
 
@@ -378,24 +190,14 @@ The Migration Percentage (MP) of Henning Reimers (Denmark, *Acta Orthop Scand Su
 
 **Other measurements.** Acetabular index (Hilgenreiner) — reflecting acetabular slope; Sharp angle — complementary in the older child; head-shaft angle (CCD) — increased in a valgus neck; femoral neck-shaft angle and anteversion of the proximal femur — assessed by CT for surgical planning of varus-derotation osteotomy.
 
-<aside class="callout callout-nb">
-  <strong>NB</strong>
-  <ul>
-    <li>MP < 33% — acceptable; 33–40% — surveillance; 40–50% — soft-tissue surgery; > 50% — bony reconstruction.</li>
-    <li>The rate of progression is an independent prognostic factor and sometimes mandates intervention at a lower absolute MP.</li>
-    <li>Standardized positioning of the pelvis is critical for reproducibility — pelvic tilt can change MP by more than 5%.</li>
-    <li>MP < 30% with asymmetry (> 10% difference between hips) warrants reassessment — asymmetry frequently precedes absolute progression.</li>
-  </ul>
-</aside>
+**NB**
 
-</div>
-</details>
-
+- MP < 33% — acceptable; 33–40% — surveillance; 40–50% — soft-tissue surgery; > 50% — bony reconstruction.
+- The rate of progression is an independent prognostic factor and sometimes mandates intervention at a lower absolute MP.
+- Standardized positioning of the pelvis is critical for reproducibility — pelvic tilt can change MP by more than 5%.
+- MP < 30% with asymmetry (> 10% difference between hips) warrants reassessment — asymmetry frequently precedes absolute progression.
 
 ### Soft-tissue surgery
-<details id="soft-tissue">
-<summary>Soft-tissue surgery</summary>
-<div class="ts-body">
 
 Soft-tissue surgery — targeted tenotomy and/or lengthening of the spastic flexor-adductors — is the first surgical line in early subluxation (MP 33–50%) in the younger child (typically under age 6–8 years). The goal is to release the spastic pull and allow the hip to return to a more centered position, on the assumption that bony anatomy — the acetabular roof and the proximal femur — is still capable of remodeling.
 
@@ -405,14 +207,7 @@ Soft-tissue surgery — targeted tenotomy and/or lengthening of the spastic flex
 
 **Results.** When performed in time before age 5–6 with MP under 40%, soft-tissue surgery gives 60–80% long-term hip stabilization (Presedo and colleagues, *J Bone Joint Surg Am* 2005;87:832–841). In the older child or with MP > 50%, isolated soft-tissue surgery is inadequate and is combined with bony reconstruction in a single stage.
 
-</div>
-</details>
-
-
 ### Bony reconstruction (VDRO + pelvic osteotomy)
-<details id="bony">
-<summary>Bony reconstruction (VDRO + pelvic osteotomy)</summary>
-<div class="ts-body">
 
 For established subluxation (MP > 40–50%) or failed soft-tissue surgery, bony reconstruction is performed, typically combining a varus-derotation femoral osteotomy with a pelvic osteotomy in a single stage.
 
@@ -428,14 +223,7 @@ For established subluxation (MP > 40–50%) or failed soft-tissue surgery, bony 
 
 **Results.** The combination of VDRO + Dega (or San Diego) with concurrent adductor and iliopsoas tenotomy gives durable reduction in 80–90% of cases in well-selected patients (Robb and colleagues, Mubarak and colleagues, *J Pediatr Orthop*). Long-term construct survivorship depends on the severity of the underlying disease — in GMFCS V with severe dyskinesia, recurrence is higher.
 
-</div>
-</details>
-
-
 ### Salvage procedures (Castle, Schanz, McHale)
-<details id="salvage-hip">
-<summary>Salvage procedures (Castle, Schanz, McHale)</summary>
-<div class="ts-body">
 
 In the older non-ambulatory patient (GMFCS IV–V) with established painful dislocation, arthritic change, and an unfeasible anatomical reconstruction, salvage procedures provide pain relief at the cost of function.
 
@@ -447,37 +235,12 @@ In the older non-ambulatory patient (GMFCS IV–V) with established painful disl
 
 **Total hip arthroplasty (THA).** In selected ambulatory patients with spastic quadriplegia or diplegia and a painful dislocation, arthroplasty is feasible but technically demanding: severe acetabular dysplasia, excessive anteversion, asymmetric loading from spastic muscles, and high early dislocation risk. Outcomes in well-selected patients are acceptable, but complications are substantially more frequent than in primary arthroplasty in non-CP patients.
 
-</div>
-</details>
-
-</div>
-</details>
-</section>
-
-
-
 ## Paralytic Foot
-<!-- toc-h2 -->
-<section class="topic-section" id="paralytic-foot">
-<details>
-<summary>Paralytic Foot</summary>
-<div class="ts-body">
 
-<figure class="md-figure">
-  <button class="md-figure-zoom" type="button" data-figure-src="/img/ortho-15/equinus.png" data-figure-alt="Equinus foot deformity" aria-label="Enlarge">
-    <img src="/img/ortho-15/equinus.png" alt="Equinus foot deformity" loading="lazy" decoding="async" />
-  </button>
-  <figcaption>
-    <span class="md-figure-caption">Equinus deformity: fixed plantar flexion from a spastic triceps surae; the commonest foot deformity in cerebral palsy.</span>
-    <span class="md-figure-attribution"> · Ellen L Tsay, <a href="https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></span>
-  </figcaption>
-</figure>
-
+![Equinus foot deformity](/img/ortho-15/equinus.png)
+*Equinus deformity: fixed plantar flexion from a spastic triceps surae; the commonest foot deformity in cerebral palsy. · Ellen L Tsay, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Equinus_Illustration.png)*
 
 ### Equinus
-<details id="equinus">
-<summary>Equinus</summary>
-<div class="ts-body">
 
 The equinus foot — plantarflexed ankle from spasticity or contracture of the gastrocnemius-soleus — is the commonest foot deformity in CP.
 
@@ -489,24 +252,14 @@ The equinus foot — plantarflexed ankle from spasticity or contracture of the g
 
 **Formal Achilles tendon lengthening.** Z-plasty or the Hoke percutaneous technique (three semi-sections through the tendon with rotation — Hoke, *J Bone Joint Surg* 1931;13:773–783). Reserved for cases with true triceps contracture (negative Silfverskiöld test) and for the older child with an established bony equinus deformity. Avoidance of over-lengthening is the single most important principle in CP foot surgery.
 
-<aside class="callout callout-cave">
-  <strong>Cave</strong>
-  <ul>
-    <li>Over-lengthening of the Achilles tendon — the single most disabling iatrogenic complication in CP orthopedics. Produces calcaneus ankle and crouch gait with permanent loss of function.</li>
-    <li>Strayer gastrocnemius recession is more conservative and the preferred first-line option for isolated gastrocnemius contracture; formal Achilles lengthening is reserved for combined triceps contracture.</li>
-    <li>In the ambulatory child a small residual dynamic equinus (5–10°) is deliberately preserved as a safeguard against over-lengthening.</li>
-    <li>Achilles lengthening in GMFCS IV–V is more forgiving — patients do not bear axial load and calcaneus deformity is a smaller concern.</li>
-  </ul>
-</aside>
+**Cave**
 
-</div>
-</details>
-
+- Over-lengthening of the Achilles tendon — the single most disabling iatrogenic complication in CP orthopedics. Produces calcaneus ankle and crouch gait with permanent loss of function.
+- Strayer gastrocnemius recession is more conservative and the preferred first-line option for isolated gastrocnemius contracture; formal Achilles lengthening is reserved for combined triceps contracture.
+- In the ambulatory child a small residual dynamic equinus (5–10°) is deliberately preserved as a safeguard against over-lengthening.
+- Achilles lengthening in GMFCS IV–V is more forgiving — patients do not bear axial load and calcaneus deformity is a smaller concern.
 
 ### Equinovarus
-<details id="equinovarus">
-<summary>Equinovarus</summary>
-<div class="ts-body">
 
 The equinovarus foot — plantarflexed and inverted — is the typical deformity in spastic hemiplegia. It originates from combined spasticity of the gastrocnemius, tibialis posterior and/or tibialis anterior with relative weakness of the dorsiflexors and peroneal muscles.
 
@@ -520,14 +273,7 @@ The equinovarus foot — plantarflexed and inverted — is the typical deformity
 
 **Bony correction.** With an established bony deformity, a dorsolateral cuboid closing-wedge osteotomy or a Dwyer medial calcaneal closing-wedge is added, typically as part of SEMLS.
 
-</div>
-</details>
-
-
 ### Equinoplanovalgus
-<details id="planovalgus">
-<summary>Equinoplanovalgus</summary>
-<div class="ts-body">
 
 The equinoplanovalgus foot — plantarflexed at the ankle but pronated at the subtalar joint with hindfoot valgus and forefoot abduction — is common in spastic diplegia and quadriplegia. The deformity combines opposing components and requires multi-component correction.
 
@@ -542,14 +288,7 @@ The equinoplanovalgus foot — plantarflexed at the ankle but pronated at the su
 - *Trans-lateral bone block (Karchinov)* — the Bulgarian modification for stabilization in the older child.
 - *Triple arthrodesis* — salvage for rigid deformity in the adult.
 
-</div>
-</details>
-
-
 ### Calcaneus (crouch) foot
-<details id="calcaneus">
-<summary>Calcaneus (crouch) foot</summary>
-<div class="ts-body">
 
 The calcaneus foot — calcaneus ankle with dorsiflexed calcaneus, typically from over-lengthened Achilles — is among the most disabling iatrogenic complications in CP orthopedics.
 
@@ -557,21 +296,7 @@ The calcaneus foot — calcaneus ankle with dorsiflexed calcaneus, typically fro
 
 **Treatment.** Predominantly preventive: careful dosing of Achilles lengthening (or preference for the Strayer recession), with deliberate preservation of 5–10° of residual dynamic equinus. With established crouch the treatment combines distal femoral extension osteotomy with patellar tendon advancement (Stout, Koop, Gage and colleagues; *J Bone Joint Surg Am* 2008;90:2470–2484) and an appropriately designed ground-reaction AFO. Achilles lengthening cannot in principle be surgically reversed.
 
-</div>
-</details>
-
-</div>
-</details>
-</section>
-
-
-
 ## Knee: crouch and stiff-knee gait
-<!-- toc-h2 -->
-<section class="topic-section" id="knee">
-<details>
-<summary>Knee: crouch and stiff-knee gait</summary>
-<div class="ts-body">
 
 **Crouch gait.** A gait pattern with sustained flexion at the hips and knees and neutral or calcaneus ankles. One of the most difficult problems in ambulatory CP. The mechanism combines: knee flexion contracture; hamstring spasticity or contracture (medial: semitendinosus, semimembranosus, gracilis; lateral: biceps femoris); iliopsoas spasticity or contracture; and weak quadriceps and hip extensors. The standard treatment is *distal femoral extension osteotomy* (DFEO) with *patellar tendon advancement* (PTA), combined with medial hamstring lengthening, psoas lengthening over the brim, and often patellar reconstruction in patella alta. Outcomes in well-selected patients (Stout, Gage and colleagues from Gillette — *J Bone Joint Surg Am* 2008;90:2470–2484) show durable improvement in flexion contracture and function.
 
@@ -579,18 +304,7 @@ The calcaneus foot — calcaneus ankle with dorsiflexed calcaneus, typically fro
 
 **Hamstring lengthening.** The hamstrings are lengthened medially (Z-plasty of semitendinosus, aponeurotomy of semimembranosus, tenotomy of gracilis) or bilaterally (with biceps femoris) according to preoperative assessment. Over-lengthening leads to increased anterior pelvic tilt and a crouched posture — a new risk factor for crouch gait.
 
-</div>
-</details>
-</section>
-
-
-
 ## Upper limb
-<!-- toc-h2 -->
-<section class="topic-section" id="upper-limb">
-<details>
-<summary>Upper limb</summary>
-<div class="ts-body">
 
 Upper-limb involvement is most pronounced in hemiplegic patients but is present in many spastic diplegic and quadriplegic patients. The classical pattern: shoulder internally rotated and adducted; elbow flexed and forearm pronated; wrist flexed and ulnar-deviated; fingers flexed; "thumb-in-palm" deformity.
 
@@ -613,18 +327,7 @@ Algorithmic link: Grades I and IIA are most suited for functional surgical recon
 
 The functional goals are improvement of grasp, release, and hygiene; cosmetic improvement is secondary.
 
-</div>
-</details>
-</section>
-
-
-
 ## Neuromuscular scoliosis
-<!-- toc-h2 -->
-<section class="topic-section" id="spine">
-<details>
-<summary>Neuromuscular scoliosis</summary>
-<div class="ts-body">
 
 Neuromuscular scoliosis in CP develops in approximately 70% of patients at GMFCS V and at substantially lower proportions at higher functional levels. Curves are typically long C-shaped with pelvic obliquity, producing asymmetry in sitting, a tilt of the pelvic girdle, and problems with hygiene and seating.
 
@@ -636,24 +339,9 @@ Neuromuscular scoliosis in CP develops in approximately 70% of patients at GMFCS
 
 **Complications.** Complication rates are substantial — 10–20% for major complications, including deep infection, pulmonary decompensation (especially in GMFCS V with associated restrictive lung disease), bleeding (5–10% of total blood volume), pseudarthrosis, and instrumentation failure. Perioperative care requires a multidisciplinary team — anesthesiologist, pulmonologist, neonatologist/pediatric intensivist, nutritionist, and social worker.
 
-</div>
-</details>
-</section>
-
-
-
 ## Principles of management
-<!-- toc-h2 -->
-<section class="topic-section" id="management">
-<details>
-<summary>Principles of management</summary>
-<div class="ts-body">
-
 
 ### Botulinum toxin
-<details id="botox">
-<summary>Botulinum toxin</summary>
-<div class="ts-body">
 
 Botulinum toxin type A (BTX-A; Botox, Dysport, Xeomin) injected into spastic muscle produces temporary chemodenervation by blocking presynaptic acetylcholine release at the neuromuscular junction. The action lasts 3–6 months and recovery is complete.
 
@@ -663,14 +351,7 @@ Botulinum toxin type A (BTX-A; Botox, Dysport, Xeomin) injected into spastic mus
 
 **Complications.** Transient local weakness (the intended effect, but in overdose it precipitates falls); systemic effects at high doses (rarely — dysphagia, generalized weakness); allergic reactions (rare). Repeated injection may produce immunologic resistance (antibodies).
 
-</div>
-</details>
-
-
 ### Selective dorsal rhizotomy
-<details id="sdr">
-<summary>Selective dorsal rhizotomy</summary>
-<div class="ts-body">
 
 Selective dorsal rhizotomy (SDR) is a neurosurgical procedure in which a fraction (typically 30–60%) of the dorsal sensory rootlets of the lumbosacral spinal cord L2–S2 are selectively transected based on intraoperative electrophysiological identification of abnormal motor responses.
 
@@ -680,14 +361,7 @@ Selective dorsal rhizotomy (SDR) is a neurosurgical procedure in which a fractio
 
 **Results.** Long-term studies from St. Louis Children's Hospital (Park and colleagues) and from UK pediatric centers show sustained reduction of spasticity, improved gait, and reduced need for orthopedic intervention in the SDR cohort compared with controls. Postoperative rehabilitation is intensive (6–12 months) and critical for the outcome.
 
-</div>
-</details>
-
-
 ### Intrathecal baclofen
-<details id="itb">
-<summary>Intrathecal baclofen</summary>
-<div class="ts-body">
 
 Intrathecal baclofen pump therapy (ITB) delivers baclofen — a GABA-B receptor agonist — directly to the spinal cord through an implanted reservoir (placed subcutaneously in the abdominal wall) and catheter (tunneled to a lumbar or thoracic intrathecal space).
 
@@ -699,14 +373,7 @@ Intrathecal baclofen pump therapy (ITB) delivers baclofen — a GABA-B receptor 
 
 **Abrupt withdrawal.** Sudden cessation of intrathecal baclofen (pump failure, catheter leak) produces severe withdrawal — fever, muscular rigidity, autonomic instability with potentially fatal complications. It requires urgent management with oral baclofen and benzodiazepines and restoration of the intrathecal flow.
 
-</div>
-</details>
-
-
 ### Single-event multilevel surgery (SEMLS)
-<details id="semls">
-<summary>Single-event multilevel surgery (SEMLS)</summary>
-<div class="ts-body">
 
 The principle of single-event multilevel surgery (SEMLS) — addressing all the deformities of the lower extremity in a single operation rather than in serial interventions — was developed by Mercer Rang in Toronto in the 1970s as a response to the so-called "birthday syndrome": the practice of annual orthopedic operations through childhood that left the child in continuous rehabilitation and continuous functional instability.
 
@@ -729,14 +396,7 @@ The principle of single-event multilevel surgery (SEMLS) — addressing all the 
 
 **Results.** Browne, Graham and colleagues from the Royal Children's Hospital in Melbourne (1990s) demonstrate substantial and durable gains in gait quality, energy expenditure, and function with SEMLS compared with conventional serial interventions. SEMLS has become the international standard for the operative care of the ambulatory CP child.
 
-</div>
-</details>
-
-
 ### Orthoses
-<details id="orthoses">
-<summary>Orthoses</summary>
-<div class="ts-body">
 
 Ankle-foot orthoses (AFOs) are central to the orthotic management of CP gait:
 
@@ -748,21 +408,7 @@ Ankle-foot orthoses (AFOs) are central to the orthotic management of CP gait:
 
 The choice depends on gait pattern, contractures, and treatment goals. Coordination between orthopedist, physiotherapist, and orthotist is critical.
 
-</div>
-</details>
-
-</div>
-</details>
-</section>
-
-
-
 ## Adult life with CP
-<!-- toc-h2 -->
-<section class="topic-section" id="adult">
-<details>
-<summary>Adult life with CP</summary>
-<div class="ts-body">
 
 Adults with CP — particularly those at lower GMFCS levels — face a distinct set of orthopedic and medical problems. The experience of continually declining function in adulthood is the subject of growing clinical literature and advocacy.
 
@@ -776,18 +422,7 @@ Adults with CP — particularly those at lower GMFCS levels — face a distinct 
 
 **The transition from pediatric to adult orthopedic care** is a recognized challenge — relatively few adult orthopedic surgeons are trained in the specific issues of adult CP, and specialized adult CP centers are emerging only slowly.
 
-</div>
-</details>
-</section>
-
-
-
 ## Local Contributions
-<!-- toc-h2 -->
-<section class="topic-section" id="local">
-<details>
-<summary>Local Contributions</summary>
-<div class="ts-body">
 
 Contributions to the orthopedic management of CP by continent and country; ordered alphabetically by country.
 
@@ -817,64 +452,38 @@ Contributions to the orthopedic management of CP by continent and country; order
 
 **United States <sup class="natflag">US</sup>.** Eugene Bleck (Stanford) — *Orthopaedic Management in Cerebral Palsy* (1987; 2nd ed. 2008), the first comprehensive operative textbook grounded in gait analysis; the classical approach to the orthopedic management of CP. Freeman Miller (DuPont, Wilmington) — *Cerebral Palsy* (Springer 2005; 2nd ed. 2020), a second-generation operative textbook extended with MRI imaging and computerized analysis. James R. Gage (Gillette Children's, Saint Paul) — introduction of standardized computerized gait analysis, the kinematic-kinetic classification, and *The Identification and Treatment of Gait Problems in CP* (Mac Keith Press 2009). David Sutherland (San Diego) — pioneering work on the normal development of childhood gait, foundational for recognizing the deviations in CP. Mubarak and Wenger (San Diego) — San Diego modification of the Dega osteotomy. Mark Castle (1978) — proximal femoral resection as a salvage procedure. Sutherland, Olshen et al. — a graphical approach to presenting results of gait analysis.
 
-</div>
-</details>
-</section>
-
-
-
 ## Classical Sources
-<!-- toc-h2 -->
-<section class="topic-section" id="classical">
-<details>
-<summary>Classical Sources</summary>
-<div class="ts-body">
 
-<aside class="callout callout-classical">
-  <strong>Classical line — the description of "Little's disease"</strong>
-  <p>William John Little (London, 1810–1894) — the founder of the management of spastic diplegia in the modern sense. Himself disabled by childhood poliomyelitis, he studied under Stromeyer in Hanover (1834–35), underwent subcutaneous Achilles tenotomy, returned to London, and founded the Royal Orthopaedic Hospital. In 1862 he published the lecture *On the Influence of Abnormal Parturition, Difficult Labours, Premature Birth, and Asphyxia Neonatorum, on the Mental and Physical Condition of the Child, Especially in Relation to Deformities* (Trans Obstet Soc Lond 3:293–344) — the original description of spastic diplegia as the result of premature birth and perinatal complications. The condition bears his name in the older English literature.</p>
-  <ul>
-    <li><strong>Little 1862</strong> — *On the Influence of Abnormal Parturition...*, Trans Obstet Soc Lond 3:293–344. <a href="https://archive.org/details/transactionsobs00britgoog">Facsimile</a>.</li>
-    <li><strong>Stromeyer 1838</strong> — *Beiträge zur operativen Orthopädik*, Hanover — subcutaneous tenotomy as a method.</li>
-    <li><strong>Phelps 1891</strong> — *The prevention of deformities and the treatment of paralysis*, New York — an early systematic account of surgical options.</li>
-    <li><strong>Nicoladoni 1882</strong> — Vienna — first description of a tendon transfer for paralytic foot.</li>
-    <li><strong>Silfverskiöld 1923</strong> — *Acta Chir Scand* 56:315–330 — clinical test distinguishing gastrocnemius and soleus components.</li>
-    <li><strong>Vulpius 1913</strong> — *Die operative Orthopädie der Gegenwart* — V-Y lengthening of gastrocnemius-soleus.</li>
-    <li><strong>Hoke 1931</strong> — *J Bone Joint Surg* 13:773–783 — percutaneous Z semi-section of the Achilles.</li>
-    <li><strong>Strayer 1950</strong> — *J Bone Joint Surg Am* 32:671–676 — recession of the gastrocnemius aponeurosis.</li>
-    <li><strong>Dega 1969</strong> — Poznań — supra-acetabular incomplete pelvic osteotomy for paralytic dysplasia.</li>
-    <li><strong>Castle 1978</strong> — *J Bone Joint Surg Am* 60:1051–1054 — proximal femoral resection.</li>
-    <li><strong>Reimers 1980</strong> — *Acta Orthop Scand Suppl* 184:1–100 — migration percentage for paralytic hip subluxation.</li>
-  </ul>
-</aside>
+**Classical line — the description of "Little's disease"**
 
-<aside class="callout callout-classical">
-  <strong>Classical line — modern computerized gait analysis and SEMLS</strong>
-  <p>The standardized quantitative description of pathologic gait transformed the surgical approach to CP in the second half of the 20th century. David Sutherland (San Diego, 1980s) described normal gait development; James R. Gage (Gillette Children's, Saint Paul) introduced three-dimensional kinematic-kinetic analysis as a mandatory preoperative tool; Mercer Rang (Toronto) criticized the "birthday syndrome" and formulated the principle of single-event multilevel surgery; Browne and Graham (Melbourne) demonstrated SEMLS in prospective cohorts.</p>
-  <ul>
-    <li><strong>Sutherland 1980</strong> — *The Development of Mature Gait*, Mac Keith Press — normal development.</li>
-    <li><strong>Winters, Gage, Hicks 1987</strong> — *J Bone Joint Surg Am* 69:437–441 — classification of hemiplegic gait.</li>
-    <li><strong>Rodda, Graham 2001</strong> — *Eur J Neurol* 8 Suppl 5:98–108 — classification of diplegic gait.</li>
-    <li><strong>Palisano, Rosenbaum, Walter 1997</strong> — *Dev Med Child Neurol* 39:214–223 — GMFCS.</li>
-    <li><strong>Gage 2009</strong> — *The Identification and Treatment of Gait Problems in CP*, 2nd ed., Mac Keith Press.</li>
-    <li><strong>Soo et al. 2006</strong> — *J Bone Joint Surg Am* 88:121–129 — paralytic dislocation risk by GMFCS.</li>
-    <li><strong>Hägglund et al. 2005</strong> — *J Bone Joint Surg Br* 87:95–101 — CPUP and the effectiveness of surveillance.</li>
-    <li><strong>Stout, Koop, Gage et al. 2008</strong> — *J Bone Joint Surg Am* 90:2470–2484 — DFEO + PTA for crouch gait.</li>
-  </ul>
-</aside>
+William John Little (London, 1810–1894) — the founder of the management of spastic diplegia in the modern sense. Himself disabled by childhood poliomyelitis, he studied under Stromeyer in Hanover (1834–35), underwent subcutaneous Achilles tenotomy, returned to London, and founded the Royal Orthopaedic Hospital. In 1862 he published the lecture *On the Influence of Abnormal Parturition, Difficult Labours, Premature Birth, and Asphyxia Neonatorum, on the Mental and Physical Condition of the Child, Especially in Relation to Deformities* (Trans Obstet Soc Lond 3:293–344) — the original description of spastic diplegia as the result of premature birth and perinatal complications. The condition bears his name in the older English literature.
 
-</div>
-</details>
-</section>
+- **Little 1862** — *On the Influence of Abnormal Parturition...*, Trans Obstet Soc Lond 3:293–344. [Facsimile](https://archive.org/details/transactionsobs00britgoog).
+- **Stromeyer 1838** — *Beiträge zur operativen Orthopädik*, Hanover — subcutaneous tenotomy as a method.
+- **Phelps 1891** — *The prevention of deformities and the treatment of paralysis*, New York — an early systematic account of surgical options.
+- **Nicoladoni 1882** — Vienna — first description of a tendon transfer for paralytic foot.
+- **Silfverskiöld 1923** — *Acta Chir Scand* 56:315–330 — clinical test distinguishing gastrocnemius and soleus components.
+- **Vulpius 1913** — *Die operative Orthopädie der Gegenwart* — V-Y lengthening of gastrocnemius-soleus.
+- **Hoke 1931** — *J Bone Joint Surg* 13:773–783 — percutaneous Z semi-section of the Achilles.
+- **Strayer 1950** — *J Bone Joint Surg Am* 32:671–676 — recession of the gastrocnemius aponeurosis.
+- **Dega 1969** — Poznań — supra-acetabular incomplete pelvic osteotomy for paralytic dysplasia.
+- **Castle 1978** — *J Bone Joint Surg Am* 60:1051–1054 — proximal femoral resection.
+- **Reimers 1980** — *Acta Orthop Scand Suppl* 184:1–100 — migration percentage for paralytic hip subluxation.
 
+**Classical line — modern computerized gait analysis and SEMLS**
 
+The standardized quantitative description of pathologic gait transformed the surgical approach to CP in the second half of the 20th century. David Sutherland (San Diego, 1980s) described normal gait development; James R. Gage (Gillette Children's, Saint Paul) introduced three-dimensional kinematic-kinetic analysis as a mandatory preoperative tool; Mercer Rang (Toronto) criticized the "birthday syndrome" and formulated the principle of single-event multilevel surgery; Browne and Graham (Melbourne) demonstrated SEMLS in prospective cohorts.
+
+- **Sutherland 1980** — *The Development of Mature Gait*, Mac Keith Press — normal development.
+- **Winters, Gage, Hicks 1987** — *J Bone Joint Surg Am* 69:437–441 — classification of hemiplegic gait.
+- **Rodda, Graham 2001** — *Eur J Neurol* 8 Suppl 5:98–108 — classification of diplegic gait.
+- **Palisano, Rosenbaum, Walter 1997** — *Dev Med Child Neurol* 39:214–223 — GMFCS.
+- **Gage 2009** — *The Identification and Treatment of Gait Problems in CP*, 2nd ed., Mac Keith Press.
+- **Soo et al. 2006** — *J Bone Joint Surg Am* 88:121–129 — paralytic dislocation risk by GMFCS.
+- **Hägglund et al. 2005** — *J Bone Joint Surg Br* 87:95–101 — CPUP and the effectiveness of surveillance.
+- **Stout, Koop, Gage et al. 2008** — *J Bone Joint Surg Am* 90:2470–2484 — DFEO + PTA for crouch gait.
 
 ## Suggested Reading
-<!-- toc-h2 -->
-<section class="topic-section" id="literature">
-<details>
-<summary>Suggested Reading</summary>
-<div class="ts-body">
 
 1. **Miller F.** *Cerebral Palsy.* New York: Springer; 2005 (2nd ed. 2020). ISBN 978-0-387-20437-6. — *The classical operative textbook of the DuPont Hospital for Children (Wilmington), systematizing the orthopedic management of CP from the perspective of motor pattern and GMFCS. Chapters 7–10 (Hip, Foot, Knee, Spine) provide detailed operative descriptions and algorithms. The book covers hip surveillance, gait analysis, and single-event multilevel surgery comprehensively.*
 2. **Bleck EE.** *Orthopaedic Management in Cerebral Palsy.* Philadelphia: Mac Keith Press; 1987 (2nd ed., edited by Helen Meeks Horstmann). — *The first comprehensive operative textbook grounded in gait analysis. The classical standard for a generation of pediatric orthopedists, retaining its value for its systematic approach to the pathoanatomy of spastic contracture and to operative planning.*
@@ -883,52 +492,3 @@ Contributions to the orthopedic management of CP by continent and country; order
 5. **Flynn JM, Weinstein SL, Crawford H, eds.** *Lovell and Winter's Pediatric Orthopaedics.* 8th ed., vol. 2. Philadelphia: Wolters Kluwer; 2020. ISBN 978-1-975108-66-3. — *The standard North American pediatric orthopedic textbook. Chapter 18 (Cerebral Palsy) provides a comprehensive review of assessment, classification, and management. Useful for integrating CP into the broader context of pediatric orthopedic practice.*
 6. **Sharrard WJW.** *Paediatric Orthopaedics and Fractures.* 3rd ed. Oxford: Blackwell; 1993. ISBN 978-0-632-03322-5. — *Classical British pediatric orthopedic textbook. The chapters on CP, spina bifida, and poliomyelitis remain models of clear clinical thinking and pedagogic structure.*
 7. **Boychev B, ed.** *Surgical Orthopaedics* (three-volume set; Sofia). — *The classical textbook of the Bulgarian orthopedic school. Presents the operative approach to paralytic deformity in the tradition of Boychev, Holevich, and Karchinov; preserves the orthopedic lexicon of Bulgarian clinical practice.*
-
-</div>
-</details>
-</section>
-
-<script is:inline>
-  /* V4 ortho-15: open the target <details> when the page loads with a hash
-     or when the reader clicks an in-page anchor. Native <details> isn't
-     auto-expanded by :target alone, so we wire a tiny progressive enhancement. */
-  (function () {
-    function openByHash(hash) {
-      if (!hash) return;
-      var id = hash.replace(/^#/, "");
-      if (!id) return;
-      var el = document.getElementById(id);
-      if (!el) return;
-      if (el.tagName === "DETAILS") el.open = true;
-      var inner = el.querySelector(":scope > details");
-      if (inner) inner.open = true;
-      var node = el.parentElement;
-      while (node && node !== document.body) {
-        if (node.tagName === "DETAILS") node.open = true;
-        node = node.parentElement;
-      }
-      requestAnimationFrame(function () {
-        el.scrollIntoView({ behavior: "smooth", block: "start" });
-      });
-    }
-    function wire() {
-      openByHash(window.location.hash);
-      document.addEventListener("click", function (e) {
-        var t = e.target;
-        while (t && t !== document) {
-          if (t.tagName === "A" && t.getAttribute && t.getAttribute("href") && t.getAttribute("href").charAt(0) === "#") {
-            openByHash(t.getAttribute("href"));
-            break;
-          }
-          t = t.parentNode;
-        }
-      });
-      window.addEventListener("hashchange", function () { openByHash(window.location.hash); });
-    }
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", wire);
-    } else {
-      wire();
-    }
-  })();
-</script>

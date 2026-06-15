@@ -409,7 +409,7 @@ In keeping with the international character of hip surgery, this section present
 
 ### Austria
 
-Karl Zweymüller of Vienna developed the uncemented Zweymüller stem (1979) — a quadrangular tapered titanium implant with a rectangular cross-section, achieving primary stability through cortical contact and continuing to be manufactured and applied in various modifications (SL-Plus, Alloclassic). Stephan Tohtz and the Austrian school have contributed to uncemented THA and to the characterization of dysplasia in adults.
+Karl Zweymüller of Vienna developed the uncemented Zweymüller stem (1979) — a quadrangular tapered titanium implant with a rectangular cross-section, achieving primary stability through cortical contact and continuing to be manufactured and applied in various modifications (SL-Plus, Alloclassic). The Austrian school has also contributed to the characterization of dysplasia in adults.
 
 ### Bulgaria
 
@@ -429,7 +429,7 @@ The German contribution to hip surgery is fundamental. Friedrich Pauwels (Aachen
 
 Dietrich Tönnis (Dortmund) systematized the assessment and treatment of congenital hip dysplasia over more than four decades. His monograph *Congenital Dysplasia and Dislocation of the Hip* (1987) and the radiographic Tönnis classifications introduced by him (for severity of osteoarthritis and for acetabular coverage) are in wide international use. The Tönnis school in Dortmund developed the Tönnis and Kalchschmidt triple pelvic osteotomy for patients with open growth plates.
 
-Other significant German contributions: Helmut Wagner (Nuremberg) developed the Wagner cone stem, the Wagner resection arthroplasty, and the Wagner trochanteric osteotomy; M.E. Müller (although Swiss, closely connected to the German school) developed the CDH stem and AO instrumentation; the Hardinge approach, developed in Sheffield by a Briton, is particularly popularized in Germany.
+Other significant German contributions: Helmut Wagner (Nuremberg) developed the Wagner cone stem, the Wagner resection arthroplasty, and the Wagner trochanteric osteotomy; M.E. Müller (although Swiss, closely connected to the German school) developed the CDH stem and AO instrumentation; the Hardinge approach, developed in Sheffield by a Briton, is particularly popularized in Germany. Stephan Tohtz (Charité, Berlin) has contributed to modern uncemented THA and to the spinopelvic considerations of total hip arthroplasty.
 
 ### Italy
 

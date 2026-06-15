@@ -107,7 +107,7 @@ The total score is 0–20, divided into four grades: Grade I (mild, score <5), G
 
 ### Pirani score
 
-The Pirani score (Pirani, Outerbridge et al., 1995; validated 1999), simpler and more widely used in Ponseti-method practice, scores six features distributed three to the midfoot (Midfoot Contracture Score, MFCS) and three to the hindfoot (Hindfoot Contracture Score, HFCS):
+The Pirani score (Pirani, 1995; validated 1999), simpler and more widely used in Ponseti-method practice, scores six features distributed three to the midfoot (Midfoot Contracture Score, MFCS) and three to the hindfoot (Hindfoot Contracture Score, HFCS):
 
 Midfoot signs (MFCS, 0–3 total):
 
@@ -310,19 +310,19 @@ The historical contribution to clubfoot management has a rich international dime
 
 **Bulgaria.** In Bulgarian pediatric orthopedics, the Ponseti method was adopted progressively from the early 2000s, with targeted training in specialized centers and gradual replacement of the earlier routine posteromedial release. The Bulgarian orthopedic community has contributed to national initiatives for standardizing infant treatment and for parental education on brace compliance. The older Bulgarian textbooks (including those of Boycho Boychev) described the surgical methods that dominated mid-twentieth-century practice.
 
-**Canada.** Pirani developed the eponymous score. Wright and others published large follow-up studies. Cincinnati Children's and Canadian institutions were among the first in North America to adopt the Ponseti method systematically in the late 1990s.
+**Canada.** Pirani (Vancouver, British Columbia) developed the eponymous score. Wright and others published large follow-up studies. Canadian institutions were among the first in North America to adopt the Ponseti method systematically in the late 1990s.
 
-**France.** Dimeglio developed the eponymous classification and was among the first in Europe to systematically adopt the Ponseti method.
+**France.** Dimeglio developed the eponymous classification and was among the first in Europe to systematically adopt the Ponseti method. Henri Bensahel (Hôpital Robert-Debré, Paris) and colleagues contributed significantly to early documentation of Ponseti-method outcomes.
 
 **Guatemala, Malawi, Uganda, and other low- and middle-income countries.** The work of Penny and Lavy in Uganda and of Lavy in Malawi demonstrated the applicability of the Ponseti method in resource-limited settings and led to the establishment of national training and follow-up programs. Honig, Iltis, and Staheli, through the Global Help Organization, published the free online manual that made the Ponseti method accessible in over 100 countries.
 
-**Italy.** Although Dimeglio is French in origin, his classification has been widely adopted in Italy. The Hispano-Italian school of Bensahel et al. contributed significantly to early documentation of Ponseti-method outcomes.
+**Italy.** Dimeglio's classification (although its author is French) has been widely adopted in Italian pediatric orthopedic practice.
 
 **Switzerland.** Hefti and Brunner in Basel published follow-up series with long-term outcomes that confirmed the method in European settings.
 
-**United Kingdom.** Pirani (Canadian, trained partly in the United Kingdom) developed the eponymous score for severity and progress assessment. Catterall and other classical British orthopedists described classification systems and management approaches that shaped contemporary practice.
+**United Kingdom.** Catterall and other classical British orthopedists described classification systems and management approaches that shaped contemporary practice.
 
-**United States.** Ignacio Ponseti, a Spanish-American émigré, developed and established the method at the University of Iowa from 1948 to the end of his life. Cooper and Dietz published the key long-term follow-up. Morcuende, Dobbs, Mosca, and Herring shaped contemporary practice. Mosca, in *Principles and Management of Pediatric Foot and Ankle Deformities*, systematized the modern approach to the complex foot.
+**United States.** Ignacio Ponseti, a Spanish-American émigré, developed and established the method at the University of Iowa from 1948 to the end of his life. Cooper and Dietz published the key long-term follow-up. Morcuende, Dobbs, Mosca, and Herring shaped contemporary practice. Cincinnati Children's Hospital (Ohio) was among the first North-American centers to adopt the Ponseti method systematically in the late 1990s. Mosca, in *Principles and Management of Pediatric Foot and Ankle Deformities*, systematized the modern approach to the complex foot.
 
 ## Take-home points and practical pearls
 

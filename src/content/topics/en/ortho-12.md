@@ -380,7 +380,7 @@ Michael Tonkin (Sydney) and his collaborators at Royal North Shore Hospital and 
 
 ### Other centers
 
-Significant contributions come from: Italy (Brunelli — Brescia, with major contributions to reconstructive hand surgery), the Netherlands (Hovius — Rotterdam), Canada (Manktelow — Toronto, in microsurgery), Korea (Chang — Seoul), Taiwan (Wei — Chang Gung, in microsurgical transfer), and India (Tonkin-Pawar — Pune).
+Significant contributions come from: Italy (Brunelli — Brescia, with major contributions to reconstructive hand surgery), the Netherlands (Hovius — Rotterdam), Canada (Manktelow — Toronto, in microsurgery), Korea (Chang — Seoul), Taiwan (Wei — Chang Gung, in microsurgical transfer), and India (Pawar — Pune).
 
 ## Summary and Take-Home Points
 

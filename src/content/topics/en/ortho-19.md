@@ -157,7 +157,7 @@ Subsequent series from other centers attempting to reproduce these results have 
 
 ## Modified Dunn and Ganz Surgical Dislocation
 
-The surgical hip dislocation approach of Ganz (Ganz, Gill, Krügel, Beck, Bardakos, 2001) is the approach that made safe execution of anatomic subcapital reduction in SCFE possible. The procedure is a modified version of the original subcapital wedge osteotomy of Dunn (1964), whose initial series reported AVN rates above 30%. Ganz's modification preserves the medial femoral circumflex artery throughout the procedure and has lowered reported AVN risk to below 10% in expert centers.
+The surgical hip dislocation approach of Ganz (Ganz, Gill, Gautier, K. Ganz, Krügel, Berlemann, 2001) is the approach that made safe execution of anatomic subcapital reduction in SCFE possible. The procedure is a modified version of the original subcapital wedge osteotomy of Dunn (1964), whose initial series reported AVN rates above 30%. Ganz's modification preserves the medial femoral circumflex artery throughout the procedure and has lowered reported AVN risk to below 10% in expert centers.
 
 The surgical steps of the modified Dunn via the Ganz approach:
 
@@ -285,7 +285,7 @@ Bulgaria: Bulgarian pediatric orthopedics follows the leading European (predomin
 
 Germany: the German school has produced multiple landmark contributions. Drehmann described the pathognomonic sign of obligatory external rotation on flexion as early as the beginning of the twentieth century. Imhauser (Cologne, 1960s–1970s) developed and popularized the triplane intertrochanteric osteotomy for late correction of missed SCFE — an operation that remains a standard tool in the modern repertoire. Tönnis (Dortmund) presented in his classical textbook *Congenital Dysplasia and Dislocation of the Hip in Children* (1987) a comparative analysis of pediatric hip osteotomies, including the post-SCFE deformity.
 
-Italy: the series of Marcheggiani Muccioli, Zaffagnini, and colleagues at the Rizzoli Institute, Bologna, on long-term follow-up of patients with SCFE treated by Imhauser intertrochanteric osteotomy remains one of the most cited in Europe. The Italian school favors a more conservative approach in mild and moderate deformities, with intertrochanteric correction in preference to early subcapital surgery.
+Italy: the Rizzoli Institute (Bologna) maintains long-term follow-up cohorts of patients with SCFE treated by Imhauser intertrochanteric osteotomy. The Italian school favors a more conservative approach in mild and moderate deformities, with intertrochanteric correction in preference to early subcapital surgery.
 
 Poland: Kryczewski and colleagues at Warsaw have reported long-term results of screw fixation in SCFE, with emphasis on the importance of prophylactic contralateral fixation in patients with a confirmed endocrinopathy.
 
@@ -295,7 +295,7 @@ Serbia: the Serbian orthopedic community, particularly at the Institute of Ortho
 
 Turkey: the Turkish orthopedic school has been particularly active in publication on the modern treatment of SCFE. The series of Aksoy, Yilgor, and colleagues at Hacettepe (Ankara) presents comparative data between in situ fixation and the modified Dunn in unstable SCFE, with emphasis on the importance of early (under 24 hours) surgical treatment. Turkish centers were among the first in the region to adopt routine arthroscopic osteochondroplasty for post-SCFE FAI.
 
-Switzerland: the Swiss contribution has been central to modern SCFE surgery. Ganz (Reinhold Ganz, Bern) developed the surgical hip dislocation approach (Ganz, Gill, Krügel, Beck, Bardakos 2001) and together with Leunig and Siebenrock described the modified Dunn as a safe alternative for unstable SCFE. The Bernese school remains the world reference for the surgical hip dislocation and for all variants of its applications — post-SCFE correction, FAI treatment, mosaicplasty for early AVN.
+Switzerland: the Swiss contribution has been central to modern SCFE surgery. Ganz (Reinhold Ganz, Bern) developed the surgical hip dislocation approach (Ganz, Gill, Gautier, K. Ganz, Krügel, Berlemann, 2001) and together with Leunig and Siebenrock described the modified Dunn as a safe alternative for unstable SCFE. The Bernese school remains the world reference for the surgical hip dislocation and for all variants of its applications — post-SCFE correction, FAI treatment, mosaicplasty for early AVN.
 
 ## Recommended Reading
 

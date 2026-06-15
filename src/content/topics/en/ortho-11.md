@@ -308,7 +308,7 @@ Transition from pediatric to adult orthopedics is essential. Adult patients with
 
 The historical contribution to clubfoot management has a rich international dimension, reflecting the global spread of the Ponseti method after the 1990s and the preceding work in various schools.
 
-**Bulgaria.** In Bulgarian pediatric orthopedics, the Ponseti method was adopted progressively from the early 2000s, with targeted training in specialized centers and gradual replacement of the earlier routine posteromedial release. The Bulgarian orthopedic community has contributed to national initiatives for standardizing infant treatment and for parental education on brace compliance. The older Bulgarian textbooks (including those of Boychev) described the surgical methods that dominated mid-twentieth-century practice.
+**Bulgaria.** In Bulgarian pediatric orthopedics, the Ponseti method was adopted progressively from the early 2000s, with targeted training in specialized centers and gradual replacement of the earlier routine posteromedial release. The Bulgarian orthopedic community has contributed to national initiatives for standardizing infant treatment and for parental education on brace compliance. The older Bulgarian textbooks (including those of Boycho Boychev) described the surgical methods that dominated mid-twentieth-century practice.
 
 **Canada.** Pirani developed the eponymous score. Wright and others published large follow-up studies. Cincinnati Children's and Canadian institutions were among the first in North America to adopt the Ponseti method systematically in the late 1990s.
 

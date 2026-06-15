@@ -265,9 +265,9 @@ Finland. The Finnish population, with a pronounced founder effect for diastrophi
 
 France. Pierre Maroteaux in Paris is another of the founders of skeletal dysplasia nosology, with significant contributions to the description of many dysplasias (including MPS VI of Maroteaux-Lamy, the dyschondrosteosis of Léri-Weill, and others). The Paris school maintains active clinical and research cohorts.
 
-Germany. Jürgen Spranger in Mainz is one of the leading names in international systematization of skeletal dysplasias and co-author of the reference atlas *Bone Dysplasias* (4th ed., 2019). German groups in Berlin, Heidelberg, and Mainz are active in the nosology committees and in molecular-genetics research. Camurati-Engelmann disease (Engelmann working in Berlin, Camurati in Italy) illustrates the European integrated approach to describing these rare states.
+Germany. Jürgen Spranger in Mainz is one of the leading names in international systematization of skeletal dysplasias and co-author of the reference atlas *Bone Dysplasias* (4th ed., 2019). German groups in Berlin, Heidelberg, and Mainz are active in the nosology committees and in molecular-genetics research. Camurati-Engelmann disease (Engelmann in Vienna, Austria, 1929; Camurati in Bologna, Italy, 1922) illustrates the European integrated approach to describing these rare states.
 
-Italy. Marco Camurati in Bologna described progressive diaphyseal dysplasia (1922), which now carries his and Engelmann's names. The Italian school in Rome and Genoa maintains serious OI clinical cohorts and an active research program in bisphosphonate therapy.
+Italy. Mario Camurati in Bologna described progressive diaphyseal dysplasia (1922), which now carries his and Engelmann's names. The Italian school in Rome and Genoa maintains serious OI clinical cohorts and an active research program in bisphosphonate therapy.
 
 Japan. Gen Nishimura in Tokyo is co-author of the reference Spranger-Brill-Superti-Furga-Nishimura atlas and a leading figure in Asian skeletal-dysplasia nosology. The Japanese school has contributed to the description of many entities and to contemporary management of achondroplasia with vosoritide (Japan being among the first jurisdictions to approve).
 
@@ -277,7 +277,7 @@ Sweden. Swedish and Finnish collectives have close cooperation in the management
 
 Switzerland. Andrea Superti-Furga in Lausanne is co-author of the principal *Bone Dysplasias* atlas and a leading member of the International Nosology Committee. Lausanne, Zurich, and Basel are active centers for molecular diagnosis and care.
 
-United Kingdom. Christine Hall, Hooshang Taybi (born in Iran, worked in the US, with close cooperation with British colleagues), David Ogilvie-Harris, and the contemporary Great Ormond Street Hospital (GOSH) group in London have contributed substantially to the radiographic classification and clinical management of skeletal dysplasias in children. The British orthopedic school has been particularly influential in OI management and spinal deformity care.
+United Kingdom. Christine Hall and Hooshang Taybi (born in Iran, worked in the US, with close cooperation with British colleagues), and the contemporary Great Ormond Street Hospital (GOSH) group in London have contributed substantially to the radiographic classification and clinical management of skeletal dysplasias in children. The British orthopedic school has been particularly influential in OI management and spinal deformity care.
 
 United States. Victor McKusick in Baltimore laid the foundations of medical genetics as a discipline and described many skeletal dysplasias in his landmark *Heritable Disorders of Connective Tissue* (5th edition edited by Peter Beighton). Hooshang Taybi in Los Angeles and Ralph Lachman in California created another principal reference atlas (*Radiology of Syndromes, Metabolic Disorders, and Skeletal Dysplasias*, 5th ed.). Cleveland Clinic, Mayo Clinic, Shriners-Twin Cities, and the International Skeletal Dysplasia Registry in Los Angeles form a network of reference centers.
 

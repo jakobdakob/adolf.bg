@@ -237,7 +237,7 @@ Donald Vickers (Sydney) and Nielsen described in 1992 the thickened volar radiol
 
 ### Bulgaria
 
-Stefan Boychev (1886–1960) and his *Surgical Orthopaedics* present a systematic description of varus deformities of the knee in childhood in the Bulgarian literature, with a practical description of bracing and proximal tibial osteotomy in the conditions of post-war orthopaedic practice. The contemporary Bulgarian school continues to apply internationally accepted algorithms (Sabharwal/Paley), with a contribution in adapting the guided-growth approach with tension-band plates for children with the infantile and adolescent form in conditions of limited resources.
+Boycho Boychev (1902–1971) and his *Surgical Orthopaedics* present a systematic description of varus deformities of the knee in childhood in the Bulgarian literature, with a practical description of bracing and proximal tibial osteotomy in the conditions of post-war orthopaedic practice. The contemporary Bulgarian school applies internationally accepted algorithms (Sabharwal/Paley).
 
 ### France
 
@@ -257,7 +257,7 @@ Gavriil A. Ilizarov (Kurgan) with his development of circular external fixation 
 
 ### Scandinavia (Finland and Sweden)
 
-Anni Langenskiöld (Helsinki) in 1952 published the radiographic classification of Blount disease in six stages — a foundational work that remains a reference for staging and for treatment decisions. The physeal bar resection ("Langenskiöld procedure") was originally described by her.
+Anders Langenskiöld (Helsinki) in 1952 published the radiographic classification of Blount disease in six stages — a foundational work that remains a reference for staging and for treatment decisions. The physeal bar resection ("Langenskiöld procedure") was originally described by him.
 
 ### United Kingdom
 

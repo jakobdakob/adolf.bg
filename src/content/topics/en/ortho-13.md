@@ -169,7 +169,7 @@ Sacralization of L5 (partial or complete) and lumbarization of S1 are common var
 
 The field of congenital spinal anomalies has developed through contributions from surgeons and investigators in many countries. The following list orders key contributions by the country where they were initially performed, without claiming to be exhaustive:
 
-Bulgaria: The Bulgarian orthopedic school of the mid-twentieth century, represented by Boychev, Holewich, and their successors in *Surgical Orthopaedics* (Boychev, Holewich), includes original descriptions of operative techniques for neuromuscular and paralytic spinal deformities reflecting clinical practice in the poliomyelitis era. More recent authors from orthopedic clinics in Sofia and Plovdiv have contributed to the adaptation of VEPTR and magnetically controlled growing rods in central and eastern Europe in series published since 2010.
+Bulgaria: The Bulgarian orthopedic school of the mid-twentieth century, represented by Boycho Boychev, Yordan Holevich, and their successors in *Surgical Orthopaedics* (Boycho Boychev, Yordan Holevich), includes original descriptions of operative techniques for neuromuscular and paralytic spinal deformities reflecting clinical practice in the poliomyelitis era. More recent authors from orthopedic clinics in Sofia and Plovdiv have contributed to the adaptation of VEPTR and magnetically controlled growing rods in central and eastern Europe in series published since 2010.
 
 Canada: Hospital for Sick Children (Toronto) — contributions of Roy-Camille and associated Canadian authors in posterior osteotomies and pedicle fixation; Salter and his trainees — the general concept of early surgical intervention for childhood deformities.
 

@@ -31,8 +31,7 @@ The blood supply of the proximal femur after fusion of the physeal rings is pred
 
 Coxa vara can be classified along two independent axes — etiologically and pathogenetically/biomechanically — and modern practice uses both at once.
 
-<details>
-<summary><strong>Etiological classification (by origin of the deformity)</strong></summary>
+### Etiological classification (by origin of the deformity)
 
 Developmental (infantile, congenital) coxa vara: a primary, more often unilateral, rare (1 in 25,000 live births) disorder of the proximal femoral physis in which a triangular fragment of bone separates from the inferomedial corner of the neck along an oblique line. Presentation is in early childhood (2–6 years) with painless limp. This is the "classical" coxa vara of the orthopaedic literature.
 
@@ -56,16 +55,11 @@ Coxa vara following SCFE: typically retroversion rather than true varus, but in 
 
 Idiopathic coxa vara in adolescence: a rare entity; the differential diagnosis includes occult SCFE and metabolic bone disease.
 
-</details>
-
-<details>
-<summary><strong>Pathogenetic/biomechanical classification</strong></summary>
+### Pathogenetic/biomechanical classification
 
 The Pauwels analysis of the 1930s and 1950s describes coxa vara in terms of the orientation of the proximal physis relative to the resultant joint reaction force at the hip (R). In a normal hip, the angle between R and the physis is such that the loading across the physis is predominantly compressive — the compressive component of R outweighs the shear component. As the angle between R and the physis increases (typically with varus deformity of the neck), the shear component rises and the compressive component falls, until at a critical physeal angle of around 35–40° above the horizontal the shear loading begins to predominate. Because physeal bone formation is stimulated by compression and inhibited by shear, the steeply inclined physis is a self-sustaining vice: varus increases shear, shear disturbs physeal growth, disturbed growth deepens varus. This is the conceptual explanation for why even moderate coxa vara tends to progress, and for why bringing the physis into a more horizontal orientation — exactly what valgus osteotomy achieves — restores the normal pattern of loading.
 
 This pathogenetic framework also explains the one numerical criterion that has proven prognostic value in developmental coxa vara: the Hilgenreiner–epiphyseal angle (HEA). HEA essentially measures the residual physeal tilt relative to horizontal (Hilgenreiner's line) and is therefore a direct surrogate for the shear/compression ratio of loading across the physis. HEA below 45° is compatible with a stable or improving state; HEA above 60° practically always progresses; the 45–60° range is a "watch zone" with an indication for correction in the face of documented progression.
-
-</details>
 
 ## Pathology of Developmental Coxa Vara
 
@@ -116,17 +110,13 @@ CT with three-dimensional reconstruction is useful in complex cases and for the 
 
 Treatment of developmental coxa vara depends on the HEA, the rate of progression, the symptomatology, the age of the child, and the presence of associated conditions. The goals of treatment are: (a) restoration of a normal NSA in order to normalize abductor mechanics and proximal physeal loading; (b) prevention of progression of the deformity and of femoral neck pseudarthrosis; (c) minimization of limb-length discrepancy; and (d) preservation of physeal growth when possible.
 
-<details>
-<summary><strong>Observation</strong></summary>
+### Observation
 
 Children with HEA below 45° and no symptoms are observed with serial AP radiographs every 6–12 months. In a small minority of these cases HEA decreases spontaneously with growth and no surgical intervention is needed; in the majority, HEA remains stable or rises slowly and the decision for surgery is deferred until the 60° threshold is reached or the clinical picture justifies early intervention.
 
 The recommended physical restrictions during observation are modest: avoidance of intense impact loading (competitive running and jumping sports) without routine restriction of everyday activity or of school physical education. The attempts of older authors to actively counteract progression with abduction braces have not shown efficacy and are not used today.
 
-</details>
-
-<details>
-<summary><strong>Surgical correction: valgus osteotomy of the proximal femur</strong></summary>
+### Surgical correction: valgus osteotomy of the proximal femur
 
 The standard operative treatment of established developmental coxa vara with HEA above 45–60° (depending on the rate of progression and the clinical picture) is valgus osteotomy of the proximal femur. This is a complex procedure that requires careful preoperative planning, an appropriate implant, and meticulous surgical execution. The principal technical variants are:
 
@@ -138,10 +128,7 @@ Opening-wedge osteotomy with bone graft: an alternative in which medial closure 
 
 The standards of execution, formulated by Wagner and continued by Tönnis, include: (a) slight overcorrection — the target NSA is 140–150° (sometimes up to 160° in very young children), since some loss of correction with growth is the rule; (b) an adduction component to the osteotomy in older and adolescent children, consistent with Pauwels' principles; (c) rigid fixation that allows early postoperative motion of the hip; (d) avoidance of unnecessary periosteal dissection in the zone of the osteotomy to preserve blood supply and to favor rapid healing; and (e) attention to anteversion in syndromic coxa vara, where a simultaneous rotational correction may be required.
 
-</details>
-
-<details>
-<summary><strong>Timing of surgical correction</strong></summary>
+### Timing of surgical correction
 
 The recommended age for surgical correction of established developmental coxa vara is between 3 and 6 years. Earlier surgery (under 3 years) is technically demanding because of the small size of the proximal femur and the limited platform for fixation; later surgery (after 8 years) increases technical complexity and makes adequate overcorrection harder to achieve.
 
@@ -149,16 +136,13 @@ In bilateral cases the standard is staged treatment — the more affected side f
 
 The postoperative protocol varies between centers: Wagner's classical approach required hip-knee spica immobilization for 6 weeks and prohibition of full weight-bearing for 12 weeks; modern practice with rigid internal fixation allows only soft protection (no spica), partial weight-bearing from 6 weeks, and full weight-bearing from 12 weeks. In all cases active hip flexion and abduction exercises are begun early (within the first 2–4 weeks) to prevent stiffness.
 
-</details>
-
 ## Outcomes and Complications
 
 Outcomes of valgus osteotomy for developmental coxa vara are generally good: in large series (Carroll, Weinstein, Borden, Coleman, Tönnis), in properly selected patients with adequate overcorrection, the physis is "brought" into normal or near-normal orientation, physeal bone formation is restored, the bone defect fills with new bone, NSA remains within the normal range to the end of growth, and abductor function recovers. The degree of functional recovery depends on: (a) the severity of the initial deformity; (b) the child's age at surgery — younger children have better remodeling potential; (c) the adequacy of overcorrection; (d) simultaneous correction of anteversion when indicated; and (e) in bilateral cases, the symmetry of bilateral treatment.
 
 Complications of surgical treatment are divided into early, intermediate, and late:
 
-<details>
-<summary><strong>Early complications</strong></summary>
+### Early complications
 
 Infection: rare (under 1%) in modern practice but always catastrophic. Prophylaxis is standard pediatric-dose antibiotics, meticulous sterility, and minimization of operative time.
 
@@ -168,10 +152,7 @@ Neurological injury: most commonly to the sciatic nerve in subtrochanteric osteo
 
 Malunion and delayed union: the risk is about 5–10% with the classical subtrochanteric wedge and depends on the quality of the bone contact and the stability of the fixation. Treatment is early re-fixation with additional bone grafting.
 
-</details>
-
-<details>
-<summary><strong>Intermediate and late complications</strong></summary>
+### Intermediate and late complications
 
 Loss of correction with growth: typically 5–10° and predictably allowed for in the preoperative plan by slight overcorrection. Greater loss is a sign of inadequate overcorrection or of continuation of the underlying disease.
 
@@ -189,53 +170,33 @@ Femoral neck pseudarthrosis: a rare but catastrophic complication of severely pr
 
 Degenerative arthritis in adulthood: the long-term fate of the hip after treated developmental coxa vara depends on the quality of correction, on preservation of the sphericity of the femoral head, and on secondary acetabular deformities. In the majority of cases function remains good to the fourth or sixth decade, but progressive degeneration is a real possibility and warrants follow-up with periodic radiographs in adult life. Total hip arthroplasty, when it becomes necessary, is technically more demanding than primary because of residual bone deformity and often requires specialized implants.
 
-</details>
-
 ## Coxa Vara in Skeletal Dysplasias
 
 Coxa vara is a frequent component of the phenotype of many skeletal dysplasias. Recognition of the underlying dysplasia is essential, because treatment of dysplastic coxa vara — though following the same principles as developmental coxa vara — differs substantially in the detail: the bone of a child with a dysplasia is more vulnerable, the physis is primarily disordered, physeal closure occurs earlier and more predictably, the risk of recurrence is higher, and additional deformities are usually present that require a complex plan.
 
-<details>
-<summary><strong>Cleidocranial dysplasia</strong></summary>
+### Cleidocranial dysplasia
 
 Cleidocranial dysplasia (CCD) is an autosomal dominant disorder caused by mutations in the RUNX2 (CBFA1) gene on chromosome 6p21, encoding a key transcription factor for osteoblast differentiation. The classical triad is aplasia or hypoplasia of the clavicles with compensatory shoulder droop, delayed closure of the cranial sutures with a large anterior fontanelle and extensive Wormian bones, and dental anomalies with delayed dentition and supernumerary permanent teeth. Coxa vara is one of the common skeletal manifestations, appearing in early childhood and often progressive. The particular feature is that in CCD the physis is primarily dysplastic and physeal bone formation is slowed, so that both surgical healing and postoperative growth-related correction are slower than expected. Treatment follows the general algorithm of valgus osteotomy but with emphasis on fixation (the implant must provide longer stabilization because of the slow healing) and on the timing of the correction — postponement to later childhood when possible.
 
-</details>
-
-<details>
-<summary><strong>Spondyloepiphyseal dysplasia (SED)</strong></summary>
+### Spondyloepiphyseal dysplasia (SED)
 
 Spondyloepiphyseal dysplasia is a group of autosomal dominant (SED congenita) and autosomal recessive (SED tarda) disorders of type II collagen, caused by mutations in the COL2A1 gene. Clinically they are characterized by disproportionate short-trunk dwarfism with relatively normal limbs, progressive deformities of the spine (kyphoscoliosis), and systemic joint deformities. Coxa vara is almost universal in SED congenita and often progresses rapidly in the first 5 years of life. In addition to varus, femoral head dysplasia is common with a small, irregularly ossified head and a wide, flat acetabulum. For these reasons, in SED the treatment of coxa vara is often part of a broader reconstructive strategy that includes acetabular reconstruction (Salter, Pemberton, or Dega), and the valgus femoral osteotomy is planned to improve not only NSA but also coverage of the femoral head. Outcomes are less predictable than in isolated developmental coxa vara and total hip arthroplasty in early adulthood is not uncommon.
 
-</details>
-
-<details>
-<summary><strong>Metaphyseal chondrodysplasia (Schmid type and Jansen type)</strong></summary>
+### Metaphyseal chondrodysplasia (Schmid type and Jansen type)
 
 Metaphyseal chondrodysplasia is a group of disorders of the metaphysis with disordered endochondral ossification. The Schmid type — autosomal dominant, caused by mutations in the COL10A1 gene for type X collagen — is relatively common and is characterized by mild to moderate disproportionate short-trunk dwarfism, varus deformity of the lower limbs, and characteristic metaphyseal changes on radiograph. Coxa vara is common and usually moderate; treatment follows the principles for developmental coxa vara but with emphasis on the systemic metaphyseal disturbance and the risk of recurrence. The Jansen type — a rare autosomal dominant disorder caused by activating mutations of the PTHR1 gene for the PTH/PTHrP receptor — is significantly more severe, with marked hypercalcemia, severe metaphyseal disturbance, and more severe coxa vara; treatment is highly specialized and often multidisciplinary.
 
-</details>
-
-<details>
-<summary><strong>Spondylometaphyseal dysplasia</strong></summary>
+### Spondylometaphyseal dysplasia
 
 Spondylometaphyseal dysplasia (SMD) groups together disorders with vertebral and metaphyseal involvement. The Kozlowski type is the best known and is characterized by severe metaphyseal disturbance, progressive scoliosis, and coxa vara presenting in early childhood. Treatment of coxa vara in this context follows the general algorithm with emphasis on the overall skeletal fragility and the need for simultaneous spinal assessment.
 
-</details>
-
-<details>
-<summary><strong>Campomelic dysplasia</strong></summary>
+### Campomelic dysplasia
 
 Campomelic dysplasia is a severe autosomal dominant disorder caused by mutations in the SOX9 gene for a cartilage transcription factor. The classical manifestation is bowing of the long bones (from the Greek *kampe* — bend, and *melos* — limb; literally "bent limb"), especially of the tibia, with a characteristic anterolateral curve; coxa vara is a frequently associated finding. Multiple systemic manifestations (respiratory failure from laryngeal and tracheal hypoplasia, sex-chromosome anomalies with XY sex reversal) often make the prognosis poor in the neonatal period.
 
-</details>
-
-<details>
-<summary><strong>Multiple epiphyseal dysplasia</strong></summary>
+### Multiple epiphyseal dysplasia
 
 Multiple epiphyseal dysplasia (MED) is a group of autosomal dominant (COMP, COL9A1/2/3, MATN3) and autosomal recessive (SLC26A2/DTDST) disorders that affect epiphyseal osteochondral formation at multiple joints. The clinical presentation is delayed ossification and incomplete development of the epiphyses of the long bones, in the limbs and in the spine, with mild disproportionate short stature and early symptomatic osteoarthritis. Coxa vara is frequently associated with the dysplastic, delayed-ossifying femoral head; the differential diagnosis from bilateral Perthes disease can be extraordinarily difficult in early childhood, and correct distinction has significant treatment implications.
-
-</details>
 
 ## Coxa Vara in Fibrous Dysplasia
 
@@ -287,110 +248,71 @@ Treatment follows the general principles — valgus osteotomy for significant NS
 
 The Pauwels biomechanical analysis of the proximal femur — published in two classical monographs (*Der Schenkelhalsbruch ein mechanisches Problem*, 1935, and *Atlas zur Biomechanik der gesunden und kranken Hüfte*, 1973; and in English translation as *Biomechanics of the Normal and Diseased Hip*, Springer, 1976) — provides the conceptual framework not only for the surgical treatment of coxa vara but for all of modern reconstructive hip surgery. The principal conceptual contributions of Pauwels are the following:
 
-<details>
-<summary><strong>The hip joint reaction force (R)</strong></summary>
+### The hip joint reaction force (R)
 
 In the single-leg (unipedal) phase of gait the hip joint is subject to substantial loading, not only from the body weight (W) of the longitudinally placed mass above the hip joint (approximately 5/6 of the total body mass when the supported limb is taken into account) but also from the tension of the hip abductors (M) needed to maintain a horizontal pelvis during stance on that leg. Pauwels formulated an equilibrium equation around the center of the femoral head: M × m = W × w, where m is the abductor moment arm (about 5 cm in normal anatomy) and w is the moment arm of body weight (about 12–14 cm, depending on the position of the body center of gravity). It follows that M = W × (w/m), which for typical values gives M ≈ 2.5–3 × W. The resultant of the two forces (R = M + W) is directed obliquely medial and downward and reaches 3.5–4 × W for ordinary gait and up to 7–8 × W for stair climbing and running.
 
 In coxa vara the abductor moment arm (m) is reduced (because the tip of the trochanter is closer to the center of the femoral head), which requires a larger M for the same W. This increases R and imposes greater loading on the proximal femoral neck and so on the physis. The converse — in coxa valga the moment arm is enlarged, M is reduced, and R is smaller.
 
-</details>
-
-<details>
-<summary><strong>Geometry of loading across the physis</strong></summary>
+### Geometry of loading across the physis
 
 The resultant R crosses the proximal physis at a particular angle that determines whether the component of R perpendicular to the physis (compressive) or the component parallel to the physis (shear) predominates. In a normal hip the angle between R and the physis is such that the compressive component is much larger than the shear; in coxa vara the physis is more vertical and the shear component grows at the expense of the compressive. At a critical physeal angle of about 35–40° above the horizontal, shear loading begins to predominate. Because physeal bone formation is stimulated by compression and inhibited by shear, the coxa-vara physis is subject to a self-sustaining vicious circle: varus reduces compression and increases shear, shear disturbs growth, disturbed growth deepens varus.
 
 This concept is the direct conceptual justification for the Pauwels intertrochanteric Y-osteotomy: rotating the proximal fragment so that the physis takes a more horizontal orientation relative to R restores the compressive pattern of loading and permits physeal healing. The same logic explains why simple increase of NSA (without account of the orientation of R) is inadequate in severe cases and why the combination of valgus with an adduction component — as in the classical Pauwels Y-osteotomy — is conceptually superior to a simple wedge.
 
-</details>
-
-<details>
-<summary><strong>Trigonometry of the planned correction</strong></summary>
+### Trigonometry of the planned correction
 
 Pauwels derived trigonometric equations for calculating the necessary wedge for a planned valgus correction. The simple subtrochanteric closing-wedge technique requires a wedge with a apex angle equal to the planned NSA correction (e.g., 30° correction → 30° wedge), but the wedge size (base) is equal to the width of the femur at the level of the osteotomy multiplied by tan(planned correction/2). For a typical 7-year-old with a femoral width of 25 mm at the level of the osteotomy and a planned correction of 30°, the base of the wedge is 25 × tan(15°) = 25 × 0.27 = 6.7 mm. The more complex intertrochanteric Y-osteotomy with simultaneous correction of tilt and rotation requires more complex geometry, usually illustrated by Pauwels with geometric diagrams.
-
-</details>
 
 The Pauwels analysis remains current in modern practice. Paley in *Principles of Deformity Correction* (Springer, 2002) summarizes and extends the Pauwels concepts in the more general framework of CORA (center of rotation of angulation) and LACS (limb anatomical and mechanical axis) analysis, while Sabharwal in *Pediatric Lower Limb Deformities* (Springer, 2016) translates these principles into practical algorithms for the choice of osteotomy in childhood.
 
 ## Surgical Techniques — Detailed Overview
 
-<details>
-<summary><strong>Subtrochanteric valgus osteotomy with pediatric blade plate</strong></summary>
+### Subtrochanteric valgus osteotomy with pediatric blade plate
 
 The classical technique, described by Coventry (1953) and developed by Wagner (1970s) and Tönnis (1987), is as follows: patient position — supine on a radiolucent table with a small roll under the affected side. Skin incision — lateral, from under the greater trochanter distally for about 10–15 cm. The approach passes through the fascia of the thigh and the iliotibial tract in line with the incision; the vastus lateralis is detached from the intermuscular septum and elevated forward, exposing the lateral cortex of the femur in the intertrochanteric and subtrochanteric region. Under image intensifier control a transverse osteotomy of the femur is made just distal to the lesser trochanter; the wedge is removed with apex medial and base lateral. The size and geometry of the wedge are planned preoperatively as described in the biomechanics section. The implant — a pediatric blade plate (Coventry, Wagner, or AO) with an appropriate angle — is inserted through the proximal fragment along a pre-planned trajectory so that after closure of the osteotomy the plate seats on the lateral surface of the distal fragment. Screws in the distal fragment stabilize the construct.
 
 The advantages of this technique are its relative simplicity, well-established efficacy, and the availability of suitable pediatric implants. The disadvantages are: the vertical correction is pure (without an adduction component), which may leave the physis still in a relatively vertical orientation in severe cases; implant placement in the proximal fragment can be technically demanding in very young children with a limited bone platform; and, in the absence of simultaneous rotational correction, rotational problems remain unresolved.
 
-</details>
-
-<details>
-<summary><strong>Pauwels intertrochanteric Y-osteotomy</strong></summary>
+### Pauwels intertrochanteric Y-osteotomy
 
 The classical Pauwels technique (1950s) is conceptually superior in severe coxa vara in older children and adolescents. The skin approach is similar to that for subtrochanteric osteotomy. A Y-shaped wedge is removed in the intertrochanteric region: the upper limb of the Y runs obliquely from lateral-cranial to medial-caudal; the lower limb runs obliquely from medial-cranial to lateral-caudal; and the central wedge fragment is "inscribed" between the two limbs. After removal of the wedge and manipulation of the proximal fragment into simultaneous valgus and adduction, the fragments are apposed and fixed with a pediatric blade plate or a pediatric hip screw device. The advantages are simultaneous correction of physeal tilt and an adduction component to reduce R; the disadvantages are significant technical complexity and a larger dissection zone in the intertrochanteric region with potentially increased risk to the blood supply of the head.
 
-</details>
-
-<details>
-<summary><strong>Opening-wedge osteotomy with bone graft</strong></summary>
+### Opening-wedge osteotomy with bone graft
 
 An alternative technique in which medial closure is avoided by opening-wedge osteotomy and insertion of a structural bone graft (autograft from the iliac crest or allograft from a bone bank). The advantage is that no bone is removed and limb length is preserved or slightly increased, which is useful in unilateral disease with anticipated significant limb-length discrepancy; the disadvantages are the additional donor-site morbidity (with autograft), a theoretically less stable construct, and a higher risk of loss of correction.
 
-</details>
-
-<details>
-<summary><strong>External fixation and gradual correction (Ilizarov/Paley)</strong></summary>
+### External fixation and gradual correction (Ilizarov/Paley)
 
 For severe multiplanar deformities with additional rotational and lengthening components and for syndromic developmental coxa vara in older children with limb-length discrepancy over 4–5 cm, external fixation by the Ilizarov method or with a hexapod (Taylor Spatial Frame) allows gradual correction of the three axes of the deformity plus lengthening in a single procedure. This technique, developed by the Soviet school of Ilizarov in the 1960s and popularized in the West by Paley and colleagues in the 1990s, remains indicated in complex cases and in selected centers.
 
-</details>
-
-<details>
-<summary><strong>Greater trochanteric advancement</strong></summary>
+### Greater trochanteric advancement
 
 The additional or secondary procedure of greater trochanteric advancement is indicated for established relative overgrowth of the trochanter with abductor dysfunction after earlier valgus osteotomy. The technique is performed through a lateral approach: osteotomy of the trochanteric apophysis at the plane of the base of the trochanter; the apophysis with the abductor muscle attachments is detached and transferred laterally and distally into the plane of the physiological abductor moment arm (m in the Pauwels analysis); refixation is by screws or by a transverse wire. The outcomes of this procedure are good in the great majority of cases and restore the effective abductor moment arm.
-
-</details>
 
 ## Complications, Differential Diagnosis, and Long-Term Outcomes
 
 The differential diagnosis of pediatric coxa vara covers a wide spectrum of conditions that may mimic the picture of classical developmental coxa vara and must be systematically distinguished:
 
-<details>
-<summary><strong>Developmental dysplasia of the hip (DDH)</strong></summary>
+### Developmental dysplasia of the hip (DDH)
 
 DDH with late treatment or late presentation can produce a varus appearance of the proximal femur with shortening of the neck, particularly in patients with prior acetabular remodeling or with residual dysplasia. The history of DDH in early childhood, the absence of the Fairbank triangle on radiographs, the dysplastic acetabulum (with increased acetabular index), and the often associated external signs (Ortolani and Barlow tests in the neonatal period, asymmetry of the thigh skin creases) distinguish DDH.
 
-</details>
-
-<details>
-<summary><strong>Legg–Calvé–Perthes disease</strong></summary>
+### Legg–Calvé–Perthes disease
 
 Perthes produces relative trochanteric overgrowth that resembles coxa vara on examination, but the radiographic features — fragmentation of the femoral head, metaphyseal cysts, widening of the medial joint space — and the typical age and presentation distinguish Perthes from isolated developmental coxa vara. In severe cases of Perthes a real varus component may also develop, requiring valgus osteotomy in combination with the measures usual for Perthes.
 
-</details>
-
-<details>
-<summary><strong>Slipped capital femoral epiphysis (SCFE)</strong></summary>
+### Slipped capital femoral epiphysis (SCFE)
 
 SCFE produces an apparent varus from the posterior slip of the head, but the older age (adolescence), the characteristic radiographic features — Klein's line not transecting the epiphysis, physeal widening, metaphyseal blanch — and the underlying pathogenesis distinguish SCFE from developmental coxa vara. Chronic stable SCFE may require similar valgus reconstructive osteotomy (Imhäuser–Southwick).
 
-</details>
-
-<details>
-<summary><strong>Tumors of the proximal femur</strong></summary>
+### Tumors of the proximal femur
 
 Cysts, osteochondromas, osteoid osteoma, and aneurysmal bone cyst in the proximal femoral metaphysis or neck can cause local weakness and deformity that resembles coxa vara. Systematic radiographic assessment of the lesion matrix, the presence of cortical reaction, and, if needed, biopsy distinguish the tumor conditions.
 
-</details>
-
-<details>
-<summary><strong>Metabolic disease</strong></summary>
+### Metabolic disease
 
 Hypophosphatemic rickets, vitamin D–dependent rickets, and severe fluorosis can produce varus deformity of the proximal femur in conjunction with a systemic metabolic disturbance and a characteristic radiographic pattern (physeal widening, poor calcium front, generalized osteomalacia). Biochemical workup (serum Ca, P, ALP, 25-OH vitamin D, PTH, fluoride excretion) is required in any suspicious coxa vara to exclude metabolic disease.
-
-</details>
 
 Long-term outcomes of treated and untreated coxa vara are relatively well documented in several large series. The natural history of untreated progressive developmental coxa vara is toward severe deformity, abductor dysfunction, limb-length discrepancy, formation of a femoral neck pseudarthrosis in the most severe cases, and accelerated degenerative arthritis of the hip in adulthood. Adequate surgical correction by valgus osteotomy restores hip mechanics in the great majority of cases and prevents the progression of these complications. Long-term outcomes depend substantially on the underlying etiology: developmental coxa vara without other anomalies has the best prognosis, with more than 80% satisfactory function in adulthood; coxa vara in the setting of skeletal dysplasia, post-infectious or post-traumatic changes is more variable and total hip arthroplasty in early adulthood is not uncommon.
 
@@ -398,82 +320,49 @@ Long-term outcomes of treated and untreated coxa vara are relatively well docume
 
 The world literature on coxa vara bears the imprint of particular national traditions in pediatric orthopaedics. This section summarizes the principal contributions by country, listed alphabetically by the English name of the country.
 
-<details>
-<summary><strong>Austria</strong></summary>
+### Austria
 
 Adolf Lorenz (Vienna, 1854–1946) and his school were among the first to address pediatric hip deformities systematically, including infantile coxa vara, in the context of the practice of the time for DDH and other congenital anomalies. Later, Reinhard Graf (Stolzalpe) developed the ultrasound assessment of the infant hip, which today is the standard for early assessment and for suspected developmental coxa vara.
 
-</details>
+### Bulgaria
 
-<details>
-<summary><strong>Bulgaria</strong></summary>
+The Bulgarian orthopaedic school treats coxa vara in the traditional textbooks of general and pediatric orthopaedics (Boycho Boychev and colleagues, *Surgical Orthopaedics*, 1969 and subsequent editions). In national practice the standard valgus osteotomies of Coventry/Wagner with pediatric blade plates are applied in specialized pediatric orthopaedic centers (UMHATEM "N. I. Pirogov" and SBALOZ) and in the university clinics in Sofia, Plovdiv, and Varna. The Bulgarian literature is consolidated in the modern textbooks of pediatric orthopaedics by the staff of the Medical University of Sofia.
 
-The Bulgarian orthopaedic school treats coxa vara in the traditional textbooks of general and pediatric orthopaedics (Boychev and colleagues, *Surgical Orthopaedics*, 1969 and subsequent editions). In national practice the standard valgus osteotomies of Coventry/Wagner with pediatric blade plates are applied in specialized pediatric orthopaedic centers (UMHATEM "N. I. Pirogov" and SBALOZ) and in the university clinics in Sofia, Plovdiv, and Varna. The Bulgarian literature is consolidated in the modern textbooks of pediatric orthopaedics by the staff of the Medical University of Sofia.
-
-</details>
-
-<details>
-<summary><strong>Canada</strong></summary>
+### Canada
 
 Mercer Rang (Toronto, 1933–2003) and Dennis Wenger summarized North American practice in *The Art and Practice of Children's Orthopaedics* (1993), with a practical emphasis on individualization of treatment in developmental and dysplastic coxa vara. The Canadian contribution to intertrochanteric osteotomy technique — especially in the context of SCFE and its sequelae — continues through the work of Robert Salter and his successors at SickKids.
 
-</details>
-
-<details>
-<summary><strong>Germany</strong></summary>
+### Germany
 
 The German contribution to the understanding and treatment of coxa vara is incontestably the most significant in the world literature. Friedrich Pauwels (Aachen, 1885–1980) established the biomechanical framework with his classical monograph *Der Schenkelhalsbruch ein mechanisches Problem* (Stuttgart, 1935) and the later *Atlas zur Biomechanik der gesunden und kranken Hüfte* (Springer, 1973); the Pauwels intertrochanteric Y-osteotomy remains the historical surgical benchmark. Heinrich Hilgenreiner (Prague/Vienna, 1870–1954) provided the line that bears his name, which serves as the basis of the Hilgenreiner–epiphyseal angle. Dietrich Tönnis (Dortmund) consolidated the modern principles of varus and valgus osteotomy in his monograph *Congenital Dysplasia and Dislocation of the Hip in Children and Adults* (Springer, 1987), in which he also describes the "wandering" of the triangular fragment with growth. Heinrich Wagner (Rheinfelden) developed the pediatric blade plate that bears his name and refined intertrochanteric osteotomy technique in the late 1960s and early 1970s. The more recent contribution of Reinhold Ganz (born in Switzerland but for much of his career in Bern and in Germany) to the understanding of the pericapital and periacetabular anatomy of the hip has left its mark on the differential diagnosis of coxa vara from early adulthood femoroacetabular impingement.
 
-</details>
-
-<details>
-<summary><strong>Italy</strong></summary>
+### Italy
 
 Renato Bombelli (Milan) developed the osteotomy principles for reconstruction of the varus dysplastic hip in adults in his monograph *Osteoarthritis of the Hip — Classification and Pathogenesis* (Springer, 1976; 2nd edition 1983) and emphasized the role of valgus-extension intertrochanteric osteotomy. The Italian tradition in pediatric orthopaedics (Rizzoli Institute, Bologna) continues to contribute to reconstructive strategies for complex pediatric hip deformities.
 
-</details>
-
-<details>
-<summary><strong>Japan</strong></summary>
+### Japan
 
 Takaaki Sugioka (Kurume, 1932–2018) developed the transtrochanteric rotational osteotomy, originally directed at joint-preserving surgery for avascular necrosis of the femoral head, but applicable also in complex deformities including sequelae of SCFE with a true varus component. The Japanese school in pediatric orthopaedics continues to contribute to reconstructive strategies for severe conditions.
 
-</details>
-
-<details>
-<summary><strong>Russia</strong></summary>
+### Russia
 
 Gavriil A. Ilizarov (Kurgan, 1921–1992) developed the principles of gradual bone correction by external fixation, which in modern orthopaedics are applied to severe multiplanar deformities of the proximal femur, including severe coxa vara in osteogenesis imperfecta, in multiple hereditary exostoses, and in post-infectious deformities. The Ilizarov school of Kurgan continues to contribute to reconstructive surgery of complex pediatric limb deformities.
 
-</details>
-
-<details>
-<summary><strong>Switzerland</strong></summary>
+### Switzerland
 
 The AO school of Davos — Maurice Müller (Bern), Martin Allgöwer (Basel), and colleagues — standardized pediatric blade plates and the principles of rigid bone fixation that are even today the basis of coxa vara surgery in Europe and a substantial part of the world. Reinhold Ganz (Bern) developed the periacetabular osteotomy, which in dysplastic coxa vara combined with acetabular dysplasia is used for reconstructive therapy in late adolescence and early adulthood.
 
-</details>
-
-<details>
-<summary><strong>Turkey</strong></summary>
+### Turkey
 
 The Turkish school of pediatric orthopaedics, centered in Ankara (Hacettepe University) and Istanbul, contributes to modern series on the outcomes of valgus osteotomy and to techniques for reconstruction of severe post-infectious deformities.
 
-</details>
-
-<details>
-<summary><strong>United Kingdom</strong></summary>
+### United Kingdom
 
 Sir Harold Fairbank (London, 1876–1961) first described the triangular bone fragment in the inferomedial corner of the femoral neck in developmental coxa vara in his monograph *Atlas of General Affections of the Skeleton* (1951); since then the fragment has borne his name. The British tradition in pediatric orthopaedics — represented by A. Graham Apley in *Apley's System of Orthopaedics and Fractures* — continues to define the standard of clinical assessment and operative indications.
 
-</details>
-
-<details>
-<summary><strong>United States</strong></summary>
+### United States
 
 The North American tradition of pediatric orthopaedics includes Mihran Tachdjian, John Herring (Texas Scottish Rite Hospital, Dallas) — whose *Tachdjian's Pediatric Orthopaedics* remains the world standard; Walter Borden and Robert Coleman — with a series of classical works on developmental coxa vara and on greater trochanteric advancement; Stuart Weinstein (University of Iowa) — who validated the Hilgenreiner–epiphyseal angle as a prognostic measure in 1984; Sanjeev Sabharwal — author of *Pediatric Lower Limb Deformities* (Springer, 2016) with practical algorithms for the choice of osteotomy; and Dror Paley — author of *Principles of Deformity Correction* (Springer, 2002), the conceptual basis of modern CORA analysis and osteotomy geometry.
-
-</details>
 
 ## Notes on Sources
 

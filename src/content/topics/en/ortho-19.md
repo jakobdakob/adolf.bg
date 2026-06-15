@@ -23,11 +23,9 @@ The lateral femoral circumflex artery (LFCA) contributes minimally to the femora
 
 The two critically vulnerable points in this vascular arrangement are: (1) the posterosuperior capsule of the femoral neck, where the retinacular branches are most densely grouped and may be disrupted by the sharp anterior metaphyseal edge during the slip or by aggressive reduction; and (2) the intracapsular course of the deep branch of the MFCA, which may be occluded by tamponade from an intra-articular hematoma in acute unstable SCFE. The landmark work of Gautier, Ganz, and colleagues (2000) on the vascular anatomy of the femoral head, confirmed by angiographic and laser-Doppler studies, provides the anatomic basis for the surgical hip dislocation approach and for the modified Dunn — the two procedures that allow anatomic reduction with preservation of the MFCA.
 
-<details>
-<summary>Classical distribution of the retinacular vessels (Trueta, Harris, Chung)</summary>
+### Classical distribution of the retinacular vessels (Trueta, Harris, Chung)
 
 The classic angiographic and injection studies of Trueta (1957) and Chung (1976) divided the blood supply of the adolescent femoral head into four groups: lateral epiphyseal vessels (the dominant group, from the deep branch of the MFCA, entering posterosuperiorly), superior metaphyseal vessels, inferior metaphyseal vessels (from the LFCA), and vessels of the ligamentum teres. The lateral epiphyseal vessels supply 75–80% of the blood to the adolescent femoral head and are almost entirely responsible for the weight-bearing posterosuperior surface, which collapses in classical post-SCFE AVN.
-</details>
 
 ## Epidemiology
 
@@ -55,11 +53,9 @@ The endocrine risk factors deserve specific mention because they have important 
 
 The classical teaching is that any patient with SCFE outside the typical age range (younger than 10 or older than 16) should undergo endocrine evaluation; many practitioners now recommend endocrine screening (TSH, IGF-1, electrolytes including calcium and phosphate, renal function) for any SCFE patient given the prevalence of subclinical endocrine disease.
 
-<details>
-<summary>SCFE in patients treated with recombinant growth hormone</summary>
+### SCFE in patients treated with recombinant growth hormone
 
 Honorific case series (Rappaport et al., Hresko et al.) describe SCFE as a frequent complication in children with growth hormone deficiency treated with recombinant replacement therapy. The mechanism is thought to be twofold: the underlying predilection from the endocrinopathy plus the accelerated physeal widening from the therapy. A low threshold for radiographic examination is recommended for knee or hip pain in a child on growth hormone therapy, particularly during the first 6–12 months of treatment.
-</details>
 
 ## Classification
 
@@ -117,11 +113,9 @@ The frog-lateral or true lateral view reveals the posterior slip of the epiphysi
 
 MRI may be useful in three specific situations: (1) early "pre-slip" SCFE, in which the physis shows widening and inflammatory changes but no obvious displacement on plain radiographs; (2) unstable SCFE, in which assessment of vascular compromise to the femoral head is required — absence of perfusion of the head on contrast-enhanced MRI has prognostic value for subsequent AVN; and (3) evaluation of "silent" contralateral SCFE in high-risk patients. CT may be used for three-dimensional surgical planning in severe deformity before modified Dunn or intertrochanteric osteotomy, but is rarely required for initial diagnosis.
 
-<details>
-<summary>Modified Oxford skeletal maturity score and contralateral slip risk</summary>
+### Modified Oxford skeletal maturity score and contralateral slip risk
 
 Loder and colleagues adapted the Oxford skeletal maturity score (which grades the degree of closure of the triradiate cartilage, ischial apophysis, and acetabulum on the AP radiograph) for prediction of contralateral slip risk. A score of 16 or lower at initial presentation predicts approximately a 96% risk of contralateral slip within 2 years, whereas a score of 22 or higher predicts less than 5% risk. This allows stratified decision-making for prophylactic contralateral fixation.
-</details>
 
 ## Principles of Treatment
 
@@ -147,11 +141,9 @@ The classical test to exclude intra-articular penetration is Moseley's "approach
 
 A single screw is the standard for most cases; some authors advocate two screws for severe slips or unstable disease, but single-screw fixation has the advantage of fewer complications, easier later removal, and is well-supported by the literature. Two-screw fixation carries the biomechanical advantage of greater rotational stability but also a higher risk of intra-articular penetration and chondrolysis.
 
-<details>
-<summary>The perpendicular axis — why direction is critical</summary>
+### The perpendicular axis — why direction is critical
 
 The screw must follow an axis perpendicular to the physis to minimize shear loading and maximize purchase in the epiphysis. Because the physis is displaced posteriorly and medially relative to the metaphysis, the screw entry point shifts increasingly anterior on the femoral neck with greater severity of slip. In severe slips the entry point may be so anterior as to overlie the medial femoral circumflex artery — an anatomic reason to consider alternative treatment by modified Dunn in severe deformity.
-</details>
 
 ## Management of Unstable SCFE
 
@@ -187,11 +179,9 @@ The surgical steps of the modified Dunn via the Ganz approach:
 
 Recommended postoperative care: complete protected weight-bearing for 6–8 weeks, followed by progressive weight-bearing with crutches for a further 6 weeks. First follow-up imaging with MRI for assessment of perfusion at 3 months.
 
-<details>
-<summary>When not to perform a modified Dunn</summary>
+### When not to perform a modified Dunn
 
 Even in the most experienced centers the modified Dunn is not the routine treatment for all SCFE. Relative contraindications include: a patient with prior fixation (typically an adult with a missed chronic SCFE and established arthritic deformity); a patient with active AVN on preoperative MRI (the procedure does not reverse established necrosis); a patient with a mild deformity (Southwick <30°) in whom the benefit of surgical dislocation does not justify the risk; and a center without sufficient experience with the Ganz surgical dislocation.
-</details>
 
 ## Prophylactic Contralateral Fixation
 
@@ -291,7 +281,7 @@ The cardinal teaching points are: examine the hip in any adolescent with knee pa
 
 Treatment of SCFE in Central and Eastern Europe reflects the broader European school, with accents from the German orthopedic tradition (Imhauser, Schmidt, Dietz) and from the Bernese repertoire of Switzerland (Ganz, Leunig, Siebenrock). The contributions selected below are ordered by country in alphabetical order.
 
-Bulgaria: Bulgarian pediatric orthopedics follows the leading European (predominantly German and Swiss) schools in the treatment of SCFE, with in situ fixation by a single cannulated screw as the standard procedure for stable disease. Spiridon Boychev and his successors at the Department of Pediatric Orthopedics of the Medical University — Sofia have adopted the classical screw fixation approach with consideration of prophylactic contralateral fixation in endocrinopathies. The sub-specialty of reconstructive young-adult hip surgery follows the modern principles of surgical hip dislocation and FAI correction, but the modified Dunn remains restricted to individual specialized centers.
+Bulgaria: Bulgarian pediatric orthopedics follows the leading European (predominantly German and Swiss) schools in the treatment of SCFE, with in situ fixation by a single cannulated screw as the standard procedure for stable disease. Boycho Boychev (1902–1971) and his successors at the Department of Pediatric Orthopedics of the Medical University — Sofia have adopted the classical screw fixation approach with consideration of prophylactic contralateral fixation in endocrinopathies. The sub-specialty of reconstructive young-adult hip surgery follows the modern principles of surgical hip dislocation and FAI correction, but the modified Dunn remains restricted to individual specialized centers.
 
 Germany: the German school has produced multiple landmark contributions. Drehmann described the pathognomonic sign of obligatory external rotation on flexion as early as the beginning of the twentieth century. Imhauser (Cologne, 1960s–1970s) developed and popularized the triplane intertrochanteric osteotomy for late correction of missed SCFE — an operation that remains a standard tool in the modern repertoire. Tönnis (Dortmund) presented in his classical textbook *Congenital Dysplasia and Dislocation of the Hip in Children* (1987) a comparative analysis of pediatric hip osteotomies, including the post-SCFE deformity.
 

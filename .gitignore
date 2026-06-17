@@ -21,3 +21,9 @@ yarn-error.log*
 .idea/
 scripts/__pycache__/
 _scripts/
+
+# v2 reference PDFs and artifacts (kept locally, never committed)
+/sources/
+/QA_REPORT_ortho_v4.md
+/QA_FIXES_LOG.md
+/Topic 01*.docx

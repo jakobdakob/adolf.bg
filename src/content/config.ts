@@ -4,11 +4,9 @@ const topics = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    lang: z.enum(["en", "bg"]),
-    kind: z.enum(["topic", "preface"]),
-    section: z.enum(["ortho", "trauma", "anatomy"]).optional(),
-    topicNumber: z.number().int().optional(),
+    section: z.enum(["orthopaedics", "traumatology", "anatomy"]),
     order: z.number().int(),
+    status: z.enum(["coming-soon", "draft", "published"]).default("coming-soon"),
   }),
 });
 

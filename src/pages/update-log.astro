@@ -1,0 +1,90 @@
+---
+import PaperLayout from "../layouts/PaperLayout.astro";
+---
+
+<PaperLayout
+  title="Update log — adolf.bg"
+  description="Update log for adolf.bg, a study companion for orthopaedics, traumatology, and surgical anatomy."
+>
+  <header class="title-block">
+    <h1 class="site-title">Update log</h1>
+    <p class="subtitle">A record of versions</p>
+  </header>
+
+  <article class="log-entry">
+    <h2>V3 — June 2026</h2>
+    <p>
+      The site has been rebuilt from the ground up. The previous two-column
+      layout served well, but the content beneath it had drifted across
+      versions, and the structure no longer matched how I think about the
+      curriculum. V3 starts from the canonical Bulgarian orthopaedic
+      syllabus — 31 topics in orthopaedics, 33 in traumatology, and 12 in
+      surgical anatomy — with English translations and the visual language
+      of a classical academic paper.
+    </p>
+    <p>
+      The site is currently a shell. Each topic page exists, but none have
+      been written yet. Content will be added topic by topic over the
+      coming weeks.
+    </p>
+  </article>
+
+  <article class="log-entry">
+    <h2>V2</h2>
+    <p>Thank you for using <em>adolf.bg</em>.</p>
+    <p>
+      Since the last version, 61 people have visited the site 1,221 times
+      and spent more than five days on it combined (128 hours). That is
+      far more than I ever expected, and I am grateful to every one of
+      you.
+    </p>
+    <p>
+      The usage data, the error logs, and your feedback pointed to a
+      handful of things, and V2 is built around them:
+    </p>
+    <ul>
+      <li>
+        Summaries are now longer and complete. The feedback form (17
+        responses) made clear that you would rather have a full summary
+        than a short one. Each topic is now synthesized from the MD files
+        of 218 books, with a narrow specialty book behind every topic.
+      </li>
+      <li>
+        Subchapters are easier to reach. They were hard to get to
+        directly, so the landing page now has a collapsible registry that
+        links straight to each one.
+      </li>
+      <li>
+        The submenus are gone. They added clutter without adding much, so
+        I removed them.
+      </li>
+      <li>
+        Dark mode is gone, and the design is simpler for it. Almost no
+        one used it, so rather than maintain two themes I simplified the
+        design down to one.
+      </li>
+      <li>
+        Images load reliably now. The dynamic embedding failed in just
+        under 2% of loads. A refresh fixed it, but that is friction you
+        should not have to deal with, so images are now static.
+      </li>
+      <li>
+        Classical references are gone. Out of 2,318 displayed links, they
+        were clicked twice, so the section came out.
+      </li>
+      <li>
+        The game is gone. Across every version (V1 through V2) it was
+        played for about 28 minutes total, and the full V2 build, the one
+        with the map, the battle arenas for each subtopic, and the
+        spaced-repetition memory, got just over a minute. It clearly was
+        not what the site is for, and removing it was the right call. I
+        am still a little sad about it.
+      </li>
+    </ul>
+    <p>Enjoy <em>adolf.bg</em> V2.<br />Jakob Adolf</p>
+  </article>
+
+  <footer class="footer">
+    <a href="/">&larr; Home</a>
+  </footer>
+</PaperLayout>

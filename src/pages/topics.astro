@@ -1,0 +1,62 @@
+---
+import PaperLayout from "../layouts/PaperLayout.astro";
+import { getCollection } from "astro:content";
+
+const topics = await getCollection("topics");
+
+const ortho = topics
+  .filter((t) => t.data.section === "orthopaedics")
+  .sort((a, b) => a.data.order - b.data.order);
+const trauma = topics
+  .filter((t) => t.data.section === "traumatology")
+  .sort((a, b) => a.data.order - b.data.order);
+const anatomy = topics
+  .filter((t) => t.data.section === "anatomy")
+  .sort((a, b) => a.data.order - b.data.order);
+
+const total = topics.length;
+---
+
+<PaperLayout
+  title="Index of topics — adolf.bg"
+  description="Index of all topics on adolf.bg."
+>
+  <header class="title-block">
+    <h1 class="site-title">Index of topics</h1>
+    <p class="subtitle">{total} topics across orthopaedics, traumatology, and surgical anatomy</p>
+  </header>
+
+  <h2 class="section-header">Orthopaedics</h2>
+  <ol class="toc-list">
+    {ortho.map((t) => (
+      <li>
+        <a href={`/orthopaedics/${t.slug}/`}>{t.data.title}</a>{" "}
+        <span class="status">— coming soon</span>
+      </li>
+    ))}
+  </ol>
+
+  <h2 class="section-header">Traumatology</h2>
+  <ol class="toc-list">
+    {trauma.map((t) => (
+      <li>
+        <a href={`/traumatology/${t.slug}/`}>{t.data.title}</a>{" "}
+        <span class="status">— coming soon</span>
+      </li>
+    ))}
+  </ol>
+
+  <h2 class="section-header">Surgical anatomy and surgical approaches</h2>
+  <ol class="toc-list">
+    {anatomy.map((t) => (
+      <li>
+        <a href={`/anatomy/${t.slug}/`}>{t.data.title}</a>{" "}
+        <span class="status">— coming soon</span>
+      </li>
+    ))}
+  </ol>
+
+  <footer class="footer">
+    <a href="/">&larr; Home</a>
+  </footer>
+</PaperLayout>

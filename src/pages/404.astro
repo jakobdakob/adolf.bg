@@ -1,55 +1,19 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import { url } from "../lib/topics";
+import PaperLayout from "../layouts/PaperLayout.astro";
 ---
-<BaseLayout
-  lang="bg"
-  title="Страницата не е намерена"
-  description="404 — page not found"
-  otherPath={url("/en/")}
-  currentSection="home"
->
-  <section class="nf">
-    <div class="nf-inner reveal">
-      <span class="eyebrow">404</span>
-      <h1 class="nf-title">Страницата не е намерена.</h1>
-      <p class="nf-subtitle">
-        Page not found. The page you requested may have been moved, renamed, or never existed.
-      </p>
-      <div class="nf-actions">
-        <a class="btn btn-primary" href={url("/bg/")}>Начало (BG)</a>
-        <a class="btn" href={url("/en/")}>Home (EN)</a>
-      </div>
-    </div>
-  </section>
-</BaseLayout>
 
-<style>
-  .nf {
-    max-width: var(--shell-width);
-    margin: 0 auto;
-    padding-left: var(--page-pad);
-    padding-right: var(--page-pad);
-    padding-top: clamp(var(--s-8), 12vw, var(--s-10));
-    padding-bottom: var(--s-10);
-  }
-  .nf-inner { max-width: 760px; }
-  .nf-title {
-    font-size: clamp(2.25rem, 6vw, 3.5rem);
-    font-weight: 700;
-    letter-spacing: -0.025em;
-    line-height: 1.05;
-    margin: var(--s-3) 0 var(--s-5);
-  }
-  .nf-subtitle {
-    color: var(--ink-muted);
-    font-size: 1.0625rem;
-    line-height: 1.55;
-    margin-bottom: var(--s-7);
-  }
-  .nf-actions {
-    display: flex;
-    gap: var(--s-3);
-    flex-wrap: wrap;
-  }
-</style>
+<PaperLayout title="Not found — adolf.bg" description="Page not found.">
+  <header class="title-block">
+    <h1 class="site-title">404</h1>
+    <p class="subtitle">Page not found</p>
+  </header>
+
+  <p style="text-align:center">
+    <a href="/">Return home</a>, or browse the
+    <a href="/topics/">index of topics</a>.
+  </p>
+
+  <footer class="footer">
+    Jakob Adolf &middot; 2026
+  </footer>
+</PaperLayout>

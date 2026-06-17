@@ -1,7 +1,27 @@
 ---
-// Root URL → BG landing rendered directly (no redirect).
-// Avoids the Safari iOS "Load cannot follow more than 20 redirections" loop
-// that the previous meta-refresh page produced.
-import Landing from "../components/Landing.astro";
+import PaperLayout from "../layouts/PaperLayout.astro";
 ---
-<Landing lang="bg" />
+
+<PaperLayout
+  title="adolf.bg"
+  description="Notes on orthopaedic surgery, traumatology, and surgical anatomy."
+>
+  <header class="title-block">
+    <h1 class="site-title">adolf.bg</h1>
+    <p class="subtitle">Notes on Orthopaedic Surgery</p>
+  </header>
+
+  <section class="abstract">
+    <p>Welcome.</p>
+    <p>
+      This is the third version of <em>adolf.bg</em>, a study companion for
+      orthopaedics, traumatology, and surgical anatomy. The previous
+      versions are catalogued in the <a href="/update-log/">update log</a>.
+      To begin, <a href="/topics/">enter the site</a>.
+    </p>
+  </section>
+
+  <footer class="footer">
+    Jakob Adolf &middot; 2026
+  </footer>
+</PaperLayout>

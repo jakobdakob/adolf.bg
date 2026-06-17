@@ -1,0 +1,37 @@
+---
+import PaperLayout from "../../layouts/PaperLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const topics = await getCollection("topics");
+  return topics.map((topic) => ({
+    params: { section: topic.data.section, slug: topic.slug },
+    props: { topic },
+  }));
+}
+
+const { topic } = Astro.props;
+
+const sectionLabel = {
+  orthopaedics: "Orthopaedics",
+  traumatology: "Traumatology",
+  anatomy: "Surgical anatomy",
+}[topic.data.section];
+---
+
+<PaperLayout
+  title={`${topic.data.title} — adolf.bg`}
+  description={topic.data.title}
+>
+  <p class="breadcrumb">{sectionLabel} &rarr; Topic {topic.data.order}</p>
+
+  <h1 class="topic-title">{topic.data.title}</h1>
+
+  <p class="coming-soon">— coming soon —</p>
+
+  <a class="back-link" href="/topics/">&larr; Index</a>
+
+  <footer class="footer">
+    Jakob Adolf &middot; 2026
+  </footer>
+</PaperLayout>

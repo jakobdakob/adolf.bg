@@ -8,11 +8,12 @@ status: published
 ## Contents
 
 - [Introduction and Scope](#introduction-and-scope)
-- [SECTION I - GENERAL CONSIDERATIONS](#section-i-general-considerations)
+- [SECTION I --- GENERAL CONSIDERATIONS](#section-i-----general-considerations)
   - [I.1 The Malignant Bone Tumours](#i1-the-malignant-bone-tumours)
   - [I.2 Classification (WHO 2020)](#i2-classification-who-2020)
   - [I.3 Diagnostic Approach](#i3-diagnostic-approach)
   - [I.4 Staging and Principles of Treatment](#i4-staging-and-principles-of-treatment)
+- [SECTION II --- PRIMARY MALIGNANT BONE TUMORS](#section-ii-----primary-malignant-bone-tumors)
   - [II.1 Osteosarcoma](#ii1-osteosarcoma)
   - [II.2 Chondrosarcoma](#ii2-chondrosarcoma)
   - [II.3 Ewing Sarcoma](#ii3-ewing-sarcoma)
@@ -22,12 +23,12 @@ status: published
   - [II.8 Plasma Cell Myeloma and Solitary Plasmacytoma](#ii8-plasma-cell-myeloma-and-solitary-plasmacytoma)
   - [II.9 Primary Lymphoma of Bone](#ii9-primary-lymphoma-of-bone)
   - [II.10 Other Rare Malignancies (Brief)](#ii10-other-rare-malignancies-brief)
-- [SECTION III - METASTATIC BONE DISEASE AND PATHOLOGICAL FRACTURES](#section-iii-metastatic-bone-disease-and-pathological-fractures)
+- [SECTION III --- METASTATIC BONE DISEASE AND PATHOLOGICAL FRACTURES](#section-iii-----metastatic-bone-disease-and-pathological-fractures)
   - [III.1 Metastatic Bone Disease](#iii1-metastatic-bone-disease)
   - [III.2 Pathological Fractures and Impending Fracture](#iii2-pathological-fractures-and-impending-fracture)
-  - [IV.1 Quick Reference - the Big Three plus Chordoma](#iv1-quick-reference-the-big-three-plus-chordoma)
+  - [IV.1 Quick Reference - the Big Three plus Chordoma](#iv1-quick-reference---the-big-three-plus-chordoma)
   - [IV.2 The Small Round Cell Tumours of Bone](#iv2-the-small-round-cell-tumours-of-bone)
-  - [IV.3 Chemo- and Radio-sensitivity at a Glance](#iv3-chemo-and-radio-sensitivity-at-a-glance)
+  - [IV.3 Chemo- and Radio-sensitivity at a Glance](#iv3-chemo--and-radio-sensitivity-at-a-glance)
   - [IV.4 The Bulgarian Operative Tradition (Boychev) and Terminology](#iv4-the-bulgarian-operative-tradition-boychev-and-terminology)
   - [IV.5 High-Yield Revision Summary](#iv5-high-yield-revision-summary)
 - [References](#references)
@@ -66,7 +67,7 @@ regimens, the freely-citable **NCI PDQ**, **ESMO guideline (Strauss
 **Womer/COG AEWS0031** (Ewing). Chemotherapy specifics that post-date
 the older textbooks are cited to those sources.
 
-# SECTION I - GENERAL CONSIDERATIONS
+# SECTION I --- GENERAL CONSIDERATIONS
 
 ## I.1 The Malignant Bone Tumours
 
@@ -192,6 +193,8 @@ A recurring exam contrast: **osteosarcoma is chemosensitive and
 radioresistant; Ewing is both chemo- and radiosensitive; chondrosarcoma
 and chordoma are resistant to both and treated by surgery.** \# SECTION
 II - PRIMARY MALIGNANT TUMOURS
+
+# SECTION II --- PRIMARY MALIGNANT BONE TUMORS
 
 ## II.1 Osteosarcoma
 
@@ -767,7 +770,7 @@ radiotherapy (not surgery); good prognosis.*
 - **Leiomyosarcoma and liposarcoma of bone:** exceedingly rare primary
   high-grade sarcomas, treated by wide resection.[^55]
 
-# SECTION III - METASTATIC BONE DISEASE AND PATHOLOGICAL FRACTURES
+# SECTION III --- METASTATIC BONE DISEASE AND PATHOLOGICAL FRACTURES
 
 ## III.1 Metastatic Bone Disease
 

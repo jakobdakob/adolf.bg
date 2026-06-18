@@ -30,8 +30,10 @@ const total = topics.length;
   <ol class="toc-list">
     {ortho.map((t) => (
       <li>
-        <a href={`/orthopaedics/${t.slug}/`}>{t.data.title}</a>{" "}
-        <span class="status">coming soon</span>
+        <a href={`/orthopaedics/${t.slug}/`}>{t.data.title}</a>
+        {t.data.status !== "published" && (
+          <>{" "}<span class="status">coming soon</span></>
+        )}
       </li>
     ))}
   </ol>
@@ -40,8 +42,10 @@ const total = topics.length;
   <ol class="toc-list">
     {trauma.map((t) => (
       <li>
-        <a href={`/traumatology/${t.slug}/`}>{t.data.title}</a>{" "}
-        <span class="status">coming soon</span>
+        <a href={`/traumatology/${t.slug}/`}>{t.data.title}</a>
+        {t.data.status !== "published" && (
+          <>{" "}<span class="status">coming soon</span></>
+        )}
       </li>
     ))}
   </ol>
@@ -50,8 +54,10 @@ const total = topics.length;
   <ol class="toc-list">
     {anatomy.map((t) => (
       <li>
-        <a href={`/anatomy/${t.slug}/`}>{t.data.title}</a>{" "}
-        <span class="status">coming soon</span>
+        <a href={`/anatomy/${t.slug}/`}>{t.data.title}</a>
+        {t.data.status !== "published" && (
+          <>{" "}<span class="status">coming soon</span></>
+        )}
       </li>
     ))}
   </ol>

@@ -12,4 +12,9 @@ export default defineConfig({
   build: {
     format: "directory",
   },
+  markdown: {
+    // Disable smartypants so `--` and `---` stay literal hyphens
+    // (V3 hard rule: no em/en dashes anywhere).
+    smartypants: false,
+  },
 });

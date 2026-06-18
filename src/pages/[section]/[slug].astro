@@ -11,12 +11,15 @@ export async function getStaticPaths() {
 }
 
 const { topic } = Astro.props;
+const { Content } = await topic.render();
 
 const sectionLabel = {
   orthopaedics: "Orthopaedics",
   traumatology: "Traumatology",
   anatomy: "Surgical anatomy",
 }[topic.data.section];
+
+const isPublished = topic.data.status === "published";
 ---
 
 <PaperLayout
@@ -27,7 +30,13 @@ const sectionLabel = {
 
   <h1 class="topic-title">{topic.data.title}</h1>
 
-  <p class="coming-soon">coming soon</p>
+  {isPublished ? (
+    <article class="topic-body">
+      <Content />
+    </article>
+  ) : (
+    <p class="coming-soon">coming soon</p>
+  )}
 
   <a class="back-link" href="/topics/">&larr; Index</a>
 

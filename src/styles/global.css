@@ -225,3 +225,206 @@ h1, h2, h3, h4 {
   margin: 0.7em 0;
   line-height: 1.5;
 }
+
+/* ============================================================
+   Topic body (published content from .md)
+   ============================================================ */
+
+.topic-body {
+  margin-top: 2.5em;
+}
+
+.topic-body h1 {
+  font-size: 1.2em;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-weight: normal;
+  text-align: center;
+  margin: 3em 0 1.2em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--rule);
+}
+
+.topic-body h1:first-child {
+  margin-top: 1em;
+}
+
+.topic-body h2 {
+  font-size: 1.05em;
+  font-style: italic;
+  font-weight: normal;
+  text-align: left;
+  margin: 2.2em 0 0.8em;
+  letter-spacing: normal;
+  font-variant: normal;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.topic-body h3 {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  text-align: left;
+  margin: 1.8em 0 0.5em;
+}
+
+.topic-body h4 {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  margin: 1.4em 0 0.4em;
+}
+
+.topic-body p {
+  margin: 0 0 1em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.topic-body ul,
+.topic-body ol {
+  padding-left: 1.6em;
+  margin: 0.8em 0 1.2em;
+}
+
+.topic-body ul li,
+.topic-body ol li {
+  text-align: left;
+  margin: 0.35em 0;
+  line-height: 1.5;
+  hyphens: auto;
+}
+
+.topic-body strong { font-weight: bold; }
+.topic-body em { font-style: italic; }
+
+/* Figures */
+.topic-body figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+.topic-body figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.topic-body figcaption {
+  font-size: 0.875em;
+  font-style: italic;
+  color: var(--ink-muted);
+  margin-top: 0.75em;
+  text-align: left;
+  line-height: 1.45;
+}
+
+.topic-body figcaption p {
+  margin: 0;
+  text-align: left;
+}
+
+.topic-body figcaption strong {
+  font-style: normal;
+  color: var(--ink);
+}
+
+/* Tables (thin grey grid) */
+.topic-body table {
+  width: 100%;
+  margin: 1.5em 0;
+  border-collapse: collapse;
+  font-size: 0.9375em;
+  line-height: 1.4;
+}
+
+.topic-body th,
+.topic-body td {
+  padding: 0.45em 0.7em;
+  border-bottom: 1px solid #cccccc;
+  text-align: left;
+  vertical-align: top;
+}
+
+.topic-body th {
+  border-bottom: 1px solid #888888;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+}
+
+/* Inline links inside body */
+.topic-body a {
+  color: var(--link);
+  border-bottom: 1px solid transparent;
+}
+
+.topic-body a:hover {
+  border-bottom-color: var(--link);
+}
+
+/* Footnotes (remark-gfm output) */
+.topic-body sup a {
+  text-decoration: none;
+  font-size: 0.75em;
+  border-bottom: none;
+}
+
+.topic-body .footnotes {
+  margin-top: 4em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--rule);
+  font-size: 0.875em;
+  color: var(--ink-muted);
+}
+
+.topic-body .footnotes hr {
+  display: none;
+}
+
+.topic-body .footnotes ol {
+  padding-left: 1.5em;
+}
+
+.topic-body .footnotes li {
+  margin: 0.4em 0;
+}
+
+.topic-body .footnotes li p {
+  margin: 0.2em 0;
+  text-align: left;
+}
+
+/* Blockquotes (rare but possible) */
+.topic-body blockquote {
+  margin: 1.5em 0;
+  padding-left: 1.2em;
+  border-left: 2px solid var(--rule);
+  color: var(--ink-muted);
+  font-style: italic;
+}
+
+/* Code (rare but possible) */
+.topic-body code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background: #f4f1e8;
+  padding: 0.05em 0.3em;
+  border-radius: 2px;
+}
+
+.topic-body pre {
+  background: #f4f1e8;
+  padding: 0.8em 1em;
+  overflow-x: auto;
+  font-size: 0.875em;
+  margin: 1.2em 0;
+}
+
+.topic-body pre code {
+  background: none;
+  padding: 0;
+}

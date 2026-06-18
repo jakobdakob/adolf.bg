@@ -8,26 +8,28 @@ status: published
 ## Contents
 
 - [Introduction and Scope](#introduction-and-scope)
-- [SECTION I - GENERAL CONSIDERATIONS](#section-i-general-considerations)
+- [SECTION I --- GENERAL CONSIDERATIONS](#section-i-----general-considerations)
   - [I.1 Definition and Concept](#i1-definition-and-concept)
   - [I.2 Classification](#i2-classification)
   - [I.3 General Diagnostic Approach](#i3-general-diagnostic-approach)
   - [I.4 General Principles of Treatment](#i4-general-principles-of-treatment)
   - [I.5 Surgical Staging, Margins, and Biopsy](#i5-surgical-staging-margins-and-biopsy)
   - [I.6 Operative Technique for Benign Bone Lesions](#i6-operative-technique-for-benign-bone-lesions)
+- [SECTION II --- INDIVIDUAL LESIONS](#section-ii-----individual-lesions)
   - [II.1 Solitary (Unicameral) Bone Cyst](#ii1-solitary-unicameral-bone-cyst)
   - [II.2 Aneurysmal Bone Cyst](#ii2-aneurysmal-bone-cyst)
   - [II.3 Juxta-articular Bone Cyst (Intraosseous Ganglion)](#ii3-juxta-articular-bone-cyst-intraosseous-ganglion)
   - [II.4 Fibrous Dysplasia](#ii4-fibrous-dysplasia)
   - [II.5 Osteofibrous Dysplasia and the Adamantinoma Spectrum](#ii5-osteofibrous-dysplasia-and-the-adamantinoma-spectrum)
-  - [II.6 Metaphyseal Fibrous Defect (Fibrous Cortical Defect / Non-ossifying Fibroma)](#ii6-metaphyseal-fibrous-defect-fibrous-cortical-defect-non-ossifying-fibroma)
+  - [II.6 Metaphyseal Fibrous Defect (Fibrous Cortical Defect / Non-ossifying Fibroma)](#ii6-metaphyseal-fibrous-defect-fibrous-cortical-defect--non-ossifying-fibroma)
   - [II.8 Brown Tumour of Hyperparathyroidism](#ii8-brown-tumour-of-hyperparathyroidism)
   - [II.9 Giant-Cell (Reparative) Granuloma](#ii9-giant-cell-reparative-granuloma)
   - [II.10 Myositis Ossificans (Heterotopic Ossification)](#ii10-myositis-ossificans-heterotopic-ossification)
   - [II.11 Intraosseous Epidermoid Cyst](#ii11-intraosseous-epidermoid-cyst)
   - [II.12 Other “Leave-Me-Alone” Lesions and Important Mimics](#ii12-other-leave-me-alone-lesions-and-important-mimics)
+- [SECTION III --- SYNTHESIS AND EXAM AIDS](#section-iii-----synthesis-and-exam-aids)
   - [III.1 Pattern-based Differential Diagnosis](#iii1-pattern-based-differential-diagnosis)
-  - [III.2 Quick Reference - Age, Site, and Signature](#iii2-quick-reference-age-site-and-signature)
+  - [III.2 Quick Reference - Age, Site, and Signature](#iii2-quick-reference---age-site-and-signature)
   - [III.3 The Giant-Cell Lesions Compared](#iii3-the-giant-cell-lesions-compared)
   - [III.4 When to Observe, Biopsy, or Operate](#iii4-when-to-observe-biopsy-or-operate)
   - [III.5 The Bulgarian Operative Tradition (Boychev) and Terminology](#iii5-the-bulgarian-operative-tradition-boychev-and-terminology)
@@ -65,7 +67,7 @@ contemporary therapeutics post-date the core reference texts (which were
 written between 1994 and 2016), the modern consensus is stated
 explicitly and flagged as such.
 
-# SECTION I - GENERAL CONSIDERATIONS
+# SECTION I --- GENERAL CONSIDERATIONS
 
 ## I.1 Definition and Concept
 
@@ -353,7 +355,7 @@ injection and percutaneous decompression for the simple cyst, selective
 arterial embolisation and sclerotherapy for the aneurysmal bone cyst,
 steroid injection for eosinophilic granuloma, and deformity-led fixation
 rather than curettage for fibrous dysplasia. \# SECTION II - THE
-INDIVIDUAL LESIONS
+# SECTION II --- INDIVIDUAL LESIONS
 
 ## II.1 Solitary (Unicameral) Bone Cyst
 
@@ -1500,6 +1502,8 @@ Wikimedia Commons.</p></figcaption>
 <img src="/images/topics/tumor-like-lesions-of-bone/image21.png"
 alt="Radiograph. Gorham-Stout “vanishing bone” disease - progressive osteolysis of the femur. Baba et al., CC BY-NC-SA 3.0 (non-commercial), via PMC." />
 \# SECTION III - SYNTHESIS AND EXAM AIDS
+
+# SECTION III --- SYNTHESIS AND EXAM AIDS
 
 ## III.1 Pattern-based Differential Diagnosis
 

@@ -8,11 +8,12 @@ status: published
 ## Contents
 
 - [Introduction and Scope](#introduction-and-scope)
-- [SECTION I - GENERAL CONSIDERATIONS](#section-i-general-considerations)
+- [SECTION I --- GENERAL CONSIDERATIONS](#section-i-----general-considerations)
   - [I.1 The Benign-Intermediate-Malignant Spectrum](#i1-the-benign-intermediate-malignant-spectrum)
   - [I.2 Classification (WHO 2020)](#i2-classification-who-2020)
   - [I.3 Diagnostic Approach](#i3-diagnostic-approach)
   - [I.4 Principles of Staging and Treatment](#i4-principles-of-staging-and-treatment)
+- [SECTION II --- INDIVIDUAL TUMORS](#section-ii-----individual-tumors)
   - [II.1 Osteoma](#ii1-osteoma)
   - [II.2 Osteoid Osteoma](#ii2-osteoid-osteoma)
   - [II.3 Osteoblastoma](#ii3-osteoblastoma)
@@ -24,9 +25,9 @@ status: published
   - [II.9 Haemangioma of Bone](#ii9-haemangioma-of-bone)
   - [II.10 Desmoplastic Fibroma of Bone](#ii10-desmoplastic-fibroma-of-bone)
   - [II.11 Other Benign Lesions (Brief)](#ii11-other-benign-lesions-brief)
-- [SECTION III - SYNTHESIS AND EXAM AIDS](#section-iii-synthesis-and-exam-aids)
+- [SECTION III --- SYNTHESIS AND EXAM AIDS](#section-iii-----synthesis-and-exam-aids)
   - [III.1 Pattern-based Differential Diagnosis](#iii1-pattern-based-differential-diagnosis)
-  - [III.2 Quick Reference - Age, Site, and Signature](#iii2-quick-reference-age-site-and-signature)
+  - [III.2 Quick Reference - Age, Site, and Signature](#iii2-quick-reference---age-site-and-signature)
   - [III.3 Malignant-Transformation Risks](#iii3-malignant-transformation-risks)
   - [III.4 When to Observe, Biopsy, or Operate](#iii4-when-to-observe-biopsy-or-operate)
   - [III.5 The Bulgarian Operative Tradition (Boychev) and Terminology](#iii5-the-bulgarian-operative-tradition-boychev-and-terminology)
@@ -66,7 +67,7 @@ biopsy, operative technique), and the Bulgarian operative atlas of
 therapeutic facts that post-date the older texts are cited to WHO 2020
 or current practice.
 
-# SECTION I - GENERAL CONSIDERATIONS
+# SECTION I --- GENERAL CONSIDERATIONS
 
 ## I.1 The Benign-Intermediate-Malignant Spectrum
 
@@ -180,6 +181,8 @@ the definitive resection, through one compartment, with meticulous
 haemostasis, and excision of the tract at surgery. A poorly-placed
 biopsy is a documented cause of unnecessary amputation. \# SECTION II -
 THE INDIVIDUAL TUMOURS
+
+# SECTION II --- INDIVIDUAL TUMORS
 
 ## II.1 Osteoma
 
@@ -930,7 +933,7 @@ tumour, most often of the **mandible** or sacrum; a sharply marginated
 lytic lesion with a sclerotic rim; histology shows Verocay bodies;
 marginal excision is curative.
 
-# SECTION III - SYNTHESIS AND EXAM AIDS
+# SECTION III --- SYNTHESIS AND EXAM AIDS
 
 ## III.1 Pattern-based Differential Diagnosis
 

@@ -32,6 +32,7 @@ status: published
   - [III.4 When to Observe, Biopsy, or Operate](#iii4-when-to-observe-biopsy-or-operate)
   - [III.5 The Bulgarian Operative Tradition (Boychev) and Terminology](#iii5-the-bulgarian-operative-tradition-boychev-and-terminology)
   - [III.6 High-Yield Revision Summary](#iii6-high-yield-revision-summary)
+- [References](#references)
 - [Figure Credits and Licences](#figure-credits-and-licences)
 
 # Introduction and Scope
@@ -1684,6 +1685,107 @@ replacement.
 - **Leave-me-alone & mimics** - intraosseous lipoma (calcaneus, fat
   signal), bone island (cold scan), Gorham-Stout (vanishing bone,
   sucked-candy, chylothorax).
+
+
+# References
+
+
+1.  Schajowicz F. *Tumors and Tumorlike Lesions of Bone: Pathology,
+    Radiology and Treatment.* 2nd ed. Berlin: Springer-Verlag, 1994 -
+    Chapter IX, “Tumorlike Lesions.”
+
+2.  Campanacci M. *Bone and Soft Tissue Tumors: Clinical Features,
+    Imaging, Pathology and Treatment.* 2nd ed. Vienna/New York:
+    Springer, 1999 - sections on simple and aneurysmal bone cyst,
+    intraosseous ganglion, massive osteolysis, fibrous and osteofibrous
+    dysplasia, Langerhans cell histiocytosis, brown tumours, and
+    reparative giant-cell granuloma.
+
+3.  Dorfman HD, Czerniak B. *Dorfman and Czerniak’s Bone Tumors.* 2nd
+    ed. Philadelphia: Elsevier, 2016 - Chapters 8 (Fibrous Dysplasia), 9
+    (Fibrous and Fibrohistiocytic Lesions), 10 (Giant Cell Lesions), 15
+    (Cystic Lesions), and 23 (Reactive and Metabolic Conditions
+    Simulating Neoplasms of Bone).
+
+4.  Бойчев Б. (Boychev B.) *Хирургическа ортопедия (Surgical
+    Orthopaedics).* Sofia - operative techniques: curettage and plombage
+    of bone cyst; osteoplastic resection after Boychev; wide and
+    musculoplastic resection for tumours.
+
+5.  Unni KK, Inwards CY. *Dahlin’s Bone Tumors: General Aspects and Data
+    on 10,165 Cases.* 6th ed. Philadelphia: Lippincott Williams &
+    Wilkins, 2010 (consulted as a comparative epidemiological
+    reference).
+
+6.  Key eponymous and primary sources cited within: Jaffe HL,
+    Lichtenstein L (aneurysmal bone cyst, 1942; fibrous dysplasia,
+    1938/1942; giant-cell reparative granuloma of the jaw, Jaffe 1953);
+    Lichtenstein L (histiocytosis X, 1953); Kempson RL (ossifying
+    fibroma of long bones, 1966); Campanacci M (osteofibrous dysplasia,
+    1976); Scaglietti O (intracystic methylprednisolone); Reynolds J
+    (fallen-fragment sign, 1969); Gorham LW, Stout AP (massive
+    osteolysis, 1955); Lorenzo JC, Dorfman HD (giant-cell reparative
+    granuloma, 1980).
+
+7.  WHO Classification of Tumours Editorial Board. *Soft Tissue and Bone
+    Tumours.* WHO Classification of Tumours, 5th ed. Lyon: IARC; 2020.
+
+8.  Oliveira AM, Perez-Atayde AR, Inwards CY, et al. USP6 and CDH11
+    oncogenes identify the neoplastic cell in primary aneurysmal bone
+    cysts and are absent in so-called secondary aneurysmal bone cysts.
+    *Am J Pathol.* 2004;165(5):1773-1780.
+
+9.  Weinstein LS, Shenker A, Gejman PV, Merino MJ, Friedman E, Spiegel
+    AM. Activating mutations of the stimulatory G protein in the
+    McCune-Albright syndrome. *N Engl J Med.* 1991;325(24):1688-1695.
+
+10. Badalian-Very G, Vergilio JA, Degar BA, et al. Recurrent BRAF
+    mutations in Langerhans cell histiocytosis. *Blood.*
+    2010;116(11):1919-1923.
+
+11. Shore EM, Xu M, Feldman GJ, et al. A recurrent mutation in the BMP
+    type I receptor ACVR1 causes inherited and sporadic fibrodysplasia
+    ossificans progressiva. *Nat Genet.* 2006;38(5):525-527.
+
+12. Gorham LW, Stout AP. Massive osteolysis (acute spontaneous
+    absorption of bone, phantom bone, disappearing bone): its relation
+    to hemangiomatosis. *J Bone Joint Surg Am.* 1955;37-A(5):985-1004.
+
+13. Enneking WF, Spanier SS, Goodman MA. A system for the surgical
+    staging of musculoskeletal sarcoma. *Clin Orthop Relat Res.*
+    1980;(153):106-120.
+
+14. Mankin HJ, Mankin CJ, Simon MA. The hazards of the biopsy,
+    revisited. Members of the Musculoskeletal Tumor Society. *J Bone
+    Joint Surg Am.* 1996;78(5):656-663.
+
+15. Bickels J, Wittig JC, Malawer MM, et al. *Operative Techniques in
+    Orthopaedic Surgical Oncology.* 2nd ed. Philadelphia: Wolters
+    Kluwer; 2015.
+
+16. Malawer MM, Sugarbaker PH, eds. *Musculoskeletal Cancer Surgery:
+    Treatment of Sarcomas and Allied Diseases.* Dordrecht: Kluwer
+    Academic; 2001.
+
+17. Pettersson H, Springfield DS, Enneking WF. *Radiologic Management of
+    Musculoskeletal Tumors.* Berlin: Springer-Verlag; 1987.
+
+18. Wold LE, Unni KK, Sim FH, Adler C-P, Sundaram M, Inwards CY. *Atlas
+    of Orthopedic Pathology.* 3rd ed. Philadelphia: Saunders/Elsevier;
+    2008.
+
+19. Salter RB. *Textbook of Disorders and Injuries of the
+    Musculoskeletal System.* 3rd ed. Baltimore: Williams & Wilkins;
+    1999.
+
+20. Greenspan A, Beltran J. *Orthopedic Imaging: A Practical Approach.*
+    6th ed. Philadelphia: Wolters Kluwer; 2015.
+
+21. Mirra JM, Picci P, Gold RH. *Bone Tumors: Clinical, Radiologic, and
+    Pathologic Correlations.* Philadelphia: Lea & Febiger; 1989.
+
+22. Bullough PG. *Orthopaedic Pathology.* 4th ed. Edinburgh: Mosby;
+    2004.
 
 # Figure Credits and Licences
 

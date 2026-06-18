@@ -31,6 +31,7 @@ status: published
   - [III.4 When to Observe, Biopsy, or Operate](#iii4-when-to-observe-biopsy-or-operate)
   - [III.5 The Bulgarian Operative Tradition (Boychev) and Terminology](#iii5-the-bulgarian-operative-tradition-boychev-and-terminology)
   - [III.6 High-Yield Revision Summary](#iii6-high-yield-revision-summary)
+- [References](#references)
 - [Figure Credits and Licences](#figure-credits-and-licences)
 
 # Introduction and Scope
@@ -1052,6 +1053,48 @@ Küntscher nail (the graft drilled to aid revascularisation), or by an
   T2.
 - **Desmoplastic fibroma** - bubbly lytic, behaves like low-grade
   fibrosarcoma, wide excision, no metastasis.
+
+
+# References
+
+
+1.  WHO Classification of Tumours Editorial Board. *Soft Tissue and Bone
+    Tumours.* WHO Classification of Tumours, 5th ed. Lyon: IARC; 2020.
+2.  Schajowicz F. *Tumors and Tumorlike Lesions of Bone: Pathology,
+    Radiology and Treatment.* 2nd ed. Berlin: Springer-Verlag; 1994.
+3.  Campanacci M. *Bone and Soft Tissue Tumors.* 2nd ed. Vienna/New
+    York: Springer; 1999.
+4.  Dorfman HD, Czerniak B. *Dorfman and Czerniak’s Bone Tumors.* 2nd
+    ed. Philadelphia: Elsevier; 2016.
+5.  Greenspan A, Beltran J. *Orthopedic Imaging: A Practical Approach.*
+    6th ed. Philadelphia: Wolters Kluwer; 2015.
+6.  Wold LE, Unni KK, Sim FH, Adler C-P, Sundaram M, Inwards CY. *Atlas
+    of Orthopedic Pathology.* 3rd ed. Philadelphia: Saunders/Elsevier;
+    2008.
+7.  Bickels J, Wittig JC, Malawer MM, et al. *Operative Techniques in
+    Orthopaedic Surgical Oncology.* 2nd ed. Philadelphia: Wolters
+    Kluwer; 2015.
+8.  Malawer MM, Sugarbaker PH, eds. *Musculoskeletal Cancer Surgery.*
+    Dordrecht: Kluwer Academic; 2001.
+9.  Behjati S, Tarpey PS, Presneau N, et al. Distinct H3F3A and H3F3B
+    driver mutations define chondroblastoma and giant cell tumour of
+    bone. *Nat Genet.* 2013;45(12):1479-1482.
+10. Amary MF, Bacsi K, Maggiani F, et al. IDH1 and IDH2 mutations are
+    frequent events in central chondrosarcoma and central and periosteal
+    chondromas but not in other mesenchymal tumours. *J Pathol.*
+    2011;224(3):334-343.
+11. Бойчев Б. (Boychev B.) *Хирургическа ортопедия (Surgical
+    Orthopaedics).* Sofia.
+12. Mirra JM, Picci P, Gold RH. *Bone Tumors: Clinical, Radiologic, and
+    Pathologic Correlations.* Philadelphia: Lea & Febiger; 1989.
+13. Bullough PG. *Orthopaedic Pathology.* 4th ed. Edinburgh: Mosby;
+    2004.
+
+*Note on currency: the molecular classification (FOS/FOSB, EXT1/EXT2,
+IDH1/IDH2, H3F3B K36M, H3F3A G34W, GRM1) and ICD-O behaviour codes are
+taken from the WHO Classification of Tumours: Soft Tissue and Bone
+Tumours, 5th ed. (2020); denosumab for giant cell tumour and
+radiofrequency ablation for osteoid osteoma reflect current practice.*
 
 # Figure Credits and Licences
 

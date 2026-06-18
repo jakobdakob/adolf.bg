@@ -30,6 +30,7 @@ status: published
   - [IV.3 Chemo- and Radio-sensitivity at a Glance](#iv3-chemo-and-radio-sensitivity-at-a-glance)
   - [IV.4 The Bulgarian Operative Tradition (Boychev) and Terminology](#iv4-the-bulgarian-operative-tradition-boychev-and-terminology)
   - [IV.5 High-Yield Revision Summary](#iv5-high-yield-revision-summary)
+- [References](#references)
 - [Figure Credits and Licences](#figure-credits-and-licences)
 
 # Introduction and Scope
@@ -975,6 +976,58 @@ arthrodesis, offers an alternative to amputation.
 - **Pathological fracture** - Mirels ≥8 → prophylactic fixation; durable
   load-bearing construct (IM nail ± cement); spinal mets - RT ±
   decompression/stabilisation.
+
+
+# References
+
+
+1.  WHO Classification of Tumours Editorial Board. *Soft Tissue and Bone
+    Tumours.* WHO Classification of Tumours, 5th ed. Lyon: IARC; 2020.
+2.  Schajowicz F. *Tumors and Tumorlike Lesions of Bone.* 2nd
+    ed. Berlin: Springer-Verlag; 1994.
+3.  Campanacci M. *Bone and Soft Tissue Tumors.* 2nd ed. Vienna/New
+    York: Springer; 1999.
+4.  Dorfman HD, Czerniak B. *Dorfman and Czerniak’s Bone Tumors.* 2nd
+    ed. Philadelphia: Elsevier; 2016.
+5.  Mirra JM, Picci P, Gold RH. *Bone Tumors: Clinical, Radiologic, and
+    Pathologic Correlations.* Philadelphia: Lea & Febiger; 1989.
+6.  Greenspan A, Beltran J. *Orthopedic Imaging: A Practical Approach.*
+    6th ed. Philadelphia: Wolters Kluwer; 2015.
+7.  Bickels J, Wittig JC, Malawer MM, et al. *Operative Techniques in
+    Orthopaedic Surgical Oncology.* 2nd ed. Philadelphia: Wolters
+    Kluwer; 2015.
+8.  Malawer MM, Sugarbaker PH, eds. *Musculoskeletal Cancer Surgery.*
+    Dordrecht: Kluwer Academic; 2001.
+9.  Court-Brown CM, Heckman JD, McQueen MM, et al., eds. *Rockwood and
+    Green’s Fractures in Adults.* 9th ed. Philadelphia: Wolters Kluwer;
+    2019 (pathological fractures).
+10. Browner BD, Jupiter JB, Krettek C, Anderson PA, eds. *Skeletal
+    Trauma.* 5th ed. Philadelphia: Elsevier; 2015 (metastatic bone
+    disease, pathological fractures).
+11. Mirels H. Metastatic disease in long bones: a proposed scoring
+    system for diagnosing impending pathologic fractures. *Clin Orthop
+    Relat Res.* 1989;(249):256-264.
+12. Whelan JS, Bielack SS, Marina N, et al. (EURAMOS-1 collaborators).
+    Methotrexate, doxorubicin, and cisplatin (MAP) for high-grade
+    osteosarcoma. *J Clin Oncol.* 2015;33(20):2279-2287.
+13. Womer RB, West DC, Krailo MD, et al. Randomized controlled trial of
+    interval-compressed chemotherapy for localized Ewing sarcoma (COG
+    AEWS0031). *J Clin Oncol.* 2012;30(33):4148-4154.
+14. Strauss SJ, Frezza AM, Abecassis N, et al. Bone sarcomas:
+    ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline. *Ann
+    Oncol.* 2021;32(12):1520-1536.
+15. National Cancer Institute. PDQ - Osteosarcoma and Ewing Sarcoma
+    Treatment (Health Professional versions). Bethesda: NCI (public
+    domain).
+16. Бойчев Б. (Boychev B.) *Хирургическа ортопедия (Surgical
+    Orthopaedics).* Sofia.
+
+*Note on currency: molecular classification and ICD-O codes are from WHO
+2020; chemotherapy regimens (osteosarcoma MAP; Ewing interval-compressed
+VDC/IE) and the Mirels operative threshold reflect the trials,
+guidelines and current practice cited above. Several entities’
+epidemiology and treatment differ between the older textbooks and
+current practice; where they conflict, the modern source is followed.*
 
 # Figure Credits and Licences
 

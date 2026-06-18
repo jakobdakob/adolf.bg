@@ -30,7 +30,6 @@ status: published
   - [IV.3 Chemo- and Radio-sensitivity at a Glance](#iv3-chemo-and-radio-sensitivity-at-a-glance)
   - [IV.4 The Bulgarian Operative Tradition (Boychev) and Terminology](#iv4-the-bulgarian-operative-tradition-boychev-and-terminology)
   - [IV.5 High-Yield Revision Summary](#iv5-high-yield-revision-summary)
-- [Appendix A - Viva Self-Test](#appendix-a-viva-self-test)
 - [Figure Credits and Licences](#figure-credits-and-licences)
 
 # Introduction and Scope
@@ -77,92 +76,47 @@ they strike a young population (osteosarcoma and Ewing peak in the
 second decade) and demand prompt, correct, centre-based management. The
 practical groups are:
 
--   **Bone-forming:** osteosarcoma (and its variants).
--   **Cartilage-forming:** chondrosarcoma (and its variants).
--   **Small round cell:** Ewing sarcoma; and, by differential, lymphoma,
-    myeloma, small-cell osteosarcoma, mesenchymal chondrosarcoma,
-    metastatic neuroblastoma.
--   **Notochordal:** chordoma.
--   **Epithelial:** adamantinoma.
--   **Fibrogenic / fibrohistiocytic:** fibrosarcoma, undifferentiated
-    pleomorphic sarcoma.
--   **Vascular:** angiosarcoma, epithelioid haemangioendothelioma.
--   **Haematopoietic:** plasma cell myeloma / plasmacytoma, primary
-    lymphoma of bone, myeloid sarcoma.
--   **Metastatic disease**, numerically the largest group of all.
+- **Bone-forming:** osteosarcoma (and its variants).
+- **Cartilage-forming:** chondrosarcoma (and its variants).
+- **Small round cell:** Ewing sarcoma; and, by differential, lymphoma,
+  myeloma, small-cell osteosarcoma, mesenchymal chondrosarcoma,
+  metastatic neuroblastoma.
+- **Notochordal:** chordoma.
+- **Epithelial:** adamantinoma.
+- **Fibrogenic / fibrohistiocytic:** fibrosarcoma, undifferentiated
+  pleomorphic sarcoma.
+- **Vascular:** angiosarcoma, epithelioid haemangioendothelioma.
+- **Haematopoietic:** plasma cell myeloma / plasmacytoma, primary
+  lymphoma of bone, myeloid sarcoma.
+- **Metastatic disease**, numerically the largest group of all.
 
 ## I.2 Classification (WHO 2020)
 
 The malignant and intermediate-malignant entities of this topic, with
 ICD-O codes and defining molecular alterations:
 
-  -
-  Tumour                  WHO behaviour / ICD-O   Defining molecular (WHO
-                                                  2020)
-  - - -
-  Conventional            malignant, 9180/3       complex karyotype,
-  osteosarcoma                                    chromothripsis; TP53,
-                                                  RB1
-
-  Low-grade central       malignant (low-grade),  MDM2 / CDK4
-  osteosarcoma            9187/3                  amplification
-                                                  (12q13-15)
-
-  Parosteal osteosarcoma  malignant (low-grade),  MDM2 / CDK4
-                          9192/3                  amplification; ring
-                                                  chromosomes
-
-  Periosteal osteosarcoma malignant               no MDM2/CDK4, no IDH
-                          (intermediate), 9193/3  
-
-  High-grade surface      malignant, 9194/3       as conventional
-  osteosarcoma                                    
-
-  Secondary osteosarcoma  malignant, 9184/3       complex karyotype
-  (Paget/radiation)                               
-
-  Atypical cartilaginous  intermediate, 9222/1    IDH1 / IDH2
-  tumour (appendicular                            
-  G1)                                             
-
-  Chondrosarcoma grade 1  malignant, 9222/3       IDH1 / IDH2
-  (axial)                                         
-
-  Chondrosarcoma grade    malignant, 9220/3       IDH1/2; CDKN2A, TP53
-  2-3                                            
-
-  Dedifferentiated        malignant, 9243/3       IDH1/2 + TP53 shared by
-  chondrosarcoma                                  both components
-
-  Mesenchymal             malignant, 9240/3       HEY1-NCOA2 fusion
-  chondrosarcoma                                  
-
-  Clear-cell              malignant (low-grade),  IDH-negative;
-  chondrosarcoma          9242/3                  chromosome 9 loss
-
-  Ewing sarcoma           malignant, 9364/3       EWSR1-FLI1 t(11;22)
-                                                  (\~85 %); CD99, NKX2-2
-
-  Chordoma                malignant, 9370/3       brachyury (TBXT)
-                                                  nuclear expression
-
-  Adamantinoma of long    malignant, 9261/3       epithelial;
-  bones                                           keratin+/vimentin+
-
-  Undifferentiated        malignant, 8802/3       none specific
-  pleomorphic sarcoma                             (diagnosis of
-  (ex-MFH)                                        exclusion)
-
-  Fibrosarcoma of bone    malignant, 8810/3       none specific
-
-  Plasma cell myeloma     malignant, 9732/3       cytogenetic risk
-                                                  (del17p, t(4;14)...)
-
-  Solitary plasmacytoma   malignant, 9731/3       -
-  of bone                                         
-
-  Primary DLBCL of bone   malignant, 9680/3       CD20+ B cell
-  -
+| Tumour | WHO behaviour / ICD-O | Defining molecular (WHO 2020) |
+|----|----|----|
+| Conventional osteosarcoma | malignant, 9180/3 | complex karyotype, chromothripsis; TP53, RB1 |
+| Low-grade central osteosarcoma | malignant (low-grade), 9187/3 | MDM2 / CDK4 amplification (12q13-15) |
+| Parosteal osteosarcoma | malignant (low-grade), 9192/3 | MDM2 / CDK4 amplification; ring chromosomes |
+| Periosteal osteosarcoma | malignant (intermediate), 9193/3 | no MDM2/CDK4, no IDH |
+| High-grade surface osteosarcoma | malignant, 9194/3 | as conventional |
+| Secondary osteosarcoma (Paget/radiation) | malignant, 9184/3 | complex karyotype |
+| Atypical cartilaginous tumour (appendicular G1) | intermediate, 9222/1 | IDH1 / IDH2 |
+| Chondrosarcoma grade 1 (axial) | malignant, 9222/3 | IDH1 / IDH2 |
+| Chondrosarcoma grade 2-3 | malignant, 9220/3 | IDH1/2; CDKN2A, TP53 |
+| Dedifferentiated chondrosarcoma | malignant, 9243/3 | IDH1/2 + TP53 shared by both components |
+| Mesenchymal chondrosarcoma | malignant, 9240/3 | HEY1-NCOA2 fusion |
+| Clear-cell chondrosarcoma | malignant (low-grade), 9242/3 | IDH-negative; chromosome 9 loss |
+| Ewing sarcoma | malignant, 9364/3 | EWSR1-FLI1 t(11;22) (~85 %); CD99, NKX2-2 |
+| Chordoma | malignant, 9370/3 | brachyury (TBXT) nuclear expression |
+| Adamantinoma of long bones | malignant, 9261/3 | epithelial; keratin+/vimentin+ |
+| Undifferentiated pleomorphic sarcoma (ex-MFH) | malignant, 8802/3 | none specific (diagnosis of exclusion) |
+| Fibrosarcoma of bone | malignant, 8810/3 | none specific |
+| Plasma cell myeloma | malignant, 9732/3 | cytogenetic risk (del17p, t(4;14)…) |
+| Solitary plasmacytoma of bone | malignant, 9731/3 | - |
+| Primary DLBCL of bone | malignant, 9680/3 | CD20+ B cell |
 
 The molecular one-liners worth memorising: **osteosarcoma = complex
 karyotype/chromothripsis** (no recurrent fusion); the two **low-grade
@@ -177,34 +131,33 @@ amplification**; **central/conventional chondrosarcoma = IDH1/IDH2**;
 The diagnosis is the deliberate triangulation of **clinical, imaging,
 and pathological** data, and biopsy is the *last* step, after staging.
 
--   **Age and site.** Osteosarcoma and Ewing peak in the second decade;
-    chondrosarcoma, chordoma, myeloma, and metastases are diseases of
-    adults and the elderly. Osteosarcoma is metaphyseal (around the
-    knee), Ewing diaphyseal, chordoma midline-axial, adamantinoma
-    tibial-diaphyseal, myeloma/metastases in the red-marrow axial
-    skeleton.
--   **Read the radiograph for aggressiveness.** A wide zone of
-    transition, a **moth-eaten or permeative** lytic pattern, cortical
-    destruction, an aggressive periosteal reaction (**sunburst, Codman
-    triangle, lamellated "onion-skin"**, characteristic but not
-    pathognomonic of any one tumour), and a soft-tissue mass all signal
-    malignancy. The matrix points to the lineage: cloud-like osteoid
-    (osteosarcoma), rings-and-arcs chondroid (chondrosarcoma), no matrix
-    (round-cell tumours, metastasis, UPS).
--   **Stage before biopsy.** MRI of the whole bone (marrow extent, skip
-    lesions, soft-tissue mass), CT chest (lung metastases), and a bone
-    scan / PET for multifocal disease. Biopsy then confirms the
-    diagnosis.
--   **Biopsy rules are critical and unchanged from Topic 1:** a
-    longitudinal incision in line with the future resection, through one
-    compartment, away from the neurovascular bundle, with meticulous
-    haemostasis and excision of the tract at surgery, performed by, or
-    at the centre of, the surgeon who will do the definitive operation.
-    A poorly-placed biopsy of a sarcoma can cost the limb.
--   **In an adult over 40, a destructive bone lesion is a metastasis or
-    myeloma until proven otherwise.** Even so, a *solitary* lesion must
-    still be biopsied before it is fixed, to avoid operating on an
-    unsuspected primary sarcoma as though it were a metastasis.
+- **Age and site.** Osteosarcoma and Ewing peak in the second decade;
+  chondrosarcoma, chordoma, myeloma, and metastases are diseases of
+  adults and the elderly. Osteosarcoma is metaphyseal (around the knee),
+  Ewing diaphyseal, chordoma midline-axial, adamantinoma
+  tibial-diaphyseal, myeloma/metastases in the red-marrow axial
+  skeleton.
+- **Read the radiograph for aggressiveness.** A wide zone of transition,
+  a **moth-eaten or permeative** lytic pattern, cortical destruction, an
+  aggressive periosteal reaction (**sunburst, Codman triangle,
+  lamellated “onion-skin”**, characteristic but not pathognomonic of any
+  one tumour), and a soft-tissue mass all signal malignancy. The matrix
+  points to the lineage: cloud-like osteoid (osteosarcoma),
+  rings-and-arcs chondroid (chondrosarcoma), no matrix (round-cell
+  tumours, metastasis, UPS).
+- **Stage before biopsy.** MRI of the whole bone (marrow extent, skip
+  lesions, soft-tissue mass), CT chest (lung metastases), and a bone
+  scan / PET for multifocal disease. Biopsy then confirms the diagnosis.
+- **Biopsy rules are critical and unchanged from Topic 1:** a
+  longitudinal incision in line with the future resection, through one
+  compartment, away from the neurovascular bundle, with meticulous
+  haemostasis and excision of the tract at surgery, performed by, or at
+  the centre of, the surgeon who will do the definitive operation. A
+  poorly-placed biopsy of a sarcoma can cost the limb.
+- **In an adult over 40, a destructive bone lesion is a metastasis or
+  myeloma until proven otherwise.** Even so, a *solitary* lesion must
+  still be biopsied before it is fixed, to avoid operating on an
+  unsuspected primary sarcoma as though it were a metastasis.
 
 ## I.4 Staging and Principles of Treatment
 
@@ -216,23 +169,23 @@ subdivided A (intracompartmental) or B (extracompartmental). Most
 osteosarcomas present as stage IIB. The **AJCC/UICC TNM** system (T by
 size, 8 cm cut-off; grade; metastasis) is also used.
 
-**Treatment.** Three modalities, combined according to the tumour's
+**Treatment.** Three modalities, combined according to the tumour’s
 biology:
 
--   **Surgery** is the backbone of local control: **wide en-bloc
-    resection** with limb salvage where feasible (achievable in \~80-90
-    % of extremity sarcomas after neoadjuvant chemotherapy), or
-    amputation when wide margins are otherwise unobtainable.
--   **Chemotherapy** is central and curative-intent for the
-    chemosensitive sarcomas (**osteosarcoma uses MAP; Ewing uses
-    VDC/IE**), given neoadjuvant then adjuvant; it is of no proven
-    benefit in conventional chondrosarcoma and chordoma.
--   **Radiotherapy** is reserved by radiosensitivity: **Ewing, lymphoma,
-    myeloma and metastases are radiosensitive**; **osteosarcoma,
-    chondrosarcoma and adamantinoma are radioresistant** (radiotherapy
-    only for unresectable disease, with a risk of post-radiation
-    sarcoma). High-dose proton/photon radiotherapy is a defined adjuvant
-    for chordoma and skull-base/spinal lesions.
+- **Surgery** is the backbone of local control: **wide en-bloc
+  resection** with limb salvage where feasible (achievable in ~80-90 %
+  of extremity sarcomas after neoadjuvant chemotherapy), or amputation
+  when wide margins are otherwise unobtainable.
+- **Chemotherapy** is central and curative-intent for the chemosensitive
+  sarcomas (**osteosarcoma uses MAP; Ewing uses VDC/IE**), given
+  neoadjuvant then adjuvant; it is of no proven benefit in conventional
+  chondrosarcoma and chordoma.
+- **Radiotherapy** is reserved by radiosensitivity: **Ewing, lymphoma,
+  myeloma and metastases are radiosensitive**; **osteosarcoma,
+  chondrosarcoma and adamantinoma are radioresistant** (radiotherapy
+  only for unresectable disease, with a risk of post-radiation sarcoma).
+  High-dose proton/photon radiotherapy is a defined adjuvant for
+  chordoma and skull-base/spinal lesions.
 
 A recurring exam contrast: **osteosarcoma is chemosensitive and
 radioresistant; Ewing is both chemo- and radiosensitive; chondrosarcoma
@@ -244,25 +197,25 @@ II - PRIMARY MALIGNANT TUMOURS
 **Definition / WHO.** A malignant mesenchymal tumour whose cells
 **produce bone or osteoid**; *any* amount of neoplastic osteoid suffices
 for the diagnosis.[^1] It is the commonest primary high-grade sarcoma of
-the skeleton (\~20 % of primary bone sarcomas).
+the skeleton (~20 % of primary bone sarcomas).
 
 **Epidemiology.** The age distribution is **bimodal**. A major peak
 falls in the **second decade** (≈60 % aged 10-20, coinciding with the
 growth spurt), and a smaller one follows after 40-50 years (these later
 cases are mostly secondary, arising in Paget disease or after
-radiation). Males predominate \~1.3 : 1.[^2]
+radiation). Males predominate ~1.3 : 1.[^2]
 
-**Sites.** The **metaphysis of long bones (\~90 %)**: distal femur (\~30
-%) \> proximal tibia ≈ proximal humerus (\~15 % each); about half occur
-around the knee. The diaphysis accounts for \~9 % and the epiphysis is
+**Sites.** The **metaphysis of long bones (~90 %)**: distal femur (~30
+%) \> proximal tibia ≈ proximal humerus (~15 % each); about half occur
+around the knee. The diaphysis accounts for ~9 % and the epiphysis is
 rarely involved; the jaws are the fourth site. Older and secondary
 tumours are more often axial.[^3]
 
 **Pathogenesis / molecular.** Conventional osteosarcoma has a **highly
 complex karyotype** with massive aneuploidy and **chromothripsis**
-("chromoanagenesis") in over 90 %, yet **no recurrent translocation**.
-**TP53 is inactivated in \>90 % and RB1 deleted in \~50 %**. Germline
-predisposition is present in \~18 % (Li-Fraumeni/TP53, hereditary
+(“chromoanagenesis”) in over 90 %, yet **no recurrent translocation**.
+**TP53 is inactivated in \>90 % and RB1 deleted in ~50 %**. Germline
+predisposition is present in ~18 % (Li-Fraumeni/TP53, hereditary
 retinoblastoma/RB1, and the RecQ-helicase syndromes Rothmund-Thomson,
 Werner and Bloom). **SATB2** is a sensitive but not specific
 osteoblastic immunomarker; **IDH1/2 is absent**, which helps separate
@@ -276,7 +229,7 @@ with relapse).[^5]
 
 **Imaging.** A **mixed lytic-sclerotic, permeative metaphyseal lesion**
 with ill-defined margins and cloud-like tumour mineralisation. After
-cortical breakthrough there is **"sunburst" spiculation, a Codman
+cortical breakthrough there is **“sunburst” spiculation, a Codman
 triangle**, and a soft-tissue mass (the Codman triangle and sunburst are
 characteristic but not pathognomonic, since they also occur in Ewing
 sarcoma and osteomyelitis). **CT** shows cortical destruction. **MRI**
@@ -288,7 +241,7 @@ screens for distant disease.[^6]
 essential is neoplastic osteoid/bone produced by frankly malignant,
 pleomorphic cells** with brisk and atypical mitoses, permeating marrow
 and host trabeculae. By predominant matrix the subtypes are
-**osteoblastic (\~80 %) \> chondroblastic (\~10 %) \> fibroblastic (\~10
+**osteoblastic (~80 %) \> chondroblastic (~10 %) \> fibroblastic (~10
 %)**, but subtype carries no independent prognostic or treatment
 significance. Conventional osteosarcoma is high-grade by definition.[^7]
 
@@ -303,44 +256,43 @@ reserved for unresectable disease.
 
 **Histological response (Huvos grading)** is the single most important
 prognostic factor: the **percentage of tumour necrosis after neoadjuvant
-chemotherapy**, with **≥90 % necrosis defined as a "good
-response."**[^9]
+chemotherapy**, with **≥90 % necrosis defined as a “good
+response.”**[^9]
 
 **Prognosis.** In localised, resectable extremity disease, long-term
-survival is **\~60-70 %** (good responders with complete resection
-exceed 80 %); in **metastatic or recurrent disease it is \<30 %**.
-Spread is haematogenous, reaching the **lungs first**. Adverse factors
-include an axial or proximal site, large size, metastases at diagnosis,
-and **\<90 % necrosis**.[^10]
+survival is **~60-70 %** (good responders with complete resection exceed
+80 %); in **metastatic or recurrent disease it is \<30 %**. Spread is
+haematogenous, reaching the **lungs first**. Adverse factors include an
+axial or proximal site, large size, metastases at diagnosis, and **\<90
+% necrosis**.[^10]
 
 **Variants (high-yield).**
 
--   **Telangiectatic (9180/3):** purely lytic, expansile, "bag of
-    blood," fluid-fluid levels on MRI; it mimics aneurysmal bone cyst,
-    but the septa contain frankly malignant cells with atypical mitoses;
-    chemo-sensitive, prognosis like conventional.[^11]
--   **Small-cell (9180/3):** mimics Ewing, but contains **lace-like
-    neoplastic osteoid** and is **SATB2-positive**; slightly worse
-    prognosis.
--   **Low-grade central (9187/3):** rare, third decade, long history;
-    fibrous-dysplasia-like radiograph; **MDM2/CDK4 amplification
-    (GNAS-negative)**; treated by **wide resection alone** (chemo only
-    if it dedifferentiates); \~90 % survival.
--   **Parosteal (9192/3):** the commonest surface osteosarcoma; older
-    patients (3rd-4th decade); a **densely ossified mass "pasted" on
-    the posterior distal-femoral cortex**, low-grade; **MDM2/CDK4
-    amplification (ring chromosomes)**; **wide excision alone** is
-    curative for the pure low-grade tumour; dedifferentiation in 15-43
-    %.
--   **Periosteal (9193/3):** intermediate-grade, chondroblastic,
-    **diaphyseal** surface tumour with perpendicular spicules; no
-    MDM2/CDK4, no IDH; better prognosis than conventional.
--   **High-grade surface (9194/3):** rarest; behaves and is treated like
-    conventional high-grade osteosarcoma.
--   **Secondary (9184/3):** in Paget disease (the second age peak; poor
-    prognosis, \~25 % 2-year survival) or post-radiation (latency \~10
-    years); high-grade, chemo-unresponsive, worse than de-novo
-    osteosarcoma.
+- **Telangiectatic (9180/3):** purely lytic, expansile, “bag of blood,”
+  fluid-fluid levels on MRI; it mimics aneurysmal bone cyst, but the
+  septa contain frankly malignant cells with atypical mitoses;
+  chemo-sensitive, prognosis like conventional.[^11]
+- **Small-cell (9180/3):** mimics Ewing, but contains **lace-like
+  neoplastic osteoid** and is **SATB2-positive**; slightly worse
+  prognosis.
+- **Low-grade central (9187/3):** rare, third decade, long history;
+  fibrous-dysplasia-like radiograph; **MDM2/CDK4 amplification
+  (GNAS-negative)**; treated by **wide resection alone** (chemo only if
+  it dedifferentiates); ~90 % survival.
+- **Parosteal (9192/3):** the commonest surface osteosarcoma; older
+  patients (3rd-4th decade); a **densely ossified mass “pasted” on the
+  posterior distal-femoral cortex**, low-grade; **MDM2/CDK4
+  amplification (ring chromosomes)**; **wide excision alone** is
+  curative for the pure low-grade tumour; dedifferentiation in 15-43 %.
+- **Periosteal (9193/3):** intermediate-grade, chondroblastic,
+  **diaphyseal** surface tumour with perpendicular spicules; no
+  MDM2/CDK4, no IDH; better prognosis than conventional.
+- **High-grade surface (9194/3):** rarest; behaves and is treated like
+  conventional high-grade osteosarcoma.
+- **Secondary (9184/3):** in Paget disease (the second age peak; poor
+  prognosis, ~25 % 2-year survival) or post-radiation (latency ~10
+  years); high-grade, chemo-unresponsive, worse than de-novo
+  osteosarcoma.
 
 **Exam pearls.** *Bone-producing malignancy, metaphyseal, teen; bimodal
 age (teen = primary, older = Paget/radiation); mixed lytic-sclerotic +
@@ -398,7 +350,7 @@ Commons.</strong></p></figcaption>
 **Definition / WHO.** A malignant tumour producing a **purely
 cartilaginous (chondroid) matrix**; direct neoplastic osteoid production
 excludes the diagnosis and means chondroblastic osteosarcoma instead. It
-is the second most frequent primary malignant bone tumour (\~25 %). Over
+is the second most frequent primary malignant bone tumour (~25 %). Over
 90 % are **conventional**; the rest are the dedifferentiated,
 mesenchymal and clear-cell variants.[^12]
 
@@ -412,7 +364,7 @@ femur, proximal humerus, ribs, scapula**. The short tubular bones of the
 hand are almost never the site of a genuine chondrosarcoma.[^14]
 
 **Pathogenesis / molecular.** Conventional central chondrosarcoma is
-driven by **IDH1 or IDH2 hotspot mutations** (\~50 %, up to \~80 % in
+driven by **IDH1 or IDH2 hotspot mutations** (~50 %, up to ~80 % in
 tumours arising in enchondromatosis). Secondary **peripheral**
 chondrosarcoma (from an osteochondroma) is **EXT1/EXT2**-driven and
 **IDH-negative**. High-grade tumours add CDKN2A loss and TP53
@@ -423,7 +375,7 @@ slow-growing**. The warning sign is **new, deep pain in a known or
 longstanding cartilage lesion, without a fracture**, which suggests
 malignant transformation.[^16]
 
-**Imaging.** A lytic lesion with a **chondroid "rings-and-arcs"/popcorn
+**Imaging.** A lytic lesion with a **chondroid “rings-and-arcs”/popcorn
 matrix**. The features that separate a low-grade chondrosarcoma (or
 atypical cartilaginous tumour) from a benign enchondroma are **deep
 endosteal scalloping (\>2/3 of the cortex), cortical thickening or
@@ -433,7 +385,7 @@ unmineralised soft-tissue mass.[^17]
 
 **Pathology and grading.** Lobules of malignant hyaline cartilage that
 **permeate marrow and entrap pre-existing host trabeculae** (replacing
-the benign "encasement" pattern of enchondroma). **Grading (1-3)**, by
+the benign “encasement” pattern of enchondroma). **Grading (1-3)**, by
 cellularity, nuclear atypia and mitoses, is one of the few sarcoma
 grades that genuinely predicts behaviour. WHO 2020 renames grade-1
 appendicular lesions **atypical cartilaginous tumour (ACT, 9222/1)**,
@@ -448,29 +400,29 @@ margins. Cartilage **seeds readily**, so the biopsy tract is always
 excised, and proton/photon radiotherapy serves as an adjuvant for
 inoperable skull-base or spinal lesions.[^19]
 
-**Prognosis.** By grade, 5-year survival is roughly **grade 1 \~90 %,
-grade 2 \~80 %, grade 3 \~30 %**. Metastasis (haematogenous, to lung)
+**Prognosis.** By grade, 5-year survival is roughly **grade 1 ~90 %,
+grade 2 ~80 %, grade 3 ~30 %**. Metastasis (haematogenous, to lung)
 rises with grade. **Late recurrence and metastasis (5-25 years)** are
 characteristic, and axial tumours fare worse than appendicular.[^20]
 
 **Variants.**
 
--   **Secondary peripheral** (from osteochondroma): younger (20-40),
-    pelvis/shoulder girdle; the validated alarm sign is an **MRI
-    cartilage cap \> 2 cm**; EXT-driven, IDH-negative; wide excision.
--   **Dedifferentiated (9243/3):** a low-grade cartilage tumour with an
-    **abrupt transition to a high-grade non-cartilaginous sarcoma**;
-    \~10-15 % of central chondrosarcomas; biphasic imaging; **dismal
-    prognosis (5-year \~7-24 %)**; surgery ± chemotherapy (one of the
-    chemo-considered exceptions, though largely refractory).
--   **Mesenchymal (9240/3):** young adults; biphasic, with primitive
-    small round cells plus islands of hyaline cartilage and a
-    haemangiopericytoma-like vasculature; defined by the **HEY1-NCOA2
-    fusion**; treated with **resection + chemotherapy** (the other
-    chemo-treated exception); very late metastases.
--   **Clear-cell (9242/3):** low-grade, **epiphyseal** (proximal
-    femur/humerus), mimics chondroblastoma; IDH-negative; **en-bloc
-    resection** (curettage recurs heavily).
+- **Secondary peripheral** (from osteochondroma): younger (20-40),
+  pelvis/shoulder girdle; the validated alarm sign is an **MRI cartilage
+  cap \> 2 cm**; EXT-driven, IDH-negative; wide excision.
+- **Dedifferentiated (9243/3):** a low-grade cartilage tumour with an
+  **abrupt transition to a high-grade non-cartilaginous sarcoma**;
+  ~10-15 % of central chondrosarcomas; biphasic imaging; **dismal
+  prognosis (5-year ~7-24 %)**; surgery ± chemotherapy (one of the
+  chemo-considered exceptions, though largely refractory).
+- **Mesenchymal (9240/3):** young adults; biphasic, with primitive small
+  round cells plus islands of hyaline cartilage and a
+  haemangiopericytoma-like vasculature; defined by the **HEY1-NCOA2
+  fusion**; treated with **resection + chemotherapy** (the other
+  chemo-treated exception); very late metastases.
+- **Clear-cell (9242/3):** low-grade, **epiphyseal** (proximal
+  femur/humerus), mimics chondroblastoma; IDH-negative; **en-bloc
+  resection** (curettage recurs heavily).
 
 **Exam pearls.** *Adult/older, axial/proximal, rings-and-arcs, indolent;
 pain in a known cartilage lesion = warning; entrapment of host bone +
@@ -496,8 +448,8 @@ transcription factor**. Ewing sarcoma and PNET form one entity along a
 spectrum of neural differentiation (the chest-wall variant is the
 **Askin tumour**).[^21]
 
-**Epidemiology.** The peak is in the **second decade** (\~85 % aged
-5-25); males predominate \~1.5 : 1; the tumour is **strikingly rare in
+**Epidemiology.** The peak is in the **second decade** (~85 % aged
+5-25); males predominate ~1.5 : 1; the tumour is **strikingly rare in
 Black and Asian populations**.[^22]
 
 **Sites.** The **diaphysis or metadiaphysis** of long bones (femur \>
@@ -505,28 +457,28 @@ tibia \> humerus), together with the **pelvis, ribs, and spine/sacrum**.
 It tends to involve a large portion of the bone.[^23]
 
 **Pathogenesis / molecular.** **t(11;22)(q24;q12) → EWSR1-FLI1** is
-found in \~85-90 % (EWSR1-ERG in most of the rest). The
-immunophenotype shows **strong membranous CD99 (MIC2)** (sensitive, not
-specific) and nuclear **NKX2-2**, with **PAS-positive intracytoplasmic
-glycogen**. (The "Ewing-like" CIC-rearranged and BCOR-rearranged
-round-cell sarcomas are now separate WHO entities.)[^24]
+found in ~85-90 % (EWSR1-ERG in most of the rest). The immunophenotype
+shows **strong membranous CD99 (MIC2)** (sensitive, not specific) and
+nuclear **NKX2-2**, with **PAS-positive intracytoplasmic glycogen**.
+(The “Ewing-like” CIC-rearranged and BCOR-rearranged round-cell sarcomas
+are now separate WHO entities.)[^24]
 
 **Clinical features.** Pain and swelling, often with a **systemic
-"inflammatory" picture mimicking osteomyelitis**: low-grade fever,
+“inflammatory” picture mimicking osteomyelitis**: low-grade fever,
 malaise, raised ESR and white count, anaemia, and a **raised LDH**
 (prognostic).[^25]
 
-**Imaging.** A **permeative, "moth-eaten" lytic diaphyseal lesion** with
-a **lamellated "onion-skin" periosteal reaction** (or fine perpendicular
+**Imaging.** A **permeative, “moth-eaten” lytic diaphyseal lesion** with
+a **lamellated “onion-skin” periosteal reaction** (or fine perpendicular
 spiculation and a Codman triangle) and, characteristically, a
 **soft-tissue mass disproportionately large** relative to the bone
 destruction; MRI shows the true extent.[^26]
 
 **Pathology.** Sheets of **uniform small round cells** with scant
 glycogen-rich cytoplasm, indistinct borders, finely dispersed chromatin
-and few mitoses; perivascular viable "pseudorosettes" with necrosis;
+and few mitoses; perivascular viable “pseudorosettes” with necrosis;
 **Homer-Wright rosettes** mark the PNET end. The gross tissue is soft
-and "brain-like," its necrotic liquefaction mimicking pus.[^27]
+and “brain-like,” its necrotic liquefaction mimicking pus.[^27]
 
 **Differential diagnosis.** **Osteomyelitis** (the closest
 clinical/imaging mimic), lymphoma of bone (older, larger cells,
@@ -544,8 +496,8 @@ radiotherapy is a genuine local-control option for unresectable tumours
 or inadequate margins.[^28]
 
 **Prognosis.** **Metastatic status is the single strongest predictor**;
-\~20-25 % are metastatic at diagnosis (lung \> bone \> nodes).
-Localised disease has a **5-year event-free survival of \~70 %** with
+~20-25 % are metastatic at diagnosis (lung \> bone \> nodes). Localised
+disease has a **5-year event-free survival of ~70 %** with
 interval-compressed chemotherapy, whereas metastatic disease fares
 poorly.[^29]
 
@@ -580,12 +532,12 @@ remnants; ICD-O 9370/3. The defining marker is **nuclear brachyury
 (TBXT)** expression.[^30]
 
 **Epidemiology.** Adults in the fifth to seventh decades; males
-predominate \~1.8 : 1; rare.[^31]
+predominate ~1.8 : 1; rare.[^31]
 
 **Sites.** **Midline axial only**: classically the **sacrococcyx, the
 clivus/spheno-occipital region, and the mobile spine**. (Older series
-put the sacrum at \~50 %; WHO SEER data distribute it more evenly, with
-skull base \~32 %, mobile spine \~33 %, sacrum \~29 %.)[^32]
+put the sacrum at ~50 %; WHO SEER data distribute it more evenly, with
+skull base ~32 %, mobile spine ~33 %, sacrum ~29 %.)[^32]
 
 **Pathogenesis / molecular.** **Nuclear brachyury (TBXT)** is the
 hallmark and the best discriminator from chondrosarcoma and carcinoma;
@@ -604,21 +556,21 @@ soft-tissue mass** and intratumoral calcifications; MRI shows a
 lobulated mass that is **very high in signal on T2**.[^35]
 
 **Pathology.** Lobules of epithelioid cells in **abundant myxoid
-matrix**, with the characteristic **physaliphorous ("bubbly",
+matrix**, with the characteristic **physaliphorous (“bubbly”,
 vacuolated) cells**; **brachyury+, cytokeratin+/EMA+, S100+**
 (chondrosarcoma is keratin- and brachyury-negative). Variants are
 chondroid, dedifferentiated (a high-grade sarcoma component,
 brachyury-lost), and poorly differentiated (SMARCB1-deficient).[^36]
 
 **Treatment.** **Wide en-bloc resection** is the treatment of choice,
-with **high-dose proton/photon radiotherapy (≈70-80 Gy)** as an
-adjuvant for marginal/contaminated margins or inoperable disease;
-chemotherapy is ineffective. Preserving at least one S3 nerve root
-avoids major functional loss in sacral resection.[^37]
+with **high-dose proton/photon radiotherapy (≈70-80 Gy)** as an adjuvant
+for marginal/contaminated margins or inoperable disease; chemotherapy is
+ineffective. Preserving at least one S3 nerve root avoids major
+functional loss in sacral resection.[^37]
 
 **Prognosis.** **High local recurrence** drives outcome; median survival
-is \~7 years. (The metastatic rate is debated: older series quote \~10
-%, while WHO notes that up to 40 % of non-skull-base tumours eventually
+is ~7 years. (The metastatic rate is debated: older series quote ~10 %,
+while WHO notes that up to 40 % of non-skull-base tumours eventually
 metastasise.)[^38]
 
 **Exam pearls.** *Midline (sacrum/clivus/spine), adult \>40, destructive
@@ -656,8 +608,8 @@ predominance; the **tibial diaphysis is involved in 80-90 %**
 (occasionally the ipsilateral fibula); the history is long, of slowly
 progressive painless swelling.[^40]
 
-**Imaging.** A **multiloculated "soap-bubble" osteolysis of the anterior
-tibial cortex**, expanding and thinning it with a sclerotic, "sawtooth"
+**Imaging.** A **multiloculated “soap-bubble” osteolysis of the anterior
+tibial cortex**, expanding and thinning it with a sclerotic, “sawtooth”
 margin; early lesions can be radiographically identical to osteofibrous
 dysplasia.[^41]
 
@@ -670,19 +622,17 @@ density distinguishes the OFD→OFD-like→classic spectrum.[^42]
 
 **Treatment and prognosis.** **Wide en-bloc resection** is required
 (intralesional/curettage recurs heavily, and the tumour is
-radioresistant). **\~15 % metastasise** (to lung and lymph nodes, late),
-but **\~90 % are cured** with adequate wide surgery.[^43]
+radioresistant). **~15 % metastasise** (to lung and lymph nodes, late),
+but **~90 % are cured** with adequate wide surgery.[^43]
 
 **Exam pearls.** *Soap-bubble, anterior tibial diaphysis, adult; the
 only truly epithelial bone tumour - keratin+ AND vimentin+,
 EMA−/factor-VIII−; OFD-adamantinoma spectrum; wide resection
-(radioresistant); \~15 % late lung/nodal metastases, \~90 % cure.*
+(radioresistant); ~15 % late lung/nodal metastases, ~90 % cure.*
 
-![Figure 11. Adamantinoma - multiloculated, expansile "soap-bubble"
-lytic lesion of the tibia. T-rex89 & Hellerhoff, CC BY-SA 4.0, Wikimedia
-Commons.](/images/topics/malignant-bone-tumors/rId102.jpg){width="4.0in"
-height="4.176889763779528in"} \## II.6 Fibrosarcoma and Undifferentiated
-Pleomorphic Sarcoma of Bone
+<img src="/images/topics/malignant-bone-tumors/rId102.jpg"
+alt="Figure 11. Adamantinoma - multiloculated, expansile “soap-bubble” lytic lesion of the tibia. T-rex89 &amp; Hellerhoff, CC BY-SA 4.0, Wikimedia Commons." />
+\## II.6 Fibrosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone
 
 **Definition / WHO.** **Fibrosarcoma** is a malignant spindle-cell
 tumour producing collagen but **no osteoid and no cartilage**, with a
@@ -693,7 +643,7 @@ high-grade, **storiform-pleomorphic** sarcoma diagnosed by
 exclusion.[^44]
 
 **Clinical / imaging.** Adults; metaphysis of long bones, around the
-knee. The lesion is **purely lytic, permeative and "moth-eaten", with
+knee. The lesion is **purely lytic, permeative and “moth-eaten”, with
 cortical destruction, a soft-tissue mass and NO matrix mineralisation**,
 that is, an aggressive lytic lesion without tumour bone or
 cartilage.[^45]
@@ -719,8 +669,8 @@ endothelial tumour, often **multifocal**. **Epithelioid
 haemangioendothelioma (EHE)** is a low-grade, indolent endothelial
 tumour, characteristically **multifocal in one limb** (tibia), defined
 by the **WWTR1-CAMTA1 fusion**. Endothelial markers **CD31, ERG and
-FLI1** are positive in \~95 %. Treatment follows grade: wide excision
-for EHE (good prognosis); wide resection ± radiotherapy/chemotherapy for
+FLI1** are positive in ~95 %. Treatment follows grade: wide excision for
+EHE (good prognosis); wide resection ± radiotherapy/chemotherapy for
 angiosarcoma (poor prognosis, frequent metastasis).[^47]
 
 ## II.8 Plasma Cell Myeloma and Solitary Plasmacytoma
@@ -729,14 +679,14 @@ angiosarcoma (poor prognosis, frequent metastasis).[^47]
 is a disseminated clonal plasma-cell neoplasm; **solitary plasmacytoma
 of bone (9731/3)** is a single bony clonal plasma-cell lesion without
 myeloma. Myeloma is **the most common primary malignant tumour of bone
-overall** and is always preceded by **MGUS** (which progresses at \~1
+overall** and is always preceded by **MGUS** (which progresses at ~1
 %/year).[^48]
 
 **Epidemiology.** Older adults (\>95 % over 40; peak 65-74); male
-predominance \~1.4 : 1; more common and more lethal in Black
+predominance ~1.4 : 1; more common and more lethal in Black
 populations.[^49]
 
-**Clinical features - "CRAB".** hyper**C**alcaemia, **R**enal
+**Clinical features - “CRAB”.** hyper**C**alcaemia, **R**enal
 insufficiency, **A**naemia, lytic **B**one lesions, with bone pain
 (axial), pathological fractures, recurrent infections, and (in 10-25 %)
 **amyloidosis**.[^50]
@@ -750,9 +700,9 @@ del17p and t(4;14)), the older **Durie-Salmon** system now largely
 historical. **Alkaline phosphatase is characteristically normal**
 (unlike hyperparathyroidism).[^51]
 
-**Imaging.** Multiple **"punched-out" lytic lesions with no reactive
+**Imaging.** Multiple **“punched-out” lytic lesions with no reactive
 sclerosis** in the red-marrow skeleton (skull, spine, pelvis, ribs); the
-**bone scan is typically negative ("cold")**, so **whole-body MRI or
+**bone scan is typically negative (“cold”)**, so **whole-body MRI or
 low-dose CT** has replaced the skeletal survey. The rare **sclerotic**
 variant signals **POEMS syndrome**.[^52]
 
@@ -762,7 +712,7 @@ variant signals **POEMS syndrome**.[^52]
 eligible patients; **bisphosphonates/denosumab** for skeletal events;
 **radiotherapy** for solitary plasmacytoma and palliation; and **surgery
 only to stabilise (impending) fractures or decompress the cord**. Median
-survival is now \~8 years. **Solitary plasmacytoma** is treated by
+survival is now ~8 years. **Solitary plasmacytoma** is treated by
 definitive **radiotherapy** but progresses to myeloma in the
 majority.[^53]
 
@@ -793,12 +743,12 @@ A **primary non-Hodgkin lymphoma of bone** (\>80 % **diffuse large
 B-cell lymphoma, 9680/3**) presents in adults (older than Ewing) with a
 destructive bone lesion but a **strikingly good general condition**.
 Imaging shows a **permeative lytic lesion with a large soft-tissue mass
-yet a relatively near-normal plain radiograph** ("big MRI mass, modest
-film"). Histology is sheets of **CD20-positive** large B cells (crush
-artefact is characteristic). Treatment is **chemoimmunotherapy -
-R-CHOP - ± radiotherapy** rather than primary surgery, and the
-**prognosis is relatively good** (best in localised stage I-E disease;
-age \>60 is the main adverse factor).[^54]
+yet a relatively near-normal plain radiograph** (“big MRI mass, modest
+film”). Histology is sheets of **CD20-positive** large B cells (crush
+artefact is characteristic). Treatment is **chemoimmunotherapy - R-CHOP
+- ± radiotherapy** rather than primary surgery, and the **prognosis is
+relatively good** (best in localised stage I-E disease; age \>60 is the
+main adverse factor).[^54]
 
 **Exam pearls.** *Adult, destructive lytic lesion but well patient +
 near-normal film with big soft-tissue mass; CD20+ DLBCL; R-CHOP ±
@@ -806,15 +756,15 @@ radiotherapy (not surgery); good prognosis.*
 
 ## II.10 Other Rare Malignancies (Brief)
 
--   **Myeloid sarcoma (chloroma):** a localised tumour of myeloblasts
-    that represents a form of acute myeloid leukaemia; treated as
-    systemic AML. In **children, acute leukaemia** classically causes
-    diffuse bone pain with metaphyseal lucent bands.
--   **Malignant giant cell tumour:** rare, usually **secondary after
-    radiotherapy** of a giant-cell tumour; many such lesions are
-    actually giant-cell-rich osteosarcoma/UPS; poor prognosis.
--   **Leiomyosarcoma and liposarcoma of bone:** exceedingly rare primary
-    high-grade sarcomas, treated by wide resection.[^55]
+- **Myeloid sarcoma (chloroma):** a localised tumour of myeloblasts that
+  represents a form of acute myeloid leukaemia; treated as systemic AML.
+  In **children, acute leukaemia** classically causes diffuse bone pain
+  with metaphyseal lucent bands.
+- **Malignant giant cell tumour:** rare, usually **secondary after
+  radiotherapy** of a giant-cell tumour; many such lesions are actually
+  giant-cell-rich osteosarcoma/UPS; poor prognosis.
+- **Leiomyosarcoma and liposarcoma of bone:** exceedingly rare primary
+  high-grade sarcomas, treated by wide resection.[^55]
 
 # SECTION III - METASTATIC BONE DISEASE AND PATHOLOGICAL FRACTURES
 
@@ -827,14 +777,14 @@ tumours**. In an adult over 40, a solitary destructive bone lesion is
 is the **third commonest metastatic site after lung and liver**.[^56]
 
 **The five classic primaries.** **Breast, prostate, lung, kidney, and
-thyroid** account for \~80 % of skeletal metastases; for breast and
+thyroid** account for ~80 % of skeletal metastases; for breast and
 prostate, bone is the commonest metastatic site. In children, bone
 metastases come from **neuroblastoma**.[^57]
 
 **Lytic vs blastic.** **Lytic** (osteoclast-driven via PTHrP/RANKL):
 kidney, lung, thyroid, much breast, GI, melanoma; of these, kidney and
-thyroid produce **expansile "blow-out" lesions**. **Blastic**:
-**prostate** par excellence (the "ivory vertebra"), some breast.
+thyroid produce **expansile “blow-out” lesions**. **Blastic**:
+**prostate** par excellence (the “ivory vertebra”), some breast.
 **Mixed**: breast and lung. **Purely lytic with a negative bone scan**
 suggests **myeloma**.[^58]
 
@@ -843,9 +793,9 @@ girdles**: spine (commonest), pelvis, proximal femur and humerus, ribs,
 skull. This mirrors red marrow and the **valveless Batson paravertebral
 venous plexus**, which lets pelvic and thoracic tumours seed the spine
 while bypassing the lung. Metastases are **rare distal to the elbow and
-knee**; when they occur there ("acral metastasis"), the **lung is the
+knee**; when they occur there (“acral metastasis”), the **lung is the
 commonest source**. A spinal metastasis shows early as a **missing
-pedicle ("winking owl")**.[^59]
+pedicle (“winking owl”)**.[^59]
 
 **Clinical features.** Progressive **pain, worse at night and not
 relieved by rest**; pathological fracture (sometimes through a
@@ -855,14 +805,14 @@ emergency); spinal cord compression; and the **skeletal-related events**
 (fracture, cord compression, hypercalcaemia, need for
 surgery/radiotherapy) that bone-targeted agents reduce.[^60]
 
-**Diagnosis - search for the primary, and biopsy the solitary
-lesion.** Examine breast, prostate, thyroid, chest and abdomen; obtain
-bloods including **serum/urine protein electrophoresis** (to exclude
-myeloma) and **PSA**; a **whole-body bone scan** (sensitive, but it can
-miss "cold" lytic myeloma/renal lesions, where **MRI/PET-CT** is
-better); and **CT chest/abdomen/pelvis** to find an occult primary (most
-often **lung**). **A solitary lesion must be biopsied before fixation**
-to avoid treating an unsuspected primary sarcoma as a metastasis;
+**Diagnosis - search for the primary, and biopsy the solitary lesion.**
+Examine breast, prostate, thyroid, chest and abdomen; obtain bloods
+including **serum/urine protein electrophoresis** (to exclude myeloma)
+and **PSA**; a **whole-body bone scan** (sensitive, but it can miss
+“cold” lytic myeloma/renal lesions, where **MRI/PET-CT** is better); and
+**CT chest/abdomen/pelvis** to find an occult primary (most often
+**lung**). **A solitary lesion must be biopsied before fixation** to
+avoid treating an unsuspected primary sarcoma as a metastasis;
 immunohistochemistry (PSA, ER/GATA3, TTF-1, PAX8/RCC, CDX2) points to
 the origin.[^61]
 
@@ -879,20 +829,14 @@ survival.[^62]
 ## III.2 Pathological Fractures and Impending Fracture
 
 **Predicting fracture - the Mirels score.** An impending fracture is
-quantified by **Mirels' system** (1989), scoring four variables 1-3:
+quantified by **Mirels’ system** (1989), scoring four variables 1-3:
 
-  -
-  Variable          1                 2                 3
-  - - - -
-  Site              upper limb        lower limb        peritrochanteric
-
-  Pain              mild              moderate          severe
-                                                        (functional)
-
-  Lesion            blastic           mixed             lytic
-
-  Size (cortex)     \<⅓               ⅓-⅔              \>⅔
-  -
+| Variable      | 1          | 2          | 3                   |
+|---------------|------------|------------|---------------------|
+| Site          | upper limb | lower limb | peritrochanteric    |
+| Pain          | mild       | moderate   | severe (functional) |
+| Lesion        | blastic    | mixed      | lytic               |
+| Size (cortex) | \<⅓        | ⅓-⅔        | \>⅔                 |
 
 A total of **≤7 may be observed/irradiated; ≥8 warrants prophylactic
 internal fixation** (before radiotherapy). (Some use ≥9 as a stricter
@@ -900,7 +844,7 @@ cut-off.) The classic clinical rule of thumb is also useful: a **painful
 lesion \>2.5 cm destroying \>50 % of the cortex** is
 fracture-prone.[^63]
 
-**Why fixation philosophy differs.** Only \~30-40 % of pathological
+**Why fixation philosophy differs.** Only ~30-40 % of pathological
 fractures unite even after radiotherapy, so the **implant must be
 load-bearing and durable enough to outlast the patient**. For the same
 reason **prophylactic fixation of an impending fracture is preferable to
@@ -927,7 +871,7 @@ current practice.) Vertebroplasty/kyphoplasty palliates painful stable
 compression fractures.[^66]
 
 **Exam pearls.** *Destructive lesion \>40 y = metastasis/myeloma until
-proven otherwise; breast-prostate-lung-kidney-thyroid (\~80 %); prostate
+proven otherwise; breast-prostate-lung-kidney-thyroid (~80 %); prostate
 = blastic, kidney/thyroid = lytic/blow-out, myeloma = lytic + cold scan;
 Batson plexus → spine; biopsy a solitary lesion before fixing it;
 embolise renal/thyroid before surgery; bisphosphonates/denosumab; Mirels
@@ -943,38 +887,25 @@ James Heilman, CC BY-SA 3.0, Wikimedia
 Commons.</strong></p></figcaption>
 </figure>
 
-![Figure 15. Pathological vertebral fracture - collapsed, wedged
-lumbar vertebral body. James Heilman, CC BY-SA 4.0, Wikimedia
-Commons.](/images/topics/malignant-bone-tumors/rId144.png){width="3.6in"
-height="4.509183070866142in"} \# SECTION IV - SYNTHESIS AND EXAM AIDS
+<img src="/images/topics/malignant-bone-tumors/rId144.png"
+alt="Figure 15. Pathological vertebral fracture - collapsed, wedged lumbar vertebral body. James Heilman, CC BY-SA 4.0, Wikimedia Commons." />
+\# SECTION IV - SYNTHESIS AND EXAM AIDS
 
 ## IV.1 Quick Reference - the Big Three plus Chordoma
 
-  -
-                    Osteosarcoma      Chondrosarcoma     Ewing sarcoma
-  - - - -
-  Age               2nd decade (+     adult/older (\>40) 2nd decade
-                    older 2°)                            
-
-  Site              metaphysis (knee) axial/proximal     diaphysis; pelvis
-                                      (pelvis)           
-
-  Matrix            osteoid (cloud,   chondroid          none (permeative,
-                    sunburst)         (rings-and-arcs)   onion-skin)
-
-  Molecular         complex karyotype IDH1/2 (central)   EWSR1-FLI1
-
-  Chemo             yes - MAP       no (resistant)     yes - VDC/IE
-
-  Radiotherapy      resistant         resistant          sensitive
-
-  5-yr (localised)  \~60-70 %        grade-dependent    \~70 %
-                                      (90→30 %)          
-  -
+|  | Osteosarcoma | Chondrosarcoma | Ewing sarcoma |
+|----|----|----|----|
+| Age | 2nd decade (+ older 2°) | adult/older (\>40) | 2nd decade |
+| Site | metaphysis (knee) | axial/proximal (pelvis) | diaphysis; pelvis |
+| Matrix | osteoid (cloud, sunburst) | chondroid (rings-and-arcs) | none (permeative, onion-skin) |
+| Molecular | complex karyotype | IDH1/2 (central) | EWSR1-FLI1 |
+| Chemo | yes - MAP | no (resistant) | yes - VDC/IE |
+| Radiotherapy | resistant | resistant | sensitive |
+| 5-yr (localised) | ~60-70 % | grade-dependent (90→30 %) | ~70 % |
 
 ## IV.2 The Small Round Cell Tumours of Bone
 
-When a biopsy shows "small round blue cells," several diagnoses must be
+When a biopsy shows “small round blue cells,” several diagnoses must be
 considered. **Ewing sarcoma** is CD99+ and glycogen+, carrying
 EWSR1-FLI1 and NKX2-2. **Lymphoma** occurs in older patients, stains
 CD20+, is reticulin-rich, and lacks glycogen. **Myeloma/plasmacytoma**
@@ -987,17 +918,17 @@ separates them.
 
 ## IV.3 Chemo- and Radio-sensitivity at a Glance
 
--   **Chemosensitive (cured around surgery):** osteosarcoma (MAP), Ewing
-    (VDC/IE), high-grade UPS/fibrosarcoma; mesenchymal and
-    dedifferentiated chondrosarcoma are chemo-*considered*.
--   **Radiosensitive:** Ewing, lymphoma, myeloma, most metastases (and
-    the adjunctive proton/photon role in chordoma).
--   **Resistant to both (surgery is the cure):** conventional
-    chondrosarcoma, chordoma, adamantinoma.
+- **Chemosensitive (cured around surgery):** osteosarcoma (MAP), Ewing
+  (VDC/IE), high-grade UPS/fibrosarcoma; mesenchymal and
+  dedifferentiated chondrosarcoma are chemo-*considered*.
+- **Radiosensitive:** Ewing, lymphoma, myeloma, most metastases (and the
+  adjunctive proton/photon role in chordoma).
+- **Resistant to both (surgery is the cure):** conventional
+  chondrosarcoma, chordoma, adamantinoma.
 
 ## IV.4 The Bulgarian Operative Tradition (Boychev) and Terminology
 
-Boychev's *Хирургическа ортопедия* contributes the indigenous
+Boychev’s *Хирургическа ортопедия* contributes the indigenous
 limb-salvage operation, along with the vocabulary expected in the
 Bulgarian examination.
 
@@ -1006,7 +937,7 @@ Bulgarian examination.
 slowly-growing low-grade malignancies (fibrosarcoma, chondrosarcoma) as
 well as aggressive benign tumours, the tumour-bearing bone end is
 divided **transversely, well clear of the lesion, and removed
-"ablastically" (no-touch)**. The gap is then bridged by a **local
+“ablastically” (no-touch)**. The gap is then bridged by a **local
 autograft rotated 180°** (from the anterior tibia when the distal femur
 is resected, or the anterior femur when the proximal tibia is resected),
 fixed between medial and lateral plates whose screws engage both, giving
@@ -1015,192 +946,35 @@ are correspondingly wider. Here a **frozen allograft (алотрансплант
 fixed by plate or **Küntscher nail (кюнчеров пирон)**, or an alloplastic
 arthrodesis, offers an alternative to amputation.
 
-**Glossary (Bulgarian → English).**
-
-  -
-  Bulgarian                           English
-  - -
-  злокачествен тумор                  malignant tumour
-
-  остеосарком; сарком на Юинг         osteosarcoma; Ewing sarcoma
-
-  хондросарком                        chondrosarcoma
-
-  хордом                              chordoma
-
-  миелом; плазмоцитом                 myeloma; plasmacytoma
-
-  метастаза; костни метастази         metastasis; bone metastases
-
-  патологична фрактура                pathological fracture
-
-  широка резекция; ампутация          wide resection; amputation
-
-  костно-пластична резекция;          osteoplastic resection;
-  абластично                          ablastically (no-touch)
-
-  лъчелечение; химиотерапия           radiotherapy; chemotherapy
-
-  алотрансплантат; кюнчеров пирон     allograft; Küntscher nail
-  -
-
 ## IV.5 High-Yield Revision Summary
 
--   **Osteosarcoma** - teen, metaphyseal, osteoid + sunburst/Codman;
-    MAP chemo (≥90 % necrosis = good response); radioresistant; complex
-    karyotype; parosteal & low-grade central = surgery alone, MDM2/CDK4.
--   **Chondrosarcoma** - adult, axial/proximal, rings-and-arcs;
-    chemo/radio-resistant → wide surgery; IDH (central) vs EXT
-    (peripheral); dedifferentiated = dismal.
--   **Ewing** - teen, diaphyseal, onion-skin + big soft-tissue mass,
-    fever/ESR/LDH; CD99 + glycogen + EWSR1-FLI1; VDC/IE; radiosensitive.
--   **Chordoma** - midline (sacrum/clivus), physaliphorous cells,
-    **brachyury+**; wide resection + proton RT; never biopsy
-    transrectally.
--   **Adamantinoma** - soap-bubble anterior tibia; epithelial
-    (keratin+/vimentin+); wide resection; \~15 % late mets, \~90 % cure.
--   **UPS/fibrosarcoma** - aggressive lytic, no matrix; herringbone vs
-    storiform; secondary on Paget/infarct/radiation; treat high-grade
-    like osteosarcoma.
--   **Myeloma** - commonest primary bone malignancy; CRAB;
-    punched-out + cold scan + normal ALP; M-protein; systemic therapy ±
-    transplant; MGUS precursor.
--   **Lymphoma of bone** - DLBCL, well patient, near-normal film + big
-    mass; CD20+; R-CHOP ± RT; good prognosis.
--   **Metastasis** - most common malignant bone tumour;
-    breast/prostate/lung/kidney/thyroid; Batson plexus → spine; biopsy
-    solitary lesion before fixation; embolise renal/thyroid.
--   **Pathological fracture** - Mirels ≥8 → prophylactic fixation;
-    durable load-bearing construct (IM nail ± cement); spinal mets -
-    RT ± decompression/stabilisation.
-
-# Appendix A - Viva Self-Test
-
-**1. A 15-year-old has knee pain and a metaphyseal mixed lytic-sclerotic
-lesion with a sunburst pattern and Codman triangle. Diagnosis and
-management?** Osteosarcoma. Stage with MRI of the whole bone to catch
-skip lesions, then CT chest and a bone scan; biopsy through a planned
-resection tract. Treatment runs neoadjuvant MAP chemotherapy, wide
-resection (limb salvage), then adjuvant MAP. The percentage tumour
-necrosis (≥90 % = good response) is the key prognostic factor.
-Osteosarcoma is radioresistant.
-
-**2. How do osteosarcoma, chondrosarcoma and Ewing differ in age,
-matrix, and treatment?** Osteosarcoma - teen, osteoid matrix,
-chemosensitive (MAP), radioresistant. Chondrosarcoma - older adult,
-chondroid matrix, resistant to chemo and radiotherapy (surgery cures).
-Ewing - teen, no matrix (permeative, onion-skin), both chemo- and
-radiosensitive (VDC/IE + surgery/RT).
-
-**3. A teenager has a diaphyseal permeative lesion with onion-skin
-periosteal reaction, a large soft-tissue mass, fever and a raised ESR.
-Diagnosis and the main differential?** Ewing sarcoma, confirmed by small
-round CD99+ cells with glycogen and the EWSR1-FLI1 fusion. The main
-clinical mimic is osteomyelitis; biopsy and culture settle it.
-
-**4. Why is chondrosarcoma treated so differently from osteosarcoma?**
-It resists both chemo and radiotherapy, so **wide en-bloc surgical
-resection is the only effective treatment**. Grade predicts behaviour,
-and because cartilage seeds readily, the biopsy tract is excised.
-
-**5. A destructive midline sacral mass with a presacral component in a
-55-year-old. Diagnosis, the defining marker, and a biopsy caveat?**
-Chordoma; **nuclear brachyury** is the defining marker, distinguishing
-it from chondrosarcoma. Never biopsy a sacral chordoma transrectally.
-Treat by wide en-bloc resection ± high-dose proton/photon radiotherapy.
-
-**6. What makes adamantinoma unique among bone tumours?** It is
-genuinely **epithelial**, being keratin-positive *and* vimentin-positive
-(EMA- and factor-VIII-negative). It arises in the anterior tibial
-diaphysis ("soap-bubble"), sits on the osteofibrous-dysplasia spectrum,
-and needs wide resection (radioresistant). About 15 % metastasise late,
-and roughly 90 % are cured.
-
-**7. An older adult has bone pain, anaemia, renal impairment and
-multiple punched-out lytic skull lesions with a normal bone scan.
-Diagnosis and work-up?** Multiple myeloma. Confirm with serum/urine
-M-protein, Bence-Jones light chains, ≥10 % clonal marrow plasma cells,
-and β2-microglobulin; alkaline phosphatase is characteristically normal.
-Treat systemically (± transplant); surgery only stabilises fractures.
-
-**8. A 70-year-old has a solitary lytic femoral lesion. Why must you
-biopsy before nailing it?** Because it could be a primary sarcoma rather
-than a metastasis. Nailing a sarcoma contaminates the whole bone and
-forfeits limb salvage. Search for a primary
-(breast/prostate/lung/kidney/thyroid) and biopsy the lesion first.
-
-**9. How do you decide whether to fix an impending pathological
-fracture?** Use the Mirels score (site, pain, lytic vs blastic, size,
-each 1-3): ≤7 observe/irradiate, ≥8 prophylactic fixation. The rule of
-thumb is a painful lesion \>2.5 cm destroying \>50 % of the cortex.
-Prophylactic fixation beats fixation after fracture.
-
-**10. What are the principles of fixing a metastatic long-bone lesion?**
-Build a durable, load-bearing construct, since the bone may not heal:
-protect the whole bone with a statically locked intramedullary nail and
-augment with PMMA cement (not bone graft), or use a cemented
-endoprosthesis for peri-articular destruction. Embolise hypervascular
-renal/thyroid lesions first, and give postoperative radiotherapy.
-
-**11. Which bone malignancies are radiosensitive?** Ewing sarcoma,
-lymphoma, myeloma, and most metastases (and proton/photon radiotherapy
-is adjunctive in chordoma). Osteosarcoma, chondrosarcoma and
-adamantinoma are radioresistant.
-
-**12. Match the molecular marker to the tumour: brachyury, EWSR1-FLI1,
-IDH1/2, MDM2/CDK4, EXT1/2, HEY1-NCOA2.** Brachyury → chordoma;
-EWSR1-FLI1 → Ewing; IDH1/2 → central chondrosarcoma; MDM2/CDK4 →
-parosteal & low-grade central osteosarcoma; EXT1/2 → secondary
-peripheral chondrosarcoma; HEY1-NCOA2 → mesenchymal chondrosarcoma. \#
-References
-
-1.  WHO Classification of Tumours Editorial Board. *Soft Tissue and Bone
-    Tumours.* WHO Classification of Tumours, 5th ed. Lyon: IARC; 2020.
-2.  Schajowicz F. *Tumors and Tumorlike Lesions of Bone.* 2nd
-    ed. Berlin: Springer-Verlag; 1994.
-3.  Campanacci M. *Bone and Soft Tissue Tumors.* 2nd ed. Vienna/New
-    York: Springer; 1999.
-4.  Dorfman HD, Czerniak B. *Dorfman and Czerniak's Bone Tumors.* 2nd
-    ed. Philadelphia: Elsevier; 2016.
-5.  Mirra JM, Picci P, Gold RH. *Bone Tumors: Clinical, Radiologic, and
-    Pathologic Correlations.* Philadelphia: Lea & Febiger; 1989.
-6.  Greenspan A, Beltran J. *Orthopedic Imaging: A Practical Approach.*
-    6th ed. Philadelphia: Wolters Kluwer; 2015.
-7.  Bickels J, Wittig JC, Malawer MM, et al. *Operative Techniques in
-    Orthopaedic Surgical Oncology.* 2nd ed. Philadelphia: Wolters
-    Kluwer; 2015.
-8.  Malawer MM, Sugarbaker PH, eds. *Musculoskeletal Cancer Surgery.*
-    Dordrecht: Kluwer Academic; 2001.
-9.  Court-Brown CM, Heckman JD, McQueen MM, et al., eds. *Rockwood and
-    Green's Fractures in Adults.* 9th ed. Philadelphia: Wolters Kluwer;
-    2019 (pathological fractures).
-10. Browner BD, Jupiter JB, Krettek C, Anderson PA, eds. *Skeletal
-    Trauma.* 5th ed. Philadelphia: Elsevier; 2015 (metastatic bone
-    disease, pathological fractures).
-11. Mirels H. Metastatic disease in long bones: a proposed scoring
-    system for diagnosing impending pathologic fractures. *Clin Orthop
-    Relat Res.* 1989;(249):256-264.
-12. Whelan JS, Bielack SS, Marina N, et al. (EURAMOS-1 collaborators).
-    Methotrexate, doxorubicin, and cisplatin (MAP) for high-grade
-    osteosarcoma. *J Clin Oncol.* 2015;33(20):2279-2287.
-13. Womer RB, West DC, Krailo MD, et al. Randomized controlled trial of
-    interval-compressed chemotherapy for localized Ewing sarcoma (COG
-    AEWS0031). *J Clin Oncol.* 2012;30(33):4148-4154.
-14. Strauss SJ, Frezza AM, Abecassis N, et al. Bone sarcomas:
-    ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline.
-    *Ann Oncol.* 2021;32(12):1520-1536.
-15. National Cancer Institute. PDQ - Osteosarcoma and Ewing Sarcoma
-    Treatment (Health Professional versions). Bethesda: NCI (public
-    domain).
-16. Бойчев Б. (Boychev B.) *Хирургическа ортопедия (Surgical
-    Orthopaedics).* Sofia.
-
-*Note on currency: molecular classification and ICD-O codes are from WHO
-2020; chemotherapy regimens (osteosarcoma MAP; Ewing interval-compressed
-VDC/IE) and the Mirels operative threshold reflect the trials,
-guidelines and current practice cited above. Several entities'
-epidemiology and treatment differ between the older textbooks and
-current practice; where they conflict, the modern source is followed.*
+- **Osteosarcoma** - teen, metaphyseal, osteoid + sunburst/Codman; MAP
+  chemo (≥90 % necrosis = good response); radioresistant; complex
+  karyotype; parosteal & low-grade central = surgery alone, MDM2/CDK4.
+- **Chondrosarcoma** - adult, axial/proximal, rings-and-arcs;
+  chemo/radio-resistant → wide surgery; IDH (central) vs EXT
+  (peripheral); dedifferentiated = dismal.
+- **Ewing** - teen, diaphyseal, onion-skin + big soft-tissue mass,
+  fever/ESR/LDH; CD99 + glycogen + EWSR1-FLI1; VDC/IE; radiosensitive.
+- **Chordoma** - midline (sacrum/clivus), physaliphorous cells,
+  **brachyury+**; wide resection + proton RT; never biopsy
+  transrectally.
+- **Adamantinoma** - soap-bubble anterior tibia; epithelial
+  (keratin+/vimentin+); wide resection; ~15 % late mets, ~90 % cure.
+- **UPS/fibrosarcoma** - aggressive lytic, no matrix; herringbone vs
+  storiform; secondary on Paget/infarct/radiation; treat high-grade like
+  osteosarcoma.
+- **Myeloma** - commonest primary bone malignancy; CRAB; punched-out +
+  cold scan + normal ALP; M-protein; systemic therapy ± transplant; MGUS
+  precursor.
+- **Lymphoma of bone** - DLBCL, well patient, near-normal film + big
+  mass; CD20+; R-CHOP ± RT; good prognosis.
+- **Metastasis** - most common malignant bone tumour;
+  breast/prostate/lung/kidney/thyroid; Batson plexus → spine; biopsy
+  solitary lesion before fixation; embolise renal/thyroid.
+- **Pathological fracture** - Mirels ≥8 → prophylactic fixation; durable
+  load-bearing construct (IM nail ± cement); spinal mets - RT ±
+  decompression/stabilisation.
 
 # Figure Credits and Licences
 
@@ -1208,54 +982,53 @@ All figures are radiographs, CT/MR images, or photomicrographs
 reproduced from openly-licensed sources; each remains under its original
 licence, attributed below.
 
--   Fig 1 Conventional osteosarcoma, distal femur - Dulebohn SC,
-    Bhimji SS, CC BY 4.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Osteosarcoma1.jpg>
--   Fig 2 Osteosarcoma, Codman triangle - Ajimsha619, CC BY-SA 3.0,
-    Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg>
--   Fig 3 Osteosarcoma histology - Mikael Häggström, CC0, Wikimedia
-    Commons.
-    <https://commons.wikimedia.org/wiki/File:Histopathology_of_osteosarcoma,_high_mag.jpg>
--   Fig 4 Parosteal osteosarcoma, distal femur - Papathanassiou ZG et
-    al., Clin Sarcoma Res 2011;1:2, CC BY, via PMC.
-    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372285/>
--   Fig 5 Parosteal osteosarcoma histology - 藤澤孝志 (T. Fujisawa),
-    CC BY-SA 4.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Parosteal_osteosarcoma.jpg>
--   Fig 6 Chondrosarcoma, proximal femur (CT + radiograph) -
-    Hellerhoff, CC BY-SA 3.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Chondrosarkom_proximaler_Femur_-_87jw_-_CT_und_Roe_-_001.jpg>
--   Fig 7 Ewing sarcoma, tibia - Michael Richardson, CC BY-SA 3.0,
-    Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg>
--   Fig 8 Ewing sarcoma histology - Nephron, CC BY-SA 3.0, Wikimedia
-    Commons.
-    <https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_-_very_high_mag.jpg>
--   Fig 9 Chordoma, clivus (MRI) - Hassan S, Abdullah JM, Wan Din SJ,
-    Idris Z, CC BY 2.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:Chordoma.JPG>
--   Fig 10 Chordoma histology - Mikael Häggström, CC0, Wikimedia
-    Commons.
-    <https://commons.wikimedia.org/wiki/File:Histopathology_of_chordoma,_annotated.jpg>
--   Fig 11 Adamantinoma, tibia - T-rex89 & Hellerhoff, CC BY-SA 4.0,
-    Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:X-ray_of_adamantinoma_of_the_tibia.jpg>
--   Fig 12 Multiple myeloma, skull - James Heilman MD, CC BY-SA 4.0,
-    Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:MMPlainSkull.png>
--   Fig 13 Multiple myeloma, femur - Mikael Häggström, CC0, Wikimedia
-    Commons.
-    <https://commons.wikimedia.org/wiki/File:Left_femur_with_myeloma.jpg>
--   Fig 14 Blastic bone metastases, pelvis - James Heilman MD, CC
-    BY-SA 3.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:ScleroticMets.PNG>
--   Fig 15 Pathological vertebral fracture - James Heilman MD, CC
-    BY-SA 4.0, Wikimedia Commons.
-    <https://commons.wikimedia.org/wiki/File:PathFracMMPlainMark.png>
+- Fig 1 Conventional osteosarcoma, distal femur - Dulebohn SC, Bhimji
+  SS, CC BY 4.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Osteosarcoma1.jpg>
+- Fig 2 Osteosarcoma, Codman triangle - Ajimsha619, CC BY-SA 3.0,
+  Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Codman_triangle_2014-01-29_21-07.jpeg>
+- Fig 3 Osteosarcoma histology - Mikael Häggström, CC0, Wikimedia
+  Commons.
+  <https://commons.wikimedia.org/wiki/File:Histopathology_of_osteosarcoma,_high_mag.jpg>
+- Fig 4 Parosteal osteosarcoma, distal femur - Papathanassiou ZG et al.,
+  Clin Sarcoma Res 2011;1:2, CC BY, via PMC.
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372285/>
+- Fig 5 Parosteal osteosarcoma histology - 藤澤孝志 (T. Fujisawa), CC
+  BY-SA 4.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Parosteal_osteosarcoma.jpg>
+- Fig 6 Chondrosarcoma, proximal femur (CT + radiograph) - Hellerhoff,
+  CC BY-SA 3.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Chondrosarkom_proximaler_Femur_-_87jw_-_CT_und_Roe_-_001.jpg>
+- Fig 7 Ewing sarcoma, tibia - Michael Richardson, CC BY-SA 3.0,
+  Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_tibia_child.jpg>
+- Fig 8 Ewing sarcoma histology - Nephron, CC BY-SA 3.0, Wikimedia
+  Commons.
+  <https://commons.wikimedia.org/wiki/File:Ewing_sarcoma_-_very_high_mag.jpg>
+- Fig 9 Chordoma, clivus (MRI) - Hassan S, Abdullah JM, Wan Din SJ,
+  Idris Z, CC BY 2.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Chordoma.JPG>
+- Fig 10 Chordoma histology - Mikael Häggström, CC0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:Histopathology_of_chordoma,_annotated.jpg>
+- Fig 11 Adamantinoma, tibia - T-rex89 & Hellerhoff, CC BY-SA 4.0,
+  Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:X-ray_of_adamantinoma_of_the_tibia.jpg>
+- Fig 12 Multiple myeloma, skull - James Heilman MD, CC BY-SA 4.0,
+  Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:MMPlainSkull.png>
+- Fig 13 Multiple myeloma, femur - Mikael Häggström, CC0, Wikimedia
+  Commons.
+  <https://commons.wikimedia.org/wiki/File:Left_femur_with_myeloma.jpg>
+- Fig 14 Blastic bone metastases, pelvis - James Heilman MD, CC BY-SA
+  3.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:ScleroticMets.PNG>
+- Fig 15 Pathological vertebral fracture - James Heilman MD, CC BY-SA
+  4.0, Wikimedia Commons.
+  <https://commons.wikimedia.org/wiki/File:PathFracMMPlainMark.png>
 
-[^1]: WHO 2020 p.413, 417 (osteosarcoma NOS 9180/3; "an intramedullary
-    high-grade sarcoma in which the tumour cells produce bone"); Dorfman
+[^1]: WHO 2020 p.413, 417 (osteosarcoma NOS 9180/3; “an intramedullary
+    high-grade sarcoma in which the tumour cells produce bone”); Dorfman
     & Czerniak p.212.
 
 [^2]: WHO 2020 p.414; Dorfman & Czerniak p.212-213; Schajowicz p.91.
@@ -1269,8 +1042,8 @@ licence, attributed below.
 
 [^6]: Schajowicz p.92; Dorfman & Czerniak p.213; WHO 2020 p.414.
 
-[^7]: WHO 2020 p.416-417; Schajowicz p.107-108; Dorfman & Czerniak
-    p.252 (two-tier grading).
+[^7]: WHO 2020 p.416-417; Schajowicz p.107-108; Dorfman & Czerniak p.252
+    (two-tier grading).
 
 [^8]: Regimen and trial: chemo_references.md (NCI PDQ; EURAMOS-1, *J
     Clin Oncol* 2015); Campanacci p.486-490; WHO 2020 p.419.
@@ -1281,13 +1054,13 @@ licence, attributed below.
 [^10]: WHO 2020 p.419; Campanacci p.486, 491.
 
 [^11]: Variant data: WHO 2020 p.410-431 (telangiectatic p.417-419;
-    small-cell p.418; low-grade central p.410-412; parosteal
-    p.420-423; periosteal p.424-426; high-grade surface p.427-428;
+    small-cell p.418; low-grade central p.410-412; parosteal p.420-423;
+    periosteal p.424-426; high-grade surface p.427-428;
     secondary/Paget/radiation p.429-431); Campanacci p.485-542;
     Schajowicz p.111-119.
 
-[^12]: Dorfman & Czerniak p.486; WHO 2020 p.388 ("absence of osteoid
-    associated with malignant cells"); Campanacci p.303.
+[^12]: Dorfman & Czerniak p.486; WHO 2020 p.388 (“absence of osteoid
+    associated with malignant cells”); Campanacci p.303.
 
 [^13]: WHO 2020 p.380-381; Schajowicz p.220; Dorfman & Czerniak
     p.486-487.
@@ -1331,8 +1104,8 @@ licence, attributed below.
 
 [^29]: chemo_references.md; Campanacci p.673-674.
 
-[^30]: WHO 2020 p.461-462 ("a malignant tumour ... that recapitulates
-    notochord"; brachyury/TBXT hallmark). The benign counterpart is the
+[^30]: WHO 2020 p.461-462 (“a malignant tumour … that recapitulates
+    notochord”; brachyury/TBXT hallmark). The benign counterpart is the
     benign notochordal cell tumour (9370/0).
 
 [^31]: WHO 2020 p.462; Schajowicz p.477.
@@ -1364,7 +1137,7 @@ licence, attributed below.
 
 [^44]: Campanacci p.921, 947, 973 (fibrosarcoma herringbone; MFH/UPS
     diagnosis of exclusion); UPS terminology per WHO 2020/current
-    practice. The older texts use "MFH" (= UPS).
+    practice. The older texts use “MFH” (= UPS).
 
 [^45]: Schajowicz p.505, 514; Campanacci p.922.
 
@@ -1419,8 +1192,8 @@ licence, attributed below.
 [^62]: Campanacci p.770, 774; Rockwood & Green p.1240, 1251-1255;
     Dorfman & Czerniak p.1220-1221; Malawer & Sugarbaker p.21, 27.
 
-[^63]: Rockwood & Green p.1236-1237 (Mirels 1989, *Clin Orthop*
-    249:256; operative threshold ≥8); the \>50 %-cortex / \>2.5 cm rule
+[^63]: Rockwood & Green p.1236-1237 (Mirels 1989, *Clin Orthop* 249:256;
+    operative threshold ≥8); the \>50 %-cortex / \>2.5 cm rule
     (Fidler/Harrington).
 
 [^64]: Rockwood & Green p.1238-1240; Skeletal Trauma p.607.

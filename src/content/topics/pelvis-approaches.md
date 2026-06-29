@@ -82,36 +82,20 @@ words, “extremely safe.”[4]
 <figcaption><p><strong>Figure 1. External (lateral) surface of the right hip bone, showing the ilium, ischium, pubis and the acetabulum. Gray’s Anatomy plate 235 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. External (lateral) surface of the right hip bone, showing the
-ilium, ischium, pubis and the acetabulum. Gray’s Anatomy plate 235
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId28.jpg" alt="Figure 2. Internal (medial) surface of the right hip bone, showing the iliac fossa and the auricular (sacroiliac) surface. Gray’s Anatomy plate 236 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Internal (medial) surface of the right hip bone, showing the iliac fossa and the auricular (sacroiliac) surface. Gray’s Anatomy plate 236 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Internal (medial) surface of the right hip bone, showing the
-iliac fossa and the auricular (sacroiliac) surface. Gray’s Anatomy plate
-236 (public domain), via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/pelvis-approaches/rId31.jpg" alt="Figure 3. The hip bone subdivided into ilium, ischium and pubis. Sobotta’s Atlas of Human Anatomy, 1909 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. The hip bone subdivided into ilium, ischium and pubis. Sobotta’s Atlas of Human Anatomy, 1909 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. The hip bone subdivided into ilium, ischium and pubis.
-Sobotta’s Atlas of Human Anatomy, 1909 (public domain), via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId34.jpg" alt="Figure 4. Anterior view of the bony pelvis, showing the sacrum, the sacroiliac joints and the pubic symphysis. Gray’s Anatomy plate 241 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Anterior view of the bony pelvis, showing the sacrum, the sacroiliac joints and the pubic symphysis. Gray’s Anatomy plate 241 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Anterior view of the bony pelvis, showing the sacrum, the
-sacroiliac joints and the pubic symphysis. Gray’s Anatomy plate 241
-(public domain), via Wikimedia Commons.
 
 ## The two acetabular columns
 
@@ -135,43 +119,25 @@ fractures to combined or extensile exposures.[5]
 <figcaption><p><strong>Figure 5. The two acetabular columns on a hip-bone model: anterior (iliopubic) column in white, posterior (ilioischial) column in red. Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. The two acetabular columns on a hip-bone model: anterior
-(iliopubic) column in white, posterior (ilioischial) column in red.
-Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId42.jpg" alt="Figure 6. Union of the ilium, ischium and pubis at the triradiate cartilage of the acetabulum. Gerrish’s Text-book of Anatomy, 1902 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Union of the ilium, ischium and pubis at the triradiate cartilage of the acetabulum. Gerrish’s Text-book of Anatomy, 1902 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Union of the ilium, ischium and pubis at the triradiate
-cartilage of the acetabulum. Gerrish’s Text-book of Anatomy, 1902
-(public domain), via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/pelvis-approaches/rId45.jpg" alt="Figure 7. AP pelvic radiograph of a right acetabular fracture. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. AP pelvic radiograph of a right acetabular fracture. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. AP pelvic radiograph of a right acetabular fracture. James
-Heilman MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId48.jpg" alt="Figure 8. Axial CT (bone window) of a comminuted both-column acetabular fracture. Seannovak, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Axial CT (bone window) of a comminuted both-column acetabular fracture. Seannovak, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Axial CT (bone window) of a comminuted both-column acetabular
-fracture. Seannovak, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId51.jpg" alt="Figure 9. Subtle posterior acetabular wall fracture on radiograph (arrows) with corresponding CT. Jarraya et al., Radiol Res Pract 2013, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Subtle posterior acetabular wall fracture on radiograph (arrows) with corresponding CT. Jarraya et al., Radiol Res Pract 2013, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Subtle posterior acetabular wall fracture on radiograph
-(arrows) with corresponding CT. Jarraya et al., Radiol Res Pract 2013,
-CC BY 3.0, via Wikimedia Commons.
 
 ## The sciatic notches, ligaments, and foramina
 
@@ -196,18 +162,10 @@ joint.[6]
 <figcaption><p><strong>Figure 10. Posterior pelvic ligaments: the sacrotuberous and sacrospinous ligaments bounding the greater and lesser sciatic foramina, with the posterior sacroiliac ligaments. Gray’s Anatomy plate 320 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Posterior pelvic ligaments: the sacrotuberous and
-sacrospinous ligaments bounding the greater and lesser sciatic foramina,
-with the posterior sacroiliac ligaments. Gray’s Anatomy plate 320
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId59.jpg" alt="Figure 11. Anterior pelvic ligaments and the sacroiliac joint. Gray’s Anatomy plate 319 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Anterior pelvic ligaments and the sacroiliac joint. Gray’s Anatomy plate 319 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. Anterior pelvic ligaments and the sacroiliac joint. Gray’s
-Anatomy plate 319 (public domain), via Wikimedia Commons.
 
 ## The gluteal neurovascular bundles and the corona mortis
 
@@ -229,21 +187,10 @@ death.”[7]
 <figcaption><p><strong>Figure 12. Surface markings of the gluteal region: the superior and inferior gluteal arteries, the internal pudendal artery and the sciatic nerve at the greater sciatic notch. Gray’s Anatomy plate 1244 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Surface markings of the gluteal region: the superior and
-inferior gluteal arteries, the internal pudendal artery and the sciatic
-nerve at the greater sciatic notch. Gray’s Anatomy plate 1244 (public
-domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId67.jpg" alt="Figure 13. The femoral triangle and the superficial branches of the femoral vessels below the inguinal ligament (the inferior epigastric and external iliac systems that form the corona mortis anastomosis across the superior pubic ramus). Gray’s Anatomy plate 549 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. The femoral triangle and the superficial branches of the femoral vessels below the inguinal ligament (the inferior epigastric and external iliac systems that form the corona mortis anastomosis across the superior pubic ramus). Gray’s Anatomy plate 549 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. The femoral triangle and the superficial branches of the
-femoral vessels below the inguinal ligament (the inferior epigastric and
-external iliac systems that form the corona mortis anastomosis across
-the superior pubic ramus). Gray’s Anatomy plate 549 (public domain), via
-Wikimedia Commons.
 
 # Part II - Iliac Crest Bone Graft
 
@@ -269,9 +216,6 @@ paraesthetica.[8]
 <img src="/images/topics/pelvis-approaches/rId73.jpg" alt="Figure 14. Donor site for anterior iliac-crest bone graft (highlighted). Public domain (after Kollmann), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Donor site for anterior iliac-crest bone graft (highlighted). Public domain (after Kollmann), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Donor site for anterior iliac-crest bone graft (highlighted).
-Public domain (after Kollmann), via Wikimedia Commons.
 
 ## Posterior approach to the iliac crest
 
@@ -393,29 +337,15 @@ the inferior epigastric vessels ligated at the deep ring.[15]
 <figcaption><p><strong>Figure 15. Structures passing behind the inguinal ligament: iliopsoas, the femoral nerve, the external iliac/femoral vessels and the lateral femoral cutaneous nerve, the contents of the windows of the ilioinguinal approach. Gray’s Anatomy plate 546 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Structures passing behind the inguinal ligament: iliopsoas,
-the femoral nerve, the external iliac/femoral vessels and the lateral
-femoral cutaneous nerve, the contents of the windows of the ilioinguinal
-approach. Gray’s Anatomy plate 546 (public domain), via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId93.jpg" alt="Figure 16. The superior pubic ramus with the inguinal, lacunar and pectineal (Cooper’s) ligaments, the obturator canal and the acetabulum. Gray’s Anatomy plate 435 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. The superior pubic ramus with the inguinal, lacunar and pectineal (Cooper’s) ligaments, the obturator canal and the acetabulum. Gray’s Anatomy plate 435 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. The superior pubic ramus with the inguinal, lacunar and
-pectineal (Cooper’s) ligaments, the obturator canal and the acetabulum.
-Gray’s Anatomy plate 435 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId96.jpg" alt="Figure 17. The iliopsoas (psoas major and iliacus) in the iliac fossa and anterior hip. Gray’s Anatomy plate 430 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. The iliopsoas (psoas major and iliacus) in the iliac fossa and anterior hip. Gray’s Anatomy plate 430 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. The iliopsoas (psoas major and iliacus) in the iliac fossa
-and anterior hip. Gray’s Anatomy plate 430 (public domain), via
-Wikimedia Commons.
 
 The key to the deep exposure is the **iliopectineal fascia**, a thick
 layer over the iliacus that carries the femoral nerve on its surface,
@@ -481,19 +411,10 @@ screws but carries a risk of heterotopic ossification.[19]
 <figcaption><p><strong>Figure 18. The short external rotators of the hip, piriformis, the gemelli, obturator internus and quadratus femoris, the deep layer encountered in the Kocher-Langenbeck approach. “Beth ohara”, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 18. The short external rotators of the hip, piriformis, the
-gemelli, obturator internus and quadratus femoris, the deep layer
-encountered in the Kocher-Langenbeck approach. “Beth ohara”, CC BY-SA
-3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvis-approaches/rId107.jpg" alt="Figure 19. Plan of the sacral plexus: the superior and inferior gluteal nerves, the nerves to the short external rotators, and the sciatic nerve. Gray’s Anatomy plate 828 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 19. Plan of the sacral plexus: the superior and inferior gluteal nerves, the nerves to the short external rotators, and the sciatic nerve. Gray’s Anatomy plate 828 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 19. Plan of the sacral plexus: the superior and inferior gluteal
-nerves, the nerves to the short external rotators, and the sciatic
-nerve. Gray’s Anatomy plate 828 (public domain), via Wikimedia Commons.
 
 The central danger is the **sciatic nerve**, often already contused by
 the injury; it lies on the short external rotators and usually exits

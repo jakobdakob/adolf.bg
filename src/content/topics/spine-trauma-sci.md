@@ -103,18 +103,10 @@ hours.[7]
 <figcaption><p><strong>Figure 1. Anterior dermatome map showing the cutaneous segmental levels used to assign the neurological level of injury in the ASIA examination. By Hy9etb, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Anterior dermatome map showing the cutaneous segmental levels
-used to assign the neurological level of injury in the ASIA examination.
-By Hy9etb, CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-trauma-sci/rId32.jpg" alt="Figure 2. Lateral view of the vertebral column with its cervical, thoracic, lumbar, sacral and coccygeal regions. Coloured plate after Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Lateral view of the vertebral column with its cervical, thoracic, lumbar, sacral and coccygeal regions. Coloured plate after Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Lateral view of the vertebral column with its cervical,
-thoracic, lumbar, sacral and coccygeal regions. Coloured plate after
-Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
 
 ## Spinal shock versus neurogenic shock
 
@@ -179,21 +171,10 @@ radicular deficits and is a surgical urgency.[15]
 <figcaption><p><strong>Figure 3. Cross-section of the spinal cord showing the principal ascending (sensory) and descending (motor) tracts; the corticospinal tracts and dorsal columns are ipsilateral while the spinothalamic tracts cross. Polarlys and Mikael Häggström, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Cross-section of the spinal cord showing the principal
-ascending (sensory) and descending (motor) tracts; the corticospinal
-tracts and dorsal columns are ipsilateral while the spinothalamic tracts
-cross. Polarlys and Mikael Häggström, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/spine-trauma-sci/rId50.jpg" alt="Figure 4. Patterns of incomplete spinal cord injury (anterior, posterior, central, Brown-Séquard and transverse lesions) with the cord cross-section location and the resulting sensorimotor deficits. Rian Kabir, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Patterns of incomplete spinal cord injury (anterior, posterior, central, Brown-Séquard and transverse lesions) with the cord cross-section location and the resulting sensorimotor deficits. Rian Kabir, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Patterns of incomplete spinal cord injury (anterior,
-posterior, central, Brown-Séquard and transverse lesions) with the cord
-cross-section location and the resulting sensorimotor deficits. Rian
-Kabir, CC BY 4.0, via Wikimedia Commons.
 
 # Part III - The Cervical Spine: Anatomy, Assessment, and Clearance
 
@@ -212,11 +193,6 @@ transversarium.
 <img src="/images/topics/spine-trauma-sci/rId55.jpg" alt="Figure 5. Median sagittal section of the occipito-atlanto-axial region showing the odontoid process (dens) and the transverse ligament that retains it against the anterior arch of the atlas. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Median sagittal section of the occipito-atlanto-axial region showing the odontoid process (dens) and the transverse ligament that retains it against the anterior arch of the atlas. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Median sagittal section of the occipito-atlanto-axial region
-showing the odontoid process (dens) and the transverse ligament that
-retains it against the anterior arch of the atlas. Gray’s Anatomy
-(1918), public domain, via Wikimedia Commons.
 
 Mental status governs clearance of the cervical spine, and two validated
 rules apply to the alert patient. The **NEXUS criteria** clear the spine
@@ -270,11 +246,6 @@ posterior C1-C2 fusion.
 <figcaption><p><strong>Figure 6. CT of a Jefferson (C1 burst) fracture: the axial image shows fractures of the anterior and posterior arches of the atlas, with lateral-mass spread on the coronal reformat. Utz et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. CT of a Jefferson (C1 burst) fracture: the axial image shows
-fractures of the anterior and posterior arches of the atlas, with
-lateral-mass spread on the coronal reformat. Utz et al., CC BY 4.0, via
-Wikimedia Commons.
-
 ## Odontoid (dens) fractures
 
 The dens fractures in a pattern classified by **Anderson and D’Alonzo**:
@@ -299,11 +270,6 @@ hard collar.
 <figcaption><p><strong>Figure 7. Sagittal CT showing a fracture through the base of the odontoid process (dens) of C2, the Anderson and D’Alonzo type II pattern that carries the highest nonunion risk. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Sagittal CT showing a fracture through the base of the
-odontoid process (dens) of C2, the Anderson and D’Alonzo type II pattern
-that carries the highest nonunion risk. James Heilman, MD, CC BY-SA 3.0,
-via Wikimedia Commons.
-
 ## Hangman’s fracture and atlantoaxial rotatory injury
 
 The **hangman’s fracture** (traumatic spondylolisthesis of the axis) is
@@ -323,11 +289,6 @@ CT showing a fixed deformity.[25]
 <img src="/images/topics/spine-trauma-sci/rId77.jpg" alt="Figure 8. Hangman’s fracture (traumatic spondylolisthesis of the axis): sagittal CT shows the bilateral C2 pars fracture with anterolisthesis of C2 on C3, confirmed on the axial image. Utz et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Hangman’s fracture (traumatic spondylolisthesis of the axis): sagittal CT shows the bilateral C2 pars fracture with anterolisthesis of C2 on C3, confirmed on the axial image. Utz et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Hangman’s fracture (traumatic spondylolisthesis of the axis):
-sagittal CT shows the bilateral C2 pars fracture with anterolisthesis of
-C2 on C3, confirmed on the axial image. Utz et al., CC BY 4.0, via
-Wikimedia Commons.
 
 # Part V - Subaxial (C3-C7) Cervical Injuries
 
@@ -366,10 +327,6 @@ addressed by an anterior approach.[29]
 <img src="/images/topics/spine-trauma-sci/rId87.jpg" alt="Figure 9. Sagittal CT of a C6-C7 cervical fracture-dislocation with anterolisthesis, the bony correlate of jumped facets. Frank Gaillard (Radiopaedia), CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Sagittal CT of a C6-C7 cervical fracture-dislocation with anterolisthesis, the bony correlate of jumped facets. Frank Gaillard (Radiopaedia), CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Sagittal CT of a C6-C7 cervical fracture-dislocation with
-anterolisthesis, the bony correlate of jumped facets. Frank Gaillard
-(Radiopaedia), CC BY-SA 3.0, via Wikimedia Commons.
 
 ## Teardrop fractures, central cord, and the ankylosed spine
 
@@ -413,20 +370,10 @@ where feasible.[33]
 <figcaption><p><strong>Figure 10. Anterior cervical discectomy and fusion (ACDF): the disc is removed through an anterior approach before interbody grafting and plating, addressing anterior compression. By debivort, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Anterior cervical discectomy and fusion (ACDF): the disc is
-removed through an anterior approach before interbody grafting and
-plating, addressing anterior compression. By debivort, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-trauma-sci/rId100.jpg" alt="Figure 11. A lower cervical (teardrop) fracture before (left) and after anterior cervical discectomy and fusion with an interbody cage and anterior plate (right). By Moquito 17, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. A lower cervical (teardrop) fracture before (left) and after anterior cervical discectomy and fusion with an interbody cage and anterior plate (right). By Moquito 17, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. A lower cervical (teardrop) fracture before (left) and after
-anterior cervical discectomy and fusion with an interbody cage and
-anterior plate (right). By Moquito 17, CC BY-SA 3.0, via Wikimedia
-Commons.
 
 # Part VII - Thoracolumbar Spine: Regions, Assessment, and Classification
 
@@ -473,11 +420,6 @@ modifier (M) qualifiers.[38]
 <figcaption><p><strong>Figure 12. Lateral radiograph of a thoracolumbar compression (anterior wedge) fracture with preserved posterior body height; involvement of the anterior column alone distinguishes it from a burst fracture. Lucien Monfils, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Lateral radiograph of a thoracolumbar compression (anterior
-wedge) fracture with preserved posterior body height; involvement of the
-anterior column alone distinguishes it from a burst fracture. Lucien
-Monfils, CC BY-SA 3.0, via Wikimedia Commons.
-
 ## Burst and flexion-distraction fractures
 
 The **burst fracture** is defined by a fracture of the posterior
@@ -496,28 +438,15 @@ flexion-distraction injuries.[40]
 <figcaption><p><strong>Figure 13. Sagittal CT of a Chance (flexion-distraction) fracture, with a horizontal split running through the vertebral body and posterior elements; the seatbelt mechanism carries a high rate of intra-abdominal injury. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Sagittal CT of a Chance (flexion-distraction) fracture, with
-a horizontal split running through the vertebral body and posterior
-elements; the seatbelt mechanism carries a high rate of intra-abdominal
-injury. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-trauma-sci/rId119.jpg" alt="Figure 14. Axial CT of a lumbar burst fracture with comminution of the vertebral body and a retropulsed fragment narrowing the spinal canal. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Axial CT of a lumbar burst fracture with comminution of the vertebral body and a retropulsed fragment narrowing the spinal canal. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Axial CT of a lumbar burst fracture with comminution of the
-vertebral body and a retropulsed fragment narrowing the spinal canal.
-James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-trauma-sci/rId122.jpg" alt="Figure 15. Sagittal CT of the same burst fracture showing loss of vertebral body height and posterior retropulsion into the canal. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Sagittal CT of the same burst fracture showing loss of vertebral body height and posterior retropulsion into the canal. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Sagittal CT of the same burst fracture showing loss of
-vertebral body height and posterior retropulsion into the canal. James
-Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part VIII - Thoracolumbar Treatment
 
@@ -562,10 +491,6 @@ behind.
 <figcaption><p><strong>Figure 16. Postoperative radiograph after posterior pedicle-screw-and-rod instrumentation and fusion spanning the injured level. By Silverjonny, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. Postoperative radiograph after posterior
-pedicle-screw-and-rod instrumentation and fusion spanning the injured
-level. By Silverjonny, public domain, via Wikimedia Commons.
-
 ## Osteoporotic vertebral compression fractures and penetrating injuries
 
 Osteoporotic vertebral fractures are common (the spine is the commonest
@@ -593,10 +518,6 @@ fixation.[48]
 <img src="/images/topics/spine-trauma-sci/rId140.jpg" alt="Figure 17. Osteoporotic vertebral compression fracture before (left) and after balloon kyphoplasty with cement augmentation (right). Rei Momomura, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Osteoporotic vertebral compression fracture before (left) and after balloon kyphoplasty with cement augmentation (right). Rei Momomura, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Osteoporotic vertebral compression fracture before (left) and
-after balloon kyphoplasty with cement augmentation (right). Rei
-Momomura, CC BY 4.0, via Wikimedia Commons.
 
 # Part IX - Paediatric Spine Trauma
 

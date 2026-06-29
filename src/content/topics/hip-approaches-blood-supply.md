@@ -72,12 +72,6 @@ only covers the gluteus medius.[3]
 <figcaption><p><strong>Figure 1. Transverse section through the right hip: the femoral neurovascular bundle anteriorly and the sciatic nerve posteriorly, with the two muscle layers, gluteus maximus and the short external rotators (piriformis, obturator internus). Gray’s Anatomy plate 344 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Transverse section through the right hip: the femoral
-neurovascular bundle anteriorly and the sciatic nerve posteriorly, with
-the two muscle layers, gluteus maximus and the short external rotators
-(piriformis, obturator internus). Gray’s Anatomy plate 344 (public
-domain), via Wikimedia Commons.
-
 ## The capsule, the femoral triangle, and the bony landmarks
 
 The hip joint capsule is reached only by parting the muscles that cross
@@ -97,37 +91,20 @@ the pubic tubercle.[4]
 <figcaption><p><strong>Figure 2. The osseous hip joint: the femoral head with the fovea for the ligamentum teres seated in the acetabulum, with the iliofemoral ligament and lesser trochanter. Gray’s Anatomy plate 341 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. The osseous hip joint: the femoral head with the fovea for the
-ligamentum teres seated in the acetabulum, with the iliofemoral ligament
-and lesser trochanter. Gray’s Anatomy plate 341 (public domain), via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId32.jpg" alt="Figure 3. Hip joint, anterior view with the capsule removed, exposing the femoral head, acetabulum and ligamentum teres. Gray’s Anatomy plate 342 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Hip joint, anterior view with the capsule removed, exposing the femoral head, acetabulum and ligamentum teres. Gray’s Anatomy plate 342 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Hip joint, anterior view with the capsule removed, exposing
-the femoral head, acetabulum and ligamentum teres. Gray’s Anatomy plate
-342 (public domain), via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId35.jpg" alt="Figure 4. Posterior aspect of the hip joint showing the ischiofemoral ligament (horizontal and spiral fibres) reinforcing the capsule. Gray’s Anatomy plate 340 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Posterior aspect of the hip joint showing the ischiofemoral ligament (horizontal and spiral fibres) reinforcing the capsule. Gray’s Anatomy plate 340 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Posterior aspect of the hip joint showing the ischiofemoral
-ligament (horizontal and spiral fibres) reinforcing the capsule. Gray’s
-Anatomy plate 340 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId38.jpg" alt="Figure 5. Distended hip-joint capsule, posterior view, demonstrating the zona orbicularis and its relation to the trochanters. Gray’s Anatomy plate 343 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Distended hip-joint capsule, posterior view, demonstrating the zona orbicularis and its relation to the trochanters. Gray’s Anatomy plate 343 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Distended hip-joint capsule, posterior view, demonstrating the
-zona orbicularis and its relation to the trochanters. Gray’s Anatomy
-plate 343 (public domain), via Wikimedia Commons.
 
 # Part II - Blood Supply of the Femoral Head and Acetabulum
 
@@ -180,20 +157,10 @@ contributions.[7]
 <figcaption><p><strong>Figure 6. Arterial supply around the proximal femur: the medial and lateral femoral circumflex arteries (from the profunda femoris) forming the extracapsular ring that is the dominant blood supply to the femoral head and neck. Mcstrother, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Arterial supply around the proximal femur: the medial and
-lateral femoral circumflex arteries (from the profunda femoris) forming
-the extracapsular ring that is the dominant blood supply to the femoral
-head and neck. Mcstrother, CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId49.jpg" alt="Figure 7. The circumflex femoral arteries on the proximal femur: the medial and lateral femoral circumflex arteries, the principal contributors to the retinacular supply of the femoral head. Mikael Häggström (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. The circumflex femoral arteries on the proximal femur: the medial and lateral femoral circumflex arteries, the principal contributors to the retinacular supply of the femoral head. Mikael Häggström (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. The circumflex femoral arteries on the proximal femur: the
-medial and lateral femoral circumflex arteries, the principal
-contributors to the retinacular supply of the femoral head. Mikael
-Häggström (public domain), via Wikimedia Commons.
 
 # Part III - Anterior (Smith-Petersen) Approach and the Direct Anterior Approach
 
@@ -242,22 +209,10 @@ lateralis and rectus femoris to the whole femoral shaft.[10]
 <figcaption><p><strong>Figure 8. Muscles of the iliac and anterior femoral regions: sartorius, tensor fasciae latae, rectus femoris and iliopsoas, defining the intervals of the anterior (Smith-Petersen) and anterolateral (Watson-Jones) approaches. Gray’s Anatomy plate 430 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Muscles of the iliac and anterior femoral regions: sartorius,
-tensor fasciae latae, rectus femoris and iliopsoas, defining the
-intervals of the anterior (Smith-Petersen) and anterolateral
-(Watson-Jones) approaches. Gray’s Anatomy plate 430 (public domain), via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId59.jpg" alt="Figure 9. Anterior nerves of the lower limb: the lateral femoral cutaneous nerve crossing near the anterior superior iliac spine, where it is vulnerable in the anterior approach, with the femoral and obturator nerves. Gray’s Anatomy plate 827 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Anterior nerves of the lower limb: the lateral femoral cutaneous nerve crossing near the anterior superior iliac spine, where it is vulnerable in the anterior approach, with the femoral and obturator nerves. Gray’s Anatomy plate 827 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Anterior nerves of the lower limb: the lateral femoral
-cutaneous nerve crossing near the anterior superior iliac spine, where
-it is vulnerable in the anterior approach, with the femoral and
-obturator nerves. Gray’s Anatomy plate 827 (public domain), via
-Wikimedia Commons.
 
 ## The minimally invasive (direct) anterior approach
 
@@ -379,12 +334,6 @@ supine and ligating the internal iliac artery.[17]
 <figcaption><p><strong>Figure 10. Posterior nerves of the lower limb: the sciatic nerve emerging below piriformis and the superior gluteal nerve, the structures at risk in the posterior (Moore) and lateral (Hardinge) approaches respectively. Gray’s Anatomy plate 832 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Posterior nerves of the lower limb: the sciatic nerve
-emerging below piriformis and the superior gluteal nerve, the structures
-at risk in the posterior (Moore) and lateral (Hardinge) approaches
-respectively. Gray’s Anatomy plate 832 (public domain), via Wikimedia
-Commons.
-
 # Part VII - Medial (Ludloff) Approach
 
 The medial approach, attributed to Ludloff, reaches the hip from the
@@ -423,55 +372,30 @@ rarely extended.[19]
 <figcaption><p><strong>Figure 11. The femoral triangle: the femoral nerve, artery and vein bounded by sartorius and adductor longus, with the adductor and gracilis muscles relevant to the medial (Ludloff) approach. Gray’s Anatomy plate 549 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. The femoral triangle: the femoral nerve, artery and vein
-bounded by sartorius and adductor longus, with the adductor and gracilis
-muscles relevant to the medial (Ludloff) approach. Gray’s Anatomy plate
-549 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId83.jpg" alt="Figure 12. Deep muscles of the medial thigh: adductor brevis and magnus and obturator externus, the planes traversed in the medial (Ludloff) approach. Gray’s Anatomy plate 433 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Deep muscles of the medial thigh: adductor brevis and magnus and obturator externus, the planes traversed in the medial (Ludloff) approach. Gray’s Anatomy plate 433 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Deep muscles of the medial thigh: adductor brevis and magnus
-and obturator externus, the planes traversed in the medial (Ludloff)
-approach. Gray’s Anatomy plate 433 (public domain), via Wikimedia
-Commons.
 
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId86.jpg" alt="Figure 13. Non-displaced subcapital femoral neck fracture (arrow) on an AP pelvic radiograph, the injury that tears the retinacular vessels and risks avascular necrosis. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Non-displaced subcapital femoral neck fracture (arrow) on an AP pelvic radiograph, the injury that tears the retinacular vessels and risks avascular necrosis. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Non-displaced subcapital femoral neck fracture (arrow) on an
-AP pelvic radiograph, the injury that tears the retinacular vessels and
-risks avascular necrosis. Hellerhoff, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId89.jpg" alt="Figure 14. Avascular necrosis of the femoral head: radiograph showing subchondral collapse. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Avascular necrosis of the femoral head: radiograph showing subchondral collapse. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Avascular necrosis of the femoral head: radiograph showing
-subchondral collapse. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId92.jpg" alt="Figure 15. Avascular necrosis of the femoral head on coronal MRI (necrotic segment highlighted). Jmarchn, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Avascular necrosis of the femoral head on coronal MRI (necrotic segment highlighted). Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Avascular necrosis of the femoral head on coronal MRI
-(necrotic segment highlighted). Jmarchn, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/hip-approaches-blood-supply/rId95.jpg" alt="Figure 16. Total hip replacement: AP pelvic radiograph of a left total hip arthroplasty. Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Total hip replacement: AP pelvic radiograph of a left total hip arthroplasty. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Total hip replacement: AP pelvic radiograph of a left total
-hip arthroplasty. Mikael Häggström, CC0, via Wikimedia Commons.
 
 # References
 1.  Hoppenfeld ch.8 describes the anterior (Smith-Petersen) approach

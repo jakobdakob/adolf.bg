@@ -90,11 +90,6 @@ return of the hand.[4]
 <figcaption><p><strong>Figure 1. Surface markings and flexion creases of the palm and wrist, the landmarks that govern incision placement (a flexion crease must not be crossed at a right angle). Gray’s Anatomy plate 1237 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Surface markings and flexion creases of the palm and wrist,
-the landmarks that govern incision placement (a flexion crease must not
-be crossed at a right angle). Gray’s Anatomy plate 1237 (public domain),
-via Wikimedia Commons.
-
 ## The palmar aponeurosis and the digital neurovascular bundle
 
 The palmar aponeurosis is continuous with the palmaris longus tendon and
@@ -114,10 +109,6 @@ digit.[5]
 <img src="/images/topics/hand-approaches-z-plasties/rId30.jpg" alt="Figure 2. The palmar aponeurosis, continuous with the palmaris longus tendon; the digital nerves and vessels lie immediately deep to it. Gray’s Anatomy plate 425 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. The palmar aponeurosis, continuous with the palmaris longus tendon; the digital nerves and vessels lie immediately deep to it. Gray’s Anatomy plate 425 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. The palmar aponeurosis, continuous with the palmaris longus
-tendon; the digital nerves and vessels lie immediately deep to it.
-Gray’s Anatomy plate 425 (public domain), via Wikimedia Commons.
 
 ## The carpal tunnel
 
@@ -139,18 +130,10 @@ index and little fingers.[6]
 <figcaption><p><strong>Figure 3. Transverse section through the carpal tunnel: the carpal bones forming the floor, the transverse carpal ligament the roof, and the flexor tendons with the median nerve within. Gray’s Anatomy plate 422 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Transverse section through the carpal tunnel: the carpal bones
-forming the floor, the transverse carpal ligament the roof, and the
-flexor tendons with the median nerve within. Gray’s Anatomy plate 422
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId38.jpg" alt="Figure 4. The carpal bones of the wrist, labelled. Mikael Häggström, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. The carpal bones of the wrist, labelled. Mikael Häggström, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. The carpal bones of the wrist, labelled. Mikael Häggström, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 ## The median nerve and its two variable branches
 
@@ -174,10 +157,6 @@ motor branch will be spared unless it lies on that same side.[7]
 <figcaption><p><strong>Figure 5. Deep palmar dissection of the wrist and hand showing the flexor tendons, the median and ulnar nerves, and the palmar arches. Wilfredor, released under CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Deep palmar dissection of the wrist and hand showing the
-flexor tendons, the median and ulnar nerves, and the palmar arches.
-Wilfredor, released under CC0, via Wikimedia Commons.
-
 ## Guyon’s canal and the ulnar nerve
 
 The ulnar nerve does **not** pass through the carpal tunnel; it crosses
@@ -200,10 +179,6 @@ fracture.[8]
 <figcaption><p><strong>Figure 6. Magnetic resonance neurography of the ulnar nerve and its branches in the canal of Guyon. Kollmer et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Magnetic resonance neurography of the ulnar nerve and its
-branches in the canal of Guyon. Kollmer et al., CC BY 4.0, via Wikimedia
-Commons.
-
 ## The intrinsic muscles and their nerve supply
 
 The thenar eminence has three muscles (abductor pollicis brevis, flexor
@@ -225,17 +200,10 @@ extending the interphalangeal joints; their loss produces clawing.[9]
 <figcaption><p><strong>Figure 7. The deep muscles of the palm: the thenar muscles, the adductor pollicis and the interossei. Gray’s Anatomy plate 426 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. The deep muscles of the palm: the thenar muscles, the adductor
-pollicis and the interossei. Gray’s Anatomy plate 426 (public domain),
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId56.jpg" alt="Figure 8. The muscles, tendons and synovial sheaths of the palm. Gray’s Anatomy plate 427 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. The muscles, tendons and synovial sheaths of the palm. Gray’s Anatomy plate 427 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. The muscles, tendons and synovial sheaths of the palm. Gray’s
-Anatomy plate 427 (public domain), via Wikimedia Commons.
 
 ## The palmar arches and the dorsal extensor compartments
 
@@ -260,18 +228,10 @@ styloid.[10]
 <figcaption><p><strong>Figure 9. The extensor tendons of the wrist crossing beneath the extensor retinaculum in their dorsal compartments. Gray’s Anatomy plate 424 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. The extensor tendons of the wrist crossing beneath the
-extensor retinaculum in their dorsal compartments. Gray’s Anatomy plate
-424 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId64.jpg" alt="Figure 10. The bones of the wrist and hand, dorsal aspect: the carpal bones, metacarpals and phalanges. Gray’s Anatomy plate 219 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. The bones of the wrist and hand, dorsal aspect: the carpal bones, metacarpals and phalanges. Gray’s Anatomy plate 219 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. The bones of the wrist and hand, dorsal aspect: the carpal
-bones, metacarpals and phalanges. Gray’s Anatomy plate 219 (public
-domain), via Wikimedia Commons.
 
 ## The extensor expansion
 
@@ -446,11 +406,6 @@ avascular, so core sutures are placed volarly.[21]
 <figcaption><p><strong>Figure 11. The synovial sheaths of the flexor tendons of the fingers and the radial and ulnar bursae, within the fibrous flexor sheath whose thickenings form the pulleys. Gray’s Anatomy plate 423 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. The synovial sheaths of the flexor tendons of the fingers and
-the radial and ulnar bursae, within the fibrous flexor sheath whose
-thickenings form the pulleys. Gray’s Anatomy plate 423 (public domain),
-via Wikimedia Commons.
-
 ## The flexor zones (Milford) and zone II
 
 The flexor tendons are divided into five zones from distal to proximal.
@@ -516,27 +471,15 @@ abductor pollicis longus and extensor pollicis brevis volarly.[25]
 <figcaption><p><strong>Figure 12. The retrograde blood supply of the scaphoid, entering distally so that the proximal pole is perfused last and is prone to avascular necrosis. Nelsonmleite, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. The retrograde blood supply of the scaphoid, entering
-distally so that the proximal pole is perfused last and is prone to
-avascular necrosis. Nelsonmleite, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId100.jpg" alt="Figure 13. The anatomical snuffbox, whose floor is the scaphoid crossed by the radial artery, bounded by the extensor pollicis longus and the abductor pollicis longus / extensor pollicis brevis tendons. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. The anatomical snuffbox, whose floor is the scaphoid crossed by the radial artery, bounded by the extensor pollicis longus and the abductor pollicis longus / extensor pollicis brevis tendons. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. The anatomical snuffbox, whose floor is the scaphoid crossed
-by the radial artery, bounded by the extensor pollicis longus and the
-abductor pollicis longus / extensor pollicis brevis tendons. James
-Heilman MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId103.jpg" alt="Figure 14. Radiograph of a scaphoid waist fracture. Gilo1969, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Radiograph of a scaphoid waist fracture. Gilo1969, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Radiograph of a scaphoid waist fracture. Gilo1969, CC BY 3.0,
-via Wikimedia Commons.
 
 # Part VI - Drainage of Hand Infections
 
@@ -607,25 +550,15 @@ between thumb and little finger as a **horseshoe abscess**.[29]
 <figcaption><p><strong>Figure 15. A felon: a closed, septate pulp-space infection of the thumb. James Heilman MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. A felon: a closed, septate pulp-space infection of the thumb.
-James Heilman MD, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId116.jpg" alt="Figure 16. Acute paronychia: infection of the nail fold. Chris Craig (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Acute paronychia: infection of the nail fold. Chris Craig (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. Acute paronychia: infection of the nail fold. Chris Craig
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hand-approaches-z-plasties/rId119.jpg" alt="Figure 17. Healed open carpal-tunnel-release scars in the palm, placed ulnar to the thenar crease. HenrykGerlach, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Healed open carpal-tunnel-release scars in the palm, placed ulnar to the thenar crease. HenrykGerlach, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Healed open carpal-tunnel-release scars in the palm, placed
-ulnar to the thenar crease. HenrykGerlach, CC BY-SA 3.0, via Wikimedia
-Commons.
 
 # Part VII - Z-Plasty
 
@@ -656,11 +589,6 @@ used in releasing Dupuytren and burn contractures.[31]
 <img src="/images/topics/hand-approaches-z-plasties/rId126.jpg" alt="Figure 18. The Z-plasty in four stages: the Z incision design, the two triangular flaps raised, their transposition (arrows), and the closed result with the central limb re-oriented and lengthened. Evan Mason, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 18. The Z-plasty in four stages: the Z incision design, the two triangular flaps raised, their transposition (arrows), and the closed result with the central limb re-oriented and lengthened. Evan Mason, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 18. The Z-plasty in four stages: the Z incision design, the two
-triangular flaps raised, their transposition (arrows), and the closed
-result with the central limb re-oriented and lengthened. Evan Mason, CC
-BY-SA 4.0, via Wikimedia Commons.
 
 # References
 1.  Hoppenfeld ch.5 covers the dorsal approach to the wrist (p.356), the

@@ -69,9 +69,6 @@ and open fractures 1.2-5%.[3]
 <figcaption><p><strong>Figure 1. AP radiograph of a displaced fracture of the mid-shaft of the humerus. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. AP radiograph of a displaced fracture of the mid-shaft of the
-humerus. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 # Part II - Mechanism, Pathoanatomy, and Classification
 
 ## 2.1 Mechanism and deforming forces
@@ -90,10 +87,6 @@ deltoid abduct the proximal fragment.[5]
 <img src="/images/topics/humeral-shaft-fractures/rId30.jpg" alt="Figure 2. Spiral fracture of the humeral shaft sustained while arm-wrestling, the classic torsional mechanism. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 2. Spiral fracture of the humeral shaft sustained while arm-wrestling, the classic torsional mechanism. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 2. Spiral fracture of the humeral shaft sustained while
-arm-wrestling, the classic torsional mechanism. Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 ## 2.2 Classification
 
@@ -116,10 +109,6 @@ descriptive one for everyday communication.[8]
 <figcaption><p><strong>Figure 3. Displaced comminuted (multifragmentary) mid-shaft humeral fracture, an AO type-C pattern. From Pathak et al. (2012), J Med Case Rep 6:192, PMC3419694, CC BY 2.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. Displaced comminuted (multifragmentary) mid-shaft humeral
-fracture, an AO type-C pattern. From Pathak et al. (2012), J Med Case
-Rep 6:192, PMC3419694, CC BY 2.0.
-
 The one essential eponym is the **Holstein-Lewis fracture**: a simple,
 displaced **spiral fracture of the distal third in which the distal
 fragment deviates radially**, accounting for about 7% of humeral shaft
@@ -133,10 +122,6 @@ own.[10]
 <img src="/images/topics/humeral-shaft-fractures/rId42.jpg" alt="Figure 4. Holstein-Lewis fracture: a spiral fracture of the distal third of the humeral shaft, classically associated with radial nerve injury. Public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Holstein-Lewis fracture: a spiral fracture of the distal third of the humeral shaft, classically associated with radial nerve injury. Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Holstein-Lewis fracture: a spiral fracture of the distal third
-of the humeral shaft, classically associated with radial nerve injury.
-Public domain, via Wikimedia Commons.
 
 # Part III - The Radial Nerve
 
@@ -158,18 +143,10 @@ it more often than oblique or comminuted ones.[13]
 <figcaption><p><strong>Figure 5. Posterior view of the humerus showing the spiral (radial) groove that carries the radial nerve across the mid-shaft. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Posterior view of the humerus showing the spiral (radial)
-groove that carries the radial nerve across the mid-shaft. From Gray’s
-Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/humeral-shaft-fractures/rId53.jpg" alt="Figure 6. The course of the radial nerve through the posterior arm. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. The course of the radial nerve through the posterior arm. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. The course of the radial nerve through the posterior arm. From
-Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia
-Commons.
 
 ## 3.2 Radial nerve palsy: incidence and natural history
 
@@ -190,10 +167,6 @@ by itself, an indication for surgery**.[16]
 <img src="/images/topics/humeral-shaft-fractures/rId60.jpg" alt="Figure 7. Wrist drop: the loss of wrist and finger extension that characterises radial nerve palsy. From Marrero Borrero et al. (2026), Cureus, PMC12893233, CC BY 4.0." />
 <figcaption><p><strong>Figure 7. Wrist drop: the loss of wrist and finger extension that characterises radial nerve palsy. From Marrero Borrero et al. (2026), Cureus, PMC12893233, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 7. Wrist drop: the loss of wrist and finger extension that
-characterises radial nerve palsy. From Marrero Borrero et al. (2026),
-Cureus, PMC12893233, CC BY 4.0.
 
 ## 3.3 The exploration controversy and its indications
 
@@ -252,11 +225,6 @@ unchecked it can distract the fracture and cause nonunion.[25]
 <figcaption><p><strong>Figure 8. A functional (Sarmiento-type) humeral brace: a two-part sleeve that splints the fracture by hydraulic soft-tissue compression while allowing joint motion. From Arealis et al. (2021), Cureus 13(5):e14852, PMC8174392, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 8. A functional (Sarmiento-type) humeral brace: a two-part sleeve
-that splints the fracture by hydraulic soft-tissue compression while
-allowing joint motion. From Arealis et al. (2021), Cureus 13(5):e14852,
-PMC8174392, CC BY 4.0.
-
 ## 5.2 Acceptable alignment
 
 The radiographic limits within which a fracture may be accepted for
@@ -290,10 +258,6 @@ indications.[28]
 <img src="/images/topics/humeral-shaft-fractures/rId85.jpg" alt="Figure 9. Pathological humeral fracture through osteolytic metastatic breast carcinoma, an operative indication. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 9. Pathological humeral fracture through osteolytic metastatic breast carcinoma, an operative indication. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. Pathological humeral fracture through osteolytic metastatic
-breast carcinoma, an operative indication. Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 ## 6.2 The plate-versus-nail question
 
@@ -332,28 +296,15 @@ reserved for damage control and contaminated open fractures.[32]
 <figcaption><p><strong>Figure 10. Humeral shaft fracture treated by open reduction and compression-plate fixation (a long limited-contact dynamic compression plate), pre- and post-operative views. From BMC Musculoskeletal Disorders 2019;20:527, PMC6844056, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. Humeral shaft fracture treated by open reduction and
-compression-plate fixation (a long limited-contact dynamic compression
-plate), pre- and post-operative views. From BMC Musculoskeletal
-Disorders 2019;20:527, PMC6844056, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/humeral-shaft-fractures/rId96.jpg" alt="Figure 11. Humeral shaft fracture treated by antegrade intramedullary nailing. From Kazakos et al. (2009), Cases J 2:9075, PMC2803872, CC BY 2.0." />
 <figcaption><p><strong>Figure 11. Humeral shaft fracture treated by antegrade intramedullary nailing. From Kazakos et al. (2009), Cases J 2:9075, PMC2803872, CC BY 2.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. Humeral shaft fracture treated by antegrade intramedullary
-nailing. From Kazakos et al. (2009), Cases J 2:9075, PMC2803872, CC BY
-2.0.
-
 <figure>
 <img src="/images/topics/humeral-shaft-fractures/rId99.jpg" alt="Figure 12. An external fixator applied to the humerus/elbow for an open fracture, used for damage control and contaminated injuries. From Phalak et al. (2024), Cureus 16(8):e66460, PMC11380531, CC BY 4.0." />
 <figcaption><p><strong>Figure 12. An external fixator applied to the humerus/elbow for an open fracture, used for damage control and contaminated injuries. From Phalak et al. (2024), Cureus 16(8):e66460, PMC11380531, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. An external fixator applied to the humerus/elbow for an open
-fracture, used for damage control and contaminated injuries. From Phalak
-et al. (2024), Cureus 16(8):e66460, PMC11380531, CC BY 4.0.
 
 # Part VII - Complications
 
@@ -375,10 +326,6 @@ malunion costs shoulder external rotation.[35]
 <img src="/images/topics/humeral-shaft-fractures/rId107.jpg" alt="Figure 13. Hypertrophic nonunion of the humeral shaft (left), treated to union by fixation (right). From Magu et al. (2014), Case Rep Orthop 2014:854349, PMC4266758, CC BY." />
 <figcaption><p><strong>Figure 13. Hypertrophic nonunion of the humeral shaft (left), treated to union by fixation (right). From Magu et al. (2014), Case Rep Orthop 2014:854349, PMC4266758, CC BY.</strong></p></figcaption>
 </figure>
-
-Figure 13. Hypertrophic nonunion of the humeral shaft (left), treated to
-union by fixation (right). From Magu et al. (2014), Case Rep Orthop
-2014:854349, PMC4266758, CC BY.
 
 # Part VIII - A Synthesis: How to Reason Through the Humeral Shaft Fracture
 

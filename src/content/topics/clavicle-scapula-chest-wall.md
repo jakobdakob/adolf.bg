@@ -94,11 +94,6 @@ rarest and the most ominous.[5]
 <figcaption><p><strong>Figure 1. Superior surface of the clavicle, the S-shaped strut that holds the shoulder out from the chest, with its muscle attachments. From Gray’s Anatomy of the Human Body (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Superior surface of the clavicle, the S-shaped strut that
-holds the shoulder out from the chest, with its muscle attachments. From
-Gray’s Anatomy of the Human Body (1918), public domain, via Wikimedia
-Commons.
-
 The clavicle is a genuinely unusual bone. It is the **first bone in the
 body to ossify**, in the fifth embryonic week, and its **medial
 (sternal) epiphysis is the last of all the long-bone epiphyses to
@@ -201,10 +196,6 @@ real entity.[25]
 <figcaption><p><strong>Figure 2. Displaced fracture of the middle third of the clavicle with overlap and shortening, the pattern for which primary plating reduces nonunion. Source: Ramessos, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Displaced fracture of the middle third of the clavicle with
-overlap and shortening, the pattern for which primary plating reduces
-nonunion. Source: Ramessos, via Wikimedia Commons, CC BY-SA 3.0.
-
 The decisive evidence came from randomised trials. The **Canadian
 Orthopaedic Trauma Society (COTS) trial of 2007**, the first published
 RCT, showed that primary plate fixation of completely displaced midshaft
@@ -262,17 +253,10 @@ space and which routinely needs removal to regain full elevation).[35]
 <figcaption><p><strong>Figure 3. Fracture of the lateral (distal) third of the clavicle. Source: via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. Fracture of the lateral (distal) third of the clavicle.
-Source: via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/clavicle-scapula-chest-wall/rId70.jpg" alt="Figure 4. The same lateral clavicle fracture after open reduction and plate (hook-plate) fixation. Source: via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 4. The same lateral clavicle fracture after open reduction and plate (hook-plate) fixation. Source: via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 4. The same lateral clavicle fracture after open reduction and
-plate (hook-plate) fixation. Source: via Wikimedia Commons, CC BY-SA
-3.0.
 
 Medial-third fractures are rare and ominous. One series found them in
 middle-aged men after motor-vehicle trauma with a **20% mortality** from
@@ -320,11 +304,6 @@ signifies a complete dislocation.[43]
 <figcaption><p><strong>Figure 5. The acromioclavicular joint and the coracoclavicular (conoid and trapezoid) ligaments: the AC ligaments control horizontal stability, the CC ligaments vertical stability. From Gray’s Anatomy of the Human Body (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. The acromioclavicular joint and the coracoclavicular (conoid
-and trapezoid) ligaments: the AC ligaments control horizontal stability,
-the CC ligaments vertical stability. From Gray’s Anatomy of the Human
-Body (1918), public domain, via Wikimedia Commons.
-
 The mechanism is a **fall onto the point of the shoulder with the arm
 adducted**, driving the acromion down and medially and tearing the
 ligaments in sequence, AC ligaments first, then CC ligaments, then the
@@ -358,9 +337,6 @@ ligaments, the CC ligaments, and the muscle attachments:[46]
 <figcaption><p><strong>Figure 6. The Rockwood classification of acromioclavicular joint injuries, types I to VI. Source: Yosi I, via Wikimedia Commons, CC0.</strong></p></figcaption>
 </figure>
 
-Figure 6. The Rockwood classification of acromioclavicular joint
-injuries, types I to VI. Source: Yosi I, via Wikimedia Commons, CC0.
-
 Imaging uses the **Zanca view** (a 10-15° cephalad tilt at half the
 usual penetration) with bilateral comparison, and the **axillary view**
 to detect the posterior displacement of a type IV.[47] The
@@ -372,10 +348,6 @@ painful.[48]
 <img src="/images/topics/clavicle-scapula-chest-wall/rId96.jpg" alt="Figure 7. High-grade acromioclavicular dislocation (Tossy III / Rockwood V) with superior displacement of the distal clavicle. Source: St.-Elisabeth-Krankenhaus Dorsten, via Wikimedia Commons, public domain." />
 <figcaption><p><strong>Figure 7. High-grade acromioclavicular dislocation (Tossy III / Rockwood V) with superior displacement of the distal clavicle. Source: St.-Elisabeth-Krankenhaus Dorsten, via Wikimedia Commons, public domain.</strong></p></figcaption>
 </figure>
-
-Figure 7. High-grade acromioclavicular dislocation (Tossy III / Rockwood
-V) with superior displacement of the distal clavicle. Source:
-St.-Elisabeth-Krankenhaus Dorsten, via Wikimedia Commons, public domain.
 
 ## 3.3 Treatment and the type III controversy
 
@@ -453,10 +425,6 @@ suspected.[63]
 <figcaption><p><strong>Figure 8. Left sternoclavicular fracture-dislocation on 3D CT, the imaging modality of choice for this joint. Source: Jmarchn, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 8. Left sternoclavicular fracture-dislocation on 3D CT, the
-imaging modality of choice for this joint. Source: Jmarchn, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 ## 4.3 Treatment of the posterior dislocation
 
 The treatment of choice is **closed reduction**, and it should be
@@ -513,10 +481,6 @@ significant deformity.[74]
 <figcaption><p><strong>Figure 9. Anterior (costal) surface of the scapula, showing the coracoid process, glenoid cavity, and body. From Gray’s Anatomy of the Human Body (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Anterior (costal) surface of the scapula, showing the coracoid
-process, glenoid cavity, and body. From Gray’s Anatomy of the Human Body
-(1918), public domain, via Wikimedia Commons.
-
 ## 5.3 Classification
 
 Fractures are divided anatomically into **glenoid (intra-articular),
@@ -536,10 +500,6 @@ Ada-Miller and Ogawa schemes are also in use.[77]
 <img src="/images/topics/clavicle-scapula-chest-wall/rId143.jpg" alt="Figure 10. Comminuted scapular fracture: AP radiograph (left) and 3D CT volume rendering (centre and right), which is the gold-standard study. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 10. Comminuted scapular fracture: AP radiograph (left) and 3D CT volume rendering (centre and right), which is the gold-standard study. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. Comminuted scapular fracture: AP radiograph (left) and 3D CT
-volume rendering (centre and right), which is the gold-standard study.
-Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.
 
 ## 5.4 Treatment
 
@@ -562,10 +522,6 @@ weeks and nonunion is very rare.[81]
 <img src="/images/topics/clavicle-scapula-chest-wall/rId151.jpg" alt="Figure 11. Intra-articular glenoid fracture on axial CT; an articular step or gap of about 4 to 5 mm with subluxation is the indication for fixation. Source: Drahreg01, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 11. Intra-articular glenoid fracture on axial CT; an articular step or gap of about 4 to 5 mm with subluxation is the indication for fixation. Source: Drahreg01, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. Intra-articular glenoid fracture on axial CT; an articular
-step or gap of about 4 to 5 mm with subluxation is the indication for
-fixation. Source: Drahreg01, via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part VI - The Suspensory Complex, the Floating Shoulder, and Scapulothoracic Dissociation
 
@@ -647,10 +603,6 @@ adults.[96]
 <figcaption><p><strong>Figure 12. Rib fracture on axial chest CT (circled); CT is far more sensitive than plain films, which miss more than half of rib fractures. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. Rib fracture on axial chest CT (circled); CT is far more
-sensitive than plain films, which miss more than half of rib fractures.
-Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.
-
 ## 7.2 Associated thoracic injuries
 
 Rib fractures keep dangerous company, and the candidate must be able to
@@ -672,11 +624,6 @@ chest tube.[98]
 <img src="/images/topics/clavicle-scapula-chest-wall/rId181.jpg" alt="Figure 13. Left tension pneumothorax: a hyperlucent hemithorax with contralateral mediastinal shift. This is a clinical diagnosis, treated before imaging. Source: ClinicalCases.org, via Wikimedia Commons, CC BY-SA 2.5." />
 <figcaption><p><strong>Figure 13. Left tension pneumothorax: a hyperlucent hemithorax with contralateral mediastinal shift. This is a clinical diagnosis, treated before imaging. Source: ClinicalCases.org, via Wikimedia Commons, CC BY-SA 2.5.</strong></p></figcaption>
 </figure>
-
-Figure 13. Left tension pneumothorax: a hyperlucent hemithorax with
-contralateral mediastinal shift. This is a clinical diagnosis, treated
-before imaging. Source: ClinicalCases.org, via Wikimedia Commons, CC
-BY-SA 2.5.
 
 **Pulmonary contusion** is the injury that most often determines the
 outcome of chest-wall trauma. It is a parenchymal injury with alveolar
@@ -712,19 +659,10 @@ complications, and mortality.[103]
 <figcaption><p><strong>Figure 14. Serial (segmental) rib fractures on 3D CT, each rib broken in two places: the anatomical substrate of a flail segment. Source: Sjoehest, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 14. Serial (segmental) rib fractures on 3D CT, each rib broken in
-two places: the anatomical substrate of a flail segment. Source:
-Sjoehest, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/clavicle-scapula-chest-wall/rId193.jpg" alt="Figure 15. Paradoxical respiratory motion in flail chest (A inspiration, B expiration): the flail segment moves opposite to the rest of the chest wall. From Surgery in World War II: Thoracic Surgery (1965), U.S. Army, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Paradoxical respiratory motion in flail chest (A inspiration, B expiration): the flail segment moves opposite to the rest of the chest wall. From Surgery in World War II: Thoracic Surgery (1965), U.S. Army, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Paradoxical respiratory motion in flail chest (A inspiration,
-B expiration): the flail segment moves opposite to the rest of the chest
-wall. From Surgery in World War II: Thoracic Surgery (1965), U.S. Army,
-public domain, via Wikimedia Commons.
 
 ## 7.4 Management
 
@@ -766,16 +704,10 @@ unstable, or ununited.[110]
 <figcaption><p><strong>Figure 16. Displaced sternal fracture on the lateral radiograph (arrow). Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 16. Displaced sternal fracture on the lateral radiograph (arrow).
-Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/clavicle-scapula-chest-wall/rId207.jpg" alt="Figure 17. Sternal fracture on axial CT. From Monkhouse & Kelly, J Med Case Reports 2008;2:91, CC BY 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Sternal fracture on axial CT. From Monkhouse & Kelly, J Med Case Reports 2008;2:91, CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Sternal fracture on axial CT. From Monkhouse & Kelly, J Med
-Case Reports 2008;2:91, CC BY 2.0, via Wikimedia Commons.
 
 # Part VIII - A Synthesis: How to Reason Through Shoulder-Girdle and Chest-Wall Trauma
 

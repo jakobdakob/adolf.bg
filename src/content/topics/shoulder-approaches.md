@@ -78,28 +78,15 @@ detachment of the labrum, with or without a bone fragment, is the
 <figcaption><p><strong>Figure 1. Anterior view of the shoulder showing the joint capsule and the coracohumeral and coracoacromial ligaments forming the coracoacromial arch. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Anterior view of the shoulder showing the joint capsule and
-the coracohumeral and coracoacromial ligaments forming the
-coracoacromial arch. Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId28.jpg" alt="Figure 2. Lateral view of the scapula, showing the glenoid cavity, coracoid process, acromion and spine. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Lateral view of the scapula, showing the glenoid cavity, coracoid process, acromion and spine. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Lateral view of the scapula, showing the glenoid cavity,
-coracoid process, acromion and spine. Gray’s Anatomy (1918), public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId31.jpg" alt="Figure 3. Anterior aspect of the proximal humerus, showing the head, the greater and lesser tuberosities, the bicipital groove and the surgical neck. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Anterior aspect of the proximal humerus, showing the head, the greater and lesser tuberosities, the bicipital groove and the surgical neck. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Anterior aspect of the proximal humerus, showing the head, the
-greater and lesser tuberosities, the bicipital groove and the surgical
-neck. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
 
 ## The coracoid, the deltoid, and the subacromial bursa
 
@@ -146,11 +133,6 @@ retraction of the infraspinatus can stretch it there.
 <figcaption><p><strong>Figure 4. The four rotator cuff muscles: subscapularis anteriorly, and supraspinatus, infraspinatus and teres minor posteriorly, forming the inner muscular sleeve of the shoulder. InjuryMap, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. The four rotator cuff muscles: subscapularis anteriorly, and
-supraspinatus, infraspinatus and teres minor posteriorly, forming the
-inner muscular sleeve of the shoulder. InjuryMap, CC BY-SA 4.0, via
-Wikimedia Commons.
-
 # Part II - The Anterior (Deltopectoral) Approach
 
 The anterior approach is the **work-horse of shoulder surgery**, giving
@@ -187,30 +169,15 @@ capsule is opened.[10]
 <figcaption><p><strong>Figure 5. Schematic of the brachial plexus (roots, trunks, divisions, cords) and the origins of the suprascapular, musculocutaneous and axillary nerves; the cords and the axillary artery lie behind pectoralis minor, medial to the coracoid. Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Schematic of the brachial plexus (roots, trunks, divisions,
-cords) and the origins of the suprascapular, musculocutaneous and
-axillary nerves; the cords and the axillary artery lie behind pectoralis
-minor, medial to the coracoid. Public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId50.jpg" alt="Figure 6. Superficial muscles of the anterior shoulder, the pectoralis major and deltoid, with the deltopectoral interval between them, the plane of the anterior approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Superficial muscles of the anterior shoulder, the pectoralis major and deltoid, with the deltopectoral interval between them, the plane of the anterior approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Superficial muscles of the anterior shoulder, the pectoralis
-major and deltoid, with the deltopectoral interval between them, the
-plane of the anterior approach. Gray’s Anatomy (1918), public domain,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId53.jpg" alt="Figure 7. Deeper anterior dissection showing the coracoid process, pectoralis minor and subscapularis at the level of the clavipectoral fascia; the conjoined tendon arises from the coracoid and is retracted medially. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Deeper anterior dissection showing the coracoid process, pectoralis minor and subscapularis at the level of the clavipectoral fascia; the conjoined tendon arises from the coracoid and is retracted medially. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Deeper anterior dissection showing the coracoid process,
-pectoralis minor and subscapularis at the level of the clavipectoral
-fascia; the conjoined tendon arises from the coracoid and is retracted
-medially. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
 
 Four **dangers** stand out. The **musculocutaneous nerve** is injured by
 vigorous medial or downward retraction of the conjoined tendon, since it
@@ -265,12 +232,6 @@ tendon and is repaired at closure).[15]
 <figcaption><p><strong>Figure 8. The posterior shoulder showing the suprascapular nerve and the axillary nerve passing through the quadrangular (quadrilateral) space with the posterior circumflex humeral artery, the key danger of the lateral and posterior approaches. After Gray’s Anatomy, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. The posterior shoulder showing the suprascapular nerve and the
-axillary nerve passing through the quadrangular (quadrilateral) space
-with the posterior circumflex humeral artery, the key danger of the
-lateral and posterior approaches. After Gray’s Anatomy, public domain,
-via Wikimedia Commons.
-
 # Part IV - The Posterior Approach
 
 The posterior approach reaches the posterior and inferior shoulder and
@@ -307,21 +268,10 @@ usefully extended.[19]
 <figcaption><p><strong>Figure 9. Muscles of the posterior shoulder, the deltoid, infraspinatus, teres minor and teres major, showing the infraspinatus-teres minor interval used in the posterior approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Muscles of the posterior shoulder, the deltoid, infraspinatus,
-teres minor and teres major, showing the infraspinatus-teres minor
-interval used in the posterior approach. Gray’s Anatomy (1918), public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId73.jpg" alt="Figure 10. The quadrangular space (QS), triangular space (TS) and triangular interval (TI) of the posterior shoulder, defined by teres minor, teres major and the triceps; straying below teres minor enters the quadrangular space. Gray’s Anatomy (1918), annotated, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. The quadrangular space (QS), triangular space (TS) and triangular interval (TI) of the posterior shoulder, defined by teres minor, teres major and the triceps; straying below teres minor enters the quadrangular space. Gray’s Anatomy (1918), annotated, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. The quadrangular space (QS), triangular space (TS) and
-triangular interval (TI) of the posterior shoulder, defined by teres
-minor, teres major and the triceps; straying below teres minor enters
-the quadrangular space. Gray’s Anatomy (1918), annotated, public domain,
-via Wikimedia Commons.
 
 # Part V - Arthroscopic Approaches (Portals)
 
@@ -362,19 +312,10 @@ glenoid.[23]
 <figcaption><p><strong>Figure 11. The glenoid fossa with the humerus removed, showing the glenoid labrum that deepens the socket and the origin of the long head of biceps, the central structures seen at arthroscopy. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. The glenoid fossa with the humerus removed, showing the
-glenoid labrum that deepens the socket and the origin of the long head
-of biceps, the central structures seen at arthroscopy. Gray’s Anatomy
-(1918), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/shoulder-approaches/rId84.jpg" alt="Figure 12. Normal shoulder radiograph in the AP glenoid (Grashey) projection, showing the humeral head congruent with the glenoid and an open joint space. Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Normal shoulder radiograph in the AP glenoid (Grashey) projection, showing the humeral head congruent with the glenoid and an open joint space. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Normal shoulder radiograph in the AP glenoid (Grashey)
-projection, showing the humeral head congruent with the glenoid and an
-open joint space. Mikael Häggström, CC0, via Wikimedia Commons.
 
 # References
 1.  The single source is Hoppenfeld, de Boer and Buckley, *Surgical

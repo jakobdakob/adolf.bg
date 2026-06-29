@@ -77,10 +77,6 @@ the head is preserved.[10]
 <figcaption><p><strong>Figure 1. The proximal femur: head, neck, greater and lesser trochanters (the calcar lies along the posteromedial neck). Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The proximal femur: head, neck, greater and lesser trochanters
-(the calcar lies along the posteromedial neck). Henry Vandyke Carter,
-Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
-
 **Stability** is the organising idea. A **stable** fracture has an
 intact (or reconstructable) **posteromedial cortex** that can resist
 compressive load once the fracture impacts. An **unstable** fracture is
@@ -111,10 +107,6 @@ that map directly onto stability:[13]
 <figcaption><p><strong>Figure 2. Anatomical classification of proximal femoral fractures: the intertrochanteric/pertrochanteric (extracapsular) zone relative to the trochanters and neck. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Anatomical classification of proximal femoral fractures: the
-intertrochanteric/pertrochanteric (extracapsular) zone relative to the
-trochanters and neck. Mikael Häggström, CC0, via Wikimedia Commons.
-
 The three-group level is reliable and guides treatment, whereas the
 further sub-subgroups are not reproducible and add little.[14] The
 older eponymous **Evans (and Evans-Jensen) classifications** grade the
@@ -129,18 +121,10 @@ as a two-part trochanteric fracture.[16]
 <figcaption><p><strong>Figure 3. An undisplaced pertrochanteric (extracapsular) fracture on AP radiograph (fracture line in red). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. An undisplaced pertrochanteric (extracapsular) fracture on AP
-radiograph (fracture line in red). Hellerhoff, CC BY-SA 4.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/trochanteric-hip-fractures/rId48.jpg" alt="Figure 4. A comminuted (unstable) trochanteric fracture with a separate posteromedial fragment. Memon, Patel & Juva, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. A comminuted (unstable) trochanteric fracture with a separate posteromedial fragment. Memon, Patel & Juva, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. A comminuted (unstable) trochanteric fracture with a separate
-posteromedial fragment. Memon, Patel & Juva, CC BY 4.0, via Wikimedia
-Commons.
 
 # Part IV - Assessment and Imaging
 
@@ -194,10 +178,6 @@ within about 5 mm of the joint**, minimises the risk of cut-out.[26]
 <figcaption><p><strong>Figure 5. A pertrochanteric fracture (left) fixed with a dynamic hip screw and lateral side plate plus a trochanteric stabilising plate (right). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. A pertrochanteric fracture (left) fixed with a dynamic hip
-screw and lateral side plate plus a trochanteric stabilising plate
-(right). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 ## 5.3 The cephalomedullary nail (for unstable fractures)
 
 For the **unstable fracture (a comminuted A2, a reverse-obliquity A3,
@@ -221,10 +201,6 @@ stabilising plate remains acceptable).[29]
 <img src="/images/topics/trochanteric-hip-fractures/rId71.jpg" alt="Figure 6. A reverse-obliquity proximal femoral fracture (left) treated with a long cephalomedullary nail and cerclage (right). Mehlauge, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. A reverse-obliquity proximal femoral fracture (left) treated with a long cephalomedullary nail and cerclage (right). Mehlauge, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. A reverse-obliquity proximal femoral fracture (left) treated
-with a long cephalomedullary nail and cerclage (right). Mehlauge, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 ## 5.4 The nail-versus-screw debate
 
@@ -272,10 +248,6 @@ risk), which is why a valgus reduction is worth the trouble.[39]
 <figcaption><p><strong>Figure 7. Screw cut-out after cephalomedullary nailing: the cephalic screw migrates through the femoral head toward the acetabulum. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Screw cut-out after cephalomedullary nailing: the cephalic
-screw migrates through the femoral head toward the acetabulum.
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 The other complications are fewer. **Peri-implant (femoral shaft)
 fracture at the nail tip** occurs in about 0.5-10% (reduced to about
 0.5-1% with modern nail designs), the price of intramedullary
@@ -292,10 +264,6 @@ prophylaxis.[42]
 <img src="/images/topics/trochanteric-hip-fractures/rId94.jpg" alt="Figure 8. A hip hemiarthroplasty, one arthroplasty option for an unstable proximal-femoral fracture in a frail elderly patient. Jones et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. A hip hemiarthroplasty, one arthroplasty option for an unstable proximal-femoral fracture in a frail elderly patient. Jones et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. A hip hemiarthroplasty, one arthroplasty option for an
-unstable proximal-femoral fracture in a frail elderly patient. Jones et
-al., CC BY 4.0, via Wikimedia Commons.
 
 # Part VII - A Synthesis: How to Reason About the Trochanteric Fracture
 

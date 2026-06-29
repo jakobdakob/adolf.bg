@@ -85,11 +85,6 @@ metatarsal base, is the only link across that gap.[6]
 <figcaption><p><strong>Figure 1. Bones of the foot (dorsal view): the hindfoot (talus, calcaneus), the midfoot bones (navicular, cuboid and the three cuneiforms) and the forefoot metatarsals and phalanges. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Bones of the foot (dorsal view): the hindfoot (talus,
-calcaneus), the midfoot bones (navicular, cuboid and the three
-cuneiforms) and the forefoot metatarsals and phalanges. Gray’s Anatomy
-(1918), public domain, via Wikimedia Commons.
-
 The forefoot spreads load across the metatarsal heads while staying
 mobile in the sagittal plane to accommodate uneven ground, the mobility
 rising in a cascade from the rigid second and third rays out to the
@@ -126,12 +121,6 @@ medial neck.
 <img src="/images/topics/foot-fractures-dislocations/rId35.jpg" alt="Figure 2. Subtalar (talocalcaneal) joint anatomy: the talus sitting over the calcaneus, with the anterior and posterior talocalcaneal facets and the intervening sinus tarsi. The talus has no muscular attachments, which is why its blood supply is retrograde and precarious. Vertenflow, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Subtalar (talocalcaneal) joint anatomy: the talus sitting over the calcaneus, with the anterior and posterior talocalcaneal facets and the intervening sinus tarsi. The talus has no muscular attachments, which is why its blood supply is retrograde and precarious. Vertenflow, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Subtalar (talocalcaneal) joint anatomy: the talus sitting over
-the calcaneus, with the anterior and posterior talocalcaneal facets and
-the intervening sinus tarsi. The talus has no muscular attachments,
-which is why its blood supply is retrograde and precarious. Vertenflow,
-CC BY-SA 3.0, via Wikimedia Commons.
 
 The anatomy also fixes a distinction worth knowing. The **lateral
 process of the talus is the dividing line** between a neck fracture,
@@ -173,18 +162,10 @@ worrying but does not guarantee necrosis.[15]
 <figcaption><p><strong>Figure 3. A talar fracture that is subtle on the plain radiograph (arrows); talar fractures are easily missed and frequently need CT for confirmation. Jarraya et al., CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. A talar fracture that is subtle on the plain radiograph
-(arrows); talar fractures are easily missed and frequently need CT for
-confirmation. Jarraya et al., CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId47.jpg" alt="Figure 4. The same talar fracture confirmed on sagittal CT (arrow), which is routine for characterising talar injuries and planning fixation. Jarraya et al., CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. The same talar fracture confirmed on sagittal CT (arrow), which is routine for characterising talar injuries and planning fixation. Jarraya et al., CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. The same talar fracture confirmed on sagittal CT (arrow),
-which is routine for characterising talar injuries and planning
-fixation. Jarraya et al., CC BY 3.0, via Wikimedia Commons.
 
 Management follows from the vascular anatomy. A truly nondisplaced
 fracture can be treated nonoperatively once CT confirms it, but every
@@ -268,19 +249,10 @@ classification.
 <figcaption><p><strong>Figure 5. Böhler’s tuber-joint angle on the lateral view: a normal calcaneus (top) compared with a calcaneal fracture in which the angle is flattened by depression of the posterior facet (bottom). Gilo1969, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Böhler’s tuber-joint angle on the lateral view: a normal
-calcaneus (top) compared with a calcaneal fracture in which the angle is
-flattened by depression of the posterior facet (bottom). Gilo1969, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId68.jpg" alt="Figure 6. Lateral radiograph of a calcaneal fracture with a depressed posterior facet after a fall from height. Jojo, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Lateral radiograph of a calcaneal fracture with a depressed posterior facet after a fall from height. Jojo, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Lateral radiograph of a calcaneal fracture with a depressed
-posterior facet after a fall from height. Jojo, CC BY-SA 3.0, via
-Wikimedia Commons.
 
 The **Essex-Lopresti** scheme divides intra-articular fractures by the
 secondary fracture line into a **tongue type**, in which the articular
@@ -299,18 +271,10 @@ type IV is usually managed by primary subtalar arthrodesis.[28]
 <figcaption><p><strong>Figure 7. Axial CT of a comminuted calcaneal fracture (the Sanders classification is built on the coronal reformat through the posterior facet). Cerevisae, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Axial CT of a comminuted calcaneal fracture (the Sanders
-classification is built on the coronal reformat through the posterior
-facet). Cerevisae, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId76.jpg" alt="Figure 8. Sagittal CT of a fractured calcaneus (circled), profiling the posterior-facet depression and the tuberosity. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Sagittal CT of a fractured calcaneus (circled), profiling the posterior-facet depression and the tuberosity. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Sagittal CT of a fractured calcaneus (circled), profiling the
-posterior-facet depression and the tuberosity. James Heilman, MD, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 One extra-articular pattern demands particular vigilance: the
 **tongue-type tuberosity fracture, a skin-necrosis emergency**. The
@@ -344,11 +308,6 @@ wound problems and can be done earlier.[32]
 <img src="/images/topics/foot-fractures-dislocations/rId84.jpg" alt="Figure 9. Calcaneal fracture after osteosynthesis with a minimally invasive intraosseous nail (C-Nail) and screws, an alternative to extensile-approach lateral plating that reduces the wound-complication risk. Fry72, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Calcaneal fracture after osteosynthesis with a minimally invasive intraosseous nail (C-Nail) and screws, an alternative to extensile-approach lateral plating that reduces the wound-complication risk. Fry72, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Calcaneal fracture after osteosynthesis with a minimally
-invasive intraosseous nail (C-Nail) and screws, an alternative to
-extensile-approach lateral plating that reduces the wound-complication
-risk. Fry72, CC BY-SA 4.0, via Wikimedia Commons.
 
 The reconstruction proceeds from the constant sustentacular fragment
 outward: a Schanz pin disimpacts the tuberosity to correct varus and
@@ -447,28 +406,15 @@ displacement patterns as homolateral, isolated or divergent.[44]
 <figcaption><p><strong>Figure 10. AP radiograph of a Lisfranc (tarsometatarsal) injury with malalignment at the base of the second metatarsal. James Heilman, MD, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. AP radiograph of a Lisfranc (tarsometatarsal) injury with
-malalignment at the base of the second metatarsal. James Heilman, MD, CC
-BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId104.jpg" alt="Figure 11. Bilateral weight-bearing radiographs showing subtle diastasis of the left first-second intermetatarsal space from a Lisfranc ligament rupture; comparison with the normal side is the diagnostic key. Mark A. Dreyer, DPM, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Bilateral weight-bearing radiographs showing subtle diastasis of the left first-second intermetatarsal space from a Lisfranc ligament rupture; comparison with the normal side is the diagnostic key. Mark A. Dreyer, DPM, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Bilateral weight-bearing radiographs showing subtle diastasis
-of the left first-second intermetatarsal space from a Lisfranc ligament
-rupture; comparison with the normal side is the diagnostic key. Mark A.
-Dreyer, DPM, CC BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId107.jpg" alt="Figure 12. Lisfranc fracture-dislocation with lateral displacement of the lesser metatarsals, shown on radiographs and three-dimensional CT reconstruction. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Lisfranc fracture-dislocation with lateral displacement of the lesser metatarsals, shown on radiographs and three-dimensional CT reconstruction. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Lisfranc fracture-dislocation with lateral displacement of
-the lesser metatarsals, shown on radiographs and three-dimensional CT
-reconstruction. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 Only a truly stable, nondisplaced injury (malalignment under 1 mm, no
 displacement on stress or weight-bearing views, no bony injury on CT) is
@@ -508,11 +454,6 @@ especially the second, should prompt a search for a Lisfranc injury.
 <figcaption><p><strong>Figure 13. Healing stress (march) fracture of the second metatarsal shaft with periosteal callus (arrow); stress fractures favour the relatively immobile second and third rays. Personalo, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Healing stress (march) fracture of the second metatarsal
-shaft with periosteal callus (arrow); stress fractures favour the
-relatively immobile second and third rays. Personalo, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 The **fifth metatarsal** is the examination favourite, divided into
 three proximal zones. **Zone 1 is the tuberosity avulsion
 (“pseudo-Jones”),** caused by inversion pulling on the lateral
@@ -534,28 +475,15 @@ is in varus.[50] The other common fifth-metatarsal injury, the spiral
 <figcaption><p><strong>Figure 14. Oblique radiograph of a true Jones fracture at the metaphyseal-diaphyseal junction of the fifth metatarsal, a watershed region prone to nonunion. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Oblique radiograph of a true Jones fracture at the
-metaphyseal-diaphyseal junction of the fifth metatarsal, a watershed
-region prone to nonunion. Hellerhoff, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId123.jpg" alt="Figure 15. Fracture of the proximal fifth metatarsal at the border between the metaphysis and the tuberosity. Park et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Fracture of the proximal fifth metatarsal at the border between the metaphysis and the tuberosity. Park et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Fracture of the proximal fifth metatarsal at the border
-between the metaphysis and the tuberosity. Park et al., CC BY 4.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/foot-fractures-dislocations/rId126.jpg" alt="Figure 16. Postoperative radiograph after internal fixation of a fifth-metatarsal fracture with two screws. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Postoperative radiograph after internal fixation of a fifth-metatarsal fracture with two screws. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Postoperative radiograph after internal fixation of a
-fifth-metatarsal fracture with two screws. Jmarchn, CC BY-SA 3.0, via
-Wikimedia Commons.
 
 ## Sesamoid and phalangeal fractures
 

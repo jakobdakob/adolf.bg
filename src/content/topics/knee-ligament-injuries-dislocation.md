@@ -66,11 +66,6 @@ dislocation is the classic irreducible pattern.[4]
 <figcaption><p><strong>Figure 1. Posterior and lateral views of the knee showing the anterior and posterior cruciate ligaments and the medial and lateral collateral ligaments. Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Posterior and lateral views of the knee showing the anterior
-and posterior cruciate ligaments and the medial and lateral collateral
-ligaments. Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 # Part II - The Vascular and Neurological Emergency
 
 The **popliteal artery** is the structure that makes a knee dislocation
@@ -92,11 +87,6 @@ carrying up to an **86 % amputation rate**.[6]
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId31.jpg" alt="Figure 2. 3D CT angiogram (posterior view) showing occlusion of the right popliteal artery (arrow) with normal vasculature on the left, the vascular complication that makes a knee dislocation a surgical emergency. Image by Godfrey et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. 3D CT angiogram (posterior view) showing occlusion of the right popliteal artery (arrow) with normal vasculature on the left, the vascular complication that makes a knee dislocation a surgical emergency. Image by Godfrey et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. 3D CT angiogram (posterior view) showing occlusion of the
-right popliteal artery (arrow) with normal vasculature on the left, the
-vascular complication that makes a knee dislocation a surgical
-emergency. Image by Godfrey et al., CC BY 4.0, via Wikimedia Commons.
 
 The vascular work-up is therefore systematic.[7] Every documented or
 presumed dislocation has a **serial vascular examination** and an
@@ -145,17 +135,10 @@ tears.[10]
 <figcaption><p><strong>Figure 3. Lateral radiograph demonstrating a posterior tibiofemoral (knee) dislocation, the tibia displaced posteriorly (arrow). Image by Duprey & Lin, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Lateral radiograph demonstrating a posterior tibiofemoral
-(knee) dislocation, the tibia displaced posteriorly (arrow). Image by
-Duprey & Lin, CC BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId42.jpg" alt="Figure 4. Radiograph of a lateral knee dislocation. Image by Andrew Murphy, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Radiograph of a lateral knee dislocation. Image by Andrew Murphy, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Radiograph of a lateral knee dislocation. Image by Andrew
-Murphy, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - Classification
 
@@ -206,38 +189,20 @@ corner injury is a classic cause of cruciate graft failure.[14]
 <figcaption><p><strong>Figure 5. Posterior view of the right knee with the femur lifted, showing the cruciate (ACL, PCL) and collateral (MCL, LCL) ligaments, the menisci, and the popliteus tendon. Gray’s Anatomy (Plate 348), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Posterior view of the right knee with the femur lifted,
-showing the cruciate (ACL, PCL) and collateral (MCL, LCL) ligaments, the
-menisci, and the popliteus tendon. Gray’s Anatomy (Plate 348), public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId54.jpg" alt="Figure 6. Sagittal schematic of the knee showing the anterior (blue) and posterior (green) cruciate ligaments among the surrounding structures. Public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Sagittal schematic of the knee showing the anterior (blue) and posterior (green) cruciate ligaments among the surrounding structures. Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Sagittal schematic of the knee showing the anterior (blue) and
-posterior (green) cruciate ligaments among the surrounding structures.
-Public domain, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId57.jpg" alt="Figure 7. Head of the right tibia seen from above, showing the menisci and the tibial attachments of the cruciate ligaments. Gray’s Anatomy (Plate 349), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Head of the right tibia seen from above, showing the menisci and the tibial attachments of the cruciate ligaments. Gray’s Anatomy (Plate 349), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Head of the right tibia seen from above, showing the menisci
-and the tibial attachments of the cruciate ligaments. Gray’s Anatomy
-(Plate 349), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId60.jpg" alt="Figure 8. Sagittal knee MRI showing the normal anterior and posterior cruciate ligaments (arrows), the reference appearance against which tears are read. Image by Lykissas et al., CC BY-SA 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Sagittal knee MRI showing the normal anterior and posterior cruciate ligaments (arrows), the reference appearance against which tears are read. Image by Lykissas et al., CC BY-SA 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Sagittal knee MRI showing the normal anterior and posterior
-cruciate ligaments (arrows), the reference appearance against which
-tears are read. Image by Lykissas et al., CC BY-SA 2.0, via Wikimedia
-Commons.
 
 # Part VI - Clinical Examination of the Knee Ligaments
 
@@ -281,18 +246,10 @@ injury.[18]
 <figcaption><p><strong>Figure 9. AP knee radiograph showing a Segond fracture, a small avulsion off the lateral tibial plateau (circled), highly associated with an ACL tear. Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. AP knee radiograph showing a Segond fracture, a small avulsion
-off the lateral tibial plateau (circled), highly associated with an ACL
-tear. Public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId72.jpg" alt="Figure 10. Fat-suppressed knee MRI (sagittal, coronal, axial) of a Segond avulsion with an associated anterior cruciate ligament tear. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Fat-suppressed knee MRI (sagittal, coronal, axial) of a Segond avulsion with an associated anterior cruciate ligament tear. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Fat-suppressed knee MRI (sagittal, coronal, axial) of a
-Segond avulsion with an associated anterior cruciate ligament tear.
-Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part VIII - Treatment of the Multiligament Knee / Dislocation
 
@@ -358,16 +315,10 @@ failure**.[24]
 <figcaption><p><strong>Figure 11. Illustration of an anterior cruciate ligament (ACL) tear. Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Illustration of an anterior cruciate ligament (ACL) tear.
-Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/knee-ligament-injuries-dislocation/rId86.jpg" alt="Figure 12. Sagittal T1 knee MRI showing the posterior cruciate ligament (arrow). Image by SCiardullo, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Sagittal T1 knee MRI showing the posterior cruciate ligament (arrow). Image by SCiardullo, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Sagittal T1 knee MRI showing the posterior cruciate ligament
-(arrow). Image by SCiardullo, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part X - Complications
 

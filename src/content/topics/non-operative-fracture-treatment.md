@@ -208,11 +208,6 @@ continuous traction, by tilting the whole bed (see Part IV).
 <figcaption><p><strong>Figure 1. Closed reduction of a forearm fracture by manual manipulation - traction and moulding pressure applied by the surgeon’s hands. From C. L. Scudder, The Treatment of Fractures (1901). Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Closed reduction of a forearm fracture by manual manipulation
-- traction and moulding pressure applied by the surgeon’s hands. From
-C. L. Scudder, *The Treatment of Fractures* (1901). Public domain, via
-Wikimedia Commons.
-
 ## Pain relief is not optional
 
 The body’s response to a fracture is protective **muscle spasm**, and
@@ -289,11 +284,6 @@ the fracture.[34]
 <figcaption><p><strong>Figure 2. Distal-radius (Colles-type) fracture before (a) and after (b) closed reduction and cast application - the documented goal of a successful manipulation. From Kaushik et al. (2025), PMC12739557, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Distal-radius (Colles-type) fracture before (a) and after (b)
-closed reduction and cast application - the documented goal of a
-successful manipulation. From Kaushik et al. (2025), PMC12739557, CC BY
-4.0.
-
 # Part III - Maintaining Reduction I: Casts and Splints
 
 ## Plaster of Paris and its modern rivals
@@ -332,10 +322,6 @@ viva.[40]
 <figcaption><p><strong>Figure 3. Synthetic (resin/fiberglass) short-arm cast for a wrist fracture - lighter and more radiolucent than plaster, favoured for definitive casts. Source: Acabashi, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. Synthetic (resin/fiberglass) short-arm cast for a wrist
-fracture - lighter and more radiolucent than plaster, favoured for
-definitive casts. Source: Acabashi, via Wikimedia Commons, CC BY-SA 4.0.
-
 ## Applying a cast: padding, and never too tight
 
 Padding is a balancing act. **Too much padding lets the fracture
@@ -361,10 +347,6 @@ the hand while soft.[45]
 <img src="/images/topics/non-operative-fracture-treatment/rId84.jpg" alt="Figure 4. Application and moulding of a plaster-of-Paris cast to the leg over padding. IU Indianapolis University Library, via Wikimedia Commons. Public domain." />
 <figcaption><p><strong>Figure 4. Application and moulding of a plaster-of-Paris cast to the leg over padding. IU Indianapolis University Library, via Wikimedia Commons. Public domain.</strong></p></figcaption>
 </figure>
-
-Figure 4. Application and moulding of a plaster-of-Paris cast to the leg
-over padding. IU Indianapolis University Library, via Wikimedia Commons.
-Public domain.
 
 ## Three-point fixation: “a curved cast makes a straight bone”
 
@@ -468,10 +450,6 @@ reinforced and buffered, and a simple walking shoe such as the
 <figcaption><p><strong>Figure 5. Long-leg fiberglass cast for a tibial fracture, with the knee in slight flexion and the foot plantigrade. Source: Jonuscumgi, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Long-leg fiberglass cast for a tibial fracture, with the knee
-in slight flexion and the foot plantigrade. Source: Jonuscumgi, via
-Wikimedia Commons, CC BY-SA 4.0.
-
 ## Slabs, splints, slings and strapping
 
 A **full circumferential cast is rarely applied immediately** after
@@ -530,10 +508,6 @@ sag.[63]
 <figcaption><p><strong>Figure 6. Balanced suspension of the lower limb using a Thomas splint with a Pearson knee attachment, pulleys and weights. From Yuenyongviwat et al. (2020), PMC7396022, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. Balanced suspension of the lower limb using a Thomas splint
-with a Pearson knee attachment, pulleys and weights. From Yuenyongviwat
-et al. (2020), PMC7396022, CC BY 4.0.
-
 ## Skin versus skeletal traction
 
 **Skin traction** transmits the pull through adhesive strapping and foam
@@ -556,18 +530,10 @@ local anaesthetic into skin, periosteum and muscle.[67]
 <figcaption><p><strong>Figure 7. Skin (Buck’s-type) traction applied to the leg with felt and a crepe bandage - a light-load, temporary measure. From Mc Carthy et al. (2020), PMC7100621, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 7. Skin (Buck’s-type) traction applied to the leg with felt and a
-crepe bandage - a light-load, temporary measure. From Mc Carthy et
-al. (2020), PMC7100621, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/non-operative-fracture-treatment/rId126.jpg" alt="Figure 8. Steinmann pins - the stiff trans-osseous pins through which skeletal traction (or external fixation) is applied. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 8. Steinmann pins - the stiff trans-osseous pins through which skeletal traction (or external fixation) is applied. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. Steinmann pins - the stiff trans-osseous pins through which
-skeletal traction (or external fixation) is applied. Source: Netha
-Hussain, via Wikimedia Commons, CC BY-SA 3.0.
 
 ## The named traction systems
 
@@ -608,10 +574,6 @@ children.[69]
 <img src="/images/topics/non-operative-fracture-treatment/rId132.jpg" alt="Figure 9. A Thomas leg-traction splint (padded ring and side bars) - the classic frame for balanced lower-limb traction. Source: Museumjack / Thackray Museum of Medicine, via Wikimedia Commons, CC BY 4.0." />
 <figcaption><p><strong>Figure 9. A Thomas leg-traction splint (padded ring and side bars) - the classic frame for balanced lower-limb traction. Source: Museumjack / Thackray Museum of Medicine, via Wikimedia Commons, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. A Thomas leg-traction splint (padded ring and side bars) - the
-classic frame for balanced lower-limb traction. Source: Museumjack /
-Thackray Museum of Medicine, via Wikimedia Commons, CC BY 4.0.
 
 ## Traction has largely left the limbs
 
@@ -669,10 +631,6 @@ are essential; pin-track sepsis occurs in up to 20% and pin loosening in
 <img src="/images/topics/non-operative-fracture-treatment/rId144.jpg" alt="Figure 10. Halo vest for cervical-spine traction and immobilisation - skull pins fixed to a rigid vest by anterior and posterior rods. Source: BruceBlaus, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 10. Halo vest for cervical-spine traction and immobilisation - skull pins fixed to a rigid vest by anterior and posterior rods. Source: BruceBlaus, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. Halo vest for cervical-spine traction and immobilisation -
-skull pins fixed to a rigid vest by anterior and posterior rods. Source:
-BruceBlaus, via Wikimedia Commons, CC BY-SA 4.0.
 
 Thoracolumbar traction is not used definitively, but a short period of
 traction on a **Cotrel frame** is occasionally used to reduce a burst
@@ -735,11 +693,6 @@ genuine and live controversy.[85]
 <img src="/images/topics/non-operative-fracture-treatment/rId159.jpg" alt="Figure 11. Humeral functional (clamshell) brace with a support sling for conservative treatment of a humeral-shaft fracture - the Sarmiento principle in practice. From Arealis et al. (2021), PMC8174392, CC BY 4.0." />
 <figcaption><p><strong>Figure 11. Humeral functional (clamshell) brace with a support sling for conservative treatment of a humeral-shaft fracture - the Sarmiento principle in practice. From Arealis et al. (2021), PMC8174392, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. Humeral functional (clamshell) brace with a support sling for
-conservative treatment of a humeral-shaft fracture - the Sarmiento
-principle in practice. From Arealis et al. (2021), PMC8174392, CC BY
-4.0.
 
 For the **tibia**, the **patellar-tendon-bearing (PTB) brace** carries
 the same below-knee shell up to the patellar tendon but adds an **ankle
@@ -912,10 +865,6 @@ once for increasing pain, numbness or swelling.[116]
 <figcaption><p><strong>Figure 12. Fasciotomy for acute compartment syndrome - the limb-threatening end-point of an unrelieved tight cast. Source: Armin, via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. Fasciotomy for acute compartment syndrome - the
-limb-threatening end-point of an unrelieved tight cast. Source: Armin,
-via Wikimedia Commons, CC0 1.0.
-
 ## Pressure sores, thermal injury and skin problems
 
 **Plaster (pressure) sores** arise where a fold or tuck in the wool, or
@@ -997,11 +946,6 @@ directly from the principles above:
 <img src="/images/topics/non-operative-fracture-treatment/rId221.jpg" alt="Figure 13. Kirschner wires, used for percutaneous pin fixation after closed reduction of a distal-radius fracture - the common minimally invasive step beyond a cast when a reduction will not hold. Source: Ard0, via Wikimedia Commons. Public domain." />
 <figcaption><p><strong>Figure 13. Kirschner wires, used for percutaneous pin fixation after closed reduction of a distal-radius fracture - the common minimally invasive step beyond a cast when a reduction will not hold. Source: Ard0, via Wikimedia Commons. Public domain.</strong></p></figcaption>
 </figure>
-
-Figure 13. Kirschner wires, used for percutaneous pin fixation after
-closed reduction of a distal-radius fracture - the common minimally
-invasive step beyond a cast when a reduction will not hold. Source:
-Ard0, via Wikimedia Commons. Public domain.
 
 The reverse is equally true: surgery is *not* automatically superior.
 For a large and growing list of fractures (the proximal humerus, the

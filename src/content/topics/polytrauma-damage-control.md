@@ -51,10 +51,6 @@ of trauma fatalities.[4]
 <figcaption><p><strong>Figure 1. Temporal distribution of in-hospital trauma deaths, showing the dominant early peak (the modern data form of the classic trimodal model). Source: Rauf et al., PLoS ONE 2019;14:e0212095, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. Temporal distribution of in-hospital trauma deaths, showing
-the dominant early peak (the modern data form of the classic trimodal
-model). Source: Rauf et al., PLoS ONE 2019;14:e0212095, CC BY 4.0.
-
 There is no single agreed numeric definition of “polytrauma”; the texts
 use *multiply injured*, *multisystem trauma* and *polytrauma*
 interchangeably for a patient whose injuries cross more than one body
@@ -111,10 +107,6 @@ ABCDE**:[12]
 <figcaption><p><strong>Figure 2. Tension pneumothorax: the collapsed lung and mediastinal shift that must be found and decompressed during the “B” of the primary survey. Source: Baedr-9439, via Wikimedia Commons, CC0 (public domain).</strong></p></figcaption>
 </figure>
 
-Figure 2. Tension pneumothorax: the collapsed lung and mediastinal shift
-that must be found and decompressed during the “B” of the primary
-survey. Source: Baedr-9439, via Wikimedia Commons, CC0 (public domain).
-
   - **C, Circulation with haemorrhage control.** After excluding tension
     pneumothorax, hypotension is haemorrhagic until proven otherwise.
     Control external bleeding by direct pressure (a tourniquet if that
@@ -142,11 +134,6 @@ or pericardial blood.[16]
 <img src="/images/topics/polytrauma-damage-control/rId45.jpg" alt="Figure 3. Focused Assessment with Sonography for Trauma (FAST), a bedside adjunct to the primary survey for free intraperitoneal or pericardial blood. Source: Ben Smith / Ultrasound of the Week, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 3. Focused Assessment with Sonography for Trauma (FAST), a bedside adjunct to the primary survey for free intraperitoneal or pericardial blood. Source: Ben Smith / Ultrasound of the Week, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 3. Focused Assessment with Sonography for Trauma (FAST), a
-bedside adjunct to the primary survey for free intraperitoneal or
-pericardial blood. Source: Ben Smith / Ultrasound of the Week, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 # Part III - The Secondary and Tertiary Surveys
 
@@ -186,10 +173,6 @@ cause shock.[23]
 <figcaption><p><strong>Figure 4. The types of shock and their common end-point of inadequate tissue perfusion. Source: Doyouseewhy7, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 4. The types of shock and their common end-point of inadequate
-tissue perfusion. Source: Doyouseewhy7, via Wikimedia Commons, CC BY-SA
-4.0.
-
 The cornerstone of recognition is the ATLS classification of
 haemorrhagic shock, based on a normal blood volume of about **7% of body
 weight (~5 L in a 70-kg adult; 8-9% in a child)**:[24]
@@ -219,11 +202,6 @@ treating, since “bleeding patients need blood.”[26]
 <figcaption><p><strong>Figure 5. Physiological changes across the four classes of haemorrhagic shock (mean arterial pressure, heart rate, right-atrial pressure and lactate). Source: Elansary et al., Front Physiol 2022;13:1033784, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Physiological changes across the four classes of haemorrhagic
-shock (mean arterial pressure, heart rate, right-atrial pressure and
-lactate). Source: Elansary et al., Front Physiol 2022;13:1033784, CC BY
-4.0.
-
 ## Pathophysiology and the lethal triad
 
 Cardiac output is heart rate times stroke volume, and stroke volume
@@ -247,18 +225,10 @@ despite massive acute loss.[31]
 <figcaption><p><strong>Figure 6. The lethal triad of trauma: hypothermia, acidosis and coagulopathy reinforcing one another. Source: Cburnett, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. The lethal triad of trauma: hypothermia, acidosis and
-coagulopathy reinforcing one another. Source: Cburnett, via Wikimedia
-Commons, CC BY 3.0.
-
 <figure>
 <img src="/images/topics/polytrauma-damage-control/rId75.jpg" alt="Figure 7. The modern “diamond of death”, adding hypocalcaemia to the classic lethal triad. Source: Klimek et al., J Clin Med 2026;15:2549, CC BY 4.0." />
 <figcaption><p><strong>Figure 7. The modern “diamond of death”, adding hypocalcaemia to the classic lethal triad. Source: Klimek et al., J Clin Med 2026;15:2549, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 7. The modern “diamond of death”, adding hypocalcaemia to the
-classic lethal triad. Source: Klimek et al., J Clin Med 2026;15:2549, CC
-BY 4.0.
 
 # Part V - Resuscitation
 
@@ -279,10 +249,6 @@ bolus) because excessive crystalloid worsens the lethal triad.[34]
 <img src="/images/topics/polytrauma-damage-control/rId83.jpg" alt="Figure 8. A windlass limb tourniquet (Combat Application Tourniquet) for controlling exsanguinating external limb haemorrhage. Source: Struppig taucher, via Wikimedia Commons, CC BY 4.0." />
 <figcaption><p><strong>Figure 8. A windlass limb tourniquet (Combat Application Tourniquet) for controlling exsanguinating external limb haemorrhage. Source: Struppig taucher, via Wikimedia Commons, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. A windlass limb tourniquet (Combat Application Tourniquet) for
-controlling exsanguinating external limb haemorrhage. Source: Struppig
-taucher, via Wikimedia Commons, CC BY 4.0.
 
 Two resuscitation strategies define current practice. **Permissive
 (balanced, controlled, hypotensive) resuscitation** accepts a
@@ -308,17 +274,10 @@ hypovolaemia.[40]
 <figcaption><p><strong>Figure 9. Phased damage-control resuscitation, with the hospital phase delivering a balanced 1:1:1 transfusion, tranexamic acid and permissive hypotension. Source: Klimek et al., J Clin Med 2026;15:2549, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 9. Phased damage-control resuscitation, with the hospital phase
-delivering a balanced 1:1:1 transfusion, tranexamic acid and permissive
-hypotension. Source: Klimek et al., J Clin Med 2026;15:2549, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/polytrauma-damage-control/rId95.jpg" alt="Figure 10. A labelled unit of packed red blood cells for transfusion. Source: BruceBlaus, via Wikimedia Commons, CC BY 3.0." />
 <figcaption><p><strong>Figure 10. A labelled unit of packed red blood cells for transfusion. Source: BruceBlaus, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. A labelled unit of packed red blood cells for transfusion.
-Source: BruceBlaus, via Wikimedia Commons, CC BY 3.0.
 
 ## Endpoints and the response to resuscitation
 
@@ -364,11 +323,6 @@ acidosis, and hypothermia, resulting in a mortality of 90%.” It restores
 <img src="/images/topics/polytrauma-damage-control/rId107.jpg" alt="Figure 11. Temporary abdominal closure options for the open abdomen in damage-control surgery (skin-only, patch/Bogotá-bag, and negative-pressure techniques). Source: Milne et al., Cureus 2021;13:e15489, CC BY 3.0." />
 <figcaption><p><strong>Figure 11. Temporary abdominal closure options for the open abdomen in damage-control surgery (skin-only, patch/Bogotá-bag, and negative-pressure techniques). Source: Milne et al., Cureus 2021;13:e15489, CC BY 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. Temporary abdominal closure options for the open abdomen in
-damage-control surgery (skin-only, patch/Bogotá-bag, and
-negative-pressure techniques). Source: Milne et al., Cureus
-2021;13:e15489, CC BY 3.0.
 
 The rationale is the **two-hit model**: the injury is the “first hit”
 that primes a systemic inflammatory response; a long, bloody operation
@@ -435,10 +389,6 @@ achievable at the bedside in the unstable patient.[55]
 <figcaption><p><strong>Figure 12. An AO external fixator (connecting rod, clamps and Schanz pin), the apparatus for damage-control spanning fixation. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. An AO external fixator (connecting rod, clamps and Schanz
-pin), the apparatus for damage-control spanning fixation. Source: Netha
-Hussain, via Wikimedia Commons, CC BY-SA 3.0.
-
 The **femur** is the priority injury (an independent predictor of
 mortality and ARDS). Conversion to a definitive intramedullary nail is
 timed to **avoid the inflammatory peak of days 2-4** and is best done
@@ -473,19 +423,10 @@ used together in a multidisciplinary protocol.[60]
 <figcaption><p><strong>Figure 13. An unstable pelvic ring before (left) and after (right) application of a pelvic circumferential compression binder, reducing the pelvic volume. Source: Vaidya et al., West J Emerg Med 2016;17:766, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. An unstable pelvic ring before (left) and after (right)
-application of a pelvic circumferential compression binder, reducing the
-pelvic volume. Source: Vaidya et al., West J Emerg Med 2016;17:766, CC
-BY 4.0.
-
 <figure>
 <img src="/images/topics/polytrauma-damage-control/rId135.jpg" alt="Figure 14. An anterior pelvic external fixator (Schanz screws and connecting frame) for definitive damage control of the pelvic ring. Source: Karel Frydryšek (Fry72), via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 14. An anterior pelvic external fixator (Schanz screws and connecting frame) for definitive damage control of the pelvic ring. Source: Karel Frydryšek (Fry72), via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. An anterior pelvic external fixator (Schanz screws and
-connecting frame) for definitive damage control of the pelvic ring.
-Source: Karel Frydryšek (Fry72), via Wikimedia Commons, CC BY-SA 4.0.
 
 # Part IX - SIRS, MODS, ARDS and Fat Embolism
 

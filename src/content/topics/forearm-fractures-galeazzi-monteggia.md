@@ -93,10 +93,6 @@ low-energy osteoporotic tail of the distribution.[7]
 <figcaption><p><strong>Figure 1. A displaced both-bone diaphyseal fracture of the radius and ulna (a paediatric example: four-fifths of forearm-shaft fractures occur in children). Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. A displaced both-bone diaphyseal fracture of the radius and
-ulna (a paediatric example: four-fifths of forearm-shaft fractures occur
-in children). Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.
-
 The mechanism shapes the injury. Most adult forearm-shaft fractures
 occur in young men with good bone, so they tend to be **high-energy**
 (road-traffic collisions, falls from height, sport, direct blows).[8]
@@ -117,10 +113,6 @@ radioulnar joint or a second system.
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId34.jpg" alt="Figure 2. A displaced both-bone forearm-shaft fracture in a young adult from direct, high-energy trauma, AP and lateral radiographs. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. A displaced both-bone forearm-shaft fracture in a young adult from direct, high-energy trauma, AP and lateral radiographs. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. A displaced both-bone forearm-shaft fracture in a young adult
-from direct, high-energy trauma, AP and lateral radiographs. Hellerhoff,
-CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part II - The Forearm as a Functional Unit: Applied Anatomy
 
@@ -148,11 +140,6 @@ the hand stops turning.
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId42.jpg" alt="Figure 3. The radius and the ulna: the laterally bowed radius rotates about the straight ulna, the anatomical basis of pronation and supination. Illustration by Rafael Di Marco Barros after Gray’s Anatomy, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. The radius and the ulna: the laterally bowed radius rotates about the straight ulna, the anatomical basis of pronation and supination. Illustration by Rafael Di Marco Barros after Gray’s Anatomy, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. The radius and the ulna: the laterally bowed radius rotates
-about the straight ulna, the anatomical basis of pronation and
-supination. Illustration by Rafael Di Marco Barros after Gray’s Anatomy,
-public domain, via Wikimedia Commons.
 
 The **ulna** is, by contrast, “a straight, posterior-medially positioned
 bone” that acts as the **axis** about which the radius rotates.[15]
@@ -210,11 +197,6 @@ the bone.
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId57.jpg" alt="Figure 4. Bones of the forearm with their muscle attachments and the interosseous border, anterior aspect; the interosseous membrane spans the gap between the two bones along this border. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Bones of the forearm with their muscle attachments and the interosseous border, anterior aspect; the interosseous membrane spans the gap between the two bones along this border. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Bones of the forearm with their muscle attachments and the
-interosseous border, anterior aspect; the interosseous membrane spans
-the gap between the two bones along this border. Henry Vandyke Carter,
-Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
 
 ## 2.4 The nerves and vessels at risk
 
@@ -334,11 +316,6 @@ treating it late.[46]
 <figcaption><p><strong>Figure 5. Volkmann ischaemic contracture of the hand, the end-stage deformity of an untreated forearm compartment syndrome. Mumford, The Practice of Surgery (1910), public domain, via Wikimedia Commons / Internet Archive.</strong></p></figcaption>
 </figure>
 
-Figure 5. Volkmann ischaemic contracture of the hand, the end-stage
-deformity of an untreated forearm compartment syndrome. Mumford, The
-Practice of Surgery (1910), public domain, via Wikimedia Commons /
-Internet Archive.
-
 ## 4.3 Imaging
 
 The minimum study is **anteroposterior and lateral radiographs of the
@@ -389,10 +366,6 @@ variance of more than 5 mm.**[56]
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId106.jpg" alt="Figure 6. Galeazzi fracture-dislocation: a distal-third radius fracture with disruption of the distal radioulnar joint, AP and lateral radiographs. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Galeazzi fracture-dislocation: a distal-third radius fracture with disruption of the distal radioulnar joint, AP and lateral radiographs. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Galeazzi fracture-dislocation: a distal-third radius fracture
-with disruption of the distal radioulnar joint, AP and lateral
-radiographs. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
 
 The treatment follows directly from the principle. **The radius is
 reduced and plated** (a 3.5 mm compression plate; the volar/Henry
@@ -448,10 +421,6 @@ radial-head or coronoid fracture.[63]
 <figcaption><p><strong>Figure 7. Monteggia fracture-dislocation: a proximal ulna fracture (blue arrow) with dislocation of the radial head (red arrow), AP and lateral radiographs. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Monteggia fracture-dislocation: a proximal ulna fracture (blue
-arrow) with dislocation of the radial head (red arrow), AP and lateral
-radiographs. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
-
 # Part VII - The Essex-Lopresti Lesion and the Isolated (Nightstick) Ulnar Fracture
 
 ## 7.1 Essex-Lopresti
@@ -496,10 +465,6 @@ forearm-shaft fracture.
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId128.jpg" alt="Figure 8. Isolated ulnar shaft (“nightstick”) fracture, here shown after plate fixation of a displaced fracture; the radius is intact. Ambekar et al., Cureus 2024;16(1):e53353, CC BY 4.0." />
 <figcaption><p><strong>Figure 8. Isolated ulnar shaft (“nightstick”) fracture, here shown after plate fixation of a displaced fracture; the radius is intact. Ambekar et al., Cureus 2024;16(1):e53353, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. Isolated ulnar shaft (“nightstick”) fracture, here shown after
-plate fixation of a displaced fracture; the radius is intact. Ambekar et
-al., Cureus 2024;16(1):e53353, CC BY 4.0.
 
 # Part VIII - Principles of Treatment
 
@@ -599,10 +564,6 @@ bone.[85]
 <figcaption><p><strong>Figure 9. A both-bone forearm fracture after open reduction and internal fixation with plates and screws on both the radius and the ulna. Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. A both-bone forearm fracture after open reduction and internal
-fixation with plates and screws on both the radius and the ulna. Nevit
-Dilmen, CC BY-SA 3.0, via Wikimedia Commons.
-
 ## 10.2 The fixation rules
 
 The fixation aims at **absolute stability**: a simple (type A) or wedge
@@ -669,10 +630,6 @@ infection, and metaphyseal extension that prevents locking.[97]
 <figcaption><p><strong>Figure 10. A displaced both-bone forearm fracture before fixation, AP and lateral radiographs. Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. A displaced both-bone forearm fracture before fixation, AP
-and lateral radiographs. Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE, via
-Wikimedia Commons.
-
 Modern interlocked, pre-contoured nails that bend to match the radial
 bow have narrowed the gap. Comparative series (Ozkaya, Köse) find that
 the **newest interlocking nails match plating for union, ROM, and
@@ -689,10 +646,6 @@ to mimic the radial bow even when pre-contoured.[99]
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId178.jpg" alt="Figure 11. The same forearm stabilised with elastic intramedullary nails, the elastic-nail technique that is standard in children. Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. The same forearm stabilised with elastic intramedullary nails, the elastic-nail technique that is standard in children. Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. The same forearm stabilised with elastic intramedullary
-nails, the elastic-nail technique that is standard in children. Thomas
-Zimmermann (THWZ), CC BY-SA 3.0 DE, via Wikimedia Commons.
 
 # Part XII - Open Fractures and External Fixation
 
@@ -746,10 +699,6 @@ heals up to 100% of cases.[109]
 <figcaption><p><strong>Figure 12. Diaphyseal forearm nonunion (ulnar shaft, arrow) and its revision by compression plating and bone grafting. Dos Reis et al., Ann Surg Innov Res 2009;3:5, CC BY 2.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. Diaphyseal forearm nonunion (ulnar shaft, arrow) and its
-revision by compression plating and bone grafting. Dos Reis et al., Ann
-Surg Innov Res 2009;3:5, CC BY 2.0.
-
 **Radioulnar synostosis** (a bony cross-union bridging the two bones) is
 uncommon (about **1% to 6%**, AO citing 2.6% to 6.6%) but disabling,
 since it abolishes rotation.[110] Its **risk factors** are the ones
@@ -770,12 +719,6 @@ recurrence.[112]
 <img src="/images/topics/forearm-fractures-galeazzi-monteggia/rId199.jpg" alt="Figure 13. Radioulnar synostosis: a bony bridge (cross-union) between the radius and the ulna that abolishes forearm rotation. This example is a congenital cross-union; the bony-bridge morphology is the same as that of the post-traumatic complication. Kinderradiologie Olgahospital, Klinikum Stuttgart, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Radioulnar synostosis: a bony bridge (cross-union) between the radius and the ulna that abolishes forearm rotation. This example is a congenital cross-union; the bony-bridge morphology is the same as that of the post-traumatic complication. Kinderradiologie Olgahospital, Klinikum Stuttgart, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. Radioulnar synostosis: a bony bridge (cross-union) between
-the radius and the ulna that abolishes forearm rotation. This example is
-a congenital cross-union; the bony-bridge morphology is the same as that
-of the post-traumatic complication. Kinderradiologie Olgahospital,
-Klinikum Stuttgart, CC BY-SA 3.0, via Wikimedia Commons.
 
 **Refracture after plate removal** is the reason removal is discouraged:
 it occurs in up to 18% (AO 3.5% to 25%), through the original site or an

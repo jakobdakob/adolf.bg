@@ -91,11 +91,6 @@ complications of Topic 8).
 <figcaption><p><strong>Figure 1. Volkmann ischaemic contracture of the forearm and hand, the end-result of untreated compartment ischaemia. Source: Mumford, The Practice of Surgery (1910), public domain, via Wikimedia Commons / Internet Archive.</strong></p></figcaption>
 </figure>
 
-Figure 1. Volkmann ischaemic contracture of the forearm and hand, the
-end-result of untreated compartment ischaemia. Source: Mumford, The
-Practice of Surgery (1910), public domain, via Wikimedia Commons /
-Internet Archive.
-
 ## Peripheral-nerve injury
 
 Nerve injury is graded by two complementary schemes. **Seddon**
@@ -162,11 +157,6 @@ treatment.[20])
 <figcaption><p><strong>Figure 2. Avascular necrosis of the femoral head on a hip radiograph (subchondral lucency and an irregular head surface), a recognised late complication of a femoral-neck fracture. Source: Mikael Häggström, M.D., via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Avascular necrosis of the femoral head on a hip radiograph
-(subchondral lucency and an irregular head surface), a recognised late
-complication of a femoral-neck fracture. Source: Mikael Häggström, M.D.,
-via Wikimedia Commons, CC0 1.0.
-
 # Part III - Venous Thromboembolism: Scope and Mechanism
 
 Venous thromboembolism (VTE), meaning deep vein thrombosis (DVT) and its
@@ -200,10 +190,6 @@ proximal to the calf.[27]
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId59.png" alt="Figure 3. Virchow’s triad: venous stasis, endothelial injury and hypercoagulability, every limb of which is aggravated by trauma. Source: Rudolf.hellmuth, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 3. Virchow’s triad: venous stasis, endothelial injury and hypercoagulability, every limb of which is aggravated by trauma. Source: Rudolf.hellmuth, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 3. Virchow’s triad: venous stasis, endothelial injury and
-hypercoagulability, every limb of which is aggravated by trauma. Source:
-Rudolf.hellmuth, via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part IV - Risk Factors and Diagnosis of VTE
 
@@ -258,28 +244,15 @@ not received adequate prophylaxis.[34]
 <figcaption><p><strong>Figure 4. Deep vein thrombosis of the right leg: a swollen, erythematous calf. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 4. Deep vein thrombosis of the right leg: a swollen, erythematous
-calf. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId74.jpg" alt="Figure 5. Compression duplex ultrasound of the common femoral vein, the standard test for DVT: echogenic thrombus filling the vein, which remains non-compressible. Source: Cerevisae, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 5. Compression duplex ultrasound of the common femoral vein, the standard test for DVT: echogenic thrombus filling the vein, which remains non-compressible. Source: Cerevisae, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Compression duplex ultrasound of the common femoral vein, the
-standard test for DVT: echogenic thrombus filling the vein, which
-remains non-compressible. Source: Cerevisae, via Wikimedia Commons, CC
-BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId77.jpg" alt="Figure 6. Pulmonary embolism on CT pulmonary angiography, the gold standard for PE: a saddle embolus straddling the pulmonary-artery bifurcation. Source: Myat & Ahsan, Thrombosis Journal 2007, via Wikimedia Commons, CC BY 2.0." />
 <figcaption><p><strong>Figure 6. Pulmonary embolism on CT pulmonary angiography, the gold standard for PE: a saddle embolus straddling the pulmonary-artery bifurcation. Source: Myat & Ahsan, Thrombosis Journal 2007, via Wikimedia Commons, CC BY 2.0.</strong></p></figcaption>
 </figure>
-
-Figure 6. Pulmonary embolism on CT pulmonary angiography, the gold
-standard for PE: a saddle embolus straddling the pulmonary-artery
-bifurcation. Source: Myat & Ahsan, Thrombosis Journal 2007, via
-Wikimedia Commons, CC BY 2.0.
 
 # Part V - Prophylaxis Against VTE
 
@@ -300,17 +273,10 @@ prevents the device being applied.[37]
 <figcaption><p><strong>Figure 7. Intermittent pneumatic compression sleeves connected to an air pump, mechanical VTE prophylaxis. Source: “Enter”, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 7. Intermittent pneumatic compression sleeves connected to an air
-pump, mechanical VTE prophylaxis. Source: “Enter”, via Wikimedia
-Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId88.jpg" alt="Figure 8. Graduated (anti-embolism, TED) compression stockings. Source: Lentpjuve, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 8. Graduated (anti-embolism, TED) compression stockings. Source: Lentpjuve, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. Graduated (anti-embolism, TED) compression stockings. Source:
-Lentpjuve, via Wikimedia Commons, CC BY-SA 4.0.
 
 ## Chemical prophylaxis
 
@@ -355,18 +321,10 @@ mortality), and retrievable filters should be removed early.[41]
 <figcaption><p><strong>Figure 9. A low-molecular-weight heparin (enoxaparin) pre-filled syringe, the workhorse of chemical thromboprophylaxis. Source: Whispyhistory, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 9. A low-molecular-weight heparin (enoxaparin) pre-filled
-syringe, the workhorse of chemical thromboprophylaxis. Source:
-Whispyhistory, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId99.jpg" alt="Figure 10. An inferior vena cava filter, reserved for the high-risk patient who cannot be anticoagulated or who re-embolises despite it. Source: BozMo, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 10. An inferior vena cava filter, reserved for the high-risk patient who cannot be anticoagulated or who re-embolises despite it. Source: BozMo, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. An inferior vena cava filter, reserved for the high-risk
-patient who cannot be anticoagulated or who re-embolises despite it.
-Source: BozMo, via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part VI - Treatment of Established VTE
 
@@ -432,17 +390,10 @@ the conjunctivae, cheek, neck, axillae and palate**).[55]
 <figcaption><p><strong>Figure 11. The petechial rash of fat embolism syndrome over the chest and axilla. From a case report (2024), PMC11625105, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. The petechial rash of fat embolism syndrome over the chest
-and axilla. From a case report (2024), PMC11625105, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/complications-thromboembolism-fat-embolism/rId123.jpg" alt="Figure 12. Cerebral fat embolism on diffusion-weighted MRI: scattered punctate hyperintensities, the “starfield” pattern. From Parizel et al. (2009), Cases Journal 2:212, PMC2783161, CC BY 2.0." />
 <figcaption><p><strong>Figure 12. Cerebral fat embolism on diffusion-weighted MRI: scattered punctate hyperintensities, the “starfield” pattern. From Parizel et al. (2009), Cases Journal 2:212, PMC2783161, CC BY 2.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. Cerebral fat embolism on diffusion-weighted MRI: scattered
-punctate hyperintensities, the “starfield” pattern. From Parizel et
-al. (2009), Cases Journal 2:212, PMC2783161, CC BY 2.0.
 
 Diagnosis uses **Gurd and Wilson’s criteria: one major plus four minor
 signs (with fat macroglobulinaemia)**:[56]

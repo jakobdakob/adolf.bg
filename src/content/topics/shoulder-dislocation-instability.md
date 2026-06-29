@@ -86,11 +86,6 @@ roughly 10% of overall stability by this mechanism.[5]
 <figcaption><p><strong>Figure 1. The glenohumeral joint: a large humeral head on a small, shallow glenoid, where most stability comes not from bone but from the capsule, labrum, and ligaments. Source: BruceBlaus / Blausen Medical 2014, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. The glenohumeral joint: a large humeral head on a small,
-shallow glenoid, where most stability comes not from bone but from the
-capsule, labrum, and ligaments. Source: BruceBlaus / Blausen Medical
-2014, via Wikimedia Commons, CC BY 3.0.
-
 The **capsule and glenohumeral ligaments** are slack in mid-range and
 tighten at the extremes, each ligament according to arm position. The
 **superior glenohumeral ligament** is the primary restraint to inferior
@@ -148,10 +143,6 @@ hollow beneath the acromion.[18]
 <figcaption><p><strong>Figure 2. Anterior shoulder dislocation, AP radiograph: the humeral head lies anteroinferior to the glenoid (subglenoid/subcoracoid). Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Anterior shoulder dislocation, AP radiograph: the humeral head
-lies anteroinferior to the glenoid (subglenoid/subcoracoid). Source:
-James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 **Posterior dislocation** is the great diagnostic trap. It follows a
 seizure, an electric shock, or an axial load on the adducted, internally
 rotated arm, the powerful internal rotators overwhelming the external
@@ -169,11 +160,6 @@ asymmetry and looks symmetrical and rounded: the so-called
 <figcaption><p><strong>Figure 3. Posterior dislocation: fixed internal rotation makes the head look rounded and symmetrical, the “light-bulb” sign (left), shown with the same shoulder after reduction (right). Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. Posterior dislocation: fixed internal rotation makes the head
-look rounded and symmetrical, the “light-bulb” sign (left), shown with
-the same shoulder after reduction (right). Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 **Inferior dislocation, luxatio erecta**, follows forced hyperabduction
 that levers the head out below the glenoid, leaving the arm fixed and
 locked overhead, an unmistakable presentation.[22] It carries a very
@@ -186,10 +172,6 @@ reported.[23]
 <img src="/images/topics/shoulder-dislocation-instability/rId56.jpg" alt="Figure 4. Luxatio erecta (inferior dislocation): the head sits below the glenoid with the arm fixed overhead. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 4. Luxatio erecta (inferior dislocation): the head sits below the glenoid with the arm fixed overhead. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 4. Luxatio erecta (inferior dislocation): the head sits below the
-glenoid with the arm fixed overhead. Source: Hellerhoff, via Wikimedia
-Commons, CC BY-SA 3.0.
 
 ## 2.2 Associated injuries
 
@@ -244,28 +226,15 @@ anaesthesia with muscle relaxation in theatre.[34]
 <figcaption><p><strong>Figure 5. Anterior dislocation before reduction. Source: Mikael Häggström, M.D., via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Anterior dislocation before reduction. Source: Mikael
-Häggström, M.D., via Wikimedia Commons, CC0 1.0.
-
 <figure>
 <img src="/images/topics/shoulder-dislocation-instability/rId77.jpg" alt="Figure 6. The Stimson reduction technique: the patient lies prone with the arm hanging and a suspended weight applying gentle downward traction. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 6. The Stimson reduction technique: the patient lies prone with the arm hanging and a suspended weight applying gentle downward traction. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. The Stimson reduction technique: the patient lies prone with
-the arm hanging and a suspended weight applying gentle downward
-traction. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA
-4.0.
-
 <figure>
 <img src="/images/topics/shoulder-dislocation-instability/rId80.jpg" alt="Figure 7. The same shoulder after reduction, with the annotated Bankart (anteroinferior glenoid) and Hill-Sachs (posterolateral head) lesions the dislocation produced. Source: Mikael Häggström, M.D., via Wikimedia Commons, CC0 1.0." />
 <figcaption><p><strong>Figure 7. The same shoulder after reduction, with the annotated Bankart (anteroinferior glenoid) and Hill-Sachs (posterolateral head) lesions the dislocation produced. Source: Mikael Häggström, M.D., via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
-
-Figure 7. The same shoulder after reduction, with the annotated Bankart
-(anteroinferior glenoid) and Hill-Sachs (posterolateral head) lesions
-the dislocation produced. Source: Mikael Häggström, M.D., via Wikimedia
-Commons, CC0 1.0.
 
 After any reduction, the position is confirmed on a radiograph and the
 neurovascular status is rechecked.[35]
@@ -311,18 +280,10 @@ the humeral rather than the glenoid side).[40]
 <figcaption><p><strong>Figure 8. Bankart lesion at arthroscopy: the anteroinferior labrum detached from the glenoid rim (arrow). Source: Rwillia4, via Wikimedia Commons, public domain.</strong></p></figcaption>
 </figure>
 
-Figure 8. Bankart lesion at arthroscopy: the anteroinferior labrum
-detached from the glenoid rim (arrow). Source: Rwillia4, via Wikimedia
-Commons, public domain.
-
 <figure>
 <img src="/images/topics/shoulder-dislocation-instability/rId95.jpg" alt="Figure 9. Bankart lesion at arthroscopy: the cleft between the detached anteroinferior labrum and the glenoid rim. Source: Drfrancescsoler, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 9. Bankart lesion at arthroscopy: the cleft between the detached anteroinferior labrum and the glenoid rim. Source: Drfrancescsoler, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. Bankart lesion at arthroscopy: the cleft between the detached
-anteroinferior labrum and the glenoid rim. Source: Drfrancescsoler, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 ## 4.2 The Hill-Sachs lesion and the glenoid track
 
@@ -351,10 +312,6 @@ and Di Giacomo.[44] In a series of 100 recurrent anterior dislocators,
 <figcaption><p><strong>Figure 10. Hill-Sachs lesion on an AP internal-rotation radiograph: the posterolateral humeral-head impaction defect. Source: Andrew, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. Hill-Sachs lesion on an AP internal-rotation radiograph: the
-posterolateral humeral-head impaction defect. Source: Andrew, via
-Wikimedia Commons, CC BY-SA 4.0.
-
 ## 4.3 Glenoid bone loss
 
 Anterior **glenoid bone loss** progressively flattens the socket (the
@@ -375,18 +332,10 @@ circle over the inferior glenoid.[48]
 <figcaption><p><strong>Figure 11. Bony Bankart lesion: an anteroinferior glenoid rim fracture on radiograph, CT, and 3D reconstruction. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. Bony Bankart lesion: an anteroinferior glenoid rim fracture
-on radiograph, CT, and 3D reconstruction. Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/shoulder-dislocation-instability/rId114.jpg" alt="Figure 12. The same bony Bankart lesion on MRI (paracoronal proton-density fat-saturated) after an anteroinferior dislocation. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 12. The same bony Bankart lesion on MRI (paracoronal proton-density fat-saturated) after an anteroinferior dislocation. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. The same bony Bankart lesion on MRI (paracoronal
-proton-density fat-saturated) after an anteroinferior dislocation.
-Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part V - Recurrent (Habitual) Instability: Risk, Dichotomy, and Classification
 
@@ -492,10 +441,6 @@ and injury to the musculocutaneous or axillary nerves).[64]
 <figcaption><p><strong>Figure 13. Latarjet procedure: the transferred coracoid bone block fixed to the anterior glenoid rim with two screws (postoperative radiographs). Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. Latarjet procedure: the transferred coracoid bone block fixed
-to the anterior glenoid rim with two screws (postoperative radiographs).
-Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
-
 For very large defects (over 30% of the glenoid, or a failed Latarjet)
 an **anterior glenoid bone graft** is used, an iliac-crest autograft
 (the Eden-Hybinette operation) or a distal-tibia osteoarticular
@@ -547,20 +492,10 @@ series.[73]
 <figcaption><p><strong>Figure 14. Posterior dislocation on CT: the humeral head displaced behind the glenoid (axial slice and 3D reconstruction), the displacement easily missed on the AP film. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 14. Posterior dislocation on CT: the humeral head displaced
-behind the glenoid (axial slice and 3D reconstruction), the displacement
-easily missed on the AP film. Source: Hellerhoff, via Wikimedia Commons,
-CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/shoulder-dislocation-instability/rId159.jpg" alt="Figure 15. Reverse Hill-Sachs (McLaughlin) lesion: the anteromedial humeral-head impaction defect of a posterior dislocation, on axial CT (left) and radiograph (right). Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 15. Reverse Hill-Sachs (McLaughlin) lesion: the anteromedial humeral-head impaction defect of a posterior dislocation, on axial CT (left) and radiograph (right). Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 15. Reverse Hill-Sachs (McLaughlin) lesion: the anteromedial
-humeral-head impaction defect of a posterior dislocation, on axial CT
-(left) and radiograph (right). Source: Hellerhoff, via Wikimedia
-Commons, CC BY-SA 3.0.
 
 # Part VIII - Multidirectional and Voluntary Instability
 

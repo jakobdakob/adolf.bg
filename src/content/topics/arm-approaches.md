@@ -99,12 +99,6 @@ danger.[4]
 <figcaption><p><strong>Figure 1. Transverse section of the mid-arm showing the anterior (flexor) and posterior (extensor) compartments, the medial and lateral intermuscular septa, and the positions of the radial, median and ulnar nerves with the brachial artery. Gray’s Anatomy plate 413 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Transverse section of the mid-arm showing the anterior
-(flexor) and posterior (extensor) compartments, the medial and lateral
-intermuscular septa, and the positions of the radial, median and ulnar
-nerves with the brachial artery. Gray’s Anatomy plate 413 (public
-domain), via Wikimedia Commons.
-
 The **anterior (flexor) compartment** contains three muscles: the
 coracobrachialis, the biceps brachii, and the brachialis. Two of them
 (biceps and brachialis) flex the elbow, and the compartment is, broadly,
@@ -122,27 +116,15 @@ medial septum to leave it.[5]
 <figcaption><p><strong>Figure 2. Biceps brachii (anterior compartment), highlighted on an articulated skeleton. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Biceps brachii (anterior compartment), highlighted on an
-articulated skeleton. Anatomography, CC BY-SA 2.1 JP, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId32.jpg" alt="Figure 3. Brachialis, the deep flexor of the elbow and workhorse of the anterior compartment, highlighted. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Brachialis, the deep flexor of the elbow and workhorse of the anterior compartment, highlighted. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Brachialis, the deep flexor of the elbow and workhorse of the
-anterior compartment, highlighted. Anatomography, CC BY-SA 2.1 JP, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId35.jpg" alt="Figure 4. Coracobrachialis in the upper anterior compartment, the muscle pierced by the musculocutaneous nerve, highlighted. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Coracobrachialis in the upper anterior compartment, the muscle pierced by the musculocutaneous nerve, highlighted. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Coracobrachialis in the upper anterior compartment, the muscle
-pierced by the musculocutaneous nerve, highlighted. Anatomography, CC
-BY-SA 2.1 JP, via Wikimedia Commons.
 
 A single sentence from the text captures the vascular logic of the whole
 region and is worth memorising verbatim in substance: the vascular
@@ -157,11 +139,6 @@ circulation of the elbow is so robust.[6]
 <img src="/images/topics/arm-approaches/rId39.jpg" alt="Figure 5. Arteries of the arm and elbow, including the profunda brachii artery that accompanies the radial nerve, and the collateral and recurrent vessels that anastomose around the elbow. Gray’s Anatomy plate 526 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Arteries of the arm and elbow, including the profunda brachii artery that accompanies the radial nerve, and the collateral and recurrent vessels that anastomose around the elbow. Gray’s Anatomy plate 526 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Arteries of the arm and elbow, including the profunda brachii
-artery that accompanies the radial nerve, and the collateral and
-recurrent vessels that anastomose around the elbow. Gray’s Anatomy plate
-526 (public domain), via Wikimedia Commons.
 
 ## The radial nerve - the key surgical landmark
 
@@ -179,19 +156,10 @@ it.[7]
 <figcaption><p><strong>Figure 6. The radial nerve coursing across the back of the arm, with the suprascapular and axillary nerves: the structure at greatest risk in posterior and lateral approaches to the humerus. Gray’s Anatomy plate 818 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. The radial nerve coursing across the back of the arm, with the
-suprascapular and axillary nerves: the structure at greatest risk in
-posterior and lateral approaches to the humerus. Gray’s Anatomy plate
-818 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId47.jpg" alt="Figure 7. Posterior view of the left humerus showing the spiral (radial) groove and the triceps head origins. Gray’s Anatomy plate 208 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Posterior view of the left humerus showing the spiral (radial) groove and the triceps head origins. Gray’s Anatomy plate 208 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Posterior view of the left humerus showing the spiral (radial)
-groove and the triceps head origins. Gray’s Anatomy plate 208 (public
-domain), via Wikimedia Commons.
 
 In the arm proper the nerve lies in the **spiral (radial) groove** on
 the posterior surface of the humerus, sandwiched between the origins of
@@ -251,20 +219,10 @@ opened to its distal extent.[12]
 <figcaption><p><strong>Figure 8. The infraclavicular brachial plexus in the axilla, showing the musculocutaneous nerve running toward coracobrachialis and biceps, the median nerve with the brachial artery, and the ulnar nerve. Gray’s Anatomy plate 809 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. The infraclavicular brachial plexus in the axilla, showing the
-musculocutaneous nerve running toward coracobrachialis and biceps, the
-median nerve with the brachial artery, and the ulnar nerve. Gray’s
-Anatomy plate 809 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId60.jpg" alt="Figure 9. Schematic of the brachial plexus: roots (C5-T1), trunks, divisions and cords, with the five terminal branches, the musculocutaneous, axillary, median, ulnar and radial nerves. After Gray’s Anatomy (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Schematic of the brachial plexus: roots (C5-T1), trunks, divisions and cords, with the five terminal branches, the musculocutaneous, axillary, median, ulnar and radial nerves. After Gray’s Anatomy (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Schematic of the brachial plexus: roots (C5-T1), trunks,
-divisions and cords, with the five terminal branches, the
-musculocutaneous, axillary, median, ulnar and radial nerves. After
-Gray’s Anatomy (public domain), via Wikimedia Commons.
 
 ## The median nerve and brachial artery
 
@@ -306,11 +264,6 @@ once mistaken for ulnar branches.[15]
 <figcaption><p><strong>Figure 10. Nerves of the left upper limb: the brachial artery (red) with the median and ulnar nerves on the medial side of the arm, the musculocutaneous nerve, and the radial nerve with its branches. Gray’s Anatomy (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Nerves of the left upper limb: the brachial artery (red) with
-the median and ulnar nerves on the medial side of the arm, the
-musculocutaneous nerve, and the radial nerve with its branches. Gray’s
-Anatomy (public domain), via Wikimedia Commons.
-
 ## Bony anatomy relevant to the approaches
 
 The humerus is approached, in this chapter, largely through its surfaces
@@ -330,27 +283,15 @@ the triceps origins are detailed in Part III.[16]
 <figcaption><p><strong>Figure 11. Anterior view of the left humerus with bony landmarks and muscle attachments. Gray’s Anatomy plate 207 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Anterior view of the left humerus with bony landmarks and
-muscle attachments. Gray’s Anatomy plate 207 (public domain), via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId76.jpg" alt="Figure 12. Anterior view of the left humerus with labelled landmarks, including the deltoid tuberosity and the medial and lateral epicondyles. BDB (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Anterior view of the left humerus with labelled landmarks, including the deltoid tuberosity and the medial and lateral epicondyles. BDB (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Anterior view of the left humerus with labelled landmarks,
-including the deltoid tuberosity and the medial and lateral epicondyles.
-BDB (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId79.jpg" alt="Figure 13. Posterior view of the left humerus with labelled landmarks, including the olecranon fossa and the epicondyles. BDB, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Posterior view of the left humerus with labelled landmarks, including the olecranon fossa and the epicondyles. BDB, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. Posterior view of the left humerus with labelled landmarks,
-including the olecranon fossa and the epicondyles. BDB, CC BY-SA 3.0,
-via Wikimedia Commons.
 
 A surgically important variant lives at the distal medial humerus: the
 **supracondylar process (spur)**, a bony projection above the medial
@@ -381,18 +322,10 @@ particular risk.[18]
 <figcaption><p><strong>Figure 14. Holstein-Lewis fracture: a spiral fracture of the distal third of the humeral shaft, the pattern classically associated with radial nerve palsy. Public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Holstein-Lewis fracture: a spiral fracture of the distal
-third of the humeral shaft, the pattern classically associated with
-radial nerve palsy. Public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId88.jpg" alt="Figure 15. Common humeral fracture locations: surgical neck, transverse shaft, supracondylar and intercondylar. OpenStax College, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Common humeral fracture locations: surgical neck, transverse shaft, supracondylar and intercondylar. OpenStax College, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Common humeral fracture locations: surgical neck, transverse
-shaft, supracondylar and intercondylar. OpenStax College, CC BY 3.0, via
-Wikimedia Commons.
 
 # Part II - Anterior (Anterolateral) Approach to the Humeral Shaft
 
@@ -430,18 +363,10 @@ flexion crease.**[21]
 <figcaption><p><strong>Figure 16. Open reduction and internal fixation of a proximal humeral fracture with an angular-stable locking plate, one of the constructs applied through the anterior approach. Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. Open reduction and internal fixation of a proximal humeral
-fracture with an angular-stable locking plate, one of the constructs
-applied through the anterior approach. Thomas Zimmermann (THWZ), CC
-BY-SA 3.0 DE, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId101.jpg" alt="Figure 17. Intramedullary fixation of a displaced humeral shaft fracture with elastic nails. Ivtorov, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Intramedullary fixation of a displaced humeral shaft fracture with elastic nails. Ivtorov, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Intramedullary fixation of a displaced humeral shaft fracture
-with elastic nails. Ivtorov, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## Internervous planes - there are two
 
@@ -604,17 +529,10 @@ of the lateral and medial heads.**[36]
 <figcaption><p><strong>Figure 18. Triceps brachii with its long, lateral and medial heads (posterior compartment), colour-coded. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 18. Triceps brachii with its long, lateral and medial heads
-(posterior compartment), colour-coded. Anatomography, CC BY-SA 2.1 JP,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/arm-approaches/rId133.jpg" alt="Figure 19. The triceps brachii and the dorsal muscles of the shoulder. Gray’s Anatomy plate 412 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 19. The triceps brachii and the dorsal muscles of the shoulder. Gray’s Anatomy plate 412 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 19. The triceps brachii and the dorsal muscles of the shoulder.
-Gray’s Anatomy plate 412 (public domain), via Wikimedia Commons.
 
 ## Superficial and deep dissection
 
@@ -766,10 +684,6 @@ capsule and the medial side of the distal humerus.[47]
 <img src="/images/topics/arm-approaches/rId154.jpg" alt="Figure 20. Anterior view of the distal humerus showing the medial and lateral columns and epicondyles, the trochlea and the capitulum. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 20. Anterior view of the distal humerus showing the medial and lateral columns and epicondyles, the trochlea and the capitulum. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 20. Anterior view of the distal humerus showing the medial and
-lateral columns and epicondyles, the trochlea and the capitulum.
-Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.
 
 The named dangers are the **ulnar nerve**, which must be identified and
 isolated before the incision is deepened, with retraction kept to a

@@ -144,12 +144,6 @@ becomes close-packed and most stable.[11]
 <figcaption><p><strong>Figure 1. Ligamentous anatomy of the ankle: the medial (deltoid) and lateral collateral complexes and the distal tibiofibular syndesmosis with its interosseous membrane, arranged around the talus within the bony mortise. Illustration by OpenStax College, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Ligamentous anatomy of the ankle: the medial (deltoid) and
-lateral collateral complexes and the distal tibiofibular syndesmosis
-with its interosseous membrane, arranged around the talus within the
-bony mortise. Illustration by OpenStax College, CC BY 3.0, via Wikimedia
-Commons.
-
 ## The three ligamentous complexes
 
 Stability rests on three ligamentous complexes arranged around the bony
@@ -249,30 +243,15 @@ injuries (coded 43).[26]
 <figcaption><p><strong>Figure 2. The Danis-Weber classification by the level of the fibular fracture relative to the syndesmosis: type A below (infrasyndesmotic), type B at (transsyndesmotic), and type C above (suprasyndesmotic) the joint line. Diagram by DrFO.Tn, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. The Danis-Weber classification by the level of the fibular
-fracture relative to the syndesmosis: type A below (infrasyndesmotic),
-type B at (transsyndesmotic), and type C above (suprasyndesmotic) the
-joint line. Diagram by DrFO.Tn, CC BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId61.jpg" alt="Figure 3. A Weber B fracture of the lateral malleolus: the oblique distal fibular fracture at the level of the syndesmosis, with its characteristic long posterior spike, on AP and lateral views. Radiograph by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. A Weber B fracture of the lateral malleolus: the oblique distal fibular fracture at the level of the syndesmosis, with its characteristic long posterior spike, on AP and lateral views. Radiograph by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. A Weber B fracture of the lateral malleolus: the oblique
-distal fibular fracture at the level of the syndesmosis, with its
-characteristic long posterior spike, on AP and lateral views. Radiograph
-by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId64.jpg" alt="Figure 4. A bimalleolar ankle fracture: combined fractures of the lateral and medial malleoli on the AP view, an inherently unstable pattern. Radiograph by Tellisi, Abdulkareem and Giannoudis, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. A bimalleolar ankle fracture: combined fractures of the lateral and medial malleoli on the AP view, an inherently unstable pattern. Radiograph by Tellisi, Abdulkareem and Giannoudis, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. A bimalleolar ankle fracture: combined fractures of the
-lateral and medial malleoli on the AP view, an inherently unstable
-pattern. Radiograph by Tellisi, Abdulkareem and Giannoudis, CC BY 4.0,
-via Wikimedia Commons.
 
 ## Lauge-Hansen: by mechanism
 
@@ -331,11 +310,6 @@ inherently unstable from syndesmotic involvement.[34]
 <figcaption><p><strong>Figure 5. Maisonneuve fracture: the high fracture of the proximal fibula that accompanies a medial-side injury and a torn syndesmosis, often with a deceptively normal-looking ankle film. Radiograph by RotorMotor2, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Maisonneuve fracture: the high fracture of the proximal fibula
-that accompanies a medial-side injury and a torn syndesmosis, often with
-a deceptively normal-looking ankle film. Radiograph by RotorMotor2, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 # Part V - Assessment and Imaging of Ankle Fractures
 
 ## History, examination, and the Ottawa rules
@@ -373,12 +347,6 @@ side, is a sensitive index of fibular length.[39]
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId88.jpg" alt="Figure 6. Mortise radiograph of the ankle with the tibial plafond marked: the reference view for the medial clear space, the tibiofibular clear space and overlap, and the congruent position of the talus beneath the plafond. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Mortise radiograph of the ankle with the tibial plafond marked: the reference view for the medial clear space, the tibiofibular clear space and overlap, and the congruent position of the talus beneath the plafond. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Mortise radiograph of the ankle with the tibial plafond
-marked: the reference view for the medial clear space, the tibiofibular
-clear space and overlap, and the congruent position of the talus beneath
-the plafond. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia
-Commons.
 
 ## Stress views: deciding the borderline Weber B fracture
 
@@ -461,11 +429,6 @@ wound-complication advantage over plating.[50]
 <figcaption><p><strong>Figure 7. Postoperative ankle ORIF: a lateral (distal fibular) plate with screws and medial-side screw fixation, restoring fibular length and a congruent mortise. Radiograph by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Postoperative ankle ORIF: a lateral (distal fibular) plate
-with screws and medial-side screw fixation, restoring fibular length and
-a congruent mortise. Radiograph by James Heilman, MD, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 ## ORIF: medial and posterior malleolus
 
 The **medial malleolus** is usually fixed with two parallel partially
@@ -487,11 +450,6 @@ screw, as Gardner’s cadaveric work showed.[52]
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId113.jpg" alt="Figure 8. An ankle fracture before and after surgery: the displaced malleolar fracture (left) and ORIF with a lateral fibular plate and a medial malleolar screw (right). Radiographs by Chaim Mintz, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. An ankle fracture before and after surgery: the displaced malleolar fracture (left) and ORIF with a lateral fibular plate and a medial malleolar screw (right). Radiographs by Chaim Mintz, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. An ankle fracture before and after surgery: the displaced
-malleolar fracture (left) and ORIF with a lateral fibular plate and a
-medial malleolar screw (right). Radiographs by Chaim Mintz, CC BY-SA
-4.0, via Wikimedia Commons.
 
 ## The syndesmosis
 
@@ -529,20 +487,10 @@ repair.[59]
 <figcaption><p><strong>Figure 9. ORIF of a Weber C ankle fracture: fibular plating with a transsyndesmotic positioning (set) screw stabilising the distal tibiofibular joint above the plafond. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. ORIF of a Weber C ankle fracture: fibular plating with a
-transsyndesmotic positioning (set) screw stabilising the distal
-tibiofibular joint above the plafond. Radiograph by Hellerhoff, CC BY-SA
-4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId127.jpg" alt="Figure 10. Suture-button (TightRope) fixation of a syndesmotic rupture, the dynamic alternative to a positioning screw, with paired cortical buttons on the medial tibia and lateral fibula. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Suture-button (TightRope) fixation of a syndesmotic rupture, the dynamic alternative to a positioning screw, with paired cortical buttons on the medial tibia and lateral fibula. Radiograph by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Suture-button (TightRope) fixation of a syndesmotic rupture,
-the dynamic alternative to a positioning screw, with paired cortical
-buttons on the medial tibia and lateral fibula. Radiograph by
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## Special situations and aftercare
 
@@ -616,11 +564,6 @@ palpable or Doppler-detectable pedal pulses.[70]
 <figcaption><p><strong>Figure 11. Fracture blisters and soft-tissue swelling over the distal leg: the kind of soft-tissue compromise that mandates staged management, with spanning external fixation before any definitive internal fixation. Photograph by Cindy L. Budge, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Fracture blisters and soft-tissue swelling over the distal
-leg: the kind of soft-tissue compromise that mandates staged management,
-with spanning external fixation before any definitive internal fixation.
-Photograph by Cindy L. Budge, public domain, via Wikimedia Commons.
-
 ## Imaging and classification
 
 The diagnosis is made on **AP, mortise and lateral** radiographs plus
@@ -642,11 +585,6 @@ fragment map is what guides the surgeon.[72]
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId152.jpg" alt="Figure 12. Tibial pilon (plafond) fracture: a comminuted, intra-articular fracture of the distal tibial weight-bearing surface produced by high-energy axial loading. Radiograph by Elhehir, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Tibial pilon (plafond) fracture: a comminuted, intra-articular fracture of the distal tibial weight-bearing surface produced by high-energy axial loading. Radiograph by Elhehir, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Tibial pilon (plafond) fracture: a comminuted,
-intra-articular fracture of the distal tibial weight-bearing surface
-produced by high-energy axial loading. Radiograph by Elhehir, CC BY-SA
-4.0, via Wikimedia Commons.
 
 # Part VIII - Tibial Pilon Fractures: Staged Treatment, Approaches, Fixation and Outcomes
 
@@ -810,29 +748,15 @@ adding a posteromedial exposure for three- and four-part patterns.[98]
 <figcaption><p><strong>Figure 13. Paediatric triplane fracture of the distal tibia on plain radiographs (arrows); the open distal tibial physis is evident. Radiograph by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Paediatric triplane fracture of the distal tibia on plain
-radiographs (arrows); the open distal tibial physis is evident.
-Radiograph by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId193.jpg" alt="Figure 14. Triplane fracture on coronal CT, showing the multiplanar epiphyseal and metaphyseal components crossing the closing physis; CT defines the part-count and the articular step. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Triplane fracture on coronal CT, showing the multiplanar epiphyseal and metaphyseal components crossing the closing physis; CT defines the part-count and the articular step. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Triplane fracture on coronal CT, showing the multiplanar
-epiphyseal and metaphyseal components crossing the closing physis; CT
-defines the part-count and the articular step. Image by James Heilman,
-MD, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-malleolar-pilon-fractures/rId196.jpg" alt="Figure 15. Juvenile Tillaux fracture on CT (sagittal, coronal and axial): the isolated anterolateral distal tibial epiphyseal fragment avulsed by the anterior inferior tibiofibular ligament. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Juvenile Tillaux fracture on CT (sagittal, coronal and axial): the isolated anterolateral distal tibial epiphyseal fragment avulsed by the anterior inferior tibiofibular ligament. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Juvenile Tillaux fracture on CT (sagittal, coronal and
-axial): the isolated anterolateral distal tibial epiphyseal fragment
-avulsed by the anterior inferior tibiofibular ligament. Image by
-Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
 
 # References
 1.  The shared vocabulary is anatomical. “Pilon” is French for a pestle,

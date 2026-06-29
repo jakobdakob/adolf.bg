@@ -68,10 +68,6 @@ trauma and only one-fifth present as an isolated injury, and almost **50
 <figcaption><p><strong>Figure 1. Common fracture locations of the femur, including the supracondylar (distal) region. Illustration by Servier Medical Art, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Common fracture locations of the femur, including the
-supracondylar (distal) region. Illustration by Servier Medical Art, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 The **geriatric fracture is a hip-fracture-equivalent**.[5] In frail
 elderly patients with a low-energy distal femur fracture, mortality
 rates approach those of the hip-fracture population, and a surgical
@@ -104,10 +100,6 @@ plates.[8]
 <img src="/images/topics/distal-femur-fractures/rId33.jpg" alt="Figure 2. Posterior surface of the right femur showing the medial and lateral condyles, the intercondylar fossa, and the epicondyles. Gray’s Anatomy (Henry Vandyke Carter), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Posterior surface of the right femur showing the medial and lateral condyles, the intercondylar fossa, and the epicondyles. Gray’s Anatomy (Henry Vandyke Carter), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Posterior surface of the right femur showing the medial and
-lateral condyles, the intercondylar fossa, and the epicondyles. Gray’s
-Anatomy (Henry Vandyke Carter), public domain, via Wikimedia Commons.
 
 The **popliteal artery** is the key soft-tissue relation.[9] The
 femoral vessels pass through the adductor (Hunter’s) canal and **pierce
@@ -161,18 +153,10 @@ plan.[14]
 <figcaption><p><strong>Figure 3. Letenneur classification of the Hoffa fracture (coronal-plane posterior femoral condyle), Types I-III. Image by Kapoor et al., CC BY-SA 1.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Letenneur classification of the Hoffa fracture (coronal-plane
-posterior femoral condyle), Types I-III. Image by Kapoor et al., CC
-BY-SA 1.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/distal-femur-fractures/rId46.jpg" alt="Figure 4. Hoffa fracture of the femoral condyle on the lateral radiograph, the view on which this coronal-plane fracture is best seen. Image by Koné et al., CC BY-SA 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Hoffa fracture of the femoral condyle on the lateral radiograph, the view on which this coronal-plane fracture is best seen. Image by Koné et al., CC BY-SA 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Hoffa fracture of the femoral condyle on the lateral
-radiograph, the view on which this coronal-plane fracture is best seen.
-Image by Koné et al., CC BY-SA 2.0, via Wikimedia Commons.
 
 # Part IV - Assessment, Associated Injuries, and Imaging
 
@@ -354,10 +338,6 @@ end, Type III extending distal to its proximal border).[34]
 <figcaption><p><strong>Figure 5. Periprosthetic distal femur fracture immediately above a total knee arthroplasty (AP and lateral radiographs). Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Periprosthetic distal femur fracture immediately above a total
-knee arthroplasty (AP and lateral radiographs). Image by Hellerhoff, CC
-BY-SA 4.0, via Wikimedia Commons.
-
 The treatment algorithm follows the classification.[35] A
 **nondisplaced fracture with a stable implant** may be treated
 nonoperatively or with ORIF; a **displaced fracture with a well-fixed
@@ -434,11 +414,6 @@ laterally, and a flexed-knee impact posteriorly**.[40]
 <figcaption><p><strong>Figure 6. Salter-Harris classification of physeal (growth-plate) fractures, illustrated on a distal-femur-type epiphysis; distal femoral physeal fractures are mostly Types I and II. Image by Dr Frank Gaillard, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Salter-Harris classification of physeal (growth-plate)
-fractures, illustrated on a distal-femur-type epiphysis; distal femoral
-physeal fractures are mostly Types I and II. Image by Dr Frank Gaillard,
-CC BY-SA 3.0, via Wikimedia Commons.
-
 Treatment is graded by displacement and Salter-Harris type.[41] A
 **stable, nondisplaced fracture is cast for 3-4 weeks** with close early
 radiographs to catch displacement. A **displaced separation is reduced
@@ -463,18 +438,10 @@ epiphysiodesis**.[42]
 <figcaption><p><strong>Figure 7. Distal femoral fracture in a skeletally immature patient with open physes, AP radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Distal femoral fracture in a skeletally immature patient with
-open physes, AP radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/distal-femur-fractures/rId96.jpg" alt="Figure 8. The same paediatric distal femoral fracture on the lateral radiograph, the distal fragment displaced posteriorly. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. The same paediatric distal femoral fracture on the lateral radiograph, the distal fragment displaced posteriorly. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. The same paediatric distal femoral fracture on the lateral
-radiograph, the distal fragment displaced posteriorly. Image by Nevit
-Dilmen, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part X - A Synthesis: How to Reason About the Distal Femur Fracture
 

@@ -58,10 +58,6 @@ pressure in intact compartments of the same limb.[6]
 <figcaption><p><strong>Figure 1. A displaced, comminuted open tibial and fibular shaft fracture. Source: MustafaSalahalden, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. A displaced, comminuted open tibial and fibular shaft
-fracture. Source: MustafaSalahalden, via Wikimedia Commons, CC BY-SA
-4.0.
-
 **Tetanus** must be addressed in every wound: the patient’s immunisation
 status is documented and toxoid (with tetanus immunoglobulin for a
 tetanus-prone wound in an unimmunised patient) is given.[7]
@@ -199,10 +195,6 @@ fracture type, not nail type, determining the result.[31]
 <figcaption><p><strong>Figure 2. An Ilizarov circular external fixator on the leg, the damage-control workhorse for a contaminated high-grade open fracture. Source: Pagemaker787, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. An Ilizarov circular external fixator on the leg, the
-damage-control workhorse for a contaminated high-grade open fracture.
-Source: Pagemaker787, via Wikimedia Commons, CC BY-SA 4.0.
-
 The governing modern principle is the **orthoplastic approach**:
 orthopaedic and plastic teams working together from the first
 debridement.[32] **Godina’s** seminal work showed that microvascular
@@ -227,19 +219,10 @@ cover.[36]
 <figcaption><p><strong>Figure 3. A lower-limb soft-tissue defect resurfaced with a meshed split-thickness skin graft over granulation tissue, a rung of the reconstructive ladder. Source: SOwhoisntme, via Wikimedia Commons, CC0 (public domain).</strong></p></figcaption>
 </figure>
 
-Figure 3. A lower-limb soft-tissue defect resurfaced with a meshed
-split-thickness skin graft over granulation tissue, a rung of the
-reconstructive ladder. Source: SOwhoisntme, via Wikimedia Commons, CC0
-(public domain).
-
 <figure>
 <img src="/images/topics/wounds-open-fractures-amputations/rId72.jpg" alt="Figure 4. A split-thickness skin-graft donor site (thigh) healing by re-epithelialisation. Source: Kevin308, via Wikimedia Commons, public domain." />
 <figcaption><p><strong>Figure 4. A split-thickness skin-graft donor site (thigh) healing by re-epithelialisation. Source: Kevin308, via Wikimedia Commons, public domain.</strong></p></figcaption>
 </figure>
-
-Figure 4. A split-thickness skin-graft donor site (thigh) healing by
-re-epithelialisation. Source: Kevin308, via Wikimedia Commons, public
-domain.
 
 # Part V - Gunshot and Ballistic Injuries
 
@@ -280,29 +263,15 @@ bullet leaves a radiographic **“shower of lead.”**[43]
 <figcaption><p><strong>Figure 5. Bullet construction: round-nose, spitzer, full-metal-jacket, soft-point and hollow-point designs (jacket versus core shown by colour). Source: Grasyl, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Bullet construction: round-nose, spitzer, full-metal-jacket,
-soft-point and hollow-point designs (jacket versus core shown by
-colour). Source: Grasyl, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/wounds-open-fractures-amputations/rId86.jpg" alt="Figure 6. A dry human distal femur perforated by a low-velocity Minié ball: a relatively clean drill-hole defect from limited energy transfer. Source: National Institutes of Health (Ragsdale Gunshot Wound Study), via Wikimedia Commons, public domain (PD-USGov)." />
 <figcaption><p><strong>Figure 6. A dry human distal femur perforated by a low-velocity Minié ball: a relatively clean drill-hole defect from limited energy transfer. Source: National Institutes of Health (Ragsdale Gunshot Wound Study), via Wikimedia Commons, public domain (PD-USGov).</strong></p></figcaption>
 </figure>
 
-Figure 6. A dry human distal femur perforated by a low-velocity Minié
-ball: a relatively clean drill-hole defect from limited energy transfer.
-Source: National Institutes of Health (Ragsdale Gunshot Wound Study),
-via Wikimedia Commons, public domain (PD-USGov).
-
 <figure>
 <img src="/images/topics/wounds-open-fractures-amputations/rId89.jpg" alt="Figure 7. The same bone shattered by a high-velocity 5.56 mm M16 round: extensive comminution from high energy transfer and cavitation. Source: National Institutes of Health (Ragsdale Gunshot Wound Study), via Wikimedia Commons, public domain (PD-USGov)." />
 <figcaption><p><strong>Figure 7. The same bone shattered by a high-velocity 5.56 mm M16 round: extensive comminution from high energy transfer and cavitation. Source: National Institutes of Health (Ragsdale Gunshot Wound Study), via Wikimedia Commons, public domain (PD-USGov).</strong></p></figcaption>
 </figure>
-
-Figure 7. The same bone shattered by a high-velocity 5.56 mm M16 round:
-extensive comminution from high energy transfer and cavitation. Source:
-National Institutes of Health (Ragsdale Gunshot Wound Study), via
-Wikimedia Commons, public domain (PD-USGov).
 
 **Blast injury** has four mechanisms: **primary** (the overpressure
 wave, where tympanic rupture is commonest and “blast lung” most lethal),
@@ -342,11 +311,6 @@ focus of infection.[51]
 <figcaption><p><strong>Figure 8. A retained bullet lodged plantar to the metatarsals on a lateral foot radiograph; an intra-articular retained bullet, by contrast, must be removed because of lead arthropathy. Source: Wellcome Collection, via Wikimedia Commons, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 8. A retained bullet lodged plantar to the metatarsals on a
-lateral foot radiograph; an intra-articular retained bullet, by
-contrast, must be removed because of lead arthropathy. Source: Wellcome
-Collection, via Wikimedia Commons, CC BY 4.0.
-
 # Part VI - Crush Injuries and Crush Syndrome
 
 A **crush injury** is the local tissue damage of prolonged compression;
@@ -369,27 +333,15 @@ IU/mL.[54]
 <figcaption><p><strong>Figure 9. The pathophysiology and management of acute compartment and crush syndrome, summarised. Source: Dr Vijaya Chandar, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 9. The pathophysiology and management of acute compartment and
-crush syndrome, summarised. Source: Dr Vijaya Chandar, via Wikimedia
-Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/wounds-open-fractures-amputations/rId112.jpg" alt="Figure 10. A crush injury of the hand, with necrosis and bullae. Source: AfroBrazilian, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 10. A crush injury of the hand, with necrosis and bullae. Source: AfroBrazilian, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. A crush injury of the hand, with necrosis and bullae. Source:
-AfroBrazilian, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/wounds-open-fractures-amputations/rId115.jpg" alt="Figure 11. A Morel-Lavallée lesion (closed internal degloving) over the lateral hip on axial CT (arrowed). From Takahara et al. (2014), Case Reports in Orthopedics, doi:10.1155/2014/920317, via Wikimedia Commons, CC BY 3.0." />
 <figcaption><p><strong>Figure 11. A Morel-Lavallée lesion (closed internal degloving) over the lateral hip on axial CT (arrowed). From Takahara et al. (2014), Case Reports in Orthopedics, doi:10.1155/2014/920317, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. A Morel-Lavallée lesion (closed internal degloving) over the
-lateral hip on axial CT (arrowed). From Takahara et al. (2014), Case
-Reports in Orthopedics, doi:10.1155/2014/920317, via Wikimedia Commons,
-CC BY 3.0.
 
 The **primary goal is to prevent acute renal failure.** Treatment is
 aggressive **fluid resuscitation begun before extrication if possible**,
@@ -413,10 +365,6 @@ at all.[58]
 <img src="/images/topics/wounds-open-fractures-amputations/rId122.jpg" alt="Figure 12. Fasciotomy of the leg for compartment syndrome, the fascial compartments laid open through a longitudinal incision. Source: Armin, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 12. Fasciotomy of the leg for compartment syndrome, the fascial compartments laid open through a longitudinal incision. Source: Armin, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. Fasciotomy of the leg for compartment syndrome, the fascial
-compartments laid open through a longitudinal incision. Source: Armin,
-via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part VII - Infection of the Contaminated and War Wound
 
@@ -450,10 +398,6 @@ supportive care.[63]
 <img src="/images/topics/wounds-open-fractures-amputations/rId131.jpg" alt="Figure 13. Gas gangrene of the leg: plain radiograph showing gas tracking through the tissue planes. Source: Shahab, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 13. Gas gangrene of the leg: plain radiograph showing gas tracking through the tissue planes. Source: Shahab, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 13. Gas gangrene of the leg: plain radiograph showing gas
-tracking through the tissue planes. Source: Shahab, via Wikimedia
-Commons, CC BY-SA 4.0.
 
 **Tetanus** follows any penetrating wound, especially small deep
 punctures; *Clostridium tetani* produces **tetanospasmin**, which
@@ -573,11 +517,6 @@ improves function.
 <figcaption><p><strong>Figure 14. Levels of lower-limb amputation, from hemipelvectomy and hip disarticulation through the transfemoral, through-knee and transtibial levels to the partial-foot (Chopart, transmetatarsal, toe) amputations. Source: Edwin Khundi, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 14. Levels of lower-limb amputation, from hemipelvectomy and hip
-disarticulation through the transfemoral, through-knee and transtibial
-levels to the partial-foot (Chopart, transmetatarsal, toe) amputations.
-Source: Edwin Khundi, via Wikimedia Commons, CC BY-SA 4.0.
-
 The **war amputation differs fundamentally**: it is performed at the
 **lowest viable level of soft tissue** (not at a classic anatomical
 level), as the first stage of an **open, length-preserving amputation**,
@@ -604,11 +543,6 @@ unsolved problem.[85]
 <img src="/images/topics/wounds-open-fractures-amputations/rId162.jpg" alt="Figure 15. A transtibial (below-knee) amputee walking over rough ground on a prosthesis with an energy-storing foot, the level whose retained knee gives the lowest energy cost of gait. Source: Axiles Bionics, via Wikimedia Commons, CC BY-SA 2.0." />
 <figcaption><p><strong>Figure 15. A transtibial (below-knee) amputee walking over rough ground on a prosthesis with an energy-storing foot, the level whose retained knee gives the lowest energy cost of gait. Source: Axiles Bionics, via Wikimedia Commons, CC BY-SA 2.0.</strong></p></figcaption>
 </figure>
-
-Figure 15. A transtibial (below-knee) amputee walking over rough ground
-on a prosthesis with an energy-storing foot, the level whose retained
-knee gives the lowest energy cost of gait. Source: Axiles Bionics, via
-Wikimedia Commons, CC BY-SA 2.0.
 
 ## Replantation
 

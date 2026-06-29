@@ -155,18 +155,10 @@ Secondary healing passes through four overlapping stages:[13]
 <figcaption><p><strong>Figure 1. The stages of secondary (callus) bone healing: (a) fracture haematoma, (b) soft then hard callus, (c) bony callus, (d) remodelled bone. Source: OpenStax College, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The stages of secondary (callus) bone healing: (a) fracture
-haematoma, (b) soft then hard callus, (c) bony callus, (d) remodelled
-bone. Source: OpenStax College, CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId40.jpg" alt="Figure 2. Abundant periosteal callus after a tibial shaft fracture, the radiographic hallmark of secondary healing under relative stability. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 2. Abundant periosteal callus after a tibial shaft fracture, the radiographic hallmark of secondary healing under relative stability. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 2. Abundant periosteal callus after a tibial shaft fracture, the
-radiographic hallmark of secondary healing under relative stability.
-Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
 
 ## 2.3 Perren’s interfragmentary strain theory
 
@@ -272,10 +264,6 @@ compressing them.[39]
 <figcaption><p><strong>Figure 3. Partially threaded lag (cannulated) screws, the implant of interfragmentary compression and absolute stability. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. Partially threaded lag (cannulated) screws, the implant of
-interfragmentary compression and absolute stability. Source: Netha
-Hussain, via Wikimedia Commons, CC BY-SA 3.0.
-
 ## 4.2 The plate and its six functions
 
 A plate has no single purpose; **“the surgeon, not the designer of the
@@ -322,29 +310,15 @@ locking screws may go into that side.[45]
 <figcaption><p><strong>Figure 4. A broad dynamic compression plate (DCP); the oval inclined holes drive axial compression when a screw is placed eccentrically. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 4. A broad dynamic compression plate (DCP); the oval inclined
-holes drive axial compression when a screw is placed eccentrically.
-Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId88.jpg" alt="Figure 5. A locking-head screw whose threaded head locks into the threaded plate hole, forming a fixed-angle internal fixator that does not rely on plate-to-bone friction. Source: Karel Frydrýšek, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 5. A locking-head screw whose threaded head locks into the threaded plate hole, forming a fixed-angle internal fixator that does not rely on plate-to-bone friction. Source: Karel Frydrýšek, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. A locking-head screw whose threaded head locks into the
-threaded plate hole, forming a fixed-angle internal fixator that does
-not rely on plate-to-bone friction. Source: Karel Frydrýšek, via
-Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId91.jpg" alt="Figure 6. Tension-band wiring of a transverse patellar fracture: parallel K-wires and a figure-of-eight cerclage convert the tensile pull into compression across the fracture on flexion. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 6. Tension-band wiring of a transverse patellar fracture: parallel K-wires and a figure-of-eight cerclage convert the tensile pull into compression across the fracture on flexion. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 6. Tension-band wiring of a transverse patellar fracture:
-parallel K-wires and a figure-of-eight cerclage convert the tensile pull
-into compression across the fracture on flexion. Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 3.0.
 
 ## 4.3 Nails, external fixators, and the strain principle in practice
 
@@ -382,18 +356,10 @@ local strain stays low.[52]
 <figcaption><p><strong>Figure 7. Interlocking intramedullary nails with locking screws: a load-sharing splint giving relative stability and healing by callus. Source: Chriudel, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 7. Interlocking intramedullary nails with locking screws: a
-load-sharing splint giving relative stability and healing by callus.
-Source: Chriudel, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId105.jpg" alt="Figure 8. A joint-spanning external fixator: pins and rods giving relative stability while sparing the soft tissues, the mainstay of damage control. Source: via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 8. A joint-spanning external fixator: pins and rods giving relative stability while sparing the soft tissues, the mainstay of damage control. Source: via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. A joint-spanning external fixator: pins and rods giving
-relative stability while sparing the soft tissues, the mainstay of
-damage control. Source: via Wikimedia Commons, CC BY-SA 3.0.
 
 # PART B - FRACTURES OF THE PROXIMAL HUMERUS
 
@@ -436,11 +402,6 @@ averages about 130-135° and the head is retroverted roughly
 <figcaption><p><strong>Figure 9. Anterior view of the proximal humerus: head, anatomical and surgical necks, and the greater and lesser tuberosities with their bicipital groove. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Anterior view of the proximal humerus: head, anatomical and
-surgical necks, and the greater and lesser tuberosities with their
-bicipital groove. From Gray’s Anatomy (H. V. Carter, 1918), public
-domain, via Wikimedia Commons.
-
 ## 5.3 Blood supply: a reversed dogma
 
 The blood supply of the humeral head is among the most examinable points
@@ -463,11 +424,6 @@ medial hinge** are what actually protect the head’s perfusion.[64]
 <figcaption><p><strong>Figure 10. The anterior and posterior humeral circumflex arteries supplying the humeral head; modern work shows the posterior circumflex artery is dominant (~64% of the supply). From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. The anterior and posterior humeral circumflex arteries
-supplying the humeral head; modern work shows the posterior circumflex
-artery is dominant (~64% of the supply). From Gray’s Anatomy (H. V.
-Carter, 1918), public domain, via Wikimedia Commons.
-
 The **axillary nerve** is the structure most at risk both in the injury
 and in surgery, running about 5-7 cm distal to the acromion; it is
 injured (with electromyographic evidence) in a large fraction of
@@ -478,9 +434,6 @@ lateral deltoid and by palpating the deltoid as it contracts.[65]
 <img src="/images/topics/proximal-humerus-fractures/rId132.jpg" alt="Figure 11. AP radiograph of a displaced proximal humeral fracture. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 11. AP radiograph of a displaced proximal humeral fracture. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. AP radiograph of a displaced proximal humeral fracture.
-Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.
 
 # Part VI - Assessment, Imaging, and Classification
 
@@ -533,10 +486,6 @@ agreement.[73]
 <figcaption><p><strong>Figure 12. A complex, multifragmentary (three- to four-part) proximal humeral fracture. From Mattiassich et al. (2013), BMC Musculoskeletal Disorders, CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. A complex, multifragmentary (three- to four-part) proximal
-humeral fracture. From Mattiassich et al. (2013), BMC Musculoskeletal
-Disorders, CC BY 2.0, via Wikimedia Commons.
-
 ## 6.3 The AO/OTA and Hertel (LEGO) classifications
 
 The **AO/OTA classification** codes the proximal humerus as segment
@@ -565,11 +514,6 @@ planning but do not by themselves predict collapse.[78]
 <img src="/images/topics/proximal-humerus-fractures/rId155.jpg" alt="Figure 13. Proximal humeral fracture involving the greater tuberosity; displacement beyond threshold causes subacromial impingement and weakness. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 13. Proximal humeral fracture involving the greater tuberosity; displacement beyond threshold causes subacromial impingement and weakness. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 13. Proximal humeral fracture involving the greater tuberosity;
-displacement beyond threshold causes subacromial impingement and
-weakness. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA
-4.0.
 
 # Part VII - Non-operative Treatment and the Operative Controversy
 
@@ -648,18 +592,10 @@ cement) markedly reduces it.[92]
 <figcaption><p><strong>Figure 14. Locking-plate (PHILOS-type) fixation of a proximal humeral fracture, AP view: divergent angular-stable head screws over a restored medial column. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE.</strong></p></figcaption>
 </figure>
 
-Figure 14. Locking-plate (PHILOS-type) fixation of a proximal humeral
-fracture, AP view: divergent angular-stable head screws over a restored
-medial column. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons,
-CC BY-SA 3.0 DE.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId180.jpg" alt="Figure 15. The same locking-plate fixation, lateral view. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE." />
 <figcaption><p><strong>Figure 15. The same locking-plate fixation, lateral view. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE.</strong></p></figcaption>
 </figure>
-
-Figure 15. The same locking-plate fixation, lateral view. Source: Thomas
-Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE.
 
 ## 8.2 Other fixation: nails, pins, tension bands
 
@@ -677,10 +613,6 @@ neutralising the cuff’s tensile pull.[95]
 <img src="/images/topics/proximal-humerus-fractures/rId187.jpg" alt="Figure 16. Proximal humeral fracture treated by intramedullary nailing, healed with callus. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE." />
 <figcaption><p><strong>Figure 16. Proximal humeral fracture treated by intramedullary nailing, healed with callus. Source: Thomas Zimmermann (THWZ), via Wikimedia Commons, CC BY-SA 3.0 DE.</strong></p></figcaption>
 </figure>
-
-Figure 16. Proximal humeral fracture treated by intramedullary nailing,
-healed with callus. Source: Thomas Zimmermann (THWZ), via Wikimedia
-Commons, CC BY-SA 3.0 DE.
 
 ## 8.3 Arthroplasty: hemiarthroplasty versus reverse
 
@@ -707,19 +639,10 @@ favour the reverse.[98]
 <figcaption><p><strong>Figure 17. Reverse total shoulder arthroplasty for a comminuted proximal humeral fracture, one year after surgery with a healed greater tuberosity. From Mattiassich et al. (2013), BMC Musculoskeletal Disorders, CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 17. Reverse total shoulder arthroplasty for a comminuted proximal
-humeral fracture, one year after surgery with a healed greater
-tuberosity. From Mattiassich et al. (2013), BMC Musculoskeletal
-Disorders, CC BY 2.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/proximal-humerus-fractures/rId197.jpg" alt="Figure 18. Hemiarthroplasty (humeral head replacement) for fracture, with the native glenoid preserved; its outcome depends on tuberosity healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 18. Hemiarthroplasty (humeral head replacement) for fracture, with the native glenoid preserved; its outcome depends on tuberosity healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 18. Hemiarthroplasty (humeral head replacement) for fracture,
-with the native glenoid preserved; its outcome depends on tuberosity
-healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
 
 ## 8.4 Decision-making and the greater-tuberosity threshold
 

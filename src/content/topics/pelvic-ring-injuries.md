@@ -63,19 +63,10 @@ pelvic haemorrhage.[6]
 <figcaption><p><strong>Figure 1. The bony pelvis (anterior view): the two innominate bones (ilium, ischium, pubis) and the sacrum forming the ring. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The bony pelvis (anterior view): the two innominate bones
-(ilium, ischium, pubis) and the sacrum forming the ring. Henry Vandyke
-Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId30.jpg" alt="Figure 2. The posterior pelvic ligaments, the posterior tension band: the posterior sacroiliac, sacrotuberous, sacrospinous, and iliolumbar ligaments. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. The posterior pelvic ligaments, the posterior tension band: the posterior sacroiliac, sacrotuberous, sacrospinous, and iliolumbar ligaments. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. The posterior pelvic ligaments, the posterior tension band:
-the posterior sacroiliac, sacrotuberous, sacrospinous, and iliolumbar
-ligaments. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain,
-via Wikimedia Commons.
 
 The structures at risk around the ring are the examiner’s bread and
 butter. The **lumbosacral plexus** runs across the back of the ring,
@@ -127,18 +118,10 @@ faecal diversion.[15]
 <figcaption><p><strong>Figure 3. Fractures of the superior and inferior pubic rami on an AP pelvis radiograph, the anterior half of a ring injury. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Fractures of the superior and inferior pubic rami on an AP
-pelvis radiograph, the anterior half of a ring injury. James Heilman,
-MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId46.jpg" alt="Figure 4. A displaced, unstable ipsilateral pelvic and femoral injury (a floating-hip injury), illustrating the high-energy displaced pattern. DrMedina, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. A displaced, unstable ipsilateral pelvic and femoral injury (a floating-hip injury), illustrating the high-energy displaced pattern. DrMedina, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. A displaced, unstable ipsilateral pelvic and femoral injury (a
-floating-hip injury), illustrating the high-energy displaced pattern.
-DrMedina, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part III - Assessment and Imaging
 
@@ -175,18 +158,10 @@ injury).[22]
 <figcaption><p><strong>Figure 5. A normal AP pelvis radiograph for comparison, the first and most useful study in the injured patient. RadsWiki, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. A normal AP pelvis radiograph for comparison, the first and
-most useful study in the injured patient. RadsWiki, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId60.jpg" alt="Figure 6. A 3D CT volume rendering of a pelvic and acetabular injury, the kind of reconstruction CT adds to the plain films. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. A 3D CT volume rendering of a pelvic and acetabular injury, the kind of reconstruction CT adds to the plain films. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. A 3D CT volume rendering of a pelvic and acetabular injury,
-the kind of reconstruction CT adds to the plain films. Hellerhoff, CC
-BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - Classification
 
@@ -212,28 +187,15 @@ is **mechanistic**, grouping injuries by the direction of force:[23]
 <figcaption><p><strong>Figure 7. The Young-Burgess mechanisms of pelvic-ring injury (schematic): anteroposterior compression, lateral compression, and vertical shear. Annotation by Kinanat0212 on a Gray’s Anatomy (1918) plate, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. The Young-Burgess mechanisms of pelvic-ring injury
-(schematic): anteroposterior compression, lateral compression, and
-vertical shear. Annotation by Kinanat0212 on a Gray’s Anatomy (1918)
-plate, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId68.jpg" alt="Figure 8. An open-book (anteroposterior-compression) injury: wide diastasis of the pubic symphysis (arrow). Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. An open-book (anteroposterior-compression) injury: wide diastasis of the pubic symphysis (arrow). Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. An open-book (anteroposterior-compression) injury: wide
-diastasis of the pubic symphysis (arrow). Nevit Dilmen, CC BY-SA 3.0,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId71.jpg" alt="Figure 9. An open-book injury with symphyseal disruption and widening of the sacroiliac joint, the combined anterior and posterior APC disruption. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. An open-book injury with symphyseal disruption and widening of the sacroiliac joint, the combined anterior and posterior APC disruption. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. An open-book injury with symphyseal disruption and widening of
-the sacroiliac joint, the combined anterior and posterior APC
-disruption. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 The **Tile / AO-OTA classification** is **stability-based** and maps
 onto the AO codes 61A/B/C by the state of the posterior arch: **type A
@@ -257,10 +219,6 @@ highly unstable injury that separates the spine from the pelvis.[27]
 <img src="/images/topics/pelvic-ring-injuries/rId78.jpg" alt="Figure 10. A right sacral alar fracture on coronal STIR MRI (arrows), with surrounding marrow oedema. Jarraya et al., CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. A right sacral alar fracture on coronal STIR MRI (arrows), with surrounding marrow oedema. Jarraya et al., CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. A right sacral alar fracture on coronal STIR MRI (arrows),
-with surrounding marrow oedema. Jarraya et al., CC BY 3.0, via Wikimedia
-Commons.
 
 # Part V - Initial Management and the Haemorrhage Algorithm
 
@@ -286,26 +244,15 @@ posterior disruption; both are emergency, not definitive, tools.[30]
 <figcaption><p><strong>Figure 11. Application of a circumferential pelvic binder around the pelvis. Sgt. Mykaela Martin, U.S. Army, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Application of a circumferential pelvic binder around the
-pelvis. Sgt. Mykaela Martin, U.S. Army, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId88.jpg" alt="Figure 12. Equipment for an improvised pelvic binder (a folded sheet). James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Equipment for an improvised pelvic binder (a folded sheet). James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Equipment for an improvised pelvic binder (a folded sheet).
-James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pelvic-ring-injuries/rId91.jpg" alt="Figure 13. An anterior pelvic external fixator construct (schematic): Schanz screws, brackets, and a connecting rod. Karel Frydrýšek, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. An anterior pelvic external fixator construct (schematic): Schanz screws, brackets, and a connecting rod. Karel Frydrýšek, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. An anterior pelvic external fixator construct (schematic):
-Schanz screws, brackets, and a connecting rod. Karel Frydrýšek, CC BY-SA
-4.0, via Wikimedia Commons.
 
 The choice between **angioembolization and preperitoneal pelvic
 packing** is genuinely unsettled and depends on institutional

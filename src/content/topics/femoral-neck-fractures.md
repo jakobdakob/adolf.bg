@@ -83,11 +83,6 @@ the head, producing the risk of avascular necrosis and nonunion**.[9]
 <figcaption><p><strong>Figure 1. The femoral circumflex arteries: the medial femoral circumflex (dominant) gives the retinacular vessels that supply the femoral head. Diagram by Mikael Häggström after Gray’s Anatomy, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The femoral circumflex arteries: the medial femoral circumflex
-(dominant) gives the retinacular vessels that supply the femoral head.
-Diagram by Mikael Häggström after Gray’s Anatomy, public domain, via
-Wikimedia Commons.
-
 The remaining anatomy fills in the clinical picture. The **calcar
 femorale**, a dense vertical plate of bone under the lesser trochanter,
 reinforces the posteroinferior neck and is the buttress an inferior
@@ -104,10 +99,6 @@ fracture, giving the classic deformity.[12]
 <img src="/images/topics/femoral-neck-fractures/rId37.jpg" alt="Figure 2. Frontal section of the proximal femur showing the head, neck, and the calcar femorale with its trabecular architecture. Henry Vandyke Carter, Gray’s Anatomy, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Frontal section of the proximal femur showing the head, neck, and the calcar femorale with its trabecular architecture. Henry Vandyke Carter, Gray’s Anatomy, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Frontal section of the proximal femur showing the head, neck,
-and the calcar femorale with its trabecular architecture. Henry Vandyke
-Carter, Gray’s Anatomy, public domain, via Wikimedia Commons.
 
 # Part III - Assessment and Imaging
 
@@ -133,9 +124,6 @@ soft-tissue cause, with CT a reasonable alternative.[17]
 <img src="/images/topics/femoral-neck-fractures/rId46.jpg" alt="Figure 3. A displaced subcapital (medial) femoral neck fracture on AP radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. A displaced subcapital (medial) femoral neck fracture on AP radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. A displaced subcapital (medial) femoral neck fracture on AP
-radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - Classification
 
@@ -165,27 +153,15 @@ subcapital).[22]
 <figcaption><p><strong>Figure 4. Classification of proximal femoral fractures by anatomic level: intracapsular (subcapital, transcervical, basicervical) versus extracapsular (intertrochanteric, subtrochanteric). Diagram by Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Classification of proximal femoral fractures by anatomic
-level: intracapsular (subcapital, transcervical, basicervical) versus
-extracapsular (intertrochanteric, subtrochanteric). Diagram by Mikael
-Häggström, CC0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-neck-fractures/rId58.jpg" alt="Figure 5. A nondisplaced medial femoral neck fracture on AP radiograph (arrow). Sjoehest, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. A nondisplaced medial femoral neck fracture on AP radiograph (arrow). Sjoehest, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. A nondisplaced medial femoral neck fracture on AP radiograph
-(arrow). Sjoehest, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-neck-fractures/rId61.jpg" alt="Figure 6. A subtle valgus-impacted femoral neck fracture (Garden I), with a sclerotic impaction line across the neck. Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. A subtle valgus-impacted femoral neck fracture (Garden I), with a sclerotic impaction line across the neck. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. A subtle valgus-impacted femoral neck fracture (Garden I),
-with a sclerotic impaction line across the neck. Mikael Häggström, CC0,
-via Wikimedia Commons.
 
 # Part V - Treatment
 
@@ -222,16 +198,10 @@ Neck System) is an alternative, though without proven superiority.[29]
 <figcaption><p><strong>Figure 7. A femoral neck fracture fixed with cannulated screws. Sjoehest, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. A femoral neck fracture fixed with cannulated screws.
-Sjoehest, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-neck-fractures/rId76.jpg" alt="Figure 8. A dynamic (sliding) hip screw with an antirotation screw, two projections. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. A dynamic (sliding) hip screw with an antirotation screw, two projections. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. A dynamic (sliding) hip screw with an antirotation screw, two
-projections. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## 5.3 Young patients with displaced fractures: reduce and fix urgently
 
@@ -279,16 +249,10 @@ less acetabular erosion than a unipolar.[37]
 <figcaption><p><strong>Figure 9. A bipolar hemiarthroplasty of the right hip, two projections. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. A bipolar hemiarthroplasty of the right hip, two projections.
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-neck-fractures/rId92.jpg" alt="Figure 10. A total hip replacement of the right hip on AP radiograph. National Institutes of Health, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. A total hip replacement of the right hip on AP radiograph. National Institutes of Health, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. A total hip replacement of the right hip on AP radiograph.
-National Institutes of Health, public domain, via Wikimedia Commons.
 
 ## 5.5 Timing
 
@@ -321,16 +285,10 @@ reserved for the young.[42]
 <figcaption><p><strong>Figure 11. Avascular necrosis of the femoral head on radiograph. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Avascular necrosis of the femoral head on radiograph. Mikael
-Häggström, CC0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-neck-fractures/rId106.jpg" alt="Figure 12. Avascular necrosis of the femoral head on T1-weighted MRI. Ruiz Santiago et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Avascular necrosis of the femoral head on T1-weighted MRI. Ruiz Santiago et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Avascular necrosis of the femoral head on T1-weighted MRI.
-Ruiz Santiago et al., CC BY 4.0, via Wikimedia Commons.
 
 After arthroplasty the complications are **dislocation** (about 2-3%
 after hemiarthroplasty, higher after THA and with a posterior approach),

@@ -90,18 +90,10 @@ structure torn in a lateral patellar dislocation.[6]
 <figcaption><p><strong>Figure 1. Bony anatomy of the patella, showing the base, articular surface, and apex. Sobotta, Atlas of Human Anatomy (1909), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Bony anatomy of the patella, showing the base, articular
-surface, and apex. Sobotta, Atlas of Human Anatomy (1909), public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/patella-extensor-mechanism-injuries/rId31.jpg" alt="Figure 2. Sagittal overview of the knee extensor mechanism: the quadriceps, patella, and patellar ligament. Illustration by BruceBlaus, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Sagittal overview of the knee extensor mechanism: the quadriceps, patella, and patellar ligament. Illustration by BruceBlaus, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Sagittal overview of the knee extensor mechanism: the
-quadriceps, patella, and patellar ligament. Illustration by BruceBlaus,
-CC BY 3.0, via Wikimedia Commons.
 
 The biomechanics explain the goals of fixation.[7] The patella acts as
 a fulcrum with two lever arms (the quadriceps and patellar tendons),
@@ -155,10 +147,6 @@ chondral injuries of patellar dislocation.[12]
 <figcaption><p><strong>Figure 3. Bipartite patella: a superolateral accessory ossicle on AP and axial (skyline) views, a normal variant that mimics a fracture. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Bipartite patella: a superolateral accessory ossicle on AP and
-axial (skyline) views, a normal variant that mimics a fracture. Image by
-Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
-
 # Part IV - Classification
 
 Patella fractures are classified descriptively by pattern, displacement,
@@ -186,18 +174,10 @@ standardises research.[15]
 <figcaption><p><strong>Figure 4. Displaced transverse patella fracture on the lateral radiograph, with a gap between the fragments. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Displaced transverse patella fracture on the lateral
-radiograph, with a gap between the fragments. Image by Hellerhoff, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/patella-extensor-mechanism-injuries/rId51.jpg" alt="Figure 5. Comminuted patella fracture on AP radiograph, sagittal CT, and 3D volume rendering, with multiple displaced fragments. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Comminuted patella fracture on AP radiograph, sagittal CT, and 3D volume rendering, with multiple displaced fragments. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Comminuted patella fracture on AP radiograph, sagittal CT, and
-3D volume rendering, with multiple displaced fragments. Image by
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part V - Treatment of Patella Fractures
 
@@ -241,10 +221,6 @@ may add a circumferential cerclage or a mesh/basket plate.[19]
 <figcaption><p><strong>Figure 6. Tension-band osteosynthesis of a transverse patella fracture: two K-wires with an anterior figure-of-eight cerclage wire (AP and lateral). Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Tension-band osteosynthesis of a transverse patella fracture:
-two K-wires with an anterior figure-of-eight cerclage wire (AP and
-lateral). Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
-
 ## 5.3 Partial and total patellectomy
 
 When a pole (usually the inferior) is too comminuted or too
@@ -285,18 +261,10 @@ rupture and low (<0.8) with a quadriceps tendon rupture.[23]
 <figcaption><p><strong>Figure 7. Patella alta from a patellar tendon rupture: the patella sits high above the trochlea on the lateral radiograph. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Patella alta from a patellar tendon rupture: the patella sits
-high above the trochlea on the lateral radiograph. Image by Hellerhoff,
-CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/patella-extensor-mechanism-injuries/rId73.jpg" alt="Figure 8. Traumatic quadriceps tendon rupture on sagittal PD-weighted MRI and the lateral radiograph. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Traumatic quadriceps tendon rupture on sagittal PD-weighted MRI and the lateral radiograph. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Traumatic quadriceps tendon rupture on sagittal PD-weighted
-MRI and the lateral radiograph. Image by Hellerhoff, CC BY-SA 4.0, via
-Wikimedia Commons.
 
 Both ruptures are repaired, and the outcome turns on early
 surgery.[24] An acute rupture is repaired primarily by reattaching the
@@ -389,28 +357,15 @@ dysplasia.[33]
 <figcaption><p><strong>Figure 9. Acute lateral patellar dislocation on the axial (skyline) radiograph, the patella displaced off the trochlea. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Acute lateral patellar dislocation on the axial (skyline)
-radiograph, the patella displaced off the trochlea. Image by Hellerhoff,
-CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/patella-extensor-mechanism-injuries/rId91.jpg" alt="Figure 10. Acute lateral patellar dislocation on the AP radiograph, the patella lying lateral to the femoral condyle. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Acute lateral patellar dislocation on the AP radiograph, the patella lying lateral to the femoral condyle. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Acute lateral patellar dislocation on the AP radiograph, the
-patella lying lateral to the femoral condyle. Image by James Heilman,
-MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/patella-extensor-mechanism-injuries/rId94.jpg" alt="Figure 11. Medial view of a flexed knee showing the medial patellofemoral ligament (MPFL), the main restraint to lateral patellar displacement. Illustration by Negrin et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Medial view of a flexed knee showing the medial patellofemoral ligament (MPFL), the main restraint to lateral patellar displacement. Illustration by Negrin et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. Medial view of a flexed knee showing the medial
-patellofemoral ligament (MPFL), the main restraint to lateral patellar
-displacement. Illustration by Negrin et al., CC BY 4.0, via Wikimedia
-Commons.
 
 # Part IX - A Synthesis: How to Reason About the Patella Fracture
 

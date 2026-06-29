@@ -71,11 +71,6 @@ to 37 fractures per 100,000 population per year**.[5]
 <figcaption><p><strong>Figure 1. Regional anatomy of the femur: the proximal and distal epiphyses and metaphyses flank the diaphysis (shaft), the segment that fractures here. Illustration by Karel Frydrýšek (Fry72), CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Regional anatomy of the femur: the proximal and distal
-epiphyses and metaphyses flank the diaphysis (shaft), the segment that
-fractures here. Illustration by Karel Frydrýšek (Fry72), CC BY-SA 4.0,
-via Wikimedia Commons.
-
 The **mechanism** follows the energy. In young men the leading cause is
 the **motor-vehicle collision**, with motorcycle crashes, falls from
 height, pedestrian injuries, and gunshot wounds also common; in the
@@ -121,19 +116,10 @@ of the profunda femoris).[11]
 <figcaption><p><strong>Figure 2. Posterior view of the femur showing the linea aspera and the muscle attachments along the shaft. Gray’s Anatomy (Henry Vandyke Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Posterior view of the femur showing the linea aspera and the
-muscle attachments along the shaft. Gray’s Anatomy (Henry Vandyke
-Carter, 1918), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-shaft-fractures/rId39.jpg" alt="Figure 3. Transverse section of the thigh: the femur lies within the three muscle compartments, bounded by the fascial and intermuscular planes. Illustration by Thomas Kirchgesner, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Transverse section of the thigh: the femur lies within the three muscle compartments, bounded by the fascial and intermuscular planes. Illustration by Thomas Kirchgesner, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Transverse section of the thigh: the femur lies within the
-three muscle compartments, bounded by the fascial and intermuscular
-planes. Illustration by Thomas Kirchgesner, CC BY 4.0, via Wikimedia
-Commons.
 
 The **blood supply** explains why reaming and displacement are
 tolerated. The principal **nutrient artery** arises from the profunda
@@ -156,10 +142,6 @@ the periosteal vessels.[13]
 <img src="/images/topics/femoral-shaft-fractures/rId44.jpg" alt="Figure 4. Cross-section through the femoral diaphysis showing the thick cortical wall and the central medullary canal that an intramedullary nail occupies. Image by MAKY.OREL, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Cross-section through the femoral diaphysis showing the thick cortical wall and the central medullary canal that an intramedullary nail occupies. Image by MAKY.OREL, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Cross-section through the femoral diaphysis showing the thick
-cortical wall and the central medullary canal that an intramedullary
-nail occupies. Image by MAKY.OREL, CC0, via Wikimedia Commons.
 
 The **deforming muscle forces** are essential and depend on the level of
 the fracture.[14] In **proximal-third** fractures the **proximal
@@ -200,17 +182,10 @@ proximal-femoral and acetabular injury.[18]
 <figcaption><p><strong>Figure 5. Displaced oblique/spiral fracture of the femoral shaft, AP radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Displaced oblique/spiral fracture of the femoral shaft, AP
-radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/femoral-shaft-fractures/rId56.jpg" alt="Figure 6. The same femoral shaft fracture on the lateral radiograph, confirming displacement in two planes. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. The same femoral shaft fracture on the lateral radiograph, confirming displacement in two planes. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. The same femoral shaft fracture on the lateral radiograph,
-confirming displacement in two planes. Image by Nevit Dilmen, CC BY-SA
-3.0, via Wikimedia Commons.
 
 The single most important associated injury, and a classic examination
 trap, is the **ipsilateral femoral neck fracture**, present in roughly
@@ -270,9 +245,6 @@ postoperative management” and is now mainly descriptive.[26]
 <figcaption><p><strong>Figure 7. Displaced transverse/short-oblique fracture of the proximal femoral shaft. Image by Marek2kkk, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Displaced transverse/short-oblique fracture of the proximal
-femoral shaft. Image by Marek2kkk, CC BY-SA 4.0, via Wikimedia Commons.
-
 The **AO/OTA classification** codes the femur as bone **3** and the
 diaphyseal segment as **2**, so a femoral shaft fracture is region
 **32**, subdivided into **32A (simple:** spiral A1, oblique A2,
@@ -328,11 +300,6 @@ quality of resuscitation**, not the implant.[33]
 <img src="/images/topics/femoral-shaft-fractures/rId79.jpg" alt="Figure 8. Pulmonary fat embolism: a pulmonary artery containing fat vacuoles together with a bone-marrow fragment (H\&E), a systemic complication of long-bone fractures. Image by Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Pulmonary fat embolism: a pulmonary artery containing fat vacuoles together with a bone-marrow fragment (H\&E), a systemic complication of long-bone fractures. Image by Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Pulmonary fat embolism: a pulmonary artery containing fat
-vacuoles together with a bone-marrow fragment (H\&E), a systemic
-complication of long-bone fractures. Image by Mikael Häggström, CC0, via
-Wikimedia Commons.
 
 The **timing of fixation** has moved through three paradigms.[34]
 **Early Total Care (ETC)**, definitive fixation within 24 hours, grew
@@ -394,10 +361,6 @@ prompt.[39]
 <figcaption><p><strong>Figure 9. Monolateral external fixator applied to the femur, used for damage control and temporary stabilisation. Image by Ortopedikus, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Monolateral external fixator applied to the femur, used for
-damage control and temporary stabilisation. Image by Ortopedikus, CC
-BY-SA 4.0, via Wikimedia Commons.
-
 ## 6.3 Plate fixation
 
 Plating has declined with the refinement of nails but retains clear
@@ -423,10 +386,6 @@ callus appears (around 6-12 weeks).[41]
 <figcaption><p><strong>Figure 10. Periprosthetic femoral shaft fracture about a cemented stem, stabilised with a lateral plate, screws, and cerclage cables. Image by Mehlauge, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Periprosthetic femoral shaft fracture about a cemented stem,
-stabilised with a lateral plate, screws, and cerclage cables. Image by
-Mehlauge, CC BY-SA 3.0, via Wikimedia Commons.
-
 ## 6.4 Antegrade intramedullary nailing - the gold standard
 
 The **reamed, statically locked, antegrade intramedullary nail** is the
@@ -451,10 +410,6 @@ should end at about the **mid-patella** distally.[43]
 <img src="/images/topics/femoral-shaft-fractures/rId102.jpg" alt="Figure 11. An antegrade interlocking intramedullary femoral nail, showing the proximal and distal locking holes and the anterior bow. Image by Hentsch, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. An antegrade interlocking intramedullary femoral nail, showing the proximal and distal locking holes and the anterior bow. Image by Hentsch, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. An antegrade interlocking intramedullary femoral nail,
-showing the proximal and distal locking holes and the anterior bow.
-Image by Hentsch, public domain, via Wikimedia Commons.
 
 The central technical debate is the **starting point**.[44] The
 **piriformis (more correctly trochanteric) fossa** lies in line with the
@@ -503,10 +458,6 @@ femoral neck for an occult fracture.[47]
 <img src="/images/topics/femoral-shaft-fractures/rId109.jpg" alt="Figure 12. A femoral fracture before fixation, on 3D CT reconstruction, and after intramedullary nailing (post-operative radiograph). Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. A femoral fracture before fixation, on 3D CT reconstruction, and after intramedullary nailing (post-operative radiograph). Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. A femoral fracture before fixation, on 3D CT reconstruction,
-and after intramedullary nailing (post-operative radiograph). Image by
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## 6.5 Retrograde intramedullary nailing
 
@@ -577,11 +528,6 @@ proximally and distally, regardless of pattern**.[54]
 <img src="/images/topics/femoral-shaft-fractures/rId122.jpg" alt="Figure 13. A cephalomedullary (reconstruction) nail, with cephalic screws into the head and neck and a distal locking bolt, the construct chosen when the femoral neck must also be protected. Image by Bullenwächter, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. A cephalomedullary (reconstruction) nail, with cephalic screws into the head and neck and a distal locking bolt, the construct chosen when the femoral neck must also be protected. Image by Bullenwächter, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. A cephalomedullary (reconstruction) nail, with cephalic
-screws into the head and neck and a distal locking bolt, the construct
-chosen when the femoral neck must also be protected. Image by
-Bullenwächter, CC BY 3.0, via Wikimedia Commons.
 
 # Part VII - Special Fracture Patterns and Associated Injuries
 
@@ -706,10 +652,6 @@ modest shortening in the young child.[66]
 <figcaption><p><strong>Figure 14. Paediatric transverse fracture of the femoral shaft with open growth plates, AP radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Paediatric transverse fracture of the femoral shaft with open
-growth plates, AP radiograph. Image by Nevit Dilmen, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 Treatment is therefore **age- and weight-based**.[67] The **infant
 under 6 months** is treated with a **Pavlik harness, a splint, or a
 spica cast** for a few weeks. From **6 months to 5 years**, an isolated
@@ -738,18 +680,10 @@ that persists as long as the proximal femoral physis remains open.[68]
 <figcaption><p><strong>Figure 15. Hip spica casts, used for femoral shaft fractures in young children. Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Hip spica casts, used for femoral shaft fractures in young
-children. Illustration by BruceBlaus, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/femoral-shaft-fractures/rId149.jpg" alt="Figure 16. Paediatric femoral shaft fracture stabilised with a lateral (submuscular) bridge plate and screws. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Paediatric femoral shaft fracture stabilised with a lateral (submuscular) bridge plate and screws. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Paediatric femoral shaft fracture stabilised with a lateral
-(submuscular) bridge plate and screws. Image by Nevit Dilmen, CC BY-SA
-3.0, via Wikimedia Commons.
 
 # Part X - A Synthesis: How to Reason About the Femoral Shaft Fracture
 

@@ -64,46 +64,25 @@ forefoot.[2]
 <figcaption><p><strong>Figure 1. Bones of the right foot, dorsal surface: calcaneus, talus, navicular, cuboid, the three cuneiforms, metatarsals and phalanges. Gray’s Anatomy (1918), Plate 268, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Bones of the right foot, dorsal surface: calcaneus, talus,
-navicular, cuboid, the three cuneiforms, metatarsals and phalanges.
-Gray’s Anatomy (1918), Plate 268, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId25.jpg" alt="Figure 2. Bones of the right foot, plantar surface, with the plantar muscle attachments outlined. Gray’s Anatomy (1918), Plate 269, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Bones of the right foot, plantar surface, with the plantar muscle attachments outlined. Gray’s Anatomy (1918), Plate 269, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Bones of the right foot, plantar surface, with the plantar
-muscle attachments outlined. Gray’s Anatomy (1918), Plate 269, public
-domain, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId28.jpg" alt="Figure 3. Skeleton of the foot, medial aspect, showing the medial longitudinal arch. Gray’s Anatomy (1918), Plate 290, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Skeleton of the foot, medial aspect, showing the medial longitudinal arch. Gray’s Anatomy (1918), Plate 290, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Skeleton of the foot, medial aspect, showing the medial
-longitudinal arch. Gray’s Anatomy (1918), Plate 290, public domain, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId31.jpg" alt="Figure 4. Left talus, superior surface: the trochlea and the facets for the medial and lateral malleoli. Gray’s Anatomy (1918), Plate 270, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Left talus, superior surface: the trochlea and the facets for the medial and lateral malleoli. Gray’s Anatomy (1918), Plate 270, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Left talus, superior surface: the trochlea and the facets for
-the medial and lateral malleoli. Gray’s Anatomy (1918), Plate 270,
-public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId34.jpg" alt="Figure 5. Left calcaneus, lateral surface, with the peroneal (trochlear) tubercle and the groove for peroneus longus. Gray’s Anatomy (1918), Plate 266, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Left calcaneus, lateral surface, with the peroneal (trochlear) tubercle and the groove for peroneus longus. Gray’s Anatomy (1918), Plate 266, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Left calcaneus, lateral surface, with the peroneal (trochlear)
-tubercle and the groove for peroneus longus. Gray’s Anatomy (1918),
-Plate 266, public domain, via Wikimedia Commons.
 
 # Part I - Applied Surgical Anatomy of the Ankle and Foot
 
@@ -157,29 +136,15 @@ them.[5]
 <figcaption><p><strong>Figure 6. Nerves of the dorsum of the foot: the deep peroneal nerve, the dorsal cutaneous branches of the superficial peroneal nerve, and the extensor tendons beneath the extensor retinaculum. Gray’s Anatomy (1918), Plate 836, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Nerves of the dorsum of the foot: the deep peroneal nerve, the
-dorsal cutaneous branches of the superficial peroneal nerve, and the
-extensor tendons beneath the extensor retinaculum. Gray’s Anatomy
-(1918), Plate 836, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId45.jpg" alt="Figure 7. Surface markings of the anterior tibial artery continuing as the dorsalis pedis, and the deep peroneal nerve. Gray’s Anatomy (1918), Plate 1246, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Surface markings of the anterior tibial artery continuing as the dorsalis pedis, and the deep peroneal nerve. Gray’s Anatomy (1918), Plate 1246, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Surface markings of the anterior tibial artery continuing as
-the dorsalis pedis, and the deep peroneal nerve. Gray’s Anatomy (1918),
-Plate 1246, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId48.jpg" alt="Figure 8. Cross-section through the middle of the leg, labelling the four compartments and the neurovascular bundles, the great and small saphenous veins, and the cutaneous nerves. Gray’s Anatomy (1918), Plate 440, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Cross-section through the middle of the leg, labelling the four compartments and the neurovascular bundles, the great and small saphenous veins, and the cutaneous nerves. Gray’s Anatomy (1918), Plate 440, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Cross-section through the middle of the leg, labelling the
-four compartments and the neurovascular bundles, the great and small
-saphenous veins, and the cutaneous nerves. Gray’s Anatomy (1918), Plate
-440, public domain, via Wikimedia Commons.
 
 ## The medial ankle and the tarsal tunnel
 
@@ -203,21 +168,10 @@ of these muscles still muscular at this level.[6]
 <figcaption><p><strong>Figure 9. Synovial tendon sheaths around the medial ankle: tibialis posterior, flexor digitorum longus and flexor hallucis longus passing behind the medial malleolus deep to the flexor retinaculum. Gray’s Anatomy (1918), Plate 1242, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Synovial tendon sheaths around the medial ankle: tibialis
-posterior, flexor digitorum longus and flexor hallucis longus passing
-behind the medial malleolus deep to the flexor retinaculum. Gray’s
-Anatomy (1918), Plate 1242, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId56.jpg" alt="Figure 10. Coronal section through the ankle and subtalar joints, showing the mortise, the tibiofibular syndesmosis, and the medial neurovascular structures (medial and lateral plantar nerves and vessels). Gray’s Anatomy (1918), Plate 357, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Coronal section through the ankle and subtalar joints, showing the mortise, the tibiofibular syndesmosis, and the medial neurovascular structures (medial and lateral plantar nerves and vessels). Gray’s Anatomy (1918), Plate 357, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Coronal section through the ankle and subtalar joints,
-showing the mortise, the tibiofibular syndesmosis, and the medial
-neurovascular structures (medial and lateral plantar nerves and
-vessels). Gray’s Anatomy (1918), Plate 357, public domain, via Wikimedia
-Commons.
 
 ## The lateral ankle and the superficial sensory triad
 
@@ -250,20 +204,10 @@ shoe.[8]
 <figcaption><p><strong>Figure 11. Synovial tendon sheaths around the lateral ankle: peroneus longus and brevis behind the lateral malleolus, with the superior and inferior peroneal retinacula. Gray’s Anatomy (1918), Plate 1241, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Synovial tendon sheaths around the lateral ankle: peroneus
-longus and brevis behind the lateral malleolus, with the superior and
-inferior peroneal retinacula. Gray’s Anatomy (1918), Plate 1241, public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId65.jpg" alt="Figure 12. Cutaneous nerves of the lower limb, posterior view: the sural nerve laterally and the saphenous nerve medially, the superficial sensory nerves a foot incision must spare. Gray’s Anatomy (1918), Plate 830, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Cutaneous nerves of the lower limb, posterior view: the sural nerve laterally and the saphenous nerve medially, the superficial sensory nerves a foot incision must spare. Gray’s Anatomy (1918), Plate 830, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Cutaneous nerves of the lower limb, posterior view: the sural
-nerve laterally and the saphenous nerve medially, the superficial
-sensory nerves a foot incision must spare. Gray’s Anatomy (1918), Plate
-830, public domain, via Wikimedia Commons.
 
 ## The ankle joint, mortise, and ligaments
 
@@ -298,27 +242,15 @@ weight-bearing.[10]
 <figcaption><p><strong>Figure 13. Ligaments of the medial aspect of the ankle and foot, showing the deltoid (medial) ligament and the spring ligament. Gray’s Anatomy (1918), Plate 354, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Ligaments of the medial aspect of the ankle and foot, showing
-the deltoid (medial) ligament and the spring ligament. Gray’s Anatomy
-(1918), Plate 354, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId74.jpg" alt="Figure 14. Lateral collateral ligaments of the ankle: the anterior talofibular, calcaneofibular and posterior talofibular ligaments. Gray’s Anatomy (1918), Plate 356, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Lateral collateral ligaments of the ankle: the anterior talofibular, calcaneofibular and posterior talofibular ligaments. Gray’s Anatomy (1918), Plate 356, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Lateral collateral ligaments of the ankle: the anterior
-talofibular, calcaneofibular and posterior talofibular ligaments. Gray’s
-Anatomy (1918), Plate 356, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId77.jpg" alt="Figure 15. Ligaments of the lateral aspect of the ankle and foot, with the lateral collateral complex and the tarsal ligaments. Gray’s Anatomy (1918), Plate 355, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Ligaments of the lateral aspect of the ankle and foot, with the lateral collateral complex and the tarsal ligaments. Gray’s Anatomy (1918), Plate 355, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Ligaments of the lateral aspect of the ankle and foot, with
-the lateral collateral complex and the tarsal ligaments. Gray’s Anatomy
-(1918), Plate 355, public domain, via Wikimedia Commons.
 
 ## The subtalar joint, tarsal canal, and sinus tarsi
 
@@ -341,19 +273,10 @@ talocalcaneonavicular joint until both have been incised.[11]
 <figcaption><p><strong>Figure 16. The subtalar (talocalcaneal and talocalcaneonavicular) joints exposed from above, showing the sinus tarsi and the interosseous talocalcaneal ligament. Gray’s Anatomy (1918), Plate 359, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. The subtalar (talocalcaneal and talocalcaneonavicular) joints
-exposed from above, showing the sinus tarsi and the interosseous
-talocalcaneal ligament. Gray’s Anatomy (1918), Plate 359, public domain,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId85.jpg" alt="Figure 17. Sagittal/oblique section through the foot, showing the talus, calcaneus, the midtarsal joints and the arch. Gray’s Anatomy (1918), Plate 360, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Sagittal/oblique section through the foot, showing the talus, calcaneus, the midtarsal joints and the arch. Gray’s Anatomy (1918), Plate 360, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Sagittal/oblique section through the foot, showing the talus,
-calcaneus, the midtarsal joints and the arch. Gray’s Anatomy (1918),
-Plate 360, public domain, via Wikimedia Commons.
 
 ## The dorsum and sole of the foot
 
@@ -392,38 +315,20 @@ forefoot approaches safe.[13]
 <figcaption><p><strong>Figure 18. The plantar aponeurosis and the first layer of the sole, with abductor hallucis and abductor digiti minimi flanking flexor digitorum brevis. Gray’s Anatomy (1918), Plate 443, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 18. The plantar aponeurosis and the first layer of the sole, with
-abductor hallucis and abductor digiti minimi flanking flexor digitorum
-brevis. Gray’s Anatomy (1918), Plate 443, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId94.jpg" alt="Figure 19. Deep muscles of the sole: adductor hallucis (oblique and transverse heads) and flexor hallucis brevis with the great-toe sesamoids. Gray’s Anatomy (1918), Plate 445, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 19. Deep muscles of the sole: adductor hallucis (oblique and transverse heads) and flexor hallucis brevis with the great-toe sesamoids. Gray’s Anatomy (1918), Plate 445, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 19. Deep muscles of the sole: adductor hallucis (oblique and
-transverse heads) and flexor hallucis brevis with the great-toe
-sesamoids. Gray’s Anatomy (1918), Plate 445, public domain, via
-Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId97.jpg" alt="Figure 20. The medial and lateral plantar nerves, the terminal branches of the tibial nerve, distributed across the sole. Gray’s Anatomy (1918), Plate 833, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 20. The medial and lateral plantar nerves, the terminal branches of the tibial nerve, distributed across the sole. Gray’s Anatomy (1918), Plate 833, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 20. The medial and lateral plantar nerves, the terminal branches
-of the tibial nerve, distributed across the sole. Gray’s Anatomy (1918),
-Plate 833, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId100.jpg" alt="Figure 21. Cutaneous nerve distribution of the sole of the foot (medial plantar, lateral plantar, saphenous and sural territories). Gray’s Anatomy (1918), Plate 834, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 21. Cutaneous nerve distribution of the sole of the foot (medial plantar, lateral plantar, saphenous and sural territories). Gray’s Anatomy (1918), Plate 834, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 21. Cutaneous nerve distribution of the sole of the foot (medial
-plantar, lateral plantar, saphenous and sural territories). Gray’s
-Anatomy (1918), Plate 834, public domain, via Wikimedia Commons.
 
 # Part II - Approaches to the Ankle
 
@@ -516,27 +421,15 @@ wound is drained.[18]
 <figcaption><p><strong>Figure 22. Bimalleolar ankle fracture with dislocation: fractures of both the fibula (1) and the tibial (medial) malleolus (2). Steven Fruitsmaak, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 22. Bimalleolar ankle fracture with dislocation: fractures of
-both the fibula (1) and the tibial (medial) malleolus (2). Steven
-Fruitsmaak, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId117.jpg" alt="Figure 23. Danis-Weber classification of fibular fractures relative to the syndesmosis (type A below, B at, C above the syndesmosis, shown in blue). DrFO.Tn, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 23. Danis-Weber classification of fibular fractures relative to the syndesmosis (type A below, B at, C above the syndesmosis, shown in blue). DrFO.Tn, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 23. Danis-Weber classification of fibular fractures relative to
-the syndesmosis (type A below, B at, C above the syndesmosis, shown in
-blue). DrFO.Tn, CC BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId120.jpg" alt="Figure 24. Ankle fracture before and after open reduction and internal fixation with a lateral fibular plate and a medial malleolar screw. Chaim Mintz, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 24. Ankle fracture before and after open reduction and internal fixation with a lateral fibular plate and a medial malleolar screw. Chaim Mintz, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 24. Ankle fracture before and after open reduction and internal
-fixation with a lateral fibular plate and a medial malleolar screw.
-Chaim Mintz, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part III - Approaches to the Hindfoot
 
@@ -600,17 +493,10 @@ complication.[21]
 <figcaption><p><strong>Figure 25. Boehler’s angle on the lateral calcaneal radiograph: normal (top) versus a calcaneal fracture with a reduced angle (bottom). Gilo1969, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 25. Boehler’s angle on the lateral calcaneal radiograph: normal
-(top) versus a calcaneal fracture with a reduced angle (bottom).
-Gilo1969, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId133.jpg" alt="Figure 26. Axial CT of a calcaneal fracture through the hindfoot. Cerevisae, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 26. Axial CT of a calcaneal fracture through the hindfoot. Cerevisae, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 26. Axial CT of a calcaneal fracture through the hindfoot.
-Cerevisae, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - Approaches to the Forefoot
 
@@ -647,18 +533,10 @@ metatarsal ligament and is at risk when that ligament is cut.[23]
 <figcaption><p><strong>Figure 27. Weight-bearing radiograph of hallux valgus, with the hallux valgus angle (blue) and the intermetatarsal angles (red and green) measured. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 27. Weight-bearing radiograph of hallux valgus, with the hallux
-valgus angle (blue) and the intermetatarsal angles (red and green)
-measured. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId144.jpg" alt="Figure 28. Clinical appearance of hallux valgus, with the prominent first metatarsophalangeal bunion and lateral deviation of the great toe. Lamiot, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 28. Clinical appearance of hallux valgus, with the prominent first metatarsophalangeal bunion and lateral deviation of the great toe. Lamiot, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 28. Clinical appearance of hallux valgus, with the prominent
-first metatarsophalangeal bunion and lateral deviation of the great toe.
-Lamiot, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## The lesser-toe metatarsophalangeal joints and the Morton neuroma
 
@@ -684,18 +562,10 @@ without trophic change.[24]
 <figcaption><p><strong>Figure 29. Histology of a Morton (plantar interdigital) neuroma, showing the perineural fibrosis of the interdigital nerve, H\&E stain. Ed Uthman, CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 29. Histology of a Morton (plantar interdigital) neuroma, showing
-the perineural fibrosis of the interdigital nerve, H\&E stain. Ed
-Uthman, CC BY 2.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/ankle-foot-approaches/rId152.jpg" alt="Figure 30. Forefoot radiograph indicating the third intermetatarsal web space, the typical site of a Morton neuroma. Nuñez Zapata Cascianini, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 30. Forefoot radiograph indicating the third intermetatarsal web space, the typical site of a Morton neuroma. Nuñez Zapata Cascianini, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 30. Forefoot radiograph indicating the third intermetatarsal web
-space, the typical site of a Morton neuroma. Nuñez Zapata Cascianini, CC
-BY-SA 4.0, via Wikimedia Commons.
 
 # References
 1.  The framing of the ankle by three tendon groups (flexors behind the

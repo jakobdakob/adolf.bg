@@ -82,20 +82,10 @@ sustains the cortex.[6]
 <figcaption><p><strong>Figure 1. Anterior view of the right tibia and fibula with labelled landmarks; the subcutaneous anteromedial border explains the high open-fracture rate. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Anterior view of the right tibia and fibula with labelled
-landmarks; the subcutaneous anteromedial border explains the high
-open-fracture rate. Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId31.jpg" alt="Figure 2. Transverse section of the leg showing the four fascial compartments around the tibia and fibula; the anterior compartment is the one most often affected by compartment syndrome. Illustration by Beckie Palmer (StatPearls), CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Transverse section of the leg showing the four fascial compartments around the tibia and fibula; the anterior compartment is the one most often affected by compartment syndrome. Illustration by Beckie Palmer (StatPearls), CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Transverse section of the leg showing the four fascial
-compartments around the tibia and fibula; the anterior compartment is
-the one most often affected by compartment syndrome. Illustration by
-Beckie Palmer (StatPearls), CC BY 4.0, via Wikimedia Commons.
 
 # Part III - Compartment Syndrome and Neurovascular Injury
 
@@ -122,9 +112,6 @@ carries high rates of vascular injury and open fracture.[8]
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId37.jpg" alt="Figure 3. Medial leg fasciotomy wound after decompression for compartment syndrome. CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Medial leg fasciotomy wound after decompression for compartment syndrome. CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Medial leg fasciotomy wound after decompression for
-compartment syndrome. CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part IV - Open Fractures
 
@@ -153,18 +140,10 @@ layered onto them.[10]
 <figcaption><p><strong>Figure 4. Gustilo-Anderson type I open tibial fracture: a small puncture wound with minimal soft-tissue injury. Image by Doncovska, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Gustilo-Anderson type I open tibial fracture: a small puncture
-wound with minimal soft-tissue injury. Image by Doncovska, CC BY-SA 3.0,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId46.jpg" alt="Figure 5. Gustilo-Anderson type II open fracture: a larger laceration with moderate soft-tissue injury. Image by Doncovska, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Gustilo-Anderson type II open fracture: a larger laceration with moderate soft-tissue injury. Image by Doncovska, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Gustilo-Anderson type II open fracture: a larger laceration
-with moderate soft-tissue injury. Image by Doncovska, CC BY-SA 3.0, via
-Wikimedia Commons.
 
 For the most severe open tibias (IIIB and IIIC), the
 limb-salvage-versus-amputation decision uses scores such as the **MESS**
@@ -200,27 +179,15 @@ which correlates with healing time.[14]
 <figcaption><p><strong>Figure 6. Spiral fracture of the tibial shaft, the low-energy torsional pattern. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Spiral fracture of the tibial shaft, the low-energy torsional
-pattern. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId57.jpg" alt="Figure 7. Oblique fracture of the tibial and fibular shafts with a butterfly fragment, AP and lateral radiographs. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Oblique fracture of the tibial and fibular shafts with a butterfly fragment, AP and lateral radiographs. Image by Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Oblique fracture of the tibial and fibular shafts with a
-butterfly fragment, AP and lateral radiographs. Image by Nevit Dilmen,
-CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId60.jpg" alt="Figure 8. Displaced comminuted fracture of the tibial and fibular shafts, a high-energy pattern. Image by MustafaSalahalden, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Displaced comminuted fracture of the tibial and fibular shafts, a high-energy pattern. Image by MustafaSalahalden, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Displaced comminuted fracture of the tibial and fibular
-shafts, a high-energy pattern. Image by MustafaSalahalden, CC BY-SA 4.0,
-via Wikimedia Commons.
 
 # Part VI - Nonoperative Treatment
 
@@ -247,18 +214,10 @@ work.[16]
 <figcaption><p><strong>Figure 9. Long-leg cast, the initial immobilisation that controls rotation in nonoperative treatment. Image by Jonuscumgi, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Long-leg cast, the initial immobilisation that controls
-rotation in nonoperative treatment. Image by Jonuscumgi, CC BY-SA 4.0,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId69.jpg" alt="Figure 10. Below-knee (short-leg) walking cast with a toeplate, the form of functional weight-bearing immobilisation. Image by Jonuscumgi, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Below-knee (short-leg) walking cast with a toeplate, the form of functional weight-bearing immobilisation. Image by Jonuscumgi, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Below-knee (short-leg) walking cast with a toeplate, the form
-of functional weight-bearing immobilisation. Image by Jonuscumgi, CC
-BY-SA 4.0, via Wikimedia Commons.
 
 # Part VII - Reamed Locked Intramedullary Nailing
 
@@ -290,17 +249,10 @@ radiographically.[18]
 <figcaption><p><strong>Figure 11. Tibial intramedullary nail with proximal interlocking screws, AP and lateral radiographs. Image by Kolossos, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Tibial intramedullary nail with proximal interlocking screws,
-AP and lateral radiographs. Image by Kolossos, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId78.jpg" alt="Figure 12. Intramedullary nails with their locking screws (implant hardware). Image by Chriudel, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Intramedullary nails with their locking screws (implant hardware). Image by Chriudel, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Intramedullary nails with their locking screws (implant
-hardware). Image by Chriudel, CC BY-SA 3.0, via Wikimedia Commons.
 
 The proximal-third and distal-third extra-articular fractures are the
 hard ones, because the **widened metaphyseal canal does not let the nail
@@ -343,10 +295,6 @@ technique** reconstructs the defect away from the zone of injury.[22]
 <figcaption><p><strong>Figure 13. Monolateral external fixator applied to the tibia, used for damage control and severe open fractures. Image by Redhead.dk, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Monolateral external fixator applied to the tibia, used for
-damage control and severe open fractures. Image by Redhead.dk, CC BY
-3.0, via Wikimedia Commons.
-
 # Part IX - Complications
 
 The complications of the tibial shaft fracture are the most heavily
@@ -379,10 +327,6 @@ removal.[24]
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId92.jpg" alt="Figure 14. Tibial/fibular nonunion (pseudarthrosis, arrows) with no bridging callus across the fracture. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Tibial/fibular nonunion (pseudarthrosis, arrows) with no bridging callus across the fracture. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Tibial/fibular nonunion (pseudarthrosis, arrows) with no
-bridging callus across the fracture. Image by James Heilman, MD, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 # Part X - Isolated Fibula Shaft Fractures
 
@@ -428,10 +372,6 @@ and unstable high-energy fractures are increasingly fixed with flexible
 <img src="/images/topics/tibial-fibular-shaft-fractures/rId101.jpg" alt="Figure 15. Toddler’s fracture: a subtle, undisplaced spiral fracture of the distal tibial shaft (arrow) in a young child with open physes. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Toddler’s fracture: a subtle, undisplaced spiral fracture of the distal tibial shaft (arrow) in a young child with open physes. Image by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Toddler’s fracture: a subtle, undisplaced spiral fracture of
-the distal tibial shaft (arrow) in a young child with open physes. Image
-by James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.
 
 A distinct paediatric entity is the **Cozen fracture**, a proximal
 tibial metaphyseal fracture in a child under 8 that develops a

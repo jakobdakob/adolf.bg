@@ -88,10 +88,6 @@ classifications miss and that lateral plates fail to support.[6]
 <figcaption><p><strong>Figure 1. Bony anatomy of the proximal tibia: the lateral and medial condyles, the intercondylar eminence, and the tibial tuberosity. Gray’s Anatomy plate, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Bony anatomy of the proximal tibia: the lateral and medial
-condyles, the intercondylar eminence, and the tibial tuberosity. Gray’s
-Anatomy plate, public domain, via Wikimedia Commons.
-
 The neurovascular and soft-tissue anatomy dictates the surgical
 hazards.[7] The **popliteal artery** trifurcates a short distance
 below the joint (its bifurcation lies about 27-62 mm distal to the
@@ -145,28 +141,15 @@ stability examination after fixation.[12]
 <figcaption><p><strong>Figure 2. Occult tibial plateau fracture: a lipohaemarthrosis (fat-fluid level, arrowheads) in the suprapatellar recess signals an intra-articular fracture despite a near-normal AP view. Image by Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Occult tibial plateau fracture: a lipohaemarthrosis (fat-fluid
-level, arrowheads) in the suprapatellar recess signals an
-intra-articular fracture despite a near-normal AP view. Image by
-Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-plateau-fractures/rId42.jpg" alt="Figure 3. Axial CT of the proximal tibia showing a fracture line through the plateau (arrowheads); CT defines fragment geometry and articular involvement. Image by LottieLattes, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Axial CT of the proximal tibia showing a fracture line through the plateau (arrowheads); CT defines fragment geometry and articular involvement. Image by LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Axial CT of the proximal tibia showing a fracture line through
-the plateau (arrowheads); CT defines fragment geometry and articular
-involvement. Image by LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-plateau-fractures/rId45.jpg" alt="Figure 4. 3D CT reconstruction of a tibial plateau fracture, demonstrating the split through the articular surface. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. 3D CT reconstruction of a tibial plateau fracture, demonstrating the split through the articular surface. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. 3D CT reconstruction of a tibial plateau fracture,
-demonstrating the split through the articular surface. Image by James
-Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part V - Classification
 
@@ -190,27 +173,15 @@ fragments**.[14]
 <figcaption><p><strong>Figure 5. Subtle lateral tibial plateau fracture (arrow) on an AP knee radiograph, the kind easily missed without CT. Image by Jarraya et al., CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Subtle lateral tibial plateau fracture (arrow) on an AP knee
-radiograph, the kind easily missed without CT. Image by Jarraya et al.,
-CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-plateau-fractures/rId54.jpg" alt="Figure 6. AP knee radiograph showing a lateral tibial plateau fracture with articular depression. Image by LottieLattes, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. AP knee radiograph showing a lateral tibial plateau fracture with articular depression. Image by LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. AP knee radiograph showing a lateral tibial plateau fracture
-with articular depression. Image by LottieLattes, CC BY-SA 4.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-plateau-fractures/rId57.jpg" alt="Figure 7. Severe, comminuted, displaced tibial plateau fracture (arrow) on a lateral radiograph, a high-energy injury pattern. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Severe, comminuted, displaced tibial plateau fracture (arrow) on a lateral radiograph, a high-energy injury pattern. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Severe, comminuted, displaced tibial plateau fracture (arrow)
-on a lateral radiograph, a high-energy injury pattern. Image by James
-Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
 
 Two further systems complete the picture.[15] The **AO/OTA system
 codes the proximal tibia as 41**: **41A extra-articular** (not a true
@@ -269,10 +240,6 @@ placed after the screws, since it is brittle once set).[20]
 <figcaption><p><strong>Figure 8. Post-operative radiograph after ORIF of a tibial plateau fracture: a lateral buttress plate with an interfragmentary screw. Image by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Post-operative radiograph after ORIF of a tibial plateau
-fracture: a lateral buttress plate with an interfragmentary screw. Image
-by James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.
-
 ## 7.2 The medial fracture (Schatzker IV)
 
 The **Schatzker IV medial plateau fracture** is treated through a
@@ -312,19 +279,10 @@ kept at least 15 mm from the joint to avoid septic arthritis.[24]
 <figcaption><p><strong>Figure 9. Haemorrhagic fracture blisters over a fractured lower limb, a compromised soft-tissue envelope that mandates staged management. Image by Cindy L. Budge, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Haemorrhagic fracture blisters over a fractured lower limb, a
-compromised soft-tissue envelope that mandates staged management. Image
-by Cindy L. Budge, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/tibial-plateau-fractures/rId80.jpg" alt="Figure 10. Extensive soft-tissue swelling and blistering of the lower leg, the degree of soft-tissue compromise that mandates delayed definitive fixation. Image by Lklundin, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Extensive soft-tissue swelling and blistering of the lower leg, the degree of soft-tissue compromise that mandates delayed definitive fixation. Image by Lklundin, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Extensive soft-tissue swelling and blistering of the lower
-leg, the degree of soft-tissue compromise that mandates delayed
-definitive fixation. Image by Lklundin, CC BY-SA 4.0, via Wikimedia
-Commons.
 
 After fixation, the knee is moved **early** (immobilisation beyond about
 two weeks produces stiffness), with weight bearing protected until the

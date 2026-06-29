@@ -203,10 +203,6 @@ tissue and bacterial adhesion.[29]
 <figcaption><p><strong>Figure 1. An assortment of osteosynthesis hardware: an angular-stable (locking) plate with combination holes and a range of cortical and locking screws. Source: Superbass, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. An assortment of osteosynthesis hardware: an angular-stable
-(locking) plate with combination holes and a range of cortical and
-locking screws. Source: Superbass, via Wikimedia Commons, CC BY-SA 4.0.
-
 # Part IV - Screws and the Lag Principle
 
 A screw is “a powerful mechanical device that converts rotation into
@@ -226,18 +222,10 @@ outer diameter for metaphyseal bone.[33]
 <figcaption><p><strong>Figure 2. A fully threaded cortical bone screw, with a small pitch and shallow thread for dense diaphyseal bone. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. A fully threaded cortical bone screw, with a small pitch and
-shallow thread for dense diaphyseal bone. Source: Netha Hussain, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/operative-treatment-osteosynthesis/rId65.jpg" alt="Figure 3. Cancellous bone screws, with a larger pitch and deeper thread for purchase in metaphyseal bone. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 3. Cancellous bone screws, with a larger pitch and deeper thread for purchase in metaphyseal bone. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 3. Cancellous bone screws, with a larger pitch and deeper thread
-for purchase in metaphyseal bone. Source: Netha Hussain, via Wikimedia
-Commons, CC BY-SA 3.0.
 
 The most important point is functional, not structural: “the term lag
 screw does not describe screw design but refers to the **function of
@@ -262,11 +250,6 @@ are two ways to achieve this:
 <img src="/images/topics/operative-treatment-osteosynthesis/rId71.jpg" alt="Figure 4. Partially threaded lag screws “by design”: the smooth proximal shank glides through the near fragment while the distal thread grips the far fragment, generating interfragmentary compression. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 4. Partially threaded lag screws “by design”: the smooth proximal shank glides through the near fragment while the distal thread grips the far fragment, generating interfragmentary compression. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 4. Partially threaded lag screws “by design”: the smooth proximal
-shank glides through the near fragment while the distal thread grips the
-far fragment, generating interfragmentary compression. Source: Netha
-Hussain, via Wikimedia Commons, CC BY-SA 3.0.
 
 A **position screw**, by contrast, holds two fragments in a fixed
 relationship **without compression** (its classic use is the syndesmotic
@@ -340,17 +323,10 @@ without stress concentration.[51]
 <figcaption><p><strong>Figure 5. Broad dynamic compression plates, showing the characteristic angled oval holes through which the sliding screw head produces axial compression. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Broad dynamic compression plates, showing the characteristic
-angled oval holes through which the sliding screw head produces axial
-compression. Source: Netha Hussain, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/operative-treatment-osteosynthesis/rId93.jpg" alt="Figure 6. Distal radius fracture fixed with a volar plate and screws (PA and lateral views). Source: Pietz, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 6. Distal radius fracture fixed with a volar plate and screws (PA and lateral views). Source: Pietz, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 6. Distal radius fracture fixed with a volar plate and screws (PA
-and lateral views). Source: Pietz, via Wikimedia Commons, CC BY-SA 4.0.
 
 A subtle but essential technique is **prebending (overbending)**. A
 straight plate on a straight bone compresses only the near cortex and
@@ -391,21 +367,10 @@ fails.[60]
 <figcaption><p><strong>Figure 7. A locking compression plate (LCP), whose combination holes accept either a conventional screw (compression) or a threaded locking head screw (angular stability). Source: Anne Sprechert, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 7. A locking compression plate (LCP), whose combination holes
-accept either a conventional screw (compression) or a threaded locking
-head screw (angular stability). Source: Anne Sprechert, via Wikimedia
-Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/operative-treatment-osteosynthesis/rId109.jpg" alt="Figure 8. A proximal humeral fracture fixed with an angular-stable locking plate, the divergent locking screws anchoring the head fragment, the classic indication of poor bone stock in a short periarticular segment. Source: Thomas Zimmermann, via Wikimedia Commons, CC BY-SA 3.0 DE." />
 <figcaption><p><strong>Figure 8. A proximal humeral fracture fixed with an angular-stable locking plate, the divergent locking screws anchoring the head fragment, the classic indication of poor bone stock in a short periarticular segment. Source: Thomas Zimmermann, via Wikimedia Commons, CC BY-SA 3.0 DE.</strong></p></figcaption>
 </figure>
-
-Figure 8. A proximal humeral fracture fixed with an angular-stable
-locking plate, the divergent locking screws anchoring the head fragment,
-the classic indication of poor bone stock in a short periarticular
-segment. Source: Thomas Zimmermann, via Wikimedia Commons, CC BY-SA 3.0
-DE.
 
 ## Quantitative rules for bridge plating
 
@@ -429,11 +394,6 @@ rules of thumb:[61]
 <img src="/images/topics/operative-treatment-osteosynthesis/rId114.jpg" alt="Figure 9. Bridge plating of a comminuted distal-tibia fracture: a long plate spans the fracture, fixed only at the ends with the holes over the comminuted zone left empty, giving relative stability and callus healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 9. Bridge plating of a comminuted distal-tibia fracture: a long plate spans the fracture, fixed only at the ends with the holes over the comminuted zone left empty, giving relative stability and callus healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. Bridge plating of a comminuted distal-tibia fracture: a long
-plate spans the fracture, fixed only at the ends with the holes over the
-comminuted zone left empty, giving relative stability and callus
-healing. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
 
 # Part VI - The Tension Band Principle
 
@@ -475,21 +435,10 @@ also holds true for plates.”[69]
 <figcaption><p><strong>Figure 10. The classic dynamic tension band: a transverse patella fracture fixed with two K-wires and a figure-of-eight wire, so that knee flexion converts the distracting quadriceps pull into compression at the articular surface. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. The classic dynamic tension band: a transverse patella
-fracture fixed with two K-wires and a figure-of-eight wire, so that knee
-flexion converts the distracting quadriceps pull into compression at the
-articular surface. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA
-3.0.
-
 <figure>
 <img src="/images/topics/operative-treatment-osteosynthesis/rId130.jpg" alt="Figure 11. Olecranon tension-band wiring (two K-wires plus a figure-of-eight wire), converting the triceps pull into compression across the fracture. Source: Mehlauge, via Wikimedia Commons, Public Domain." />
 <figcaption><p><strong>Figure 11. Olecranon tension-band wiring (two K-wires plus a figure-of-eight wire), converting the triceps pull into compression across the fracture. Source: Mehlauge, via Wikimedia Commons, Public Domain.</strong></p></figcaption>
 </figure>
-
-Figure 11. Olecranon tension-band wiring (two K-wires plus a
-figure-of-eight wire), converting the triceps pull into compression
-across the fracture. Source: Mehlauge, via Wikimedia Commons, Public
-Domain.
 
 # Part VII - Intramedullary Nailing
 
@@ -510,10 +459,6 @@ comminuted and more proximal or distal fractures.[72]
 <img src="/images/topics/operative-treatment-osteosynthesis/rId137.jpg" alt="Figure 12. A proximal femoral (cephalomedullary) nail, with cephalic head screws proximally and an interlocking screw distally. Source: Bullenwächter, via Wikimedia Commons, CC BY 3.0." />
 <figcaption><p><strong>Figure 12. A proximal femoral (cephalomedullary) nail, with cephalic head screws proximally and an interlocking screw distally. Source: Bullenwächter, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. A proximal femoral (cephalomedullary) nail, with cephalic
-head screws proximally and an interlocking screw distally. Source:
-Bullenwächter, via Wikimedia Commons, CC BY 3.0.
 
 ## Reaming: biology and the price of it
 
@@ -568,10 +513,6 @@ larger is highly effective, especially in the tibia.[85]
 <figcaption><p><strong>Figure 13. A femoral shaft fracture fixed with an antegrade intramedullary nail and proximal and distal interlocking screws. Source: Fry72 / Karel Frydrýšek, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. A femoral shaft fracture fixed with an antegrade
-intramedullary nail and proximal and distal interlocking screws. Source:
-Fry72 / Karel Frydrýšek, via Wikimedia Commons, CC BY-SA 4.0.
-
 # Part VIII - External Fixation
 
 The external fixator stabilises a fracture from outside the limb through
@@ -590,10 +531,6 @@ joining pin to rod and rod to rod.[88]
 <img src="/images/topics/operative-treatment-osteosynthesis/rId162.jpg" alt="Figure 14. A tibia in a monolateral (uniplanar) external fixator: Schanz half-pins above and below the fracture connected to a single longitudinal bar. Source: Redhead.dk, via Wikimedia Commons, CC BY 3.0." />
 <figcaption><p><strong>Figure 14. A tibia in a monolateral (uniplanar) external fixator: Schanz half-pins above and below the fracture connected to a single longitudinal bar. Source: Redhead.dk, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. A tibia in a monolateral (uniplanar) external fixator: Schanz
-half-pins above and below the fracture connected to a single
-longitudinal bar. Source: Redhead.dk, via Wikimedia Commons, CC BY 3.0.
 
 ## Frame stiffness
 
@@ -654,12 +591,6 @@ strain exceeds tissue tolerance and no bone forms.[95]
 <figcaption><p><strong>Figure 15. A tibia in an Ilizarov circular (ring) fixator: rings connected by threaded rods and stabilised by tensioned transfixion wires, the construct that gives stable fixation even in osteopenic bone and enables distraction osteogenesis. Source: Viapastrengo, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 15. A tibia in an Ilizarov circular (ring) fixator: rings
-connected by threaded rods and stabilised by tensioned transfixion
-wires, the construct that gives stable fixation even in osteopenic bone
-and enables distraction osteogenesis. Source: Viapastrengo, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 # Part IX - Biomechanics of Fixation: A Summary
 
 Two ideas tie the implants together. The first is **load-sharing versus
@@ -681,11 +612,6 @@ against **more than 2.5 million cycles** when fully tightened.[99]
 <img src="/images/topics/operative-treatment-osteosynthesis/rId182.jpg" alt="Figure 16. A proximal tibial (plateau) fracture fixed with a long lateral buttress/locking plate and screws; once the fracture is reduced the bone shares the load with the implant. Source: Nizil Shah, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 16. A proximal tibial (plateau) fracture fixed with a long lateral buttress/locking plate and screws; once the fracture is reduced the bone shares the load with the implant. Source: Nizil Shah, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 16. A proximal tibial (plateau) fracture fixed with a long
-lateral buttress/locking plate and screws; once the fracture is reduced
-the bone shares the load with the implant. Source: Nizil Shah, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 The second is **stiffness**, which depends on both material and
 geometry. Implant stiffness scales with the **elastic modulus**

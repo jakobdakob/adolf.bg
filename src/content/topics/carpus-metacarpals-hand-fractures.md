@@ -75,19 +75,10 @@ dislocation.[6]
 <figcaption><p><strong>Figure 1. The skeleton of the hand: the carpus, the metacarpals, and the phalanges. Diagram by Mariana Ruiz Villarreal (LadyofHats), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The skeleton of the hand: the carpus, the metacarpals, and the
-phalanges. Diagram by Mariana Ruiz Villarreal (LadyofHats), public
-domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId30.jpg" alt="Figure 2. The bones of the wrist named (dorsal view): the proximal row (scaphoid, lunate, triquetrum) and the distal row (trapezium, trapezoid, capitate, hamate). Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. The bones of the wrist named (dorsal view): the proximal row (scaphoid, lunate, triquetrum) and the distal row (trapezium, trapezoid, capitate, hamate). Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. The bones of the wrist named (dorsal view): the proximal row
-(scaphoid, lunate, triquetrum) and the distal row (trapezium, trapezoid,
-capitate, hamate). Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
 
 The **scaphoid is the mechanical link between the two rows**, lying
 obliquely at about 45° and flexing under load; it transmits a flexion
@@ -108,10 +99,6 @@ these arcs signals a dislocation or dissociation.[10]
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId37.jpg" alt="Figure 3. The scapholunate interosseous ligament between the scaphoid (S) and lunate (L) on the radius (R), the primary stabiliser of the scapholunate joint. Tischler et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. The scapholunate interosseous ligament between the scaphoid (S) and lunate (L) on the radius (R), the primary stabiliser of the scapholunate joint. Tischler et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. The scapholunate interosseous ligament between the scaphoid
-(S) and lunate (L) on the radius (R), the primary stabiliser of the
-scapholunate joint. Tischler et al., CC BY 4.0, via Wikimedia Commons.
 
 # Part II - Scaphoid Fractures
 
@@ -137,18 +124,10 @@ distal-pole and tubercle fractures heal readily.[13]
 <figcaption><p><strong>Figure 4. The retrograde blood supply of the scaphoid: the dorsal branch of the radial artery enters distally and supplies the proximal pole, which is therefore prone to avascular necrosis. Iiibalesiii, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. The retrograde blood supply of the scaphoid: the dorsal branch
-of the radial artery enters distally and supplies the proximal pole,
-which is therefore prone to avascular necrosis. Iiibalesiii, CC BY-SA
-4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId47.jpg" alt="Figure 5. A scaphoid waist fracture on the PA wrist radiograph (arrow). Gilo1969, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. A scaphoid waist fracture on the PA wrist radiograph (arrow). Gilo1969, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. A scaphoid waist fracture on the PA wrist radiograph (arrow).
-Gilo1969, CC BY-SA 3.0, via Wikimedia Commons.
 
 ## 2.2 Assessment and the occult fracture
 
@@ -201,9 +180,6 @@ dorsal approach because of their high nonunion risk.[22]
 <figcaption><p><strong>Figure 6. A scaphoid fracture fixed with a headless compression screw (intra-operative fluoroscopy). Mannan & Kent, Cureus 2026, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. A scaphoid fracture fixed with a headless compression screw
-(intra-operative fluoroscopy). Mannan & Kent, Cureus 2026, CC BY 4.0.
-
 ## 2.5 Complications: malunion, nonunion, SNAC, and AVN
 
 A displaced scaphoid heals in the **humpback deformity** (a flexed,
@@ -228,9 +204,6 @@ is treated with a vascularised graft.[26]
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId70.jpg" alt="Figure 7. Scaphoid nonunion with advanced collapse (SNAC) on the PA radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Scaphoid nonunion with advanced collapse (SNAC) on the PA radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Scaphoid nonunion with advanced collapse (SNAC) on the PA
-radiograph. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part III - Perilunate and Lunate Dislocations
 
@@ -269,18 +242,10 @@ arthritis in a high proportion.[32]
 <figcaption><p><strong>Figure 8. A trans-scaphoid perilunate fracture-dislocation, PA and lateral radiographs, the commonest greater-arc injury. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. A trans-scaphoid perilunate fracture-dislocation, PA and
-lateral radiographs, the commonest greater-arc injury. Hellerhoff, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId84.jpg" alt="Figure 9. Lunate dislocation on the lateral radiograph: the lunate is tipped volarly (the “spilled teacup”), the end stage of the Mayfield sequence. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Lunate dislocation on the lateral radiograph: the lunate is tipped volarly (the “spilled teacup”), the end stage of the Mayfield sequence. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Lunate dislocation on the lateral radiograph: the lunate is
-tipped volarly (the “spilled teacup”), the end stage of the Mayfield
-sequence. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part IV - Scapholunate and Lunotriquetral Dissociation
 
@@ -304,10 +269,6 @@ partial fusion or proximal row carpectomy.[35]
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId91.jpg" alt="Figure 10. Scapholunate dissociation: a widened scapholunate interval (the Terry-Thomas sign), annotated radiographs. Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Scapholunate dissociation: a widened scapholunate interval (the Terry-Thomas sign), annotated radiographs. Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Scapholunate dissociation: a widened scapholunate interval
-(the Terry-Thomas sign), annotated radiographs. Mikael Häggström, CC0,
-via Wikimedia Commons.
 
 ## 4.2 Lunotriquetral dissociation
 
@@ -354,9 +315,6 @@ reduction and fixation.[39]
 <figcaption><p><strong>Figure 11. Nonunion of the hook of the hamate on CT (axial, coronal, and sagittal panels). Mannan & Kent, Cureus 2026, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. Nonunion of the hook of the hamate on CT (axial, coronal, and
-sagittal panels). Mannan & Kent, Cureus 2026, CC BY 4.0.
-
 # Part VI - Metacarpal Fractures
 
 ## 6.1 The principles: rotation and the cascade
@@ -394,17 +352,10 @@ frequently associated with a carpometacarpal dislocation.[46]
 <figcaption><p><strong>Figure 12. A boxer’s fracture: the little-finger metacarpal neck with apex-dorsal angulation, three views. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. A boxer’s fracture: the little-finger metacarpal neck with
-apex-dorsal angulation, three views. Hellerhoff, CC BY-SA 4.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId116.jpg" alt="Figure 13. A little-finger metacarpal fracture after intramedullary K-wire fixation. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. A little-finger metacarpal fracture after intramedullary K-wire fixation. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. A little-finger metacarpal fracture after intramedullary
-K-wire fixation. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
 
 ## 6.3 Treatment
 
@@ -451,18 +402,10 @@ from the trapezium for severe comminution.[53]
 <figcaption><p><strong>Figure 14. A Bennett fracture: the intra-articular fracture-dislocation of the thumb metacarpal base (arrow). Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. A Bennett fracture: the intra-articular fracture-dislocation
-of the thumb metacarpal base (arrow). Hellerhoff, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId132.jpg" alt="Figure 15. A Rolando fracture: the comminuted Y/T-shaped intra-articular fracture of the thumb metacarpal base, radiographs and 3D CT. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. A Rolando fracture: the comminuted Y/T-shaped intra-articular fracture of the thumb metacarpal base, radiographs and 3D CT. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. A Rolando fracture: the comminuted Y/T-shaped intra-articular
-fracture of the thumb metacarpal base, radiographs and 3D CT.
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part VIII - Carpometacarpal (CMC) Dislocations
 
@@ -483,10 +426,6 @@ fragments; a missed dislocation leads to post-traumatic arthritis.[57]
 <img src="/images/topics/carpus-metacarpals-hand-fractures/rId140.jpg" alt="Figure 16. Dorsal carpometacarpal dislocation (3rd and 4th CMC joints), PA and lateral radiographs. Mogi et al., Trauma Case Reports 2026, CC BY 4.0." />
 <figcaption><p><strong>Figure 16. Dorsal carpometacarpal dislocation (3rd and 4th CMC joints), PA and lateral radiographs. Mogi et al., Trauma Case Reports 2026, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 16. Dorsal carpometacarpal dislocation (3rd and 4th CMC joints),
-PA and lateral radiographs. Mogi et al., Trauma Case Reports 2026, CC BY
-4.0.
 
 # Part IX - Principles of Hand-Fracture Fixation, and the Phalanges
 

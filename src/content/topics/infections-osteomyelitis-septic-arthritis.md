@@ -46,11 +46,6 @@ fluoroquinolones against gram-negative bacilli.**[3]
 <figcaption><p><strong>Figure 1. Scanning electron micrograph of a Staphylococcus epidermidis biofilm on a titanium implant surface: clustered cocci embedded in extracellular matrix, the structural basis of antibiotic tolerance. Source: Shahfa84, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. Scanning electron micrograph of a *Staphylococcus epidermidis*
-biofilm on a titanium implant surface: clustered cocci embedded in
-extracellular matrix, the structural basis of antibiotic tolerance.
-Source: Shahfa84, via Wikimedia Commons, CC BY-SA 4.0.
-
 # Part II - Osteomyelitis: Definitions and Terminology
 
 Osteomyelitis is “a progressive inflammatory process… involving the
@@ -80,20 +75,10 @@ essential:[6]
 <figcaption><p><strong>Figure 2. Gross-pathology specimen of bony sequestra: fragments of dead, detached cortical bone that behave as biofilm-colonised foreign bodies. Source: Otis Historical Archives, National Museum of Health & Medicine, via Wikimedia Commons, CC BY 2.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Gross-pathology specimen of bony sequestra: fragments of dead,
-detached cortical bone that behave as biofilm-colonised foreign bodies.
-Source: Otis Historical Archives, National Museum of Health & Medicine,
-via Wikimedia Commons, CC BY 2.0.
-
 <figure>
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId34.jpg" alt="Figure 3. Femoral radiograph in chronic osteomyelitis: a dense detached sequestrum within a thickened, sclerotic cortex (involucrum), with distal lytic destruction. From Desimpel, Posadzy & Vanhoenacker (2017), PMC6032807, CC BY 4.0." />
 <figcaption><p><strong>Figure 3. Femoral radiograph in chronic osteomyelitis: a dense detached sequestrum within a thickened, sclerotic cortex (involucrum), with distal lytic destruction. From Desimpel, Posadzy & Vanhoenacker (2017), PMC6032807, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 3. Femoral radiograph in chronic osteomyelitis: a dense detached
-sequestrum within a thickened, sclerotic cortex (involucrum), with
-distal lytic destruction. From Desimpel, Posadzy & Vanhoenacker (2017),
-PMC6032807, CC BY 4.0.
 
 # Part III - Classification of Osteomyelitis
 
@@ -130,10 +115,6 @@ classes** to give **12 stages**:[10]
 <figcaption><p><strong>Figure 4. Radiograph of a Brodie abscess: a well-defined metaphyseal lucency in the distal tibia, the plain-film correlate of subacute osteomyelitis. Source: Jto410, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 4. Radiograph of a Brodie abscess: a well-defined metaphyseal
-lucency in the distal tibia, the plain-film correlate of subacute
-osteomyelitis. Source: Jto410, via Wikimedia Commons, CC BY-SA 3.0.
-
 # Part IV - Pathogenesis and Microbiology
 
 Healthy bone resists infection; it takes trauma, a large inoculum or a
@@ -153,20 +134,10 @@ recurrence.[13]
 <figcaption><p><strong>Figure 5. Acute haematogenous osteomyelitis of the tibia in a child: multiple radiolucent abscesses and metaphyseal bony destruction, reflecting metaphyseal seeding. Source: sarindam7, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 5. Acute haematogenous osteomyelitis of the tibia in a child:
-multiple radiolucent abscesses and metaphyseal bony destruction,
-reflecting metaphyseal seeding. Source: sarindam7, via Wikimedia
-Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId51.jpg" alt="Figure 6. Histopathology of acute osteomyelitis (H\&E): a bony trabecula adjacent to a dense neutrophilic inflammatory infiltrate; cultures grew Staphylococcus aureus. Source: Mikael Häggström, M.D. (CC0 1.0, public domain)." />
 <figcaption><p><strong>Figure 6. Histopathology of acute osteomyelitis (H\&E): a bony trabecula adjacent to a dense neutrophilic inflammatory infiltrate; cultures grew Staphylococcus aureus. Source: Mikael Häggström, M.D. (CC0 1.0, public domain).</strong></p></figcaption>
 </figure>
-
-Figure 6. Histopathology of acute osteomyelitis (H\&E): a bony trabecula
-adjacent to a dense neutrophilic inflammatory infiltrate; cultures grew
-*Staphylococcus aureus*. Source: Mikael Häggström, M.D. (CC0 1.0, public
-domain).
 
 **Staphylococcus aureus (including MRSA) is the predominant cause of all
 types of osteomyelitis, isolated in 30-60%.**[14] Haematogenous
@@ -186,11 +157,6 @@ biofilm bacteria evade conventional culture.[17]
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId58.jpg" alt="Figure 7. Gram stain of Staphylococcus aureus: gram-positive cocci in grape-like clusters, the predominant cause of all forms of osteomyelitis. Source: Dr Graham Beards, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 7. Gram stain of Staphylococcus aureus: gram-positive cocci in grape-like clusters, the predominant cause of all forms of osteomyelitis. Source: Dr Graham Beards, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 7. Gram stain of *Staphylococcus aureus*: gram-positive cocci in
-grape-like clusters, the predominant cause of all forms of
-osteomyelitis. Source: Dr Graham Beards, via Wikimedia Commons, CC BY-SA
-4.0.
 
 # Part V - Diagnosis and Treatment of Osteomyelitis
 
@@ -216,28 +182,15 @@ scanning for difficult cases.[20] In the diabetic foot the bedside
 <figcaption><p><strong>Figure 8. Coronal STIR MRI of a Brodie abscess in the distal tibia: an intraosseous focus surrounded by high-signal marrow oedema. MRI is the most sensitive test, and a normal study virtually excludes osteomyelitis. Source: Jto410, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 8. Coronal STIR MRI of a Brodie abscess in the distal tibia: an
-intraosseous focus surrounded by high-signal marrow oedema. MRI is the
-most sensitive test, and a normal study virtually excludes
-osteomyelitis. Source: Jto410, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId69.jpg" alt="Figure 9. Diabetic-foot osteomyelitis: osteolytic destruction of the phalanges with surrounding soft-tissue swelling. From Ahmed et al. (2025), PMC12108555, CC BY 4.0." />
 <figcaption><p><strong>Figure 9. Diabetic-foot osteomyelitis: osteolytic destruction of the phalanges with surrounding soft-tissue swelling. From Ahmed et al. (2025), PMC12108555, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 9. Diabetic-foot osteomyelitis: osteolytic destruction of the
-phalanges with surrounding soft-tissue swelling. From Ahmed et
-al. (2025), PMC12108555, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId72.jpg" alt="Figure 10. Tibial radiographs showing periosteal new-bone (involucrum) formation in chronic osteomyelitis. From Desimpel, Posadzy & Vanhoenacker (2017), PMC6032807, CC BY 4.0." />
 <figcaption><p><strong>Figure 10. Tibial radiographs showing periosteal new-bone (involucrum) formation in chronic osteomyelitis. From Desimpel, Posadzy & Vanhoenacker (2017), PMC6032807, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. Tibial radiographs showing periosteal new-bone (involucrum)
-formation in chronic osteomyelitis. From Desimpel, Posadzy &
-Vanhoenacker (2017), PMC6032807, CC BY 4.0.
 
 ## Treatment
 
@@ -270,11 +223,6 @@ underlying reason… is not eliminated.”[22] The pillars are:[23]
 <figcaption><p><strong>Figure 11. Strings of antibiotic-loaded PMMA beads placed in the surgical field for local antibiotic delivery and dead-space management after debridement. From van Vugt, Arts & Geurts (2019), PMC6671866, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. Strings of antibiotic-loaded PMMA beads placed in the
-surgical field for local antibiotic delivery and dead-space management
-after debridement. From van Vugt, Arts & Geurts (2019), PMC6671866, CC
-BY 4.0.
-
 The cardinal complications are recurrence (5-15%, decades later) and the
 **Marjolin ulcer**, a squamous-cell carcinoma arising in a chronic sinus
 after a 27-30 year latency.[26]
@@ -283,10 +231,6 @@ after a 27-30 year latency.[26]
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId84.jpg" alt="Figure 12. Chronic tibial osteomyelitis with two cutaneous draining sinus-tract openings: a discharging sinus is a strong clinical marker of chronicity. From Ishihara et al. (2025), PMC12459229, CC BY 4.0." />
 <figcaption><p><strong>Figure 12. Chronic tibial osteomyelitis with two cutaneous draining sinus-tract openings: a discharging sinus is a strong clinical marker of chronicity. From Ishihara et al. (2025), PMC12459229, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. Chronic tibial osteomyelitis with two cutaneous draining
-sinus-tract openings: a discharging sinus is a strong clinical marker of
-chronicity. From Ishihara et al. (2025), PMC12459229, CC BY 4.0.
 
 # Part VI - Septic Arthritis
 
@@ -325,18 +269,10 @@ stiffness) occur in up to 30%.[34]
 <figcaption><p><strong>Figure 13. Turbid, purulent synovial fluid aspirated from a septic knee: an effusion this cloudy is infected until proven otherwise. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. Turbid, purulent synovial fluid aspirated from a septic knee:
-an effusion this cloudy is infected until proven otherwise. Source:
-James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId100.jpg" alt="Figure 14. Knee arthrocentesis: aspiration of joint fluid is the key investigation in suspected septic arthritis. Source: PainDoctorUSA, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 14. Knee arthrocentesis: aspiration of joint fluid is the key investigation in suspected septic arthritis. Source: PainDoctorUSA, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. Knee arthrocentesis: aspiration of joint fluid is the key
-investigation in suspected septic arthritis. Source: PainDoctorUSA, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 # Part VII - Implant-Related Infection: FRI and PJI
 
@@ -395,11 +331,6 @@ about **three months**; rifampicin must never be used as monotherapy
 <img src="/images/topics/infections-osteomyelitis-septic-arthritis/rId114.jpg" alt="Figure 15. AP pelvis radiograph showing an antibiotic-loaded cement hip spacer placed for periprosthetic joint infection during a staged (two-stage) exchange. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 15. AP pelvis radiograph showing an antibiotic-loaded cement hip spacer placed for periprosthetic joint infection during a staged (two-stage) exchange. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 15. AP pelvis radiograph showing an antibiotic-loaded cement hip
-spacer placed for periprosthetic joint infection during a staged
-(two-stage) exchange. Source: Hellerhoff, via Wikimedia Commons, CC
-BY-SA 4.0.
 
 # Part VIII - Anaerobic Infection
 

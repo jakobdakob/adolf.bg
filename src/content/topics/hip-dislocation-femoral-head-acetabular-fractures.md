@@ -66,10 +66,6 @@ must be examined before and after any reduction.[5]
 <figcaption><p><strong>Figure 1. The hip joint opened, showing the femoral head, fovea, ligamentum teres, and capsule. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The hip joint opened, showing the femoral head, fovea,
-ligamentum teres, and capsule. Henry Vandyke Carter, Gray’s Anatomy
-(1918), public domain, via Wikimedia Commons.
-
 The **acetabulum** is understood through the **two-column (inverted-Y)
 concept of Judet and Letournel**. The articular socket is cradled
 between the limbs of an inverted Y: the **anterior column (iliopubic)**,
@@ -91,11 +87,6 @@ cm from their insertion.[7]
 <figcaption><p><strong>Figure 2. The innominate (hip) bone, showing the acetabulum formed by the ilium, ischium, and pubis, the basis of the two-column concept. Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. The innominate (hip) bone, showing the acetabulum formed by
-the ilium, ischium, and pubis, the basis of the two-column concept.
-Henry Vandyke Carter, Gray’s Anatomy (1918), public domain, via
-Wikimedia Commons.
-
 # Part II - Traumatic Hip Dislocation
 
 ## 2.1 Mechanism and direction
@@ -116,10 +107,6 @@ dislocation itself.[10]
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId38.jpg" alt="Figure 3. A posterior dislocation of the right hip on AP pelvis radiograph: the femoral head lies superolateral to the acetabulum. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. A posterior dislocation of the right hip on AP pelvis radiograph: the femoral head lies superolateral to the acetabulum. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. A posterior dislocation of the right hip on AP pelvis
-radiograph: the femoral head lies superolateral to the acetabulum. James
-Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons.
 
 ## 2.2 Classification
 
@@ -152,9 +139,6 @@ centred in the acetabular “bullseye.”[16]
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId49.jpg" alt="Figure 4. A traumatic posterior hip dislocation on CT (axial, sagittal, and 3D reconstruction). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. A traumatic posterior hip dislocation on CT (axial, sagittal, and 3D reconstruction). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. A traumatic posterior hip dislocation on CT (axial, sagittal,
-and 3D reconstruction). Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## 2.4 Treatment: an emergency
 
@@ -195,10 +179,6 @@ follows an unfixed posterior-wall fracture) complete the list.[21]
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId59.jpg" alt="Figure 5. Osteonecrosis of the femoral head on MRI (plain image and colour-segmented overlay), the feared late complication of hip dislocation. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Osteonecrosis of the femoral head on MRI (plain image and colour-segmented overlay), the feared late complication of hip dislocation. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Osteonecrosis of the femoral head on MRI (plain image and
-colour-segmented overlay), the feared late complication of hip
-dislocation. Jmarchn, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part III - Femoral Head Fractures
 
@@ -251,26 +231,15 @@ and the size of posterior-wall fragments.[30]
 <figcaption><p><strong>Figure 6. A transverse acetabular fracture on an oblique (Judet) radiograph, separating the iliac from the ischiopubic fragment. Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. A transverse acetabular fracture on an oblique (Judet)
-radiograph, separating the iliac from the ischiopubic fragment. Dr. C.
-J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId77.jpg" alt="Figure 7. An acetabular fracture on axial CT. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. An acetabular fracture on axial CT. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. An acetabular fracture on axial CT. James Heilman, MD, CC
-BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId80.jpg" alt="Figure 8. A central acetabular fracture-dislocation on CT (coronal reformat and 3D reconstruction): the femoral head is driven medially through the acetabulum. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. A central acetabular fracture-dislocation on CT (coronal reformat and 3D reconstruction): the femoral head is driven medially through the acetabulum. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. A central acetabular fracture-dislocation on CT (coronal
-reformat and 3D reconstruction): the femoral head is driven medially
-through the acetabulum. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.
 
 The **weight-bearing dome** is the region whose involvement most
 determines treatment, assessed by the **roof-arc angles** (Matta): the
@@ -305,25 +274,15 @@ low-demand patient.[35]
 <figcaption><p><strong>Figure 9. A both-column acetabular fracture with dissociation of the weight-bearing dome on AP radiograph. Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. A both-column acetabular fracture with dissociation of the
-weight-bearing dome on AP radiograph. Dr. C. J. Thakkar, CC BY-SA 4.0,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId92.jpg" alt="Figure 10. A posterior wall acetabular fracture on 3D CT reconstruction. Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. A posterior wall acetabular fracture on 3D CT reconstruction. Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. A posterior wall acetabular fracture on 3D CT reconstruction.
-Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId95.jpg" alt="Figure 11. A subtle posterior acetabular wall fracture (radiograph with arrows; CT inset). Jarraya et al., CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. A subtle posterior acetabular wall fracture (radiograph with arrows; CT inset). Jarraya et al., CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. A subtle posterior acetabular wall fracture (radiograph with
-arrows; CT inset). Jarraya et al., CC BY 3.0, via Wikimedia Commons.
 
 ## 4.3 Treatment
 
@@ -367,27 +326,15 @@ less well than routine arthroplasty for arthritis.[41]
 <figcaption><p><strong>Figure 12. An acetabular fracture after open reduction and internal fixation with a reconstruction plate and screws (postoperative radiograph). Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. An acetabular fracture after open reduction and internal
-fixation with a reconstruction plate and screws (postoperative
-radiograph). Dr. C. J. Thakkar, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId108.jpg" alt="Figure 13. A 3D CT reconstruction of an acetabular fracture with protrusio of the femoral head. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. A 3D CT reconstruction of an acetabular fracture with protrusio of the femoral head. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. A 3D CT reconstruction of an acetabular fracture with
-protrusio of the femoral head. Hellerhoff, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/hip-dislocation-femoral-head-acetabular-fractures/rId111.jpg" alt="Figure 14. A dislocated total hip arthroplasty, an alternative to fixation in the elderly acetabular fracture. Bill Rhodes, CC BY 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. A dislocated total hip arthroplasty, an alternative to fixation in the elderly acetabular fracture. Bill Rhodes, CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. A dislocated total hip arthroplasty, an alternative to
-fixation in the elderly acetabular fracture. Bill Rhodes, CC BY 2.0, via
-Wikimedia Commons.
 
 ## 4.4 Complications
 

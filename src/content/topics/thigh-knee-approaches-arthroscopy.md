@@ -76,59 +76,30 @@ keeping clear of them.[2]
 <figcaption><p><strong>Figure 1. Normal anteroposterior radiograph of the knee, showing the femoral condyles, the tibial plateau and intercondylar eminence, and the proximal fibula. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Normal anteroposterior radiograph of the knee, showing the
-femoral condyles, the tibial plateau and intercondylar eminence, and the
-proximal fibula. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId25.jpg" alt="Figure 2. Sagittal section through the knee joint: the patella, suprapatellar bursa, infrapatellar fat pad, ligamentum patellae and the relations of femur, tibia and meniscus. Gray’s Anatomy (1918), Plate 350, Henry Vandyke Carter, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Sagittal section through the knee joint: the patella, suprapatellar bursa, infrapatellar fat pad, ligamentum patellae and the relations of femur, tibia and meniscus. Gray’s Anatomy (1918), Plate 350, Henry Vandyke Carter, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Sagittal section through the knee joint: the patella,
-suprapatellar bursa, infrapatellar fat pad, ligamentum patellae and the
-relations of femur, tibia and meniscus. Gray’s Anatomy (1918), Plate
-350, Henry Vandyke Carter, public domain, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId28.jpg" alt="Figure 3. Distal end of the femur, inferior view: the patellar surface, the medial and lateral condyles and epicondyles, and the intercondylar fossa. Gray’s Anatomy (1918), Plate 246, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Distal end of the femur, inferior view: the patellar surface, the medial and lateral condyles and epicondyles, and the intercondylar fossa. Gray’s Anatomy (1918), Plate 246, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Distal end of the femur, inferior view: the patellar surface,
-the medial and lateral condyles and epicondyles, and the intercondylar
-fossa. Gray’s Anatomy (1918), Plate 246, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId31.jpg" alt="Figure 4. Right knee joint from the front, capsule removed: the anterior cruciate ligament, the medial and lateral menisci and the transverse ligament. Gray’s Anatomy (1918), Plate 347, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Right knee joint from the front, capsule removed: the anterior cruciate ligament, the medial and lateral menisci and the transverse ligament. Gray’s Anatomy (1918), Plate 347, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Right knee joint from the front, capsule removed: the anterior
-cruciate ligament, the medial and lateral menisci and the transverse
-ligament. Gray’s Anatomy (1918), Plate 347, public domain, via Wikimedia
-Commons.
 
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId34.jpg" alt="Figure 5. Right knee joint from behind, capsule removed: the anterior and posterior cruciate ligaments, the menisci, the tibial and fibular collateral ligaments and the popliteus tendon. Gray’s Anatomy (1918), Plate 348, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Right knee joint from behind, capsule removed: the anterior and posterior cruciate ligaments, the menisci, the tibial and fibular collateral ligaments and the popliteus tendon. Gray’s Anatomy (1918), Plate 348, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Right knee joint from behind, capsule removed: the anterior
-and posterior cruciate ligaments, the menisci, the tibial and fibular
-collateral ligaments and the popliteus tendon. Gray’s Anatomy (1918),
-Plate 348, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId37.jpg" alt="Figure 6. Superior surface of the tibial plateau: the medial and lateral menisci with the tibial attachments of the anterior and posterior cruciate ligaments. Gray’s Anatomy (1918), Plate 349, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Superior surface of the tibial plateau: the medial and lateral menisci with the tibial attachments of the anterior and posterior cruciate ligaments. Gray’s Anatomy (1918), Plate 349, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Superior surface of the tibial plateau: the medial and lateral
-menisci with the tibial attachments of the anterior and posterior
-cruciate ligaments. Gray’s Anatomy (1918), Plate 349, public domain, via
-Wikimedia Commons.
 
 # Part I - Applied Surgical Anatomy of the Thigh
 
@@ -167,32 +138,15 @@ through which the femoral vessels pass into the popliteal fossa.[5]
 <figcaption><p><strong>Figure 7. Transverse section through the middle of the thigh: the anterior (quadriceps), medial (adductor) and posterior (hamstring) compartments separated by the intermuscular septa, with the femoral and deep femoral vessels, the saphenous nerve and the sciatic nerve. Gray’s Anatomy (1918), Plate 432, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Transverse section through the middle of the thigh: the
-anterior (quadriceps), medial (adductor) and posterior (hamstring)
-compartments separated by the intermuscular septa, with the femoral and
-deep femoral vessels, the saphenous nerve and the sciatic nerve. Gray’s
-Anatomy (1918), Plate 432, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId47.jpg" alt="Figure 8. Right femur, anterior view, with muscle attachments outlined: head and fovea, neck, greater trochanter, shaft, condyles and adductor tubercle. Gray’s Anatomy (1918), Plate 244, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Right femur, anterior view, with muscle attachments outlined: head and fovea, neck, greater trochanter, shaft, condyles and adductor tubercle. Gray’s Anatomy (1918), Plate 244, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Right femur, anterior view, with muscle attachments outlined:
-head and fovea, neck, greater trochanter, shaft, condyles and adductor
-tubercle. Gray’s Anatomy (1918), Plate 244, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId50.jpg" alt="Figure 9. Right femur, posterior view: the linea aspera with the attachments of vastus lateralis, vastus medialis and adductor magnus, the gluteal tuberosity, popliteal surface and intercondylar fossa. Gray’s Anatomy (1918), Plate 245, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Right femur, posterior view: the linea aspera with the attachments of vastus lateralis, vastus medialis and adductor magnus, the gluteal tuberosity, popliteal surface and intercondylar fossa. Gray’s Anatomy (1918), Plate 245, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Right femur, posterior view: the linea aspera with the
-attachments of vastus lateralis, vastus medialis and adductor magnus,
-the gluteal tuberosity, popliteal surface and intercondylar fossa.
-Gray’s Anatomy (1918), Plate 245, public domain, via Wikimedia
-Commons.
 
 ## The quadriceps and the anterior compartment
 
@@ -260,32 +214,15 @@ muscles.[10]
 <figcaption><p><strong>Figure 10. The femoral triangle: the femoral nerve, femoral artery and femoral vein bounded by the inguinal ligament, sartorius and adductor longus, with the great saphenous vein. Gray’s Anatomy (1918), Plate 549, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. The femoral triangle: the femoral nerve, femoral artery and
-femoral vein bounded by the inguinal ligament, sartorius and adductor
-longus, with the great saphenous vein. Gray’s Anatomy (1918), Plate 549,
-public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId65.jpg" alt="Figure 11. The femoral artery and profunda femoris descending the thigh, with the saphenous nerve accompanying the vessels in the adductor (subsartorial, Hunter’s) canal and the descending genicular branches at the knee. Gray’s Anatomy (1918), Plate 550, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. The femoral artery and profunda femoris descending the thigh, with the saphenous nerve accompanying the vessels in the adductor (subsartorial, Hunter’s) canal and the descending genicular branches at the knee. Gray’s Anatomy (1918), Plate 550, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. The femoral artery and profunda femoris descending the thigh,
-with the saphenous nerve accompanying the vessels in the adductor
-(subsartorial, Hunter’s) canal and the descending genicular branches at
-the knee. Gray’s Anatomy (1918), Plate 550, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId68.jpg" alt="Figure 12. Arteries of the gluteal region and back of the thigh: the profunda femoris with its first, second and third perforating branches, the medial femoral circumflex artery, and the sciatic nerve (shown in yellow) descending the posterior compartment. Gray’s Anatomy (1918), Plate 544, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Arteries of the gluteal region and back of the thigh: the profunda femoris with its first, second and third perforating branches, the medial femoral circumflex artery, and the sciatic nerve (shown in yellow) descending the posterior compartment. Gray’s Anatomy (1918), Plate 544, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Arteries of the gluteal region and back of the thigh: the
-profunda femoris with its first, second and third perforating branches,
-the medial femoral circumflex artery, and the sciatic nerve (shown in
-yellow) descending the posterior compartment. Gray’s Anatomy (1918),
-Plate 544, public domain, via Wikimedia Commons.
 
 # Part II - Surgical Approaches to the Femur
 
@@ -357,20 +294,10 @@ periarticular fractures where a plate is needed.[15]
 <figcaption><p><strong>Figure 13. Muscles of the front of the thigh: sartorius, tensor fasciae latae, rectus femoris, vastus lateralis and vastus medialis converging on the quadriceps tendon, patella and ligamentum patellae. Gray’s Anatomy (1918), Plate 430, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Muscles of the front of the thigh: sartorius, tensor fasciae
-latae, rectus femoris, vastus lateralis and vastus medialis converging
-on the quadriceps tendon, patella and ligamentum patellae. Gray’s
-Anatomy (1918), Plate 430, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId85.jpg" alt="Figure 14. Muscles of the back of the thigh: biceps femoris (long and short heads), semitendinosus and semimembranosus, the hamstring tendons converging on the popliteal fossa. Gray’s Anatomy (1918), Plate 434, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Muscles of the back of the thigh: biceps femoris (long and short heads), semitendinosus and semimembranosus, the hamstring tendons converging on the popliteal fossa. Gray’s Anatomy (1918), Plate 434, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Muscles of the back of the thigh: biceps femoris (long and
-short heads), semitendinosus and semimembranosus, the hamstring tendons
-converging on the popliteal fossa. Gray’s Anatomy (1918), Plate 434,
-public domain, via Wikimedia Commons.
 
 # Part III - Principles of Knee Arthroscopy
 
@@ -449,39 +376,20 @@ internal rotation (the figure-of-eight) opens the lateral side**.[20]
 <figcaption><p><strong>Figure 15. The front of a flexed knee showing the standard anterolateral and anteromedial arthroscopy portal sites flanking the patellar tendon, with a superior (suprapatellar) portal. Tim1965, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. The front of a flexed knee showing the standard anterolateral
-and anteromedial arthroscopy portal sites flanking the patellar tendon,
-with a superior (suprapatellar) portal. Tim1965, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId101.jpg" alt="Figure 16. Knee arthroscopy in progress: the arthroscope and instruments inserted through the anterior portals, with the intra-articular image displayed on the tower monitor. Ligamentaxis, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Knee arthroscopy in progress: the arthroscope and instruments inserted through the anterior portals, with the intra-articular image displayed on the tower monitor. Ligamentaxis, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Knee arthroscopy in progress: the arthroscope and instruments
-inserted through the anterior portals, with the intra-articular image
-displayed on the tower monitor. Ligamentaxis, CC BY-SA 4.0, via
-Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId104.jpg" alt="Figure 17. Arthroscopic intra-articular view of a normal medial meniscus seated between the femoral condyle and the tibial plateau. Arthroscopist, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Arthroscopic intra-articular view of a normal medial meniscus seated between the femoral condyle and the tibial plateau. Arthroscopist, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 17. Arthroscopic intra-articular view of a normal medial meniscus
-seated between the femoral condyle and the tibial plateau.
-Arthroscopist, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId107.jpg" alt="Figure 18. Annotated arthroscopic view inside the knee: the meniscus (1), the femoral condyle articular cartilage (2) and the arthroscopic probe (3) against damaged tibial cartilage. Arthroscopist / S. Fruitsmaak, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 18. Annotated arthroscopic view inside the knee: the meniscus (1), the femoral condyle articular cartilage (2) and the arthroscopic probe (3) against damaged tibial cartilage. Arthroscopist / S. Fruitsmaak, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 18. Annotated arthroscopic view inside the knee: the meniscus
-(1), the femoral condyle articular cartilage (2) and the arthroscopic
-probe (3) against damaged tibial cartilage. Arthroscopist / S.
-Fruitsmaak, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part IV - The Medial Side of the Knee
 
@@ -515,11 +423,6 @@ neuroma, not repaired, because the resulting numbness is trivial.[22]
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId114.jpg" alt="Figure 19. Radiograph of a total knee replacement with limb-alignment measurement: standing full-length view with zoomed anteroposterior and lateral views of the femoral and tibial components. Inui et al. (2013), CC BY 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 19. Radiograph of a total knee replacement with limb-alignment measurement: standing full-length view with zoomed anteroposterior and lateral views of the femoral and tibial components. Inui et al. (2013), CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 19. Radiograph of a total knee replacement with limb-alignment
-measurement: standing full-length view with zoomed anteroposterior and
-lateral views of the femoral and tibial components. Inui et al. (2013),
-CC BY 2.0, via Wikimedia Commons.
 
 ## The approach for medial meniscectomy (the anteromedial approach)
 
@@ -601,31 +504,15 @@ sometimes unmasked only when the tourniquet is released.[28]
 <figcaption><p><strong>Figure 20. Cadaveric dissection of the medial aspect of the knee: the pes anserinus formed by sartorius, gracilis and semitendinosus, with the popliteal vessels behind. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 20. Cadaveric dissection of the medial aspect of the knee: the
-pes anserinus formed by sartorius, gracilis and semitendinosus, with the
-popliteal vessels behind. Anatomist90, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId129.jpg" alt="Figure 21. Attachments on the upper tibia and fibula: the pes anserinus footprint on the medial tibia, the ligamentum patellae, and the fibular collateral ligament and biceps on the fibular head. Cunningham’s Text-book of Anatomy (1914), Fig. 248, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 21. Attachments on the upper tibia and fibula: the pes anserinus footprint on the medial tibia, the ligamentum patellae, and the fibular collateral ligament and biceps on the fibular head. Cunningham’s Text-book of Anatomy (1914), Fig. 248, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 21. Attachments on the upper tibia and fibula: the pes anserinus
-footprint on the medial tibia, the ligamentum patellae, and the fibular
-collateral ligament and biceps on the fibular head. Cunningham’s
-Text-book of Anatomy (1914), Fig. 248, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId132.jpg" alt="Figure 22. Cutaneous nerves of the front of the knee and leg: the saphenous nerve and its infrapatellar (patellar) branch on the medial side, with the common, superficial and deep peroneal nerves laterally. Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 22. Cutaneous nerves of the front of the knee and leg: the saphenous nerve and its infrapatellar (patellar) branch on the medial side, with the common, superficial and deep peroneal nerves laterally. Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 22. Cutaneous nerves of the front of the knee and leg: the
-saphenous nerve and its infrapatellar (patellar) branch on the medial
-side, with the common, superficial and deep peroneal nerves laterally.
-Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia Commons.
 
 # Part V - The Lateral Side of the Knee
 
@@ -728,12 +615,6 @@ posteriorly with the capsule.[35]
 <figcaption><p><strong>Figure 23. Cadaveric dissection at the knee: the sciatic nerve dividing into the tibial and common peroneal (fibular) nerves, with biceps femoris marking the lateral boundary and the common peroneal nerve passing toward the fibular neck. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 23. Cadaveric dissection at the knee: the sciatic nerve dividing
-into the tibial and common peroneal (fibular) nerves, with biceps
-femoris marking the lateral boundary and the common peroneal nerve
-passing toward the fibular neck. Anatomist90, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 # Part VI - The Posterior Knee and the Popliteal Fossa
 
 ## The posterior approach
@@ -806,38 +687,20 @@ the one most commonly damaged in lateral meniscectomy.[40]
 <figcaption><p><strong>Figure 24. Dissection of the popliteal fossa: the muscular boundaries (semitendinosus and semimembranosus medially, biceps femoris laterally, the two heads of gastrocnemius inferiorly) and the popliteal artery, tibial nerve and common peroneal nerve. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 24. Dissection of the popliteal fossa: the muscular boundaries
-(semitendinosus and semimembranosus medially, biceps femoris laterally,
-the two heads of gastrocnemius inferiorly) and the popliteal artery,
-tibial nerve and common peroneal nerve. Anatomist90, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId163.jpg" alt="Figure 25. A second popliteal fossa dissection showing the tibial and fibular (common peroneal) nerves and the popliteal artery; the popliteal vein lies between the tibial nerve and the artery in the superficial-to-deep order. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 25. A second popliteal fossa dissection showing the tibial and fibular (common peroneal) nerves and the popliteal artery; the popliteal vein lies between the tibial nerve and the artery in the superficial-to-deep order. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 25. A second popliteal fossa dissection showing the tibial and
-fibular (common peroneal) nerves and the popliteal artery; the popliteal
-vein lies between the tibial nerve and the artery in the
-superficial-to-deep order. Anatomist90, CC BY-SA 3.0, via Wikimedia
-Commons.
 
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId166.jpg" alt="Figure 26. Magnetic resonance image of the knee demonstrating a meniscal tear. Ciernik M, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 26. Magnetic resonance image of the knee demonstrating a meniscal tear. Ciernik M, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 26. Magnetic resonance image of the knee demonstrating a meniscal
-tear. Ciernik M, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/thigh-knee-approaches-arthroscopy/rId169.jpg" alt="Figure 27. Coronal proton-density MRI of a grade-2 medial meniscal tear (arrow). Lefevre et al. (2016), CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 27. Coronal proton-density MRI of a grade-2 medial meniscal tear (arrow). Lefevre et al. (2016), CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 27. Coronal proton-density MRI of a grade-2 medial meniscal tear
-(arrow). Lefevre et al. (2016), CC BY 4.0, via Wikimedia Commons.
 
 # References
 1.  Scope and sequencing of this summary follow Hoppenfeld, *Surgical

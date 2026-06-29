@@ -94,31 +94,15 @@ with supinator and extensor indicis).[4]
 <figcaption><p><strong>Figure 1. Transverse section of the mid-forearm showing the volar (flexor) and dorsal (extensor) compartments separated by the radius, ulna and interosseous membrane, with the radial, ulnar, median and anterior interosseous neurovascular bundles. Gray’s Anatomy plate 417 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Transverse section of the mid-forearm showing the volar
-(flexor) and dorsal (extensor) compartments separated by the radius,
-ulna and interosseous membrane, with the radial, ulnar, median and
-anterior interosseous neurovascular bundles. Gray’s Anatomy plate 417
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId28.jpg" alt="Figure 2. Transverse section of the distal forearm at the pronator quadratus and distal radio-ulnar joint, showing the volar and dorsal compartments and the radial, ulnar and median neurovascular relations. Gray’s Anatomy plate 421 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Transverse section of the distal forearm at the pronator quadratus and distal radio-ulnar joint, showing the volar and dorsal compartments and the radial, ulnar and median neurovascular relations. Gray’s Anatomy plate 421 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Transverse section of the distal forearm at the pronator
-quadratus and distal radio-ulnar joint, showing the volar and dorsal
-compartments and the radial, ulnar and median neurovascular relations.
-Gray’s Anatomy plate 421 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId31.jpg" alt="Figure 3. Cadaveric cross-section of the proximal forearm: the flexor and extensor muscle groups around the radius and ulna, with the median, ulnar and radial nerves and the brachial artery. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Cadaveric cross-section of the proximal forearm: the flexor and extensor muscle groups around the radius and ulna, with the median, ulnar and radial nerves and the brachial artery. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Cadaveric cross-section of the proximal forearm: the flexor
-and extensor muscle groups around the radius and ulna, with the median,
-ulnar and radial nerves and the brachial artery. Anatomist90, CC BY-SA
-3.0, via Wikimedia Commons.
 
 ## The bones and the interosseous membrane
 
@@ -139,20 +123,10 @@ the fact that determines how the proximal radius is exposed.[5]
 <figcaption><p><strong>Figure 4. Bones of the left forearm, anterior aspect: radius and ulna with the radial head, neck and bicipital tuberosity, the subcutaneous border of the ulna, and the muscular attachments. Gray’s Anatomy plate 213 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Bones of the left forearm, anterior aspect: radius and ulna
-with the radial head, neck and bicipital tuberosity, the subcutaneous
-border of the ulna, and the muscular attachments. Gray’s Anatomy plate
-213 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId39.jpg" alt="Figure 5. Bones of the left forearm, posterior surface: the subcutaneous dorsal border of the ulna (the landmark for the direct ulnar approach), the interosseous crest, and the dorsal muscle attachments. Gray’s Anatomy plate 214 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Bones of the left forearm, posterior surface: the subcutaneous dorsal border of the ulna (the landmark for the direct ulnar approach), the interosseous crest, and the dorsal muscle attachments. Gray’s Anatomy plate 214 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Bones of the left forearm, posterior surface: the subcutaneous
-dorsal border of the ulna (the landmark for the direct ulnar approach),
-the interosseous crest, and the dorsal muscle attachments. Gray’s
-Anatomy plate 214 (public domain), via Wikimedia Commons.
 
 ## The median nerve and the anterior interosseous nerve
 
@@ -171,21 +145,10 @@ selectively palsied as a pure motor palsy with no sensory loss.[6]
 <figcaption><p><strong>Figure 6. Median nerve in the forearm giving off the anterior interosseous nerve, which descends with the anterior interosseous artery on the interosseous membrane between flexor digitorum profundus and flexor pollicis longus. Anatomist90, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Median nerve in the forearm giving off the anterior
-interosseous nerve, which descends with the anterior interosseous artery
-on the interosseous membrane between flexor digitorum profundus and
-flexor pollicis longus. Anatomist90, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId47.jpg" alt="Figure 7. Anterior forearm / cubital fossa dissection: the median nerve and brachial artery entering the forearm between the heads of pronator teres, with the superficial flexors and brachioradialis. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Anterior forearm / cubital fossa dissection: the median nerve and brachial artery entering the forearm between the heads of pronator teres, with the superficial flexors and brachioradialis. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Anterior forearm / cubital fossa dissection: the median nerve
-and brachial artery entering the forearm between the heads of pronator
-teres, with the superficial flexors and brachioradialis. Anatomist90, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 ## The ulnar nerve and artery; the radial artery
 
@@ -206,21 +169,10 @@ mobilise the muscle.[7]
 <figcaption><p><strong>Figure 8. Ulnar neurovascular bundle in the forearm: the ulnar nerve and ulnar artery running deep to flexor carpi ulnaris (the interval between FCU and FDP), with the radial artery shown radially. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Ulnar neurovascular bundle in the forearm: the ulnar nerve and
-ulnar artery running deep to flexor carpi ulnaris (the interval between
-FCU and FDP), with the radial artery shown radially. Anatomist90, CC
-BY-SA 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId55.jpg" alt="Figure 9. Arteries of the front of the forearm: the radial artery descending beneath the brachioradialis and the ulnar artery on the flexor digitorum profundus, with their recurrent and interosseous branches. Gray’s Anatomy plate 528 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Arteries of the front of the forearm: the radial artery descending beneath the brachioradialis and the ulnar artery on the flexor digitorum profundus, with their recurrent and interosseous branches. Gray’s Anatomy plate 528 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Arteries of the front of the forearm: the radial artery
-descending beneath the brachioradialis and the ulnar artery on the
-flexor digitorum profundus, with their recurrent and interosseous
-branches. Gray’s Anatomy plate 528 (public domain), via Wikimedia
-Commons.
 
 ## The radial nerve, the superficial radial nerve, and the PIN
 
@@ -242,21 +194,10 @@ radial shaft.[8]
 <figcaption><p><strong>Figure 10. The deep branch of the radial nerve (posterior interosseous nerve) passing through the supinator at the arcade of Frohse to reach the posterior compartment, the structure at risk in approaches to the proximal radius. Gray’s Anatomy plate 420 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. The deep branch of the radial nerve (posterior interosseous
-nerve) passing through the supinator at the arcade of Frohse to reach
-the posterior compartment, the structure at risk in approaches to the
-proximal radius. Gray’s Anatomy plate 420 (public domain), via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId63.jpg" alt="Figure 11. Course of the radial nerve and its deep branch continuing as the posterior interosseous nerve into the extensor compartment of the forearm. Gray’s Anatomy plate 818 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Course of the radial nerve and its deep branch continuing as the posterior interosseous nerve into the extensor compartment of the forearm. Gray’s Anatomy plate 818 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. Course of the radial nerve and its deep branch continuing as
-the posterior interosseous nerve into the extensor compartment of the
-forearm. Gray’s Anatomy plate 818 (public domain), via Wikimedia
-Commons.
 
 # Part II - Anterior (Henry) Approach to the Radius
 
@@ -275,28 +216,15 @@ the bicipital tuberosity, and treatment of compartment syndrome.[9]
 <figcaption><p><strong>Figure 12. Galeazzi fracture (radial shaft fracture with distal radio-ulnar joint disruption) before and after open reduction and internal fixation of the radius with a volar plate. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Galeazzi fracture (radial shaft fracture with distal
-radio-ulnar joint disruption) before and after open reduction and
-internal fixation of the radius with a volar plate. Hellerhoff, CC BY-SA
-4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId72.jpg" alt="Figure 13. Displaced radial shaft fracture of the forearm from direct trauma, AP and lateral views. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Displaced radial shaft fracture of the forearm from direct trauma, AP and lateral views. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Displaced radial shaft fracture of the forearm from direct
-trauma, AP and lateral views. Hellerhoff, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId75.jpg" alt="Figure 14. Both-bone (radius and ulna) diaphyseal forearm fracture with angulation, AP and lateral views. Thomas Zimmermann, CC BY-SA 3.0 DE, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Both-bone (radius and ulna) diaphyseal forearm fracture with angulation, AP and lateral views. Thomas Zimmermann, CC BY-SA 3.0 DE, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Both-bone (radius and ulna) diaphyseal forearm fracture with
-angulation, AP and lateral views. Thomas Zimmermann, CC BY-SA 3.0 DE,
-via Wikimedia Commons.
 
 ## Position, landmarks, and incision
 
@@ -375,21 +303,10 @@ lateral to the tendon protects it.[15]
 <figcaption><p><strong>Figure 15. Superficial volar (flexor) muscles of the forearm, with the brachioradialis (mobile wad) radially: the brachioradialis-flexor carpi radialis and brachioradialis-pronator teres intervals are the internervous plane of the Henry approach. Gray’s Anatomy plate 527 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Superficial volar (flexor) muscles of the forearm, with the
-brachioradialis (mobile wad) radially: the brachioradialis-flexor carpi
-radialis and brachioradialis-pronator teres intervals are the
-internervous plane of the Henry approach. Gray’s Anatomy plate 527
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId92.jpg" alt="Figure 16. Lateral view of the forearm showing the mobile wad (brachioradialis, extensor carpi radialis longus and brevis), which is mobilised and retracted to develop the Henry plane. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Lateral view of the forearm showing the mobile wad (brachioradialis, extensor carpi radialis longus and brevis), which is mobilised and retracted to develop the Henry plane. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Lateral view of the forearm showing the mobile wad
-(brachioradialis, extensor carpi radialis longus and brevis), which is
-mobilised and retracted to develop the Henry plane. Anatomist90, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 # Part III - Exposure of the Shaft of the Ulna
 
@@ -433,21 +350,10 @@ joint or onto the posterior distal humerus.[18]
 <figcaption><p><strong>Figure 17. Deep volar (flexor) muscles of the forearm: flexor digitorum profundus, flexor pollicis longus and pronator quadratus; the ulnar nerve runs on the flexor digitorum profundus deep to flexor carpi ulnaris. Gray’s Anatomy plate 415 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 17. Deep volar (flexor) muscles of the forearm: flexor digitorum
-profundus, flexor pollicis longus and pronator quadratus; the ulnar
-nerve runs on the flexor digitorum profundus deep to flexor carpi
-ulnaris. Gray’s Anatomy plate 415 (public domain), via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId103.jpg" alt="Figure 18. Deep flexor compartment, cadaveric dissection: flexor digitorum profundus, flexor pollicis longus and pronator quadratus, with the anterior interosseous neurovascular bundle on the interosseous membrane. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 18. Deep flexor compartment, cadaveric dissection: flexor digitorum profundus, flexor pollicis longus and pronator quadratus, with the anterior interosseous neurovascular bundle on the interosseous membrane. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 18. Deep flexor compartment, cadaveric dissection: flexor
-digitorum profundus, flexor pollicis longus and pronator quadratus, with
-the anterior interosseous neurovascular bundle on the interosseous
-membrane. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part IV - Posterior (Thompson) Approach to the Radius
 
@@ -527,31 +433,15 @@ irritation.[23]
 <figcaption><p><strong>Figure 19. Superficial muscles of the posterior (extensor) compartment: brachioradialis, the extensors carpi radialis longus and brevis, extensor digitorum, extensor carpi ulnaris and anconeus. Gray’s Anatomy plate 418 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 19. Superficial muscles of the posterior (extensor) compartment:
-brachioradialis, the extensors carpi radialis longus and brevis,
-extensor digitorum, extensor carpi ulnaris and anconeus. Gray’s Anatomy
-plate 418 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId118.jpg" alt="Figure 20. Deep muscles of the posterior compartment: the supinator proximally and the outcropping thumb extensors (abductor pollicis longus, extensor pollicis brevis and longus) and extensor indicis. Gray’s Anatomy plate 419 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 20. Deep muscles of the posterior compartment: the supinator proximally and the outcropping thumb extensors (abductor pollicis longus, extensor pollicis brevis and longus) and extensor indicis. Gray’s Anatomy plate 419 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 20. Deep muscles of the posterior compartment: the supinator
-proximally and the outcropping thumb extensors (abductor pollicis
-longus, extensor pollicis brevis and longus) and extensor indicis.
-Gray’s Anatomy plate 419 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId121.jpg" alt="Figure 21. Posterior (extensor) compartment of the forearm, cadaveric dissection: the superficial and deep extensors including the extensor carpi radialis longus/brevis, extensor digitorum, extensor carpi ulnaris, anconeus and the outcropping thumb muscles. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 21. Posterior (extensor) compartment of the forearm, cadaveric dissection: the superficial and deep extensors including the extensor carpi radialis longus/brevis, extensor digitorum, extensor carpi ulnaris, anconeus and the outcropping thumb muscles. Anatomist90, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 21. Posterior (extensor) compartment of the forearm, cadaveric
-dissection: the superficial and deep extensors including the extensor
-carpi radialis longus/brevis, extensor digitorum, extensor carpi
-ulnaris, anconeus and the outcropping thumb muscles. Anatomist90, CC
-BY-SA 3.0, via Wikimedia Commons.
 
 # Part V - Forearm Fasciotomy for Compartment Syndrome
 
@@ -597,18 +487,10 @@ delayed closure or skin grafting once swelling settles.[26]
 <figcaption><p><strong>Figure 22. Forearm fasciotomy for compartment syndrome, managed with a vessel-loop “shoelace” closure to allow gradual delayed skin approximation. TPompert, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 22. Forearm fasciotomy for compartment syndrome, managed with a
-vessel-loop “shoelace” closure to allow gradual delayed skin
-approximation. TPompert, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/forearm-approaches/rId132.jpg" alt="Figure 23. Open forearm fasciotomy wound (granulating) prior to split-skin grafting. Guyprocter, released under CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 23. Open forearm fasciotomy wound (granulating) prior to split-skin grafting. Guyprocter, released under CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 23. Open forearm fasciotomy wound (granulating) prior to
-split-skin grafting. Guyprocter, released under CC0, via Wikimedia
-Commons.
 
 # References
 1.  Hoppenfeld describes three approaches to the forearm bones, all

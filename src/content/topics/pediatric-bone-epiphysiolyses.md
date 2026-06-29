@@ -51,29 +51,15 @@ remodel.[2]
 <figcaption><p><strong>Figure 1. Regions of a long bone: the epiphysis, metaphysis and diaphysis, with the epiphyseal (growth) line, articular cartilage, periosteum and marrow cavity. OpenStax College, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Regions of a long bone: the epiphysis, metaphysis and
-diaphysis, with the epiphyseal (growth) line, articular cartilage,
-periosteum and marrow cavity. OpenStax College, CC BY 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId25.jpg" alt="Figure 2. Endochondral ossification of a long bone, showing the primary (diaphyseal) and secondary (epiphyseal) ossification centres and the chondrocyte zones of the intervening growth plate. Javaheri et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Endochondral ossification of a long bone, showing the primary (diaphyseal) and secondary (epiphyseal) ossification centres and the chondrocyte zones of the intervening growth plate. Javaheri et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Endochondral ossification of a long bone, showing the primary
-(diaphyseal) and secondary (epiphyseal) ossification centres and the
-chondrocyte zones of the intervening growth plate. Javaheri et al., CC
-BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId28.jpg" alt="Figure 3. The two ossification pathways: intramembranous (direct) versus endochondral (through a cartilage model). Ge et al., CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. The two ossification pathways: intramembranous (direct) versus endochondral (through a cartilage model). Ge et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. The two ossification pathways: intramembranous (direct) versus
-endochondral (through a cartilage model). Ge et al., CC BY 4.0, via
-Wikimedia Commons.
 
 # Part I - The Structure of the Growing Bone
 
@@ -116,21 +102,10 @@ and usually preserving growth.[4]
 <figcaption><p><strong>Figure 4. Zones of the growth plate (physis) from epiphysis to metaphysis: resting/reserve, proliferative, hypertrophic, calcified-cartilage and ossification zones, with vascular invasion at the metaphysis. Šromová, Sobola & Kaspar, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Zones of the growth plate (physis) from epiphysis to
-metaphysis: resting/reserve, proliferative, hypertrophic,
-calcified-cartilage and ossification zones, with vascular invasion at
-the metaphysis. Šromová, Sobola & Kaspar, CC BY 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId38.jpg" alt="Figure 5. Histology of the epiphyseal growth plate at the chondro-osseous junction: proliferative (pc) and hypertrophic (hc) chondrocyte columns meeting the primary ossification front (poc). Khan, Clifton, Lorenzo, Hansen & Drissi, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. Histology of the epiphyseal growth plate at the chondro-osseous junction: proliferative (pc) and hypertrophic (hc) chondrocyte columns meeting the primary ossification front (poc). Khan, Clifton, Lorenzo, Hansen & Drissi, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. Histology of the epiphyseal growth plate at the
-chondro-osseous junction: proliferative (pc) and hypertrophic (hc)
-chondrocyte columns meeting the primary ossification front (poc). Khan,
-Clifton, Lorenzo, Hansen & Drissi, CC BY 4.0, via Wikimedia Commons.
 
 ## The peripheral growth apparatus, the periosteum, and the blood supply
 
@@ -206,27 +181,15 @@ fracture.[9]
 <figcaption><p><strong>Figure 6. Greenstick fractures of the distal radius and ulna in a child (arrows): the cortex breaks on the convex (tension) side while the concave cortex remains intact. Hellerhoff, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Greenstick fractures of the distal radius and ulna in a child
-(arrows): the cortex breaks on the convex (tension) side while the
-concave cortex remains intact. Hellerhoff, CC BY-SA 3.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId53.jpg" alt="Figure 7. Torus (buckle) fracture of the distal radius in a 6-year-old: cortical buckling of the metaphysis in two planes, with the physis intact. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Torus (buckle) fracture of the distal radius in a 6-year-old: cortical buckling of the metaphysis in two planes, with the physis intact. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Torus (buckle) fracture of the distal radius in a 6-year-old:
-cortical buckling of the metaphysis in two planes, with the physis
-intact. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId56.jpg" alt="Figure 8. Diagram of a buckle (torus) fracture of the distal radius. RouDhi, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Diagram of a buckle (torus) fracture of the distal radius. RouDhi, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Diagram of a buckle (torus) fracture of the distal radius.
-RouDhi, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - Traumatic Epiphysiolyses: Physeal Injuries
 
@@ -270,10 +233,6 @@ vascular.[11]
 <figcaption><p><strong>Figure 9. The Salter-Harris classification of physeal fractures (Types I-V) with their approximate frequencies. Dr Frank Gaillard, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. The Salter-Harris classification of physeal fractures (Types
-I-V) with their approximate frequencies. Dr Frank Gaillard, CC BY-SA
-3.0, via Wikimedia Commons.
-
 ## Prognosis and management
 
 What threatens growth is damage to the **germinal/reserve zone and to
@@ -294,36 +253,20 @@ should be fine and removed early.[12]
 <figcaption><p><strong>Figure 10. Salter-Harris type II fracture of the distal radius: physeal separation with the triangular metaphyseal (Thurston-Holland) fragment, two planes. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Salter-Harris type II fracture of the distal radius: physeal
-separation with the triangular metaphyseal (Thurston-Holland) fragment,
-two planes. Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId71.jpg" alt="Figure 11. Salter-Harris type I physeal injury of the distal radius (lines), a separation straight through the physis with no bony fragment. Gilo1969, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Salter-Harris type I physeal injury of the distal radius (lines), a separation straight through the physis with no bony fragment. Gilo1969, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 11. Salter-Harris type I physeal injury of the distal radius
-(lines), a separation straight through the physis with no bony fragment.
-Gilo1969, CC BY 3.0, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId74.jpg" alt="Figure 12. Salter-Harris type III fracture of the great-toe proximal phalanx, the fracture line passing through the physis into the epiphysis and joint. Gilo1969, CC BY 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Salter-Harris type III fracture of the great-toe proximal phalanx, the fracture line passing through the physis into the epiphysis and joint. Gilo1969, CC BY 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 12. Salter-Harris type III fracture of the great-toe proximal
-phalanx, the fracture line passing through the physis into the epiphysis
-and joint. Gilo1969, CC BY 3.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId77.jpg" alt="Figure 13. Slipped capital femoral epiphysis, a Salter-Harris type I-equivalent slip through the proximal femoral physis. Dr. Jochen Lengerke, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Slipped capital femoral epiphysis, a Salter-Harris type I-equivalent slip through the proximal femoral physis. Dr. Jochen Lengerke, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 13. Slipped capital femoral epiphysis, a Salter-Harris type
-I-equivalent slip through the proximal femoral physis. Dr. Jochen
-Lengerke, CC0, via Wikimedia Commons.
 
 # Part V - Growth Arrest and the Physeal Bar
 
@@ -357,20 +300,10 @@ lost.[14]
 <figcaption><p><strong>Figure 14. Premature physeal closure (growth arrest) of the distal tibia after a physeal fracture: the injured physis closes while the contralateral physis stays open. Wang et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 14. Premature physeal closure (growth arrest) of the distal tibia
-after a physeal fracture: the injured physis closes while the
-contralateral physis stays open. Wang et al., CC BY 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId87.jpg" alt="Figure 15. A Park-Harris growth-arrest line (arrows) that has grown away parallel to the distal tibial physis between two and seven months, indicating continued symmetric growth. Kennedy et al., CC BY 2.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. A Park-Harris growth-arrest line (arrows) that has grown away parallel to the distal tibial physis between two and seven months, indicating continued symmetric growth. Kennedy et al., CC BY 2.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. A Park-Harris growth-arrest line (arrows) that has grown away
-parallel to the distal tibial physis between two and seven months,
-indicating continued symmetric growth. Kennedy et al., CC BY 2.0, via
-Wikimedia Commons.
 
 # Part VI - Healing and Remodelling in the Child
 
@@ -401,10 +334,6 @@ child.[16]
 <img src="/images/topics/pediatric-bone-epiphysiolyses/rId93.jpg" alt="Figure 16. A pediatric hand radiograph showing open physes throughout, the reserve of remaining growth that gives the child the capacity to remodel a malunion. Setzner1337, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. A pediatric hand radiograph showing open physes throughout, the reserve of remaining growth that gives the child the capacity to remodel a malunion. Setzner1337, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. A pediatric hand radiograph showing open physes throughout,
-the reserve of remaining growth that gives the child the capacity to
-remodel a malunion. Setzner1337, CC0, via Wikimedia Commons.
 
 # References
 1.  The framing of the immature skeleton as biologically distinct and

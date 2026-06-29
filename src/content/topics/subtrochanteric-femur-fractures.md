@@ -43,11 +43,6 @@ load-sharing implant, placed without leaving the fracture in varus.[2]
 <figcaption><p><strong>Figure 1. Proximal femur anatomy - head, neck, greater and lesser trochanters, and the subtrochanteric region (the proximal shaft distal to the lesser trochanter). From Sobotta’s Atlas of Human Anatomy (1909), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Proximal femur anatomy - head, neck, greater and lesser
-trochanters, and the subtrochanteric region (the proximal shaft distal
-to the lesser trochanter). From Sobotta’s *Atlas of Human Anatomy*
-(1909), public domain, via Wikimedia Commons.
-
 # Part I - Definition and Epidemiology
 
 The **subtrochanteric region runs from the lesser trochanter to about 5
@@ -80,12 +75,6 @@ fails.[8]
 <figcaption><p><strong>Figure 2. Femoral fracture patterns (neck, intertrochanteric with fragment displacement, and shaft), illustrating how the proximal fragment displaces relative to the shaft under opposing muscle pulls. Illustration by Laboratoires Servier (Servier Medical Art), CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Femoral fracture patterns (neck, intertrochanteric with
-fragment displacement, and shaft), illustrating how the proximal
-fragment displaces relative to the shaft under opposing muscle pulls.
-Illustration by Laboratoires Servier (Servier Medical Art), CC BY-SA
-3.0, via Wikimedia Commons.
-
 # Part III - Classification
 
 The clinically useful classification is the **Russell-Taylor** system,
@@ -103,11 +92,6 @@ the AO/OTA scheme the subtrochanteric fracture is coded within the
 <img src="/images/topics/subtrochanteric-femur-fractures/rId40.jpg" alt="Figure 3. Anatomical zones of proximal femoral fractures, with the subtrochanteric region marked as the ~5 cm zone of proximal shaft distal to the lesser trochanter. Diagram by Mikael Häggström, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Anatomical zones of proximal femoral fractures, with the subtrochanteric region marked as the ~5 cm zone of proximal shaft distal to the lesser trochanter. Diagram by Mikael Häggström, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Anatomical zones of proximal femoral fractures, with the
-subtrochanteric region marked as the ~5 cm zone of proximal shaft
-distal to the lesser trochanter. Diagram by Mikael Häggström, CC0, via
-Wikimedia Commons.
 
 A distinct entity is the **atypical femoral fracture**.[12] Associated
 with **long-term bisphosphonate use**, it has a characteristic
@@ -134,20 +118,10 @@ bilateral.[15]
 <figcaption><p><strong>Figure 4. Subtrochanteric femoral fracture on a close-up AP radiograph of the proximal femur, with the fracture line running from just below the trochanters into the proximal shaft. Image by THWZ, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Subtrochanteric femoral fracture on a close-up AP radiograph
-of the proximal femur, with the fracture line running from just below
-the trochanters into the proximal shaft. Image by THWZ, CC BY-SA 3.0,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/subtrochanteric-femur-fractures/rId51.jpg" alt="Figure 5. The same subtrochanteric fracture on an AP pelvis radiograph, showing displacement of the distal (shaft) fragment relative to the proximal trochanteric fragment. Image by THWZ, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. The same subtrochanteric fracture on an AP pelvis radiograph, showing displacement of the distal (shaft) fragment relative to the proximal trochanteric fragment. Image by THWZ, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. The same subtrochanteric fracture on an AP pelvis radiograph,
-showing displacement of the distal (shaft) fragment relative to the
-proximal trochanteric fragment. Image by THWZ, CC BY-SA 3.0, via
-Wikimedia Commons.
 
 # Part V - Treatment
 
@@ -179,11 +153,6 @@ malunion reconstruction.[20]
 <figcaption><p><strong>Figure 6. Dynamic condylar screw (DCS): a condylar lag screw fixed to an angled (≈95°) side plate - the fixed-angle plating alternative reserved for cases unsuitable for a nail or for nonunion/malunion reconstruction. Image by Netha Hussain, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Dynamic condylar screw (DCS): a condylar lag screw fixed to an
-angled (≈95°) side plate - the fixed-angle plating alternative reserved
-for cases unsuitable for a nail or for nonunion/malunion reconstruction.
-Image by Netha Hussain, CC BY-SA 3.0, via Wikimedia Commons.
-
 ## 5.2 The atypical (bisphosphonate-associated) fracture
 
 The **atypical femoral fracture** is managed by **cephalomedullary
@@ -199,14 +168,6 @@ teriparatide are used to encourage healing.[22]
 <img src="/images/topics/subtrochanteric-femur-fractures/rId66.jpg" alt="Figure 7. Atypical (bisphosphonate-associated) femoral fracture: a transverse proximal-shaft fracture with lateral cortical thickening (CT topogram and 3D rendering, left and centre) treated with an intramedullary nail (post-operative radiograph, right); note the indwelling nail in the previously fractured contralateral femur, illustrating the bilateral tendency of these fractures. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Atypical (bisphosphonate-associated) femoral fracture: a transverse proximal-shaft fracture with lateral cortical thickening (CT topogram and 3D rendering, left and centre) treated with an intramedullary nail (post-operative radiograph, right); note the indwelling nail in the previously fractured contralateral femur, illustrating the bilateral tendency of these fractures. Image by Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Atypical (bisphosphonate-associated) femoral fracture: a
-transverse proximal-shaft fracture with lateral cortical thickening (CT
-topogram and 3D rendering, left and centre) treated with an
-intramedullary nail (post-operative radiograph, right); note the
-indwelling nail in the previously fractured contralateral femur,
-illustrating the bilateral tendency of these fractures. Image by
-Hellerhoff, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part VI - Complications
 

@@ -77,10 +77,6 @@ lateral plates.[8]
 <figcaption><p><strong>Figure 1. The distal humerus: the medial and lateral columns bridged by the trochlea and capitellum (the coronoid fossa highlighted). Source: Doctor Jana, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. The distal humerus: the medial and lateral columns bridged by
-the trochlea and capitellum (the coronoid fossa highlighted). Source:
-Doctor Jana, via Wikimedia Commons, CC BY-SA 4.0.
-
 ## 1.2 Classification
 
 The working scheme is the **AO/OTA classification** (region 13): **type
@@ -102,10 +98,6 @@ the “double-arc sign”) added by McKee.[11]
 <img src="/images/topics/elbow-fractures-tension-band/rId36.jpg" alt="Figure 2. An intercondylar (bicolumnar, AO type-C) distal humerus fracture on radiograph and 3D CT. From Wang et al. (2026), Frontiers in Pediatrics, PMC13006493, CC BY 4.0." />
 <figcaption><p><strong>Figure 2. An intercondylar (bicolumnar, AO type-C) distal humerus fracture on radiograph and 3D CT. From Wang et al. (2026), Frontiers in Pediatrics, PMC13006493, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 2. An intercondylar (bicolumnar, AO type-C) distal humerus
-fracture on radiograph and 3D CT. From Wang et al. (2026), Frontiers in
-Pediatrics, PMC13006493, CC BY 4.0.
 
 ## 1.3 Treatment
 
@@ -139,10 +131,6 @@ unsettled.[16]
 <figcaption><p><strong>Figure 3. A distal humerus fracture before and after dual-plate (orthogonal) fixation with medial and posterolateral plates. From Lee et al. (2026), J Orthop Traumatol, PMC13287183, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. A distal humerus fracture before and after dual-plate
-(orthogonal) fixation with medial and posterolateral plates. From Lee et
-al. (2026), J Orthop Traumatol, PMC13287183, CC BY 4.0.
-
 For the **elderly patient with an osteoporotic, comminuted,
 unreconstructable articular fracture, total elbow arthroplasty (TEA)**
 with a linked semiconstrained implant is the alternative. A randomised
@@ -159,11 +147,6 @@ and supracondylar nonunion**.[19]
 <img src="/images/topics/elbow-fractures-tension-band/rId51.jpg" alt="Figure 4. A cemented linked (semiconstrained) total elbow arthroplasty, the alternative to fixation for the unreconstructable fracture in the low-demand elderly. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 4. A cemented linked (semiconstrained) total elbow arthroplasty, the alternative to fixation for the unreconstructable fracture in the low-demand elderly. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 4. A cemented linked (semiconstrained) total elbow arthroplasty,
-the alternative to fixation for the unreconstructable fracture in the
-low-demand elderly. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA
-4.0.
 
 # Part II - Olecranon Fractures
 
@@ -194,11 +177,6 @@ exact safe limit).[24]
 <img src="/images/topics/elbow-fractures-tension-band/rId61.jpg" alt="Figure 5. A displaced transverse olecranon fracture on the lateral radiograph: the triceps pulls the proximal fragment away, opening the articular surface. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 5. A displaced transverse olecranon fracture on the lateral radiograph: the triceps pulls the proximal fragment away, opening the articular surface. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 5. A displaced transverse olecranon fracture on the lateral
-radiograph: the triceps pulls the proximal fragment away, opening the
-articular surface. Source: James Heilman, MD, via Wikimedia Commons, CC
-BY-SA 4.0.
 
 # Part III - The Tension-Band (Weber / AO) Osteosynthesis
 
@@ -243,11 +221,6 @@ wire**.[27] The steps are:[28]
 <figcaption><p><strong>Figure 6. Tension-band (Weber) osteosynthesis: the displaced olecranon fracture (left) and the same elbow after fixation with two parallel K-wires and a figure-of-eight cerclage wire (right). Source: Michael Müller-Hillebrand, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. Tension-band (Weber) osteosynthesis: the displaced olecranon
-fracture (left) and the same elbow after fixation with two parallel
-K-wires and a figure-of-eight cerclage wire (right). Source: Michael
-Müller-Hillebrand, via Wikimedia Commons, CC BY 3.0.
-
 ## 3.3 Indications, contraindications, and complications
 
 The tension band is indicated for the **simple, transverse (or short
@@ -275,11 +248,6 @@ patterns.[33]
 <figcaption><p><strong>Figure 7. Plate-and-wire fixation of the olecranon, the construct chosen for comminuted, unstable, or fracture-dislocation patterns where a tension band cannot be used. Source: Mehlauge, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Plate-and-wire fixation of the olecranon, the construct chosen
-for comminuted, unstable, or fracture-dislocation patterns where a
-tension band cannot be used. Source: Mehlauge, public domain, via
-Wikimedia Commons.
-
 # Part IV - Radial Head and Neck Fractures
 
 ## 4.1 Function, mechanism, and classification
@@ -303,10 +271,6 @@ surface**.[36]
 <img src="/images/topics/elbow-fractures-tension-band/rId87.jpg" alt="Figure 8. A displaced, rotated radial-head fracture (Mason III), AP and lateral radiographs. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 8. A displaced, rotated radial-head fracture (Mason III), AP and lateral radiographs. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. A displaced, rotated radial-head fracture (Mason III), AP and
-lateral radiographs. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA
-4.0.
 
 A practical assessment point: when pain prevents examination,
 **aspirating the haemarthrosis and injecting local anaesthetic** allows
@@ -335,10 +299,6 @@ wear), so one downsizes rather than oversizes.[40]
 <img src="/images/topics/elbow-fractures-tension-band/rId95.jpg" alt="Figure 9. Metallic radial-head arthroplasty after a comminuted (unreconstructable) fracture. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 9. Metallic radial-head arthroplasty after a comminuted (unreconstructable) fracture. Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. Metallic radial-head arthroplasty after a comminuted
-(unreconstructable) fracture. Source: Hellerhoff, via Wikimedia Commons,
-CC BY-SA 4.0.
 
 The cardinal rule of radial head excision is negative and emphatic:
 **the radial head must never be excised in the unstable elbow**, that
@@ -372,10 +332,6 @@ pattern.[45]
 <figcaption><p><strong>Figure 10. Associated coronoid-process and radial-head fractures, the bony components of a terrible-triad pattern. From Clinical Case Reports (2025), PMC12578567, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. Associated coronoid-process and radial-head fractures, the
-bony components of a terrible-triad pattern. From Clinical Case Reports
-(2025), PMC12578567, CC BY 4.0.
-
 ## 5.2 Simple elbow dislocation
 
 The elbow is the **second most commonly dislocated major joint** (after
@@ -397,10 +353,6 @@ outcome.[48]
 <img src="/images/topics/elbow-fractures-tension-band/rId112.jpg" alt="Figure 11. Posterior dislocation of the elbow without fracture (a simple dislocation), lateral radiograph. Source: Flibust1er, via Wikimedia Commons, CC0 1.0." />
 <figcaption><p><strong>Figure 11. Posterior dislocation of the elbow without fracture (a simple dislocation), lateral radiograph. Source: Flibust1er, via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. Posterior dislocation of the elbow without fracture (a simple
-dislocation), lateral radiograph. Source: Flibust1er, via Wikimedia
-Commons, CC0 1.0.
 
 # Part VI - The Terrible Triad
 
@@ -428,10 +380,6 @@ addressed from deep to superficial through a lateral approach**:[51]
 <img src="/images/topics/elbow-fractures-tension-band/rId120.jpg" alt="Figure 12. Terrible triad on 3D CT: a radial-head fracture (circle) and a coronoid fracture (arrow) with the dislocation, here also with an olecranon fracture. From Cureus (2026), PMC12999191, CC BY 4.0." />
 <figcaption><p><strong>Figure 12. Terrible triad on 3D CT: a radial-head fracture (circle) and a coronoid fracture (arrow) with the dislocation, here also with an olecranon fracture. From Cureus (2026), PMC12999191, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. Terrible triad on 3D CT: a radial-head fracture (circle) and
-a coronoid fracture (arrow) with the dislocation, here also with an
-olecranon fracture. From Cureus (2026), PMC12999191, CC BY 4.0.
 
 This protocol, with early protected motion afterward, achieves good or
 excellent results in the majority (Pugh reported 78%).[52] A
@@ -468,18 +416,10 @@ is almost always the cause**.[57]
 <figcaption><p><strong>Figure 13. Monteggia fracture-dislocation: an ulnar fracture with dislocation of the radial head (AP and lateral). Source: Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. Monteggia fracture-dislocation: an ulnar fracture with
-dislocation of the radial head (AP and lateral). Source: Hellerhoff, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/elbow-fractures-tension-band/rId133.jpg" alt="Figure 14. The Bado classification of Monteggia fracture-dislocations (types I to IV), by the direction of radial head displacement. Source: Benoudina Samir, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 14. The Bado classification of Monteggia fracture-dislocations (types I to IV), by the direction of radial head displacement. Source: Benoudina Samir, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. The Bado classification of Monteggia fracture-dislocations
-(types I to IV), by the direction of radial head displacement. Source:
-Benoudina Samir, via Wikimedia Commons, CC BY-SA 4.0.
 
 # Part VIII - A Synthesis: How to Reason Around the Elbow
 

@@ -74,10 +74,6 @@ of anterior compression.
 <figcaption><p><strong>Figure 1. The vertebral column in lateral view, colour-coded into cervical, thoracic, lumbar, sacral and coccygeal regions with each level labelled. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. The vertebral column in lateral view, colour-coded into
-cervical, thoracic, lumbar, sacral and coccygeal regions with each level
-labelled. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
-
 The danger structures recur region by region. In the **cervical spine**
 the structures to protect are the recurrent laryngeal nerve, the
 vertebral artery, the sympathetic chain and the cord; in the **thoracic
@@ -109,52 +105,25 @@ lying roughly over the transverse processes.[7]
 <figcaption><p><strong>Figure 2. Transverse section of the neck at the sixth cervical vertebra: the sternocleidomastoid and carotid sheath (common carotid artery, internal jugular vein, vagus nerve) laterally, and the strap muscles, thyroid, trachea and oesophagus medially. This is the plane developed in the anterior cervical approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Transverse section of the neck at the sixth cervical vertebra:
-the sternocleidomastoid and carotid sheath (common carotid artery,
-internal jugular vein, vagus nerve) laterally, and the strap muscles,
-thyroid, trachea and oesophagus medially. This is the plane developed in
-the anterior cervical approach. Gray’s Anatomy (1918), public domain,
-via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId35.jpg" alt="Figure 3. A typical cervical vertebra seen from above, showing the body, the foramen transversarium (transmitting the vertebral artery), the transverse-process tubercles, the pedicle, lamina, articular processes and spinous process. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. A typical cervical vertebra seen from above, showing the body, the foramen transversarium (transmitting the vertebral artery), the transverse-process tubercles, the pedicle, lamina, articular processes and spinous process. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. A typical cervical vertebra seen from above, showing the body,
-the foramen transversarium (transmitting the vertebral artery), the
-transverse-process tubercles, the pedicle, lamina, articular processes
-and spinous process. Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
 
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId38.jpg" alt="Figure 4. The atlas (C1) from above, showing the anterior and posterior arches, the lateral masses, the foramina transversaria and the groove on the posterior arch for the vertebral artery. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. The atlas (C1) from above, showing the anterior and posterior arches, the lateral masses, the foramina transversaria and the groove on the posterior arch for the vertebral artery. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. The atlas (C1) from above, showing the anterior and posterior
-arches, the lateral masses, the foramina transversaria and the groove on
-the posterior arch for the vertebral artery. Gray’s Anatomy (1918),
-public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId41.jpg" alt="Figure 5. The axis (C2), showing the odontoid process (dens) with its facets for the alar and transverse ligaments. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. The axis (C2), showing the odontoid process (dens) with its facets for the alar and transverse ligaments. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. The axis (C2), showing the odontoid process (dens) with its
-facets for the alar and transverse ligaments. Gray’s Anatomy (1918),
-public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId44.jpg" alt="Figure 6. The internal carotid and vertebral arteries (right side); the vertebral artery ascends through the foramina transversaria of the cervical vertebrae. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. The internal carotid and vertebral arteries (right side); the vertebral artery ascends through the foramina transversaria of the cervical vertebrae. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. The internal carotid and vertebral arteries (right side); the
-vertebral artery ascends through the foramina transversaria of the
-cervical vertebrae. Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
 
 The **visceral column** retracted medially comprises the thyroid gland,
 the trachea and the oesophagus, with the strap muscles (sternohyoid and
@@ -239,23 +208,10 @@ longitudinal along the sternocleidomastoid for a wider exposure.[16]
 <figcaption><p><strong>Figure 7. Course of the vagus nerve in the neck and thorax, showing the superior laryngeal and recurrent laryngeal branches. The left recurrent nerve loops under the aortic arch and the right under the right subclavian artery; the right ascends at a higher level and crosses from lateral to medial low in the neck, making it the more vulnerable in the anterior cervical approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Course of the vagus nerve in the neck and thorax, showing the
-superior laryngeal and recurrent laryngeal branches. The left recurrent
-nerve loops under the aortic arch and the right under the right
-subclavian artery; the right ascends at a higher level and crosses from
-lateral to medial low in the neck, making it the more vulnerable in the
-anterior cervical approach. Gray’s Anatomy (1918), public domain, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId60.jpg" alt="Figure 8. Anterior view of the muscles of the neck, showing the sternocleidomastoid and the strap (infrahyoid) muscles that bound the midline corridor of the anterior cervical approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Anterior view of the muscles of the neck, showing the sternocleidomastoid and the strap (infrahyoid) muscles that bound the midline corridor of the anterior cervical approach. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Anterior view of the muscles of the neck, showing the
-sternocleidomastoid and the strap (infrahyoid) muscles that bound the
-midline corridor of the anterior cervical approach. Gray’s Anatomy
-(1918), public domain, via Wikimedia Commons.
 
 # Part IV - Posterior Approaches to the Cervical Spine
 
@@ -310,22 +266,10 @@ staying midline.[22]
 <figcaption><p><strong>Figure 9. The suboccipital muscles, which bound the suboccipital triangle: obliquus capitis superior (green), rectus capitis posterior major (blue) and obliquus capitis inferior (red); the vertebral artery loops over the posterior arch of the atlas within this region. Anatomography (BodyParts3D, DBCLS), CC BY-SA 2.1 jp, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. The suboccipital muscles, which bound the suboccipital
-triangle: obliquus capitis superior (green), rectus capitis posterior
-major (blue) and obliquus capitis inferior (red); the vertebral artery
-loops over the posterior arch of the atlas within this region.
-Anatomography (BodyParts3D, DBCLS), CC BY-SA 2.1 jp, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId73.jpg" alt="Figure 10. Median sagittal section through the occiput and the upper three cervical vertebrae, showing the craniocervical (occipito-atlanto-axial) ligaments, the dens and the tectorial membrane. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Median sagittal section through the occiput and the upper three cervical vertebrae, showing the craniocervical (occipito-atlanto-axial) ligaments, the dens and the tectorial membrane. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Median sagittal section through the occiput and the upper
-three cervical vertebrae, showing the craniocervical
-(occipito-atlanto-axial) ligaments, the dens and the tectorial membrane.
-Gray’s Anatomy (1918), public domain, via Wikimedia Commons.
 
 # Part V - Approaches to the Thoracic Spine
 
@@ -426,41 +370,20 @@ standard teaching.[33]
 <figcaption><p><strong>Figure 11. Median sagittal section of two lumbar vertebrae and their ligaments, showing the intervertebral disc, the anterior and posterior longitudinal ligaments, the ligamenta flava and the interspinous and supraspinous ligaments. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Median sagittal section of two lumbar vertebrae and their
-ligaments, showing the intervertebral disc, the anterior and posterior
-longitudinal ligaments, the ligamenta flava and the interspinous and
-supraspinous ligaments. Gray’s Anatomy (1918), public domain, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId92.jpg" alt="Figure 12. The deep paraspinal musculature of the posterior trunk: the erector spinae (iliocostalis, longissimus, spinalis), semispinalis and multifidus. The posterior midline approach strips these segmentally innervated muscles off the posterior elements. Gray’s Anatomy (1918), public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. The deep paraspinal musculature of the posterior trunk: the erector spinae (iliocostalis, longissimus, spinalis), semispinalis and multifidus. The posterior midline approach strips these segmentally innervated muscles off the posterior elements. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. The deep paraspinal musculature of the posterior trunk: the
-erector spinae (iliocostalis, longissimus, spinalis), semispinalis and
-multifidus. The posterior midline approach strips these segmentally
-innervated muscles off the posterior elements. Gray’s Anatomy (1918),
-public domain, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId95.jpg" alt="Figure 13. Diagram of a lumbar motion segment showing the nerve roots and their relationship to the vertebra and intervertebral disc; the exiting root passes beneath its pedicle. Page tfw, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 13. Diagram of a lumbar motion segment showing the nerve roots and their relationship to the vertebra and intervertebral disc; the exiting root passes beneath its pedicle. Page tfw, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Diagram of a lumbar motion segment showing the nerve roots
-and their relationship to the vertebra and intervertebral disc; the
-exiting root passes beneath its pedicle. Page tfw, CC BY-SA 3.0, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/spine-cervical-approaches/rId98.jpg" alt="Figure 14. Sagittal lumbar MRI showing a disc extrusion at L4-L5 compressing the adjacent nerve root, the lesion the posterior approach is most often used to treat. Edave, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Sagittal lumbar MRI showing a disc extrusion at L4-L5 compressing the adjacent nerve root, the lesion the posterior approach is most often used to treat. Edave, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Sagittal lumbar MRI showing a disc extrusion at L4-L5
-compressing the adjacent nerve root, the lesion the posterior approach
-is most often used to treat. Edave, CC BY-SA 3.0, via Wikimedia Commons.
 
 # Part VII - Anterior and Anterolateral Approaches to the Lumbar Spine
 
@@ -502,12 +425,6 @@ lateral body are preserved.[38]
 <figcaption><p><strong>Figure 15. The abdominal aorta and inferior vena cava descending to the iliac bifurcation, with the kidneys and renal vessels: the prevertebral great vessels mobilised in the anterior and anterolateral approaches to the lumbar spine. Gray’s Anatomy (1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. The abdominal aorta and inferior vena cava descending to the
-iliac bifurcation, with the kidneys and renal vessels: the prevertebral
-great vessels mobilised in the anterior and anterolateral approaches to
-the lumbar spine. Gray’s Anatomy (1918), public domain, via Wikimedia
-Commons.
-
 # Part VIII - Posterior Approach for Scoliosis and Rib Excision
 
 The posterior approach to the thoracic and lumbar spine is the workhorse
@@ -528,10 +445,6 @@ either way in the lumbar spine.
 <img src="/images/topics/spine-cervical-approaches/rId113.jpg" alt="Figure 16. Radiograph after posterior spinal fusion for thoracic scoliosis, showing posterior (Harrington-rod) instrumentation. Mehlauge, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Radiograph after posterior spinal fusion for thoracic scoliosis, showing posterior (Harrington-rod) instrumentation. Mehlauge, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Radiograph after posterior spinal fusion for thoracic
-scoliosis, showing posterior (Harrington-rod) instrumentation. Mehlauge,
-CC BY-SA 3.0, via Wikimedia Commons.
 
 The **dangers** are the posterior primary rami (partly denervating the
 paraspinals if dissection strays too far laterally with cautery), the

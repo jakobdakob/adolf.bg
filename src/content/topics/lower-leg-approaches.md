@@ -64,29 +64,15 @@ fasciotomy must respect it. Keep those two in mind throughout.[2]
 <figcaption><p><strong>Figure 1. Bones of the right leg, anterior surface, showing the tibia, fibula and interosseous membrane with their borders and surfaces. Gray’s Anatomy (1918), Plate 258, Henry Vandyke Carter, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Bones of the right leg, anterior surface, showing the tibia,
-fibula and interosseous membrane with their borders and surfaces. Gray’s
-Anatomy (1918), Plate 258, Henry Vandyke Carter, public domain, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId25.jpg" alt="Figure 2. Bones of the right leg, posterior surface, with the popliteal and soleal lines and the attachments of the deep posterior muscles. Gray’s Anatomy (1918), Plate 259, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Bones of the right leg, posterior surface, with the popliteal and soleal lines and the attachments of the deep posterior muscles. Gray’s Anatomy (1918), Plate 259, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. Bones of the right leg, posterior surface, with the popliteal
-and soleal lines and the attachments of the deep posterior muscles.
-Gray’s Anatomy (1918), Plate 259, public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId28.jpg" alt="Figure 3. Upper surface of the right tibia (the tibial plateau) seen from above, with the condyles and intercondylar eminence. Gray’s Anatomy (1918), Plate 257, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. Upper surface of the right tibia (the tibial plateau) seen from above, with the condyles and intercondylar eminence. Gray’s Anatomy (1918), Plate 257, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. Upper surface of the right tibia (the tibial plateau) seen
-from above, with the condyles and intercondylar eminence. Gray’s Anatomy
-(1918), Plate 257, public domain, via Wikimedia Commons.
 
 # Part I - Applied Surgical Anatomy of the Leg
 
@@ -151,21 +137,10 @@ muscles plantarflex and invert the foot and flex the toes.[7]
 <figcaption><p><strong>Figure 4. Transverse section through the middle of the leg showing the four fascial compartments (anterior, lateral, superficial and deep posterior, colour-coded), the tibia, fibula and interosseous membrane, the intermuscular septa and the neurovascular bundles. Gray’s Anatomy (1918), Plate 440 (colourised derivative), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. Transverse section through the middle of the leg showing the
-four fascial compartments (anterior, lateral, superficial and deep
-posterior, colour-coded), the tibia, fibula and interosseous membrane,
-the intermuscular septa and the neurovascular bundles. Gray’s Anatomy
-(1918), Plate 440 (colourised derivative), public domain, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId41.jpg" alt="Figure 5. The same transverse section of the leg, original plate, with the muscles and neurovascular structures labelled. Gray’s Anatomy (1918), Plate 440, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 5. The same transverse section of the leg, original plate, with the muscles and neurovascular structures labelled. Gray’s Anatomy (1918), Plate 440, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 5. The same transverse section of the leg, original plate, with
-the muscles and neurovascular structures labelled. Gray’s Anatomy
-(1918), Plate 440, public domain, via Wikimedia Commons.
 
 ## The neurovascular course
 
@@ -187,68 +162,35 @@ every deep-flexor release must protect it.[8]
 <figcaption><p><strong>Figure 6. Lateral aspect of the leg showing the lateral (peroneal) compartment, peroneus longus and brevis with their retinacula, together with the anterior extensor muscles. Sobotta’s Atlas of Human Anatomy (1909), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 6. Lateral aspect of the leg showing the lateral (peroneal)
-compartment, peroneus longus and brevis with their retinacula, together
-with the anterior extensor muscles. Sobotta’s Atlas of Human Anatomy
-(1909), public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId49.jpg" alt="Figure 7. Superficial muscles of the posterior leg: the gastrocnemius and soleus converging on the tendo calcaneus. Gray’s Anatomy (1918), Plate 438, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 7. Superficial muscles of the posterior leg: the gastrocnemius and soleus converging on the tendo calcaneus. Gray’s Anatomy (1918), Plate 438, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 7. Superficial muscles of the posterior leg: the gastrocnemius
-and soleus converging on the tendo calcaneus. Gray’s Anatomy (1918),
-Plate 438, public domain, via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId52.jpg" alt="Figure 8. Deep muscles of the posterior leg: popliteus, tibialis posterior, flexor digitorum longus and flexor hallucis longus. Gray’s Anatomy (1918), Plate 439, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Deep muscles of the posterior leg: popliteus, tibialis posterior, flexor digitorum longus and flexor hallucis longus. Gray’s Anatomy (1918), Plate 439, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Deep muscles of the posterior leg: popliteus, tibialis
-posterior, flexor digitorum longus and flexor hallucis longus. Gray’s
-Anatomy (1918), Plate 439, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId55.jpg" alt="Figure 9. Deep nerves of the front of the leg: the common peroneal nerve dividing into the superficial and deep peroneal nerves, the latter accompanying the anterior tibial artery among the extensor muscles. Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Deep nerves of the front of the leg: the common peroneal nerve dividing into the superficial and deep peroneal nerves, the latter accompanying the anterior tibial artery among the extensor muscles. Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 9. Deep nerves of the front of the leg: the common peroneal nerve
-dividing into the superficial and deep peroneal nerves, the latter
-accompanying the anterior tibial artery among the extensor muscles.
-Gray’s Anatomy (1918), Plate 835, public domain, via Wikimedia
-Commons.
 
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId58.jpg" alt="Figure 10. Nerves of the right lower limb, anterior view, showing the course of the saphenous, superficial peroneal and deep peroneal nerves. Gray’s Anatomy (1918), Plate 827, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Nerves of the right lower limb, anterior view, showing the course of the saphenous, superficial peroneal and deep peroneal nerves. Gray’s Anatomy (1918), Plate 827, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 10. Nerves of the right lower limb, anterior view, showing the
-course of the saphenous, superficial peroneal and deep peroneal nerves.
-Gray’s Anatomy (1918), Plate 827, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId61.jpg" alt="Figure 11. Arteries of the leg, posterior view: the popliteal artery dividing into the anterior tibial artery and the tibiofibular trunk, which gives the posterior tibial and fibular (peroneal) arteries. Wikimedia contributor, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Arteries of the leg, posterior view: the popliteal artery dividing into the anterior tibial artery and the tibiofibular trunk, which gives the posterior tibial and fibular (peroneal) arteries. Wikimedia contributor, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Arteries of the leg, posterior view: the popliteal artery
-dividing into the anterior tibial artery and the tibiofibular trunk,
-which gives the posterior tibial and fibular (peroneal) arteries.
-Wikimedia contributor, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId64.jpg" alt="Figure 12. Cutaneous nerves of the right lower limb, anterior view: the saphenous nerve along the medial leg with the superficial peroneal and sural cutaneous territories. Gray’s Anatomy (1918), Plate 825, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Cutaneous nerves of the right lower limb, anterior view: the saphenous nerve along the medial leg with the superficial peroneal and sural cutaneous territories. Gray’s Anatomy (1918), Plate 825, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Cutaneous nerves of the right lower limb, anterior view: the
-saphenous nerve along the medial leg with the superficial peroneal and
-sural cutaneous territories. Gray’s Anatomy (1918), Plate 825, public
-domain, via Wikimedia Commons.
 
 # Part II - Approaches to the Tibial Shaft
 
@@ -331,19 +273,10 @@ nerve make dissection unsafe.[13]
 <figcaption><p><strong>Figure 13. Head of the right tibia from above, with the menisci and the tibial attachments of the cruciate ligaments on the plateau. Gray’s Anatomy (1918), Plate 349, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Head of the right tibia from above, with the menisci and the
-tibial attachments of the cruciate ligaments on the plateau. Gray’s
-Anatomy (1918), Plate 349, public domain, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId78.jpg" alt="Figure 14. Lower end of the right fibula (the lateral malleolus), medial aspect, showing the articular surface for the talus and the malleolar fossa. Gray’s Anatomy (1918), Plate 262, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Lower end of the right fibula (the lateral malleolus), medial aspect, showing the articular surface for the talus and the malleolar fossa. Gray’s Anatomy (1918), Plate 262, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Lower end of the right fibula (the lateral malleolus), medial
-aspect, showing the articular surface for the talus and the malleolar
-fossa. Gray’s Anatomy (1918), Plate 262, public domain, via Wikimedia
-Commons.
 
 # Part III - Approaches to the Proximal Tibia and Tibial Plateau
 
@@ -425,27 +358,15 @@ contraindicated there.[18]
 <figcaption><p><strong>Figure 15. Anteroposterior radiograph of a lateral tibial plateau fracture with articular depression (a Schatzker-pattern injury). LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Anteroposterior radiograph of a lateral tibial plateau
-fracture with articular depression (a Schatzker-pattern injury).
-LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId93.jpg" alt="Figure 16. Three-dimensional CT reconstruction of a depressed lateral tibial plateau fracture. LottieLattes, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Three-dimensional CT reconstruction of a depressed lateral tibial plateau fracture. LottieLattes, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 16. Three-dimensional CT reconstruction of a depressed lateral
-tibial plateau fracture. LottieLattes, CC BY-SA 4.0, via Wikimedia
-Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId96.jpg" alt="Figure 17. Proximal tibial plateau fracture after open reduction and internal fixation with a buttress plate and screws, anteroposterior and lateral views. Nizil Shah, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 17. Proximal tibial plateau fracture after open reduction and internal fixation with a buttress plate and screws, anteroposterior and lateral views. Nizil Shah, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 17. Proximal tibial plateau fracture after open reduction and
-internal fixation with a buttress plate and screws, anteroposterior and
-lateral views. Nizil Shah, CC BY-SA 4.0, via Wikimedia Commons.
 
 # Part IV - The Approach to the Fibula
 
@@ -505,12 +426,6 @@ distal quarters.[22]
 <figcaption><p><strong>Figure 18. Nerves of the right lower limb, posterior view: the sciatic nerve dividing into the tibial and common peroneal nerves at the popliteal fossa, the common peroneal nerve coursing toward the fibula, and the medial sural cutaneous nerve contributing to the sural nerve. Gray’s Anatomy (1918), Plate 832, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 18. Nerves of the right lower limb, posterior view: the sciatic
-nerve dividing into the tibial and common peroneal nerves at the
-popliteal fossa, the common peroneal nerve coursing toward the fibula,
-and the medial sural cutaneous nerve contributing to the sural nerve.
-Gray’s Anatomy (1918), Plate 832, public domain, via Wikimedia Commons.
-
 # Part V - Acute Compartment Syndrome and Fasciotomy
 
 ## Principles
@@ -558,10 +473,6 @@ vein** at the posteromedial incision.[25]
 <img src="/images/topics/lower-leg-approaches/rId115.jpg" alt="Figure 19. Intra-operative fasciotomy of the leg for compartment syndrome, decompressing a fascial compartment through a long longitudinal incision. آرمین, CC0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 19. Intra-operative fasciotomy of the leg for compartment syndrome, decompressing a fascial compartment through a long longitudinal incision. آرمین, CC0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 19. Intra-operative fasciotomy of the leg for compartment
-syndrome, decompressing a fascial compartment through a long
-longitudinal incision. آرمین, CC0, via Wikimedia Commons.
 
 # Part VI - Intramedullary Tibial Nailing
 
@@ -621,17 +532,10 @@ posteriorly directed drilling.[28]
 <figcaption><p><strong>Figure 20. Tibial shaft fracture stabilised with a locked intramedullary nail and interlocking screws, anteroposterior view; the fibula is intact alongside. NiaPol, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 20. Tibial shaft fracture stabilised with a locked intramedullary
-nail and interlocking screws, anteroposterior view; the fibula is intact
-alongside. NiaPol, CC BY 4.0, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/lower-leg-approaches/rId127.jpg" alt="Figure 21. The same locked intramedullary tibial nail, lateral view. NiaPol, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 21. The same locked intramedullary tibial nail, lateral view. NiaPol, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 21. The same locked intramedullary tibial nail, lateral view.
-NiaPol, CC BY 4.0, via Wikimedia Commons.
 
 # References
 1.  The contrasting anatomy of the two bones, the tibia’s large

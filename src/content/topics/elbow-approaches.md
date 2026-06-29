@@ -102,17 +102,10 @@ nerves.[5]
 <figcaption><p><strong>Figure 1. Biceps brachii, one of the anterior (flexor) group, on the anterior arm. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 1. Biceps brachii, one of the anterior (flexor) group, on the
-anterior arm. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId30.jpg" alt="Figure 2. Triceps brachii (long, lateral and medial heads), the posterior (extensor) group, inserting on the olecranon. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 2. Triceps brachii (long, lateral and medial heads), the posterior (extensor) group, inserting on the olecranon. Anatomography, CC BY-SA 2.1 JP, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 2. Triceps brachii (long, lateral and medial heads), the
-posterior (extensor) group, inserting on the olecranon. Anatomography,
-CC BY-SA 2.1 JP, via Wikimedia Commons.
 
 Between each pair of groups lies an intermuscular plane, and three of
 these can be exploited surgically. Two are true internervous planes. The
@@ -133,19 +126,10 @@ branches well proximal to the elbow.[6]
 <figcaption><p><strong>Figure 3. Superficial extensor muscles of the forearm with the mobile wad (brachioradialis, extensor carpi radialis longus and brevis) and the common extensor origin at the lateral epicondyle. Gray’s Anatomy plate 418 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 3. Superficial extensor muscles of the forearm with the mobile
-wad (brachioradialis, extensor carpi radialis longus and brevis) and the
-common extensor origin at the lateral epicondyle. Gray’s Anatomy plate
-418 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId37.jpg" alt="Figure 4. Deep extensor muscles of the forearm, showing the supinator and anconeus at the lateral elbow. Gray’s Anatomy plate 419 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 4. Deep extensor muscles of the forearm, showing the supinator and anconeus at the lateral elbow. Gray’s Anatomy plate 419 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 4. Deep extensor muscles of the forearm, showing the supinator
-and anconeus at the lateral elbow. Gray’s Anatomy plate 419 (public
-domain), via Wikimedia Commons.
 
 The lateral group is conventionally subdivided into the **mobile wad of
 three** (brachioradialis, extensor carpi radialis longus, extensor carpi
@@ -165,20 +149,10 @@ through pronator teres, “anchors” the group.[7]
 <figcaption><p><strong>Figure 5. Front of the forearm showing the superficial flexor-pronator group (pronator teres, flexor carpi radialis, palmaris longus, flexor carpi ulnaris) and the cubital vessels. Gray’s Anatomy plate 527 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 5. Front of the forearm showing the superficial flexor-pronator
-group (pronator teres, flexor carpi radialis, palmaris longus, flexor
-carpi ulnaris) and the cubital vessels. Gray’s Anatomy plate 527 (public
-domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId44.jpg" alt="Figure 6. Deep dissection of the front of the forearm showing the deep flexors, pronators and supinator with the ulnar nerve and ulnar recurrent vessels at the medial elbow. Gray’s Anatomy plate 528 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. Deep dissection of the front of the forearm showing the deep flexors, pronators and supinator with the ulnar nerve and ulnar recurrent vessels at the medial elbow. Gray’s Anatomy plate 528 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. Deep dissection of the front of the forearm showing the deep
-flexors, pronators and supinator with the ulnar nerve and ulnar
-recurrent vessels at the medial elbow. Gray’s Anatomy plate 528 (public
-domain), via Wikimedia Commons.
 
 ## Bones and articulations
 
@@ -196,56 +170,30 @@ annular ligament encircles the radial head at the neck.[8]
 <figcaption><p><strong>Figure 7. Proximal end of the left ulna (lateral view) showing the olecranon, trochlear (semilunar) notch, coronoid process and radial notch. Gray’s Anatomy plate 212 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Proximal end of the left ulna (lateral view) showing the
-olecranon, trochlear (semilunar) notch, coronoid process and radial
-notch. Gray’s Anatomy plate 212 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId52.jpg" alt="Figure 8. Anterior aspect of the bones of the left forearm: proximal ulna and the radial head and neck, with muscle attachments. Gray’s Anatomy plate 213 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 8. Anterior aspect of the bones of the left forearm: proximal ulna and the radial head and neck, with muscle attachments. Gray’s Anatomy plate 213 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 8. Anterior aspect of the bones of the left forearm: proximal
-ulna and the radial head and neck, with muscle attachments. Gray’s
-Anatomy plate 213 (public domain), via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/elbow-approaches/rId55.jpg" alt="Figure 9. Posterior surface of the bones of the left forearm, showing the subcutaneous olecranon and the extensor, supinator and anconeus attachment areas. Gray’s Anatomy plate 214 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 9. Posterior surface of the bones of the left forearm, showing the subcutaneous olecranon and the extensor, supinator and anconeus attachment areas. Gray’s Anatomy plate 214 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 9. Posterior surface of the bones of the left forearm, showing
-the subcutaneous olecranon and the extensor, supinator and anconeus
-attachment areas. Gray’s Anatomy plate 214 (public domain), via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId58.jpg" alt="Figure 10. Anterior aspect of the left humerus; the distal end shows the trochlea, capitulum, coronoid and radial fossae, and the medial and lateral epicondyles. Gray’s Anatomy plate 207 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 10. Anterior aspect of the left humerus; the distal end shows the trochlea, capitulum, coronoid and radial fossae, and the medial and lateral epicondyles. Gray’s Anatomy plate 207 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 10. Anterior aspect of the left humerus; the distal end shows the
-trochlea, capitulum, coronoid and radial fossae, and the medial and
-lateral epicondyles. Gray’s Anatomy plate 207 (public domain), via
-Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/elbow-approaches/rId61.jpg" alt="Figure 11. Posterior aspect of the left humerus; the distal end shows the olecranon fossa and trochlea, and the spiral groove for the radial nerve. Gray’s Anatomy plate 208 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 11. Posterior aspect of the left humerus; the distal end shows the olecranon fossa and trochlea, and the spiral groove for the radial nerve. Gray’s Anatomy plate 208 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 11. Posterior aspect of the left humerus; the distal end shows
-the olecranon fossa and trochlea, and the spiral groove for the radial
-nerve. Gray’s Anatomy plate 208 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId64.jpg" alt="Figure 12. Distal humerus (anterior view) with the medial and lateral epicondyles and the two columns highlighted. Doctor Jana, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 12. Distal humerus (anterior view) with the medial and lateral epicondyles and the two columns highlighted. Doctor Jana, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 12. Distal humerus (anterior view) with the medial and lateral
-epicondyles and the two columns highlighted. Doctor Jana, CC BY-SA 4.0,
-via Wikimedia Commons.
 
 ## The collateral ligaments
 
@@ -270,35 +218,20 @@ lateral elbow surgery respectively.[9]
 <figcaption><p><strong>Figure 13. Left elbow joint, anterior view, showing the anterior and ulnar (medial) collateral ligaments and the oblique cord. Gray’s Anatomy plate 329 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 13. Left elbow joint, anterior view, showing the anterior and
-ulnar (medial) collateral ligaments and the oblique cord. Gray’s Anatomy
-plate 329 (public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId72.jpg" alt="Figure 14. Left elbow joint, lateral view, showing the radial (lateral) collateral ligament, the annular ligament and the posterior ligament. Gray’s Anatomy plate 330 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 14. Left elbow joint, lateral view, showing the radial (lateral) collateral ligament, the annular ligament and the posterior ligament. Gray’s Anatomy plate 330 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 14. Left elbow joint, lateral view, showing the radial (lateral)
-collateral ligament, the annular ligament and the posterior ligament.
-Gray’s Anatomy plate 330 (public domain), via Wikimedia Commons.
 
 <figure>
 <img src="/images/topics/elbow-approaches/rId75.jpg" alt="Figure 15. Distended capsule of the elbow joint, anterior aspect, with the annular ligament around the radial head. Gray’s Anatomy plate 331 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Distended capsule of the elbow joint, anterior aspect, with the annular ligament around the radial head. Gray’s Anatomy plate 331 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 15. Distended capsule of the elbow joint, anterior aspect, with
-the annular ligament around the radial head. Gray’s Anatomy plate 331
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId78.jpg" alt="Figure 16. Distended capsule of the elbow joint, posterior aspect. Gray’s Anatomy plate 332 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 16. Distended capsule of the elbow joint, posterior aspect. Gray’s Anatomy plate 332 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 16. Distended capsule of the elbow joint, posterior aspect.
-Gray’s Anatomy plate 332 (public domain), via Wikimedia Commons.
 
 ## The ulnar nerve
 
@@ -318,10 +251,6 @@ posterior elbow exposure and in any medial epicondyle osteotomy.[10]
 <figcaption><p><strong>Figure 17. Course of the ulnar nerve behind the medial epicondyle through the cubital tunnel and down the forearm to Guyon’s canal. Dr Harry Gouvas (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 17. Course of the ulnar nerve behind the medial epicondyle
-through the cubital tunnel and down the forearm to Guyon’s canal. Dr
-Harry Gouvas (public domain), via Wikimedia Commons.
-
 ## The median nerve and the brachial artery
 
 The median nerve crosses the front of the joint on its medial side,
@@ -340,11 +269,6 @@ safety.[11]
 <img src="/images/topics/elbow-approaches/rId88.jpg" alt="Figure 18. Paediatric supracondylar fracture of the humerus (arrow), the classic injury threatening the brachial artery and median nerve; H = humerus, R = radius, U = ulna. James Heilman MD, CC BY-SA 3.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 18. Paediatric supracondylar fracture of the humerus (arrow), the classic injury threatening the brachial artery and median nerve; H = humerus, R = radius, U = ulna. James Heilman MD, CC BY-SA 3.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 18. Paediatric supracondylar fracture of the humerus (arrow), the
-classic injury threatening the brachial artery and median nerve; H =
-humerus, R = radius, U = ulna. James Heilman MD, CC BY-SA 3.0, via
-Wikimedia Commons.
 
 ## The radial nerve and the posterior interosseous nerve
 
@@ -367,19 +291,10 @@ retractors must be kept on bone and never slung behind the neck.[12]
 <figcaption><p><strong>Figure 19. Deep branch of the radial nerve (posterior interosseous nerve) passing through the supinator at the lateral elbow, with the radial and annular collateral ligaments. Gray’s Anatomy plate 420 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 19. Deep branch of the radial nerve (posterior interosseous
-nerve) passing through the supinator at the lateral elbow, with the
-radial and annular collateral ligaments. Gray’s Anatomy plate 420
-(public domain), via Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId96.jpg" alt="Figure 20. The supinator and the deep (posterior interosseous) branch of the radial nerve at the arcade of Frohse. Charpy, Traité d’anatomie humaine (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 20. The supinator and the deep (posterior interosseous) branch of the radial nerve at the arcade of Frohse. Charpy, Traité d’anatomie humaine (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 20. The supinator and the deep (posterior interosseous) branch of
-the radial nerve at the arcade of Frohse. Charpy, Traité d’anatomie
-humaine (public domain), via Wikimedia Commons.
 
 ## The cubital fossa
 
@@ -400,11 +315,6 @@ back of the radius, separated from the bone by a bursa.[13]
 <img src="/images/topics/elbow-approaches/rId101.jpg" alt="Figure 21. Surface anatomy of the front of the right upper limb, locating the cubital (antecubital) fossa, the medial epicondyle, and the flexor and extensor muscle groups. Gray’s Anatomy plate 1231 (public domain), via Wikimedia Commons." />
 <figcaption><p><strong>Figure 21. Surface anatomy of the front of the right upper limb, locating the cubital (antecubital) fossa, the medial epicondyle, and the flexor and extensor muscle groups. Gray’s Anatomy plate 1231 (public domain), via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 21. Surface anatomy of the front of the right upper limb,
-locating the cubital (antecubital) fossa, the medial epicondyle, and the
-flexor and extensor muscle groups. Gray’s Anatomy plate 1231 (public
-domain), via Wikimedia Commons.
 
 # Part II - Posterior Approaches to the Elbow
 
@@ -449,11 +359,6 @@ distal fourth of the humerus.[16]
 <img src="/images/topics/elbow-approaches/rId109.jpg" alt="Figure 22. Lateral radiograph of an olecranon fracture; the olecranon osteotomy of the posterior approach deliberately creates and then fixes a comparable articular fracture. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 22. Lateral radiograph of an olecranon fracture; the olecranon osteotomy of the posterior approach deliberately creates and then fixes a comparable articular fracture. James Heilman MD, CC BY-SA 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 22. Lateral radiograph of an olecranon fracture; the olecranon
-osteotomy of the posterior approach deliberately creates and then fixes
-a comparable articular fracture. James Heilman MD, CC BY-SA 4.0, via
-Wikimedia Commons.
 
 The dangers, beyond the ulnar nerve, are the median nerve and brachial
 artery lying anterior to the distal humerus (protected by keeping an
@@ -704,19 +609,10 @@ forearm rotation.[33]
 <figcaption><p><strong>Figure 23. Normal anteroposterior radiograph of the right elbow (distal humerus, radial head and proximal ulna). Aspersions, CC BY-SA 2.5, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 23. Normal anteroposterior radiograph of the right elbow (distal
-humerus, radial head and proximal ulna). Aspersions, CC BY-SA 2.5, via
-Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/elbow-approaches/rId140.jpg" alt="Figure 24. Anteroposterior radiograph of a minimally displaced radial head fracture (arrowhead), the typical indication for the posterolateral (Kocher) approach. Thomas Zimmermann, CC BY-SA 3.0 DE, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 24. Anteroposterior radiograph of a minimally displaced radial head fracture (arrowhead), the typical indication for the posterolateral (Kocher) approach. Thomas Zimmermann, CC BY-SA 3.0 DE, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 24. Anteroposterior radiograph of a minimally displaced radial
-head fracture (arrowhead), the typical indication for the posterolateral
-(Kocher) approach. Thomas Zimmermann, CC BY-SA 3.0 DE, via Wikimedia
-Commons.
 
 # References
 1.  The key neurovascular bundles pass anterior and posterior to the

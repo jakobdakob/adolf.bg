@@ -116,20 +116,10 @@ quiescent) and is the most difficult of all to treat.[17]
 <figcaption><p><strong>Figure 1. Hypertrophic (“elephant-foot”) non-union of the tibia: abundant callus with a persistent fracture line, a failure of stability rather than biology. Source: Lindsaydavidson, via Wikimedia Commons, CC BY 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. Hypertrophic (“elephant-foot”) non-union of the tibia:
-abundant callus with a persistent fracture line, a failure of stability
-rather than biology. Source: Lindsaydavidson, via Wikimedia Commons, CC
-BY 3.0.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId42.jpg" alt="Figure 2. Atrophic non-union of the femur with implant breakage (A), revised with an exchange nail, plate and graft (B) and consolidated at three months (C). From Walia et al. (2024), Cureus, PMC11377906, CC BY 4.0." />
 <figcaption><p><strong>Figure 2. Atrophic non-union of the femur with implant breakage (A), revised with an exchange nail, plate and graft (B) and consolidated at three months (C). From Walia et al. (2024), Cureus, PMC11377906, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 2. Atrophic non-union of the femur with implant breakage (A),
-revised with an exchange nail, plate and graft (B) and consolidated at
-three months (C). From Walia et al. (2024), Cureus, PMC11377906, CC BY
-4.0.
 
 # Part IV - Diagnosis and Treatment of Non-union
 
@@ -192,19 +182,10 @@ options are:
 <figcaption><p><strong>Figure 3. A tibia and fibula in an Ilizarov ring fixator, with callus forming three months on, the workhorse for non-union and bone transport. Source: Viapastrengo, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 3. A tibia and fibula in an Ilizarov ring fixator, with callus
-forming three months on, the workhorse for non-union and bone transport.
-Source: Viapastrengo, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId61.jpg" alt="Figure 4. The Masquelet induced-membrane technique: a PMMA cement spacer bridging a large femoral segmental defect (stage 1), later replaced by cancellous graft within the induced membrane. From Kubes et al. (2021), Int J Surg Case Rep, PMC8219760, CC BY 4.0." />
 <figcaption><p><strong>Figure 4. The Masquelet induced-membrane technique: a PMMA cement spacer bridging a large femoral segmental defect (stage 1), later replaced by cancellous graft within the induced membrane. From Kubes et al. (2021), Int J Surg Case Rep, PMC8219760, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 4. The Masquelet induced-membrane technique: a PMMA cement spacer
-bridging a large femoral segmental defect (stage 1), later replaced by
-cancellous graft within the induced membrane. From Kubes et al. (2021),
-Int J Surg Case Rep, PMC8219760, CC BY 4.0.
 
 # Part V - Malunion
 
@@ -227,11 +208,6 @@ osteoarthritis** of altered load transfer (covered in Topic 7).
 <img src="/images/topics/non-union-malunion-crps/rId69.jpg" alt="Figure 5. Malunion of a “floating-knee” injury: a standing scanogram with mechanical-axis lines (A) and the malunited tibia (B) and femur (C) with multiplanar angular deformity. From Matheen et al. (2024), Cureus, PMC11446639, CC BY 4.0." />
 <figcaption><p><strong>Figure 5. Malunion of a “floating-knee” injury: a standing scanogram with mechanical-axis lines (A) and the malunited tibia (B) and femur (C) with multiplanar angular deformity. From Matheen et al. (2024), Cureus, PMC11446639, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 5. Malunion of a “floating-knee” injury: a standing scanogram
-with mechanical-axis lines (A) and the malunited tibia (B) and femur (C)
-with multiplanar angular deformity. From Matheen et al. (2024), Cureus,
-PMC11446639, CC BY 4.0.
 
 The radiographic analysis rests on whole-limb, weight-bearing alignment
 films and a small set of concepts:[32]
@@ -265,10 +241,6 @@ correction.[34]
 <figcaption><p><strong>Figure 6. A closing-wedge corrective osteotomy: a bone wedge is removed to realign the deformity (here a cubitus valgus). Source: Dr. Vijayachandar, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. A closing-wedge corrective osteotomy: a bone wedge is removed
-to realign the deformity (here a cubitus valgus). Source:
-Dr. Vijayachandar, via Wikimedia Commons, CC BY-SA 4.0.
-
 # Part VI - Hardware Failure (Débricolage)
 
 Implant failure, what the older European literature calls
@@ -294,10 +266,6 @@ overlapping a plate beyond an adjacent stem to prevent the next
 <img src="/images/topics/non-union-malunion-crps/rId82.jpg" alt="Figure 7. Hardware failure (“débricolage”): a femoral intramedullary nail fractured at two points over a non-union. From Durrani et al. (2025), Cureus, PMC12461672, CC BY 4.0." />
 <figcaption><p><strong>Figure 7. Hardware failure (“débricolage”): a femoral intramedullary nail fractured at two points over a non-union. From Durrani et al. (2025), Cureus, PMC12461672, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 7. Hardware failure (“débricolage”): a femoral intramedullary
-nail fractured at two points over a non-union. From Durrani et
-al. (2025), Cureus, PMC12461672, CC BY 4.0.
 
 # Part VII - Volkmann Ischaemic Contracture
 
@@ -331,19 +299,10 @@ free functioning muscle transfer (gracilis)** for severe cases.
 <figcaption><p><strong>Figure 8. Volkmann ischaemic contracture of the forearm and hand: the flexed wrist and clawed fingers of established flexor-compartment infarction. From J. G. Mumford, The Practice of Surgery (1910), public domain, via Internet Archive / Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 8. Volkmann ischaemic contracture of the forearm and hand: the
-flexed wrist and clawed fingers of established flexor-compartment
-infarction. From J. G. Mumford, The Practice of Surgery (1910), public
-domain, via Internet Archive / Wikimedia Commons.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId91.jpg" alt="Figure 9. Forearm fasciotomy, the timely decompression that prevents Volkmann contracture (here dressed with a skin graft before closure). Source: Guyprocter, via Wikimedia Commons, CC0 1.0." />
 <figcaption><p><strong>Figure 9. Forearm fasciotomy, the timely decompression that prevents Volkmann contracture (here dressed with a skin graft before closure). Source: Guyprocter, via Wikimedia Commons, CC0 1.0.</strong></p></figcaption>
 </figure>
-
-Figure 9. Forearm fasciotomy, the timely decompression that prevents
-Volkmann contracture (here dressed with a skin graft before closure).
-Source: Guyprocter, via Wikimedia Commons, CC0 1.0.
 
 # Part VIII - Complex Regional Pain Syndrome (Sudeck’s Atrophy)
 
@@ -371,18 +330,10 @@ surgery, and after distal radial fracture).[43]
 <figcaption><p><strong>Figure 10. Type-I CRPS (Sudeck) of the left lower limb after a tibial fracture: swelling and colour change versus the normal side. Source: Timsong311, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 10. Type-I CRPS (Sudeck) of the left lower limb after a tibial
-fracture: swelling and colour change versus the normal side. Source:
-Timsong311, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId102.jpg" alt="Figure 11. Sudeck’s atrophy: patchy juxta-articular osteopenia of the hand on radiograph. Source: Mehlauge, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 11. Sudeck’s atrophy: patchy juxta-articular osteopenia of the hand on radiograph. Source: Mehlauge, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 11. Sudeck’s atrophy: patchy juxta-articular osteopenia of the
-hand on radiograph. Source: Mehlauge, via Wikimedia Commons, CC BY-SA
-3.0.
 
 # Part IX - Periprosthetic and Peri-implant Fractures
 
@@ -437,27 +388,15 @@ and implant, but is not detailed in the mined sources.[51])
 <figcaption><p><strong>Figure 12. A periprosthetic femoral fracture about a hip stem (Vancouver type B). Source: Jmarchn, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. A periprosthetic femoral fracture about a hip stem (Vancouver
-type B). Source: Jmarchn, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId117.jpg" alt="Figure 13. Vancouver type B2 sub-patterns of periprosthetic femoral fracture (schematics with matched radiographs); the loose stem is revised to a long stem. From Karam et al. (2020), J Orthop Surg Res, PMC7063746, CC BY 4.0." />
 <figcaption><p><strong>Figure 13. Vancouver type B2 sub-patterns of periprosthetic femoral fracture (schematics with matched radiographs); the loose stem is revised to a long stem. From Karam et al. (2020), J Orthop Surg Res, PMC7063746, CC BY 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 13. Vancouver type B2 sub-patterns of periprosthetic femoral
-fracture (schematics with matched radiographs); the loose stem is
-revised to a long stem. From Karam et al. (2020), J Orthop Surg Res,
-PMC7063746, CC BY 4.0.
-
 <figure>
 <img src="/images/topics/non-union-malunion-crps/rId120.jpg" alt="Figure 14. A comminuted periprosthetic distal-femoral fracture above a total knee replacement (Lewis-Rorabeck type II). From Moukarzel et al. (2021), Case Reports in Orthopedics, PMC8612792, CC BY 4.0." />
 <figcaption><p><strong>Figure 14. A comminuted periprosthetic distal-femoral fracture above a total knee replacement (Lewis-Rorabeck type II). From Moukarzel et al. (2021), Case Reports in Orthopedics, PMC8612792, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. A comminuted periprosthetic distal-femoral fracture above a
-total knee replacement (Lewis-Rorabeck type II). From Moukarzel et
-al. (2021), Case Reports in Orthopedics, PMC8612792, CC BY 4.0.
 
 # References
 1.  Skeletal Trauma 5e, ch.25 (Brinker & O’Connor), p.731.

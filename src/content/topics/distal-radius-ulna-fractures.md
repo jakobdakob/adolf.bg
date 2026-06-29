@@ -72,10 +72,6 @@ instability and malunion.[5]
 <figcaption><p><strong>Figure 1. A torus (buckle) fracture of the distal radius in a child, AP and lateral views; the distal radius is the commonest fracture site in children. Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. A torus (buckle) fracture of the distal radius in a child, AP
-and lateral views; the distal radius is the commonest fracture site in
-children. Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
-
 The fragility-fracture dimension deserves emphasis because it is so
 often neglected. A distal radius fracture in an older patient carries a
 **two- to four-fold increased risk of a future fracture** and is a
@@ -123,18 +119,10 @@ apparent volar tilt by about 1.6°.[12]
 <figcaption><p><strong>Figure 2. Volar/dorsal tilt of the distal radius on an annotated lateral radiograph. Mikael Häggström, from a base image by Lucien Monfils, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 2. Volar/dorsal tilt of the distal radius on an annotated lateral
-radiograph. Mikael Häggström, from a base image by Lucien Monfils, via
-Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId41.jpg" alt="Figure 3. Radial inclination of the distal radius on an annotated AP radiograph. Mikael Häggström, from a base image by Lucien Monfils, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 3. Radial inclination of the distal radius on an annotated AP radiograph. Mikael Häggström, from a base image by Lucien Monfils, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 3. Radial inclination of the distal radius on an annotated AP
-radiograph. Mikael Häggström, from a base image by Lucien Monfils, via
-Wikimedia Commons, CC BY-SA 3.0.
 
 ## 2.3 The watershed line, the DRUJ, and the tendons at risk
 
@@ -189,45 +177,25 @@ expects each to be defined cleanly:[17]
 <figcaption><p><strong>Figure 4. Colles fracture of the distal radius with an associated ulnar styloid fracture (AP and lateral views); the lateral shows the dorsal displacement of the dinner-fork deformity. Lucien Monfils, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 4. Colles fracture of the distal radius with an associated ulnar
-styloid fracture (AP and lateral views); the lateral shows the dorsal
-displacement of the dinner-fork deformity. Lucien Monfils, via Wikimedia
-Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId55.jpg" alt="Figure 5. The dinner-fork (silver-fork) deformity of a dorsally displaced distal radius fracture. Engraving from Todd, Cyclopædia of Anatomy and Physiology (1849), public domain." />
 <figcaption><p><strong>Figure 5. The dinner-fork (silver-fork) deformity of a dorsally displaced distal radius fracture. Engraving from Todd, Cyclopædia of Anatomy and Physiology (1849), public domain.</strong></p></figcaption>
 </figure>
-
-Figure 5. The dinner-fork (silver-fork) deformity of a dorsally
-displaced distal radius fracture. Engraving from Todd, Cyclopædia of
-Anatomy and Physiology (1849), public domain.
 
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId58.jpg" alt="Figure 6. Smith fracture of the distal radius with volar displacement (AP and lateral views), the reverse of a Colles fracture. James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 6. Smith fracture of the distal radius with volar displacement (AP and lateral views), the reverse of a Colles fracture. James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 6. Smith fracture of the distal radius with volar displacement
-(AP and lateral views), the reverse of a Colles fracture. James Heilman,
-MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId61.jpg" alt="Figure 7. Volar (palmar) Barton fracture-dislocation of the distal radius (lateral view), an intra-articular rim fragment displaced with the carpus. Mikael Häggström, CC0 (public domain)." />
 <figcaption><p><strong>Figure 7. Volar (palmar) Barton fracture-dislocation of the distal radius (lateral view), an intra-articular rim fragment displaced with the carpus. Mikael Häggström, CC0 (public domain).</strong></p></figcaption>
 </figure>
 
-Figure 7. Volar (palmar) Barton fracture-dislocation of the distal
-radius (lateral view), an intra-articular rim fragment displaced with
-the carpus. Mikael Häggström, CC0 (public domain).
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId64.jpg" alt="Figure 8. Chauffeur (radial styloid) fracture of the distal radius (AP view). Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 8. Chauffeur (radial styloid) fracture of the distal radius (AP view). Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. Chauffeur (radial styloid) fracture of the distal radius (AP
-view). Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
 
 # Part IV - Classification
 
@@ -256,17 +224,10 @@ improve reliability or change outcomes.[21]
 <figcaption><p><strong>Figure 9. A displaced intra-articular (AO type C) distal radius fracture. Curtishand, via Wikimedia Commons (public domain).</strong></p></figcaption>
 </figure>
 
-Figure 9. A displaced intra-articular (AO type C) distal radius
-fracture. Curtishand, via Wikimedia Commons (public domain).
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId75.jpg" alt="Figure 10. A reverse (dorsal) Barton intra-articular fracture on sagittal CT and 3D reconstructions, the kind of articular detail CT adds to plain films. Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 10. A reverse (dorsal) Barton intra-articular fracture on sagittal CT and 3D reconstructions, the kind of articular detail CT adds to plain films. Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. A reverse (dorsal) Barton intra-articular fracture on
-sagittal CT and 3D reconstructions, the kind of articular detail CT adds
-to plain films. Hellerhoff, via Wikimedia Commons, CC BY-SA 4.0.
 
 # Part V - Clinical Assessment and Imaging
 
@@ -336,10 +297,6 @@ immobilised for **3 to 4 weeks**.[33]
 <figcaption><p><strong>Figure 11. A plaster forearm cast immobilising the wrist after closed treatment of a distal radius fracture. Jackson P\&O, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. A plaster forearm cast immobilising the wrist after closed
-treatment of a distal radius fracture. Jackson P\&O, via Wikimedia
-Commons, CC BY-SA 3.0.
-
 # Part VII - Operative Treatment
 
 ## 7.1 The volar locking plate (the workhorse)
@@ -368,18 +325,10 @@ is questionable.[37]
 <figcaption><p><strong>Figure 12. A distal radius fracture after volar plate-and-screw fixation, the workhorse construct (AP and lateral radiographs). DavidIvar, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 12. A distal radius fracture after volar plate-and-screw
-fixation, the workhorse construct (AP and lateral radiographs).
-DavidIvar, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/distal-radius-ulna-fractures/rId105.jpg" alt="Figure 13. A distal radius (anatomic locking) plate and screws, the implant used for volar fixation. Codc, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 13. A distal radius (anatomic locking) plate and screws, the implant used for volar fixation. Codc, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 13. A distal radius (anatomic locking) plate and screws, the
-implant used for volar fixation. Codc, via Wikimedia Commons, CC BY-SA
-4.0.
 
 ## 7.2 Dorsal plating and fragment-specific fixation
 
@@ -419,10 +368,6 @@ broadly equivalent to volar plating at one year.[44]
 <figcaption><p><strong>Figure 14. A comminuted distal radius fracture treated with a spanning (bridging) external fixator supplemented by K-wires. THWZ, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 14. A comminuted distal radius fracture treated with a spanning
-(bridging) external fixator supplemented by K-wires. THWZ, via Wikimedia
-Commons, CC BY-SA 3.0.
-
 ## 7.4 Dorsal bridge (“internal fixator”) plating and the bridge plate
 
 A **dorsal spanning plate** is an internal version of an external
@@ -452,9 +397,6 @@ insufficient and are supplemented by an external fixator.[49]
 <img src="/images/topics/distal-radius-ulna-fractures/rId127.jpg" alt="Figure 15. Percutaneous Kirschner wires across a reduced distal radius fracture. Curtishand, via Wikimedia Commons (public domain)." />
 <figcaption><p><strong>Figure 15. Percutaneous Kirschner wires across a reduced distal radius fracture. Curtishand, via Wikimedia Commons (public domain).</strong></p></figcaption>
 </figure>
-
-Figure 15. Percutaneous Kirschner wires across a reduced distal radius
-fracture. Curtishand, via Wikimedia Commons (public domain).
 
 ## 7.6 Choosing a method
 
@@ -554,10 +496,6 @@ side.[66]
 <img src="/images/topics/distal-radius-ulna-fractures/rId152.jpg" alt="Figure 16. Ulnocarpal impaction after a shortened distal radius malunion (positive ulnar variance; AP view). Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 16. Ulnocarpal impaction after a shortened distal radius malunion (positive ulnar variance; AP view). Hellerhoff, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 16. Ulnocarpal impaction after a shortened distal radius malunion
-(positive ulnar variance; AP view). Hellerhoff, via Wikimedia Commons,
-CC BY-SA 3.0.
 
 **Complex regional pain syndrome (CRPS)** is a feared sequela. Vitamin C
 has been studied as prophylaxis, and here the evidence is genuinely

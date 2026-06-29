@@ -172,11 +172,6 @@ catastrophe rather than a bony one.[18]
 <figcaption><p><strong>Figure 1. The upper cervical spine: the atlas (C1) and axis (C2) with the odontoid process (dens). The atlanto-axial joint provides roughly half of all cervical rotation. Source: DrJanaOfficial, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 1. The upper cervical spine: the atlas (C1) and axis (C2) with
-the odontoid process (dens). The atlanto-axial joint provides roughly
-half of all cervical rotation. Source: DrJanaOfficial, via Wikimedia
-Commons, CC BY-SA 4.0.
-
 # Part II - Initial Assessment and Neurological Evaluation
 
 ## 2.1 The field and the resuscitation room
@@ -551,12 +546,6 @@ arches.[89] **Vertebral artery occlusion** is rare but reported.[90]
 <figcaption><p><strong>Figure 2. The first cervical vertebra (atlas, C1) from above: anterior and posterior arches, paired lateral masses, and transverse foramina. Because the ring is closed, it cannot fracture in only one place. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 2. The first cervical vertebra (atlas, C1) from above: anterior
-and posterior arches, paired lateral masses, and transverse foramina.
-Because the ring is closed, it cannot fracture in only one place. From
-Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia
-Commons.
-
 The stability of a C1 fracture is decided not by the bone but by the
 **transverse atlantal ligament**. The traditional radiographic surrogate
 is the **combined lateral overhang of the C1 lateral masses on C2** on
@@ -585,11 +574,6 @@ techniques).[94]
 <img src="/images/topics/spine-fractures-amyelic/rId139.jpg" alt="Figure 3. CT of a Jefferson (C1 burst) fracture: axial and coronal images with arrows marking the breaks in the anterior and posterior arches of the atlas. From Utz et al. (2013), Insights into Imaging 5(1):67-75, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 3. CT of a Jefferson (C1 burst) fracture: axial and coronal images with arrows marking the breaks in the anterior and posterior arches of the atlas. From Utz et al. (2013), Insights into Imaging 5(1):67-75, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 3. CT of a Jefferson (C1 burst) fracture: axial and coronal
-images with arrows marking the breaks in the anterior and posterior
-arches of the atlas. From Utz et al. (2013), Insights into Imaging
-5(1):67-75, CC BY 4.0, via Wikimedia Commons.
 
 ## 5.4 Transverse-ligament injury and traumatic atlanto-axial instability
 
@@ -654,11 +638,6 @@ displacement).[105]
 <figcaption><p><strong>Figure 4. The axis (C2) from above, showing the odontoid process (dens) and the facets for the transverse and alar ligaments. The dens base is the site of the high-nonunion type II fracture. From Gray’s Anatomy (H. V. Carter, 1918), public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 4. The axis (C2) from above, showing the odontoid process (dens)
-and the facets for the transverse and alar ligaments. The dens base is
-the site of the high-nonunion type II fracture. From Gray’s Anatomy (H.
-V. Carter, 1918), public domain, via Wikimedia Commons.
-
 Nonunion of type II is common, reported around **30%** (Greene et al.,
 340 injuries), with as little as 66% union in a halo and under 50% in
 some series, and **displacement of 50% or more raises the risk of both
@@ -676,10 +655,6 @@ other series dispute the excess mortality.[108]
 <img src="/images/topics/spine-fractures-amyelic/rId162.jpg" alt="Figure 5. Sagittal cervical CT of a fracture through the base of the dens (arrow): a type II odontoid fracture, the high-nonunion pattern. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 5. Sagittal cervical CT of a fracture through the base of the dens (arrow): a type II odontoid fracture, the high-nonunion pattern. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 5. Sagittal cervical CT of a fracture through the base of the
-dens (arrow): a type II odontoid fracture, the high-nonunion pattern.
-Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.
 
 Operative indications in the younger patient are **displacement over 5
 mm, angulation over 10°, neurological deficit, substantial comminution,
@@ -728,11 +703,6 @@ osteosynthesis with a C2 pedicle screw that preserves motion.[117]
 <img src="/images/topics/spine-fractures-amyelic/rId175.jpg" alt="Figure 6. CT of a hangman’s fracture (traumatic spondylolisthesis of the axis): sagittal and axial images with arrows at the bilateral C2 pars fractures. From Utz et al. (2013), Insights into Imaging 5(1):67-75, CC BY 4.0, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 6. CT of a hangman’s fracture (traumatic spondylolisthesis of the axis): sagittal and axial images with arrows at the bilateral C2 pars fractures. From Utz et al. (2013), Insights into Imaging 5(1):67-75, CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 6. CT of a hangman’s fracture (traumatic spondylolisthesis of the
-axis): sagittal and axial images with arrows at the bilateral C2 pars
-fractures. From Utz et al. (2013), Insights into Imaging 5(1):67-75, CC
-BY 4.0, via Wikimedia Commons.
 
 # Part VI - Subaxial Cervical Injuries (C3-C7)
 
@@ -865,12 +835,6 @@ can be catastrophic.[137]
 <figcaption><p><strong>Figure 7. Sagittal CT of an ankylosed (bamboo) spine with a transverse fracture at the cervicothoracic junction: the highly unstable, long-bone-like fracture pattern of the stiff spine. (Used to illustrate an unstable transvertebral cervical pattern.) From Ushijima et al., CC BY 4.0, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
 
-Figure 7. Sagittal CT of an ankylosed (bamboo) spine with a transverse
-fracture at the cervicothoracic junction: the highly unstable,
-long-bone-like fracture pattern of the stiff spine. (Used to illustrate
-an unstable transvertebral cervical pattern.) From Ushijima et al., CC
-BY 4.0, via Wikimedia Commons.
-
 # Part VII - Thoracolumbar Injuries
 
 ## 7.1 The Denis four injury types
@@ -898,11 +862,6 @@ can be the only sign of a tension-band (distraction) injury.[139]
 <img src="/images/topics/spine-fractures-amyelic/rId209.jpg" alt="Figure 8. Lateral lumbar radiograph of a compression (wedge) fracture at L4 (arrow): anterior-column failure with an intact posterior cortex, the typically stable Denis compression injury. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 8. Lateral lumbar radiograph of a compression (wedge) fracture at L4 (arrow): anterior-column failure with an intact posterior cortex, the typically stable Denis compression injury. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 8. Lateral lumbar radiograph of a compression (wedge) fracture at
-L4 (arrow): anterior-column failure with an intact posterior cortex, the
-typically stable Denis compression injury. Source: James Heilman, MD,
-via Wikimedia Commons, CC BY-SA 3.0.
 
 ## 7.2 The TLICS score
 
@@ -1001,18 +960,10 @@ centres operate routinely.[151]
 <figcaption><p><strong>Figure 9. Sagittal CT of an L4 burst fracture: a retropulsed fragment encroaches on the spinal canal (arrow), the hallmark of middle-column failure. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
 
-Figure 9. Sagittal CT of an L4 burst fracture: a retropulsed fragment
-encroaches on the spinal canal (arrow), the hallmark of middle-column
-failure. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
-
 <figure>
 <img src="/images/topics/spine-fractures-amyelic/rId230.jpg" alt="Figure 10. Axial CT of the same L4 burst fracture: comminution of the vertebral body with a retropulsed fragment narrowing the canal. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 10. Axial CT of the same L4 burst fracture: comminution of the vertebral body with a retropulsed fragment narrowing the canal. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 10. Axial CT of the same L4 burst fracture: comminution of the
-vertebral body with a retropulsed fragment narrowing the canal. Source:
-James Heilman, MD, via Wikimedia Commons, CC BY-SA 4.0.
 
 ## 7.5 Flexion-distraction (Chance) and fracture-dislocation
 
@@ -1037,19 +988,10 @@ posterior approach.[154]
 <figcaption><p><strong>Figure 11. Lateral radiograph of a Chance (flexion-distraction / seat-belt) fracture (circled): a horizontal tension-band injury. The seat-belt sign mandates a search for abdominal injury. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
 
-Figure 11. Lateral radiograph of a Chance (flexion-distraction /
-seat-belt) fracture (circled): a horizontal tension-band injury. The
-seat-belt sign mandates a search for abdominal injury. Source: James
-Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.
-
 <figure>
 <img src="/images/topics/spine-fractures-amyelic/rId240.jpg" alt="Figure 12. Sagittal CT of the same Chance fracture, showing the horizontal split running through the vertebra. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0." />
 <figcaption><p><strong>Figure 12. Sagittal CT of the same Chance fracture, showing the horizontal split running through the vertebra. Source: James Heilman, MD, via Wikimedia Commons, CC BY-SA 3.0.</strong></p></figcaption>
 </figure>
-
-Figure 12. Sagittal CT of the same Chance fracture, showing the
-horizontal split running through the vertebra. Source: James Heilman,
-MD, via Wikimedia Commons, CC BY-SA 3.0.
 
 ## 7.6 Osteoporotic vertebral compression fractures
 
@@ -1074,11 +1016,6 @@ loss.[158]
 <img src="/images/topics/spine-fractures-amyelic/rId248.jpg" alt="Figure 13. Balloon kyphoplasty for an osteoporotic vertebral compression fracture: before-and-after lateral radiographs with bone cement in the treated body. Current guidelines favour kyphoplasty over vertebroplasty. Source: Rei Momomura, via Wikimedia Commons, CC BY 4.0." />
 <figcaption><p><strong>Figure 13. Balloon kyphoplasty for an osteoporotic vertebral compression fracture: before-and-after lateral radiographs with bone cement in the treated body. Current guidelines favour kyphoplasty over vertebroplasty. Source: Rei Momomura, via Wikimedia Commons, CC BY 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 13. Balloon kyphoplasty for an osteoporotic vertebral compression
-fracture: before-and-after lateral radiographs with bone cement in the
-treated body. Current guidelines favour kyphoplasty over vertebroplasty.
-Source: Rei Momomura, via Wikimedia Commons, CC BY 4.0.
 
 # Part VIII - Principles of Treatment
 
@@ -1108,11 +1045,6 @@ have narrowed its use considerably.[163]
 <img src="/images/topics/spine-fractures-amyelic/rId258.jpg" alt="Figure 14. The halo vest (halothoracic orthosis): a cranial ring on skull pins linked by uprights to a thoracic vest, the most effective non-operative control of upper-cervical motion. Source: BruceBlaus, via Wikimedia Commons, CC BY-SA 4.0." />
 <figcaption><p><strong>Figure 14. The halo vest (halothoracic orthosis): a cranial ring on skull pins linked by uprights to a thoracic vest, the most effective non-operative control of upper-cervical motion. Source: BruceBlaus, via Wikimedia Commons, CC BY-SA 4.0.</strong></p></figcaption>
 </figure>
-
-Figure 14. The halo vest (halothoracic orthosis): a cranial ring on
-skull pins linked by uprights to a thoracic vest, the most effective
-non-operative control of upper-cervical motion. Source: BruceBlaus, via
-Wikimedia Commons, CC BY-SA 4.0.
 
 ## 8.2 Skull traction, closed reduction, and the weight rules
 
@@ -1177,12 +1109,6 @@ the retropulsed fragment has rotated 180°.[175]
 <img src="/images/topics/spine-fractures-amyelic/rId275.jpg" alt="Figure 15. Posterior spinal instrumentation: pedicle screws and dual rods, the biomechanically superior construct for the thoracolumbar spine. (Illustrative post-fusion film of a deformity correction rather than a fracture.) Image by Wikipedia user Silverjonny, public domain, via Wikimedia Commons." />
 <figcaption><p><strong>Figure 15. Posterior spinal instrumentation: pedicle screws and dual rods, the biomechanically superior construct for the thoracolumbar spine. (Illustrative post-fusion film of a deformity correction rather than a fracture.) Image by Wikipedia user Silverjonny, public domain, via Wikimedia Commons.</strong></p></figcaption>
 </figure>
-
-Figure 15. Posterior spinal instrumentation: pedicle screws and dual
-rods, the biomechanically superior construct for the thoracolumbar
-spine. (Illustrative post-fusion film of a deformity correction rather
-than a fracture.) Image by Wikipedia user Silverjonny, public domain,
-via Wikimedia Commons.
 
 The principal **complications** to recall are, for the anterior cervical
 approach, dysphagia (up to 50%, mostly subclinical), recurrent laryngeal

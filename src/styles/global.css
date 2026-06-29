@@ -306,11 +306,26 @@ h1, h2, h3, h4 {
   text-align: center;
 }
 
-.topic-body figure img {
+.topic-body img {
   display: block;
   max-width: 100%;
   height: auto;
+  margin: 1.5em auto;
+}
+
+.topic-body figure img {
   margin: 0 auto;
+  max-height: 80vh;
+  object-fit: contain;
+}
+
+/* Stripping out width/height attributes from pandoc-generated images
+   that would otherwise force overflow on narrow content columns. */
+.topic-body img[width],
+.topic-body img[height] {
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .topic-body figcaption {

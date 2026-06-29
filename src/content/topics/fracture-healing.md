@@ -53,7 +53,7 @@ transverse to the long axis, then remodels.[3]
 
 **Figure 2.** Schematic of endochondral bone development showing the
 osteoclastic cutting cone (cc) - the same mechanism that crosses the
-fracture in primary (Haversian) healing. *From Khan et al. (2020),
+fracture in primary (Haversian) healing. *From Khan et al. (2020),
 Arthritis Res Ther 22:168, PMC7488094, CC BY 4.0.*
 
 **Secondary (indirect) healing** is the natural, evolved process that
@@ -317,117 +317,117 @@ Nonunions divide by their biology:
     insufficient callus, often after inadequate reduction.[37]
 
 # References
-1.  Rockwood & Green, ch. 2, p. 98; AO Principles ch. 1.2, p. 29.
+1.  Rockwood & Green, ch. 2, p. 98; AO Principles ch. 1.2, p. 29.
 
-2.  AO p. 32, 39. Historically, primary healing was not the goal but an
+2.  AO p. 32, 39. Historically, primary healing was not the goal but an
     observed by-product of Danis’s rigid fixation aimed at early
     movement.
 
-3.  AO pp. 42-43; the precise µm thresholds are standard teaching, the
+3.  AO pp. 42-43; the precise µm thresholds are standard teaching, the
     textbook describing contact healing qualitatively as “contact or
     only a minute gap.” Direct healing is *slower* than callus healing,
     so the implant must stay stable for a long time.
 
-4.  AO p. 32, 37; Rockwood p. 133.
+4.  AO p. 32, 37; Rockwood p. 133.
 
-5.  AO p. 37.
+5.  AO p. 37.
 
-6.  AO pp. 34, 42-43.
+6.  AO pp. 34, 42-43.
 
-7.  AO p. 32-33; Rockwood p. 103; Skeletal Trauma p. 150. The timelines
+7.  AO p. 32-33; Rockwood p. 103; Skeletal Trauma p. 150. The timelines
     below are AO’s.
 
-8.  AO p. 33; Rockwood pp. 98-101. A controlled pro-inflammatory phase
+8.  AO p. 33; Rockwood pp. 98-101. A controlled pro-inflammatory phase
     is essential, but it must resolve for healing to progress.
 
-9.  AO p. 33; Rockwood p. 105 (Sox9-driven chondrogenesis).
+9.  AO p. 33; Rockwood p. 105 (Sox9-driven chondrogenesis).
 
-10. AO p. 33; Rockwood pp. 105-106.
+10. AO p. 33; Rockwood pp. 105-106.
 
-11. AO p. 33; Rockwood p. 107.
+11. AO p. 33; Rockwood p. 107.
 
-12. AO p. 38 (granulation 100%, bone 2%); the cartilage ~15% value is
-    given at AO ch. 1.3 p. 47. Strain = ΔL/L, dimensionless.
+12. AO p. 38 (granulation 100%, bone 2%); the cartilage ~15% value is
+    given at AO ch. 1.3 p. 47. Strain = ΔL/L, dimensionless.
 
-13. AO p. 39; Rockwood p. 110.
+13. AO p. 39; Rockwood p. 110.
 
-14. AO p. 39.
+14. AO p. 39.
 
-15. AO p. 39.
+15. AO p. 39.
 
-16. AO p. 38.
+16. AO p. 38.
 
-17. Rockwood pp. 99, 132-134.
+17. Rockwood pp. 99, 132-134.
 
-18. Rockwood pp. 99-100, 105.
+18. Rockwood pp. 99-100, 105.
 
-19. Rockwood pp. 101-106.
+19. Rockwood pp. 101-106.
 
-20. Rockwood p. 100 (RANK/RANKL); OPG and the M-CSF role are standard
+20. Rockwood p. 100 (RANK/RANKL); OPG and the M-CSF role are standard
     teaching, not named in these extracts.
 
-21. AO p. 32; Rockwood p. 99; the classic “centrifugal” description is
+21. AO p. 32; Rockwood p. 99; the classic “centrifugal” description is
     from Rhinelander, though AO’s text uses “centripetal” for the same
     medullary system.
 
-22. AO pp. 31-32. Devitalising the periosteum predisposes to nonunion.
+22. AO pp. 31-32. Devitalising the periosteum predisposes to nonunion.
 
-23. Rockwood ch. 3 p. 125 enumerates the requirements (viable cells,
+23. Rockwood ch. 3 p. 125 enumerates the requirements (viable cells,
     vascularity, growth factors, stability); the “diamond concept”
     eponym (Giannoudis) is standard teaching.
 
-24. AO pp. 30-32; Rockwood pp. 99, 109-110. Concomitant
+24. AO pp. 30-32; Rockwood pp. 99, 109-110. Concomitant
     bone-plus-vascular injury carries a nonunion rate near 50%; the
     scaphoid’s tenuous blood supply explains its high nonunion rate.
 
-25. Rockwood pp. 107-110.
+25. Rockwood pp. 107-110.
 
-26. Rockwood p. 140; Skeletal Trauma p. 100, a genuine source
+26. Rockwood p. 140; Skeletal Trauma p. 100, a genuine source
     disagreement.
 
-27. Skeletal Trauma p. 99; Rockwood p. 126.
+27. Skeletal Trauma p. 99; Rockwood p. 126.
 
-28. Rockwood pp. 126-131; Skeletal Trauma pp. 100-101.
+28. Rockwood pp. 126-131; Skeletal Trauma pp. 100-101.
 
-29. Rockwood pp. 128-130.
+29. Rockwood pp. 128-130.
 
-30. Skeletal Trauma pp. 102-109; Rockwood pp. 130-131.
+30. Skeletal Trauma pp. 102-109; Rockwood pp. 130-131.
 
-31. Skeletal Trauma pp. 119-123; AO p. 33. Platelet-rich plasma is
+31. Skeletal Trauma pp. 119-123; AO p. 33. Platelet-rich plasma is
     osteopromotive at best, with insufficient evidence to recommend
     routinely.
 
-32. Rockwood pp. 143-144.
+32. Rockwood pp. 143-144.
 
-33. Rockwood pp. 108, 141.
+33. Rockwood pp. 108, 141.
 
-34. Rockwood p. 109. About 2.5-10% of fractures fail to heal normally;
+34. Rockwood p. 109. About 2.5-10% of fractures fail to heal normally;
     every nonunion warrants a search for cause, including an endocrine
     work-up.
 
-35. Rockwood p. 110; AO p. 39.
+35. Rockwood p. 110; AO p. 39.
 
-36. Rockwood pp. 109-110.
+36. Rockwood pp. 109-110.
 
 37. Standard teaching; these adult sources divide nonunions only into
     atrophic and hypertrophic.
 
-38. AO pp. 32, 39.
+38. AO pp. 32, 39.
 
-39. AO p. 43; thresholds standard teaching.
+39. AO p. 43; thresholds standard teaching.
 
-40. AO pp. 32-33.
+40. AO pp. 32-33.
 
-41. AO pp. 38-39, 47.
+41. AO pp. 38-39, 47.
 
-42. Rockwood pp. 99-106.
+42. Rockwood pp. 99-106.
 
-43. AO pp. 31-32.
+43. AO pp. 31-32.
 
-44. Rockwood ch. 3 p. 125.
+44. Rockwood ch. 3 p. 125.
 
-45. Skeletal Trauma p. 99; Rockwood p. 126.
+45. Skeletal Trauma p. 99; Rockwood p. 126.
 
-46. Skeletal Trauma pp. 102-109.
+46. Skeletal Trauma pp. 102-109.
 
-47. Rockwood pp. 109-110; oligotrophic from standard teaching.
+47. Rockwood pp. 109-110; oligotrophic from standard teaching.

@@ -24,6 +24,7 @@ status: published
 - [Part XII - Outcomes and survivorship](#part-xii---outcomes-and-survivorship)
 - [Bulgarian terminology (Боев / Boychev tradition) - glossary](#bulgarian-terminology---boychev-tradition---glossary)
 - [Image attributions](#image-attributions)
+- [References](#references)
 
 
 # Introduction and scope
@@ -586,6 +587,8 @@ examination.
 inserted with each image. All images are openly licensed [CC0 / CC BY /
 CC BY-SA] or used under their stated terms; any non-commercial [NC]
 item is flagged as such and must not be used in a commercial product.)*
+
+# References
 
 1.  Berry, *Surgery of the Hip*, p. 440; *The Adult Hip* (Callaghan),
     p. 984, p. 1159.

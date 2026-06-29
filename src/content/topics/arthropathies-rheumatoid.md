@@ -24,6 +24,7 @@ status: published
 - [Part IX - Juvenile idiopathic arthritis](#part-ix---juvenile-idiopathic-arthritis)
 - [Bulgarian terminology (Боев / Boychev tradition) - glossary](#bulgarian-terminology---boychev-tradition---glossary)
 - [Image attributions](#image-attributions)
+- [References](#references)
 
 
 # Introduction and scope
@@ -546,6 +547,8 @@ inserted with each image. All images are openly licensed [CC0 / Public
 Domain / CC BY / CC BY-SA] or used under their stated terms; any
 non-commercial [NC] item is flagged as such and must not be used in a
 commercial product.)*
+
+# References
 
 1.  Kelley & Firestein’s *Textbook of Rheumatology* (10th ed.), p. 1264,
     p. 1269, p. 1323.

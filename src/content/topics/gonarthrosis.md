@@ -26,6 +26,7 @@ status: published
 - [Part X - Complications and outcomes of knee arthroplasty](#part-x---complications-and-outcomes-of-knee-arthroplasty)
 - [Bulgarian terminology (Боев / Boychev tradition) - glossary](#bulgarian-terminology---boychev-tradition---glossary)
 - [Image attributions](#image-attributions)
+- [References](#references)
 
 
 # Introduction and scope
@@ -600,6 +601,8 @@ inserted with each image. All images are openly licensed [CC0 / Public
 Domain / CC BY / CC BY-SA] or used under their stated terms; any
 non-commercial [NC] item is flagged as such and must not be used in a
 commercial product.)*
+
+# References
 
 1.  Insall & Scott, *Surgery of the Knee* (4th ed.), p. 351.
 

@@ -721,6 +721,8 @@ inserted with each image. All images are openly licensed [CC0 / CC BY /
 CC BY-SA] or used under their stated terms; any non-commercial [NC]
 item is flagged as such and must not be used in a commercial product.)*
 
+# References
+
 1.  *Hip Arthroscopy & Hip Joint Preservation Surgery* (Nho/Leunig),
     p. 168, p. 701; Berry, *Surgery of the Hip*, p. 453.
 

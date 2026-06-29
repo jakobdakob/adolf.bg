@@ -840,6 +840,8 @@ are CC0 (public domain).
 *No hip arthrogram was included: no example with a verifiable free
 licence was located.*
 
+# References
+
 1.  The Pediatric and Adolescent Hip (Weinstein & Holt), pp.75-76;
     Wenger & Rang, *Art and Practice of Children’s Orthopaedics*, p.256.
 

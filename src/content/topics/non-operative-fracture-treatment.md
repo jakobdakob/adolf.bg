@@ -830,7 +830,7 @@ non-operatively; bracing ranges from soft and hard collars (which still
 allow ~80% of cervical motion and act mainly as proprioceptive
 reminders) and the **Philadelphia collar** through to the **Jewett
 brace** (three-point, permitting extension but not flexion, for
-flexion-unstable T6-L3 injuries) and the TLSO, though Kim et al. found
+flexion-unstable T6-L3 injuries) and the TLSO, though Kim et al. found
 no advantage of a rigid over a soft or even no brace after an
 osteoporotic compression fracture.[111]
 
@@ -930,7 +930,7 @@ directly from the principles above:
     fractures in the elderly with friable periosteum, where three-point
     fixation cannot work.[127]
   - **An intra-articular fracture exceeding the joint’s congruity
-    tolerance**: a step or gap beyond the regional threshold (e.g. > 2
+    tolerance**: a step or gap beyond the regional threshold (e.g. > 2
     mm at the distal radius).[128]
   - **A threatened limb**: open fracture, neurovascular injury,
     impending or established compartment syndrome, or skin in

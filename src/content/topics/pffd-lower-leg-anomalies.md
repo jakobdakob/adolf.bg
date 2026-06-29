@@ -869,6 +869,8 @@ redistributed derivative carry the same share-alike licence.
 cleanly-licensed real image was located (only an excluded schematic line
 drawing).*
 
+# References
+
 1.  Sabharwal, *Pediatric Lower Limb Deformities*, p.368.
 
 2.  Sabharwal, p.368; Lovell & Winter, *Pediatric Orthopaedics*, p.4766.

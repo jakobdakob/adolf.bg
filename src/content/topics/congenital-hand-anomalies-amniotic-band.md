@@ -511,6 +511,8 @@ public-domain/CC0, CC BY or CC BY-SA (no non-commercial files).
 redistributed derivative keep the same licence); the CC0/public-domain
 images are free of restriction.*
 
+# References
+
 1.  Rayan & Upton, *Congenital Hand Anomalies and Associated Syndromes*,
     p.10; Waters & Bae, *Pediatric Hand and Upper Limb Surgery*, p.17.
 

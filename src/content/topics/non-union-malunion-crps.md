@@ -276,7 +276,7 @@ contracts into a fixed deformity.[38] The prevention is everything: an
 **acute compartment syndrome** is recognised by **pain out of proportion
 and pain on passive stretch** (the “5 Ps” are late and unreliable), and
 the threshold for emergency **fasciotomy** is a **differential pressure
-(ΔP = diastolic blood pressure − compartment pressure) below 30 mmHg**;
+(ΔP = diastolic blood pressure - compartment pressure) below 30 mmHg**;
 muscle tolerates only a few hours of ischaemia before the damage becomes
 irreversible.[39]
 

@@ -70,7 +70,7 @@ grades the injury in each body region from **1 (minor), 2 (moderate), 3
 highest AIS in each of the three most severely injured body regions and
 **sum their squares (ISS = A² + B² + C²)**, giving a range of
 **0-75**.[7] Any single region scored AIS 6 automatically makes the
-ISS 75, and an **ISS above 15 (i.e. ≥ 16, “major trauma”) carries about
+ISS 75, and an **ISS above 15 (i.e. ≥ 16, “major trauma”) carries about
 10% mortality.**[8] Its weakness is that it counts only one injury per
 region, which the **New Injury Severity Score (NISS)** corrects by
 taking the three highest scores regardless of region, and which predicts
@@ -352,7 +352,7 @@ judged by clearance of lactate), early definitive fixation of the spine,
 pelvis, acetabulum and femur within ~36 hours is appropriate for the
 vast majority**, with DCO reserved for those who are not, and will not
 become, stable.[50] The resuscitation thresholds taken to permit early
-definitive surgery are a **pH ≥ 7.25, base excess ≥ −5.5 mmol/L, or
+definitive surgery are a **pH ≥ 7.25, base excess ≥ -5.5 mmol/L, or
 lactate < 4.0 mmol/L.**[51]
 
 ## Who gets damage control: the four grades

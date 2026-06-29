@@ -23,6 +23,7 @@ status: published
   - [Sesamoid disorders](#sesamoid-disorders)
 - [Bulgarian terminology (Боев / Boychev tradition) - glossary](#bulgarian-terminology---boychev-tradition---glossary)
 - [Image attributions](#image-attributions)
+- [References](#references)
 
 
 # Introduction and scope
@@ -567,6 +568,8 @@ inserted with each image. All images are openly licensed [CC0 / Public
 Domain / CC BY / CC BY-SA] or used under their stated terms; any
 non-commercial [NC] item is flagged as such and must not be used in a
 commercial product.)*
+
+# References
 
 1.  Mann’s *Surgery of the Foot and Ankle* (9th ed.), p. 158.
 

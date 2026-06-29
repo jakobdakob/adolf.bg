@@ -793,7 +793,7 @@ past the obvious broken bone to the danger behind it.
     p.1700.
 
 18. Rockwood & Green’s *Fractures in Adults*, pp.1708-1709. The full
-    alphanumeric Robinson subgroups (e.g. 2A
+    alphanumeric Robinson subgroups (e.g. 2A
     undisplaced/cortical-alignment versus 2B displaced, with the 1A/1B
     and 3A/3B subdivisions) are presented in the source as a figure
     rather than transcribed in the text; the type 1/2/3 framework and

@@ -458,6 +458,8 @@ commercially, and any derivative shares the same licence. The CC BY-SA
 images likewise require that a redistributed derivative carry the same
 licence.
 
+# References
+
 1.  Lovell & Winter, p.4315; Ponseti, *Congenital Clubfoot: Fundamentals
     of Treatment*, p.11; Staheli & Ponseti, *Clubfoot: Ponseti
     Management*, p.8.

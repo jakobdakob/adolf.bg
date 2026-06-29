@@ -1055,6 +1055,8 @@ inserted with each image. All images are openly licensed [CC0 / CC BY /
 CC BY-SA] or used under their stated terms; any non-commercial [NC]
 item is flagged as such and must not be used in a commercial product.)*
 
+# References
+
 1.  Lovell & Winter, *Pediatric Orthopaedics*, congenital-scoliosis
     chapter, pp. 718-719: sclerotome induction by Sonic Hedgehog from
     the notochord/floor plate, segment boundaries set by FGF8,

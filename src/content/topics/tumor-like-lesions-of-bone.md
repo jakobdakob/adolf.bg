@@ -145,25 +145,25 @@ contemporary answer should acknowledge it:
   **Primary ABC is now a true (benign) neoplasm defined by a *USP6* gene
   rearrangement** (most often *CDH11-USP6*, t(16;17)(q22;p13));
   **secondary** ABC lacks the rearrangement. The same *USP6* family of
-  fusions appears in nodular fasciitis and myositis ossificans.[^1]
+  fusions appears in nodular fasciitis and myositis ossificans.[23]
 - **Langerhans cell histiocytosis** is now regarded as a **clonal
   neoplastic** proliferation of myeloid dendritic-cell precursors, with
   the activating **BRAF V600E** mutation in roughly half of cases
-  (MAP2K1 in many of the rest)[^2]. This directly contradicts the older
+  (MAP2K1 in many of the rest)[24]. This directly contradicts the older
   WHO wording “non-neoplastic.”
 - **Fibrous dysplasia** is unified by a post-zygotic, somatic
   **activating *GNAS* mutation** (Gsα, codon R201, chromosome 20q13);
   the mosaic distribution explains the whole spectrum from a solitary
-  focus to McCune-Albright syndrome.[^3]
+  focus to McCune-Albright syndrome.[25]
 - **Solid ABC, giant-cell reparative granuloma of the appendicular
   skeleton, and the giant-cell lesion of small bones** share the *USP6*
   rearrangement, confirming that they form one biological family. The
   gnathic (jaw) reparative granuloma, by contrast, is *USP6*-negative
-  and pathogenetically distinct.[^4]
+  and pathogenetically distinct.[26]
 - **Non-ossifying fibroma**, long taught as a developmental defect, is
   now regarded by WHO 2020 as a true (benign) neoplasm: activating,
   mutually exclusive **KRAS or FGFR1** mutations driving MAPK signalling
-  are present in over 80 % of sporadic lesions (ICD-O 8830/0).[^5]
+  are present in over 80 % of sporadic lesions (ICD-O 8830/0).[27]
 
 These updates do not change the *clinical* management taught in the
 reference texts, but they sharpen the differential diagnosis (e.g.,
@@ -360,7 +360,7 @@ rather than curettage for fibrous dysplasia. \# SECTION II - THE
 ## II.1 Solitary (Unicameral) Bone Cyst
 
 **Synonyms / status.** Simple, unicameral, or juvenile bone cyst. A
-**non-neoplastic** lesion.[^6] The term “unicameral” is a mild misnomer
+**non-neoplastic** lesion.[28] The term “unicameral” is a mild misnomer
 because older cysts become multilocular. (A small subset has recently
 been found to carry *EWSR1/FUS-NFATC2* rearrangements, but no defining
 genetic lesion is established.)
@@ -412,7 +412,7 @@ multiple fluid-fluid levels** (those favour ABC). Bone scan shows little
 uptake. Pathological fracture occurs in roughly two-thirds of
 symptomatic cysts, the aspirated fluid characteristically shows a raised
 alkaline phosphatase, and Mirra regards it as the only true *primary*
-cyst of bone, defined by its thin lining membrane.[^7]
+cyst of bone, defined by its thin lining membrane.[29]
 
 **Pathology.** A unicameral cavity with **clear, straw-coloured or
 serosanguineous fluid** and an eggshell cortex. The lining is a thin
@@ -451,7 +451,7 @@ se.
 
 **Prognosis and complications.** Recurrence after curettage and grafting
 is reported between ~20 % and ~45 % (Dorfman ~20 %; Schajowicz 30-45 %);
-steroid injection gives broadly comparable results.[^8] The cyst
+steroid injection gives broadly comparable results.[30] The cyst
 reliably quiesces around puberty. Complications are pathological
 fracture, residual humeral shortening or femoral deformity, and, after
 curettage near the physis, growth arrest. Malignant change is
@@ -572,7 +572,7 @@ ABC superimposed on a giant-cell tumour.
 **Prognosis and complications.** Recurrence after curettage ranges
 widely across series (Campanacci \<10 %; Schajowicz ~17 % after
 curettage, 0 % after resection; Dorfman 20-70 %), almost always within
-the **first two years**.[^9] Overall outcome is good (~90 %
+the **first two years**.[31] Overall outcome is good (~90 %
 satisfactory). Complications include spinal cord/nerve compression and
 paraplegia, recurrence, and rare post-irradiation sarcoma.
 
@@ -727,7 +727,7 @@ thinned cortex, and **no periosteal reaction**. Deformities (shepherd’s
 crook of the proximal femur, bowing) and fatigue fractures are common;
 bone scan is usually “hot,” though Greenspan notes that about 10 % of
 ground-glass lesions show no increased uptake, and CT attenuation runs a
-wide 70-400 HU from the microscopic ossification.[^10]
+wide 70-400 HU from the microscopic ossification.[32]
 
 **Pathology.** Bland spindle-cell stroma in a **whorled/storiform**
 pattern with **trabeculae of woven (immature) bone shaped like “Chinese
@@ -745,7 +745,7 @@ pattern, since *GNAS* does not discriminate), osteofibrous dysplasia
 flame-shaped advancing edge, lamellar mosaic bone), enchondroma/Ollier,
 and non-ossifying fibroma (no metaplastic bone).
 
-**Malignant transformation.** Rare, under ~1 % (Schajowicz ~0.5 %),[^11]
+**Malignant transformation.** Rare, under ~1 % (Schajowicz ~0.5 %),[33]
 higher in **polyostotic/McCune-Albright** disease and after
 **radiotherapy**; usually to osteosarcoma, fibrosarcoma, or MFH, after a
 mean latency of ~13 years, with a poor prognosis.
@@ -815,7 +815,7 @@ Wikimedia Commons.</p></figcaption>
 fibro-osseous lesion that nonetheless sits at the benign end of a
 spectrum with adamantinoma. (Schajowicz dissents, regarding it as merely
 active “intracortical fibrous dysplasia” rather than a separate
-entity.)[^12]
+entity.)[34]
 
 **Definition.** An **intracortical** fibro-osseous lesion of the
 tibia/fibula in young children, resembling fibrous dysplasia **but with
@@ -847,7 +847,7 @@ peripherally); cytokeratin staining reveals **scattered single
 epithelial cells or small nests** in most cases (becoming overt
 epithelial islands in adamantinoma); even keratin-negative lesions show
 epithelial tonofilaments on electron microscopy, the molecular thread
-linking osteofibrous dysplasia to differentiated adamantinoma.[^13]
+linking osteofibrous dysplasia to differentiated adamantinoma.[35]
 
 **The OFD-adamantinoma spectrum.** OFD → **OFD-like / “differentiated
 (regressing)” / juvenile intracortical adamantinoma** → **classic
@@ -863,7 +863,7 @@ chromosomal trisomies (7, 8, 12, 21) support a genuine relationship.
 tumour**, usually of the **tibial diaphysis (80-90 %)** in adults aged
 20-40, with overt epithelial islands; it **metastasises in ~15 %**
 (lung, late) and requires **wide resection** (intralesional/marginal
-surgery recurs). Cure approaches ~90 % with adequate surgery.[^14]
+surgery recurs). Cure approaches ~90 % with adequate surgery.[36]
 
 **Treatment of OFD.** **Defer surgery**: OFD recurs if excised before it
 stabilises and tends to **regress spontaneously after ~10-12 years**.
@@ -954,7 +954,7 @@ large, painful, develop a secondary ABC, or threaten fracture. The
 classic fracture threshold: a lesion occupying **\>50 % of the
 transverse bone diameter** (the Arata/Drennan criterion; \>33 mm length
 is also quoted) is fracture-prone and warrants prophylactic curettage
-and grafting; the commonest fracture site is the **distal tibia**.[^15]
+and grafting; the commonest fracture site is the **distal tibia**.[37]
 
 **Jaffe-Campanacci syndrome.** Multiple NOFs + **café-au-lait
 macules** + extraskeletal anomalies (hypogonadism/cryptorchidism, ocular
@@ -992,7 +992,7 @@ alt="Histology. Non-ossifying fibroma - a storiform (cartwheel) spindle-cell pro
 histiocytosis X (**Lichtenstein, 1953**), Langerhans cell histiocytosis.
 The older WHO definition calls it **non-neoplastic**. The modern
 consensus, codified by WHO 2020, is that LCH is a **clonal neoplasm** of
-myeloid dendritic-cell precursors, with **BRAF V600E** in ~50-60 %.[^16]
+myeloid dendritic-cell precursors, with **BRAF V600E** in ~50-60 %.[38]
 
 **Definition.** A proliferation of **Langerhans-type histiocytes**
 admixed with **eosinophils**, spanning a clinical spectrum from a
@@ -1005,7 +1005,7 @@ disease.
   most benign form; bone-only; excellent prognosis.
 - **Hand-Schüller-Christian disease** - chronic disseminated form; the
   classic triad is **skull lytic defects + exophthalmos + diabetes
-  insipidus** (the complete triad is actually rare).[^17] Onset usually
+  insipidus** (the complete triad is actually rare).[39] Onset usually
   at 3-5 years.
 - **Letterer-Siwe disease** - acute disseminated form of **infants under
   ~3 years**, with visceral involvement, a seborrhoeic-eczema-like rash,
@@ -1156,7 +1156,7 @@ hypercalcaemic syndrome, “**stones, bones, groans, and psychiatric
 moans**” (renal stones, bone pain/fractures, abdominal/peptic symptoms,
 neuropsychiatric features). The diagnosis is **biochemical**: ↑ serum
 (ionised) calcium, ↓ phosphate, ↑ alkaline phosphatase, and, the
-pathognomonic test, **↑ parathyroid hormone**.[^18] *Caveat:* with renal
+pathognomonic test, **↑ parathyroid hormone**.[40] *Caveat:* with renal
 failure the calcium/phosphate changes may be muted, so a normal calcium
 does **not** exclude hyperparathyroidism.
 
@@ -1177,7 +1177,7 @@ made by examining the adjacent bone (microlacunar resorption) and, above
 all, by the **biochemistry**: a normal calcium and phosphate exclude a
 brown tumour and point to a reparative granuloma, while subperiosteal
 resorption is sought first on the radial border of the middle phalanges
-of the index and middle fingers.[^19]
+of the index and middle fingers.[41]
 
 **Treatment.** **Treat the hyperparathyroidism, not the bone lesion**:
 excise the adenoma (or perform subtotal parathyroidectomy for
@@ -1253,7 +1253,7 @@ than the blood that fills an aneurysmal bone cyst.
 
 **Treatment.** **Thorough curettage with or without grafting** is
 usually curative for jaw and hand/foot lesions; recurrence is ~30-50 %
-(usually within ~15 months).[^20] Extensive small-bone lesions or
+(usually within ~15 months).[42] Extensive small-bone lesions or
 recurrences may need marginal en-bloc resection or ray amputation (no
 recurrence after resection). Radiotherapy is effective but reserved;
 transient responses to steroid/calcitonin/interferon are reported for
@@ -1311,7 +1311,7 @@ heterotopic ossification** complicates head/spinal-cord injury, burns,
 and prolonged coma (typically around the hips), and these neurogenic
 lesions notably show **no zonal architecture and no peripheral bone
 shell**. Fibrodysplasia ossificans progressiva is caused by a germline
-**ACVR1 (R206H)** mutation.[^21]
+**ACVR1 (R206H)** mutation.[43]
 
 **Sites.** Deep soft tissue/muscle of the limbs - classically the
 **quadriceps/thigh**, the **brachialis at the elbow**, and the
@@ -1348,7 +1348,7 @@ zoning”).** This is the single highest-yield point and is tabulated in
 Section III. In brief: maturation is **centrifugal (mature outside)** in
 myositis ossificans and **centripetal/central** in osteosarcoma; a
 parosteal lesion fused seamlessly to the posterior distal-femoral cortex
-should be treated as suspicious.[^22]
+should be treated as suspicious.[44]
 
 **Treatment.** **Observation** first (some regress). **Marginal excision
 is curative but only after the lesion has fully matured**, because early
@@ -1463,7 +1463,7 @@ differential cousins are osteopathia striata and melorheostosis.
 
 **Massive osteolysis - Gorham-Stout disease.**
 “Vanishing/phantom/disappearing bone disease” (**Gorham & Stout,
-1955**):[^23] a rare, non-neoplastic, self-limited **progressive
+1955**):[45] a rare, non-neoplastic, self-limited **progressive
 dissolution of bone** with proliferation of thin-walled
 vascular/lymphatic channels replacing bone, then fibrous tissue. It
 affects children and young adults, crosses joints and bony boundaries,
@@ -1791,6 +1791,31 @@ replacement.
 22. Bullough PG. *Orthopaedic Pathology.* 4th ed. Edinburgh: Mosby;
     2004.
 
+23. Oliveira AM, Perez-Atayde AR, Inwards CY, et al. USP6 and CDH11 oncogenes identify the neoplastic cell in primary aneurysmal bone cysts and are absent in so-called secondary aneurysmal bone cysts. *Am J Pathol* 2004;165(5):1773-80. WHO Classification of Tumours: Soft Tissue and Bone Tumours, 5th ed. (IARC, 2020), pp.447-449, lists aneurysmal bone cyst as a benign neoplasm (ICD-O 9260/0) with a *USP6* rearrangement in about 70 % of cases.
+24. Badalian-Very G, Vergilio JA, Degar BA, et al. Recurrent BRAF mutations in Langerhans cell histiocytosis. *Blood* 2010;116(11):1919-23 (BRAF V600E in ~57 %). WHO 2020 (pp.502-504) classifies Langerhans cell histiocytosis as a clonal neoplasm - ICD-O 9751/1, or 9751/3 when disseminated - with MAPK-pathway mutations, chiefly *BRAF* p.V600E, in over 85 % of cases.
+25. Weinstein LS, Shenker A, Gejman PV, et al. Activating mutations of the stimulatory G protein in the McCune-Albright syndrome. *N Engl J Med* 1991;325(24):1688-95. WHO 2020 (pp.482-484) classifies fibrous dysplasia as a benign fibro-osseous neoplasm (ICD-O 8818/0), with activating *GNAS* mutations in 50-70 % of cases (p.R201H ≈ 66 %, p.R201C ≈ 31 %).
+26. WHO 2020 (pp.447-448) folds the former “giant cell lesion of the small bones” into the solid subtype of aneurysmal bone cyst.
+27. WHO 2020, pp.457-458; the germline *NF1* mutation underlies the multiple non-ossifying fibromas of neurofibromatosis type 1 and the Jaffe-Campanacci syndrome.
+28. WHO 2020 (pp.477-479) retains simple bone cyst as a non-neoplastic cystic lesion of unknown pathogenesis (no ICD-O code; molecular testing “not clinically relevant”), with a local recurrence rate of 10-20 % and spontaneous healing after pathological fracture in about 10 %.
+29. Greenspan & Beltran, *Orthopedic Imaging*, 6th ed., pp.1663-1664; Mirra, *Bone Tumors*, p.223.
+30. Schajowicz p.527; Campanacci p.795 (~30 % in active cysts); Dorfman & Czerniak, Ch. 15 (≈20 % after either curettage or steroid injection).
+31. Campanacci p.830; Schajowicz p.545; Dorfman & Czerniak, Ch. 15. The wide spread reflects differences in adjuvant use and case mix across series.
+32. Greenspan & Beltran, *Orthopedic Imaging*, 6th ed., pp.1609, 1619.
+33. Dorfman & Czerniak, Ch. 8 (\<1 %); Schajowicz p.593 (~0.5 %, citing Schwartz & Alpert).
+34. WHO 2020 (pp.470-472) keeps osteofibrous dysplasia a benign fibro-osseous tumour with no assigned ICD-O code and no causative molecular alteration; tellingly, the *GNAS* mutation of fibrous dysplasia is absent, and germline *MET* mutations occur in hereditary forms.
+35. Bullough, *Orthopaedic Pathology*, 4th ed., pp.454-455; Greenspan p.1641 (the lamellar-rimmed “dressed trabeculae” of osteofibrous dysplasia versus the naked woven trabeculae of fibrous dysplasia).
+36. Campanacci pp.716, 728.
+37. Dorfman & Czerniak, Ch. 9 - in a series of NOF pathological fractures, the lesions that fractured exceeded ~50 % of the transverse bone diameter, most often in the distal tibia.
+38. WHO 2020, pp.502-504 (ICD-O 9751/1; MAPK mutations in \>85 %, chiefly *BRAF* p.V600E). Mandibular disease causes “floating teeth” from loss of supporting alveolar bone, and the bevelled skull edge reflects uneven destruction of the inner and outer tables - Greenspan pp.1750-1751.
+39. Schajowicz p.568 - the complete triad was present in only ~6 of 129 cases in Cheyne’s series.
+40. Campanacci p.879 (PTH the most important/pathognomonic test); Schajowicz p.605.
+41. Bullough, *Orthopaedic Pathology*, 4th ed., p.471 (normocalcaemia and normophosphataemia distinguish reparative granuloma from brown tumour); Greenspan p.2147.
+42. Schajowicz p.616 (30-50 %); term “giant-cell reparative granuloma” proposed by Lorenzo & Dorfman, 1980; original jaw description Jaffe, 1953.
+43. Shore EM, Xu M, Feldman GJ, et al. A recurrent mutation in the BMP type I receptor ACVR1 causes inherited and sporadic fibrodysplasia ossificans progressiva. *Nat Genet* 2006;38(5):525-7 (617G→A, R206H).
+44. Schajowicz p.602 and Dorfman & Czerniak, Ch. 23 - both designate the zonal architecture the single most important feature distinguishing myositis ossificans from surface osteosarcoma.
+45. Gorham LW, Stout AP. Massive osteolysis (acute spontaneous absorption of bone, phantom bone, disappearing bone): its relation to hemangiomatosis. *J Bone Joint Surg Am* 1955;37-A:985-1004; clinical account per Campanacci pp.840-841.
+
+
 # Figure Credits and Licences
 
 All figures are radiographs, clinical photographs, or photomicrographs
@@ -1862,107 +1887,3 @@ accordingly.
   Commons.
   <https://commons.wikimedia.org/wiki/File:Central_giant_cell_granuloma_-_intermed_mag.jpg>
 - Langerhans cell histiocytosis (eosinophils + Langerhans cells) -
-  Jensflorian, CC BY-SA 3.0, Wikimedia Commons.
-  <https://commons.wikimedia.org/wiki/File:Langerhans-cell-histiocytosis-eosinophilic_granuloma.jpg>
-
-[^1]: Oliveira AM, Perez-Atayde AR, Inwards CY, et al. USP6 and CDH11
-    oncogenes identify the neoplastic cell in primary aneurysmal bone
-    cysts and are absent in so-called secondary aneurysmal bone cysts.
-    *Am J Pathol* 2004;165(5):1773-80. WHO Classification of Tumours:
-    Soft Tissue and Bone Tumours, 5th ed. (IARC, 2020), pp.447-449,
-    lists aneurysmal bone cyst as a benign neoplasm (ICD-O 9260/0) with
-    a *USP6* rearrangement in about 70 % of cases.
-
-[^2]: Badalian-Very G, Vergilio JA, Degar BA, et al. Recurrent BRAF
-    mutations in Langerhans cell histiocytosis. *Blood*
-    2010;116(11):1919-23 (BRAF V600E in ~57 %). WHO 2020 (pp.502-504)
-    classifies Langerhans cell histiocytosis as a clonal neoplasm -
-    ICD-O 9751/1, or 9751/3 when disseminated - with MAPK-pathway
-    mutations, chiefly *BRAF* p.V600E, in over 85 % of cases.
-
-[^3]: Weinstein LS, Shenker A, Gejman PV, et al. Activating mutations of
-    the stimulatory G protein in the McCune-Albright syndrome. *N Engl J
-    Med* 1991;325(24):1688-95. WHO 2020 (pp.482-484) classifies fibrous
-    dysplasia as a benign fibro-osseous neoplasm (ICD-O 8818/0), with
-    activating *GNAS* mutations in 50-70 % of cases (p.R201H ≈ 66 %,
-    p.R201C ≈ 31 %).
-
-[^4]: WHO 2020 (pp.447-448) folds the former “giant cell lesion of the
-    small bones” into the solid subtype of aneurysmal bone cyst.
-
-[^5]: WHO 2020, pp.457-458; the germline *NF1* mutation underlies the
-    multiple non-ossifying fibromas of neurofibromatosis type 1 and the
-    Jaffe-Campanacci syndrome.
-
-[^6]: WHO 2020 (pp.477-479) retains simple bone cyst as a non-neoplastic
-    cystic lesion of unknown pathogenesis (no ICD-O code; molecular
-    testing “not clinically relevant”), with a local recurrence rate of
-    10-20 % and spontaneous healing after pathological fracture in about
-    10 %.
-
-[^7]: Greenspan & Beltran, *Orthopedic Imaging*, 6th ed., pp.1663-1664;
-    Mirra, *Bone Tumors*, p.223.
-
-[^8]: Schajowicz p.527; Campanacci p.795 (~30 % in active cysts);
-    Dorfman & Czerniak, Ch. 15 (≈20 % after either curettage or steroid
-    injection).
-
-[^9]: Campanacci p.830; Schajowicz p.545; Dorfman & Czerniak, Ch. 15.
-    The wide spread reflects differences in adjuvant use and case mix
-    across series.
-
-[^10]: Greenspan & Beltran, *Orthopedic Imaging*, 6th ed., pp.1609,
-    1619.
-
-[^11]: Dorfman & Czerniak, Ch. 8 (\<1 %); Schajowicz p.593 (~0.5 %,
-    citing Schwartz & Alpert).
-
-[^12]: WHO 2020 (pp.470-472) keeps osteofibrous dysplasia a benign
-    fibro-osseous tumour with no assigned ICD-O code and no causative
-    molecular alteration; tellingly, the *GNAS* mutation of fibrous
-    dysplasia is absent, and germline *MET* mutations occur in
-    hereditary forms.
-
-[^13]: Bullough, *Orthopaedic Pathology*, 4th ed., pp.454-455; Greenspan
-    p.1641 (the lamellar-rimmed “dressed trabeculae” of osteofibrous
-    dysplasia versus the naked woven trabeculae of fibrous dysplasia).
-
-[^14]: Campanacci pp.716, 728.
-
-[^15]: Dorfman & Czerniak, Ch. 9 - in a series of NOF pathological
-    fractures, the lesions that fractured exceeded ~50 % of the
-    transverse bone diameter, most often in the distal tibia.
-
-[^16]: WHO 2020, pp.502-504 (ICD-O 9751/1; MAPK mutations in \>85 %,
-    chiefly *BRAF* p.V600E). Mandibular disease causes “floating teeth”
-    from loss of supporting alveolar bone, and the bevelled skull edge
-    reflects uneven destruction of the inner and outer tables -
-    Greenspan pp.1750-1751.
-
-[^17]: Schajowicz p.568 - the complete triad was present in only ~6 of
-    129 cases in Cheyne’s series.
-
-[^18]: Campanacci p.879 (PTH the most important/pathognomonic test);
-    Schajowicz p.605.
-
-[^19]: Bullough, *Orthopaedic Pathology*, 4th ed., p.471 (normocalcaemia
-    and normophosphataemia distinguish reparative granuloma from brown
-    tumour); Greenspan p.2147.
-
-[^20]: Schajowicz p.616 (30-50 %); term “giant-cell reparative
-    granuloma” proposed by Lorenzo & Dorfman, 1980; original jaw
-    description Jaffe, 1953.
-
-[^21]: Shore EM, Xu M, Feldman GJ, et al. A recurrent mutation in the
-    BMP type I receptor ACVR1 causes inherited and sporadic
-    fibrodysplasia ossificans progressiva. *Nat Genet* 2006;38(5):525-7
-    (617G→A, R206H).
-
-[^22]: Schajowicz p.602 and Dorfman & Czerniak, Ch. 23 - both designate
-    the zonal architecture the single most important feature
-    distinguishing myositis ossificans from surface osteosarcoma.
-
-[^23]: Gorham LW, Stout AP. Massive osteolysis (acute spontaneous
-    absorption of bone, phantom bone, disappearing bone): its relation
-    to hemangiomatosis. *J Bone Joint Surg Am* 1955;37-A:985-1004;
-    clinical account per Campanacci pp.840-841.

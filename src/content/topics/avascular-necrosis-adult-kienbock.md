@@ -645,6 +645,8 @@ must be removed or replaced if this material is ever used commercially.
 The CC BY-SA images require that any redistributed derivative carry the
 same share-alike licence; the CC0 image is public-domain.
 
+# References
+
 1.  Osteonecrosis (Koo, Mont & Jones), p.21.
 
 2.  Surgery of the Hip (Berry), p.432.

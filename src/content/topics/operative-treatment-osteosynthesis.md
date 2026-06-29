@@ -286,15 +286,15 @@ surgeon chooses the function by the way the plate is applied. The AO
 text lists **six plate functions**:[47]
 
 1.  **Compression**: the plate compresses a simple fracture to achieve
-    absolute stability (e.g. a transverse humeral shaft).
+    absolute stability (e.g. a transverse humeral shaft).
 2.  **Protection (neutralisation)**: the plate neutralises bending and
     torsional forces to **protect a lag screw** that is providing the
-    compression (e.g. a simple oblique radial fracture).
+    compression (e.g. a simple oblique radial fracture).
 3.  **Buttress (antiglide)**: the plate resists axial load by **applying
     force at 90° to the axis of potential deformity**, supporting a
-    metaphyseal split (e.g. a lateral tibial plateau).
+    metaphyseal split (e.g. a lateral tibial plateau).
 4.  **Tension band**: placed on the **tension (convex) side**, the plate
-    converts tensile force into compression at the far cortex (e.g. the
+    converts tensile force into compression at the far cortex (e.g. the
     olecranon; see Part VI).
 5.  **Bridging**: the plate spans a comminuted zone, fixed only to the
     two main fragments, giving **relative stability** and callus

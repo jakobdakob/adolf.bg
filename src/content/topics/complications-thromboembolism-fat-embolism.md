@@ -282,7 +282,7 @@ prevents the device being applied.[37]
 
 The available agents, with the doses the sources give:[38]
 
-  - **Low-molecular-weight heparin (LMWH, e.g. enoxaparin 30 mg twice
+  - **Low-molecular-weight heparin (LMWH, e.g. enoxaparin 30 mg twice
     daily or 40 mg once daily)**: the workhorse “gold-standard” agent,
     being subcutaneous, predictable, free of routine monitoring, and
     reversible with protamine.

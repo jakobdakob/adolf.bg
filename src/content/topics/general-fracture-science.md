@@ -82,7 +82,7 @@ properties:
   - **Strength** is the load required to cause failure. Stiffness and
     strength are distinct: titanium is far less stiff than steel yet of
     similar ultimate strength.[7]
-  - **Toughness** is the **area under the curve**, i.e. the energy
+  - **Toughness** is the **area under the curve**, i.e. the energy
     needed to break the material.[8]
   - **Ductile versus brittle**: a ductile material (steel) deforms
     greatly before failing, whereas a **brittle** material (PMMA, and to
@@ -296,7 +296,7 @@ because the joint injury dominates treatment and prognosis.[33]
 
 **Figure 10.** The AO/OTA bone-numbering scheme (1 humerus, 2
 radius/ulna, 3 femur, 4 tibia/fibula…), the first element of the
-alphanumeric fracture code. *Source: Kellam et al. (AO/OTA), via
+alphanumeric fracture code. *Source: Kellam et al. (AO/OTA), via
 Wikimedia Commons, CC BY-SA 4.0.*
 
 ## Physeal injuries - the Salter-Harris classification
@@ -338,116 +338,116 @@ metaphyseal fracture, the archetypal eponymous fracture. *Source: Lucien
 Monfils, via Wikimedia Commons, CC BY-SA 3.0.*
 
 # References
-1.  Skeletal Trauma p. 138.
+1.  Skeletal Trauma p. 138.
 
-2.  Skeletal Trauma p. 138. Osteogenesis imperfecta, a defect of type I
+2.  Skeletal Trauma p. 138. Osteogenesis imperfecta, a defect of type I
     collagen, demonstrates the point: bone becomes brittle and
     fracture-prone.
 
-3.  Skeletal Trauma pp. 138-139; AO p. 33.
+3.  Skeletal Trauma pp. 138-139; AO p. 33.
 
-4.  Skeletal Trauma pp. 139-140; Rockwood & Green p. 30. Because
+4.  Skeletal Trauma pp. 139-140; Rockwood & Green p. 30. Because
     trabecular stiffness/strength fall with roughly the cube of density,
     a small loss of bone density (osteoporosis) markedly weakens
     cancellous bone.
 
-5.  Rockwood & Green pp. 26-27; Skeletal Trauma pp. 131-134.
+5.  Rockwood & Green pp. 26-27; Skeletal Trauma pp. 131-134.
 
-6.  Rockwood & Green p. 26.
+6.  Rockwood & Green p. 26.
 
-7.  Rockwood & Green p. 27.
+7.  Rockwood & Green p. 27.
 
-8.  Skeletal Trauma p. 134.
+8.  Skeletal Trauma p. 134.
 
-9.  Rockwood & Green p. 27; AO p. 30.
+9.  Rockwood & Green p. 27; AO p. 30.
 
-10. Rockwood & Green pp. 29-30; Skeletal Trauma pp. 142-143.
+10. Rockwood & Green pp. 29-30; Skeletal Trauma pp. 142-143.
 
-11. Rockwood & Green p. 29; the strain-rate effect is real but modest.
+11. Rockwood & Green p. 29; the strain-rate effect is real but modest.
 
-12. Rockwood & Green p. 28; Skeletal Trauma p. 139. Femoral cortical
+12. Rockwood & Green p. 28; Skeletal Trauma p. 139. Femoral cortical
     ultimate strength: ~205 MPa compression, ~135 MPa tension, ~71
     MPa shear.
 
-13. Rockwood & Green p. 28; Skeletal Trauma pp. 134, 146.
+13. Rockwood & Green p. 28; Skeletal Trauma pp. 134, 146.
 
-14. Skeletal Trauma pp. 135-139; the principle is described though the
+14. Skeletal Trauma pp. 135-139; the principle is described though the
     eponym “Wolff’s law” is standard teaching.
 
-15. Rockwood & Green p. 34. Because bone is anisotropic, tensile failure
+15. Rockwood & Green p. 34. Because bone is anisotropic, tensile failure
     needs the least energy and compressive failure the most - patella in
     tension ~3 J, tibia in torsion ~10 J, vertebral body in
     compression ~100 J.
 
-16. Rockwood & Green p. 34.
+16. Rockwood & Green p. 34.
 
-17. Rockwood & Green p. 35; Skeletal Trauma p. 144.
+17. Rockwood & Green p. 35; Skeletal Trauma p. 144.
 
-18. Rockwood & Green p. 36; Skeletal Trauma p. 144. Higher energy than a
+18. Rockwood & Green p. 36; Skeletal Trauma p. 144. Higher energy than a
     simple transverse or oblique fracture.
 
-19. Rockwood & Green p. 36; Skeletal Trauma pp. 143-144.
+19. Rockwood & Green p. 36; Skeletal Trauma pp. 143-144.
 
-20. Rockwood & Green p. 37; Skeletal Trauma p. 145.
+20. Rockwood & Green p. 37; Skeletal Trauma p. 145.
 
-21. AO p. 35 names greenstick among inherently stable fractures; the
+21. AO p. 35 names greenstick among inherently stable fractures; the
     paediatric incomplete patterns are standard teaching not elaborated
     in these adult sources.
 
-22. Rockwood & Green p. 37; the ½mv² relationship is standard physics,
+22. Rockwood & Green p. 37; the ½mv² relationship is standard physics,
     the energy-comminution correlation is from Rockwood. Rapid
     separation of fracture surfaces also causes cavitation and
-    soft-tissue implosion (AO p. 30).
+    soft-tissue implosion (AO p. 30).
 
-23. Rockwood & Green p. 44; Skeletal Trauma p. 147. A 1 mm loss of
+23. Rockwood & Green p. 44; Skeletal Trauma p. 147. A 1 mm loss of
     cortical thickness halves screw-fixation strength.
 
-24. Rockwood & Green p. 227.
+24. Rockwood & Green p. 227.
 
-25. Rockwood & Green p. 230.
+25. Rockwood & Green p. 230.
 
-26. Rockwood & Green pp. 227-228. Infection rates rise with grade -
+26. Rockwood & Green pp. 227-228. Infection rates rise with grade -
     historically up to ~44% in type III.
 
-27. Rockwood & Green pp. 228-229 (Brumback & Jones).
+27. Rockwood & Green pp. 228-229 (Brumback & Jones).
 
-28. Rockwood & Green p. 230.
+28. Rockwood & Green p. 230.
 
-29. Rockwood & Green pp. 206-210 (Müller’s dictum); AO p. 59.
+29. Rockwood & Green pp. 206-210 (Müller’s dictum); AO p. 59.
 
-30. Rockwood & Green pp. 210-212; AO pp. 68-69.
+30. Rockwood & Green pp. 210-212; AO pp. 68-69.
 
-31. Rockwood & Green pp. 215-220; AO pp. 61, 69.
+31. Rockwood & Green pp. 215-220; AO pp. 61, 69.
 
-32. Rockwood & Green pp. 213-221; AO pp. 59-68.
+32. Rockwood & Green pp. 213-221; AO pp. 59-68.
 
-33. AO p. 66.
+33. AO p. 66.
 
 34. Standard paediatric teaching; the Salter-Harris system is not
     contained in these adult-fracture sources and is supplied here as
     established knowledge.
 
-35. Rockwood & Green pp. 208-226. Each is detailed in the relevant
+35. Rockwood & Green pp. 208-226. Each is detailed in the relevant
     regional topic.
 
-36. Skeletal Trauma p. 138.
+36. Skeletal Trauma p. 138.
 
-37. Rockwood & Green pp. 26-27.
+37. Rockwood & Green pp. 26-27.
 
-38. Rockwood & Green pp. 28-29; Skeletal Trauma p. 139.
+38. Rockwood & Green pp. 28-29; Skeletal Trauma p. 139.
 
-39. Rockwood & Green p. 28; Skeletal Trauma p. 146.
+39. Rockwood & Green p. 28; Skeletal Trauma p. 146.
 
-40. Rockwood & Green pp. 34-37.
+40. Rockwood & Green pp. 34-37.
 
-41. Rockwood & Green p. 37.
+41. Rockwood & Green p. 37.
 
-42. Rockwood & Green p. 44; Skeletal Trauma p. 147.
+42. Rockwood & Green p. 44; Skeletal Trauma p. 147.
 
-43. Rockwood & Green pp. 227-229.
+43. Rockwood & Green pp. 227-229.
 
-44. Rockwood & Green pp. 215-221; AO pp. 61-68.
+44. Rockwood & Green pp. 215-221; AO pp. 61-68.
 
 45. Standard paediatric teaching.
 
-46. Rockwood & Green pp. 206-212.
+46. Rockwood & Green pp. 206-212.

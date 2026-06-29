@@ -122,7 +122,7 @@ A clean exam point is the **gene-pair contrast** that WHO diagnosis now
 turns on. The histone-H3.3 mutations separate two giant-cell-rich
 cartilage/bone tumours: **chondroblastoma carries H3-3B K36M, giant cell
 tumour carries H3-3A G34W**, and immunohistochemistry for the mutant
-proteins distinguishes them.[^1]
+proteins distinguishes them.[14]
 
 ## I.3 Diagnostic Approach
 
@@ -188,7 +188,7 @@ THE INDIVIDUAL TUMOURS
 
 **Synonyms / WHO.** Ivory exostosis; the medullary form is the
 **enostosis / “bone island.”** WHO 2020: benign osteogenic tumour,
-**ICD-O 9180/0**.[^2]
+**ICD-O 9180/0**.[15]
 
 **Definition.** A benign tumour of dense, well-differentiated lamellar
 (cortical-type) bone arising on a bone surface; when it lies within the
@@ -212,13 +212,13 @@ osteomas, epidermoid cysts, and desmoid tumours).
 attached to the cortex. The **bone island** is a homogeneously dense
 focus with a “brush-border” of thorny radiations blending into the
 trabeculae. It is **cold or only mildly warm on bone scan**, the single
-feature distinguishing it from an osteoblastic metastasis.[^3]
+feature distinguishing it from an osteoblastic metastasis.[16]
 
 **Pathology.** Dense mature lamellar bone resembling compact cortex,
 with sparse cellular activity and **no cartilage cap** (distinguishing
 it from osteochondroma and parosteal osteosarcoma). Sinus and other
 facial osteomas, by contrast, are built of *immature* bone with active
-surface modelling and are histologically akin to osteoblastoma.[^4]
+surface modelling and are histologically akin to osteoblastoma.[17]
 
 **Differential diagnosis.** Parosteal osteosarcoma is the lesion to
 exclude for a surface osteoma. An osteoma has exquisitely smooth
@@ -246,7 +246,7 @@ Commons.</strong></p></figcaption>
 ## II.2 Osteoid Osteoma
 
 **Synonyms / WHO.** Schajowicz’s “circumscribed osteoblastoma.” WHO
-2020: benign osteogenic tumour, **ICD-O 9191/0**.[^5]
+2020: benign osteogenic tumour, **ICD-O 9191/0**.[18]
 
 **Definition.** A small (usually \<1.5-2 cm), self-limited benign
 bone-forming tumour consisting of a vascular **nidus** of woven bone and
@@ -262,7 +262,7 @@ predominance ~2:1**.
 occasionally *FOSB*). The classic night pain is driven by
 **prostaglandins (PGE₂) and COX-2** within the nidus, which is the basis
 both for the dramatic NSAID response and for the inflammatory/synovial
-changes.[^6]
+changes.[19]
 
 **Sites.** Long bones, especially the **femur (the femoral neck is the
 single commonest site) and tibia**. About 10 to 15 % are spinal, almost
@@ -274,7 +274,7 @@ obtained in roughly three-quarters of patients rather than all, the pain
 is classically aggravated by alcohol, and unmyelinated nerve fibres
 within the nidus are thought to be its substrate; an intra-articular
 nidus (e.g. at the hip) causes a reactive synovitis with little
-surrounding sclerosis.[^7] A posterior-element spinal lesion causes a
+surrounding sclerosis.[20] A posterior-element spinal lesion causes a
 **painful scoliosis** (concave toward the lesion, no rotation); a
 juxta-physeal lesion in a child can accelerate growth; an
 intra-articular lesion causes synovitis mimicking arthritis.
@@ -284,7 +284,7 @@ sclerotic dot, surrounded by dense reactive sclerosis**. Bone
 scintigraphy is **invariably hot**, often with a “double-density” sign.
 **Thin-section CT is the key test to localise the nidus**; MRI tends to
 overcall the surrounding oedema and can mimic a more aggressive
-lesion.[^8]
+lesion.[21]
 
 **Pathology.** A reddish, gritty nidus of interlacing woven-bone/osteoid
 trabeculae rimmed by plump osteoblasts in a richly vascular stroma,
@@ -325,7 +325,7 @@ Wikimedia Commons.</strong></p></figcaption>
 ## II.3 Osteoblastoma
 
 **Synonyms / WHO.** “Giant osteoid osteoma.” WHO 2020 reclassifies it as
-**intermediate, locally aggressive: ICD-O 9200/1**.[^9]
+**intermediate, locally aggressive: ICD-O 9200/1**.[22]
 
 **Definition.** A bone-forming tumour histologically similar to osteoid
 osteoma but **larger (\>2 cm), with greater growth potential and less
@@ -361,12 +361,12 @@ critical malignant differential is **osteosarcoma**, distinguished by a
 **permeative margin, atypical mitoses, lace-like osteoid embedding
 individual cells, necrosis, and malignant cartilage**. The **epithelioid
 (aggressive) variant** contains large epithelioid osteoblasts and is
-locally aggressive but does not metastasise.[^10] Mirra cautions that
+locally aggressive but does not metastasise.[23] Mirra cautions that
 most lesions labelled “aggressive osteoblastoma,” and most reports of an
 osteoblastoma “transforming,” are in reality low-grade
 osteoblastoma-like osteosarcomas misclassified from the outset,
 separated by permeation and entrapment of host lamellar bone rather than
-by cytology.[^11]
+by cytology.[24]
 
 **Treatment.** Stage-dependent: intralesional curettage with adjuvant
 for most lesions, **marginal or wide resection for stage-3** disease and
@@ -391,7 +391,7 @@ Commons.</strong></p></figcaption>
 ## II.4 Osteochondroma (and Hereditary Multiple Exostoses)
 
 **Synonyms / WHO.** Osteocartilaginous exostosis. WHO 2020: benign
-chondrogenic tumour, **ICD-O 9210/0**.[^12]
+chondrogenic tumour, **ICD-O 9210/0**.[25]
 
 **Definition.** A bony projection capped by cartilage, arising on the
 surface of a bone, whose cortex and **medullary cavity are continuous
@@ -436,10 +436,10 @@ chondrosarcoma**, with a risk of **~1 % for a solitary lesion** and
 substantially higher (cited ~5-20 %) in hereditary multiple exostoses.
 Suspect it when an osteochondroma **grows after skeletal maturity,
 becomes painful, or develops a cartilage cap \>1.5-2 cm in an adult**;
-bone scan is unreliable for this distinction.[^13] Bullough frames the
+bone scan is unreliable for this distinction.[26] Bullough frames the
 lesion as a herniation of physeal cartilage through the periosteal bone
 cuff that ossifies and stops growing at physeal closure, so a bosselated
-cap that thickens again after maturity is the alarm sign.[^14]
+cap that thickens again after maturity is the alarm sign.[27]
 
 **Hereditary multiple exostoses (HME).** Autosomal dominant, caused by
 germline **EXT1/EXT2** mutations, with **incomplete penetrance in
@@ -489,7 +489,7 @@ undermodelling (both knees). Bovée, Orphanet J Rare Dis 2008, CC BY-SA
 ## II.5 Enchondroma (and Enchondromatosis; Periosteal Chondroma)
 
 **Synonyms / WHO.** Central chondroma. WHO 2020: benign chondrogenic
-tumour, **ICD-O 9220/0**.[^15]
+tumour, **ICD-O 9220/0**.[28]
 
 **Definition.** A benign intramedullary hyaline-cartilage neoplasm
 lacking the features of chondrosarcoma.
@@ -534,13 +534,13 @@ radiological red flags for low-grade chondrosarcoma (now termed
 **atypical cartilaginous tumour** in the appendicular skeleton) are
 **deep endosteal scalloping (\>2/3 of the cortex), focal cortical
 thickening or destruction, a soft-tissue mass, size \>4-5 cm, and rest
-pain**.[^16] Mirra adds two rules. Malignant risk is roughly
+pain**.[29] Mirra adds two rules. Malignant risk is roughly
 proportional to the *volume* of dysplastic cartilage (negligible for a
 small hand lesion, but 20 to 50 % over a lifetime in extensive
 Ollier/Maffucci disease). And because about a quarter of chondrosarcomas
 are too well differentiated to show atypia, low-power **architecture**,
 namely host-bone entrapment, permeation, and a soft-tissue mass,
-outweighs cytology.[^17]
+outweighs cytology.[30]
 
 **Periosteal (juxtacortical) chondroma.** A surface cartilage tumour
 causing saucer-shaped cortical erosion with a sclerotic base and a
@@ -557,7 +557,7 @@ cartilage from the physis. **Maffucci syndrome** = enchondromatosis
 malignant-transformation risk** (Ollier ~30-40 %; **Maffucci the highest
 of all, approaching certainty over a lifetime**), including non-skeletal
 malignancies (gliomas, ovarian tumours, and in Maffucci visceral
-angiosarcoma).[^18]
+angiosarcoma).[31]
 
 **Treatment.** Observe the asymptomatic, non-weakening lesion.
 **Curettage and grafting** for the symptomatic, structurally weakening,
@@ -583,7 +583,7 @@ Commons.</strong></p></figcaption>
 ## II.6 Chondroblastoma
 
 **Synonyms / WHO.** Codman tumour. WHO 2020: benign chondrogenic tumour,
-**ICD-O 9230/0**.[^19]
+**ICD-O 9230/0**.[32]
 
 **Definition.** A benign cartilage tumour of immature chondroblasts
 arising in an **epiphysis or apophysis** of the skeletally immature.
@@ -617,7 +617,7 @@ osteoclast-type giant cells, islands of chondroid matrix, and **delicate
 marks the chondroblasts but not the giant cells (unlike giant cell
 tumour); the chicken-wire calcification is pericellular deposition on
 the reticulin sheath, seen on CT in about half of cases; and a secondary
-aneurysmal-bone-cyst component supervenes in 10 to 15 %.[^20]
+aneurysmal-bone-cyst component supervenes in 10 to 15 %.[33]
 
 **Differential diagnosis.** Giant cell tumour (skeletally mature, no
 chondroid matrix), Langerhans cell histiocytosis (epiphyseal
@@ -655,7 +655,7 @@ Commons.</strong></p></figcaption>
 ## II.7 Chondromyxoid Fibroma
 
 **Synonyms / WHO.** Fibromyxoid chondroma. WHO 2020: benign chondrogenic
-tumour, **ICD-O 9241/0**.[^21]
+tumour, **ICD-O 9241/0**.[34]
 
 **Definition.** The rarest benign cartilage tumour, a lobulated lesion
 of chondroid, myxoid, and fibrous tissue arising in a **metaphysis**.
@@ -686,7 +686,7 @@ atypical mitoses are absent**, since the atypia is degenerative.
 S100/SOX9-positive. This near-total absence of mitoses is the decisive
 point against chondrosarcoma, and intralesional calcification is
 radiographically absent in over 98 % of cases, which is why Bullough
-favours en-bloc excision over simple curettage.[^22]
+favours en-bloc excision over simple curettage.[35]
 
 **Differential diagnosis.** **Chondrosarcoma** (the dangerous trap, both
 ways: use young age, sharp lobulated margins, and the absence of
@@ -714,7 +714,7 @@ PMC.</strong></p></figcaption>
 ## II.8 Giant Cell Tumour of Bone (Osteoclastoma)
 
 **Synonyms / WHO.** Osteoclastoma. WHO 2020: **intermediate (locally
-aggressive and rarely metastasising), ICD-O 9250/1**.[^23]
+aggressive and rarely metastasising), ICD-O 9250/1**.[36]
 
 **Definition.** A locally aggressive neoplasm of **neoplastic
 mononuclear stromal cells** with admixed macrophages and **uniformly
@@ -757,7 +757,7 @@ identical to the stromal-cell nuclei**, the single most useful
 diagnostic feature. There is little collagen and no tumour matrix;
 mitoses (typical, not atypical) are frequent; secondary
 aneurysmal-bone-cyst change and a fibrohistiocytic (xanthomatous)
-reaction are common.[^24]
+reaction are common.[37]
 
 **Differential diagnosis.** **Brown tumour of hyperparathyroidism
 (always check calcium, phosphate, and PTH)**, especially if the lesion
@@ -812,7 +812,7 @@ Wikimedia Commons.</strong></p></figcaption>
 
 **Synonyms / WHO.** Angioma. WHO 2020: benign vascular tumour, **ICD-O
 9120/0** (pathogenesis unknown; molecular pathology not clinically
-relevant).[^25]
+relevant).[38]
 
 **Definition.** A benign lesion of capillary, cavernous, or venous
 vascular channels, often regarded as a malformation rather than a true
@@ -871,7 +871,7 @@ Commons.</strong></p></figcaption>
 ## II.10 Desmoplastic Fibroma of Bone
 
 **Synonyms / WHO.** Desmoid tumour of bone. WHO 2020: **intermediate,
-locally aggressive, ICD-O 8823/1**.[^26]
+locally aggressive, ICD-O 8823/1**.[39]
 
 **Definition.** The **intraosseous counterpart of soft-tissue
 fibromatosis (desmoid)**: a rare, locally aggressive tumour of bland
@@ -907,7 +907,7 @@ which recurs in ~40-50 %. It is the benign bone tumour that behaves most
 like a low-grade fibrosarcoma, yet it does **not metastasise**. Mirra
 separates it from low-grade fibrosarcoma by its extreme nuclear monotony
 and absence of atypical mitoses; the metastatic potential is nil, versus
-5-20 % for low-grade fibrosarcoma.[^27]
+5-20 % for low-grade fibrosarcoma.[40]
 
 **Exam pearls.** *Bone counterpart of soft-tissue desmoid; most
 collagen-rich/hypocellular fibrous lesion; locally aggressive, recurs
@@ -1099,6 +1099,35 @@ taken from the WHO Classification of Tumours: Soft Tissue and Bone
 Tumours, 5th ed. (2020); denosumab for giant cell tumour and
 radiofrequency ablation for osteoid osteoma reflect current practice.*
 
+14. WHO Classification of Tumours: Soft Tissue and Bone Tumours, 5th ed. (IARC, 2020): chondroblastoma p.370 (H3-3B K36M); giant cell tumour of bone p.452 (H3-3A G34W in ≥95 %, ~90 % G34W). The originating study is Behjati S, et al. Distinct H3F3A and H3F3B driver mutations define chondroblastoma and giant cell tumour of bone. *Nat Genet* 2013;45:1479-82.
+15. WHO 2020 p.401-403: osteoma 9180/0; “a benign tumour arising on the surface of bone and composed primarily of lamellar/cortical-type bone”; multiple osteomas suggest Gardner syndrome (*APC*), multiple bone islands suggest osteopoikilosis (*LEMD3*).
+16. Bone island cold/mildly-warm on scintigraphy vs hot osteoid osteoma and hot osteoblastic metastasis: Schajowicz p.47; Campanacci p.387; Greenspan p.1462, Table 17.2.
+17. Bullough, *Orthopaedic Pathology*, 4th ed., pp.385-387.
+18. WHO 2020 p.404-405: osteoid osteoma 9191/0; “a benign bone-forming tumour characterized by small size (\<2 cm) and limited growth potential”; *FOS* rearrangement in 91 %, detectable by anti-FOS immunohistochemistry; 10-12 % of primary bone tumours, M:F 2:1.
+19. Prostaglandin/COX-2 mechanism of pain: Campanacci p.409; Dorfman p.157-159; Makley & Dunn, *Lancet* 1982 (cited WHO 2020).
+20. Mirra, *Bone Tumors* (1989), pp.248-250.
+21. CT is the modality of choice for the nidus; MRI overcalls peritumoral oedema: Greenspan p.1453; Campanacci p.404-405; Dorfman p.159.
+22. WHO 2020 p.407-408: osteoblastoma 9200/1, “a locally aggressive bone-forming tumour, morphologically similar to osteoid osteoma but … generally \>2 cm”; *FOS* rearrangement in 87 %, *FOSB* in a smaller fraction; \<1 % of primary bone tumours, peak 2nd-3rd decades, M:F 2:1.
+23. Permeative margin is the key discriminator of osteosarcoma from osteoblastoma: Campanacci p.430; Dorfman p.186; epithelioid/aggressive osteoblastoma (Dorfman & Weiss 1984) - Dorfman p.193, Schajowicz p.80.
+24. Mirra, *Bone Tumors* (1989), p.422.
+25. WHO 2020 p.366: osteochondroma 9210/0; “a benign cartilaginous neoplasm … a bony projection covered by a cartilage cap … containing a marrow cavity continuous with that of the underlying bone”; caused by **biallelic inactivation of EXT1 or EXT2**; ~8 % of all and ~35 % of benign bone tumours; ~15 % have multiple lesions.
+26. Solitary malignant transformation ~1 % (Schajowicz p.188; Campanacci p.205; Greenspan p.1539); HME ~5-20 % (Campanacci p.215; Schajowicz p.188; Greenspan p.1556). Cap \>1.5-2 cm in an adult is suspicious but there is no absolute cut-off (Schajowicz p.184).
+27. Bullough, *Orthopaedic Pathology*, 4th ed., pp.416-418.
+28. WHO 2020 p.363-364: enchondroma 9220/0; “a benign hyaline cartilaginous neoplasm that arises within the medullary cavity”; caused by **IDH1/IDH2 mutations** (52 % of sporadic enchondromas, ~90 % in enchondromatosis); usually 3rd-4th decades, sexes equal.
+29. Enchondroma vs atypical cartilaginous tumour/low-grade chondrosarcoma: Greenspan p.1527-1528; Wold p.241; the IDH mutation does not discriminate (WHO 2020 p.364). Hand cartilage tumours are almost never malignant: Campanacci p.227.
+30. Mirra, *Bone Tumors* (1989), pp.496-500.
+31. Ollier/Maffucci = somatic mosaic IDH1/IDH2 (WHO 2020; Amary et al., *Nat Genet* 2011). Malignant risk: Ollier ~30-40 % (Campanacci p.254); Maffucci highest, with visceral and non-skeletal malignancies (Campanacci p.254; Schajowicz p.156).
+32. WHO 2020 p.369-370: chondroblastoma 9230/0; “a benign tumour … with a predilection for epiphyseal or apophyseal regions, composed of chondroblastic cells and islands of eosinophilic chondroid matrix”; defined by **H3-3B (H3F3B) K36M**; \<1 % of bone tumours, 10-25 years, M:F 2:1.
+33. Mirra, *Bone Tumors* (1989), pp.629-639; Bullough, *Orthopaedic Pathology*, 4th ed., p.426.
+34. WHO 2020 p.372-373: chondromyxoid fibroma 9241/0; “a benign lobulated cartilaginous neoplasm with a zonal architecture composed of chondroid, myxoid, and myofibroblastic areas”; driven by **GRM1 rearrangement/promoter-swap upregulation**; rare, most often 2nd-3rd decades, male-predominant.
+35. Mirra, *Bone Tumors* (1989), pp.644-654; Bullough, *Orthopaedic Pathology*, 4th ed., p.429.
+36. WHO 2020 p.450-452: giant cell tumour of bone 9250/1; “a locally aggressive and rarely metastasizing neoplasm composed of neoplastic mononuclear stromal cells … admixed with macrophages and osteoclast-like giant cells. A small subset of cases are malignant”; **≥95 % harbour H3-3A (H3F3A) mutations, ~90 % G34W**; 4-5 % of all and ~20 % of benign bone tumours; peak 20-45 years; slight female predominance; lung metastases in 3-7 %; malignant GCT \<10 %.
+37. The giant-cell nuclei matching the stromal-cell nuclei, with even giant-cell distribution and no reactive matrix, distinguishes GCT from the clustered giant cells of reparative granuloma/brown tumour: Dorfman p.705, p.716; Schajowicz p.301-302; Campanacci p.128.
+38. WHO 2020 p.436-437: haemangioma 9120/0; “a benign tumour … composed of vascular channels of small or large calibre”; pathogenesis “unknown”, molecular pathology “not clinically relevant”; found at autopsy in vertebrae of ~10 % of adults, symptomatic in \<1 %.
+39. WHO 2020 p.432-433: desmoplastic fibroma 8823/1; “an extremely rare locally aggressive bone tumour composed of bland spindle cells set in abundant collagen, with histology reminiscent of desmoid-type fibromatosis”; no consistent defining alteration - diagnosis of exclusion (absent *GNAS* excludes fibrous dysplasia; absent *MDM2* amplification excludes low-grade central osteosarcoma); \<0.1 % of bone tumours.
+40. Mirra, *Bone Tumors* (1989), pp.776-777.
+
+
 # Figure Credits and Licences
 
 All figures are radiographs, CT images, clinical images, or
@@ -1145,127 +1174,3 @@ under its original licence, attributed below.
   Commons.
   <https://commons.wikimedia.org/wiki/File:Giant_cell_tumour_of_bone_-_intermed_mag.jpg>
 - Fig 14 Vertebral haemangioma, CT - Hellerhoff, CC BY-SA 3.0, Wikimedia
-  Commons.
-  <https://commons.wikimedia.org/wiki/File:Haemangiomwirbel_-_CT_axial_und_sag_001.jpg>
-
-[^1]: WHO Classification of Tumours: Soft Tissue and Bone Tumours, 5th
-    ed. (IARC, 2020): chondroblastoma p.370 (H3-3B K36M); giant cell
-    tumour of bone p.452 (H3-3A G34W in ≥95 %, ~90 % G34W). The
-    originating study is Behjati S, et al. Distinct H3F3A and H3F3B
-    driver mutations define chondroblastoma and giant cell tumour of
-    bone. *Nat Genet* 2013;45:1479-82.
-
-[^2]: WHO 2020 p.401-403: osteoma 9180/0; “a benign tumour arising on
-    the surface of bone and composed primarily of lamellar/cortical-type
-    bone”; multiple osteomas suggest Gardner syndrome (*APC*), multiple
-    bone islands suggest osteopoikilosis (*LEMD3*).
-
-[^3]: Bone island cold/mildly-warm on scintigraphy vs hot osteoid
-    osteoma and hot osteoblastic metastasis: Schajowicz p.47; Campanacci
-    p.387; Greenspan p.1462, Table 17.2.
-
-[^4]: Bullough, *Orthopaedic Pathology*, 4th ed., pp.385-387.
-
-[^5]: WHO 2020 p.404-405: osteoid osteoma 9191/0; “a benign bone-forming
-    tumour characterized by small size (\<2 cm) and limited growth
-    potential”; *FOS* rearrangement in 91 %, detectable by anti-FOS
-    immunohistochemistry; 10-12 % of primary bone tumours, M:F 2:1.
-
-[^6]: Prostaglandin/COX-2 mechanism of pain: Campanacci p.409; Dorfman
-    p.157-159; Makley & Dunn, *Lancet* 1982 (cited WHO 2020).
-
-[^7]: Mirra, *Bone Tumors* (1989), pp.248-250.
-
-[^8]: CT is the modality of choice for the nidus; MRI overcalls
-    peritumoral oedema: Greenspan p.1453; Campanacci p.404-405; Dorfman
-    p.159.
-
-[^9]: WHO 2020 p.407-408: osteoblastoma 9200/1, “a locally aggressive
-    bone-forming tumour, morphologically similar to osteoid osteoma but
-    … generally \>2 cm”; *FOS* rearrangement in 87 %, *FOSB* in a
-    smaller fraction; \<1 % of primary bone tumours, peak 2nd-3rd
-    decades, M:F 2:1.
-
-[^10]: Permeative margin is the key discriminator of osteosarcoma from
-    osteoblastoma: Campanacci p.430; Dorfman p.186;
-    epithelioid/aggressive osteoblastoma (Dorfman & Weiss 1984) -
-    Dorfman p.193, Schajowicz p.80.
-
-[^11]: Mirra, *Bone Tumors* (1989), p.422.
-
-[^12]: WHO 2020 p.366: osteochondroma 9210/0; “a benign cartilaginous
-    neoplasm … a bony projection covered by a cartilage cap … containing
-    a marrow cavity continuous with that of the underlying bone”; caused
-    by **biallelic inactivation of EXT1 or EXT2**; ~8 % of all and ~35 %
-    of benign bone tumours; ~15 % have multiple lesions.
-
-[^13]: Solitary malignant transformation ~1 % (Schajowicz p.188;
-    Campanacci p.205; Greenspan p.1539); HME ~5-20 % (Campanacci p.215;
-    Schajowicz p.188; Greenspan p.1556). Cap \>1.5-2 cm in an adult is
-    suspicious but there is no absolute cut-off (Schajowicz p.184).
-
-[^14]: Bullough, *Orthopaedic Pathology*, 4th ed., pp.416-418.
-
-[^15]: WHO 2020 p.363-364: enchondroma 9220/0; “a benign hyaline
-    cartilaginous neoplasm that arises within the medullary cavity”;
-    caused by **IDH1/IDH2 mutations** (52 % of sporadic enchondromas,
-    ~90 % in enchondromatosis); usually 3rd-4th decades, sexes equal.
-
-[^16]: Enchondroma vs atypical cartilaginous tumour/low-grade
-    chondrosarcoma: Greenspan p.1527-1528; Wold p.241; the IDH mutation
-    does not discriminate (WHO 2020 p.364). Hand cartilage tumours are
-    almost never malignant: Campanacci p.227.
-
-[^17]: Mirra, *Bone Tumors* (1989), pp.496-500.
-
-[^18]: Ollier/Maffucci = somatic mosaic IDH1/IDH2 (WHO 2020; Amary et
-    al., *Nat Genet* 2011). Malignant risk: Ollier ~30-40 % (Campanacci
-    p.254); Maffucci highest, with visceral and non-skeletal
-    malignancies (Campanacci p.254; Schajowicz p.156).
-
-[^19]: WHO 2020 p.369-370: chondroblastoma 9230/0; “a benign tumour …
-    with a predilection for epiphyseal or apophyseal regions, composed
-    of chondroblastic cells and islands of eosinophilic chondroid
-    matrix”; defined by **H3-3B (H3F3B) K36M**; \<1 % of bone tumours,
-    10-25 years, M:F 2:1.
-
-[^20]: Mirra, *Bone Tumors* (1989), pp.629-639; Bullough, *Orthopaedic
-    Pathology*, 4th ed., p.426.
-
-[^21]: WHO 2020 p.372-373: chondromyxoid fibroma 9241/0; “a benign
-    lobulated cartilaginous neoplasm with a zonal architecture composed
-    of chondroid, myxoid, and myofibroblastic areas”; driven by **GRM1
-    rearrangement/promoter-swap upregulation**; rare, most often 2nd-3rd
-    decades, male-predominant.
-
-[^22]: Mirra, *Bone Tumors* (1989), pp.644-654; Bullough, *Orthopaedic
-    Pathology*, 4th ed., p.429.
-
-[^23]: WHO 2020 p.450-452: giant cell tumour of bone 9250/1; “a locally
-    aggressive and rarely metastasizing neoplasm composed of neoplastic
-    mononuclear stromal cells … admixed with macrophages and
-    osteoclast-like giant cells. A small subset of cases are malignant”;
-    **≥95 % harbour H3-3A (H3F3A) mutations, ~90 % G34W**; 4-5 % of all
-    and ~20 % of benign bone tumours; peak 20-45 years; slight female
-    predominance; lung metastases in 3-7 %; malignant GCT \<10 %.
-
-[^24]: The giant-cell nuclei matching the stromal-cell nuclei, with even
-    giant-cell distribution and no reactive matrix, distinguishes GCT
-    from the clustered giant cells of reparative granuloma/brown tumour:
-    Dorfman p.705, p.716; Schajowicz p.301-302; Campanacci p.128.
-
-[^25]: WHO 2020 p.436-437: haemangioma 9120/0; “a benign tumour …
-    composed of vascular channels of small or large calibre”;
-    pathogenesis “unknown”, molecular pathology “not clinically
-    relevant”; found at autopsy in vertebrae of ~10 % of adults,
-    symptomatic in \<1 %.
-
-[^26]: WHO 2020 p.432-433: desmoplastic fibroma 8823/1; “an extremely
-    rare locally aggressive bone tumour composed of bland spindle cells
-    set in abundant collagen, with histology reminiscent of desmoid-type
-    fibromatosis”; no consistent defining alteration - diagnosis of
-    exclusion (absent *GNAS* excludes fibrous dysplasia; absent *MDM2*
-    amplification excludes low-grade central osteosarcoma); \<0.1 % of
-    bone tumours.
-
-[^27]: Mirra, *Bone Tumors* (1989), pp.776-777.

@@ -461,6 +461,8 @@ inserted with each image. All images are openly licensed [CC0 / CC BY /
 CC BY-SA] or used under their stated terms; any non-commercial [NC]
 item is flagged as such and must not be used in a commercial product.)*
 
+# References
+
 1.  Campbell’s *Operative Orthopaedics*, Tibia Vara (Blount Disease),
     p. 1439.
 

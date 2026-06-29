@@ -432,12 +432,12 @@ exists.
 
 On the use of MRI for ligament assessment the literature openly
 disagrees. In awake, alert, intact patients with midline tenderness,
-**Resnick et al. (830 patients)** found that CT detected all clinically
+**Resnick et al. (830 patients)** found that CT detected all clinically
 relevant injuries and that complementary MRI added no benefit; **Ackland
-et al. (178 patients)** found MRI changed management 22% of the
-time.[64] For the obtunded patient, **James et al. (1,535 patients)**
+et al. (178 patients)** found MRI changed management 22% of the
+time.[64] For the obtunded patient, **James et al. (1,535 patients)**
 identified eleven unstable surgical injuries detectable only by MRI,
-while **Schoenfeld et al. (8,060 propensity-matched patients)** found
+while **Schoenfeld et al. (8,060 propensity-matched patients)** found
 MRI revealed new injuries in only 8%, a minority clinically significant;
 EAST’s 2016 guidance “conditionally” endorses collar removal after a
 high-quality negative CT.[65] The authors’ pragmatic position: **CT
@@ -642,7 +642,7 @@ Nonunion of type II is common, reported around **30%** (Greene et al.,
 340 injuries), with as little as 66% union in a halo and under 50% in
 some series, and **displacement of 50% or more raises the risk of both
 nonunion and mortality regardless of treatment**.[106] The danger of
-nonunion is not academic. Kepler et al. found a **17% incidence of new
+nonunion is not academic. Kepler et al. found a **17% incidence of new
 neurological deficit** after subsequent trauma in the presence of an
 established odontoid nonunion, the main argument for operating on the
 majority.[107] Type III fractures fare well externally. Type II
@@ -1292,7 +1292,7 @@ from a catastrophe.
 63. Rockwood & Green’s *Fractures in Adults*, p.3108.
 
 64. Rockwood & Green’s *Fractures in Adults*, p.2940 (Resnick et
-    al. versus Ackland et al.).
+    al. versus Ackland et al.).
 
 65. Rockwood & Green’s *Fractures in Adults*, pp.2940-2941.
 

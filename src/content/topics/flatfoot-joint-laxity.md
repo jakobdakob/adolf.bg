@@ -580,6 +580,8 @@ CC0/public-domain, CC BY or CC BY-SA (no non-commercial files).
 redistributed derivative keep the same licence); the CC0 images are
 public-domain.*
 
+# References
+
 1.  Mosca, *Principles & Management of Pediatric Foot & Ankle*,
     pp.33-34, 37; Lovell & Winter, p.4441.
 

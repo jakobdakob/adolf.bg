@@ -699,6 +699,8 @@ inserted with each image. All images are openly licensed [CC0 / CC BY /
 CC BY-SA] or used under their stated terms; any non-commercial [NC]
 item is flagged as such and must not be used in a commercial product.)*
 
+# References
+
 1.  Lovell & Winter, *Pediatric Orthopaedics*, ch. 14 Cerebral Palsy
     (Graham, Thomason, Novacheck), pp. 506-507; the
     static-encephalopathy / progressive-musculoskeletal-pathology

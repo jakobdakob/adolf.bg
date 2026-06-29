@@ -570,7 +570,7 @@ all.
     pressure).
 
 5.  Rockwood & Green’s *Fractures in Adults*, pp.1809-1810, 1812
-    (Lippitt et al. concavity-compression).
+    (Lippitt et al. concavity-compression).
 
 6.  Rockwood & Green’s *Fractures in Adults*, pp.1808, 1811.
 
@@ -608,7 +608,7 @@ all.
 
 19. Rockwood & Matsen’s *The Shoulder*, pp.597-598; Rockwood & Green’s
     *Fractures in Adults*, pp.1783-1785, 1793-1794 (Rowe & Zarins 79%
-    missed; Xu et al. 73% missed when only AP/lateral taken).
+    missed; Xu et al. 73% missed when only AP/lateral taken).
 
 20. Rockwood & Green’s *Fractures in Adults*, pp.1785, 1793-1794.
 

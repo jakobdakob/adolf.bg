@@ -730,6 +730,8 @@ CC0, CC BY or CC BY-SA (no non-commercial files).
 *CC BY-SA images require that any redistributed derivative carry the
 same share-alike licence.*
 
+# References
+
 1.  Osteonecrosis (Koo, Mont & Jones), pp.20, 48.
 
 2.  Osteonecrosis, pp.20, 89.
